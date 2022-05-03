@@ -1,0 +1,89 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 312,
+    "author": {
+        "fullname": "جهاد جمال",
+        "id": "5f2149e9163be3072c377619",
+        "photo": {
+            "name": "1596017128_50.jpg",
+            "path": "authors/1596017128_50.jpg"
+        }
+    },
+    "caption": "خديجة عرفات توفّيت في القاهرة عام 2018 (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">وفاة شقيقة الرئيس الراحل ياسر عرفات، خديجة عرفات، في أغسطس/آب الجاري.</p>\r\n",
+    "country": "PS",
+    "created_at": "2020-08-13 11:21:55",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f34f8231dd585076555de59",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقق &quot;مسبار&quot; من الخبر المتداول ووجد أنّه مضلّل، إذ أن خديجة عرفات توفّيت بتاريخ 11 أغسطس/آب 2018 في العاصمة المصرية، القاهرة، وليس في العام الجاري.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><span dir=\"LTR\" lang=\"AR-SA\"><img id=\"صورة_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/investigation_4y722ww67.jpg\" style=\"height:246pt; width:415.2pt\" /> </span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">تداولت صفحات على موقع التواصل الاجتماعي فيسبوك، خبراً مفاده وفاة خديجة عرفات، شقيقة الرئيس الفلسطيني الراحل، ياسر عرفات، بتاريخ 11 أغسطس/آب الجاري.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img id=\"Picture_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/origin_ibeyks8h7.jpg\" style=\"height:436.2pt; width:415.2pt\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img id=\"Picture_x0020_4\" src=\"https://images-prod.misbar.com/articlebody/origin_okq60eyjn.jpg\" style=\"height:525pt; width:415.2pt\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 130,
+        "left": 1.71343994140625,
+        "path": "articles/1597306915GettyImages-51743089.jpg",
+        "top": 16.43115234375,
+        "totalHeight": 163,
+        "totalWidth": 234,
+        "watermark_path": "articles/watermark-1597306915GettyImages-51743089.jpg",
+        "width": 231
+    },
+    "post_date": "2020-08-13T11:17:00.000+03:00",
+    "published": [
+        {
+            "link": "https://facebook.com/story.php?story_fbid=340326187000206&id=100030684813906",
+            "name": "طولكرم بلدنا ",
+            "path": "published/0_1597306914_طولكرم.jpg"
+        },
+        {
+            "link": "https://facebook.com/story.php?story_fbid=184980653020443&id=104481161070393",
+            "name": "القلعة على المباشر ",
+            "path": "published/1_1597306914_القلعة.jpg"
+        },
+        {
+            "link": "https://facebook.com/story.php?story_fbid=2456306701335351&id=1643094642656565",
+            "name": "I'm Palestinian-عشقي لفلسطين ",
+            "path": "published/2_1597306914_عشقي لفلسطين.jpg"
+        },
+        {
+            "link": "https://facebook.com/story.php?story_fbid=166623318262892&id=100047456735932",
+            "name": "شموع الأمل ",
+            "path": "published/3_1597306914_شموع الامل.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.yaf.ps/page-203-ar.html",
+            "name": "مؤسسة ياسر عرفات",
+            "path": "sources/0_1597306915_مؤسسة ياسر عرفات.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "خديجة عرفات توفيّت عام 2018، وليس العام الجاري",
+    "updated_at": "2020-09-25 11:54:38",
+    "url_path": "/factcheck/2020/08/13/خديجة-عرفات-توفيت-عام-2018-وليس-العام-الجاري"
+}

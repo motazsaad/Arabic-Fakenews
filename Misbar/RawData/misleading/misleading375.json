@@ -1,0 +1,150 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 179,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "المسلسل اللبناني 6:07 (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">مقطع فيديو جديد للحظة محاولة فوج اطفاء بيروت فتح باب العنبر رقم 12 وحدوث الانفجار الأول في مرفأ بيروت.</p>\r\n",
+    "country": "LB",
+    "created_at": "2020-11-07 14:32:02",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 3,
+    "id": "5fa685b2d61e9b21d9580684",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;<a href=\"https://misbar.com/\" style=\"color:#0563c1; text-decoration:underline\" target=\"_blank\">مسبار</a>&quot; من المنشورات المتداولة ووجد أن الادعاء مضلل، <a href=\"https://shahid.mbc.net/en/series/Beirut-6%3A07-season-1-episode-1/episode-816983\" style=\"color:#0563c1; text-decoration:underline\" target=\"_blank\">فالمقطع الأصلي</a> عبارة عن مشهد تمثيلي وليس حقيقيًّا.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">عُرض المقطع ضمن الحلقة الأولى من المسلسل اللبناني 6:07، الذي بدأ عرضه على منصة شاهد <span dir=\"LTR\">VIP</span> بتاريخ <span dir=\"LTR\">17</span> أكتوبر<span dir=\"LTR\">/</span>تشرين الأول الماضي. ويتضمن المسلسل <span dir=\"LTR\">15</span> حلقة تحكي كل واحدة منها قصص الضحايا والناجين من الانفجار المروع الذي وقع في مرفأ بيروت في أغسطس/آب الفائت.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">يُذكر أن عماد زهر الدين قضى متأثراً بإصابته في انفجار بيروت يوم <span dir=\"LTR\">11</span> أغسطس/آب الفائت.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_5gbhu7iui.jpg\" style=\"height:299px; width:542px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">اقرأ/ي أيضاً:</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/09/28/%D9%87%D8%B0%D8%A7-%D8%A7%D9%84%D9%85%D8%AD%D9%84-%D9%84%D9%85-%D9%8A%D9%88%D8%B2%D8%B9-%D8%AD%D9%84%D9%88%D9%8A%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A8%D9%8A%D8%B1%D9%88%D8%AA-%D8%A8%D8%B9%D8%AF-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%AC%D8%A8%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7%D8%B3%D9%8A%D9%84-%D8%A8%D9%81%D8%A7%D8%A8%D8%B1%D9%88%D8%B3-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7\" target=\"_blank\">لم يوزع هذا المحل الحلويات في بيروت بعد إصابة جبران باسيل بكورونا</a></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/10/02/%D8%AE%D8%A8%D8%B1-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A-%D8%A8%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-%D8%BA%D9%8A%D8%B1-%D8%B5%D8%AD%D9%8A%D8%AD\" target=\"_blank\">خبر إصابة الرئيس اللبناني بكورونا غير صحيح</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">يتداول مستخدمون على مواقع التواصل الاجتماعي، منذ <span dir=\"LTR\">17</span> أكتوبر/تشرين الأول الفائت، مقطعاً مصوراً جديداً قالوا إنه لعناصر الإطفاء اللبناني، والفقيد عماد زهر الدين، لحظة فتح باب العنبر <span dir=\"LTR\">12</span> خلال انفجار مرفأ بيروت.</p>\r\n\r\n<p dir=\"rtl\"><iframe frameborder=\"0\" height=\"521\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fhrarnew%2Fvideos%2F400203490978877%2F&amp;show_text=1&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"rtl\">فيديو يظهر فيه عناصر فوج الاطفاء لحظة فتح باب العنبر ١٢ في <a href=\"https://twitter.com/hashtag/%D9%85%D8%B1%D9%81%D8%A3_%D8%A8%D9%8A%D8%B1%D9%88%D8%AA?src=hash&amp;ref_src=twsrc%5Etfw\">#مرفأ_بيروت</a> <a href=\"https://t.co/sn2JxWcHwI\">pic.twitter.com/sn2JxWcHwI</a></p>\r\n&mdash; إبراهيم (@thegodfatherr01) <a href=\"https://twitter.com/thegodfatherr01/status/1317566955646222336?ref_src=twsrc%5Etfw\">October 17, 2020</a></blockquote>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 239,
+        "left": 0.7166748046875,
+        "path": "articles/1604748721Screenshot 2020-11-07 131108.jpg",
+        "top": 18.58349609375,
+        "totalHeight": 423,
+        "totalWidth": 426,
+        "watermark_path": "articles/watermark-1604748721Screenshot 2020-11-07 131108.jpg",
+        "width": 425
+    },
+    "post_date": "2020-11-07T13:20:00.000+03:00",
+    "published": [
+        {
+            "id": "5fa6867fa118412bf45568ac",
+            "link": "https://www.facebook.com/1620745428190405/videos/400203490978877/",
+            "name": "حرار عكار شمال لبنان",
+            "origin": "facebook",
+            "path": "sources/eb76b97e339a4b28d6d18bb2078da786ff7cda0f.jpg"
+        },
+        {
+            "id": "5fa6867f8bc74b13912eca9e",
+            "link": "https://www.facebook.com/sadam.rahhal/videos/3410255535735563/",
+            "name": "Sadam Rahhal",
+            "origin": "facebook",
+            "path": "sources/770085f06aadef856dfae7f25fca090afbd79e11.jpg"
+        },
+        {
+            "id": "5fa6867fa046907f910e5fd8",
+            "link": "https://www.facebook.com/100041851694542/videos/402103534528033/",
+            "name": "عامر مصطفى غندور",
+            "origin": "facebook",
+            "path": "sources/af6f8f22c296a2f707be1985c48b9d0009cfa471.jpg"
+        },
+        {
+            "id": "5fa686800f4e0d387009be04",
+            "link": "https://www.facebook.com/109450820535399/videos/719960802199528",
+            "name": "صفحة أمل الأوفياء",
+            "origin": "facebook",
+            "path": "sources/9bce4de8f58894bf649befc4c4cd3596a6032bdd.jpg"
+        },
+        {
+            "id": "5fa686801edeb6718d69b1a3",
+            "link": "https://www.facebook.com/amiri.ali.7161/videos/2847065715526419/",
+            "name": "Em Shadi",
+            "origin": "facebook",
+            "path": "sources/75728502b0284d6d52e667545dd9d57ecfb7f045.jpg"
+        },
+        {
+            "id": "5fa68680c576184200810a13",
+            "link": "https://www.facebook.com/hamza.shaar.9/videos/10158056481574576/",
+            "name": "Hamza Shaar",
+            "origin": "facebook",
+            "path": "sources/75728502b0284d6d52e667545dd9d57ecfb7f045.jpg"
+        },
+        {
+            "id": "5fa68680ba8347599d64c74a",
+            "link": "https://www.facebook.com/111840827018199/videos/750795952444714/",
+            "name": "عدلون ميديا adloun media",
+            "origin": "facebook",
+            "path": "sources/2a1708385dad7f9ef4ae02ba8cc337e96aafb1b0.jpg"
+        },
+        {
+            "id": "5fa68680f4739e46931d0861",
+            "link": "https://twitter.com/thegodfatherr01/status/1317566955646222336",
+            "name": "إبراهيم",
+            "origin": "twitter",
+            "path": "sources/96a6be868e4169cde09eb57cbeca634412493ee1.jpg"
+        },
+        {
+            "id": "5fa686807c83c877113628e1",
+            "link": "https://twitter.com/lOLaE25FqszK3bA/status/1317568603290435584",
+            "name": "جبين عطاالله",
+            "origin": "twitter",
+            "path": "sources/9eacdb2f53e4a4170b4878293363654ed1d9fdc5.jpg"
+        },
+        {
+            "id": "5fa686804e75693407734b07",
+            "link": "https://twitter.com/JNJBr1/status/1317573347132190720",
+            "name": "J&agrave;N&aacute; J&auml;Bęr",
+            "origin": "twitter",
+            "path": "sources/1d7e7f4a05e653ef20dbb0a6147b63290bc94b9f.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fa685b17a760c21d9502b9d",
+            "link": "https://shahid.mbc.net/en/series/Beirut-6%3A07-season-1-episode-1/episode-816983",
+            "name": "Shahid",
+            "origin": "",
+            "path": "sources/e5dfcb1f0d0dbe5f5de85e29355f453b7999f239.jpg"
+        },
+        {
+            "id": "5fa685b13453126ed37d5693",
+            "link": "https://m.chork.net/view.php?vid=feda7849c",
+            "name": "شروق فيديو",
+            "origin": "",
+            "path": "sources/4561399800336c57c5d7b405ffa39b4584c09828.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "مشهد تمثيلي لفوج الإطفاء لحظة انفجار بيروت وليس حقيقياً",
+    "updated_at": "2020-11-07 14:58:26",
+    "url_path": "/factcheck/2020/11/07/مشهد-تمثيلي-لفوج-الإطفاء-لحظة-انفجار-بيروت-وليس-حقيقيا",
+    "was_notification_pushed": "true"
+}

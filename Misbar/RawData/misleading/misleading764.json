@@ -1,0 +1,123 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 3461,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "تعود الصور لانفجار استهدف السفارة في طرابلس عام 2014 (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">صور لاحتراق&nbsp;سفارة الإمارات العربية المتحدة في طرابلس بعد الإعلان الرسمي للتطبيع بين الإمارات ودولة الاحتلال.</p>\r\n",
+    "country": "LY",
+    "created_at": "2020-08-15 21:55:15",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f382f931dd58507791a9cfe",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصور المتداولة وتبين أنها مضللة، إذ تعود الصورة&nbsp;<span style=\"background-color:white\">لانفجار سيارة مفخخة استهدف مقر السفارة الإمارتية بمدينة طرابلس</span> عام 2014، وليست لحريق السفارة الإماراتية في ليبيا في الـ15 من أغسطس/آب الجاري.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:black\"><img alt=\"2.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_q1evoboce.jpg\" style=\"height:454px; width:605px\" /></span></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:black\"><img alt=\"3.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_nhlem6e3d.jpg\" style=\"height:421px; width:604px\" /></span></span></span><br />\r\n&nbsp;</p>\r\n\r\n<p dir=\"RTL\"><span style=\"background-color:white\">وقد ذكرت بعض المواقع العربية نقلاً عن موقع <span style=\"color:black\">&quot;</span></span><a href=\"https://www.eremnews.com/news/arab-world/gcc/2277927\" style=\"color:blue; text-decoration:underline\">إرم نيوز</a><span style=\"background-color:white\"><span style=\"color:black\">&quot; </span>أنّ مجهولين أضرموا النار في السفارة الإماراتية المغلقة في طرابلس. </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">يذكر أنّ الإمارات أغلقت سفارتها في طرابلس في مايو/أيار عام 2014، وغادر كافة الدبلوماسيين العاصمة وفق تعليمات من الخارجية الإماراتية.</span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات إخبارية وحسابات على موقعي تويتر وفيسبوك، صوراً تدّعي أنها لاحتراق وتخريب سفارة الإمارات العربية المتحدة في طرابلس الليبية، اليوم 15 أغسطس/آب 2020. وذكرت الصفحات نفسها أن عملية إضرام النار تأتي بعد إعلان التطبيع بين الإمارات ودولة الاحتلال.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"0.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_8q4ufar7j.jpg\" style=\"height:642px; width:501px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_0k0twvdft.jpg\" style=\"height:562px; width:481px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"00.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_9764z8cc3.jpg\" style=\"height:626px; width:500px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1597517933GettyImages-458903982.jpg",
+        "watermark_path": "articles/watermark-1597517933GettyImages-458903982.jpg"
+    },
+    "post_date": "2020-08-15T19:28:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/croes_lioness/status/1294627860582465536",
+            "name": "أم الأسد البطل الحر الشجاع",
+            "path": "published/0_1597517714_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "link": "https://twitter.com/Fareewan3/status/1294608485188022273",
+            "name": "Fareewan ",
+            "path": "published/1_1597517714_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=345731726815723&id=100416814680550",
+            "name": "ما بعد 22 فيفري",
+            "path": "published/2_1597517714_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=989345384843352&id=644257106018850",
+            "name": "العجيلات لكل الأحرار",
+            "path": "published/3_1597517714_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://twitter.com/abour_ayen/status/1294652352100802565",
+            "name": "أبو ريان",
+            "path": "published/4_1597517714_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "link": "https://twitter.com/dhpuygOaC3WN7RZ/status/1294635724713725952",
+            "name": "أبو معاوية الليبي",
+            "path": "published/5_1597517714_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "link": "https://twitter.com/BahauldinRTX/status/1294656628952883205",
+            "name": "بهاء الدين",
+            "path": "published/6_1597517714_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=311309660213817&id=101729894505129",
+            "name": "KDZ Algerai صفحة حراك الشعب",
+            "path": "published/7_1597517714_67819776_2303763929710849_8279055560511324160_o.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.alrseefa.net/news/17848",
+            "name": "alrseefa",
+            "path": "sources/0_1597517714_Capture.jpg"
+        },
+        {
+            "link": "https://www.thisismoney.co.uk/wires/afp/article-2832878/Bombs-hit-near-shuttered-Egypt-UAE-embassies-Libya.html",
+            "name": "thisismoney",
+            "path": "sources/1_1597517714_10955734_10152684380322253_7523974638473793243_n.jpg"
+        },
+        {
+            "link": "https://www.noonpost.com/content/4289",
+            "name": "noonpost",
+            "path": "sources/2_1597517715_NcVWsYd1_400x400.jpg"
+        },
+        {
+            "link": "https://www.eremnews.com/news/arab-world/gcc/2277927",
+            "name": "eremnews",
+            "path": "sources/3_1597517715_BREG1Ujl_400x400.jpg"
+        },
+        {
+            "link": "https://www.france24.com/ar/20141113-%D9%84%D9%8A%D8%A8%D9%8A%D8%A7-%D8%AA%D9%81%D8%AC%D9%8A%D8%B1-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%85%D8%B5%D8%B1-%D8%A5%D8%B1%D9%87%D8%A7%D8%A8",
+            "name": "france24",
+            "path": "sources/4_1597517715_N4GGER3R_400x400.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصور ليست لاحتراق السفارة الإماراتية في طرابلس بعد الإعلان عن التطبيع",
+    "updated_at": "2020-09-25 13:35:46",
+    "url_path": "/factcheck/2020/08/15/هذه-الصور-ليست-لاحتراق-السفارة-الإماراتية-في-طرابلس-بعد-الإعلان-عن-التطبيع"
+}

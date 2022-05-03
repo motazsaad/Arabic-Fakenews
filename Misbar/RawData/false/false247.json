@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 247,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": " نفى الملك سلمان صحة المقطع (تويتر)",
+    "category": "Spirituality & Religion",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">مقطع صوتي لتلاوة قرآنية بصوت الملك سلمان.</span></p>\r\n",
+    "country": "SA",
+    "created_at": "2020-10-04 15:34:58",
+    "created_by": "5f39b5a51dd585076701cb94",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 4,
+    "id": "5f79c172d24b8819f61762f1",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">الادعاء زائف. إذ نفى الملك سلمان صحة المقطع الصوتي المتداول الذي نسب إليه، وقال فى اتصال عام 2012، مع <a href=\"https://akhbaar24.argaam.com/article/detail/69702\" style=\"color:#0563c1; text-decoration:underline\">صحيفة الشرق</a> السعودية: &quot;إنه لشرف كبير، وكنت أتمنى أن يكون لي، ولكنني&nbsp;لم أتعود أن ينسب إلي&nbsp;شيء لم أفعله وأسكت&quot;.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">وانتشر هذا التسجيل الصوتي على نطاق واسع منذ سنوات، وحظي بآلاف المشاهدات والإعجابات&nbsp;على مواقع التواصل الاجتماعي، ونشرت برفقته صور مختلفة للملك، ما أعطى انطباعاً عن صحته.</span></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات على مواقع التواصل الاجتماعي، حديثاً ومنذ سنوات، مقطع صوتي لتلاوة قرآنية من سورة المزمل، منسوب لملك المملكة العربية السعودية، سلمان بن عبدالعزيز.</span></p>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"rtl\">تلاوة خاشعة من الملك سلمان الله يحفظه ويحفظ بلادي السعودية و الامارات و جميع العالم<a href=\"https://t.co/AmgCd7eFBU\">pic.twitter.com/AmgCd7eFBU</a></p>\r\n&mdash; Hassan (@Hassan48353374) <a href=\"https://twitter.com/Hassan48353374/status/1309630328181489665?ref_src=twsrc%5Etfw\">September 25, 2020</a></blockquote>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"rtl\">تلاوة <a href=\"https://twitter.com/hashtag/%D8%A7%D9%84%D9%85%D9%84%D9%83_%D8%B3%D9%84%D9%85%D8%A7%D9%86_%D8%A8%D9%86_%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B9%D8%B2%D9%8A%D8%B2?src=hash&amp;ref_src=twsrc%5Etfw\">#الملك_سلمان_بن_عبدالعزيز</a> حفظه الله ورعاه <a href=\"https://t.co/QRiGLwwGEn\">pic.twitter.com/QRiGLwwGEn</a></p>\r\n&mdash; مجيد (@mk1212321) <a href=\"https://twitter.com/mk1212321/status/1312714155133227009?ref_src=twsrc%5Etfw\">October 4, 2020</a></blockquote>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1601814897Eje4FtJX0AUOcix.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1601814897Eje4FtJX0AUOcix.jpg",
+        "width": 752
+    },
+    "post_date": "2020-10-04T15:32:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/Hassan48353374/status/1309630328181489665",
+            "name": "Hassan",
+            "path": "published/0_1601815148_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/2022Uu/status/1312705624543768576",
+            "name": "﮼شايم،صديق،الجميع",
+            "path": "published/1_1601815148_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/abdullah_33aa/status/1309799842420588544",
+            "name": "طيب الفال",
+            "path": "published/2_1601815148_c81b5f249366a3a89a90176e520540bb782a5eba.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/mk1212321/status/1312714155133227009?s=19&fbclid=IwAR0IY8rAYeWYxGVR3KRu4fojoH_cCjVxGs5GfFHsoX74kYSTnKh165LcOe8",
+            "name": "مجيد",
+            "path": "published/3_1601815148_c81b5f249366a3a89a90176e520540bb782a5eba.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/mk1212321/status/1312714155133227009",
+            "name": "مجيد",
+            "path": "published/4_1601815148_c81b5f249366a3a89a90176e520540bb782a5eba.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://akhbaar24.argaam.com/article/detail/69702",
+            "name": "أخبار 24",
+            "path": "sources/0_1601814897_e8ca29efd57972f7ccdaee268f83842e4365f48a.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذا المقطع ليس لتلاوة قرآنية بصوت الملك سلمان",
+    "updated_at": "2020-10-04 15:43:39",
+    "url_path": "/factcheck/2020/10/04/هذا-المقطع-ليس-لتلاوة-قرآنية-بصوت-الملك-سلمان",
+    "was_notification_pushed": "true"
+}

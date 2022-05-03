@@ -1,0 +1,150 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 215,
+    "author": {
+        "fullname": "صباح الخطيب",
+        "id": "5edc1b38db291674e776e9a3",
+        "photo": {
+            "path": "authors/1591643228_7.jpg"
+        }
+    },
+    "caption": "الكلب دُرّب بمركز شرطة أميركي (فيسبوك)",
+    "category": "News",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">صورة لكلب يدعى بحر، دُرّب&nbsp;في&nbsp;وزارة الداخلية المصرية. </span></p>\r\n",
+    "country": "EG",
+    "created_at": "2020-11-06 21:19:31",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 3,
+    "id": "5fa593b370397f3eb14f3a28",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقَق &quot;<a href=\"https://misbar.com/\"><span style=\"color:#3498db\">مسبار</span></a>&quot; من الادعاء ووجده مضللاً، إذ إن الصورة تعود لأحد كلاب الشرطة التابعة لوحدات شرطة ليكوود في ولاية واشنطن الأميركية، ولا يعود إلى وزارة الداخلية المصرية، كما أن الكلب يدعى <a href=\"https://www.huffingtonpost.ca/2015/04/23/fleeing-suspect-on-vancou_n_7122572.html?ir=Canada%20British%20Columbia#gallery/5cd5264de4b0c75c0a87f122/36\" style=\"color:#0563c1; text-decoration:underline\">رينجر</a> وليس بحر.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وتظهر الصورة انتماء الكلب رينجر <a href=\"https://cityoflakewood.us/police-homepage/lakewood-police-divisions/\" style=\"color:#0563c1; text-decoration:underline\">للوحدة <span dir=\"LTR\" lang=\"TR\">K-9</span></a> التابعة لشرطة ليكوود. حيث يتم فيها تدريب كلاب الشرطة على أعمال الدوريات والكشف عن المخدرات، ويساعدون في العمل مع وحدة العمليات الخاصة للتحقيقات الجنائية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"AR-SA\"><img id=\"صورة_x0020_8\" src=\"https://images-prod.misbar.com/articlebody/investigation_qj7uk9aoq.jpg\" style=\"height:363.6pt; width:468pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\" lang=\"AR-SA\"><span style=\"color:#f73832\"><img id=\"صورة_x0020_9\" src=\"https://images-prod.misbar.com/articlebody/investigation_dwmtzowim.jpg\" style=\"height:383.4pt; width:468pt\" /></span></span></strong></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات على موقع التواصل الاجتماعيّ، فيسبوك، منذ تاريخ 4 نوفمبر/تشرين الثاني الجاري، صورةً&nbsp;تعود إلى كلب بوليسي، قالت إنه دُرّب&nbsp;&nbsp;في وزارة الداخلية المصرية، ويُدعى بحر، وسردت عنه قصة اكتشافه للمخدرات في سيارة لقاضي محكمة وكيف جذب الضُباط إلى السيارة، على الرغم من كونه شخصية لم يشك بها أحد.</span></p>\r\n\r\n<p style=\"text-align:center\"><strong><span style=\"color:#f73832\"><img id=\"صورة_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/origin_g3b2zhy4g.jpg\" style=\"height:586.8pt; width:462.6pt\" /> </span></strong></p>\r\n\r\n<p style=\"text-align:center\"><strong><span style=\"color:#f73832\"><img id=\"صورة_x0020_2\" src=\"https://images-prod.misbar.com/articlebody/origin_ook2x5e35.jpg\" style=\"height:579pt; width:460.8pt\" /> </span></strong></p>\r\n\r\n<p style=\"text-align:center\"><strong><span style=\"color:#f73832\"><img id=\"صورة_x0020_7\" src=\"https://images-prod.misbar.com/articlebody/origin_hxn8oo7ys.jpg\" style=\"height:532.8pt; width:339.6pt\" /> </span></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 338,
+        "left": 80.20001220703125,
+        "path": "articles/16046867715cd526452000003000969dd0.jpg",
+        "top": 42.300048828125,
+        "totalHeight": 423,
+        "totalWidth": 762,
+        "watermark_path": "articles/watermark-16046867715cd526452000003000969dd0.jpg",
+        "width": 602
+    },
+    "post_date": "2020-11-06T19:04:00.000+03:00",
+    "published": [
+        {
+            "id": "5fa593b29619675dea3e6f1f",
+            "link": "https://www.facebook.com/groups/386725008203238/permalink/1534885916720469",
+            "name": "النقابه العامه للمحامين",
+            "origin": "facebook",
+            "path": "sources/5bfe4505f0d897cf8eadb4d078ea86f5bd10e8d5.jpg"
+        },
+        {
+            "id": "5fa593b228982343650179f4",
+            "link": "https://www.facebook.com/mohamed.s.aboualmagd/posts/4099239330103244",
+            "name": "محمد سعيد ابو المجد",
+            "origin": "facebook",
+            "path": "sources/5091aba9724b3cdffefc4de2ea4112048edd2565.jpg"
+        },
+        {
+            "id": "5fa593b260e37b108612990b",
+            "link": "https://www.facebook.com/ayman.fahmy.1023/posts/1213787035666682",
+            "name": "Ayman Fahmy",
+            "origin": "facebook",
+            "path": "sources/5091aba9724b3cdffefc4de2ea4112048edd2565.jpg"
+        },
+        {
+            "id": "5fa593b21022c052f840daa1",
+            "link": "https://www.facebook.com/groups/232416243543874/permalink/3407802709338529/",
+            "name": "banha city",
+            "origin": "facebook",
+            "path": "sources/5bfe4505f0d897cf8eadb4d078ea86f5bd10e8d5.jpg"
+        },
+        {
+            "id": "5fa593b2222be331384be2a0",
+            "link": "https://www.facebook.com/groups/315461962588494/permalink/809290636538955/",
+            "name": "مستقبل مدينة طلخا",
+            "origin": "facebook",
+            "path": "sources/5bfe4505f0d897cf8eadb4d078ea86f5bd10e8d5.jpg"
+        },
+        {
+            "id": "5fa599ade1c43b770e446f10",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2826327691024849&id=100009429361655",
+            "name": "علاء مسعود",
+            "origin": "facebook",
+            "path": "sources/a87f2679356c5a8a7eeb46472e30167d18c3a494.jpg"
+        },
+        {
+            "id": "5fa599aee7b03c27b96a7217",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1797461933736643&id=544689159013933",
+            "name": "النسر المصري",
+            "origin": "facebook",
+            "path": "sources/a87f2679356c5a8a7eeb46472e30167d18c3a494.jpg"
+        },
+        {
+            "id": "5fa599aec323356e0a61cc31",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=831371807675255&id=100024073291508",
+            "name": "المستشار عيد لعبيدي",
+            "origin": "facebook",
+            "path": "sources/a87f2679356c5a8a7eeb46472e30167d18c3a494.jpg"
+        },
+        {
+            "id": "5fa599ae4d739b03035d9206",
+            "link": "https://www.facebook.com/groups/1280802575600598/permalink/1317017695312419/https://www.facebook.com/groups/1280802575600598/permalink/1317017695312419/",
+            "name": "دائرة منشأة القناطر",
+            "origin": "facebook",
+            "path": "sources/ce6c7301795eec895ddaccbfa72bd54a16ced3e6.jpg"
+        },
+        {
+            "id": "5fa599ae0006972e847717c8",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1291087407938409&id=100011114859457",
+            "name": "Mohamed Omran",
+            "origin": "facebook",
+            "path": "sources/a87f2679356c5a8a7eeb46472e30167d18c3a494.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fa593b391e1cd73481e6be4",
+            "link": "https://www.huffingtonpost.ca/2015/04/23/fleeing-suspect-on-vancou_n_7122572.html?ir=Canada%20British%20Columbia#gallery/5cd5264de4b0c75c0a87f122/36",
+            "name": "huffingtonpost",
+            "origin": "",
+            "path": "sources/84a8f95c7849bfeba540beb382236d1efb63403a.jpg"
+        },
+        {
+            "id": "5fa593b35fce0157db55734d",
+            "link": "https://cityoflakewood.us/police-homepage/lakewood-police-divisions/",
+            "name": "cityoflakewood.us",
+            "origin": "",
+            "path": "sources/bcdaadf110d146b58262e1f3f55a408b3be91390.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذا الكلب يعود لمركز شرطة في واشنطن، وليس للداخلية المصرية ‎",
+    "updated_at": "2020-11-06 21:45:02",
+    "url_path": "/factcheck/2020/11/06/هذا-الكلب-يعود-لمركز-شرطة-في-واشنطن-وليس-للداخلية-المصرية-‎",
+    "was_notification_pushed": true
+}

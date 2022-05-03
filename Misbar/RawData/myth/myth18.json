@@ -1,0 +1,81 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 994,
+    "author": {
+        "fullname": "حسام الهندي",
+        "id": "5e25c80bd4a229629038df03",
+        "photo": {
+            "path": "authors/1579542323_حسام الهندي.jpg"
+        }
+    },
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">الجيش الوطني الليبي يلقي القبض على جنود أتراك، خلال تحرير مدينة سرت.&nbsp;</span></p>\r\n",
+    "country": "LY",
+    "created_at": "2020-01-23 13:46:00",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e297968d4a22912af2e15e4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">الصور المنتشرة تخص مجموعة من الجنود الأتراك المحتجزين، لكنهم ليسوا في ليبيا، ووفقاً للبحث الذي أجراه &quot;مسبار&quot;، فإنَّ الصورة تعود&nbsp;لعام 2016، خلال محاولة الانقلاب العسكري في تركيا في يوليو/تموز 2016.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_b3b8b8f15c4db0191136e222adeebc9f.jpg\" style=\"height:378px; width:506px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">ووفقاً لوصف وكالة أنباء الأناضول على موقع </span><span dir=\"LTR\"><span style=\"color:black\">Getty images</span></span><span style=\"color:black\"> لمحتوى الصورة، فإن الصورة المنتشرة وصور أخرى للمجموعة نفسها، تخص جنود من الجيش التركي، تم احتجازهم يوم 16 يوليو/تموز 2016 خلال محاولتهم اقتحام المجمع الرئاسي التركي في أنقرة، وانتشرت تلك الصور على نطاق واسع في تلك الفترة.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">الانتقادات العديدة، دفعت الصحافي المصري مصطفى بكري</span><a href=\"https://twitter.com/BakryMP/status/1214494795181244417\" style=\"color:#0563c1; text-decoration:underline\"><span style=\"color:black\"> للاعتذار</span></a><span style=\"color:black\">، لكنه لم يحذف</span><u><a href=\"https://twitter.com/BakryMP/status/1214207180141998080\" style=\"color: rgb(5, 99, 193); text-decoration: underline;\"> الصورة</a><span style=\"color:#000000\">.</span></u></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_5b3daf22fb4d236b8fd3352f9acbf1c9.jpg\" style=\"height:284px; width:550px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": false,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تداول بعض مستخدمي مواقع التواصل الاجتماعي صورة لستَّة شباب بالزي العسكري، مقيدي الأيدي من الخلف، قال أصحاب الادعاء إنها لجنود أتراك تمكنت قوات اللواء المتقاعد خليفة حفتر من القبض عليهم، خلال عملية تحرير سرت في 6 يناير / كانون الثاني.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">الصحافي والبرلماني المصري مصطفى بكري نشر أيضاً الصورة التي كانت ضمن سلسلة من التغريدات حول سيطرة حفتر على مدينة سرت (450 كيلومتراً شرقي طرابلس)، وقال بكري في تغريدة: &quot;الجيش الوطني الليبي يلقي القبض على جنود أتراك اليوم بمحاور طرابلس&quot;.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_9c63073ba84b6bbc6137a84ad08eb025.jpg\" style=\"height:392px; width:362px\" /></p>\r\n\r\n<p style=\"text-align:justify\">&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 338,
+        "left": 75.20001220703125,
+        "path": "articles/1579776360صفحة حكومة الوفاق على الفيس بوك.jpg",
+        "top": 42.30000305175781,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "width": 602
+    },
+    "post_date": "2020-01-23T17:28:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/BakryMP/status/1214207180141998080",
+            "name": "مصطفي بكري",
+            "path": "published/0_1579783065_مصطفي بكري.jpg"
+        },
+        {
+            "link": "https://elwekalanews.net/الجيش-الليبي-يدخل-سرت-والمليشيات-تهرب/",
+            "name": "الوكالة نيوز",
+            "path": "published/1_1579783065_الوكالة نيوز.jpg"
+        }
+    ],
+    "result": "myth",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.gettyimages.com/photos/a-group-of-soldiers-members-of-parallel-stategulenist-terrorist-organization-are-being-taken-under-custody-as-they-try-to-storm-into-turkish-presidential-complex-in-ankara.?phrase=A%20group%20of%20soldiers,%20members%20of%20%27Parallel%20State%2FGulenist%20Terrorist%20Organization%27,%20are%20being%20taken%20under%20custody%20as%20they%20try%20to%20storm%20into%20Turkish%20Presidential%20Complex%20in%20Ankara.&sort=mostpopular#license",
+            "name": "gettyimages",
+            "path": "sources/0_1579783064_gettyimages icon.jpg"
+        },
+        {
+            "link": "https://www.buzzfeednews.com/article/salvadorhernandez/the-most-dramatic-images-from-the-attempted-military-coup-in",
+            "name": "buzzfeednews",
+            "path": "sources/1_1579783065_buzzfeednews.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "القبض على جنود أتراك في ليبيا... شائعة وصورة قديمة",
+    "updated_at": "2020-09-25 09:43:40",
+    "url_path": "/factcheck/2020/01/23/القبض-على-جنود-أتراك-في-ليبيا-شائعة-وصورة-قديمة"
+}

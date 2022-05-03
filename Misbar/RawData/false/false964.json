@@ -1,0 +1,106 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 3,
+        "tw": 1
+    },
+    "amount_sources": 0,
+    "amount_visits": 1985,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">فيديو لشخص يوهم طفلاً عراقياً أن أمه على قيد الحياة وأنه يحادثها عبر الهاتف، لينفجر الأول ضاحكاً ويبدأ الطفل بالبكاء.</p>\r\n",
+    "country": "IQ",
+    "created_at": "2020-02-02 15:42:50",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e36c3cad4a22962ed7ff42d",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تبين لـ &quot;مسبار&quot; بعد البحث عن الفيديو المتداول، أنّ عائلة الطفل نفت المعلومات التي أوردها ناشرو المقطع المصوّر، وذلك في تصريحاتٍ أدلوا بها لإعلاميين وناشطين تواصلوا مع ذوي الطفل، وأكدوا أنّ والديه على قيد الحياة، وأنّ المقطع صوّره ابن عم الطفل على سبيل المزاح، بعد أن عاد للمنزل دون أن يجد أمه فيه.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_7vbpv7lfr.jpg\" style=\"height:501px; width:279px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت مواقع إلكترونية ووسائل إعلام منها قناة الجزيرة، إضافة إلى العديد من الصفحات على مواقع التواصل الاجتماعي، في أواسط شهر يناير/ كانون الثاني من العام الجاري، مقطع فيديو لطفل عراقي يتحدث مع والدته عبر الهاتف وهو يبكي. وتم تداول المقطع على أنّه فيديو لشخص يستهزأ بطفل عراقي يتيم الأم، وأقنعه بأنه يتحدث مع والدته المتوفاة، الأمر الذي دفع الطفل إلى البكاء مطالباً إياها بالعودة إليه. وذكر ناشرو الفيديو أنّ الشخص الذي كان يصور الطفل سجّل صوت سيدة أو اتفق معها على إجراء المحادثة مع الطفل وانتحال شخصية والدته.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_2a0gw16k8.jpg\" style=\"height:469px; width:435px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_es3zonx9a.jpg\" style=\"height:388px; width:377px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_yphoq9anv.jpg\" style=\"height:388px; width:439px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 360,
+        "left": 1.96087646484375,
+        "path": "articles/1580647370GettyImages-1196987775.jpg",
+        "top": 15,
+        "totalHeight": 423,
+        "totalWidth": 648,
+        "width": 641
+    },
+    "post_date": "2020-02-02T15:26:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/aljazeerachannel/",
+            "name": "قناة الجزيرة",
+            "path": "published/0_1580647369_الجزيرة.jpg"
+        },
+        {
+            "link": "https://www.youm7.com/story/2020/1/16/%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%B5%D8%A7%D8%AF%D9%85-%D9%84%D8%B4%D8%AE%D8%B5-%D9%8A%D8%B3%D8%AA%D9%87%D8%B2%D8%A6-%D8%A8%D8%B7%D9%81%D9%84-%D8%B9%D8%B1%D8%A7%D9%82%D9%89-%D9%8A%D8%AA%D9%8A%D9%85-%D9%8A%D8%AB%D9%8A%D8%B1-%D8%A7%D9%84%D8%B3%D9%88%D8%B4%D9%8A%D8%A7%D9%84-%D9%85%D9%8A%D8%AF%D9%8A%D8%A7/4588839",
+            "name": "اليوم السابع",
+            "path": "published/1_1580647369_اليوم السابع-لوغو.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=sP5A58cAFgA",
+            "name": "أورينت",
+            "path": "published/2_1580647370_أورينت-لوغو.jpg"
+        },
+        {
+            "link": "https://gulf365.co/gulf/6633744/%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%B5%D8%A7%D8%AF%D9%85-%D9%84%D8%B4%D8%AE%D8%B5-%D9%8A%D8%B3%D8%AA%D9%87%D8%B2%D8%A6-%D8%A8%D8%B7%D9%81%D9%84-%D8%B9%D8%B1%D8%A7%D9%82%D9%89-%D9%8A%D8%AA%D9%8A%D9%85-%D9%8A%D8%AB%D9%8A%D8%B1-%D8%A7%D9%84%D8%B3%D9%88%D8%B4%D9%8A%D8%A7%D9%84-%D9%85%D9%8A%D8%AF%D9%8A%D8%A7.html",
+            "name": "الخليج 365",
+            "path": "published/3_1580647370_الخليج 365-لوغو.jpg"
+        },
+        {
+            "link": "https://www.almadenahnews.com/article/800681-%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%8A%D8%B4%D8%B9%D9%84-%D8%A7%D9%84%D8%BA%D8%B6%D8%A8-%D9%84%D8%B4%D8%AE%D8%B5-%D9%8A%D8%B3%D8%AA%D9%87%D8%B2%D8%A3-%D8%A8%D8%B7%D9%81%D9%84-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D9%8A%D8%AA%D9%8A%D9%85-%D8%A7%D9%84%D8%A3%D9%85-%D9%88%D9%8A%D9%88%D9%87%D9%85%D9%87-%D8%A8%D9%85%D8%AD%D8%A7%D8%AF%D8%AB%D8%AA%D9%87%D8%A7",
+            "name": "المدينة الإخبارية ",
+            "path": "published/4_1580647370_المدينة الإخبارية-لوغو.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/channel/UCRPvserKvoruXPLnzjN_pUA",
+            "name": "عالمكم",
+            "path": "published/5_1580647370_عالمكم-لوغو.jpg"
+        },
+        {
+            "link": "",
+            "name": "",
+            "path": null
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/Baghdad1/videos/2728798720537855/",
+            "name": "بغداد",
+            "path": "sources/0_1580647369_بغداد-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/2222817327795697/posts/2695873307156761/",
+            "name": "الإعلامي قيصر الطائي",
+            "path": "sources/1_1580647369_الإعلامي قيصر الطائي-لوغو.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ما حقيقة فيديو الطفل العراقي الذي أوهمه شخص أنه يكلّم والدته المتوفية؟",
+    "updated_at": "2020-09-24 00:16:13",
+    "url_path": "/factcheck/2020/02/02/ما-حقيقة-فيديو-الطفل-العراقي-الذي-أوهمه-شخص-أنه-يكلم-والدته-المتوفية"
+}

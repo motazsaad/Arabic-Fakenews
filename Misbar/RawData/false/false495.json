@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 3840,
+    "author": {
+        "fullname": "هيثم جودية",
+        "id": "5e295291d4a2296ff0065605",
+        "photo": {
+            "name": "1579766417_هيثم .JPG",
+            "path": "authors/1579766417_هيثم .JPG"
+        }
+    },
+    "caption": "ألغى الرئيس السينغال مجلس الشيوخ عام 2012 (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">الرئيس السنغالي يحل مجلس النواب من أجل بناء مركز لإنتاج الطاقة الشمسية.</span></p>\r\n",
+    "country": "SN",
+    "created_at": "2020-07-13 19:19:22",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 3,
+    "id": "5f0c898a163be3072657c689",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الادعاء زائف، إذ لم يصدر عن الرئيس السنغالي ماكي سال حديثاً، أي مرسوم لحل البرلمان، (الجمعية الوطنية وكانت تعرف باسم الغرفة الأولى للبرلمان)، كما أنه لم يدل بأي تصريح بأن النواب في بلاده يتقاضون رواتباً ولا يفعلون شيئاً.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">ووجد &quot;مسبار&quot; أن سال أصدر في أواخر أغسطس/آب عام 2012، بعد تسلمه منصب الرئيس، مرسوماً يقضي بإلغاء مجلس الشيوخ (الغرفة الثانية بالبرلمان)، وتحويل مصادر هذه المؤسسة التي تم حلها إلي مساعدة منكوبي الفيضانات في البلاد، وذلك بعد سجال سياسي حاد بأنّ المجلس يشكل &quot;أعباءً مالية دون جدوى&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_dpyj5b2ke.jpg\" style=\"height:489px; width:554px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول حسابات على&nbsp;موقع التواصل الاجتماعي فيسبوك، خبراً&nbsp;مفاده أن الرئيس السنغالي <span style=\"background-color:white\">ماكي سال</span>، حلّ&nbsp;مجلس النواب في بلاده من أجل بناء مركز لإنتاج الطاقة الشمسية، مشيراً إلى أن السنغال بحاجة إلى الطاقة أكثر من النواب الذين يتقاضون الرواتب ولا يفعلون شيئاً.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"107617258_2650093351900121_4739861351807336155_n.jpg\" src=\"https://images-prod.misbar.com/articlebody/origin_ypxctn4b3.jpg\" style=\"height:597px; width:554px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_tmwe0c9wv.jpg\" style=\"height:493px; width:500px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 326,
+        "left": 21.10528564453125,
+        "path": "articles/1594657161GettyImages-1201998703.jpg",
+        "top": 42.746826171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-1594657161GettyImages-1201998703.jpg",
+        "width": 580
+    },
+    "post_date": "2020-07-13T16:55:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=3198731246837110&id=100001007998619",
+            "name": "ياسر الحمداني",
+            "path": "published/0_1594657161_54729942_2207856012591310_5494612650308403200_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2650093398566783&id=100006984454494",
+            "name": "مرزوق الصراري",
+            "path": "published/1_1594657161_2.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=784892592317323&id=100023897678972",
+            "name": "م.هادي شايع الوادعي",
+            "path": "published/2_1594657161_3.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/tadreft.libya/posts/2951599504968576",
+            "name": "HananAlhadi",
+            "path": "published/3_1594657161_72348475_1338280999685419_1236809135090040832_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1587723864741130&id=100005105952825",
+            "name": "د. رشيد سكري",
+            "path": "published/4_1594657161_106583085_2927894794005714_3964065711078636425_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=115432113567493&id=108712794239425",
+            "name": "إعلام العلوية بسمة المعموري",
+            "path": "published/5_1594657161_6.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.aa.com.tr/ar/%D8%AF%D9%88%D9%84%D9%8A/%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%B3%D9%86%D8%BA%D8%A7%D9%84-%D9%8A%D9%84%D8%BA%D9%8A-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%B4%D9%8A%D9%88%D8%AE/340412",
+            "name": "وكالة الاناضول",
+            "path": "sources/0_1594657161_12871462_215416685518158_2698765877189765626_n.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لم يحلّ الرئيس السنغالي البرلمان لحاجة بلاده إلى إنتاج الطاقة",
+    "updated_at": "2020-09-25 22:07:17",
+    "url_path": "/factcheck/2020/07/13/لم-يحل-الرئيس-السنغالي-البرلمان-لحاجة-بلاده-إلى-إنتاج-الطاقة"
+}

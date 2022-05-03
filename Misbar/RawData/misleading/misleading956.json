@@ -1,0 +1,118 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1520,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الصورة من اليمن وليست من الكويت (ويكيبيديا)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة ملتقطة لأطفال في أحد شوارع الكويت عام 1950.</p>\r\n",
+    "country": "IQ",
+    "created_at": "2020-07-01 11:45:46",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5efc4d3a163be3067e473746",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الصورة مضللة، فهي لم تُلتقط في الكويت عام 1950، إّنما تعود إلى عام 1967 وتُصوّر مجموعة أطفال في مدينة عدن جنوبي اليمن. وعثر &quot;مسبار&quot; على الصورة الأخرى منشورة على &quot;تويتر&quot; منذ عام 2017، وتُظهر حسب التعليق المرافق لها احتفالاً بعيد الميلاد في بغداد عام 1950.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_xwe711q94.jpg\" style=\"height:648px; width:674px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><img src=\"https://images-prod.misbar.com/articlebody/investigation_rwd7e6ar8.jpg\" style=\"height:678px; width:518px\" /></strong></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">يُعيد مستخدمون منذ بداية العام الجاري نشر صورة تُظهر مجموعة من الأطفال يقفون في شارع، يقولون إنّها التُقطت في الكويت عام 1950. ويتم نشر هذه الصورة في سياق مقارنتها بصورة أخرى التُقطت في العام نفسه في العراق، وتُظهر أطفال يجلسون حول مائدة طعام محاطين بمجموعة بالغين.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_xqb1mwl83.jpg\" style=\"height:726px; width:496px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_6bpyvykk2.jpg\" style=\"height:755px; width:420px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><img src=\"https://images-prod.misbar.com/articlebody/origin_smity9ciw.jpg\" style=\"height:778px; width:499px\" /></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><img src=\"https://images-prod.misbar.com/articlebody/origin_bxacubrea.jpg\" style=\"height:758px; width:494px\" /></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 325,
+        "left": 1.10882568359375,
+        "path": "articles/1593593145800px-Children_look_curiously_at_British_peacekeepers_in_Aden_in_1967.jpg",
+        "top": 17,
+        "totalHeight": 423,
+        "totalWidth": 584,
+        "watermark_path": "articles/watermark-1593593145800px-Children_look_curiously_at_British_peacekeepers_in_Aden_in_1967.jpg",
+        "width": 578
+    },
+    "post_date": "2020-07-01T11:35:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=158522169044979&id=108280394069157",
+            "name": "من الذاكرة",
+            "path": "published/0_1593593144_من الذاكرة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2587888204784784&id=100006908885904",
+            "name": "صلاح الفلاحي",
+            "path": "published/1_1593593144_صلاح الفلاحي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/iraq1901/photos/a.105323650981751/138150851032364/?type=3",
+            "name": "العراق في قرن-وثائقيات",
+            "path": "published/2_1593593145_العراق في قرن-وثائقيات.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ALIRAQ.CANADA/posts/1552787244902918:0",
+            "name": "العراق وكندا",
+            "path": "published/3_1593593145_العراق وكندا.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/1729231980552017/permalink/1770858683056013/",
+            "name": "حسن جليل عبد",
+            "path": "published/4_1593593145_Facebook_logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/MhmdTalqany/status/1238085261063589888",
+            "name": "Rida Al-Talaqani",
+            "path": "published/5_1593593145_Rida Al-Talaqani.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/1746409265627982/photos/a.1746424402293135/2617764035159163/?type=3&theater",
+            "name": "عيون بحزاني وبعشيقة",
+            "path": "published/6_1593593145_عيون بحزاني وبعشيقة.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "http://adengad.net/news/90302/",
+            "name": "صحيفة عدن الغد",
+            "path": "sources/0_1593593145_صحيفة عدن الغد.jpg"
+        },
+        {
+            "link": "https://ar.wikipedia.org/wiki/%D8%B9%D8%AF%D9%86#/media/%D9%85%D9%84%D9%81:Children_look_curiously_at_British_peacekeepers_in_Aden_in_1967.jpg",
+            "name": "Wikipedia",
+            "path": "sources/1_1593593145_Wikipedia-logo.jpg"
+        },
+        {
+            "link": "https://www.marefa.org/%D8%B9%D8%AF%D9%86#/media/File:Children_look_curiously_at_British_peacekeepers_in_Aden_in_1967.jpg",
+            "name": "عدن المعرفة",
+            "path": "sources/2_1593593145_عدن المعرفة.jpg"
+        },
+        {
+            "link": "https://twitter.com/baghdad_salam/status/945391704475099136",
+            "name": "Baghdad Dar Al Salam",
+            "path": "sources/3_1593593145_Baghdad Dar Al Salam.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصورة ليست من الكويت عام 1950",
+    "updated_at": "2020-09-25 10:35:09",
+    "url_path": "/factcheck/2020/07/01/هذه-الصورة-ليست-من-الكويت"
+}

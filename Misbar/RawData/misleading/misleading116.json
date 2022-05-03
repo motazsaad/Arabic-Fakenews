@@ -1,0 +1,128 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 173,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "الفيديو من حفل طارق العربي طرقان في فبراير الفائت (يوتيوب)",
+    "category": "Music",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">مقطع فيديو من حفل طارق العربي طرقان في الجزائر.</p>\r\n",
+    "country": "DZ",
+    "created_at": "2020-12-29 13:14:06",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 4,
+    "feedback_pos": 0,
+    "id": "5feb016e2c95055f0a3b142a",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;<a href=\"https://misbar.com/\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">مسبار</a>&quot; من مقطع الفيديو المتداول وتبين أنه مضلل وليس في الجزائر، إذ نشر للمرة الأولى يوم 23 فبراير/شباط من العام الجاري في قناة على يوتيوب لشاب إماراتي يُدعى نواف الخالد، الذي وثق مشاهد من حفل طارق العربي طرقان في أبو ظبي يوم 14 فبراير/شباط من العام نفسه.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/gf2ZYrlc6PU\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">ولم يعثر &quot;مسبار&quot; على أي مقطع فيديو يوثق له حفلاً في الجزائر، أو برنامجاً لحفل في ليبيا قريباً.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">يُذكر أن طارق العربي طرقان هو ملحن ومغني شارات مسلسلات الكرتون سوري من أصل جزائري، اشتهر في قناة سبيستون ويقيم حفلات مع أبنائه تستهوي محبي الكرتون.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">اقرأ/ي أيضاً<br />\r\n<a href=\"https://misbar.com/factcheck/2020/12/28/%D8%B9%D9%85%D9%84-%D9%81%D9%86%D9%8A-%D9%88%D9%84%D9%8A%D8%B3-%D9%86%D8%A8%D8%AA%D8%A9-%D8%A7%D9%84%D8%B1%D8%B6%D9%8A%D8%B9-%D8%A7%D9%84%D9%85%D8%AA%D9%84%D8%AD%D9%81\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">عمل فني وليس نبتة الرضيع المُتلحف</a></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/12/23/%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9-%D9%84%D9%8A%D8%B3%D8%AA-%D9%84%D9%87%D9%88%D8%A7%D8%B1%D9%8A-%D8%A8%D9%88%D9%85%D8%AF%D9%8A%D9%86-%D9%88%D9%87%D9%88-%D9%8A%D9%82%D8%A8%D9%84-%D9%8A%D8%AF-%D9%85%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">الصورة ليست لهواري بومدين وهو يقبل يد محمد الخامس</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "طارق العربي طرقان",
+        "شارات الكرتون",
+        "قناة سبيستون",
+        "طارق العربي طرقان وأبناؤه"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [
+        "طارق العربي طرقان"
+    ],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات وحسابات على موقع فيسبوك، حديثاً، مقطع فيديو لتفاعل بعض الشبان مع أغاني شارات مسلسلات الكرتون وزعمت أنها من حفل طارق العربي طرقان وأبنائه، في الجزائر وأنه سيحيي حفلاً في ليبيا قريباً.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"325\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?height=325&amp;href=https%3A%2F%2Fwww.facebook.com%2Flibyan.tmoh%2Fvideos%2F857427065058591%2F&amp;show_text=false&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 377,
+        "left": 82.70001220703125,
+        "path": "articles/1609236845Capture.jpg",
+        "top": 27.300048828125,
+        "totalHeight": 423,
+        "totalWidth": 825,
+        "watermark_path": "articles/watermark-1609236845Capture.jpg",
+        "width": 670
+    },
+    "post_date": "2020-12-29T10:59:00.000+03:00",
+    "published": [
+        {
+            "id": "5feb016deeade005a449b032",
+            "link": "https://www.facebook.com/libyan.tmoh/posts/2500235106950807",
+            "name": "طُموحآت شاب ليبي",
+            "origin": "facebook",
+            "path": "sources/f034577677a7c70d5c6a51c412bfc17b2722a741.jpg"
+        },
+        {
+            "id": "5feb016d8fe6643a810e4325",
+            "link": "https://www.facebook.com/amona.liba/posts/1147521269108507",
+            "name": "Amona Liba",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5feb0400ae4569412b00d72d",
+            "link": "https://www.facebook.com/noor.fathi.104/posts/2797709523829005",
+            "name": "Noor Fathi",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        },
+        {
+            "id": "5feb04007952ac50883ea842",
+            "link": "https://www.facebook.com/fafy.albarasi/posts/1476977575835202",
+            "name": "Fafy Albarasi",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        },
+        {
+            "id": "5feb04018fe6643a810e4326",
+            "link": "https://www.facebook.com/shahd.belkhir/posts/3392751154169639",
+            "name": "Shahd Belkhir",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        },
+        {
+            "id": "5feb0401097b81002545ff36",
+            "link": "https://www.facebook.com/zahra.abdulsalaam/posts/719970368632882",
+            "name": "Zahra Abdulsalaam",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5feb016d98f79a170d649a8e",
+            "link": "https://www.youtube.com/watch?v=gf2ZYrlc6PU&ab_channel=NawafKhaled",
+            "name": "Nawaf Khaled",
+            "origin": "youtube",
+            "path": "sources/9566cabe907492a6669dee16893e5138e405eaae.jpg"
+        },
+        {
+            "id": "5f91ba2001b7e87d0f2efdb7",
+            "link": "https://www.alroeya.com/130-41/2146638-%D8%B7%D8%A7%D8%B1%D9%82-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A-%D8%B7%D8%B1%D9%82%D8%A7%D9%86-%D9%85%D8%B3%D9%84%D8%B3%D9%84%D8%A7%D8%AA-%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D8%AD%D8%A7%D9%84%D9%8A%D8%A9-%D8%AA%D8%B9%D8%AA%D9%85%D8%AF-%D9%81%D9%8A-%D8%AA%D8%B1%D8%AC%D9%85%D8%AA%D9%87%D8%A7-%D8%B9%D9%84%D9%89-%D8%BA%D9%88%D8%BA%D9%84-%D9%88%D8%AC%D8%AF%D9%8A%D8%AF%D9%8A-%D8%B1%D8%A7%D8%AF%D9%8A%D9%88-%D8%B3%D8%A8%D9%8A%D8%B3%D8%AA%D9%88%D9%86",
+            "name": "الروية",
+            "origin": "",
+            "path": "published/5_1594721219_الروية.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الفيديو من حفل طارق العربي طرقان وأبنائه في أبو ظبي وليس في الجزائر",
+    "updated_at": "2020-12-29 13:33:19",
+    "url_path": "/factcheck/2020/12/29/الفيديو-من-حفل-طارق-العربي-طرقان-وأبنائه-في-أبو-ظبي-وليس-في-الجزائر",
+    "was_notification_pushed": "true"
+}

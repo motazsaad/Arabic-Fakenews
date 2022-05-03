@@ -1,0 +1,88 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 1,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 190053,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الفيديو عمل فني منشور على يوتيوب منذ عام 2018",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">فيديو يصوّر ظهور المسيح الدجال في سماء العراق بعد أن منعت السعودية الناس من الحج والعمرة.</p>\r\n",
+    "country": "IQ",
+    "created_at": "2020-04-08 10:58:17",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e8d8419db29163a5816c6e5",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الفيديو، وتأكّد من زيفه، فالمقطع الأصلي هو نتاج عمل فني، منشور على &quot;يوتيوب&quot; منذ يناير/كانون الثاني 2018، على حسابٍ على يعود لفنان يُدعى جيسين كارلوس نشر العديد من المقاطع المركبة المشابهة على صفحته على موقع يوتيوب. وتجدر الإشارة أنّ السلطات السعودية قد علّقت مناسك العمرة في إطار الجهود لمنع تفشي فايروس كورونا، إلا أنها لم تصدر قراراً بتعليق فريضة الحج هذه السنة حتى الآن.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/xndZrXX3HgI\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشر مستخدمون على موقع التواصل الاجتماعي فيسبوك، مقطع فيديو حظي بآلاف المشاهدات، ادعوا أنّه يصوّر ظهور &quot;المسيح الدجال&quot; في سماء العراق، وذلك بعدما أقدمت السلطات السعودية على منع الناس من أداء مناسك الحج والعمرة عقب انتشار فايروس كورونا.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FBuritaHD%2Fvideos%2F243795606815002%2F&amp;show_text=0&amp;width=476\" style=\"border:none;overflow:hidden\" width=\"476\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"313\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F110371590609964%2Fvideos%2F656605868217982%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 253,
+        "left": 2.7664794921875,
+        "path": "articles/1586332696Untitled.jpg",
+        "top": 49,
+        "totalHeight": 423,
+        "totalWidth": 452,
+        "watermark_path": "articles/watermark-1586332696Untitled.jpg",
+        "width": 450
+    },
+    "post_date": "2020-04-08T10:48:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/102961241335126/videos/602449910343668/?v=602449910343668&external_log_id=66c132de35703352b932c6f9aee57795",
+            "name": "Demo",
+            "path": "published/0_1586332695_Facebook_logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/BuritaHD/videos/243795606815002/?v=243795606815002&external_log_id=66c132de35703352b932c6f9aee57795",
+            "name": "Burita HD",
+            "path": "published/1_1586332695_Burita HD.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/110371590609964/videos/656605868217982/",
+            "name": "World Numbers",
+            "path": "published/2_1586332696_World Number.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/CuteiLives/videos/1596331970524577/?v=1596331970524577&external_log_id=4a364404e012dd42e1686f1da1bf8d79",
+            "name": "Cutei",
+            "path": "published/3_1586332696_Cutei.jpg"
+        }
+    ],
+    "result": "myth",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?time_continue=2&v=xndZrXX3HgI&feature=emb_logo",
+            "name": "الفيديو الأصلي",
+            "path": "sources/0_1586332696_YouTube-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "حقيقة ما ظهر في سماء العراق بعدما علّقت السعودية العمرة",
+    "updated_at": "2020-09-25 20:01:10",
+    "url_path": "/factcheck/2020/04/08/حقيقة-ما-ظهر-في-سماء-العراق-بعدما-علقت-السعودية-العمرة"
+}

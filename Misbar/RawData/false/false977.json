@@ -1,0 +1,91 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 3227,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "category": "Entertainment",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">أميركا تتنبأ بـ &quot;كورونا&quot; منذ 9 سنوات والدليل فيلم &quot;كونتيجن&quot;.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-01-28 16:32:39",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e3037f7d4a22973f137a764",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تتبّع &quot;مسبار&quot; قصة الخبر&nbsp; المأخوذ من مقال نشرته صحيفة ديلي ميل البريطانية، والتي تحدثت فيه عن التشابه الذي لاحظه بعض متابعي فيلم كونتيغن&nbsp;<span dir=\"LTR\">Contagion</span> بين&nbsp;تفشي فايروس كورونا في الصين، وبين قصة الفيلم المنتّج عام 2011،&nbsp;والتي تتحدث عن وباء اجتاح العالم وعن مساعي مراكز الأبحاث الطبية للتوصل لعلاج له.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">إنّ هذا الخبر ينطوي على إثارة، وذلك بسبب الفرق الواضح بين الحديث عن تقاطعات بين قصة الفلم وانتشار فايروس كورونا، وبين القول أنّ أميركا تنبأت به منذ 9 سنوات من خلال هذا الفلم، إذ إنّ عنوان الخبر&nbsp;يوحي بمعلومات غير موجودة في محتواه.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_lnpl2tj17.jpg\" style=\"height:431px; width:525px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت عدّة مواقع إلكترونية خبراً عنوانه &quot;أميركا تتنبأ بـ كورونا منذ 9 سنوات والدليل فيلم كونتيجن&quot;، في إشارة إلى أنّ الولايات المتحدة تنبأت من خلال هذا الفيلم بفايروس كورونا الذي انتشر في الصين في الآونة الأخيرة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_2p8z2dwdy.jpg\" style=\"height:443px; width:375px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_nrfshvn9g.jpg\" style=\"height:447px; width:391px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 355,
+        "left": 2.2305908203125,
+        "path": "articles/158021835984618663_2678477032384148_817378464507101184_o.jpg",
+        "top": 45,
+        "totalHeight": 423,
+        "totalWidth": 636,
+        "width": 632
+    },
+    "post_date": "2020-01-28T16:21:00.000+03:00",
+    "published": [
+        {
+            "link": "https://akhbarak.net/articles/38438262-%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-%D8%AA%D8%AA%D9%86%D8%A8%D8%A3-%D8%A8%D9%80-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-%D9%85%D9%86%D8%B0-9-%D8%B3%D9%86%D9%88%D8%A7%D8%AA?sec=entertainment&src=%D8%A8%D9%88%D8%A7%D8%A8%D8%A9+%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1+%D8%A7%D9%84%D9%8A%D9%88%D9%85",
+            "name": "أخبارك ",
+            "path": "published/0_1580218359_أخبارك-لوغو.jpg"
+        },
+        {
+            "link": "https://m.akhbarelyom.com/news/NewDetails/2988787/1/%D9%81%D9%8A%D8%AF%D9%8A%D9%88--%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-%D8%AA%D8%AA%D9%86%D8%A8%D8%A3-%D8%A8%D9%80-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7--%D9%85%D9%86%D8%B0-9-%D8%B3%D9%86%D9%88%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%AF%D9%84%D9%8A%D9%84--%D9%83%D9%88%D9%86%D8%AA%D9%8A%D8%AC%D9%86-",
+            "name": "بوابة أخبار اليوم",
+            "path": "published/1_1580218359_بوابة أخبار اليوم - logo.jpg"
+        },
+        {
+            "link": " http://www.khabarmasr.com/news/get_news/3539161/%D9%81%D9%8A%D8%AF%D9%8A%D9%88%7C-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-%D8%AA%D8%AA%D9%86%D8%A8%D8%A3-%D8%A8%D9%80%C2%AB%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7%C2%BB-%D9%85%D9%86%D8%B0-9-%D8%B3%D9%86%D9%88%D8%A7%D8%AA-%D9%88%D8%A7%D9%84%D8%AF%D9%84%D9%8A%D9%84-%C2%AB%D9%83%D9%88%D9%86%D8%AA%D9%8A%D8%AC%D9%86%C2%BB",
+            "name": "خبر مصر",
+            "path": "published/2_1580218359_خبر مصر-لوغو.jpg"
+        },
+        {
+            "link": "",
+            "name": "",
+            "path": null
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.dailymail.co.uk/news/article-7923315/Fans-movie-Contagion-point-eerie-similarities-coronavirus-outbreak.html",
+            "name": "Daily mail",
+            "path": "sources/0_1580218358_Daily mail-logo.jpg"
+        },
+        {
+            "link": "https://www.imdb.com/title/tt1598778/?ref_=fn_al_tt_1",
+            "name": "IMDB",
+            "path": "sources/1_1580218359_IMDB-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل تنبأت أميركا بتفشي فايروس كورونا منذ 9 سنوات؟",
+    "updated_at": "2020-09-23 12:39:23",
+    "url_path": "/factcheck/2020/01/28/هل-تنبأت-أميركا-بتفشي-فايروس-كورونا-منذ-9-سنوات"
+}

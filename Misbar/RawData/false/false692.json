@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2023,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "سجلت تونس 3 إصابات بفايروس كورونا أول أيام العيد (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:#1d2129\">الإعلام الأجنبي يشيد بتونس، باعتبارها الدولة الوحيدة المحتفلة بالعيد دون فايروس كورونا (كوفيد-19).</span></span></p>\r\n",
+    "country": "TN",
+    "created_at": "2020-05-25 13:10:04",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ecb997cdb291620c8646c84",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تحقق &quot;مسبار&quot; من الخبر وتبين أنه زائف، إذ لم تذكر أيّة وسيلة&nbsp;إعلام أجنبية أنّ تونس الدولة الوحيدة المحتفية بعيد الفطر&nbsp;دون فايروس كورونا (كوفيد-19)، بل نقل بعضها&nbsp;عن رئيس الحكومة التونسيّ،</span><span style=\"background-color:white\"><span style=\"color:black\">&nbsp;<a href=\"https://www.facebook.com/Presidencedugouvernementtunisien/videos/3915283241847073/?q=pr%C3%A9sidence%20du%20gouvernement%20tunisien%20-%20%D8%B1%D8%A6%D8%A7%D8%B3%D8%A9%20%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9%20%D8%A7%D9%84%D8%AA%D9%88%D9%86%D8%B3%D9%25\" style=\"color:blue; text-decoration:underline\">الياس الفخفاخ</a></span></span><span style=\"color:black\">،&nbsp;أن البلاد تحكمت بصفة كبيرة في الفايروس مع إمكانية استئناف الموسم السياحيّ. كما</span><span style=\"background-color:white\"><span style=\"color:black\">&nbsp;سجّلت تونس&nbsp;في أول أيام عيد الفطر المبارك، 8 إصابات بالفايروس، من بينها 3 إصابات جديدة و 5 إصابات سابقة، أي أنها لم تكن خالية تماماً من فايروس كورونا المستجدّ.</span></span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"844\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fsantetunisie.rns.tn%2Fposts%2F3125419384163811&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت مواقع وصفحات إخبارية على مواقع التواصل الاجتماعي، خبراً يدّعي أن وسائل إعلام أجنبية احتفت بتونس، باعتبارها الدولة العربية الوحيدة التي احتفلت بعيد الفطر المبارك&nbsp;دون فايروس كورونا المستجدّ.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"Capture1.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_yhe4rqnwg.jpg\" style=\"height:499px; width:499px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_iqaumj435.jpg\" style=\"height:537px; width:494px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 314,
+        "left": 7.04443359375,
+        "path": "articles/1590401402GettyImages-1214865460.jpg",
+        "top": 87.89990234375,
+        "totalHeight": 423,
+        "totalWidth": 576,
+        "watermark_path": "articles/watermark-1590401402GettyImages-1214865460.jpg",
+        "width": 559
+    },
+    "post_date": "2020-05-25T10:47:00.000+03:00",
+    "published": [
+        {
+            "link": " https://www.facebook.com/192603584865740/posts/725257108267049/",
+            "name": "Asslema tunisie",
+            "path": "published/0_1590401401_3.jpg"
+        },
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=3598183293532057&id=1573497072667366",
+            "name": "الصريح أون لاين",
+            "path": "published/1_1590401402_1 (1).jpg"
+        },
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=3165562496838155&id=567436099984154",
+            "name": "Tn-media",
+            "path": "published/2_1590401402_6.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/852583051494927/posts/2998158720270672/",
+            "name": "Tunisia news",
+            "path": "published/3_1590401402_21761379_1462930967126796_7012267963254722116_n.jpg"
+        },
+        {
+            "link": "https://asslemafm.net/2020/05/24/%D9%88%D8%B3%D8%A7%D8%A6%D9%84-%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D8%AA%D9%88%D9%86%D8%B3-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D9%88%D8%AD%D9%8A/?fbclid=IwAR0zABByJl_Ptwvjz1UK1diWfrx_BL0khznsGZI-dl4c6DvSQLyzPnIhhPk",
+            "name": "asslema fm",
+            "path": "published/4_1590401402_4.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/santetunisie.rns.tn/photos/pcb.3125419384163811/3125423960830020/?type=3&theater",
+            "name": "وزارة الصحة",
+            "path": "sources/0_1590401402_12246663_992832277422543_7950766948967818017_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/AJA.Tunisia/",
+            "name": "الجزيرة",
+            "path": "sources/1_1590401402_5.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "تونس الدولة الوحيدة المُحتفلة بالعيد دون كورونا.. خبر زائف",
+    "updated_at": "2020-09-23 12:31:41",
+    "url_path": "/factcheck/2020/05/25/الإعلام-الأجنبي-تونس-الدولة-الوحيدة-المحتفلة-بالعيد-دون-كورونا-خبر-زائف"
+}

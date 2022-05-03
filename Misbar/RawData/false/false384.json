@@ -1,0 +1,119 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 581,
+    "author": {
+        "fullname": "خالد إسماعيل",
+        "id": "5e59256dd4a2295224257db3",
+        "photo": {
+            "name": "1582900589_صورة 2.jpg",
+            "path": "authors/1582900589_صورة 2.jpg"
+        }
+    },
+    "caption": "التقى نادر بكار بليفني عام 2016 ولم تنشر أي صورة لهما (تويتر)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\"><span style=\"background-color:white\"><span dir=\"RTL\" lang=\"AR-EG\">صورة تجمع وزيرة خارجية دولة الاحتلال السابقة تسيبي ليفني بالقيادي في حزب النور السلفي المصري نادر بكار. </span></span></p>\r\n",
+    "country": "EG",
+    "created_at": "2020-08-12 12:29:37",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5f33b6811dd585094026e5fe",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الصورة المتداولة وتبين أنها مفبركة، تم التلاعب بها بتركيب وجه نادر بكار وتغيير الخلفية، ووجد أنها متداولة منذ عام 2016، تاريخ لقاء نادر بكار بوزيرة الخارجية السابقة لدولة الاحتلال.&nbsp;ولم يعثر &quot;مسبار&quot; على&nbsp;صورة توثق اللاجتماع.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وتعود الصورة الأصلية لوزير الخارجية البريطاني الأسبق ويليام هيج أثناء لقائه تسيبي ليفني في 15 مايو/آيار عام 2014 في العاصمة البريطانية لندن .</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;يذكر أنّ حزب النور قال بعد الانتقادات، إنّبكار التقى بها بصفته طالباً في جامعة هارفارد الأميركية وليس بصفته الحزبية أو السياسية.</p>\r\n\r\n<p style=\"text-align:center\"><u><span style=\"color:blue\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_tmjsf2cpt.jpg\" style=\"height:539px; width:602px\" /></span></u></p>\r\n\r\n<p style=\"text-align:center\"><u><span style=\"color:blue\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_4lo33hwl7.jpg\" style=\"height:586px; width:602px\" /></span></u></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت حسابات على مواقع التواصل الاجتماعي، حديثاً، صورة تجمع القيادي في حزب النور السلفي نادر بكار، بوزيرة خارجية دولة الاحتلال السابقة تسيبي ليفني.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:black\"><img alt=\"00.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_04ij78619.jpg\" style=\"height:440px; width:544px\" /></span></p>\r\n\r\n<p style=\"text-align:center\"><strong><span style=\"color:black\"><img alt=\"0.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_dv40vc3zo.jpg\" style=\"height:393px; width:539px\" /></span></strong></p>\r\n\r\n<p style=\"text-align:center\"><strong><span style=\"color:black\"><img alt=\"000.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_in90yssjl.jpg\" style=\"height:435px; width:539px\" /></span></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 314,
+        "left": 23.10528564453125,
+        "path": "articles/1597224577Ee69PPfXYAICh50.jpg",
+        "top": 18.746826171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-1597224577Ee69PPfXYAICh50.jpg",
+        "width": 559
+    },
+    "post_date": "2020-08-12T10:17:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/habyababn3aday/status/1292076827079520256",
+            "name": "khobyababn3aday",
+            "path": "published/0_1597224576_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "link": "https://twitter.com/ha5153422/status/1292179050140708864",
+            "name": "حسن عبد الرحمن ",
+            "path": "published/1_1597224576_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo?fbid=627563521226163&set=a.128137964502057",
+            "name": "عبد الله خالد عبد الله",
+            "path": "published/2_1597224576_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://twitter.com/FattahFattah62/status/1292156986826657792",
+            "name": "SALAMA -1",
+            "path": "published/3_1597224576_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "link": "https://twitter.com/SadiqAh77/status/1292114375206227968",
+            "name": "SadiqAhmed",
+            "path": "published/4_1597224576_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "link": "https://twitter.com/TheyemeniJoker/status/1292556736377901061",
+            "name": "الجوكر اليمني حساب جديد",
+            "path": "published/5_1597224577_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "link": "https://twitter.com/SF76w6ma3ZIoAOx/status/1291869395749351432",
+            "name": "حمادي محمد عزيز Hamadi",
+            "path": "published/6_1597224577_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "link": "https://twitter.com/hHdfSeqeDvFuKQs/status/1290709671754584066",
+            "name": "قناوي ",
+            "path": "published/7_1597224577_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "link": "https://twitter.com/rogina91/status/1293011069506654212",
+            "name": "ذي أنجيلا ميركل ",
+            "path": "published/8_1597224577_101195326_747056042707733_6451845424750788608_o.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://commons.wikimedia.org/wiki/File:William_Hague_and_Tzipi_Livni_May_2014.jpg",
+            "name": "wikimedia Commons",
+            "path": "sources/0_1597224577_Commons-logo-en.svg.jpg"
+        },
+        {
+            "link": "https://tinyurl.com/y88n6ogb",
+            "name": "عربي 21",
+            "path": "sources/1_1597224577_GmWZKRVk_400x400.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صورة مفبركة للقيادي في حزب النور نادر بكار مع تسيبي ليفني",
+    "updated_at": "2020-09-25 21:04:01",
+    "url_path": "/factcheck/2020/08/12/صورة-مفبركة-للقيادي-في-حزب-النور-نادر-بكار-مع-تسيبي-ليفني"
+}

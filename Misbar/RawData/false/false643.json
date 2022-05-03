@@ -1,0 +1,108 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2922,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "الحديث عن أيِّ انسحاب لدولة قطر من مجلس التعاون الخليجي هو مجرد شائعات (Getty)",
+    "category": "Politics",
+    "claim": "<p>قطر تبلغ الكويت &quot;رسميًّا&quot; برغبتها الانسحاب من مجلس التعاون الخليجي</p>\r\n",
+    "country": "",
+    "created_at": "2020-06-07 11:41:38",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5edca842db291615470b69e3",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الخبر المتداول، وتبين أنه زائف، إذ نفت مساعد وزير الخارجية القطري والمتحدث الرسمي باسم وزارة الخارجية لولوة الخاطر في لقاء مع صحيفة العربي الجديد نية قطر الانسحاب من مجلس التعاون الخليجي. وقالت الخاطر إنَّ &quot;الحديث عن أيِّ انسحاب لدولة قطر من مجلس التعاون الخليجي هو مجرد شائعات تداولها الناس مؤخراً، ربما لأنَّ هنالك حالة تململ على المستوى الشعبي من جدوى وفاعلية أجهزة مجلس التعاون الخليجي فيما يتعلق باستمرار الأزمة الخليجية ودخولها للعام الرابع، ولا شك أنَّ تفعيل دور مجلس التعاون الخليجي هو ضرورة ليست خليجية فحسب وإنما إقليمية&quot;.</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">تداولت وسائل إعلام وإعلاميون وناشطون على حساباتهم بمواقع التواصل الاجتماعي، خبراً مفاده أنَّ قطر أبلغت الكويت &quot;رسميًّا&quot; برغبتها الانسحاب من مجلس التعاون الخليجي. وأشار الناشرون إلى أنَّ هناك جهوداً كويتية - عمانية لثنيها عن القرار، حيث وصل وزير الخارجية العماني يوسف بن علوي إلى الكويت.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"AR-SA\"><img src=\"https://images-prod.misbar.com/articlebody/origin_dm051le0p.jpg\" style=\"height:232px; width:598px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"AR-SA\"><img src=\"https://images-prod.misbar.com/articlebody/origin_6h9ju46zk.jpg\" style=\"height:290px; width:591px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 364,
+        "left": 4.7624359130859375,
+        "path": "articles/1591519296GettyImages-72690487.jpg",
+        "top": 21.775390625,
+        "totalHeight": 423,
+        "totalWidth": 654,
+        "watermark_path": "articles/watermark-1591519296GettyImages-72690487.jpg",
+        "width": 646
+    },
+    "post_date": "2020-06-07T11:23:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/yousef_alwnah/status/1261042505715519488",
+            "name": "يوسف علاونة",
+            "path": "published/0_1591519296_يوسف-علاونة.jpg"
+        },
+        {
+            "link": "https://www.elbalad.news/4322120",
+            "name": "صدى البلد",
+            "path": "published/1_1591519296_صدى البلد- لوغو.jpg"
+        },
+        {
+            "link": "https://al-marsd.com/462774.html?__cf_chl_jschl_tk__=c751a251c0e25e73b086c57d43d50ac3417ac43f-1589559675-0-AfZqPSz8nLA7-tXS0ckYjycDLZ2WHYyTV7V9WOwQbmBWCF9JdJ1sHG5-rxO2x_SXr50aGRsvGSP64PdUJX6quK6q_tVvbRE4zzUVvlXWQKS_ybX42zTaAFL2fuenFqueeAENCH2yi-wSZUCQHfVHgtNaa4KDUKCBD08oKW8Fua5fug_gMwqg70xmNUn4oZN_1aGR4Hwf0ABemxwiCUuoXci5IEtN4iCgKb5NZ3GyiS8jw-itB51bWLwQdPytJMwxKp-X6GzDBvSbEIAcR53OqAbJC_tuJG5uLZ9rujcNVJhjOXTvRmqMqhhIzqDsPWb1sL8PZcsKIPBpXc3MsFs557KoWw3o6gEEdxqaz2lwe5C0",
+            "name": "صحيفة المرصد",
+            "path": "published/2_1591519296_صحيفة المرصد.jpg"
+        },
+        {
+            "link": "https://mashahed.org/98038.html",
+            "name": "مشاهد",
+            "path": "published/3_1591520033_مشاهد2.JPG"
+        },
+        {
+            "link": "https://www.kachaf.com/details.php?n=5ebf23d21c2ee240762d205c",
+            "name": "كشَّاف",
+            "path": "published/4_1591519296_كشاف.JPG"
+        },
+        {
+            "link": "https://twitter.com/KSA24/status/1260701039394783234",
+            "name": "معالي - موجز الأخبار",
+            "path": "published/5_1591519296_معالي - موجز.jpg"
+        },
+        {
+            "link": "https://twitter.com/abualihussein19/status/1261216631662895111",
+            "name": "abu ali الديراني",
+            "path": "published/6_1591519296_abu ali الديراني.jpg"
+        },
+        {
+            "link": "https://twitter.com/0BUMcCZPY5iK7Xq/status/1261106969265438720",
+            "name": "عبدالرحمن شنان الدهمي",
+            "path": "published/7_1591519296_عبدالرحمن شنان الدهمي.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.alaraby.co.uk/politics/2020/6/5/%D9%84%D9%88%D9%84%D9%88%D8%A9-%D8%A7%D9%84%D8%AE%D8%A7%D8%B7%D8%B1-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%B9%D9%8A-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA%D9%8A%D8%A9-%D9%84%D8%AD%D9%84-%D8%A7%D9%84%D8%A3%D8%B2%D9%85%D8%A9-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC%D9%8A%D8%A9-%D9%85%D8%B3%D8%AA%D9%85%D8%B1%D8%A9",
+            "name": "العربي الجديد",
+            "path": "sources/0_1591519296_العربي الجديد-لوغو.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "قطر تبلغ الكويت برغبتها الانسحاب من مجلس التعاون الخليجي.. زائف",
+    "updated_at": "2020-09-25 17:29:20",
+    "url_path": "/factcheck/2020/06/07/قطر-تبلغ-الكويت-برغبتها-الانسحاب-من-مجلس-التعاون-الخليجي-خبر-زائف"
+}

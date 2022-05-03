@@ -1,0 +1,109 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 231,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "أوضحت عمدة أتلانتا أن الاحتفال كان العام الفائت (تويتر)",
+    "category": "Politics",
+    "claim": "<p>الرئيس الأميركي المنتخب جو بايدن يحتفل بعيد ميلاده دون كمامة.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-11-21 12:56:48",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 0,
+    "id": "5fb8e460bbfac2260e21fcbb",
+    "investigation": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقّق &quot;<a href=\"https://misbar.com/\"><span style=\"color:#3498db\">مسبار</span></a>&quot; من المقطع ووجد أنه مضلل، إذ يعود إلى العام الفائت، وبدأ اللبس بالحدوث حين شاركت عمدة مدينة أتلانتا الأميركية </span><span dir=\"RTL\" lang=\"AR-SA\">كيشا لانس بوتومز مقطع فيديو لجزء من الاحتفال بعيد ميلاد بايدن، ما أوحى أن المقطع حديث، لكنه كان العام الفائت قبل بدء انتشار فايروس كورونا في العالم، وتحوله إلى وباء، وقد نشرت المحامية والسياسة بوتومز توضيحاً بذلك.</span></p>\r\n\r\n<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">وأصبح بايدن أكبر رئيس أميركي منتخب سناً بعد فوزه على ترامب في الانتخابات الأميركية التي بدأت في الثالث من نوفمبر/تشرين الثاني الجاري واستمرت خمسة أيام في معركة انتخابية ليست بالسهلة.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_02ou1i25n.jpg\" style=\"height:486px; width:574px\" /></p>\r\n\r\n<p style=\"text-align:right\">اقرأ/أيضا:</p>\r\n\r\n<p style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/11/20/%D9%84%D9%85-%D9%8A%D8%B7%D9%84%D8%A8-%D8%A8%D8%A7%D9%8A%D8%AF%D9%86-%D9%85%D9%86-%D9%85%D8%A7%D9%83%D8%B1%D9%88%D9%86-%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D8%B0%D8%A7%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%B3%D9%84%D9%85%D9%8A%D9%86\">لم يطلب بايدن من ماكرون الاعتذار من المسلمين</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-JO\">تداولت حسابات على موقع التواصل الاجتماعي تويتر خلال اليومين الأخيرين، مقطع فيديو للرئيس الأميركي المنتخب جو بايدن خلال احتفاله بعيد ميلاده الذي يوافق تاريخ 20 نوفمبر/تشرين الثاني، وقد بلغ 78 عاماً، منتقدة عدم ارتدائه الكمامة الطبية في ظل جائحة فايروس كورونا.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_n7g93n75c.jpg\" style=\"height:314px; width:602px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_0z1v5ozg6.jpg\" style=\"height:648px; width:601px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1605956521Screenshot 2020-11-21 105351.jpg",
+        "watermark_path": "articles/watermark-1605956521Screenshot 2020-11-21 105351.jpg"
+    },
+    "post_date": "2020-11-21T09:31:00.000+03:00",
+    "published": [
+        {
+            "id": "5fb8e460dca19b38f2717da9",
+            "link": "https://twitter.com/RealNanny1/status/1330054316980310016",
+            "name": "Real Nanny",
+            "origin": "twitter",
+            "path": "sources/6f83e3220971a087d1979c9458a471097db40c21.jpg"
+        },
+        {
+            "id": "5fb8e460af265d61e7235400",
+            "link": "https://newsthud.com/joe-biden-celebrating-his-78th-birthday-today-dems-celebs-flood-twitter-with-well-wishes/",
+            "name": "News Thud",
+            "origin": "",
+            "path": "sources/02eaacecb39f2950b31dc32a3940a6a46db16a55.jpg"
+        },
+        {
+            "id": "5fb8e4609cbee45fc568cf64",
+            "link": "https://twitter.com/KeishaBottoms/status/1329826261812776960",
+            "name": "Keisha Lance Bottoms",
+            "origin": "twitter",
+            "path": "sources/aa6a26f858d0d951e95fb461d36757fb1ae84ab9.jpg"
+        },
+        {
+            "id": "5fb8e46025097a7632111254",
+            "link": "https://twitter.com/ScottAniol/status/1329955675078791169",
+            "name": "Scott Aniol ✠︎",
+            "origin": "twitter",
+            "path": "sources/7c07e4a63e2b7ba5f71df70ab72f712fc7687b48.jpg"
+        },
+        {
+            "id": "5fb8e460ed98ea76277e5140",
+            "link": "https://twitter.com/DCTheology/status/1329987868287246336",
+            "name": "DC Theology",
+            "origin": "twitter",
+            "path": "sources/e215a410fb2164b62a83901352fe9e42294b5e43.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fb8e4609cbee45fc568cf64",
+            "link": "https://twitter.com/KeishaBottoms/status/1329829265626554368",
+            "name": "Keisha Lance Bottoms",
+            "origin": "twitter",
+            "path": "sources/aa6a26f858d0d951e95fb461d36757fb1ae84ab9.jpg"
+        },
+        {
+            "id": "5fb8e4609cbee45fc568cf64",
+            "link": "https://twitter.com/KeishaBottoms/status/1329826261812776960",
+            "name": "Keisha Lance Bottoms",
+            "origin": "twitter",
+            "path": "sources/aa6a26f858d0d951e95fb461d36757fb1ae84ab9.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "فيديو بايدن دون كمامة في عيد ميلاده من العام الفائت",
+    "updated_at": "2020-11-21 14:03:47",
+    "url_path": "/factcheck/2020/11/21/فيديو-بايدن-دون-كمامة-في-عيد-ميلاده-من-العام-الفائت",
+    "was_notification_pushed": true
+}

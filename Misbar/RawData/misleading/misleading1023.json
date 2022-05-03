@@ -1,0 +1,138 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2569,
+    "author": {
+        "fullname": "مريم هواري",
+        "id": "5e299460d4a22939983a3ec5",
+        "photo": {
+            "path": "authors/1579791192_Maryam.jpg"
+        }
+    },
+    "caption": "سؤال انتقال المرض من أشخاص لا تظهر عليهم أعراض الإصابة لا يزال مفتوحاً (Getty)",
+    "category": "Health",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">منظّمة الصحّة العالمية تصل إلى نتيجة بأن حامل فايروس كورونا المستجد (كوفيد-19) غير مُعدي إلّا عند ظهور أعراض الإصابة عليه.</p>\r\n",
+    "country": "",
+    "created_at": "2020-06-11 16:25:18",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ee230bed6e4a90d5a657ac3",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الادعاء ووجد أنه مضلل. إذ أوضحت فان كيرخوف أن حديثها&nbsp;في الإيجاز الصحفي بتاريخ 8 يونيو/حزيران الجاري، عن ندرة انتقال فايروس كورونا من شخص لم تظهر عليه أعراض الإصابة، فُهم بشكلٍ خاطئٍ، وأنها لم تصرّح رسمياً باسم منظمة الصحّة العالمية، انّما كانت تُجيب على سؤال أحد الصحفيين. وأوضحت فان كيرخوف أن سؤال انتقال المرض من أشخاص لا تظهر عليهم أعراض الإصابة لا يزال مفتوحاً،&nbsp;وأضافت أنها قصدت فقط&nbsp;المرضى الذين لم تظهر عليهم أي أعراض على الإطلاق، وليس&nbsp;المصابين الذين لم يبدأوا بإظهار أعراض، فإن&nbsp;منظمة الصحّة العالمية تقدّر بنسبة 16% المصابين الذين لا يعانون من أعراض حقيقة ويمكنهم نقل الفايروس.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_nrwnw5trd.jpg\" style=\"height:814px; width:624px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت عدّة صفحات على موقعي التواصل الاجتماعي فيسبوك وتويتر&nbsp;<a href=\"https://www.youtube.com/watch?v=NQTBlbx1Xjs&amp;t=2s\"><span style=\"color:#e74c3c\">مقطعاً مصوّراً</span></a> لرئيسة وحدة الأمراض الناشئة والأمراض الحيوانية المنشأ في منظمة الصحّة العالمية، ماريا فان كيرخوف، وتصريحاً نُسب لمنظمة الصحّة العالمية بتاريخي 9 و 10 يونيو/حزيران الجاري، أن الأشخاص الحاملين لفايروس كورونا والذين لا تظهر عليهم أعراض الإصابة، وأهمها ارتفاع درجة الحرارة، به لا ينقلون الفايروس للآخرين.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_xb4a8eyc2.jpg\" style=\"height:864px; width:370px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_6t3vp878i.jpg\" style=\"height:486px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_q9l49r30r.jpg\" style=\"height:613px; width:414px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 183,
+        "left": 6.166259765625,
+        "path": "articles/1591881917GettyImages-1210301000.jpg",
+        "top": 3.69482421875,
+        "totalHeight": 190,
+        "totalWidth": 338,
+        "watermark_path": "articles/watermark-1591881917GettyImages-1210301000.jpg",
+        "width": 326
+    },
+    "post_date": "2020-06-11T16:00:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/herzallah_mm/status/1270542752514703361",
+            "name": "Dr. Mahmoud Herzallah",
+            "path": "published/0_1591881915_mahmoud herzallah.jpg"
+        },
+        {
+            "link": "https://twitter.com/DrJasimKhalfan/status/1270395616208785408",
+            "name": "د. جاسم خلفان",
+            "path": "published/1_1591881916_جاسم خلفان.jpg"
+        },
+        {
+            "link": "https://twitter.com/MahmoudAljarwa2/status/1270645430792183808",
+            "name": "Mahmoud Aljarwani",
+            "path": "published/2_1591881916_aljarwani.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/92466962472/videos/180377053414133/",
+            "name": "Hona London News",
+            "path": "published/3_1591881916_هنا لندن.jpg"
+        },
+        {
+            "link": "https://twitter.com/DrAlanaziH/status/1270430669232115715",
+            "name": "د. هـ ــيــ ــثــ ــم الــ ــعــ ــنــ ــز ي ‏",
+            "path": "published/4_1591881916_هيثم العنزي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1597499223761933&id=100005056112943",
+            "name": "احمد محمود",
+            "path": "published/5_1591881916_احمد محمود.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/alnajaf.hd/posts/195033558623678",
+            "name": "النجف الاشرف – Hd",
+            "path": "published/6_1591881916_النجف الاشرف.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Albawabaa/posts/982517455498828",
+            "name": "البوابة",
+            "path": "published/7_1591881916_البوابة.jpg"
+        },
+        {
+            "link": "https://twitter.com/sajdi9/status/1270461434900762625",
+            "name": "سجدي الروقي",
+            "path": "published/8_1591881916_سجدي الروقي.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "http://mubasher.aljazeera.net/news/%D9%85%D9%86%D8%B8%D9%85%D8%A9-%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9-%D8%AA%D9%88%D8%B6%D8%AD-%D8%B3%D9%88%D8%A1-%D9%81%D9%87%D9%85-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%84-%D8%B9%D8%AF%D9%88%D9%89-%D9%81%D9%8A%D8%B1%D9%88%D8%B3-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7",
+            "name": "الجزيرة مباشر",
+            "path": "sources/0_1591881916_الجزيرة مباشر.jpg"
+        },
+        {
+            "link": "https://www.washingtonpost.com/health/2020/06/09/asymptomatic-coronavirus-spread-who/",
+            "name": "The Washington Post",
+            "path": "sources/1_1591881916_the washington post.jpg"
+        },
+        {
+            "link": "https://abcnews.go.com/Health/remarks-rare-asymptomatic-spread-coronavirus-misunderstanding/story?id=71156748",
+            "name": "abc NEWS",
+            "path": "sources/2_1591881917_ABC News.jpg"
+        },
+        {
+            "link": "https://www.businessinsider.com/who-clarifies-comment-that-asymptomatic-transmission-is-very-rare-2020-6",
+            "name": "BUSINESS INSIDER",
+            "path": "sources/3_1591881917_BUISENESS INSIDER.jpg"
+        },
+        {
+            "link": "https://edition.cnn.com/2020/06/09/health/who-coronavirus-asymptomatic-spread-bn/index.html",
+            "name": "CNN",
+            "path": "sources/4_1591881917_cnn- eng.jpg"
+        },
+        {
+            "link": "https://www.the-scientist.com/news-opinion/who-comments-breed-confusion-over-asymptomatic-spread-of-covid-19-67626",
+            "name": "The Scientist",
+            "path": "sources/5_1591881917_the scientist.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "فايروس كورونا غير معدي إلّا عند ظهور أعراض.. حقيقة الخبر",
+    "updated_at": "2020-09-25 09:33:58",
+    "url_path": "/factcheck/2020/06/11/حامل-فايروس-كورونا-غير-معدي-إلا-في-حال-ظهور-عليه-أعراض-حقيقة-الخبر"
+}

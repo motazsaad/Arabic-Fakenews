@@ -1,0 +1,152 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 141,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "نظمت مجموعة فنية العرض في المدن التي تشهد اختناقاً مروريًّا (فيسبوك)",
+    "category": "Arts & Culture",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صور&nbsp;مهرجان سنوي&nbsp;في كندا، يتم فيه تحويل أحد الشوارع إلى &quot;نهر من الكتب&quot; والتبرع بها للتشجيع على القراءة.</p>\r\n",
+    "country": "CA",
+    "created_at": "2020-10-12 15:55:06",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 3,
+    "id": "5f84522a20fcc33abe70a8ed",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصور المتداولة&nbsp;ووجد أنها مضللة، وليست لمهرجان سنوي يقام في مدينة تورونتو الكندية، بل لاستعراض فني قامت به مجموعة <a href=\"https://www.luzinterruptus.com/?p=4073\" style=\"color:blue; text-decoration:underline\">interruptus luz</a> الإسبانية في المدينة يوم 21 أكتوبر/تشرين الأول عام 2016، ضمن فعاليات <a href=\"https://metro.co.uk/2016/11/04/a-river-of-10000-glowing-books-flooded-the-streets-of-toronto-6232264/\" style=\"color:blue; text-decoration:underline\">Nuit Blanche</a>.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">حولت المجموعة أحد شوارع تورنتو إلى &quot;نهر من الكتب&quot; بعد أن أغلقته بـ10 آلاف كتاب تشعّ منها الأضواء، ووضعتها في متناول الزائرين ضمن مشروع&nbsp;<span dir=\"LTR\">literature vs. Traffic</span>، الذي يهدف&nbsp;إلى مواجهة الازدحام، في المدن التي تعرف اختناقاً مروريًّا. ونظمت المجموعة الفنية العرض، سابقاً، في مدينة مدريد الإسبانية ومدينة نيويورك الأميركية عام 2010، وفي مدينة مبيورن الأسترالية عام 2012.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وبعد نجاح العرض في تورونتو، لاقى إقبالاً كبيراً في مدينة آن أربر الأميركية عام 2018.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"77.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_3f6idevi8.jpg\" style=\"height:491px; width:605px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"7.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_5btjhqdmg.jpg\" style=\"height:306px; width:605px\" /></span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/8Sdp6DwArVE\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات إخبارية وحسابات على مواقع التواصل الاجتماعي، حديثاً ومنذ سنوات، صورة تدّعي أنها لمهرجان سنويّ <span style=\"background-color:white\">يتم فيه تحويل أحد الشوارع إلى &quot;نهر من الكتب&quot; للتبرع بها</span>&nbsp;في مدينة تورونتو الكندية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"1.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_rggaff5dr.jpg\" style=\"height:329px; width:605px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_12eru6kim.jpg\" style=\"height:315px; width:605px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"00.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_4x2o0ico2.jpg\" style=\"height:446px; width:644px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 348,
+        "left": 7.32684326171875,
+        "path": "articles/1602507306MG_6917-Editar-copia.jpg",
+        "top": 16.808837890625,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1602507306MG_6917-Editar-copia.jpg",
+        "width": 618
+    },
+    "post_date": "2020-10-12T13:31:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/Remchi.Officiel/posts/1396874273808800",
+            "name": "Remchi - الرمشي",
+            "origin": "facebook",
+            "path": "published/0_1602507304_3280731c4ad8195255d1d473681c01e9af470e43.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/t3rfcom/photos/%D9%81%D9%8A-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%AA%D9%88%D8%B1%D9%86%D8%AA%D9%88-%D8%A8%D9%83%D9%86%D8%AF%D8%A7-%D9%8A%D9%82%D8%A7%D9%85-%D8%B3%D9%86%D9%88%D9%8A%D8%A7-%D9%85%D9%87%D8%B1%D8%AC%D8%A7%D9%86-%D9%8A%D8%AA%D9%85-%D9%81%D9%8A%D9%87-%D8%AA%D8%AD%D9%88%D9%8A%D9%84-%D8%A7%D8%AD%D8%AF-%D8%A7%D9%84%D8%B4%D9%88%D8%A7%D8%B1%D8%B9-%D8%A7%D9%84%D9%89-%D9%86%D9%87%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D9%83/2702958399924502/",
+            "name": "تعرف",
+            "path": "published/1_1602507305_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/irbid.Nice.City1/posts/1298540436972694/",
+            "name": "إربد يا محلى هواها",
+            "origin": "facebook",
+            "path": "published/2_1602507305_0a64a7cf7c0996372975a7830011c1f6a151ad07.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/Washwasha/posts/1543375382395378/",
+            "name": "Washwasha - وشوشة",
+            "origin": "facebook",
+            "path": "published/3_1602507305_56893ccc27e2f879878544c001d2214268f4045e.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/yousufreaderz/status/1150825072535494656",
+            "name": "يوسف بن حميد الشبلي",
+            "origin": "twitter",
+            "path": "published/4_1602507305_387710913f5675c0c5eef2d10ee22b762385f3b1.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/mohdalimufti/photos/a.107180870841595/184725063087175/",
+            "name": "قصص وعبر من الحياة",
+            "path": "published/5_1602507305_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/muntr00f4/status/1150713162775367680",
+            "name": "عش لذاتك",
+            "origin": "twitter",
+            "path": "published/6_1602507305_4f80e989ccd2a98ca93e35257ac3b1987f704b88.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/Edraakb/posts/2450119655247957/",
+            "name": "Edraak - إدراك",
+            "origin": "facebook",
+            "path": "published/7_1602507305_f3b6cecb4005f4b922ec0b08fd69dfb5a9525996.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/amhadjiba1/status/1068412647740194816",
+            "name": "عابرة سبيلي",
+            "origin": "twitter",
+            "path": "published/8_1602507305_75b739b568343fd83324b8b75a34ae080246e51f.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.boredpanda.com/book-installation-literature-vs-traffic-luzinterruptus-toronto/?utm_source=google&utm_medium=organic&utm_campaign=organic",
+            "name": "Bored Panda",
+            "path": "sources/0_1602507305_c84d8cae6fd4c4de18f11a545bc89a4e35511011.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.luzinterruptus.com/?p=4073",
+            "name": "luzinterruptus",
+            "path": "sources/1_1602507704_261949_412012682181508_1266720733_n.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://metro.co.uk/2016/11/04/a-river-of-10000-glowing-books-flooded-the-streets-of-toronto-6232264/",
+            "name": "Metro",
+            "path": "sources/2_1602507305_199a4e0b2f1da836e8cac6b8c4a29d7368f7bfb7.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.youtube.com/watch?v=8Sdp6DwArVE",
+            "name": "YouTube",
+            "path": "sources/3_1602507306_b9a4106558670da4ec1c0749f414d1e693436e6c.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الصور ليست لمهرجان سنوي في كندا بل لعرض فني عن الازدحام المروري",
+    "updated_at": "2020-10-12 16:22:50",
+    "url_path": "/factcheck/2020/10/12/الصور-ليست-لمهرجان-سنوي-في-كندا-بل-لعرض-فني-عن-الازدحام-المروري",
+    "was_notification_pushed": "true"
+}

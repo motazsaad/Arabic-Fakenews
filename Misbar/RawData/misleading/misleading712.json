@@ -1,0 +1,88 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 610,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "",
+    "category": "News",
+    "claim": "<p>صورة لطواقم غزة الطبية، ترتاح في أوج زيادة الضغط وتصاعد أزمة انتشار فايروس كورونا.</p>\r\n",
+    "country": "PS",
+    "created_at": "2020-08-28 21:43:07",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f49503b60211806a34c50d5",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; ووجد أن الصورة مضللة؛ فهي في مدينة ووهان الصينية عند انتشار فايروس كورونا المستجد، في الأشهر الأولى من العام الجاري، ورافق الصورة التي انتشرت في وسائل الإعلام العالمية في فبراير/شباط الفائت تعليقاً أنه لا وقت ولا مكان للنوم في مستشفيات ووهان.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_vz197ie9f.jpg\" style=\"height:561px; width:604px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت حسابات على موقعيّ التواصل الاجتماعي فيسبوك وتويتر، في الساعات الأخيرة، صورةً ادعت أنها من غزة للطواقم الطبية هناك، خلال أزمة انتشار فايروس كورونا وتصاعدها في قطاع غزة في الثلاثة أيام الأخيرة.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_30ipx992g.jpg\" style=\"height:681px; width:521px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_xoqlyl8yb.jpg\" style=\"height:661px; width:479px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 419,
+        "left": 4.75,
+        "path": "articles/1598640186كبا.JPG",
+        "top": 3.75,
+        "totalHeight": 423,
+        "totalWidth": 761,
+        "watermark_path": "articles/watermark-1598640186كبا.JPG",
+        "width": 745
+    },
+    "post_date": "2020-08-28T20:27:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/GID.POLICE/posts/2943585915753085",
+            "name": "المباحث العامة على موقع فيسبوك",
+            "path": "published/0_1598640999_كلكبا.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/11Palestinian/posts/1106487943080758",
+            "name": "فلسطيني وأفتخر",
+            "path": "published/1_1598640999_0_1596888660_facebook.jpg"
+        },
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=197681095111172&id=100046078476331",
+            "name": "رشاد أبو محمد",
+            "path": "published/2_1598640186_0_1596888660_facebook.jpg"
+        },
+        {
+            "link": "https://twitter.com/gid_gaza/status/1299086172367585280",
+            "name": "المباحث العامة على موقع تويتر",
+            "path": "published/3_1598640999_كلكبا.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.khmertimeskh.com/686356/death-toll-in-coronavirus-outbreak-in-hubei-rises-to-294-overnight/?fbclid=IwAR3FZb-vbTsM-C6hcyQdnpnVQ20n5ds3DeTaB1PyecZG8VdiMyqfceSLb1Y",
+            "name": "Khmer Times",
+            "path": "sources/0_1598640186_DDDDD.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "كورونا غزة: هذه الصورة ليست لطواقمها الطبية",
+    "updated_at": "2020-09-25 20:58:26",
+    "url_path": "/factcheck/2020/08/28/كورونا-غزة-هذه-الصورة-ليست-لطواقمها-الطبية"
+}

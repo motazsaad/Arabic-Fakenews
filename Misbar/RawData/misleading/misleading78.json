@@ -1,0 +1,145 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 191,
+    "author": {
+        "fullname": "حسام الوكيل",
+        "id": "5e7cb2a9d4a2297a3f1db883",
+        "photo": {
+            "name": "1585230505_1hGLjIBq_400x400.jpg",
+            "path": "authors/1585230505_1hGLjIBq_400x400.jpg"
+        }
+    },
+    "caption": "الخبر قديم وليس حديثاً (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\"><span style=\"color:black\">قضت محكمة بحرينية بسجن سعودي 6 أشهر وترحيله بعد ذلك من البلاد، بعد أن تمت إدانته بدخول البحرين بطريقة غير مشروعة عن طريق السباحة.</span></p>\r\n",
+    "country": "BH",
+    "created_at": "2021-01-03 18:29:49",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 1,
+    "id": "5ff1e2ed69b6f7674e33adfb",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تحقق &quot;</span><a href=\"https://misbar.com/\" target=\"_blank\"><span style=\"color:#3498db\">مسبار</span></a><span style=\"color:black\">&quot; من الخبر، ووجد أنه مضلل، إذ أن الواقعة تعود إلى عام 2013، وليست حديثة، حين تداولت <span style=\"color:blue\"><u><span style=\"color:black\"><a href=\"https://www.emaratalyoum.com/life/four-sides/2013-11-17-1.624305?ot=ot.AMPPageLayout\" style=\"color:blue; text-decoration:underline\"><span style=\"color:black\"><span style=\"color:black\">وسائل إعلام</span></span></a></span></u></span> في ذلك الوقت خبر إصدار المحكمة البحرينية حكمًا بحبس شاب سعودي، بعد أن توجه الشاب لجسر الملك فهد الفاصل بين البلدين، وقام بإيقاف سيارته عند موقف المطاعم، وتذكر أنه لا يحمل جواز سفره، وقرر الدخول إلى بحرين سباحة، إلا أنَّ السلطات البحرينية رصدته؛ فأُلقي القبض عليه وأُحيل إلى المحاكمة.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"color:black\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_270afgszl.jpg\" style=\"float:left; height:624px; width:581px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"color:black\">اقرأ/ي أيضا</span></p>\r\n\r\n<p><a href=\"https://misbar.com/factcheck/2020/09/21/%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%84%D9%8A%D8%B3-%D9%84%D9%87%D8%AC%D9%88%D9%85-%D8%B4%D9%8A%D8%B9%D8%A9-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B3%D9%81%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D8%A8%D8%B9%D8%AF-%D8%A5%D8%B9%D9%84%D8%A7%D9%86-%D8%A7%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D8%B9\" target=\"_blank\"><span style=\"color:#3498db\">الفيديو ليس لبحرينيين شيعة هجموا على السفارة الأميركية بعد إعلان التطبيع</span></a></p>\r\n\r\n<p><a href=\"https://misbar.com/factcheck/2020/12/26/%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D8%AA%D8%AA%D8%B5%D8%AF%D8%B1-%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D9%81%D9%8A-%D8%AC%D8%B1%D8%B9%D8%A7%D8%AA-%D9%84%D9%82%D8%A7%D8%AD-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-%D9%84%D9%84%D9%81%D8%B1%D8%AF-%D8%AD%D8%AA%D9%89-%D8%A7%D9%84%D9%84%D8%AD%D8%B8%D8%A9-%D9%88%D9%84%D9%8A%D8%B3%D8%AA-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84\" target=\"_blank\"><span style=\"color:#3498db\">البحرين تتصدر دول العالم في جرعات لقاح كورونا للفرد حتى اللحظة، وليست إسرائيل</span></a></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "سباحة",
+        "جسر الملك فهد"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\"><span style=\"background-color:white\"><span style=\"color:#222222\">تتداول حسابات وصفحات على موقعي التواصل الاجتماعي فيسبوك وتويتر، حديثاً، خبراً حول إصدار محكمة بحرينية حكمًا بالحبس 6 شهور والترحيل، بحق شاب سعودي دخل إلى البحرين سباحة.</span></span><img src=\"https://images-prod.misbar.com/articlebody/origin_fy8zozqgn.jpg\" style=\"float:left; height:502px; width:624px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"color:black\"><img src=\"https://images-prod.misbar.com/articlebody/origin_09iljik33.jpg\" style=\"float:left; height:358px; width:624px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 356,
+        "left": 3.60003662109375,
+        "path": "articles/1609687789GettyImages-976767988.jpg",
+        "top": 20.7998046875,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1609687789GettyImages-976767988.jpg",
+        "width": 633
+    },
+    "post_date": "2021-01-03T15:56:00.000+03:00",
+    "published": [
+        {
+            "id": "5ff1e2ecf9a95815b83eb20d",
+            "link": "https://twitter.com/no_oo51/status/1345708318619283458?s=20",
+            "name": "&rlm;هيئة المشاهير",
+            "origin": "twitter",
+            "path": "sources/fdc49fae5bd5f5584fb91146866236fd1af6dd61.jpg"
+        },
+        {
+            "id": "5f9e9cf8a276124c7a352373",
+            "link": "https://twitter.com/ImeGrop/status/1345295013740228608?s=20",
+            "name": "جريدتكم",
+            "origin": "twitter",
+            "path": "sources/b2a210111c03af56d5f9d3344fbec854ccb007e3.jpg"
+        },
+        {
+            "id": "5f992779aca2775165178e1a",
+            "link": "https://twitter.com/KhaitanNews/status/1345286937620443137?s=20",
+            "name": "جريدة خيطان",
+            "origin": "twitter",
+            "path": "sources/f4ccbb1526e0aedf4b874fec1f52e15d6fd8ab7e.jpg"
+        },
+        {
+            "id": "5ff1e2ec7789d5603927bfa2",
+            "link": "https://twitter.com/miroaccount/status/1345640243081437184?s=19",
+            "name": "mireille",
+            "origin": "twitter",
+            "path": "sources/35913a6db26be01fdd225d10ad618ff1f7a92578.jpg"
+        },
+        {
+            "id": "5ff1e2ecedc09a6cf3509b1f",
+            "link": "https://twitter.com/AjelNews_q8/status/1345449791829012480?s=20",
+            "name": "خبر عاجل لكم",
+            "origin": "twitter",
+            "path": "sources/50d61fbf11f8e291b3f94595b2c67d2199daec2d.jpg"
+        },
+        {
+            "id": "5ff1e2ec243b0334993fcae8",
+            "link": "https://twitter.com/torabia00/status/1345116990671904769?s=20",
+            "name": "ترابية",
+            "origin": "twitter",
+            "path": "sources/f4ceea33556b023b5ffd4597cdaa6b0bedcdc9e3.jpg"
+        },
+        {
+            "id": "5ff1e2ece1431c6dfe1d108a",
+            "link": "https://twitter.com/Batmankuwt/status/1345306567252594689?s=20",
+            "name": "Ammar Hajji عمار حاجي",
+            "origin": "twitter",
+            "path": "sources/2c45c1c9987ed58b944c0381ce04133253013de5.jpg"
+        },
+        {
+            "id": "5ff1e2ec76ae2d3f103b3a44",
+            "link": "https://twitter.com/aku1ma/status/1344997312691625985?s=20",
+            "name": "#Op&bull;جايكوب",
+            "origin": "twitter",
+            "path": "sources/4763341651231129885ec0d2a61011be68c197fe.jpg"
+        },
+        {
+            "id": "5ff1e2ed457cda3a1e2e8f0c",
+            "link": "https://twitter.com/yosefzahranii/status/1345170796017278977?s=20",
+            "name": "Yousef Al zahrani",
+            "origin": "twitter",
+            "path": "sources/8adc8854cfe271bf5e193c86c4fffb090a652ea5.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fa66fd004b0b562413886b1",
+            "link": "https://akhbaar24.argaam.com/amp/154706?s=09",
+            "name": "اخبار 24",
+            "origin": "",
+            "path": "sources/2e40a0c557dfc475e5f8179b6e84427deada1390.jpg"
+        },
+        {
+            "id": "5f8fe9a5c6524b46f11e7514",
+            "link": "https://www.emaratalyoum.com/life/four-sides/2013-11-17-1.624305?ot=ot.AMPPageLayout",
+            "name": "الإمارات اليوم",
+            "origin": "",
+            "path": "sources/7244a489fb42878e4395dcb0366947ddf1785184.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "خبر الحكم على سعودي بالسجن لدخوله البحرين سباحة.. قديم",
+    "updated_at": "2021-01-03 18:56:23",
+    "url_path": "/factcheck/2021/01/03/خبر-الحكم-على-سعودي-بالسجن-لدخوله-البحرين-سباحة-قديم",
+    "was_notification_pushed": true
+}

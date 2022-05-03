@@ -1,0 +1,104 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 4675,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "الصورة لحكومة جاستن ترودو في كندا عام 2015 (فيسبوك)",
+    "category": "Science",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">صورة جماعية لباحثين ومستكشفي لقاح فايروس كورونا المستجدّ (كوفيد-19) من بعض الدول</span> من بينها الجزائر.</p>\r\n",
+    "country": "DZ",
+    "created_at": "2020-07-23 20:36:43",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f19caab163be307f3573f6a",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">تحقق &quot;مسبار&quot; من الصورة المتداولة ووجد أنها مضللة بغاية السخرية، نشرتها بعض الصفحات على أنّها صحيحة. إذ تعود الصورة الأصلية<span style=\"color:#1c1e21\"> <a href=\"https://www.theatlantic.com/international/archive/2015/11/canada-cabinet-trudeau/414280/\" style=\"color:blue; text-decoration:underline\">لرئيس الوزراء الكندي</a></span></span> جاستن ترودو بعد الإعلان عن فريق وزراء حكومته في أوتاوا، في 4 نوفمبر/تشرين الثاني عام 2015.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"00.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_l9u5uqw0l.jpg\" style=\"height:525px; width:605px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وتعود صورة المرأة التي تمت فبركتها بتغطية الوجه والرأس، لوزيرة التجارة الدولية في كندا، كريستيا فريلاند.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"22222.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_3kzazzg80.jpg\" style=\"height:602px; width:564px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول حسابات وصفحات جزائرية على مواقع التواصل الاجتماعي، حديثاً، صورة تدّعي أنها <span style=\"background-color:white\">لمجموعة من الباحثين ومكتشفي لقاح فايروس كورونا المستجدّ (كوفيد-19) من بعض الدول</span> من بينها&nbsp;الجزائر.&nbsp;<span style=\"background-color:white\">وتظهر في الصورة المتداولة سيدة تلبس غطاء رأس ووجه،</span> <span style=\"background-color:white\">ذُكر أنها جزائرية ضمن طاقم الاكتشاف</span><span style=\"background-color:white\">. وتداولت بعض الصفحات الصورة بسخرية.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:#1c1e21\"><img alt=\"22.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_85hm1iew7.jpg\" style=\"height:424px; width:597px\" /></span></span></span><br />\r\n<span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:#1c1e21\"><img alt=\"1.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_rvnqkgnzb.jpg\" style=\"height:293px; width:605px\" /></span></span></span><br />\r\n<span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:#1c1e21\"><img alt=\"222.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_bmhnurvxs.jpg\" style=\"height:478px; width:502px\" /></span></span></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 314,
+        "left": 3.248046875,
+        "path": "articles/1595525803110228791_906683629853405_8641089573914347804_n (1).jpg",
+        "top": 10.108154296875,
+        "totalHeight": 423,
+        "totalWidth": 611,
+        "watermark_path": "articles/watermark-1595525803110228791_906683629853405_8641089573914347804_n (1).jpg",
+        "width": 559
+    },
+    "post_date": "2020-07-23T18:21:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/958965767620086/photos/a.961062507410412/1470085179841473/?type=3&theater",
+            "name": "يوم اخر في افريقيا",
+            "path": "published/0_1595525802_94229990_1389229394593719_8122207937591508992_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=140508437689032&set=gm.4416921471681802&type=3&theater",
+            "name": "Ammar Aiche",
+            "path": "published/1_1595525802_101358241_113997217006821_6894903687770869776_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=152070383158395&set=p.152070383158395&type=3&theater",
+            "name": "Moehamd Amin",
+            "path": "published/2_1595525802_74391513_144128747285892_8251258161251551227_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/105148601160240/photos/a.122129156128851/168478304827269/?type=3&theater",
+            "name": "جزائر الغد2",
+            "path": "published/3_1595525802_103488860_149398586735241_3032965359394411273_n.jpg"
+        },
+        {
+            "link": "https://twitter.com/ZaroutaYoucef/status/1286138189174972416",
+            "name": "Zarouta Youcef",
+            "path": "published/4_1595525802_PYpk4zQd_400x400.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/04DZoumelbouaghi/photos/a.103686314343660/319976396047983/?type=3&theater",
+            "name": "04 dz système",
+            "path": "published/5_1595525802_107614131_311463703565919_4481849286454245153_n.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.theatlantic.com/international/archive/2015/11/canada-cabinet-trudeau/414280/",
+            "name": "The atlantic",
+            "path": "sources/0_1595525803_téléchargement.jpg"
+        },
+        {
+            "link": " https://www.cbc.ca/news/politics/full-list-of-justin-trudeau-s-2015-cabinet-1.3300699",
+            "name": "cbc.ca",
+            "path": "sources/1_1595525803_téléchargement (1).jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه ليست صورة جماعية لمكتشفي لقاح كورونا بينهم جزائرية",
+    "updated_at": "2020-09-25 10:44:37",
+    "url_path": "/factcheck/2020/07/23/هذه-ليست-صورة-جماعية-لمستكشفي-لقاح-كورونا-بينهم-جزائرية"
+}

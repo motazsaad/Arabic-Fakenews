@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 3545,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "لم تصرح عبير موسي بذلك خلال كلمتها (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">رئيس الحزب&nbsp;الدستوري الحر التونسي عبير موسي، تقول إنّ كلّ شخص يصلي هو إخواني إرهابي يجب وضعه في السجن.</span></p>\r\n",
+    "country": "TN",
+    "created_at": "2020-07-11 21:05:50",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f09ff7e163be306ac4c5cd9",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"background-color:white\"><span style=\"color:#1c1e21\">تحقق &quot;مسبار&quot; من التصريح المتداول وتبين أنه زائف، إذ لم تقل عبير موسي &quot;إن كل شخص يصلي هو إخواني إرهابي يجب وضعه في السجن&quot;، خلال الوقفة التي نظمها </span></span>حزبها&nbsp;<span style=\"background-color:white\"><span style=\"color:#1c1e21\">يوم 4 يوليو/تموز الجاري.&nbsp;</span></span></span><span style=\"background-color:white\"><span style=\"color:#1c1e21\">وتأتي الوقفة، على خلفية إسقاط مكتب مجلس نواب الشعب، يوم 3 يوليو/تموز الجاري، اللائحة التي قدمتها كتلة حزبها بهدف تصنيف جماعة الإخوان المسلمين كتنظيم إرهابي.</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:#1c1e21\">ودعت موسي خلال الوقفة إلى جمع الإمضاءات لسحب الثقة من رئيس مجلس نواب الشعب، راشد الغنوشي.</span></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">تتداول صفحات إخبارية وحسابات على مواقع التواصل الاجتماعي، منذ يوم 4 يوليو/تموز الجاري، تصريحاً منسوباً لرئيسة الحزب الدستوري الحر المعارض في تونس، خلال وقفة احتجاجية لحزبها في العاصمة التونسية، تقول فيه إنّ &quot;<span style=\"background-color:white\"><span style=\"color:#1c1e21\">كل شخص يصلي هو إخواني إرهابي يجب وضعه في السجن</span></span>&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:#1c1e21\"><img alt=\"00.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_23ndbhaze.jpg\" style=\"height:476px; width:400px\" /></span></span></span><br />\r\n<span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:#1c1e21\"><img alt=\"2.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_pjefnrgx6.jpg\" style=\"height:449px; width:496px\" /></span></span></span><br />\r\n<span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:#1c1e21\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_bzvwops25.jpg\" style=\"height:402px; width:602px\" /></span></span></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 328,
+        "left": 11.10528564453125,
+        "path": "articles/1594490749106986608_2342181386085730_3850242762656885891_o.jpg",
+        "top": 27.746826171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-1594490749106986608_2342181386085730_3850242762656885891_o.jpg",
+        "width": 584
+    },
+    "post_date": "2020-07-11T18:50:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/Amira04228818/status/1280765339056443393",
+            "name": "Amira",
+            "path": "published/0_1594490749_1.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/108231714156332/photos/a.108235114155992/160375545608615/?type=3&theater",
+            "name": "Notre Tunisie Our Tunisia تونس متاعنا",
+            "path": "published/1_1594490749_2.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/tadhamen.brjelha/posts/634441444097631",
+            "name": "حي التضامن - الصفحة الرسمية",
+            "path": "published/2_1594490749_79144286_487540138787763_7517517675216502784_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=301169554564793&id=101442294537521",
+            "name": "الوقع دكالي",
+            "path": "published/3_1594490749_3.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/i3lamyon/posts/148923583445836",
+            "name": "زمن الكلاب",
+            "path": "published/4_1594490749_4.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/815881392250863/permalink/888217225017279/",
+            "name": "انس البهلوان",
+            "path": "published/5_1594490749_106934188_135474021510875_7963935186141721721_n.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/watch/live/?v=274145233692908&ref=watch_permalink",
+            "name": "كلمة عبير موسي كاملة",
+            "path": "sources/0_1594490749_107094139_2342183649418837_6402808680045666931_o.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لم تقل عبير موسي \"إنّ كل شخص يُصلي هو إخواني إرهابي يجب سجنه\"",
+    "updated_at": "2020-09-25 20:14:32",
+    "url_path": "/factcheck/2020/07/11/لم-تقل-عبير-موسي-إن-كل-شخص-يصلي-هو-إخواني-إرهابي-يجب-سجنه"
+}

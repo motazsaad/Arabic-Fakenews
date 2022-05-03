@@ -1,0 +1,104 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2459,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "الأمر إحياء لعادة عثمانية قديمة (تويتر)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">خطيب مسجد آيا صوفيا يحمل سيف محمد الفاتح في أول صلاة جمعة في المسجد.</span></p>\r\n",
+    "country": "TR",
+    "created_at": "2020-07-25 12:03:05",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5f1bf549163be306f01376db",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من الادعاء المتداول ووجد أنّه ينطوي على زيف، إذ لم يذكر أي مصدر تركي رسمي، أن السيف الذي كان في يد رئيس الشؤون الدينية، هو سيف السلطان محمد الفاتح. وقالت <a href=\"https://www.yenisafak.com/hayat/ayasofyada-dikkat-ceken-an-diyanet-isleri-baskani-erbas-hutbeye-elinde-kilicla-cikti-3550512\" style=\"color:blue; text-decoration:underline\">وسائل إعلامية</a> تركية إن الأمر إحياء لعادة عثمانية قديمة، في إشارة رمزية لفتح مدينة القسطنطينية (إسطنبول)، وأنه ظل ذلك تقليداً متبعاً في آيا صوفيا على مدار 481 عاماً. وبالبحث عن السيف الأصلي لمحمد الفاتح تبين أنه يشبه بالفعل السيف الذي كان في يد علي أرباش، أثناء خطبة آيا صوفيا.&nbsp;لكن وجد &quot;مسبار&quot; أيضاً العديد من <a href=\"https://www.osmanlihediyelik.com/fatih-sultan-mehmed-kilici-1-m-replika--1469\" style=\"color:blue; text-decoration:underline\">السيوف القديمة</a>، تعود لبعض السلاطين العثمانيين، على نفس شكل سيف رئيس الشؤون الدينية، وهي معروضة في قصر توبكابي في مدينة إسطنبول، والذي كان مركز إقامة سلاطين الدولة العثمانية لأربعة قرون.&nbsp;ويرجح أن الأمر عبارة عن علامة رمزية لإحياء العادة القديمة لا أكثر. </span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_janwx7rcy.jpg\" style=\"height:400px; width:623px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_1v7izjgjg.jpg\" style=\"height:863px; width:454px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_948icgi8h.jpg\" style=\"height:482px; width:624px\" /></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"747\" src=\"https://www.youtube.com/embed/pSXJQQjdvEQ\" width=\"996\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات على مواقع التواصل الاجتماعي، منذ أمس 24 يوليو/تموز، صورة لرئيس الشوؤن الدينية في تركيا، علي أرباش، وهو يلقي&nbsp;أول خطبة جمعة من مسجد آيا صوفيا في مدينة إسطنبول، وذلك بعد فترة توقف للعبادة فيه استمرت 86 عاماً كان فيها متحفاً. وصعد أرباش المنبر وهو يحمل سيفاً في يده. وادّعت الحسابات أنه سيف السلطان العثماني محمد الفاتح، فاتح القسطنطينية. </span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ypxstr4ow.jpg\" style=\"height:517px; width:545px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_amhfu6mwn.jpg\" style=\"height:652px; width:543px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_s2h5c62at.jpg\" style=\"height:620px; width:549px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/159566778420.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-159566778420.jpg",
+        "width": 752
+    },
+    "post_date": "2020-07-25T12:00:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/TurkiShalhoub/status/1286624104104198145",
+            "name": "تركي الشلهوب",
+            "path": "published/0_1595667784_تركي الشلهوب.jpg"
+        },
+        {
+            "link": "https://twitter.com/Political_dr4/status/1286668280728416256",
+            "name": "الدكتور",
+            "path": "published/1_1595667910_الدكتور.jpg"
+        },
+        {
+            "link": "https://twitter.com/TRintheworld/status/1286631092364222464",
+            "name": "Turkey In The World",
+            "path": "published/2_1595667910_Turkey In The World.jpg"
+        },
+        {
+            "link": "https://twitter.com/Rawda_horra/status/1286663513226829830",
+            "name": "أَمةُ الله",
+            "path": "published/3_1595667910_أَمةُ الله.jpg"
+        },
+        {
+            "link": "https://twitter.com/Mohammedhebish/status/1286656943122251776",
+            "name": "Hebish",
+            "path": "published/4_1595667910_Hebish.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.yenisafak.com/hayat/ayasofyada-dikkat-ceken-an-diyanet-isleri-baskani-erbas-hutbeye-elinde-kilicla-cikti-3550512",
+            "name": "Yenisafak",
+            "path": "sources/0_1595667784_Yenisafak.jpg"
+        },
+        {
+            "link": "https://www.trthaber.com/haber/kultur-sanat/kutsal-emanetler-topkapi-sarayinda-sergileniyor-317167.html",
+            "name": "trt haber",
+            "path": "sources/1_1595667910_trt haber.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=pSXJQQjdvEQ",
+            "name": "فيديو من داخل توب كابي",
+            "path": "sources/2_1595667910_yt_1200-vflhSIVnY.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "خطيب آيا صوفيا لم يكن يحمل سيف محمد الفاتح على المنبر",
+    "updated_at": "2020-09-25 19:57:46",
+    "url_path": "/factcheck/2020/07/25/خطيب-آيا-صوفيا-لم-يكن-يحمل-سيف-محمد-الفاتح-على-المنبر"
+}

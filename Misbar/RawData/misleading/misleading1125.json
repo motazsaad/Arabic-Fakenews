@@ -1,0 +1,92 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1843,
+    "author": {
+        "fullname": "هيثم جودية",
+        "id": "5e295291d4a2296ff0065605",
+        "photo": {
+            "name": "1579766417_هيثم .JPG",
+            "path": "authors/1579766417_هيثم .JPG"
+        }
+    },
+    "caption": "الصورة من الولايات المتحدة وليست من لبنان (مواقع التواصل الاجتماعي)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة لأفعى ضخمة في أحد المراكز الهاتفية في لبنان.</p>\r\n",
+    "country": "LB",
+    "created_at": "2020-05-20 13:26:46",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ec505e6db291657035c4685",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة، وتأكّد من أنها غير صحيحة، فهي من الولايات المتحدة وليست من لبنان أو سورية أبو من بلدان المغرب العربي، إذ عثر عليها &quot;مسبار&quot; منشورة منذ 5 مايو/أيار الجاري على صفحة محمية <span dir=\"LTR\">Konza Prairie</span> على &quot;تويتر&quot;، التي تقع شمال شرقي ولاية كانساس في الولايات المتحدة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_evep7n2yy.jpg\" style=\"height:310px; width:554px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات وحسابات على موقع التواصل الاجتماعي فيسبوك، صورة لأفعى ضخمة في أحد مراكز الاتصالات في لبنان. وذكر المنشور المرافق للصورة المتداولة أن الصورة التُقطت في بلدة الغازية في جنوب لبنان. فيما أشار بعض المستخدمين أن مكان التقاطها هو محافظة طرطوس السوريّة، وذكر آخرون أنّ هذه الأفعى تتواجد في تونس والجزائر وتسمى بأفعى التبن وهي غير سامة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_eqg5p2gfn.jpg\" style=\"height:324px; width:554px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_akhbihuoa.jpg\" style=\"height:321px; width:553px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_qmvljjah7.jpg\" style=\"height:329px; width:554px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_er8h1nd1h.jpg\" style=\"height:320px; width:553px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 196,
+        "left": 2.45697021484375,
+        "path": "articles/1589970404EXNdaERWkAAgWUk.jpg",
+        "top": 201.83203125,
+        "totalHeight": 423,
+        "totalWidth": 352,
+        "watermark_path": "articles/watermark-1589970404EXNdaERWkAAgWUk.jpg",
+        "width": 349
+    },
+    "post_date": "2020-05-20T13:12:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/groups/1857375427921168/permalink/2641620892829947/",
+            "name": " Marjeyoun Web",
+            "path": "published/0_1589970404_Marjeyoun Web.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=164112405103866&set=a.103924257789348&type=3&theater",
+            "name": "Sabaa Slim",
+            "path": "published/1_1589970404_Sabaa Slim.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/NeWs.pulse.lb/photos/a.106961204208313/152885919615841/?type=3&theater",
+            "name": "شبكة نبض الإخبارية",
+            "path": "published/2_1589970404_شبكة نبض الإخبارية.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/107502370815884/posts/149589969940457/?app=fbl",
+            "name": "شبكة رصد نيوز أونلاين الإخبارية",
+            "path": "published/3_1589970404_شبكة رصد نيوز أونلاين الإخبارية.jpg"
+        },
+        {
+            "link": " https://www.facebook.com/JamalAlimwase/photos/a.420006081462064/2798963306899651/?type=3&theater",
+            "name": "جمال العمواسي",
+            "path": "published/4_1589970404_جمال العمواسي.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/KonzaDirector/status/1257451703231754245?fbclid=IwAR2KGnB_KWE_WiNlDX8_i0Vkqa7oQ08NXrnF02YTewlSTgfyQNflWs0HH9A",
+            "name": "Konza Director",
+            "path": "sources/0_1589970404_Konza Director.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ما حقيقة صورة الأفعى الضخمة في أحد مراكز الاتصالات في لبنان؟",
+    "updated_at": "2020-09-25 16:32:34",
+    "url_path": "/factcheck/2020/05/20/ما-حقيقة-صورة-الأفعى-الضخمة-في-أحد-مراكز-الاتصالات-في-لبنان"
+}

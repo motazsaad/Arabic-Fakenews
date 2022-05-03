@@ -1,0 +1,87 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1521,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "المشاهد للفيضانات التي سببتها أمواج تسونامي في اليابان عام 2011 (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">فيديو يُظهر الدمار والفيضانات التي سببها إعصار يضرب الصين والهند واليابان.</p>\r\n",
+    "country": "CN",
+    "created_at": "2020-03-02 14:57:19",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e5cf49fd4a229062922f294",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">المشاهد التي تظهر في الفيديو الذي نشرته صفحة &quot;جريدة أنباء الوطن الآن&quot; غير صحيحة، فهي ليست لإعصار يضرب الصين والهند واليابان. علاوة على عدم وجود أي أنباء عن إعصار ضرب حديثاً منطقة شرق آسيا، فقد وجد &quot;مسبار&quot; أنّ المشاهد المتداولة مأخوذة من فيديو منشور على &quot;يوتيوب&quot;، وتعود إلى &quot;تسونامي&quot; الذي ضرب السواحل الشمالية الشرقية لليابان في مارس/ آذار عام 2011، وذلك بعد حصول هزة أرضية بلغت شدتها 9 درجات على مقياس ريختر.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/1LJsBagi51E\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت صفحة &quot;جريدة أنباء الوطن الآن&quot; على موقع فيسبوك، مقطع فيديو حاز آلاف المشاهدات والمشاركات، ادّعت أنّه يُظهر الفيضانات والأضرار التي سببها إعصار ضرب حديثاً الصين والهند واليابان. وعلّقت الصفحة على الفيديو بالقول &quot;إعصار وفيضان يدمر الصين واليابان والهند غضب الله في الطبيعة.. مشاهد لا تصدَّق رعب حقيقي&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_71br0x87s.jpg\" style=\"height:543px; width:436px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_mdwfe934y.jpg\" style=\"height:599px; width:411px\" /></span></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 353,
+        "left": 6.1343994140625,
+        "path": "articles/1583150239GettyImages-110506543.jpg",
+        "top": 24.3880615234375,
+        "totalHeight": 423,
+        "totalWidth": 636,
+        "width": 627
+    },
+    "post_date": "2020-03-02T14:45:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/watch/live/?v=820061235135485&ref=watch_permalink",
+            "name": "جريدة أنباء الوطن الآن",
+            "path": "published/0_1583150239_جريدة أنباء الوطن الآن-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=232422074598244&id=100034913580572&__tn__=-R",
+            "name": "محمد شعبان",
+            "path": "published/1_1583150239_محمد شعبان-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=229928588185008&id=100035036041381&__tn__=-R",
+            "name": "Ibrahim Omar",
+            "path": "published/2_1583150239_Ibrahim Omar-logo.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=1LJsBagi51E&feature=share",
+            "name": "الفيديو الأصلي",
+            "path": "sources/0_1583150239_YouTube-logo.jpg"
+        },
+        {
+            "link": "https://www.theatlantic.com/photo/2016/03/5-years-since-the-2011-great-east-japan-earthquake/473211/",
+            "name": "The Atlantic",
+            "path": "sources/1_1583150239_The Atlantic-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "فيديو مضلل لإعصار يضرب الصين والهند واليابان",
+    "updated_at": "2020-09-23 12:37:38",
+    "url_path": "/factcheck/2020/03/02/فيديو-مضلل-لإعصار-يضرب-الصين-والهند-واليابان"
+}

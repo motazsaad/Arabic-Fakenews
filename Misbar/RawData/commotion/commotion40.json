@@ -1,0 +1,147 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 1,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 12716,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "ينطوي عنوان الخبر المتداول على إثارة (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">بعيون عجيبة ولدغة سامة.. &quot;دبابير القتل&quot; تغزو أميركا لأول مرة.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-05-05 13:35:03",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eb14157db291631271cc9e4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تتبع &quot;مسبار&quot; الخبر، ووجد أنّه بالفعل تمّ رصد عددٍ مما يُعرف بــ &quot;الدبابير الآسيوية العملاقة&quot; في ولاية واشنطن الأميركية، إلّا أنّ عنوان الخبر المتداول في عدّة مواقع ووسائل إعلام عربية انطوى على إثارة، فالقول إنّ الولايات المتحدة تتعرض لغزوٍ من تلك الدبابير القاتلة يُعدّ مبالغة، خصوصاً أنّ&nbsp;عدد الدبابير المرصود كان قليلاً للغاية، لذا فإنّ وصف الظاهرة في عنوان الخبر بــ &quot;الغزو&quot; ليس سوى إثارة محضة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وتمتلك الدبابير الآسيوية حجماً كبيراً يقدّر ببوصتين (قرابة 5 سنتمترات)، وتمتاز بلسعات سامة قد تُهدد حياة الإنسان إذا تعرض لعضّات متكررة. ويمثل ظهور هذا النوع من الدبابير خطراً على تربية النحل، بسبب قدرتها على اختراق خلايا النحل.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_kzcktk0qs.jpg\" style=\"height:429px; width:708px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت مواقع إلكترونية ووسائل إعلام عربية&nbsp;خبراً جاء عنوانه بصيغة موحدة تقول &quot;بعيون عجيبة ولدغة سامة.. دبابير القتل تغزو أميركا لأول مرة&quot;. وأثار وصول الدبابير العملاقة القادمة من آسيا الكثير من المخاوف في ظل أزمة انتشار جائحة كورونا.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fsabah.alarabiya%2Fvideos%2F1066027397104126%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_yy7d2cxtg.jpg\" style=\"height:796px; width:587px\" /></span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/ttSdCMAxVt8\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_mml1idn4c.jpg\" style=\"height:641px; width:506px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_kdwhblxpo.jpg\" style=\"height:711px; width:691px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 352,
+        "left": 3.50164794921875,
+        "path": "articles/1588674902GettyImages-1210938358.jpg",
+        "top": 34.400146484375,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1588674902GettyImages-1210938358.jpg",
+        "width": 626
+    },
+    "post_date": "2020-05-05T13:22:00.000+03:00",
+    "published": [
+        {
+            "id": "5f919c6a8fa48a61502b1fea",
+            "link": "https://www.skynewsarabia.com/technology/1341429-%D8%A8%D8%B9%D9%8A%D9%88%D9%86-%D8%B9%D8%AC%D9%8A%D8%A8%D8%A9-%D9%88%D9%84%D8%AF%D8%BA%D8%A9-%D8%B3%D8%A7%D9%85%D8%A9-%D8%AF%D8%A8%D8%A7%D8%A8%D9%8A%D8%B1-%D8%A7%D9%84%D9%82%D8%AA%D9%84-%D8%AA%D8%BA%D8%B2%D9%88-%D8%A7%D9%94%D9%85%D9%8A%D8%B1%D9%83%D8%A7-%D9%84%D8%A7%D9%94%D9%88%D9%84-%D9%85%D8%B1%D8%A9",
+            "name": "سكاي نيوز عربية",
+            "origin": "",
+            "path": "published/2_1596906588_opVag4Rr_400x400 copy.jpg"
+        },
+        {
+            "id": "5f91b8bc59fc680fee66090e",
+            "link": "https://www.facebook.com/sabah.alarabiya/videos/1066027397104126/",
+            "name": "العربية",
+            "origin": "",
+            "path": "published/1_1588674901_قناة العربية لوغو.jpg"
+        },
+        {
+            "id": "5f91b8bcc2444e563c7cbf82",
+            "link": "https://www.facebook.com/haqaaq/posts/2772259059672611?__xts__[0]=68.ARBJbLYynpPYfymkHdQXJ1td-v2l7GevUfk79X6zR-g5krnP_UQr-PW5-j6VqFZ3w65B8I-GkGlxrpdcikbI-peJHAu26QCFvMevsYqx-je4UWXBH-JXJUzqeMJs-4ObyQLx8Q8OXJN9QuF0YFqeDxxn9BvOVdttC5GXKRTIaHqEhB9zMv1XjdnTpHUYhwhWrZ4XkBBH9eEGMEnvgXRgGhDbR9otXsmUPQvPbCKFVUzCXfVJwQcQnrb5bc8-vSQ42F8Zw_aIZihsb37rlBRQodOkE_4pkTOEzfq1YDzTXSY8r26ArwTSmBvhWfOee8B22_ndwqSBzTNwaCMunpR2E2tjWDQ9&__tn__=-R",
+            "name": "حقائق مدهشة",
+            "origin": "",
+            "path": "published/2_1588674902_حقائق مدهشة-لوغو.jpg"
+        },
+        {
+            "id": "5f8fe9a5c6524b46f11e7514",
+            "link": "https://www.emaratalyoum.com/life/four-sides/2020-05-03-1.1343976",
+            "name": "الإمارات اليوم",
+            "origin": "",
+            "path": "sources/7244a489fb42878e4395dcb0366947ddf1785184.jpg"
+        },
+        {
+            "id": "5f91b8bcdbf6fa43e95087ad",
+            "link": "https://akhbarelyom.com/news/newdetails/3042195/1/%D8%A8%D8%B9%D9%8A%D9%88%D9%86-%D8%B9%D8%AC%D9%8A%D8%A8%D8%A9-%D9%88%D9%84%D8%AF%D8%BA%D8%A9-%D8%B3%D8%A7%D9%85%D8%A9..--%D8%AF%D8%A8%D8%A7%D8%A8%D9%8A%D8%B1-%D8%A7%D9%84%D9%82%D8%AA%D9%84--%D8%AA%D8%BA%D8%B2%D9%88-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-%D9%84%D8%A3%D9%88%D9%84-%D9%85%D8%B1%D8%A9",
+            "name": "بوابة أخبار اليوم",
+            "origin": "",
+            "path": "published/4_1588674902_بوابة أخبار اليوم - logo.jpg"
+        },
+        {
+            "id": "5f8eb18ba3818a4eb81ad3d2",
+            "link": "https://www.youtube.com/watch?v=ttSdCMAxVt8",
+            "name": "قناة يوتيوب",
+            "origin": "",
+            "path": "published/7_1603128187_72cba5bc67b31d9d753cf43c35e93c59a1b0f98d.jpg"
+        },
+        {
+            "id": "5f90763001b7e87d0f2efd47",
+            "link": "https://www.albayan.ae/five-senses/east-and-west/2020-05-05-1.3850123",
+            "name": "صحيفة البيان",
+            "origin": "",
+            "path": "sources/39f15c9f80d9e3b44f1e3699ed872ebce52a4eed.jpg"
+        },
+        {
+            "id": "5f91b8bc26013018495b97e1",
+            "link": "https://www.akhbarona.com/technology/298485.html",
+            "name": "أخبارنا المغربية",
+            "origin": "",
+            "path": "published/7_1588674902_أخبارنا المغربية- لوغو.jpg"
+        },
+        {
+            "id": "5f91b8bc149cac75a9473235",
+            "link": "https://nabd.com/s/72260163-1ad174/%D8%A7%D9%84%D8%AD%D9%84%D9%82%D8%A9-%D8%A7%D9%84%D8%AE%D8%A7%D9%85%D8%B3%D8%A9-%D9%85%D9%86-2020..-%D8%AF%D8%A8%D8%A7%D8%A8%D9%8A%D8%B1-%D8%B9%D9%85%D9%84%D8%A7%D9%82%D8%A9-%D8%AA%D8%BA%D8%B2%D9%88-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D9%88%D8%A7%D9%84%D8%B3%D9%83%D8%A7%D9%86-%D9%81%D9%8A-%D8%AD%D8%A7%D9%84%D8%A9-%D8%B1%D8%B9%D8%A8",
+            "name": "البوابة",
+            "origin": "",
+            "path": "published/8_1588674902_البوابة-لوغو.jpg"
+        },
+        {
+            "id": "5f91b8bce0484912b60e1fb7",
+            "link": "http://www.nrttv.com/AR/News.aspx?id=25857&MapID=6",
+            "name": "NRT عربية",
+            "origin": "",
+            "path": "published/9_1588674902_NRT عربية.jpg"
+        }
+    ],
+    "result": "commotion",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f8dddc9675718689f7f08d6",
+            "link": "https://www.nytimes.com/2020/05/02/us/asian-giant-hornet-washington.html",
+            "name": "www.nytimes.com",
+            "origin": "",
+            "path": "sources/6ef182af576c3d3ef5751d0e996d7e926f9d91f8.jpg"
+        },
+        {
+            "id": "5f91b8bc01b7e87d0f2efdb6",
+            "link": "https://www.alhurra.com/varieties/2020/05/03/%D8%AE%D8%B7%D8%B1-%D8%AC%D8%AF%D9%8A%D8%AF-%D8%A7%D9%84%D8%AF%D8%A8%D8%A7%D8%A8%D9%8A%D8%B1-%D8%A7%D9%84%D8%A2%D8%B3%D9%8A%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A7%D9%82%D8%A9-%D8%AA%D8%B5%D9%84-%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9",
+            "name": "الحرة",
+            "origin": "",
+            "path": "sources/1_1588674902_الحرة.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "\"دبابير القتل\" تغزو أميركا.. ما القصة؟",
+    "updated_at": "2020-10-22 19:52:12",
+    "url_path": "/factcheck/2020/05/05/-دبابير-القتل-تغزو-أميركا-ما-القصة"
+}

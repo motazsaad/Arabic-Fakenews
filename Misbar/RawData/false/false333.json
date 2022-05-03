@@ -1,0 +1,89 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 520,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "تواصل مسبار مع مكتب المنظمة في في العاصمة الأردنية عمّان (getty)",
+    "category": "Health",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">عاجل.. يمكنك الآن الاستفادة من المبادرة التي أطلقتها منظمة الصحة العالمية، وهي عبارة عن مبلغ مالي محدد 500 يورو، إذا كنت من الذين يعانون من ظروف مادية صعبة بسبب كورونا، سجل عبر الرابط.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-08-26 15:16:33",
+    "created_by": "5f39b5a51dd585076701cb94",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f4652a160211806544ea5cb",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من الخبر المتداول وتبين أنه زائف، إذ لم تعلن منظمة الصحة العالمية عن أي مبادرات مالية، للذين يعانون من ظروف مادية صعبة بسبب فايروس&nbsp;كورونا .</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">وتواصل &quot;مسبار&quot; مع مكتب منظمة الصحة العالمية في العاصمة الأردنية عمّان، الذي نفى الخبر وأكد أن لا أساس له من الصحة، وأن المنظمة لم تطلق مثل هذه المبادرات على الإطلاق.</span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات وصفحات على وسائل التواصل الاجتماعي، ومجموعات واتساب، حديثاً، خبراً يقول &quot;عاجل.. يمكنك الآن الاستفادة من المبادرة التي أطلقتها منظمة الصحة العالمية، وهي عبارة عن مبلغ مالي محدد 500 يورو، إذا كنت من الذين يعانون من ظروف مادية صعبة بسبب فايروس&nbsp;كورونا المستجد، سجل عبر الرابط&quot;.</span><br />\r\n<img src=\"https://images-prod.misbar.com/articlebody/origin_inynj2ylj.jpg\" style=\"height:422px; width:455px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_m7c91tlfb.jpg\" style=\"height:451px; width:461px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_bxkpkzj5t.jpg\" style=\"height:626px; width:486px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1598444192GettyImages-1228088591.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1598444192GettyImages-1228088591.jpg",
+        "width": 752
+    },
+    "post_date": "2020-08-26T15:14:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.whatsapp.com/",
+            "name": "مجموعات واتساب",
+            "path": "published/0_1598444643_واتس اب.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/www.lblbe.co/posts/114038040414084?__xts__%5B0%5D=68.ARCg_oOk0Bko9pBQnnoMCJQ57pCcXqVkg9izVsp6J8BZLz1-neiNbbKk2KD7nLup-CY9ikqLO3beXiTU0XQFzlKyENCBUTy_traAII3qd70uDOqVkmZHSN2LfsIz4OmyrLLVb8Qx2-xgFAirMleBv4p53PGUAHyNiaKF31e-f5tGrysEH7poRcKkI8hxHw9wva-QxrF86QAzFW1_2b1l6GMlUSHcsUpNJeTGZrPPDNqb-TYlOEr4WgLN5kGoIqi_VtmstGYrAAI0k6M8uj3uKctQ64JtETCbCjoupiGZ019PJ7IDlO1i_MPfS4X53yCvUMAS4CbQoiIwzKtb8opyR0M&__tn__=-R",
+            "name": "لبلبي",
+            "path": "published/1_1598444643_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/mohaeman.king/posts/2753292498224202",
+            "name": "مهيمن البياتي",
+            "path": "published/2_1598444643_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=112353667244848&set=gm.611416266426998&type=3&__xts__%5B0%5D=68.ARC8PcNbUNK-GI4PQfdJ2Sz004FzSuNad-Rwf7TpoBQ6fXThDGK8LcviiJHRF_pCRv1zzdzgq9VRi2lG8ZbQ4wHlB_5ed1R9-HnMLCFBYhiWtohLk7cC4Ds_QMHH_zbJxUlLM5rTrm5HPwX-TGgrCrfXX-Ly-VfMiU1yN4m9H5mSDxqqC25JjZ9KiMnP_oqdM-KW7161tpWFU-2NrLb_nWH-ggBEf6o9N6Gf_A8eYI_tH6qdRWfED3HWnz0vvXBLSvfhnP-5i7CaRcOhMVFWYlBUCHWjsqjl&__tn__=-R",
+            "name": "Åbdélwâhb Él Wâhâb",
+            "path": "published/3_1598444643_facebook.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/WHOJordan",
+            "name": "WHO Jordan",
+            "path": "sources/0_1598444192_اردن.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "منظمة الصحة لم تعلن عن مبادرات مالية للمتضررين من كورونا",
+    "updated_at": "2020-09-25 20:17:18",
+    "url_path": "/factcheck/2020/08/26/منظمة-الصحة-لم-تعلن-عن-مبادرات-مالية-للمتضررين-من-كورونا"
+}

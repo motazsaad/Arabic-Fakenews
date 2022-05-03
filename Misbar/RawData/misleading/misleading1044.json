@@ -1,0 +1,98 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 40014,
+    "author": {
+        "fullname": "صباح الخطيب",
+        "id": "5edc1b38db291674e776e9a3",
+        "photo": {
+            "path": "authors/1591643228_7.jpg"
+        }
+    },
+    "caption": "الطبيب أحمد مصطفى ليس أول من اكتشف فائدة سمّ النحل (Getty)",
+    "category": "Health",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"background-color:white\"><span dir=\"RTL\" lang=\"AR-SA\">طبيب مصري يكتشف لقاحاً لفايروس&nbsp;كورونا المستجد (كوفيد-19) من سم النحل.</span></span></p>\r\n",
+    "country": "EG",
+    "created_at": "2020-06-07 00:12:33",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5edc06c1db291630175796f3",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الخبر وتبين أنه مضلل، إذ أنّ الطبيب المصري ليس أول من اكتشف إمكانية استخدام سمّ النحل كلقاح&nbsp;للمصابين&nbsp;بفايروس كورونا المستجد، فسبق أن نشرت الجريدة الرسمية للجمعية البرازيلية لعلم السموم، مقالة علمية للطبيب الصيني &quot;وي يانج&quot;، بتاريخ 30 مارس/أذار الفائت&nbsp;عن فعالية سمّ النحل، أي قبل إعلان&nbsp;الطبيب المصري بقرابة ثلاثة أشهر.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وتحدث &quot;يانج&quot; عن إجراء جمعية النحالين المحلية&nbsp;مسحاً&nbsp;على عينة تشمل 5115 نحال في الفترة الممتدة بين 23 فبراير/شباط و 8 مارس/أذار من العام الجاري، 723 منهم في مدينة ووهان مركز تفشي الفيروس، وأكد أنّه لم تظهر على أي منهم&nbsp;أعراض مرتبطة بـ كوفيد 19، وكانت صحتهم طبيعية تماماً.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وأشار إلى أنّ التعرض إلى لسعات النحل قد يكون سبباً في الوقاية من الفايروس، بعد أن ثبت تأثيره على تحفيز الجهاز المناعي.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">ولم يؤكد الطبيب الصيني إمكانية استخدام سم النحل بشكل نهائي على البشر، لأنّه قد يسبب حسّاسية مميتة، واقترح تجربته على الحيوانات أولاً.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_5n7bmridg.jpg\" style=\"height:585px; width:624px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحاتٌ إخبارية وحساباتٌ على مواقع التواصل الاجتماعيّ، مقطع فيديو للطبيب المصري أحمد مصطفى، استشاري الأمراض الصدرية ورئيس قسم العناية المركزية في مستشفى الصدر في الجيزة، خلال لقاء إعلاميّ يدّعي فيه أنّه اكتشف لقاحاً لفايروس كورنا المستجد (كوفيد-19)، مستخرجاً من سم النحل.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وذكر الطبيب أنه وجد علاجاً فعالاً لفايروس الانفلونزا عن طريق سم النحل، ما ألهمه لاحقاً لتجربته كعلاج لفايروس كورونا المستجد.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_d6igfyj1n.jpg\" style=\"height:418px; width:623px\" /></span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_okfbzdtvk.jpg\" style=\"height:556px; width:590px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_mmb3d283e.jpg\" style=\"height:744px; width:570px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 348,
+        "left": 10.33331298828125,
+        "path": "articles/1591477952GettyImages-966791574.jpg",
+        "top": 10,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1591477952GettyImages-966791574.jpg",
+        "width": 619
+    },
+    "post_date": "2020-06-06T21:36:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.youtube.com/watch?v=nYkNv6VaWgA&feature=youtu.be",
+            "name": "المحور",
+            "path": "published/0_1591477951_280px-Elmehwar.logo.png.jpg"
+        },
+        {
+            "link": "https://www.gomhuriaonline.com/طبيب%20مصرى%20يكتشف%20لقاح%20كورونا%20من%20سم%20نحل%20العسل%20%20%20بالفيديو/631159.html",
+            "name": "الجمهورية",
+            "path": "published/1_1591477952_gamhoreyya-online.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/250529722817381/permalink/263722318164788/",
+            "name": "Ahmed Mostafa",
+            "path": "published/2_1591477952_11.jpg"
+        },
+        {
+            "link": "https://twitter.com/7asnboali/status/1268304000279031811",
+            "name": "HasnAlsman",
+            "path": "published/3_1591477952_sVZ6Dtd-_400x400.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/eman.m.fathi/posts/10161117691131959",
+            "name": "EmanFathiDarwish",
+            "path": "published/4_1591477952_18404238_10156880905881959_1933234599691896363_o.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7190514/",
+            "name": "ncbi",
+            "path": "sources/0_1591477952_1.jpg"
+        },
+        {
+            "link": "https://www.sciencedirect.com/science/article/pii/S0041010120302245",
+            "name": "ScienceDirect",
+            "path": "sources/1_1591477952_2.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "مصري يكتشف لقاح كورونا من سم النحل.. حقيقة القصة",
+    "updated_at": "2020-09-25 19:55:50",
+    "url_path": "/factcheck/2020/06/07/مصري-يكتشف-لقاح-كورونا-من-سم-النحل-حقيقة-القصة"
+}

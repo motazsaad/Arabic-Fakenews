@@ -1,0 +1,123 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 3310,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الصورتان لأنفاق في مقاطعة كِنت البريطانية وليستا تحت مرفأ بيروت (تويتر)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورتان لأنفاق مكتشفة تحت مرفأ بيروت.</p>\r\n",
+    "country": "LB",
+    "created_at": "2020-08-10 16:10:42",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f3147521dd58507845dac5f",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الادعاء، وتأكّد أنّ الصورتين ليستا لأنفاقٍ تحت مرفأ بيروت، إنّما لأنفاقٍ في مقاطعة كِنت في المملكة المتحدة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_dru3yv8yd.jpg\" style=\"height:584px; width:619px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><strong><img src=\"https://images-prod.misbar.com/articlebody/investigation_snnt5k0ve.jpg\" style=\"height:611px; width:579px\" /></strong></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت حسابات وصفحات على موقعي التواصل الاجتماعي فيسبوك وتويتر، صورتين زعمت أنهما لأنفاقٍ اكتُشفت تحت مرفأ بيروت بعد حدوث الانفجار يوم 4 أغسطس/آب الجاري.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><img src=\"https://images-prod.misbar.com/articlebody/origin_847cpjtf9.jpg\" style=\"height:389px; width:457px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><img src=\"https://images-prod.misbar.com/articlebody/origin_b4wkeleme.jpg\" style=\"height:464px; width:526px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><img src=\"https://images-prod.misbar.com/articlebody/origin_1h4sri9a5.jpg\" style=\"height:527px; width:482px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><img src=\"https://images-prod.misbar.com/articlebody/origin_r8jqzzjlh.jpg\" style=\"height:399px; width:472px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 397,
+        "left": 22.417724609375,
+        "path": "articles/1597065041Ee-x195X0AIsnra.jpg",
+        "top": 24,
+        "totalHeight": 423,
+        "totalWidth": 730,
+        "watermark_path": "articles/watermark-1597065041Ee-x195X0AIsnra.jpg",
+        "width": 705
+    },
+    "post_date": "2020-08-10T15:57:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/akhbarlebnan24.24/photos/a.101623177938068/304518084315242/?type=3&__tn__=H-R",
+            "name": "أخبار لبنان 24/24",
+            "path": "published/0_1597065040_اخبار لبنان  - logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/sirwansali/posts/1374131569463692",
+            "name": "Sirwan Anwar Salih",
+            "path": "published/1_1597065040_Sirwan Anwar Salih.jpg"
+        },
+        {
+            "link": "https://twitter.com/aboufir53160561/status/1292427792894763015",
+            "name": "Abou Firas",
+            "path": "published/2_1597065040_Abou Firas.jpg"
+        },
+        {
+            "link": "https://twitter.com/mh197351/status/1292493977103589377",
+            "name": "محمد أبو اصطيف",
+            "path": "published/3_1597065040_Twitter-logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/hassan_mayssaa/status/1292486819137953793",
+            "name": "Mayssa",
+            "path": "published/4_1597065040_Mayssa.jpg"
+        },
+        {
+            "link": "https://twitter.com/almarsadonline/status/1292421781094105088",
+            "name": "AllMarsadOnline",
+            "path": "published/5_1597065041_AllMarsadOnline.jpg"
+        },
+        {
+            "link": "https://twitter.com/00074Saleem/status/1292425858079232000",
+            "name": "المحامي الفلسطيني",
+            "path": "published/6_1597065041_المحامي الفلسطيني.jpg"
+        },
+        {
+            "link": "https://twitter.com/_2020202020/status/1292716085507051520",
+            "name": "ابن الرافدين",
+            "path": "published/7_1597065041_ابن الرافدين.jpg"
+        },
+        {
+            "link": "https://twitter.com/Rach_d22/status/1292522409027936263",
+            "name": "راشد ليفربول بطل إنجلترا",
+            "path": "published/8_1597065041_راشد ليفربول بطل إنجلترا.jpg"
+        },
+        {
+            "link": "https://twitter.com/M_Shadi3/status/1292448782878216193",
+            "name": "M Shadi Dr.",
+            "path": "published/9_1597065041_M Shadi Dr..jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.mirror.co.uk/news/uk-news/revealed-cave-network-hundreds-lived-10444696",
+            "name": "Mirror",
+            "path": "sources/0_1597065041_Mirror-logo.jpg"
+        },
+        {
+            "link": "https://www.kentlive.news/whats-on/whats-on-news/kent-underground-tunnels-hidden-beneath-3841354",
+            "name": "Kentlive",
+            "path": "sources/1_1597065041_Kentlive.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه ليست أنفاقاً اكتُشفت تحت مرفأ بيروت",
+    "updated_at": "2020-09-25 06:30:08",
+    "url_path": "/factcheck/2020/08/10/هذه-ليست-أنفاق-اكتشفت-تحت-مرفأ-بيروت"
+}

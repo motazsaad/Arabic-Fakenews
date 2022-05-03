@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 10595,
+    "author": {
+        "fullname": "محمد اللكود",
+        "id": "5e27f69dd4a2294c812c1af3",
+        "photo": {
+            "path": "authors/1579694210_صورة شخصية.jpg"
+        }
+    },
+    "caption": "لم تُنشر أسماء فلسطينيين باعوا أراضٍ \"لاسرائيليين\" (Getty)",
+    "category": "Politics",
+    "claim": "<p><span dir=\"RTL\" lang=\"AR-SA\">نشر الاحتلال الإسرائيلي أسماء فلسطينيين باعوا أراضٍ في محافظة الخليل لإسرائيليين.</span><br />\r\n<br />\r\n&nbsp;</p>\r\n",
+    "country": "",
+    "created_at": "2020-06-14 20:50:24",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ee66360d6e4a9656a369854",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الادعاء زائف. إذ نفى محافظ الخليل، اللواء جبرين البكري، الأخبار المتداولة في بيانٍ رسميٍ، مُشيرا إلى أنها نُشرت من قبل &quot;جهات مشبوهة تسعى إلى ضرب النسيج الاجتماعي&quot;، وأكد أنه ستُتّخذ إجراءات قانونية ضد مُثيري هذه الشائعات. وتجدُر الإشارة إلى أنه لم يجد &quot;مسبار&quot; الأخبار المتداولة في إعلام أو منصّات رقمية تابعة لدولة الاحتلال، ويُذكر أنّ ناشري الخبر المتداول لم يُشيروا لمصدره، ممّا يزيد من انعدام مصداقيّته.</p>\r\n\r\n<p><img src=\"https://images-prod.misbar.com/articlebody/investigation_qld92cah5.jpg\" style=\"height:870px; width:602px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت عدّة صفحات على موقع التواصل الاجتماعي فيسبوك، خبرا مفاده أن &quot;إسرائيل&quot; نشرت أسماء لفلسطينيين زعمت أنهم باعوا أراضٍ في محافظة الخليل لإسرائيليين.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_sp8mqifbg.jpg\" style=\"height:263px; width:493px\" /></p>\r\n\r\n<p><img src=\"https://images-prod.misbar.com/articlebody/origin_lnh2riq8l.jpg\" style=\"height:329px; width:602px\" /><br />\r\n<img src=\"https://images-prod.misbar.com/articlebody/origin_v68l448y4.jpg\" style=\"height:325px; width:602px\" /><br />\r\n&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 185,
+        "left": 64.89706420898438,
+        "path": "articles/1592157023GettyImages-2058072.jpg",
+        "top": 2.431640625,
+        "totalHeight": 187,
+        "totalWidth": 446,
+        "watermark_path": "articles/watermark-1592157023GettyImages-2058072.jpg",
+        "width": 328
+    },
+    "post_date": "2020-06-14T20:42:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=165414155033584&id=108156234092710",
+            "name": "الظاهرية نيوز",
+            "path": "published/0_1592157022_الظاهرية نيوز.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/lell.2020/posts/252557799527619",
+            "name": "الحارة 4K",
+            "path": "published/1_1592157022_الحارة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/hedron.g/posts/148946520052469",
+            "name": "الخليل.الحاره التحتا",
+            "path": "published/2_1592157022_الحارة التحتى.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=176060487207483&id=111868263626706",
+            "name": "جنين لايف - jenin Live",
+            "path": "published/3_1592157022_جنين لايف.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1586188794872285&id=250190501805461",
+            "name": "اخبار جماعين",
+            "path": "published/4_1592157022_جماعين.jpg"
+        },
+        {
+            "link": "http://www.sarahanews.net/article/عاجل-اسرائيل-تبدأ-بنشر-اسماء-من-باعوا.html",
+            "name": "صراحة نيوز",
+            "path": "published/5_1592157022_صراحة نيوز.jpg"
+        },
+        {
+            "link": "https://menafn.com/arabic/1100319471/عاجل-اسرائيل-تبدأ-بنشر-اسماء-من-باعوا-اراضيهم-في-الخليل",
+            "name": "MENAFN",
+            "path": "published/6_1592157023_menafen.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/hebron.governorat33/posts/3182591631762415",
+            "name": "محافظة الخليل",
+            "path": ""
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "فلسطين: لم يبع أحد أرضه للاحتلال، وهو لم ينشر أي أسماء",
+    "updated_at": "2020-09-25 14:34:06",
+    "url_path": "/factcheck/2020/06/14/لم-تنشر-أسماء-فلسطينيين-باعوا-أراض-لاسرائيليين"
+}

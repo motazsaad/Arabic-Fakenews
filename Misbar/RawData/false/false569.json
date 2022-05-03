@@ -1,0 +1,86 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1419,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "لم تصدر هذه الرسالة عن أي جهة حكومية (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">رسالة من رئيس وزراء المملكة المتحدة، بوريس جونسون، يدعو فيها الشعب البريطاني للإدلاء برأيهم حول إلزام جميع أفراد الشعب بارتداء رقاقات تتبع تحت الجلد.</span></p>\r\n",
+    "country": "GB",
+    "created_at": "2020-06-24 16:13:08",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ef35164163be373524e34c4",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من الرسالة المنسوبة إلى جونسون ووجد أنها زائفة، إذ لم تصدر عن أي جهة حكومية في المملكة المتّحدة.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">الرسالة المزعومة موجّهة إلى جميع المواطنين البريطانيين، أي أنّ الموضوع هام وسوف يحظى بانتشار واسع، لكن لم يرد أي ذكر لها في وكالات الأنباء المختلفة حول العالم.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">كما سبق لبوريس جونسون توجيه رسالة إلى المواطنين البريطانيين حول كوفيد-19، نُشرت على </span><a href=\"https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/877923/PM_letter_large_print_version.pdf\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>موقع الحكومة الرسمي</u></span></a><span style=\"color:#000000\">. أما هذه الرسالة فلم تُنشر. إضافة إلى ما سبق، فإنّ توقيع بوريس جونسون في المراسلات الرسمية يختلف عن التوقيع الموجود أسفل الرسالة المزعومة.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_yh1d7xly6.jpg\" style=\"height:191px; width:624px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "كوفيد-19",
+        "بوريس جونسون",
+        "بريطانيا",
+        "رقاقات تتبع"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل صفحات على مواقع التواصل الاجتماعي، حديثاً، صورة تدّعي أنها لرسالة وجّهها رئيس الوزراء البريطاني، بوريس جونسون، إلى الشعب البريطاني يحثّهم فيها على الإدلاء برأيهم حول توجّه الحكومة إلى إلزام جميع المقيمين في بريطانيا بارتداء رقاقات تتبّع من نوع RFID (التتبّع عن طريق موجات الراديو) لتسهيل عمل الجهات الأمنية في البحث عن المجرمين والإرهابيين.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_wno8wb0lh.jpg\" style=\"height:604px; width:480px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 354,
+        "left": 2.16668701171875,
+        "path": "articles/1593004387GettyImages-817315986.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1593004387GettyImages-817315986.jpg",
+        "width": 630
+    },
+    "post_date": "2020-06-24T16:07:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/antony.woolery/posts/10217610727279994",
+            "name": "Antony Woolery",
+            "path": "published/0_1593004386_أنتوني.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=2894050594165948&set=a.1495785890659099&type=3&theater",
+            "name": "Amazone Samuels",
+            "path": "published/1_1593004387_أمازون.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/mike.nash.714/posts/10158573704419835",
+            "name": "Mike Nash",
+            "path": "published/2_1593004387_mike.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.gov.uk/government/publications/pm-letter-to-nation-on-coronavirus",
+            "name": "الحكومة البريطانية",
+            "path": "sources/0_1593004387_uk.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لم يوجّه بوريس جونسون رسالة إلى البريطانيين حول رقاقات للتتبّع",
+    "updated_at": "2020-09-25 08:45:33",
+    "url_path": "/factcheck/2020/06/24/رسالة-زائفة-من-بوريس-جونسون-للشعب-البريطاني"
+}

@@ -1,0 +1,97 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 1,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2220,
+    "author": {
+        "fullname": "أنس سمحان",
+        "id": "5e32f3f9d4a22962ed7ff427",
+        "photo": {
+            "name": "1580397561_Untitled1.jpg",
+            "path": "authors/1580397561_Untitled1.jpg"
+        }
+    },
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">إعدام أي شخص يصاب بفايروس كورونا في كوريا الشمالية.</p>\r\n",
+    "country": "",
+    "created_at": "2020-01-30 15:27:50",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e32cbc6d4a22905921cae04",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">بعد البحث في الخبر سواء في الوكالات الكورية الشمالية الرسمية&nbsp;أو&nbsp;وكالات الأنباء العالمية، لم نعثر على أساس لمصدر الخبر، إذ ما قامت به كوريا الشمالية من إجراءات وقائية ضد انتشار الفايروس بحسب ما نشرت عدّة مواقع إخبارية، هو حظر السياحة الخارجية إلى البلاد، إضافة إلى تعاونها مع منظمة الصحّة العالمية لمنع انتشار الفايروس.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_lolyvcoll.jpg\" style=\"height:615px; width:490px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_qqjhezltg.jpg\" style=\"height:642px; width:445px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_dmp6q1my3.jpg\" style=\"height:560px; width:575px\" /></span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_oy19kjp05.jpg\" style=\"height:729px; width:534px\" /></span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_umhjccu7b.jpg\" style=\"height:662px; width:525px\" /></span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_s1neyzs8b.jpg\" style=\"height:713px; width:575px\" /></span></strong></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت مواقع وحسابات على مواقع التواصل الاجتماعي يوم 28 يناير/كانون الثاني من العام الجاري، خبراً مفاده بأنَّ زعيم كوريا الشمالية، كيم جون أون، سيقوم بإعدام أي شخص يُصاب بفايروس كورونا لمنع تفشي المرض في البلاد.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_6s70rtwfx.jpg\" style=\"height:495px; width:576px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_jatomhgmo.jpg\" style=\"height:461px; width:490px\" /></span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_fvowm69ju.jpg\" style=\"height:670px; width:551px\" /></span></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 352,
+        "left": 5.14080810546875,
+        "path": "articles/1580387269Kim Jong Un.jpg",
+        "top": 2.19793701171875,
+        "totalHeight": 423,
+        "totalWidth": 635,
+        "width": 626
+    },
+    "post_date": "2020-01-30T14:21:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/Wesal_TV/status/1221979953962586114",
+            "name": "قناة وصال",
+            "path": "published/0_1580387269_Wisal TV logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/aga2b/photos/a.438353102861053/3523314091031590",
+            "name": "عجائب وغرائب الدنيا",
+            "path": "published/1_1580387269_aga2b facebook logo.jpg"
+        },
+        {
+            "link": "http://www.elmasa.net/2020/01/28/%D8%BA%D8%B1%D9%8A%D8%A8-%D9%83%D9%8A%D9%81-%D9%8A%D8%AA%D8%B9%D8%A7%D9%85%D9%84-%D8%B1%D8%A6%D9%8A%D8%B3%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D9%85%D8%B9-%D9%85%D8%B1%D8%B6-%D9%83%D9%88/",
+            "name": "المساء الإخباري",
+            "path": "published/2_1580387269_Almasa news logo.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.nytimes.com/2020/01/21/world/asia/coronavirus-china-north-korea-tourism-ban.html",
+            "name": "The New York Times",
+            "path": "sources/0_1580387269_The new York times-logo.jpg"
+        },
+        {
+            "link": "https://www.reuters.com/article/us-china-health-pneumonia-northkorea/north-korea-to-suspend-foreign-tourism-over-coronavirus-fears-tour-company-idUSKBN1ZK1PK",
+            "name": "REUTERS",
+            "path": "sources/1_1580387269_Reuters-logo.jpg"
+        },
+        {
+            "link": "https://www.upi.com/Top_News/World-News/2020/01/28/North-Korea-in-emergency-mode-amid-coronavirus-outbreak/4691580213367/",
+            "name": "UPI",
+            "path": "sources/2_1580387269_UPI logo.jpg"
+        },
+        {
+            "link": "https://www.dailynk.com/english/north-korea-quarantines-suspected-coronavirus-cases-sinuiju/?fbclid=IwAR1au_TYLvnRAdiPmkQj8s_llzj5YC7OjLppVJBKRo9oJvaa_-7RdT0WdNo",
+            "name": "DAILY NK",
+            "path": "sources/3_1580387269_Daily NK logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "زعيم كوريا الشمالية سيعدم كل من يصاب بفايروس كورونا... ما صحة المنشور؟",
+    "updated_at": "2020-09-25 16:38:52",
+    "url_path": "/factcheck/2020/01/30/زعيم-كوريا-الشمالية-سيعدم-كل-من-يصاب-بفايروس-كورونا-ما-صحة-المنشور"
+}

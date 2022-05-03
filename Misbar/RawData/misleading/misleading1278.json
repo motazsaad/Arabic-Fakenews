@@ -1,0 +1,104 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 31835,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "المقطع مفبرك، إذ تم التعديل فيه وإضافة صوت يبدو قريباً من اللهجة المغربية",
+    "category": "Spirituality & Religion",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-EG\">ترامب يأتي بدجالين من المغرب يعملون له&nbsp;الرقية الشرعية للمسلمين </span><span dir=\"RTL\" lang=\"AR-SA\">خوفاً</span><span dir=\"RTL\" lang=\"AR-EG\"> من فيروس كورونا.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-04-03 08:51:20",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e86ced8db291652e1687033",
+    "investigation": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من المقطع وتبين أنه مفبرك، إذ تم التعديل فيه وإضافة صوت يبدو قريباً من اللهجة المغربية. وكان الفيديو الأصلي في 1 سبتمبر/أيلول من عام 2017، خلال لقاء ترامب مع بعض رجال الدين في البيت الأبيض، وقاموا بأداء الصلاة في اليوم الوطني للصلاة. ويوضح الفيديو تأدية رجال الدين للصلاة، مستندين على كتف ترامب.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_y3bpg5u9a.jpg\" style=\"height:343px; width:529px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تداول عدد من رواد مواقع التواصل الاجتماعي منذ بداية شهر أبريل/نيسان الجاري، مقطع فيديو يظهر الرئيس الأميركي دونالد ترامب وحوله مجموعة من الناس، ادعى ناشروه أنَّ ترامب استدعى دجالين من المغرب، يعملون له الرقية الشرعية للمسلمين خوفاً من فايروس كورونا.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_rmzsadvyh.jpg\" style=\"height:541px; width:392px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_8pa26ce9c.jpg\" style=\"height:495px; width:390px\" /></p>\r\n\r\n<p style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_qe6z6e1gu.jpg\" style=\"height:515px; width:375px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 422,
+        "left": 53.70001220703125,
+        "path": "articles/1585893079_110302497_1.jpg",
+        "top": 0.75,
+        "totalHeight": 466,
+        "totalWidth": 827,
+        "watermark_path": "articles/watermark-1585893079_110302497_1.jpg",
+        "width": 750
+    },
+    "post_date": "2020-04-03T08:37:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/XhYW6euCz0Ma3Hf/status/1245369679335624704",
+            "name": "رهف حسين",
+            "path": "published/0_1585893079_1.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100048291939581/videos/vb.100048291939581/123137559305975/?type=2&video_source=user_video_tab",
+            "name": "سليمان غوينم الأزايده",
+            "path": "published/1_1585893079_2.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/314544215712242/videos/525143841479484/",
+            "name": "هاله زقزوق",
+            "path": "published/2_1585893079_3~1.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/saeed.hamoda.3/videos/1128652770821931/",
+            "name": "Saeed Hamoda",
+            "path": "published/3_1585893079_4.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100007627290010/videos/2485397378391148/",
+            "name": "أبوحسام حسن",
+            "path": "published/4_1585893079_5.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100008029772452/videos/2575727206038247/",
+            "name": "هاني حمدي",
+            "path": "published/5_1585893079_6.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=QKlk443i7ag",
+            "name": "PBS NewsHour",
+            "path": "sources/0_1585893079_W5yKx8um_400x400.jpg"
+        },
+        {
+            "link": "https://www.au.org/blogs/wall-of-separation/trump-s-call-for-a-national-day-of-prayer-divides-rather-than-unites",
+            "name": "Americans United",
+            "path": "sources/1_1585893079_W_VI1aa-_400x400.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ترامب يأتي بدجالين من المغرب خوفاً من كورونا.. حقيقة الفيديو",
+    "updated_at": "2020-09-25 03:44:11",
+    "url_path": "/factcheck/2020/04/03/ترامب-يأتي-بدجالين-من-المغرب-خوفا-من-كورونا-حقيقة-الفيديو"
+}

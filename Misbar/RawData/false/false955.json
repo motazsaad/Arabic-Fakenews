@@ -1,0 +1,89 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2075,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">عاجل، قناة العالم: المرشد الأعلى السيد الخامنئي &quot;نثني على الدور الأساسي الذي يقوم به مقتدى الصدر، قائد المقاومة البطلة، بقطع أذرع أميركا في العراق، وذلك بالقضاء على التظاهرات المعادية&quot;.</span></p>\r\n",
+    "country": "IR",
+    "created_at": "2020-02-06 12:23:14",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5e3bdb02d4a22958db44e226",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">توصّل &quot;مسبار&quot; إلى أن الصورة مزيّفة، وتعود في الأصل إلى </span><a href=\"https://www.alalamtv.net/news/4348226/%D9%86%D8%B4%D8%B1%D8%A9-%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D9%85%D9%86-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%B3%D8%A7%D8%B9%D8%A9-07-00-%D8%A8%D8%AA%D9%88%D9%82%D9%8A%D8%AA-%D8%BA%D8%B1%D9%8A%D9%86%D8%AA%D8%B4-28-07-2019\" style=\"text-decoration:none\"><span style=\"color:#1155cc\"><u>نشرة أخبار</u></span></a><span style=\"color:#000000\"> سابقة لقناة العالم. ونصّ الخبر العاجل الأصلي على أنّ &quot;طالبان تعلن عن رفضها إجراء محادثات مباشرة مع الحكومة الأفغانية&quot;.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_qarux2g3v.jpg\" style=\"height:281px; width:441px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "إيران",
+        "العراق",
+        "مقتدى الصدر",
+        "الخامنئي"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">نشرت صفحات على مواقع التواصل الاجتماعي صورةً ادّعت أنها مأخوذة من نشرة إخبارية لقناة العالم الإيرانية، وتحوي خبراً عاجلاً ينقل تصريحاً على لسان المرشد الأعلى الخامنئي &quot;نثني على الدور الأساسي المنوط بمقتدى الصدر، قائد المقاومة البطلة، والذي يتمثّل في قطع أذرع أميركا في العراق، وذلك بالقضاء على التظاهرات المعادية&quot;.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_t2m5oshv4.jpg\" style=\"height:391px; width:448px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_g70q0kysg.jpg\" style=\"height:459px; width:446px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_m8mqgwzla.jpg\" style=\"height:552px; width:451px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 308,
+        "left": 2.883331298828125,
+        "path": "articles/1580980993صورة الغلاف.jpg",
+        "top": 63.083343505859375,
+        "totalHeight": 423,
+        "totalWidth": 553,
+        "width": 547
+    },
+    "post_date": "2020-02-06T11:12:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/116885223112749/photos/a.131008955033709/149003009900970/?type=3&theater",
+            "name": "شهداء جسر السنك",
+            "path": "published/0_1580980993_شهداء جسر السنك - لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/104011007751053/photos/a.104016884417132/133245428160944/?type=3&theater",
+            "name": "صفاء الرماحي",
+            "path": "published/1_1580980993_صفاء الرماحي - لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/900816143328144/photos/a.900825859993839/2671075252968882/?type=3&theater",
+            "name": "يوميات أبو التكتك",
+            "path": "published/2_1580980993_يوميات أبو التكتك - لوغو.jpg"
+        },
+        {
+            "link": "https://twitter.com/Darksgh/status/1222240779466354689",
+            "name": "د. دارك",
+            "path": "published/3_1580980993_د دارك - لوغو.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.alalamtv.net/news/4348226/%D9%86%D8%B4%D8%B1%D8%A9-%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D9%85%D9%86-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%B3%D8%A7%D8%B9%D8%A9-07-00-%D8%A8%D8%AA%D9%88%D9%82%D9%8A%D8%AA-%D8%BA%D8%B1%D9%8A%D9%86%D8%AA%D8%B4-28-07-2019",
+            "name": "قناة العالم",
+            "path": "sources/0_1580980993_العالم.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صورة زائفة لخبر عاجل على قناة العالم",
+    "updated_at": "2020-09-25 10:52:05",
+    "url_path": "/factcheck/2020/02/06/صورة-زائفة-لخبر-عاجل-على-قناة-العالم"
+}

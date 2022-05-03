@@ -1,0 +1,102 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1673,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "caption": "الصور المنتشرة هي لتضامن الاحتلال الإسرائيلي مع إيطاليا (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">فلسطين متضامنة مع إيطاليا</p>\r\n",
+    "country": "",
+    "created_at": "2020-03-16 13:29:35",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e6f550fd4a229315a059cc3",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الصورة ليست لتضامن فلسطيني مع إيطاليا، وإنما هي لتضامن الاحتلال الإسرائيلي مع الأخيرة. إذ وضعت بلدية الاحتلال في القدس أمس، الأحد 15 آذار/مارس، صور العلم الإيطالي مضيئاً على أسوار البلدة القديمة للمدينة. وقال رئيس بلدية القدس في دولة الاحتلال <a href=\"https://www.jpost.com/Israel-News/Jerusalem-Mayor-to-the-people-of-Italy-We-are-with-you-621094\" style=\"color:blue; text-decoration:underline\">موشيه ليون</a>، إنَّه يتمنى انتعاشاً سريعاً وكاملاً لجميع المصابين بفايروس كورونا في &quot;إسرائيل&quot; وإيطاليا والعالم.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">ويذكر أنَّ فلسطين تضامنت مع إيطاليا من خلال إحياء عدة وقفات تضامنية، كتلك التي أقامتها السفارة الفلسطينية في <a href=\"https://www.facebook.com/watch/?v=135856494523024\" style=\"color:blue; text-decoration:underline\">روما</a> أمس، الأحد، دعماً للحكومة والشعب الإيطالي في مواجهة فايروس كورونا. كما&nbsp;أقيمت <a href=\"https://www.facebook.com/watch/?v=1871981386279658\" style=\"color:blue; text-decoration:underline\">وقفة</a> تضامنية للأمن الوطني الفلسطيني في مدينة بيت لحم بالضفة الغربية المحتلة في اليوم نفسه.</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت صفحة غزة الآن التي تحوي أكثر من مليوني إعجاباً على فيسبوك، صورةً قالت إنها لتضامن فلسطيني مع إيطاليا في ظل مواجهة الأخيرة لأزمة فايروس كورونا.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_mhz9g1n03.jpg\" style=\"height:653px; width:504px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 234,
+        "left": 4.1181793212890625,
+        "path": "articles/1584354575GettyImages-1196205024.jpg",
+        "top": 77.23388671875,
+        "totalHeight": 423,
+        "totalWidth": 423,
+        "width": 415
+    },
+    "post_date": "2020-03-16T13:09:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/GNNA.NOW/posts/2696007260726762?__xts__[0]=68.ARCDGyPLpbeUv3eM8h8pFLTCtWLtrM6yRKpvVgEpvo6XrZxXkAN1aMOYozUFGshjmQ0QcvcfBDj3TaESWmOMneUqhbIohkXopgE7nE46NCrNP-YWg8T4DghHlb4QqIGAOWXR9mIibPVmYud-33gWpTIsHaStUianFWCUNUU91EcOkN4SFy847LF9NSnfjd6_pjvHi8DQzJZxkcRsJ46kBMm4iFwfstB4wCEQeFjexFM_fMweso-mkogBU7oFta17LwsL4D4tHkGhG9wwGeixo8TE2MW0M_qePcbUm_YD0J85Wu_HbULHegQzXk2q7jR1QAbxSOFTtqWh_Mblxc-VNOFZBj2WNDQ8XxQmKIxLebEBMpJYRE3kgdrXXw&__tn__=-R",
+            "name": "غزة الآن - Gaza Now",
+            "path": "published/0_1584354574_غزة-الان.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.jpost.com/Israel-News/Jerusalem-Mayor-to-the-people-of-Italy-We-are-with-you-621094",
+            "name": "The Jerusalem Post",
+            "path": "sources/0_1584354574_jerusalem-post.JPG"
+        },
+        {
+            "link": "http://www.israelnationalnews.com/News/News.aspx/277309",
+            "name": "israel Nation News",
+            "path": "sources/1_1584354574_israel-nation.JPG"
+        },
+        {
+            "link": "https://www.timesofisrael.com/liveblog_entry/jerusalem-tel-aviv-light-up-in-solidarity-with-italy/",
+            "name": "The Times of israel",
+            "path": "sources/2_1584354574_times-of-israel.JPG"
+        },
+        {
+            "link": "https://www.breitbart.com/middle-east/2020/03/15/coronavirus-jerusalem-mayor-lights-up-old-city-with-italian-flag-says-we-are-with-you/",
+            "name": "Breitbart",
+            "path": "sources/3_1584354574_brwit.JPG"
+        },
+        {
+            "link": "https://baltimorejewishlife.com/news/news-detail.php?SECTION_ID=37&ARTICLE_ID=128694",
+            "name": "Jewish life",
+            "path": "sources/4_1584354574_jewish.JPG"
+        },
+        {
+            "link": "https://www.open.online/2020/03/15/coronavirus-gerusalemme-abbraccia-italia-messaggio-mura-citta-vecchia-con-voi-video/",
+            "name": "Open",
+            "path": "sources/5_1584354574_open.JPG"
+        },
+        {
+            "link": "http://wafa.ps/ar_page.aspx?id=Q3q3yua872098887924aQ3q3yu",
+            "name": "وكالة الأنباء والمعلومات الفلسطينية وفا",
+            "path": "sources/6_1584367308_وفا.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صورة منسوبة لتضامن الفلسطينيين مع إيطاليا.. لكنها غير ذلك",
+    "updated_at": "2020-09-25 12:43:22",
+    "url_path": "/factcheck/2020/03/16/صورة-منسوبة-لتضامن-الفلسطينيين-مع-إيطاليا-لكنها-غير-ذلك"
+}

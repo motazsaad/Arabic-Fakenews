@@ -1,0 +1,120 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 522,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "لم يعتد مانديلا في خطاباته وأدبياته وصف الناس بالمغفلين أو الأغبياء (Facebook)",
+    "category": "Arts & Culture",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">نيلسون مانديلا قال &quot;عالمنا لا ينقسم حسب العرق أو اللون أو الجنس أو الدين. عالمنا مقسم إلى حكماء وأغبياء. والأغبياء يقسمون أنفسهم على أساس العرق أو اللون أو الجنس أو الدين &quot;.</p>\r\n",
+    "country": "ZA",
+    "created_at": "2020-09-13 10:57:31",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f5dd0eb4ab717390c3b3b98",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; &nbsp;من الاقتباس ليجد أن الزعيم الجنوب أفريقي الراحل لم يقله، بل لا توجد له عبارة على الإطلاق يصف بها الناس بالمغفلين حتى العنصريين منهم، وقد راجع &quot;مسبار&quot; موقع مؤسسة نيلسون مانديلا، والمواقع الموثقة التي تنشر اقتباساته التي وردت إما في خطاباته أو في كتبه، ولم ينسب إطلاقاً هذا الاقتباس إليه، في حين هناك ناشط حقوق إنسان اسمه محمد صفا، أكد على صفحته الموثقة&nbsp; أن الاقتباس يعود إليه.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وقال صفا &quot;لا أحب أولئك الذين ينشرون دائمًا معلومات خاطئة أو يرسلون اقتباساتنا تحت اسم شخص آخر. لا أعرف من وضع اسم نيلسون مانديلا على كلماتي وشاركها عبر الإنترنت. وأنا فخور جدًا بأن كلماتي هي نفس الأفكار التي كانت لدى شخصية تاريخية مثل مانديلا، لكن هذه هي كلماتي مثل بقية كتاباتي. لو كانت كلمات مانديلا، لكنت سمعت عنها من قبل&quot;. <img src=\"https://images-prod.misbar.com/articlebody/investigation_ph0p0tfgm.jpg\" style=\"height:623px; width:605px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/investigation_21nwmymj7.jpg\" style=\"height:295px; width:605px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول حسابات أجنبية على مواقع التواصل الاجتماعي منذ 12 أغسطس/ آب المنصرم، وكذلك خلال سبتمبر/ أيلول الجاري، اقتباساَ نسبته إلى نيلسون مانديلا، كما تداولت حسابات عربية الاقتباس ذاته ونسبته إلى أسماء أخرى، وذلك على موقعّي فيسبوك وتويتر.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">ونص الاقتباس هو &quot;عالمنا لا ينقسم حسب العرق أو اللون أو الجنس أو الدين. عالمنا مقسم إلى حكماء وأغبياء. والأغبياء يقسمون أنفسهم على أساس العرق أو اللون أو الجنس أو الدين نيلسون مانديلا &quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_uag9pftzb.jpg\" style=\"height:205px; width:672px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_6jzdqmafo.jpg\" style=\"height:203px; width:605px\" /></p>\r\n\r\n<p style=\"text-align:center\">&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_tc4jtucf1.jpg\" style=\"height:177px; width:594px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_a0zzpkqm6.jpg\" style=\"height:301px; width:605px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 415,
+        "left": -5.300048828125,
+        "path": "articles/1599983850ننننن.JPG",
+        "top": 7.25634765625,
+        "totalHeight": 423,
+        "totalWidth": 761,
+        "watermark_path": "articles/watermark-1599983850ننننن.JPG",
+        "width": 738
+    },
+    "post_date": "2020-09-13T08:56:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/Coffee.Seconds/posts/166916328257487",
+            "name": "MS",
+            "path": "published/0_1599985409_0_1596888660_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/dimaajwad1/status/1293625571323383812",
+            "name": "ديما",
+            "path": "published/1_1599985409_6_1596888660_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/DaharwalK/status/1302099582780727299",
+            "name": " Er R K DAHARWAL",
+            "path": "published/2_1599985410_6_1596888660_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/RickNSandy1/status/1303211370876293120",
+            "name": "RickNSandy1",
+            "path": "published/3_1599985410_6_1596888660_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/CinDot2017/status/1304462213894361090",
+            "name": " Cindot Antifa Nasty Woman ",
+            "path": "published/4_1599985410_6_1596888660_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/alangodwin52/status/1304219289084465154",
+            "name": " Alan E. Godwin",
+            "path": "published/5_1599985410_6_1596888660_twitter.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.nelsonmandela.org/content/page/collections",
+            "name": "Nelson mandela",
+            "path": "sources/0_1599986164_نيلسون.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/mhdksafa/posts/714474615797800",
+            "name": "Mohamad safa",
+            "path": "sources/1_1599986164_محمد.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/MakeEveryDayAMandelaDay/",
+            "name": "Nelson Mandela International Day",
+            "path": "sources/2_1599986164_اااا.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذا الاقتباس لم يقله نيلسون مانديلا",
+    "updated_at": "2020-09-25 09:30:28",
+    "url_path": "/factcheck/2020/09/13/هذا-الاقتباس-لم-يقله-نيلسون-مانديلا",
+    "was_notification_pushed": true
+}

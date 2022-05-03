@@ -1,0 +1,113 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 4230,
+    "author": {
+        "fullname": "خالد إسماعيل",
+        "id": "5e59256dd4a2295224257db3",
+        "photo": {
+            "name": "1582900589_صورة 2.jpg",
+            "path": "authors/1582900589_صورة 2.jpg"
+        }
+    },
+    "caption": "قوات من الحرس الوطني الأميركي تشارك في تنفيذ قرار احتواء فايروس كورونا (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">الجيش الأميركي يبدأ في بيع المواد الغذائية للمواطنين بأسعار مخفضة... أين من كانوا يسخرون من الجيش المصري؟</span></p>\r\n",
+    "country": "US",
+    "created_at": "2020-03-21 12:31:40",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e75defcd4a229171964dd33",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق فريق مسبار من الصورة وتبين أن الادعاء مضلل ولم يقم الجيش الأميركي ببيع السلع للمواطنين.&nbsp;إذ أن الصورة المتداولة، والتي <a href=\"https://twitter.com/search?q=أشرف%20السعدي&amp;src=typed_query\" style=\"color:blue; text-decoration:underline\">التقطت</a> في 12 مارس/آذار الجاري تعود لعناصر من الحرس الوطني الأميركي، <a href=\"https://www.dailymail.co.uk/news/article-8105117/National-Guard-arrives-locked-New-Rochelle-one-mile-containment-zone-goes-effect.html\" style=\"color:blue; text-decoration:underline\">خلال توزيع</a> بعض السلع الغذائية والوجبات على سكان منطقة نيو روتشيل في مدينة نيويورك، بعد إصدار أندرو كومو حاكم المدينة أوامره بفرض <a href=\"https://www.alaraby.co.uk/society/2020/3/11/%D9%87%D8%B0%D9%87-%D8%AE%D8%B7%D8%A9-%D9%88%D9%84%D8%A7%D9%8A%D8%A9-%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83-%D9%84%D9%85%D9%86%D8%B9-%D8%A7%D9%86%D8%AA%D8%B4%D8%A7%D8%B1-%D9%81%D9%8A%D8%B1%D9%88%D8%B3-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7\" style=\"color:blue; text-decoration:underline\">منطقة احتواء</a>&nbsp;بقُطر ميل على المنطقة&nbsp;التي ينتشر فيها فايروس كورونا.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">ووفقا لصحف ومواقع أميركية فإن قوات من الحرس الوطني الأميركي تشارك في تنفيذ قرار احتواء فايروس كورونا في نيو روتشيل كما ساعدوا في توزيع الطعام وتنظيف وتعقيم بعض الأماكن العامة، ويظهر على موقع <a href=\"https://www.gettyimages.com/photos/members-of-the-new-york-national-guard?agreements=pa:57575&amp;family=editorial&amp;phrase=Members%20of%20the%20New%20York%20National%20Guard&amp;sort=best#license\" style=\"color:blue; text-decoration:underline\">Getty image&nbsp;</a>العديد من الصور التي توثق عمل الحرس الوطني&nbsp;في توزيع الوجبات وبعض السلع على المواطنين خلال مارس الجاري.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_9ajlovgkt.jpg\" style=\"height:391px; width:602px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تداولت حسابات وصفحات على مواقع التواصل الاجتماعي&nbsp;صورة،&nbsp;قالوا إنها عناصر من الجيش الأميركي خلال بيع&nbsp;بعض السلع الغذائية للمواطنين في الولايات المتحدة الأميركية بأسعار مخفضة. وادعى ناشرو الصورة أن عملية البيع تحدث في ظل أزمة انتشار فايروس كورونا المستجد (كوفيد-19).</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_2m0dgpdig.jpg\" style=\"height:555px; width:405px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_nbakiqyxb.jpg\" style=\"height:544px; width:391px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 286,
+        "left": 14.990463256835938,
+        "path": "articles/1584783100GettyImages-1212030870.jpg",
+        "top": 51.029296875,
+        "totalHeight": 350,
+        "totalWidth": 524,
+        "width": 508
+    },
+    "post_date": "2020-03-21T16:28:00.000+03:00",
+    "published": [
+        {
+            "link": "https://web.facebook.com/ashrafalsaad/photos/a.1487248947965613/3256148921075598/?type=3&theater",
+            "name": "أشرف السعد",
+            "path": "published/0_1584784672_أشرف السعد.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/AlexandriaCitizens/photos/a.249817925145523/2706194212841203/?type=3&theater ",
+            "name": " أهل إسكندرية",
+            "path": "published/1_1584784672_اهل اسكندرية.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/408970779149763/photos/a.409439335769574/2927166000663549/?type=3&theater",
+            "name": "مملكة الكتب",
+            "path": "published/2_1584784672_مملكة الكتب.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=1271155439749128&set=a.470729169791763&type=3&theater",
+            "name": "أحمد محمد",
+            "path": "published/3_1584784672_احمد محمد.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=2688346778054880&set=a.1475549059334664&type=3&theater",
+            "name": "Abdo Frahat Morsii",
+            "path": "published/4_1584785037_Abdo Frahat Morsii.jpg"
+        },
+        {
+            "link": "https://twitter.com/d5lZ2vFHuEybopw/status/1240700359976181763",
+            "name": "موجة حزينة",
+            "path": "published/5_1584784672_موجة حزينة.jpg"
+        },
+        {
+            "link": "https://twitter.com/Alyoum24/status/1241076301987024896",
+            "name": "اليوم 24",
+            "path": "published/6_1584784672_اليوم 24.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.foxnews.com/health/fears-grow-possible-shortage-coronavirus-testing-materials",
+            "name": "Fox news",
+            "path": "sources/0_1584784672_fox news.jpg"
+        },
+        {
+            "link": "https://www.dailymail.co.uk/news/article-8105117/National-Guard-arrives-locked-New-Rochelle-one-mile-containment-zone-goes-effect.html",
+            "name": "Daily Mail",
+            "path": "sources/1_1584784672_Daily Mail Online.jpg"
+        },
+        {
+            "link": "https://www.gettyimages.com/photos/members-of-the-new-york-national-guard?agreements=pa:57575&family=editorial&phrase=Members%20of%20the%20New%20York%20National%20Guard&sort=best#license",
+            "name": "Getty images ",
+            "path": "sources/2_1584784672_gettyimages icon.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الجيش الأميركي يبيع سلعاً غذائية على غرار الجيش المصري.. صورة مضللة",
+    "updated_at": "2020-09-25 14:28:56",
+    "url_path": "/factcheck/2020/03/21/الجيش-الأميركي-يبيع-سلعا-غذائية-على-غرار-الجيش-المصري-صورة-مضللة"
+}

@@ -1,0 +1,96 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 5722,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "المقطع يُظهر انفجاراً في أوكرانيا وليس ليبيا (يوتيوب)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">مقطع فيديو يصوّر لحظة قصف قاعدة الوطية الجوية في ليبيا، أو انفجار مخزن ذخيرة هناك.</p>\r\n",
+    "country": "LY",
+    "created_at": "2020-05-06 12:05:27",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eb27dd7db2916314d43ea64",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من مقطع الفيديو المتداول، واتّضح أنه مضلّل لأنه يُظهر انفجاراً في مدينة بالاكليا في محافظة خاركوف شرقي أوكرانيا، في شهر أيار/مايو من عام 2017، ويُظهر لحظة انفجار مستودع للذخيرة هناك. ولا علاقة للمقطع المتداول بأيّ هجوم من حكومة الوفاق على قوّات حفتر في ليبيا.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/TL4pjTZMZXA\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "أوكرانيا",
+        "ليبيا",
+        "حفتر",
+        "حكومة الوفاق"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات وحسابات على مواقع التواصل الاجتماعي مقطع فيديو زعمَت أنه يصوّر انفجارات وألسنة لهب تتصاعد من قاعدة الوطية الجوية في ليبيا، التي تبعد 140 كم جنوب غربي العاصمة طرابلس، وذلك نتيجة تعرّض القاعدة الجوية الخاضعة لسيطرة قوات حفتر لقصف من طائرة مسيّرة عن بعد تابعة لحكومة الوفاق.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><iframe frameborder=\"0\" height=\"425\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F101875408189392%2Fvideos%2F673355666783014%2F&amp;show_text=1&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 342,
+        "left": 0.38330078125,
+        "path": "articles/1588755926غلاف.jpg",
+        "top": 35.433349609375,
+        "totalHeight": 423,
+        "totalWidth": 609,
+        "watermark_path": "articles/watermark-1588755926غلاف.jpg",
+        "width": 608
+    },
+    "post_date": "2020-05-06T11:56:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/fahadq6r6/status/1257437045670191106",
+            "name": "فهد الشهراني",
+            "path": "published/0_1588755925_فهد-الشهراني.jpg"
+        },
+        {
+            "link": "https://twitter.com/qatarinly/status/1257446148568166404",
+            "name": "قطر فقط ",
+            "path": "published/1_1588755926_قطر-فقط-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/101875408189392/videos/673355666783014/",
+            "name": "هنا بركان الغضب",
+            "path": "published/2_1588755926_هنا-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/113693936852746/videos/262235051570010/",
+            "name": "أجرى ياقدع جوك الردع 2020",
+            "path": "published/3_1588755926_أجرى-لوغو.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": " https://youtu.be/TL4pjTZMZXA",
+            "name": "المقطع الأصلي",
+            "path": "sources/0_1588755926_rt-logo.jpg"
+        },
+        {
+            "link": "https://arabic.rt.com/world/869445-%D8%A3%D9%88%D9%83%D8%B1%D8%A7%D9%86%D9%8A%D8%A7-%D8%A5%D8%AC%D9%84%D8%A7%D8%A1-%D8%B3%D9%83%D8%A7%D9%86-%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%A8%D8%A7%D9%84%D8%A7%D9%83%D9%84%D9%8A%D8%A7-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%85%D8%B3%D8%AA%D9%88%D8%AF%D8%B9-%D8%B0%D8%AE%D8%A7%D8%A6%D8%B1/",
+            "name": "RT عربي",
+            "path": "sources/1_1588755926_rt-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "المقطع يُظهر انفجاراً في أوكرانيا وليس ليبيا",
+    "title": "لحظة قصف قاعدة الوطية الجوية في ليبيا.. فيديو مضلل",
+    "updated_at": "2020-09-25 16:33:42",
+    "url_path": "/factcheck/2020/05/06/لحظة-قصف-قاعدة-الوطية-الجوية-في-ليبيا-فيديو-مضلل"
+}

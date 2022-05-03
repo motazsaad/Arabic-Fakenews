@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 506,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "الصورة قديمة تعود لانفجار في مدينة الحسكة السورية (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">دخان على شكل يد تناجي الله بعد قصفٍ للنظام السوري على مدينة بنّش السورية.</p>\r\n",
+    "country": "SY",
+    "created_at": "2020-08-04 12:37:24",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f292c54602118075d06c1b7",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SY\">تحقق &quot;مسبار&quot; من الصورة ووجد أنها مفبركة، إذ أن الصورة مقتطعة من فيديو لانفجارات هزت مستودع أسلحة بمدينة الحسكة شمال شرقي سورية بتاريخ 15 تموز\\يوليو 2020، كما أنها خضعت للتعديل بطرسقة يظهر معها&nbsp;الدخان على شكل يدٍ مرفوعة.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/G1hdxW5FmHA\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SY\">تتداول حسابات وصفحات على مواقع التواصل الاجتماعي، حديثاً، صورة لدخان كثيف في السماء، ادعت أنه ناتج عن قصف جوي لقوات النظام السوري على مدينة بنش في محافظة إدلب. وقالت الصفحات نفسها إن الدخان ظهر&nbsp;&nbsp;على شكل يد مرفوعة تدعو الله أن يرد الظلم عن سكان المدينة.</span></p>\r\n\r\n<p style=\"text-align:center\"><strong><span style=\"color:red\"><img alt=\"4.PNG\" id=\"Image_x0020_5\" src=\"https://images-prod.misbar.com/articlebody/origin_xjceieiq2.jpg\" style=\"height:426pt; width:375.75pt\" /> </span></strong></p>\r\n\r\n<p style=\"text-align:center\"><strong><span style=\"color:red\"><img alt=\"Capture.PNG\" id=\"Image_x0020_4\" src=\"https://images-prod.misbar.com/articlebody/origin_5tvb92o9i.jpg\" style=\"height:341.25pt; width:375pt\" /> </span></strong></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><strong><img src=\"https://images-prod.misbar.com/articlebody/origin_86mpf7cwk.jpg\" style=\"height:840px; width:627px\" /></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 311,
+        "left": 36,
+        "path": "articles/1596533844117066123_298361928268284_520797136095724990_n.jpg",
+        "top": 63,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-1596533844117066123_298361928268284_520797136095724990_n.jpg",
+        "width": 553
+    },
+    "post_date": "2020-08-04T10:04:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=10220303117239587&set=a.2856005850779&type=3&theater",
+            "name": "احمد سائر محمد",
+            "path": "published/0_1596533844_84241059_189132118950875_4138507100605120512_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=1253651758312643&set=a.147052588972571&type=3&theater",
+            "name": "Mohamaad Jomaa",
+            "path": "published/1_1596533844_75539991_1031569387187549_3336104714612768768_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2656613081278736&id=100007902101976",
+            "name": "عبدالله عبدالله",
+            "path": "published/2_1596533844_110334043_2645501662389878_1659342162049169112_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/msaebrevoo/photos/a.371112006617774/1087239615005006/?type=3&theater",
+            "name": "وطن فول اوبشن",
+            "path": "published/3_1596533844_62605457_765336460528658_3124502645285322752_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=298361924934951&set=a.125954672175678&type=3&theater",
+            "name": "ذهرة بنش",
+            "path": "published/4_1596534030_100768899_247327506705060_4429843498321051648_o.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://media.parstoday.com/video/4bvb27411ff3611oxbw.mp4",
+            "name": "parstoday",
+            "path": "sources/0_1596533844_0.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=SwUC5u6x6Uc",
+            "name": "المرسال اليماني",
+            "path": "sources/1_1596533844_4ae494664e5572de05a1a25f1e92b895.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=G1hdxW5FmHA",
+            "name": "Rudaw Arabic قناة ",
+            "path": "sources/2_1596533844_unnamed (1).jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصورة مفبركة وليست في مدينة بنّش السورية",
+    "updated_at": "2020-09-25 08:24:16",
+    "url_path": "/factcheck/2020/08/04/هذه-الصورة-مفبركة-وليست-في-مدينة-بنش-السورية"
+}

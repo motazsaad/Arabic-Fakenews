@@ -1,0 +1,107 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1890,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": " التعليقات والتغريدات ليس لها أساس من الصحة (Getty)",
+    "category": "Arts & Culture",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">رجل الأعمال نجيب ساويرس والفنانان محمد هنيدي وأحمد حلمي، ثلاثتهم يسخرون من العادات الغذائية الصينية.</p>\r\n",
+    "country": "EG",
+    "created_at": "2020-03-28 18:17:20",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e7f6a80d4a22939b10d35c3",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من التعليقات المنسوبة للمشاهير وتبيّن أنّها زائفة، وذلك بالعودة إلى الصفحات الرسميّة لرجل الأعمال نجيب ساويرس والفنانين محمد هنيدي وأحمد حلمي على موقع تويتر، وليس لها أساساً من الصحة. وبدأ انتشار تلك التعليقات والصور التي يراها البعض ساخرةً عبر صفحة الكومنت الساخر.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">ومع انتشار فايروس كورونا المستجد (كوفيد-19) تصاعدت حِدّة <a href=\"http://www.bbc.com/arabic/trending-51351331\" style=\"color:blue; text-decoration:underline\">التعليقات العنصريّة</a> عالميّاً، حول نوعيّة وطريقة تناول الغذاء في الثقافة&nbsp;الآسيويّة، خاصةً بعد إعلان السلطات الصينيّة في يناير/كانون الثاني الماضي أنّ بداية ظهور فايروس (كوفيد-19) كان في سوقٍ تُباع فيها الحيوانات البريّة في مدينة ووهان. وكان&nbsp;رائد الأعمال&nbsp;الأميركيّ&nbsp;أندرو يانغ تحدّث عن تلك العنصريّة، في 9 فبراير/شباط الفائت، مشيراً إلى تزايد العنصريّة المعادية لذوي الملامح الآسيويّة. منذ ظهور وباء كورونا.&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/SJNCSMGCsNM\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحاتٌ ساخرةٌ على موقع فيسبوك صورةً لِما ادَّعت أنّها تغريداتٌ كتبها رجل الأعمال المصريّ نجيب ساويرس والفنانان محمد هنيدي وأحمد حلمي، كلٌّ على حدة، بهدف السخرية من العادات الغذائيّة الصينيّة، والحيوانات التي يتناولها الصينيّون. وبدأت المنشورات في 25 مارس/آذار الجاري، حين ادعت أن ساويرس كتب بالعامية المصرية .في سؤال ساخر &quot;همّا الصينيّين مش عايزين ياكلوا مكرونة وبانيه ويشربوا شوربة عدس زيّنا ليه؟&quot; ويأتي الرد من أحمد حلمي &quot;بيقرفوا&quot;، ثم يأتي رد هينيدي أيضاً بكلمة&quot;بيقرفوا&quot; على تغريدة مشابهة لتغريدة ساويرس.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_dmtfdjuaq.jpg\" style=\"height:380px; width:337px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ki98lbocy.jpg\" style=\"height:390px; width:361px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 286,
+        "left": 68.15715026855469,
+        "path": "articles/1585408639GettyImages-1208461126.jpg",
+        "top": 32.140380859375,
+        "totalHeight": 384,
+        "totalWidth": 577,
+        "width": 508
+    },
+    "post_date": "2020-03-28T22:11:00.000+03:00",
+    "published": [
+        {
+            "link": "https://web.facebook.com/CommentSsa5er/photos/a.629152667598058/834114800435176/?type=3&theater",
+            "name": "الكومنت الساخر",
+            "path": "published/0_1585410776_الكومنت الساخر.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=2591201611206492&set=a.1501943390132325&type=3",
+            "name": "Eslaam Elalamey",
+            "path": "published/1_1585410776_Eslaam Elalamey.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/234330820787440/photos/a.234605064093349/524474191773100/?type=3&theater",
+            "name": "Follow",
+            "path": "published/2_1585410776_Follow.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/karma.osama.372/posts/631845487379974",
+            "name": "Karma Osama",
+            "path": "published/3_1585410776_Karma Osama.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/OfficialHenedy/with_replies",
+            "name": "Mohamed Henedy",
+            "path": "sources/0_1585410776_Mohamed Henedy.jpg"
+        },
+        {
+            "link": "",
+            "name": "",
+            "path": null
+        },
+        {
+            "link": "https://twitter.com/NaguibSawiris",
+            "name": "Naguib Sawiris",
+            "path": "sources/2_1585410776_Naguib Sawiris.jpg"
+        },
+        {
+            "link": "https://twitter.com/ahelmy/with_replies",
+            "name": "Ahmed Helmy",
+            "path": "sources/3_1585410776_Ahmed Helmy.jpg"
+        },
+        {
+            "link": "",
+            "name": "",
+            "path": null
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "تغريداتٌ ساخرة لساويرس وحلمي وهنيدي عن طعام الصينيين.. حقيقة القصة",
+    "updated_at": "2020-09-25 05:05:04",
+    "url_path": "/factcheck/2020/03/28/تغريدات-ساخرة-لساويرس-وحلمي-وهنيدي-عن-طعام-الصينيين-حقيقة-القصة"
+}

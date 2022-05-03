@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 37068,
+    "author": {
+        "fullname": "رشيد عفيف",
+        "id": "5ec4e956db291667784c4bc4",
+        "photo": {
+            "name": "1589963094_رشيد صورة.jpg",
+            "path": "authors/1589963094_رشيد صورة.jpg"
+        }
+    },
+    "caption": "أنتجت الفيديو قناة مختصة في المقالب الكوميدية (يوتيوب)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">سائق سيارة لنقل الموتى يتشاجر مع عائلة ميت، ويخرج جثمانه من السيارة ليلقي&nbsp;به إليهم.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-06-24 12:40:18",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ef31f82163be37231608663",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق مسبار من مقطع الفيديو ووجد أنه مقلب كوميدي ساخر، أنتجه صانع محتوى أميركي يدعى Princezee رفقة مجموعة من الممثلين ونشره عبر قناته على موقع يوتيوب بتاريخ 4 فبراير/ شباط الفائت. وتقوم فكرة المقلب على احتجاج سائق سيارة لنقل الموتى على عائلة الميت الذي يحمله، ويتوقف&nbsp;للمطالبة بأجرته قبل استئناف السير. وبعد احتدام النقاش بينهم يقوم السائق المفترض بإخراج الجثة وإلقائها أمام عائلته ليدخل الجميع في شجار.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">يذكر أنّ القناة التي نشرت مقطع الفيديو متخصصة في تصوير المقالب الساخرة والكوميدية ومشاهد الكاميرا الخفية.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/S6vDyFpFLNw\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات وحسابات على مواقع التواصل الاجتماعي مقطع فيديو يظهر سائق سيارة لنقل الموتى يتشاجر مع عائلة الميت الذي يحمله في السيارة، ثم يعمد إلى إخراجه جثمانه منها وإلقائه.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FRun.Run.Runnn%2Fvideos%2F205684474149872%2F&amp;show_text=0&amp;width=476\" style=\"border:none;overflow:hidden\" width=\"476\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"547\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Falialaboodey1970%2Fvideos%2F279218576375978%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 342,
+        "left": 7.77777099609375,
+        "path": "articles/15929916172.jpg",
+        "top": 45.125,
+        "totalHeight": 423,
+        "totalWidth": 620,
+        "watermark_path": "articles/watermark-15929916172.jpg",
+        "width": 608
+    },
+    "post_date": "2020-06-24T10:15:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/haydar.miran66/videos/309996230004670/",
+            "name": "يوميات كيس نايلو",
+            "path": "published/0_1592991616_75282232_109326713868617_5245353832443019264_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=205684474149872",
+            "name": "Run_اركض",
+            "path": "published/1_1592991616_66846331_2351977185046342_6634282351151022080_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/DonViralPage/videos/712422915996074/",
+            "name": "DonViral - دونفيرال",
+            "path": "published/2_1592991616_72766333_139155647479356_5751806759555563520_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Fennjani/videos/194581398285032/",
+            "name": "فنجاني",
+            "path": "published/3_1592991616_29356225_1627419244008637_5283644206430575698_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=279218576375978",
+            "name": "علي غانم العبودي",
+            "path": "published/4_1592991616_86788707_634746223955615_7437388574909005824_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/chikamara55/videos/1166002313746491/",
+            "name": "شيكامارا  chikamara",
+            "path": "published/5_1592991617_61583235_2359185657703454_1020713817006407680_o.jpg"
+        }
+    ],
+    "result": "satire",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=S6vDyFpFLNw",
+            "name": "Princezee",
+            "path": "sources/0_1592991617_lnzBY0nI_400x400.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "مقلب ساخر.. سائق سيارة لنقل الموتى يرمي بجثة",
+    "updated_at": "2020-09-25 06:07:57",
+    "url_path": "/factcheck/2020/06/24/مقلب-ساخر-سائق-سيارة-لنقل-الموتى-يرمي-بجثة"
+}

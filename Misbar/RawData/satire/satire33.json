@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 14642,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "المقطع ساخر (تويتر)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">رئيس كوريا الشمالية يعود إليكم حاملاً رسالة واضحة إلى العالم.</span></p>\r\n",
+    "country": "KP",
+    "created_at": "2020-05-06 16:46:57",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eb2bfd1db291644e34aabc4",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من المقطع المتداول ووجد أنه ساخر، إذ يعود إلى مشاركة Howard X، أحد مقلّدي الزعيم الكوري كيم جونغ أون، في فعالية غنائية احتجاجية في هونغ كونغ. وعلّق Howard ساخراً في منشور له على موقع فيسبوك &quot;قرّرتُ أن أقضي على شائعات وفاتي وأُعطي بعض الأمل لشعب هونغ كونغ&quot;.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><iframe frameborder=\"0\" height=\"803\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FKimJongUnLookAlike%2Fposts%2F2863676167083859&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "كوريا الشمالية",
+        "كيم جونغ أون"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تداولت صفحات على مواقع التواصل الاجتماعي مقطع فيديو ادّعت أنه لرئيس كوريا الشمالية، كيم جون أونغ، بعد تعافيه من المرض. يظهر الرئيس كيم في المقطع المتداول وهو يمشي فيما يشبه المول التجاري، ويحمل صاروخاً بيديه، الأمر الذي عَدّهُ ناشرو الخبر رسالة واضحة وتهديداً لكلّ أعدائه.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><iframe frameborder=\"0\" height=\"405\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Ftaxitoday90%2Fvideos%2F836117773541385%2F&amp;show_text=1&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 23.5,
+        "path": "articles/1588772815غلاف.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 787,
+        "watermark_path": "articles/watermark-1588772815غلاف.jpg",
+        "width": 752
+    },
+    "post_date": "2020-04-29T16:40:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/taxitoday90/videos/836117773541385/",
+            "name": "طاكسي اليوم",
+            "path": "published/0_1588772815_طاكسي-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Alex.agmal/videos/943007662797210/",
+            "name": "إسكندرية أجمل مدن العالم",
+            "path": "published/1_1588772815_إسكندرية-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/106405531020364/videos/3810152935724210/",
+            "name": "دايخ في عالم بايخ",
+            "path": "published/2_1588772815_دايخ-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/119485316102865/videos/284104149415928/",
+            "name": "اخبار اليوم",
+            "path": "published/3_1588772815_أخبار-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Dima.Kech2/videos/552673805434746/",
+            "name": "ديما مراكش",
+            "path": "published/4_1588772815_ديما-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100046672188515/videos/147961486769590/",
+            "name": "الانور جراي",
+            "path": "published/5_1588772815_الانور-لوغو.jpg"
+        }
+    ],
+    "result": "satire",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/story.php?story_fbid=2863676167083859&id=361346080650226",
+            "name": "Howard X",
+            "path": "sources/0_1588772815_howard-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "عودة رئيس كوريا الشمالية حاملاً صاروخ.. فيديو ساخر",
+    "updated_at": "2020-09-25 17:52:05",
+    "url_path": "/factcheck/2020/05/06/عودة-رئيس-كوريا-الشمالية-حاملا-صاروخ-فيديو-ساخر"
+}

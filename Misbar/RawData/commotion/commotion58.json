@@ -1,0 +1,95 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 3,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2552,
+    "author": {
+        "fullname": "يارا نصّار",
+        "id": "5e442792d4a22967b1582103",
+        "photo": {
+            "name": "1581524881_Picture1.jpg",
+            "path": "authors/1581524881_Picture1.jpg"
+        }
+    },
+    "category": "Health",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">اكتشف العُلماء في البرازيل فايروساً وصفوه بـ &quot;الغامض&quot;، بعدما وجدوا أنّ جيناته غير معروفة نهائيًّا، ولم توثّق من قبل&nbsp;في الأبحاثِ الفايروسية، و<span style=\"color:black\">أُطلق عليه اسم &quot;يارا</span><span dir=\"LTR\" lang=\"EN-GB\"><span style=\"color:black\">&quot;</span></span>. وذلك بمثابة تهديد جديد في وجه العالم، بعد فايروس كورونا.</p>\r\n",
+    "country": "BR",
+    "created_at": "2020-02-12 19:41:25",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e442ab5d4a22967b1582104",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تبيّن لـ&quot;مسبار&quot; أنّ الخبر صحيح، إذ <a href=\"https://www.biorxiv.org/content/10.1101/2020.01.28.923185v1.full\" style=\"color:blue; text-decoration:underline\">اكتشف</a> عُلماءٌ الفايروس فعلاً في بحيرة اصطناعية في البرازيل، إلى جانب فايروسات أُخرى، وأثار صغر حجمه استغرابهم، إضافة إلى جيناته غير المعروفة بنسبةٍ كبيرة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">من غير الواضح ما هي آثار الفايروس على صحّةِ الإنسان حتى الآن، إذ من الممكن أن يكون مفيداً للصحّة، وبالتالي فلم يَثبت بعدُ إن كان يُشكّل تهديداً على العالم، ولم يثبت تشابهه مع فايروس كورونا. ويُعتبر ذِكر كورونا في عناوين الأخبار نوعاً من أنواع الإثارة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"AR-SA\"><img alt=\"A screenshot of a social media post\r\n\r\nDescription automatically generated\" id=\"Picture_x0020_7\" src=\"https://images-prod.misbar.com/articlebody/investigation_78co1qzvk.jpg\" style=\"height:285.75pt; width:333.75pt\" /> </span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "كورونا",
+        "فايروس يارا",
+        "البرازيل",
+        "صحة وعلوم"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت صُحفٌ ومواقع إخبارية خبراً عن اكتشاف العلماء لشكلٍ جديد من الفايروسات التي تمتلك جيناتٍ غير معروفة، إذ تشكّل تلك الجينات ما نسبته 90% من إجمالي جينات (جينوم) الفايروس الجديد. وقد اكتشفه العُلماء في بُحيرةٍ في البرازيل وأطلقوا عليه اسم &quot;يارا&quot; الذي يعني &quot;أمَّ كلِّ المياه&quot;، ووصفته بعض المنصّات الإعلامية بأنّه &quot;تهديد جديد&quot; يتربّص بالعالم بعد فايروس كورونا.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"background-color:white\"><span dir=\"LTR\" lang=\"AR-SA\"><span style=\"color:#222222\"><img id=\"Picture_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/origin_t1ge3hxom.jpg\" style=\"height:249pt; width:345.75pt\" /> </span></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"background-color:white\"><span dir=\"LTR\" lang=\"AR-SA\"><span style=\"color:#222222\"><img alt=\"A close up of electronics\r\n\r\nDescription automatically generated\" id=\"Picture_x0020_4\" src=\"https://images-prod.misbar.com/articlebody/origin_441spo8hy.jpg\" style=\"height:247.5pt; width:344.25pt\" /> </span></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"background-color:white\"><span dir=\"LTR\" lang=\"AR-SA\"><span style=\"color:#222222\"><img alt=\"A screenshot of a cell phone\r\n\r\nDescription automatically generated\" id=\"Picture_x0020_6\" src=\"https://images-prod.misbar.com/articlebody/origin_xifv5uvr2.jpg\" style=\"height:243.75pt; width:339pt\" /> </span></span></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 274,
+        "left": 0.816650390625,
+        "path": "articles/1581525684GettyImages-1128676759-min.jpg",
+        "top": 47.43333435058594,
+        "totalHeight": 423,
+        "totalWidth": 489,
+        "width": 487
+    },
+    "post_date": "2020-02-12T18:31:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/watch/?v=769338580223757&external_log_id=1afedd7fb13b5dd1f4ba69b4ca40d419&q=%D9%81%D9%8A%D8%B1%D9%88%D8%B3%20%D9%8A%D8%A7%D8%B1%D8%A7",
+            "name": "اليوم السابع",
+            "path": "published/0_1581525684_اليوم السابع-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=2436504379949015&external_log_id=38d4e6ce870e4715226eb44cbd6924ca&q=%D9%81%D9%8A%D8%B1%D9%88%D8%B3%20%D9%8A%D8%A7%D8%B1%D8%A7",
+            "name": "صدى البلد ",
+            "path": "published/1_1581525684_صدى البلد- لوغو.jpg"
+        },
+        {
+            "link": "https://www.nessma.tv/ar/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/actu/%D8%B8%D9%87%D8%B1-%D9%81%D8%AC%D8%A3%D8%A9-%D9%85%D8%A7-%D9%87%D9%88-%D9%81%D9%8A%D8%B1%D9%88%D8%B3-%D9%8A%D8%A7%D8%B1%D8%A7-%D8%A7%D9%84%D8%BA%D8%A7%D9%85%D8%B6/197949",
+            "name": "نسمة",
+            "path": "published/2_1581525684_نسمة - لوغو.jpg"
+        },
+        {
+            "link": "https://fath-news.com/ar/news/357919/%D9%8A%D8%A7%D8%B1%D8%A7-%D9%81%D9%8A%D8%B1%D9%88%D8%B3-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%8A%D9%87%D8%AF%D8%AF-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A8%D8%B9%D8%AF-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7",
+            "name": "بوابة الفتح",
+            "path": "published/3_1581525684_بوابة الفتح - لوغو.jpg"
+        }
+    ],
+    "result": "commotion",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.biorxiv.org/content/10.1101/2020.01.28.923185v1.full",
+            "name": "BioRxiv",
+            "path": "sources/0_1581525684_biorxiv - logo.jpg"
+        },
+        {
+            "link": "https://www.sciencemag.org/news/2020/02/scientists-discover-virus-no-recognizable-genes",
+            "name": "Science Magazine",
+            "path": "sources/1_1581526081_Science mag - logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "فايروس جديد يهدّد العالم بعد كورونا!",
+    "updated_at": "2020-09-25 14:15:15",
+    "url_path": "/factcheck/2020/02/12/فايروس-جديد-يهدد-العالم-بعد-كورونا"
+}

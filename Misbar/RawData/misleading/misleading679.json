@@ -1,0 +1,115 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 796,
+    "author": {
+        "fullname": "خالد إسماعيل",
+        "id": "5e59256dd4a2295224257db3",
+        "photo": {
+            "name": "1582900589_صورة 2.jpg",
+            "path": "authors/1582900589_صورة 2.jpg"
+        }
+    },
+    "caption": "الصورة لمتسول بمحافظة الغربية، بحوزته 500 جنيه مصري (الجورنال)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">القبض على متسول في محافظة المنيا في مصر، يمتلك أكثر من أربعة ملايين جنيه ويمتلك عمارتين.</p>\r\n",
+    "country": "EG",
+    "created_at": "2020-09-06 17:00:44",
+    "created_by": "5f39b6aa1dd585076701cb95",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f54eb8c619940514f5f0d65",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\"><span style=\"color:#0d0d0d\">تحقق &quot;مسبار&quot; من الخبر المتداول ووجد أنّه مضلّل، إذ أن الخبر الأصلي يعود لسبتمبر/أيلول 2018، عندما قبضت الشرطة المصرية على متسوّل في محافظة الغربية المصرية بتهمة إعاقة حركة الطريق العام، عُثر بحوزته على مبلغ خمسمئة جنيه فقط.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><strong><img src=\"https://images-prod.misbar.com/articlebody/investigation_jye18skpe.jpg\" style=\"height:483px; width:506px\" /></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><strong><img src=\"https://images-prod.misbar.com/articlebody/investigation_r629qclrz.jpg\" style=\"height:589px; width:602px\" /></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><strong><img src=\"https://images-prod.misbar.com/articlebody/investigation_csd559bfa.jpg\" style=\"height:639px; width:602px\" /></strong></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">تداولت حسابات وصفحات على موقع التواصل الاجتماعي فيسبوك صورةً بتاريخ 6 سبتمبر/أيلول الجاري، ادّعى ناشروها أنّها تعود لمتسوّل تم القبض عليه مؤخراً في محافظة المنيا، بصعيد مصر، وأضاف الناشرون&nbsp;أنّه يملك في بيته أربعة ملايين جنيه مصري وعمارتين.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><strong><img src=\"https://images-prod.misbar.com/articlebody/origin_rs9mjpqew.jpg\" style=\"height:765px; width:555px\" /></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><strong><img src=\"https://images-prod.misbar.com/articlebody/origin_7vkmxvnb5.jpg\" style=\"height:802px; width:555px\" /></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1599401122main photo.jpg",
+        "watermark_path": "articles/watermark-1599401122main photo.jpg"
+    },
+    "post_date": "2020-09-06T16:53:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/eishaq.khayr.ajnad.alard/photos/a.1245331785612529/2281393365339694",
+            "name": "عشاق خير أجناد الأرض ",
+            "path": "published/0_1599400843_Facebook_logo.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/To0oba/photos/a.145370343843043/174786717568072",
+            "name": "الطوبة اللي خبطت فتحي ",
+            "path": "published/1_1599400843_Facebook_logo.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/photo?fbid=200319628334733&set=gm.1161630517587727",
+            "name": "فداكي يا مصر ",
+            "path": "published/2_1599400843_Facebook_logo.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/photo/?fbid=164495595296837&set=gm.1077218619377965",
+            "name": "زينب علي ",
+            "path": "published/3_1599400843_Facebook_logo.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/akbark.askandarany/photos/a.1066922600110869/2050891968380589",
+            "name": "أخبارك إسكندراني ",
+            "path": "published/4_1599400843_Facebook_logo.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/taheamasrr/photos/a.110316500413107/339402524171169",
+            "name": "تحيا مصر ",
+            "path": "published/5_1599400843_Facebook_logo.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.elwatannews.com/news/details/3654238",
+            "name": "الوطن ",
+            "path": "sources/0_1599400843_الوطن.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "http://elgornal.net/news/news.aspx?id=12204828",
+            "name": "الجورنال ",
+            "path": "sources/1_1599400844_الجورنال.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://tinyurl.com/y3pw67ep",
+            "name": "اليوم السابع ",
+            "path": "sources/2_1599400844_اليوم السابع-لوغو.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لم يُعثر على عقارات وملايين الجنيهات بحوزة هذا المتسوّل",
+    "updated_at": "2020-09-25 22:06:28",
+    "url_path": "/factcheck/2020/09/06/لم-يعثر-على-عقارات-وملايين-الجنيهات-بحوزة-هذا-المتسول",
+    "was_notification_pushed": true
+}

@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 126,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "نُشر الخبر الأصلي على منصة ساخرة (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">عقوبة بالسجن لمدة 15 سنة في اليابان لمن يستخدم المايكرويف!</p>\r\n",
+    "country": "JP",
+    "created_at": "2020-09-26 15:39:14",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 2,
+    "feedback_pos": 1,
+    "id": "5f6f36722eaebd2fc13589d4",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;<a href=\"https://misbar.com/\" style=\"text-decoration:none\" target=\"_blank\"><u>مسبار</u></a>&quot; من الخبر المتداول ووجد أنه ساخر لكنه انتشر على أنه حقيقة. إذ نُشر <a href=\"https://panorama.pub/15632-yaponiya-otkazalas.html\" style=\"text-decoration:none\" target=\"_blank\"><u>الخبر الأصلي</u></a> على منصة بانوراما الروسية المتخصصة في نشر الأخبار الساخرة والمختلقة.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">لكنّ العديد من الصفحات والمواقع الإخبارية نشرت الخبر على أنه حقيقة.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_vs03djy2t.jpg\" style=\"height:448px; width:533px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">اقرأ/ي أكثر:</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/09/23/%D8%B3%D8%B1%D8%B9%D8%A9-%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D9%8A%D8%A7%D8%A8%D8%A7%D9%86%D9%8A-%D9%85%D8%B9%D8%AF%D9%84%D8%A9-%D8%AA%D9%82%D9%86%D9%8A%D8%A7-%D9%88%D9%84%D9%8A%D8%B3%D9%86-%D9%88%D8%A7%D9%82%D8%B9%D9%8A%D8%A9\" target=\"_blank\">سرعة القطار الياباني معدلة تقنياً وليست واقعية</a></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/08/21/%D8%B5%D9%88%D8%B1%D8%A9-%D8%B2%D8%A7%D8%A6%D9%81%D8%A9-%D9%84%D8%AC%D8%A8%D9%84-%D9%81%D9%88%D8%AC%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D9%8A%D8%A7%D8%A8%D8%A7%D9%86\" target=\"_blank\">صورة زائفة لجبل فوجي في اليابان</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "اليابان",
+        "المايكرويف"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تتناقل صفحات وحسابات على مواقع التواصل الاجتماعي، منذ فترة، خبراً مفاده إقرار عقوبة بالسجن لمدة 15 سنة في اليابان لكلّ من يستعمل المايكرويف، بسبب الأضرار الناتجة عن تعرّض الطعام للأشعة الصادرة عنه.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_848s7plz7.jpg\" style=\"height:400px; width:539px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_nsa3g1ibv.jpg\" style=\"height:762px; width:545px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 309,
+        "left": 1.066650390625,
+        "path": "articles/1601123953GettyImages-52346460.jpg",
+        "top": 87.35009765625,
+        "totalHeight": 423,
+        "totalWidth": 552,
+        "watermark_path": "articles/watermark-1601123953GettyImages-52346460.jpg",
+        "width": 550
+    },
+    "post_date": "2020-09-26T15:36:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://thegazapost.com/ar/post/43512/%D8%A8%D8%A7%D9%84%D9%8A%D8%A7%D8%A8%D8%A7%D9%86--%D8%B9%D9%82%D9%88%D8%A8%D8%A9-15-%D8%B9%D8%A7%D9%85-%D8%A8%D8%A7%D9%84%D8%B3%D8%AC%D9%86-%D9%84%D9%85%D9%86-%D9%8A%D8%B3%D8%AA%D8%AE%D8%AF%D9%85-%D8%A7%D9%84%D9%85%D8%A7%D9%8A%D9%83%D8%B1%D9%88%D9%8A%D9%81-",
+            "name": "غزة بوست",
+            "path": "published/0_1601124229_اليابان 15 عاما السجن.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/saleh.marey.5/posts/2411589228852637",
+            "name": "Saleh Marey",
+            "path": "published/1_1601124229_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/mshashta/posts/2128822080532951/",
+            "name": "قناة المشاشطة",
+            "path": "published/2_1601124229_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/MhdOmarAbolwafa/posts/2734834419891571",
+            "name": "محمد عمر أبو الوفا",
+            "path": "published/3_1601124292_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2058221564478426&id=100008718079261",
+            "name": "يحيى عسالي",
+            "path": "published/4_1601124292_facebook.jpg"
+        }
+    ],
+    "result": "satire",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://panorama.pub/15632-yaponiya-otkazalas.html",
+            "name": "Panorama",
+            "path": "sources/0_1601123953_b130afde4ff520fafe6f62612351bc008f82fd55.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لم تفرض اليابان عقوبة بالسجن 15 سنة لمن يستخدم المايكرويف",
+    "updated_at": "2020-09-26 16:09:18",
+    "url_path": "/factcheck/2020/09/26/لم-تفرض-اليابان-عقوبة-بالسجن-15-عاما-لمن-يستخدم-المايكرويف",
+    "was_notification_pushed": "true"
+}

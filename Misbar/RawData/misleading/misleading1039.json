@@ -1,0 +1,97 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 36502,
+    "author": {
+        "fullname": "مريم هواري",
+        "id": "5e299460d4a22939983a3ec5",
+        "photo": {
+            "path": "authors/1579791192_Maryam.jpg"
+        }
+    },
+    "caption": "لا يشكّل الكويكب خطر على الكرة الأرضية(Twitter)",
+    "category": "Science",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">كويكب أطول من برج &quot;إمباير ستيت&quot; الأميركي يتوجّه نحو الكرة الأرضية.</p>\r\n",
+    "country": "",
+    "created_at": "2020-06-08 00:28:40",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5edd5c08d6e4a9796607e582",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الادعاء المتداول ووجد أنه مضلّل. إذ أشار موقع SPACE.com إلى أن الكويكب المتداول بالفعل ضخم ويتراوح طوله بين 250 و 570 متر لكّنه لن يصطدم بالكرة الأرضية. وقد نشرت وكالة ناسا في صفحتها الرسمية على موقع تويتر أن الكويكب، والذي يُدعى Asteroid 2002 NN4 مرّ بأمان عن كوكب الأرض بتاريخ 6 يونيو/حزيران الجاري، إذ أن المسافة بينه وبين الكرة الأرضية كانت تساوي 3.2 مليون ميل، أي 13 ضعف المسافة بين القمر والأرض.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_ybgrgier8.jpg\" style=\"height:688px; width:560px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_73rf11rg4.jpg\" style=\"height:315px; width:624px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت عدّة صفحات على موقعي التواصل الاجتماعي فيسبوك وتوتير خبراً بتاريخي 6 و7 يونيو/حزيران الجاري عن توجّه كويكب بحجم أعلى ناطحة سحاب في مدينة نيويورك، مبنى &quot;إمباير ستيت&quot;، نحو الكرة الأرضية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_zo1k7swqa.jpg\" style=\"height:622px; width:555px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_tqdz11p6c.jpg\" style=\"height:436px; width:561px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1591565597ateroid photo1.jpg",
+        "watermark_path": "articles/watermark-1591565597ateroid photo1.jpg"
+    },
+    "post_date": "2020-06-08T00:20:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/STNArabic/status/1269384555619811334",
+            "name": "STN",
+            "path": "published/0_1591565318_STN.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/flip.moha/posts/1580299892138352",
+            "name": "Flip Moha",
+            "path": "published/1_1591565318_flip moha.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1138668619823753&id=100010418775547",
+            "name": "Mohammed Jt",
+            "path": "published/2_1591565318_mohammed JT.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/mohammed.hatim.775/posts/1034055616989147",
+            "name": "ثائر غاضب",
+            "path": "published/3_1591565318_ثائر غاضب.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/atif.talha.7/posts/2972409672839375",
+            "name": "Atif Talha",
+            "path": "published/4_1591565318_عطيف طلحة.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/AsteroidWatch/status/1268908251514580993",
+            "name": "NASA Asteroid Watch",
+            "path": "sources/0_1591565319_nasa asteroid watch.jpg"
+        },
+        {
+            "link": "https://www.forbes.com/sites/jamiecartereurope/2020/06/06/a-massive-near-earth-asteroid-presents-no-danger-on-saturday-night-says-nasa/#ed73c1b77390",
+            "name": "Forbes",
+            "path": "sources/1_1591565319_forbes.jpg"
+        },
+        {
+            "link": "https://www.space.com/asteroid-2002-nn4-earth-flyby-june-2020.html",
+            "name": "SPACE.com",
+            "path": "sources/2_1591565319_space.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "كويكب بحجم \"إمباير ستيت\" يتوجه نحو الأرض.. حقيقة الخبر",
+    "updated_at": "2020-09-25 19:38:37",
+    "url_path": "/factcheck/2020/06/08/كويكب-بحجم-ناطحة-السحاب-إمباير-ستيت-يتوجه-نحو-الأرض-حقيقة-الخبر"
+}

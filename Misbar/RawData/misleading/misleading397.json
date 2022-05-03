@@ -1,0 +1,116 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 271,
+    "author": {
+        "fullname": "بيان حمدان",
+        "id": "5fa0632609eb9442f11d9d69",
+        "photo": {
+            "name": "1604346662_2010.jpg",
+            "path": "authors/1604346662_2010.jpg"
+        }
+    },
+    "caption": "الصورة معدلة (تويتر)",
+    "category": "Technology",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-JO\">هذه الصورة لا تريدك ناسا ان تراها.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-11-03 18:43:25",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 3,
+    "feedback_pos": 3,
+    "id": "5fa17a9dab5294744c63d265",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق <a href=\"https://misbar.com/media/videos\" style=\"color:#0563c1; text-decoration:underline\">&quot;مسبار</a>&quot; من الصورة المتداولة&nbsp;ووجد أنها مضللة، إذ تعود ملكيتها للمصور الفوتوغرافي جاكسون روبرتس، الذي نشرها في&nbsp;&nbsp;<a href=\"https://jaxonroberts.com/collections/beach/products/edge-of-the-world\" style=\"color:#0563c1; text-decoration:underline\">موقعه الرسمي</a> باسم &quot;Edge of the world&quot;، و في وصف الصورة مكتوب &quot;صورة معدلة &quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_enqinwgs6.jpg\" style=\"height:240px; width:624px\" /><br />\r\n<img alt=\"Capture1.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_srwlw5yvh.jpg\" style=\"height:466px; width:612px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">اقرأ/ي أيضاً:</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/08/31/%D9%84%D9%85-%D8%AA%D8%B5%D8%B1%D8%AD-%D9%88%D9%83%D8%A7%D9%84%D8%A9-%D9%86%D8%A7%D8%B3%D8%A7-%D8%A8%D8%A3%D9%86-%D9%82%D9%85%D8%B1%D8%A7-%D8%B5%D9%86%D8%A7%D8%B9%D9%8A%D8%A7-%D8%B3%D9%8A%D8%B3%D9%82%D8%B7-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A3%D8%B1%D8%B6\" style=\"color:#0563c1; text-decoration:underline\">لم تصرح وكالة ناسا بأن قمراً صناعياً سيسقط على الأرض</a></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/02/13/%D9%87%D9%84-%D9%86%D8%B4%D8%B1%D8%AA-%D9%86%D8%A7%D8%B3%D8%A7-%D8%A7%D9%84%D8%AB%D9%84%D8%A7%D8%AB%D8%A7%D8%A1-%D8%B5%D9%88%D8%B1%D8%A9-%D9%84%D9%8A%D9%84%D9%8A%D8%A9-%D9%84%D9%85%D8%B5%D8%B1\" style=\"color:#0563c1; text-decoration:underline\">هل نشرت &quot;ناسا&quot; الثلاثاء صورة ليلية لمصر؟</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">نشرت صفحات وحسابات على مواقع التواصل الاجتماعي، حديثاً،&nbsp;صورة تُظهر حافة حادة لنهاية محيط، مرفقةٌ بتعليق &quot;هذه الصورة لا تريدك ناسا أن تراها &quot;. مشيرين إلى أنها دليل قاطع على أن الأرض مسطحة وليست كروية.<br />\r\n<br />\r\n<img alt=\"A picture containing graphical user interface\r\n\r\nDescription automatically generated\" src=\"https://images-prod.misbar.com/articlebody/origin_rd9g9fm94.jpg\" style=\"height:492px; width:453px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img alt=\"A picture containing graphical user interface\r\n\r\nDescription automatically generated\" src=\"https://images-prod.misbar.com/articlebody/origin_gub2dymwz.jpg\" style=\"height:492px; width:453px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 291,
+        "left": 7.580810546875,
+        "path": "articles/1604418204122502590_2926125747487156_6791305020653652537_n.jpg",
+        "top": 80.60791015625,
+        "totalHeight": 423,
+        "totalWidth": 537,
+        "watermark_path": "articles/watermark-1604418204122502590_2926125747487156_6791305020653652537_n.jpg",
+        "width": 517
+    },
+    "post_date": "2020-11-03T16:26:00.000+03:00",
+    "published": [
+        {
+            "id": "5fa17a9c70397f3eb14f1160",
+            "link": "https://web.facebook.com/NHFAT.JORDAN/posts/10159129633581617",
+            "name": "نهفات أردنية",
+            "origin": "",
+            "path": "sources/ec6fa9114ddce28043728a7df0a97ee365bedf6b.jpg"
+        },
+        {
+            "id": "5fa17a9c70397f3eb14f1160",
+            "link": "https://web.facebook.com/1990.mohamed.alem/posts/2926125820820482",
+            "name": "نهفات أردنية",
+            "origin": "",
+            "path": "sources/ec6fa9114ddce28043728a7df0a97ee365bedf6b.jpg"
+        },
+        {
+            "id": "5fa17a9c70397f3eb14f1160",
+            "link": "https://web.facebook.com/permalink.php?story_fbid=215349250006133&id=100045931787370",
+            "name": "نهفات أردنية",
+            "origin": "",
+            "path": "sources/ec6fa9114ddce28043728a7df0a97ee365bedf6b.jpg"
+        },
+        {
+            "id": "5fa17a9cc314a64670107168",
+            "link": "https://twitter.com/Qusa__y/status/1319971581058232322",
+            "name": "قصي",
+            "origin": "twitter",
+            "path": "sources/f94263b7bb50115497b0b27bb6d8af35a9d044c5.jpg"
+        },
+        {
+            "id": "5fa17a9cff4c6730a1586018",
+            "link": "https://twitter.com/Dyar6_/status/132008231549049241",
+            "name": "Twitter",
+            "origin": "twitter",
+            "path": "sources/316191497b6c1488f2f8929b0ac9c71b81df8818.jpg"
+        },
+        {
+            "id": "5fa17a9cf798a8607c5bad96",
+            "link": "https://twitter.com/Bilal_Mosuli/status/1319728862473879553",
+            "name": "الموصلي - &rlm;𝐁𝐢𝐥𝐚𝐥 𝐀𝐥 𝐌𝐨𝐬𝐮𝐥𝐢",
+            "origin": "twitter",
+            "path": "sources/4b847af0bb132588da232c9ce8f45846b67a051b.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fa17a9c00b06b6316068939",
+            "link": "https://jaxonroberts.com/collections/beach/products/edge-of-the-world",
+            "name": "Jaxon Roberts Prints",
+            "origin": "",
+            "path": "sources/8bbfa04c3054baee3d0bc945ebbccbe0139aa450.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صورة مفبركة تدّعي أن الأرض مسطحة",
+    "updated_at": "2020-11-03 19:05:49",
+    "url_path": "/factcheck/2020/11/03/صورة-مفبركة-تدعي-أن-الأرض-مسطحة",
+    "was_notification_pushed": "true"
+}

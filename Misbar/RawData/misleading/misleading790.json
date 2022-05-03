@@ -1,0 +1,73 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1051,
+    "author": {
+        "fullname": "مريم هواري",
+        "id": "5e299460d4a22939983a3ec5",
+        "photo": {
+            "path": "authors/1579791192_Maryam.jpg"
+        }
+    },
+    "caption": "إضاءة الكنيسة مبادرة فلسطينية وليست إسرائيلية (تويتر)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">تغريدةً للمتحدّث باسم جيش الاحتلال &quot;الإسرائيلي&quot; يُظهر أنّ &quot;إسرائيل&quot; وراء إضاءة كنيسة البشارة بالناصرة بألوان العلم اللبناني.</p>\r\n",
+    "country": "IL",
+    "created_at": "2020-08-09 20:19:35",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f3030271dd58507a5787263",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقق &quot;مسبار&quot; من التغريدة المتداولة ووجد أنّها مضلّلة. إذ أن إضاءة كنيسة البشارة للروم الأرثوذكس في مدينة الناصرة، في الأراضي الفلسطينية المحتلة عام 1948،&nbsp;هي مبادرة خاصّة بمجلس الطائفة الأرثوذكسية في المدينة، ولا علاقة للسلطات &quot;الإسرائيلية&quot; فيها، وبعد أن تواصل &quot;مسبار&quot; مع رئيس مجلس الطائفة الأرثوذكسية في الناصرة، المحامي بسيم عصفور،&nbsp;وضّح أنّ المبادرة وطنية فلسطينية، للتضامن مع الشعب اللبناني، وهذا ما وضّحه أيضاً&nbsp;الرئيس السابق للمجلس، د. عزمي حكيم، أن إضاءة الكنيسة بألوان العلم اللبناني هي مبادرة خاصّة من قبل الطائفة الأرثوذكسية الفلسطينية، كخطوة تضامنية مع ضحايا انفجار مرفأ بيروت.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">وقد نشر المجلس بياناً بتاريخ 7 أغسطس/آب الجاري، عن فعّاليته التضامنية التي شملت صلاة خاصة من كنيسة البشارة للروم الأرثوذكس في مدينة الناصرة، من أجل شهداء انفجار مرفأ بيروت ومن أجل المصابين والمتضرّرين، ودعا&nbsp;عصفور في البيان الشعب الفلسطيني في الأراضي المحتلّة عام 1948 الإلتفاف&nbsp;والمشاركة في الفعّاليات التضامنية وحملات التبرّعات لدعم الشعب اللبناني.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_g6w9el163.jpg\" style=\"height:784px; width:619px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">نشر المتحدّث باسم جيش الاحتلال &quot;الإسرائيلي&quot; باللغة العربية، أفيخاي أدرعي، تغريدةً باللغة العربية بتاريخ 9 أغسطس/آب الجاري، يُظهر من خلالها ضمناً أن &quot;إسرائيل&quot; وراء إضاءة كنيسة البشارة للروم الأرثوذوكس بألوان العلم اللبناني، تضامناً مع ضحايا انفجار مرفأ بيروت.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_j3jot1f6q.jpg\" style=\"height:739px; width:586px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 137,
+        "left": 3.37823486328125,
+        "path": "articles/1596993574mainphoto.jpg",
+        "top": 35.661865234375,
+        "totalHeight": 182,
+        "totalWidth": 250,
+        "watermark_path": "articles/watermark-1596993574mainphoto.jpg",
+        "width": 244
+    },
+    "post_date": "2020-08-09T20:17:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/AvichayAdraee/status/1292453854051794945",
+            "name": "افيخاي ادرعي",
+            "path": "published/0_1596993574_ادرعي.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/234330289961289/posts/3316246505102970/",
+            "name": "مجلس الطائفة الأرثوذكسية الناصرة",
+            "path": "sources/0_1596997109_الطائفة.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لا علاقة للسلطات \"الإسرائيلية\" بإضاءة العلم اللبناني على كنيسة في الناصرة",
+    "updated_at": "2020-09-25 08:03:57",
+    "url_path": "/factcheck/2020/08/09/لا-علاقة-للسلطات-الإسرائيلية-بإضاءة-العلم-اللبناني-على-كنيسة-في-الناصرة"
+}

@@ -1,0 +1,136 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 222,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "الفتاة من الإكوادور وليست من العراق (فيسبوك)",
+    "category": "Health",
+    "claim": "<p><span style=\"background-color:white\"><span dir=\"RTL\" lang=\"AR-SA\"><span style=\"color:#050505\">&nbsp;حدث في العراق، اليوم عملية استخراج شيشة عصير زجاج من رحم فتاة تبلغ من العمر 25 عاماً.</span></span></span></p>\r\n",
+    "country": "IQ",
+    "created_at": "2020-12-04 22:23:34",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 2,
+    "feedback_pos": 6,
+    "id": "5fca8cb69f09bf4898022acd",
+    "investigation": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقّق &quot;<a href=\"https://misbar.com/\"><span style=\"color:#3498db\">مسبار</span></a>&quot; من الصور والحادثة، ووجد أنها مضللة، إذ إن الحدث وقع في مدينة </span><span dir=\"RTL\" lang=\"AR-SA\">بورتوفينو في الإكوادور بمستشفى فيردي سيفالوس، في سبتمبر/أيلول الفائت، وليس في العراق، أما صورة الفتاة فهي صورة راجت حين أُصيبت الفنانة مادلين مطر بوعكة صحية&nbsp;عام 2015.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_qt5eef3a3.jpg\" style=\"height:690px; width:584px\" /></p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_eov232s6k.jpg\" style=\"height:686px; width:574px\" /></p>\r\n\r\n<p style=\"text-align:right\">اقرأ/ي أيضاً:</p>\r\n\r\n<p style=\"text-align:right\"><a href=\"http://سليم الحاج يحيى أجرى عملية القلب النوعية قبل عدة سنوات وليس حديثاً\"><span style=\"color:#3498db\">سليم الحاج يحيى أجرى عملية القلب النوعية قبل عدة سنوات وليس حديثاً</span></a></p>\r\n\r\n<p style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/11/20/%D9%84%D8%A7-%D9%8A%D8%B8%D9%87%D8%B1-%D8%A7%D9%84%D8%B7%D8%A8%D9%8A%D8%A8-%D8%A3%D9%88%D8%BA%D9%88%D8%B1-%D8%B4%D8%A7%D9%87%D9%8A%D9%86-%D9%81%D9%8A-%D9%87%D8%B0%D9%87-%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9\"><span style=\"color:#3498db\">لا يظهر الطبيب أوغور شاهين في هذه الصورة</span></a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:justify\"><span style=\"background-color:white\"><span dir=\"RTL\" lang=\"AR-SA\"><span style=\"color:#050505\">تداولت حسابات على مواقع التواصل الاجتماعي، حديثاً، صورتين؛ الأولى لفتاة ترقد في سرير المستشفى، وأخرى لصورة أشعة توضح زجاجة داخل جسم بشري، مع تعليق مصاحب &quot;حدث في العراق، اليوم عملية استخراج شيشة عصير زجاج من رحم فتاة تبلغ من العمر 25 عاماً&quot;، وتفاعل مع الخبر آلاف مستخدمي مواقع&nbsp;التواصل الاجتماعي.</span></span></span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"background-color:white\"><span style=\"color:#050505\"><img src=\"https://images-prod.misbar.com/articlebody/origin_6aflm3xqb.jpg\" style=\"height:569px; width:588px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_t8ijs4jse.jpg\" style=\"height:410px; width:602px\" /></span></span></p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 396,
+        "left": 16.099945068359375,
+        "path": "articles/1607109813Screenshot 2020-12-04 200410.jpg",
+        "top": 18.400146484375,
+        "totalHeight": 423,
+        "totalWidth": 803,
+        "watermark_path": "articles/watermark-1607109813Screenshot 2020-12-04 200410.jpg",
+        "width": 704
+    },
+    "post_date": "2020-12-04T19:28:00.000+03:00",
+    "published": [
+        {
+            "id": "5fca8cb57cd290462f5050e6",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=140295651185185&id=101387881742629",
+            "name": "أحداث العراق الآن",
+            "origin": "facebook",
+            "path": "sources/d41b5641225c2c719800eee56d3ea73d439ca1c7.jpg"
+        },
+        {
+            "id": "5fca8cb543d04502aa4771d5",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=952064541988962&id=541718713023549",
+            "name": "جزء من المخ مفقود",
+            "origin": "facebook",
+            "path": "sources/d41b5641225c2c719800eee56d3ea73d439ca1c7.jpg"
+        },
+        {
+            "id": "5fca8cb59a98a630d448309b",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=206774930888963&id=108149334084857",
+            "name": "Baghdad mix",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5fcabb224cb246159e151a6c",
+            "link": "https://www.facebook.com/lraq331/posts/1155746841512435",
+            "name": "العراق",
+            "origin": "facebook",
+            "path": "sources/cbc3794713eef1d782b64939911b74973e7555f4.jpg"
+        },
+        {
+            "id": "5fcabb22a910d803df1019bb",
+            "link": "https://www.facebook.com/adnanabsy99/posts/224958305648741",
+            "name": "عدنان وعبسي",
+            "origin": "facebook",
+            "path": "sources/498bc18d7c9f2e4775f407ab3b90ffdbd41bd8b4.jpg"
+        },
+        {
+            "id": "5fcabb22d323dc736e358964",
+            "link": "https://www.facebook.com/666kkghjk/posts/2850325565241125",
+            "name": "بهلول الجنوب",
+            "origin": "facebook",
+            "path": "sources/21af76e23dc5299cbd64896c3ffecc7f1e6cdf17.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fca8cb57b09790f933848ee",
+            "link": "https://yumbonoticias.com.co/encuentran-botella-en-el-recto-de-una-mujer-ocurrio-en-portoviejo/?fbclid=IwAR1oEY17c_srg38fFoCT_Xw5G34JbnZeWnMwc8Jz0ZDTvB8dEchjyYKKy3M",
+            "name": "yumbonoticias.com.co",
+            "origin": "",
+            "path": "sources/c276536a38f4eff703efbceaffe459f3fa765931.jpg"
+        },
+        {
+            "id": "5f91b979a28d94581a2e3464",
+            "link": "https://www.elbalad.news/1413078/balsor-madlyn-mtr-ana-bk.aspx",
+            "name": "صدى البلد",
+            "origin": "",
+            "path": "published/2_1575204472_صدى البلد- لوغو.jpg"
+        },
+        {
+            "id": "5fca8cb5e98d294cb41ee4f5",
+            "link": "https://www.facebook.com/darioinforma/posts/1815650831906995",
+            "name": "Dario Informa",
+            "origin": "",
+            "path": "sources/cbcfd3c4b36c3aebad2757a03c2aa319a53ed2a2.jpg"
+        },
+        {
+            "id": "5fca969576408041a07c3cb9",
+            "link": "https://twitter.com/oswaldobermeov/status/1309156586183708672",
+            "name": "Oswaldo Bermeo Vasqu",
+            "origin": "twitter",
+            "path": "sources/ff90d13eae45555df6decdb39c80bd97d0f46988.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الحادثة وقعت لفتاة من الإكوادور وليس العراق",
+    "updated_at": "2020-12-05 01:41:38",
+    "url_path": "/factcheck/2020/12/04/هذه-الحادثة-وقعت-لفتاة-من-الإكوادور-وليس-العراق",
+    "was_notification_pushed": true
+}

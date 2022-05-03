@@ -1,0 +1,88 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1326,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "الصورة لسقوط طائرة عسكرية في إدلب (تويتر)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-EG\">صورة لإ</span><span dir=\"RTL\" lang=\"AR-SA\">سقاط طائرتين هيليكوبتر تركيتين في العراق.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-06-22 15:58:43",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ef0ab03163be312007dc173",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من الصورة ووجد&nbsp;أنَّ الادعاء مضلل، لأنّها مأخوذة من مقطع فيديو نُشر&nbsp;في فبراير/شباط الفائت، لسقوط طائرة عسكرية تابعة للنظام السوري في إدلب.</span></p>\r\n\r\n<p style=\"text-align:right\"><iframe frameborder=\"0\" height=\"720\" src=\"https://www.youtube.com/embed/LwsL13g7zNk\" width=\"1280\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات على مواقع التواصل الاجتماعي منذ أمس 21 يونيو/حزيران، صورة&nbsp;ادّعت أنها لإسقاط طائرتين تركيتين في العراق.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_69ba3wng2.jpg\" style=\"height:537px; width:542px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_gqs1rpeq1.jpg\" style=\"height:522px; width:533px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1592831163EbEEtEfWkAEbo9H.jpg",
+        "watermark_path": "articles/watermark-1592831163EbEEtEfWkAEbo9H.jpg"
+    },
+    "post_date": "2020-06-22T15:54:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/V1_SA7/status/1274757747934928905",
+            "name": "حزام بن سعود",
+            "path": "published/0_1592830722_حزام بن سعود.jpg"
+        },
+        {
+            "link": "https://twitter.com/Fahadalamir2020/status/1274564269078609921",
+            "name": "ابو سلمان",
+            "path": "published/1_1592832799_ابو سلمان.jpg"
+        },
+        {
+            "link": "https://twitter.com/0a_iii/status/1274732541912776704",
+            "name": "عبادي",
+            "path": "published/2_1592832799_عبادي.jpg"
+        },
+        {
+            "link": "https://twitter.com/elldoctor/status/1274748131561877506",
+            "name": "dr.ellsamak",
+            "path": "published/3_1592832799_dr.ellsamak.jpg"
+        },
+        {
+            "link": "https://twitter.com/sc0aa/status/1274735486150598663",
+            "name": "مشعل ال ابراهيم ",
+            "path": "published/4_1592832799_مشعل ال ابراهيم ✪.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=LwsL13g7zNk&feature=emb_logo",
+            "name": "الفيديو الأصلي",
+            "path": "sources/0_1592832799_yt_1200-vflhSIVnY.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ليست طائرة تركية ولم تسقط في العراق.. ادعاء مضلل",
+    "updated_at": "2020-09-25 11:42:35",
+    "url_path": "/factcheck/2020/06/22/إسقاط-طائرتين-تركيتين-في-العراق-ادعاء-مضلل"
+}

@@ -1,0 +1,104 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1451,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "توفي في 8 مارس/آذار 2016 (Getty)",
+    "category": "Sports",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">وفاة&nbsp;الجزائري محمد علاق لاعب ألعاب القوى.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-06-03 15:29:33",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ed797addb291602d352cd34",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من الخبر المتداول وتبين وجود تضليل فيه ويحتاج إلى توضيح، إذ أن العداء الجزائري محمد علاق توفي بالفعل، لكن يعود تاريخ وفاته إلى 8 مارس/آذار عام 2016، وليس في هذه الأيام.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_dt127kual.jpg\" style=\"height:469px; width:624px\" /></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"587\" src=\"https://www.youtube.com/embed/fBIl2OlTzOA\" width=\"1044\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت حسابات وصفحات على مواقع التواصل الاجتماعي منذ نهاية شهر مايو/أيار الفائت، خبراً يدّعي وفاة العداء الجزائري ولاعب ألعاب القوى&nbsp;محمد علاق، خلال هذه الأيام.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_7ir8of8m2.jpg\" style=\"height:666px; width:459px\" /></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"637\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fkader.urban.dz%2Fposts%2F3281137878577579&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1591187373GettyImages-2437307.jpg",
+        "top": 0,
+        "totalHeight": 512,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1591187373GettyImages-2437307.jpg",
+        "width": 752
+    },
+    "post_date": "2020-06-03T15:26:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=145404167101943&id=100540811588279",
+            "name": "الجزائر الجديدة",
+            "path": "published/0_1591187372_الجزائر الجديدة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2685369908452835&id=100009395567437",
+            "name": "غزالي محمد",
+            "path": "published/1_1591187752_غزالي محمد.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=862586077573565&id=217477138751132",
+            "name": "Elmaarifa /المعرفة",
+            "path": "published/2_1591187752_المعرفة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/302445070353853/photos/a.302730246992002/621553715109652/?type=3&__xts__%5B0%5D=68.ARD63fLEaLRdaxkzp2KZHetzcZg5IOROt1YYTOx-65tSL78_72BsHHxSryZC4dxmT9OqXHMO4-JXuR7SsKAoFl04gD-x7hTbJMWmfQePUBD7AXYeDsyuNrU-WttEt7KMv0y-bBV_wwCWFJlmFbwsmoXR1F5O2SGZ6nmBDYm5TZ9x5JlA6hbQOcLOtgGSC4VNkZ8J7O71lWveTx_0TsXFvbiHAEzvlu_W7ASruhTDrY9rHjX8RumbEOkvz57v5g3Smx6XNVIv4_DR91SOGKoArYfAJvREDjhu18z3xoqpHfj5LhoQyjbGmdiLcfhldDmDeJMJtUkGi8Li_8eBH1qYtRw&__tn__=-R",
+            "name": "دلس-now",
+            "path": "published/3_1591187752_دلس-now.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/kader.urban.dz/photos/a.1313761818648538/3281137825244251/?type=3&__tn__=-R",
+            "name": "DZ digital",
+            "path": "published/4_1591187752_DZ digital.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/1578208132241384/photos/a.1578352025560328/3156277581101090/?type=3&__tn__=-R",
+            "name": "بيناتنا",
+            "path": "published/5_1591187752_بيناتنا.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=fBIl2OlTzOA&fbclid=IwAR3CqIfmvnyW-2ocmGuZGNxO4ajSYJI-ffvNY1qJnBrbZ-gINKgTOSgc9NY",
+            "name": "Elbilad Tv",
+            "path": "sources/0_1591187373_Elbilad Tv.jpg"
+        },
+        {
+            "link": "http://www.stadenews.com/ar/news/72128",
+            "name": "ستاذ نيوز ",
+            "path": "sources/1_1591187972_ستاد نيوز.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل توفي العداء الجزائري محمد علاق في هذه الأيام؟",
+    "updated_at": "2020-09-25 19:13:51",
+    "url_path": "/factcheck/2020/06/03/هل-توفي-العداء-الجزائري-محمد-العلاق-في-هذه-الأيام"
+}

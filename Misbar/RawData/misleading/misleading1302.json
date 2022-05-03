@@ -1,0 +1,92 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 25575,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "فيديو قديم يعود لمظاهرة في مدينة هـامبورغ الألمانية (Getty)",
+    "category": "News",
+    "claim": "<p style=\"text-align:justify\">إيطاليا تدخل الإسلام بعد الإعلان عن فقدان السيطرة وتفشي فايروس كورونا.</p>\r\n",
+    "country": "",
+    "created_at": "2020-03-22 18:00:05",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e777d75d4a22959682a02a5",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الفيديو وتبين أنه قديم، و<a href=\"https://www.youtube.com/watch?v=UtQJhWa8Tio&amp;feature=emb_logo\" style=\"color:#0563c1; text-decoration:underline\">يعود لمظاهرة</a>&nbsp;في مدينة هـامبورغ الألمانية في 18 يناير/كانون الثاني من العام الجاري، لبعض الجاليات المسلمة في ألمانيا تضامناً مع مسلمي الإيغور بسبب الاضطهادات التي تعرّضوا لها في الفترات الأخيرة، ولا علاقة له بإيطاليا على الإطلاق.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_0rlbob4ch.jpg\" style=\"height:386px; width:569px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">يُذكر أنَّ &quot;مسبار&quot; نشر <a href=\"https://misbar.com/factcheck/5e7488e4d4a229587e5b8a83\" style=\"color:blue; text-decoration:underline\">تحقُّق سابق</a> عن تصريح منسوب لرئيس الوزراء الإيطالي جوزيبي كونتي، يقول فيه &quot;لقد انتهت جميع الحلول على وجه الأرض، الحل متروك للسماء&quot;، وأوضح &quot;مسبار&quot; أنَّ التصريح زائف ولم يُصرح كونتي بهذا التصريح.</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت صفحاتٌ عبر منصات التواصل الاجتماعي منذ 19 مارس/آذار الجاري، مقطع فيديو يظهر فيه تجمع من الناس مع أصوات التكبير، ادعى ناشرو المقطع إنه&nbsp;في إيطاليا بعد أن قرر الشعب الإيطالي الدخول في الإسلام، وذلك عقب الإعلان عن فقدان السيطرة وتفشي فايروس كورونا في البلاد. وحقق الفيديو انتشاراً واسعاً على وسائل التواصل وحاز على ملايين المشاهدات.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_qswvz3lce.jpg\" style=\"height:441px; width:504px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_drv7nxqgp.jpg\" style=\"height:518px; width:517px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_k6a8w5xsu.jpg\" style=\"height:478px; width:509px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1584890488GettyImages-1207961170.jpg"
+    },
+    "post_date": "2020-03-22T18:37:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/BaghdadMoodell/videos/2284361875000722/?eid=ARALCWSfvHZnFnViNv-NDJY87MTxPfZ6152AR8jWpSbX1lkfGPjvNNvLXd43hoCcxm6GPaQQF7Il3Mxt",
+            "name": "بغداد مودل",
+            "path": "published/0_1584889205_بغداد مودل- لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/229738090870527/videos/582788765643626/?v=582788765643626",
+            "name": "مطبخ ماما وفاء",
+            "path": "published/1_1584889205_مطبخ-ماما-وفاء.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/iq.fcb/videos/212867843132766/?__tn__=%2Cd%2CP-R&eid=ARBQAbXSFAuRQWMckYf1z-9bxyqsUTvjD35yECboVX8gKY5UyHauzYbc4QBveBajuuTK7hWwfX5NbQYt",
+            "name": "فيسبوك العراق",
+            "path": "published/2_1584889205_كلنا-العراق.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/897329433987878/videos/vb.897329433987878/2351863151581054/?type=2&theater",
+            "name": "منبر جلولاء التعليمي",
+            "path": "published/3_1584889205_منبر-جلولاء.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=UtQJhWa8Tio&feature=emb_logo",
+            "name": "AfD Hamburg",
+            "path": "sources/0_1584889204_AfD Hamburg.jpg"
+        },
+        {
+            "link": "https://dzienniknarodowy.pl/setki-muzulmanow-demonstruje-w-gejowskiej-dzielnicy-hamburga-krzyczac-allahu-akbar-wideo/",
+            "name": "DZIENNIK",
+            "path": "sources/1_1584889205_DZIENNIK.JPG"
+        },
+        {
+            "link": "https://misbar.com/factcheck/5e7488e4d4a229587e5b8a83?fbclid=IwAR0e4aY0DlB8GvXJ0BTTI85yZrBmWjgQCaoXtT3q6rIW7mheamtxzAXLqOQ",
+            "name": "مسبار",
+            "path": "sources/2_1584889205_مسبار.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "إيطاليا تدخل الإسلام بعد تفشي فايروس كورونا.. ما حقيقة الفيديو؟",
+    "updated_at": "2020-09-25 16:28:23",
+    "url_path": "/factcheck/2020/03/22/إيطاليا-تدخل-الإسلام-بعد-تفشي-فايروس-كورونا-ما-حقيقة-الفيديو"
+}

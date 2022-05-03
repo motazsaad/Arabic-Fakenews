@@ -1,0 +1,112 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1961,
+    "author": {
+        "fullname": "خالد إسماعيل",
+        "id": "5e59256dd4a2295224257db3",
+        "photo": {
+            "name": "1582900589_صورة 2.jpg",
+            "path": "authors/1582900589_صورة 2.jpg"
+        }
+    },
+    "caption": "الصورة تعود إلى الرقيب الأميركي روبرت بوب غالاغر (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة جندي مستعدّ للقتال رغم جراح قدمه التي تنزف.. هذا هو الجيش المصري، خير أجناد الأرض.</p>\r\n",
+    "country": "EG",
+    "created_at": "2020-05-06 15:06:55",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eb2a85fdb2916129c5e8d84",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة المتداولة ووجد أنها مضلّلة، لأنّ الصورة تعود إلى الرقيب الأميركي <a href=\"https://www.armytimes.com/news/your-army/2014/10/22/csm-who-fought-in-panama-somalia-and-iraq-dies-at-52/\" target=\"_blank\">روبرت بوب غالاغر</a>، الذي شارك في عمليات عسكرية أميركية امتدّت لثلاثة عقود، في الصومال والعراق وبنما، والتُقطت الصورة أثناء إصابة غالاغر في ساقه خلال معركة في مقديشو، عاصمة الصومال، عام 1993.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_iqkjqqdw5.jpg\" style=\"height:657px; width:551px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "أميركا",
+        "مصر",
+        "سيناء",
+        "بئر العبد"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات على مواقع التواصل الاجتماعي صورة لجندي مصري يستعدّ لإطلاق النار خلف مجنزرة عسكرية، بينما يضمّد زميله جراح ساقه التي تنزف. كما يُذكر أنّ الصورة انتشرت مع الادّعاء بأنها تُظهر التطهير العسكري الذي أعقب عملية بئر العبد الأخيرة في محافظة سيناء &nbsp;المصرية، والتي راح ضحيّتها ضباط وجنود مصريون.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_e5z6rm5le.jpg\" style=\"height:784px; width:502px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_4wbxt8zf8.jpg\" style=\"height:802px; width:499px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 193,
+        "left": 1.04998779296875,
+        "path": "articles/1588766814غلاف.jpg",
+        "top": 78.266845703125,
+        "totalHeight": 423,
+        "totalWidth": 348,
+        "watermark_path": "articles/watermark-1588766814غلاف.jpg",
+        "width": 344
+    },
+    "post_date": "2020-05-06T14:55:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/colonelmohamedshaarawi/photos/a.105983777528165/179914156801793/?type=3&theater",
+            "name": "ظل الرئيس/عميد محمد الشعراوي",
+            "path": "published/0_1588766813_نشر عن ذلك 1.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Mumammad.shams55/photos/a.101777801235293/246008996812172/?type=3&theater",
+            "name": "صفحة عمار يا مصر",
+            "path": "published/1_1588766813_نشر عن ذلك 2.jpg"
+        },
+        {
+            "link": "https://twitter.com/SaharSleem6/status/1257458416580210688",
+            "name": "Sahar Sleem",
+            "path": "published/2_1588766813_نشر عن ذلك 3.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=846580869182778&set=p.846580869182778&type=1&theater",
+            "name": "Ebrahim Ahmed Atta Hasan",
+            "path": "published/3_1588766813_نشر عن ذلك  4.jpg"
+        },
+        {
+            "link": "https://tinyurl.com/yazl7u37",
+            "name": "كلنا عمر سليمان",
+            "path": "published/4_1588766813_نشر عن ذلك 5.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/1432225403682715/permalink/2622728531299057/",
+            "name": "عزّ أبو سريع منشاوي‎",
+            "path": "published/5_1588766813_نشر عن 6.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.washingtontimes.com/news/2014/oct/24/black-hawk-down-soldier-robert-gallagher-dies-at-5/",
+            "name": "Washington Times ",
+            "path": "sources/0_1588766814_مصدر 1.jpg"
+        },
+        {
+            "link": "https://www.armytimes.com/news/your-army/2014/10/22/csm-who-fought-in-panama-somalia-and-iraq-dies-at-52/",
+            "name": "Army Times",
+            "path": "sources/1_1588766814_مصدر 2.jpg"
+        },
+        {
+            "link": "https://www.dailymail.co.uk/news/article-2805451/Decorated-soldier-fought-Black-Hawk-battle-Somalia-dies-52.html",
+            "name": "Daily Mail ",
+            "path": "sources/2_1588766814_مصدر 3.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "الصورة تعود إلى الرقيب الأميركي روبرت بوب غالاغر",
+    "title": "هذه الصورة ليست لجنديّ مصري",
+    "updated_at": "2020-09-25 17:52:31",
+    "url_path": "/factcheck/2020/05/06/هذه-الصورة-لجندي-أميركي-وليس-مصريا"
+}

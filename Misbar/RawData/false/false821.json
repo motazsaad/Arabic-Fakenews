@@ -1,0 +1,104 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 2,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 12444,
+    "author": {
+        "fullname": "هيثم جودية",
+        "id": "5e295291d4a2296ff0065605",
+        "photo": {
+            "name": "1579766417_هيثم .JPG",
+            "path": "authors/1579766417_هيثم .JPG"
+        }
+    },
+    "caption": "المشهد من مسلسل الوتد (إنتاج 1996)",
+    "category": "Arts & Culture",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">ممثلة مصرية تلفظ كلمة &quot;كورونا&quot;، في مشهد من مسلسل عُرض منذ 35 عاماً.</p>\r\n",
+    "country": "EG",
+    "created_at": "2020-03-31 17:05:33",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5e834e2ddb291614c4190354",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الادعاء، ووجد أنّه غير صحيح، فالمشهد مأخوذ من&nbsp;المسلسل المصري الوتد، ويبدأ في الدقيقة 25 من عمر الحلقة 23، التي تتناول تفشي مرض الكوليرا في إحدى قرى محافظة الصعيد في مصر. وبمتابعة المشهد تبيّن أن الممثلة فادية عبد الغني التي أدت دور مريم في المسلسل، لم تقل كلمة كورونا، إنّما قالت كلمة &quot;كوريرا&quot;، في إشارة خاطئة لكلمة &quot;كوليرا&quot;. وتجدر الإشارة أنّ مسلسل الوتد أُنتج عام 1996، أي منذ 24 عاماً وليس قبل 35 سنة كما جاء في الادعاء الزائف.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/qsgsQVkVoGg\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">تداولت صفحات وحسابات على موقع التواصل الاجتماعي فيسبوك، مشهداً من مسلسل مصري قالت إنّه عُرض منذ 35 عاماً. تظهر في المشهد الممثلة المصرية فادية عبد الغني وتقول خلال الحوار كلمة &quot;كورونا&quot;.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"376\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fmohamed.aidah.9%2Fvideos%2F1117364791949096%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"376\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fmohmouedyosry%2Fvideos%2F2888252921256339%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"380\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fola.chwarzinayger%2Fvideos%2F2839934969447054%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 362,
+        "left": 12.131591796875,
+        "path": "articles/1585663533Untitled.jpg",
+        "top": 20.460693359375,
+        "totalHeight": 423,
+        "totalWidth": 662,
+        "watermark_path": "articles/watermark-1585663533Untitled.jpg",
+        "width": 643
+    },
+    "post_date": "2020-03-31T16:46:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/mohamed.aidah.9/videos/1117364791949096/",
+            "name": "Mohamed Edha",
+            "path": "published/0_1585663533_Mohamed Edha.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/outandaboutjo/permalink/2912165752170247/",
+            "name": "Abood Al Bashaireh",
+            "path": "published/1_1585663533_Abood Al Bashaireh.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/mohmouedyosry/videos/2888252921256339/",
+            "name": "محمود يسري",
+            "path": "published/2_1585663533_محمود يسرى.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ola.chwarzinayger/videos/2839934969447054/",
+            "name": "Ola Chwarzinayger ",
+            "path": "published/3_1585663533_Ola Chwarzinayger.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/moulay.omar.50/videos/3556869084388399/",
+            "name": "عمر أبو معروف",
+            "path": "published/4_1585663533_عمر أبو معروف.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/marocainsdumonde/permalink/3081806185215647/",
+            "name": "Mohja Yakhlef",
+            "path": null
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=1034736333593814",
+            "name": "شروق يوم جديد",
+            "path": "published/6_1585663533_شروق يوم جديد.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=qsgsQVkVoGg",
+            "name": "مسلسل الوتد/ الحلقة 23",
+            "path": "sources/0_1585663532_YouTube-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "مسلسل مصري يتحدث عن كورونا قبل 35 عاماً.. ادعاء زائف",
+    "updated_at": "2020-09-25 18:22:56",
+    "url_path": "/factcheck/2020/03/31/مسلسل-مصري-يتحدث-عن-كورونا-قبل-35-عاما-ادعاء-زائف"
+}

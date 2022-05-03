@@ -1,0 +1,108 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 160,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "قاموا بتلاوة الصلوات باللغتين الإنجليزية وإحدى لغات جنوب إفريقيا (يوتيوب)",
+    "category": "News",
+    "claim": "<p>الآلاف من راكبي الدراجات في أميركا يصلون من أجل شفاء الرئيس الأميركي ترامب من فايروس كورونا المستجد.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-10-06 11:56:17",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 1,
+    "id": "5f7c31311b8a6111554eee7c",
+    "investigation": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقّق &quot;مسبار&quot; من مقطع الفيديو ليجد أنه يعود إلى دقائق صمت واحتجاج نظمها راكبو الدراجات النارية في مدينة بريتوريا في&nbsp;جنوب إفريقيا، اعتراضاً على معاملة المزارعين&nbsp;بعنصرية وانتشار جرائم القتل بحقهم، وتلا المشاركون الصلوات باللغتين الإنجليزية، وإحدى لغات السكان الأصليين المنتشرة هناك، كما يتضح في الفيديو المرفق.</span></p>\r\n\r\n<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">ومن المهم الإشارة إلى أن&nbsp;مقطع فيديو الذي نُشر على منصة&nbsp;يوتيوب لتوثيق الحدث&nbsp;في شهر أغسطس/آب الفائت&nbsp;أي قبل أن يصاب الرئيس ترامب بالفايروس، قد تم تصويره من زاوية مختلفة، لكن تظهر في المقطعين المعالم نفسها&nbsp;لذات المكان، كمجسم المدفع الذي يتوسط المحتشدين.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/7wDB5ha-RCY\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-JO\">تداولت حسابات عربية وأجنبية&nbsp;على مواقع التواصل الاجتماعي، في الثالث والرابع من شهر أكتوبر/تشرين الأول الجاري، أن مجموعة كبيرة&nbsp;من راكبي الدراجات النارية صلّوا&nbsp;معاً&nbsp;دعماً للرئيس الأميركي دونالد ترامب بعد إعلان إصابته بفايروس كورونا المستجد في الثاني&nbsp;من أكتوبر/تشرين الأول الجاري.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_gzijsj259.jpg\" style=\"height:563px; width:602px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_1l4wbdb5y.jpg\" style=\"height:359px; width:602px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_5nwbfbd6b.jpg\" style=\"height:268px; width:602px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_jf7cdmfpa.jpg\" style=\"height:591px; width:602px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1601978527صلاىة.JPG",
+        "watermark_path": "articles/watermark-1601978527صلاىة.JPG"
+    },
+    "post_date": "2020-10-06T10:15:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/bob.whittington1/videos/10217695009501073",
+            "name": "Bob Whittington",
+            "path": "published/0_1601974576_قققف.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/100000249516625/videos/3588600667824882",
+            "name": "John Williams",
+            "path": "published/1_1601974576_قققف.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/EddieDonovan/status/1312854938624684039",
+            "name": " Eddie Donovan ",
+            "path": "published/2_1601974577_ق4.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/imaginetsa/status/1313192287447511041",
+            "name": "imaginetsa ",
+            "path": "published/3_1601974577_ق4.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/pinsoftstudios/status/1312805531019554818",
+            "name": "Pinsoft Studios ",
+            "path": "published/4_1601974577_ق4.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/INCOne8/status/1312571285734596608",
+            "name": " I.N.C ",
+            "path": "published/5_1601974577_ق4.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/News_F_S/status/1312443110245330946",
+            "name": "الخبر من مصدره",
+            "path": "published/6_1601974577_ق4.JPG"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.youtube.com/watch?v=7wDB5ha-RCY",
+            "name": "FreeWestMedia",
+            "path": "sources/1_1601974577_0009.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هؤلاء لا يصلّون من أجل ترامب، بل لمزارعي جنوب إفريقيا",
+    "updated_at": "2020-10-06 13:03:12",
+    "url_path": "/factcheck/2020/10/06/هؤلاء-لا-يصلون-من-أجل-ترامب-بل-لمزارعي-جنوب-أفريقيا",
+    "was_notification_pushed": true
+}

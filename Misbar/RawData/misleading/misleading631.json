@@ -1,0 +1,108 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1184,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "المقطع الأصلي في مدينة إنديانابوليس (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">ريح صرصر تضرب حفلاً غنائيًّا في دبي.</p>\r\n",
+    "country": "AE",
+    "created_at": "2020-09-15 18:44:21",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f60e15537f95921fb52f5df",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من مقطع الفيديو المتداول وتبين أنه مضلل، إذ أن <a href=\"https://youtu.be/J6OS_mPRD0Y\" style=\"text-decoration:none\" target=\"_blank\"><u>المقطع الأصلي</u></a> في مدينة إنديانابوليس في ولاية إنديانا الأميركية، لانهيار مسرح أثناء حفل غنائي نجم عنه <a href=\"https://www.bbc.com/news/world-us-canada-14520194\" style=\"text-decoration:none\" target=\"_blank\"><u>وفاة</u></a> خمسة أشخاص.</p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_5hdtjr035.jpg\" style=\"height:436px; width:624px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تتناقل صفحات وحسابات على مواقع التواصل الاجتماعي مقطع فيديو تدعي أنه يُظهر ريحاً قوية تعصف بحفل غنائي، في إمارة دبي الإماراتية.</p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_o1nr1k2yl.jpg\" style=\"height:456px; width:624px\" /></span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_s8ib6ldla.jpg\" style=\"height:456px; width:624px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 357,
+        "left": -0.5,
+        "path": "articles/16001846600.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-16001846600.jpg",
+        "width": 635
+    },
+    "post_date": "2020-09-15T18:41:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/100014889548987/videos/546556822517298/",
+            "name": "عمرو الزفتاوي",
+            "path": "published/0_1600185063_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/KSARSGHIRTV/videos/292289111485913",
+            "name": "KSAR SGHIR TV",
+            "path": "published/1_1600185063_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/watch/?v=1954671047964897",
+            "name": "ملا زاده",
+            "path": "published/2_1600185063_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/100002245013454/videos/2003211513096996/",
+            "name": "Tamer Magde",
+            "path": "published/3_1600185226_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/100006423276971/videos/2198377260386362/",
+            "name": "خالد ابن الوليد ابوصهيب",
+            "path": "published/4_1600185226_facebook.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://youtu.be/J6OS_mPRD0Y",
+            "name": "DarthRidiculous1  ",
+            "path": "sources/0_1600184660_darth.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.bbc.com/news/world-us-canada-14520194",
+            "name": "BBC ",
+            "path": "sources/1_1600184660_bbc.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "انهيار المسرح في أميركا وليس الإمارات",
+    "updated_at": "2020-09-25 18:38:27",
+    "url_path": "/factcheck/2020/09/15/انهيار-المسرح-في-أميركا-وليس-الإمارات",
+    "was_notification_pushed": "true"
+}

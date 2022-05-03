@@ -1,0 +1,121 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1222,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "التقطت الصورة عام 2019 بعد استشهاد زكي غنامة في غارة إسرائيلية (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">صورة التقطت لشابين&nbsp;بعد وفاة والدتهما.</span></p>\r\n",
+    "country": "PS",
+    "created_at": "2020-09-08 16:30:21",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f57876d834af157857828e5",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الادعاء وتبين أنه مضلل، إذ أن الصورة قديمة التقطت يوم 12 نوفمبر/تشرين الثاني عام 2019، لشابين من قطاع غزة، وهما من أقارب <span style=\"background-color:white\">زكي محمد عدنان غنام، الذي استشهد إثر&nbsp;غارة جوية نفذها الاحتلال الإسرائيلي شمالي</span><span style=\"background-color:white\">&nbsp;القطاع.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"3.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_r0jypn4e6.jpg\" style=\"height:416px; width:605px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"4.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_v1lv8r6i1.jpg\" style=\"height:499px; width:605px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات إخبارية وحسابات على موقعي فيسبوك وتويتر، حديثاً، صورة ادعت أنها التقطت لشابين بعد وفاة والدتهما.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"00.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_lgwfjp9m0.jpg\" style=\"height:511px; width:500px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"0.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_qu938ic4o.jpg\" style=\"height:505px; width:493px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_jikyip08b.jpg\" style=\"height:528px; width:503px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 337,
+        "left": 5.10528564453125,
+        "path": "articles/1599571820gaza_nov12_afp_0.jpg",
+        "top": 13.746826171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-1599571820gaza_nov12_afp_0.jpg",
+        "width": 598
+    },
+    "post_date": "2020-09-08T14:18:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/174148833382415/photos/a.174487676681864/751959038934722/?type=3&theater",
+            "name": "المقرون وأخبارها اليومية",
+            "path": "published/0_1599571819_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/Yomiat.Libyw.Libya/photos/a.129453578493057/335982914506788/",
+            "name": "يوميات ليبي وليبية",
+            "path": "published/1_1599571819_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/MAlbeeke/status/1301265390652346372",
+            "name": "راحت أفكارنا ",
+            "path": "published/2_1599571819_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/YossifBodabos/status/1301252835003248642",
+            "name": "Yossif Bodabos",
+            "path": "published/3_1599571819_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/kalamlibye/photos/a.325999684549213/938364153312760/",
+            "name": "كلام ليبي",
+            "path": "published/4_1599571819_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/108629067421666/photos/a.114925886791984/170104614607444/",
+            "name": "الزطارنة الان",
+            "path": "published/5_1599571819_67819776_2303763929710849_8279055560511324160_o.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://gulfnews.com/world/mena/as-life-under-israeli-occupation-gets-worse-more-palestinians-turn-to-suicide-1.67982322",
+            "name": "gulfnews",
+            "path": "sources/0_1599571820_unnamed.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.aa.com.tr/ar/%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D8%B9-%D8%B9%D8%AF%D8%AF-%D8%B4%D9%87%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D8%AA%D8%B5%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%A8%D8%BA%D8%B2%D8%A9-%D8%A5%D9%84%D9%89-%D8%A3%D8%B1%D8%A8%D8%B9%D8%A9/1642866",
+            "name": "AA / وكالة الأناضول ",
+            "path": "sources/1_1599571820_aa.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.middleeasteye.net/news/israel-calls-reserve-soldiers-gaza-death-toll-continues-rise",
+            "name": "middleeasteye",
+            "path": "sources/2_1599571820_240px-MEE_Logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه صورة أقارب زكي غنّام في غزة وليست لشابين بعد وفاة والدتهما",
+    "updated_at": "2020-09-25 09:48:04",
+    "url_path": "/factcheck/2020/09/08/هذه-صورة-أقارب-زكي-غنامة-في-غزة-وليست-لشابين-بعد-وفاة-والدتهما",
+    "was_notification_pushed": "true"
+}

@@ -1,0 +1,91 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 1,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1043,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "category": "Politics",
+    "claim": "<p>فيديو يُصوّر حالة الرعب التي أصابت ترامب حينما سمع عبارة &quot;الله أكبر&quot;.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-02-09 16:03:08",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e40030cd4a2291391086b23",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحققّ &quot;مسبار&quot; من مقطع الفيديو، وتأكّد أنّه مفبرك بعدما عثر على المقطع الأصلي منشوراً على &quot;يوتيوب&quot; منذ آذار/ مارس 2016. إذ لم يصرخ أحد &quot;الله أكبر&quot;، إنمّا أُضيف الصوت على المقطع الذي يُصوّر خطاباً ألقاه ترامب في ولاية أوهايو، عندما اعتلى حراسه&nbsp;المنصّة بعد محاولة شخص ما الصعود إليها.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وتجدر الإشارة أنّ مقطع الفيديو المفبرك انتشر منذ عام 2017، وأعاد تداوله حديثاً العديد من المستخدمين على مواقع التواصل الاجتماعي.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_0hnshbl8k.jpg\" style=\"height:409px; width:467px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداول مستخدمون على وسائل التواصل الاجتماعي وموقع يوتيوب، مقطع فيديو زعموا أنّه يبيّن حالة الذعر التي أصابت الرئيس الأميركي دونالد ترامب، حينما كان يلقي خطاباً وسط جمهرةٍ من الناس وصرخ أحد الحاضرين &quot;الله أكبر&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_qw3oym514.jpg\" style=\"height:323px; width:456px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_y57f28676.jpg\" style=\"height:326px; width:459px\" /></span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_d209mx1gb.jpg\" style=\"height:451px; width:523px\" /></span></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 354,
+        "left": 1.99053955078125,
+        "path": "articles/1581253388GettyImages-522495772.jpg",
+        "top": 4,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "width": 630
+    },
+    "post_date": "2020-02-09T15:53:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/watch/?v=544747253057541",
+            "name": "جلال الصالحي",
+            "path": "published/0_1581253387_جلال الصالحي-لوغو.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=Hx1eZZsiXu4",
+            "name": "Mix TV",
+            "path": "published/1_1581253387_Mix Tv-logo.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=aS9uOE_MNn8",
+            "name": "Mahmood Mahdi",
+            "path": "published/2_1581253387_Mahmood Mahdi-logo.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=PB518lgRIUc&fbclid=IwAR2YI88L2PuYBV9q_NddVsYXMapEhwxEvcrGGV_-Xg-Et5z1mg83nJoV0LE",
+            "name": "المصمم صادق الباسمي",
+            "path": "published/3_1581253387_المصمم صادق الباسمي-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?ref=search&v=2554523557927769&external_log_id=ae22c4aebd39e7eda4112547f632ba2d&q=%D8%AA%D8%B1%D8%A7%D9%85%D8%A8%20%D8%A7%D9%84%D9%84%D9%87%20%D8%A3%D9%83%D8%A8%D8%B1",
+            "name": "العيون 24",
+            "path": "published/4_1581253387_العيون 24-لوغو.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=-9-Ry-sVhmQ&feature=youtu.be",
+            "name": "ABC News",
+            "path": "sources/0_1581253387_ABC News-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صرخ \"الله أكبر\" فأرعب ترامب... حقيقة الفيديو",
+    "updated_at": "2020-09-23 12:38:48",
+    "url_path": "/factcheck/2020/02/09/صرخ-الله-أكبر-فأرعب-ترامب-حقيقة-الفيديو"
+}

@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 318,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "لا علاقة للصورة بانتخابات مجلس الشيوخ الجارية (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">سيدة مسنة تدلي بصوتها في انتخابات مجلس الشيوخ على سرير طبي في الإسكندرية.</span></p>\r\n",
+    "country": "EG",
+    "created_at": "2020-08-13 15:50:06",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f3536fe1dd585079b58d0fc",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من الصورة وتبين أن الادعاء مضلل، وليست من انتخابات مجلس الشيوخ الجارية. إذ تعود في الأصل لعام 2018، أثناء الانتخابات الرئاسية المصرية. </span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_0uravb0l4.jpg\" style=\"height:779px; width:489px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تتداولت مواقع إخبارية وحسابات على وسائل التواصل الاجتماعي، حديثاً، صورة ادعت أنها لسيدة مسنة ذهبت لتدلي بصوتها على سرير متحرك في انتخابات مجلس الشيوخ الجارية حالياً في مصر.</span><br />\r\n<img src=\"https://images-prod.misbar.com/articlebody/origin_ovya2xwpr.jpg\" style=\"height:367px; width:500px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_1ifl996tn.jpg\" style=\"height:444px; width:495px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_y4fd2zkpt.jpg\" style=\"height:369px; width:497px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/159732300668.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-159732300668.jpg",
+        "width": 752
+    },
+    "post_date": "2020-08-13T15:48:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/LUXORFM2018/photos/a.1673925079332987/3343560669036078/?type=3&theater",
+            "name": "LUXOR FM",
+            "path": "published/0_1597323006_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2643973892528059&id=100007464223111",
+            "name": "Moustafa El-Badawy",
+            "path": "published/1_1597323159_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/mohamed.attya.9/posts/2712365772198974",
+            "name": "Mohamed Attia El Sayed",
+            "path": "published/2_1597323159_facebook.jpg"
+        },
+        {
+            "link": "https://www.wataninet.com/2020/08/%D8%B3%D9%8A%D8%AF%D8%A9-%D9%85%D8%B3%D9%86%D8%A9-%D8%AA%D8%AF%D9%84%D9%8A-%D8%A8%D8%B5%D9%88%D8%AA%D9%87%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%B9%D9%84/",
+            "name": "وطني",
+            "path": "published/3_1597323159_facebook.jpg"
+        },
+        {
+            "link": "http://www.khabarmasr.com/news/get_news/459330/%D9%84%D9%85-%D9%8A%D9%85%D9%86%D8%B9%D9%87%D8%A7-%D8%A7%D9%84%D9%85%D8%B1%D8%B6..-%D9%85%D8%B3%D9%86%D9%87-%D8%AA%D8%AF%D9%84%D9%8A-%D8%A8%D8%B5%D9%88%D8%AA%D9%87%D8%A7-%D8%B9%D9%84%D9%89-%D8%B3%D8%B1%D9%8A%D8%B1-%D9%85%D8%AA%D8%AD%D8%B1%D9%83-%D8%A8%D8%A7%D9%84%D8%A5%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D9%8A%D8%A9",
+            "name": "خبر مصر",
+            "path": "published/4_1597323159_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=2712365738865644&set=basw.AboymKOC7Z5-386bwXRbe7CfPDUQ6TCl69BAh0aLnE-tcXLwkkr_kPihLdN33x56S42CRYsWOGpyai5x7k7GMWK-OROBGURDeybSfkHP1prS3LwyRo5_ikm2LpIAS-D-BwbFR9_aP_SgaxZIuGXcv7_xwZk6YxdaTMh_JZnbBW5OdoZAQv7_Vko_zhfOsi4slQ7DXFchZc-6gOY6ctuIBOqBXiB5SPeV2Jm8WgRHqKhdxXbai8gJ6Th-9hsjtF4BBcaEJ9VW9ZW6_MFPtdYAzFAE-T6kADQBVSsvfevs3-wjyQMmcFO_hnUcvrzbiTiBSdv6wh5fHV4i8wisYuR-3Zlp370eRSQGJuWcvWOBset9PgVuuPDgfU0lpH99Eqflp_BdW8_Spr-iPsf9Ju3LP85XxcLz8HEaF87v0d0HL35dDCommy0Qhdb-TfDZu45i6K47MnzM8xkXL1w0XXjz6uWQ97AnIbk-Twd3z9pJIM8E7b2KLheeL_OUXF1ZaUPzJaRiXX_y_lAHAWOhtue7XRwMJ08ERiBcs-XF_D1Srzwcvw.3343560669036078.3356012387793075.2712365738865644.1012149679218599.2677620259179590&type=1&opaqueCursor=AbqYlnV0fb9GJSpF8UJKFcrA9mkFb-YTraeAsXRJnvC-gS78glDnpRTC6EKPpr6Yxqzp2ZxQSFuJv3J6NWkzh8e4-f-9ecP9TQaVtxr47ndjIfRUBtITl451zDzQ-3hylSTTdE3pvJtT4OjEXbOVyVo3UOBGKNBz5zH3rxV0DTGeSqRw_-q9OzMJzXVUoT7U9boyk3TYF64xXYS2sRpFIQ1HV3KWHHeEP8Dmxlp9H6IMeabxkL2kN-mS6Lo402UKKwckb2dj6kPOSZ-xvNuWp6EyPqIpR3zWArkqE8I9muhz5ER45ntfDrfhMayaOB1hbWMdGatzAzF4cJlfPLUAScl9-np-sCRxACdNWf-zw-1cW3umGla2jsnuCMRyR_unl5_NXtj3Xn_OSTFAm8yLqOHUnKL8tuW4fz2o0uNNUFIPGmESufVJ8v_7-JockluyNXELstrGon7FT1SdJ8SyVs24Cydppz7WD0hyGzxXEkhBp7EzSTQHLeHf6aexFqOrAIsxanhrZ4udcZB36B_PoTfz-H3h3Im5oGxhKlo9lIj8P5-i-sX-jtmMJUivzrs4W7VTsZgA31YmaVqW1ZhWWPj_fG3Ihnlpemx-K07sq9zvITW1TMyk6q7wFgAzKp-sUiw&theater",
+            "name": "أخبار اليوم",
+            "path": "published/5_1597323159_facebook.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=1627818927331486&set=a.882266951886691&type=3&theater",
+            "name": "هشام نوار",
+            "path": "sources/0_1597323006_facebook.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": " صورة السيدة المسنة قديمة وليست من انتخابات مجلس الشيوخ المصري",
+    "updated_at": "2020-09-24 23:11:47",
+    "url_path": "/factcheck/2020/08/13/صورة-السيدة-المسنة-قديمة-وليست-من-انتخابات-مجلس-الشيوخ"
+}

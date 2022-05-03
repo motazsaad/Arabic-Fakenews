@@ -1,0 +1,108 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 390,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "الموقع الذي نشر الخبر كان يهدف إلى السخرية (Flickr)",
+    "category": "Politics",
+    "claim": "<p>الرئيس الأميركي السابق باراك أوباما نادى لاجتماع سري مع مجلس الأمن في الأمم المتحدة، واجتمع مع ممثلين عن 17 دولة عضو في المجلس.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-09-25 17:09:16",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 3,
+    "id": "5f6dfa0cd5949f2e7e200231",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الخبر، ليجد أن الموقع الذي نشره &quot;أوباما ووتشر&quot; هو موقع ساخر، ويوظف السياسة في أخبار خيالية كوميدية، وقد كتب محررو الموقع في فقرة التعريف عنه &quot;نستخدم الفكاهة، السخرية، المبالغة، لفضح وانتقاد غباء البعض أو رذائلهم، لا سيما في سياق السياسة المعاصرة وغيرها من القضايا. كل شيء على هذا الموقع هو محض خيال. إنها ليست كذبة وليست أخباراً مزيفة لأنها ليست حقيقية من أساسها، إذا كنت تعتقد أنها حقيقية، يجب أن تفحص رأسك&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">ومن هنا يتضح أن خبر أوباما ليس له أساس من الصحة، ونشره الموقع للمرة الأولى عام 2019 ولايزال حتى اللحظة يسبب التضليل لأن الكثير من مستخدمي وسائل التواصل يظنونه حقيقياً، أما الصورة المصاحبة للخبر فهي تُظهر الرئيس السابق أوباما في اجتماع حفظ السلام للأمم المتحدة&nbsp;عام 2009.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_9zopg2rqz.jpg\" style=\"height:330px; width:602px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_mm1fer1su.jpg\" style=\"height:613px; width:602px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداول مستخدمون على موقع تويتر بكثافة في الساعات الأخيرة خبراً مفاده أن الرئيس الأميركي السابق باراك أوباما نادى لاجتماع سري مع مجلس الأمن في الأمم المتحدة، واجتمع مع ممثلين عن 17 دولة عضو في المجلس، العديد منها تربطها علاقات وثيقة مع الصين وفرنسا التي تعتبر من الدول غير الصديقة لأميركا، وناقش في الاجتماع خطة لما يمكن فعله إذا ما فاز ترامب في انتخابات الرئاسة الأميركية القادمة، خاصة أن هذه الدول عبرت عن عدم قدرتها على التعامل مع ترامب وسياساته، وذلك بحسب الخبر.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;وأغلب المشاركات&nbsp;نشرت الخبر نقلاً&nbsp;عن موقع &quot;أوباما ووتشر&quot;.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_zrmnhwb23.jpg\" style=\"height:503px; width:602px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_7alsqr9gc.jpg\" style=\"height:491px; width:602px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_huwfab69m.jpg\" style=\"height:463px; width:602px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_6qh43yzih.jpg\" style=\"height:517px; width:602px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 386,
+        "left": 42.7445068359375,
+        "path": "articles/1601042956جغم.JPG",
+        "top": 3.89990234375,
+        "totalHeight": 423,
+        "totalWidth": 763,
+        "watermark_path": "articles/watermark-1601042956جغم.JPG",
+        "width": 686
+    },
+    "post_date": "2020-09-25T15:40:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://obamawatcher.com/2019/08/still-the-boss/?fbclid=IwAR0INr_UVoFN4q06cVVQVrQcFRdiFsiZjvbAwzhwGZR2yrzaEVena573l2o",
+            "name": "obama watcher",
+            "path": "published/0_1601042955_777.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/KDB59469197/status/1309320494685061123",
+            "name": "KDB",
+            "path": "published/1_1601042955_ق4.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/GeodanNew/status/1308786733501349889",
+            "name": "JAN",
+            "path": "published/2_1601042955_ق4.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/rhowardbrowne/status/1308763787659563009",
+            "name": " Rodney Howard-Browne",
+            "path": "published/3_1601042955_ق4.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/darla.staten/posts/10158907736388578",
+            "name": "Darla Staten",
+            "path": "published/4_1601042955_قققف.JPG"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.flickr.com/photos/obamawhitehouse/3994561740/",
+            "name": "Obama White House",
+            "path": "sources/0_1601042955_ABYAD.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://obamawatcher.com/sample-page/",
+            "name": "obamawatcher.",
+            "path": "sources/1_1601042955_777.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "أوباما لم يجتمع بمجلس الأمن في الأمم المتحدة بشكل سري",
+    "updated_at": "2020-09-25 22:54:10",
+    "url_path": "/factcheck/2020/09/25/أوباما-لم-يجتمع-بمجلس-الأمن-في-الأمم-المتحدة-بشكل-سري",
+    "was_notification_pushed": true
+}

@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 3154,
+    "author": {
+        "fullname": "رشيد عفيف",
+        "id": "5ec4e956db291667784c4bc4",
+        "photo": {
+            "name": "1589963094_رشيد صورة.jpg",
+            "path": "authors/1589963094_رشيد صورة.jpg"
+        }
+    },
+    "caption": "ميركل لم تعتذر لأطفال ألمانيا (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">اعتذار المستشارة الألمانية أنجيلا ميركل لأطفال ألمانيا بسبب الحجر الصحي.</p>\r\n",
+    "country": "DE",
+    "created_at": "2020-06-08 17:59:23",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ede524bd6e4a91261553e04",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق مسبار من هذا الخبر ووجد أنّه زائف، إذ لم تقدم المستشارة الألمانية أنجيلا ميركل قبل أسبوعين في رسالتها المتلفزة، أي اعتذار لأطفال ألمانيا عن عدم السماح لهم بالخروج بسبب قرارات الحجر الصحي.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">ودافعت المستشارة الألمانية عن القيود التي فرضتها الحكومة على بعض الحقوق الأساسية بهدف منع تفشي فايروس&nbsp;كورونا المستجدّ (كوفيد-19)، وأكدت في رسالتها التي تزامنت مع يوم الدستور، أن الحكومة لم تتبن نهجاً عفوياً بشأن تلك القيود.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وتبين أن مبلغ 300 يورو، هو جزء من حزمة التحفيز المقررة لدعم الاقتصاد الألماني في مواجهة تداعيات الفايروس، التي اتفق عليها زعماء أحزاب الائتلاف الحاكم في ألمانيا يوم الأربعاء الماضي. تحصل بموجبها الأسر المعيلة على 300 يورو عن كل طفل لمرة واحدة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">كما تعود الصورة المرافقة للخبر المتداول إلى يوم 17 سبتمبر/أيلول 2017، التقطت خلال ندوة صحفية للمستشارة الألمانية أمام الأطفال في ضاحية برلين، ضمن الحملة الانتخابية التي يخوضها حزبها في الانتخابات الفيدرالية.</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:#14171a\">تتداول صفحاتٌ وحساباتٌ على مواقع التواصل الاجتماعي خبراً مفاده أن المستشارة الألمانية أنجيلا ميركل، قدمت اعتذاراً قبل أسبوعين لأطفال ألمانيا بسبب عدم السماح لهم بالخروج&nbsp;للعب&nbsp;في فترة الحجر الصحي. وادعت أنها وعدت عائلاتهم بصرف&nbsp;مبلغ 300 يورو عن كل طفل من أجل التنزه وشراء الألعاب. </span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:#14171a\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_iy2gxmslv.jpg\" style=\"height:491px; width:336px\" /></span></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:#14171a\"><img alt=\"Capture1.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_54l9c6if1.jpg\" style=\"height:482px; width:334px\" /></span></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:#14171a\"><img alt=\"Capture2.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_ke9xr3cvn.jpg\" style=\"height:485px; width:338px\" /></span></span></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 346,
+        "left": 12.111114501953125,
+        "path": "articles/1591628362GettyImages-848360650.jpg",
+        "top": 17,
+        "totalHeight": 423,
+        "totalWidth": 646,
+        "watermark_path": "articles/watermark-1591628362GettyImages-848360650.jpg",
+        "width": 616
+    },
+    "post_date": "2020-06-08T14:57:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/ichnichtdeutsch2/photos/a.115807680083641/140099830987759/?type=3&theater",
+            "name": "اش نشت دويتش",
+            "path": "published/0_1591628361_92578553_112881293709613_4793409718263480320_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100257858256183/photos/a.108962320719070/143813720567263/?type=3&theater",
+            "name": "برلين عاصمة ألمانيا",
+            "path": "published/1_1591628361_90398843_118400559775246_2531329213160488960_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/AlmaniaFans/photos/a.193730477478599/1391288127722822/?type=3&theater",
+            "name": "ألمانيا بالعربية",
+            "path": "published/2_1591628361_60201651_1078381629013475_961290298766393344_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/3arab.Hamburg/photos/a.1612495495490096/4025341767538778/?type=3&theater",
+            "name": "عرب هامبورغ",
+            "path": "published/3_1591628362_33898782_2069157629823878_4263767382251536384_n.jpg"
+        },
+        {
+            "link": "https://twitter.com/Amalatyia1/status/1269083381876350976",
+            "name": "Amalattia",
+            "path": "published/4_1591628362_K8GGQzIx_400x400.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.dw.com/ar/%D9%85%D9%8A%D8%B1%D9%83%D9%84-%D8%AA%D8%AF%D8%A7%D9%81%D8%B9-%D8%B9%D9%86-%D8%AA%D9%82%D9%8A%D9%8A%D8%AF-%D8%A7%D9%84%D8%AD%D9%82%D9%88%D9%82-%D8%A7%D9%84%D8%A3%D8%B3%D8%A7%D8%B3%D9%8A%D8%A9-%D8%AE%D9%84%D8%A7%D9%84-%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7/a-53544580",
+            "name": "DW.COM",
+            "path": "sources/0_1591628362_1.jpg"
+        },
+        {
+            "link": "https://www.bundesregierung.de/breg-en/search/konjunkturpaket-1757640",
+            "name": "المستشارية الاتحادية الألمانية",
+            "path": "sources/1_1591628362_14-16-1.jpg_640x640.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل اعتذرت ميركل لأطفال ألمانيا بسبب الحجر الصحي؟",
+    "updated_at": "2020-09-25 06:28:46",
+    "url_path": "/factcheck/2020/06/08/هل-اعتذرت-ميركل-لأطفال-ألمانيا-بسبب-الحجر-الصحي"
+}

@@ -1,0 +1,114 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 508,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "نفى الدكتور عمر عبدالكافي الخبر (فيسبوك)",
+    "category": "Spirituality & Religion",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">إصابة الدكتور عمر عبدالكافي بفايروس كورونا.</span></p>\r\n",
+    "country": "EG",
+    "created_at": "2020-08-14 02:12:46",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f35c8ee1dd585079d53dece",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">الخبر زائف. إذ نفى الدكتور عمر عبدالكافي الخبر عبر مقطع فيديو نشره عبر صفحته الرسمية على موقع فيسبوك، بتاريخ 12 أغسطس/آب الجاري، وقال إنه بخير وعافية ولم يصب بفايروس كورونا، ووصفاً الخبر المتداول بالإشاعة.</span></p>\r\n\r\n<p style=\"text-align:right\"><iframe frameborder=\"0\" height=\"315\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FDr.abdelkafy.omar%2Fvideos%2F3017553358566018%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات وصفحات على مواقع التواصل الاجتماعي، منذ تاريخ 11 أغسطس/آب الجاري، خبراً حول إصابة الداعية عمر عبدالكافي بفايروس كورونا المستجد. </span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_g6168yemb.jpg\" style=\"height:616px; width:495px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_zlkycmn04.jpg\" style=\"height:631px; width:496px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/159736036514053857_1230734170282460_2047336687788881349_o.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-159736036514053857_1230734170282460_2047336687788881349_o.jpg",
+        "width": 752
+    },
+    "post_date": "2020-08-14T09:00:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=2633007783630467&set=gm.3479738658819755&type=3&theater&ifg=1",
+            "name": "احمد مكي ابوالعك",
+            "path": "published/0_1597360365_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=785099118966177&id=100023982878911",
+            "name": "Mohamed Mustafa",
+            "path": "published/1_1597360637_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/khairo.bennaadja/posts/1174652539572403",
+            "name": "Khairo Usmiste",
+            "path": "published/2_1597360637_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/celia.touami/posts/972741496508657",
+            "name": "أم مريم",
+            "path": "published/3_1597360637_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/2918311464943723/permalink/3083329121775289/",
+            "name": "شيماء علي",
+            "path": "published/4_1597360637_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/abdelhafid.amghar.71/posts/637999580480555",
+            "name": "Abdelhafid Amghar",
+            "path": "published/5_1597360637_facebook.jpg"
+        },
+        {
+            "link": "https://twitter.com/WVxCGZKf9UWqDj9/status/1293649261306023938",
+            "name": "المروج الخضراء ",
+            "path": "published/6_1597360637_twitter.jpg"
+        },
+        {
+            "link": "https://twitter.com/Mohamed38613530/status/1293512107816820737",
+            "name": "Mohamed Hassan ",
+            "path": "published/7_1597360637_twitter.jpg"
+        },
+        {
+            "link": "https://twitter.com/EmanMlusa/status/1293322239350394881",
+            "name": "مصرية ومحدش يقدر علي ",
+            "path": "published/8_1597360638_twitter.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/Dr.abdelkafy.omar/videos/3017553358566018/?t=0&v=3017553358566018",
+            "name": "الدكتور عمر عبدالكافي",
+            "path": "sources/0_1597360365_facebook.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الدكتور عمر عبدالكافي بصحة جيدة وغير مصاب بكورونا",
+    "updated_at": "2020-09-25 15:17:25",
+    "url_path": "/factcheck/2020/08/14/الدكتور-عمر-عبدالكافي-بصحة-جيدة-وغير-مصاب-بكورونا"
+}

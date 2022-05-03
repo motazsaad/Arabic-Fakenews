@@ -1,0 +1,98 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 460,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "نائبة التحقيقات الجنائية قامت بصد مجموعة من المهاجمين (تويتر)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">محاولة اغتيال نائبة قسم التحقيقات الجنائية في تشيلي بعد خروجها من منزلها.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-07-15 13:41:21",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f0edd51163be3066c7522b9",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من المقطع المتداول ووجد أنّه صحيح. إذ نشرت <a href=\"https://www.facebook.com/atentos.cl/videos/726156744820292/?v=726156744820292\" style=\"color:blue; text-decoration:underline\">مصادر</a> تشيلية ناطقة بالإسبانية الفيديو، بتاريخ 29 مايو/أيار الفائت، وقالت إن نائبة ومفتشة من لواء التحقيقات الجنائية، قامت بصد مجموعة من المهاجمين الذين حاولوا الاعتداء عليها، وأنها أخرجت سلاحها الناري بشكل سريع وأطلقت النار عليهم. وحدث ذلك في حدود الساعة الثامنة صباحاً في التاريخ نفسه، أمام منزلها في حي مايبو، عندما كانت تستعد للخروج.<br />\r\nوحسب <a href=\"https://www.biobiochile.cl/noticias/nacional/chile/2020/05/29/relato-la-subinspectora-la-pdi-frustro-tiros-portonazo-hogar-maipu.shtml\" style=\"color:blue; text-decoration:underline\">المواقع</a>، قال المفوض خورخي ساليناس، من لواء تحقيقات السرقة، في تصريحات سجلتها محطة المتروبوليتان الغربية، إن هناك أربعة أشخاص حاولوا الاقتراب من المحققة، ونجحوا في الهروب بعد ذلك، لكن أفراد الشرطة تبحث عن السيارة والمتورطين في الجريمة. وأضاف أن المفتشة لا تعاني من &nbsp;أيّ إصابات. </span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fatentos.cl%2Fvideos%2F726156744820292%2F&amp;show_text=0&amp;width=476\" style=\"border:none;overflow:hidden\" width=\"476\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"720\" src=\"https://www.youtube.com/embed/xrpu4ffnFgg\" width=\"1280\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تتداولت حسابات وصفحات على مواقع التواصل الاجتماعي خلال شهر يوليو/تموز الجاري، مقطع فيديو ادّعت أنه لمحاولة اغتيال نائبة في قسم التحقيقات الجنائية في تشيلي، بعد خروجها من منزلها.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"322\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fjijelnews18%2Fvideos%2F1047481585668382%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"319\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F112064377122522%2Fvideos%2F2728723957395223%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"322\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F1736679656554181%2Fvideos%2F1129743460740964%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/159481039242769920-d92f-4532-92bc-09d16bc76026.jpg",
+        "watermark_path": "articles/watermark-159481039242769920-d92f-4532-92bc-09d16bc76026.jpg"
+    },
+    "post_date": "2020-07-15T13:31:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/jijelnews18/videos/1047481585668382/?v=1047481585668382&external_log_id=447e8530-c9bf-4c1e-b307-d50c74eaadd0&q=%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A9%20%D9%84%D8%A5%D8%BA%D8%AA%D9%8A%D8%A7%D9%84%20%D9%86%D8%A7%D8%A6%D8%A8%20%D9%82%D8%B3%D9%85%20%D8%A7%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A6%D9%8A%D8%A9",
+            "name": "JijelNews",
+            "path": "published/0_1594809681_JijelNews.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/112064377122522/videos/2728723957395223/?v=2728723957395223&external_log_id=447e8530-c9bf-4c1e-b307-d50c74eaadd0&q=%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A9%20%D9%84%D8%A5%D8%BA%D8%AA%D9%8A%D8%A7%D9%84%20%D9%86%D8%A7%D8%A6%D8%A8%20%D9%82%D8%B3%D9%85%20%D8%A7%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A6%D9%8A%D8%A9",
+            "name": "يوميات ",
+            "path": "published/1_1594809813_يوميات.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/1736679656554181/videos/1129743460740964/?v=1129743460740964&external_log_id=447e8530-c9bf-4c1e-b307-d50c74eaadd0&q=%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A9%20%D9%84%D8%A5%D8%BA%D8%AA%D9%8A%D8%A7%D9%84%20%D9%86%D8%A7%D8%A6%D8%A8%20%D9%82%D8%B3%D9%85%20%D8%A7%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A6%D9%8A%D8%A9",
+            "name": "Ahmed A. Muttashar",
+            "path": "published/2_1594809814_Ahmed A. Muttashar.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=140341851046511&id=107870910960272",
+            "name": "اخبار ومنوعات",
+            "path": "published/3_1594809814_اخبار.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Libraryalmalak/posts/180494946786529",
+            "name": "مكتبة الملاك",
+            "path": "published/4_1594809814_مكتبة.jpg"
+        }
+    ],
+    "result": "true",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/atentos.cl/videos/726156744820292/?v=726156744820292",
+            "name": "Atentos",
+            "path": "sources/0_1594809681_Atentos.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=xrpu4ffnFgg",
+            "name": "Meganoticias",
+            "path": "sources/1_1594810177_Meganoticias.jpg"
+        },
+        {
+            "link": "https://www.biobiochile.cl/noticias/nacional/chile/2020/05/29/relato-la-subinspectora-la-pdi-frustro-tiros-portonazo-hogar-maipu.shtml",
+            "name": "BioBioChile",
+            "path": "sources/2_1594809814_BioBioChile.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "محاولة اغتيال نائبة قسم التحقيقات الجنائية في تشيلي",
+    "title": "محققة تشيلية تطلق النار على مجرمين حاولوا اغتيالها",
+    "updated_at": "2020-09-25 05:02:03",
+    "url_path": "/factcheck/2020/07/15/محققة-تشيلية-تطلق-النار-على-مجرمين-حاولوا-اغتيالها"
+}

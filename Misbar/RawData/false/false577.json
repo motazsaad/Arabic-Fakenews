@@ -1,0 +1,104 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 4270,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "تعود المواجهات لعام 2017 بين مشجعي فريقين إيطاليين (فيسيوك)",
+    "category": "Sports",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:#1c1e21\">جزائريون يتظاهرون في نابولي ويعنفون الشرطة الإيطالية بعد إهانة شاب تونسي على يد شرطي إيطالي.</span></span></p>\r\n",
+    "country": "DZ",
+    "created_at": "2020-06-22 16:10:01",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ef0ada9163be31e3800b6c3",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الصور المتداولة وتبين أنّها مضللة، إذ تعود لمواجهات دارت بين مشجعي <span style=\"color:#222222\">فريقي <a href=\"https://www.ilgiorno.it/brescia/cronaca/scontri-cagliari-1.3408056\" style=\"color:blue; text-decoration:underline\">بريشيا وكالياري</a> الإيطاليين، أثناء المباراة الودية التي جمعت الفريقين يوم </span>&nbsp;<span style=\"color:#222222\">22 يوليو/تموز 2017 خارج ملعب بالازولو.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:#222222\">وتسببت المواجهات في أعمال شغب وسرقات، دفعت الشرطة للتدخل واعتقال مؤيد عن كل فريق لديهما سوابق عدلية <a href=\"https://brescia.corriere.it/notizie/sport/17_luglio_22/palazzolo-scontri-ultras-amichevole-brescia-cagliari-73cccaf4-6ee4-11e7-9514-8d2d6097b361.shtml\" style=\"color:blue; text-decoration:underline\">وحكم عليهما القضاء</a>&nbsp;بالسجن لمدة سنة. كما حظر على العشرات من المشجعين، الذين شاركوا في أعمال العنف، مواكبة الأحداث الرياضية لمدة تتراوح بين خمس وثماني&nbsp;سنوات.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"color:#222222\"><img alt=\"22.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_b202p29x1.jpg\" style=\"height:506px; width:470px\" /></span></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات إخبارية وحسابات على مواقع التواصل الاجتماعي منذ 20 يونيو/حزيران الجاري، صوراً تنسبها لاحتجاجات قام بها جزائريون ضدّ الشرطة الإيطالية بعد إهانة شاب تونسي على يد أحد عناصرها. وتظهر الصور عنفاً متبادلاً&nbsp;بالعصيّ بين المحتجين والشرطة في الشوارع.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"2.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_26t8a99q4.jpg\" style=\"height:570px; width:403px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_1stshy3is.jpg\" style=\"height:520px; width:404px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"1.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_py7kb3fc4.jpg\" style=\"height:519px; width:403px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 370,
+        "left": 37.7939453125,
+        "path": "articles/15928314008591058.jpg",
+        "top": 32.977783203125,
+        "totalHeight": 423,
+        "totalWidth": 727,
+        "watermark_path": "articles/watermark-15928314008591058.jpg",
+        "width": 658
+    },
+    "post_date": "2020-06-22T14:00:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/groups/1318258231677000/permalink/1620447158124771/",
+            "name": "Rim Rekik",
+            "path": "published/0_1592831399_93962837_2662545083989363_7323888098402631680_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=165260585042332&id=112265737008484",
+            "name": "Radio24",
+            "path": "published/1_1592831399_85206036_112266173675107_5822616038528778240_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Tunisia.News.actu/posts/2688113111472023",
+            "name": "وكالة تونس للأنباء",
+            "path": "published/2_1592831399_101467402_2667665986850069_4131640178043256832_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Kelibia2019/posts/601848733784386",
+            "name": "Kelibia pub",
+            "path": "published/3_1592831400_68808132_413990072570254_6041567157676933120_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/375781835924228/permalink/1642412325927833/",
+            "name": "Khalid Khalid Nayet",
+            "path": "published/4_1592831400_92211859_3451060898241377_7820949993623126016_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/661654254280224/permalink/959703127808667/",
+            "name": "Mouhamed Grissa",
+            "path": "published/5_1592831400_104435525_275599400309933_3761443640237422394_n.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://brescia.corriere.it/notizie/sport/17_luglio_22/palazzolo-scontri-ultras-amichevole-brescia-cagliari-73cccaf4-6ee4-11e7-9514-8d2d6097b361.shtml",
+            "name": "brescia.corriere",
+            "path": "sources/0_1592831400_téléchargement.jpg"
+        },
+        {
+            "link": "https://www.ilgiorno.it/brescia/cronaca/scontri-cagliari-1.3408056",
+            "name": "ilgiorno",
+            "path": "sources/1_1592831400_1.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصور لشغب في إيطاليا وليس تظاهرة جزائرية تضامناً مع تونسي",
+    "updated_at": "2020-09-25 03:58:39",
+    "url_path": "/factcheck/2020/06/22/جزائريون-يتظاهرون-ضد-الشرطة-الإيطالية-من-أجل-تونسي-حقيقة-الصور"
+}

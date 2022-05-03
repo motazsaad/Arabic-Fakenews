@@ -1,0 +1,122 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 1
+    },
+    "amount_sources": 0,
+    "amount_visits": 28319,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "الصورة تعود لزيارة ترودو وعائلته إلى مسجد في الهند (Getty)",
+    "category": "Spirituality & Religion",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">زوجة رئيس وزراء كندا وابنته ترتديان لباس المسلمات في رمضان احتراماً لمسلمي بلدهم.</span></p>\r\n",
+    "country": "CA",
+    "created_at": "2020-05-07 15:04:28",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eb3f94cdb29164e890611d5",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من الصورة المتداولة ووجد أنها مضللة، لأن </span><a href=\"https://www.gettyimages.ae/detail/news-photo/canadian-prime-minister-justin-trudeau-his-wife-sophie-news-photo/922885004?adppopup=true\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>الصورة الأصلية</u></span></a><span style=\"color:#000000\"> تعود لزيارة ترودو مع عائلته إلى مسجد جاما، في العاصمة الهندية دلهي، في خضمّ زيارة أجراها ترودو إلى الهند في شهر فبراير/شباط عام 2018. لذلك، لا علاقة للصورة بشهر رمضان، ويرجّح أنّ سبب ارتداء زوجة ترودو وابنته للحجاب هو احتراماً لدخول المسجد.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_n2gw8ps1e.jpg\" style=\"height:475px; width:578px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "كندا",
+        "ترودو",
+        "رئيس الوزراء الكندي",
+        "الهند",
+        "مسجد جاما"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تناقلت صفحات على مواقع التواصل الاجتماعي صورة تجمع رئيس الوزراء الكندي، جاستن ترودو، مع زوجته وأبنائه، مع الادّعاء القائل بأنّ زوجته وابنته ارتدتا الحجاب احتراماً للمسلمين في كندا أثناء شهر رمضان.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_qiih9k3i0.jpg\" style=\"height:613px; width:523px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_f72b1eii9.jpg\" style=\"height:580px; width:533px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 196,
+        "left": 3.48333740234375,
+        "path": "articles/1588853066GettyImages-922884924.jpg",
+        "top": 122.11669921875,
+        "totalHeight": 423,
+        "totalWidth": 353,
+        "watermark_path": "articles/watermark-1588853066GettyImages-922884924.jpg",
+        "width": 348
+    },
+    "post_date": "2020-05-07T14:54:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/groups/215802345663689/permalink/689266788317240/",
+            "name": "ابن يوسف",
+            "path": "published/0_1588853065_ابن-يوسف-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/saadalqaroun/posts/1102099996834853",
+            "name": "سد القرعون",
+            "path": "published/1_1588853065_سد-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/drnashat.bdair.9/posts/1717100038433167",
+            "name": "نشأت بدر",
+            "path": "published/2_1588853065_نشأت-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/baset.baset.96780/posts/276430773531849",
+            "name": "Baset Baset",
+            "path": "published/3_1588853065_baset-logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/1151244401563038/permalink/3078447892176003/",
+            "name": "نزهة ربيع",
+            "path": "published/4_1588853066_نزهة-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/elfo55ar/posts/2910451519023586",
+            "name": "فخار يكسر بعضه الأصلية",
+            "path": "published/5_1588853066_فخار-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=538134166886887&id=100020709252708",
+            "name": "فضاء المعرفة",
+            "path": "published/6_1588853066_فضاء-لوغو.jpg"
+        },
+        {
+            "link": "https://twitter.com/kalamshawre3/status/1258165721802190849",
+            "name": "كلام شوارع",
+            "path": "published/7_1588853066_كلام-لوغو.jpg"
+        },
+        {
+            "link": "https://twitter.com/mm_m_2/status/1256948220300791808",
+            "name": "مالك",
+            "path": "published/8_1588853066_مالك-لوغو.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.gettyimages.ae/detail/news-photo/canadian-prime-minister-justin-trudeau-his-wife-sophie-news-photo/922885004?adppopup=true",
+            "name": "Getty Images",
+            "path": "sources/0_1588853066_getty-logo.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=v2Qbd1nfdpM&feature=emb_title",
+            "name": "Siasat Daily",
+            "path": "sources/1_1588853066_siasat-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "الصورة تعود لزيارة ترودو وعائلته إلى مسجد في الهند",
+    "title": "زوجة جاستن ترودو وابنته ترتديان الحجاب.. صورة مضللة",
+    "updated_at": "2020-09-25 13:59:20",
+    "url_path": "/factcheck/2020/05/07/زوجة-جاستن-ترودو-وابنته-ترتديان-الحجاب-صورة-مضللة"
+}

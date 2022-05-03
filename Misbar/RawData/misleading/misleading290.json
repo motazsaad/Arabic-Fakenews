@@ -1,0 +1,108 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 256,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "الصور من اليمن التقطت عام 2017 (Getty)",
+    "category": "Politics",
+    "claim": "<p>صورة لطفل يحمل سلاحاً نسبتها المواقع الإخبارية إلى خبر خطف جبهة البوليساريو للأطفال.</p>\r\n",
+    "country": "MA",
+    "created_at": "2020-11-22 18:16:08",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 8,
+    "id": "5fba80b8ffa089331f1514f5",
+    "investigation": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-JO\">تحقّق &quot;<a href=\"https://misbar.com/\"><span style=\"color:#3498db\">مسبار</span></a>&quot; من الصورة ووجد أنها لطفل مسلح من اليمن بحسب وكالة غيتي للوسائط المرئية، فقد التقطها المصور محمد حويس عام 2017، وكان تعليق الوكالة على الصورة &quot;صبي يمني يقف حاملاً بندقية كلاشنكوف خلال تجمع للمقاتلين الحوثيين المجندين حديثاً في العاصمة صنعاء، لحشد مزيد من المقاتلين إلى جبهات القتال في الحرب ضد القوات الموالية للحكومة في عدة مدن يمنية&quot;.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><em>هذا ولم يتسنَ لـ&quot;مسبار&quot; التحقق من&nbsp;الخبر المرافق للصورة حول اختطاف جبهة البوليساريو للأطفال من المخيمات بغرض تسليحهم.&nbsp;ويأ</em>تي انتشار الصورة بعد توارد العديد من الأخبار عن بدء&nbsp;اشتباكات بين&nbsp;القوات المغربية وجبهة البوليساريو على طول الجدار الأمني في الصحراء الغربية، وقد&nbsp;قالت&nbsp;الجبهة إنها قصفت&nbsp;مواقع&nbsp;عسكرية مغربية على طول الشريط الفاصل بين مناطق سيطرة الطرفين، وجاء هذا التصعيد عقب تدخل الجيش المغربي، لإعادة فتح معبر الكركرات الحدودي بين المغرب وموريتانيا الذي&nbsp;أغلقه أنصار الجبهة الأسبوع الفائت.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_gusyge526.jpg\" style=\"height:510px; width:602px\" /></p>\r\n\r\n<p style=\"text-align:right\">اقرأ/ي أيضا:</p>\r\n\r\n<p style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/11/21/%D9%87%D8%B0%D8%A7-%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%84%D9%8A%D8%B3-%D9%84%D8%A7%D8%B4%D8%AA%D8%A8%D8%A7%D9%83%D8%A7%D8%AA-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%A8%D9%88%D9%84%D9%8A%D8%B3%D8%A7%D8%B1%D9%8A%D9%88-%D9%88%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%D9%8A\">هذا الفيديو ليس لاشتباكات بين البوليساريو والجيش المغربي</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">نشرت مواقع إخبارية وصفحات على مواقع التواصل الاجتماعي، في الساعات الأخيرة، صورةً لطفل يحمل سلاحاً، وأرفقت&nbsp;الصورة بخبر البوليساريو تختطف الأطفال من عائلات المحتجزين في المخيمات وتسلحهم.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_jj4hmt18m.jpg\" style=\"height:122px; width:602px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_mj11imo6c.jpg\" style=\"height:360px; width:602px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 326,
+        "left": 8.60003662109375,
+        "path": "articles/1606058167IMG_1612.JPG",
+        "top": 4.800048828125,
+        "totalHeight": 423,
+        "totalWidth": 596,
+        "watermark_path": "articles/watermark-1606058167IMG_1612.JPG",
+        "width": 578
+    },
+    "post_date": "2020-11-22T15:09:00.000+03:00",
+    "published": [
+        {
+            "id": "5fba80b77f7d923f41309c29",
+            "link": "https://chouftv.ma/press/318240.html?fbclid=IwAR11dz0PEbCiG9BkdVBKhaKLsCt5a6VwD_L0wv0nIOLKifMtbcho0rBCCgU",
+            "name": "ChoufTV :: TV شوف",
+            "origin": "",
+            "path": "sources/cc36fc099330e1ffed10ffb33a660ace7cffedd9.jpg"
+        },
+        {
+            "id": "5fba80b70016f94d1d3d9c28",
+            "link": "https://www.facebook.com/watch/?ref=search&v=1871478649684005&external_log_id=172dc3cb-01c7-4a41-9573-201c78272248&q=%D8%AE%D8%B7%D9%8A%D8%B1%20%D8%AC%D8%AF%D8%A7..%20%D8%A7%D9%84%D8%A8%D9%88%D9%84%D9%8A%D8%B3%D8%A7%D8%B1%D9%8A%D9%88%20%D8%AA%D8%AE%D8%AA%D8%B7%D9%81%20%D8%A7%D9%84%D8%A3%D8%B7%D9%81%D8%A7%D9%84%20%D9%85%D9%86%20%D8%B9%D8%A7%D8%A6%D9%84%D8%A7%D8%AA%20%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D8%AC%D8%B2%D9%8A%D9%86%20%D9%81%D9%8A%20%D8%A7%D9%84%D9%85%D8%AE%D9%8A%D9%85%D8%A7%D8%AA%20%D9%88%D8%AA%D8%B3%D9%84%D8%AD%D9%87%D9%85",
+            "name": "شوف  TV",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5fba80b74c0763520b6a912f",
+            "link": "https://twitter.com/charkaw62962050/status/1330292447608508419",
+            "name": "charkawi",
+            "origin": "twitter",
+            "path": "sources/3abe21f71edaf5fb529c20025f5719ae45483ad2.jpg"
+        },
+        {
+            "id": "5fba80b7345d363ad71450a5",
+            "link": "https://ma.break.ma/news/238638",
+            "name": "أخبار المغرب",
+            "origin": "",
+            "path": "sources/da8a74e32b02614e59d4052187e5087045d94a42.jpg"
+        },
+        {
+            "id": "5fba80b7be913c3cf8206555",
+            "link": "https://twitter.com/marzouk64586492/status/1330215354317070336",
+            "name": "marzouk",
+            "origin": "twitter",
+            "path": "sources/454f8812d96fdc57a638472607c4a93cd24b7627.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fad8d535f247922892af063",
+            "link": "https://www.gettyimages.fr/detail/photo-d'actualit%C3%A9/yemeni-boy-poses-with-a-kalashnikov-assault-rifle-photo-dactualit%C3%A9/815535674?adppopup=true",
+            "name": "www.gettyimages.fr",
+            "origin": "",
+            "path": "sources/f5362411d9e7d5992c7cd8b7af6cfb0fd75fb446.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صورة الطفل لا علاقة لها باشتباكات الجيش المغربي مع البوليساريو",
+    "updated_at": "2020-11-22 21:06:13",
+    "url_path": "/factcheck/2020/11/22/صورة-الطفل-لا-علاقة-لها-باشتباكات-الجيش-المغربي-مع-البوليساريو",
+    "was_notification_pushed": true
+}

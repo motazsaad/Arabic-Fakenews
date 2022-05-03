@@ -1,0 +1,127 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 115,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "caption": "بعض الحسابات عمدت إلى وضع روابط مشبوهة على أنها طريقة للتواصل (فيسبوك)",
+    "category": "News",
+    "claim": "<p>فتاة ألمانية تبحث عن شاب يتزوجها ويعتني بها وبطفلها بعد وفاة زوجها.</p>\r\n",
+    "country": "RU",
+    "created_at": "2020-12-29 14:15:17",
+    "created_by": "5f39b1ee1dd5850789476b61",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 11,
+    "feedback_pos": 7,
+    "id": "5feb0fc50a2fab4d266e0752",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقق &quot;<a href=\"https://misbar.com/\" target=\"_blank\">مسبار</a>&quot; من الادعاء المتداول، ووجد أنه زائف وينطوي على تضليل، كما وجد أنَّ بعض الحسابات عمدت إلى وضع روابط مشبوهة على أنها طريقة للتواصل مع هذه الفتاة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">وتبين أنَّ الصورة تعود لفتاة روسية تدعى إيكاترينا أندرسون، ولديها قرابة 165 ألف متابعٍ على موقع انستغرام، وبالبحث عن حسابات أخرى للفتاة، وجد &quot;مسبار&quot; حسابها على موقع فيسبوك، والذي يظهر فيه أنها متزوجة من شخص يُدعى &quot;<span dir=\"LTR\">Rolf</span>&quot;.</p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "فتاة",
+        "روسية",
+        "ألمانية",
+        "زواج"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [
+        "إيكاترينا أندرسون"
+    ],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">نشرت حسابات على موقعي تويتر وفيسبوك، صورة ادعت أنها لفتاة ألمانية تبحث عن شاب يتزوجها ويعتني بطفلها.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_7mhzc2ane.jpg\" style=\"height:671px; width:548px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_pclbt7kci.jpg\" style=\"height:666px; width:552px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_xri5fcjlm.jpg\" style=\"height:586px; width:601px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 185,
+        "left": 3.8162384033203125,
+        "path": "articles/1609240517129133485_1002000036876690_5834704211053300704_n.jpg",
+        "top": 24.550048828125,
+        "totalHeight": 423,
+        "totalWidth": 338,
+        "watermark_path": "articles/watermark-1609240517129133485_1002000036876690_5834704211053300704_n.jpg",
+        "width": 327
+    },
+    "post_date": "2020-12-13T14:03:00.000+03:00",
+    "published": [
+        {
+            "id": "5feb0fc341dd2e71e300cf86",
+            "link": "https://twitter.com/Mamanona2276/status/1336946801203666946",
+            "name": "(Nahed) ناهد ",
+            "origin": "twitter",
+            "path": "sources/b24ecc3a6ce7d8f97a66645fedfc881c07a66cbf.jpg"
+        },
+        {
+            "id": "5feb0fc37956df5954667c2c",
+            "link": "https://twitter.com/Mohamma43826626/status/1333169933270863875",
+            "name": "Mohammad Majali",
+            "origin": "twitter",
+            "path": "sources/f3a389124b24dfe66f3edcecd30ea79631472445.jpg"
+        },
+        {
+            "id": "5feb0fc4e050cb042168f05c",
+            "link": "https://www.facebook.com/tirka3a/posts/1605294549655422",
+            "name": "طركاعتنة جبيرة",
+            "origin": "facebook",
+            "path": "sources/35eb3ba3e056c0b9bbeb8479f167bf283a33f831.jpg"
+        },
+        {
+            "id": "5feb0fc471a2550cc42ced4c",
+            "link": "https://www.facebook.com/w8a7aw8a7/posts/2877892299203547",
+            "name": "وقاحة-Wqaha",
+            "origin": "facebook",
+            "path": "sources/8946b2fac22ebab5692a6653c196b94f0423195f.jpg"
+        },
+        {
+            "id": "5feb0fc4770eed70713abb69",
+            "link": "https://www.facebook.com/king3rab/posts/3565357010224175",
+            "name": "عراقي وعراقية",
+            "origin": "facebook",
+            "path": "sources/8ad691ac03b419f940b1173af0ac62a9191c2e92.jpg"
+        },
+        {
+            "id": "5feb0fc40f68490b3772227b",
+            "link": "https://twitter.com/Mohamma56257986/status/1335949847191498754",
+            "name": "Mohammad Abdullah",
+            "origin": "twitter",
+            "path": "sources/a367d339e2d0a65e81cb7abcf06ef9bc6069f497.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5feb0fc49e525b43101c347e",
+            "link": "https://www.facebook.com/imneverdone",
+            "name": "Ekaterina Andersen",
+            "origin": "facebook",
+            "path": "sources/ffbfa2c8496ff6a5dafa90eb84a2fb94921a40ee.jpg"
+        },
+        {
+            "id": "5feb0fc4d479b5620d760099",
+            "link": "https://www.facebook.com/rolf.krarup",
+            "name": "Rolf Krarup",
+            "origin": "facebook",
+            "path": "sources/d97beea96d697effe3906f1babc76e3dbd3d69a9.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الصور ليست لفتاة ألمانية تبحث عن شاب يتزوجها ويعتني بطفلها",
+    "updated_at": "2020-12-29 14:15:17",
+    "url_path": "/factcheck/2020/12/29/الصور-ليست-لفتاة-ألمانية-تبحث-عن-شاب-يتزوجها-ويعتني-بطفلها",
+    "was_notification_pushed": true
+}

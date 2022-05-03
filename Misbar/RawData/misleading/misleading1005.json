@@ -1,0 +1,108 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 4,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 5170,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "جلسة التوقيع على بيع أراضٍ لقبائل من السكان الأصليين (مواقع التواصل الاجتماعي)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة من عام 1944، تُظهر كيف أجهش رئيس الوزراء الأميركي بالبكاء بعد موافقة الملك فاروق على منح الولايات المتحدة 400 مليون جنيه إسترليني، كمنحة لا تردّ من مصر لمساعدة أميركا.</p>\r\n",
+    "country": "EG",
+    "created_at": "2020-06-17 10:45:26",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 3,
+    "id": "5ee9ca16d6e4a90945576e73",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من قصة الصورة المتداولة، ووجد أنها غير صحيحة ولا علاقة لـ مصر بها. فالرجل الذي يبكي في الصورة هو جورج جيليت، زعيم تجمّع قبلي للهنود الحمر في داكوتا الشمالية في الولايات المتحدة، كان يبكي في جلسة التوقيع على بيع 155 ألف فداناً من أراضي قبائله لصالح بناء سدّ جاريسون عام 1948.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_ugi5c4sre.jpg\" style=\"height:580px; width:510px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_m7wbogqfz.jpg\" style=\"height:621px; width:458px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداول مستخدمون على موقع التواصل الاجتماعي فيسبوك، صورةً تحكي قصة حدثت عام 1944. يظهر فيها وزير الخزانة المصري جالساً بينما رئيس الوزراء الأميركي واقفاً يجهش بالبكاء وخلفه نصف أعضاء مجلس الوزراء. وسبب بكائه كان موافقة الملك فاروق على منح الحكومة الأميركية 400 مليون جنيه أسترليني، كمنحة غير قابلة للرّد من مصر إلى الولايات المتحدة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_p4fcaf1si.jpg\" style=\"height:854px; width:511px\" /></span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_piig1a97s.jpg\" style=\"height:542px; width:530px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_08vn6loro.jpg\" style=\"height:809px; width:545px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 265,
+        "left": 3.6392822265625,
+        "path": "articles/1592379924514544.jpg",
+        "top": 44.828369140625,
+        "totalHeight": 423,
+        "totalWidth": 479,
+        "watermark_path": "articles/watermark-1592379924514544.jpg",
+        "width": 472
+    },
+    "post_date": "2020-06-17T10:32:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=2597718466924442&set=a.1021843434511961&type=3&theater",
+            "name": "ابراهيم عبد الغني",
+            "path": "published/0_1592379923_ابراهيم عبد الغني.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/642387276493351/permalink/662532861145459/",
+            "name": "Mahmoud Elattar",
+            "path": "published/1_1592379923_Mahmoud Elattar.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/388588524533634/permalink/3250312471694544/",
+            "name": "وفيق البنايوسي",
+            "path": "published/2_1592379923_وفيق البنايوسي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/269827803670192/permalink/582644852388484/",
+            "name": "مرزوق عبد الصمد فضة",
+            "path": "published/3_1592379923_مرزوق عبد الصمد فضة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=166579901565014&id=100046390141769",
+            "name": "محمد العزايزي",
+            "path": "published/4_1592379924_محمد العزايزي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/209936875691027/permalink/4370024316348908/",
+            "name": "إياد المهدي",
+            "path": "published/5_1592379924_Facebook_logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=917770268726806&id=100014815240630",
+            "name": "هاني دريم",
+            "path": "published/6_1592379924_هاني دريم.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://exhibits.library.gsu.edu/current/items/show/283",
+            "name": "Library Exhibits",
+            "path": "sources/0_1592379924_Library Exhibits.jpg"
+        },
+        {
+            "link": "https://postsatire.tumblr.com/post/189193703054/the-man-crying-is-george-gillette-tribal-chairman",
+            "name": "Post Satire",
+            "path": "sources/1_1592379924_Post Satire.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "1944: منحة مالية مصرية أبكت رئيس وزراء أميركا.. ما قصة الصورة؟",
+    "updated_at": "2020-09-25 16:00:34",
+    "url_path": "/factcheck/2020/06/17/1944-منحة-مالية-مصرية-أبكت-رئيس-وزراء-أميركا-ما-قصة-الصورة"
+}

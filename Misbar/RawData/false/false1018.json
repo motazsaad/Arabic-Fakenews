@@ -1,0 +1,91 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 117,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">مقتدى الصدر يغرد: &quot;العراق أمام مرحلة خطيرة جداً قد تبدأ بعد ساعات أو أيام&quot;.</p>\r\n",
+    "country": "IQ",
+    "created_at": "2019-12-03 15:17:20",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5de652508d7bd905570e3054",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">احتوت التغريدة على الكثير من الأخطاء الإملائية، وهو ما استدعى التحقق من وجودها فعلاً على صفحة الصدر.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_b3050c88d7fc564f9daaff2e72e958d3.jpg\" style=\"height:549px; width:630px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">كما أن الاسم الذي يستخدمه مقتدى الصدر على حسابه في تويتر هو مقتدى السيد محمد الصدر، وليس السيد مقتدى الصدر كما هو مذكور في التغريدة السابقة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">جميع المواقع استخدمت نفس الصورة المفبركة، وهذا هو الحساب الرسمي لمقتدى الصدر على موقع تويتر، وهو خال تماماً من التغريدة المذكورة.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_aa96c43b221ffc87b359aff49ea66a5a.jpg\" style=\"height:424px; width:610px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">بعض صفحات مواقع التواصل الاجتماعي نشرت تغريدة على أنها لزعيم التيار الصدري في العراق مقتدى الصدر. وجاء في التغريدة: &quot;يا أبناء العراق، أنتم أمام مرحلة خطيرة جداً جداً، قد تبدأ بعد ساعة أو ساعات أو أيام لا أكثر، فإما أن تكونوا الخاسرون أو الفائزون والله على ما أقول شهيد&quot;.</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 293,
+        "left": -12.21112060546875,
+        "path": "articles/1575375440GettyImages-972630292.jpg",
+        "top": 4.4124755859375,
+        "totalHeight": 423,
+        "totalWidth": 529,
+        "width": 521
+    },
+    "post_date": "2019-10-17T15:03:00.000+03:00",
+    "published": [
+        {
+            "link": "http://www.dijlah.tv/index.php?page=article&id=239954",
+            "name": "دجلة",
+            "path": "published/0_1575375440_دجلة.JPG"
+        },
+        {
+            "link": "https://www.facebook.com/iraqalaan/photos/a.988026604585852/2407012442687254/?type=3&theater",
+            "name": "العراق الآن",
+            "path": "published/1_1575375440_العراق الآن.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Iraq1/photos/a.10151862715056495/10157927967166495/?type=3&theater",
+            "name": "العراق",
+            "path": "published/2_1575375440_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/parasetolwisam.wisam/photos/a.1635479440075990/2222173711406557/?type=3&theater",
+            "name": "براسيتول",
+            "path": "published/3_1575375440_facebook.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/Mu_AlSadr?fbclid=IwAR1cmTw3FddI8UMlKFpxCpZA4puGhIyFAyfyfOw-XGgefiWz5844vf2PQ28",
+            "name": "مقتدى السيد محمد الصدر",
+            "path": "sources/0_1575375440_Twitter-logo.jpg"
+        },
+        {
+            "link": "http://jawabna.com/index.php",
+            "name": "جوابنا",
+            "path": "sources/1_1575375440_جوابنا.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "حقيقة منشور لمقتدى الصدر على مواقع التواصل",
+    "updated_at": "2020-09-25 21:34:55",
+    "url_path": "/factcheck/2019/12/03/حقيقة-منشور-لمقتدى-الصدر-على-مواقع-التواصل"
+}

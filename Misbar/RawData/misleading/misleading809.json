@@ -1,0 +1,104 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2221,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "تعود الصورة لعام 2015 (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">صورة جوية لموقع الانفجار في مرفأ بيروت.</span></p>\r\n",
+    "country": "LB",
+    "created_at": "2020-08-05 15:51:41",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f2aab5d40466e07282233a7",
+    "investigation": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من الصورة وتبين أن الادعاء مضلل، ولا علاقة لها بلبنان. وتعود الصورة لعام 2015 وهي لانفجارات دمرت مستودعاً للمواد الكيميائية في مدينة تيانجين شمال الصين.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_41w1c54q3.jpg\" style=\"height:575px; width:624px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات وصفحات على مواقع التواصل الاجتماعي، اليوم 5 أغسطس/آب، صورة ادّعت أنها لحفرة تُظهر موقع الانفجار في مرفأ بيروت.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_5miov365d.jpg\" style=\"height:556px; width:555px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_muuq2a349.jpg\" style=\"height:549px; width:550px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_z2w9whfkt.jpg\" style=\"height:593px; width:553px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 422,
+        "left": 0.888916015625,
+        "path": "articles/1596631901117248394_3191681844250717_7777597561152412305_n.jpg",
+        "top": 1,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1596631901117248394_3191681844250717_7777597561152412305_n.jpg",
+        "width": 750
+    },
+    "post_date": "2020-08-05T15:49:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/1451074798311439/photos/a.1451724261579826/3191681840917384/?type=3&theater",
+            "name": "امنيات لبنان",
+            "path": "published/0_1596631900_امنيات لبنان.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=317131519640868&set=p.317131519640868&type=1&theater",
+            "name": "Abo Sami Naim",
+            "path": "published/1_1596632040_Abo Sami Naim.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/133179856731683/photos/a.519587278090937/3107477985968507/?type=3&__tn__=-R",
+            "name": "Ankawa city",
+            "path": "published/2_1596632040_Ankawa city.jpg"
+        },
+        {
+            "link": "https://twitter.com/LamaAGhaddar/status/1290990442780282880",
+            "name": "لما عباس غدار",
+            "path": "published/3_1596632040_لما عباس غدار.jpg"
+        },
+        {
+            "link": "https://twitter.com/BeBQ8zpxAoCWVI0/status/1290942584907538438",
+            "name": "شبكة سحاب للإعلام",
+            "path": "published/4_1596632040_شبكة سحاب للإعلام.jpg"
+        },
+        {
+            "link": "https://twitter.com/om_loai1311/status/1290970572118204416",
+            "name": "‏أمــے لؤي ‏ ",
+            "path": "published/5_1596632040_‏أمــے لؤي ‏.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.mirror.co.uk/news/gallery/immense-power-tianjin-explosion-revealed-6263218",
+            "name": "mirror",
+            "path": "sources/0_1596631901_eHWYyySz_400x400.jpg"
+        },
+        {
+            "link": "https://www.businessinsider.com/the-chemical-explosion-in-china-killed-more-than-100-people-and-the-devastation-is-unreal-2015-8",
+            "name": "business insider",
+            "path": "sources/1_1596632041_P_hQmsjg_400x400.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصورة ليست من موقع انفجار مرفأ بيروت",
+    "updated_at": "2020-09-25 10:01:24",
+    "url_path": "/factcheck/2020/08/05/هذه-الصورة-ليست-من-موقع-انفجار-مرفأ-بيروت"
+}

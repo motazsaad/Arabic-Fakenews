@@ -1,0 +1,108 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1442,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "تمّ تركيب تسجيل صوتي على المقطع الأصلي (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">فيديو يُصوّر متظاهرين عراقيين وهم يرحبون بتنظيم داعش كي يقاتل قوات الأمن والحشد الشعبي.</p>\r\n",
+    "country": "IQ",
+    "created_at": "2020-05-07 11:30:27",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eb3c723db291626a356d3d4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الفيديو، وتأكدّ من أنه مضلل، فالمقطع الأصلي يصوّر مظاهرة في مدينة واسط العراقية، وتمّ تركيب صوت شخص ما عليه، يدعي أنّ المتظاهرين يرحبون بمجيء تنظيم داعش.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fwethegreatiraq%2Fvideos%2F784964688577432%2F&amp;show_text=0&amp;width=267\" style=\"border:none;overflow:hidden\" width=\"267\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:black\">تداولت حسابات على موقع التواصل الاجتماعي فيسبوك، مقطع فيديو قالت إنّه يُظهر متظاهرين عراقيين وهم يرحبون بقدوم داعش لمحاربة قوات الحشد الشعبي والأجهزة الأمنية.</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"color:black\"><img src=\"https://images-prod.misbar.com/articlebody/origin_vnj2bevcr.jpg\" style=\"height:353px; width:623px\" /></span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F100035694518835%2Fvideos%2F251817626018053%2F&amp;show_text=0&amp;width=261\" style=\"border:none;overflow:hidden\" width=\"261\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 354,
+        "left": 2.16827392578125,
+        "path": "articles/1588840226GettyImages-1204252643.jpg",
+        "top": 9.60009765625,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1588840226GettyImages-1204252643.jpg",
+        "width": 630
+    },
+    "post_date": "2020-05-07T11:11:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/100028248383054/videos/541797346771873/",
+            "name": "علي الفياض",
+            "path": "published/0_1588840225_علي الفياض.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100035694518835/videos/251817626018053/",
+            "name": "حيدر الذهبي",
+            "path": "published/1_1588840225_حيدر الذهبي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/1703171139924746/permalink/2468385043403348/",
+            "name": "Karim Hadi",
+            "path": "published/2_1588840226_Facebook_logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2608228219495736&id=100009257505094",
+            "name": "جاسم محمد",
+            "path": "published/3_1588840226_جاسم محمد.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2652635821685218&id=100008164772587",
+            "name": "أحمد الصدري",
+            "path": "published/4_1588840226_أحمد الصدري.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1569682189874418&id=100004979568434",
+            "name": "مالك البصراوي",
+            "path": "published/5_1588840226_مالك البصراوي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1393755704159265&id=100005745456609",
+            "name": "المرحلة القادمة",
+            "path": "published/6_1588840226_Facebook_logo.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/watch/?v=4335507066466839&external_log_id=dfe72bfcecb112b75ef1a6a0b49ec4c1&q=%D9%88%D8%A7%D8%B3%D8%B7%20%D9%82%D8%A8%D9%84%20%D9%82%D9%84%D9%8A%D9%84..%20%D8%A7%D9%84%D8%AB%D9%88%D8%B1%D8%A9%20%D8%B1%D8%AC%D8%B9%D8%AA",
+            "name": "ديالى الثورة",
+            "path": "sources/0_1588840226_ديالى الثورة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/wethegreatiraq/videos/784964688577432/",
+            "name": "تظاهرات العراق ضد الذيول",
+            "path": "sources/1_1588840905_تظاهرات العراق ضد الذيول.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "عراقيون يرحّبون بداعش لقتال الأمن والحشد الشعبي.. فيديو مضلل",
+    "updated_at": "2020-09-25 13:21:43",
+    "url_path": "/factcheck/2020/05/07/عراقيون-يرحبون-بداعش-لقتال-الأمن-والحشد-الشعبي-فيديو-مضلل"
+}

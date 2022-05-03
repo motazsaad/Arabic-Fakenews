@@ -1,0 +1,108 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1062,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الجسم الطائر هو منطاد أطلقته شركة غوود يير (يوتيوب)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">جسم طائر غريب في سماء ولاية نيوجرسي في الولايات المتحدة الأميركية.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-09-16 16:56:38",
+    "created_by": "5f39b5451dd585078b5d94f3",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f621996d3cab45ef51c20c1",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الادعاء، وتأكّد أنّ الفيديو لا يصوّر جسماً غريباً أو صحناً طائراً شوهد في سماء نيوجرسي كما اعتقد بعض المستخدمين. إنمّا هو منطاد أطلقته شركة غوود يير <span dir=\"LTR\">Good Year</span>، لتصوير لقطات جوية لمباراة في كرة القدم الأميركية بين فريقي بيتسبرغ ونيويورك غاينتس في ملعب ميتلاف في نيوجرسي، وذلك بحسب تصريحاتٍ لمتحدث باسم الشركة لموقع <span dir=\"LTR\">Insider</span>، وضحّ فيها حقيقة الجسم الطائر بعد انتشار الفيديو والادعاءات المختلفة حول حقيقته.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_p81fclccu.jpg\" style=\"height:639px; width:1130px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p>تداول مستخدمون على مواقع التواصل الاجتماعي مقطع فيديو، ادّعوا إنّه يصور جسم غريب قال بعضهم نه صحنٌ طائر، شوهد في سماء ولاية نيوجرسي في الولايات&nbsp;المتحدة الأميركية.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/8Dop40d6xKQ\" width=\"560\"></iframe></p>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"ltr\">UFO spotted in New Jersey Monday Sep 14, 2020 <a href=\"https://twitter.com/hashtag/ufo?src=hash&amp;ref_src=twsrc%5Etfw\">#ufo</a> #<a href=\"https://twitter.com/hashtag/sighting?src=hash&amp;ref_src=twsrc%5Etfw\">#sighting</a> <a href=\"https://twitter.com/hashtag/viral?src=hash&amp;ref_src=twsrc%5Etfw\">#viral</a> <a href=\"https://twitter.com/hashtag/trending?src=hash&amp;ref_src=twsrc%5Etfw\">#trending</a> <a href=\"https://twitter.com/hashtag/news?src=hash&amp;ref_src=twsrc%5Etfw\">#news</a> <a href=\"https://twitter.com/hashtag/radio?src=hash&amp;ref_src=twsrc%5Etfw\">#radio</a> <a href=\"https://twitter.com/hashtag/trump?src=hash&amp;ref_src=twsrc%5Etfw\">#trump</a> <a href=\"https://twitter.com/hashtag/newjersey?src=hash&amp;ref_src=twsrc%5Etfw\">#newjersey</a> <a href=\"https://t.co/YKyCWO0ury\">pic.twitter.com/YKyCWO0ury</a></p>\r\n&mdash; D.RoyFlor (@DRoyFlor) <a href=\"https://twitter.com/DRoyFlor/status/1305706766815035392?ref_src=twsrc%5Etfw\">September 15, 2020</a></blockquote>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 234,
+        "left": 167.70001220703125,
+        "path": "articles/1600264598ال.jpg",
+        "top": 83.300048828125,
+        "totalHeight": 423,
+        "totalWidth": 755,
+        "watermark_path": "articles/watermark-1600264598ال.jpg",
+        "width": 417
+    },
+    "post_date": "2020-09-16T16:44:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.instagram.com/p/CFKNrPnB4X8/?utm_source=ig_web_copy_link",
+            "name": "Celebsarabicnet",
+            "path": "published/0_1600264597_d.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/DRoyFlor/status/1305706766815035392?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1305706766815035392%7Ctwgr%5Eshare_3&ref_url=https%3A%2F%2Fwww.insider.com%2Fufo-sighting-goodyear-blimp-in-new-jersey-2020-9",
+            "name": "D.RoyFlor",
+            "path": "published/1_1600264597_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/pci7_/status/1305884316019429377",
+            "name": "Polat",
+            "path": "published/2_1600264597_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/CelebsArabicII/status/1305866612206174208",
+            "name": "Celebs Arabic",
+            "path": "published/3_1600264597_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.youtube.com/watch?v=8Dop40d6xKQ",
+            "name": " Entertainment Land",
+            "path": "published/4_1600264598_YouTube-logo.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.insider.com/ufo-sighting-goodyear-blimp-in-new-jersey-2020-9",
+            "name": "Business Insider",
+            "path": "sources/0_1600264598_P_hQmsjg_reasonably_small.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.youtube.com/watch?v=bl50_q05IVc",
+            "name": "Mizo Crea Tube",
+            "path": "sources/1_1600264598_unnamed.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ليس صحناً طائراً شاهده سكان ولاية نيوجرسي الأميركية",
+    "updated_at": "2020-09-24 22:13:24",
+    "url_path": "/factcheck/2020/09/16/ليس-صحنا-طائرا-ما-شاهده-سكان-ولاية-نيوجرسي-الأميركية",
+    "was_notification_pushed": "true"
+}

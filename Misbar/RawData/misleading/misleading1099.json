@@ -1,0 +1,108 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 23507,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الصورة المتداولة لمسؤول في القاعدة أُعدم في السعودية عام 2016 (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة متداولة للمتورط في اغتيال النائب العام المصري بعد إلقاء القبض عليه.</p>\r\n",
+    "country": "EG",
+    "created_at": "2020-05-28 10:34:21",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ecf697ddb2916044163c7c4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة المتداولة، وتبيّن أن الادعاء غير صحيح، فهي تعود لشخصٍ يُدعى فارس آل شويل، يُلقّب بـ (أبو جندل الأزدي)، كان أحد المسؤولين في تنظيم القاعدة، وأُعدم في السعودية عام 2016. وتجدر الإشارة أنّ &quot;مسبار&quot; بحث على الإنترنت&nbsp;ووجد أنّ السلطات المصرية لم تُعلن حديثاً عن اعتقال أي أشخاص متورطين&nbsp;في قضية اغتيال النائب العام.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_hu0oucm31.jpg\" style=\"height:532px; width:697px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت مواقع إلكترونية وحسابات وصفحات على موقعي التواصل الاجتماعي فيسبوك وتويتر، صورة قالت إنها للمتورط في اغتيال النائب العام المصري هشام بركات عام 2015، ويدعى أبو حذيفة القزازي. ونُشرت الصورة برفقة خبر القبض عليه، ومما جاء في المنشور المتداول &quot;القبض على أبو حذيفة القزازي المتورط في مقتل النائب العام، وتنفيذ 67 عملية تفجير في القاهرة وسيناء وقتل الجنود..&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_h4beh4689.jpg\" style=\"height:538px; width:584px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_y764buclz.jpg\" style=\"height:759px; width:555px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ujokwi8mi.jpg\" style=\"height:396px; width:967px\" /></span></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 354,
+        "left": 2.0074462890625,
+        "path": "articles/1590651260GettyImages-478969078.jpg",
+        "top": 33.597900390625,
+        "totalHeight": 423,
+        "totalWidth": 635,
+        "watermark_path": "articles/watermark-1590651260GettyImages-478969078.jpg",
+        "width": 629
+    },
+    "post_date": "2020-05-28T10:24:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/7arbia.3al.net/posts/3043155809076453",
+            "name": "حرية على النت",
+            "path": "published/0_1590651259_حرية على النت.jpg"
+        },
+        {
+            "link": "https://www.awanmasr.com/%d8%a7%d9%84%d9%82%d8%a8%d8%b6-%d8%b9%d9%84%d9%89-%d8%a3%d8%a8%d9%88-%d8%ad%d8%b0%d9%8a%d9%81%d8%a9-%d8%a7%d9%84%d9%82%d8%af%d8%a7%d8%af%d9%8a-%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b1%d8%b7-%d9%81%d9%8a/?fbclid=IwAR2k9jqJrgH7BB_r1iENWd4bEmMIF_sC6jNFU819_W6AhE3ND2zFeulUo8Y",
+            "name": "أوان مصر",
+            "path": "published/1_1590651259_أوان مصر.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=2633201333668476&set=a.1692667547721864&type=3&theater",
+            "name": "Abdallah Zalata",
+            "path": "published/2_1590651259_Abdallah Zalata.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=2701606486780880&set=a.1457942517813956&type=3",
+            "name": "Ahmed Soliman",
+            "path": "published/3_1590651259_Ahmed Soliman.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=2900316790023904&set=a.409767792412162&type=3&theater",
+            "name": "Emad Khira",
+            "path": "published/4_1590651259_Emad Khira.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=3373252779381103&id=100000892422209",
+            "name": "Ahmed Metwaly",
+            "path": "published/5_1590651260_Ahmed Metwaly.jpg"
+        },
+        {
+            "link": "https://twitter.com/BinMarawan/status/1264476821535498240",
+            "name": "Sayed AbdelGawad",
+            "path": "published/6_1590651260_Sayed AbdelGawad.jpg"
+        },
+        {
+            "link": "https://twitter.com/AhmedSh46815578/status/1264249420943687695/photo/1",
+            "name": "Ahmed Sharaf Elden",
+            "path": "published/7_1590651260_Ahmed Sharaf Elden.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.alarabiya.net/ar/saudi-today/2016/01/02/%D9%85%D9%86-%D9%87%D9%88-%D9%81%D8%A7%D8%B1%D8%B3-%D8%A2%D9%84-%D8%B4%D9%88%D9%8A%D9%84-%D9%85%D9%86%D8%B8%D8%B1-%D8%A7%D9%84%D9%82%D8%A7%D8%B9%D8%AF%D8%A9%D8%9F",
+            "name": "العربية",
+            "path": "sources/0_1590651260_قناة العربية لوغو.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "مصر: القبض على المتورط في اغتيال النائب العام.. لمن الصورة؟",
+    "updated_at": "2020-09-25 02:47:09",
+    "url_path": "/factcheck/2020/05/28/مصر-القبض-على-المتورط-في-اغتيال-النائب-العام-لمن-الصورة"
+}

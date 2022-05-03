@@ -1,0 +1,152 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 153,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "عمل فني للإسباني ألفارو هيرانز (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\">حيوان لديه أربع عيون.</p>\r\n",
+    "country": "",
+    "created_at": "2020-12-18 18:37:16",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 4,
+    "feedback_pos": 6,
+    "id": "5fdcccabcecedb770a0b07e3",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;<a href=\"https://misbar.com/\" style=\"text-decoration:none\" target=\"_blank\"><u>مسبار</u></a>&quot; من الصورة المتداولة ووجد أنها زائفة، فهي تُظهر <a href=\"https://www.instagram.com/p/B4Chk6FKvh3/\" style=\"text-decoration:none\" target=\"_blank\"><u>عملاً فنياً</u></a> للفنان الإسباني ألفارو هيرانز استلهم فيه <a href=\"https://www.instagram.com/p/B3hkvbjIFvy/\" style=\"text-decoration:none\" target=\"_blank\"><u>الأساطير الباسكية</u></a> القديمة.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">يُذكر أن الحيوان الظاهر في الصورة المعدّلة رقمياً اسمه Akerbeltz، وهو حيوان خيالي في أساطير إقليم الباسك شمال إسبانيا، يمتلك أربع عيون ويحمي حيوانات الغابة.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_a49my9093.jpg\" style=\"height:263px; width:539px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">اقرأ/ي أيضاً:</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><a href=\"https://misbar.com/editorial/2020/12/16/%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D8%AD%D9%88%D9%84-%D9%83%D9%8A%D9%81%D9%8A%D8%A9-%D8%B1%D8%B5%D8%AF-%D8%B5%D9%88%D8%B1%D8%A9-%D8%A3%D9%88-%D9%85%D9%82%D8%B7%D8%B9-%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%85%D8%B2%D9%8A%D9%81\" target=\"_blank\">نصائح حول كيفية رصد صورة أو مقطع فيديو مزيف</a></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><a href=\"https://misbar.com/editorial/2020/12/17/%D8%AA%D9%88%D9%8A%D8%AA%D8%B1-%D9%8A%D8%AA%D8%AE%D8%B0-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D9%84%D9%85%D9%86%D8%B9-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B6%D9%84%D9%84%D8%A9-%D8%B9%D9%86-%D9%84%D9%82%D8%A7%D8%AD%D8%A7%D8%AA-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7\" target=\"_blank\">تويتر يتّخذ إجراءات لمنع المعلومات المضللة عن لقاحات كورونا</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "إقليم الباسك",
+        "حيوان أربع عيون",
+        "السودان"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل صفحات وحسابات على مواقع التواصل الاجتماعي، منذ شهور، صورة تدّعي أنها لحيوان غريب يمتلك أربع عيون.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_8hpo268lr.jpg\" style=\"height:700px; width:534px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_pujjtekmp.jpg\" style=\"height:690px; width:543px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 47,
+        "path": "articles/1608305835حيوان.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 846,
+        "watermark_path": "articles/watermark-1608305835حيوان.jpg",
+        "width": 752
+    },
+    "post_date": "2020-12-18T17:29:00.000+03:00",
+    "published": [
+        {
+            "id": "5fdcce9cefa49076d87c8a7e",
+            "link": "https://www.facebook.com/groups/1139472129439497/permalink/2952488814804477",
+            "name": "احمد عبد الرحمن",
+            "origin": "facebook",
+            "path": "sources/9fb41797f3ab0b7b87f8775614ed7b0bdd915b9b.jpg"
+        },
+        {
+            "id": "5fdcce9c7bbb2254e9124a32",
+            "link": "https://www.facebook.com/Iamveganyes/posts/one-in-villagebeauty-of-naturesouth-sudan-goat-babyfour-eyes-and-four-hones/1111978919185803/",
+            "name": "I am Vegan",
+            "origin": "facebook",
+            "path": "sources/3c62d62f84075595338ca2097e69854bbe299921.jpg"
+        },
+        {
+            "id": "5fdcce9c23292a2f4235369c",
+            "link": "https://www.facebook.com/115349513495916/posts/in-southern-sudan-a-goat-gave-birth-to-a-goat-with-four-eyes-and-four-horns-scie/165297425167791/",
+            "name": "Beauty of Nature",
+            "origin": "facebook",
+            "path": "sources/aeaae672b27375a1ce11af5f570d6701f970d936.jpg"
+        },
+        {
+            "id": "5fdcce9c14f1d4541331c65c",
+            "link": "https://www.facebook.com/ishfaqparwaz.co/posts/in-southern-sudan-a-goat-gave-birth-to-a-goat-with-four-eyes-and-four-horns-scie/752823058866306/",
+            "name": "Ishfaq Parwaz",
+            "origin": "facebook",
+            "path": "sources/1b501a54209c830eaf7fb7c9a066a372a896971f.jpg"
+        },
+        {
+            "id": "5fdcce9c15d1be33af523667",
+            "link": "https://www.facebook.com/groups/304773623580438/permalink/604525266938604/",
+            "name": "عجائب وغرائب وطرائف ما لم تره من قبل",
+            "origin": "facebook",
+            "path": "sources/9fb41797f3ab0b7b87f8775614ed7b0bdd915b9b.jpg"
+        },
+        {
+            "id": "5fdcce9c36455e341d39efa4",
+            "link": "https://www.facebook.com/adel.attia.946/posts/3008193242594123",
+            "name": "Adel Attia",
+            "origin": "facebook",
+            "path": "sources/770085f06aadef856dfae7f25fca090afbd79e11.jpg"
+        },
+        {
+            "id": "5fdcce9dc36f253fb21c9743",
+            "link": "https://www.facebook.com/dimitar.ambarov/posts/3303331209685321",
+            "name": "Dimitar Dimac Ambarov",
+            "origin": "facebook",
+            "path": "sources/770085f06aadef856dfae7f25fca090afbd79e11.jpg"
+        },
+        {
+            "id": "5fdcce9d2e9f79514e1186c4",
+            "link": "https://www.facebook.com/dorota.sajnug/posts/10218160665389686",
+            "name": "Dorota Sajnug",
+            "origin": "facebook",
+            "path": "sources/770085f06aadef856dfae7f25fca090afbd79e11.jpg"
+        },
+        {
+            "id": "5fdcce9d3a906a57bd6c43ec",
+            "link": "https://www.facebook.com/bozena.sliwka.1/posts/2634862346757419",
+            "name": "Bozena Turowiecka",
+            "origin": "facebook",
+            "path": "sources/770085f06aadef856dfae7f25fca090afbd79e11.jpg"
+        },
+        {
+            "id": "5fdcce9d2e406e05b4051752",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1246342449059185&id=100010503242901",
+            "name": "Tammy Humphrey Melloan",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fdcccdd1bc9597beb135af3",
+            "link": "https://www.instagram.com/p/B3hkvbjIFvy/",
+            "name": "fuegofatuoart",
+            "origin": "",
+            "path": "sources/c502bdaa97879521ac78d2121733ab49a277e2a3.jpg"
+        },
+        {
+            "id": "5fdcce9de9253867c70e968b",
+            "link": "https://www.instagram.com/p/B4Chk6FKvh3/",
+            "name": "fuegofatuoart",
+            "origin": "",
+            "path": "sources/4c3f5c9403de43e3bd42ee37eca79a55e35ab8ca.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "عمل فني وليس حيواناً يمتلك أربع عيون",
+    "updated_at": "2020-12-18 18:49:36",
+    "url_path": "/factcheck/2020/12/18/عمل-فني-وليس-حيوانا-يمتلك-أربع-عيون",
+    "was_notification_pushed": false
+}

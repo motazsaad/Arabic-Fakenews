@@ -1,0 +1,158 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 150,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "انتشر المقطع منذ أغسطس/آب الفائت (فيسبوك)",
+    "category": "Arts & Culture",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">مقطع فيديو لمواجهة بين الشرطة والمافيا في البرازيل.</p>\r\n",
+    "country": "BR",
+    "created_at": "2020-10-20 15:46:08",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 2,
+    "id": "5f8edc10b10cc00dab05e7c6",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من مقطع الفيديو المتداول وتبين أنه ليس للمافيا البرازيلية، إذ يُظهر كواليس تصوير مشهد من الفيلم البرازيلي &quot;<a href=\"https://www.youtube.com/watch?v=WbVV5JAu1po\" style=\"color:blue; text-decoration:underline\">Rocinha</a>&quot;. ونشر بعض المواطنين مقاطع فيديو خلال عملية التصوير، على مواقع التواصل الاجتماعي، ليشاركه البعض على أنه مقطع حقيقي لهجوم عناصر من المافيا على الشرطة في البرازيل.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">كما أرفقت&nbsp;شركة إنتاج الفيلم، <a href=\"https://www.instagram.com/p/CDOlgIDhwmO/\" style=\"color:blue; text-decoration:underline\">bs.producoes</a> صوراً للطاقم الفني، وشارك بطل الفيلم، الممثل <a href=\"https://www.instagram.com/p/CEHZtQBhUd0/?hl=fr\" style=\"color:blue; text-decoration:underline\">Peter Brand&atilde;o</a> &nbsp;الفيديو المتداول، يوم 20 أغسطس/آب الفائت وعلق عليه &quot;من تصوير يوم أمس&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"999.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_zq8702zml.jpg\" style=\"height:469px; width:605px\" /></span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/WbVV5JAu1po\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات وحسابات على مواقع التواصل الاجتماعي، منذ شهر أغسطس/آب الفائت، مقطع فيديو ادعت أنه لمواجهة بين المافيا والشرطة في شوارع ريو دي جانيرو وكُتب عليه &quot;مرحباً بك في البرازيل&quot;.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F100050105644877%2Fvideos%2F185192689827585%2F&amp;show_text=0&amp;width=267\" style=\"border:none;overflow:hidden\" width=\"267\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fidrissio494%2Fvideos%2F965669477246893%2F&amp;show_text=0&amp;width=267\" style=\"border:none;overflow:hidden\" width=\"267\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 276,
+        "left": 61.105224609375,
+        "path": "articles/1603197968video-morros-stf-rio-de-janeiro-destaque.jpg",
+        "top": 73.746826171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-1603197968video-morros-stf-rio-de-janeiro-destaque.jpg",
+        "width": 490
+    },
+    "post_date": "2020-10-20T13:26:00.000+03:00",
+    "published": [
+        {
+            "id": "5f8edc0f7e1cf948656fd748",
+            "link": "https://www.facebook.com/MaitreNageurmaroc/videos/351070759610341",
+            "name": "Nageur Sauveteur &amp; Ma&icirc;tres Nageurs De Maroc",
+            "origin": "",
+            "path": "sources/9186b8c7ae4b81ce284d6653ca13dfa76cd83737.jpg"
+        },
+        {
+            "id": "5f8ede33bef47b55d25c0fba",
+            "link": "https://www.facebook.com/100022958506306/videos/805222313586378/",
+            "name": "لزغم محمد",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        },
+        {
+            "id": "5f8ede33ff859718e00b90d3",
+            "link": "https://www.facebook.com/100050105644877/videos/185192689827585/",
+            "name": "Assil Sofia Benhamza",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        },
+        {
+            "id": "5f8ede33148b827f7d18f6de",
+            "link": "https://www.facebook.com/idrissio494/videos/965669477246893/",
+            "name": "شاهد معنا",
+            "origin": "facebook",
+            "path": "sources/34118edc912ab9f3d3533a24b2d86c788638bfaa.jpg"
+        },
+        {
+            "id": "5f8ede33f102d32b0036d219",
+            "link": "https://www.facebook.com/hichem.benelmouaz.1/videos/187218479587674/",
+            "name": "Benelmouaz Hichem",
+            "origin": "",
+            "path": "sources/9186b8c7ae4b81ce284d6653ca13dfa76cd83737.jpg"
+        },
+        {
+            "id": "5f8ede334a475921f4252afb",
+            "link": "https://www.facebook.com/112056673890802/videos/250190669403013",
+            "name": "صانع ألإبتسامة Kader MiGnon",
+            "origin": "facebook",
+            "path": "sources/6f7ba905765b4957ac207334dcb069157fa6a233.jpg"
+        },
+        {
+            "id": "5f8edf3bf102d32b0036d21a",
+            "link": "https://www.facebook.com/khaildous/videos/4311099155628622/",
+            "name": "وليد فقيري",
+            "origin": "",
+            "path": "sources/9186b8c7ae4b81ce284d6653ca13dfa76cd83737.jpg"
+        },
+        {
+            "id": "5f8edf3bf491863c815b480b",
+            "link": "https://www.facebook.com/hama9a.m19/videos/1175119732874333",
+            "name": "Hama9a+19",
+            "origin": "facebook",
+            "path": "sources/99bd06c3cc200f4cefdbf30a53651f7859871961.jpg"
+        },
+        {
+            "id": "5f8edffc472ab24aef0c8f0e",
+            "link": "https://www.facebook.com/100049033574321/videos/184586816519103",
+            "name": "الضحك مع بنات وولاد لبلاد",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        },
+        {
+            "id": "5f8edffd8b496c6a3761a768",
+            "link": "https://www.facebook.com/bhappY18/videos/314844613102120",
+            "name": "هابي بلجيكا +18 happy Belg&iuml;&euml;",
+            "origin": "facebook",
+            "path": "sources/b52c110ff558047bc67e947f6c267fa9f1a0fdb3.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f8edc10b764df2b6f025363",
+            "link": "https://www.instagram.com/p/CEHZtQBhUd0/?hl=fr",
+            "name": "Peter Brand&atilde;o",
+            "origin": "",
+            "path": "sources/855c232348646c64a0c7271d4cfee16b859db10c.jpg"
+        },
+        {
+            "id": "5f8edc10b764df2b6f025363",
+            "link": "https://www.instagram.com/p/CDOlgIDhwmO/",
+            "name": "Peter Brand&atilde;o",
+            "origin": "",
+            "path": "sources/855c232348646c64a0c7271d4cfee16b859db10c.jpg"
+        },
+        {
+            "id": "5f8eb18ba3818a4eb81ad3d2",
+            "link": "https://www.youtube.com/watch?v=WbVV5JAu1po",
+            "name": "قناة يوتيوب",
+            "origin": "",
+            "path": "published/7_1603128187_72cba5bc67b31d9d753cf43c35e93c59a1b0f98d.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذا الفيديو تمثيلي وليس لمواجهة بين الشرطة والمافيا البرازيلية",
+    "updated_at": "2020-10-20 16:02:53",
+    "url_path": "/factcheck/2020/10/20/هذا-الفيديو-تمثيلي-وليس-لمواجهة-بين-الشرطة-والمافيا-البرازيلية",
+    "was_notification_pushed": "true"
+}

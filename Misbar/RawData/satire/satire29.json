@@ -1,0 +1,97 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 3339,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": " (فيسبوك) انتشر المقطع بهدف الضحك والسخرية",
+    "category": "Travel",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">احذروا من السفر بعد انتهاء الحجر الصحي مباشرة، فالطيّارون نسوا تلك المهارة.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-06-10 16:51:13",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ee0e551d6e4a9617e2d7c14",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق مسبار من المقطع المتداول ووجد أنّه ساخر، وتناقلته بعض الصفحات بهدف الضحك والسخرية. في حين أنّ </span><a href=\"https://www.tiktok.com/@memmesson/video/6825606880824429829\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>المقطع الأصلي</u></span></a><span style=\"color:#000000\"> منشور لدى صفحة Memmesson على موقع تيك توك، ويبدو واضحاً أنّ الفيديو مفبرك لأهداف السخرية ولا يمتّ للواقع بصلة.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">من الممكن ملاحظة أنّ الأرضية التي ارتطمت بها الطائرة لم تتأثر ولو بخدش، مما يؤكد أنّ المقطع غير حقيقي، من خلال تتبّع منطقة الارتطام قبل وبعد هبوط الطائرة.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_waqs88fda.jpg\" style=\"height:549px; width:548px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_65xtgafxs.jpg\" style=\"height:533px; width:529px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "كورونا",
+        "فيروس كورونا",
+        "كوفيد-19",
+        "سفر",
+        "طيران"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل صفحات على مواقع التواصل الاجتماعي، حديثاً، مقطع فيديو لطائرة تهبط بطريقة خطيرة وتصطدم بما حولها على الأرض. أرفق ناشرو الخبر مع المقطع تعليقاً يقول &quot;احذروا من السفر بعد انتهاء الحجر المنزلي الصحي، فالطيّارون نسوا كيفية القيادة&quot;.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"792\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FPilot.Mohammad.wagfe%2Fvideos%2F2918459878275711%2F&amp;show_text=1&amp;width=238\" style=\"border:none;overflow:hidden\" width=\"238\"></iframe></span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"542\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Finstituciones.iteec%2Fvideos%2F621928951728361%2F&amp;show_text=1&amp;width=476\" style=\"border:none;overflow:hidden\" width=\"476\"></iframe></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 282,
+        "left": 127.83331298828125,
+        "path": "articles/1591797072غلاف.jpg",
+        "top": 141,
+        "totalHeight": 423,
+        "totalWidth": 763,
+        "watermark_path": "articles/watermark-1591797072غلاف.jpg",
+        "width": 501
+    },
+    "post_date": "2020-06-10T16:38:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2856838004434205&id=100003241001109",
+            "name": "Al Gaeli Mohamed Ali",
+            "path": "published/0_1591797071_نشر1.jpg"
+        },
+        {
+            "link": "https://twitter.com/AhlamMostghanmi/status/1262501557649772550",
+            "name": "أحلام مستغانمي",
+            "path": "published/1_1591797071_أحلام.jpg"
+        },
+        {
+            "link": "https://twitter.com/cm1ig3SMTotstjV/status/1262506589778567169",
+            "name": "سيدتي الجميلة",
+            "path": "published/2_1591797071_سيدتي.jpg"
+        },
+        {
+            "link": "https://twitter.com/albideri/status/1262526608327544832",
+            "name": "Dr.Adnan Albideri",
+            "path": "published/3_1591797072_dr adnan.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100049510814362/videos/135740754752951/",
+            "name": "عنابي",
+            "path": "published/4_1591797072_عنابي.jpg"
+        }
+    ],
+    "result": "satire",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.tiktok.com/@memmesson/video/6825606880824429829",
+            "name": "Memmesson",
+            "path": "sources/0_1591797072_memm.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل نسي الطيّارون كيفية قيادة الطائرة بعد فترة الحجر الصحي؟",
+    "updated_at": "2020-09-25 11:09:02",
+    "url_path": "/factcheck/2020/06/10/هل-نسي-الطيارون-كيفية-قيادة-الطائرة-بعد-فترة-الحجر-الصحي"
+}

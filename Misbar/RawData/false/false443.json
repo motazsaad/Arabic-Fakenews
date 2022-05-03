@@ -1,0 +1,96 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 304,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الخبر مُختلق ولا أساس له من الصحة (Getty)",
+    "category": "Health",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">منظمة الصحة العالمية تُحذر مجموعة دولٍ من إعادة فتح المدارس وتهدّد بإرسال قوات أممية لفرض الإغلاق.</p>\r\n",
+    "country": "DZ",
+    "created_at": "2020-07-27 18:15:01",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f1eef75163be307d044c48c",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الخبر زائف ولا أساس له من الصحة، إذ لم يجده &quot;مسبار&quot; منشوراً على الموقع الرسمي لمنظمة الصحة العالمية أو على أي وسيلة إعلام ذات صدقيّة. &nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت حسابات وصفحات على موقع التواصل الاجتماعي فيسبوك، خبراً يُفيد أنّ منظمة الصحة العالمية أرسلت تحذيراً شديد اللهجة إلى دول عديدة عربيةٍ وأجنبية، من إعادة فتحها للمدارس، وهدّدت المنظمة تلك الدول بإرسال قوات أممية لتطبيق الإغلاق في حال لم تنصاع لتوجيهاتها.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_5veesrews.jpg\" style=\"height:439px; width:815px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_pb64dig25.jpg\" style=\"height:572px; width:896px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 335,
+        "left": 0.5821533203125,
+        "path": "articles/1595862901GettyImages-1045093738.jpg",
+        "top": 15.514892578125,
+        "totalHeight": 423,
+        "totalWidth": 600,
+        "watermark_path": "articles/watermark-1595862901GettyImages-1045093738.jpg",
+        "width": 596
+    },
+    "post_date": "2020-07-27T18:05:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/groups/641089933454592/permalink/644062886490630/?__tn__=-R",
+            "name": "Khaled Annaba",
+            "path": "published/0_1595862900_Khaled Annaba.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/697420531106921/permalink/720840805431560/?__tn__=-R",
+            "name": "Ja Nis",
+            "path": "published/1_1595862900_Ja Nis.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/univer.bejaia.info/photos/a.433575460703525/671021420292260/?type=3&theater",
+            "name": "جامعة بجاية",
+            "path": "published/2_1595862900_جامعة بجاية.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Nadalittleofeverything/photos/a.105222764273771/237714544357925/?type=3&__tn__=-R",
+            "name": "وهران",
+            "path": "published/3_1595862900_وهران.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/3348384995194617/permalink/3424886620877787/?__tn__=-R",
+            "name": "Athina Maria",
+            "path": "published/4_1595862900_Athina Maria.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ithan.bellantoni/posts/1031328260657633?__tn__=-R",
+            "name": "Ithan Bellantoni",
+            "path": "published/5_1595862901_Ithan Bellantoni.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/media-resources/news",
+            "name": "منظمة الصحة العالمية",
+            "path": "sources/0_1595862901_منظمة-الصحة-العالمية-تويتر.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الصحة العالمية لم تهدّد دولاً بإرسال قوات أممية إذا فتحت المدارس",
+    "updated_at": "2020-09-25 11:34:35",
+    "url_path": "/factcheck/2020/07/27/الصحة-العالمية-لم-تهدد-دولا-بإرسال-قوات-أممية-إذا-فتحت-المدارس"
+}

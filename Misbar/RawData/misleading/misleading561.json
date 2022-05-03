@@ -1,0 +1,120 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 104,
+    "author": {
+        "fullname": "مريم هواري",
+        "id": "5e299460d4a22939983a3ec5",
+        "photo": {
+            "path": "authors/1579791192_Maryam.jpg"
+        }
+    },
+    "caption": "الصورة تعود لزيارة السيسي للهند عام 2016 (تويتر)",
+    "category": "Arts & Culture",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">الهند أهدت السيسي تمثال لغاندي عليه عبارة &quot;تستطيع أن تقتل الثوار لكن لا تستطيع أن تقتل الثورة&quot;.</p>\r\n",
+    "country": "EG",
+    "created_at": "2020-10-01 18:27:41",
+    "created_by": "5f39b6aa1dd585076701cb95",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 7,
+    "id": "5f75f56da523132a7424a94e",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقّق &quot;مسبار&quot; من الخبر المتداول ووجد أنّه مضلّل. إذ أن تمثال غاندي مخطوط عليه اسمه وتواريخ ميلاده ووفاته، وليس العبارة المتداولة. وتعود الصورة لزيارة السيسي للهند عام 2016.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">وتعود عبارة&nbsp;&quot;تستطيع أن تقتل الثوار لكن لا تستطيع أن تقتل الثورة&quot; <a href=\"https://www.youtube.com/watch?v=YEwv6-SgL0M\"><span style=\"color:#e74c3c\">لفريد هامبتون</span></a>، وهو ناشط أميركي أسود كان عضواً في حركة الفهود السود، اغتالته عناصر من شرطة شيكاغو ومكتب التحقيقات الفيدرالي (FBI) عام 1969.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_a8apbckdy.jpg\" style=\"height:463px; width:601px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_v3q5g7kh3.jpg\" style=\"height:544px; width:545px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">تداولت صفحات وحسابات على موقعي التواصل الاجتماعي، فيسبوك وتويتر، بتاريخ 1 أكتوبر/تشرين الأول الجاري، صورةً للرئيس المصري عبد الفتاح السيسي وهو يحمل تمثال للزعيم الهندي، المهتاما غاندي. وادّعى الناشرون أنّ التمثال عليه عبارة &quot;تستطيع أن تقتل الثوار لكن لا تستطيع أن تقتل الثورة&quot;، وأُهدي للسيسي أثناء زيارته للهند.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">وتجدر الإشارة إلى أنّه تم تداول الخبر في أعوامٍ سابقة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ucrofj6s7.jpg\" style=\"height:628px; width:557px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_tjcslfvyl.jpg\" style=\"height:605px; width:549px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_yjkn5k5e6.jpg\" style=\"height:583px; width:624px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1601566146الصورة.jpg",
+        "watermark_path": "articles/watermark-1601566146الصورة.jpg"
+    },
+    "post_date": "2020-10-01T18:19:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/Manal60035379/status/1311571110023045120",
+            "name": "Manal",
+            "path": "published/0_1601566059_cdeb606d2277405729841fe21c5d10e856529971.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/ManalMo90122700/status/1311606637514366976",
+            "name": "Manal Mohamed",
+            "path": "published/1_1601566059_cdeb606d2277405729841fe21c5d10e856529971.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/nouresmat554/status/1097453375506075653",
+            "name": "نور الهدي",
+            "path": "published/2_1601566059_cdeb606d2277405729841fe21c5d10e856529971.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/mahdiel.mahdi.3720/posts/381216526597406",
+            "name": "Mahdi El Mahdi",
+            "path": "published/3_1601566059_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/mona.helal.10/posts/3503686143072368",
+            "name": "Mona Helal",
+            "path": "published/4_1601566059_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/photo?fbid=190467585926931&set=basw.AbryLR7onSvEEwfWicr98jGgwE-VdrL5kW01k-lQwnxmMGDagRPFE7hq4j4qr61roHytGcM8uVUPOYUzwn8oyLoTzorPCwf03l5Jr46vzYqEG_6mR7iiMumWZRbmclZYfg1kq4wDfPaecZLSDLapTdYTzedUgCgOArdwe985K0A53KAPP3Y1PEJCUe29wbl8iqdKs6er9jrlmM7LHO2rd9RRM35WxOIyHu3EE5tmGsrJhGLp8ZS-8fJVxqWVTPUIXL3YqmvSy8VgRXOLByXuYscKP2lx7pfEJRkWSiqliSbLjZx0au3tC45lCf0vAHhHLOGx4e5A7CsZBcqj2ClrHHyfjjiNvrExSLUm4WHRpwdZgdguNIuhMAvhPCMEPyov5S7cDrIT4I6M1pDwcjjPkrYZ7LpzA3befKvzQcS2gIMLgU3AuAt6oCOS78pXJrmG8254Dog6UfHbxbDX5NFvp1qWNKZvRma0g1ACXXi1HJ_qFg&opaqueCursor=AboakgrAVh3-LF7gKp76T4u-kNuv0ERv1uec4URGPiEQZrf4yZd0X0uCu_RgfA9AfSXxUfLeawgnP6yyqw9sYZDiqbCfr2CA1gvNRc-PHHthLZvoEWhp9Piyiopd3cM8LroCdXO1kMzpjYZBQe-MPhAEcpFGsMa3mEYRcjt-ohutpukKJPRkjMEE1ZDuq7bZBgYrN7rAbhyJj0jFG_2qPaRERB2c7fI9QFqLy--9m7u8ZXl1rmmn91m-2gDscADKsuDWXZKS0aRh9_9ppnihfakobSOU4YDr7CjhiU7Mt762y2x_4y0vI3QZw6J3-KtB-RH-JoeOZm_2hUJ5WkkXe9Ar2BDYQlYbl3cGggjH4pM6pVBdQMsw7tSF03O21k8so7CzKdSirAJRFoHPl8py_RjmNQBFYYAdT9AHiNoScSoDQ_9O6KGK26kwJhEII4_f_jPTpsLd2kjHSqdd58XdVZ_11enEauyOeEalSP_-JI_nQtQsPDGpbIZfhyCTb5g_ugR-SSjFPdFsKDGLC6HmFINqRgRFsZib7mDwBMlj3OB3TEvSG_4MwbyqTocgC1eQJax-Dm_SoVA--0HPatEfiqoQzOvlWykUR6W1GpSF1uztiO5X21DPTMR5mBMxn04BD1hFq9u7vUm_7LvWnv_e0FxTjk-fLi7NtAGAc_fW0Fd1uXLBOHej58IB3Pra0glhWqL8TLTDNzmOdYYIFT8n1iAOS2L3OUp6rOPEg2kyDxHBVw",
+            "name": "المهيب الركن أبو عدي",
+            "path": "published/5_1601566060_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/TurkiShalhoub/status/1035776769985372160",
+            "name": "تركي الشلهوب",
+            "path": "published/6_1601566060_cdeb606d2277405729841fe21c5d10e856529971.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/Manal60035379/status/1311571110023045120",
+            "name": "Manal",
+            "path": "published/7_1601566060_cdeb606d2277405729841fe21c5d10e856529971.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/hureyaksa/status/1021394754246934528 ",
+            "name": "نحو الحرية",
+            "path": "published/8_1601566060_cdeb606d2277405729841fe21c5d10e856529971.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/naqvimukhtar/status/771625819420577792",
+            "name": "Mukhtar Abbas Naqvi",
+            "path": "sources/0_1601566060_cdeb606d2277405729841fe21c5d10e856529971.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه العبارة الثورية ليست موجودة على تمثال غاندي",
+    "updated_at": "2020-10-02 12:52:38",
+    "url_path": "/factcheck/2020/10/01/هذه-العبارة-الثورية-ليست-موجودة-على-تمثال-غاندي",
+    "was_notification_pushed": true
+}

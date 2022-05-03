@@ -1,0 +1,91 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 103,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "category": "News",
+    "claim": "<p>صورة الرجل الذي اغتصب ابنة اخته جنى ذات الأربع سنوات</p>\r\n",
+    "country": "EG",
+    "created_at": "2019-10-22 12:13:56",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5daec854be494b6ee455eca5",
+    "investigation": "<p>الصورة ليست لخال الطفلة جنى، وإنما أُخذت من حادثة أخرى حدثت في أيار/ مايو من العام 2017، واشتهرت في حينها بقضية طفلة &quot;البامبرز&quot;، وهي لـ &quot;إ، ر&quot; الذي تم اتهامه في قضية خطف واغتصاب الطفلة جنا محمد السيد، 20 شهراً، وليست لخال الطفلة جنى محمد سمير البالغة من العمر خمسة أعوام وتوفيت في سبتمبر 2019.&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_85312cc4b8027d32cd90d84178a684aa.jpg\" /></p>\r\n\r\n<p>الصورة لنفس الشخص، تم نشرها في العام 2017، وأعيد نشرها في الحادثة الجديدة 2019 على أنها لمغتصب الطفلة جنى.</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p>نشرت بعض الصفحات على منصة التواصل الاجتماعي &quot;فيسبوك&quot;، صورة ادعت فيها أنها تعود لخال الطفلة جنى محمد سمير، التي انتشرت قصتها خلال سبتمبر الماضي، وتوفيت إثر تعرضها للتعذيب والحرق على يد جدتها بمحافظة الدقهلية في مصر.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_c40ff3baf82b3c169f04c31803fb14f9.jpg\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 366,
+        "left": 1.449462890625,
+        "path": "articles/1571735636Doc-P-104341-636319409203805759.jpg",
+        "top": 31.3778076171875,
+        "totalHeight": 423,
+        "totalWidth": 658,
+        "width": 651
+    },
+    "post_date": "2019-10-07T12:07:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2413741452076651&id=1607438356040302&hc_location=ufi",
+            "name": "طرطوس سيتي",
+            "path": "published/0_1571735636_طرطوس.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/lattakiahere/photos/a.1609332252620149/2522520411301324/?type=3&theater",
+            "name": "هنا اللاذقية",
+            "path": "published/1_1571735636_هنا اللاذقية.jpg"
+        },
+        {
+            "link": "",
+            "name": "",
+            "path": ""
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.alaraby.co.uk/society/2019/9/28/%D9%85%D8%B5%D8%B1-%D9%88%D9%81%D8%A7%D8%A9-%D8%A7%D9%84%D8%B7%D9%81%D9%84%D8%A9-%D8%AC%D9%86%D9%89-%D8%B6%D8%AD%D9%8A%D8%A9-%D8%AA%D8%B9%D8%B0%D9%8A%D8%A8-%D8%AC%D8%AF%D8%AA%D9%87%D8%A7",
+            "name": "العربي الجديد",
+            "path": "sources/0_1571735636_العربي الجديد-لوغو.jpg"
+        },
+        {
+            "link": "https://www.alarabiya.net/ar/arab-and-world/egypt/2019/09/29/%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D9%85%D8%A4%D9%84%D9%85%D8%A9-%D9%8A%D8%B1%D9%88%D9%8A%D9%87%D8%A7-%D9%88%D8%A7%D9%84%D8%AF-%D8%A7%D9%84%D8%B7%D9%81%D9%84%D8%A9-%D8%AC%D9%86%D9%89-%D8%A7%D9%84%D8%AA%D9%8A-%D9%82%D8%AA%D9%84%D8%AA%D9%87%D8%A7-%D8%AC%D8%AF%D8%AA%D9%87%D8%A7",
+            "name": "العربية",
+            "path": "sources/1_1571735636_العربية لوغو1.jpg"
+        },
+        {
+            "link": "https://www.youm7.com/story/2017/5/2/%D8%A8%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%88%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D8%A5%D8%AD%D8%A7%D9%84%D8%A9-%D8%A3%D9%88%D8%B1%D8%A7%D9%82-%D8%A7%D9%84%D9%85%D8%AA%D9%87%D9%85-%D9%81%D9%89-%D9%82%D8%B6%D9%8A%D8%A9-%D8%A7%D8%BA%D8%AA%D8%B5%D8%A7%D8%A8-%D8%A7%D9%84%D8%B7%D9%81%D9%84%D8%A9-%D8%AC%D9%86%D9%89/3215744",
+            "name": "تقرير قديم على اليوم السابع",
+            "path": "sources/2_1571735636_اليوم السابع - لوغو1.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "حقيقة الصورة التي نشرت على أنها لمغتصب الطفلة جنى",
+    "updated_at": "2020-09-23 12:40:32",
+    "url_path": "/factcheck/2019/10/22/حقيقة-الصورة-التي-نشرت-على-أنها-لمغتصب-الطفلة-جنى"
+}

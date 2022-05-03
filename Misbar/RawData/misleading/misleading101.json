@@ -1,0 +1,139 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 143,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "نشرت الصورة في يوليو الفائت (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة من تونس العاصمة، لطفل يفترش الأرض.</p>\r\n",
+    "country": "TN",
+    "created_at": "2020-12-30 22:36:38",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 3,
+    "feedback_pos": 6,
+    "id": "5fecd6c6fcc53e21e541a186",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;<a href=\"https://misbar.com/\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">مسبار</a>&quot; من الصورة المتداولة وتبين أنها مضللة وليست لطفل تونسي يفترش الأرض، إذ نُشرت للمرة الأولى في شهر يوليو/تموز الفائت، وذكر أنها في&nbsp;مدينة طنجة المغربية، أرفقت&nbsp;بخبر &quot;صور صادمة لأطفال الشوارع بطنجة تنسف أرقام جميلة المصلي !&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_kt7iucd8v.jpg\" style=\"height:481px; width:605px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">يُذكر أن مدينة طنجة من أكثر المدن التي ينتشر فيها أطفال الشوارع في المغرب، إذ يقصدونها في الغالب من أجل الهجرة السرية إلى أوروبا عبر التسلل إلى شاحنات نقل البضائع أو حافلات نقل المسافرين، والاختباء بين هياكلها قبل دخول الميناء.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">اقرأ/ي أيضاً<br />\r\n<a href=\"https://misbar.com/factcheck/2020/12/29/%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%82%D8%AF%D9%8A%D9%85-%D9%88%D8%A7%D9%84%D8%B7%D9%81%D9%84-%D8%A7%D9%84%D8%B8%D8%A7%D9%87%D8%B1-%D9%81%D9%8A%D9%87-%D9%86%D8%A7%D8%A6%D9%85-%D9%88%D9%84%D9%8A%D8%B3-%D9%85%D9%8A%D8%AA%D8%A7\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">الفيديو قديم والطفل الظاهر فيه نائم وليس ميتاً</a></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/12/29/%D9%84%D9%8A%D8%B3%D8%AA-%D8%B5%D9%88%D8%B1%D8%A9-%D8%B7%D9%81%D9%84-%D9%8A%D8%A8%D9%83%D9%8A-%D8%A8%D8%B9%D8%AF-%D8%AD%D8%B1%D9%8A%D9%82-%D9%85%D8%AE%D9%8A%D9%85-%D8%A7%D9%84%D9%8A%D9%85%D9%86%D8%A9-%D9%88%D8%A5%D9%86%D9%85%D8%A7-%D9%85%D9%86-%D9%83%D8%B4%D9%85%D9%8A%D8%B1\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">ليست صورة طفل يبكي بعد حريق مخيّم المنية، وإنما من كشمير</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "أطفال الشوارع",
+        "مدينة طنجة المغربية",
+        "أطفال تونس"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات وحسابات على مواقع التواصل الاجتماعي، حديثاً، صورة لطفل يفترش الأرض أمام أحد المحلات، وادعت أنها التقطت في العاصمة التونسية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_88945z2fp.jpg\" style=\"height:406px; width:592px\" /></span><br />\r\n<span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_nx9yq060m.jpg\" style=\"height:294px; width:586px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_3rujvr3qo.jpg\" style=\"height:377px; width:605px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 232,
+        "left": 5.3487548828125,
+        "path": "articles/160935699855.jpg",
+        "top": 37.0712890625,
+        "totalHeight": 423,
+        "totalWidth": 424,
+        "watermark_path": "articles/watermark-160935699855.jpg",
+        "width": 412
+    },
+    "post_date": "2020-12-30T20:29:00.000+03:00",
+    "published": [
+        {
+            "id": "5fecd6c53b367e0c1e13f9ee",
+            "link": "https://twitter.com/amara_ileff/status/1340252742959439872",
+            "name": "Ilef Ben Amara",
+            "origin": "twitter",
+            "path": "sources/b3743660766ecc82cbf6bde5efbc61150e1c0fe9.jpg"
+        },
+        {
+            "id": "5fecd6c55c65da533a191f52",
+            "link": "https://www.facebook.com/sfaxnewx24/photos/a.322740891714944/730363230952706/",
+            "name": "Sfax 24",
+            "origin": "facebook",
+            "path": "sources/0d9b8a812f2470375d8982bed35e4d775e7fae30.jpg"
+        },
+        {
+            "id": "5fecd6c6df704140754ef0c3",
+            "link": "https://www.facebook.com/sfax.Lovers.tn/photos/439663937444049",
+            "name": "Sfax Today",
+            "origin": "facebook",
+            "path": "sources/0a4194f824f55a880c0eed24c10545a807a855aa.jpg"
+        },
+        {
+            "id": "5fecd8cb8ddc092273048760",
+            "link": "https://www.facebook.com/jeunnes.moulares/photos/805693146943240",
+            "name": "شباب أم العرائس",
+            "origin": "facebook",
+            "path": "sources/3444e8df362614aaff6a9095067630990201b6ef.jpg"
+        },
+        {
+            "id": "5fecd8cb770eed70713abb6b",
+            "link": "https://www.facebook.com/nwabliyaa/photos/3514315291950346",
+            "name": "Nwabliyaa",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        },
+        {
+            "id": "5fecd8cb4e69b50046236cf9",
+            "link": "https://www.facebook.com/La-Belle-Tunisie-345973825442875/photos/5011464415560436",
+            "name": "La-Belle-Tunisie-345973825442875",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        },
+        {
+            "id": "5fecd8ccee963d610837fc20",
+            "link": "https://www.facebook.com/chalbou9/photos/a.1010146645675494/3429090473781087/",
+            "name": "Chalbou9",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        },
+        {
+            "id": "5fecd8cbe1431c6dfe1cbad4",
+            "link": "https://www.facebook.com/Nesrin-ben-Ali-317261702460228/photos/823869108466149",
+            "name": "Nesrin-ben-Ali-317261702460228",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fbc3d5e36b808315a126239",
+            "link": "https://rue20.com/411341.html",
+            "name": "زنقة 20",
+            "origin": "",
+            "path": "sources/d094b57e0b103441e9858a57ec15770e3ec8a947.jpg"
+        },
+        {
+            "id": "5f91ba20b18338501b645532",
+            "link": "https://www.hespress.com/%D8%A3%D8%B7%D9%81%D8%A7%D9%84-%D9%85%D8%BA%D8%A7%D8%B1%D8%A8%D8%A9-%D8%A8%D8%A7%D9%84%D8%B4%D9%88%D8%A7%D8%B1%D8%B9-%D9%81%D8%A6%D8%A9-%D9%87%D8%B4%D9%91%D8%A9-%D8%AA%D8%B5%D8%A7%D8%B1%D8%B9-756342.html",
+            "name": "هسبريس",
+            "origin": "",
+            "path": "published/1_1594721218_هسبريس.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الصورة قديمة وليست لطفل تونسي يفترش الأرض",
+    "updated_at": "2020-12-30 22:51:45",
+    "url_path": "/factcheck/2020/12/30/الصورة-قديمة-وليست-لطفل-تونسي-يفترش-الأرض",
+    "was_notification_pushed": "true"
+}

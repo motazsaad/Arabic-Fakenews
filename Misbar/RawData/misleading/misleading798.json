@@ -1,0 +1,144 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 604,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "تعود الصورة لعام 2012 (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">الرئيس بشار الأسد يزور المصابين اللبنانيين في المستشفيات السورية.</span></p>\r\n",
+    "country": "SY",
+    "created_at": "2020-08-07 16:06:52",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f2d51ec60211807416beb35",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من الصورة وتبين أن الادعاء مضلل، وليست لزيارة الأسد لمصابين لبنانيين. إذ تعود الصورة لعام 2012 أثناء زيارة الأسد لعدد من جرحى القوات المسلحة وقوى الأمن في دمشق.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_e1pc7cudx.jpg\" style=\"height:451px; width:624px\" /></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"868\" src=\"https://www.youtube.com/embed/DMj2DzQAwCo\" width=\"1157\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات على مواقع التواصل الاجتماعي، منذ أمس 6 أغسطس/آب، صورة لبشار الأسد وهو في أحد المستشفيات، وادّعت الحسابات أن الصورة أثناء زيارة الأسد لمصابين لبنانيين في المستشفيات السورية.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_71s22boi0.jpg\" style=\"height:442px; width:410px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_p3xlpaxxv.jpg\" style=\"height:442px; width:407px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1596805611200.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1596805611200.jpg",
+        "width": 752
+    },
+    "post_date": "2020-08-07T16:03:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/1932426383542745/photos/a.1932432713542112/3110199605765411/?type=3&theater",
+            "name": "طرطوس اليوم",
+            "path": "published/0_1596805611_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=630663070894173&id=114777162482769",
+            "name": " طرطوسيات Tartouaiat",
+            "path": "published/1_1596805611_facebook.jpg"
+        },
+        {
+            "link": "https://twitter.com/farah_ezzedine/status/1291413390229942273",
+            "name": " Ezzedine Farah",
+            "path": "published/2_1596805979_twitter.jpg"
+        },
+        {
+            "link": "https://twitter.com/khodor_anbar/status/1291346658903678977",
+            "name": " خضر عنبر",
+            "path": "published/3_1596805979_twitter.jpg"
+        },
+        {
+            "link": "https://twitter.com/O8GvCcGlSUTIZAr/status/1291388343314415616",
+            "name": "  حسين ابراهيم",
+            "path": "published/4_1596805979_twitter.jpg"
+        },
+        {
+            "link": "https://twitter.com/Mahdi84831331/status/1291402395751198728",
+            "name": " Mahdi",
+            "path": "published/5_1596805979_twitter.jpg"
+        },
+        {
+            "link": "https://twitter.com/29i3jqR3j0pJ3QN/status/1291392357829574658",
+            "name": "ام حسن ",
+            "path": "published/6_1596805979_twitter.jpg"
+        },
+        {
+            "link": "https://twitter.com/aTTtosr0pnLb1Np/status/1291370668131590144",
+            "name": "رضا علي ",
+            "path": "published/7_1596805979_twitter.jpg"
+        },
+        {
+            "link": "https://twitter.com/_fatimanasser_/status/1291342419255013377",
+            "name": "فاتن",
+            "path": "published/8_1596805979_twitter.jpg"
+        },
+        {
+            "link": "https://twitter.com/HBaraktt/status/1291353109436997638",
+            "name": "hasan baraktt ",
+            "path": "published/9_1596805979_twitter.jpg"
+        },
+        {
+            "link": "https://twitter.com/Natalie39199864/status/1291344869416460289",
+            "name": "Natalie",
+            "path": "published/10_1596805979_twitter.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=171216607840225&id=102709451357608",
+            "name": "شبكة مان نيوز عربية",
+            "path": "published/11_1596805979_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=645494296096123&id=100019066752974",
+            "name": "Zeyad Daeem",
+            "path": "published/12_1596806056_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/112058220413985/photos/a.113654380254369/162722182014255/?type=3&theater",
+            "name": "فدائيون",
+            "path": "published/13_1596805980_facebook.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "http://sham.fm/ar/article/30381/%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D9%8A%D8%B2%D9%88%D8%B1-%D8%B9%D8%AF%D8%AF%D8%A7%D9%8B-%D9%85%D9%86-%D8%AC%D8%B1%D8%AD%D9%89-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D9%88%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B3%D9%84%D8%AD%D8%A9-%D9%88%D9%82%D9%88%D9%89-%D8%A7%D9%84%D8%A3%D9%85%D9%86.html",
+            "name": "الشام اف ام",
+            "path": "sources/0_1596805611_الشام.jpg"
+        },
+        {
+            "link": "https://archive.alahednews.com.lb/details.php?id=51506",
+            "name": "العهد",
+            "path": "sources/1_1596805611_العهد.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الصورة قديمة وليست لزيارة بشار الأسد لمصابي مرفأ بيروت",
+    "updated_at": "2020-09-25 11:44:00",
+    "url_path": "/factcheck/2020/08/07/الصورة-قديمة-وليست-لزيارة-بشار-الأسد-لمصابي-مرفأ-بيروت"
+}

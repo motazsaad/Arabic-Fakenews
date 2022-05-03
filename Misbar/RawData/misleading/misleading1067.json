@@ -1,0 +1,102 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 21865,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "الصورة الأصلية تعود لعام 2015 (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">باراك أوباما يشارك في الاحتجاجات الأميركية الحالية.</span></p>\r\n",
+    "country": "US",
+    "created_at": "2020-06-03 12:57:43",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ed77417db2916742367ec45",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من الصورة المتداولة ووجد أنها مضللة، لأنّ </span><a href=\"http://www.apimages.com/metadata/Index/Alabama-Top-10-News/23ad13155c324416aaab17abf84932d0/16/0\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>الصورة الأصلية</u></span></a><span style=\"color:#000000\"> تعود لمشاركة أوباما في مسيرة إحياء الذكرى الخمسين لحادثة الأحد الدموي عام 2015.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">يُذكر أنّ </span><a href=\"https://www.bbc.com/news/world-us-canada-31780923\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>الأحد الدموي</u></span></a><span style=\"color:#000000\"> حادثة كبيرة في تاريخ حركة الحقوق المدنية للأميركيين السود، إذ خرجت عدّة مسيرات يوم الأحد، 7 مارس/آذار 1965، للمطالبة بالحقوق المدنية للأميركيين السود، لكنها قوبلت بالعنف والقمع.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_czd4xyf0x.jpg\" style=\"height:259px; width:624px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "أوباما",
+        "أمريكا",
+        "الاحتجاجات الأميركية",
+        "جورج فلويد",
+        "الأحد الدموي"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل صفحات على مواقع التواصل الاجتماعي صورة ادّعت أنها للرئيس الأميركي السابق، باراك أوباما، أثناء قيادته لإحدى المظاهرات الواقعة حاليًّا في الولايات المتحدة الأميركية، احتجاجاً على مقتل جورج فلويد.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"733\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fcosyfop1%2Fposts%2F296581931738666&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_nyg029ggz.jpg\" style=\"height:665px; width:528px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 339,
+        "left": 4.04998779296875,
+        "path": "articles/1591178261GettyImages-465533720.jpg",
+        "top": 38.933349609375,
+        "totalHeight": 423,
+        "totalWidth": 611,
+        "watermark_path": "articles/watermark-1591178261GettyImages-465533720.jpg",
+        "width": 603
+    },
+    "post_date": "2020-06-03T12:48:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/story.php?story_fbid=296581931738666&id=106968230700038",
+            "name": "الكنفدرالية النقابية للقوى المنتجة",
+            "path": "published/0_1591178260_الكونفدرالية.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=3036922483087403&set=pcb.3036922693087382&type=3&theater",
+            "name": "محمد الشريف",
+            "path": "published/1_1591178260_محمد.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/176839793500870/permalink/194522411732608/",
+            "name": "إيناس حلمي",
+            "path": "published/2_1591178261_إيناس.jpg"
+        },
+        {
+            "link": "https://twitter.com/NaderNashaat0/status/1267858915120865281",
+            "name": "نادر نشأت",
+            "path": "published/3_1591178261_نادر.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1312317255634247&id=100005679557514",
+            "name": "سالي سراج الدين",
+            "path": "published/4_1591178261_سالي.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "http://www.apimages.com/metadata/Index/Alabama-Top-10-News/23ad13155c324416aaab17abf84932d0/16/0",
+            "name": "AP",
+            "path": "sources/0_1591178261_AP.jpg"
+        },
+        {
+            "link": "https://www.bbc.com/news/world-us-canada-31780923",
+            "name": "BBC",
+            "path": "sources/1_1591178261_bbc.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "أوباما يشارك في الاحتجاجات الأميركية.. صورة مضلّلة",
+    "updated_at": "2020-09-25 21:01:18",
+    "url_path": "/factcheck/2020/06/03/أوباما-يشارك-في-الاحتجاجات-الأميركية-صورة-مضللة"
+}

@@ -1,0 +1,100 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1691,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "يظهر في المقطع الأصلي داعية إسلامي (يوتيوب)",
+    "category": "Spirituality & Religion",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">الأميركي جون فورد، أحد أثرياء العالم، ويملك 19 قناة تلفزيونية أميركية، قد انضمّ لأتباع الحبيب صلى الله عليه وسلم، ولاحظوا كيف هو الإيمان في قلبه ودموع الفرح والسرور على وجهه.</span></p>\r\n",
+    "country": "US",
+    "created_at": "2020-06-19 22:11:12",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eed0dd0d6e4a95a0f01f094",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من المقطع التداول وتبيّن أنه مضلل، لأن من يظهر في </span><a href=\"https://youtu.be/_RetC4KJk_M?t=2711\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>المقطع الأصلي</u></span></a><span style=\"color:#000000\"> هو الداعية الإسلامي Yusha Evans وليس شخصاً يحمل اسم جون فورد. ومن أشهر حملة الاسم جون فورد، </span><a href=\"https://www.britannica.com/biography/John-Ford-American-director\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>مخرج أميركي</u></span></a><span style=\"color:#000000\"> توفي عام 1973 دون أن يعتنق الإسلام.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/_RetC4KJk_M?start=2711\" width=\"560\"></iframe></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "جون فورد",
+        "أثرياء العالم",
+        "الإسلام"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل صفحات على مواقع التواصل الاجتماعي، منذ سنوات، مقطع فيديو تدّعي أنه لحديثٍ للأميركي جون فورد، أحد أثرياء العالم، بعد أن أشهر إسلامه، يُخبر مجموعة من المستمعين عن التغطية الإعلامية حول المسلمين.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"424\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FJaras24%2Fvideos%2F2544527402296869%2F&amp;show_text=1&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"443\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fkathy9787%2Fvideos%2F2255908321102458%2F&amp;show_text=1&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 405,
+        "left": 16.26666259765625,
+        "path": "articles/1592593871غلاف.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1592593871غلاف.jpg",
+        "width": 719
+    },
+    "post_date": "2020-06-19T22:04:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/4_aljshj/status/1106557357037887490",
+            "name": "Dr.AljawharaAljameel",
+            "path": "published/0_1592593870_دكتور.jpg"
+        },
+        {
+            "link": "https://twitter.com/TurkiShalhoub/status/1020309855310098432",
+            "name": "تركي الشلهوب",
+            "path": "published/1_1592593870_تركي.jpg"
+        },
+        {
+            "link": "https://twitter.com/SalemAlSehman/status/1223626360964419589",
+            "name": "سالم آل سحمان",
+            "path": "published/2_1592593870_سالم.jpg"
+        },
+        {
+            "link": "https://twitter.com/qussady/status/1019179405292302336",
+            "name": "عبدالله",
+            "path": "published/3_1592593870_عبدالله.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Jaras24/videos/2544527402296869/",
+            "name": "24 جرس",
+            "path": "published/4_1592593870_جرس.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://youtu.be/_RetC4KJk_M?t=2711",
+            "name": "Islam Net",
+            "path": "sources/0_1592593870_islam net.jpg"
+        },
+        {
+            "link": "https://www.britannica.com/biography/John-Ford-American-director",
+            "name": "Encyclopaedia Britannica",
+            "path": "sources/1_1592593871_موسوعة.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "إسلام جون فورد، أحد أثرياء العالم.. فيديو مضلل",
+    "updated_at": "2020-09-25 03:44:40",
+    "url_path": "/factcheck/2020/06/19/إسلام-جون-فورد-أحد-أثرياء-العالم-فيديو-مضلل"
+}

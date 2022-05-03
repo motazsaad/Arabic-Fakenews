@@ -1,0 +1,102 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1735,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "المقطع الأصلي صُوّر في نيجيريا (Getty)",
+    "category": "Politics",
+    "claim": "<div class=\"article-card-body\">\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">جماعات إرهابية مسلّحة تابعة للإمارات تهاجم شخصاً أعزل.</span></p>\r\n</div>\r\n",
+    "country": "YE",
+    "created_at": "2020-05-29 16:20:29",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ed10c1ddb291623f30ab464",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من المقطع المتداول ووجد أنه مضلل، لأنّ </span><a href=\"https://twitter.com/SaharaReporters/status/1263187573767311361\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>المقطع الأصلي</u></span></a><span style=\"color:#000000\"> نُشر بتاريخ 20 مايو/أيار الجاري، وصُوّر في نيجيريا وفقاً لمؤسسة Sahara Reporters القائمة على صحافة المواطن.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">يُظهر المقطع الأصلي الجيش النيجيري أثناء نصبه كميناً لأحد أعضاء جماعة بوكو حرام المسلّحة.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/7o95spH3fLA\" width=\"560\"></iframe></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "نيجيريا",
+        "الإمارات",
+        "اليمن",
+        "الحوثي",
+        "بوكو حرام"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل صفحات على مواقع التواصل الاجتماعي، منذ 26 مايو/أيار الجاري، مقطع فيديو ادّعت أنه لمجموعة مسلّحة مدعومة من الإمارات العربية المتّحدة تهاجم شخصاً أعزل، مع إشارة بعض ناشري الخبر إلى أنّ المقطع قد صُوّر في اليمن.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"539\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F100045396763145%2Fvideos%2F161913851998506%2F&amp;show_text=1&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"520\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F100041984568420%2Fvideos%2F273862640689886%2F&amp;show_text=1&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 353,
+        "left": 3.4666748046875,
+        "path": "articles/1590758428GettyImages-1191684449.jpg",
+        "top": 1,
+        "totalHeight": 423,
+        "totalWidth": 635,
+        "watermark_path": "articles/watermark-1590758428GettyImages-1191684449.jpg",
+        "width": 628
+    },
+    "post_date": "2020-05-29T16:15:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/Ya_ss_irMansour/status/1265112047399964672",
+            "name": "ياسر منصور البتينه",
+            "path": "published/0_1590758428_ياسر.jpg"
+        },
+        {
+            "link": "https://twitter.com/AShaima417/status/1265340029485944833",
+            "name": "الشيماء الصنوي",
+            "path": "published/1_1590758428_الشيماء.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100041984568420/videos/273862640689886/",
+            "name": "اليماني اليماني",
+            "path": "published/2_1590758428_اليماني.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100045396763145/videos/161913851998506/",
+            "name": "تعز روحي",
+            "path": "published/3_1590758428_تعز.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100034423067231/videos/280178286472938/",
+            "name": "أبو كهلان جرهوم",
+            "path": "published/4_1590758428_أبو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100038258950799/videos/241676567117640/",
+            "name": "نمران المرادي",
+            "path": "published/5_1590758428_نمران.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://youtu.be/7o95spH3fLA",
+            "name": "SaharaTV",
+            "path": "sources/0_1590758428_saharatv.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "مجموعات مسلّحة مدعومة من الإمارات تهاجم رجلاً أعزل.. فيديو مضلل",
+    "updated_at": "2020-09-25 10:02:04",
+    "url_path": "/factcheck/2020/05/29/مجموعات-مسلحة-مدعومة-من-الإمارات-تهاجم-رجلا-أعزل-فيديو-مضلل"
+}

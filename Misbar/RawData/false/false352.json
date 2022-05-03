@@ -1,0 +1,114 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 989,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "عثر مسبار على تغريدة متداولة منذ عام 2014 لنفس التصريح (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">أفيخاي أدرعي يقول &quot;لا يقاتلنا اليوم إلا الإخوان المسلمين، سنسحقهم ونرتاح، فساعدونا يا إخواننا العرب في هذه المعركة الأخيرة&quot;.</span></p>\r\n",
+    "country": "PS",
+    "created_at": "2020-08-22 11:07:28",
+    "created_by": "5f39b5a51dd585076701cb94",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 2,
+    "feedback_pos": 2,
+    "id": "5f40d240602118064c4bbffd",
+    "investigation": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من التصريح المتداول وتبين أنه زائف، ولا أساس له من الصحة. إذ تم البحث عنه باللغتين العربية والعبرية وتبين أن أدرعي لم يدل بأي تصريحات بهذا الشكل على الإطلاق، كما لم ينشره عبر صحفته الرسمية على &quot;<a href=\"https://www.facebook.com/IDFarabicAvichayAdraee/\" style=\"color:#0563c1; text-decoration:underline\">فيسبوك</a>&quot; أو على &quot;<a href=\"https://twitter.com/AvichayAdraee\" style=\"color:#0563c1; text-decoration:underline\">تويتر</a>&quot;.<br />\r\nوأثناء عملية البحث عن أصل التصريح المتداول، عثر &quot;مسبار&quot; على تغريدة متداولة منذ عام 2014 لنفس التصريح، على أنها من حساب أدرعي على موقع تويتر، وتبين أنها مفبركة وليست من حسابه الرسمي الموثق. وهذه التغريدة هي السبب الرئيسي في انتشار الشائعة إلى اليوم، إذ نشرها العديد من الحسابات على أنها حقيقية.</span><br />\r\n<img alt=\"الصورة\" src=\"https://images-prod.misbar.com/articlebody/investigation_byh9nvv3m.jpg\" style=\"height:290px; width:542px\" /><br />\r\n<span dir=\"RTL\" lang=\"AR-SA\">على الرغم أن أدرعي بالفعل غرد عبر حسابه الرسمي عام 2014، عن جماعة الإخوان المسلمين، لكن بتغريدة مختلفة تماماً عن المتداولة، إذ قال &quot;الانسحاب في قوة الإخوان المسلمين في المنطقة تعتبر فرصةً أمام إسرائيل - رئيس هيئة الاستخبارات العسكرية&quot;.</span></p>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"rtl\">الانسحاب في قوة الإخوان المسلمين في المنطقة تعتبر فرصةً أمام اسرائيل - رئيس هيئة الاستخبارات العسكرية</p>\r\n&mdash; افيخاي ادرعي (@AvichayAdraee) <a href=\"https://twitter.com/AvichayAdraee/status/428498542714687488?ref_src=twsrc%5Etfw\">January 29, 2014</a></blockquote>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات وصفحات على مواقع التواصل الاجتماعي، حديثاً ومنذ عام 2014، تصريحاً منسوباً للمتحدث باسم جيش الاحتلال الإسرائيلي أفيخاي أدرعي، قال فيه &quot;لا يقاتلنا اليوم إلا الإخوان المسلمين، سنسحقهم ونرتاح، فساعدونا يا إخواننا العرب في هذه المعركة الأخيرة&quot;.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_a9dwzatj7.jpg\" style=\"height:579px; width:462px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_hv6salbaf.jpg\" style=\"height:588px; width:459px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_gndw6v6hs.jpg\" style=\"height:616px; width:449px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 422,
+        "left": 0.888916015625,
+        "path": "articles/1598083647100.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1598083647100.jpg",
+        "width": 750
+    },
+    "post_date": "2020-08-22T11:03:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=179061473734209&id=100048910714142",
+            "name": "المهيب الركن",
+            "path": "published/0_1598083647_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/noureddine.tarjisti/posts/172837540968141",
+            "name": "Nour Eddine Tarjisti",
+            "path": "published/1_1598083647_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/oabusnaneh/posts/10223932937532063",
+            "name": "المهندس عثمان ابو سنينة",
+            "path": "published/2_1598083927_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1478851298981322&id=100005693973085",
+            "name": "Yonus AL Nayla Alhasani",
+            "path": "published/3_1598083927_facebook.jpg"
+        },
+        {
+            "link": "https://twitter.com/mmheldefrawy/status/1296436152094924800",
+            "name": "Mohamed  El-Defrawy",
+            "path": "published/4_1598083927_twitter.jpg"
+        },
+        {
+            "link": "https://twitter.com/AissaAbou/status/1296220687028432899",
+            "name": "ahmad aolad aissa",
+            "path": "published/5_1598083927_twitter.jpg"
+        },
+        {
+            "link": "https://twitter.com/AboAlmashagbh/status/1296774603092656129",
+            "name": "AboAlmashagbh",
+            "path": "published/6_1598083927_twitter.jpg"
+        },
+        {
+            "link": "https://twitter.com/Ahli7y/status/1296532718814191616",
+            "name": "رحاله في عالم البطيخ",
+            "path": "published/7_1598083927_twitter.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/IDFarabicAvichayAdraee/",
+            "name": "افيخاي أدرعي",
+            "path": "sources/0_1598083927_20.jpg"
+        },
+        {
+            "link": "https://twitter.com/AvichayAdraee",
+            "name": "افيخاي ادرعي",
+            "path": "sources/1_1598083927_20.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "أفيخاي أدرعي لم يقل \"لا يقاتلنا اليوم إلا الإخوان المسلمين\"",
+    "updated_at": "2020-09-25 21:58:55",
+    "url_path": "/factcheck/2020/08/22/أفيخاي-أدرعي-لم-يقل-لا-يقاتلنا-اليوم-إلا-الإخوان-المسلمين"
+}

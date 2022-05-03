@@ -1,0 +1,117 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 138,
+    "author": {
+        "fullname": "محمد الخالدي",
+        "id": "5ef9dcff163be306aa5d2826",
+        "photo": {
+            "name": "1593433343_48252779_2179011148784786_3755534693705973760_o.jpg",
+            "path": "authors/1593433343_48252779_2179011148784786_3755534693705973760_o.jpg"
+        }
+    },
+    "caption": "الطفل وُلد بتشوهات في أطرافه (الأناضول)",
+    "category": "Health",
+    "claim": "<p>تركيب أطراف صناعية لطفل سوري في تركيا بعد أنّ فقد أطرافه نتيجة الحرب.</p>\r\n",
+    "country": "SY",
+    "created_at": "2020-10-27 10:16:17",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 6,
+    "id": "5f97c9417f42d009001c5669",
+    "investigation": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقّق &quot;مسبار&quot; من الادعاء ووجد أنّه مُضلل، إذ تبين أنّ الطفل مصطيف بدون أطراف نتيجة تشوهات في أطرافه منذ الولادة، وقد وصل إلى مدينة هاتاي بتعليمات من وزير الداخلية التركي قبل حوالي الشهرين، بعد مناشدة عاجلة من والده لمساعدة ابنه وتركيب أطراف&nbsp;صناعية له، حيث كانت العائلة تعيش&nbsp;ظروفاً قاهرة في مخيم بإدلب شمال سورية.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_o68rlmw1z.jpg\" style=\"height:387px; width:624px\" /></p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_ueuhjr8fr.jpg\" style=\"height:627px; width:605px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت حسابات على مواقع التواصل الاجتماعي، أحدها حساب الإعلامية خديجة بن قنة الذي يتابعه ما يزيد عن النصف مليون، بتاريخ 22 أكتوبر/ تشرين الأول الجاري، قصة طفل سوري يُدعى محمد مصطيف، وقالت هذه الحسابات إن أطرافًا صناعية رُكبت له في تركيا، بعد أنّ فقد أطرافه نتيجة الحرب في بلاده.</span><br />\r\n<img src=\"https://images-prod.misbar.com/articlebody/origin_kpkkv78zg.jpg\" style=\"height:300px; width:624px\" /></p>\r\n\r\n<p style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_iz86qng1d.jpg\" style=\"height:301px; width:625px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_eehayv43t.jpg\" style=\"height:298px; width:624px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_6t411t71j.jpg\" style=\"height:291px; width:625px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_7z6592ptj.jpg\" style=\"height:302px; width:624px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_ycvqkylwf.jpg\" style=\"height:300px; width:624px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/160378600543534.JPG",
+        "watermark_path": "articles/watermark-160378600543534.JPG"
+    },
+    "post_date": "2020-10-27T07:55:00.000+03:00",
+    "published": [
+        {
+            "id": "5f97c941137d5f08f60a19c3",
+            "link": "https://www.facebook.com/Benguennak/posts/5000499893301206",
+            "name": "خديجة بن قنة",
+            "origin": "facebook",
+            "path": "sources/73ffbb31c72a333e7d6a5693c7b2a573428c1511.jpg"
+        },
+        {
+            "id": "5f97c9417082576c695b756e",
+            "link": "https://www.facebook.com/Morocco.ii5/posts/2781823968773986",
+            "name": "Mirrors Morocco II",
+            "origin": "facebook",
+            "path": "sources/b3b6484be793763e7fbe31a06972306b46ec981c.jpg"
+        },
+        {
+            "id": "5f97c9417b7a3f52c5771674",
+            "link": "https://www.facebook.com/Anwar.Thaqafa/posts/3524804520951370",
+            "name": "أنوار الثقافة",
+            "origin": "facebook",
+            "path": "sources/c16019177151fbaa32d9f07f930a5f323f54bbb2.jpg"
+        },
+        {
+            "id": "5f97c941adf9fc7b3d4f2ba4",
+            "link": "https://www.facebook.com/AlmoharirTV/posts/3312392862206329",
+            "name": "Almoharir",
+            "origin": "facebook",
+            "path": "sources/45743373717ff9bef01d19ba7d07ae9e4219adfc.jpg"
+        },
+        {
+            "id": "5f97c941dbf7c1560860ccf0",
+            "link": "https://www.facebook.com/sawtelghad/posts/3786181931439603",
+            "name": "إذاعة صوت الغد",
+            "origin": "facebook",
+            "path": "sources/96f546267d3db1681488305914f5b1a25b1e0872.jpg"
+        },
+        {
+            "id": "5f97c9418e7f1122717a4b54",
+            "link": "https://www.facebook.com/libya.ciity/posts/213626090166303",
+            "name": "مدن ليبيا",
+            "origin": "facebook",
+            "path": "sources/a96b4849b4eb92a56e1f00e7eafd34e7861ecb35.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f91ba496091bd68346f4227",
+            "link": "https://www.aa.com.tr/ar/%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/%D9%81%D8%A7%D9%82%D8%AF-%D8%A7%D9%84%D9%8A%D8%AF%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D9%82%D8%AF%D9%85%D9%8A%D9%86-%D9%85%D8%AD%D9%85%D8%AF-%D8%B7%D9%81%D9%84-%D8%B3%D9%88%D8%B1%D9%8A-%D9%8A%D8%AD%D9%84%D9%85-%D9%88%D8%A7%D9%84%D8%AF%D9%87-%D8%A8%D8%A3%D8%B7%D8%B1%D8%A7%D9%81-%D8%B5%D9%86%D8%A7%D8%B9%D9%8A%D8%A9/1957024",
+            "name": "وكالة الأناضول",
+            "origin": "",
+            "path": "sources/1_1590257645_2.jpg"
+        },
+        {
+            "id": "5f97c941a38eab2eb73d6d21",
+            "link": "https://arabicpost.net/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/2020/09/03/%D8%A3%D9%86%D9%82%D8%B1%D8%A9-%D8%AA%D8%B3%D8%AA%D8%AC%D9%8A%D8%A8-%D9%84%D8%A7%D8%B3%D8%AA%D8%BA%D8%A7%D8%AB%D8%A9-%D8%A7%D9%84%D8%B7%D9%81%D9%84-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D9%85%D8%A8/",
+            "name": "عربي بوست &mdash; ArabicPost.net",
+            "origin": "",
+            "path": "sources/24958a967ac2026ca6a77bfdfd754ca305018492.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذا الطفل السوري لم يفقد أطرافه بسبب الحرب",
+    "updated_at": "2020-10-27 11:56:25",
+    "url_path": "/factcheck/2020/10/27/هذا-الطفل-السوري-لم-يفقد-أطرافه-بسبب-الحرب",
+    "was_notification_pushed": true
+}

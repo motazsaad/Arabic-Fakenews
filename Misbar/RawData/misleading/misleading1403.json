@@ -1,0 +1,71 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 849,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">المرصد السوري لحقوق الإنسان لم ينسب قصف مطار <span dir=\"LTR\">T-4</span> في سورية&nbsp;&quot;لإسرائيل&quot; بل إلى &quot;طائرة أجنبية&quot;.</p>\r\n",
+    "country": "SY",
+    "created_at": "2020-01-20 16:52:34",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e25b0a2d4a229382f5d2d7a",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">الادعاء غير صحيح، إذ وجد &quot;مسبار&quot; الخبر الأصلي للمرصد السوري لحقوق الإنسان في <span dir=\"LTR\">15</span> يناير/ كانون الثاني من العام الجاري، والذّي اعتمده موقع &quot;يسرائيل هايوم&quot; في نشر ادعائه السابق، حيث أوضح الخبر أنَّ المرصد السوري ينسب القصف إلى &quot;إسرائيل&quot; في بيانٍ نشره، وأشار إلى أنَّ: &quot;القصف، الذي يُرجَّح أنه &quot;إسرائيلي&quot;، تسبب في تدمير مستودع ذخيرة للمليشيات الإيرانية ومبنى قيد الإنشاء، إضافة لتدمير عربتين عسكريتين&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_59bb74d48b665b7b19eb5f1f2046c79a.jpg\" style=\"height:758px; width:626px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">نشر موقع صحيفة يسرائيل هايوم <span dir=\"LTR\">(Israel Hayom)</span> &nbsp;الإسرائيلي في تاريخ 15 يناير/كانون الثاني من العام الجاري، خبراً حول مقتل ثلاثة مقاتلين من القوات المسلّحة الداعمة لإيران في قصفٍ لمطار <span dir=\"LTR\">T-4 </span>&nbsp;في سوريا. وصرّح موقع يسرائيل هايوم في الخبر أنَّ: &quot;المرصد السوري، والذي يعمل من لندن، أعلن عن مقتل ثلاثة مقاتلين تابعين لمليشيات إيرانية، لكّنه لم ينسب القصف &quot;لإسرائيل&quot; إنما لطائرات أجنبية&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_c842aeddb7d07bf89eb7824445eaf782.jpg\" style=\"height:756px; width:480px\" /></span></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 372,
+        "left": 0.58001708984375,
+        "path": "articles/1579528354cover-photo.jpg",
+        "top": 4.02001953125,
+        "totalHeight": 423,
+        "totalWidth": 677,
+        "width": 662
+    },
+    "post_date": "2020-01-20T16:25:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.israelhayom.co.il/article/724565",
+            "name": "يسرائيل هايوم",
+            "path": "published/0_1579528354_israeltoday.JPG"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "http://www.syriahr.com/?p=355872&__cf_chl_jschl_tk__=c1d8fd1a21ff4b18d014a4cb0a44133bacfa2a3a-1579527655-0-AY67690Tg7thmkbqs-CMqVBb5Ms8KUas-ImToN1qOpz6rsg4BqeXQ5dXWvsB-zuWWQFRdmIzJ5vNJ8dlcWfXlsYIfdupq8ErvDaTDhaDr4e69jy-X8xillPiYwnILZ3GGvz1SKksDzpSPDrTrQxGAp7QrFNV93r318BvcKIIEhnj_3mvakw9wGyKakJapH41Ulp_ZMEfjlIwyVntZeVPF7EH4_Ww7SPKiL2zG_Y0OUmBO9hMGwITcfvGxZxFCepjqEfEoJ9AtePJ9LGLksCFpgM",
+            "name": "المرصد السوري لحقوق الإنسان",
+            "path": "sources/0_1579528354_المرصد السوري لحقوق الإنسان.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل غيرت \"يسرائيل هايوم\" حقيقة ما نشره المرصد السوري حول قصف مطار T- 4  في سوريا؟",
+    "updated_at": "2020-09-23 12:39:43",
+    "url_path": "/factcheck/2020/01/20/هل-غيرت-يسرائيل-هايوم-حقيقة-ما-نشره-المرصد-السوري-حول-قصف-مطار-t-4-في-سوريا"
+}

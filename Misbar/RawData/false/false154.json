@@ -1,0 +1,137 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2310,
+    "author": {
+        "fullname": "حسام الوكيل",
+        "id": "5e7cb2a9d4a2297a3f1db883",
+        "photo": {
+            "name": "1585230505_1hGLjIBq_400x400.jpg",
+            "path": "authors/1585230505_1hGLjIBq_400x400.jpg"
+        }
+    },
+    "caption": "لم تعلن وكالة ناسا عن ذلك على موقعها ومنصاتها الاجتماعية (Getty)",
+    "category": "Science",
+    "claim": "<p>وكالة ناسا تعلن عن ثلاثة أيام من الظلام في ديسمبر القادم.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-11-15 22:46:41",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 31,
+    "feedback_pos": 128,
+    "id": "5fb185a1d2140676ad537002",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تحقّق &quot;مسبار&quot; من الخبر، ووجد أنه زائف، إذ أن المنصات الموثقة على مواقع التواصل الاجتماعي باسم وكالة ناسا لم تعلن أي&nbsp;معلومات بخصوص&nbsp;هذا الحدث، كما أن تشارلز بولدن الذي نُسب&nbsp;إليه التصريح&nbsp;ترك منصبه كمدير لوكالة ناسا منذ عام 2017، بينما يتقلد منصب مدير وكالة ناسا الآن الجمهوري جيم بريدينستاين، عضو مجلس الشيوخ الأميركي عن ولاية أوكلاهوما.&nbsp;</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">&nbsp;وأصدر مركز الفلك الدولي مطلع شهر نوفمبر/تشرين الثاني الجاري تصريحاً ينفي الظاهرة، وأكد المركز أن وكالة ناسا لم تعلن شيئاً بهذا الخصوص، موضحاً إنّه لا يمكن التنبؤ بالعواصف الشمسية، إنما يتم رصدها وقت حدوثها، وتحتاج بعد ذلك من يومين إلى ثلاثة أيام حتى تصل الأرض، كما أن مخاطر العواصف الشمسية لا تسبب كارثة أرضية بهذه الطريقة.</span></p>\r\n\r\n<p dir=\"RTL\"><span style=\"color:black\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_gabmz1i2q.jpg\" style=\"float:left; height:558px; width:624px\" />&nbsp;</span></p>\r\n\r\n<p dir=\"RTL\">&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\"><span style=\"color:black\">تداولت حسابات وصفحات على موقعي التواصل الاجتماعي تويتر وفيسبوك،&nbsp;خبراً منسوباً إلى وكالة ناسا للملاحة الجوية والفضاء، مفاده أن الأرض ستشهد عاصفة شمسية؛ ما سيتسبب في ظلام كامل لمدة ثلاثة أيام، بتاريخ 21 - 22 - 23 ديسمبر/كانون الأول المقبل، ونُسب الخبر إلى رئيس وكالة ناسا تشارلز بولدن.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"color:black\"><img src=\"https://images-prod.misbar.com/articlebody/origin_9vzq525d8.jpg\" style=\"float:left; height:547px; width:624px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><span style=\"color:black\"><img src=\"https://images-prod.misbar.com/articlebody/origin_pbx35qmqa.jpg\" style=\"float:left; height:400px; width:624px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 295,
+        "left": -0.81103515625,
+        "path": "articles/1605469601GettyImages-125187384.jpg",
+        "top": 38.400146484375,
+        "totalHeight": 423,
+        "totalWidth": 529,
+        "watermark_path": "articles/watermark-1605469601GettyImages-125187384.jpg",
+        "width": 526
+    },
+    "post_date": "2020-11-15T20:10:00.000+03:00",
+    "published": [
+        {
+            "id": "5fb185a028118e45a7677c5a",
+            "link": "https://twitter.com/LGGEM9VFuFUtRKx/status/1327650599186427905?s=20",
+            "name": "معاذ عصفور",
+            "origin": "twitter",
+            "path": "sources/ba53607deb059a9cf255bafeafaff353af329731.jpg"
+        },
+        {
+            "id": "5fb185a04168a94c2a5465c0",
+            "link": "https://twitter.com/mmmojil/status/1327737442724700166?s=20",
+            "name": "Maha Al Mojil",
+            "origin": "twitter",
+            "path": "sources/b7ed6b66c04d624324e1c6b7a8b7a7fbd422f500.jpg"
+        },
+        {
+            "id": "5fb185a082e0281a9b059c2d",
+            "link": "https://twitter.com/OmEesa7/status/1327855948728250368?s=20",
+            "name": "Om Eesa",
+            "origin": "twitter",
+            "path": "sources/53f7ca9f094d8288c306d523dce3ba856c2112a2.jpg"
+        },
+        {
+            "id": "5fb185a028947070577820bd",
+            "link": "https://twitter.com/AljaziJordan/status/1327737350097604608?s=20",
+            "name": "Aljazi Jordan",
+            "origin": "twitter",
+            "path": "sources/51f0144116c5ba2bceec1e3700d7b1d6a466d46c.jpg"
+        },
+        {
+            "id": "5fb185a19f1797615c26dbbc",
+            "link": "https://www.facebook.com/homsi.mahassen/posts/373921904033554",
+            "name": "Homsi Mahassen",
+            "origin": "facebook",
+            "path": "sources/5091aba9724b3cdffefc4de2ea4112048edd2565.jpg"
+        },
+        {
+            "id": "5fb185a1c242ba5cc73bdaa8",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1714628262051524&id=100005130997480",
+            "name": "أبو عبدالله الخشاله",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5fb185a1af9a8e58cd3320be",
+            "link": "https://www.facebook.com/story.php?story_fbid=10218458338226585&id=1138179112",
+            "name": "عاطف أبو معيتق",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5fb185a1c5f19336cb2f7e75",
+            "link": "https://www.facebook.com/story.php?story_fbid=1197032814105188&id=100013954421198",
+            "name": "عبد اللطيف مطوع",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f904844e62195238e717021",
+            "link": "https://arabic.cnn.com/scitech/2014/11/03/international-astronomical-center-earth-darkness",
+            "name": "CNN Arabic",
+            "origin": "",
+            "path": "sources/698e6d163f3b59c89a74c9d76e013e3a68b0de7a.jpg"
+        },
+        {
+            "id": "5fb185a1033d4e754e7434d5",
+            "link": "https://www.nasa.gov/nasa-leadership",
+            "name": "NASA",
+            "origin": "",
+            "path": "sources/b2461a2a96e898e4872e0f46706b8d48e9699d40.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ناسا لم تعلن عن ثلاثة أيام من الظلام في ديسمبر المقبل",
+    "updated_at": "2020-11-15 22:57:07",
+    "url_path": "/factcheck/2020/11/15/ناسا-لم-تعلن-عن-ثلاثة-أيام-من-الظلام-في-ديسمبر-القادم",
+    "was_notification_pushed": true
+}

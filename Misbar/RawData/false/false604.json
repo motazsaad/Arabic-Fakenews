@@ -1,0 +1,104 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1376,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "نفى علاء الشابي لمسبار الخبر (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">الإعلامي التونسي علاء الشابي، في حالة صحية حرجة&nbsp;تطلبت نقله إلى المستشفى العسكري في العاصمة التونسية.</p>\r\n",
+    "country": "TN",
+    "created_at": "2020-06-15 15:19:41",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ee7675dd6e4a941d17aa033",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الادعاء زائف، إذ نفى علاء الشابي لـ&quot;مسبار&quot; نقله إلى المستشفى العسكري&nbsp;وأكد أنّه في صحة جيدة في منزله. وقال إنه يعاني من مرض، لم يكشف عنه، وأنّه بصدد تلقي العلاج اللازم.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">كما تبين أنّ&nbsp;الممثل التونسي جعفر القاسمي، لم يطلق حملة شعبية لمساندته عبر موقع فيسبوك.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">ويأتي الجدل حول صحة علاء الشابي، بعد نشره خبر مرضه عبر حسابه الرسمي على موقع فيسبوك، وسط تضامن شعبي معه.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">ويعدّ الشابي من أبرز مقدمي البرامج الاجتماعية في تونس، أشهرها &quot;عندي مانقلك&quot; الذي تبثه قناة التاسعة التونسية.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"726\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fchebbi.alaa%2Fposts%2F2998204470287480&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات إخبارية وحسابات على مواقع التواصل الاجتماعي، منذ يوم 14 يونيو/حزيران الجاري،&nbsp;خبراً يدّعي أن الإعلامي التونسي علاء الشابي، دخل المستشفى العسكري في العاصمة التونسية بعد تدهور حالته الصحية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وذكرت أن الشابي يعيش لحظاته الأخيرة إلى جانب زوجته التي طلبت من جمهوره الدعاء له بالشفاء بعد إصابته بمرض خبيث.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وقالت الصفحات نفسها إن الممثل التونسي جعفر القاسمي، أطلق حملة شعبية لمساندته عبر صفحته الرسمية على موقع فيسبوك بعنوان &quot;الشعب يريد إنقاذ علاء الشابي&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_fo5t9dz5k.jpg\" style=\"height:487px; width:501px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"Capture2.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_1ev8iul0j.jpg\" style=\"height:523px; width:403px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img alt=\"Capture3.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_dm1i41nof.jpg\" style=\"height:518px; width:402px\" /></span></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 318,
+        "left": 14.10528564453125,
+        "path": "articles/159222358081164966_2629151097192821_2620865666235760640_o.jpg",
+        "top": 13.746826171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-159222358081164966_2629151097192821_2620865666235760640_o.jpg",
+        "width": 566
+    },
+    "post_date": "2020-06-15T12:54:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.ettounsi.net/2020/06/aloulou11.html?fbclid=IwAR3Pp5jY5aWJEYCStkYg-HohHXQfAOHqjZnBtPSop18h6aNDRZwxsUNDWGg",
+            "name": "التونسي.نت",
+            "path": "published/0_1592223579_2.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/108289127372773/photos/a.108819900653029/165139418354410/?type=3&theater",
+            "name": "Cmm news",
+            "path": "published/1_1592223579_96151002_152789626256056_5766299237637685248_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/NOURSADTOURISME/photos/a.230593371663622/300432441346381/?type=3&theater",
+            "name": "نورصاد للسياحة والاسفار",
+            "path": "published/2_1592223579_89744593_230303028359323_1735365365396930560_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/106417640932753/photos/a.107156050858912/160788895495627/?type=3&theater",
+            "name": "هنا قسنطينة",
+            "path": "published/3_1592223579_104032568_159950365579480_249767651773861564_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/malak.dz0/photos/a.601373653388703/1362333550626039/?type=3&theater",
+            "name": "Dz vede",
+            "path": "published/4_1592223580_102378094_1354875354705192_7747252775642950504_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100103895007120/photos/a.100247381659438/144763100541199/?type=3&theater",
+            "name": "كورونا الجزائر لحظة بلحظة",
+            "path": "published/5_1592223580_97121201_129072172110292_160903656890171392_n.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "http://ARDcxhLzwa9e8mNhrW0VjYV3SYIDLhvuxkurKjpDgarkNWdyUBcIIq",
+            "name": "علاء الشابي",
+            "path": "sources/0_1592223580_99426853_2967480526693208_5282657109467463680_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/jaafer.guesmi/",
+            "name": "جعفر القاسمي",
+            "path": "sources/1_1592223580_70943078_2435680963342438_6273197552858824704_o.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الإعلامي التونسي علاء الشابي في حالة صحية حرجة.. خبر زائف",
+    "updated_at": "2020-09-25 18:13:18",
+    "url_path": "/factcheck/2020/06/15/الإعلامي-التونسي-علاء-الشابي-في-حالة-صحية-حرجة-خبر-زائف"
+}

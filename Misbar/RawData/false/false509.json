@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 783,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "التغريدة مفبركة (Getty)",
+    "category": "Politics",
+    "claim": "<p>الرئيس الأميركي يشيد بمواجهة ولاية داكوتا الجنوبية لفايروس كورونا، ويقول لهم في تغريدة على موقع تويتر أنهم ليسوا بحاجة إلى كمامات، بل أن يغلقوا الحدود مع ولاية كاليفورنيا.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-07-10 22:30:54",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f08c1ee163be30879799b57",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من التغريدة ليجد أنها مفبركة؛ فهي عبارة عن صورة منتشرة، تبدو وكأنها تغريدة من حساب الرئيس الأميركي ترامب، إلا أن التغريدة المزعومة&nbsp;لا تظهر خلال التسلسل الزمني في حساب ترامب الموثق على تويتر&nbsp;بتاريخ 4 يوليو/تموز 2020، كما لا تظهر في قاعدة بيانات تجمع تغريدات ترامب أو في موقع أرشيفي يخزّن تغريداته المحذوفة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;<span style=\"background-color:white\"><span style=\"color:black\">ومن المعروف أن موقع تويتر يحتفظ بنسخ عن التغريدات، خاصةً التي لاقت تفاعلاً كبيراً ومن حسابات موثقة، وإذا تم حذفها تظل التغريدة موجودة على شكل رابط في محرك البحث غوغل، إلا أنه لم يتم العثور على تغريدة مماثلة</span></span>.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_q7r29bwvj.jpg\" style=\"height:310px; width:604px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/investigation_cmwowth43.jpg\" style=\"height:464px; width:605px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداول مستخدمون لموقعي فيسبوك وتويتر من الولايات المتحدة الأميركية، منذ الرابع من يوليو/تموز الجاري، تغريدةً نسبوها إلى الرئيس الأميركي دونالد ترامب، يقول فيها &quot;شكراً لشعب داكوتا العظيم، الولاية تقوم بعمل كبير مع فايروس كورونا، قلت للمحافظ الجميع بخير من دون كمامات، هم فقط يحتاجون إلى إغلاق الحدود مع كاليفورنيا، تلك الولاية مليئة بالخاسرين&quot;.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_8ji2ftvrn.jpg\" style=\"height:574px; width:583px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_z7vf5s95z.jpg\" style=\"height:434px; width:605px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_wtnj3dnx4.jpg\" style=\"height:370px; width:605px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_jw91osfp4.jpg\" style=\"height:117px; width:539px\" /><span dir=\"RTL\" lang=\"AR-SA\">م</span><img src=\"https://images-prod.misbar.com/articlebody/origin_wzj2yh875.jpg\" style=\"height:281px; width:578px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 326,
+        "left": -0.52777099609375,
+        "path": "articles/1594409453GettyImages-1218649583.jpg",
+        "top": 9.3359375,
+        "totalHeight": 423,
+        "totalWidth": 581,
+        "watermark_path": "articles/watermark-1594409453GettyImages-1218649583.jpg",
+        "width": 580
+    },
+    "post_date": "2020-07-10T19:39:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/slythgoe36/status/1280284500732362753/photo/1",
+            "name": "SML",
+            "path": "published/0_1594409452_22hlInr0_400x400.jpg"
+        },
+        {
+            "link": "https://twitter.com/samuel_lasky/status/1280286096606273538",
+            "name": "Samuel Lasky",
+            "path": "published/1_1594409452_8Wr4kX2-_400x400.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=10222211560300044&set=a.1080861343849&type=3&theater",
+            "name": "Pete Kimball",
+            "path": "published/2_1594409452_88984097_10220902601496892_2609157916099346432_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=10220894762712588&set=basw.AbrVMIwmy0tJuXrLg2LiFVZpsooncFGYjTUxE7Cc8hVCL8lOxppR_BGfCC0gctf4EeS3jSShIi98YIxATPAJQ6yF8RrQEp74bUa2Wsbu7rqtZ6AHBhq2tpgWff7iKydfTA74KMM8GU9T0oEX9mzLWtbgeRyw0vXkCtiS2kSt4PT4oAyKCjAhrxa-CSKhQGRrVsE.1248166475210785.2627689130783166.10222760500460350.1266281593399273.10220894762712588.1069074749824194&type=1&opaqueCursor=AbqZOnH02srfMLI3a7RAz34RYtXYbeGspqLcjJBMv90G01hJIYCQPBcj_DzRlZbSjTyt1Ty7NlYDTl7zD8Ru_2OC2Y2BR4-fOtDunGQf94t_9_CZT027Dy-Xo8BtwxlqGXwuyshgoCwVctsRfr4hggm6UQOnbal1gCJaB8nT1QY7YH2w4kfvxGFX8nzWXGDQxjNO9b3swnByN9t_xpMq4tcTnh3QLJcFaVjfHPxe_C1N6RyQNmeBGFihbLTrsIdfdfrtnBnJfxASp7Jk78DT2ZuLidi4ljXSulZ-LRdAc2IlKeIfMsPBTyXV8d91zR_kxaSqYasmDE3X8nfUhbs2cK_0PYzrCatZwF5glvhyw7d1t-3Fn1m3wFGlQYQu1Fqtkt_4s_ic2qzxBJYJN19tKok4svwtEXze4H-9TataStc1cxwf4MPO-tiKr1pThdorg8TsFG91RYUowSjCIcXncui24jv0fzqhG0OASeeQWAzjIdE6AQm32ozhA3gc1Gr8WPUDTMq-y7dq95cXQD8jL2GAXCaX8eKkMYeZdwhTfsrmU27UF4QY1lkLqqEar8Lvdf25mUPDU_FPlUINUESr0qNE7jJb5YX6hNXGXTlQr-Vem9r5k9ecOdZom2ZcXfOodIAD34k1Lad_xAgzPCHPQQ7zDamIjcZkmmrcfDebIur1kU6MnFoEEqXsXfa4E4Q_lV8Yi6_3htOGH1YBN83F7ml3U9pfjinXWy1Cx5MzLzvjEJwitapsV3WF-JuC59Mu7II05rwrhiRozGsjiKLqWfkq&theater",
+            "name": "Paul Harwood",
+            "path": "published/3_1594409452_1508981_10202752318162813_208244359_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/wendy.speights/posts/3825454860858630",
+            "name": "Wendy Speights",
+            "path": "published/4_1594409452_44384145_2099768153427318_6682815722113990656_n.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/realDonaldTrump",
+            "name": "Donald J. Trump",
+            "path": "sources/0_1594409453_kUuht00m_400x400.jpg"
+        },
+        {
+            "link": "https://projects.propublica.org/politwoops/user/POTUS",
+            "name": "POTUS",
+            "path": "sources/1_1594409453_fd.JPG"
+        },
+        {
+            "link": "http://www.trumptwitterarchive.com/archive",
+            "name": "trump twitter archive",
+            "path": "sources/2_1594409453_ddd.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ترامب لم يطالب بإغلاق الحدود مع كاليفورنيا بسبب كورونا",
+    "updated_at": "2020-09-25 09:43:38",
+    "url_path": "/factcheck/2020/07/10/ترامب-لم-يطالب-بإغلاق-الحدود-مع-كاليفورنيا-بسبب-كورونا"
+}

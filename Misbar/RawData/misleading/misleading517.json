@@ -1,0 +1,102 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 355,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "ابنته أكدت كونه بصحة جيدة ولم يغادر منزله بأريحا (Getty)",
+    "category": "Health",
+    "claim": "<p>طائرة خاصة تنقل السياسي الفلسطيني صائب عريقات من مدينة رام الله إلى الأردن، وذلك للعلاج بعد إصابته بفايروس كورونا المستجد &quot;كوفيد_19&quot;.</p>\r\n",
+    "country": "PS",
+    "created_at": "2020-10-11 17:48:53",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 10,
+    "feedback_pos": 6,
+    "id": "5f831b55ffb75e51833f7164",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من المقطع ليجد أنّ الادعاء غير صحيح،&nbsp;فالمروحية&nbsp;التي تم تصويرها بعد ظهر يوم العاشر من أكتوبر/تشرين الأول الجاري، كان على متنها رجل الأعمال الأميركي&nbsp;رون لاودر، أحد مساعدي رئيس الوزراء الإسرائيلي بنيامين نتنياهو، بحسب صحيفة&nbsp;النهار التي أكّدت أنّ&nbsp;الإذاعة الإسرائيلية قالت&nbsp;إن مقطع الفيديو الذي تداوله الفلسطينيون عبر وسائل التواصل الاجتماعي ليس&nbsp;لنقل&nbsp;عريقات إلى&nbsp;الأردن، بل وصل على متنها لاودر، إلى المقاطعة&nbsp;وغادر عبرها أيضاً.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وذكرت وكالة الأنباء الفلسطينية الرسمية لاحقاً بأن لاودر&nbsp;كان في زيارة&nbsp;لرام الله وصلها على متن طائرة أردنية، قابل خلالها الرئيس الفلسطيني محمود عباس في اجتماع استمر ثلاث ساعات، نقل خلالها رسائل سياسية هامة لم يطلع الإعلام عن تفاصيلها بعد. وفي سياق متصل&nbsp;قالت ابنة صائب&nbsp;دلال عريقات&nbsp;على حسابها في موقع تويتر إنّ والدها بصحة نفسية وجسدية جيدة، وهو بمنزله في أريحا، ولم يسافر إلى الأردن.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_k1bil11vy.jpg\" style=\"height:482px; width:602px\" /></p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_c44c4kjzd.jpg\" style=\"height:437px; width:602px\" /><img src=\"https://images-prod.misbar.com/articlebody/investigation_5ehb03s5d.jpg\" style=\"height:144px; width:602px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت حسابات على مواقع التواصل الاجتماعي مقطع فيديو، في العاشر من أكتوبر/تشرين الأول الجاري، قالت&nbsp;أنه لطائرة خاصة أردنية نقلت أمين سر اللجنة التنفيذية لمنظمة التحرير الفلسطينية&nbsp;صائب عريقات بعد إصابته بفايروس كورونا المستجد، &nbsp;من مدينة رام الله إلى الأردن.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_nn52jh3oh.jpg\" style=\"height:415px; width:602px\" /></p>\r\n\r\n<p style=\"text-align:center\">&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_x1rsibqyk.jpg\" style=\"height:434px; width:602px\" /></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?height=476&amp;href=https%3A%2F%2Fwww.facebook.com%2FMeithalun24%2Fvideos%2F976103662875737%2F&amp;show_text=false&amp;width=370\" style=\"border:none;overflow:hidden\" width=\"370\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 347,
+        "left": 5.20001220703125,
+        "path": "articles/1602427733GettyImages-521484946 (1).jpg",
+        "top": 32.800048828125,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1602427733GettyImages-521484946 (1).jpg",
+        "width": 618
+    },
+    "post_date": "2020-10-11T16:15:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/watch/?ref=search&v=770462670469762&external_log_id=bed76b4d-2f13-4490-b0c7-33ea07621fe3&q=%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9%20%D9%85%D8%B1%D9%88%D8%AD%D9%8A%D8%A9%20%D8%AA%D9%86%D9%82%D9%84%20%D8%B5%D8%A7%D8%A6%D8%A8%20%D8%B9%D8%B1%D9%8A%D9%82%D8%A7%D8%AA",
+            "name": "الوقائع",
+            "path": "published/0_1602432103_قققف.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/watch/?ref=search&v=346187760053731&external_log_id=bed76b4d-2f13-4490-b0c7-33ea07621fe3&q=%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9%20%D9%85%D8%B1%D9%88%D8%AD%D9%8A%D8%A9%20%D8%AA%D9%86%D9%82%D9%84%20%D8%B5%D8%A7%D8%A6%D8%A8%20%D8%B9%D8%B1%D9%8A%D9%82%D8%A7%D8%AA",
+            "name": "النصيرات",
+            "path": "published/1_1602432103_قققف.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/watch/?ref=search&v=976103662875737&external_log_id=bed76b4d-2f13-4490-b0c7-33ea07621fe3&q=%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9%20%D9%85%D8%B1%D9%88%D8%AD%D9%8A%D8%A9%20%D8%AA%D9%86%D9%82%D9%84%20%D8%B5%D8%A7%D8%A6%D8%A8%20%D8%B9%D8%B1%D9%8A%D9%82%D8%A7%D8%AA",
+            "name": "ميثلون",
+            "path": "published/2_1602432103_قققف.JPG"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.wafa.ps/Pages/Details/10659",
+            "name": "وكالة وفا الفلسطينية للأنباء",
+            "path": "sources/0_1602432103_Screenshot 2020-10-11 173523وفا.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/DalalIRIQAT/status/1314862780554579968",
+            "name": "دلال عريقات ",
+            "path": "sources/1_1602432104_1_WAilXe_200x200.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.annaharar.com/arabic/news/arab-world/palestine/10102020025954257",
+            "name": "صحيفة النهار",
+            "path": "sources/2_1602433974_النهار.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لم تنقل طائرة خاصة صائب عريقات للعلاج من فايروس كورونا",
+    "updated_at": "2020-10-11 21:16:56",
+    "url_path": "/factcheck/2020/10/11/لم-تنقل-طائرة-خاصة-صائب-عريقات-للعلاج-من-فايروس-كورونا",
+    "was_notification_pushed": true
+}

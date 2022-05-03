@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 961,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "الفيديو ليس لماكين (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">وزير الدفاع الأميركي الأسبق جون ماكين يعتنق الإسلام.</span></p>\r\n",
+    "country": "US",
+    "created_at": "2020-07-01 17:16:21",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5efc9ab5163be30790731f2b",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من مقطع الفيديو ووجد أن الادعاء مضلل، لأن وزير الدفاع الأميركي جون ماكين لم يعتنق الإسلام وتوفي عام 2018 وكان مسيحي الديانة، وتمت&nbsp;مراسم جنازته في كنيسة المعمدانية في مدينة فينيكس التابعة لولاية أريزونا.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">أما عن الفيديو المتداول فلا علاقة لجون ماكين به، ونشر على مواقع التواصل في عام 2018&nbsp;بعنوان &quot;أميركي يدخل الإسلام في سلطنة عمان&quot;.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/75fAZjt9sUo\" width=\"560\"></iframe><br />\r\n<iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/LJiep9gw7II\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">يتداول مستخدمو مواقع التواصل الاجتماعي منذ شهور، مقطع فيديو لشخص ينطق الشهادتين، وادّعت أنه لوزير الدفاع الأميركي الأسبق جون ماكين وهو يُعلن إسلامه</span><span dir=\"RTL\" lang=\"AR-EG\">.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FFOKAHAWHATSAPP%2Fvideos%2F530105617629163%2F&amp;show_text=0&amp;width=476\" style=\"border:none;overflow:hidden\" width=\"476\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F101184294857812%2Fvideos%2F826697177816010%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 341,
+        "left": 7.5555419921875,
+        "path": "articles/159361298099.jpg",
+        "top": 72,
+        "totalHeight": 423,
+        "totalWidth": 620,
+        "watermark_path": "articles/watermark-159361298099.jpg",
+        "width": 607
+    },
+    "post_date": "2020-07-01T14:54:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/ALWARETHTV/videos/254534428886966/?v=254534428886966&external_log_id=b341d31b8e62c8089fa115e81408c080",
+            "name": "الوارث TV",
+            "path": "published/0_1593612979_3.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/fghkyt56uij/videos/697928257677850/?v=697928257677850&external_log_id=b341d31b8e62c8089fa115e81408c080&q=%D8%A5%D8%B3%D9%84%D8%A7%D9%85%20%D9%88%D8%B2%D9%8A%D8%B1%20%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9%20%D8%A7%D9%84%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7%20%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D9%82",
+            "name": "حسن سبورت",
+            "path": "published/1_1593612979_53525857_333782357251865_5693537784359288832_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/202020Quran/videos/831874330640595/?v=831874330640595&external_log_id=6fd844b146d3b6bb329fca60aab38e4d&q=%D9%88%D8%B2%D9%8A%D8%B1%20%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9%20%D8%A7%D9%84%D8%A7%D9%85%D8%B1%D9%8A%D9%83%D9%8A%20%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D9%82%20%D8%AC%D9%88%D9%86%20%D9%85%D8%A7%D9%8A%D9%83%D9%8A%D9%86",
+            "name": "قران يتلى اناء الليل وأطراف النهار",
+            "path": "published/2_1593612980_5.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/101184294857812/videos/826697177816010/?v=826697177816010&external_log_id=6fd844b146d3b6bb329fca60aab38e4d&q=%D9%88%D8%B2%D9%8A%D8%B1%20%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9%20%D8%A7%D9%84%D8%A7%D9%85%D8%B1%D9%8A%D9%83%D9%8A%20%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D9%82%20%D8%AC%D9%88%D9%86%20%D9%85%D8%A7%D9%8A%D9%83%D9%8A%D9%86",
+            "name": "نصائح  اسلامة",
+            "path": "published/3_1593612980_90439410_101185991524309_5812314056958148608_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/FOKAHAWHATSAPP/videos/530105617629163/?v=530105617629163&external_log_id=6fd844b146d3b6bb329fca60aab38e4d&q=%D9%88%D8%B2%D9%8A%D8%B1%20%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9%20%D8%A7%D9%84%D8%A7%D9%85%D8%B1%D9%8A%D9%83%D9%8A%20%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D9%82%20%D8%AC%D9%88%D9%86%20%D9%85%D8%A7%D9%8A%D9%83%D9%8A%D9%86",
+            "name": "FokahaFokaha",
+            "path": "published/4_1593612980_4.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=LJiep9gw7II&fbclid=IwAR1Ur80Gm5ZJezyNx6wvOqafJ-vpCg4PZ7o6r8rYyWyDlSpI-vjofKepTYM&fbclid=IwAR28sFDMxNoxjMDKQAiU6M7hXacDqEsPbmNnYqK4FhvaJN3RKS-gTxaDd5s",
+            "name": "أمريكي يدخل الاسلام",
+            "path": "sources/0_1593612980_9.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=75fAZjt9sUo&fbclid=IwAR0OAhRzGDGsnhkkiI2AO42XKU31-vQYr4h--cSYVg2_xpTEchPp9K04NFQ",
+            "name": "جنازة جون ماكين",
+            "path": "sources/1_1593612980_1.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "جون ماكين لم يعتنق الإسلام.. فيديو مضلل",
+    "updated_at": "2020-09-25 20:50:20",
+    "url_path": "/factcheck/2020/07/01/فيديو-مضلل-جون-ماكين-يعتنق-الإسلام"
+}

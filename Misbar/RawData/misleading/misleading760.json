@@ -1,0 +1,113 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 680,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الصورة مُلتقطة في الصين عام 2016 ولا علاقة لها بسورية (فيسبوك)",
+    "category": "Health",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة تُظهر انحناء أطباء في مستشفى المجتهد في العاصمة السورية دمشق، أمام جثمان&nbsp;زميلٍ لهم توفي جراء إصابته بفايروس كورونا.</p>\r\n",
+    "country": "SY",
+    "created_at": "2020-08-16 19:28:36",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f395eb41dd58507a40f9786",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقّق &quot;مسبار&quot; من الصورة وتبيّن أنها مضللة، فهي ليست من سورية، إنمّا تعود إلى عام 2016، وتُظهر مجموعة من العاملين في القطاع الطبي وهم ينحنون أمام جثمان طبيب صيني تطوّع للعمل في منطقة التبت. &nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><strong><img src=\"https://images-prod.misbar.com/articlebody/investigation_7wmht9ok7.jpg\" style=\"height:627px; width:601px\" /></strong></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت مواقع إلكترونية ومستخدمون على موقع التواصل الاجتماعي فيسبوك، صورة قالوا إنّها تُظهر انحناء أطباء في مستشفى المجتهد في العاصمة السورية دمشق، أمام جثمان أحد الأطباء الذين قضوا بفايروس كورونا (كوفيد-19).</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_14i6fu7i9.jpg\" style=\"height:476px; width:603px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><strong><img src=\"https://images-prod.misbar.com/articlebody/origin_jnjpqeqh5.jpg\" style=\"height:474px; width:498px\" /></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><strong><img src=\"https://images-prod.misbar.com/articlebody/origin_6tgkqj27t.jpg\" style=\"height:526px; width:509px\" /></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 354,
+        "left": -0.9481201171875,
+        "path": "articles/1597595316117932798_336050317769855_2996548971555712801_n-min.jpg",
+        "top": 48.341552734375,
+        "totalHeight": 423,
+        "totalWidth": 632,
+        "watermark_path": "articles/watermark-1597595316117932798_336050317769855_2996548971555712801_n-min.jpg",
+        "width": 630
+    },
+    "post_date": "2020-08-16T19:11:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.qasioun-news.com/ar/articles/228672",
+            "name": "قاسيون",
+            "path": "published/0_1597595315_قاسيون-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/byousef2/posts/3321416604582890?__cft__[0]=AZVf_pp_AXtOmjCoIuikUY39WT5hr8HOzJj40RPhwT2TagxrH3D89ny3eFcMW20-Zs4k4Yc9rBZdgiaiuhe0UNh0QPgFyrJmYQJAI_3QaytCwOWWSOlfA7TC2Nt2SprDzEB5SuY2GEdC50_78-hvDV-w&__tn__=%2CO%2CP-y-R",
+            "name": "Bassam Yousef",
+            "path": "published/1_1597595315_Facebook_logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/profile.php?id=100040946679600",
+            "name": "نبيه محمد نبهان",
+            "path": "published/2_1597595315_نبيه نبهان.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=596953921180981&id=100025991361560&__cft__[0]=AZWJ0rrX2ua9BrKSNlV0LYcJYJpAz2u7IviQxa7RN-VxLA1Ec1ewahoSxG6IJlEhR0nWRM1DXJEjKR9OMHjbzbHyNgXND_hL20v-nqdcb8AnxwNrl8wgA04tonxJyWzAhp0&__tn__=%2CO%2CP-R]-R",
+            "name": "بسام عبود",
+            "path": "published/3_1597595315_بسام عبود.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/3mmardarwish/posts/10158878377781563?__cft__[0]=AZWJ0rrX2ua9BrKSNlV0LYcJYJpAz2u7IviQxa7RN-VxLA1Ec1ewahoSxG6IJlEhR0nWRM1DXJEjKR9OMHjbzbHyNgXND_hL20v-nqdcb8AnxwNrl8wgA04tonxJyWzAhp0&__tn__=%2CO%2CP-R]-R",
+            "name": "Ammar Darwish",
+            "path": "published/4_1597595315_Ammar Darwish.jpg"
+        },
+        {
+            "link": "https://www.enabbaladi.net/archives/408649",
+            "name": "عنب بلدي",
+            "path": "published/5_1597595315_عنب بلدي-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/495112701356571/permalink/657427931791713/?__cft__[0]=AZWJ0rrX2ua9BrKSNlV0LYcJYJpAz2u7IviQxa7RN-VxLA1Ec1ewahoSxG6IJlEhR0nWRM1DXJEjKR9OMHjbzbHyNgXND_hL20v-nqdcb8AnxwNrl8wgA04tonxJyWzAhp0&__tn__=%2CO%2CP-R]-R",
+            "name": "ميلاد ديب",
+            "path": "published/6_1597595315_ميلاد ديب.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/maram.a.masri/posts/10157685535853412?__cft__[0]=AZWJ0rrX2ua9BrKSNlV0LYcJYJpAz2u7IviQxa7RN-VxLA1Ec1ewahoSxG6IJlEhR0nWRM1DXJEjKR9OMHjbzbHyNgXND_hL20v-nqdcb8AnxwNrl8wgA04tonxJyWzAhp0&__tn__=%2CO%2CP-R]-R",
+            "name": "Maram Al Masri",
+            "path": "published/7_1597595316_Maram Al Masri.jpg"
+        },
+        {
+            "link": "https://damascusv.com/archives/28294",
+            "name": "صوت العاصمة",
+            "path": "published/8_1597595316_صوت العاصمة.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://news.cgtn.com/news/3d3d514d7a4d444e/share_p.html",
+            "name": "CGTN",
+            "path": "sources/0_1597595316_CGTN.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ليسوا أطباء سوريين انحنوا لجثمان زميلهم الذي قضى بكورونا",
+    "updated_at": "2020-09-25 21:37:07",
+    "url_path": "/factcheck/2020/08/16/هذه-الصورة-ليست-لأطباء-سوريين-ينحنون-لزميلهم-الذي-قضى-بـ-كورونا"
+}

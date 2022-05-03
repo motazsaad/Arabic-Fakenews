@@ -1,0 +1,109 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 720,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "الصورة من مدينة دونكاستر البريطانية (انستغرام)",
+    "category": "Arts & Culture",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة موقف سيارات في مدينة فرانكفورت الألمانية</p>\r\n",
+    "country": "GB",
+    "created_at": "2020-09-22 19:23:09",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f6a24eddd116414583ba86f",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة&nbsp;المتداولة وتبين أنها مضللة، وليست في مدينة فرانكفورت الألمانية. إذ التقطها الشقيقان البريطانيان &quot;جي بي ومايك أندروز&quot; بالاعتماد على طائرة دون طيار (درون)&nbsp;لإظهار أسلوبهما في التصوير الجوي، &quot;حيث يبدو العالم غامضاً وأحلى&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">ونشر الثنائي الصورة لأول مرة على&nbsp;صفحتهما في موقع انستغرام&nbsp; <a href=\"https://www.instagram.com/p/BtlhiGOnGSR/?utm_source=ig_embed\" style=\"color:blue; text-decoration:underline\">An<strong> </strong>Abstract Aerial Ar</a>t&nbsp;يوم 7 فبراير/شباط 2019، في مدينة دونكاستر البريطانية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">ويدّعي الثنائي أن الصور التي التقطاها غير معالجة رقميًّا وأنّ التأثيرات البصرية المتماثلة والمجردة تتشكل تلقائيًّا، لتظهر الأشياء المألوفة بطريقة جديدة ومختلفة. كما لم يذكرا أن الموقف يوفر فضاءً إضافياًّ للركن بنسبة 60 في المئة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:#111111\"><img alt=\"5.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_saup1r6zi.jpg\" style=\"height:425px; width:605px\" /></span></span></span></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات إخبارية وحسابات على موقعي فيسبوك وتويتر، حديثاً ومنذ عام 2019،&nbsp;صورة ادعت أنها لموقف سيارات على شكل هندسي في مدينة فرانكفورت الألمانية، يوفر 60 في المئة من الفضاء المخصص للركن ويسهل عملية الدخول والخروج منه.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img alt=\"00.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_juo8zkcji.jpg\" style=\"height:409px; width:604px\" /><br />\r\n<img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_s6iothbkr.jpg\" style=\"height:273px; width:605px\" /><br />\r\n<img alt=\"0.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_wjyo0nopu.jpg\" style=\"height:274px; width:604px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 336,
+        "left": 7.10528564453125,
+        "path": "articles/16007917885f15f75d2618b90c7904d845.jpg",
+        "top": 42.746826171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-16007917885f15f75d2618b90c7904d845.jpg",
+        "width": 598
+    },
+    "post_date": "2020-09-22T17:04:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/elheddaf.officiel/photos/a.656405551076027/3299558260094063/",
+            "name": "الهداف - Elheddaf",
+            "path": "published/0_1600791787_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/photo?fbid=357393339002844&set=gm.725105461371661",
+            "name": "Coiffeur Madrid",
+            "path": "published/1_1600791787_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/canal.ain.beida/photos/a.686487638135640/3402197733231270/",
+            "name": "قناة عين البيضاء",
+            "path": "published/2_1600791787_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/PunisherTeamClub/photos/a.789571444542087/1216163261882901",
+            "name": "سيارات قديمة",
+            "path": "published/3_1600791787_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/urbanvoicesin/status/1098250966502125569?lang=fr",
+            "name": "www.urbanvoices.in",
+            "path": "published/4_1600791788_101195326_747056042707733_6451845424750788608_o.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.instagram.com/p/BtlhiGOnGSR/?utm_source=ig_embed",
+            "name": "Abstract aerial art",
+            "path": "sources/0_1600791788_images.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.businessinsider.com/abstract-aerial-art-instagram-drone-photography-interview-photos-2020-7?IR=T#the-natural-beauty-formed-by-the-land-of-ice-and-snow-has-produced-truly-awe-inspiring-photos-taken-from-above-34",
+            "name": "Business Insider",
+            "path": "sources/1_1600791788_téléchargement.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صورة موقف السيارات ليست في مدينة فرانكفورت الألمانية",
+    "updated_at": "2020-09-25 22:12:55",
+    "url_path": "/factcheck/2020/09/22/صورة-موقف-سيارات-ليست-في-مدينة-فرانكفورت-الألمانية",
+    "was_notification_pushed": "true"
+}

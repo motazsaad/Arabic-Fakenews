@@ -1,0 +1,104 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 49442,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": " عمر الرجل 42 سنة وكان يعاني من مرض عقلي (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"rtl\" lang=\"ar\">ضابط إيطالي يذبح نفسه لمنع الشرطة من أخذه للحجر الصحي بعد إصابته بفايروس كورونا.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-04-12 12:46:25",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e92e371db291613fc72bc35",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"rtl\" lang=\"ar\">تحقق &quot;مسبار&quot; من مقطع الفيديو ووجد أنه مضلل، إذ نُشر في شهر يناير/كانون الثاني من العام الجاري، وكان في مدينة كراغوييفاتش الصربية، وبحسب ما ورد في بعض المواقع فإن المقطع المتداول يعود لرجل دخل إلى أحد متاجر المدينة، وتجادل مع موظف المتجر&nbsp;الذي يعمل هناك بعد أنَّ أخذ بعض السلع ورفض دفع الحساب وبدأ بتهديد الصراف بسكين، واتصل عمال المتجر بالشرطة التي حضرت بدورها إلى المكان وطلبت منه إلقاء السكين لكنه رفض ووضع السكين على رقبته وانتحر.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"rtl\" lang=\"ar\">وبحسب المعلومات الواردة في الصحافة الصربية، فقد كان عمر الرجل 42 سنة ويعاني من مرض عقلي.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_f5rnpilqg.jpg\" style=\"height:422px; width:623px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"rtl\" lang=\"ar\">تداولت حسابات وصفحات على مواقع التواصل الاجتماعي، مقطع فيديو يظهر رجلٍ يقوم بذبح نفسه وحوله اثنان&nbsp;من رجال الشرطة، وادعى ناشرو&nbsp;المقطع أنه لضابط شرطة إيطالي قام بالانتحار لمنع الشرطة من أخذه للحجر الصحي بعدما تأكدوا&nbsp;أنه مصاب بفايروس كورونا، وقال آخرون&nbsp;أن المقطع يعود لضابط روسي.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_uic1n1da3.jpg\" style=\"height:388px; width:370px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_q82226qkt.jpg\" style=\"height:432px; width:380px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_6mah6dx8z.jpg\" style=\"height:406px; width:381px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_zv066j67u.jpg\" style=\"height:398px; width:380px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 13.259994506835938,
+        "path": "articles/1586684784GettyImages-1218230714 (1).jpg",
+        "top": 0,
+        "totalHeight": 512,
+        "totalWidth": 767,
+        "watermark_path": "articles/watermark-1586684784GettyImages-1218230714 (1).jpg",
+        "width": 752
+    },
+    "post_date": "2020-04-12T12:42:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/2avis/videos/219351769323421/?v=219351769323421",
+            "name": "الرأي و الرأي الآخر",
+            "path": "published/0_1586684784_الرأي و الرأي الآخر.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/106776284161144/videos/255864925590287/",
+            "name": "اخبا ر رام الله",
+            "path": "published/1_1586685224_اخبار رام الله.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/abfalasteen/videos/532661990780381/",
+            "name": "نابلس جبل النار",
+            "path": "published/2_1586685224_نابلس جبل النار.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/mylove00361/videos/516520932361988/",
+            "name": "ياسمين الشام",
+            "path": "published/4_1586685224_ياسمين الشام.jpg"
+        },
+        {
+            "link": "https://twitter.com/vqenA6zia032S21/status/1248707962480328705",
+            "name": "ابوفهد الشرقية( طبيب بيطري )",
+            "path": "published/5_1586685224_ابوفهد الشرقية( طبيب بيطري ).jpg"
+        },
+        {
+            "link": "https://www.facebook.com/111216793850301/videos/931661877270104/?type=1&theater",
+            "name": "Vidéo +",
+            "path": "published/5_1586686782_22.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.kurir.rs/crna-hronika/3390579/jeziv-snimak-siri-se-kragujevcem-policajci-ga-molili-i-ubedjivali-da-spusti-noz-ali-uzalud-uznemirujuce-18",
+            "name": "Kurir",
+            "path": "sources/0_1586685224_Igor-Zezelj-novi-vlasnik-Kurira.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=d34tc5HKuOY",
+            "name": "Boskr10",
+            "path": "sources/1_1586685224_Boskr10.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ضابط إيطالي يذبح نفسه لرفضه الذهاب للحجر الصحي.. مقطع مضلل",
+    "updated_at": "2020-09-25 21:05:09",
+    "url_path": "/factcheck/2020/04/12/ضابط-إيطالي-يذبح-نفسه-لرفضه-الذهاب-للحجر-الصحي-مقطع-مضلل"
+}

@@ -1,0 +1,97 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1773,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "caption": "المقطع من شارع الاستقلال في منطقة تقسيم التركية (Getty)",
+    "category": "Arts & Culture",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">في فرنسا، توقفوا عن عزف الموسيقى في الشارع احتراماً للأذان.</p>\r\n",
+    "country": "TR",
+    "created_at": "2020-03-06 11:47:05",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5e620e09d4a2296584466c45",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الفرقة فرنسية، لكن المكان ليس فرنسا، إذ يظهر في الفيديو شعار وكالة الأناضول التركية، كما يظهر شعار صحيفة يني شفق التركية أيضاً، وهو ما دفعنا للبحث عن مصدر الفيديو الأصلي، ووجدناه منشوراً على قناة صحيفة يني شفق على موقع يوتيوب.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_73qlkr9b6.jpg\" style=\"height:426px; width:645px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">عنوان الفيديو هو &quot;حساسية الموسيقيين الفرنسيين أثناء الأذان في شارع الاستقلال&quot;. وفي الوصف تذكر القناة اسم الفرقة وهو &quot;<span dir=\"LTR\">Poil O&#39;Brass Band</span>&quot;. وكانت قناة أخبار تركيا (<span dir=\"LTR\">atv Haber</span>) نشرت <a href=\"https://www.youtube.com/watch?v=rmiZtjMpccE&amp;fbclid=IwAR0ouLtdrfsd-FYSRWEiNRqHow7iEjHBS7GDs6fov9vk4zNeRtCfKJjfGp4\" style=\"color:blue; text-decoration:underline\">تقريراً تلفزيونيًّا</a> حول الموضوع.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">تواصل &quot;مسبار&quot; أيضاً مع بعض المقيمين في تركيا، ليؤكدوا أنَّ المقطع من شارع الاستقلال في منطقة تقسيم التركية، وكانت هذه الفرقة متواجدة في بداية شارع الاستقلال بالقرب من ميدان تقسيم. ويجدر ذكر أنّ نشاط العزف أمام الناس هو مظهر عام لشارع الاستقلال المليء بالفرق الموسيقية والاستعراضيين والهواة.</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشر حساب على موقع فيسبوك يحمل اسم (<a href=\"https://www.facebook.com/damej.hicham?eid=ARAuhT01s8s7k4llMCBRL5Gvifbep8YIVvAMatYWCYQ0q_yQlVNd0-zNvCb0T-qJ4FBDzPWfDFXoyAQi\" style=\"color:blue; text-decoration:underline\" title=\"Damej Hicham\"><strong><span style=\"background-color:white\"><span style=\"color:#385898\">Damej Hicham</span></span></strong></a>)، <a href=\"https://www.facebook.com/damej.hicham/videos/vb.100003461096116/1473711576087531/?type=2&amp;video_source=user_video_tab\">مقطع فيديو</a> ادعى فيه أنه لمجموعة من العازفين الذين توقفوا عن العزف حين سمعوا صوت الأذان في فرنسا. الفيديو حصل على 2.4 مليون مشاهدة و65 ألف إعادة نشر.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_a30d8j188.jpg\" style=\"height:430px; width:637px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 286,
+        "left": 34.82383728027344,
+        "path": "articles/1583484425GettyImages-493298308.jpg",
+        "top": 68.807373046875,
+        "totalHeight": 384,
+        "totalWidth": 577,
+        "width": 508
+    },
+    "post_date": "2020-03-06T15:12:00.000+03:00",
+    "published": [
+        {
+            "link": "https://web.facebook.com/damej.hicham/videos/vb.100003461096116/1473711576087531/?type=2&video_source=user_video_tab",
+            "name": "Damej Hicham",
+            "path": "published/0_1583484693_Damej Hicham.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/watch/?v=2371800319572456",
+            "name": " قول يا شعب TV",
+            "path": "published/1_1583484693_قول يا شعب TV.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/watch/?ref=search&v=197529918227402&external_log_id=b1ca5bae35ca615b9d62c6dcd7a25bfe&q=احترام%20الاذان%20في%20فرنسا",
+            "name": "سبع عيون",
+            "path": "published/2_1583484693_سبع عيون.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/watch/?v=438627366860200",
+            "name": "جهاد جابر إعلامية",
+            "path": "published/3_1583484693_جهاد جابر إعلامية.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/fadi147147/videos/10158104052644127/",
+            "name": "Fadi M. Hammouda",
+            "path": "published/4_1583484694_Fadi M. Hammouda.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=4T_f2BwVJZo&feature=youtu.be&fbclid=IwAR2ZiLGxH2hJ9qQDLqQAe18S2AbpDjbNfQ8Gwq1mH4twlHGY1Se5qsVh2zA",
+            "name": "Yeni Şafak",
+            "path": "sources/0_1583484693_Yeni Şafak.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=rmiZtjMpccE&fbclid=IwAR0ouLtdrfsd-FYSRWEiNRqHow7iEjHBS7GDs6fov9vk4zNeRtCfKJjfGp4",
+            "name": "atv Haber",
+            "path": "sources/1_1583484693_atv Haber.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "فرقة موسيقية في فرنسا توقف العزف احتراماً للأذان.. فيديو مضلل",
+    "updated_at": "2020-09-23 12:37:24",
+    "url_path": "/factcheck/2020/03/06/فرقة-موسيقية-في-فرنسا-توقف-العزف-احتراما-للأذان-فيديو-مضلل"
+}

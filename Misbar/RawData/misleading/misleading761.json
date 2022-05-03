@@ -1,0 +1,98 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 507,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الفيديو لاحتفال المصلين بإعادة افتتاح المسجد الأقصى بعد إغلاقه بسبب فايروس كورونا (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">فيديو يصوّر كيف دخل مجموعة فلسطينيين المسجد الأقصى وهم يبكون ويدعون، بعد إبرام اتفاق السلام بين الإمارات و&quot;إسرائيل&quot;.</p>\r\n",
+    "country": "PS",
+    "created_at": "2020-08-16 17:18:49",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f3940491dd585076c076bd5",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الفيديو مضلل، إذ بعد التحقق وجده &quot;مسبار&quot; منشوراً على موقع فيسبوك في 31 مايو/أيار من العام الجاري، ويُظهر مجموعة فلسطينيين يهتفون وهم يدخلون المسجد الأقصى بعد شهرين من إغلاق المسجد جراء تفشي فايروس كورونا.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Felbiladtv%2Fvideos%2F293621528323332%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشر مستخدمون على موقع التواصل الاجتماعي فيسبوك، مقطع فيديو قالوا إنّه يصوّر دخول فلسطينيين إلى المسجد الأقصى وهم يبكون ويدعون، بعد إبرام &quot;اتفاقية السلام&quot; بين الإمارات ودولة الاحتلال الإسرائيلي.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FForsan.UAE%2Fvideos%2F966970900441931%2F&amp;show_text=0&amp;width=267\" style=\"border:none;overflow:hidden\" width=\"267\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F102151617989812%2Fvideos%2F634684713845339%2F&amp;show_text=0&amp;width=476\" style=\"border:none;overflow:hidden\" width=\"476\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 414,
+        "left": 86.26666259765625,
+        "path": "articles/1597587528Annotation 2020-08-16 152425.jpg",
+        "top": 3.300048828125,
+        "totalHeight": 423,
+        "totalWidth": 826,
+        "watermark_path": "articles/watermark-1597587528Annotation 2020-08-16 152425.jpg",
+        "width": 735
+    },
+    "post_date": "2020-08-16T16:44:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/102151617989812/videos/634684713845339/?v=634684713845339&external_log_id=f5435609-657b-4d6d-b71c-7460c265dc10&q=%D8%A8%D9%83%D8%A7%D8%A1%20%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D9%88%D9%86%20%D9%8A%D8%AF%D8%AE%D9%84%D9%88%D9%86%20%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D9%89",
+            "name": "Faifi.K.s.a",
+            "path": "published/0_1597587528_Facebook_logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Forsan.UAE/videos/966970900441931/?v=966970900441931",
+            "name": "فرسان الإمارات",
+            "path": "published/1_1597587528_فرسان الإمارات.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/mr.romansse/posts/3194673070602363?__xts__%5B0%5D=68.ARBTPkZ5RDC3l6Nl4RhRN5cSjVGrq1car2X8cBVhrxtKdP9R7hK4vltMtsrF4euV-lQSEwYIjvqDzQZWAsM-OgVF6ZgCgB22ojzYI03nxYoXRbwwRCY_35Qn7kTRoLJGAUemUZNYE8Le9Elm9XKUxUBw9QPM3FsjT-lYIUi3o_EptuScrijcyHPslpoHxdKRQJCAc3b4QlcJUpHUIfwou762sjad3H4MqN_a0prDcsrx_XoLesTdNZObtguFiZpDgx-VujB9EkPwhhK5GJ-TmHr1V0TQj3tWB-wSdHlbcKHST-XxkppXSn2BwgntPXvWaQtJZRO3mGZE97TRPg&__tn__=-R",
+            "name": "Khaled Ahmed",
+            "path": "published/2_1597587528_Khaled Ahmed.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/331423850330650/permalink/2016320245174327/?__tn__=-R",
+            "name": "Hashem Hosny",
+            "path": "published/3_1597587528_Hashem Hosny.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/sayed.sedik.940/posts/168534168067923?__tn__=-R",
+            "name": "Sayed Sedik",
+            "path": "published/4_1597587528_Sayed Sedik.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=800157197391329&id=100021911676186&__tn__=-R",
+            "name": "Usama Malik",
+            "path": "published/5_1597587528_Facebook_logo.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/elbiladtv/videos/293621528323332/?v=293621528323332",
+            "name": "El Bilad TV",
+            "path": "sources/0_1597587528_El Bilad TV.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "المصلون لم يبكوا بعد فتح الأقصى بسبب اتفاق السلام بين الإمارات و\"إسرائيل\"",
+    "updated_at": "2020-09-25 15:15:53",
+    "url_path": "/factcheck/2020/08/16/لم-يبك-هؤلاء-الفلسطينيين-وهم-يدخلون-الأقصى-بسبب-تطبيع-الإمارات-علاقاتها-بـ-إسرائيل"
+}

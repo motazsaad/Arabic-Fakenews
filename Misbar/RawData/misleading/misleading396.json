@@ -1,0 +1,101 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 233,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "الصورة منذ العام 2019 (تويتر)",
+    "category": "Politics",
+    "claim": "<p>المرشح الرئاسي الأميركي جو بايدن يتنقل في طائرة خلال حملته الرئاسية دون أن يرتدي كمامة طبية خلال وباء فايروس كورونا المستجد &quot;كوفيد_19&quot;.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-11-03 18:44:21",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 1,
+    "id": "5fa17ad5dc2b3866da5b0579",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;<a href=\"https://misbar.com/\">مسبار</a>&quot; من الصورة ووجد أنها مضللة، فهي قديمة منذ عام 2019، قبل أن يظهر فايروس كورونا المستجد، وتصبح معه الكمامات الطبية إلزامية، وقد التقط الصورة المصور الذي يعمل في حملة جو بايدن آدم شولتز، حين كان الأول يتحدث إلى ريمي ياماموتو، المستشارة الصحفية في حملته.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_pmh8gokuw.jpg\" style=\"height:398px; width:602px\" /></p>\r\n\r\n<p style=\"text-align:right\">اقرأ/ي أيضاً:</p>\r\n\r\n<p style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/09/12/%D9%87%D8%B0%D9%87-%D8%A7%D9%84%D8%AA%D8%BA%D8%B1%D9%8A%D8%AF%D8%A9-%D9%84%D8%AC%D9%88-%D8%A8%D8%A7%D9%8A%D8%AF%D9%86-%D9%85%D9%81%D8%A8%D8%B1%D9%83%D8%A9\"><span style=\"color:#3498db\">هذه التغريدة لجو بايدن مفبركة</span></a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">نشر القائم بأعمال مدير الاستخبارات القومية الأميركية السابق، ريتشارد غيرنيل على حسابه الموثق في موقع تويتر، في الأول من نوفمبر/تشرين الثاني الجاري، صورةً للمرشح الرئاسي جو بايدن خلال وجوده داخل طائرته وكتب &quot; إنه زيف العاصمة واشنطن: يرتدي الكمامة في الخارج، وليس داخل الطائرة&quot;، وأعيد تغريد الصورة عشرات آلاف المرات، كما تم تداولها على مستوى واسع على مواقع التواصل الاجتماعي، في ظل اشتعال الأجواء خلال يوم الانتخابات الأميركية الموافق الثالث من نوفمبر/تشرين الثاني الجاري.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_gjpkbx95p.jpg\" style=\"height:618px; width:602px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_gjq31ye8x.jpg\" style=\"height:401px; width:602px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 411,
+        "left": 16.100006103515625,
+        "path": "articles/1604418260800.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 795,
+        "watermark_path": "articles/watermark-1604418260800.jpg",
+        "width": 731
+    },
+    "post_date": "2020-11-03T15:50:00.000+03:00",
+    "published": [
+        {
+            "id": "5fa17ad4346ae127664c7f88",
+            "link": "https://archive.vn/lpDr0#selection-3043.0-3043.53",
+            "name": "archive.vn",
+            "origin": "",
+            "path": "sources/39b17e01a4d9f3fd8ecac2b040a207bb4c860e00.jpg"
+        },
+        {
+            "id": "5fa17ad4346ae127664c7f88",
+            "link": "https://archive.vn/YHbdH",
+            "name": "archive.vn",
+            "origin": "",
+            "path": "sources/39b17e01a4d9f3fd8ecac2b040a207bb4c860e00.jpg"
+        },
+        {
+            "id": "5fa17ad46ae7c611a6663d86",
+            "link": "https://www.facebook.com/photo/?fbid=10208791421820375&set=basw.AbpwFL7vCq9cDZJQeBGyhAhvSS-fwTZHpQsVfOVox0OHZJtv5jt-LaoI9zB1-vh1ydoEH6M333AfQpHxkeCEF5iesfFM8KUwgwICB-R0PdsxENevglx8dFAjsEIQafKWdUupYRDElh2ESozEYqswEbPvGpg60M7FQNddy8En8bBydThbsIXMz1Z2W0g4u32XduzvPyXQOnmqQlw-4sLVoWw7&opaqueCursor=AbrbUzEAVy-_ste6N_iIWjlHEGVJ3e_eACZBYnaXvPoi5PyctfaQLaEYqJsGx3hhKEfdHGUlNDXIPw9XSSDu_kw9k9dCeroHhvYgmHJ9brJ36KLyJ-hljw-daxSPU1emjRkGuKA6g4DkGeC5QIU2FfzoWcJNA6q-JEqAI4z5yWZiXrmcl4XYdNP3QKUQiVyYR0QX_RlV0LBioZMvpb6GI-NZl8VqxoSV0r4N4xRoPyUx_Zey8DkhYLx2D9jcwnICNQSD6TO4Smtxd310-yaYqkd5Z7OoBG3WxMRGRt_eYbu-2DE_5871djMi453qQVg4bVXhunDM_zTVzhZvAM-QA6zK8jodR-sQsIDucXs5HEMw5pYG2oJAlDxZM27Gd-HvKT1zLbq7Zdz-pef7s16bKNb1AnXT2sadQ8Ngw9QaahWPQhLrdLI7D7cGHJ50lXVhxClnJgvet5xQAgjRRfwx7w3BA6u_vpzJXIm-Ms3-cwZ0k2VtZGlIyb1JxW-xS2AOwuQr_6dxr-_jF6ba7WTbAeaYCyyUCY0ozT39RiiRpZjron107ZCKa8cwPf3DFuvsbVCR0VvVOKcz_zxP40khUZnYfM2gQ87YKDQ2eM9xQ_KQwMmoUhbQHUwJ3SN3EiVyDnO9fPaupPhwtwwlA7MjMf5iNbubRZxOzAlvSTk1165Fex6-yGXC1gQixk0UOf9XdMx63fPoafZe4kn7bdY4BNHEdeBocfx9lWRhPj9E_hG-hW-FX6ICCBUColaOUTJ8WjF78tulBUe7khHU76EEKm1WWwC5OgPpmTDmpRdiWdtA6A",
+            "name": "Frank Ricciardi",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5fa17d2847104e755906d68f",
+            "link": "https://www.facebook.com/photo/?fbid=3639117492776264&set=basw.AbrlU6naoEMm9yonKq_l1tV_17NC6c_y-3BSsO5bytdDSYPSDKTkMJY-imaoz12ZWVubyZYPo7hLGNJbCYhRZ-g9MgRMk-yYtBiD-lHLQhx4k06BxZiw5cVei8VPjsEESy-c84qvBM6McXxPz70aLubwH574dflqI-Hyf9T_svaxs1cxuRIbtPLOPdsPj5XjcjBDxnipAvHo0vPw-iH9J5fa&opaqueCursor=AboKJxiLppjoGnox7VePOJHqf9egSPSichOgvxT4jBM8fYvn6oxvrxBIQJoynxsjkz2CLRTWuBvXNYmyqh91pixzOA8sZII3tpLif86Uuc9-6-NTaJS4-SccLUF88gxHt8AKWL_VXGV7duDIzJVO4OI0mE8U_H8zawJsjgbDnnxVZrbsAZBbinXnMdsPRhHRqpq-7ihVd39pm9pDAs6BhPFqOWV9OAJcEYIzIq0HjSZ1nJrrHUsBnRp42LsG44FRSNLw7aLATw2tapdn8GYced-4zSREgczzHqzBvKdpXsNWrOt1ktmz1nKJ66kqFKKcQJh-dU2kSZsge3XGT6iq22I5FI7n-awQmg1jGid-S28WruzqWOq-A3d_XHhaBh0OY8b8tHsHEMjFMYm0lHGIlY1dwo1pWsaOTsKgzcNDJTk2fUaURMIYS3EfVIFZMWqtKbpk0mfnP4KVmd8mS2YoUHUevb_Az5WRgpMVmvyh1UUq6paYZu0rOWc_e5rZ1ytEz-qpi1lpUG853swzI6dblLZpxVUPPXwYEeqmYYPswL61Xw3q7C2TYY9shgCje9rLN6pm7GCx-YpjhoEYwT9KlQLsyftL2vml4doKlek7YnXWhOkM9YM9V4LTTv__aMKWxytYSjkwECgfRnckvWaAu6GYKHb6KxSV8n37wuqsGcx1bEH48bhJqF0C6Wo_Ry0ddoXz66hUfbkvy3T3uT66W1nqcUoremLA2IdEUV2Emfdo8FpRZkSt_bmsI6uoGY3cV-M",
+            "name": "Lee Price",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f919c6a76458f3aa4476752",
+            "link": "https://apnews.com/article/joe-biden-without-mask-taken-in-2019-b68fcc7c8979bbd2011e52d52e6af37d",
+            "name": "The Associated Press",
+            "origin": "",
+            "path": "sources/0_1596906588_8z9FImcv_400x400 copy.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصورة لجو بايدن دون كمامة، قبل كورونا",
+    "updated_at": "2020-11-03 19:07:20",
+    "url_path": "/factcheck/2020/11/03/هذه-الصورة-لجو-بايدن-دون-كمامة-قبل-كورونا",
+    "was_notification_pushed": true
+}

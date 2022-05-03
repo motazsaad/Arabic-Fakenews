@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2915,
+    "author": {
+        "fullname": "مريم هواري",
+        "id": "5e299460d4a22939983a3ec5",
+        "photo": {
+            "path": "authors/1579791192_Maryam.jpg"
+        }
+    },
+    "caption": "تصريح نتنياهو جاء بعد قصف جيش الاحتلال لسورية (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">نتنياهو قال &quot;ضربنا من استهدفنا&quot; تعقيباً على الانفجار في مرفأ بيروت، وكان قد أشار إلى موقع الانفجار قبل فترة.</p>\r\n",
+    "country": "LB",
+    "created_at": "2020-08-05 16:34:51",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 2,
+    "id": "5f2ab57b60211807371a0fdc",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من المنشورات المتداولة ووجد أنّها مضلّلة. إذ أن الصورة المتداولة على أنّها لمكان الانفجار في بيروت، تُظهر خريطة لمطار بيروت الدولي، وليس لمرفأ بيروت، وأشار نتنياهو فيها إلى مواقع صواريخ وضعها حزب الله في مُحيط المطار، بحسب ادّعائه، في خطابٍ له أمام الهيئة العامة للأمم المتّحدة عام 2018.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_xnun9c3yr.jpg\" style=\"height:550px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_ondg8g3mq.jpg\" style=\"height:284px; width:328px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong>صورة جويّة لمرفأ بيروت (المصدر: </strong><strong>Getty</strong><strong>)</strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><img src=\"https://images-prod.misbar.com/articlebody/investigation_3bdbyee9y.jpg\" style=\"height:328px; width:292px\" /></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong>صورة جويّة لمطار بيروت الدولي، كما تظهر في خطاب نتنياهو&nbsp;(المصدر: Getty)</strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">أمّا بالنسبة للتصريح المتداول، فلم يصّرحه نتنياهو بشكلٍ حرفيٍ، انّما&nbsp;صرّح بتاريخ 4 أغسطس/آب الجاري،&nbsp;أن جيش الاحتلال أصاب مجموعة بعد قصفه لموقع في سوريا بتاريخ 3 أغسطس/آب الجاري، ولا علاقة للتصريح بانفجار مرفأ بيروت.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_xpgof6z9k.jpg\" style=\"height:738px; width:624px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات وحسابات على مواقع التواصل الاجتماعي فيسبوك وتويتر صورةً لرئيس وزراء دولة الاحتلال، بنيامين نتنياهو، وهو يحمل لافتة، وادّعى ناشروها أنّ نتنياهو أشار إلى موقع الانفجار الذي حدث بتاريخ 4 أغسطس/آب الجاري في مرفأ بيروت، قبل فترة. ونشر البعض تصريحاً لنتنياهو يقول فيه: &quot;ضربنا من استهدفنا وعلى حزب الله أن يفهم الرسالة&quot;، مُشيرين إلى أنّه تعقيب على الانفجار.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ijzjfbqc5.jpg\" style=\"height:489px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_llus7df1p.jpg\" style=\"height:599px; width:593px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ijit98nap.jpg\" style=\"height:638px; width:503px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 134,
+        "left": 1.97540283203125,
+        "path": "articles/1596634491main photo.jpg",
+        "top": 12.21875,
+        "totalHeight": 180,
+        "totalWidth": 244,
+        "watermark_path": "articles/watermark-1596634491main photo.jpg",
+        "width": 239
+    },
+    "post_date": "2020-08-05T16:26:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/Mostashar1983/photos/basw.AbqBzOeavX4aPBgmQdKYGOfeYlvAAWKexnQp7yR923M2_RonJrGu4IpA_fz89pS820zdcjiQOmR1chS2123QLTgFs2lDtSkZp1DNQ6yDffSdl35QTKGnkTU_sZLqa6QqRbUFlKc8ic81QLMBwwyPEhz2rKp-PguVZxKHBNMcfVv4vhx2oErPEo_-WAXahLfYK0SIibfxuk2T36ik2vgZzdzE38KcG8cLN1ZDYxJEbMUcCD-f2AwEykfwhvlZYJwmjI4j6zhJrBMSpuCp31BJFlnkNMv4cm_gyVxb23LgHs2THrEA4GirtpyXqgkLyKM9tTynJVh7HSwKCwBU5DDs_jzo3mfjA--s1b2zu7EWwz9jd1V1qQqG4kReeaSOGqokf1I.3168079179901975.883976898375683.3394398673913673.249716198765575.3394398573913683.1310416562381172/3168079179901975/?type=1&opaqueCursor=AbrJKdRc3XDN7oCOvhxoTmK-yABaFFUV1zfM-2marzHbYU-BZRDTjbI3drrkN73LFJmBOqSRH2tccgPXtJScV0sTDVNkQiZeFvt3azbK-e3AUeeh7TsCkLFmOvLwFbeiYGDRyu5CpJ4v04cJzDicinlKpAJyJuC6KMszglfqAg6LCuv__eS7OYP7k7hynT4cLpiEWWxAML9sTgPrxhrf4BESXqhLhYsnJ5RC5o36-i0P498FPJLzY_ACwun6qLlPBEsPeadhMRoy78zmSpQs_ea8b_xTUDY-P0NgrP2gBpk6BpeYOpMW1p8NJipS1eZXA9SiTS3P9jMARK79NlspqvtUy5rYDOReo9S9sP--YtHTSdtqGQEErBFwSJtFxRftmK2YzMywtXX4WgSowKhmticBI9SG-5kXBsCM3t4WrhX1dz_7LkMTLIqF6Fqukp7wwXeTLUeWEH0NU_QpBlGv0O5ddMDR1E5bZxJEMWeMd9GPGieUAQ6xu1R2-Bu0Qx_uonorqUhVGXL3O_PHMjGYJPc5TC2OYGVNkl5wOwKnLwC1g1H31tJIV7fHa8CmEva2pMCpf9AEpmpFTQ_fg9E5nKLABsfdmtfhIoO0g_YYvHrsSbn_bvX9s3et79vdv-73yaU9lobYRVR9bUcUN9JKIe-TMHfZzeECvnfqoVsjZL7XWXXa6l_c3pFdT40Oyf92cRGM1sA1A1tHOQJ_sazqZVQaxO7QSJz0lY4iGWl1SDTGZBgn4qxF-6ez5Rzeka7HqYGXyI9vv2DhnhnEjC1TZjdIM_q7jAsKZ2vhasoZkn0l7ZK1hBJKHgbTweOKDlz94uE&theater",
+            "name": "المستشار احمد أبو اياد",
+            "path": "published/0_1596634490_احمد ابو اياد.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/300520690479853/permalink/823296004868983/",
+            "name": "بهاء الدين ظاهر",
+            "path": "published/1_1596634490_بهاء الدين.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=10158871459123000&set=p.10158871459123000&type=1&theater",
+            "name": "Nidal Abood",
+            "path": "published/2_1596634490_nidal abood.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/724982164741615/permalink/736287600277738/",
+            "name": "Muss Tapha",
+            "path": "published/3_1596634490_muss tapha.jpg"
+        },
+        {
+            "link": "https://twitter.com/_tameh0/status/1290696012152164352",
+            "name": "طامح-مجتهد أبوظبي",
+            "path": "published/4_1596634490_طامح ابو ظبي.jpg"
+        },
+        {
+            "link": "https://twitter.com/K7gFj/status/1290714414426001409",
+            "name": "ضياء أبو مهدي الزبيدي",
+            "path": "published/5_1596634490_ضياء ابو مهدي.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://news.un.org/en/story/2018/09/1021192",
+            "name": "United Nations",
+            "path": "sources/0_1596634490_UN.jpg"
+        },
+        {
+            "link": "https://arabic.cnn.com/middle-east/article/2020/08/04/netayahu-sends-heavye-weight-message-hezbollah ",
+            "name": "CNN بالعربية",
+            "path": "sources/1_1596634490_CNN العربية.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لم يعرض نتنياهو موقع انفجار مرفأ بيروت، ولم يعقّب عليه",
+    "updated_at": "2020-09-25 19:07:15",
+    "url_path": "/factcheck/2020/08/05/لم-يعرض-نتنياهو-موقع-انفجار-مرفأ-بيروت-ولم-يعقب-عليه"
+}

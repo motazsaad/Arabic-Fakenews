@@ -1,0 +1,157 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 249,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "انتشرت صورة الطفلين القتيلين قبل حادثة الأم بالعراق (فيسبوك)",
+    "category": "News",
+    "claim": "<p>صورة تعود إلى الطفلين اللذين ألقتهما والدتها في نهر دجلة.</p>\r\n",
+    "country": "IQ",
+    "created_at": "2020-10-19 14:27:07",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 9,
+    "id": "5f8d780baa7d910d2307a8b2",
+    "investigation": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-JO\">تحقّق &quot;مسبار&quot; من الصورة، ووجد أنها انتشرت على مواقع التواصل الاجتماعي ظهر يوم 17 أكتوبر/تشرين الأول الجاري، أي&nbsp;قبل تصوير وانتشار مقطع فيديو الأم في العراق، وتم نسب صورة الطفلين القتيلين&nbsp;بحسب قنوات إعلامية أذربيجانية وحسابات ناشطين&nbsp;هناك إلى كونهما من&nbsp;ضحايا المعارك الدائرة بين أذربيجان&nbsp;و أرمينيا.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_nk3ksfeu2.jpg\" style=\"height:542px; width:494px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_floy5dsqw.jpg\" style=\"height:329px; width:602px\" /></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"313\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?height=313&amp;href=https%3A%2F%2Fwww.facebook.com%2F111654257329355%2Fvideos%2F672954023359314%2F&amp;show_text=false&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">تداولت حسابات على موقع التواصل الاجتماعي، فيسبوك، اليوم الموافق 19 أكتوبر/تشرين أول الجاري، صورةً لجثتيّ طفلين وقالت إن الصورة تعود إلى الطفلين اللذين ألقتهما والدتهما في نهر دجلة بالعراق، مساء 17 أكتوبر/تشرين أول الجاري، وكان انتشر مقطع فيديو في 18 من الشهر ذاته يلتقط اللحظة التي ألقت فيها الام ابنيها في&nbsp;النهر.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_i0pe6b5jz.jpg\" style=\"height:204px; width:602px\" /></p>\r\n\r\n<p><img src=\"https://images-prod.misbar.com/articlebody/origin_r2mjmdu9x.jpg\" style=\"height:590px; width:582px\" /></p>\r\n\r\n<p>&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 372,
+        "left": 65.49993896484375,
+        "path": "articles/1603106827IMG_0169.JPG",
+        "top": 0.675048828125,
+        "totalHeight": 423,
+        "totalWidth": 795,
+        "watermark_path": "articles/watermark-1603106827IMG_0169.JPG",
+        "width": 662
+    },
+    "post_date": "2020-10-19T11:47:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/groups/sharjah.women/permalink/2565480576918361/",
+            "name": "Razan Abudaqqa",
+            "path": "published/0_1603106826_8a2f0a7e86ba89b9626f630dbecae4add155cf29.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/photo?fbid=1240132656352998&set=gm.1035855340196998",
+            "name": "أحمد الرسام",
+            "path": "published/1_1603106826_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=867205104020247&id=459909401416488",
+            "name": "إعلام ميسان",
+            "path": "published/2_1603106826_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=108034447756430&id=105815107978364",
+            "name": "احداث صلاح الدين",
+            "path": "published/3_1603106826_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/Ramzyatt1/posts/889194798278210",
+            "name": "رمزيات وخواطر",
+            "origin": "facebook",
+            "path": "published/4_1603106826_be4fb8d7a8f79b9d13aba4074fd10aea1b1f1fd5.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/Qamishlo1c/posts/133230675191935",
+            "name": "قامشلو جنتي",
+            "origin": "facebook",
+            "path": "published/5_1603106826_48a4675bb25e65ee96a2ae571a2542fe1f23a052.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/Wkala.Mosul.Alhadbaa/posts/832739097497150",
+            "name": "وكالة الموصل الحدباء",
+            "origin": "facebook",
+            "path": "published/6_1603106827_759241195a095b5073360c9be2268b514af131c9.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=185587279712682&id=111163233821754",
+            "name": "بتوقيت الناصرية",
+            "path": "published/7_1603106827_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/yarmoknews24/posts/199903401499699",
+            "name": "اليرموك نيوز",
+            "origin": "facebook",
+            "path": "published/8_1603106827_377ed358ea5d734d27aaeb8d856e9ed75ad9c506.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/jasseim050/posts/684115268927290",
+            "name": "ديالي نيوز",
+            "origin": "facebook",
+            "path": "published/9_1603106827_ac71eed58def5ad16510080e3622b2ee4fb77fc8.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/qaracoptv/posts/1690312634462068",
+            "name": "Qara\\u00e7\\u00f6p Tv",
+            "origin": "facebook",
+            "path": "sources/0_1603106827_54087b113e3584686eaf7a458d0fe628c1d60bd4.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/Reportyor.info/photos/788713631704463",
+            "name": "Reportyor",
+            "path": "sources/1_1603106827_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/ElvinMahmudoff/status/1317506450554556417",
+            "name": "Elvin Mahmudov",
+            "origin": "twitter",
+            "path": "sources/2_1603106827_3363b7bf3688fb12a17d01afa31a8a29d3389026.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/111654257329355/videos/672954023359314/",
+            "name": "وكالة الأنباء العراقية",
+            "path": "sources/3_1603107960_118653205_111655340662580_7185284648878544176_o.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصورة ليست للطفلين اللذين ألقتهما والدتهما في نهر دجلة",
+    "updated_at": "2020-10-19 14:49:05",
+    "url_path": "/factcheck/2020/10/19/هذه-الصورة-ليست-للطفلين-اللذين-ألقتهما-والدتهما-في-نهر-دجلة",
+    "was_notification_pushed": true
+}

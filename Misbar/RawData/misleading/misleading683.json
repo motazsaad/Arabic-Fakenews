@@ -1,0 +1,120 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2412,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "قد يغرق مليار شخص بحلول عام 2300 (Getty)",
+    "category": "Science",
+    "claim": "<p>عاجل BBC: سكان العالم مهددون بالغرق بسبب ارتفاع مستوى المياه في البحار والمحيطات&nbsp;</p>\r\n",
+    "country": "GB",
+    "created_at": "2020-09-05 19:21:13",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f53baf976782b518d19abb5",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من المعلومات الواردة في المنشورات السابقة ووجد أنها مضللة، فلم تعلن منصات بي بي سي سواء باللغة العربية أو الإنجليزية أي خبر عاجل مشابه، وكان آخر مقال تحليلي في الموقع الإنجليزي،&nbsp;نُشر عام 2013 ، يحتوي على تحذيرات مستقبلية من ارتفاع مستوى سطح البحر بسبب تغير المناخ، ما يعني زيادة خطر حدوث فيضانات شديدة في المدن الساحلية الرئيسية حول العالم، وقد يغرق الكثير منها ببطء في المحيطات.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وأضاف المقال &quot;على مقياس زمني جيولوجي، من المرجح أن تكون المدن مثل جميع التركيبات البشرية، مؤقتة. لن ينجو الكثير من التغييرات التي تحدثها البشرية على هذا الكوكب، ناهيك عن الاضطرابات الطبيعية&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">وأما باللغة العربية لموقع BBC&nbsp;فكان هناك مقال نُشر في أغسطس/آب العام الفائت يتحدث عن احتمال غرق جزيرة كيريتيماس، وهي أكبر جزيرة مرجانية في العالم، وتقع في وسط المحيط الهادي بسبب تغير عوامل المناخ نتيجة الاحتباس الحراري.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وفي مايو/أيار الفائت حذرت مواقع إعلامية عربية بحسب تقرير لوكالة فرانس برس من أن&nbsp;مستوى المحيطات&nbsp;قد يرتفع 1.3 مترا بحلول نهاية القرن الحالي، وذاك فى حال ارتفع الاحترار المناخي إلى 3.5 درجة مئوية، بحلول العام 2300، وغرق نحو مليار شخص يعيشون على ارتفاع أقل خمسة أمتار من سطح البحر؛ بعد ذوبان الغطاء الجليدى فى القطب الشمالى وجرينلاند، ما قد يتجاوز ارتفاع مستوى البحار إلى خمسة أمتار.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_s1l4c3521.jpg\" style=\"height:330px; width:604px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/investigation_yauvahzhs.jpg\" style=\"height:531px; width:605px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت عشرات الصفحات والحسابات على مواقع التواصل الاجتماعي منذ بداية شهر سبتمبر/أيلول الجاري، خبراً مفاده &nbsp;&quot;عاجل BBC: سكان العالم مهددون بالغرق بسبب ارتفاع مستوى المياه في البحار والمحيطات..ارموا الكمامات وجهزوا المايوهات..لما نشوف آخرتها مع 2020&quot;.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_01u8fdg1t.jpg\" style=\"height:557px; width:582px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_pn93w19c3.jpg\" style=\"height:262px; width:594px\" />&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 355,
+        "left": -1.25,
+        "path": "articles/1599322873GettyImages-1165948035.jpg",
+        "top": 51.8359375,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1599322873GettyImages-1165948035.jpg",
+        "width": 630
+    },
+    "post_date": "2020-09-05T18:07:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/ta3leem.idafee/posts/4300532083352690",
+            "name": "معلمو التعليم الإضافي في الأردن",
+            "path": "published/0_1599322872_0_1596888660_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/taher.helmi/posts/4573978442642703",
+            "name": "Taher Helmi",
+            "path": "published/1_1599322872_0_1596888660_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1000230550399751&id=100012384459029",
+            "name": "همس محمود",
+            "path": "published/2_1599322872_0_1596888660_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/mousa.maani.7/posts/196224095190696",
+            "name": "موسى آل خطاب",
+            "path": "published/3_1599322872_0_1596888660_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/ghadeeralnajja3/status/1301973664297029633",
+            "name": "Ghadeer R Al-Najjar",
+            "path": "published/4_1599322872_6_1596888660_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/SNsooor/status/1301205801219088384",
+            "name": "سحر النسور",
+            "path": "published/5_1599322873_6_1596888660_twitter.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.bbc.com/arabic/vert-fut-49396783",
+            "name": "BBC",
+            "path": "sources/0_1599322873_التقاط.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.bbc.com/future/article/20130613-the-rising-threat-to-our-cities",
+            "name": "BBC",
+            "path": "sources/1_1599322873_التقاط.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.alarabiya.net/ar/science/2020/05/09/%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%B4%D8%AE%D8%B5-%D9%85%D9%87%D8%AF%D8%AF%D9%88%D9%86-%D8%A8%D8%A7%D9%84%D8%BA%D8%B1%D9%82-%D8%A7%D9%84%D9%85%D8%AD%D9%8A%D8%B7%D8%A7%D8%AA-%D8%B3%D8%AA%D8%B1%D8%AA%D9%81%D8%B9-1-3-%D9%85%D8%AA%D8%B1",
+            "name": "العربية نت",
+            "path": "sources/2_1599322873_العربية.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لم تقل بي بي سي في خبر عاجل أن العالم سيغرق",
+    "updated_at": "2020-09-25 21:22:04",
+    "url_path": "/factcheck/2020/09/05/bbc-لم-تقل-في-خبر-عاجل-أن-العالم-سيغرق",
+    "was_notification_pushed": true
+}

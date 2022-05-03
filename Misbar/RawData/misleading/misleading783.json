@@ -1,0 +1,104 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 959,
+    "author": {
+        "fullname": "جهاد جمال",
+        "id": "5f2149e9163be3072c377619",
+        "photo": {
+            "name": "1596017128_50.jpg",
+            "path": "authors/1596017128_50.jpg"
+        }
+    },
+    "caption": "لم تنشر صورة مؤكدة لزوجة محمد عساف (فيسبوك)",
+    "category": "Arts & Culture",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة ريم عودة زوجة الفنان الفلسطيني محمد عسَّاف.</p>\r\n",
+    "country": "PS",
+    "created_at": "2020-08-11 12:14:30",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f3261761dd585093b0fa30c",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة وتبيَّن أنها مضللة، إذ تعود لفتاة إيرانية&nbsp;على &quot;إنستغرام&quot; تُدعى <a href=\"https://imginn.com/nahalsoltani1/?lang=fr\" style=\"color:blue; text-decoration:underline\">نهال سلطاني</a> وليست لزوجة محمد عساف ريم عودة. ولم تنشر صورة زوجة محمد عسَّاف الحقيقية&nbsp;للعلن، كما لم يصرِّح عسَّاف بزواجه على مواقع التواصل الاجتماعي، بل تسرب مقطع فيديو قصير لحفل الزفاف من قبل أحد الحاضرين.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وذكرت <a href=\"https://www.youtube.com/watch?v=q795mFd-rnc\" style=\"color:blue; text-decoration:underline\">وسائل إعلام</a> عربية أنّ محمد عساف تزوج بفتاة تدعى ريم عودة من أب فلسطيني وأم دنماركية في دبي، يوم السبت 8 أغسطس/آب الجاري.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/q795mFd-rnc\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات وحسابات على موقع&nbsp;فيسبوك، حديثاً، صورةً تدّعي أنها لريم عودة زوجة الفنان الفلسطيني محمد عسّاف. وذكرت الصفحات نفسها أنها من أب فلسطيني وأم دنماركية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"Capture.PNG\" id=\"Image_x0020_3\" src=\"https://images-prod.misbar.com/articlebody/origin_h4yg917fr.jpg\" style=\"height:426pt; width:337.5pt\" /> </span><br />\r\n<span dir=\"LTR\"><img alt=\"0.PNG\" id=\"Image_x0020_4\" src=\"https://images-prod.misbar.com/articlebody/origin_cl4typm9g.jpg\" style=\"height:279pt; width:335.25pt\" /> </span><br />\r\n<span dir=\"LTR\"><img alt=\"00.PNG\" id=\"Image_x0020_5\" src=\"https://images-prod.misbar.com/articlebody/origin_t9e2cx2pc.jpg\" style=\"height:240pt; width:414.75pt\" /> </span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 332,
+        "left": 12.10528564453125,
+        "path": "articles/1597137270104803508_2533301246930253_705026504910049559_n.jpg",
+        "top": 14.746826171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-1597137270104803508_2533301246930253_705026504910049559_n.jpg",
+        "width": 591
+    },
+    "post_date": "2020-08-11T09:59:00.000+03:00",
+    "published": [
+        {
+            "link": "https://m.facebook.com/groups/533730510026442?view=permalink&id=3560974003968729",
+            "name": "سوق غزة التجاري ",
+            "path": "published/0_1597137269_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=2166304396836849&id=263038777163430",
+            "name": "دورا أجمل ",
+            "path": "published/1_1597137269_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=300271074742277&id=114621153307271",
+            "name": "هنا الزوايدة ",
+            "path": "published/2_1597137269_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/1810156439113402/permalink/3075524379243262/",
+            "name": "Ahmad Abu Saymeh ",
+            "path": "published/3_1597137269_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/GazaCommercialMarket/?post_id=3560974003968729",
+            "name": "نسيم أحمد ",
+            "path": "published/4_1597137269_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://www.almenhaj.net/misc/8743/amp/?__twitter_impression=true",
+            "name": "موقع المنهاج",
+            "path": "published/5_1597137270_000.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.instagram.com/p/CByS-IylU8m/?igshid=1ruc08k2j7xag",
+            "name": "حساب نهال السلطاني على انستغرام",
+            "path": ""
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=q795mFd-rnc",
+            "name": "Al-khabar الخبر",
+            "path": "sources/1_1597137270_unnamed (1).jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه صورة فتاة إيرانية وليست زوجة محمد عسَّاف",
+    "updated_at": "2020-09-25 22:12:40",
+    "url_path": "/factcheck/2020/08/11/هذه-صورة-فتاة-إيرانية-وليست-لزوجة-محمد-عساف"
+}

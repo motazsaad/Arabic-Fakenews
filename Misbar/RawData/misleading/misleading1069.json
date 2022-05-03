@@ -1,0 +1,101 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2393,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "الصورة قديمة ولا تتعلق بموضوع المدوّنة الكويتية (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">الكويت تردّ على ريم الشمّري بإضاءة أبراج الكويت بالعلم المصري.</span></p>\r\n",
+    "country": "KW",
+    "created_at": "2020-06-03 11:00:59",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ed758bbdb29165cf4126655",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من الصورة المتداولة ووجد أنها مضلّلة، لأنّ الصورة </span><a href=\"https://www.shorouknews.com/news/view.aspx?cdate=31082019&amp;id=fff4722a-a4a4-4f02-aec4-1a42043666ea\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>استُخدمت سابقاً</u></span></a><span style=\"color:#000000\"> من قِبل مواقع إخبارية مصرية بتاريخ 31 يونيو/آب 2019 في صياغة خبر عن إضاءة أبراج الكويت ترحيباً بزيارة الرئيس المصري عبد الفتاح السيسي. مما يعني أنّ الصورة قديمة ولا تتعلق بموضوع المدوّنة الكويتية ريم الشمري.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">يُذكر أنّ أبراج الكويت </span><a href=\"https://www.almasryalyoum.com/news/details/1223412\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>أُضيأت سابقاً</u></span></a><span style=\"color:#000000\"> بالعلم المصري عام 2017، تضامناً مع ضحايا العمل الإرهابي في مسجد الروضة.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_idok3o9u8.jpg\" style=\"height:439px; width:534px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_kon6gt7no.jpg\" style=\"height:560px; width:527px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "الكويت",
+        "مصر",
+        "أبراج الكويت",
+        "ريم الشمري"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل صفحات على مواقع التواصل الاجتماعي صورة تُظهر إضاءة أبراج الكويت بالعلم المصري، وادّعت أنّ ذلك يمثّل ردًّا على </span><a href=\"https://www.bbc.com/arabic/trending-52869090\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>التصريحات</u></span></a><span style=\"color:#000000\"> المثيرة للجدل من قِبل المدوّنة الكويتية ريم الشمري عن الجالية المصرية في الكويت.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"595\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ffarah.elsaeid.9%2Fposts%2F1108135709571515&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_exgeoxfnu.jpg\" style=\"height:703px; width:526px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 418,
+        "left": 3.95001220703125,
+        "path": "articles/1591171259غلاف2.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 751,
+        "watermark_path": "articles/watermark-1591171259غلاف2.jpg",
+        "width": 743
+    },
+    "post_date": "2020-06-03T10:38:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=576319636643416&set=a.128067694801948&type=3",
+            "name": "حنان سمير",
+            "path": "published/0_1591171258_حنان.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/farah.elsaeid.9/posts/1108135709571515",
+            "name": "فرح محمد",
+            "path": "published/1_1591171258_فرح محمد.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=3128929773854415&id=618110261603058",
+            "name": "تحيا مصر العظمى",
+            "path": "published/2_1591171258_تحيا مصر.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/1Cottage2/posts/293645995338483?__tn__=H-R",
+            "name": "Cottage",
+            "path": "published/3_1591171258_cottage.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/1319023154791469/permalink/3579823538711408/",
+            "name": "سامح عبده",
+            "path": "published/4_1591171258_سعيد.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.shorouknews.com/news/view.aspx?cdate=31082019&id=fff4722a-a4a4-4f02-aec4-1a42043666ea",
+            "name": "الشروق",
+            "path": "sources/0_1591171258_الشروق.jpg"
+        },
+        {
+            "link": "https://www.almasryalyoum.com/news/details/1223412",
+            "name": "المصري اليوم",
+            "path": "sources/1_1591171258_المصري.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "إضاءة أبراج الكويت تضامناً مع المصريين.. ما أصل الصورة؟",
+    "updated_at": "2020-09-25 18:46:25",
+    "url_path": "/factcheck/2020/06/03/إضاءة-أبراج-الكويت-تضامنا-مع-المصريين-ما-أصل-الصورة"
+}

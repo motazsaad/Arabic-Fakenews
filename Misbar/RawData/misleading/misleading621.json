@@ -1,0 +1,109 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 12067,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": " تعود الصورة لعمر ستيفانسون (mbl.is)",
+    "category": "News",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">فاز الجنوبي عمر أحمد حسين الفضلي بمنصب محافظ عاصمة آيسلندا ريكيافيك أكبر مدن البلاد. </span></p>\r\n",
+    "country": "YE",
+    "created_at": "2020-09-17 19:51:02",
+    "created_by": "5f39b5a51dd585076701cb94",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f6393f62be5227b5445770f",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من الصورة وتبين أن الادعاء مضلل وليست لشخص يدعى أحمد حسن. إذ تعود <a href=\"https://www.mbl.is/frettir/innlent/2017/11/22/nytt_frambod_fyrrverandi_framsoknaroddvita/?fbclid=IwAR1aYhb-lploPsj-cqxAl2XbycI3D19jXjuxXb-Ch_AIS4a-dywx8YgZCmE\" style=\"color:#0563c1; text-decoration:underline\">الصورة</a> لعمر ستيفانسون، آيسلندي الجنسية، وشغل منصب&nbsp;العمدة السابق وزعيم الحزب التقدمي في مدينة كوبافوغور في آيسلند. أما عمدة <a href=\"https://reykjavik.is/borgarfulltruar/dagur-b-eggertsson\" style=\"color:#0563c1; text-decoration:underline\">محافظة ريكيافيك</a> الحالي، يُدعى داغور بيرجورس.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_iomyh69ak.jpg\" style=\"height:437px; width:624px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_exe95qv3c.jpg\" style=\"height:323px; width:624px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت مواقع إخبارية وحسابات على مواقع التواصل الاجتماعي، حديثاً، صورة ادعت أنها لمواطن يمني يُدعى عمر أحمد حسين الفضلي، من محافظة أبين اليمنية، وأنه فاز بمنصب محافظ ريكيافيك، عاصمة دولة آيسلند.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_4j2l9nr5r.jpg\" style=\"height:645px; width:494px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_kz0kfmt2j.jpg\" style=\"height:379px; width:477px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_xyrgsu14c.jpg\" style=\"height:366px; width:470px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1600361462100.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1600361462100.jpg",
+        "width": 752
+    },
+    "post_date": "2020-09-17T19:47:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/FBI20200/status/1303035285740105730",
+            "name": "عميدركن",
+            "path": "published/0_1600361462_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/pD5t5_r/status/1303651794833338368",
+            "name": "الغلاء",
+            "path": "published/1_1600361641_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/hzaam_711/status/1303249871584079875",
+            "name": "حزام محمد",
+            "path": "published/2_1600361641_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1228403564225244&id=100011668362017&hc_location=ufi",
+            "name": "طارق علي ناصر الفضلي",
+            "path": "published/3_1600361641_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/aboarslan2/status/1303573600293842944",
+            "name": "فؤاد أحمد",
+            "path": "published/4_1600361642_twitter.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.mbl.is/frettir/innlent/2017/11/22/nytt_frambod_fyrrverandi_framsoknaroddvita/?fbclid=IwAR1aYhb-lploPsj-cqxAl2XbycI3D19jXjuxXb-Ch_AIS4a-dywx8YgZCmE",
+            "name": "mbl.is",
+            "path": "sources/0_1600361462_mbl.is.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://reykjavik.is/borgarfulltruar/dagur-b-eggertsson",
+            "name": "reykjavik",
+            "path": "sources/1_1600361642_reykjavik.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الصورة ليست لمواطن يمني فاز بمنصب عمدة عاصمة آيسلندا",
+    "updated_at": "2020-09-25 21:15:12",
+    "url_path": "/factcheck/2020/09/17/الصورة-ليست-لمواطن-يمني-فاز-بمنصب-عمدة-عاصمة-آيسلندا",
+    "was_notification_pushed": "true"
+}

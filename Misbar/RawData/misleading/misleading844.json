@@ -1,0 +1,119 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 608,
+    "author": {
+        "fullname": "خالد إسماعيل",
+        "id": "5e59256dd4a2295224257db3",
+        "photo": {
+            "name": "1582900589_صورة 2.jpg",
+            "path": "authors/1582900589_صورة 2.jpg"
+        }
+    },
+    "caption": "الصورة مجرد إبداع رقمي (فيسبوك).",
+    "category": "Technology",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة للدراجة الكهربائية <span dir=\"LTR\">Mimik</span> التي غزت الأسواق الأوروبية مؤخراً.</p>\r\n",
+    "country": "",
+    "created_at": "2020-07-28 17:20:49",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f203441163be306d0200efe",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تحقق </span><span style=\"color:black\">&quot;</span><span style=\"color:black\">مسبار&quot; من الادعاء المتداول وتبين أنه مضلل، لأنّ <a href=\"https://www.instagram.com/p/CCR21NIJq1R/\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">الصورة الأصلية</a> ليست لدراجة كهربائية حقيقية تُباع في الأسواق الأوروبية، ولكنها</span> <span style=\"color:black\">مجرد إبداع رقمي لمصمم روسي ويدعى </span><span dir=\"LTR\"><span style=\"color:black\">Roman Dolzhenko</span></span><span style=\"color:black\">. </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">الصورة نشرها المصمم الروسي عبر حسابه على موقع إنستغرام بتاريخ 6 يوليو/تموز الجاري.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_me0cd5ifj.jpg\" style=\"height:406px; width:540px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_1tv5o7xi7.jpg\" style=\"height:342px; width:539px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول حسابات وصفحات على مواقع التواصل الاجتماعي، منذ منتصف يوليو/تموز الجاري، صورة لدراجة متطورة التصميم، مع الإدعاء بأنها الدراجة الكهربائية التي تحمل اسم <span dir=\"LTR\">Mimik</span>، التي غزت الأسواق الأوروبية مؤخراً.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_z7km03up7.jpg\" style=\"height:700px; width:547px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_d849ztycj.jpg\" style=\"height:776px; width:605px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 238,
+        "left": 1.9000244140625,
+        "path": "articles/1595946049غلاف.jpg",
+        "top": 39.466796875,
+        "totalHeight": 423,
+        "totalWidth": 427,
+        "watermark_path": "articles/watermark-1595946049غلاف.jpg",
+        "width": 423
+    },
+    "post_date": "2020-07-28T17:14:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/Globelinformation/photos/a.1030362520351388/3086264911427795/",
+            "name": "معلوماتيون  ",
+            "path": "published/0_1595946242_نشر عن ذلك 1.jpg"
+        },
+        {
+            "link": "https://twitter.com/AdelAliBinAli/status/1283736891708194816/photo/1",
+            "name": "عادل علي بن علي  ",
+            "path": "published/1_1595946242_نشر عن ذلك 2.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo?fbid=2616315582017153&set=gm.960164994446062",
+            "name": "Rabhe Brahmia So",
+            "path": "published/2_1595946242_نشر عن ذلك 3.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100801724918697/photos/a.102700061395530/152171169781752",
+            "name": "O+ بالعربي ",
+            "path": "published/3_1595946242_نشر عن ذلك 4.jpg"
+        },
+        {
+            "link": "https://twitter.com/Alyoum24/status/1283455320933707777",
+            "name": "اليوم 24",
+            "path": "published/4_1595946242_نشر عن ذلك 5.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo/?fbid=3432870493443185&set=a.559419084121688",
+            "name": "Mohamed Nasser",
+            "path": "published/5_1595946242_نشر عن ذلك 6.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/salimba2020/photos/pcb.150338453319419/150338113319453/",
+            "name": "Salimba سالمبا",
+            "path": "published/6_1595946242_نشر عن ذلك 7.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.instagram.com/p/CCR21NIJq1R/",
+            "name": "Roman Dolzhenko ",
+            "path": "sources/0_1595946048_مصدر 1.jpg"
+        },
+        {
+            "link": "https://www.webstagramsite.com/media/CCR21NIJq1R",
+            "name": "webstagram ",
+            "path": "sources/1_1595946048_مصدر 2.jpg"
+        },
+        {
+            "link": "https://www.artstation.com/romor_wise/likes",
+            "name": "artstation ",
+            "path": "sources/2_1595946048_مصدر 3.jpg"
+        },
+        {
+            "link": "https://www.behance.net/RomanDolzhenko/appreciated",
+            "name": "behance ",
+            "path": "sources/3_1595946049_مصدر 4.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصورة ليست لدراجة حقيقية في أسواق أوروبا",
+    "updated_at": "2020-09-25 09:02:46",
+    "url_path": "/factcheck/2020/07/28/هذه-الصورة-ليست-لدراجة-حقيقية-في-أسواق-أوروبا"
+}

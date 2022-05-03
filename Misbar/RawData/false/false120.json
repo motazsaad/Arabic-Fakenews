@@ -1,0 +1,143 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 307,
+    "author": {
+        "fullname": "صباح الخطيب",
+        "id": "5edc1b38db291674e776e9a3",
+        "photo": {
+            "path": "authors/1591643228_7.jpg"
+        }
+    },
+    "caption": "لم تصدر أي تصريحات رسمية من بوتين أو ميركل بضرورة فرض عقوبات على فرنسا (مواقع التواصل الاجتماعي)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">صرح الرئيس الروسي فلاديمير بوتين والمستشارة الألمانية أنغيلا ميركل، في اجتماع مجلس الأمن الدولي، بضرورة فرض عقوبات دولية على فرنسا.</p>\r\n",
+    "country": "FR",
+    "created_at": "2020-11-30 11:04:36",
+    "created_by": "5f9fab38bddeec3fc23209e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 2,
+    "feedback_pos": 4,
+    "id": "5fc4a794a0740e6bbf3515c1",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقق &quot;<a href=\"https://misbar.com/qna\" style=\"color:#0563c1; text-decoration:underline\">مسبار</a>&quot; من الادعاء ووجد أنه زائف، إذ لم يُنشر&nbsp;الخبر في أية وسائل إعلامية فرنسية أو ألمانية أو روسية. وبالرجوع إلى آخر <a href=\"https://news.un.org/ar/story/2020/11/1066322\" style=\"color:#0563c1; text-decoration:underline\">اجتماع لمجلس الأمن الدولي</a>، يوم 23 نوفمبر الجاري، تبين أنه كان حول الأوضاع في الصومال. ولم يتضمن أي تصريح بضرورة فرض عقوبات دولية على فرنسا<span dir=\"LTR\">.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">كما أن آخر محادثة للرئيس الروسي مع نظيره الفرنسي، كانت بتاريخ 7 نوفمبر الجاري، عبر <a href=\"https://arabic.rt.com/world/1171166-بوتين-ماكرون-قلقه-إشراك-متطرفين-سوريا-ويبيا-قره-باغ/\" style=\"color:#0563c1; text-decoration:underline\">مكالمة هاتفية</a>، بحث فيها الرئيسان آخر التطورات حول نزاع إقليم كاراباخ، ولم تحوِ المكالمة على تحذير شديد اللهجة من الرئيس الروسي للرئيس الفرنسي كما جاء في الادعاء.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_7uaxtlqcp.jpg\" style=\"height:510px; width:624px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">يذكر أن فرنسا تشهد حالياً <a href=\"https://arabic.cnn.com/world/article/2020/11/28/over-130000-people-protest-security-bill-in-france\" style=\"color:#0563c1; text-decoration:underline\">مظاهرات</a>&nbsp;في عدة مدن، انطلقت يوم السبت&nbsp;28 نوفمبر، تنديداً بقانون الأمن الشامل. ورافقت&nbsp;الاحتجاجات&nbsp;أعمال عنف واشتباكات بين المتظاهرين وقوات الأمن.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">اقرأ/ي أيضاً</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/11/28/%D9%84%D9%85-%D8%AA%D8%AA%D9%86%D8%A8%D8%A3-%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%A8%D9%86%D9%87%D8%A7%D9%8A%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%B9%D9%84%D9%89-%D9%8A%D8%AF-%D8%A7%D9%84%D8%B3%D9%8A%D8%B3%D9%8A\" style=\"color:#0563c1; text-decoration:underline\">لم تتنبأ دراسة جديدة بنهاية &quot;إسرائيل&quot; على يد السيسي</a></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/11/16/%D8%AC%D9%88-%D8%A8%D8%A7%D9%8A%D8%AF%D9%86-%D9%84%D9%8A%D8%B3-%D9%85%D9%86-%D8%A3%D8%B5%D9%88%D9%84-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9-%D9%83%D8%B1%D8%AF%D9%8A%D8%A9\" style=\"color:#0563c1; text-decoration:underline\">جو بايدن ليس من أصول إيرانية كردية</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">تداولت &nbsp;صفحات وحسابات على مواقع التواصل الاجتماعي، منذ 28 نوفمبر/تشرين الثاني الجاري، ادعاءً مفاده أن الرئيس الروسي فلاديمير بوتين والمستشارة الألمانية أنغيلا&nbsp;ميركل، في اجتماع مجلس الأمن الدولي الأخير، طالبا بضرورة فرض عقوبات دولية على فرنسا، بسبب انتهاكها للقانون الدولي وعدم احترامها لحقوق الإنسان<span dir=\"LTR\">.</span> كما ادعت أن بوتين حذر الرئيس الفرنسي إيمانويل ماكرون بعبارات شديدة اللهجة، وطالب&nbsp;بتجميد عضوية بلاده في الأمم المتحدة ومجلس الأمن وعزل فرنسا دولياً.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><span dir=\"LTR\" lang=\"AR-SA\"><img src=\"https://images-prod.misbar.com/articlebody/origin_zy5z79ch1.jpg\" style=\"height:525px; width:503px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><strong><span dir=\"LTR\"><span style=\"color:red\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ygowfqop6.jpg\" style=\"height:534px; width:504px\" /></span></span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_fhvtcpkc1.jpg\" style=\"height:515px; width:497px\" /></span></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 419,
+        "left": 7.20001220703125,
+        "path": "articles/1606723475عقوبات رئيسي.PNG",
+        "top": 2.31884765625,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1606723475عقوبات رئيسي.PNG",
+        "width": 745
+    },
+    "post_date": "2020-11-30T09:49:00.000+03:00",
+    "published": [
+        {
+            "id": "5fc4aa1fdcae9322ed0fec0c",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=178323967278564&id=104637011313927",
+            "name": "الدولة الباديسية الحديثة",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        },
+        {
+            "id": "5fc4aa1f1966c7615669de09",
+            "link": "https://www.facebook.com/djebase34/posts/1308712582795295",
+            "name": "احرار الجباس 34",
+            "origin": "facebook",
+            "path": "sources/06126d7d064267b4126a07ab031f1eebd4ea49fb.jpg"
+        },
+        {
+            "id": "5fc4aa1f99228e0ffd693ecf",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=417004956337575&id=106918384012902",
+            "name": "PyramiD",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        },
+        {
+            "id": "5fc4aa205a804211ab2e6c85",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=406663334118741&id=100043252338294",
+            "name": "حميد حمودي",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        },
+        {
+            "id": "5fc4aa2070c5c72c3c561d57",
+            "link": "https://www.facebook.com/reveurrrrr/posts/414298353259810",
+            "name": "وطني،،،،أنت حبي و فؤادي،،،،،جزائر يا ثورة حار فيها الزمان",
+            "origin": "facebook",
+            "path": "sources/eb76c8dd67bd5f9795c75ec87e8c47b66b226c95.jpg"
+        },
+        {
+            "id": "5fc4aa2098f2ac75ff419f33",
+            "link": "https://www.facebook.com/momo84scorpion/posts/1316457475387589",
+            "name": "Algerian people\\u0627\\u0644\\u0634\\u0639\\u0628 \\u0627\\u0644\\u062c\\u0632\\u0627\\u0626\\u0631\\u064a",
+            "origin": "facebook",
+            "path": "sources/09aca706c6c594d4b321084c90e9b059ea42937e.jpg"
+        },
+        {
+            "id": "5fc4aa206cf96336e610b2e0",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=211388253830614&id=113894853579955",
+            "name": "شباب الجزائر الجديدة",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        },
+        {
+            "id": "5fc4aa200e69bb1c31690455",
+            "link": "https://twitter.com/dpf7ZFNNT4vVunt/status/1332774295341314048",
+            "name": "❤ أم معاذ من الجزائر ❤",
+            "origin": "twitter",
+            "path": "sources/317b7a69ad6ae46b6fa763e2bc4341bdb845000d.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f904844e62195238e717021",
+            "link": "https://arabic.cnn.com/world/article/2020/11/28/over-130000-people-protest-security-bill-in-france",
+            "name": "CNN Arabic",
+            "origin": "",
+            "path": "sources/698e6d163f3b59c89a74c9d76e013e3a68b0de7a.jpg"
+        },
+        {
+            "id": "5f913aca80af35113500f289",
+            "link": "https://arabic.rt.com/world/1171166-بوتين-ماكرون-قلقه-إشراك-متطرفين-سوريا-ويبيا-قره-باغ/",
+            "name": "روسيا اليوم",
+            "origin": "",
+            "path": "sources/503885256032733240e36b9c7b4ab253a71ee546.jpg"
+        },
+        {
+            "id": "5fc4a793c7f7cb450d800e22",
+            "link": "https://news.un.org/ar/story/2020/11/1066322",
+            "name": "UN News",
+            "origin": "",
+            "path": "sources/e83ca1babf6f0fa4d976b94ff3ff4d0690fc58f6.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لم تطالب روسيا وألمانيا بفرض عقوبات دولية على فرنسا",
+    "updated_at": "2020-11-30 13:05:53",
+    "url_path": "/factcheck/2020/11/30/لم-تطالب-روسيا-وألمانيا-بفرض-عقوبات-دولية-على-فرنسا",
+    "was_notification_pushed": "true"
+}

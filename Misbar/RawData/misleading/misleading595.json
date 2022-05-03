@@ -1,0 +1,96 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 399,
+    "author": "",
+    "caption": "الصورة تعود لواقعة اعتداء على طالب في طرابلس (فيسبوك)",
+    "category": "News",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">صورة رجل اعتدت عليه زوجته بعد سماعها له وهو يتحدث مع حبيبته.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-09-24 19:37:15",
+    "created_by": "5f39b5a51dd585076701cb94",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 4,
+    "id": "5f6ccb3b8afe7803bf017b8a",
+    "investigation": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من الصورة وتبين أن الادعاء المتداول معها مضلل. إذ أن الصورة تعود لديسمبر/كانون الأول عام 2015، لواقعة اعتداء على طالب في المرحلة الثانوية في مدينة طرابلس اللبنانية، من قبل ناظر المدرسة. والشاب الظاهر في الصورة يُدعى منير سمنة.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_osjlou6me.jpg\" style=\"height:451px; width:624px\" /></p>\r\n\r\n<p style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">اقرأ/ي أيضاً</span></p>\r\n\r\n<p style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/09/23/%D9%84%D9%85-%D8%AA%D8%A3%D8%AE%D8%B0-%D9%87%D8%B0%D9%87-%D8%A7%D9%84%D9%81%D8%AA%D8%A7%D8%A9-%D8%A7%D9%84%D8%A8%D9%86%D8%AF%D9%82%D9%8A%D8%A9-%D9%85%D9%86-%D8%AE%D8%B7%D9%8A%D8%A8%D9%87%D8%A7-%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D8%A8\" style=\"color:#0563c1; text-decoration:underline\">هذه الفتاة الإيرلندية لا تُطلق النار من بندقية خطيبها المصاب</a></p>\r\n\r\n<p style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/09/23/%D9%87%D8%A4%D9%84%D8%A7%D8%A1-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%A6%D9%85-%D8%A7%D9%84%D8%AE%D9%85%D8%B3%D8%A9-%D9%85%D9%86-%D8%A3%D8%A8%D9%88%D9%8A%D9%86-%D8%A8%D8%B1%D8%A7%D8%B2%D9%8A%D9%84%D9%8A%D9%8A%D9%86-%D9%88%D9%84%D9%8A%D8%B3%D8%A7-%D8%B3%D9%88%D8%B1%D9%8A%D9%8A%D9%86\" style=\"color:#0563c1; text-decoration:underline\">هؤلاء التوائم الخمسة من أبوَين برازيليين وليسا سوريين</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات وصفحات على مواقع التواصل الاجتماعي، حديثأً، صورة ادعت أنها لرجل اعتدت عليه&nbsp;زوجته&nbsp;بعد سماعها له وهو يتحدث مع حبيبته.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_hokqjynzu.jpg\" style=\"height:770px; width:460px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_hwjdn2pbp.jpg\" style=\"height:834px; width:464px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1600965434500.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1600965434500.jpg",
+        "width": 752
+    },
+    "post_date": "2020-09-24T19:35:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "http://nn-lb.com/news.php?go=fullnews&newsid=4767",
+            "name": "منطقة السيدية الجميلة",
+            "path": "published/0_1600965434_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1445558802313143&id=912619062273789",
+            "name": "اهلنا الطيبين",
+            "path": "published/1_1600968599_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=180565830195662&id=109090907343155",
+            "name": "ميسان الحدث",
+            "path": "published/2_1600965986_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2660229137550013&id=100006888587373",
+            "name": "ضياء الخاقاني",
+            "path": "published/3_1600965986_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=373205754083672&id=100041827514759",
+            "name": "مولاتي يازهراء",
+            "path": "published/4_1600965986_facebook.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.lebanondebate.com/news/229020",
+            "name": "ليبانون",
+            "path": "sources/0_1600965551_مصدر 1.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لم تعتدِ عليه زوجته بسبب حديثه مع حبيبته",
+    "updated_at": "2020-09-26 11:11:52",
+    "url_path": "/factcheck/2020/09/24/لم-تعتدي-عليه-زوجته-بسبب-حديثه-مع-حبيبته",
+    "was_notification_pushed": "true"
+}

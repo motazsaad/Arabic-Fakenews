@@ -1,0 +1,146 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 162,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "الصورة لطفل نجا من حادثة غرق سفينة عام 2018 (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">صورة طفل عثر عليه رجال الإنقاذ بعد سقوط الطائرة الإندونيسية منذ أيام.</p>\r\n",
+    "country": "ID",
+    "created_at": "2021-01-12 13:40:24",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 6,
+    "feedback_pos": 7,
+    "id": "5ffd7c984e4b456afb1b3020",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;<a href=\"https://misbar.com/\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">مسبار</a>&quot; من الصورة وتبين أنها قديمة ومضللة، ولا علاقة لها بحادثة سقوط الطائرة الإندونيسية يوم 9 يناير/كانون الثاني الجاري. ووجد أن سوتوبو بورو نوجروهو ، المتحدث باسم وكالة إدارة الكوارث، نفى عبر حسابه الرسمي على موقع تويتر الخبر عام 2018، بعد أن نشرت الصورة مرفقة بخبر أنها لطفل نجا من حادث سقوط طائرة عام 2018 في إندونيسيا. وأكد أن الطفل كان أحد الناجين من سفينة غرقت قبالة جزيرة سلايار الإندونيسية في 3 يوليو/تموز 2018، التي قُتل فيها 34 شخصًا وتم إنقاذ أكثر من 150 في هذا الحادث.</p>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"ltr\">Banyak postingan foto di media sosial bahwa ada bayi penumpang pesawat JT-610 yang selamat. Foto bayi ini adalah bayi yang selamat dari tenggelamnya kapal KM Lestari Maju, di Perairan Selayar, pada Selasa 3/7/2018. Jadi info tersebut adalah Hoax. Jangan menyebarkan hoax. <a href=\"https://t.co/SziiS6Uoog\">pic.twitter.com/SziiS6Uoog</a></p>\r\n&mdash; Sutopo Purwo Nugroho (@Sutopo_PN) <a href=\"https://twitter.com/Sutopo_PN/status/1057113422242803712?ref_src=twsrc%5Etfw\">October 30, 2018</a></blockquote>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وقد تحقق &quot;<a href=\"https://misbar.com/factcheck/2020/05/19/%D8%A5%D9%86%D8%AF%D9%88%D9%86%D9%8A%D8%B3%D9%8A%D8%A7\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">مسبار</a>&quot; من الصورة ذاتها منذ أشهر، بعد أن نسبت إلى حادث آخر في إندونيسيا.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">يذكر أن طائرة إندونيسية &nbsp;طراز بوينغ 737 &nbsp;تابعة لشركة &quot;سريويجايا&quot; سقطت في البحر بعد دقائق فقط من إقلاعها من العاصمة جاكرتا يوم 9 يناير/كانون الثاني الجاري، وكان على متنها 62 شخصًا لم تحدد هوياتهم، ولازالت عملية انتشال حطام الطائرة وأشلاء الضحايا مستمرة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">اقرأ/ي أيضًا</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/05/19/%D8%A5%D9%86%D8%AF%D9%88%D9%86%D9%8A%D8%B3%D9%8A%D8%A7\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">فرق الإنقاذ تعثر على رضيع غريق في إندونيسيا.. خبر مضلل</a></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2021/01/10/%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%82%D8%AF%D9%8A%D9%85-%D9%88%D9%84%D9%8A%D8%B3-%D9%84%D9%84%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D8%A7%D9%84%D8%A5%D9%86%D8%AF%D9%88%D9%86%D9%8A%D8%B3%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D9%86%D9%83%D9%88%D8%A8%D8%A9-%D8%A3%D9%85%D8%B3\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">فيديو قديم وليس للحظة سقوط الطائرة الإندونيسية</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "الطائرة الإندونيسية",
+        "حوادث الطائرات",
+        "جاكارتا"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات وحسابات على مواقع التواصل الاجتماعي، حديثًا، صورة لطفل ادعت أنه نجا من حادث سقوط الطائرة الإندونيسية منذ أيام، وعثر عليه رجال الإنقاذ دون أن يصاب بسوء.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;وقالت الصفحات ذاتها إن أمه استشعرت قرب الأجل فربطته فى سترة النجاة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_xae4t0f36.jpg\" style=\"height:380px; width:605px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_r3bacnxxw.jpg\" style=\"height:361px; width:604px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 219,
+        "left": 3.9520263671875,
+        "path": "articles/1610448024DqufDLzVsAARf_B.jpg",
+        "top": 100.035400390625,
+        "totalHeight": 423,
+        "totalWidth": 398,
+        "watermark_path": "articles/watermark-1610448024DqufDLzVsAARf_B.jpg",
+        "width": 390
+    },
+    "post_date": "2021-01-12T11:26:00.000+03:00",
+    "published": [
+        {
+            "id": "5fd773178286342eba386672",
+            "link": "https://www.facebook.com/groups/424572728120742/permalink/823002338277777",
+            "name": "قصص وحكايات ومعلومات مفيده جداا",
+            "origin": "facebook",
+            "path": "sources/9fb41797f3ab0b7b87f8775614ed7b0bdd915b9b.jpg"
+        },
+        {
+            "id": "5ffd7f5be050cb04216ac60f",
+            "link": "https://www.facebook.com/SYBMFRMAIDSIT.MA/posts/3515796881837032",
+            "name": "التعبئة و اليقضة بالقضايا الوطنية و دعم الحكم الذاتي بالصحراء المغربية",
+            "origin": "facebook",
+            "path": "sources/767b1e2fcaa9cbbb711627fb30ba6e973fb90c3d.jpg"
+        },
+        {
+            "id": "5ffd7f5b729fe86928733afe",
+            "link": "https://www.facebook.com/Communesadina/posts/3601849196568894",
+            "name": "جماعة صدينة/تطوان",
+            "origin": "facebook",
+            "path": "sources/5781d33970606693ef51b11de6cf757599f2e74e.jpg"
+        },
+        {
+            "id": "5ffd7f5cab0e5260711cbdc2",
+            "link": "https://www.facebook.com/groups/498088973904132/permalink/1277552372624451",
+            "name": "اخبار بلديات المسيله 47",
+            "origin": "facebook",
+            "path": "sources/9fb41797f3ab0b7b87f8775614ed7b0bdd915b9b.jpg"
+        },
+        {
+            "id": "5ffd7f5c18dba56f543db0f5",
+            "link": "https://www.facebook.com/youness.moumene.3/posts/2276492959161319",
+            "name": "Youness Moumene",
+            "origin": "facebook",
+            "path": "sources/a87f2679356c5a8a7eeb46472e30167d18c3a494.jpg"
+        },
+        {
+            "id": "5ffd7f5c1ffc1c7fcc5cfb06",
+            "link": "https://www.facebook.com/groups/185536545713857/permalink/528491138085061",
+            "name": "سوق درب عمر",
+            "origin": "facebook",
+            "path": "sources/9fb41797f3ab0b7b87f8775614ed7b0bdd915b9b.jpg"
+        },
+        {
+            "id": "5ffd7f5c8ddc09227305a60a",
+            "link": "https://www.facebook.com/abourdoud/posts/10222581995132811",
+            "name": "Abourdoud",
+            "origin": "facebook",
+            "path": "sources/a87f2679356c5a8a7eeb46472e30167d18c3a494.jpg"
+        },
+        {
+            "id": "5ffd7f5c61362d27c672a214",
+            "link": "https://www.facebook.com/groups/196066840580185/permalink/1642883649231823",
+            "name": "سوق باب النوادر لكل تطواني وتطوانيه",
+            "origin": "facebook",
+            "path": "sources/ce6c7301795eec895ddaccbfa72bd54a16ced3e6.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5ffadf0ecdecdb1792716470",
+            "link": "https://twitter.com/Sutopo_PN/status/1057113422242803712",
+            "name": "Sutopo Purwo Nugroho",
+            "origin": "twitter",
+            "path": "sources/2f2fae94ae00ded5ed0b297eb11afaa149a17ff2.jpg"
+        },
+        {
+            "id": "5ffd7f791ffc1c7fcc5cfb07",
+            "link": "https://www.lematin.ch/story/non-ce-bebe-n-est-pas-un-rescape-du-crash-120707576422",
+            "name": "www.lematin.ch",
+            "origin": "",
+            "path": "sources/1c131685ad9b9ecf2c1f13a93ff9fcd5495ec5b2.jpg"
+        },
+        {
+            "id": "5f91b84585c9fb2f0d4b500a",
+            "link": "https://www.bbc.com/arabic/world-55582927",
+            "name": "BBC ",
+            "origin": "",
+            "path": "sources/1_1589372500_BBC NEWS-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الصورة ليست لطفل نجا من حادثة الطائرة الإندونيسية الأخيرة",
+    "updated_at": "2021-01-12 14:01:03",
+    "url_path": "/factcheck/2021/01/12/الصورة-ليست-لطفل-نجا-من-حادثة-الطائرة-الإندونيسية-الأخيرة",
+    "was_notification_pushed": "true"
+}

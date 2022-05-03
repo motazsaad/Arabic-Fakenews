@@ -1,0 +1,73 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1284,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": " الصورة مأخوذة من فيديو نشره موقع روسيا اليوم (تويتر)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">رئيس الوزراء العراقي ينحني أمام الخامنئي.</span></p>\r\n",
+    "country": "IQ",
+    "created_at": "2020-07-24 14:36:55",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5f1ac7d7163be307d1110390",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من الصورة وتبين أنها مفبركة. إذ أن الصورة مأخوذة من فيديو نشره موقع روسيا اليوم، بتاريخ 22 يوليو/تموز الجاري، أثناء استقبال الخامنئي لرئيس الوزراء العراقي، في العاصمة الإيرانية طهران، في أول زيارة رسمية للكاظمي إلى الخارج منذ توليه منصبه في مايو/أيار. ولم ينحني الكاظمي في الفيديو الأصلي كما هو متداول.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"720\" src=\"https://www.youtube.com/embed/0h5DS56lc7Q\" width=\"1280\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات على مواقع التواصل الاجتماعي، منذ 23 يوليو/تموز الجاري، صورة تُظهر رئيس الوزراء العراقي مصطفى الكاظمي، وهو ينحني أمام المرشد الإيراني آية الله علي خامنئي.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_rdry96fy9.jpg\" style=\"height:586px; width:548px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_pp4am9ocs.jpg\" style=\"height:568px; width:553px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/159559215620.jpg",
+        "watermark_path": "articles/watermark-159559215620.jpg"
+    },
+    "post_date": "2020-07-24T14:32:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/2012Kerkuklu/status/1286489900758503426",
+            "name": "الرادع العثماني",
+            "path": "published/0_1595590614_الرادع العثماني.jpg"
+        },
+        {
+            "link": "https://twitter.com/HamzaJassim8/status/1286207800771784704",
+            "name": "حمزة الكرعاوي",
+            "path": "published/1_1595590614_حمزة الكرعاوي.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=0h5DS56lc7Q",
+            "name": "فيديو الاستقبال",
+            "path": "sources/0_1595590615_yt_1200-vflhSIVnY.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صورة مفبركة.. رئيس الوزراء العراقي ينحني أمام الخامنئي",
+    "updated_at": "2020-09-25 06:25:33",
+    "url_path": "/factcheck/2020/07/24/صورة-مفبركة-رئيس-الوزراء-العراقي-ينحني-أمام-الخامنئي"
+}

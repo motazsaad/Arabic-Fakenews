@@ -1,0 +1,89 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1402,
+    "author": {
+        "fullname": "خالد إسماعيل",
+        "id": "5e59256dd4a2295224257db3",
+        "photo": {
+            "name": "1582900589_صورة 2.jpg",
+            "path": "authors/1582900589_صورة 2.jpg"
+        }
+    },
+    "caption": "صورة زائفة لفتاة إيرانية ادّعت صفحات أنها تدرّب لجاناً إلكترونية (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">القبض على إيرانية دخلت مصر عبر السودان لتدريب الكتائب الإلكترونية ضد الدولة بتمويل قطري تركي.</p>\r\n",
+    "country": "EG",
+    "created_at": "2020-02-28 17:23:50",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e592276d4a229616a753755",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الصورة المتداولة وتبيّن زيفها، إذ لم تنشر أيُّ وسيلة إعلامية موثوقة خبر القبض على الفتاة الإيرانية، كما لم تنشر وزارة الداخلية أيَّ بيان أو خبر عن هذه الواقعة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">تظهر في الصورة الأصلية صورة لفتاة ترتدي معطفاً أصفر تجلس أمام مجموعة هواتف آيفون في مكانٍ يُرجّح أنه يؤجّر مجموعة من الهواتف والحواسيب بمقابل مادي. وعن طريق تعديل الصورة، أُضيفت الفتاة ذات الرداء الإسلامي، للترويج للقصة المفبركة التي تدّعي أنها فتاة إيرانية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وعند البحث عن أصل الصورة اتّضح أنها متداولة منذ سنوات عبر الإنترنت، وتناولتها مواقع إلكترونية في عام 2015 ضمن سياق تقارير صحفية تتحدث عن خبر مشكوك فيه حول تلاعب لجان إلكترونية صينية في تقييم تطبيقات هواتف الآيفون عن طريق رفع التقييم الإيجابي لبعض التطبيقات، وذلك للتأثير على اختيار مستخدمي هذه البرامج.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_nw22ca1b4.jpg\" style=\"height:570px; width:452px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "مصر",
+        "لجان إلكترونية",
+        "إيران"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات على مواقع التواصل الاجتماعي خبراً مفاده القبض على إيرانية دخلت مصر عبر الحدود البرية السودانية بغرض تشكيل لجان إلكترونية معادية للدولة المصرية، وتدريبها على التشكيك في إنجازات النظام المصري، ونشر الإحباط بين المواطنين وتأليب الرأي العام. وذلك عن طريق إنشاء مجموعات &quot;فيسبوك&quot; بأسماء دينية وأسماء وطنية، وأسماء أخرى متعلقة بالتجميل وإنقاص الوزن وتحضير الأكل. لكن تمكّنت السلطات الأمنية المصرية من القبض عليها وعلى 25 إرهابيّ في مناطق ومحافظات مختلفة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_t7dyg78uc.jpg\" style=\"height:320px; width:439px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><u><span dir=\"LTR\" style=\"color:#0563c1\"><img src=\"https://images-prod.misbar.com/articlebody/origin_kfdp1djda.jpg\" style=\"height:741px; width:451px\" /></span></u></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_qfdqkcq9q.jpg\" style=\"height:677px; width:454px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1582903097GettyImages-sb10067245d-001.jpg"
+    },
+    "post_date": "2020-02-28T16:12:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/groups/891429067895818/permalink/1056353234736733/",
+            "name": "نور محمد",
+            "path": "published/0_1582899829_نور محمد-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=10220157881390095&set=a.10203680596468270&type=3",
+            "name": "خالد نور",
+            "path": "published/1_1582899829_خالد نور-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=1379944882178487&set=a.208831385956515&type=3",
+            "name": "شهيرة عبد الله",
+            "path": "published/2_1582899830_شهيرة عبدالله-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=3407333022628628&set=a.827459157282707&type=3",
+            "name": "محمد الجميل",
+            "path": "published/3_1582899830_محمد الجميل-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Mustafa.Mohammed.Rashad77/posts/1039985969734548",
+            "name": "نحن الإعلام البديل",
+            "path": "published/4_1582899830_نحن الإعلام البديل-لوغو.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.huffingtonpost.co.uk/2015/02/05/china-app-store-manipulation-photo_n_6620376.html?utm_hp_ref=uk-apple&guccounter=1",
+            "name": "Huffpost",
+            "path": "sources/0_1582899829_Huffpost-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "صورة زائفة لفتاة إيرانية ادّعت صفحات على مواقع التواصل الاجتماعي تدريبها للجانٍ إلكترونية",
+    "title": "إيرانية تدرّب لجاناً إلكترونية في مصر.. صورة زائفة",
+    "updated_at": "2020-09-23 12:37:51",
+    "url_path": "/factcheck/2020/02/28/إيرانية-تدرب-لجانا-إلكترونية-في-مصر-صورة-زائفة"
+}

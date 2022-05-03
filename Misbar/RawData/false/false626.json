@@ -1,0 +1,133 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 4,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1720,
+    "author": {
+        "fullname": "صباح الخطيب",
+        "id": "5edc1b38db291674e776e9a3",
+        "photo": {
+            "path": "authors/1591643228_7.jpg"
+        }
+    },
+    "caption": "لم يذكر أردوغان السيسي في خطابه (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">أردوغان للسيسي &quot;اذهب لمحاربة إثيوبيا، ولو هي بعيدة عليك سأنقل جنودك على نفقة تركيا، واترك ليبيا لأهلها&quot;.</p>\r\n",
+    "country": "TR",
+    "created_at": "2020-06-11 14:30:53",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ee215edd6e4a93f736f9525",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من التصريح المتداول وتبين أنه زائف، إذ <a href=\"https://www.tccb.gov.tr/ar/-/1666/120419/-hicbir-salginin-birlik-ve-beraberligimizden-buyuk-olmadigi-inanciyla-yolumuza-devam-ediyoruz-\" style=\"color:#0563c1; text-decoration:underline\" target=\"_blank\">صرّح</a> أردوغان في آخر بيان له عقب اجتماع مجلس الوزراء الذي عقد يوم الثلاثاء، 9 يونيو/حزيران الجاري، مؤكداً على استمرارية بلاده في دعم ليبيا. ولم يُذكَر السيسي في البيان مطلقاً.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">كما بحث &quot;مسبار&quot; عن الخبر المتداول في <a href=\"https://www.facebook.com/AJA.Egypt/\" style=\"color:#0563c1; text-decoration:underline\" target=\"_blank\">صفحة</a> الجزيرة &ndash; مصر على موقع فيسبوك، وتبين أنه مفبرك ولم تنشره الصفحة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/sPv57_AN6zk\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "أردوغان",
+        "ليبيا",
+        "حفتر",
+        "السراج",
+        "حكومة الوفاق",
+        "تركيا"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول حسابات على مواقع التواصل الاجتماعي، منذ 10 يونيو/حزيران الجاري، تصريحاً منسوباً للرئيس التركي رجب طيب أردوغان، يخاطب فيه الرئيس المصري عبد الفتاح السيسي قائلاً &quot;اذهب لمحاربة إثيوبيا، ولو هي بعيدة عليك سأنقل جنودك على نفقة تركيا، واترك ليبيا لأهلها&quot;. وقد نقلت بعض الصفحات التصريح مرفقاً بشعار صفحة الجزيرة &ndash; مصر على موقع فيسبوك.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_cidamj169.jpg\" style=\"height:563px; width:536px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_95qfty9x1.jpg\" style=\"height:639px; width:511px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 337,
+        "left": 4.26666259765625,
+        "path": "articles/1591875052غلاف.jpg",
+        "top": 11,
+        "totalHeight": 423,
+        "totalWidth": 608,
+        "watermark_path": "articles/watermark-1591875052غلاف.jpg",
+        "width": 599
+    },
+    "post_date": "2020-06-11T14:19:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=781764802648019&id=100024435190878",
+            "name": "عبد الرحمن ابو زياد",
+            "path": "published/0_1591875051_عبد الرحمن.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/HalbaaAlshi/photos/a.1177347039111394/1445058762340219/",
+            "name": "هلبا الشي",
+            "path": "published/1_1591875051_هلبا.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo?fbid=1902282473297487&set=a.272630169596067",
+            "name": "Mohamed Fathy Saad",
+            "path": "published/2_1591875051_محمد فتحي.jpg"
+        },
+        {
+            "link": "https://twitter.com/nasr_Almasrien/status/1270615279379156994",
+            "name": "د. نصر الدين",
+            "path": "published/3_1591875051_د نصر.jpg"
+        },
+        {
+            "link": "https://twitter.com/Udt978Vz6lRWq0G/status/1270657636929847297",
+            "name": "دبلوماسي قديم",
+            "path": "published/4_1591875051_دبلوماسي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/mouhamed.habassi.7/posts/990176188064847",
+            "name": "Hábácï Móúhmd",
+            "path": "published/5_1591875367_ال.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=105816364504583&id=103515851401301",
+            "name": "صوت الشعب",
+            "path": "published/6_1591875367_صوت.jpg"
+        },
+        {
+            "link": "https://twitter.com/mez3let/status/1270795711400030211",
+            "name": "mez3let",
+            "path": "published/7_1591875367_mez.jpg"
+        },
+        {
+            "link": "https://twitter.com/aboomer69985712/status/1270478276474085377",
+            "name": "abo omer",
+            "path": "published/8_1591875367_abo.jpg"
+        },
+        {
+            "link": "",
+            "name": "",
+            "path": ""
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.tccb.gov.tr/ar/-/1666/120419/-hicbir-salginin-birlik-ve-beraberligimizden-buyuk-olmadigi-inanciyla-yolumuza-devam-ediyoruz-",
+            "name": "الرئاسة التركية",
+            "path": "sources/0_1591875051_الرئاسة التركية.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/AJA.Egypt/",
+            "name": "الجزيرة مصر",
+            "path": "sources/1_1591875051_الجزيرة مصر.jpg"
+        },
+        {
+            "link": "https://youtu.be/sPv57_AN6zk",
+            "name": "TRT عربي",
+            "path": "sources/2_1591875052_TRT عربي.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": " أردوغان للسيسي \"اترك ليبيا لأهلها\".. تصريح زائف",
+    "updated_at": "2020-09-25 17:01:31",
+    "url_path": "/factcheck/2020/06/11/أردوغان-للسيسي-اترك-ليبيا-لأهلها--تصريح-زائف"
+}

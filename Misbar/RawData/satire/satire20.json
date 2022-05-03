@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1068,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الصورة مركّبة وتم التلاعب بها بغرض السخرية (فيسبوك)",
+    "category": "Sports",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة تُظهر ماتيو ابن ميسي وهو يرتدي قميص بايرين ميونيخ، بعد أن هزم الفريق الألماني برشلونة في دوري أبطال أوروبا.</p>\r\n",
+    "country": "ES",
+    "created_at": "2020-08-17 17:22:57",
+    "created_by": "5f39b5451dd585078b5d94f3",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f3a92c11dd58507ac5b2ef8",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة، وتبيّن أنها مفبركة، فقد تمّ التلاعب بالصورة الأصلية بغرض السخرية، ليظهر فيها ماتيو ابن ميسي مرتدياً قميص بايرن ميونيخ.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_gdshz1qn8.jpg\" style=\"height:485px; width:815px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشر مستخدمون على موقع التواصل الاجتماعي، صورة قالوا إنّها لابن ميسي، ماتيو، وهو يلبس قميص فريق بايرن ميونخ، بعد فوز الفريق الألماني على فريق برشلونة الإسباني في ربع نهائي دوري أبطال أوروبا بثمانية أهداف مقابل هدفين.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_7ps85wuip.jpg\" style=\"height:494px; width:629px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_gayefaz5l.jpg\" style=\"height:404px; width:839px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_e5wkyvrst.jpg\" style=\"height:555px; width:696px\" /></span></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 368,
+        "left": 24.644149780273438,
+        "path": "articles/1597674176117865342_168304828210636_9210245963750135210_n.jpg",
+        "top": 7.100341796875,
+        "totalHeight": 375,
+        "totalWidth": 697,
+        "watermark_path": "articles/watermark-1597674176117865342_168304828210636_9210245963750135210_n.jpg",
+        "width": 655
+    },
+    "post_date": "2020-08-17T17:10:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=168304824877303&set=a.121333736241079&type=3&theater",
+            "name": "عقيل العامري",
+            "path": "published/0_1597674176_عقيل العامري.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=2746120595646348&set=a.1383514468573641&type=3&theater",
+            "name": "متمرد كراسكو",
+            "path": "published/1_1597674176_المتمرد كراسكو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/1727801174184159/permalink/2506919752938960/?__tn__=-R",
+            "name": "Moussa Ouboutyb",
+            "path": "published/2_1597674176_Moussa Ouboutyb.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/359018248395011/permalink/387072715589564/?__tn__=-R",
+            "name": "يوسف محمد الحيالي",
+            "path": "published/3_1597674176_يوسف محمد الحيالي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/125175185788331/photos/a.125285692443947/126513915654458/?type=3&__tn__=-R",
+            "name": "فلسفة رياضية",
+            "path": "published/4_1597674176_فلسفة رياضية.jpg"
+        }
+    ],
+    "result": "satire",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.picterio.com/media/2360337740830463604_333120168",
+            "name": "Picterio",
+            "path": "sources/0_1597674176_Picterio .jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صورة ساخرة.. ابن ميسي لم يلبس قميص البايرن بعد هزيمته برشلونة",
+    "updated_at": "2020-09-25 11:53:38",
+    "url_path": "/factcheck/2020/08/17/صورة-ساخرة-ابن-ميسي-لم-يلبس-قميص-البايرن-بعد-هزيمته-برشلونة"
+}

@@ -1,0 +1,123 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 3,
+        "tw": 2
+    },
+    "amount_sources": 0,
+    "amount_visits": 59570,
+    "author": {
+        "fullname": "مريم هواري",
+        "id": "5e299460d4a22939983a3ec5",
+        "photo": {
+            "path": "authors/1579791192_Maryam.jpg"
+        }
+    },
+    "caption": "نُشرت عدّة تقارير ترجّح أن فايروس كورونا المستجد لم يُصنع في مختبر (Facebook)",
+    "category": "Science",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">العالمة الأميركية جودي ميكوفيتس تفضح حقائق عن الإدارة الأميركية بخصوص فايروس كورونا وتتهم الجيش الأميركي باختلاقه&nbsp;بالاشتراك مع مختبر ووهان الصيني.</p>\r\n",
+    "country": "",
+    "created_at": "2020-05-17 20:33:49",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ec1757ddb291603ba5758d4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الادعاء زائف. إذ نُشرت عدّة تقارير تؤكد أن فايروس كورونا المستجد لم يُصنع في مختبر، وأضافت منظمة الصحّة العالمية في أبريل/نيسان من العام الجاري أن مصدر الفايروس حيوانات في الصين ولم يصنّع في مختبر، ونشرت المجلّة العلمية Natural Science في شهر مارس/آذار الجاري أن التركيب الجيني لفايروس كورونا مصدره البيئة الحيوانية أو تطور داخل جسم الإنسان بعد انتقاله من الحيوانات.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">أما بخصوص ادعاء سجن ميكوفيتس، فقد وُجهت لها لائحة اتهام بسرقة بيانات إلكترونية وأجهزة حاسوب وغيرها من مركز أبحاث عملت فيه في ولاية نيفادا الأميركية وتم سجنها لفترة قصيرة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">ويُذكر أن مواقع التواصل الاجتماعي فيبسوك وإنستغرام وموقع يوتيوب حذفوا&nbsp;المقابلة المتداولة ومدّتها أكثر من 20 دقيقة، وادّعت المواقع أن المقطع المتداول ينتهك سياسات النشر بسبب نشر الادعاءات المضللة والمضرّة وأهمها الترويج لعدم ارتداء الكمامات للحد من انتشار فايروس كورونا، وقد حصل المقطع المصوّر على أكثر من مليون مشاهدة و150،000 مشاركة على موقع فيسبوك.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_669fh7vj8.jpg\" style=\"height:338px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_3lzfjs1rw.jpg\" style=\"height:473px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_85jshyxtn.jpg\" style=\"height:511px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_fuy2fj3sr.jpg\" style=\"height:327px; width:624px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات على موقع التواصل الاجتماعي فيسبوك منشورات ومقطعاً مجتزءاً&nbsp;من مقابلة مع العالمة الأميركية جودي ميكوفيتس، إحدى أبرز الناشطات المناهضة للتطعيم في الولايات المتّحدة، والذي تتهم خلاله مدير المعهد الوطني الأميركي للحساسية والامراض المعدية والعضو في فريق عمل البيت الأبيض لمواجهة فايروس كورونا، أنتوني فاوتشي، بأنه المسؤول عن تصنيع فايروس كورونا في المختبرات الأميركية. وذكر الناشرون أن ميكوفيتس سُجنت لمدة خمس سنوات دون توجيه تهمة محددة لها.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_pea0uehgp.jpg\" style=\"height:580px; width:494px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_rvzhmz4nq.jpg\" style=\"height:236px; width:486px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_e83tku2sa.jpg\" style=\"height:481px; width:499px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 168,
+        "left": 3.331024169921875,
+        "path": "articles/1589736828photo.jpg",
+        "top": 4.497802734375,
+        "totalHeight": 183,
+        "totalWidth": 306,
+        "watermark_path": "articles/watermark-1589736828photo.jpg",
+        "width": 298
+    },
+    "post_date": "2020-05-17T20:26:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/hamdy.m.elshamy/posts/2771917816270275",
+            "name": "Hamdy Hamed",
+            "path": "published/0_1589736826_hamdy hamed.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=163798778502999&id=100046186330826",
+            "name": "ابراھیم أبو محمد",
+            "path": "published/1_1589736827_ibrahim abu mohamad.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=875297059601657&id=100013641133090",
+            "name": "رضا أبو أحمد",
+            "path": "published/2_1589736827_rida abu.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/DrMama365/posts/949572448800170",
+            "name": "وفِي أنفسكم أفلا تبصرون",
+            "path": "published/3_1589736827_wa fi nafsokom.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=520029838667115&id=322722331731201",
+            "name": "سوريا البلد",
+            "path": "published/4_1589736827_syria albalad.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Muslim.3abdAllah.djoundy/posts/2980452195369144",
+            "name": "السلفية ضد الماسونية",
+            "path": "published/5_1589736827_salaf.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.reuters.com/article/us-health-coronavirus-who-virus/coronavirus-very-likely-of-animal-origin-no-sign-of-lab-manipulation-who-idUSKCN223180",
+            "name": "REUTERS",
+            "path": "sources/0_1589736827_رويترز.jpg"
+        },
+        {
+            "link": "https://www.medicalnewstoday.com/articles/the-new-coronavirus-was-not-genetically-engineered-study-shows",
+            "name": "MEDICAL NEWS TODAY",
+            "path": "sources/1_1589736827_medical news.jpg"
+        },
+        {
+            "link": "https://www.nature.com/articles/s41591-020-0820-9",
+            "name": "nature medicine ",
+            "path": "sources/2_1589736827_nature medicine.jpg"
+        },
+        {
+            "link": "https://www.reuters.com/article/us-health-coronavirus-usa-intelligence/coronavirus-was-not-manmade-or-genetically-modified-u-s-spy-agency-idUSKBN22C2PN",
+            "name": "REUTERS",
+            "path": "sources/3_1589736827_رويترز.jpg"
+        },
+        {
+            "link": "https://www.sciencemag.org/news/2012/06/criminal-charges-dropped-against-chronic-fatigue-syndrome-researcher-judy-mikovits#",
+            "name": "Science",
+            "path": "sources/4_1589736827_science.jpg"
+        },
+        {
+            "link": "https://www.technologyreview.com/2020/05/07/1001469/facebook-youtube-plandemic-covid-misinformation/",
+            "name": "MIT Technology Reviews",
+            "path": "sources/5_1589736827_MIT.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل اختلقت أميركا كورونا كما قالت العالمة جودي ميكوفيتس؟",
+    "updated_at": "2020-09-25 18:48:19",
+    "url_path": "/factcheck/2020/05/17/مقابلة-زائفة-للعالمة-الأميركية-جودي-ميكوفيتس"
+}

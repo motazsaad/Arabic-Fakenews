@@ -1,0 +1,106 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1268,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "category": "Technology",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">مقطع فيديو يظهر فيه روبوت يؤدي حركات قتالية بمهارة عالية.</p>\r\n",
+    "country": "US",
+    "created_at": "2019-12-05 14:45:37",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 5,
+    "id": "5de8ede18d7bd92e71797863",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">في الحقيقة إن الفيديو ليس لروبوت ذي مهارات قتالية فائقة، بل هو مجرّد محاكاة ساخرة <span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:#1d2129\">Parody</span></span></span><span style=\"background-color:white\"><span style=\"color:#1d2129\"> نفذتها شركة </span></span><span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:#1d2129\">Corridor Digital</span></span></span><span style=\"background-color:white\"><span style=\"color:#1d2129\">،</span></span> <span style=\"background-color:white\"><span style=\"color:#1d2129\">لروبوت تعمل على تطويره شركة </span></span><span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:#1d2129\">Boston Dynamics</span></span></span><span style=\"background-color:white\"><span style=\"color:#1d2129\"> المتفرّعة من معهد ماساتشوستس للتكنولوجيا في الولايات المتحدة.</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:#1d2129\">نشرت شركة </span></span><span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:#1d2129\">Corridor Digital</span></span></span><span style=\"background-color:white\"><span style=\"color:#1d2129\"> بداية الأمر فيديو المحاكاة على سبيل المزاح، فأعطته عنوان &quot;روبوت جديد... الجنود عفا عليهم الزمن&quot;. ثمّ أتبعته بمقطع آخر يقارن بين الفيديو الحقيقي والآخر الذي تمّ تركيبه. ولم تكتف الشركة بذلك بل نشرت أيضاً تقريراً مفصلاً تحدّث فيه التقنيين الذي صنعوا الفيديو عن عملية المحاكاة التي أجروها. إلّا أنّ آلاف مستخدمي مواقع التواصل الاجتماعي تداولوا مقطع الفيديو الأول الذي نشرته الشركة على سبيل الدعابة وحصد أكثر من عشر ملايين مشاهدة. ووصل انتشار المقطع المركّب إلى حدٍّ دفع إدارة &quot;تويتر&quot; إلى تنبيه المستخدمين أنّه غير حقيقيٍّ عند إجرائهم بحثاً عنه.</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:#1d2129\">هذا وانتشرت العديد من الشائعات منها القول أنّ صناعة الروبوت &quot;المقاتل&quot; حصلت ضمن برامج عسكري في الجيش الأمريكي لتطوير الروبوتات، وآخرون اعتبروا إنه أحد إنجازات الصناعة العسكرية الروسيّة.</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وتعتمد مثل هذه المحاكاة على تقنية تُدعى <span dir=\"LTR\">CGI</span>، وهي عملية لتوليد الصور واستخدامها في تقنيات الغرافيك، الذي يتم بواسطتها ابتكار التصاميم البصرية في العديد من المجالات كألعاب الفيديو وأفلام الخيال العلمي.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_55478e5e049693efe3095b090ffe28cb.jpg\" style=\"height:319px; width:466px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_32f5ffc2840305b1864cd4c912a80e47.jpg\" style=\"height:365px; width:411px\" /></span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_764acff60a05c83b5a58907e4a52e75f.jpg\" style=\"height:343px; width:447px\" /></span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_c5703bca85742a47fbb6b080976286f3.jpg\" style=\"height:410px; width:487px\" /></span></strong></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">انتشر على موقع يوتيوب مقطع فيديو تداوله الآلاف حول العالم على منصتي التواصل الاجتماعي فيسبوك وتويتر. الفيديو الذي حصد ملايين المشاهدات يُظهر روبوتاً وهو يقوم بحركات قتالية متقنة للغاية، الأمر الذي دفع العديد من رواد وسائل التواصل للتساؤل حول إمكانية استبدال البشر بالروبوتات أثناء الحروب في المستقبل القريب، في حين أثار حفيظة آخرين تخوفوا من المخاطر المحدقة بالبشر إذا صُنّعت هذه الروبوتات الشرسة واستخدمت فعلياً أثناء الحروب!</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وذكر بعض روّاد مواقع التواصل الاجتماعي في المنطقة العربية في معرض تعليقهم على الفيديو، أنّ شركة <span dir=\"LTR\">Boston Dynamic</span> صنّعت الروبوت لصالح الجيش الأمريكي ضمن برنامج صناعة الروبوتات المقاتلة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_b60c32c6c432ced65ee558cf7bcd4448.jpg\" style=\"height:330px; width:386px\" /></span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_a7871a528ec2616ac040cdd041ee846d.jpg\" style=\"height:295px; width:391px\" /></span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_9bd6756d61cfe71a2b40aec156c04beb.jpg\" style=\"height:349px; width:463px\" /></span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_bcfc2b170da42e27d2b55c7faf078b85.jpg\" style=\"height:346px; width:412px\" /></span></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 355,
+        "left": 1.81109619140625,
+        "path": "articles/1575546337الروبوتات تحارب-min.jpg",
+        "top": 13,
+        "totalHeight": 423,
+        "totalWidth": 635,
+        "width": 632
+    },
+    "post_date": "2019-11-11T14:34:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.youtube.com/watch?time_continue=40&v=y3RIHnK0_NE&feature=emb_logo",
+            "name": "Corridor",
+            "path": "published/0_1575546337_corridor-logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ArabFuGenTech/videos/2119407521687498/?v=2119407521687498",
+            "name": "Arab FuGen",
+            "path": "published/1_1575546337_عرب فيوجن-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/thaqafa.watarfih/videos/523700345133721/?f=AbpmhTXIxSRTeQ3_2Nq51y6y_-eBx78JL5d5RUBs0IhtLyUOaP2uqhPj2IIoY1tDp6yoEp4tWfi4T03nDeM1RA_lnozUEQ3HIfQBuo_6JNVKICDbGZkqHeqwRWkYBUaEUa0sw1f6lLYIRKjaoZ1lYcLImn7mCS8_wnGhYU6BQ_sW-LNsybxeS_bqwCStiXhBFJs&epa=RELATED_SEARCHES",
+            "name": "ثقافة وترفيه",
+            "path": "published/2_1575546337_ثقافة وترفيه-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/swishschoolplus/videos/2245563389069121/?f=AbpmhTXIxSRTeQ3_2Nq51y6y_-eBx78JL5d5RUBs0IhtLyUOaP2uqhPj2IIoY1tDp6yoEp4tWfi4T03nDeM1RA_lnozUEQ3HIfQBuo_6JNVKICDbGZkqHeqwRWkYBUaEUa0sw1f6lLYIRKjaoZ1lYcLImn7mCS8_wnGhYU6BQ_sW-LNsybxeS_bqwCStiXhBFJs&epa=RELATED_SEARCHES",
+            "name": "مدرسة جرافيك مان",
+            "path": "published/3_1575546337_جرافيك مان-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100002340473214/posts/2530035440417780?d=n&sfns=mo",
+            "name": "Col Pravat Panda",
+            "path": "published/4_1575546337_col pravat-logo.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=zIdqiwHsuI8&feature=youtu.be",
+            "name": "Corridor Crew",
+            "path": "sources/0_1575546337_corridor crew-logo.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?time_continue=3&v=zOyDwBvxAyA&feature=emb_logo",
+            "name": "Corridor Crew",
+            "path": "sources/1_1575546337_corridor crew-logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/RobotAndAIWorld/status/1143217984904880128",
+            "name": "Robot&AlWorld",
+            "path": "sources/2_1575546337_Robot&Alworld-logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/i/events/1139866772146778112",
+            "name": "Twitter",
+            "path": "sources/3_1575546337_Twitter-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "قريباً ستحارب الروبوتات بدلاً من البشر... ما حقيقة الفيديو؟",
+    "updated_at": "2020-09-25 20:06:36",
+    "url_path": "/factcheck/2019/12/05/قريبا-ستحارب-الروبوتات-بدلا-من-البشر-ما-حقيقة-الفيديو"
+}

@@ -1,0 +1,109 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 86374,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "الصور لأشخاص اعتنقوا المسيحية في فنزويلا لكنها قديمة (مواقع التواصل الاجتماعي)",
+    "category": "Spirituality & Religion",
+    "claim": "<p dir=\"rtl\"><span dir=\"rtl\" lang=\"ar\">ستة آلاف </span><span dir=\"RTL\" lang=\"AR-SA\">شخصٍ</span><span dir=\"rtl\" lang=\"ar\">&nbsp;يتعمدون ويعتنقون المسيحية في فنزوزيلا بعد صراع رهيب مع فايروس كورونا.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-04-18 15:49:32",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e9af75cdb29161cae4cb894",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"rtl\" lang=\"ar\">تحقق &quot;مسبار&quot; من الصور ووجد أنها بالفعل تعود لأشخاص اعتنقوا المسيحية في فنزويلا، لكنها قديمة ولا علاقة لها بفايروس كورونا المستجد (كوفيد-19)، ونُشرت في أغسطس/آب 2015، أي قبل انتشار الفايروس بخمس سنوات.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><iframe frameborder=\"0\" height=\"671\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fsila.mahanaim.5%2Fposts%2F691637214313272&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت&nbsp;صفحات وحسابات على موقع التواصل الاجتماعي فيسبوك،</span> <span dir=\"RTL\" lang=\"AR-SA\">مجموعة صور تُظهر عدداً من الأشخاص يتعمدون في المياه داخل مسبح، وقال ناشروها أنها لستة آلاف شخصٍ&nbsp;يعتنقون المسيحية في فنزويلا بعد صراع رهيب مع فايروس كورونا المستجد، وأنّ الصور التُقطت أثناء عمادٍ جماعيّ لهم.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><iframe frameborder=\"0\" height=\"783\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Falhammaalhsna%2Fposts%2F127261732222037&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe><iframe frameborder=\"0\" height=\"783\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D2556166398034555%26id%3D100009236587999&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe><iframe frameborder=\"0\" height=\"783\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FAladramfirhh%2Fposts%2F3384770418217181&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1587214171Screenshot (171).jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1587214171Screenshot (171).jpg",
+        "width": 752
+    },
+    "post_date": "2020-04-18T15:46:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/alhammaalhsna/posts/127261732222037",
+            "name": "الحمامه الحسنة",
+            "path": "published/0_1587214170_الحمامه الحسنة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2556166398034555&id=100009236587999",
+            "name": "Samuiel KhaLaf",
+            "path": "published/1_1587215633_Samuiel KhaLaf.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Aladramfirhh/posts/3384770418217181",
+            "name": "العدرا مريم مفرحة القلوب",
+            "path": "published/2_1587215633_العدرا مريم مفرحة القلوب.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=286220119045086&id=100029712992731",
+            "name": "ابرام ابرام",
+            "path": "published/3_1587215633_ابرام ابرام.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/1555861348048313/permalink/2327359407565166/",
+            "name": "نانسي عزمي",
+            "path": "published/4_1587215633_نانسي عزمي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/211707148848719/permalink/3253521624667241/",
+            "name": "Nadia Nagib",
+            "path": "published/5_1587215634_Nadia Nagib.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/meen.gherak.bi7en.3lya/posts/3313227072020606",
+            "name": "مين غيرك بيحن عليا",
+            "path": "published/6_1587215634_مين غيرك بيحن عليا.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/sila.mahanaim.5/posts/691637214313272",
+            "name": "Sila Mahanaim",
+            "path": "sources/0_1587216786_Sila Mahanaim.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?time_continue=146&v=UvIW48hMmnY&feature=emb_logo",
+            "name": "Maranatha Venezuela",
+            "path": "sources/1_1587215711_Maranatha Venezuela.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": " ستة آلاف شخص يعتنقون المسيحية بسبب كورونا.. حقيقة القصة",
+    "updated_at": "2020-09-25 19:02:21",
+    "url_path": "/factcheck/2020/04/18/6-آلاف-شخص-يعتنقون-المسيحية-بسبب-كورونا-حقيقة-القصة"
+}

@@ -1,0 +1,114 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 3766,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "الصورة للفنان اللبناني وائل منصور مع والدته بالتبني (فيسبوك)",
+    "category": "Arts & Culture",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">صورة لسيدة تزوجت من الفتى الذي قامت بتربيته لسنوات بعد أن وجدته دون مأوى.</p>\r\n",
+    "country": "LB",
+    "created_at": "2020-07-22 22:34:01",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f1894a9163be306c8048bab",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الادعاء وتبين أنه مضلل، إذ تعود الصورة للفنان اللبناني وائل منصور ووالدته كريستين منصور. ووجد أنّ الصورة المنتشرة مأخوذة من الفيديو الكليب الذي نشره عبر قناته الخاصة على موقع يوتيوب بعنوان &quot;أم بتربيني&quot; وذلك بتاريخ 20 مارس/آذار 2019. وكان العمل إهداءً لها.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/eFH0r42lYoc\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><br />\r\n&nbsp;كما تبين&nbsp;أنّ كريستين منصور ليست أمه الحقيقية، بل قامت بتبنيه من الميتم منذ أن كان عمره 8 أيام. وكشف وائل منصور عن حقيقة والدته في برنامج &quot;<a href=\"https://www.youtube.com/watch?v=2NLARf7Zq8k\" style=\"color:blue; text-decoration:underline\">أنا هيك</a>&quot; على قناة الجديد اللبنانية. وذكر أنّ والدته الحقيقية من أصول لبنانية، أنجبته بعمر الـ14 وأنّ والده أفريقي الأصل<span dir=\"LTR\">.</span> وقال إنّه &quot;لم يهتم لمعرفة هوية والده، وإنه يسامح والدته لأنها كانت طفلة لا تدرك عواقب الأمور، ولأنّها قد تكون تعرّضت للاغتصاب&quot;.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/yIBRPgvAS0U\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات وحسابات على موقع فيسبوك، صورة لشاب وسيدة، مرفقة بتعليق يفيد أنها اعتنت به لسنوات حين كان بلا مأوى ثم تزوجته. وقالت بعض الصفحات إن أصوله أفريقية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><br />\r\n<span dir=\"LTR\"><img alt=\"2.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_nwq8s0wn4.jpg\" style=\"height:356px; width:605px\" /><br />\r\n<img alt=\"1.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_5na0wawfi.jpg\" style=\"height:344px; width:604px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"0.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_re74syq5d.jpg\" style=\"height:351px; width:605px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 323,
+        "left": 9.10528564453125,
+        "path": "articles/159544644188010422_193474798731758_5896964379143831552_n.jpg",
+        "top": 7.746826171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-159544644188010422_193474798731758_5896964379143831552_n.jpg",
+        "width": 574
+    },
+    "post_date": "2020-07-22T20:15:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=179146513601128&set=gm.2584532621764446&type=3&theater",
+            "name": "Louis Yo Yo",
+            "path": "published/0_1595446439_107095162_176604653855314_8465648401429263526_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/marocfamly/photos/a.1978056889188202/2324032171257337/?type=1&theater",
+            "name": "Maroc Family",
+            "path": "published/1_1595446439_28379068_1977866902540534_1080368458787499687_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/nas.lghorba.ma/photos/a.179365292589323/577947236064458/?type=3&theater",
+            "name": "ناس الغربة",
+            "path": "published/2_1595446439_26219193_282697835589401_1793675353596949032_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/jbala.marouc/photos/a.507336336278308/889800478031890/?type=3&theater",
+            "name": "تراث جبالة شمال المغرب",
+            "path": "published/3_1595446439_66720866_910632049282066_2091206064455286784_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Baghdadloveo/photos/a.244590705937592/905300389866617/?type=3&theater",
+            "name": "بغداد حبيبتي",
+            "path": "published/4_1595446440_44049087_683996075330384_5025533734036701184_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/168152813804755/photos/a.168584980428205/377042666249101/?type=3&theater",
+            "name": "شنطر+18",
+            "path": "published/5_1595446440_29498081_181223585831011_4138333800746393155_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/7amed.2m/photos/a.501153229927410/2906000469442662/?type=3&theater",
+            "name": "أنا حامض إذن أنا دوزيم",
+            "path": "published/6_1595446440_16711753_1500794249963298_1175305626552002997_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Momohmaryoul16/photos/a.220764935280551/550589052298136/?type=3&theater",
+            "name": "Mũsïc Ràí Ghïr Jâdĩd Tamryéél Et séntîmĕntäl",
+            "path": "published/7_1595446440_107333692_568437990513242_5647167255572657671_n.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=yIBRPgvAS0U",
+            "name": "قناة الجديد",
+            "path": "sources/0_1595446440_mcqaxHRL.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=eFH0r42lYoc",
+            "name": "قناة وائل منصور على يوتيوب",
+            "path": "sources/1_1595446440_4909286-250702275.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه ليست صورة سيدة ربت ولداً أفريقياً ثم تزوجته",
+    "updated_at": "2020-09-25 20:00:29",
+    "url_path": "/factcheck/2020/07/22/هذه-ليست-صورة-سيدة-ربت-ولدا-أفريقيا-ثم-تزوجته"
+}

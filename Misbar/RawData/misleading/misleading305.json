@@ -1,0 +1,151 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 895,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "الصورة الأصلية لقوّات أميركية (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">صورة لعتاد الجيش الجزائري وهو معروض للبيع. شنغريحة فتح سوقاً في منطقة بشار، وكل من يريد شراء السلاح يستطيع ذلك.</p>\r\n",
+    "country": "DZ",
+    "created_at": "2020-11-20 10:59:57",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 36,
+    "feedback_pos": 57,
+    "id": "5fb7777dae0df817d8299660",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;<a href=\"https://misbar.com/\" style=\"text-decoration:none\" target=\"_blank\"><u>مسبار</u></a>&quot; من الصورة المتداولة ووجد أنها مضللة، لأن <a href=\"https://www.army.mil/article/36886/more_than_third_of_equipment_now_out_of_iraq\" style=\"text-decoration:none\" target=\"_blank\"><u>الصورة الأصلية</u></a> تُظهر خروج مجموعة من قوات الجيش الأميركي من العراق عام 2010. مما يعني ألا علاقة للصورة بالجيش الجزائري.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">يُذكر أن الولايات المتحدة الأميركية <a href=\"https://www.nytimes.com/2020/09/09/us/politics/iraq-troops-trump.html\" style=\"text-decoration:none\" target=\"_blank\"><u>اتفقت</u></a> مع العراق على تخفيض عدد قواتها هناك خلال العام الجاري.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_kf7znz7xi.jpg\" style=\"height:318px; width:538px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">اقرأ/ي أيضاً:</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/11/17/%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%AA%D8%A7%D9%86-%D9%84%D9%8A%D8%B3%D8%AA%D8%A7-%D9%85%D9%86-%D8%AD%D8%B1%D8%A7%D8%A6%D9%82-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%A7%D9%84%D8%A3%D8%AE%D9%8A%D8%B1%D8%A9\" target=\"_blank\"><span style=\"color:#000000\">الصورتان ليستا من حرائق الجزائر الأخيرة</span></a></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/11/16/%D8%B5%D9%88%D8%B1%D8%A9-%D9%85%D9%81%D8%A8%D8%B1%D9%83%D8%A9-%D9%84%D9%84%D8%B4%D8%A7%D8%A8-%D8%AD%D8%B3%D9%86%D9%8A-%D9%88%D8%AA%D9%88%D8%A8%D8%A7%D9%83-%D9%88%D8%B3%D9%86%D9%88%D8%A8-%D8%AF%D9%88%D8%BA\" target=\"_blank\"><span style=\"color:#000000\">صورة مفبركة للشاب حسني وتوباك وسنوب دوغ</span></a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "الجزائر",
+        "المغرب"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تتناقل صفحات وحسابات على مواقع التواصل الاجتماعي، حديثاً، صورة تدّعي أنها للجيش الجزائري بعدما فتح السعيد شنقريحة، أحد قادته، سوقاً في منطقة بشار يستطيع كل من يريد شراء السلاح فعل ذلك.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_wn4h8tgdb.jpg\" style=\"height:424px; width:523px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_naboo68h7.jpg\" style=\"height:445px; width:539px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 363,
+        "left": 1.37982177734375,
+        "path": "articles/1605859196army.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 648,
+        "watermark_path": "articles/watermark-1605859196army.jpg",
+        "width": 646
+    },
+    "post_date": "2020-11-20T09:55:00.000+03:00",
+    "published": [
+        {
+            "id": "5fb7786d157b402d3919db0f",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1094516777635936&id=464334117320875",
+            "name": "Saber.Dz مقاطعة",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        },
+        {
+            "id": "5fb7786da2f02a6bd706a124",
+            "link": "https://www.facebook.com/SecuriteRoutiere.Dz.pageOficial/posts/4117144454981414",
+            "name": "حوادث المرور في الجزائر",
+            "origin": "facebook",
+            "path": "sources/1e8b497cce11b57bf3a08b5483e8c90a3aef40d8.jpg"
+        },
+        {
+            "id": "5fb7786e25097a76321111c2",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=245059766949789&id=103607631095004",
+            "name": "Media phone",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        },
+        {
+            "id": "5fb7786e8be9b5300f1dd022",
+            "link": "https://www.facebook.com/bouhatemnews/posts/796377730907623",
+            "name": "Bouhatem News",
+            "origin": "facebook",
+            "path": "sources/07872169e80609ba6b75bba67158b75f2b1b6de9.jpg"
+        },
+        {
+            "id": "5fb7786e7627ae727813d551",
+            "link": "https://www.facebook.com/groups/506116960297352/permalink/667967807445599/",
+            "name": "يوسف عقبي",
+            "origin": "facebook",
+            "path": "sources/9fb41797f3ab0b7b87f8775614ed7b0bdd915b9b.jpg"
+        },
+        {
+            "id": "5fb7794b26a2c7604b1bdea5",
+            "link": "https://www.facebook.com/SARAALI83333/posts/1776358745860085",
+            "name": "اضحك وخليك من التمنشير ههههههههههههههه",
+            "origin": "facebook",
+            "path": "sources/d0edf1356453e76d2f6da989aa7267b9fe9d1c84.jpg"
+        },
+        {
+            "id": "5fb7794c7f7d923f41302264",
+            "link": "https://www.facebook.com/groups/508149326216874/permalink/1282904562074676/",
+            "name": "CH BI BA",
+            "origin": "facebook",
+            "path": "sources/9fb41797f3ab0b7b87f8775614ed7b0bdd915b9b.jpg"
+        },
+        {
+            "id": "5fb7794c4bb35b6f8a74d440",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2665139660402950&id=100007208264945",
+            "name": "Hichem Solo",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        },
+        {
+            "id": "5fb7794c97a9ad7acc399154",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=816214412287656&id=100016973137670",
+            "name": "Achraf Chekchek",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        },
+        {
+            "id": "5fb7794df1b1ab68eb33e13d",
+            "link": "https://www.facebook.com/habib.kihali.7/posts/525742171715261",
+            "name": "Habib Kihali",
+            "origin": "facebook",
+            "path": "sources/770085f06aadef856dfae7f25fca090afbd79e11.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fb4d541cfe84d212e3ff5cc",
+            "link": "https://www.army.mil/article/36886/more_than_third_of_equipment_now_out_of_iraq",
+            "name": "www.army.mil",
+            "origin": "",
+            "path": "sources/3626a533b1dab55b73e096472f1e8a21f0b3b53f.jpg"
+        },
+        {
+            "id": "5f8dddc9675718689f7f08d6",
+            "link": "https://www.nytimes.com/2020/09/09/us/politics/iraq-troops-trump.html",
+            "name": "www.nytimes.com",
+            "origin": "",
+            "path": "sources/6ef182af576c3d3ef5751d0e996d7e926f9d91f8.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صورة لانسحاب قوات أميركية من العراق وليست للجيش الجزائري",
+    "updated_at": "2020-11-20 11:10:04",
+    "url_path": "/factcheck/2020/11/20/صورة-لانسحاب-قوات-أميركية-من-العراق-وليست-للجيش-الجزائري",
+    "was_notification_pushed": "true"
+}

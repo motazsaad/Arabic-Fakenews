@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1009,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "وصل معدل هطول الأمطار في المدينة في أعقاب الإعصار إلى نحو 75 سنتمتراً (Getty)",
+    "category": "News",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">صورة من فيضانات السودان.</span></p>\r\n",
+    "country": "SD",
+    "created_at": "2020-09-09 15:44:32",
+    "created_by": "5f39b5a51dd585076701cb94",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f58ce307d88d12bfe24261c",
+    "investigation": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من الصورة المتداولة وتبين أن الادعاء مضلل، وليست من السودان. وتعود الصورة لإعصار </span><span dir=\"RTL\" lang=\"AR-EG\">هارفي</span><span dir=\"RTL\" lang=\"AR-SA\"> الذي ضرب ولاية تكساس الأميركية، بتاريخ 28 أغسطس/آب عام 2017.<br />\r\nوقد وصل معدل هطول الأمطار في المدينة في أعقاب <a href=\"https://www.bbc.com/arabic/world-41074178\" style=\"color:#0563c1; text-decoration:underline\">الإعصار</a> إلى نحو 75 سنتمتراً، ما حول شوارعها إلى ما يشبه الأنهار في تدفق المياه فيها.</span></p>\r\n\r\n<p><img src=\"https://images-prod.misbar.com/articlebody/investigation_o6oz2h8gg.jpg\" style=\"height:347px; width:625px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول مواقع إخبارية وحسابات على مواقع التواصل الاجتماعي، حديثاً، صورة ادعت أنها من السودان بعد الفيضانات التي اجتاحت البلاد مؤخراً.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_zyxnwn5jk.jpg\" style=\"height:583px; width:483px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_4zq9xpyca.jpg\" style=\"height:362px; width:476px\" /></p>\r\n\r\n<p style=\"text-align:right\"><iframe frameborder=\"0\" height=\"652\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FCBCEgypt%2Fposts%2F5295221077184531&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 422,
+        "left": 0.888916015625,
+        "path": "articles/1599655471GettyImages-840239148.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1599655471GettyImages-840239148.jpg",
+        "width": 750
+    },
+    "post_date": "2020-09-09T15:41:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/CBCEgypt/posts/5295221077184531?__xts__%5B0%5D=68.ARAYsHbz2IuN_udOOaibCXucIgl9H-wZ3tOCqt21rpINEP3atW06_uea9RpLg4MkeVa8VNsshRmnMBFsC8U1B5rhczB2T7d2R2WPhJgm25IaqQMnt21AauEtMm-tJ392PoqKrtVFKpm7bkoA8D1SG7EHMDtFxPW5tg4pL03SEuZW5vy3iMxTEpt-Yp7roifUkMaoEAwmAEC1S6EwOfAAP2usEW2k07eRTZgBjZCT6nJQg5EyWsZr5OtFNrqRIMEEWdaHtRxCkzQ00AQfR0r1rdpRU0MVbXpICueJMTLAW0Hop9avHFoiXIsrWZYknElIRnz1wxRo9gLcL9ERWLhzWoJOPQ&__tn__=-R",
+            "name": "CBC Egypt",
+            "path": "published/0_1599655471_CBC Egypt.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.bald-news.com/3595434",
+            "name": "البلد نيوز",
+            "path": "published/1_1599655637_البلد نيوز.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.dmcnews.org/breaking_news/1514999/%D8%B5%D9%88%D8%B1--%D9%85%D8%A3%D8%B3%D8%A7%D8%A9-%D8%B4%D8%B9%D8%A8-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D8%AA%D8%AB%D9%8A%D8%B1-%D8%B6%D8%AC%D8%A9-%D8%A8%D9%85%D9%86%D8%B5%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%88%D8%B4%D9%8A%D8%A7%D9%84-%D9%85%D9%8A%D8%AF%D9%8A%D8%A7",
+            "name": "dmc news",
+            "path": "published/2_1599655637_دي ام سي نيوز.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/abumuammal/status/1302950777695145984",
+            "name": "ابو مؤمل البياتي",
+            "path": "published/3_1599655637_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/eissa_enas/status/1303402777599762432",
+            "name": "إيناس عيسى",
+            "path": "published/4_1599655637_twitter.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.gettyimages.com/detail/news-photo/people-walk-down-a-flooded-street-as-they-evacuate-their-news-photo/840239148?irgwc=1&esource=AFF_GI_IR_TinEye_77643&asid=TinEye&cid=GI&utm_medium=affiliate&utm_source=TinEye&utm_content=77643",
+            "name": "Getty images",
+            "path": "sources/0_1599655471_Getty.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الصورة من إعصار هارفي عام 2017 وليست من فيضانات السودان",
+    "updated_at": "2020-09-25 11:37:06",
+    "url_path": "/factcheck/2020/09/09/الصورة-من-إعصار-هارفي-عام-2017-وليست-من-فيضانات-السودان",
+    "was_notification_pushed": "true"
+}

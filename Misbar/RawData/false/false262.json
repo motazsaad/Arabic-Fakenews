@@ -1,0 +1,108 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 417,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "أكد أن كل ما أصابه سعال خلال الصلاة (sputniknews)",
+    "category": "Spirituality & Religion",
+    "claim": "<p>وفاة خطيب وإمام الحرم المكي عبد الرحمن السديس.</p>\r\n",
+    "country": "SA",
+    "created_at": "2020-09-26 19:51:49",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 4,
+    "feedback_pos": 18,
+    "id": "5f6f71a5ce5b6d4f50432eb1",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; ليجد أن الخبر إشاعة، وأن&nbsp;رئاسة شؤون الحرمين أعلنت&nbsp;على لسان السديس في الساعات الأخيرة،&nbsp;عودة&nbsp;برامج الزيارة لمجمع الكسوة ومعرض عمارة الحرمين الشريفين ومكتبة الحرم المكي الشريف تدريجياً وفق الإجراءات الاحترازية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وفي السياق ذاته قال أحد المقربين من دائرته وهو الكاتب زهير كتبي أنه أجرى معه اتصالاً، واطمأن على صحته، وكل ما جرى أنه خلال صلاة من الصوات أصابه السعال.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_5hbeuuqbf.jpg\" style=\"height:510px; width:602px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_c605s8bbs.jpg\" style=\"height:519px; width:602px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات على مواقع التواصل الاجتماعي، خبراً مفاده وفاة عبد الرحمن السديس&nbsp;الذي يُعرَف&nbsp;بالسديس&nbsp;وهو <span dir=\"RTL\">الرئيس العام لشؤون المسجد الحرام والمسجد النبوي</span>&nbsp;وإمام وخطيب الحرم المكي، وأصبح&nbsp;الخبر &quot;ترند&quot; على موقع تويتر، وقد بدأ تداوله منذ 23 سبتمبر/أيلول الجاري حتى اللحظة، وذكرت بعض المنشورات ومقاطع الفيديو أنه توفي نتيجة نوبة قلبية، ومنشورات أخرى أن وفاته جاءت بعد إصابته بفايروس كورونا المستجد.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_3tetr12my.jpg\" style=\"height:157px; width:602px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_6rb8tlyoa.jpg\" style=\"height:360px; width:602px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 408,
+        "left": 14.399993896484375,
+        "path": "articles/16011391081066011005.jpg",
+        "top": 11.599853515625,
+        "totalHeight": 423,
+        "totalWidth": 782,
+        "watermark_path": "articles/watermark-16011391081066011005.jpg",
+        "width": 726
+    },
+    "post_date": "2020-09-26T17:21:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/abousalama91/status/1308803670897758208",
+            "name": "abou-salama oussama ",
+            "path": "published/0_1601139107_ق4.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.youtube.com/watch?v=TMtEr6rBq0M&feature=youtu.be",
+            "name": "السعودية نيوز",
+            "path": "published/1_1601139108_5555.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/tgNyV3Jv82Mrpx3/status/1309525701721288704",
+            "name": "مستمع جيد",
+            "path": "published/2_1601139108_ق4.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/elmazlooma/status/1308762352196767744",
+            "name": "مظلوم",
+            "path": "published/3_1601139108_ق4.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/photo?fbid=975154765832752&set=basw.AbpJS8VPP7pJBCVWVUVYG_FAQ_7yqLa4lNBbvwlojcdgtyvwW81k6KXkR1JR7Hj9u2NRIQqVTshSNe_te7GDuR0uBbKzszTaS3RedSuFYFMUX8hKefa87BgQoiKrYgqnSSv2mUzyyJgpAHoKYWgxz_x86frQJWslBDjJLvN9vunWJC46HwY5yXu-IcMR6ZLruI1r_29gd6lKLgo8zwHZfTrQ&opaqueCursor=AbrX4-Fm2lyGYLliw2s2RYgfvTOrY33bfFI1edL0qSvpiGAVuWLXSzb9C1ZnBC2IOfZdXLboNAlQpp_oLVKNyITWx-iFBs3Vs2din_9KOX0jptEcQBAFJpxTjmQir2Lej3SMS4bQ5tQz9lLhVH44efsToqbtaeu02NCTnsWe1A4mwBxohaqmV2fYrxdnF39GfJh1IinDm9zLTidkGPoM0vOjtVBPg5KqwZjhpBKAU9wOsT6qQHkkR-ZXWh1b32kG4cwmq0DtlR5TODV3heKlP_9ly_B2VNCaYaHRYIu-HNiUayBcKutuelxNRew8CaNmcnhcB7h4_8HDhi8Am-zZWZVn3wNAlSLQTs5fJg13SRYPUIuK0-jT2HKekOL3yefojye1xjWx4MCVk0zCZWz7OudBqBm0LmhIKVl57Dzd7yWsYNFOB9imDk-j0XNumgvky38q5ue3K88qLz2HF6dCqargNV6lpvoIoqOJHGbTSQV6_rFgM8P4KRFS7P8KuMUXm51UDdMoT0Ot5lpozVleCNd9Ruoq3Brgao9XDtINDTqCrVRFzc_Yf_JVGHgMqBJqyd9BYJ1c6QN29-6WZR8tvZ6QN2jpSY9VNAY7LYAjkaXR0tuXCttysvPyLV18d8-2wuSTdhk42boE0EAWL8h3TrOimJORIV68EDOyw3StX1Pbdrk4-SeluobdcwUFTjWMr3VGCTIf1FO8e56dj9MzyeeId6oKBkGAkB1-mjOzl4WgeOyl3OuQTo6_J5BaTDBR7-8dVMJ_BelYCNrr2MAN47F4tEwgMMJCtiulTeZXzV-vp41O5WVhew_FW1BjhSy8U3xPDdgrJ3vP6rHIHgOZwtTDRTD_XVj5aSmWNv04CTtyadBQIWxrTL4nQDISWg3MUq6j1P3tyKkwjH6bDHoXfc-idx1mgA0i7QZ8Bo4TvDdAHlje6dpF2t0VPkkDpAgA5UxXalbUwMKCY9fkfd7PsR-tVDNj9H1vth-H0JFs9j9NntzgFOrJkPQUv-7l8bRB6S8Q-uNfZEFo6z4qS3ery35DsUJT0rweysikVlJw1t6uk1ndsonFwVPZs1z4nidY3P2mRn2nPGcKHXnvMv1-PnRpJAEGxpyZ3_HYQfJejjYt7YAWxaoz_aRAEeeiqQPR0ToNr3b-LtFUTkxDYDttRHnMKbj1Cops9EOIiOQRlYcVfg",
+            "name": "أبومحمد الهوني",
+            "path": "published/4_1601139108_قققف.JPG"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://new-beautiful.org/%D9%85%D9%88%D8%AA_%D8%A7%D9%84%D8%B3%D8%AF%D9%8A%D8%B3%D9%8A/",
+            "name": "أجمل جديد",
+            "path": "sources/0_1601139108_654.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/ReasahAlharmain/status/1309597160481206273?s=19&fbclid=IwAR0M0qID9AGRk04aU2u5wIwIE_tH_F-eXcn43PYXvgNcu8VFvzP8sS4NL9Y",
+            "name": "رئاسة شؤون الحرمين",
+            "path": "sources/2_1601139108_8WfA3779_400x400.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الشيخ السديس على قيد الحياة",
+    "updated_at": "2020-09-26 20:05:21",
+    "url_path": "/factcheck/2020/09/26/الشيخ-السديس-على-قيد-الحياة",
+    "was_notification_pushed": true
+}

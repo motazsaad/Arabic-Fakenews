@@ -1,0 +1,150 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 379,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "caption": "أحد المقاطع ليس في الأردن (يوتيوب)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\"><span style=\"background-color:white\"><span style=\"color:#050505\">في الأردن أسلحة وإطلاق نار واحتفالات واسعة عقب الانتخابات النيابية الأردنية</span><span style=\"color:#050505\">.</span></span></p>\r\n",
+    "country": "JO",
+    "created_at": "2020-11-12 16:35:08",
+    "created_by": "5f39b1ee1dd5850789476b61",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 3,
+    "id": "5fad3a0cc545c36a9520e6f6",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقق &quot;مسبار&quot; من الفيديو المتداول، ووجد أنه مضلل، إذ أنَّ أحد المقاطع المضافة للفيديو ليس للاحتفالات بالانتخابات النيابية الأردنية. فإطلاق النار الذي يظهر من الدقيقة 2:05 وحتى 2:27، منشور على موقع يوتيوب منذ عام 2017 على أنه لاحتفالات العراقيين بفوز منتخبهم على المنتخب القطري في 26-12-2017 في بطولة كأس الخليج.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_ii8i1giac.jpg\" style=\"height:431px; width:624px\" /></p>\r\n\r\n<p><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/VsaHhT4PWG0\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">نشرت قناة العربية على صفحتها في موقع فيسبوك &quot;العربية فلسطين&quot;، مقطع فيديو ادعت أنه لإطلاق النار في الأردن عقب الانتخابات النيابية التي جرت يوم الثلاثاء، 10&nbsp;نوفمبر<span dir=\"LTR\">/</span>تشرين الثاني الجاري. وتداول المقطع عددٌ من مستخدمي مواقع التواصل الاجتماعي.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_h6rs95oa2.jpg\" style=\"height:639px; width:502px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_zof2muok0.jpg\" style=\"height:631px; width:593px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 412,
+        "left": 19.20001220703125,
+        "path": "articles/1605188107صورة000.JPG",
+        "top": 7.300048828125,
+        "totalHeight": 423,
+        "totalWidth": 804,
+        "watermark_path": "articles/watermark-1605188107صورة000.JPG",
+        "width": 733
+    },
+    "post_date": "2020-11-12T16:25:00.000+03:00",
+    "published": [
+        {
+            "id": "5fad3a0b395ea737bf444594",
+            "link": "https://www.facebook.com/Alarabiya.Palestine/posts/2737895056474951",
+            "name": "العربية فلسطين  Alarabiya Palestine",
+            "origin": "facebook",
+            "path": "sources/58552861c88a6c81ff1cd24be43d0f400f0fc84c.jpg"
+        },
+        {
+            "id": "5fad3a0b2b9f3570c6224ecb",
+            "link": "https://www.facebook.com/story.php?story_fbid=10220361017470216&id=1073353469",
+            "name": "مجدي الباطية ",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5fad3a0b1412b51d6d398479",
+            "link": "https://www.facebook.com/103598008176818/videos/1301427290207880/",
+            "name": "نسمة نيوز.",
+            "origin": "facebook",
+            "path": "sources/02e0ce543796957fdd0ce06c5f43aeacdac080ed.jpg"
+        },
+        {
+            "id": "5fad3a0bcb69b361614dc211",
+            "link": "https://www.facebook.com/169594366530990/videos/1009944099526063/",
+            "name": "اربد وضواحيها",
+            "origin": "facebook",
+            "path": "sources/20015c5220cee8fd44248a0c85063c30fece5161.jpg"
+        },
+        {
+            "id": "5fad3fabcb69b361614dc212",
+            "link": "https://www.facebook.com/109531710686355/videos/1592594677590555/",
+            "name": "اخبار رؤيا المملكة",
+            "origin": "facebook",
+            "path": "sources/5d43af80fab6942f7952ec3e15bc32872c72e7ef.jpg"
+        },
+        {
+            "id": "5fad3fab6cc96b34491b192f",
+            "link": "https://www.facebook.com/654675821361894/videos/357377505555449/",
+            "name": "اخبار سما الاردن",
+            "origin": "facebook",
+            "path": "sources/c04ba0cade270d4a3282126100fc34d9bf80463d.jpg"
+        },
+        {
+            "id": "5fad3fab814d8c2f3a6aabaf",
+            "link": "https://www.facebook.com/114333666873352/videos/1665682486925569/",
+            "name": "كفريوبا",
+            "origin": "facebook",
+            "path": "sources/7d04c2de5118e7f6ecfa00f9a065391fef694663.jpg"
+        },
+        {
+            "id": "5fad3fac854af14fe366556c",
+            "link": "https://www.facebook.com/103770357813250/videos/1010593849414098/",
+            "name": "مدينة عمان",
+            "origin": "facebook",
+            "path": "sources/72fd59ea0d9bb91b9fec0164c30eb5f94e328a5c.jpg"
+        },
+        {
+            "id": "5fad3fac19a39112ac38c873",
+            "link": "https://www.facebook.com/106503110890466/videos/670836190287127/",
+            "name": "وكالة الاردن نيوز",
+            "origin": "facebook",
+            "path": "sources/d61c2e0c6f495066faa094b195b51a7edf22c845.jpg"
+        },
+        {
+            "id": "5fad3fac836e831f6a7c461f",
+            "link": "https://www.facebook.com/408956459134560/videos/695777987742410/",
+            "name": "خبرك عنا",
+            "origin": "facebook",
+            "path": "sources/2cbb7269923b5a7cfd2ca3700de50afb15d482c4.jpg"
+        },
+        {
+            "id": "5fad3fac2bf5cc12e560c099",
+            "link": "https://www.facebook.com/104263357579860/videos/386191742584942/",
+            "name": "جرش العز",
+            "origin": "facebook",
+            "path": "sources/2a5ca65e6725624f23fd02615c87043a4e9fb14e.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f8eb18ba3818a4eb81ad3d2",
+            "link": "https://www.youtube.com/watch?v=VsaHhT4PWG0&feature=youtu.be",
+            "name": "قناة يوتيوب",
+            "origin": "",
+            "path": "published/7_1603128187_72cba5bc67b31d9d753cf43c35e93c59a1b0f98d.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه المشاهد لإطلاق النار احتفالاً بالانتخابات ليست جميعها في الأردن",
+    "updated_at": "2020-11-12 16:59:08",
+    "url_path": "/factcheck/2020/11/12/هذه-المشاهد-لإطلاق-النار-احتفالا-بالانتخابات-ليست-جميعها-في-الأردن",
+    "was_notification_pushed": "true"
+}

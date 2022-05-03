@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 4451,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "تحقق \"مسبار\" من المقطع المتداول وتبين أنه مفبرك (Getty)",
+    "category": "Technology",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"rtl\" lang=\"ar\">اختراق قناة تركية&nbsp;وعرض&nbsp;علم السعودية عليها.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-04-11 13:11:52",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5e9197e8db291648661b7394",
+    "investigation": "<p dir=\"RTL\"><span dir=\"rtl\" lang=\"ar\"><span style=\"background-color:white\">تحقق &quot;مسبار&quot; من المقطع المتداول وتبين أنه مفبرك، إذ لم تُعلن قناة ATV التركية عن أي عمليات اختراق تعرّضت لها يوم 7 أبريل/نيسان أو خلال الأيام الفائتة.</span></span></p>\r\n\r\n<p dir=\"RTL\"><span dir=\"rtl\" lang=\"ar\"><span style=\"background-color:white\">وعثر &quot;مسبار&quot; على <a href=\"https://www.atv.com.tr/webtv/atvde-hafta-sonu/bolum/301?id=658c8bc6-9007-46ab-b43a-7e944b7d6a58\" style=\"color:blue; text-decoration:underline\">حلقة البرنامج</a> الذي أُخذَ عنها المقطع المتداول على موقع قناة ATV الرسمي، ووجد أنَّ الحلقة تعود لبرنامج Hafta Sonu، وأُذيعت يوم السبت الفائت 4 أبريل/نيسان، أي قبل تداول المقطع المزعوم بثلاثة&nbsp;أيام. وكانت الحلقة تناقش كيف تفسر العائلات فايروس كورونا للأطفال وكيف يتعاملون معه، ويظهر مقدم البرنامج İbrahim Sadri وضيفة الحلقة&nbsp;Beril pabu&ccedil;cuer.</span></span></p>\r\n\r\n<p dir=\"RTL\"><span dir=\"RTL\" lang=\"AR-SA\"><span dir=\"rtl\" lang=\"ar\">وفي نفس التوقيت الظاهر بالمقطع المتداول، ظهر في الفيديو الأصلي مذيع البرنامج رفقة الضيفة مع مشاهد أخرى تُظهر لقطات لبعض الأطفال والأسر، وهو ما يؤكد عملية التلاعب والفبركة&nbsp;في المقطع المزعوم، كما أنَّ الحلقة استمرت بشكلٍ طبيعيٍّ</span><span dir=\"RTL\" lang=\"AR-SA\"><span dir=\"rtl\" lang=\"ar\">&nbsp;حتى نهايتها.</span></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_ofbcr1lgk.jpg\" style=\"height:351px; width:624px\" /></span></p>\r\n\r\n<p style=\"text-align:right\">&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span dir=\"rtl\" lang=\"ar\">تداولت حسابات على موقع تويتر بشكل كبير، منذ 7 أبريل/نيسان الجاري، مقطع فيديو يظهر قناة ATV التركية وأثناء عرض أحد برامجها الخاصة، ثم يظهر فجأةً علم المملكة العربية السعودية على شاشة القناة مصحوباً بحساب على&nbsp;تطبيق سناب شات يحمل اسم mohad، وادعى ناشرو&nbsp;المقطع أنه يوثّق لحظة اختراق&nbsp;قناة تركية وعرض&nbsp;علم السعودية على شاشتها. كما ظهر في المقطع صوت شاب&nbsp;وأمامه جهاز كمبيوتر، في إشارة إلى أنه من قام بعملية الاختراق.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span dir=\"rtl\" lang=\"ar\">ويظهر على&nbsp;شاشة القناة في المقطع المتداول توقيت عملية الاختراق، وكان في الساعة التاسعة واثنين وثلاثين&nbsp;دقيقة.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ux5rxhcf4.jpg\" style=\"height:410px; width:378px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_or5gp82qd.jpg\" style=\"height:504px; width:388px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 420,
+        "left": 5.0709381103515625,
+        "path": "articles/1586599910GettyImages-1196235493.jpg",
+        "top": 1.71240234375,
+        "totalHeight": 512,
+        "totalWidth": 749,
+        "watermark_path": "articles/watermark-1586599910GettyImages-1196235493.jpg",
+        "width": 748
+    },
+    "post_date": "2020-04-11T13:07:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/i1fwsifz2wjnc6z/status/1248347178420121602?s=12",
+            "name": "عبدالعزيز بن خلف",
+            "path": "published/0_1586599910_عبدالعزيز بن خلف.jpg"
+        },
+        {
+            "link": "https://twitter.com/M0DLKMgwHqjMFDf",
+            "name": "بندر العروي",
+            "path": "published/1_1586600075_بندر العروي.jpg"
+        },
+        {
+            "link": "https://twitter.com/alg0os/status/1248340367210098688",
+            "name": "القوس",
+            "path": "published/2_1586600075_القوس.jpg"
+        },
+        {
+            "link": "https://twitter.com/DCCcoQS965/status/1248611021419249665",
+            "name": "الـدانـه مـحـمـد",
+            "path": "published/3_1586600075_الـدانـه مـحـمـد.jpg"
+        },
+        {
+            "link": "https://twitter.com/Ahmeddtm05/status/1248371099773083648",
+            "name": "احمد العوني",
+            "path": "published/4_1586600075_احمد العوني.jpg"
+        },
+        {
+            "link": "https://twitter.com/msm20042004m/status/1248264325053198336",
+            "name": "محمد (أبو جاسم) ",
+            "path": "published/5_1586600075_محمد (أبو جاسم).jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.atv.com.tr/webtv/atvde-hafta-sonu/bolum/301?id=658c8bc6-9007-46ab-b43a-7e944b7d6a58",
+            "name": "atv",
+            "path": "sources/0_1586599910_atv.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "حقيقة اختراق شاب سعودي لقناة تلفزيون تركية",
+    "updated_at": "2020-09-25 17:16:23",
+    "url_path": "/factcheck/2020/04/11/شاب-سعودي-يخترق-قناة-تركية-حقيقة-الفيديو"
+}

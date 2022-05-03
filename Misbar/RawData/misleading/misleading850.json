@@ -1,0 +1,91 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2224,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "الصورة الأصلية تُظهر الملك سلمان وهو يُقبل يد شقيقه الأكبر (تويتر)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة للملك سلمان بن عبد العزيز وهو يقبّل يد ميلانيا ترامب زوجة الرئيس الأميركي دونالد ترامب.</p>\r\n",
+    "country": "SA",
+    "created_at": "2020-07-26 18:11:24",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f1d9d1c163be3072b3a29cb",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الصورة مضلّلة لأنها مفبركة، إذ تمّ تركيب صورة الملك سلمان عليها، وقد وجد &quot;مسبار&quot; الصورة الأصلية منشورة منذ نوفمبر/تشرين الثاني 2017، وتُصوّر العاهل السعودي وهو ينحني ليقبّل يد شقيقه الأكبر الأمير طلال بن عبد العزيز.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"صورة_x0020_5\" src=\"https://images-prod.misbar.com/articlebody/investigation_drk2mqghj.jpg\" style=\"height:342.75pt; width:470.25pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وقد تبيّن بعد الفحص أّن فبركة الصورة تمّت من خلال تعديل آلية عرض الصورة الأصلية، وتركيب جسد الملك سلمان على الصورة المفبركة ليبدو فيها منحنياً لتقبيل يد ميلانا ترامب.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"صورة_x0020_7\" src=\"https://images-prod.misbar.com/articlebody/investigation_srr8jiag9.jpg\" style=\"height:192.75pt; width:470.25pt\" /> </span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت حسابات وصفحات على مواقع التواصل الاجتماعي، صورةً لملك السعودية الأمير سلمان بن عبد العزيز وهو أمام ميلانا ترامب ويُقبّل يدها.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"صورة_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/origin_48euqtoav.jpg\" style=\"height:590.25pt; width:470.25pt\" /> <img id=\"صورة_x0020_4\" src=\"https://images-prod.misbar.com/articlebody/origin_hti8547h2.jpg\" style=\"height:650.25pt; width:433.5pt\" /> </span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 316,
+        "left": 1.47137451171875,
+        "path": "articles/1595776283EdYrghzXoAEaqtl.jpg",
+        "top": 53.92138671875,
+        "totalHeight": 423,
+        "totalWidth": 567,
+        "watermark_path": "articles/watermark-1595776283EdYrghzXoAEaqtl.jpg",
+        "width": 562
+    },
+    "post_date": "2020-07-26T17:58:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/HassanH25201914/status/1285262589367394304",
+            "name": "أمير الهدوء",
+            "path": "published/0_1595776283_أمير الهدوء.jpg"
+        },
+        {
+            "link": "https://twitter.com/rafede2/status/1279349389052575745",
+            "name": "رافضي",
+            "path": "published/1_1595776283_رافضي.jpg"
+        },
+        {
+            "link": "https://twitter.com/btol_iq/status/1249045112576970756",
+            "name": "بتول قاسم",
+            "path": "published/2_1595776283_بتول قاسم.jpg"
+        },
+        {
+            "link": "https://twitter.com/mskhafagi/status/1129113454546182144",
+            "name": "لقوم يعلمون",
+            "path": "published/3_1595776283_لقوم يعلمون.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/benghazialhadth/photos/pcb.2416602188392539/2416600388392719/?type=3&theater",
+            "name": "بنغازي الحدث",
+            "path": "published/4_1595776283_بنغازي الحدث.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://samanews.ps/ar/post/320552/%d8%b1%d8%ba%d9%85-%d8%a7%d8%ad%d8%aa%d8%ac%d8%a7%d8%b2%d9%87-%d9%84%d9%86%d8%ac%d9%84%d9%87-%d8%b5%d9%88%d8%b1-%d8%a7%d9%84%d9%85%d9%84%d9%83-%d8%b3%d9%84%d9%85%d8%a7%d9%86-%d9%8a%d9%86%d8%ad%d9%86%d9%8a-%d8%a3%d9%85%d8%a7%d9%85-%d9%88%d8%a7%d9%84%d8%af-%d8%a7%d9%84%d9%88%d9%84%d9%8a%d8%af-%d8%a8%d9%86-%d8%b7%d9%84%d8%a7%d9%84-%d9%88%d9%8a%d9%82%d8%a8%d9%84-%d9%8a%d8%af%d9%8a%d9%87",
+            "name": "سما الإخبارية",
+            "path": "sources/0_1595776283_سما الإخبارية.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الصورة مفبركة.. الملك سلمان لم يُقبّل يد ميلانيا ترامب",
+    "updated_at": "2020-09-25 21:08:29",
+    "url_path": "/factcheck/2020/07/26/الصورة-مفبركة-الملك-سلمان-لم-يقبل-يد-ميلانيا-ترامب"
+}

@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1165,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "اسم المهرجان مأخوذ عن القرية التي يُقام بها وهي مسقط رأس الكاتب الطيب صالح (KARMAKOL FESTIVAL)",
+    "category": "News",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">مركب يهرّب المواطنين من وإلى أم الدرمان في السودان في كسرٍ للحظر الذي فرضته السلطات السودانيّة بعد تفشّي وباء فايروس كورونا المستجد (كوفيد_19)</span></p>\r\n",
+    "country": "SD",
+    "created_at": "2020-04-19 14:07:29",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e9c30f1db29166404640574",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الصورة ووجد أنّها مأخوذةٌ عن موقع مهرجان كرمكول بالسودان عام 2017 وهي لقطة من أحد أفلامه التي عُرضت في دورته الأولى، واسم المهرجان مأخوذ عن القرية التي يُقام بها وهي مسقط رأس الكاتب الطيب صالح، صاحب رواية &quot;موسم الهجرة إلى الشمال&quot;، وتبعد حوالى 330 كيلومتراً شمال الخرطوم على الضفة الغربيّة لنهر النيل.<span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:#333333\">.</span></span></span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_rabx0yqiz.jpg\" style=\"height:398px; width:605px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_9h18zxdt1.jpg\" style=\"height:554px; width:605px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:#222222\">تداولت صفحاتٌ على مواقع التواصل الاجتماعيّ وأخرى إخباريّة، منذ 18 ابريل/نيسان الجاري، صورةً لمركب على متنه مجموعة من المواطنين قالت إنّ أصحابه يقومون بنقل المواطنين من وإلى أم درمان بمبلغ ٥٠٠ جنيه سودانيّ في أول خطوة لكسر حظر التجوال بعد إغلاق الكباري والطرق المائيّة؛ خوفاً من تفشي فايروس كورونا المستجد</span><span dir=\"LTR\"><span style=\"color:#222222\">.</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><span style=\"color:#222222\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ytoxvydcq.jpg\" style=\"height:617px; width:406px\" /></span></span></strong></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_unubra1e3.jpg\" style=\"height:595px; width:402px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_o7j0u7ej4.jpg\" style=\"height:421px; width:605px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_i2ki5cqa5.jpg\" style=\"height:511px; width:605px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 369,
+        "left": 70.50004577636719,
+        "path": "articles/158729444861f51b4a-732c-40ff-88e3-5c642459c901.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-158729444861f51b4a-732c-40ff-88e3-5c642459c901.jpg",
+        "width": 656
+    },
+    "post_date": "2020-04-19T11:08:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=841284206347492&id=239631299846122",
+            "name": "شموخ النيل",
+            "path": "published/0_1587294447_86970740_799113443897902_9029103858533531648_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?id=101459247915848&story_fbid=293490288712742",
+            "name": "القلم الحر",
+            "path": "published/1_1587294447_70249312_108974450497661_2486009164929695744_o.jpg"
+        },
+        {
+            "link": "https://www.alrakoba.net/31387573/%d9%85%d9%88%d8%a7%d8%b7%d9%86%d9%88%d9%86-%d9%8a%d9%83%d8%b3%d8%b1%d9%88%d9%86-%d8%a7%d9%84%d8%ad%d8%b8%d8%b1-%d8%a8%d8%a7%d8%b3%d8%aa%d8%ba%d9%84%d8%a7%d9%84-%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%83/",
+            "name": "صحيفة الراكوبة",
+            "path": "published/2_1587294448_ييييبف.JPG"
+        },
+        {
+            "link": "https://www.tagpress.net/40753/",
+            "name": "تاق برس",
+            "path": "published/3_1587294448_تاق.JPG"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=o0E-hS3wLz4",
+            "name": "مهرجان كرمكول",
+            "path": "sources/0_1587294448_تتتتبب.jpg"
+        },
+        {
+            "link": "https://ar.globalvoices.org/2018/04/15/56987/",
+            "name": "أصوات عالمية",
+            "path": "sources/1_1587294448_جلوبل.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذا المركب لم يكسر الحظر في السودان",
+    "updated_at": "2020-09-25 19:47:55",
+    "url_path": "/factcheck/2020/04/19/هذا-المركب-لم-يكسر-الحظر-في-السودان"
+}

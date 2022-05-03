@@ -1,0 +1,97 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1801,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "يستخدم علاء مبارك حساباً رسمياً واحداً على موقع تويتر (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">كتب علاء مبارك نجل الرئيس المصري الأسبق حسني مبارك، في تغريدة على موقع </span>تويتر &quot;أبي لن يكرره الزمن&quot;.&nbsp;</p>\r\n",
+    "country": "EG",
+    "created_at": "2020-02-28 13:44:42",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e58ef1ad4a229616a753754",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">بحث &quot;مسبار&quot; في صحة التغريدة، فوجدها مزيفة، ووفقاً لحساب <a href=\"http://twitter.com/AlaaMubarak_\" style=\"color:blue; text-decoration:underline\">علاء مبارك</a> الموثق على موقع تويتر، لم ينشر تلك التغريدة، كما بحث &quot;مسبار&quot; في الحساب الذي يستخدم اسم علاء مبارك على موقع فيسبوك،&nbsp;وهو حساب غير موثق، ويستخدم أسلوباً وطريقة غير مشابهة لما يستخدمها نجل الرئيس الأسبق في كتابته على &quot;تويتر&quot;.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">وحتى صباح اليوم 28 فبراير/شباط 2020، لم ينشر حساب علاء مبارك على تويتر سوى تغريدتين حول وفاة الرئيس الأسبق حسني مبارك، الأولى أعلن فيها خبر الوفاة، والثانية حول موعد ومكان العزاء، ومنذ نوفمبر/تشرين الثاني 2017، يستخدم علاء مبارك حساباً رسمياً واحداً على موقع تويتر</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong>&nbsp;</strong><img id=\"Picture_x0020_6\" src=\"https://images-prod.misbar.com/articlebody/investigation_fmsu1oobr.jpg\" style=\"height:341.25pt; width:5in\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تداول بعض مستخدمي موقع فيبسوك، بعد الإعلان الرسمي عن وفاة الرئيس المصري الأسبق محمد حسني مبارك، تغريدة منسوبة لعلاء مبارك، نجل الرئيس الأسبق، قال فيها: &quot;أبي لن يكرره الزمن&quot;، مصحوبة بصورة لمبارك جالساً بين عدد من الزعماء والسياسيين.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">وانتشرت صورتان للنعي، الصورة&nbsp;<a href=\"http://www.facebook.com/elcommentelga7ed/photos/a.545143998961971/1741154556027570/?type=3&amp;theater\" style=\"color:blue; text-decoration:underline\">الأولى</a> ادعى البعض أنها من&nbsp;حساب مبارك الابن&nbsp;على موقع تويتر، والثانية لصفحة على موقع فيسبوك&nbsp;باسم&nbsp;<a href=\"http://www.facebook.com/3Alaa.Mubark/photos/a.587639691721947/798764513942796/?type=3&amp;theater\" style=\"color:blue; text-decoration:underline\">علاء مبارك</a>، وتفاعل عشرات الآلاف من مستخدمي موقع فيسبوك مع الصورتين.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img id=\"Picture_x0020_4\" src=\"https://images-prod.misbar.com/articlebody/origin_n2r8ieo2s.jpg\" style=\"height:212.25pt; width:351.75pt\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img id=\"Picture_x0020_3\" src=\"https://images-prod.misbar.com/articlebody/origin_yeitd12rk.jpg\" style=\"height:380.25pt; width:354.75pt\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 287,
+        "left": 63.70469665527344,
+        "path": "articles/1582886681GettyImages-1074988194.jpg",
+        "top": 68.177734375,
+        "totalHeight": 423,
+        "totalWidth": 637,
+        "width": 510
+    },
+    "post_date": "2020-02-28T17:37:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/3Alaa.Mubark/photos/a.587639691721947/798764513942796/?type=3&theater",
+            "name": "علاء مبارك",
+            "path": "published/0_1582887839_علاء مبارك.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/elcommentelga7ed/photos/a.545143998961971/1741154556027570/?type=3&theater",
+            "name": "الكومنت الجاحد",
+            "path": "published/1_1582887839_الكومنت الجاحد.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=592352471621387&set=p.592352471621387&type=1&theater",
+            "name": "نور محمد",
+            "path": "published/2_1582887839_نور محمد.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2527020457402169&id=840043269433238",
+            "name": "الناشط الحقوقي مصطفى الوكيل",
+            "path": "published/3_1582887839_الناشط الحقوقى مصطفى الوكيل.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/permalink.php?story_fbid=2568938093380531&id=100007930956104",
+            "name": "Ail Mohamed",
+            "path": "published/4_1582892573_Ail Mohamed.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/AlaaMubarak_",
+            "name": "Alaa Mubarak",
+            "path": "sources/0_1582887839_Alaa Mubarak.jpg"
+        },
+        {
+            "link": "",
+            "name": "",
+            "path": null
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "\"أبي لن يكرره الزمن\".. تغريدة مفبركة لعلاء مبارك",
+    "updated_at": "2020-09-25 10:27:37",
+    "url_path": "/factcheck/2020/02/28/-أبي-لن-يكرره-الزمن--تغريدة-مفبركة-لعلاء-مبارك"
+}

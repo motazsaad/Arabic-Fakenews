@@ -1,0 +1,105 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 28934,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "المقطع الأصلي عبارة عن فيلم تمثيلي قصير (يوتيوب)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">إسرائيلي يفلت كلبه ليهاجم فلسطينيًّا وابنه أثناء صلاتهم على رصيف الشارع.. شاهد ردة فعل الكلب!</span></p>\r\n",
+    "country": "PS",
+    "created_at": "2020-05-12 21:22:30",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ebae966db2916664e493cf4",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من المقطع المتداول ووجد أنه مضلل، لأنّ المقطع الأصلي عبارة عن فيلم تمثيلي قصير منشور على قناة ميديا الشارع عبر منصة يوتيوب، ولا علاقة له بالاحتلال الإسرائيلي أو أي مواطن فلسطيني.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/DXBcMTkluis\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "فلسطين",
+        "إسرائيل",
+        "احتلال إسرائيلي"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تداولت صفحات على مواقع التواصل الاجتماعي مقطع فيديو ادّعت أنه يُظهر إسرائيليًّا يُفلت كلبه نحو فلسطينيّ وابنه أثناء صلاتهم على رصيف أحد الشوارع.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><iframe frameborder=\"0\" height=\"424\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fjamal.elayan.1%2Fvideos%2F1325832487626790%2F&amp;show_text=1&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><iframe frameborder=\"0\" height=\"424\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fkhaled.abdelfattah.714%2Fvideos%2F2524682121119564%2F&amp;show_text=1&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 416,
+        "left": 5.2166748046875,
+        "path": "articles/1589307749غلاف.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 750,
+        "watermark_path": "articles/watermark-1589307749غلاف.jpg",
+        "width": 740
+    },
+    "post_date": "2020-05-12T21:15:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/jamal.elayan.1/videos/1325832487626790/",
+            "name": "جمال عليان",
+            "path": "published/0_1589307748_جمال عليان.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100010278066266/videos/1150951498590775/",
+            "name": "سامح محمد حسن",
+            "path": "published/1_1589307748_سامح محمد.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/egypt.fashion.trend/permalink/709985523184805/",
+            "name": "محمد سليم",
+            "path": "published/2_1589307748_محمد سليم.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/khaled.abdelfattah.714/videos/2524682121119564/",
+            "name": "خالد عبد الفتاح",
+            "path": "published/3_1589307748_خالد عبدالفتاح.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100014422599008/videos/839430136547732/",
+            "name": "أحمد طاحون",
+            "path": "published/4_1589307749_أحمد طاحون.jpg"
+        },
+        {
+            "link": "https://twitter.com/manoooooya/status/1259961182598959107",
+            "name": "الشحرية",
+            "path": "published/5_1589307749_الشحرية.jpg"
+        },
+        {
+            "link": "https://twitter.com/Moon_flower90/status/1259950800467615751",
+            "name": "Dayamon",
+            "path": "published/6_1589307749_dayamon.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=DXBcMTkluis",
+            "name": "ميديا الشارع",
+            "path": "sources/0_1589307749_ميديا الشارع.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "إسرائيلي يُفلت كلبه على فلسطينيين.. فيديو مضلل",
+    "updated_at": "2020-09-25 20:04:47",
+    "url_path": "/factcheck/2020/05/12/إسرائيلي-يفلت-كلبه-على-فلسطينيين-فيديو-مضلل"
+}

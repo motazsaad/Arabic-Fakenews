@@ -1,0 +1,121 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1506,
+    "author": {
+        "fullname": "محمود غزيل",
+        "id": "5ea83263db291659bf4bf4c4",
+        "photo": {
+            "name": "1588081251_IMG-20180505-WA0040.jpg",
+            "path": "authors/1588081251_IMG-20180505-WA0040.jpg"
+        }
+    },
+    "caption": "يظهر من زي الضحية أنه عضو في فرقة موسيقية شعبية في المكسيك (Diariodemexi)",
+    "category": "News",
+    "claim": "<p>.حادث مروري وقع في بلدة السكسكية بقضاء صيدا جنوب لبنان، بتاريخ&nbsp;يوم الأحد 20 سبتمبر/أيلول الجاري</p>\r\n",
+    "country": "LB",
+    "created_at": "2020-09-21 18:14:19",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 0,
+    "id": "5f68c34b1eda185bab4bb0ab",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من المعلومات الواردة في المنشورات السابقة ليجد أنها غير صحيحة؛ فالرجل الذي تحطم بين السيارتين واضح من زيه والآلة الموسيقية النافخة التي كان يمسكها أنه ينتمي إلى فرقة شعبية مكسكية، حيث كان من المفترض الالتحاق بها خلال عزفها&nbsp;في واحدة من الحفلات المحلية&nbsp;في منطقة &quot;تاكسكالا&quot;، وذلك في&nbsp;يوم الجمعة الموافق 11 سبتمبر/أيلول الجاري، وقد أعلنت السلطات المكسيكية&nbsp;المحلية وفاته على الفور، والتحقيق في الحادث.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_n4bwomxm1.jpg\" style=\"height:543px; width:609px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_vlcnus95e.jpg\" style=\"height:418px; width:624px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت حسابات على مواقع التواصل الاجتماعي فيسبوك وتويتر وواتس أب، في اليومين الأخيرين، مقطع فيديو لحادث سير مروع يظهر فيه اصطدام سيارة من نوع &quot;فيات&quot;&nbsp;بشاحنة أثناء رجوعها إلى الخلف،&nbsp;تزامناً مع مرور أحد الأشخاص بينهما، ما أدى إلى دهسه بين المركبتين.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وقال أصحاب المنشورات أن الحادث المروري حصل في بلدة السكسكية بقضاء صيدا جنوب لبنان، يوم الأحد الموافق 20 سبتمبر/ أيلول الجاري.</p>\r\n\r\n<p style=\"text-align:center\"><strong><img src=\"https://images-prod.misbar.com/articlebody/origin_ernk3y551.jpg\" style=\"height:501px; width:536px\" /></strong></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"316\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F345374085637183%2Fvideos%2F333590321411640%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 421,
+        "left": 120.20001220703125,
+        "path": "articles/1600701259حادث.JPG",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 968,
+        "watermark_path": "articles/watermark-1600701259حادث.JPG",
+        "width": 749
+    },
+    "post_date": "2020-09-21T16:45:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/RGB6969H/status/1307679281238212608",
+            "name": "RGB",
+            "path": "published/0_1600701937_ق4.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/magazineazharel/status/1307679083015397376",
+            "name": "magazine azhar",
+            "path": "published/1_1600701937_ق4.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/ikliminfocom/status/1307719421423747072",
+            "name": "لبنان انفو",
+            "path": "published/2_1600701938_ق4.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/sada2trablos/videos/677394836467463/",
+            "name": "صدى طرابلس وكل لبنان",
+            "path": "published/3_1600701938_قققف.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/345374085637183/videos/333590321411640/ ",
+            "name": "شباب خلدة",
+            "path": "published/4_1600701938_قققف.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/chabebkesserwenn/posts/2062379200561970",
+            "name": "شباب كسروان",
+            "path": "published/5_1600701938_قققف.JPG"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.diariodemexico.com/video-imagenes-fuertes-mariachi-muere-luego-de-ser-atropellado-y-embestido-por-trailer#",
+            "name": "diariode mexico",
+            "path": "sources/0_1600701259_90.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/indicemedia/posts/3605174572834974",
+            "name": "indice media",
+            "path": "sources/1_1600701259_88.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.elsoldetlaxcala.com.mx/policiaca/video-muere-mariachi-al-ser-atropellado-en-la-via-corta-a-la-altura-de-la-magdalena-5747804.html",
+            "name": "elsol de tlaxcala",
+            "path": "sources/2_1600701259_8.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذا الحادث المروع وقع في المكسيك وليس لبنان",
+    "updated_at": "2020-09-25 21:41:15",
+    "url_path": "/factcheck/2020/09/21/هذا-الحادث-المروع-وقع-في-المكسيك-وليس-لبنان",
+    "was_notification_pushed": true
+}

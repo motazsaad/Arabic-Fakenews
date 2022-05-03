@@ -1,0 +1,90 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 174,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "    الصورة عام 2018 في مجلس الشيوخ الأميركي (فيسبوك)",
+    "category": "Health",
+    "claim": "<p>نواب ديمقراطيون في مجلس الشيوخ لا يرتدون أقنعة الحماية من &quot;كوفيد_19&quot;.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-10-16 16:40:12",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 2,
+    "id": "5f89a2bcb0db434df704e376",
+    "investigation": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SY\">تحقّق &quot;مسبار&quot; من الصورة ووجدها قديمة، وقبل انتشار فايروس كورونا المستجد؛ إذ أنه تم التقاطها من قبل مصور وكالة الأنباء الأميركية أسوشييتد بريس في مجلس الشيوخ حيث كان الديمقراطيون الثلاثة يتناقشون خلال جلسة تثبيت مرشح الرئيس دونالد ترامب للمحكمة العليا عام 2018، ويأتي انتشارها الآن بادعاء مضلل في ظل احتدام المنافسة قبل انتخابات الرئاسة الأميركية الشهر القادم.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_fd5vji1up.jpg\" style=\"height:269px; width:605px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت حسابات أغلبها في أميركا على موقع التواصل الاجتماعي،&nbsp;تويتر، خلال أيام&nbsp;12 و13 و14&nbsp;أكتوبر/تشرين الأول، صورةً لثلاثة من النواب الديمقراطيين، وهم شيلدون وايتهاوس، والسناتور كوري بوكر، والسناتور ريتشارد بلومنتال حيث يتشاورون بمجلس الشيوخ، وأغلب التعليقات غاضبة من ثلاثتهم لأنهم لا يرتدون الأقنعة الطبية في ظل انتشار وباء فايروس كورونا المستجد.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_jz9quwxpj.jpg\" style=\"height:391px; width:601px\" />&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_xm72c543k.jpg\" style=\"height:394px; width:604px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_c7s3bv5jg.jpg\" style=\"height:283px; width:573px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_c13ojndpp.jpg\" style=\"height:723px; width:605px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1602858665جدجد.JPG",
+        "watermark_path": "articles/watermark-1602858665جدجد.JPG"
+    },
+    "post_date": "2020-10-16T14:54:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/LibsNoFun/status/1315705292118663168",
+            "name": "LAUGH",
+            "path": "published/0_1602857636_6_1596888660_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/mamendoza480/status/1316453818800824322",
+            "name": "Angel Mom Mary Ann Mendoza",
+            "path": "published/1_1602857636_6_1596888660_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/hubbard2015",
+            "name": "hubbard2015",
+            "path": "published/2_1602857637_6_1596888660_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://archive.vn/aq5W6",
+            "name": "Senator John Cornyn",
+            "path": "published/3_1602859243_iwEbEtCj_400x400.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "http://www.apimages.com/metadata/Index/Senate-Supreme-Court/9847864b7ccd4894b8a875c2d1606185/3/0",
+            "name": "AP",
+            "path": "sources/0_1602857637_HJHJHJ.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصورة لنواب ديمقراطيين لا يرتدون الأقنعة قبل كورونا",
+    "updated_at": "2020-10-16 17:42:34",
+    "url_path": "/factcheck/2020/10/16/هذه-الصورة-لنواب-ديمقراطيين-لا-يرتدون-الأقنعة-قبل-كورونا",
+    "was_notification_pushed": true
+}

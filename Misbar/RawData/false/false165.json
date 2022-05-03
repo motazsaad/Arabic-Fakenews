@@ -1,0 +1,145 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 259,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "لا يوجد تدريب على العنب (فيسبوك)",
+    "category": "Health",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">الطالب الجراح في ألمانيا يتدرب على خياطة الجرح من خلال حبة عنب دون إفساد القشرة (الجلد) بالقطب، ودون أن تخرج منها قطرة ماء واحدة و إلا رسب.</p>\r\n",
+    "country": "DE",
+    "created_at": "2020-11-11 20:59:21",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 17,
+    "id": "5fac267972cbd4046a729845",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;<a href=\"https://misbar.com/\" style=\"text-decoration:none\" target=\"_blank\"><u>مسبار</u></a>&quot; من الصورة المتداولة ووجد أنها زائفة، إذ تواصل &quot;مسبار&quot; مع عدة طلاب يدرسون الطب في ألمانيا وأكدوا جميعهم عدم وجود تدريب مثل هذا لتقطيب الجروح.&nbsp;</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">يُذكر أن <a href=\"https://imgur.com/gallery/ymvps7O\" style=\"text-decoration:none\" target=\"_blank\"><u>الصورة</u></a> انتشرت ضمن <a href=\"https://nymag.com/intelligencer/2018/11/why-is-everyone-saying-they-did-surgery-on-a-grape.html\" style=\"text-decoration:none\" target=\"_blank\"><u>مجموعة من الصور</u></a> الساخرة التي تتحدث عن موضوع إهمال الأطباء للمرضى.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_2atgll08g.jpg\" style=\"height:552px; width:537px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">اقرأ/ي أيضاً:</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/10/30/%D8%B5%D9%88%D8%B1%D8%A9-%D9%84%D9%85%D9%8A%D8%B1%D9%83%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%88%D9%84%D9%8A%D8%B3%D8%AA-%D9%85%D8%B9-%D9%85%D8%B3%D9%84%D9%85%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7\" target=\"_blank\">صورة لميركل في السعودية وليست مع مسلمات في ألمانيا</a></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/11/01/%D8%AA%D8%B5%D8%B1%D9%8A%D8%AD-%D8%B2%D8%A7%D8%A6%D9%81-%D9%85%D9%86%D8%B3%D9%88%D8%A8-%D9%84%D8%AA%D9%8A%D8%B1-%D8%B4%D8%AA%D9%8A%D8%BA%D9%86-%D8%B9%D9%86-%D8%A7%D9%84%D9%86%D8%A8%D9%8A-%D9%85%D8%AD%D9%85%D8%AF\" target=\"_blank\">تصريح زائف منسوب لتير شتيغن عن النبي محمد</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "الطب",
+        "العنب",
+        "ألمانيا"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تتناقل صفحات وحسابات على مواقع التواصل الاجتماعي، حديثاً، صورة لحبة عنب مع الادعاء بأن الأطباء في ألمانيا يتدربون على خياطة الجروح من خلال تقطيب العنب دون إفساد القشرة.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_wotmxsdnl.jpg\" style=\"height:499px; width:537px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_j79lpisi0.jpg\" style=\"height:519px; width:534px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 317,
+        "left": 0.4000244140625,
+        "path": "articles/1605117561عنب.jpg",
+        "top": 41.60009765625,
+        "totalHeight": 423,
+        "totalWidth": 564,
+        "watermark_path": "articles/watermark-1605117561عنب.jpg",
+        "width": 563
+    },
+    "post_date": "2020-11-11T19:55:00.000+03:00",
+    "published": [
+        {
+            "id": "5fac2882c6680443522fd6d5",
+            "link": "https://www.facebook.com/Reda.City.seize/posts/3395891880426032",
+            "name": "Reda city16",
+            "origin": "facebook",
+            "path": "sources/0edf3450c09913ce4555ceb34425a82b5b6d0740.jpg"
+        },
+        {
+            "id": "5fac28820ac0bc2c1e5350d6",
+            "link": "https://www.facebook.com/ahmed.sharrr/posts/1218613718519945",
+            "name": "احمدالشاعر-Ahmed alshar",
+            "origin": "facebook",
+            "path": "sources/4c0e1058db28f7a2eb44ddd281ffcfa351ab7d92.jpg"
+        },
+        {
+            "id": "5f8f04e3382e253b150b869c",
+            "link": "https://www.facebook.com/SocietyCherophopia/posts/2952216761547894",
+            "name": "شيزوفرينيا",
+            "origin": "facebook",
+            "path": "sources/1c62c1c5175316adb1790d3646e5d42a8f71a81f.jpg"
+        },
+        {
+            "id": "5fac288228118e45a7675e09",
+            "link": "https://www.facebook.com/groups/794759927936071/permalink/854316838647046/",
+            "name": "Whales Science Fans",
+            "origin": "facebook",
+            "path": "sources/9ec4ea7fe21abb1b788be99f3f20ade51da9bd83.jpg"
+        },
+        {
+            "id": "5fac2882b3463a2ef971a2a8",
+            "link": "https://www.facebook.com/108221387214566/posts/394995418537160",
+            "name": "مدينة المسيلة  Ville de m'sila",
+            "origin": "facebook",
+            "path": "sources/04a5673511c03592f2e037c6e9fa89f5daeeaa97.jpg"
+        },
+        {
+            "id": "5fac29087b26c43af96f2e91",
+            "link": "https://www.facebook.com/2285295561540959/posts/4378076755596152",
+            "name": "العقل والمنطق",
+            "origin": "facebook",
+            "path": "sources/99d57bb42aeed4eb68516e16fb88d6e9e994ca38.jpg"
+        },
+        {
+            "id": "5fac29089e79911f400ce24f",
+            "link": "https://www.facebook.com/groups/874935975981727/permalink/1970183339790313/",
+            "name": "...قسنطينة يا درا كاش خبار عليها ...",
+            "origin": "facebook",
+            "path": "sources/c2be627aea0e6ece74661870c4139bf061f3229a.jpg"
+        },
+        {
+            "id": "5fac2908289470705777cbca",
+            "link": "https://www.facebook.com/2098244097149947/posts/2448373462137007",
+            "name": "صفحة المنطقة الوسطى",
+            "origin": "facebook",
+            "path": "sources/a153d405d751ab9cb000188c50604b4b9dd8030e.jpg"
+        },
+        {
+            "id": "5fac2909e068300acb2e1e9b",
+            "link": "https://www.facebook.com/groups/686952291358921/permalink/3291162354271222",
+            "name": "Active Dentist Team",
+            "origin": "facebook",
+            "path": "sources/c2be627aea0e6ece74661870c4139bf061f3229a.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fac26789e79911f400ce24e",
+            "link": "https://nymag.com/intelligencer/2018/11/why-is-everyone-saying-they-did-surgery-on-a-grape.html",
+            "name": "New York Magazine",
+            "origin": "",
+            "path": "sources/425f8a35289f92944c59be778d517de10a0faed9.jpg"
+        },
+        {
+            "id": "5fac2679854af14fe36633b0",
+            "link": "https://imgur.com/gallery/ymvps7O",
+            "name": "Imgur",
+            "origin": "",
+            "path": "sources/9e51a5398ac08160c64d5df7c49cba6c2fa456bf.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الأطباء في ألمانيا لا يتدربون على خياطة الجروح بتقطيب العنب",
+    "updated_at": "2020-11-11 21:12:04",
+    "url_path": "/factcheck/2020/11/11/الأطباء-في-ألمانيا-لا-يتدربون-على-خياطة-الجروح-بتقطيب-العنب",
+    "was_notification_pushed": false
+}

@@ -1,0 +1,87 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1563,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "  ملك السعودية يقوم بأنشطته المعتادة فقد التقى وزير الخارجية الأميركي في فبراير الفائت (Getty)",
+    "category": "News",
+    "claim": "<p style=\"text-align:right\">وفاة ملك السعودية سلمان بن عبد العزيز، وتشييع جنازته.</p>\r\n",
+    "country": "SA",
+    "created_at": "2020-05-12 00:54:51",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eb9c9abdb2916635d404f73",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الخبر ومقطع الفيديو، ليجد أن الأول عارٍ عن الصحة؛&nbsp;فالديوان الملكيّ السعوديّ لا يزال يبث أنشطة الملك إلى وسائل الإعلام العالمية، وآخرها اتصال هاتفي بينه وبين الرئيس الأميركي دونالد ترامب في الثامن من مايو/ أيار الجاري، كما التقى في فبراير/ شباط الفائت بوزير الخارجية الأميركي مايك بومبيو،&nbsp;في حين أن الفيديو الذي بثته صفحة &quot; Welcome&quot;،&nbsp;وادّعت أنه ينقل جنازة الملك في بث مباشر، حذفه موقع فيسبوك، وتبين لـ&nbsp;&quot;مسبار&quot; أنه مقطع من جنازة الأمير سلطان بن عبد العزيز عام 2011.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_peyeo0em8.jpg\" style=\"height:487px; width:605px\" />&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_2mjf9lora.jpg\" style=\"height:442px; width:605px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت عدة صفحات على موقع فيسبوك، منذ السابع من مارس/ آذار الفائت&nbsp;حتى العاشر من مايو/ أيار الجاري،&nbsp;خبراً عن وفاة ملك السعودية سلمان بن عبد العزيز، كما نشرت صفحة تحت اسم &quot;<span dir=\"LTR\">Welcome</span>&quot; مقطعاً لفيديو بوسيلة البث المباشر لما ادّعت أنها جنازته، وجذب البث آلاف المتابعين.</p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_yknxyzyxx.jpg\" style=\"height:787px; width:604px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_v4y5wwjrm.jpg\" style=\"height:517px; width:605px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_n3cnbi8nj.jpg\" style=\"height:381px; width:605px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_cs2hbnjmd.jpg\" style=\"height:358px; width:605px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1589235937GettyImages-1201964299.jpg",
+        "watermark_path": "articles/watermark-1589235937GettyImages-1201964299.jpg"
+    },
+    "post_date": "2020-05-11T22:39:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.youtube.com/watch?v=FZyoI-1ntbY&feature=youtu.be&fbclid=IwAR0xdh7dXXlbw_d1IeH5A32_p3oRwenWayicyOQTcQq1gQ1UCOxT9sTsbqc",
+            "name": "mamine 24 مامين",
+            "path": "published/0_1589235936_مامين.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/wingus12/posts/2056569147823278",
+            "name": "Aqeel Alsaadi",
+            "path": "published/1_1589235936_عقيق.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/chefmohamed.shapara/posts/231682318230756",
+            "name": "ChefMohamed Shapara",
+            "path": "published/2_1589235937_شبرا.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/102590911354301/photos/a.102590981354294/102593734687352/?type=1&theater",
+            "name": "WELCOME",
+            "path": "published/3_1589236539_ويلكم.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://arabic.cnn.com/tag/king_salman_bin_abdulaziz_al_saud",
+            "name": "CNN",
+            "path": "sources/0_1589235937_سي ان ان.JPG"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=I1Kvn0nMB6Q",
+            "name": "أحمد عطية",
+            "path": "sources/1_1589235937_احمد عطية.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الجنازة ليست لتشييع ملك السعودية",
+    "updated_at": "2020-09-24 19:35:48",
+    "url_path": "/factcheck/2020/05/12/هذه-الجنازة-ليست-لملك-السعودية"
+}

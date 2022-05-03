@@ -1,0 +1,98 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1633,
+    "author": {
+        "fullname": "محمد اللكود",
+        "id": "5e27f69dd4a2294c812c1af3",
+        "photo": {
+            "path": "authors/1579694210_صورة شخصية.jpg"
+        }
+    },
+    "caption": "المقطع يُظهر احتجاجاً في طرطوس عام 2011 (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">خروج مظاهرة في منطقة جرمانا في ريف دمشق تهتف ضد النظام السوري وتدعو للحرية.</span></p>\r\n",
+    "country": "SY",
+    "created_at": "2020-06-09 16:09:00",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5edf89ecd6e4a91a5a3644a7",
+    "investigation": "<p dir=\"RTL\" style=\"margin-right:5px; text-align:justify\"><span style=\"background-color:white\">تحقق &quot;مسبار&quot; من المقطع المتداول وتبين أنه مضلل. المقطع يُظهر <a href=\"https://youtu.be/3SBmFpMHzRY\" style=\"color:blue; text-decoration:underline\">مسيرة احتجاجية</a> مناهضة للنظام السوري ولكن في مدينة طرطوس الساحلية، عام 2011.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">ومن الجدير بالذكر أنّ محافظة السويداء في سورية تشهد منذ أيام <a href=\"https://www.bbc.com/arabic/trending-52967581\" style=\"color:blue; text-decoration:underline\">مظاهرات</a> تندّد بالوضع الاقتصادي المتردّي في سورية.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/3SBmFpMHzRY\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "دمشق",
+        "إسقاط النظام",
+        "سورية",
+        "الأسد",
+        "طرطوس",
+        "جرمانا"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تتناقل مواقع إلكترونية وصفحات على مواقع التواصل الاجتماعي، مؤخراً، مقطع فيديو ادّعت أنه لمتظاهرين يهتفون ضد النظام السوري داعين للحرية في سورية، وذلك في مظاهرة انطلقت في منطقة جرمانا التابعة لريف العاصمة السورية دمشق.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><iframe frameborder=\"0\" height=\"400\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F106097450897825%2Fvideos%2F605072253441034%2F&amp;show_text=1&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/S711FUtI22M\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 357,
+        "left": 5.58331298828125,
+        "path": "articles/1591708139GettyImages-140082480.jpg",
+        "top": 66.466796875,
+        "totalHeight": 423,
+        "totalWidth": 645,
+        "watermark_path": "articles/watermark-1591708139GettyImages-140082480.jpg",
+        "width": 634
+    },
+    "post_date": "2020-06-09T15:55:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/H_olocaust/status/1270214462520340482",
+            "name": "ثورة جياع",
+            "path": "published/0_1591708139_ثورة.jpg"
+        },
+        {
+            "link": "https://twitter.com/maheerksua78/status/1270043003227340801",
+            "name": "Maheerksua78",
+            "path": "published/1_1591708139_maheer.jpg"
+        },
+        {
+            "link": "https://twitter.com/MMM202020202/status/1270086310276083712",
+            "name": "M.M.M",
+            "path": "published/2_1591708139_mmm.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/106097450897825/videos/605072253441034/",
+            "name": "الجولان",
+            "path": "published/3_1591708139_الجولان.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/kshfalmstor1/videos/247240549910007/",
+            "name": "كشف المستور عين منين",
+            "path": "published/4_1591708139_كشف.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://youtu.be/3SBmFpMHzRY",
+            "name": "Noor Alhuda",
+            "path": "sources/0_1591708139_noor.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "مظاهرة مناهضة للنظام في ريف دمشق.. فيديو مضلل",
+    "updated_at": "2020-09-25 09:45:39",
+    "url_path": "/factcheck/2020/06/09/مظاهرة-مناهضة-للنظام-في-ريف-دمشق-فيديو-مضلل"
+}

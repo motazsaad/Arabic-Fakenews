@@ -1,0 +1,100 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2258,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "الهدف من المجسّم هو التدريب على أداء مناسك الحج (فيسبوك)",
+    "category": "Spirituality & Religion",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">نيجيريا تبني مجسّماً للكعبة المشرّفة لكي يطوفوا حوله، ويقولون أنّ ذلك أفضل من سرقة آل سعود لأموالهم، فالله موجود في كلّ مكان.</span></p>\r\n",
+    "country": "NG",
+    "created_at": "2020-05-14 13:13:28",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ebd19c8db291666eb7216a3",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من الادعاء المتداول ووجد أنه مضلل، لأنّ الصور تُظهر مجسّماً للكعبة بالفعل، لكنّ الهدف منه <a href=\"https://thenationonlineng.net/photo-tawaf-performance-at-the-mock-hajj-exercise/\" target=\"_blank\">التدريب</a> على أداء مناسك الحج في نيجيريا.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">ومن الجدير بالذكر، أنّ هذه الممارسة التدريبية منتشرة حول العالم للأطفال ومعتنقي الإسلام حديثاً.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_xq55gkytd.jpg\" style=\"height:455px; width:545px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "إسلام",
+        "الكعبة المشرفة",
+        "نيجيريا"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل صفحات على مواقع التواصل الاجتماعي منذ سنوات صوراً ادّعت أنها لمجسّم&nbsp;للكعبة في نيجيريا، يطوف حولها مجموعة من الناس. ورافق المنشور تعليق يقول بأنّ ذلك لكي لا يسرق المسؤولون في المملكة السعودية أموال النيجيريين، فالله موجود في كل مكان.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_cwega5i7p.jpg\" style=\"height:695px; width:519px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 383,
+        "left": 2.5999755859375,
+        "path": "articles/1589451207غلاف.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 686,
+        "watermark_path": "articles/watermark-1589451207غلاف.jpg",
+        "width": 681
+    },
+    "post_date": "2020-05-14T13:07:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=606722859468190&set=a.428689757271502&type=3",
+            "name": "نضال حبيب",
+            "path": "published/0_1589451207_نضال حبيب.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/1638942756323784/permalink/1651168068434586/",
+            "name": "محمد عمر",
+            "path": "published/1_1589451207_محمد عمر.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1761680967417526&id=100007269180830",
+            "name": "هاني الحسيني",
+            "path": "published/2_1589451207_هاني الحسيني.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/said.abuzied/posts/1039187872829044",
+            "name": "سعيد أبو زيد",
+            "path": "published/3_1589451207_سعيد أبوزيد.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1634927836763374&id=100007385192124",
+            "name": "محمود عبد الباقي",
+            "path": "published/4_1589451207_محمود عبدالباقي.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://thenationonlineng.net/photo-tawaf-performance-at-the-mock-hajj-exercise/",
+            "name": "The Nation Nigeria",
+            "path": "sources/0_1589451207_the nation.jpg"
+        },
+        {
+            "link": "https://www.nj.com/hudson/2014/10/photos_islamic_school_in_jersey_city_holds_mock_hajj_for_students.html",
+            "name": "NJdotcom",
+            "path": "sources/1_1589451207_nj.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "مجسّم للكعبة في نيجيريا.. خبر مضلل",
+    "updated_at": "2020-09-25 11:53:24",
+    "url_path": "/factcheck/2020/05/14/مجسم-للكعبة-في-نيجيريا-صورة-مضللة"
+}

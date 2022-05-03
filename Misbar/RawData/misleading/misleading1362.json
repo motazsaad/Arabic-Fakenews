@@ -1,0 +1,75 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 1,
+        "fb": 1,
+        "tw": 1
+    },
+    "amount_sources": 0,
+    "amount_visits": 1939,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">تظاهر مجموعة من السوريّين أمام قاعدة عسكرية تركية داخل سورية احتجاجاً على تدخّل تركيا في محافظة إدلب المتنازع عليها.</p>\r\n",
+    "country": "DE",
+    "created_at": "2020-02-18 00:27:54",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e4b055ad4a22918d56ee4e3",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">اتّضح لـ&quot;مسبار&quot; وجود تماثل بين الصورة التي نشرتها الصحيفة الألمانية وصورة أخرى لمظاهرة نفّذها سوريون قرب نقطة المراقبة العسكرية التركية في بلدة بنش في محافظة إدلب، بتاريخ 14 شباط/فبراير الجاري، أي قبل يوم واحد من نشر الصحيفة الألمانية للخبر، إلا أنّ الغاية من المظاهرة كانت التضامن مع الجنود الأتراك الذين لقوا حتفهم في سورية. الأمر الذي أكّدته وكالة AFP مالكة حقوق الصورة.</p>\r\n\r\n<p style=\"text-align:center\"><span style=\"background-color:white\"><span style=\"color:#1c1e21\"><img alt=\"A group of people around each other\r\n\r\nDescription automatically generated\" src=\"https://images-prod.misbar.com/articlebody/investigation_0ealjp5z8.jpg\" style=\"height:394px; width:468px\" /></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">إضافة إلى ما سبق، فقد نشر المصوّر الصحفي عمر حاج قدّور لاحقاً منشوراً على صفحته الشخصية في موقع فيسبوك يتضمّن الصورة والتعليق المرافق لها من موقع الوكالة ذاته، لكن باللغة العربية &quot;يسير أشخاص يحملون صور جنود أتراك قُتلوا في سوريا مع أعلام تركيا أثناء تظاهرهم عند نقطة مراقبة عسكرية تركية في بلدة بنش في محافظة إدلب شمال غرب سوريا، في 14 شباط 2020&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">ومن الجدير بالذكر أنّ اللافتتّين اللتين يحملهما المتظاهرون في الصورة، طُبعت عليهما&nbsp;صور لجنودٍ أتراك لقوا حتفهم في معارك إدلب ويسبق أسماءهم لقب <span dir=\"LTR\" lang=\"EN-US\">şehit</span>، أي شهيد باللغة التركية.</p>\r\n\r\n<p style=\"text-align:center\"><span style=\"background-color:white\"><span style=\"color:#1c1e21\"><img alt=\"A group of people on a road\r\n\r\nDescription automatically generated\" src=\"https://images-prod.misbar.com/articlebody/investigation_oduowr60t.jpg\" style=\"height:506px; width:434px\" /></span></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت الصحيفة الألمانية شويبشة بوست (Schwaebische Post) في تاريخ&nbsp;15 شباط/فبراير الجاري صورةً لسوريين يتظاهرون أمام قاعدة عسكرية تركية، مدّعية أنّ المتظاهرين خرجوا احتجاجاً على تدخّل تركيا في محافظة إدلب المتنازع عليها، ونسبت الصحيفة الصورة للمصوّر السوري عمر حاج قدور الذي يعمل مراسلاً لوكالة فرانس برس الفرنسية <span dir=\"LTR\" lang=\"EN-US\">AFP</span>، وسرعان ما أعادت صحيفة ميركشه أوديرتساتونغ (M&auml;rkische Oderzeitung) نشر <a href=\"https://www.pressreader.com/germany/maerkische-oderzeitung-seelow/20200215/281638192216269\" target=\"_blank\">الخبر</a>.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_s03q72ugt.jpg\" style=\"height:848px; width:553px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_x0ghv8kgx.jpg\" style=\"height:758px; width:553px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1582013428GettyImages-1200791760.jpg"
+    },
+    "post_date": "2020-02-17T21:53:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.schwaebische-post.de/politik/demonstration-gegen-die-tuerkei/1868398/",
+            "name": "schwaebische-post",
+            "path": "published/0_1582011371_Schwäbische logo.jpg"
+        },
+        {
+            "link": "https://www.pressreader.com/germany/maerkische-oderzeitung-seelow/20200215/281638192216269",
+            "name": "Märkische Oderzeitung",
+            "path": "published/1_1582010103_Maerkische_Oderzeitung.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "http://u.afp.com/33D9?fbclid=IwAR0hqqI6QE3UzANfXpzlrKdR8J-WTYuoux-Z6bbUlPSsOi1nrS0Gmyf944E",
+            "name": "AFP",
+            "path": "sources/0_1581974873_JJJ.jpg"
+        },
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=10213379951692405&id=1807482420",
+            "name": "Omar Haj Kadour",
+            "path": "sources/1_1581974873_thumbnail_WhatsApp Image 2020-02-17 at 22.56.27.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صحيفة ألمانية تحوّل مظاهرة تضامنية مع تركيا في إدلب إلى احتجاجية",
+    "updated_at": "2020-09-23 12:38:23",
+    "url_path": "/factcheck/2020/02/17/صحيفة-ألمانية-تحول-مظاهرة-تضامنية-مع-تركيا-في-إدلب-إلى-احتجاجية"
+}

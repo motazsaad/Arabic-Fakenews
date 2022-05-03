@@ -1,0 +1,102 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 76126,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "الصورة قديمة وهي من ماليزيا (مواقع التواصل الاجتماعي)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">صورة لمصريّين عالقين في الكويت، لا باستطاعتهم العودة إلى وطنهم ولا مكان لهم في تلك البلد.</span></p>\r\n",
+    "country": "EG",
+    "created_at": "2020-04-18 12:20:09",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e9ac649db291627a00b2bd4",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من الصورة المتداولة ووجد أنها مضللة، لأن </span><a href=\"https://www.facebook.com/milon.pal.1088/posts/197791957921599\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>الصورة قديمة</u></span></a><span style=\"color:#000000\"> وتعود إلى تاريخ 29 نوفمبر/كانون الأول من عام 2019، أي قبل تفشّي كوفيد-19 <a href=\"https://www.who.int/ar/emergencies/diseases/novel-coronavirus-2019/advice-for-public/q-a-coronaviruses\" target=\"_blank\">بقرابة شهر</a>، مما ينفي العلاقة بين الصورة والادعاء المتداول. كما أنه في تلك الفترة، لم تكن قد بدأت بعد أيّ دولة في العالم بإجراءات غلق للمطارات.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">أما الصورة الأصلية فهي لمهاجرين ينتظرون ترحيلهم من </span><a href=\"https://dailyfulki.com/2019/12/25/%E0%A6%B6%E0%A7%87%E0%A6%B7-%E0%A6%AE%E0%A7%81%E0%A6%B9%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A7%87-%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B0/\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>ماليزيا</u></span></a><span style=\"color:#000000\">، بعد افتتاح برناج &quot;العودة إلى الوطن&quot; الذي يسمح للمهاجرين بالعودة إلى أوطانهم مع تسهيلات تشجيعية.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_83w1buik2.jpg\" style=\"height:406px; width:562px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "كورونا الكويت",
+        "كورونا",
+        "كوفيد-19",
+        "مصر",
+        "الكويت"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تداولت صفحات على مواقع التواصل الاجتماعي صورةً ادّعت أنها لجَمْعٍ من المصريّين العالقين في الكويت، في ظل أزمة جائحة كورونا المستجد، إذ لا يستطيع هؤلاء الأشخاص، بحسب الادعاء، العودة إلى بلدهم بعد إيقاف الرحلات الجوية في الكويت، ولا مكان يؤويهم هناك.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_xdtz5bkug.jpg\" style=\"height:419px; width:557px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_04kw4b01e.jpg\" style=\"height:426px; width:558px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 193,
+        "left": 0.66668701171875,
+        "path": "articles/1587201607سكرين22.jpg",
+        "top": 143.63330078125,
+        "totalHeight": 423,
+        "totalWidth": 346,
+        "watermark_path": "articles/watermark-1587201607سكرين22.jpg",
+        "width": 343
+    },
+    "post_date": "2020-04-18T12:08:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/Tankat.Hanim/posts/705732383467361?__tn__=-R",
+            "name": "تنكة هانم",
+            "path": "published/0_1587201607_تنكة-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1519377964897232&id=473338562834516&__tn__=-R",
+            "name": "البلينا",
+            "path": "published/1_1587201607_البلينا-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/shams.centerdb/posts/3163823557003542",
+            "name": "مركز الشمس",
+            "path": "published/2_1587201607_مركز-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/soqelmostamal/posts/106288164385412",
+            "name": "سوق المستعمل في مصر",
+            "path": "published/3_1587201607_سوق-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=984533065278049&id=100011640935227",
+            "name": "خالد زغدان",
+            "path": "published/4_1587201607_خالد-لوغو.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/milon.pal.1088/posts/197791957921599",
+            "name": "Milon Pal",
+            "path": "sources/0_1587201607_milon-logo.jpg"
+        },
+        {
+            "link": "https://dailyfulki.com/2019/12/25/%E0%A6%B6%E0%A7%87%E0%A6%B7-%E0%A6%AE%E0%A7%81%E0%A6%B9%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%A4%E0%A7%87-%E0%A6%AE%E0%A6%BE%E0%A6%B2%E0%A7%9F%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%B0/",
+            "name": "Ajsarabela",
+            "path": "sources/1_1587201607_ajsarabela-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "صورة قديمة من ماليزيا.",
+    "title": "صورة زائفة لمصريين عالقين في الكويت",
+    "updated_at": "2020-09-25 21:27:20",
+    "url_path": "/factcheck/2020/04/18/صورة-زائفة-لمصريين-عالقين-في-الكويت"
+}

@@ -1,0 +1,114 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 116,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "بينيت خرائط جوجل أن المكان في أذربيجان (تويتر)",
+    "category": "Politics",
+    "claim": "<p>فيديو لرتل عسكري متجه إلى أذربيجان، يقل مقاتلين سوريين داعمين لتركيا وهم في طريقهم لمساندة أذربيجان في نزاعها مع أرمينيا.</p>\r\n",
+    "country": "",
+    "created_at": "2020-10-07 15:10:30",
+    "created_by": "5f39b5a51dd585076701cb94",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 4,
+    "id": "5f7db0360a2a2a40b5119d74",
+    "investigation": "<p dir=\"RTL\">تحقّق &quot;مسبار&quot; من مقطع الفيديو المتداول، ليجد أنه تم توظيفه في سياق تضليلي، فهو مقطع قديم انتشر العام الفائت حين اتجه رتل عسكري ضخم من الجيش السوري الحر&nbsp;لعبور إحدى البلدات التركية متجهاً إلى ميدان معركة نبع السلام،</p>\r\n\r\n<p dir=\"RTL\">&nbsp;ونبع السلام هي&nbsp;عملية عسكرية&nbsp;خاضتها&nbsp;تركيا على الأراضي السورية، بالتحالف مع فصائل من&nbsp;المعارضة السورية ضد&nbsp;&quot;قوات سوريا الديمقراطية&quot;.</p>\r\n\r\n<p dir=\"RTL\">وعلى الرغم من أن المقطع التُقط من زاوية مختلفة للشارع إلا أن هتافات المجموعات المسلحة التي تعتلي السيارات ذاتها&nbsp;في المقطعين، وبنغمة الصوت ذاتها أيضاً، كما أن الفيديو الأول المتداول بشكل تضليلي تُسمع&nbsp;فيه عبارات باللغة التركية يطلقها المارة&nbsp;تشجيعاً لهم، وليست باللغة الأذربيجانية الأذرية.</p>\r\n\r\n<p style=\"text-align:right\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/yr6wYg-JPoY\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:right\"><strong>تصحيح</strong></p>\r\n\r\n<p style=\"text-align:right\">أعاد &quot;مسبار&quot; التحقق من صحة الفيديو، وبعد الاعتماد على عنصر المكان الجغرافي توصّل إلى نتيجة مغايرة، وهي أنّ&nbsp;الرتل بالفعل داخل&nbsp;أذربيجان، لكن&nbsp;دون التوصل إلى معرفة هوية المقاتلين أو مصدر&nbsp;الرتل العسكري.</p>\r\n\r\n<p style=\"text-align:right\">وتكشف خرائط &quot;غوغل&quot; أن الشارع في أذربيجان ومعالمه تتضح في الصورة&nbsp;المرفقة، ومن المهم التوضيح أنه ليس الرتل ذاته المتوجه إلى معركة نبع السلام عام 2019، وبناء عليه&nbsp;تمّ تغيير تصنيف الفيديو من مضلل إلى صحيح. &nbsp;</p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_ritxz0lbg.jpg\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تداولت حسابات على مواقع التواصل الاجتماعي، مقطع فيديو قالت أنه لمقاتلين سوريين داعمين لتركيا يتم نقلهم إلى أذربيجان، ويتجهون إلى الخطوط الأمامية، وهم يهتفون للقتال ضد أرمينيا.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">وكان أردوغان أكد في&nbsp;تغريدات&nbsp;سابقة استمرار دعم بلاده لأذربيجان ضد ما&nbsp;سماه&nbsp;&quot;هجوم أرمينيا الجديد على أذربيجان، التي تمثل أكبر تهديد للسلام والاستقرار في المنطقة&quot;.&nbsp;</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ldra9eob4.jpg\" /></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_c9cnrivmj.jpg\" />&nbsp;</p>\r\n\r\n<p><iframe frameborder=\"0\" height=\"720\" src=\"https://www.youtube.com/embed/jkmy4F5DWYQ\" width=\"1280\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1602072630130.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1602072630130.jpg",
+        "width": 752
+    },
+    "post_date": "2020-09-28T14:59:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/YouseTamer/status/1310356693306478592?s=19&fbclid=IwAR1TayleQoPtPKkipKnZB5crnIEhW58-D0JFxCFss6WF31jMKo7I0BTsDak",
+            "name": "Yousef Tamer",
+            "path": "published/0_1602072628_cdeb606d2277405729841fe21c5d10e856529971.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/s_hm2030/status/1310252268655202305",
+            "name": "الردع السعودي",
+            "path": "published/1_1602072629_cdeb606d2277405729841fe21c5d10e856529971.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.youtube.com/watch?v=jkmy4F5DWYQ&feature=youtu.be&fbclid=IwAR0e-zJWjlsqILuWI8QuB5LMeyKHMyc8exdgqOfC_eP9qyJd5aTN4Un9B0o",
+            "name": " شبكة أخبار المعارك",
+            "path": "published/2_1602072629_b9a4106558670da4ec1c0749f414d1e693436e6c.jpg"
+        }
+    ],
+    "result": "true",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.youtube.com/watch?v=yr6wYg-JPoY",
+            "name": "شبكة الثورة السورية",
+            "path": "sources/0_1602072629_b9a4106558670da4ec1c0749f414d1e693436e6c.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://arabic.rt.com/world/1157809-%D8%A3%D8%B1%D8%AF%D9%88%D8%BA%D8%A7%D9%86-%D8%A3%D8%B1%D9%85%D9%8A%D9%86%D9%8A%D8%A7-%D8%A3%D8%B8%D9%87%D8%B1-%D8%A3%D9%83%D8%A8%D8%B1-%D8%AA%D9%87%D8%AF%D9%8A%D8%AF-%D9%84%D9%84%D8%B3%D9%84%D8%A7%D9%85-%D9%88%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9/",
+            "name": "روسيا اليوم",
+            "path": "sources/1_1602072629_ad91e5506caf344d4211010006faf4f423eaafb9.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://ar.wikipedia.org/wiki/%D8%B9%D9%85%D9%84%D9%8A%D8%A9_%D9%86%D8%A8%D8%B9_%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85",
+            "name": "ويكيبيديا",
+            "path": "sources/2_1602072629_5cc9e837a45e637cebd42df91e8ed4ac86e8140e.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://misbar.com/factcheck/2020/09/28/%D9%87%D8%B0%D8%A7-%D8%A7%D9%84%D8%B1%D8%AA%D9%84-%D8%A7%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A-%D9%84%D9%8A%D8%B3-%D9%85%D8%AA%D8%AC%D9%87%D8%A7-%D9%85%D9%86-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%A5%D9%84%D9%89-%D8%A3%D8%B0%D8%B1%D8%A8%D9%8A%D8%AC%D8%A7%D9%86-%D9%84%D9%82%D8%AA%D8%A7%D9%84-%D8%A3%D8%B1%D9%85%D9%8A%D9%86%D9%8A%D8%A7",
+            "name": "google maps",
+            "path": "sources/3_1602072629_download.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.youtube.com/watch?v=Fbl1i_fXDJo&feature=youtu.be",
+            "name": "Eekad - إيكاد",
+            "path": "sources/4_1602072629_99117828_115660953491703_2098544505706774528_o.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذا الفيديو لرتل عسكري داخل الأراضي الأذربيجانية",
+    "updated_at": "2020-10-07 15:14:01",
+    "url_path": "/factcheck/2020/10/07/هذا-الفيديو-لرتل-عسكري-داخل-الأراضي-الأذربيجانية",
+    "was_notification_pushed": "true"
+}

@@ -1,0 +1,96 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1847,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الفيديو يصوّر مصلين في البيرو وليس في إيطاليا (Getty)",
+    "category": "Spirituality & Religion",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">فيديو يصوّر كيف احتشد الإيطاليون من كافة الأديان للصلاة في ذروة انتشار كورونا طلباً للمغفرة.</p>\r\n",
+    "country": "IT",
+    "created_at": "2020-05-04 15:29:01",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eb00a8ddb29165a9176ec54",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الفيديو مضلل، إذ تحقق &quot;مسبار&quot; من المقطع وتأكد من أنه لم يُلتقط في إيطاليا إنما في البيرو، ويصوّر حشداً يصلي ولا علاقة له بإيطاليا على الإطلاق. &nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/Jrhkl5gKk9c\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات وحسابات على موقعي فيسبوك ويوتيوب مقطع فيديو، زعمت أنّه يصوّر حشداً من الإيطاليين ينتمون إلى أديان مختلفة، وهم يصلوّن طلباً للمغفرة في ذروة انتشار فايروس كورونا (كوفيد-19).</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Frofessionnel%2Fvideos%2F2292286917731808%2F&amp;show_text=0&amp;width=220\" style=\"border:none;overflow:hidden\" width=\"220\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/Z7_iOeQd3-0\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 357,
+        "left": 4.8349609375,
+        "path": "articles/1588595340GettyImages-1054080354.jpg",
+        "top": 18.4072265625,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1588595340GettyImages-1054080354.jpg",
+        "width": 634
+    },
+    "post_date": "2020-05-04T15:16:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.youtube.com/watch?v=Z7_iOeQd3-0",
+            "name": "Elhadi Sayeh",
+            "path": "published/0_1588595340_Elhadi Sayeh.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/rofessionnel/videos/2292286917731808/",
+            "name": "ساحرة القلوب",
+            "path": "published/1_1588595340_ساحرة القلوب.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?ref=search&v=250175946020133&external_log_id=19a3531940c5a185e52dae515d9d7bfd&q=%D8%B9%D8%A7%D8%AC%D9%84.%20.919%20%D8%AD%D8%A7%D9%84%D8%A9%20%D9%88%D9%81%D8%A7%D8%A9%20%D8%AE%D9%84%D8%A7%D9%84%2024%20%D8%B3%D8%A7%D8%B9%D8%A9%20%23%23%23%23%23%20%D8%A7%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7%20%D9%8A%D9%86%D8%AD%D9%86%D9%8A%20%D8%A7%D9%84%D9%86%D8%A7%D8%B3%20%D9%85%D9%86%20%D8%AC%D9%85%D9%8A%D8%B9%20%D8%A7%D9%84%D8%A7%D8%AF%D9%8A%D8%A7%D9%86%20%D9%88%D9%8A%D8%B7%D9%84%D8%A8%D9%88%D9%86%20%D8%A7%D9%84%D9%85%D8%BA%D9%81%D8%B1%D8%A9%20%D9%88%D9%83%D8%A3%D9%86%D9%85%D8%A7%20%D8%A7%D9%84%D9%82%D9%8A%D8%A7%D9%85%D8%A9%20%D9%82%D8%A7%D9%85%D8%AA",
+            "name": "الأخبار اليومية الجزائرية والعالمية",
+            "path": "published/2_1588595340_الأخبار اليومية الجزائرية والعالمية.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/shr.mnswr2/videos/2771629792924341/",
+            "name": "سحر منصور",
+            "path": "published/3_1588595340_سحر منصور.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/AZOOU.DZ/videos/236435244166099/",
+            "name": "ناس الغربة في تولوز",
+            "path": "published/4_1588595340_ناس الغربة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/764647583919519/videos/559343828025344/",
+            "name": "دمع البنفسج",
+            "path": "published/5_1588595340_دمع البنفسج.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=Jrhkl5gKk9c",
+            "name": "المقطع الأصلي",
+            "path": "sources/0_1588595340_YouTube-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "إيطاليون تجمعوا للصلاة في ذروة انتشار كورونا.. فيديو مضلل",
+    "updated_at": "2020-09-24 07:55:55",
+    "url_path": "/factcheck/2020/05/04/إيطاليون-تجمعوا-للصلاة-في-ذروة-انتشار-كورونا-فيديو-مضلل"
+}

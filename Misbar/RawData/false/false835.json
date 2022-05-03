@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 1
+    },
+    "amount_sources": 0,
+    "amount_visits": 95465,
+    "author": {
+        "fullname": "هيثم جودية",
+        "id": "5e295291d4a2296ff0065605",
+        "photo": {
+            "name": "1579766417_هيثم .JPG",
+            "path": "authors/1579766417_هيثم .JPG"
+        }
+    },
+    "caption": "يتواجد خفّاش \"رأس المطرقة\" في قارة أفريقيا (Tumblr)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">اصطياد خفاش عملاق في لبنان يصل طوله إلى أربعة أمتار.</p>\r\n",
+    "country": "",
+    "created_at": "2020-03-26 15:10:56",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e7c9bd0d4a22949d7360e33",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الادعاء زائف، فبعد أن تحقق &quot;مسبار&quot; من صحة الصورة تبيّن بأنها تعود لنوع خفافيش يسمّى &quot;رأس المطرقة&quot; والتي&nbsp;تعيش في قارة أفريقيا، كما نشرت صحيفة ذا صن البريطانية في أغسطس/آب 2018.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_dj3cyhxxs.jpg\" style=\"height:621px; width:554px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">تحديث بتاريخ 31 مارس/آذار الجاري:</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">تجدر الإشارة إلى أنّ&nbsp;أحد المواطنين اللبنانيين أكد لفريق مسبار&nbsp;بأنَّه لا علاقة بين صورتي الخفاشين الموجودين في الصور المتداولة، إذ أن الصورة أدناه تعود لخفاش يسمّى &quot;خفاش الفواكه&quot; ويصل طوله إلى 40 سم وهو من النوع الطبيعي الموجود في لبنان، وقد قام بالتقاطها بنفسه في معمل الحدادة الخاص به.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_1xa7xgnvq.jpg\" style=\"height:864px; width:486px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": false,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت في الأيام الأخيرة صفحات على مواقع التواصل الاجتماعي فيسبوك وتويتر منشوراً عن اصطياد خفاشٍ يعود لأسراب خفافيش ضخمة انتشرت في لبنان. وادّعى بعض الناشرين أن وزن الخفاش يصل إلى أربعين كيلو غرام وطوله إلى أربعة أمتار.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_9u26fk3v3.jpg\" style=\"height:585px; width:554px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_2hsv2em2y.jpg\" style=\"height:830px; width:554px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"AR-SA\"><img src=\"https://images-prod.misbar.com/articlebody/origin_cjjq1tyht.jpg\" style=\"height:636px; width:484px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 355,
+        "left": 6.11712646484375,
+        "path": "articles/1585224656tumblr_py9iapaT5B1xwu4tvo1_1280.jpg",
+        "top": 9.147216796875,
+        "totalHeight": 423,
+        "totalWidth": 643,
+        "width": 631
+    },
+    "post_date": "2020-03-26T13:56:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/boibraheem/status/1241408477098127360",
+            "name": "حمد الجاسر",
+            "path": "published/0_1585224655_حمد الجاسر لوغو.jpg"
+        },
+        {
+            "link": "https://twitter.com/rhyming777/status/1242347064236937221",
+            "name": "الدرناوي الدرناوي",
+            "path": "published/1_1585224655_الدرناوي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=10158275690851119&set=a.10151832269151119&type=3&theater",
+            "name": "Sam Stevens",
+            "path": "published/2_1585225638_Sam Stevens logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/Kaqifka1231/status/1241817610871877638",
+            "name": "خالد",
+            "path": "published/3_1585224656_خالد.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ghassanmawla/posts/10163034679545433",
+            "name": "Ghassan Mawla",
+            "path": "published/4_1585224656_Ghassan Mawla.jpg"
+        },
+        {
+            "link": "https://twitter.com/ACEALYAFI/status/1242189723067715587",
+            "name": "آيس اليافعي",
+            "path": "published/5_1585224656_آيس اليافعي.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.thesun.co.uk/news/7021759/worlds-freakiest-animals-giant-horse-headed-bats-five-legged-frogs/",
+            "name": "THE Sun",
+            "path": "sources/0_1585224655_the sun.JPG"
+        },
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=10156989619366016&id=554491015",
+            "name": "Wajdi H Malaeb",
+            "path": "sources/1_1585668898_Wajdi H Malaeb.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ما حقيقة اصطياد خفاش عملاق في لبنان؟",
+    "updated_at": "2020-09-25 13:53:28",
+    "url_path": "/factcheck/2020/03/26/ما-حقيقة-اصطياد-خفاش-عملاق-في-لبنان"
+}

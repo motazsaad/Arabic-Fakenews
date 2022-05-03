@@ -1,0 +1,86 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2034,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "caption": "تحقق \"مسبار\" من الصورة، ووجد أنها ليست لصخرة من الطبيعة",
+    "category": "Arts & Culture",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">صورة صخرة على شكل جنين في بطن أمه</p>\r\n",
+    "country": "CO",
+    "created_at": "2020-06-18 19:12:05",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5eeb9255d6e4a97d1a37f724",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة، ووجد أنها ليست لصخرة من الطبيعة، وإنما هي عبارة عن نحت في الجبل تكريماً للمرأة التي تعطي الحياة، وهي للفنان دوبيان مونسالفي، ويقع هذا النحت بالقرب من مدينة سانتو دومينغو في كولومبيا.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_t34z8ckn1.jpg\" style=\"height:706px; width:613px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول حسابات على مواقع التواصل الاجتماعي منذ عام 2017، صورةً قال&nbsp;ناشروها إنها&nbsp;لصخرة تشبه شكل الجنين في بطن أمه. وعاد تداول الصورة مجدداً&nbsp;خلال الشهر الحالي مع نفس الادعاء.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_j1ypatmgh.jpg\" style=\"height:331px; width:603px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_vowyj8mwp.jpg\" style=\"height:436px; width:649px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 308,
+        "left": 8.622116088867188,
+        "path": "articles/1592496724103985060_253185165981944_6554699837896135513_n (1).jpg",
+        "top": 40.155517578125,
+        "totalHeight": 423,
+        "totalWidth": 564,
+        "watermark_path": "articles/watermark-1592496724103985060_253185165981944_6554699837896135513_n (1).jpg",
+        "width": 548
+    },
+    "post_date": "2020-06-18T19:01:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=253185162648611&set=gm.1116291658771071&type=3&theater&ifg=1",
+            "name": "Souad Anwar",
+            "path": "published/0_1592496723_Souad Anwar.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/1121538397878878/permalink/1417079361658112/",
+            "name": "Nazem Alamery",
+            "path": "published/1_1592496723_Nazem Alamery.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/mohamed.7assan22/photos/a.724139250999361/1274302862649661/?type=1&theater",
+            "name": "الشيخ محمد حسان",
+            "path": "published/2_1592496723_الشيخ محمد حسان.jpg"
+        }
+    ],
+    "result": "myth",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.lifesitenews.com/news/stunning-sculpture-of-pregnant-mountain-goes-viral",
+            "name": "lifesitenews",
+            "path": "sources/0_1592496723_life.JPG"
+        },
+        {
+            "link": "https://hoaxeye.com/2016/10/15/roadside-sculpture/",
+            "name": "hoaxeye",
+            "path": "sources/1_1592496723_hoax.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صخرة تشبه الجنين في بطن أمه.. خرافة",
+    "updated_at": "2020-09-25 13:00:53",
+    "url_path": "/factcheck/2020/06/18/صخرة-تشبه-الجنين-في-بطن-أمه-خرافة"
+}

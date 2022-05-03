@@ -1,0 +1,95 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1881,
+    "author": {
+        "fullname": "حسام الهندي",
+        "id": "5e25c80bd4a229629038df03",
+        "photo": {
+            "path": "authors/1579542323_حسام الهندي.jpg"
+        }
+    },
+    "category": "Spirituality & Religion",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">الرئيس الإندونيسي يستقبل شيخ الأزهر من على سُلَّم الطائرة.</span></p>\r\n",
+    "country": "ID",
+    "created_at": "2020-02-06 17:18:03",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e3c201bd4a229500730d7a4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">الفيديو المتداول كان خلال زيارة شيخ الأزهر، الدكتور أحمد الطيب، لجمهورية إندونيسيا عام 2016، لكن التعليق المتداول على الفيديو &quot;مضلّل وغير صحيح&quot;، وذلك لأنَّ الرئيس الإندونيسي جوكو ويدودو لم يظهر على الإطلاق خلال المقطع المصوَّر المنتشر، كما أنه -وفقاً لما هو متاح من أخبار- لم يذهب للقاء شيخ الأزهر في المطار. </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">وخلال السنوات الخمس الأخيرة زار الطيب إندونيسيا مرتين،&nbsp;</span><a href=\"https://www.antaranews.com/video/23901/presiden-ri-terima-kunjungan-grand-syeikh-al-azhar\" style=\"color:#0563c1; text-decoration:underline\">&nbsp;<span style=\"color:#1155cc\">عامَي 2016</span></a><span style=\"color:black\"> و2018، وكان أبرز اللقاءات بين الطيب وويدودو في قصر الاستقلال في العاصمة جاكرتا، وفي القصر الجمهوري في مدينة </span><a href=\"https://news.detik.com/berita/d-3998312/jokowi-terima-kunjungan-kehormatan-imam-besar-al-azhar\" style=\"color:#0563c1; text-decoration:underline\">بوجور،</a><span style=\"color:black\"> القريبة من جاكرتا.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img id=\"_x0000_i1025\" src=\"https://images-prod.misbar.com/articlebody/investigation_oeap1bpo7.jpg\" style=\"height:267pt; width:389.25pt\" /></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:right\"><span style=\"color:#000000\">&quot;مسبار&quot; تواصل مع الصحافي الإندونيسي في وكالة أنباء الأناضول بيزارو جوزالي، للتأكد من هوية بعض الأفراد في الفيديو، وقال بيزارو إن&nbsp;&quot;الشخص المتحدث باللغة العربية في الفيديو المنتشر، هو مدير مدرسة دار السلام كونتور الدكتور</span><a href=\"https://www.gontor.ac.id/k-h-hasan-abdullah-sahal\" style=\"text-decoration:none\"><span style=\"color:#000000\"> </span><span style=\"color:#1155cc\"><u>حسن عبد الله سهل</u></span></a><span style=\"color:#000000\">، وليس الرئيس الإندونيسي&quot;، وكان سهل قد ظهر في الفيديو وهو يلقي كلمة ترحيب بشيخ الأزهر، خلال زيارة الطيب لمدينة كونتور (Gontor) الواقعة في إقليم شرق جاوة في إندونيسيا (East Java)، وادعى البعض أنه الرئيس الإندونيسي.</span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تداول بعض مستخدمي مواقع التواصل الاجتماعي فيديو لشيخ الأزهر الدكتور أحمد الطيب، خلال زيارته لجمهورية إندونيسيا، وانتشر الفيديو تحت عنوان: الرئيس الإندونيسي ذهب بنفسه إلى المطار لاستقبال شيخ الأزهر.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img id=\"_x0000_i1025\" src=\"https://images-prod.misbar.com/articlebody/origin_kvjf56zzt.jpg\" style=\"height:266.25pt; width:312pt\" /></p>\r\n\r\n<p style=\"text-align:center\"><img id=\"_x0000_i1026\" src=\"https://images-prod.misbar.com/articlebody/origin_gxfgx79dq.jpg\" style=\"height:239.25pt; width:400.5pt\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1580998933GettyImages-953348692.jpg"
+    },
+    "post_date": "2020-02-07T10:05:00.000+03:00",
+    "published": [
+        {
+            "link": "https://web.facebook.com/106421087460137/videos/467388840803448/?__xts__[0]=68.ARDSO11IKR4HJMYuxaHK1v9pq7DsbSWi053XPe-O156M0Z-kMTKOgcdLrNXv3WZ2mm99w5iCFBr2J5eXTFTBniN9jAqpBi7W4o1EavI3PQUhJy66O7JNG2iWCJj-6jhhMf4ehdr7Fg7u-ETpAs-Eq2tE--cwngj3pD-vcrlcTQ9o-h6_AsEpEyXyTHMV1J7aS-3O1-pTIN2cbA8LbNCyxhyKkXZaj2X_lL1J9sm3iaOIA3S8gPNt1-ha-qXx5n6YMeDcOJqKHadAWWU6Kaiu2H5hSM_QVtmixoxhqEuGR_fXeZYbLMgPpbfIVfx82Hb6x796g41DdHtsUo6T2onVq-RqjKWM4yAQ&__tn__=-R",
+            "name": "محيي إسماعيل",
+            "path": "published/0_1580998682_محي إسماعيل لوغو.jpg"
+        },
+        {
+            "link": " https://web.facebook.com/bwabetelsaeed/videos/779549142559384/?v=779549142559384",
+            "name": "بوابة الصعيد",
+            "path": "published/1_1580998682_بوابة الصعيد.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/149996722310308/videos/183902296316761/",
+            "name": "مُسلِم Muslim Tv",
+            "path": "published/2_1580998683_مسلم TV.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/nabd4azhar/videos/837115183394309/?v=837115183394309",
+            "name": "نبض الأزهر",
+            "path": "published/3_1580998683_صفحة نبض الأزهر Nabd AlAzhar.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.cnnindonesia.com/internasional/20180430175312-106-294736/jokowi-bahas-wasatiyyah-islam-bersama-imam-besar-al-azhar",
+            "name": "CNN Indonesia",
+            "path": "sources/0_1580998682_CNN Indonesia LOGO.jpg"
+        },
+        {
+            "link": "https://www.gontor.ac.id/k-h-hasan-abdullah-sahal ",
+            "name": "pondok darussalam gontor",
+            "path": "sources/1_1580998682_pondok darussalam gontor LOGO.jpg"
+        },
+        {
+            "link": "https://news.detik.com/berita/d-3998312/jokowi-terima-kunjungan-kehormatan-imam-besar-al-azhar",
+            "name": "Detiknews",
+            "path": "sources/2_1581061422_13f62c9b-a3d1-4f8d-9942-13623ae9b7e6.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=mslJNu04Wlc",
+            "name": "Gontortv",
+            "path": "sources/3_1580998682_gontortv.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الرئيس الإندونيسي لم يستقبل شيخ الأزهر في المطار",
+    "updated_at": "2020-09-25 10:09:39",
+    "url_path": "/factcheck/2020/02/06/الرئيس-الإندونيسي-لم-يستقبل-شيخ-الأزهر-في-المطار"
+}

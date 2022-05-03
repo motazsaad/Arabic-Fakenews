@@ -1,0 +1,94 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 736,
+    "author": {
+        "fullname": "هيثم جودية",
+        "id": "5e295291d4a2296ff0065605",
+        "photo": {
+            "name": "1579766417_هيثم .JPG",
+            "path": "authors/1579766417_هيثم .JPG"
+        }
+    },
+    "caption": "يعود الفيديو إلى 5 مايو/أيار الفائت (يوتيوب)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">فيديو لنقل جرحى أصيبوا جراء الانفجار المروع في مرفأ بيروت إلى دمشق.</p>\r\n",
+    "country": "SY",
+    "created_at": "2020-08-05 18:36:50",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f2ad21240466e07100a9a35",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من مقطع الفيديو المتداول وتبين أن الادعاء مضلل، ولا علاقة له بالحادث الأخير في لبنان. إذ يعود الفيديو إلى 5 مايو/أيار الفائت، أثناء نقل جثامين عناصر من قوى الأمن الداخلي السوري، لقوا حتفهم في محافظة درعا السورية.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"868\" src=\"https://www.youtube.com/embed/FMcvAbeFMA4\" width=\"1280\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">تداولت صفحات على موقع التواصل الاجتماعي فيسبوك، اليوم 5 أغسطس/آب، مقطع فيديو مرفق بادعاء أن &quot;قوافل الجرحى&quot; من انفجار مرفأ بيروت، بدأت تدخل إلى دمشق لتلقي العلاج.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FHaikshey%2Fvideos%2F296808848258442%2F&amp;show_text=0&amp;width=261\" style=\"border:none;overflow:hidden\" width=\"261\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_jt8yh45l9.jpg\" style=\"height:573px; width:468px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_mlahv70f2.jpg\" style=\"height:575px; width:450px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 421,
+        "left": 1.77783203125,
+        "path": "articles/15966418108787.jpg",
+        "top": 2,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-15966418108787.jpg",
+        "width": 748
+    },
+    "post_date": "2020-08-05T18:33:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1439511722910279&id=100005543942837",
+            "name": "أبو عبد المعين",
+            "path": "published/0_1596641809_أبو عبد المعين.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2789258694640112&id=100006680256578",
+            "name": "Farah Ahmad",
+            "path": "published/1_1596641939_Farah Ahmad.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=296808848258442",
+            "name": "هيك شي",
+            "path": "published/2_1596641939_هيك شي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=165651551843883&id=100051971182652",
+            "name": "نور الأمل",
+            "path": "published/3_1596641939_نور الأمل.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=747185399427071&id=100024068530430",
+            "name": "أبو جود ماجد باحاج",
+            "path": "published/4_1596641939_أبو جود ماجد باحاج.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=FMcvAbeFMA4",
+            "name": "ملك السلطنة",
+            "path": "sources/0_1596641939_yt_1200-vflhSIVnY.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذا الفيديو ليس لنقل جرحى انفجار مرفأ بيروت إلى دمشق",
+    "updated_at": "2020-09-25 16:21:54",
+    "url_path": "/factcheck/2020/08/05/هذا-الفيديو-ليس-لنقل-جرحى-انفجار-مرفأ-بيروت-إلى-دمشق"
+}

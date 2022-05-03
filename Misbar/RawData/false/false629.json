@@ -1,0 +1,94 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2990,
+    "author": {
+        "fullname": "رشيد عفيف",
+        "id": "5ec4e956db291667784c4bc4",
+        "photo": {
+            "name": "1589963094_رشيد صورة.jpg",
+            "path": "authors/1589963094_رشيد صورة.jpg"
+        }
+    },
+    "caption": "رئيس الحكومة كان يقرأ رواية أهداها له كاتب موريتاني (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة لرئيس الحكومة المغربية الأسبق عبد الإله بنكيران وهو يقرأ كتاباً بعنوان &quot;كيف تتعلم الكذب&quot;.</p>\r\n",
+    "country": "",
+    "created_at": "2020-06-10 19:24:17",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ee10931d6e4a915472ae513",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الادعاء ووجد أنه زائف، لأنّ غلاف الكتاب الظّاهر&nbsp;في الصورة مُفبرك، كما تبين أنّ الفبركة عمدت إلى تغيير العنوان الحقيقي للكتاب وتعويضه بالعنوان المختلق. وعثر &quot;مسبار&quot; على العنوان الحقيقي للكتاب الذي كان يقرأه رئيس الحكومة&nbsp;الأسبق&nbsp;وهو &quot;الحدقي&quot;.<br />\r\nوتعود الصورة الأصلية لتاريخ 23 أبريل<span dir=\"LTR\" lang=\"FR\">/</span>نيسان عام 2018، نشرها السائق الخاص لرئيس الحكومة، فريد تيتي، في صفحته الشخصية على موقع فيسبوك. وكتب تيتي تعليقاً على الصورة أنّ <span style=\"background-color:white\"><span style=\"color:#1d2129\">الكاتب الموريتاني أحمد فال بن الدين، أهدى رئيس الحكومة بنكيران نسخةً من روايته &quot;الحدقي&quot;، مع توقيع جاء فيه &quot;إلى من علم جيلاً كاملاً&nbsp;كيف يسعى للحرية دون أن يفقد ذاته&quot;.</span></span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"635\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fhamid.tata.35%2Fposts%2F1687294841348588&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول حسابات وصفحات على موقع التواصل الاجتماعي فيسبوك منذ 5 يونيو/حزيران الجاري، صورة لرئيس حكومة المغرب الأسبق عبد الإله بنكيران، وهو يقرأ كتاباً بعنوان &quot;كيف تتعلم الكذب&quot;. وتم نشر الصورة مع تعليق&nbsp;&quot;الناس تقرأ القرآن وهو يقرأ كيف تتعلم الكذب&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"EN-GB\"><img src=\"https://images-prod.misbar.com/articlebody/origin_dl9a5arhw.jpg\" style=\"height:634px; width:487px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"EN-GB\"><img src=\"https://images-prod.misbar.com/articlebody/origin_7rgx4ktzr.jpg\" style=\"height:600px; width:488px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 38,
+        "path": "articles/1591806256854.jpg",
+        "top": 0,
+        "totalHeight": 465,
+        "totalWidth": 828,
+        "watermark_path": "articles/watermark-1591806256854.jpg",
+        "width": 752
+    },
+    "post_date": "2020-06-10T19:13:00.000+03:00",
+    "published": [
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=2594502887545879&id=100009585799302",
+            "name": "Redouane Ait Bennacer",
+            "path": "published/0_1591806256_Redouane Ait Bennacer.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/1093550540704362/permalink/3209369239122471/",
+            "name": "Yassine Lilamse",
+            "path": "published/1_1591806567_Yassine Lilamse.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=145442647077404&id=100048350087583",
+            "name": "إدريس المقنع ولد العكاري",
+            "path": "published/2_1591806567_إدريس المقنع ولد العكاري.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/asdiketnger/photos/a.160658047982524/580038712711120/?type=3&theater",
+            "name": "أصدقاء طنجة",
+            "path": "published/3_1591806567_أصدقاء طنجة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/cimo.tanger.7/posts/554510395426669",
+            "name": "مشاكيل في العالم",
+            "path": "published/4_1591806567_مشاكيل في العالم.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/hamid.tata.35/posts/1687294841348588",
+            "name": "فريد تيتي",
+            "path": "sources/0_1591806256_10.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "بن كيران يقرأ كتاب \"كيف تتعلم الكذب\".. عنوان مفبرك",
+    "updated_at": "2020-09-25 05:53:07",
+    "url_path": "/factcheck/2020/06/10/رئيس-حكومة-المغرب-الأسبق-يقرأ-كتاب-كيف-تتعلم-الكذب--عنوان-مفبرك"
+}

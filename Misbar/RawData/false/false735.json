@@ -1,0 +1,101 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 3309,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "المنشور زائف (فيسبوك)",
+    "category": "Arts & Culture",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">سجع من كتاب عظائم الدهور لأبي علي الدبيزي، المنشور عام 565 من الهجرة، يتنبّأ بانتشار فايروس كورونا المستجد عام 2020 ميلاديًّا.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-05-12 17:23:17",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 4,
+    "id": "5ebab155db29161107009443",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من المنشور المتداول وتبيّن أنه زائف، إذ لا وجود لكتاب يحمل اسم عظائم الدهور ولا كاتب يحمل اسم أبو علي الدبيزي أو أبو تبسي التبليسي.</span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "أدب",
+        "كورونا",
+        "فيروس ورونا",
+        "كوفيد-19"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تناقلت صفحات على مواقع التواصل الاجتماعي، منذ مارس/آذار الفائت، سجعاً ادّعت أنه من كتاب عظائم الدهور، الذي نُشر بتاريخ 565 من الهجرة لمؤلفه أبو علي الدبيزي، وتنبّأ فيه بانتشار فايروس كورونا المستجد عام 2020 ميلاديًّا، إذا قال في الكتاب &quot;عندما تحين العشرون.. يجتاح الدنيا كورون&quot;. نُسب الكتاب إلى العديد من المؤلفين، مثل الدبيزي، وأبو تبسي التبليسي، وغيرهم.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_htsganvyg.jpg\" style=\"height:761px; width:533px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_iqof68okp.jpg\" style=\"height:337px; width:528px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 224,
+        "left": 7.183349609375,
+        "path": "articles/1589293397سكرين11.jpg",
+        "top": 40.38330078125,
+        "totalHeight": 423,
+        "totalWidth": 409,
+        "watermark_path": "articles/watermark-1589293397سكرين11.jpg",
+        "width": 399
+    },
+    "post_date": "2020-05-12T17:17:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2770269863091722&id=1932426383542745",
+            "name": "طرطوس اليوم",
+            "path": "published/0_1589293396_طرطوس.jpg"
+        },
+        {
+            "link": "https://twitter.com/HussamAlhaj4/status/1244745827769344002",
+            "name": "حسام الحاج",
+            "path": "published/1_1589293396_حسام.jpg"
+        },
+        {
+            "link": "https://twitter.com/beshayer_moh/status/1251110115060695040",
+            "name": "بشائر محمد",
+            "path": "published/2_1589293396_بشائر.jpg"
+        },
+        {
+            "link": "https://twitter.com/mohamed101yones/status/1246342047302369281",
+            "name": "محمد يونس",
+            "path": "published/3_1589293396_محمد يونس.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=0DAuAShYjTU",
+            "name": "الإعلامي نجم الربيعي",
+            "path": "published/4_1589293396_نجم الربيعي.jpg"
+        },
+        {
+            "link": "https://twitter.com/Almutrfy79/status/1243861465100058625",
+            "name": "روحي هائمة",
+            "path": "published/5_1589293396_روحي هائمة.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.goodreads.com/",
+            "name": "Goodreads",
+            "path": "sources/0_1589293396_goodreads.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لا وجود لكتاب اسمه عظائم الدهور",
+    "updated_at": "2020-09-25 00:20:46",
+    "url_path": "/factcheck/2020/05/12/لا-وجود-لكتاب-اسمه-عظائم-الدهور"
+}

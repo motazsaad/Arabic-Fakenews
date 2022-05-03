@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 2,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 3769,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "caption": "اللوحة تسلط الضوء على النصيحة التي قدمها النبي محمد فيما يتعلق بالوقاية أثناء الجائحة",
+    "category": "Spirituality & Religion",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">لوحة على إحدى الطرق السريعة في مدينة شيكاغو الأميريكية حول نصيحةَ النبي محمد بغسل اليدين باستمرار، عدم الخروج من منطقة موبوءة بالمرض، وعدم زيارة منطقة موبوءة بالمرض.</p>\r\n",
+    "country": "",
+    "created_at": "2020-04-19 17:36:08",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e9c61d8db2916342304be04",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الخبر صحيح، إذ نشرت مؤسسة <span dir=\"LTR\">Gain peace</span>، وهي مؤسسة غير ربحية تهدف لنشر تعاليم الإسلام، على صفحتها في &quot;فيسبوك&quot;، الصورة وذكرت أنها قامت بوضع هذه اللوحة الإعلانية بهدف تحية القائمين على رعاية المتضررين من فايروس كورونا المستجد (كوفيد-19)، وذكرت المؤسسة أنَّ اللوحة تسلط الضوء على النصيحة التي قدمها النبي محمد فيما يتعلق بالوقاية أثناء الجائحة. وأكدت المؤسسة أنَّ اللوحة موجودة في ولاية شيكاغو الأمريكية قرب مطار أوهير.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_g27c6571f.jpg\" style=\"height:668px; width:554px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">انتشرت على بعض الصفحات في موقع فيسبوك، صورة للوحة إعلانية، قال المستخدمون إنها في ولاية شيكاغو الأميركية، وأنها تذكر النصائح التي قدمها النبي محمد للوقاية من الأوبئة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_115um8a22.jpg\" style=\"height:419px; width:682px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 363,
+        "left": 90.20001220703125,
+        "path": "articles/158730696793571148_10158553187976995_5852493579091443712_o.jpg",
+        "top": 42.300048828125,
+        "totalHeight": 423,
+        "totalWidth": 782,
+        "watermark_path": "articles/watermark-158730696793571148_10158553187976995_5852493579091443712_o.jpg",
+        "width": 645
+    },
+    "post_date": "2020-04-19T17:21:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/1595320640787415/photos/a.1596805167305629/2636870646632404/?type=3&theater",
+            "name": "الصفحة الرسمية للجالية التونسية في كندا و أمريكا",
+            "path": "published/0_1587306966_الصفحة الرسمية للجالية التونسية في كندا و أمريكا.JPG"
+        },
+        {
+            "link": "https://www.facebook.com/cellcaincalifornia/photos/a.471170786377639/1506042502890457/?type=3&theater",
+            "name": "خلية أحباء النادي الإفريقي بكاليفورنيا",
+            "path": "published/1_1587306966_خلية أحباء النادي الإفريقي بكاليفورنيا.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/fifve/photos/a.1533892610121655/1533503726827210/?type=3&theater",
+            "name": "فايف",
+            "path": "published/2_1587306967_فايف.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/isohaily/posts/1532764170221066",
+            "name": "د. إسماعيل السهيلي",
+            "path": "published/3_1587306967_د. إسماعيل السهيلي.jpg"
+        }
+    ],
+    "result": "true",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/GainPeace/posts/10158553193256995?__xts__[0]=68.ARApG2Zz1uoETgTbXrAINC6sThU0UJazcaX77iJ0LOTT4APzi2lAS0Kla1PozrtJKgh4bCWR_CuzMHuCB47cEzfQQLGFLuFr0Ms3xGBwQJCGv6u7JUgJon9LzEntyAJwlg-kXOtyW4fnb8GvdJwoVO_FtrwM3bZDUhderkWcN6IddswKSh2ol0g-RwzyyyVZmxGYCnOzGMSqqCq_dbpD4u45NGDh7UE2d3HCvrV6DnsUaCngVwkIofFhj8pe_Rsv_RglNb43NtR3p2iE7nPHtBfHTT2hYL_n-JpTDmWGB9ZhI_HrfsmqmjQe5ooQjXv_XcB9E_ZRCheMMF0iqaVu&__tn__=-R",
+            "name": "GainPeace Page",
+            "path": "sources/0_1587306967_GainPeace.jpg"
+        },
+        {
+            "link": "https://www.gainpeace.com/",
+            "name": "gainpeace.com",
+            "path": "sources/1_1587306967_GainPeace.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "نصائح النبي محمد الصحيَّة في لوحة بشيكاغو ",
+    "updated_at": "2020-09-25 13:32:52",
+    "url_path": "/factcheck/2020/04/19/لوحة-في-شيكاغو-الأميركية-عن-نصيحة-النبي-محمد-للوقاية-من-الأوبئة"
+}

@@ -1,0 +1,91 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 328,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "category": "Health",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">طبيب في مستشفى زايد في الإمارات يكتشف أنّ ماء جوز الهند الساخن علاجٌ ناجعٌ لمرضى السرطان.</p>\r\n",
+    "country": "AE",
+    "created_at": "2019-12-03 16:27:31",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5de662c38d7bd908fe1a3576",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">بالطبع هذه المعلومة خاطئة ولا أساس للخبر من الصحة. وقد اكتشف &quot;مسبار&quot; أنّ العلاج المزعوم للسرطان عن طريق ماء جوز الهند، والذي روّج له الآلاف على مواقع التواصل الاجتماعي في المنطقة العربية، مأخوذٌ من خبرٍ زائفٍ انتشر باللغة الإنكليزية يدعيّ أنّ طبيباً هندياً اسمه راجندا بادوي <span dir=\"LTR\">Rajendra a. Badwe</span>، اكتشف العلاج &quot;السحري&quot; لهذا المرض العضال.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">بعد انتشار الشائعة على نطاق واسع أصدر مستشفى <span dir=\"LTR\">Tata Memorial</span> في الهند بياناً، نفي فيه مديره راجندا بادوي المعلومة المنسوبة إليه، والتي راجت في الهند أول الأمر عبر رسائل &quot;واتساب&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_d5736c36cdde30e6852d319e869cab45.jpg\" style=\"height:424px; width:307px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">انتشرت بين عددٍ من مستخدمي مواقع التواصل الاجتماعي وعلى بعض المدونات، معلومةٌ تفيد أنّ ماء جوز الهند الساخن يحتوي على مواد يمكن لها معالجة المصابين بالسرطان. الشخص الذي اكتشف العلاج الجديد هو طبيب في مستشفى زايد في الإمارات يُدعى عباس حسين كاظمي، الذي وجّه بحسب ناشري الخبر نداءً لنشر المعلومة التي يمكن أن تُنقذ أرواح الكثيرين.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وجاء في محتوى الخبر إنّ ماء جوز الهند يعالج الخلايا السرطانية الخبيثة دون أن يؤثر سلباً على الخلايا السليمة، كما إنّ الحامض الأميني والبوليفينول الموجود في هذا الشراب يساعد على خفض ضغط الدم المرتفع ومنع الجلطات وتنظيم الدورة الدموية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_f9716999bc6ddae35da1cb156a785a51.jpg\" style=\"height:273px; width:522px\" /></span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><img src=\"https://images-prod.misbar.com/articlebody/origin_459b74b93bd7337cdfc91e42e8c1746e.jpg\" style=\"height:595px; width:312px\" /></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_95394007484315adef1dc624149223b9.jpg\" style=\"height:355px; width:278px\" /></span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_a2622ee0fbeb0c04d102a19425e8a342.jpg\" style=\"height:369px; width:273px\" /></span></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 356,
+        "left": 2.48248291015625,
+        "path": "articles/1575379651ماء جوز الهند يشفي من السرطان.jpg",
+        "top": 3,
+        "totalHeight": 423,
+        "totalWidth": 637,
+        "width": 633
+    },
+    "post_date": "2019-11-03T16:21:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.hawaaworld.com/%D8%A7%D8%AE%D8%B1_%D8%B9%D9%84%D8%A7%D8%AC_%D9%84%D9%85%D8%B1%D8%B6_%D8%A7%D9%84%D8%B3%D8%B1%D8%B7%D8%A7%D9%86_%D8%B4%D9%81%D8%A7%D8%A1%D9%83%D9%85_%D8%A7%D9%84%D9%84%D9%87-4866248/",
+            "name": "عالم حواء",
+            "path": "published/0_1575379651_عالم حواء- لوغو.jpg"
+        },
+        {
+            "link": "https://www.sotaliraq.com/2019/08/26/%D9%85%D8%A7%D8%A1-%D8%AC%D9%88%D8%B2-%D8%A7%D9%84%D9%87%D9%86%D8%AF-%D8%A3%D9%84%D8%B3%D8%A7%D8%AE%D9%86/",
+            "name": "صوت العراق",
+            "path": "published/1_1575379651_صوت العراق-لوغو.jpg"
+        },
+        {
+            "link": "https://xn--mgbaaebccr4cxezfcdfg0g.com/engineeringthinker/%D9%85%D8%A7%D8%A1-%D8%AC%D9%88%D8%B2-%D8%A7%D9%84%D9%87%D9%86%D8%AF-%D8%A7%D9%84%D8%B3%D8%A7%D8%AE%D9%86/",
+            "name": "يوميات الباحث والمفكر الهندسي",
+            "path": ""
+        },
+        {
+            "link": "https://www.jawabkom.com/question-60235819/%D8%B7%D8%A8%D9%8A%D8%A8/%D9%85%D8%A7%D8%A1-%D8%AC%D9%88%D8%B2-%D8%A7%D9%84%D9%87%D9%86%D8%AF-%D8%A3%D9%84%D8%B3%D8%A7%D8%AE%D9%86-%D8%AF%D9%83%D8%AA%D9%88%D8%B1-%D8%B9%D8%A8%D8%A7%D8%B3-%D8%AD%D8%B3%D9%8A%D9%86-%D9%83%D8%A7%D8%B8%D9%85%D9%8A-%D9%81%D9%8A-%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89-%D8%B2%D8%A7%D9%8A%D8%AF-%D9%8A%D8%B7%D9%84%D8%A8-%D9%85%D9%86-%D9%83%D9%84-%D8%B4%D8%AE%D8%B5-%D8%AA%D8%B5%D9%84-%D8%A5%D9%84%D9%8A%D9%87-%D9%87%D8%B0%D9%87-%D8%A7%D9%84%D8%B1%D8%B3%D8%A7%D9%84%D9%87-%D8%A3%D9%86",
+            "name": "جوابكم",
+            "path": ""
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://timesofindia.indiatimes.com/city/mumbai/hosp-denies-hot-coconut-water-a-cure-for-cancer/articleshow/69380368.cms",
+            "name": "The Times of India",
+            "path": "sources/0_1575379651_The times of India-logo.jpg"
+        },
+        {
+            "link": "https://medicaldialogues.in/hot-coconut-water-does-not-cure-cancer-tata-memorial-hospital-director-rebuffs-rumour/",
+            "name": "Medical Dialogues",
+            "path": "sources/1_1575379651_Medical dialogues-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ماء جوز الهند يشفي من السرطان... هل المعلومة صحيحة؟",
+    "updated_at": "2020-09-23 12:40:19",
+    "url_path": "/factcheck/2019/12/03/ماء-جوز-الهند-يشفي-من-السرطان-هل-المعلومة-صحيحة"
+}

@@ -1,0 +1,96 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1666,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "الصورة نُشرت في إندونيسيا في 5 مارس (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">امرأة مسنة يمنية ماتت دون أن يسأل عنها أحد، ومرّ على موتها شهور. في رواية أخرى تم العثور على امرأة سورية من ادلب تعيش وحدها في اسطنبول ميتة في منزلها. وقال البعض أن المرأة ميتة في منزلها منذ أكثر من عام في مدينة إدلب السورية.</p>\r\n",
+    "country": "TR",
+    "created_at": "2020-03-10 11:21:07",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e674df3d4a229231b0a2403",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تبين لـ &quot;مسبار&quot; بعد التحقق من الصورة والخبر أنها نُشرت للمرة الأولى بتاريخ 5 مارس/ آذار من العام الجاري على حساب ناشط إندونيسي، حين نسب الصورة لرجل لديه مرض عقلي تخلى عنه أولاده، توفي قبل 3 شهور في ماليزيا. وسارع الناشط الإندونيسي بحذف التغريدة بسبب عدم وجود تأكيد على صحة الخبر كما قال. طريقة انتشار القصة، من إندونيسيا، ترجّح زيف الادعاءات المختلفة، التي اعتبر بعضها تارة أنّ الهيكل العظمي لامرأة سورية ميتة في إسطنبول وتارة في إدلب، وأخرى في اليمن. إلّا أنّ &quot;مسبار&quot; يضع كل هذه الادعاءات في إطار الـ &quot;مشكوك فيه&quot; حتى التثبت من أصل الصورة وحقيقتها.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"صورة_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/investigation_85kwtc64i.jpg\" style=\"height:669.75pt; width:381pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"صورة_x0020_5\" src=\"https://images-prod.misbar.com/articlebody/investigation_ydev3nac5.jpg\" style=\"height:632.25pt; width:359.25pt\" /> </span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات وحسابات على مواقع التواصل الاجتماعي بتاريخ 8 و9 مارس/آذار، صورةً لهيكل عظمي ممدّد في غرفة صغيرة. نسب بعض المستخدمين الصورة لامرأة من اليمن وادعوا أنها توفيت دون أن يزورها أحد من عائلتها أو جيرانها. آخرون نسبوا الصورة لامرأة سورية وجدت ميتة في مدينة اسطنبول منذ أكثر من سنة، والبعض الآخر قال أنها وجدت في مدينة إدلب.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"صورة_x0020_7\" src=\"https://images-prod.misbar.com/articlebody/origin_zk7mpwy73.jpg\" style=\"height:559.5pt; width:348pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"صورة_x0020_6\" src=\"https://images-prod.misbar.com/articlebody/origin_gny839axb.jpg\" style=\"height:529.5pt; width:294pt\" /> </span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1583828766GettyImages-500064671.jpg"
+    },
+    "post_date": "2020-03-10T11:05:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/RtSunam/status/1236571609269440512",
+            "name": "Suna",
+            "path": "published/0_1583829548_Suna.jpg"
+        },
+        {
+            "link": "https://twitter.com/Dvlt_Ynls_0000/status/1236654896641904641",
+            "name": "Devlet Yanlisi",
+            "path": "published/1_1583829548_Devlet Yanlisi.jpg"
+        },
+        {
+            "link": "http://www.hunataiz.net/?p=23360",
+            "name": "هنا تعز",
+            "path": "published/2_1583828465_هنا تعز.jpg"
+        },
+        {
+            "link": "https://www.trendsmap.com/twitter/tweet/1236059216709853185",
+            "name": "Immovable for Yemen",
+            "path": "published/3_1583828465_Immovable for Yemen.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/story.php?story_fbid=117342509861670&id=105855537677034",
+            "name": "الهدف 24",
+            "path": "published/4_1583828465_الهدف 24.jpg"
+        }
+    ],
+    "result": "unclear",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/jebat_165/status/1236673679309717508?s=19",
+            "name": "AKU SANG PENDOSA (SIJAHAT)",
+            "path": "sources/0_1583828464_AKU SANG PENDOSA (SIJAHAT).jpg"
+        },
+        {
+            "link": "https://mobile.twitter.com/jebat_165/status/1235444811877896193?fbclid=IwAR0tzJONF4zJSenR9VVeosufTiTQtC5LI7ZjrXuEBr1QnEu8TExGMmzT_F8",
+            "name": "AKU SANG PENDOSA (SIJAHAT)",
+            "path": "sources/1_1583828464_AKU SANG PENDOSA (SIJAHAT).jpg"
+        },
+        {
+            "link": "https://www.facebook.com/story.php?story_fbid=2527153574081126&id=1179342748862222",
+            "name": "Gloomcult ll",
+            "path": "sources/2_1583828465_Gloomcult II.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صورة متداولة لهيكل عظمي.. هل هو لامرأة سورية أم يمنية؟",
+    "updated_at": "2020-09-25 15:43:17",
+    "url_path": "/factcheck/2020/03/10/صورة-متداولة-لهيكل-عظمي-هل-هو-لامرأة-سورية-أم-يمنية"
+}

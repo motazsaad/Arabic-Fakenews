@@ -1,0 +1,114 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 701,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "نفي  المتحدث الرسمي والمستشار الإعلامي لوزارة الإنتاج الحربي الخبر (فيسبوك)",
+    "category": "News",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">سيارات جيلى الكهربائية تصنيع وزارة الإنتاج الحربي، سيتم تعميمها للعمل كتاكسي في القاهرة والإسكندرية كبداية ومع زيادة الإنتاج فى كل محافظات الجمهورية.</span></p>\r\n",
+    "country": "EG",
+    "created_at": "2020-09-02 14:26:11",
+    "created_by": "5f39b5a51dd585076701cb94",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f4f81535241ac0f79689a7c",
+    "investigation": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">الادعاء المتداول مع الصور زائف. إذ أوضح المتحدث الرسمي والمستشار الإعلامي لوزارة الإنتاج الحربي محمد عيد بكر عدم صحة الخبر المتداول، وأكد أن شركة &quot;جيلي&quot; الصينية أرسلت هذه النماذج لاختبارها في مصر، مضيفاً أن الشركة واحدة من ضمن الشركات التي يتم التفاوض معها حتى الآن في هذا المجال لتصنيع هذه السيارات في مصر.<br />\r\nوقال إن وزارة الإنتاج الحربي تعمل في ملف توطين صناعة المركبات الكهربائية منذ فترة، وبدأت بـ&quot;الأتوبيس&quot; الكهربائي الذي يتم تجربته حالياً بخط التجمع - عبدالمنعم رياض، لافتاً إلى أنه جار التفاوض والتنسيق مع عدد من الشركات العالمية لتوطين صناعة&nbsp;&quot;الأوتوبيسات&quot; الكهربائية في مصر. وأكد على ضرورة عدم نشر الأخبار المغلوطة ومتابعة أخبار وبيانات الوزارة فقط من خلال صفحاتها الرسمية.</span></p>\r\n\r\n<p style=\"text-align:right\"><iframe frameborder=\"0\" height=\"745\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FMOMPEGYPT%2Fposts%2F4928230393869263&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": false,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات وصفحات على مواقع التواصل الاجتماعي في مصر، حديثاً، صور سيارات كهربائية، مع ادعاء أنها من تصنيع وزارة الإنتاج الحربي، وأنه سيتم تعميمها للعمل كتاكسي في القاهرة والإسكندرية كبداية، مع زيادة الإنتاج فى كل محافظات الجمهورية.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_tpd8rsjbe.jpg\" style=\"height:623px; width:408px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_er34byo8j.jpg\" style=\"height:577px; width:410px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_5mondvlik.jpg\" style=\"height:585px; width:412px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1599045971118707698_3460553804002424_3919102998797937471_n.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1599045971118707698_3460553804002424_3919102998797937471_n.jpg",
+        "width": 752
+    },
+    "post_date": "2020-09-02T14:21:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/groups/2473493892741156/permalink/3223851081038763/",
+            "name": "Basem Metwally",
+            "path": "published/0_1599045970_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/mansouraelyom/posts/782817989156477?__xts__%5B0%5D=68.ARD-oU657mNhCHQ7EcRPwbG3m6lH_1V11gEZcYvaLm7KBnJME49NseE-ZD6fZHJXUYYWMCNFPp-VCW9jY25FQsZzuwzDrVnPmIb7Q11VLZE30LMTxAONH6FwSjWPDX8PYCG8N1cTKlPIKr9PcwVH-dB9c1yjIECTKwEPzuDqFmE5QAsrOU5xj2kw-LrLzJ1syFupf2mU2gb8YlntMelEliNax_6OUl-wqZ99l9udcmeq3UVv9KcGWrFXuhqtREFuLmTg9Kjb35Sc3QwearkHS2vUpsULXgroBNVAXwUJQhAunmMAKzI27IbMHh9m_KY-bhvaxBqbEFgggOsVwhYeZCE&__tn__=-R",
+            "name": "المنصورة اليوم  Mansoura Today",
+            "path": "published/1_1599045970_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/groups/671957573383705/permalink/733044693941659/",
+            "name": "أيمن خليفة ",
+            "path": "published/2_1599045970_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/ELMOKATM/posts/2645040342479248",
+            "name": "المقطم",
+            "path": "published/3_1599045971_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1723892054429755&id=249685491850426",
+            "name": "عيون eyoon",
+            "path": "published/4_1599045971_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/EgyptianMilitary/posts/3144339585614534",
+            "name": " العساكر و الضباط العسكرية المصرية",
+            "path": "published/5_1599045971_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/folanw3elan/posts/106931477807724",
+            "name": " فلان و علان",
+            "path": "published/6_1599045971_facebook.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/MOMPEGYPT/posts/4928230393869263?__xts__%5B0%5D=68.ARBWmkp6iC4vsi_gCALEFVstJbrxWt0vcnkpVDAndh3tq30MufhHF3ov1lMEnI7SANQZdSi7K_xOEa6oJHbZKYE4WyfHbU5-JNMRLOzXlEHT-iyMHjfecjVwFNy6ke1qNkghW8d9J1UQ1_EtLbfb4RqhTWSt1EmBZEELBfXbqFoNxTHR5_aXLqfI0T4G_c5MEj6b389m0_r6L5-JvBDSwY5MDXEdNwKOaKQ1vAfPYbi9qMaL-ILMaQivNJ7XejAoiH3Wr6ckgZy_aKSvu9euSjRbeKFHlnHfeesEg3eIAthY-sMLkkmi8oCMcftQP2uLEI9sEau8N_zDGP13A89aU7b4iOM-&__tn__=-R",
+            "name": "الصفحة الرسمية لوزارة الإنتاج الحربى المصرية",
+            "path": "sources/0_1599045971_12190957_1240063532685986_2901213633049685681_n.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه السيارات الكهربائية ليست من تصنيع وزارة الإنتاج الحربي المصرية",
+    "updated_at": "2020-09-25 13:11:46",
+    "url_path": "/factcheck/2020/09/02/هذه-السيارات-الكهربائية-ليست-من-تصنيع-وزارة-الإنتاج-الحربي-المصرية"
+}

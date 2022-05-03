@@ -1,0 +1,96 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 1,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1597,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "المقطع يصوّر إسقاط تمثال إدوارد كارماك (يوتيوب)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">إسقاط تمثال جورج واشنطن بأيدي الشعب الأميركي.</span></p>\r\n",
+    "country": "US",
+    "created_at": "2020-06-06 15:49:07",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5edb90c3db2916399479ee44",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من المقطع المتداول ووجد أنه مضلل، لأنّ المقطع يصوّر </span><a href=\"https://youtu.be/tMp9IK981Uk\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>إسقاط</u></span></a><span style=\"color:#000000\"> تمثال <a href=\"https://tennesseeencyclopedia.net/entries/edward-ward-carmack/\" target=\"_blank\">إدوارد</a> <a href=\"https://www.newschannel5.com/news/the-history-behind-the-edward-carmack-statue-torn-down-during-protest\" target=\"_blank\">كارماك</a> في مدينة ناشفل في ولاية تينيسي، أثناء الاحتجاجات التي تبعت مقتل جورج فلويد. بينما يقع تمثال جورج واشنطن في عاصمة الولايات المتحدة الأميركية، واشنطن.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/tMp9IK981Uk\" width=\"560\"></iframe></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "جورج واشنطن",
+        "تمثال جورج واشنطن",
+        "احتجاجات أمريكا",
+        "الولايات المتحدة الأميركية"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتداول صفحات على مواقع التواصل الاجتماعي، مؤخراً، مقطع فيديو ادّعت أنه لمجموعة من المتظاهرين يهدمون تمثال جورج واشنطن في العاصمة الأميركية واشنطن.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"831\" scrolling=\"no\" src=\"https://web.facebook.com/plugins/video.php?href=https%3A%2F%2Fweb.facebook.com%2F378183106136531%2Fvideos%2F2195765700569658%2F&amp;show_text=1&amp;width=267\" style=\"border:none;overflow:hidden\" width=\"267\"></iframe></span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"872\" scrolling=\"no\" src=\"https://web.facebook.com/plugins/video.php?href=https%3A%2F%2Fweb.facebook.com%2Fmy12345667890%2Fvideos%2F2956312551150137%2F&amp;show_text=1&amp;width=266\" style=\"border:none;overflow:hidden\" width=\"266\"></iframe></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 288,
+        "left": 2.91668701171875,
+        "path": "articles/1591447747Annotation 2020-06-06 153254.jpg",
+        "top": 80.949951171875,
+        "totalHeight": 423,
+        "totalWidth": 518,
+        "watermark_path": "articles/watermark-1591447747Annotation 2020-06-06 153254.jpg",
+        "width": 512
+    },
+    "post_date": "2020-06-06T15:34:00.000+03:00",
+    "published": [
+        {
+            "link": "https://web.facebook.com/my12345667890/videos/2956312551150137/?v=2956312551150137",
+            "name": "معلوما تيون",
+            "path": "published/0_1591447746_معلوما.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/378183106136531/videos/2195765700569658/",
+            "name": "الباحثة جومانة محمود الصالح",
+            "path": "published/1_1591447746_الباحثة.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/SaadAbelhalim/videos/1223907571284891/",
+            "name": "سعد حليم",
+            "path": "published/2_1591447746_سعد حليم.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/295971147967341/videos/850111282146101/",
+            "name": "عاجل عملية الفتح المبين",
+            "path": "published/3_1591447746_عاجل.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/ZaataraHadath/videos/707507289999399/",
+            "name": "زعترة الحدث",
+            "path": "published/4_1591447746_زعترة.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://youtu.be/tMp9IK981Uk",
+            "name": "Storyful Rights Management",
+            "path": "sources/0_1591447747_story.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "إسقاط تمثال جورج واشنطن بأيدي المتظاهرين في أميركا.. ادعاء مضلل",
+    "updated_at": "2020-09-25 21:58:52",
+    "url_path": "/factcheck/2020/06/06/هذا-الفيديو-ليس-لإسقاط-تمثال-جورج-واشنطن"
+}

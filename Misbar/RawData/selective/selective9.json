@@ -1,0 +1,108 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1899,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "ليس الديانة الإسلامية وحدها (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">إقليم كتالونيا الإسباني يقرر تدريس الإسلام في المدارس.</p>\r\n",
+    "country": "ES",
+    "created_at": "2020-09-08 20:39:24",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 2,
+    "id": "5f57c1cc75f5a0128525ec44",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الخبر المتداول ووجد أنه انتقائي، إذ <a href=\"https://translate.google.com/translate?sl=es&amp;tl=en&amp;u=https%3A%2F%2Fwww.lavanguardia.com%2Fvida%2F20191219%2F472362540177%2Feducacion-ofrecera-clase-de-islam-judaismo-y-evangelismo-si-hay-demanda.html\" style=\"text-decoration:none\" target=\"_blank\"><u>أعلن</u></a> وزير التعليم في إقليم كتالونيا، جوزيب بارغايّو، نهاية 2019، عن نية الوزارة توفير مساقات تعليمية حول الديانة الإسلامية، واليهودية، والإنجيلية، وليس الديانة الإسلامية وحدها، وذلك يعتمد على حجم الطلب في المدارس على هذه المساقات وتوفّر المعلمين المختصين.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">وفي إعلانه، قال بارغايّو إن الهدف من هذه المساقات هو طرح موضوع ثقافي والتطرق للحقائق الدينية، بشكل غير تبشيري أو دعوي. كما <a href=\"https://www.lavanguardia.com/local/girona/20200908/483379758271/dos-institutos-girona-ofreceran-clases-islam-religion-curso-salt.html\" style=\"text-decoration:none\" target=\"_blank\"><u>أُعلن</u></a> مؤخراً عن بعض المؤسسات التي بدأت بطرح مساق الديانة الإسلامية في بعض المؤسسات التعليمية في إقليم كتالونيا.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_lwiymqtou.jpg\" style=\"height:414px; width:533px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تتناقل صفحات وحسابات على مواقع التواصل الاجتماعي، حديثاً، خبراً مفاده قرار إقليم كتالونيا الإسباني تدريس الديانة الإسلامية في المدارس.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_xeth0mm38.jpg\" style=\"height:515px; width:527px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_rp4vqbg4f.jpg\" style=\"height:430px; width:516px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 351,
+        "left": 1.433349609375,
+        "path": "articles/1599586763GettyImages-454806629.jpg",
+        "top": 41.466796875,
+        "totalHeight": 423,
+        "totalWidth": 627,
+        "watermark_path": "articles/watermark-1599586763GettyImages-454806629.jpg",
+        "width": 624
+    },
+    "post_date": "2020-09-08T20:35:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/AboTrekaLovers/posts/2815599698722152",
+            "name": "Abo Treka Lovers ",
+            "path": "published/0_1599586910_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=184564563222413&id=104254887920048",
+            "name": "Hollanda dz",
+            "path": "published/1_1599586910_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/NewSudanpost/posts/1396087930782062",
+            "name": "سودان بوست - Sudan post",
+            "path": "published/2_1599586910_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=322513159196471&id=111985780249211",
+            "name": "ايات من الذكر الحكيم",
+            "path": "published/3_1599586961_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=356935082344497&id=106324470738894",
+            "name": "الدكتور عمر عبد الكافي",
+            "path": "published/4_1599586961_facebook.jpg"
+        }
+    ],
+    "result": "selective",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://translate.google.com/translate?sl=es&tl=en&u=https%3A%2F%2Fwww.lavanguardia.com%2Fvida%2F20191219%2F472362540177%2Feducacion-ofrecera-clase-de-islam-judaismo-y-evangelismo-si-hay-demanda.html",
+            "name": "La Vanguardia ",
+            "path": "sources/0_1599586763_aZEjPeXP_400x400.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.lavanguardia.com/local/girona/20200908/483379758271/dos-institutos-girona-ofreceran-clases-islam-religion-curso-salt.html",
+            "name": "La Vanguardia ",
+            "path": "sources/1_1599586763_aZEjPeXP_400x400.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "إقليم كتالونيا ينوي تعليم الديانة الإسلامية إلى جانب اليهودية والمسيحية",
+    "updated_at": "2020-09-25 17:32:26",
+    "url_path": "/factcheck/2020/09/08/إقليم-كتالونيا-ينوي-تعليم-الديانة-الإسلامية-إلى-جانب-اليهودية-والمسيحية",
+    "was_notification_pushed": "true"
+}

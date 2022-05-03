@@ -1,0 +1,101 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 757,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "category": "Entertainment",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">مقاطع فيديو تُظهر سقوط الشعر المستعار للرئيس الأمريكي دونالد ترامب.</p>\r\n",
+    "country": "US",
+    "created_at": "2019-12-01 16:17:13",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5de3bd598d7bd92c9c51c2f6",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">حقيقةً مقاطع الفيديو الثلاثة مفبركة. إذ عثر &quot;مسبار&quot; على المقطع الأصلي للفيديو الأول على قناة البيت الأبيض على &quot;يوتيوب&quot;. أمّا المقطع الثاني فيعود إلى سبتمبر/ أيلول 2018، ويُدلي فيه ترامب بتصريحاتٍ حول إعصار فلورنس الذي ضرب ولايتي كارولينا الشمالية والجنوبية في ذلك الوقت. وبمشاهدة الفيديو الأصلي يتبيّن على الفور أنّه فُبركَ كي يُظهر ترامب يرتدي شعراً مستعاراً قد سقط بفعل الرياح.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وأخيراً يمكن الرجوع إلى المقطع الأصلي للفيديو الثالث، ليتّضح أنّ ترامب لم يكن يرتدي شعراً مستعاراً أصلاً عندما فرك المذيع جيمي فالون رأسه خلال مقابلة جرت في سبتمبر/ أيلول 2016.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_dd121a02f29cf648f6e1f60adfbe3a1e.jpg\" style=\"height:408px; width:432px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تناقل عددٌ من مستخدمي مواقع التواصل الاجتماعي وموقع يوتيوب، مقطع فيديو ظهر فيه الرئيس الأمريكي دونالد ترامب واقفاً بجانب إحدى الطائرات. وبينما كان يدلي بتصريحاتٍ صحفية أدّت شدّة الرياح الصادرة عن محرك الطائرة إلى اقتلاع شعره المستعار.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_678d76e71ae09c534d387a5a9560cc29.jpg\" style=\"height:474px; width:340px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_c43c4e315e62bcb9180ec02ca9318e18.jpg\" style=\"height:537px; width:384px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">وكان انتشر في وقتٍ سابق مقطع فيديو، ادعى ناشروه على وسائل التواصل وعلى &quot;يوتيوب&quot; أنّه يُصوّر سقوط شعر ترامب المستعار بسبب هبوب رياحٍ قوية أثناء تصريحٍ صحفي.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_2e4153e4f44554cdd20f6af94f3208d5.jpg\" style=\"height:294px; width:428px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">وفي مقطعٍ آخر لقي بدوره رواجاً على شبكات التواصل الاجتماعي، يسقط شعر ترامب المستعار بعدما فرك المذيع رأسه أثناء مقابلةٍ تلفزيونية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_d8c5e89798f55e6ed902da2c1a4fbc52.jpg\" style=\"height:437px; width:469px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 354,
+        "left": 2.3238525390625,
+        "path": "articles/1575206233GettyImages-872383186.jpg",
+        "top": 41.426849365234375,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "width": 629
+    },
+    "post_date": "2019-11-25T16:02:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.youtube.com/watch?v=CWh6e9KPevM",
+            "name": "قناة الفوز",
+            "path": "published/0_1575206233_قناة الفوز-لوغو.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=mEbee8THDwo",
+            "name": "روافد من هنا وهناك",
+            "path": "published/1_1575206233_روافد من هنا وهناك-لوغو.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=-_wXLrWO0v0",
+            "name": "عراقية",
+            "path": "published/2_1575206233_عراقية-لوغو.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=CVQ8AvAmNtU",
+            "name": "in world فيديوهات ",
+            "path": "published/3_1575206233_in world فيديوهات- لوغو.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=9XmZMYA6IfY&feature=youtu.be&fbclid=IwAR0FhXGWw8XmCtjFYMOddBcu00poLZ9D_jo8sgoPzkiLG147f5gQoeAQe38",
+            "name": "The White House",
+            "path": "sources/0_1575206233_The white house-logo.jpg"
+        },
+        {
+            "link": "https://www.dailymail.co.uk/news/article-6163051/Donald-Trump-brags-getting-tremendous-accolades-response-Hurricane-Florence.html",
+            "name": "Daily Mail",
+            "path": "sources/1_1575206233_Daily mail-logo.jpg"
+        },
+        {
+            "link": "https://www.theguardian.com/culture/2017/may/17/jimmy-fallon-trump-interview-tonight-show",
+            "name": "The Guardian",
+            "path": "sources/2_1575206233_The Guardian-logo.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=kIGcosb22_Y",
+            "name": "CNN",
+            "path": "sources/3_1575206233_cnn-logo-white-on-red.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "سقوط متكرر لشعر ترامب المستعار... ما حقيقة مقاطع الفيديو؟",
+    "updated_at": "2020-09-23 12:40:09",
+    "url_path": "/factcheck/2019/12/01/سقوط-متكرر-لشعر-ترامب-المستعار-ما-حقيقة-مقاطع-الفيديو"
+}

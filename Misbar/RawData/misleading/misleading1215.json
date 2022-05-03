@@ -1,0 +1,101 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1076,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "مقطع الفيديو مجرد تصميم فني (مواقع التواصل الاجتماعي)",
+    "category": "Technology",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">مقطع فيديو يُظهر خدمات التوصيل في اليابان أثناء أزمة فايروس كورونا المستجد.</span></p>\r\n",
+    "country": "JP",
+    "created_at": "2020-04-23 15:54:13",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ea18ff5db29165e1945bb64",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من المقطع المتداول ووجد أنه مضلل لأن </span><a href=\"https://www.instagram.com/p/B_E_Ex8ILgb/\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>الفيديو الأصلي</u></span></a><span style=\"color:#000000\"> مجرّد تصميم للفنانين Alexander Ivanov وAlexander Kotelevets يحاكيان فيه شكل المستقبل على الكرة الأرضية.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_euczkfhy2.jpg\" style=\"height:381px; width:519px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "فيروس كورونا",
+        "اليابان",
+        "كورونا اليابان",
+        "كوفيد-19"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تناقلت صفحات على مواقع التواصل الاجتماعي مقطع فيديو ادّعت أنه يُظهر خدمات التوصيل في اليابان أثناء أزمة فايروس كوفيد-19، التي أبدت تطوّراً ملحوظاً بالاعتماد على الروبوتات والطائرات المسيّرة عن بُعد (الدرونز).</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><iframe frameborder=\"0\" height=\"739\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F1377851639120738%2Fvideos%2F241546453709952%2F&amp;show_text=1&amp;width=294\" style=\"border:none;overflow:hidden\" width=\"294\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 192,
+        "left": 0.7166748046875,
+        "path": "articles/1587646451Annotation 2020-04-23 153948.jpg",
+        "top": 130.433349609375,
+        "totalHeight": 423,
+        "totalWidth": 343,
+        "watermark_path": "articles/watermark-1587646451Annotation 2020-04-23 153948.jpg",
+        "width": 342
+    },
+    "post_date": "2020-04-23T15:48:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/1377851639120738/videos/241546453709952/",
+            "name": "هردميسه",
+            "path": "published/0_1587646451_هردميسة-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/587685775155083/permalink/614298389160488/",
+            "name": "Ahmed Taragona",
+            "path": "published/1_1587646451_ahmed-logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/muhamed.beso.357/videos/2629613020590522/",
+            "name": "محمد السعيد",
+            "path": "published/2_1587646451_محمد-السعيد-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/140375716442517/permalink/879910279155720/",
+            "name": "Akrem Goodman",
+            "path": "published/3_1587646451_akber-logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/Faicris7/status/1252270351586902019",
+            "name": "فيصل",
+            "path": "published/4_1587646451_فيصل-لوغو.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.instagram.com/p/B_E_Ex8ILgb/",
+            "name": "Alexander Ivanov",
+            "path": "sources/0_1587646451_Alexander-Ivanov-logo.jpg"
+        },
+        {
+            "link": "https://www.instagram.com/p/B_FCPMBIKjw/",
+            "name": "Alexander Kotelevets",
+            "path": "sources/1_1587646451_alexander-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "مقطع الفيديو مجرد تصميم فني.",
+    "title": "كورونا اليابان: فيديو مضلل لخدمات التوصيل إلى المنازل",
+    "updated_at": "2020-09-25 11:21:36",
+    "url_path": "/factcheck/2020/04/23/كورونا-اليابان-فيديو-مضلل-لخدمات-التوصيل-إلى-المنازل"
+}

@@ -1,0 +1,118 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 1
+    },
+    "amount_sources": 0,
+    "amount_visits": 87250,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "مشروع تدريب قامت به الشرطة الهولندية لبعض الأنواع من النسور (Getty)",
+    "category": "Technology",
+    "claim": "<p style=\"text-align:justify\">طائرة تجسس إسرائيلية بدون طيار، تطير فوق سيناء وغزة، ولكن حكمة الله أن يتناولها صقر.</p>\r\n",
+    "country": "EG",
+    "created_at": "2020-03-13 08:52:04",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e6b1f84d4a2292f3e388323",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تحقق &quot;مسبار&quot; من الصورة والتعليق المتداول، وتبين أن التعليق المتداول زائف، والصورة ليس لها أي علاقة&nbsp;بجيش&nbsp;</span>الاحتلال الإسرائيلي&nbsp;<span style=\"color:black\">ولم تكن في سيناء أو غزة، والطائر الذي يظهر في الصورة نسر وليس صقراً، كما تداول البعض. </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">وتعود الصورة لمشروع أعلنت عنه&nbsp;الشرطة الهولندية في مارس/آذار 2016، خاص بتدريب بعض الأنواع من النسور لاصطياد الطائرات دون طيار (درون)، في حال حلقت بالقرب من المطارات أو في المناطق التي يحظر فيها تواجدها، وأطلقت على&nbsp;المشروع&nbsp;اسم <a href=\"http://www.bbc.com/arabic/scienceandtech/2016/09/160912_netherlands_drones_eagles\" style=\"color:blue; text-decoration:underline\">&quot;الفرقة الطائرة&quot;</a></span><span style=\"color:black\">.</span> <span style=\"color:black\">وفي 12 ديسمبر/كانون الأول 2017، أوقفت <a href=\"http://www.theverge.com/2017/12/12/16767000/police-netherlands-eagles-rogue-drones\" style=\"color:blue; text-decoration:underline\">الشرطة الهولندية</a></span> <span style=\"color:black\">استخدام النسور في مطاردة الطائرات بدون طيار،&nbsp;</span>لأنها لم تفعل المطلوب منها، كما أن تدريبها أكثر تكلفة وتعقيداً مما توقعوا، كما أعرب نشطاء حقوق الحيوان أيضاً عن قلقهم من استخدام النسور في تلك المهام.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_0tfqyah07.jpg\" style=\"height:409px; width:440px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><span style=\"color:#f73832\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_x30oh26qs.jpg\" style=\"height:290px; width:449px\" /></span></span></strong></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تداول&nbsp;بعض مستخدمي مواقع التواصل الاجتماعي&nbsp;صورة طائر يُحلّق في السماء ويهاجم طائرة بدون طيار مستخدماً مخالبه. و</span><span style=\"color:black\">قال ناشرو الصورة إن&nbsp;الطائرة تابعة لجيش الاحتلال الإسرائيلي، كانت تطير فوق شبه جزيرة سيناء، بغرض التجسس، ولكن من حكمة الله أن تناولها صقر، فيما ادعى آخرون أن الصورة كانت في قطاع غزة الفلسطيني</span><span dir=\"LTR\"><span style=\"color:black\">.</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_7hloftn4w.jpg\" style=\"height:455px; width:329px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_njiqkr69g.jpg\" style=\"height:426px; width:306px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_jf2zvzupz.jpg\" style=\"height:437px; width:323px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 297,
+        "left": 35.78489685058594,
+        "path": "articles/1584078723GettyImages-514147794.jpg",
+        "top": 63.16015625,
+        "totalHeight": 384,
+        "totalWidth": 599,
+        "width": 528
+    },
+    "post_date": "2020-03-13T12:47:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/Namberx6/photos/a.106335790865668/139834110849169/?type=3&theater",
+            "name": "Namber X",
+            "path": "published/0_1584080183_Namber X.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/asae.colonila/photos/a.1044233705637605/3004725886255034/?type=3&theater",
+            "name": "العقرب السام",
+            "path": "published/1_1584080183_العقرب السام.jpg"
+        },
+        {
+            "link": "https://twitter.com/04wzVEbZikDOEOJ/status/1235349893201506306",
+            "name": "الصحفي محمد صبحي",
+            "path": "published/2_1584080183_الصحفي محمدصبحي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=2556422891351410&set=a.1725255574468150&type=3&theater",
+            "name": "عبد الحميد الخولي",
+            "path": "published/3_1584080183_عبد الحميد الخولي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=1602687759889298&set=a.373740226117397&type=3&theater",
+            "name": "ابو داود عبد الاله",
+            "path": "published/4_1584080183_ابو داود عبد الاله.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=480605206153544&id=262941327919934",
+            "name": "معلومات واقصص",
+            "path": "published/5_1584080183_معلومات واقصص.jpg"
+        },
+        {
+            "link": "https://twitter.com/afr0987/status/1202219683472166913",
+            "name": "همس الحنين2020",
+            "path": "published/6_1584080183_همس الحنين2020.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.bbc.com/arabic/scienceandtech/2016/09/160912_netherlands_drones_eagles",
+            "name": "بي بي سي عربي",
+            "path": "sources/0_1584080183_بي بي سي عربي- لوغو.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=HifO-ebmE1s&feature=emb_logo",
+            "name": "Politie",
+            "path": "sources/1_1584080183_Politie.jpg"
+        },
+        {
+            "link": "https://www.theverge.com/2017/12/12/16767000/police-netherlands-eagles-rogue-drones",
+            "name": "The Verge",
+            "path": "sources/2_1584080183_The Verge.jpg"
+        },
+        {
+            "link": "https://www.gettyimages.de/detail/nachrichtenfoto/an-eagle-of-the-guard-from-above-company-grasps-a-nachrichtenfoto/514147794",
+            "name": "Getty Images",
+            "path": "sources/3_1584080183_Gtty images.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صقر مصري يعترض طائرة تجسُّس فوق سيناء.. ادعاء زائف",
+    "updated_at": "2020-09-24 10:26:56",
+    "url_path": "/factcheck/2020/03/13/صقر-مصري-يعترض-طائرة-تجسس-فوق-سيناء-ادعاء-زائف"
+}

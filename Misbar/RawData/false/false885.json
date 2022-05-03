@@ -1,0 +1,105 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 3,
+        "fb": 4,
+        "tw": 1
+    },
+    "amount_sources": 0,
+    "amount_visits": 42913,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "ترجمة مزيّفة لأغنية تتحدّث عن فايروس كورونا المستجد (Getty)",
+    "category": "Spirituality & Religion",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">أغنية صينية تعتذر للمسلمين وشعب الإيغور عقب انتشار فايروس كورونا المستجد (كوفيد-19).</span></p>\r\n",
+    "country": "CN",
+    "created_at": "2020-03-06 16:50:55",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e62553fd4a22970307002f7",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تواصل &quot;مسبار&quot; مع مجموعة من المترجمين عن اللغة الصينية، وتبيّن أنّ الترجمة مزيّفة، ولا علاقة لها بالمسلمين أو قومية الإيغور المسلمة. وفي الحقيقة، تتحدّث الأغنية عن تحمّل الشعب الصيني للمسؤولية رغم الأذى الحاصل جرّاء الفايروس. وتتقمّص المغنية دور طبيبة متعبة بسبب عملها، لكنها تقدّم مجهودها وروحها فداءً لبلدها.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">ويبدو أنّ مصدر الخبر الزائف يعود إلى حساب على انستغرام يحمل اسم &quot;</span><a href=\"https://www.instagram.com/p/B86sVMppQ77/\" style=\"text-decoration:none\"><span style=\"color:#1155cc\"><u>3vodx@</u></span></a><span style=\"color:#000000\">&quot;، وهو الاسم الموجود على مقاطع الفيديو المتداولة.</span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "كورونا",
+        "الصين",
+        "الإيغور",
+        "الإسلام",
+        "المسلمين"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل صفحاتٌ على مواقع التواصل الاجتماعي، منذ بداية مارس/آذار الجاري، أغنية صينية يدّعون أنها للاعتذار من شعب الإيغور والمسلمين جميعاً، عقب انتشار فايروس كورونا المستجد (كوفيد-19). حملت الأغنية اسم &quot;لم نكن نعلم&quot; وتحدّثت عن ندم الشعب الصينيّ واعتذارهم لشعب الإيغور عمّا بدر من الحكومة الصينيّة.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_3o1sknfxx.jpg\" style=\"height:474px; width:446px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_67557vv03.jpg\" style=\"height:455px; width:445px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1583507188Annotation 2020-03-06 170317.jpg"
+    },
+    "post_date": "2020-03-06T15:44:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/100000296534848/posts/3081334291886425/",
+            "name": "Gino Martinez",
+            "path": "published/0_1583502654_Gino Martinez-logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/SalimRamzym73/status/1234996624692146177",
+            "name": "Salim",
+            "path": "published/1_1583502654_twitter-logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/j_8_y/status/1235465229678624768",
+            "name": "همام",
+            "path": "published/2_1583502654_همام-لوغو.jpg"
+        },
+        {
+            "link": "https://twitter.com/sjsallam2/status/1234491295684534273",
+            "name": "سامية سلّام",
+            "path": "published/3_1583502655_سامية سلام-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/103093307966473/videos/185066406108227/",
+            "name": "أنا مسلم",
+            "path": "published/4_1583502655_أنا مسلم-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/teacher1975/videos/2963403350393536/",
+            "name": "طاهر السعيد",
+            "path": "published/5_1583502655_طاهر السعيد-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100008828408336/videos/2269160326721559/",
+            "name": "إبراهيم درويش",
+            "path": "published/6_1583502655_إبراهيم درويش-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/sada.fernana/videos/226182115203128/",
+            "name": "صدى فرنانة",
+            "path": "published/7_1583502655_صدى فرنانة-لوغو.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://m.weibo.cn/detail/4474790284987990#&video",
+            "name": "الأغنية الأصلية",
+            "path": "sources/0_1583502654_weibo-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "ترجمة مزيّفة لأغنية صينية",
+    "title": "الصين لم تعتذر بأغنية للمسلمين",
+    "updated_at": "2020-09-25 15:57:49",
+    "url_path": "/factcheck/2020/03/06/الصين-لم-تعتذر-بأغنية-للمسلمين"
+}

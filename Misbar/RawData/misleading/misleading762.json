@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 573,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "المقطع قديم (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">مقطع فيديو يوثق لحظة وصول مهاجرين غير شرعيين من تونس والجزائر إلى إسبانيا.</p>\r\n",
+    "country": "DZ",
+    "created_at": "2020-08-16 16:18:49",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f3932391dd585076f60481a",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من مقطع الفيديو المتداول وتبين أن الادعاء مضلل، فهو ليس لمهاجرين غير شرعيين من الجزائر وتونس، إنّما يعود، بحسب قناة الحراكَة على موقع يوتيوب، إلى مهاجرين مغربيين.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">ويعود تاريخ المقطع إلى 11 أكتوبر/تشرين الأول 2018، وحمل عنوان &quot;وصول الشباب المغاربة البارحة إلى لاس بالماس الإسبانية بعد يومين من الطريق&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/gS7gynseNko\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت قناة الحدث الإخبارية، ونقلت عنها عدة مواقع وصفحات على مواقع التواصل الاجتماعي، حديثاً، مقطع فيديو ادعت أنه يوثق لحظة وصول مهاجرين غير شرعيين من تونس والجزائر إلى إسبانيا خلال الأسبوع الثاني من شهر أغسطس/آب الجاري.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"Picture_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/origin_sx0b8mb5a.jpg\" style=\"height:320.4pt; width:407.4pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><iframe frameborder=\"0\" height=\"430\" scrolling=\"no\" src=\"https://web.facebook.com/plugins/video.php?href=https%3A%2F%2Fweb.facebook.com%2Falhadath.algeria%2Fvideos%2F3501078176578482%2F&amp;show_text=1&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 356,
+        "left": 1.23333740234375,
+        "path": "articles/15975839293.jpg",
+        "top": 25.599853515625,
+        "totalHeight": 423,
+        "totalWidth": 635,
+        "watermark_path": "articles/watermark-15975839293.jpg",
+        "width": 633
+    },
+    "post_date": "2020-08-16T16:15:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/minyarrrr/status/1293756512771481600",
+            "name": "منيار هويدي",
+            "path": "published/0_1597584457_منيار.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/watch/?v=3501078176578482",
+            "name": "Al Hadath Algeria الحدث الجزائري",
+            "path": "published/1_1597584457_الجزائري.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/watch/?v=292106372018277",
+            "name": "Alhadath.Tunisia الحدث التونسي",
+            "path": "published/2_1597584457_التونسي.jpg"
+        },
+        {
+            "link": "https://arabscoop.net/2020/08/12/%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%84%D9%84%D8%AD%D8%B8%D8%A9-%D9%88%D8%B5%D9%88%D9%84-%D9%85%D9%87%D8%A7%D8%AC%D8%B1%D9%8A%D9%86-%D8%BA%D9%8A%D8%B1-%D8%B4%D8%B1%D8%B9%D9%8A%D9%8A%D9%86-%D9%85%D9%86/",
+            "name": "عرب سكوب",
+            "path": "published/3_1597584492_Annotation 2020-08-16 162327.jpg"
+        },
+        {
+            "link": "https://anawin.com/4252949-%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%84%D9%84%D8%AD%D8%B8%D8%A9-%D9%88%D8%B5%D9%88%D9%84-%D9%85%D9%87%D8%A7%D8%AC%D8%B1%D9%8A%D9%86-%D8%BA%D9%8A%D8%B1-%D8%B4%D8%B1%D8%B9%D9%8A%D9%8A%D9%86-%D9%85%D9%86-%D8%AA%D9%88%D9%86%D8%B3-%D9%88-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%A5%D9%84%D9%89-%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A7",
+            "name": "عناوين",
+            "path": "published/4_1597584492_عناوين.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=gS7gynseNko",
+            "name": "A.O EL HERAGA - الحراگة ",
+            "path": "sources/0_1597583929_unnamed.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "فيديو قديم لمهاجرين من المغرب وليس من تونس أو الجزائر",
+    "updated_at": "2020-09-25 01:46:24",
+    "url_path": "/factcheck/2020/08/16/فيديو-قديم-لمهاجرين-من-المغرب-وليس-من-تونس-أو-الجزائر"
+}

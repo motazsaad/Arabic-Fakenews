@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1785,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "caption": "المقطع يعود لعاد 2019 وهو ليس في عدن ولا غزة (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">سمكة قرش يسحبها المصطافون على شاطئ عدن<span dir=\"LTR\">/</span>على شاطئ غزة</p>\r\n",
+    "country": "YE",
+    "created_at": "2020-05-10 17:53:40",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eb81574db291655fe554154",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق مسبار من المقطع المنشور، ووجد أنه يعود لعام 2019، وكان قد انتشر على وسائل التواصل الاجتماعي، وذُكر أنه لسمكة قرش سحبها الأشخاص الذين يظهرون في الفيديو في منطقة القنفذة على ساحل البحر الأحمر في السعودية.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/FsT20xoHn_Q\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">انتشر على بعض الحسابات في وسائل التواصل الاجتماعي، خلال الأسبوع الثاني من مايو<span dir=\"LTR\">/</span>أيار الجاري، مقطع فيديو لمجموعة من الأشخاص الذين يسحبون سمكة قرش على الشاطئ. وذكر الناشرون أنَّ المقطع يعود لمصطافين على شاطئ عدن في اليمن، فيما قال آخرون إنه على شاطئ غزة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_jfejqqbpo.jpg\" style=\"height:588px; width:563px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_smbxss87i.jpg\" style=\"height:713px; width:547px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 346,
+        "left": 15.057113647460938,
+        "path": "articles/1589122419GettyImages-579991315.jpg",
+        "top": 21.927978515625,
+        "totalHeight": 423,
+        "totalWidth": 636,
+        "watermark_path": "articles/watermark-1589122419GettyImages-579991315.jpg",
+        "width": 613
+    },
+    "post_date": "2020-05-10T17:35:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/watch/?ref=search&v=268980130896025&external_log_id=1f7833c384b02f39de35f2ac86c32911&q=%D9%82%D8%B1%D8%B4%20%D8%B9%D8%AF%D9%86",
+            "name": "شبكة عناوين بوست",
+            "path": "published/0_1589122418_عناوين-بوست1.jpg"
+        },
+        {
+            "link": "https://twitter.com/lggem9vfufutrkx/status/1257668536308244482?s=21&fbclid=IwAR31wR4L2B9lJKRNEmt_0IzIfe-Ny9OVYRDvmBGK0qMBqSv1F5iUSfJyENI",
+            "name": "معاذ عصفور",
+            "path": "published/1_1589122418_معاذ-عصفور.jpg"
+        },
+        {
+            "link": "http://facebook.com/watch/?v=658987464670053",
+            "name": "حسين البساره",
+            "path": "published/2_1589122418_حسين-البساره.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/search/top/?q=%D9%82%D8%B1%D8%B4%20%D8%BA%D8%B2%D8%A9&epa=SEARCH_BOX",
+            "name": "Saad Waheidi",
+            "path": "published/3_1589122418_Saad Waheidi.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/iwarde/videos/10163589548000438/",
+            "name": "Imran Warde",
+            "path": "published/4_1589122419_Imran Warde.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/watch/?ref=search&v=451370018850834&external_log_id=2e6d6b837dbc445a770c0fd56a7607b0&q=%D9%82%D8%B1%D8%B4%20%D8%A7%D9%84%D9%82%D9%86%D9%81%D8%B0%D8%A9",
+            "name": "Lebanese in khobar",
+            "path": "sources/0_1589122419_Lebanese in khobar.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=940063103046345&id=100011279910747",
+            "name": "Arabiaex Sales",
+            "path": "sources/1_1589122419_Arabiaex Sales.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=FsT20xoHn_Q&feature=youtu.be",
+            "name": "يوتيوب عرب",
+            "path": "sources/2_1589122419_يوتيوب عرب.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذا القرش ليس على شاطئ عدن ولا شاطئ غزة",
+    "updated_at": "2020-09-25 10:01:07",
+    "url_path": "/factcheck/2020/05/10/هذا-القرش-ليس-على-شاطئ-عدن-ولا-شاطئ-غزة"
+}

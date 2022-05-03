@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1676,
+    "author": {
+        "fullname": "حمزة حسن",
+        "id": "5e318864d4a2294d2d7209c4",
+        "photo": {
+            "name": "1580304484_hamza-hasan.jpg",
+            "path": "authors/1580304484_hamza-hasan.jpg"
+        }
+    },
+    "caption": "الفيديو منشور على يوتيوب قبل ظهور فايروس كورونا المستجد (Getty)",
+    "category": "Health",
+    "claim": "<p>فيديو يصوّر الكوادر الطبية في تركيا وهي تحيي المواطنين.</p>\r\n",
+    "country": "TR",
+    "created_at": "2020-04-12 16:39:10",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e9319fedb29160632272e84",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تحقق &quot;مسبار&quot; من صحة الفيديو، ووجده مضللاً. إذ إنّ المقطع منشور على &quot;يوتيوب&quot; منذ كانون الأول/ديسمبر من العام الفائت، ويصوّر استعراضاً لسيارات الإسعاف النموذجية التي صنّعتها شركة </span><span dir=\"LTR\"><span style=\"color:black\">AC Ambulance</span></span><span style=\"color:black\"> المختصة بتصنيع سيارات الإسعاف.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/8MHRYOXjCmA\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تداولت حسابات وصفحات على منصة فيسبوك وموقع يوتيوب، فيديو</span><span style=\"color:black\"> يُظهر الكوادر الطبية التركية تجول في سيارات الإسعاف وتحيي المواطنين، وذلك في ظل أزمة انتشار فايروس كورونا المستجد، وتزامناً مع الاجراءات والقيود التي فرضتها الحكومة لمواجهة تفشي الفايروس.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fdalilakturkey%2Fvideos%2F2323285551107311%2F&amp;show_text=0&amp;width=476\" style=\"border:none;overflow:hidden\" width=\"476\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/QejQ-ULTSc0\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 402,
+        "left": 2.0357208251953125,
+        "path": "articles/1586698749GettyImages-1208577885.jpg",
+        "top": 21.007568359375,
+        "totalHeight": 481,
+        "totalWidth": 721,
+        "watermark_path": "articles/watermark-1586698749GettyImages-1208577885.jpg",
+        "width": 714
+    },
+    "post_date": "2020-04-12T16:25:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.youtube.com/watch?v=_bVsqKjvMQA",
+            "name": "Recep Tekerci",
+            "path": "published/1_1586698748_Recep Tekerci.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=QejQ-ULTSc0",
+            "name": "المبدع المليكي",
+            "path": "published/2_1586698749_المبدع المليكي.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=VOTTsUSEJDY",
+            "name": "PERENSES GHADA",
+            "path": "published/3_1586698749_PERENSES GHADA.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=n-mP5S4EJHs",
+            "name": " samer sabbagh",
+            "path": "published/4_1586698749_samer sabbagh.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=yEA47CVvTcw",
+            "name": "مرحبا",
+            "path": "published/5_1586698749_مرحبا.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=8MHRYOXjCmA&fbclid=IwAR0qnyfPnuQ7pR9N9HVkfi4nWVks5BNpezjY_4b325HqRK-JS3jZLQQXTjE",
+            "name": "AC Ambulans",
+            "path": "sources/0_1586698749_AC Ambulans.jpg"
+        },
+        {
+            "link": "https://www.instagram.com/p/B6QbsX5JENU/?igshid=n3xc1l1sxnt1&fbclid=IwAR0tZI5caH-ZUZz0jIlukh2VafWsTXe5vm8XFZN2bbcwCDF0AkjeZd_2GO4",
+            "name": "ac.ambulans",
+            "path": "sources/1_1586698749_AC Ambulans.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "كورونا تركيا: الطواقم الطبية تحيي المواطنين.. حقيقة الفيديو",
+    "updated_at": "2020-09-25 18:05:44",
+    "url_path": "/factcheck/2020/04/12/كورونا-تركيا-المواطنون-يحيون-الطواقم-الطبية-حقيقة-الفيديو"
+}

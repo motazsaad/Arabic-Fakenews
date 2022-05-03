@@ -1,0 +1,108 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1016,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "  صورة منتشرة على شبكة الانترنت، خاصة في مواقع الإعلانات (Facebook)",
+    "category": "Science",
+    "claim": "<p>صورة تدل على انخفاض التلوث بعد الحجر الصحي الذي فرضته حكومات العالم لمواجهة فايروس كورونا (كوفيد_19) في الشهور الأخيرة.</p>\r\n",
+    "country": "",
+    "created_at": "2020-06-21 17:22:10",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eef6d12163be357bc1676c3",
+    "investigation": "<p style=\"text-align:justify\"><span style=\"background-color:white\">تحقّق &quot;مسبار&quot; من الصورة، ووجدها منتشرة على شبكة&nbsp;الانترنت، خاصة في مواقع الإعلانات لأدوات التزين النسائية، وكذلك في موقع <span style=\"color:black\">بينترسيت الشهير للصور المحفوظة والتي يمكن استخدامها كخلفية لسطح المكتب في الحواسيب أو شاشات&nbsp;الهواتف المحمولة، وليس لها علاقة بوضع تلوث الهواء.</span></span></p>\r\n\r\n<p style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:black\">&nbsp;كما أن صور قياس نسب التلوث&nbsp;لا يتم فيها استخدام&nbsp;صورة كونية من خارج الغلاف المحيط بالأرض، فقد نشرت وكالة الفضاء الأميركية ناسا، من قبل صوراً مغايرة لمعاينة التلوث ونسبته عقب الحجر الصحي في الأشهر الأخيرة.</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:black\">وبحسب مقابلة نشرها عددٌ من المواقع الأجنبية مع&nbsp;</span>لوري ميليفيرتا، كبير المحللين في مركز أبحاث الطاقة النظيفة والهواء في هلسنكي بفنلندا، قال إنّ مستويات ثاني أكسيد النيتروجين انخفضت بنسبة 35٪ فوق الصين خلال فترة الإغلاق مقارنةً بالفترة نفسها من&nbsp;عام&nbsp;2019.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:black\">ونشرت وكالة الفضاء &quot;ناسا&quot; عدداً من الصور للصين توضّح نسب&nbsp;التلوث في طبقات الهواء قبل أزمة وباء كورونا وبعدها، ما يوضّح&nbsp; تراجع التلوث، إلّا أنّها أشارت أنّ هذا لا يعني أن أزمة التلوث انتهت في هذه المناطق.</span></span></p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_zzzala69j.jpg\" style=\"height:231px; width:605px\" />&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_15eoh3tv0.jpg\" style=\"height:489px; width:605px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/investigation_qw3s3r45f.jpg\" style=\"height:438px; width:605px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SY\">تداولت حسابات على مواقع التواصل الاجتماعي في21 يونيو/حزيران الجاري، ما يبدو أنها صورة كونية من الفضاء للأرض، وكتبت أن التلوث غادر الأرض من أبخرة ودخان بعد الحظر الصحي الذي التزم به العالم لمواجهة فايروس كورونا المستجد.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_npqfxjjkq.jpg\" style=\"height:625px; width:492px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_eh43uqdp5.jpg\" style=\"height:433px; width:592px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_qvvpv8phu.jpg\" style=\"height:298px; width:605px\" />&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 339,
+        "left": 13.449951171875,
+        "path": "articles/1592749329الحظر الكلي ال.jpg",
+        "top": 54.800048828125,
+        "totalHeight": 423,
+        "totalWidth": 761,
+        "watermark_path": "articles/watermark-1592749329الحظر الكلي ال.jpg",
+        "width": 601
+    },
+    "post_date": "2020-06-21T13:49:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/groups/188341908976182/permalink/283491659461206/",
+            "name": "Hassan Kaka",
+            "path": "published/0_1592749328_حءن.jpg"
+        },
+        {
+            "link": "https://twitter.com/YYfathy97/status/1274411980393254912",
+            "name": "yaser fathy ",
+            "path": "published/1_1592749328_tZaLg80J_400x400.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=261620601606650&id=100032761367840",
+            "name": "بشير مجيد صالح زنكنه",
+            "path": "published/2_1592749328_83336312_174513263650718_3477086818535473152_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=3112142145506048&set=basw.AbqSV2tqQwwDK8ZLiEW4YEOVVbe4Hrh7liGsK-K0bPTJxv9Phu88bxtJaPU5-wO_Z2sMueYGIQExWv0iJ_fKO68pVKRUK5uFZjikdNsARnF0PthKIiIufPbaFGSAc0NZVymru3uFAJoetAD8H2rgOOASRBbHE35ICYewTUh_-m1qFYA6wiaNLn2KN9824Xn0XupPEwcSOIGBVQOnlV47cmBC2kc5o4DC_acsrdUXqbI-eU88yLQSUn7kcU6yv7VKe4iL7v8h3hAA2vnPuOior6MNrYi9O-JOqTY5l-bBuOiuQzZYrweW_d0mjXJe1FRjbuGSCcxwZcj63p7Jye-_RonzIRXZcdKGmyjatuUomGQHPbA02BwVKDQRqcVoG6dLVD7JpWb5cF8Nyy_uZexIDAe2b6OvqHjZiE0OQK1yyWLiFkG1XHtjrPw8x_X6WlrKSzXxouihxfKlAPuKQJGOD0xg0OrwNtw3pIefZOFw9IDMHDmzllTcu917z2ELE74zFMw.3112142145506048.261620568273320.589272591725176&type=1&opaqueCursor=AbobK71qNykBokTURGonG85rfsemlusjgP2euFOhr6GyuNgFYyw_VtkU3cypsbqblgBKfBN7JCF76pZrG0eAjGSkBi-oUt6UoXmXOTx6eO6KmiYFRYLf_9jmnMHjRZWbkmAGzh8y2LClg1aasAMNzumlt5gMCkuQ3Xfkx73uCr16egLx_AHeSuytqdMQ0ztrFtRZ7IEdi8Q0Z3_9km4uj9N5pf_yVU3-D6uztcC9jzdh7DLLcDKYcysuqNBR09kTpZUSv5Y9nQR07ebEriQqK2n2YVqNKYMm7qlW8rjgQUAdve8wu817UGv9ngSc5AQayEsp2SnHAoAXM9HSpw_TwbEEc5RDTnt7tWkxiK0fHktSULYCYvFaCnOcyVUSacNaYun1lS7OkNCU8os0XwhVdo8s2eaWxch424qKhRBXgWG2_Y3vK9LwtWuC7tqbO-wDPQT2cui_6BFICGO8LD_hRE69VammAUXQ3ZOffV3p4Ye5Trw5-rm18Ry-c4Ipt9nQ4QI3gDXn5lbb0efVbgs0K574DcWrvkmttM5lcwkxgeNUpA&theater",
+            "name": "Badr Faith",
+            "path": "published/3_1592749329_بدر.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.shopnoctex.com/products/cryosleep-eyeshadow",
+            "name": "shopnoctex",
+            "path": "sources/0_1592749329_ييي.JPG"
+        },
+        {
+            "link": "https://www.pinterest.com.mx/",
+            "name": "pinterest",
+            "path": "sources/1_1592749329_logo pinterest.jpg"
+        },
+        {
+            "link": "https://earthobservatory.nasa.gov/blogs/earthmatters/2020/03/05/how-the-coronavirus-is-and-is-not-affecting-the-environment/",
+            "name": "NASA",
+            "path": "sources/2_1592749329_TI2qItoi_400x400.jpg"
+        },
+        {
+            "link": "https://twitter.com/NASA/status/1236781242412158980",
+            "name": "NASA",
+            "path": "sources/3_1592749329_TI2qItoi_400x400.jpg"
+        },
+        {
+            "link": "https://www.eg24.news/2020/03/global-air-pollution-levels-drop-amid-the-spread-of-the-corona-virus.html",
+            "name": "eg24",
+            "path": "sources/4_1592749329_EEEE.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصورة ليست لها علاقة بحالة التلوث عقب كورونا",
+    "updated_at": "2020-09-25 21:50:40",
+    "url_path": "/factcheck/2020/06/21/هذه-الصورة-ليست-لها-علاقة-بحالة-التلوث-عقب-كورونا"
+}

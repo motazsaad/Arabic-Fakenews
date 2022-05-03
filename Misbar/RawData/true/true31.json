@@ -1,0 +1,94 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1703,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "أعلنت وزارة الحج والعمرة السعودية اليوم عن القرار (Getty)",
+    "category": "Spirituality & Religion",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">وزارة الحج السعودية تقرر إقامة الحج لهذا العام، لكن بأعداد محدودة جداً للراغبين الموجودين داخل المملكة فقط.</p>\r\n",
+    "country": "",
+    "created_at": "2020-06-22 22:30:49",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ef106e9163be3761d1020b3",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الخبر ووجد أنه صحيح، إذ أعلنت وزارة الحج والعمرة السعودية اليوم عن القرار. وقالت الوزارة في بيانها&nbsp;&quot;&rlm;ستقام شعيرة الحج هذا العام بأعداد محدودة من جنسيات مختلقة من داخل المملكة العربية السعودية، مع إجراءات احترازية دقيقة حفاظاً على أمن وسلامة حجاج بيت الله الحرام، حمانا الله واياكم من هذه الجائحة وتقبل من الحجيج حجهم&quot;.</p>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"rtl\">ستقام شعيرة الحج هذا العام بأعداد محدودة من جنسيات مختلقة من داخل المملكة العربية السعودية مع اجراءات احترازية دقيقة حفاظًا على امن وسلامة حجاج بيت الله الحرام، حمانا الله واياكم من هذه الجائحة وتقبل من الحجيج حجهم <a href=\"https://twitter.com/hashtag/%D8%AD%D8%AC_%D9%A2%D9%A0%D9%A2%D9%A0?src=hash&amp;ref_src=twsrc%5Etfw\">#حج_٢٠٢٠</a> <a href=\"https://t.co/vmsBQtmCGF\">pic.twitter.com/vmsBQtmCGF</a></p>\r\n&mdash; وزارة الحج والعمرة (@HajMinistry) <a href=\"https://twitter.com/HajMinistry/status/1275131737723600898?ref_src=twsrc%5Etfw\">June 22, 2020</a></blockquote>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت مواقع إخبارية اليوم، خبراً يفيد أن وزارة الحج السعودية قررت إقامة مناسك الحج لهذا العام، لكن بأعداد محدودة جداً للراغبين الموجودين داخل المملكة العربية السعودية فقط<span dir=\"LTR\">.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_152sit5k8.jpg\" style=\"height:470px; width:469px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 422,
+        "left": 8.2901611328125,
+        "path": "articles/1592854248GettyImages-1214817240.jpg",
+        "top": 0.888916015625,
+        "totalHeight": 512,
+        "totalWidth": 767,
+        "watermark_path": "articles/watermark-1592854248GettyImages-1214817240.jpg",
+        "width": 750
+    },
+    "post_date": "2020-06-22T22:25:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/algeriaa.news.officiel/photos/a.118437233027270/172764927594500/?type=3&__xts__%5B0%5D=68.ARBEOz8Ap9y54Bs1LpoxC-eN5fFyyHJfuFxKFsKVh7Rb7relB2lPtQ9iX5ZCvLWgALatvV3OSppJS28L5zqfLKWmhEelPOm8_RmRycZt0gnDlBem0VFnTwb5OvEWOZPPVLrDdLSLOu-mQgozUtPHTKrER38P7Gpe5qb1oySfRxsERpP2jM1thn-5k9ONWKxkbUKOV0QGB6w8plurrPhnJsQzOnboVB_3Qd9LkL0EzluN7zCM3LUFZj252KI1JUSKPHSF-AfYSaxJX9AcAcjtPKc3cL5aa6Gtz2T3NdWwHS8uwwvD8S6OjHrpKP5-yhn37773O3BgjGlg5W0RYu5Zf5k&__tn__=-R",
+            "name": "الجزائر نيوز Algeria News",
+            "path": "published/0_1592854248_83195538_164706268400366_2607198393105121280_o.jpg"
+        },
+        {
+            "link": "https://www.almasryalyoum.com/news/details/1990764",
+            "name": "المصري اليوم",
+            "path": "published/1_1592854936_إقامة مناسك الحج هذا العام بأعداد محدودة من داخل المملكةالمصري اليوم.jpg"
+        },
+        {
+            "link": "https://twitter.com/Almajlliss/status/1275131477186039808",
+            "name": "المجلس",
+            "path": "published/2_1592855329_المجلس.jpg"
+        },
+        {
+            "link": "https://twitter.com/alrabe3aaa/status/1275132665998475265",
+            "name": "الرابعة نيوز",
+            "path": "published/3_1592855329_الرابعة نيوز.jpg"
+        },
+        {
+            "link": "https://twitter.com/CNBCArabia/status/1275131747756314629",
+            "name": "CNBC Arabia",
+            "path": "published/4_1592855329_CNBC Arabia.jpg"
+        }
+    ],
+    "result": "true",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/HajMinistry/status/1275131737723600898",
+            "name": "وزارة الحج والعمرة",
+            "path": "sources/0_1592854248_وزارة الحج والعمرة.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "إقامة مناسك الحج هذا العام بأعداد محدودة من داخل المملكة",
+    "updated_at": "2020-09-25 05:30:17",
+    "url_path": "/factcheck/2020/06/22/إقامة-الحج-هذا-العام-بأعداد-محدودة-من-داخل-المملكة"
+}

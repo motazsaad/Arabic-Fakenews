@@ -1,0 +1,108 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1288,
+    "author": {
+        "fullname": "مريم هواري",
+        "id": "5e299460d4a22939983a3ec5",
+        "photo": {
+            "path": "authors/1579791192_Maryam.jpg"
+        }
+    },
+    "caption": "لم ينشر الإعلام الإسرائيلي الخبر المتداول (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">صحيفة يديعوت أحرونوت العبرية تنشر عن استرجاع &quot;إسرائيل&quot; جميع الحواجز في الضفة الغربية خلال 24 ساعة، وذلك حسب بند 2006، وأول حاجز طبق على أرض الواقع عن طريق مكعبات اسمنتية بين الباذان ونابلس.</p>\r\n",
+    "country": "PS",
+    "created_at": "2020-09-23 19:06:17",
+    "created_by": "5f39b6aa1dd585076701cb95",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f6b7279a4ee770fea53db44",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقّق &quot;مسبار&quot; من الخبر المتداول ووجد أنّه زائف. إذ أنّه بعد البحث في صحيفة يديعوت أحرونوت وباقي المواقع الإخبارية &quot;الإسرائيلية&quot;، لم يجد ذكراً للخبر المتداول، كما أنّه لا يوجد ذكر لما سمّي &quot;بند 2006&quot;. وتجدر الإشارة إلى نشر بعض المواقع الفلسطينية عن وضع جيش الاحتلال لحاجز اسمنتي على طريق وادي الباذان، وهو أحد أنواع الحواجز التّي يضعها في مناطق الضفّة الغربية.</p>\r\n\r\n<p><span dir=\"RTL\" lang=\"AR-SA\">والجدير بالذكر إلى وجود قرابة 700 <a href=\"https://www.btselem.org/arabic/freedom_of_movement/checkpoints_and_forbidden_roads\" style=\"color:#0563c1; text-decoration:underline\">حاجز عسكري</a> في الضفّة الغربية، تختلف أنواعها بين ثابت وطيّار.</span></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": false,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">تداولت صفحات على موقع التواصل الاجتماعي فيسبوك، خبراً بتاريخ 22 سبتمبر/أيلول الجاري، مفاده نشر الإعلام &quot;الإسرائيلي&quot; عن استرجاع جميع الحواجز في الضفة الغربية خلال 24 ساعة، وذلك بحسب بند 2006. وأضاف بعض الناشرين&nbsp;عن بدء تطبيق القرار بوضع حاجز اسمنتي على طريق الباذان، شرق مدينة نابلس.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_sy12c4010.jpg\" style=\"height:703px; width:560px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_4kl59v6id.jpg\" style=\"height:587px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_tzfv3cpxn.jpg\" style=\"height:810px; width:624px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 143,
+        "left": 2.54443359375,
+        "path": "articles/1600877176GettyImages-52429678.jpg",
+        "top": 22.80517578125,
+        "totalHeight": 172,
+        "totalWidth": 258,
+        "watermark_path": "articles/watermark-1600877176GettyImages-52429678.jpg",
+        "width": 254
+    },
+    "post_date": "2020-09-23T19:02:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=360612718653770&id=100041151339034",
+            "name": "هيفاء عودة بشارات",
+            "path": "published/0_1600877176_Facebook_logo.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=3709700462374102&id=470705746273606",
+            "name": "جبع اصل الحكاية",
+            "path": "published/1_1600877176_Facebook_logo.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=3593248840705649&id=1507157199314834",
+            "name": "طولكرم بنحبك يا بلدنا",
+            "path": "published/2_1600877176_Facebook_logo.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=125205402656928&id=100661281778007",
+            "name": "طولكرم للجميع",
+            "path": "published/3_1600877176_Facebook_logo.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=3114548035341375&id=489000434562828",
+            "name": "شبكة اخبار أبناء قرية دير عمار للجميع في الوطن والشتات",
+            "path": "published/4_1600877176_Facebook_logo.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.wafa.ps/ar_page.aspx?id=EX4hx8a34098454731aEX4hx8",
+            "name": "وكالة وفا",
+            "path": "sources/0_1600877176_وفا.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.maannews.net/news/9265.html",
+            "name": "وكالة معا",
+            "path": "sources/1_1600877176_معا - logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لم يُعلن الإعلام \"الإسرائيلي\" عن إعادة نشر جميع الحواجز في الضفّة الغربية",
+    "updated_at": "2020-09-25 20:13:09",
+    "url_path": "/factcheck/2020/09/23/لم-يعلن-الإعلام-الإسرائيلي-عن-استرجاع-جميع-الحواجز-في-الضفة-الغربية",
+    "was_notification_pushed": true
+}

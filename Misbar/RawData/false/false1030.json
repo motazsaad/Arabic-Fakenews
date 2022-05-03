@@ -1,0 +1,95 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 320,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "category": "Sports",
+    "claim": "<p>كريستيانو رونالدو يتبرع بمليون ونصف المليون يورو لإقامة موائد إفطار للصائمين في قطاع غزة.</p>\r\n",
+    "country": "PS",
+    "created_at": "2019-10-30 13:29:50",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5db9661e8d7bd908c71abd86",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">في الحقيقة الخبر غير صحيح، إذ انتشرَ عبر موقعٍ رياضيٍّ اسباني يُدعى <span dir=\"LTR\">9SPORTPRO</span> في منتصف مايو/ أيار الفائت، نقلاً عن عدّة مواقع ألبانية. إلا إنّ شركة <span dir=\"LTR\">Gestifute</span> التي تتولى إدارة أعمال رونالدو، نفت حسب مواقع إلكترونية أن يكون الخبر صحيحاً.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">هذا وكان النجم البرتغالي كريستيانو رونالدو تبرع في عام 2012 بمبلغ ميلون ونصف المليون يورو لأطفال غزة، وهي قيمة جائزة الحذاء الذهبي التي نالها كأفضل هدّافٍ في أوروبا في تلك السّنة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_66f058fc431ccfd596c79f305929635d.jpg\" style=\"height:304px; width:284px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_706c99ac20f64e1c209a854d6a426acd.jpg\" style=\"height:370px; width:278px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p>تداولت&nbsp;العديد من المواقع الالكترونية والصفحات والحسابات على مواقع التواصل الاجتماعي في مايو/ أيار من العام الجاري، خبراً فحواه أنّ لاعب نادي يوفنتوس الإيطالي كريستيانو رونالدو تبرّع بــمبلغ مليون ونصف المليون يورو، لإقامة موائد إفطارٍ للصائمين خلال شهر رمضان في قطاع غزة.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_2062dbe268d9b0b2ae34f9739532779e.jpg\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_dabafacbf95853736082615f72c28dcd.jpg\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1573028957GettyImages-1158414114.jpg"
+    },
+    "post_date": "2019-06-04T13:09:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.arab48.com/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/2019/05/17/%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1-%D9%83%D8%B1%D9%8A%D8%B3%D8%AA%D9%8A%D8%A7%D9%86%D9%88-%D9%8A%D8%AA%D8%A8%D8%B1%D8%B9-%D9%84%D8%A5%D9%81%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D8%B5%D8%A7%D8%A6%D9%85%D9%8A%D9%86-%D9%81%D9%8A-%D8%BA%D8%B2%D8%A9",
+            "name": "عرب 48",
+            "path": "published/0_1572431390_عرب 48 لوغو.jpg"
+        },
+        {
+            "link": "https://www.almalath-news.net/postid=518785",
+            "name": "صحيفة الملاذ الالكترونية",
+            "path": "published/1_1572431390_صحيفة الملاذ الالكترونية- لوغو.jpg"
+        },
+        {
+            "link": "https://www.alsumaria.tv/Entertainment-News/304628/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/alsumaria-news",
+            "name": "السومرية",
+            "path": "published/2_1572431390_السومرية-لوغو.jpg"
+        },
+        {
+            "link": "https://www.bwabtelasyma.com/%D9%85%D9%84%D9%8A%D9%88%D9%86-%D9%88%D9%86%D8%B5-%D9%8A%D9%88%D8%B1%D9%88-%D9%84%D8%A5%D9%81%D8%B7%D8%A7%D8%B1-%D8%A7%D9%84%D8%B5%D8%A7%D8%A6%D9%85%D9%8A%D9%86-%D9%81%D9%8A-%D8%BA%D8%B2%D8%A9/",
+            "name": "بوابة العاصمة",
+            "path": "published/3_1572431390_بوابة العاصمة- لوغو.jpg"
+        },
+        {
+            "link": "https://elaph.com/Web/Sports/2019/05/1250596.html",
+            "name": "إيلاف",
+            "path": "published/4_1572431390_elaph_logo.jpg"
+        },
+        {
+            "link": "",
+            "name": "",
+            "path": ""
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.telesurenglish.net/news/Cristiano-Ronaldo-Donates-1.5M-to-Palestine-for-Ramadan-20190516-0024.html?fbclid=IwAR2eetZAPwXSTDt1SX2xkpMS_497syfX4yQbn2imEIfsODY-pVC-VCbHyqc",
+            "name": "teleSUR",
+            "path": "sources/0_1572431390_telesur-logo.jpg"
+        },
+        {
+            "link": "https://hoax-alert.leadstories.com/3470486-fake-news-ronaldo-surprised-with-his-gesture-donates-15-million-to-feed-palestinians-for-iftar.html?fbclid=IwAR1mQrRLCPu-VujBwfBqU0KjpUaZ8_VZETwhXZ4-u-xsgHEJSjjiYji-ly4",
+            "name": "Lead Stories",
+            "path": "sources/1_1572431390_Lead stories-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "رونالدو تبرّع بـ1.5 مليون يورو لإفطار الصائمين في غزة... هل هذا الخبر صحيح؟",
+    "updated_at": "2020-09-23 12:40:44",
+    "url_path": "/factcheck/2019/10/30/رونالدو-تبرع-بـ1-5-مليون-يورو-لإفطار-الصائمين-في-غزة-هل-هذا-الخبر-صحيح"
+}

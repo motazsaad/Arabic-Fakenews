@@ -1,0 +1,164 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 169,
+    "author": {
+        "fullname": "مريم هواري",
+        "id": "5e299460d4a22939983a3ec5",
+        "photo": {
+            "path": "authors/1579791192_Maryam.jpg"
+        }
+    },
+    "caption": "هذه التعديلات للحد من المعلومات الزائفة في الإنتخابات الأميركية (Getty)",
+    "category": "Technology",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">&quot;تويتر&quot; ألغى ميزة &quot;الريتويت&quot;، حتّى انتهاء الانتخابات الأميركية.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-10-22 22:56:15",
+    "created_by": "5f39b6aa1dd585076701cb95",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5f91e3dfe6b1e8499c33ee0f",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقّق &quot;مسبار&quot; من التغريدات المتداولة ووجد أنّها انتقائية في تناولها للموضوع. إذ لم يُلغِ &quot;تويتر&quot; رسميًّا ميزة إعادة نشر التغريدات، إنّما أجرى تعديلاتٍ عليها، بحيث <a href=\"https://twitter.com/Twitter/status/1318900658217648128\" style=\"color:#0563c1; text-decoration:underline\"><span style=\"color:#e74c3c\">أضاف إلى جانبها</span></a> ميزة كتابة تعليق على التغريدة المُعاد نشرها، إلى جانب إعادة التغريد، فبإمكان المستخدمين إضافة تعليق أو ترك مكان التعليق خالياً، وتأتي هذه التحديثات كجزء من <a href=\"https://twitter.com/TwitterSupport/status/1318682646151647239\" style=\"color:#0563c1; text-decoration:underline\"><span style=\"color:#e74c3c\">جهود</span></a> موقع تويتر للحد من انشار المعلومات الزائفة والمضلّلة في فترة الانتخابات الرئاسية الأميركية، وستستمر على الأقل حتّى نهاية أسبوع الانتخابات.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><a href=\"https://www.bbc.com/news/technology-54485697\" style=\"color:#0563c1; text-decoration:underline\"><span style=\"color:#e74c3c\">وأشار</span></a> &quot;تويتر&quot; إلى أنّ إلغاء إمكانية إعادة نشر التغريدات تسري فقط على حسابات السياسيين الأميركيين أو الحسابات الموجودة في الولايات المتّحدة والّتي لديها أكثر من مئة ألف متابع، وسيتمكّن مستخدمو&nbsp;الموقع من اقتباس تغريداتهم فقط، أي إضافة تعقيبهم عليها قبل نشرها.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_ng105vhmy.jpg\" style=\"height:652px; width:555px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_bru23mlaz.jpg\" style=\"height:581px; width:548px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_7y0n8ofur.jpg\" style=\"height:633px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">اقرأ/ي أيضاً:</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><a href=\"https://misbar.com/editorial/2020/07/19/-%D8%AA%D9%88%D9%8A%D8%AA%D8%B1--%D8%AD%D8%A7%D8%B1%D8%B3-%D8%A7%D9%84%D8%A8%D9%88%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%B1%D9%82\" style=\"color:#0563c1; text-decoration:underline\"><span style=\"color:#e74c3c\">تويتر: &quot;حارس البوابة&quot; المخترق</span></a></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><a href=\"https://misbar.com/editorial/2020/10/10/%D8%AA%D9%88%D9%8A%D8%AA%D8%B1-%D9%8A%D9%88%D9%82%D9%81-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%B2%D8%A7%D8%A6%D9%81%D8%A9-%D8%B9%D9%84%D9%89-%D8%B5%D9%84%D8%A9-%D8%A8%D8%AD%D9%83%D9%88%D9%85%D8%A7%D8%AA-%D8%AE%D9%85%D8%B3-%D8%AF%D9%88%D9%84\" style=\"color:#0563c1; text-decoration:underline\"><span style=\"color:#e74c3c\">تويتر يوقف حسابات زائفة على صلة بحكومات خمس دول</span></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">تداولت حسابات على موقع تويتر، بتاريخ 21 أكتوبر/تشرين الأول الجاري، تغريدات مفادها إلغاء &quot;تويتر&quot; لميزة إعادة نشر التغريدات (Retweet) بشكلٍ رسمي، في حين أضاف البعض أنّ &quot;تويتر&quot; ألغى الميزة حتّى انتهاء الانتخابات الأميركية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_oi9wvb0d8.jpg\" style=\"height:249px; width:581px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_678o79vgd.jpg\" style=\"height:254px; width:591px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_vs1hcm6dx.jpg\" style=\"height:254px; width:591px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_be6h1gh1j.jpg\" style=\"height:832px; width:548px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_g2gipavph.jpg\" style=\"height:241px; width:551px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_tdee2whv3.jpg\" style=\"height:255px; width:551px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 159,
+        "left": 1.097137451171875,
+        "path": "articles/1603396575GettyImages-1229203518.jpg",
+        "top": 26.11962890625,
+        "totalHeight": 191,
+        "totalWidth": 286,
+        "watermark_path": "articles/watermark-1603396575GettyImages-1229203518.jpg",
+        "width": 283
+    },
+    "post_date": "2020-10-22T22:46:00.000+03:00",
+    "published": [
+        {
+            "id": "5f91e3dd01b7e87d0f2efdb8",
+            "link": "https://twitter.com/iih4u/status/1318846213391831042",
+            "name": "Hani - نمشي H4U",
+            "origin": "twitter",
+            "path": "sources/6f2512a19a269a43e001665dd725e666ce611c70.jpg"
+        },
+        {
+            "id": "5f91e3ddd0efc93e8b4fdc61",
+            "link": "https://twitter.com/y0uxf/status/1318850407234473985",
+            "name": "يوسف",
+            "origin": "twitter",
+            "path": "sources/6da95cd7e0e8f6a16a292d1eb0e14348d159d03d.jpg"
+        },
+        {
+            "id": "5f91e3dde6bdbc54ce7cb10d",
+            "link": "https://twitter.com/GhanemAlmasarir/status/1318974442354151424",
+            "name": "غانم الدوسري",
+            "origin": "twitter",
+            "path": "sources/9bce51d2013e67e8bde2cdd05667ffa2ca6538e8.jpg"
+        },
+        {
+            "id": "5f91e3ddc3c6273a7e6d0364",
+            "link": "https://twitter.com/ZEDBOX_/status/1318856243205885953",
+            "name": "ZED BOX",
+            "origin": "twitter",
+            "path": "sources/4c965926f251c587daed840e6572572e4fe690e9.jpg"
+        },
+        {
+            "id": "5f91e3de2634917a07410c23",
+            "link": "https://twitter.com/mansour_y/status/1318831452931371009",
+            "name": "منصور البلوشي",
+            "origin": "twitter",
+            "path": "sources/805d43081b7d901d9fb88bbb58765d18e6ba5fb3.jpg"
+        },
+        {
+            "id": "5f91e3de12d571020e36c4de",
+            "link": "https://twitter.com/Hossamali1414/status/1318986896844926979",
+            "name": "HOSSAM Ali",
+            "origin": "twitter",
+            "path": "sources/9cce0a0c2694310cce3ed521d4478c4e2c08483a.jpg"
+        },
+        {
+            "id": "5f91e3dea7a50942ea70db84",
+            "link": "https://twitter.com/CelebsArabicII/status/1318844413565698056",
+            "name": "Celebs Arabic",
+            "origin": "twitter",
+            "path": "sources/ab4d6938f6a6aaded0aec18a1c8a8a232d4a5a7d.jpg"
+        },
+        {
+            "id": "5f91e3de2a0252272f25b23f",
+            "link": "https://twitter.com/zaghal_/status/1318848947084034050",
+            "name": "O S A M A",
+            "origin": "twitter",
+            "path": "sources/931f0b04dfeff67d1b283cc08be12dd99ba52780.jpg"
+        },
+        {
+            "id": "5f91e3deacff353f0f24d222",
+            "link": "https://twitter.com/NASEER_OB/status/1318825197626134529",
+            "name": "ناصر العودة",
+            "origin": "twitter",
+            "path": "sources/22acee9c2d86dff1f2fc514eff765911a1882d58.jpg"
+        },
+        {
+            "id": "5f91e3de1cc4cc28c278adcc",
+            "link": "https://twitter.com/Ameen_media/status/1318900332156637185",
+            "name": "AMEEN 🇱🇧 🇺🇸",
+            "origin": "twitter",
+            "path": "sources/2ae00395e366019f1ed00a7e2c25f38d09f2d4e0.jpg"
+        }
+    ],
+    "result": "selective",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f91e3dedcb43d1c034305f8",
+            "link": "https://twitter.com/TwitterSupport/status/1318682646151647239",
+            "name": "Twitter Support",
+            "origin": "twitter",
+            "path": "sources/59e71c4b49fe7566182d6a7d9ad6d66ed95b122e.jpg"
+        },
+        {
+            "id": "5f91e3de226a7617c14f9cb2",
+            "link": "https://twitter.com/Twitter/status/1318900658217648128",
+            "name": "Twitter",
+            "origin": "twitter",
+            "path": "sources/bc3a5c4a461351549730d28243a39598a699cb4c.jpg"
+        },
+        {
+            "id": "5f91e3dfeef2b643fa6dd1da",
+            "link": "https://www.independentarabia.com/node/162381/%D8%B9%D9%84%D9%88%D9%85/%D8%AA%D9%83%D9%86%D9%88%D9%84%D9%88%D8%AC%D9%8A%D8%A7/%D9%87%D9%84-%D8%A3%D9%84%D8%BA%D9%89-%D8%AA%D9%88%D9%8A%D8%AA%D8%B1-%D8%AE%D8%A7%D8%B5%D9%8A%D8%A9-%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%A7%D9%84%D9%86%D8%B4%D8%B1-%D9%81%D9%8A-%D8%A7%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%9F?utm_medium=Social&utm_source=Twitter#Echobox=1603359409",
+            "name": "اندبندنت عربية",
+            "origin": "",
+            "path": "sources/003b01068cddd2897072b700dd311690f590c2f3.jpg"
+        },
+        {
+            "id": "5f91b84585c9fb2f0d4b500a",
+            "link": "https://www.bbc.com/news/technology-54485697",
+            "name": "BBC ",
+            "origin": "",
+            "path": "sources/1_1589372500_BBC NEWS-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "عدّل تويتر ميزة إعادة نشر التغريدات ولم يُلغها تماماً",
+    "updated_at": "2020-10-22 23:04:19",
+    "url_path": "/factcheck/2020/10/22/عدل-تويتر-ميزة-إعادة-نشر-التغريدات-ولم-يلغها-تماما",
+    "was_notification_pushed": true
+}

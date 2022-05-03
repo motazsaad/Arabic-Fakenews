@@ -1,0 +1,119 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 2,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 3212,
+    "author": {
+        "fullname": "خالد إسماعيل",
+        "id": "5e59256dd4a2295224257db3",
+        "photo": {
+            "name": "1582900589_صورة 2.jpg",
+            "path": "authors/1582900589_صورة 2.jpg"
+        }
+    },
+    "caption": "الصورة من عام 2018 وتصوّر توقيع البلدين على خطة  للتعاون الدفاعي تخص عام 2019 (تويتر)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة تُظهر توقيع الكويت حديثاً على اتفاقية دفاع مشترك مع تركيا.</p>\r\n",
+    "country": "KW",
+    "created_at": "2020-07-08 15:12:22",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5f05b826163be306825a10f7",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">الصورة مضللة، إذ تحقق &quot;مسبار&quot; من الخبر ووجد أنّ الكويت لم توقع معاهدة دفاع مشترك مع تركيا، والصورة المرافقة للخبر تعود إلى عام 2018، حينما وقّع الطرفان على خطة عمل للتعاون الدفاعي لعام 2019، </span><span style=\"color:black\">خلال فعاليات الاجتماع الخامس للجنة التعاون العسكرية التركية الكويتية، والذي عقد في يومي 9 و10 أكتوبر/تشرين الأول 2018 في الكويت. وتهدف الاتفاقية لتعزيز التعاون العسكري بين البلدين بهدف تبادل الخبرات وتوحيد الجهود حسب الخبر الذي أوردته وكالة الأنباء الكويتية الرسمية في ذلك الوقت. وبالتالي ما تمّ توقيعه ليس معاهدة دفاع مشترك إنّما خطة عمل للتعاون الدفاعي تخص عام 2019. </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_s2mr4gpu9.jpg\" style=\"height:707px; width:624px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_j5qp6u6dd.jpg\" style=\"height:477px; width:624px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تتداول حسابات وصفحات على موقعي التواصل الاجتماعي فيسبوك وتويتر، صورة تجمع قيادات عسكرية تركية وكويتية مدعيةً أنها تصوّر توقيع البلدين حديثاً على معاهدة دفاع عسكري مشترك. </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_21anrygym.jpg\" style=\"height:676px; width:624px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_9n2ti9cfj.jpg\" style=\"height:679px; width:616px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_d2vt4ex6x.jpg\" style=\"height:785px; width:624px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_g16mdbqe9.jpg\" style=\"height:598px; width:624px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 410,
+        "left": 5.0555419921875,
+        "path": "articles/1594210342Annotation 2020-07-08 144511.jpg",
+        "top": 7,
+        "totalHeight": 423,
+        "totalWidth": 742,
+        "watermark_path": "articles/watermark-1594210342Annotation 2020-07-08 144511.jpg",
+        "width": 729
+    },
+    "post_date": "2020-07-08T14:53:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/dodycat42/status/1280308306494533638/photo/1",
+            "name": "بنت المختار ",
+            "path": "published/0_1594210341_بنت المختار.jpg"
+        },
+        {
+            "link": "https://twitter.com/deryamuae/status/1280532567113023488",
+            "name": "deryam",
+            "path": "published/1_1594210341_deryam.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=3374287695949367&set=a.1011061382272022&type=3&theater",
+            "name": "إيهاب الشامي ",
+            "path": "published/2_1594210341_إيهاب الشامي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=10217186247592662&set=gm.3029747183727297&type=3&theater&ifg=1",
+            "name": "Samer Abo Atwa",
+            "path": "published/3_1594210341_Samer Abo Atwa.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=2650018991932667&set=a.1388187418115837&type=3&theater",
+            "name": "علي حماده ",
+            "path": "published/4_1594210341_علي حماده.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=308930276958745&set=gm.735333903890001&type=3&theater&ifg=1",
+            "name": "طه جاد ",
+            "path": "published/5_1594210341_طه جاد.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/abdelrhmena/photos/a.310017012692422/1172012519826196/?type=3&theater",
+            "name": "مصر لن تركع ",
+            "path": "published/6_1594210341_مصر لن تركع.jpg"
+        },
+        {
+            "link": "",
+            "name": "",
+            "path": ""
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.kuna.net.kw/ArticleDetails.aspx?id=2750391",
+            "name": "وكالة الأنباء الكويتية ",
+            "path": "sources/0_1594210341_وكالة الأنباء الكويتية.jpg"
+        },
+        {
+            "link": "https://tinyurl.com/y93pxq8p",
+            "name": "وكالة الأناضول",
+            "path": "sources/1_1594210341_وكالة الأناضول - لوغو.jpg"
+        },
+        {
+            "link": "https://tinyurl.com/ydxn5os3",
+            "name": "وكالة سبوتنيك ",
+            "path": "sources/2_1594210342_وكالة سبوتنيك.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الكويت لم توقع حديثاً اتفاقية دفاع مشترك مع تركيا",
+    "updated_at": "2020-09-25 21:12:01",
+    "url_path": "/factcheck/2020/07/08/الكويت-لم-توقع-حديثا-اتفاقية-دفاع-مشترك-مع-تركيا"
+}

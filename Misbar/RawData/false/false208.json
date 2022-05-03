@@ -1,0 +1,130 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 131,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "تم تعيين فيكتور جوميز لإدارة المباراة (تويتر)",
+    "category": "Sports",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تعيين الحكم باكاري جاساما لإدارة مباراة العودة بين الأهلي والوداد.</span></p>\r\n",
+    "country": "EG",
+    "created_at": "2020-10-22 19:57:11",
+    "created_by": "5f39b5a51dd585076701cb94",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f91b9e70f4f6910a25a108a",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">الخبر المتداول زائف، ولم يتم تعيين باكاري جاساما حكماً للمباراة. إذ قررت لجنة التحكيم في الاتحاد الأفريقي لكرة القدم (كاف) تعيين الحكم الجنوب أفريقي، <a href=\"https://www.kooora.com/?n=967463\" style=\"color:#0563c1; text-decoration:underline\">فيكتور جوميز</a>، لإدارة مباراة الأهلي وضيفه الوداد المغربي غداً الجمعة في ستاد القاهرة</span><span dir=\"RTL\" lang=\"AR-EG\">.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_ul0cqy7u7.jpg\" style=\"height:339px; width:538px\" /></p>\r\n\r\n<p style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">اقرأ أيضاً:</span></p>\r\n\r\n<p style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/10/21/%D8%A7%D9%84%D8%B4%D9%86%D8%A7%D9%88%D9%8A-%D9%84%D9%85-%D9%8A%D8%AD%D8%B5%D9%84-%D8%B9%D9%84%D9%89-%D8%A5%D9%86%D8%B0%D8%A7%D8%B1-%D8%AB%D8%A7%D9%86%D9%8A-%D9%88%D8%BA%D9%8A%D8%B1-%D9%85%D9%87%D8%AF%D8%AF-%D8%A8%D8%B9%D8%AF%D9%85-%D9%84%D8%B9%D8%A8-%D8%A7%D9%84%D9%86%D9%87%D8%A7%D8%A6%D9%8A\" style=\"color:#0563c1; text-decoration:underline\">الشناوي لم يحصل على إنذار ثاني وغير مهدد بعدم لعب النهائي</a></p>\r\n\r\n<p style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/09/30/%D8%A5%D9%86%D8%B2%D9%88-%D8%B2%D9%8A%D8%AF%D8%A7%D9%86-%D9%84%D9%86-%D9%8A%D9%86%D8%AA%D9%82%D9%84-%D8%B1%D8%B3%D9%85%D9%8A%D8%A7-%D9%84%D9%84%D9%88%D8%AF%D8%A7%D8%AF-%D8%A7%D9%84%D8%A8%D9%8A%D8%B6%D8%A7%D9%88%D9%8A-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%D9%8A\" style=\"color:#0563c1; text-decoration:underline\">إنزو زيدان لم ينتقل رسمياً للوداد البيضاوي المغربي</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول&nbsp;حسابات وصفحات على مواقع التواصل الاجتماعي، منذ أمس 21 أكتوبر/تشرين الأول، خبراً مفاده أن الحكم الغامبي باكاري جاساما، سيكون حكماً لمباراة العودة بين الأهلي المصري والوداد المغربي، في نصف نهائي دوري أبطال أفريقيا، غداً الجمعة في القاهرة.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_85n86y4q4.jpg\" style=\"height:456px; width:540px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_n6a7nikkt.jpg\" style=\"height:554px; width:546px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_k5a2z54m9.jpg\" style=\"height:542px; width:539px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1603385831EhzJCO1XkAAzNdv.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1603385831EhzJCO1XkAAzNdv.jpg",
+        "width": 752
+    },
+    "post_date": "2020-10-22T19:50:00.000+03:00",
+    "published": [
+        {
+            "id": "5f91b9e6c0bb4c124f402806",
+            "link": "https://twitter.com/ahlyfans70/status/1319252689377689600",
+            "name": "الأهلى اليوم ⁦⁦⁦⁦⁦⁦⁦⁦✪",
+            "origin": "twitter",
+            "path": "sources/34261897bfd7acc1341d287c7978fa2815b08602.jpg"
+        },
+        {
+            "id": "5f91bb15a3ed7e493143d920",
+            "link": "https://www.facebook.com/egyptianleagueC/photos/a.125387695543092/366275038121022/?type=3&__xts__%5B0%5D=68.ARBACrTzqzBHPBC9BQy_ZvxSOeEetpEIk_BtP27c8elGkInjclwwM4QxhJ3iRJMvX5oT-ODH0Up46KxWxeNeLBChGqmWja5O-msgOA0fjW9oSnG0uqSx3NfrTH5obCyF4TTEMGS0HXHRro8OvtphbE01oUT3eoQ5O4jy_MrTUJOaWI327ExxNvswO-Y4eFjV09gx9UmjoCj8DBvskgdptpmsa1IfCGSUq_fI17IbOxuZdbweZOb3m-hTLGPnaBNNrVWGTeVlX5z-HlypCrzgAYsVuwAywjbJO2ohVk6vqf_lSz-mGjmVqPTobJB3weVCWsBe9_uMd3T2QBRDd9-_m4M&__tn__=-R",
+            "name": "الدوري المصري بطوله",
+            "origin": "facebook",
+            "path": "sources/464aee66e53c1658574b88bef5ef697384c98f69.jpg"
+        },
+        {
+            "id": "5f91bbb89a0e325d9b0c991b",
+            "link": "https://twitter.com/Sports195/status/1318997109409013763",
+            "name": "195sports",
+            "origin": "twitter",
+            "path": "sources/e17f89aaa8a72245c2ea02e0e5fce0b64682df98.jpg"
+        },
+        {
+            "id": "5f91bbb8a79c7b05a70e9f52",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=174610777712542&id=100054908614843&__xts__%5B0%5D=68.ARAiQvLfWVkWmblD7KB61kPxEzLNcXlB1okoGyY3911zB-ySpodxVMILiJ9cBQlvBWK-8GpJjEpGg5rwdp_zQmIBD6zhXyPkorh3oJuij7COEcMyhL95WeOSsm9nvw2AGeZdsO94kIV-7WSjr0OiE6R1UCO_oLF6gnEo-K5RkJSNZuGuweNYYbmK-6YRKhGZWhTNBuxtpkpkeWTcQTzS7ODGE9rcA2KNr7fcbL1VUFBm4cu42IE8_0OH_aeaZ9z1dIgZl9mgcLVhJR1sddWmSZO1R_DkTzUcg0jH9R6ozALLflDdM47fgBxJCKtXht82-SM&__tn__=-R",
+            "name": "Ahmed Mohamed",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        },
+        {
+            "id": "5f91bbb9fc606236da750179",
+            "link": "https://www.facebook.com/iliass.akratius/posts/1232887590426193?__xts__%5B0%5D=68.ARBYDX7OzbgIJKIeaCYQzyexw6c_utP3nlupgdyY_XVe73nc83DBZs5OppMfgK_zeQD-oyHw1C-zSqLMnLQvsiEZ6AAhI2VF1BXzOAKD2ngvcC9kOvKjvRAg8CWPbUrcd4x4Y56TzVXvTBvHYH8V4dP5tRTJU9skQLh5ciPTa3fdk5GkRuzuJ3c2YasCTS0RFC2TGV4lVVB1f94WVnfm0CzPDBQdgpaBjXiD48kpd2csHJgvpJg3-kH8cpAr9kGej-rpeKPMaeiHFxbvC5XgTq2uy5F6VT67m2BrZG2NdJjIXCBH5824FLbNWO_eQyPWl-Y&__tn__=-R",
+            "name": "Iliass Akrat",
+            "origin": "facebook",
+            "path": "sources/2b327d1b894f871940458e071c13326fd94c0e82.jpg"
+        },
+        {
+            "id": "5f91bbb92634917a07410c22",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=146678920528739&id=108393611023937&__xts__%5B0%5D=68.ARCVUW5Jtj6T9n0aOm_cXIJsfbWgQGi8kzrmtIkt4FV3uqb2lq05LQsfTZXW_qgiOnrb0lk0xVNyRxDfb-C6ZZos3dh-X3dNN-gIa0InaKEvZDeK0i6GpsQOkuveo_8XomKwHZU0Ccy_y7ZxjfxDgoMTdB0Cc4-wV9f9G1TDH25EYODfZBvSUZwGdSROgnvB0pWvkVqekaecGHTRRzvcxj_Tni6pFZXJcPM2WB1sTiAef1JrT4DbUdQcpqKvvYr8pJ1zRnUvIa-FcavuYkOaxNgiOFR8sktWRBDlYcGPjpdAx-KuWMWIE-yheYjbF4c99XS9rQKcWhYDDfy_sH7pj1tKxF-jlxgUZLLxdaY2B7fMNzV9clnkjy8FkTtdDjy7Dlp39NAnNmGQkqPnFijBV3JZlfrmWp5hGAjPfriF3KyRPuoD9ml8NMR7Iw5BJ1oo-7C8qRPGmjuwvhbYKmZGGEdeF1zICSk&__tn__=-R",
+            "name": "اخبار الاهلي",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        },
+        {
+            "id": "5f91bbb9c534373b0c11327d",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1416542438736286&id=100011416310464&__xts__%5B0%5D=68.ARD8rkoYdEPE-PQXakU1KfJOhnwifArdOwWgv4nno9FlUbKCcbdZ9mYhehOCukckY_snCBi6v1Ka1yMB8rhWr6U0TgJQXb6VAif8zEAe1mX67LgIBc9CW0AgKjWV4T6S5l29f1KLYLOrlykzFMqf3s5V44yg0V80Pv1D5-TzQr1HrgIte5SXi5XVmG0rJjsfrmylvI1E5oRi50OW6qxN0q85VSpdHvIJg5ebcysuKzCo6xIu9kUQOwLn3Vfx6qeJxUH5xg9N2sz5l1kVZ5-h7NnUkOAm9fV_7pxaw2b2Q8T3BQG3-FPz2PBQ_mcvV8PUPNo&__tn__=-R",
+            "name": "Marwan Elmaghraby",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        },
+        {
+            "id": "5f91bbb9e0484912b60e204b",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=788196321964174&id=100023214411879&__xts__%5B0%5D=68.ARCBWcyHkYP1NwWkuJoWzus8hAnOwpBLfjZ7AQHds-_xb2aI0OashPxe6qI3t4UEaWgjWjZ4Vo7sko8U_W_43wUkUMINSFPb6q9smRFtoP7hAqogc4Ylo2qPaI2-N5QYhezTIbVNTbPMMMyiV6EdPU0VrUhOdkebb-CEFSZHPk9iIk24YdVZxbsYwDHzeoELrp8JhE9umvwjtFOoAmfFOhhPIVUeYzMwTBbD0KEfy76sQvahFRvWTvJ1AwJnG7CfvLzQud09dWQr8Eo894bZINJuIlwHCMkb7rv_onxZIJG1iPaQ5ZDRN9sCSKbAvlY_t5Q&__tn__=-R",
+            "name": "Mido Salah",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f91b9e77d9dcf18836b9f1e",
+            "link": "https://www.kooora.com/?n=967463",
+            "name": "kooora",
+            "origin": "",
+            "path": "sources/733635fce300039bbd1d036c0a06c43ce05892eb.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "باكاري جاساما ليس حكماً لمباراة العودة بين الأهلي والوداد",
+    "updated_at": "2020-10-22 20:05:49",
+    "url_path": "/factcheck/2020/10/22/باكاري-جاساما-ليس-حكما-لمباراة-العودة-بين-الأهلي-والوداد",
+    "was_notification_pushed": "true"
+}

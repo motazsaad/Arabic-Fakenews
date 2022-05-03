@@ -1,0 +1,113 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2111,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "الصورة لشقيقين من منطقة عفرين السورية (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">مقتل شابين في&nbsp;محافظة الكاف التونسية، بعد انقلاب صخرة كانا جالسين تحتها.</p>\r\n",
+    "country": "TN",
+    "created_at": "2020-05-25 14:41:09",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ecbaed5db2916084252d184",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من صحة الصور وتبيّن أنّها مضلّلة، إذ أنّ الحادثة لم تقع في محافظة الكاف التونسية، بل في منطقة عفرين في محافظة حلب السورية. وقد نشرت مديرية الدفاع المدني، العاملة بالمناطق الخارجة عن سيطرة النظام السوري، الصور يوم 17 مايو/أيار 2020، مرفقة بخبر مفاده &quot;وفاة رَجُلَين إثر سقوط صخرة كبيرة عليهما في عفرين أثناء عملهما في تقطيع الحجارة لبيعها وتأمين قوت يومهما&quot;. وأضافت مديرية الدفاع المدني أن فرقها استجابت&nbsp;للحادثة واستخرجت جثتيهما وسلمتهما لذويهما.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_75g78flci.jpg\" style=\"height:512px; width:506px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_kpvfl288r.jpg\" style=\"height:359px; width:602px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت حسابات وصفحات على مواقع التواصل الاجتماعي، صوراً على أنّهما لشابيّن من محافظة الكاف التونسية، لقيا حتفهما إثر انقلاب صخرةٍ كبيرةٍ عليهما، بعد أن أخذا&nbsp;قسطاً من الراحة تحتها. وكان الرجلان يعملان في مجال تكسير الصخور لتوفير ثمن الطعام&nbsp;لأولادهما.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img alt=\"Capture1.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_g3ltbcqjp.jpg\" style=\"height:483px; width:337px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img alt=\"Capture2.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_ti98bevkl.jpg\" style=\"height:585px; width:291px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_bvvjtyjpl.jpg\" style=\"height:522px; width:377px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 389,
+        "left": 36.0333251953125,
+        "path": "articles/159040686898488553_3006227066123598_3565606627081977856_o.jpg",
+        "top": 26.300048828125,
+        "totalHeight": 423,
+        "totalWidth": 753,
+        "watermark_path": "articles/watermark-159040686898488553_3006227066123598_3565606627081977856_o.jpg",
+        "width": 692
+    },
+    "post_date": "2020-05-25T12:10:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/Akhyarntajou/status/1263422611029188609",
+            "name": "التذكرة (أخيار_أنتاجو)🇲🇷🇲🇷",
+            "path": "published/0_1590406867_PZxxqJwD_200x200.jpg"
+        },
+        {
+            "link": "https://twitter.com/AQSEULIFmXpEHWY/status/1262706704573255686",
+            "name": "عيسى",
+            "path": "published/1_1590406868_2RGkh9s__200x200.jpg"
+        },
+        {
+            "link": "https://twitter.com/khadhranews/status/1263140068170117121",
+            "name": "🇩🇿 الخضراء نيوز 🇹🇳🇱🇾🇩🇿",
+            "path": "published/2_1590406868_2DSXcMzp_400x400.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/story.php?story_fbid=3018319781585434&id=778558778894890",
+            "name": "شبكة طقس الجزائر Algeria Weather Network",
+            "path": "published/3_1590406868_7.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/898252567182514/permalink/1133741240300311/",
+            "name": "BazzaLakhdar",
+            "path": "published/4_1590406868_29512857_614188442249771_1884624927822783353_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/story.php?story_fbid=263995201619868&id=105454537473936",
+            "name": "Take Tour",
+            "path": "published/5_1590406868_67844296_105475880805135_4795441989413765120_n.jpg"
+        },
+        {
+            "link": "https://asslemafm.net/2020/05/20/%D8%A7%D9%84%D9%83%D8%A7%D9%81-%D8%AD%D8%A7%D8%AF%D8%AB-%D8%A3%D9%84%D9%8A%D9%85-%D8%B0%D9%87%D8%A8%D9%88%D8%A7-%D9%84%D8%AA%D9%88%D9%81%D9%8A%D8%B1-%D9%84%D9%82%D9%85%D8%A9-%D8%B9%D9%8A%D8%B4%D9%87/",
+            "name": "عسلامة أف أم",
+            "path": "published/6_1590406868_4.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/story.php?story_fbid=3006227609456877&id=646749932071335",
+            "name": "مديرية الدفاع المدني في محافظة حلب الحرة",
+            "path": "sources/0_1590406868_9.jpg"
+        },
+        {
+            "link": "https://aramme.com/post/6851/%D8%AD%D8%A7%D8%AF%D8%AB%D8%A9-%D8%A3%D9%84%D9%8A%D9%85%D8%A9-%D8%B5%D8%AE%D8%B1%D8%A9-%D9%83%D8%A8%D9%8A%D8%B1%D8%A9-%D8%AA%D8%AA%D8%B3%D8%A8%D8%A8-%D8%A8%D9%85%D9%82%D8%AA%D9%84-%D8%B4%D9%82%D9%8A%D9%82%D9%8A%D9%86-%D9%81%D9%8A-%D8%B9%D9%81%D8%B1%D9%8A%D9%86",
+            "name": "آرام ميديا",
+            "path": "sources/1_1590406868_t195169l195169chargement.jpg"
+        },
+        {
+            "link": "https://jisrtv.com/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AC%D8%B3%D8%B1/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9/%D9%88%D9%81%D8%A7%D8%A9-%D8%B4%D8%AE%D8%B5%D9%8A%D9%86-%D8%A8%D8%B9%D9%81%D8%B1%D9%8A%D9%86-%D8%A5%D8%AB%D8%B1-%D8%B3%D9%82%D9%88%D8%B7-%D8%B5%D8%AE%D8%B1%D8%A9-%D9%83%D8%A8%D9%8A%D8%B1%D8%A9-%D8%B9%D9%84%D9%8A%D9%87%D9%85%D8%A7-%D8%B5%D9%88%D8%B1%D8%A9/",
+            "name": "قناة الجسر الفضائية",
+            "path": "sources/2_1590406868_unnamed.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": " وفاة شابين تونسيين بعد انقلاب صخرة عليهما.. حقيقة الخبر",
+    "updated_at": "2020-09-25 07:16:25",
+    "url_path": "/factcheck/2020/05/25/-وفاة-شابين-تونسيين-بعد-انقلاب-صخرة-عليهما-حقيقة-الخبر"
+}

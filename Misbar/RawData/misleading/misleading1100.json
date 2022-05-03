@@ -1,0 +1,94 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 20126,
+    "author": {
+        "fullname": "هيثم جودية",
+        "id": "5e295291d4a2296ff0065605",
+        "photo": {
+            "name": "1579766417_هيثم .JPG",
+            "path": "authors/1579766417_هيثم .JPG"
+        }
+    },
+    "caption": "الفيديو الأصلي للممثل روبرت دي نيرو (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">ظهور الرئيس المصري الأسبق،&nbsp;محمد حسني مبارك، في فيلم أمريكي.</p>\r\n",
+    "country": "EG",
+    "created_at": "2020-05-27 22:01:52",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eceb920db291632796784b4",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من مقطع الفيديو ووجد أنه مضلّل، ومأخوذ من الفيلم الأميركي &quot;كازينو&quot;، الذي أُنتج عام 1995، وتم التلاعب في المقطع وتركيب وجه مبارك على وجه بطل الفيلم، روبرت دي نيرو.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fahmad.habib.167%2Fvideos%2F1931176103686694%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe><br />\r\n&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/z49xZ7VcfqE\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات وحسابات على مواقع التواصل الاجتماعي، مقطع فيديو لفيلم أمريكي، يظهر فيه الرئيس المصري الراحل محمد حسني مبارك.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_i1gtw1tpe.jpg\" style=\"height:401px; width:554px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_gjmu7rc27.jpg\" style=\"height:401px; width:553px\" /></span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_yt9dj0lcg.jpg\" style=\"height:405px; width:554px\" /></span></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 311,
+        "left": 17,
+        "path": "articles/15906061111.jpg",
+        "top": 11,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-15906061111.jpg",
+        "width": 552
+    },
+    "post_date": "2020-05-27T19:26:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/alaa.mohsan.75/videos/123751395990981/",
+            "name": "Alaa Mohsan",
+            "path": "published/0_1590606111_96087296_119424396423681_4779909399101571072_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Ezzatf1991/videos/3106462646067109/",
+            "name": "Ezzat Farag",
+            "path": "published/1_1590606111_85022841_2559505684337286_8392104038954434560_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/yasmina.nagy/videos/1728828910589894/",
+            "name": "Yasmine Nagy",
+            "path": "published/2_1590606111_94149292_10221128713303243_7428409292941688832_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ahmad.habib.167/videos/1931176103686694/",
+            "name": "Ahmed E. Habib",
+            "path": "published/3_1590606111_57183753_1551758534961788_5745869594334068736_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/shahera.mohammed/videos/3146239895415001/",
+            "name": "Shahera Mohammed",
+            "path": "published/4_1590606111_97435033_3147322685306722_1590549230068432896_n.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=Hywp4cF4DpE",
+            "name": "فيلم كازينو",
+            "path": "sources/0_1590606111_maxresdefault.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ما حقيقة ظهور حسني مبارك في فيلم أمريكي؟",
+    "updated_at": "2020-09-25 20:44:43",
+    "url_path": "/factcheck/2020/05/27/ما-حقيقة-ظهور-حسني-مبارك-في-فيلم-أمريكي"
+}

@@ -1,0 +1,98 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 6283,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "الفيديو قديم ومنشور على يوتيوب منذ عام 2012 (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">فيديو يصوّر اشتباكات وإطلاق نار متبادل بين موالين للأسد وأنصار لرامي مخلوف في محافظة اللاذقية.</p>\r\n",
+    "country": "SY",
+    "created_at": "2020-05-06 11:22:15",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eb273b7db291669631a6ab3",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من مقطع الفيديو، ووجده مضللاً، فالمقطع قديم عثر عليه &quot;مسبار&quot; منشوراً على موقع يوتيوب منذ عام 2012، ويصوّر إطلاق نار وانفجارات في منطقة كفرسوسة في العاصمة دمشق، حسب التعليق المرافق للفيديو الأصلي.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">ويأتي الفيديو المضلل بعدما ظهرت للعلن في الآونة الأخيرة خلافات بين النظام السوري ورامي مخلوف، الذي انتقد قي مقاطع مصورة نشرها على وسائل التواصل الاجتماعي سياسة النظام المالية تجاه شركاته.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/vIooa5R9BNA\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداول مستخدمون على مواقع التواصل الاجتماعي وموقع يوتيوب، مقطع فيديو قالوا إنّه يُظهر جانباً من اشتباكات وإطلاق نار حصل بين قوات تابعة للنظام السوري وأنصار لرجل الأعمال رامي مخلوف.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fahhakika12%2Fvideos%2F711897569614898%2F&amp;show_text=0&amp;width=476\" style=\"border:none;overflow:hidden\" width=\"476\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/EvzhvOHDPIw\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/Q7rTuTnMqsc\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 357,
+        "left": 158.4444580078125,
+        "path": "articles/1588753334GettyImages-110942025.jpg",
+        "top": 64.60009765625,
+        "totalHeight": 423,
+        "totalWidth": 796,
+        "watermark_path": "articles/watermark-1588753334GettyImages-110942025.jpg",
+        "width": 634
+    },
+    "post_date": "2020-05-06T11:10:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.youtube.com/watch?v=EEGyudtkV84",
+            "name": "سامر إسماعيل المصري",
+            "path": "published/0_1588753333_سامر إسماعيل المصري.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ahhakika12/videos/711897569614898/",
+            "name": "كشف الحقيقة",
+            "path": "published/1_1588753333_كشف الحقيقة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/victorel.chamaquito/videos/2668918999886834/",
+            "name": "مصطفى علي بزو",
+            "path": "published/2_1588753333_مصطفى علي بزو.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=EvzhvOHDPIw",
+            "name": "آيلينا",
+            "path": "published/3_1588753333_آيلينا.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=9KH1IiIip9Y",
+            "name": "Ali Abedullah",
+            "path": "published/4_1588753333_Ali Abedullah.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=Q7rTuTnMqsc",
+            "name": "بنت سوريا شخصياً",
+            "path": "published/5_1588753333_بنت سوريا شخصياً.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=vIooa5R9BNA",
+            "name": "المقطع الأصلي",
+            "path": "sources/0_1588753334_YouTube-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "اشتباكات في اللاذقية بين أنصار الأسد ومخلوف.. حقيقة الفيديو",
+    "updated_at": "2020-09-24 21:47:04",
+    "url_path": "/factcheck/2020/05/06/اشتباكات-في-اللاذقية-بين-أنصار-الأسد-ومخلوف-حقيقة-الفيديو"
+}

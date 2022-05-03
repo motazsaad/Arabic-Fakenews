@@ -1,0 +1,118 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1464,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الفيديو يصوّر تعميق ممر مائي في فنلندا (يوتيوب)",
+    "category": "News",
+    "claim": "<p>فيديو يُصوّر كيف ضرب البرق قناة نهرية في ولاية مونتانا الأميركية.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-07-08 12:27:20",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f059178163be306997ae5f6",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الفيديو مضلل، فهو ليس لصاعقة ضربت سطح الماء في قناة نهرية في ولاية مونتانا الأميركية، إذ وجده &quot;مسبار&quot; منشوراً على &quot;يوتيوب&quot; منذ عام 2012، ويعود إلى عمليات تعميق جرت لأحد الممرات المائية في فنلندا.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/TD2hyCUePL0\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت حسابات وصفحات على مواقع التواصل الاجتماعي وموقع يوتيوب، مقطع فيديو قالت إنّه يصوّر صاعقةً ضربت سطح الماء. وأفاد التعليق المرافق للفيديو المتداول أنّ البرق أصاب قناة نهرية في ولاية مونتانا الأميركية.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"425\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FSyrian.Universities%2Fvideos%2F724586638329988%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"rtl\" style=\"text-align:center\">هل سبق لك أن رأيت صاعقة تضرب سطح الماء؟<br />\r\nسبحان الله العظيم ، منظر مذهل جدا عندما ضرب البرق قناة نهرية في ولاية مونتانا الأمريكية،وتم تفريغ الشحنات الكهربية بقوة كبيرة. 👇 <a href=\"https://t.co/QwacNnKvn2\">pic.twitter.com/QwacNnKvn2</a></p>\r\n</blockquote>\r\n\r\n<blockquote class=\"twitter-tweet\">&mdash; Dr.Ghanem S. Alghanem (@DrGhanemSAlgha1) <a href=\"https://twitter.com/DrGhanemSAlgha1/status/1278810848237150208?ref_src=twsrc%5Etfw\">July 2, 2020</a></blockquote>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/OzK38Zwn-oc\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 417,
+        "left": 5.477783203125,
+        "path": "articles/1594200440Annotation 2020-07-08 121425.jpg",
+        "top": 1.60009765625,
+        "totalHeight": 423,
+        "totalWidth": 755,
+        "watermark_path": "articles/watermark-1594200440Annotation 2020-07-08 121425.jpg",
+        "width": 742
+    },
+    "post_date": "2020-07-08T12:15:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/Syrian.Universities/videos/724586638329988/",
+            "name": "Syrian Universities",
+            "path": "published/0_1594200439_Syrian Universities.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/tomatocartoon/videos/566286780727427/",
+            "name": "توميتو كارتون",
+            "path": "published/1_1594200439_توميتو كارتون.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ScienceEntertainmentPage/videos/261050461852857/?v=261050461852857&external_log_id=7428f9f39be24165847e2a72601d9397&q=%D8%B5%D8%A7%D8%B9%D9%82%D8%A9%20%D8%AA%D8%B6%D8%B1%D8%A8%20%D8%A7%D9%84%D9%85%D8%A7%D8%A1",
+            "name": "Mahmod Ismael",
+            "path": "published/2_1594200439_Mahmod Ismael.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/thaqafNafsak2.eg/videos/1703184839774330/?v=1703184839774330&external_log_id=662c1242e7ce21f737d4e85720e2a233&q=%D8%B5%D8%A7%D8%B9%D9%82%D8%A9%20%D8%AA%D8%B6%D8%B1%D8%A8%20%D8%A7%D9%84%D9%85%D8%A7%D8%A1",
+            "name": "ثقف نفسك 2",
+            "path": "published/3_1594200439_ثقف نفسك.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?ref=search&v=612593079462559&external_log_id=662c1242e7ce21f737d4e85720e2a233&q=%D8%B5%D8%A7%D8%B9%D9%82%D8%A9%20%D8%AA%D8%B6%D8%B1%D8%A8%20%D8%A7%D9%84%D9%85%D8%A7%D8%A1",
+            "name": "الصحفي عماد أبو سميل",
+            "path": "published/4_1594200439_الصحفي عماد أبو سميل.jpg"
+        },
+        {
+            "link": "https://twitter.com/DrGhanemSAlgha1/status/1278810848237150208",
+            "name": "Dr.Ghanem S. Alghanem",
+            "path": "published/5_1594200439_Dr.Ghanem S. Alghanem.jpg"
+        },
+        {
+            "link": "https://twitter.com/abdullah_asayed/status/1279885672028012545",
+            "name": "Abdullah alsayed",
+            "path": "published/6_1594200439_Abdullah alsayed.jpg"
+        },
+        {
+            "link": "https://twitter.com/Mstr__Drr/status/1278376985140629504",
+            "name": "حقيقة مؤلمة",
+            "path": "published/7_1594200439_حقيقة مؤلمة.jpg"
+        },
+        {
+            "link": "https://twitter.com/yousef_alwnah/status/1278769761413853184",
+            "name": "يوسف العلاونة",
+            "path": "published/8_1594200440_يوسف-علاونة.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=OzK38Zwn-oc",
+            "name": "حراج اليوتيوب",
+            "path": "published/9_1594200440_حراج اليوتيوب.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=TD2hyCUePL0&feature=emb_logo",
+            "name": "المقطع الأصلي",
+            "path": "sources/0_1594200440_YouTube-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذا الفيديو لا يصوّر صاعقة ضربت الماء",
+    "updated_at": "2020-09-25 12:46:15",
+    "url_path": "/factcheck/2020/07/08/هذا-الفيديو-لا-يصور-صاعقة-ضربت-الماء"
+}

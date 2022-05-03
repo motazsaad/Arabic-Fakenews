@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 11317,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "الصورة لمروحية تحطمت في أفغانستان عام 2011 (فيسبوك)",
+    "category": "Politics",
+    "claim": "<div id=\"i4c-draggable-container\" style=\"height:0px; position:fixed; width:0px; z-index:1499\">\r\n<div class=\"resolved\" style=\"all:initial\">&nbsp;</div>\r\n</div>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">صورة تُظهر هيلوكوبتر تركية أسقطتها قوات الكريلا الكردية في منطقة <span style=\"background-color:white\">جارجيلا بإقليم كردستان </span>على الحدود العراقية التركية.</p>\r\n\r\n<div id=\"i4c-dialogs-container\">&nbsp;</div>\r\n",
+    "country": "IQ",
+    "created_at": "2020-08-17 20:03:44",
+    "created_by": "5f39b5451dd585078b5d94f3",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f3ab870602118067e258704",
+    "investigation": "<div id=\"i4c-draggable-container\" style=\"height:0px; position:fixed; width:0px; z-index:1499\">\r\n<div class=\"resolved\" style=\"all:initial\">&nbsp;</div>\r\n</div>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><span style=\"color:black\">الصورة مضللة، إذ بعد التحقق وجد &quot;مسبار&quot; أنها</span><span style=\"color:black\"> قديمة وليست لطائرة</span> <span style=\"color:black\">هيلوكوبتر تركية سقطت على الحدود بين العراق وتركيا، بل تعود لمروحية تحطمت أثناء محاولتها الهبوط في منطقة ماندابول، شرقي العاصمة الأفغانية كابول في</span> <span style=\"color:black\">يونيو/حزيران 2011.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"color:black\"><img id=\"صورة_x0020_5\" src=\"https://images-prod.misbar.com/articlebody/investigation_k7ed47ujh.jpg\" style=\"height:408.75pt; width:439.5pt\" /></span></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<div id=\"i4c-draggable-container\" style=\"height:0px; position:fixed; width:0px; z-index:1499\">\r\n<div class=\"resolved\" style=\"all:initial\">&nbsp;</div>\r\n</div>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">تتداول حسابات وصفحات على مواقع التواصل الاجتماعي، صورة تدعي أنّها لحوّامة تركية من <span style=\"background-color:white\">طراز سيكورسكي سقطت في منطقة جارجيلا</span> بإقليم كردستان على الحدود العراقية التركية، نتيجة استهدافها من قبل قوات الكريلا التابعة لحزب العمال الكردستاني.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"صورة_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/origin_kzlbzcvon.jpg\" style=\"height:430.5pt; width:388.5pt\" /> <img id=\"صورة_x0020_2\" src=\"https://images-prod.misbar.com/articlebody/origin_b1l9r7sc6.jpg\" style=\"height:305.25pt; width:384pt\" /> <img id=\"صورة_x0020_3\" src=\"https://images-prod.misbar.com/articlebody/origin_1rqmql2s2.jpg\" style=\"height:298.5pt; width:384pt\" /> </span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 384,
+        "left": 8.020706176757812,
+        "path": "articles/1597683823Mi-17Helicopter-Crash-Afg1.jpg",
+        "top": 5.17919921875,
+        "totalHeight": 423,
+        "totalWidth": 707,
+        "watermark_path": "articles/watermark-1597683823Mi-17Helicopter-Crash-Afg1.jpg",
+        "width": 682
+    },
+    "post_date": "2020-08-18T08:01:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/story.php?story_fbid=165744065030334&id=100561158215292",
+            "name": "Rewşa Kurda",
+            "path": "published/0_1597734276_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/CiwanRAC/posts/141442257645385",
+            "name": "Ragihandina Ciwan RAC اعلام الشبيبة",
+            "path": "published/1_1597734276_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/story.php?story_fbid=643438962947513&id=636393763652033",
+            "name": "Rojava lezgîn غرب كوردستان",
+            "path": "published/2_1597734276_facebook.jpg"
+        },
+        {
+            "link": "https://t.me/s/nc_ciwan",
+            "name": "Nûçe Ciwan العربية",
+            "path": "published/3_1597735050_s.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/story.php?story_fbid=  309424503824491&id=100042708307467",
+            "name": "Şervan Rojava",
+            "path": "published/4_1597734276_facebook.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://cutt.us/Yv5Ku",
+            "name": "Pan bg",
+            "path": "sources/0_1597734912_Pan bg.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الصورة ليست لحوّامة تركية سقطت في إقليم كردستان العراق",
+    "updated_at": "2020-09-25 16:22:56",
+    "url_path": "/factcheck/2020/08/17/هذه-الصورة-ليست-لحوامة-تركية-سقطت-في-إقليم-كردستان-العراق"
+}

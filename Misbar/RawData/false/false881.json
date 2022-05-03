@@ -1,0 +1,122 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 3031,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "caption": "الطفلة لم تصبح محاضرة في جامعة كندية، ولا تُدعى سارة (فادي ثابت)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">كبرت الطفلة الفلسطينية سارة التي تمسكت بكتبها لحظة هدم بيتها على يد الاحتلال سنة 2003 إلى أن حصلت على الماجستير في اللغات وأصبحت محاضرة في جامعة كندية.</p>\r\n",
+    "country": "",
+    "created_at": "2020-03-08 13:36:10",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5e64ca9ad4a229161320e724",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تواصل &quot;مسبار&quot; مع <a href=\"https://www.facebook.com/fadi.athabet.1\" style=\"color:blue; text-decoration:underline\">المصور فادي ثابت</a> الذي التقط هذه الصورة، وأكد أنها لم تُصوّر في عام 2003، وإنما التقطها المصور في عام 2014 إبان العدوان الإسرائيلي على قطاع غزة، وهي لطفلة تُدعى سهيلة من شمال القطاع، وكانت تحمل بين يديها كتبها المدرسية بعد قصفٍ مدفعيٍّ للاحتلال الإسرائيلي على الحدود المحاذية لمنزلها، وتبدو على وجهها علامات الهلع والبكاء.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">ويظهر على الصورة المنشورة توقيع المصور فادي ثابت الذي قال لـ &quot;مسبار&quot; إنَّ الطفلة سهيلة من سكان المناطق الحدودية شمال غزة، وكانت خارجة من منزلها ومعها كتبٌ&nbsp;مدرسية، وفي نفس التوقيت قصف الاحتلالُ الإسرائيليُّ بمدفعيته بالقرب من بيت الطفلة، لتصاب الأخيرة بالخوف، ويقوم المصور بالتقاط الصورة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_kpneqlses.jpg\" style=\"height:607px; width:608px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">أما عن الفتاة التي تظهر في يسار الصورة المنشورة، فهي للشابة العراقية سوزان حميد مجيد التي شاركت في عرض <a href=\"https://www.youtube.com/watch?v=FKdHj-KW-hc\" style=\"color:blue; text-decoration:underline\">تجربتها</a> في فعالية <span dir=\"LTR\">TEDx</span> لعرض الخبرات والتجارب.</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">منذ العام الفائت، وحتى الشهر الحالي، يتداول عشرات المستخدمين على مواقع التواصل الاجتماعي بشكل كبير، صورةً على أنها للطفلة الفلسطينية سارة التي دُمّر بيتها عام 2003 على يد الاحتلال الإسرائيلي، وأنها باتت اليوم محاضرة في إحدى الجامعات الكندية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_4w7lnlvg5.jpg\" style=\"height:638px; width:592px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_b0yzmnqy4.jpg\" style=\"height:498px; width:549px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_h1w65v3k6.jpg\" style=\"height:629px; width:529px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 346,
+        "left": 4.1494293212890625,
+        "path": "articles/158366377078454050_1008540146163257_7323468587471994880_n.jpg",
+        "top": 29.8056640625,
+        "totalHeight": 423,
+        "totalWidth": 622,
+        "width": 615
+    },
+    "post_date": "2020-03-08T13:08:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/mai.alkaila/posts/2439429466297169",
+            "name": "وزيرة الصحة الفلسطينية مي كيلة",
+            "path": "published/0_1583663769_مي-كيلة.jpg"
+        },
+        {
+            "link": "https://twitter.com/Ameera_Nahhal/status/1208342374310645760",
+            "name": "أميرة فؤاد",
+            "path": "published/1_1583663769_اميرة-فؤاد.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/WWW.asdeka2.ein.elhelwh/posts/480686939115632/",
+            "name": "أصدقاء مخيم عين الحلوة",
+            "path": "published/2_1583663769_اصدقاء-مخيم-عين-الحلوة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Jafra1968/posts/981997945492011",
+            "name": "جفرا نيوز",
+            "path": "published/3_1583663769_جفرا-نيوز.jpg"
+        },
+        {
+            "link": "https://twitter.com/Hala44810125/status/1208008037300101120",
+            "name": "Hala",
+            "path": "published/4_1583663770_Hala.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/sanawyaa/photos/a.687452884709673/2839527516168855/?type=3&theater",
+            "name": "الثانوية العامة",
+            "path": "published/5_1583663770_الثانوية-العامة1.jpg"
+        },
+        {
+            "link": "https://twitter.com/asma_almarry/status/1233603388471943168",
+            "name": "﮼أسماء،المري",
+            "path": "published/6_1583663770_أسماء-المري.jpg"
+        },
+        {
+            "link": "https://twitter.com/marim7869/status/1208343924110065664",
+            "name": "Dr.marim Ibrahim",
+            "path": "published/7_1583663770_Dr.marim Ibrahim.jpg"
+        },
+        {
+            "link": "  https://twitter.com/mido_gaber9/status/1208474364183810048",
+            "name": "محمد جابر",
+            "path": "published/8_1583663770_محمد جابر.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/fadi.athabet.1",
+            "name": "المصور فادي ثابت",
+            "path": "sources/0_1583663769_Fadi A Thabet ‎.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=FKdHj-KW-hc",
+            "name": "المدربة سوزان حميد",
+            "path": "sources/1_1583663769_المدربة-سوزان-حميد.JPG"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=_rRakFjAkzw",
+            "name": "TEDx Talks",
+            "path": "sources/2_1583663769_tedx.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هدم الاحتلال بيتها في 2003 وأصبحت الآن محاضرة جامعية.. حقيقة القصة",
+    "updated_at": "2020-09-25 01:25:02",
+    "url_path": "/factcheck/2020/03/08/هدم-الاحتلال-بيتها-في-2003-وأصبحت-الآن-محاضرة-جامعية-حقيقة-القصة"
+}

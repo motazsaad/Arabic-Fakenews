@@ -1,0 +1,133 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1323,
+    "author": {
+        "fullname": "مريم هواري",
+        "id": "5e299460d4a22939983a3ec5",
+        "photo": {
+            "path": "authors/1579791192_Maryam.jpg"
+        }
+    },
+    "caption": "تم تدمير نجمة ترامب في ممر المشاهيرعام 2018(Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">متظاهرون يدمّرون نجمة ترامب في ممر الشهرة (Walk of Fame) في هوليوود.</p>\r\n",
+    "country": "",
+    "created_at": "2020-06-07 16:52:00",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5edcf100db2916219d034034",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الادعاء المتداول ووجد أنه مضلل، إذ تم تدمير نجمة ترامب في ممر المشاهير في هوليوود في شهر يوليو/تموز عام 2018، ولم يقُم المتظاهرون بتدميرها في الاحتجاجات الحالية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_zsm3evc7a.jpg\" style=\"height:494px; width:623px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت عدّة صفحات على مواقع التواصل الاجتماعي فيسبوك وتويتر في بداية شهر يونيو/حزيران الجاري، صورةً ادّعى ناشروها أنها تُظهر نجمة الرئيس الأميركي دونالد ترامب في &quot;ممر الشهرة&quot; في هوليوود بعد تدميرها من قِبل المتظاهرين عقب مقتل المواطن الأميركي جورج فلويد.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_j2siqxgpt.jpg\" style=\"height:430px; width:567px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_adbt0n280.jpg\" style=\"height:676px; width:562px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_kmojvds40.jpg\" style=\"height:676px; width:415px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_kek9l7v8u.jpg\" style=\"height:556px; width:559px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 303,
+        "left": 5.04443359375,
+        "path": "articles/1591537919GettyImages-1005181140.jpg",
+        "top": 55.750244140625,
+        "totalHeight": 367,
+        "totalWidth": 550,
+        "watermark_path": "articles/watermark-1591537919GettyImages-1005181140.jpg",
+        "width": 539
+    },
+    "post_date": "2020-06-07T16:44:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/CnPics/status/1267481455434911755",
+            "name": "Celebs Zone",
+            "path": "published/0_1591537918_celebs zone.jpg"
+        },
+        {
+            "link": "https://twitter.com/wael_hafez/status/1267546476294606853",
+            "name": "Wael Hafez",
+            "path": "published/1_1591537918_wael hafez.jpg"
+        },
+        {
+            "link": "https://twitter.com/musaadalhamidi/status/1267531997360070657",
+            "name": "مساعد عبدالعزيز الحميدي",
+            "path": "published/2_1591537918_مساعد عبد العزيز.jpg"
+        },
+        {
+            "link": "https://twitter.com/tr11nd/status/1267506566124756997",
+            "name": "ترند | Trind",
+            "path": "published/3_1591537918_تريند.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/CHA.face/posts/2917211181726801",
+            "name": "Attia Chedy",
+            "path": "published/4_1591537919_attia chedy.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/haidi.achraf/posts/732457707525267",
+            "name": "Hiado Achraf",
+            "path": "published/5_1591537919_hiadi achraf.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=878098876043288&id=100015295506462",
+            "name": "ياسر ابو زهراء",
+            "path": "published/6_1591537919_ياسر ابو زهراء.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/hamza.Ti9iti9/posts/3544199422276323",
+            "name": "HamZa EL",
+            "path": "published/7_1591537919_hamza el.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=536730277023506&id=226826414680562",
+            "name": "أخبار جيجل jijel news",
+            "path": "published/8_1591537919_jijel news.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/latifimounirr/posts/349471192690592",
+            "name": "Mounir Ben Ali Latifi",
+            "path": "published/9_1591537919_mounir latifi.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/oued.rhiou.today/posts/1189709138053989",
+            "name": "وادي رهيو اليوم - Oued Rhiou Today",
+            "path": "published/10_1591537919_وادي رهيو.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/RTarabic/status/1022399795988717569",
+            "name": "RTARABIC",
+            "path": "sources/0_1591537919_RT Arabic.jpg"
+        },
+        {
+            "link": "https://www.bbc.com/arabic/live/44951340?ocid=socialflow_twitter",
+            "name": "BBC عربي",
+            "path": "sources/1_1591537919_BBC NEWS-logo.jpg"
+        },
+        {
+            "link": "https://www.skynewsarabia.com/varieties/1167660-%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D8%AA%D8%AF%D9%85%D9%8A%D8%B1-%D9%86%D8%AC%D9%85%D8%A9-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%87%D9%88%D9%84%D9%8A%D9%88%D9%88%D8%AF",
+            "name": "عربية sky news",
+            "path": "sources/2_1591537919_sky news arabic logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "متظاهرون يدمّرون نجمة ترامب في هوليوود.. صورة مضللة",
+    "updated_at": "2020-09-25 12:07:25",
+    "url_path": "/factcheck/2020/06/07/متظاهرون-يدمرون-نجمة-ترامب-في-هوليوود-صورة-مضللة"
+}

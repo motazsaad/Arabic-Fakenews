@@ -1,0 +1,98 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 730,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "ظاهرة طبيعية بسبب خروج الغاز الطبيعي (يوتيوب)",
+    "category": "Science",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">ظهور نبع مياه في مكة وتصاعد النار منه مع تدفق الماء في نفس الوقت، في ظاهرة مستحيلة علميًّا.</span></p>\r\n",
+    "country": "SA",
+    "created_at": "2020-08-01 21:12:32",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5f25b09060211807184764d3",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من الادعاء المتداول ووجد أنه مضلل، لأن النبع نفسه يظهر في </span><a href=\"https://youtu.be/MxIm0R4-A1c\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>تقرير</u></span></a><span style=\"color:#000000\"> لقناة الجزيرة عن نبع ماء في كردستان العراق.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">أما بالنسبة للنيران التي تشتعل مع تدفق المياه، فهذه ظاهرة طبيعية بسبب خروج الغاز الطبيعي الحبيس في الصخر، وموجودة في عدة أماكن حول العالم.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/MxIm0R4-A1c\" width=\"560\"></iframe></span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/zGEp9HxwQ7Q\" width=\"560\"></iframe></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل صفحات على مواقع التواصل الاجتماعي، منذ سنوات، مقطع فيديو تدعي أنه لنبع مياه في مكة تتصاعد منه مع تدفق الماء، في ظاهرة وصفها ناشرو الخبر بالمستحيلة علميًّا.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"881\" scrolling=\"no\" src=\"https://web.facebook.com/plugins/video.php?href=https%3A%2F%2Fweb.facebook.com%2Fmohalbrans%2Fvideos%2F342469946266379%2F&amp;show_text=1&amp;width=266\" style=\"border:none;overflow:hidden\" width=\"266\"></iframe></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_h3gs45c9g.jpg\" style=\"height:779px; width:536px\" /></span><span style=\"color:#000000\"> </span></p>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"rtl\"><code>ظهور نبع مياه في مكة وتصاعد النار من هذا النبع مع تدفق الماء بنفس الوقت<br />\r\nعلميا الجمع بين عنصري الماء والنار من المستحيلات<br />\r\n# قد يكون دلالة على أمر ما ..<br />\r\nالله أعلم سبحانه هو على كل شيء قدير ..<a href=\"https://twitter.com/hashtag/%D9%83%D9%85_%D8%AA%D8%BA%D8%B1%D9%8A%D8%AF%D9%87_%D9%84%D8%B0%D9%83%D8%B1_%D8%A7%D9%84%D9%84%D9%87?src=hash&amp;ref_src=twsrc%5Etfw\">#كم_تغريده_لذكر_الله</a> <a href=\"https://t.co/Gj0NnUzJ8k\">pic.twitter.com/Gj0NnUzJ8k</a></code></p>\r\n<code>&mdash; 🇸🇦🇸🇦وطني في القلب (@thth499) <a href=\"https://twitter.com/thth499/status/1067263127664906241?ref_src=twsrc%5Etfw\">November 27, 2018</a></code></blockquote>\r\n\r\n<p>&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 324,
+        "left": 2.25,
+        "path": "articles/1596305551Annotation 2020-08-01 210358.jpg",
+        "top": 44.14990234375,
+        "totalHeight": 423,
+        "totalWidth": 748,
+        "watermark_path": "articles/watermark-1596305551Annotation 2020-08-01 210358.jpg",
+        "width": 577
+    },
+    "post_date": "2020-08-01T21:09:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/thth499/status/1067263127664906241",
+            "name": "وطني في القلب",
+            "path": "published/0_1596306631_وطني.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/taghredet.harf/videos/1626599930772897/",
+            "name": "«« تغريدة حرف »»",
+            "path": "published/1_1596305824_تغريدة.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/groups/631450026926337/permalink/2159368877467770/",
+            "name": "الجالية المصرية بالسعودية",
+            "path": "published/2_1596305824_الجالية.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/donia.hossam.9066/posts/344922659623910",
+            "name": "Amola Shawky",
+            "path": "published/3_1596306591_الملا.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/groups/169562763479282/permalink/583650815403806/",
+            "name": "سليمان حدايد",
+            "path": "published/4_1596306591_sgdlhk.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://youtu.be/MxIm0R4-A1c",
+            "name": "الجزيرة",
+            "path": "sources/0_1596305551_الجيرة.jpg"
+        },
+        {
+            "link": "https://youtu.be/zGEp9HxwQ7Q",
+            "name": "Nick Uhas",
+            "path": "sources/1_1596305551_نك.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "انبثاق النار من نبع في كردستان العراق ظاهرة طبيعية",
+    "updated_at": "2020-09-25 08:50:23",
+    "url_path": "/factcheck/2020/08/01/انبثاق-النار-من-نبع-في-كردستان-العراق-ظاهرة-طبيعية"
+}

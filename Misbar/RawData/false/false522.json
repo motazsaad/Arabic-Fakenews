@@ -1,0 +1,94 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 10982,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "المنشورات المتداولة زائفة (تويتر)",
+    "category": "Arts & Culture",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">وصية الفنانة رجاء الجداوي قبل وفاتها تقديم ثروتها للشعب المصري كخدمات وهدايا.</span></p>\r\n",
+    "country": "EG",
+    "created_at": "2020-07-08 21:00:56",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f0609d8163be30662231c38",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من المنشورات المتداولة ووجد أنها زائفة ولا أساس لها من الصحة. إذ نفت أميرة مختار، ابنة الفنانة الراحلة رجاء الجداوي، ما تردد بشأن كتابة والدتها <a href=\"https://www.alroeya.com/130-44/2149158-%D8%A7%D8%A8%D9%86%D8%A9-%D8%B1%D8%AC%D8%A7%D8%A1-%D8%A7%D9%84%D8%AC%D8%AF%D8%A7%D9%88%D9%8A-%D9%84%D8%A7%D9%84%D8%B1%D8%A4%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AF%D8%AA%D9%8A-%D9%84%D9%85-%D8%AA%D8%AA%D8%B1%D9%83-%D9%88%D8%B5%D9%8A%D8%A9\" style=\"color:blue; text-decoration:underline\">وصية</a> قبل وفاتها، بعد صراع مع فايروس كورونا المستجد، وقالت إن&nbsp;&quot;والدتها لم تترك وصية بحسب معلوماتها&quot;.</span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">نشرت حسابات وصفحات على مواقع التواصل الاجتماعي مؤخراً، بعد وفاة الفنانة المصرية رجاء الجداوي، منشوراً مفاده أنها تركت وصية قبل وفاتها بتقديم ثروتها للشعب المصري كخدمات وهدايا. </span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_kyk96ivb8.jpg\" style=\"height:714px; width:484px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_6w4oc105s.jpg\" style=\"height:610px; width:486px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_jynpilb9b.jpg\" style=\"height:585px; width:528px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 8,
+        "path": "articles/1594231255EcI-e2vWAAEdlg5.jpg",
+        "top": 0,
+        "totalHeight": 512,
+        "totalWidth": 768,
+        "watermark_path": "articles/watermark-1594231255EcI-e2vWAAEdlg5.jpg",
+        "width": 752
+    },
+    "post_date": "2020-07-08T20:58:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/October992/status/1279836671710834693",
+            "name": "جَٰـُـٰٓﯛ̲୭ڪَٰـُـٰٓريَٰـُـٰٓة",
+            "path": "published/0_1594231255_جَٰـُـٰٓﯛ̲୭ڪَٰـُـٰٓريَٰـُـٰٓة.jpg"
+        },
+        {
+            "link": "https://twitter.com/AhmedNa53271318/status/1279897429337354241",
+            "name": "Ahmed Nasef",
+            "path": "published/1_1594231399_Ahmed Nasef.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/hadwtaa/photos/a.103703747686903/322549795802296/?type=3&theater",
+            "name": "حدوته",
+            "path": "published/2_1594231399_حدوته.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=159604195622051&id=100047174141133",
+            "name": "محمود المصرى",
+            "path": "published/3_1594231399_محمود المصرى.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/102726128180926/photos/a.102726248180914/102726258180913/?type=3",
+            "name": "وصيه الفنانه رجاء الجداوي",
+            "path": "published/4_1594231399_وصيه الفنانه رجاء الجداوي.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.alroeya.com/130-44/2149158-%D8%A7%D8%A8%D9%86%D8%A9-%D8%B1%D8%AC%D8%A7%D8%A1-%D8%A7%D9%84%D8%AC%D8%AF%D8%A7%D9%88%D9%8A-%D9%84%D8%A7%D9%84%D8%B1%D8%A4%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%AF%D8%AA%D9%8A-%D9%84%D9%85-%D8%AA%D8%AA%D8%B1%D9%83-%D9%88%D8%B5%D9%8A%D8%A9",
+            "name": "صحيفة الرؤية",
+            "path": "sources/0_1594231255_الرؤية.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "رجاء الجداوي لم توص بتوزيع ثروتها على الشعب المصري",
+    "updated_at": "2020-09-25 17:51:07",
+    "url_path": "/factcheck/2020/07/08/الفنانة-رجاء-الجداوي-لم-توصي-بتوزيع-ثروتها-على-الشعب-المصري"
+}

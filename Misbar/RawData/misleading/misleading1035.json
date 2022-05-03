@@ -1,0 +1,96 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 10199,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "الصورة منشورة منذ عام 2018 على أنها في سورية (مواقع التواصل الاجتماعي)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">صورة لجنود أتراك تمّ أسرهم في ليبيا.</span></p>\r\n",
+    "country": "LY",
+    "created_at": "2020-06-09 11:25:16",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5edf476cd6e4a969b96e7c84",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تحقق &quot;مسبار من الصورة المتداولة ليتبيّن أنها مضللة، فهي ليست من ليبيا ولا تُظهر جنوداً </span><span style=\"color:black\">أتراكاً</span><span style=\"color:black\">، إذ عثر عليها &quot;مسبار&quot; منشورة على موقع قناة العالم منذ يناير/كانون الثاني 2018، وجاء في الشرح المرافق للصورة أنها تعود حسب مزاعم &quot;داعش&quot; إلى جنود سوريين أسرهم التنظيم.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><span style=\"color:black\"><img alt=\"https://images-prod.misbar.com/articlebody/investigation_hn8suu0as.jpg\" id=\"Picture_x0020_4\" src=\"https://lh4.googleusercontent.com/ZVODhGWgSRGnddtURMgzUry2eGDFC_86P16l_roGHOQWpFvAG7CNXP6UiVhZtSpJZDBWAXZsYHbDnQaucMV4C8OTditITtuoXj4yHywumjlmqNIKnuy2p8WEUo08HadyhNGAobNM\" style=\"height:381pt; width:451.5pt\" /> </span></span></strong></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تداول مستخدمون على موقع التواصل الاجتماعي فيسبوك، صورة في زاويتها شعار&nbsp;قناة العالم، قالوا إنها لجنود أتراك أسرهم &quot;الجيش الليبي&quot;. وجاء في التعليق المرافق للصورة المتداولة &quot;عاجل، صيد الجيش الليبي أسرى أتراك من أمام بوابة سرت&quot;.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"color:black\"><img alt=\"https://images-prod.misbar.com/articlebody/origin_e1tdwj45o.jpg\" id=\"Picture_x0020_1\" src=\"https://lh4.googleusercontent.com/qyN-r5Mq1ubl24O8Js6W8nN1BeMrnuQQAvReRtzuLitGsscL89nHo5pijQba5uCipzJ0veZBlI_dBurPzG56dVipF7SBbfbHbb1HqZdM73OaQCLo189G6TKQVkjwRklnKN3DjFoG\" style=\"height:364.5pt; width:426pt\" /> </span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><span style=\"color:black\"><img alt=\"https://images-prod.misbar.com/articlebody/origin_z4tjcykk8.jpg\" id=\"Picture_x0020_2\" src=\"https://lh5.googleusercontent.com/fyqOfHsLBaEdzSqdfj6C5wRIoI1Eh8TPFJniXcxyLdpJKoOqp86uavUJ8VgbUwmYe1KbuQMMb8RVxPE6Aij2ghrctu4RXRzKrpW81fnmQ87lqAHmTMrDlAAL1UrvROJo3WgGXNFH\" style=\"height:173.25pt; width:441.75pt\" /> </span></span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><span style=\"color:black\"><img alt=\"https://images-prod.misbar.com/articlebody/origin_1ofxv4uy8.jpg\" id=\"Picture_x0020_3\" src=\"https://lh3.googleusercontent.com/cJRSj-tgOzaaX9tWI_rry3oUuf6sK8XdjX_vk2vwXJOEFt-H2nASYrxkSRqsur_BzMCjmLPlcO3wM4dH_QA41nh1mjaLUgpz8bGc-Fzp33DxZejdyHRmHj4QsUc25aIsJb2Kr8e3\" style=\"height:357pt; width:420pt\" /> </span></span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 354,
+        "left": 100.4676513671875,
+        "path": "articles/1591691115151599450734081900.jpg",
+        "top": 67.213623046875,
+        "totalHeight": 423,
+        "totalWidth": 731,
+        "watermark_path": "articles/watermark-1591691115151599450734081900.jpg",
+        "width": 629
+    },
+    "post_date": "2020-06-09T11:07:00.000+03:00",
+    "published": [
+        {
+            "link": " https://www.facebook.com/photo.php?fbid=680298915867586&set=a.167014867195996&type=3",
+            "name": "Maha Elezaby",
+            "path": "published/0_1591691114_Facebook_logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/1949234578713652/photos/a.1949266425377134/2322893694681070/?type=3&__xts__%5B0%5D=68.ARCTOoLb94i_a37OlBVeXSXjZFfL0_U8xnLGv65kkFrzUGsUwID3b2chPTfUKWNK_xwCeHGiQZypmjasHlb9bkM79wQj9zjh1ZCo0Wjl7993yIBZ9swcBje4pU_DjCumXnJT-1vFlmoDvRZRIC_Y1HUzmCk5xhz1sv9M1EjE_COzCRpiSi-ggFvNl6AIzkFfUvnvY9TEb-Aynd38swc0UlWaIkMuIjtNOE_t1avS2fkFEih8CD8QwGA6m6HhyXiHHsuHdbFMMpmVFsRfZRstMLimazZVMr5qb_VGa5UEqbKzwNEHrL2vFMVWZvrDi1EjtRe3KEvz7hXt1SXNiN4YIiKL2DuG&__tn__=-R",
+            "name": "Tunisie info plus",
+            "path": "published/1_1591691114_Tunisie info plus.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=863107574196674&set=a.102545666919539&type=3",
+            "name": "رمضان الحايس",
+            "path": "published/2_1591691114_رمضان الحايس.jpg"
+        },
+        {
+            "link": "  https://www.facebook.com/groups/1949714405254129/permalink/3264129480479275/",
+            "name": "حسين حسين‎",
+            "path": "published/3_1591691114_حسين حسين.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=2660331424254341&set=a.1610446679242826&type=3",
+            "name": "Abed Younes",
+            "path": "published/4_1591691115_Abed Younes.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/sheref.naserelden/posts/2698788120355583",
+            "name": "Sheref Naserelden",
+            "path": "published/5_1591691115_Facebook_logo.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.alalamtv.net/news/3289511/%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1--%D8%AF%D8%A7%D8%B9%D8%B4-%D8%AA%D8%B2%D8%B9%D9%85-%D8%A3%D8%B3%D8%B1-12-%D8%AC%D9%86%D8%AF%D9%8A%D8%A7-%D9%85%D9%86-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D9%81%D9%8A-%D8%A5%D8%AF%D9%84%D8%A8",
+            "name": "قناة العالم",
+            "path": "sources/0_1591691115_قناة العالم لوغو.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل الصورة لأسرى أتراك في ليبيا؟",
+    "updated_at": "2020-09-23 12:30:07",
+    "url_path": "/factcheck/2020/06/09/هل-الصورة-لأسرى-أتراك-في-ليبيا"
+}

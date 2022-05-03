@@ -1,0 +1,101 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 13136,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "الصورة مفبركة وتمّ التلاعب بالصورة الأصلية عبر تغيير ملامح صدام حسن (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة لم تُنشر من قبل، تُظهر رئيس العراق السابق صدام حسين قبل دقائق من إعدامه.</p>\r\n",
+    "country": "IQ",
+    "created_at": "2020-08-05 12:58:55",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 3,
+    "id": "5f2a82df602118246750d733",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة ووجدها أنها مفبركة، إذ تمّ التلاعب بالصورة الأصلية عبر إحداث تغيير في ملامح صدام حسين بطريقة يبدو معها مبتسماً، أثناء تنفيذ حكم الإعدام بحقه في 30 ديسمبر/كانون الأول 2006.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"Picture_x0020_3\" src=\"https://images-prod.misbar.com/articlebody/investigation_ebuzdvtj5.jpg\" style=\"height:557.25pt; width:516pt\" /> </span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات وحسابات على مواقع التواصل الاجتماعي، صورة قالوا على أنهّا للرئيس العراقي السابق صدام حسين قبل دقائق من إعدامه، ويظهر في الصورة مبتسماً غير آبهٍ بالموت.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"صورة_x0020_2\" src=\"https://images-prod.misbar.com/articlebody/origin_4heda5vpx.jpg\" style=\"height:447pt; width:451.5pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"color:red\"><img id=\"صورة_x0020_4\" src=\"https://images-prod.misbar.com/articlebody/origin_15tqpyiep.jpg\" style=\"height:400.5pt; width:389.25pt\" /> </span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"color:red\"><img id=\"صورة_x0020_5\" src=\"https://images-prod.misbar.com/articlebody/origin_5ea8mof0g.jpg\" style=\"height:609.75pt; width:470.25pt\" /> </span></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 340,
+        "left": 0.3171844482421875,
+        "path": "articles/1596621535EegrOSGXkAAREX8.jpg",
+        "top": 24.018798828125,
+        "totalHeight": 423,
+        "totalWidth": 606,
+        "watermark_path": "articles/watermark-1596621535EegrOSGXkAAREX8.jpg",
+        "width": 606
+    },
+    "post_date": "2020-08-05T12:41:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/imadjubouri/status/1290328824161411077/photo/1",
+            "name": "د.عماد الدين الجبوري",
+            "path": "published/0_1596621534_د.عماد الدين الجبوري.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/AdhamiyahNews0/photos/a.315154662667984/704760940374019/?type=3&theater",
+            "name": "قناة الأعظمية نيوز",
+            "path": "published/1_1596621534_قناة الأعظمية نيوز.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/487051018052693/permalink/3320102548080845/?__tn__=H-R",
+            "name": "Nail Alsingri",
+            "path": "published/2_1596621534_Nail Alsingri.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/295461348142113/permalink/338241353864112/?__tn__=-R",
+            "name": "Śalhê Bø",
+            "path": "published/3_1596621535_Śalhê Bø.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/1447491772118816/permalink/1511128569088469/?__tn__=-R",
+            "name": "باسمة عطية",
+            "path": "published/4_1596621535_باسمة عطية.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "http://news.bbc.co.uk/2/hi/middle_east/7164702.stm",
+            "name": "BBC",
+            "path": "sources/0_1596621535_BBC NEWS-logo.jpg"
+        },
+        {
+            "link": "https://cutt.us/GQl4P",
+            "name": "روسيا اليوم",
+            "path": "sources/1_1596621535_روسيا اليوم.jpg"
+        },
+        {
+            "link": "https://cutt.us/lq0VZ",
+            "name": "الجزيرة",
+            "path": "sources/2_1596621535_الجزيرة.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه ليست صورة صدام حسين قبل دقائق من إعدامه",
+    "updated_at": "2020-09-25 21:50:43",
+    "url_path": "/factcheck/2020/08/05/هذه-ليست-صورة-صدام-حسين-قبل-دقائق-من-إعدامه"
+}

@@ -1,0 +1,78 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1002,
+    "author": {
+        "fullname": "مريم هواري",
+        "id": "5e299460d4a22939983a3ec5",
+        "photo": {
+            "path": "authors/1579791192_Maryam.jpg"
+        }
+    },
+    "caption": "لوكسمبورغ الأولى عالمياً في عدد فحوصات كورونا للفرد (Getty)",
+    "category": "Health",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">&quot;إسرائيل&quot; تتصدّر دول العالم في عدد فحوصات فايروس كورونا المستجد (كوفيد-19).</p>\r\n",
+    "country": "IL",
+    "created_at": "2020-07-12 19:40:47",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f0b3d0f163be307071a5497",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من حقيقة الادّعاء ووجد أنه زائف. إذ أن دولة الاحتلال تتواجد في المرتبة الثانية عشر عالمياً في عدد فحوصات للكشف عن &nbsp;فايروس كورونا للفرد، إذ أجرت 121.02 فحصاً لكل 1000 مواطن حتّى تاريخ 2 يوليو/تموز الجاري، في حين تحتل لوكسمبورغ الدولة الأولى عالمياً وتليها دولة البحرين ومالطا، وذلك&nbsp;وفق المؤشر العلمي Our Wold in Data ومقرّه جامعة أوكسفورد.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_oay4shlil.jpg\" style=\"height:442px; width:624px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/investigation_1y9sxycki.jpg\" style=\"height:419px; width:624px\" /></p>\r\n\r\n<p>&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">صرّح نائب وزير الصحّة &quot;الإسرائيلي&quot;، يوأف كيش، في مقابلةٍ له بتاريخ 7 يوليو/تموز الجاري، أن دولة الاحتلال الاسرائيلي تتصدّر دول العالم وتحتل المرتبة الأولى عالمياً في عدد الفحوصات للكشف عن فايروس كورونا المستجد للفرد.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ivvuplrqa.jpg\" style=\"height:831px; width:623px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_ex7n4cs6s.jpg\" style=\"height:230px; width:624px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 159,
+        "left": 2.303192138671875,
+        "path": "articles/1594572046GettyImages-1208728664.jpg",
+        "top": 18.10595703125,
+        "totalHeight": 191,
+        "totalWidth": 287,
+        "watermark_path": "articles/watermark-1594572046GettyImages-1208728664.jpg",
+        "width": 283
+    },
+    "post_date": "2020-07-12T19:37:00.000+03:00",
+    "published": [
+        {
+            "link": "https://103fm.maariv.co.il/programs/media.aspx?ZrqvnVq=HMMHEM&c41t4nzVQ=FJF",
+            "name": "103fm",
+            "path": "published/0_1594572046_103fm.jpg"
+        },
+        {
+            "link": "https://www.inn.co.il/News/News.aspx/442693",
+            "name": "Channel 7",
+            "path": "published/1_1594572046_channel 7.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://ourworldindata.org/grapher/full-list-cumulative-total-tests-per-thousand?time=2020-03-01..&country=IND~IDN~ITA~KOR~USA~DNK~NZL~CAN~ISR~BHR~MLT~LUX~SGP~QAT~RUS",
+            "name": "Our World in Data",
+            "path": "sources/0_1594572046_our world.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "دولة الاحتلال ليست الأولى عالمياً في عدد فحوصات كورونا للفرد",
+    "updated_at": "2020-09-25 05:37:09",
+    "url_path": "/factcheck/2020/07/12/دولة-الاحتلال-ليست-الأولى-عالميا-في-عدد-فحوصات-كورونا-للفرد"
+}

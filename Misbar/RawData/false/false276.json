@@ -1,0 +1,150 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 7413,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الأمم المتحدة لا تجري مثل هذه التصنيفات (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">الجزائر، والبعض قال المغرب، تحتل المرتبة الثانية عالمياً في الدعارة وفق برنامج الأمم المتحدة الخاص بمرض الإيدز.</p>\r\n",
+    "country": "DZ",
+    "created_at": "2020-09-17 15:10:03",
+    "created_by": "5f39b5451dd585078b5d94f3",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 2,
+    "feedback_pos": 15,
+    "id": "5f63521b18e0cb0db40099c6",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الادعاءين، وتأكّد من زيفهما. إذ لا يحتل أيٌّ من البلدين، الجزائر أو المغرب، المرتبة الثانية في الإنفاق على تجارة الجنس. وقد راجع &quot;مسبار&quot; موقع برنامج الأمم المتحدة الخاص بمرض الإيدز، ولم يجد أيّ قائمة لترتيب الدول وفق حجم إنفاقها على تجارة الجنس. كذلك عثر &quot;مسبار&quot; أثناء البحث قوائم منشورة على بعض المواقع الإلكترونية دون أن تتضمن أيّ منها الجزائر أو المغرب، وهي ذات طابع تقديري لإجمالي إيرادات هذا القطاع. وتجدر الإشارة أنّ &quot;مسبار&quot; لم يتمكن من التأكد من أصل الفيديو وحقيقته ومن هوية الشخص الذي يظهر فيه.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><strong><img src=\"https://images-prod.misbar.com/articlebody/investigation_eair5rzeb.jpg\" style=\"height:661px; width:638px\" /></strong></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">انتشر على مواقع التواصل الاجتماعي وموقع يوتيوب مقطع فيديو، قال مروِّجوه أنّه يُظهر شاباً أميركياً يتلو قائمة الدول الأكثر إنفاقاً على &quot;الدعارة&quot;، لتكون الجزائر حسب ادعائهم في المرتبة الثانية؛&nbsp;استناداً إلى موقع برنامج الأمم المتحدة لفايروس نقص المناعة المكتسبة (الإيدز) <span dir=\"LTR\">UNAIDS</span>. كذلك انتشرت نسخة ثانية من الفيديو تختلف عن الأولى بأنّ الشاب يضع المغرب في المرتبة الثانية وليس الجزائر، استناداً إلى المصدر نفسه أيضاً.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/slc2pJ8rIXQ\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/hZAILsLEuGA\" width=\"560\"></iframe></p>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"rtl\">هنيئا للجارة الجزائر بهذا الإنجاز الضخم تحتل المرتبة الثانية عالميا في الدعارة<br />\r\nالمصدر: UNAIDS<br />\r\n🇩🇿🇩🇿🇩🇿🇩🇿🇩🇿🇩🇿🇩🇿🇩🇿 <a href=\"https://t.co/EtknObAlbE\">pic.twitter.com/EtknObAlbE</a></p>\r\n&mdash; Rose.Hayim(^_-)רוז חיים (@RMaghrebiya) <a href=\"https://twitter.com/RMaghrebiya/status/1305881038770655232?ref_src=twsrc%5Etfw\">September 15, 2020</a></blockquote>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1600345054GettyImages-113361352.jpg",
+        "watermark_path": "articles/watermark-1600345054GettyImages-113361352.jpg"
+    },
+    "post_date": "2020-09-17T14:57:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.youtube.com/watch?v=akNqPJz1mGk",
+            "name": "الجزائر تاج راسك",
+            "path": "published/0_1600344600_YouTube-logo.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.youtube.com/watch?v=hZAILsLEuGA",
+            "name": "قاهرة دولة مروكو",
+            "path": "published/1_1600344600_YouTube-logo.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.youtube.com/watch?v=hg3Bcl87uts",
+            "name": "الجزائر بيت فرنسا",
+            "path": "published/2_1600344601_YouTube-logo.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.youtube.com/watch?v=kakJvzeETtY",
+            "name": "Hicham Fs",
+            "path": "published/3_1600344601_YouTube-logo.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.youtube.com/watch?v=3UE0DyLKwow",
+            "name": "moda moda",
+            "path": "published/4_1600344601_YouTube-logo.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.youtube.com/watch?v=slc2pJ8rIXQ",
+            "name": "أبناء الحركة",
+            "path": "published/5_1600344601_YouTube-logo.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.youtube.com/watch?v=1gXJLkI-_cM",
+            "name": "Khoroto Made",
+            "path": "published/6_1600344601_YouTube-logo.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.youtube.com/watch?v=v_7EirnqFWQ",
+            "name": "ذو القرنين المغربي",
+            "path": "published/7_1600344601_YouTube-logo.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/436665673447309/videos/1253489711658575/?v=1253489711658575&external_log_id=c570ff88-b298-4171-b7e7-ea867d4a3e7f&q=%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%20%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9%20%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%8B%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%AF%D8%B9%D8%A7%D8%B1%D8%A9",
+            "name": "كفاح الشعب المغربي",
+            "path": "published/9_1600344601_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/111426717044354/videos/428524928114930/?v=428524928114930&external_log_id=d63d651d-85f1-451e-9a90-7e3400398932&q=%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%20%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9%20%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A7%D9%8B%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%AF%D8%B9%D8%A7%D8%B1%D8%A9",
+            "name": "الأقاليم الجنوبية المغربية",
+            "path": "published/10_1600344601_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/RMaghrebiya/status/1305881038770655232",
+            "name": "Rose Hayim",
+            "path": "published/11_1600344601_twitter.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.unaids.org/en",
+            "name": "UNAIDS",
+            "path": "sources/0_1600344602_WUQiAsCe_400x400.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "http://havocscope.com/prostitution-revenue-by-country/",
+            "name": "Havoc Scope",
+            "path": "sources/1_1600344602_1.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://metro.co.uk/2016/01/11/can-you-guess-which-country-spends-the-most-on-prostitutes-5615906/#:~:text=Top%2010%20countries%20per%20capita%20expenditure%20on%20prostitution&text=In%20terms%20of%20number%20of,United%20States%20with%201%20million.",
+            "name": "Metro",
+            "path": "sources/2_1600344602_Metro-logo.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://apps.who.int/gho/data/view.main.22500?lang=en",
+            "name": "منظمة الصحة العالمية",
+            "path": "sources/3_1600344602_منظمة-الصحة-العالمية-تويتر.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لا الجزائر ولا المغرب الثانية عالمياً في الإنفاق على تجارة الجنس",
+    "updated_at": "2020-09-25 22:06:47",
+    "url_path": "/factcheck/2020/09/17/لا-الجزائر-ولا-المغرب-الثانية-عالميا-في-الإنفاق-على-تجارة-الجنس",
+    "was_notification_pushed": "true"
+}

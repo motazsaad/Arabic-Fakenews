@@ -1,0 +1,128 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 36958,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الصورة تعود إلى مجاعة عام 1943 في الهند (مواقع التواصل الاجتماعي)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة لهندي يحرس عائلته من آكلي لحوم البشر خلال مجاعة مدراس بين عامي 1876 و1878.</p>\r\n",
+    "country": "IN",
+    "created_at": "2020-07-19 16:10:41",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f144651163be307593fff0e",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة، ووجد أنها تعود إلى 1943 وليس إلى القرن التاسع العشر كما جاء في التعليق المرافق للصورة المتداولة. الصورة الأصلية تُصوّر ما يبدو هنوداً يعانون من المجاعة التي ضربت الهند عام 1943، والقول بأنها لهنديٍّ يحرس عائلته من آكلي لحوم البشر هو قولٌ مختلقٌ لا أساس له من الصحة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_bw1f32446.jpg\" style=\"height:706px; width:715px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_i3ot4ahtd.jpg\" style=\"height:676px; width:584px\" /></span></strong></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت حسابات وصفحات على موقعي التواصل الاجتماعي فيسبوك وتويتر، صورة قالت إنّها لهنديٍّ يحرس عائلته من آكلي لحوم البشر، خلال ما يُعرف بـ &quot;مجاعة مدراس&quot; ما بين عامي 1876 و1878.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_4df8zi2w1.jpg\" style=\"height:470px; width:442px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ilxltwpjw.jpg\" style=\"height:512px; width:496px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_vfqtcv3ld.jpg\" style=\"height:497px; width:482px\" /></span><br />\r\n<span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_wnte2bnfz.jpg\" style=\"height:458px; width:455px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 361,
+        "left": 4.690673828125,
+        "path": "articles/1595164241104623281_601885103788601_7781077174863026311_n.jpg",
+        "top": 22.544677734375,
+        "totalHeight": 423,
+        "totalWidth": 649,
+        "watermark_path": "articles/watermark-1595164241104623281_601885103788601_7781077174863026311_n.jpg",
+        "width": 642
+    },
+    "post_date": "2020-07-19T15:51:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/groups/650109202006343/permalink/1223250464692211/?__tn__=-R",
+            "name": "Alinne Khouri",
+            "path": "published/0_1595164240_Alinne Khouri.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/339040699960353/photos/a.339058763291880/846910482506703/?type=3&theater",
+            "name": "حسن سالم للتاريخ والتراث الصوري",
+            "path": "published/1_1595164240_حسن سالم للتاريخ والتراث الصوري.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/429720670936114/permalink/717505105491001/?__tn__=-R",
+            "name": "عادل مهدي المعلة",
+            "path": "published/2_1595164240_عادل مهدي المعلة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2619098741665968&id=100006976023848",
+            "name": "حسن الركابي",
+            "path": "published/3_1595164240_حسن الركابي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/exploreriraq/photos/a.508219396373903/841404626388710/?type=3&__tn__=H-R",
+            "name": "المنقب",
+            "path": "published/4_1595164240_المنقب.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=2067551766723141&set=a.419304068214594&type=3&theater",
+            "name": "Shaker Al-Zubaidi",
+            "path": "published/5_1595164240_Shaker Al-Zubaidi.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=333108354751701&id=100041576172970",
+            "name": "شهاب الحسيني",
+            "path": "published/6_1595164240_وكالة شهاب-لوغو.jpg"
+        },
+        {
+            "link": "https://twitter.com/hasn1hasn1/status/1282990397657174022",
+            "name": "العراقي الشجاع",
+            "path": "published/7_1595164241_العراقي الشجاع.jpg"
+        },
+        {
+            "link": "https://twitter.com/iYWw6XSQwi4dBeH/status/1284047333257359360",
+            "name": "محمد فلامرد الواقعي",
+            "path": "published/8_1595164241_محمد فلامرد الواقعي.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://factslegend.org/1770-bengal-famine-facts-25-facts-forgotten-holocaust-india/",
+            "name": "Facts Legend",
+            "path": "sources/0_1595164241_Facts Legend.jpg"
+        },
+        {
+            "link": "https://me.me/i/between-12-and-29-million-indians-died-of-starvation-while-fcfb1208581747829cf37ee84884ce73",
+            "name": "MEMES",
+            "path": "sources/1_1595164408_MEMES.jpg"
+        },
+        {
+            "link": "https://economictimes.indiatimes.com/news/politics-and-nation/bengal-famine-of-1943-caused-by-british-policy-failure-not-drought-study/articleshow/68495710.cms ",
+            "name": "Economist Time",
+            "path": "sources/2_1595164408_Economist Time.jpg"
+        },
+        {
+            "link": "https://www.socialistamorena.com.br/por-que-homenagear-lenin-e-elogiar-genocida-e-idolatrar-churchill-nao/",
+            "name": "Socialista Morena",
+            "path": "sources/3_1595164409_Socialista Morena.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذا الهندي لم يحرس عائلته أثناء المجاعة من آكلي لحوم البشر",
+    "updated_at": "2020-09-25 21:29:25",
+    "url_path": "/factcheck/2020/07/19/هذا-الهندي-لم-يحرس-عائلته-أثناء-المجاعة-من-آكلي-لحوم-البشر"
+}

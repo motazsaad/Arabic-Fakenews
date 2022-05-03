@@ -1,0 +1,109 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2288,
+    "author": {
+        "fullname": "خالد إسماعيل",
+        "id": "5e59256dd4a2295224257db3",
+        "photo": {
+            "name": "1582900589_صورة 2.jpg",
+            "path": "authors/1582900589_صورة 2.jpg"
+        }
+    },
+    "caption": "حضرت ماكدانيل حفل الأوسكار إلّا أنها لم تُدفن في مقابر هوليوود (Getty)",
+    "category": "Arts & Culture",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">هاتي ماكدانيل أول أميركية من أصول إفريقية تحصل على الأوسكار، منعوها من حضور الحفل مع الفائزين وسلموها الجائزة في غرفة منفصلة لأسباب عنصرية.</span></p>\r\n",
+    "country": "US",
+    "created_at": "2020-05-31 17:57:03",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ed3c5bfdb29167dbb5b4324",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تحقق مسبار من الصورة المتداولة ومن القصة المصاحبة لها، وتبين أنّ جزءاً منها غير صحيح. إذ إنّ الممثلة الأميركية ذات الأصول الإفريقية هاتي ماكدانيل لم تُمنع من حضور حفل الأوسكار عام 1940 بعد فوزها بجائزة أحسن ممثل مساعد عن دورها في فيلم (ذهب مع الريح)، وذلك رغم إقامة حفل الأوسكار في فندق يحظر دخول ذوي البشرة السمراء، إلّا أنّ ماكدانيل حضرت الحفل وأُعلن فوزها بالجائزة وصعدت لاستلامها وألقت كلمة تخص المناسبة. أما بخصوص عدم دفنها في مقبرة هوليوود بحسب رغبتها، فذلك صحيح بالفعل، إذ لم تُدفن في مقبرة هوليوود بسبب لون بشرتها.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/e7t4pTNZshA\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تداولت حسابات وصفحات على موقعي التواصل الاجتماعي فيسبوك وتويتر، صورة للممثلة الأميركية من أصول إفريقية هاتي ماكدانيل، رافقها ادعاءٌ يُفيد أنّ منظمي حفل توزيع جوائز الأوسكار قد منعوها من حضور الحفل لتسلّم الجائزة عام 1940، والتي تسلمتها في غرفة منفصلة لأنها ذات بشرة سمراء. وأضاف بعض ناشري الصورة أنها لم تُدفن في مقابر هوليود حسب رغبتها نظراً لأسباب عنصرية تتعلق بلون بشرتها. </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_f5zebqxwn.jpg\" style=\"height:759px; width:503px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_wcxwm26zn.jpg\" style=\"height:824px; width:471px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_aeyi8rr3p.jpg\" style=\"height:757px; width:507px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 316,
+        "left": 0.193359375,
+        "path": "articles/1590937023GettyImages-514686624.jpg",
+        "top": 45.76513671875,
+        "totalHeight": 423,
+        "totalWidth": 563,
+        "watermark_path": "articles/watermark-1590937023GettyImages-514686624.jpg",
+        "width": 563
+    },
+    "post_date": "2020-05-31T17:41:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/Derriere.chaque/photos/pcb.1299738970387185/1299738150387267/?type=3&theater",
+            "name": "Derrière Chaque",
+            "path": "published/0_1590937022_Derrière Chaque.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=1872152602921096&set=p.1872152602921096&type=1&theater",
+            "name": "محمد الزوي ",
+            "path": "published/1_1590937022_Facebook_logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/hocineachi1/photos/p.251463566289084/251463566289084/?type=1&theater",
+            "name": "حسن عشي",
+            "path": "published/2_1590937022_حسن عشي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/113927670276211/photos/p.135355131466798/135355131466798/?type=1&theater",
+            "name": "الوعي المعلوماتي ",
+            "path": "published/3_1590937022_الوعي المعلوماتي.jpg"
+        },
+        {
+            "link": "https://twitter.com/CasberLove2m/status/1266430272771362816",
+            "name": "'3OZLAN",
+            "path": "published/4_1590937022_'3OZLAN.jpg"
+        },
+        {
+            "link": "https://twitter.com/asg784936/status/1266124615186894849",
+            "name": "حمد حماده ",
+            "path": "published/5_1590937022_حمد حمادة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/103924017898447/photos/pcb.143338477290334/143338453957003/?type=3&theater",
+            "name": "أولاد بونة",
+            "path": "published/6_1590937022_أولاد بونة.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.hollywoodreporter.com/features/oscars-first-black-winner-accepted-774335",
+            "name": "The Hollywood Reporter",
+            "path": "sources/0_1590937022_The Hollywood Reporter.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=e7t4pTNZshA",
+            "name": "Oscars",
+            "path": "sources/1_1590937022_Oscars.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ممثلة أميركية مُنعت من حضور حفل الأوسكار لأسباب عنصرية.. ما تفاصيل القصة؟",
+    "updated_at": "2020-09-25 20:51:59",
+    "url_path": "/factcheck/2020/05/31/ممثلة-أميركية-منعت-من-حضور-حفل-الأوسكار-لأسباب-عنصرية-ما-تفاصيل-القصة"
+}

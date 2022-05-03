@@ -1,0 +1,96 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 262,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "وفّرت الوحدات أسرة ومتخصصين (فيسبوك)",
+    "category": "Health",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">الجيش البلجيكي يرسل جنوده لمساعدة أطباء المستشفيات في احتواء كورونا.</p>\r\n",
+    "country": "BE",
+    "created_at": "2020-11-05 22:12:03",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 3,
+    "feedback_pos": 2,
+    "id": "5fa44e83174c0415575cee70",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;<a href=\"https://misbar.com/\" style=\"text-decoration:none\" target=\"_blank\"><u>مسبار</u></a>&quot; من الخبر المتداول ووجد أنه يحتوي على إثارة، لأن الجيش البلجيكي أرسل وحدات طبية متخصصة إلى <a href=\"https://www.brusselstimes.com/news/belgium-all-news/139071/soldiers-deployed-to-help-overwhelmed-hospitals-manage-covid-19-patients-belgian-army-liege-hospitalisation-military-training/\" style=\"text-decoration:none\" target=\"_blank\"><u>مستشفيات محددة</u></a> لم تعد تستطيع التعامل مع المرضى بسبب الضغط الهائل، وليس جميع المستشفيات. كما أُرسلت وحدات طبية عسكرية إلى مدينة لييج للتعامل مع مرضى كوفيد-19 في المستشفيات التي لم تعد قادرة على استقبال المزيد، إذ وفّرت تلك الوحدات أسرة ومتخصصين في التعامل مع الأوبئة.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_evo9i074k.jpg\" style=\"height:502px; width:528px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">اقرأ/ي أيضاً:</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/04/16/%D8%A7%D9%84%D8%B9%D8%B7%D8%B3%D8%A9-%D9%81%D9%8A-%D8%A8%D9%84%D8%AC%D9%8A%D9%83%D8%A7-%D8%AA%D9%82%D9%88%D8%AF%D9%83-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D8%B3%D8%AC%D9%86-%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D8%A7%D9%84%D8%AE%D8%A8%D8%B1\" target=\"_blank\">العطسة في بلجيكا تقودك إلى السجن.. حقيقة الخبر</a></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/09/05/%D9%83%D9%88%D8%B1%D8%AA%D9%88%D8%A7-%D9%84%D9%85-%D9%8A%D8%B5%D8%A8-%D8%A8%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-%D8%AE%D9%84%D8%A7%D9%84-%D8%AA%D9%88%D8%A7%D8%AC%D8%AF%D9%87-%D9%85%D8%B9-%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D8%A8%D9%84%D8%AC%D9%8A%D9%83%D8%A7\" target=\"_blank\">كورتوا لم يصب بكورونا خلال تواجده مع منتخب بلجيكا</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "بلجيكا",
+        "كورونا",
+        "كوفيد-19"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تتناقل صفحات وحسابات على مواقع التواصل الاجتماعي، حديثاً، خبراً مفاده أنّ الجيش البلجيكي أرسل جنوده لمساعدة أطباء المستشفيات في احتواء كوفيد-19.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_qvf3jsv7b.jpg\" style=\"height:432px; width:531px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_37pvmwdhv.jpg\" style=\"height:441px; width:525px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 368,
+        "left": 3.04998779296875,
+        "path": "articles/1604603523بلجيكا.jpg",
+        "top": 36.10009765625,
+        "totalHeight": 423,
+        "totalWidth": 660,
+        "watermark_path": "articles/watermark-1604603523بلجيكا.jpg",
+        "width": 654
+    },
+    "post_date": "2020-11-05T21:08:00.000+03:00",
+    "published": [
+        {
+            "id": "5f8ddbb221f3b202de4d53e5",
+            "link": "https://www.youm7.com/story/2020/11/4/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A8%D9%84%D8%AC%D9%8A%D9%83%D9%89-%D9%8A%D8%B1%D8%B3%D9%84-%D8%AC%D9%86%D9%88%D8%AF%D9%87-%D9%84%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A3%D8%B7%D8%A8%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%8A%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D8%AD%D8%AA%D9%88%D8%A7%D8%A1-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7/5052077",
+            "name": "اليوم السابع",
+            "origin": "",
+            "path": "sources/7535b392122e5cc6abcda002f0cefbbaf1de1685.jpg"
+        },
+        {
+            "id": "5f95861c14e79834dd660540",
+            "link": "https://menafn.com/arabic/1101070002/%D9%85%D8%B5%D8%B1-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A8%D9%84%D8%AC%D9%8A%D9%83%D9%89-%D9%8A%D8%B1%D8%B3%D9%84-%D8%AC%D9%86%D9%88%D8%AF%D9%87-%D9%84%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A3%D8%B7%D8%A8%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%8A%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D8%AD%D8%AA%D9%88%D8%A7%D8%A1-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-%D8%B5%D9%88%D8%B1",
+            "name": "menafn.com",
+            "origin": "",
+            "path": "sources/6690b5b40ea573469249cff90fde9ec35047ba89.jpg"
+        },
+        {
+            "id": "5fa45228b99a5b458507c4a4",
+            "link": "https://www.innfrad.com/News/25/2137509/%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A8%D9%84%D8%AC%D9%8A%D9%83%D9%89-%D9%8A%D8%B1%D8%B3%D9%84-%D8%AC%D9%86%D9%88%D8%AF%D9%87-%D9%84%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9-%D8%A3%D8%B7%D8%A8%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%8A%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D8%AD%D8%AA%D9%88%D8%A7%D8%A1-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-",
+            "name": "انفراد",
+            "origin": "",
+            "path": "sources/d7a113282ea88910b0e6086b8a78aad6d2b99521.jpg"
+        }
+    ],
+    "result": "commotion",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fa44e83730f7f30f70bded4",
+            "link": "https://www.brusselstimes.com/news/belgium-all-news/139071/soldiers-deployed-to-help-overwhelmed-hospitals-manage-covid-19-patients-belgian-army-liege-hospitalisation-military-training/",
+            "name": "The Brussels Times",
+            "origin": "",
+            "path": "sources/51db58f2458659086d3c3d6ed4550cb88d61d8b4.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الجيش البلجيكي أرسل وحدات طبية إلى مستشفيات محددة وليس جميعها",
+    "updated_at": "2020-11-05 22:27:37",
+    "url_path": "/factcheck/2020/11/05/الجيش-البلجيكي-أرسل-وحدات-طبية-إلى-مستشفيات-محددة-وليس-جميعها",
+    "was_notification_pushed": false
+}

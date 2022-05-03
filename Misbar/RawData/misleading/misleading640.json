@@ -1,0 +1,108 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1897,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "الزوجان أميركيان يمتلكان قناة على موقع يوتيوب  (Facebook)",
+    "category": "Entertainment",
+    "claim": "<p>الشاب السوري رامي يتزوج من السبعينية الألمانية جيسكا التي تملك مصنع سيارات.</p>\r\n",
+    "country": "SY",
+    "created_at": "2020-09-14 14:39:45",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f5f568101f37b629e17b0a1",
+    "investigation": "<p style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من المعلومات المصاحبة للصور المنتشرة على مواقع التواصل، ليجد أنها مضللة، فالزوجين هما الأميركيين ألمند إيرل وجاري هاردويك، وتزوجا حين كانت هي في الثانية والسبعين من عمرها، في حين كان هو يبلغ 19 عاماً، وذلك قبل حوالي العامين، وهما الآن يعتبران مشهورين بسبب قناة اليوتيوب التي يبثان عليها يومياتهما، ويتابعها أكثر من ربع مليون، واسمها قناة جاري وألمند، وما يتضح من منزلهما، بأنها ليست غنية، كما أنه ليس من أصول عربية.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/L0rFNBYU3Zw\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت مئات الحسابات والصفحات على مواقع التواصل الاجتماعي، منذ 29 أغسطس/آب الفائت، مروراً&nbsp;بشهر أيلول/ سبتمبر الجاري،&nbsp; صوراً لزوجين يحتفلان بزفافهما، وواضح في الصور فارق العمر بينهما، ويصاحب الصور تعليقاً يكاد يكون موحداً بأنه شاب سوري يعيش في ألمانيا والمرأة&nbsp;اسمها جيسيكا، ألمانية تمتلك مصنع سيارات والملايين من المال، إلا أن الاختلاف بين التعليقات حول السنوات العمرية للعريسين، فمرة يبلغ الشاب من العمر 23 عاماً، ومرة 33عاماً، وكذلك هي فمرة 85 عاماً، ومرة 75 عاماً.</p>\r\n\r\n<p style=\"text-align:center\">&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_o4y64bewe.jpg\" style=\"height:219px; width:605px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_9v2m8bopw.jpg\" style=\"height:214px; width:605px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1600101702cover-couple-older-younger-41312312 (1).jpgص.jpg",
+        "watermark_path": "articles/watermark-1600101702cover-couple-older-younger-41312312 (1).jpgص.jpg"
+    },
+    "post_date": "2020-09-14T13:28:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2936028976503526&id=1045097475596695",
+            "name": "سوهاج الكوامل",
+            "path": "published/0_1600101382_0_1596888660_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/rkdotvpr/posts/600839913887113ش",
+            "name": "شبكة أخبار ألمانيا",
+            "path": "published/1_1600101382_0_1596888660_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/falastenehlaeuoon/posts/788180291952565",
+            "name": "عيون حيفاوية",
+            "path": "published/2_1600101382_0_1596888660_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/fhadahmad89/posts/720942365155700",
+            "name": "فضفة إمرأة",
+            "path": "published/3_1600101382_0_1596888660_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/M7amiido/status/1252322418003238912",
+            "name": "محماا",
+            "path": "published/4_1600101382_6_1596888660_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/malsalahat2222/status/1251344854505922561",
+            "name": " M. Salahat",
+            "path": "published/5_1600101382_6_1596888660_twitter.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.youtube.com/watch?v=L0rFNBYU3Zw&ab_channel=GaryAndAlmeda",
+            "name": "Gary And Almeda",
+            "path": "sources/0_1600101382_ييص.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.fempositive.com/72-year-old-grandmother-married-her-19-year-old-boyfriend-and-shes-never-been-happier/",
+            "name": "fempositive",
+            "path": "sources/1_1600101382_ييص3.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هو ليس رامي من سوريا، وهي لا تمتلك مصنع سيارات",
+    "updated_at": "2020-09-25 14:47:14",
+    "url_path": "/factcheck/2020/09/14/هو-ليس-رامي-من-سوريا-وهي-لا-تمتلك-مصنع-سيارات",
+    "was_notification_pushed": true
+}

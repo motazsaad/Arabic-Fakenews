@@ -1,0 +1,89 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1243,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">صورة مسرّبة من مدينة ووهان في الصين تُظهر مجموعة كبيرة من الناس ينهارون في الشوارع بسبب فايروس كورونا.</span></p>\r\n",
+    "country": "CN",
+    "created_at": "2020-01-29 14:15:29",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e316951d4a2297da5773734",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تبيّن لـ&quot;مسبار&quot;، بعد التحقّق، أن الصورة تعود إلى عام 2014، وتوثّق لمشروع فني أُقيم في مدينة فرانكفورت الألمانية، وذلك في ذكرى ضحايا معتقل كاتسباخ النازي، الذي دُفن فيه 528 ضحيّة منهم في المقبرة العامة لمدينة فرانكفورت.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_mfno3z20u.jpg\" style=\"height:386px; width:499px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "ووهان",
+        "الصين",
+        "كورونا",
+        "فرانكفورت"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تداولت مجموعة من الصفحات على مواقع التواصل الاجتماعي صورةً يدّعون أنها توثّق سقوط مجموعة من الناس في إحدى شوارع مدينة ووهان الصينية.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_0vhz4subq.jpg\" style=\"height:458px; width:497px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_r0qqhlhld.jpg\" style=\"height:433px; width:500px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_1r5bvcziq.jpg\" style=\"height:432px; width:497px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 314,
+        "left": 3.066650390625,
+        "path": "articles/1580296529GettyImages-1201285261.jpg",
+        "top": 52.600006103515625,
+        "totalHeight": 423,
+        "totalWidth": 564,
+        "width": 558
+    },
+    "post_date": "2020-01-29T13:05:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/CenterFallujah/photos/a.232836113803618/861753450911878/?type=3&theater",
+            "name": "سنتر الفلوجة",
+            "path": "published/0_1580296528_سنتر الفلوجة - لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/548930935599877/permalink/758597147966587/",
+            "name": "روبن أتش دي",
+            "path": "published/1_1580296528_Facebook_logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/109607537258154/photos/a.112162450335996/112313893654185/?type=3&theater",
+            "name": "الطبيعة",
+            "path": "published/2_1580296529_الطبيعة - لوغو.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://pictures.reuters.com/archive/GERMANY--BM2EA3O1B2X01.html",
+            "name": "رويترز",
+            "path": "sources/0_1580296528_Reuters-logo.jpg"
+        },
+        {
+            "link": "https://stock.adobe.com/156628380",
+            "name": "Adobe Stock",
+            "path": "sources/1_1580296528_Adobe-Stock-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "حقيقة الصورة التي تُظهر أناساً يتساقطون في شوارع ووهان",
+    "updated_at": "2020-09-23 12:39:21",
+    "url_path": "/factcheck/2020/01/29/حقيقة-الصورة-التي-تظهر-أناسا-يتساقطون-في-شوارع-ووهان"
+}

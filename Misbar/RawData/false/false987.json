@@ -1,0 +1,86 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 1,
+        "fb": 1,
+        "tw": 1
+    },
+    "amount_sources": 0,
+    "amount_visits": 1656,
+    "author": {
+        "fullname": "حسام الهندي",
+        "id": "5e25c80bd4a229629038df03",
+        "photo": {
+            "path": "authors/1579542323_حسام الهندي.jpg"
+        }
+    },
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">سلطان عٌمان الجديد: اليمن وعُمان في الجزيرة العربية وما عداهما لم يكن هناك وجود</p>\r\n",
+    "country": "OM",
+    "created_at": "2020-01-25 10:09:54",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e2be9c2d4a2295e141504f3",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الفيديو المتداول والمنسوب للسلطان هيثم بن طارق غير صحيح، والمقطع المصور الأصلي يخص الدكتور إسماعيل الأغبري، عضو مجلس الدولة العُماني - الغرفة الأولى للبرلمان العُماني، خلال ندوة في مجلس الشيخ هاشل بن محمد المصلحي، ونشر الفيديو الأصلي على اليوتيوب للمرة الأولى في 2 سبتمبر/ أيلول 2015.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">تحدث الأغبري خلال الفيديو الأصلي عن ثوابت عُمان وقدرتها على الحفاظ على سياستها، منذ سنوات طويلة، وقال &quot;دول الخليج مضطربة، وهذا يجعلني أعرف أنَّ بلادي تقف على أرض صلبة&quot;.</p>\r\n\r\n<p style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;<img id=\"Picture_x0020_3\" src=\"https://images-prod.misbar.com/articlebody/investigation_dbdac2568aab8347a4028b1d1cbafd0a.jpg\" style=\"height:228pt; width:336.75pt\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\">تداولت بعض الحسابات على مواقع التواصل الاجتماعي، فيديو يظهر فيه السلطان العُماني الجديد هيثم بن طارق، مهاجماً بعض دول الخليج، ونافياً وجود دور تاريخي لدول الخليج فيما عدا اليمن وعُمان، وقال السلطان وفقاً للفيديو المتداول &quot;اليمن وعُمان في الجزيرة العربية وما عداهما لم يكن هناك وجود.</p>\r\n\r\n<p dir=\"RTL\">ونشر البعض الفيديو معتبرين أنَّ التصريحات رسالة لمن لا تاريخ لهم بأنَّ حكمهم مثل القش لا أساس له ولا جذور.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;<img id=\"Picture_x0020_2\" src=\"https://images-prod.misbar.com/articlebody/origin_6a85514456c812b94d65f10a87c83134.jpg\" style=\"height:256.5pt; width:278.25pt\" /></p>\r\n\r\n<p>&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 338,
+        "left": 44.909423828125,
+        "path": "articles/15799361930002.jpg",
+        "top": 56.69905090332031,
+        "totalHeight": 385,
+        "totalWidth": 682,
+        "width": 600
+    },
+    "post_date": "2020-01-25T13:28:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/talalAli7779/status/1217239160286781443",
+            "name": "القاسم البحش",
+            "path": "published/0_1579936335_القاسم البحش.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=uRA9cl73goo",
+            "name": "فخامة يمني حر",
+            "path": "published/1_1579936389_YouTube-logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/alimsaeed.78/videos/10212560289842834/",
+            "name": "Ali Saeed",
+            "path": "published/2_1579936335_Ali Saeed.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=qxaF9EbZvts&feature=youtu.be&t=1020",
+            "name": "محمد بن سعيد الحجري",
+            "path": "sources/0_1579936335_محمد بن سعيد الحجري.jpg"
+        },
+        {
+            "link": "https://twitter.com/nizwa9921",
+            "name": " إسماعيل الاغبري",
+            "path": "sources/1_1579936335_إسماعيل الاغبري.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "حقيقة هجوم سلطان عُمان الجديد على دول الخليج!",
+    "updated_at": "2020-09-25 19:00:55",
+    "url_path": "/factcheck/2020/01/25/حقيقة-هجوم-سلطان-عمان-الجديد-على-دول-الخليج"
+}

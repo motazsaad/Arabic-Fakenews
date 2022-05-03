@@ -1,0 +1,102 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 196,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "هي لوحة إعلانية مضادة لحملة ترامب الانتخابية (تويتر)",
+    "category": "Politics",
+    "claim": "<p>دعاية انتخابية لترامب في شوارع أميركا بأنه حفظ حكم بن سلمان.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-10-06 17:09:15",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 2,
+    "feedback_pos": 6,
+    "id": "5f7c7a8b5c223c5cd34890d8",
+    "investigation": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقّق &quot;مسبار&quot; من الصورة ليجد أنها بالفعل استخدمت كمادة إعلانية ولكن ليس لدعم ترامب في حملته الانتخابية، بل ضدها وللتذكير بأنه وقف مع محمد بن سلمان في قضية قتل المعارض السعودي جمال خاشقجي، إذ تضع اللوحة الإعلانية موقع<br />\r\n&quot;الحرية أولاً&quot; كمرجع بحروف كبيرة، و&nbsp;يذكّر الموقع&nbsp;بالمعتقلين السياسيين والقتلى من ضحايا المنظومة الأمنية السعودية.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_wrsgv6rik.jpg\" style=\"height:371px; width:601px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت حسابات على مواقع التواصل الاجتماعيّ، صورةً، منذ بداية أكتوبر/تشرين الأول الجاري، قالت إنها عبارة عن دعاية انتخابية لترامب ضمن سباق الانتخابات الرئاسية الأميركية، وتعني أنه حافظ على حكم محمد بن سلمان كولي عهد السعودية.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ogww3iis3.jpg\" style=\"height:394px; width:602px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_sjt0896i0.jpg\" style=\"height:222px; width:602px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 351,
+        "left": 5.300048828125,
+        "path": "articles/1601993355EjUuf2qX0AQwtoa.jpg",
+        "top": 16,
+        "totalHeight": 423,
+        "totalWidth": 647,
+        "watermark_path": "articles/watermark-1601993355EjUuf2qX0AQwtoa.jpg",
+        "width": 624
+    },
+    "post_date": "2020-10-06T15:49:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/Uwssnidve0SY5t4/status/1312347054442774528",
+            "name": "المهندس سعد الشمري",
+            "path": "published/0_1601993354_ق4.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/omelbanen6/status/1311995059471089665",
+            "name": " @omelbanen6",
+            "path": "published/1_1601993355_ق4.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/photo?fbid=2992075364232538&set=basw.AbpaWVTcnNomzfyt7esazoefOksL8kda2qjV6tzInIojyuX0w3pkvJXjP06JkxwxyCzpnAsGJl85TQWIT36AcpYf3-TgFzd4GFM8ZLU4SkmQjrN9XWS2CB62kTnKd43x5NpGAifrlCJ0qtTjeTMRLtEud_RXaogT6oZ7yDJRnUjHBTTjH1t04el7rLeMrTUq0Qm_-qDgmAWve1msanld-tkaItnz-kddvUzNNjUJyg-5dqEaoP-BCu-4z-gRaRIqcejm1EFCVITc-wcOJYjTelq1&opaqueCursor=AbqQeBK6VpvHnIUTrRkJIupbKdxHp8ZnvdYCSN9SWHs_pAIH-EtiG8BbAOzd8MaQMA9Umy6e1hOz8uhr5tt7CeqM4gC9lRs5VoXHV2d5eB1I0ZYXe_5Ox2qcdqJAZjIsdpLRy1wRDqF1QnG53dtfYZd7yBFQnfVTfq2m4brRBD08-_bW_pOgcO4tC1zGlqSbrDyrPFYTk8pNJUe4Hcxa0OV5PNwy4lfS4R2G9kkpcSizZEmNZwydD2Y5K_VWUeDSgXhT_QueJDSnUQjdo6Ifmv4nXgug-khW9MUg1cpoSYj4gifVMGqJR0CElhzHVjGGzP5xGiuMTk9vYoT2e5tix3W6ALjKbiP1dC9fCMsl08LrofEaGjCln3tcF7F7ptLvKgoQXNC4NsGzO-a_YLCeIdYejShZz0cB1kxLRMDvGocgVCLdABYmZXZFMojrhH5tOVAMymX6fZ-LL2N9b5gQP94H4HjleIyMyzhp9dQQXj84r9ZBsFZx4SIWxz6t29xkt2G3Kh6bFfwbZxa_oQpAxVc6hZQEBxDTgdRs8QQteT2S26TJPYgqIlPaeE2eX2Ny3lIXGUgUj17dl7oQvcz6XgMD5FcqxkIxQtmI3opmqaAP-Pwf7SN8ZN1ZcI8eWVZ2NRuhQv6iTrcqp7xj6xTJqzZFx97kvB6mNt0dq2sN3k19KRfOpACH2tPaSiaQ8g0R9WuhKbayh0Y31zFFU_ChWVQlTFUg47gJavS6lQMs82ZDgA",
+            "name": "Ahmed M. Sultan",
+            "path": "published/2_1601993355_قققف.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/mmoo33353/status/1312795394129227776",
+            "name": "الجنرال العراقي",
+            "path": "published/3_1601993355_ق4.JPG"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.freedom-first.org/#THEWHY",
+            "name": "Freedom-first",
+            "path": "sources/0_1601994502_ثث2.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/freedomfirst?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1311480541158551552%7Ctwgr%5Eshare_3&ref_url=https%3A%2F%2Fwww.watan.com%2F2020%2F10%2F01%2FD8B4D8A7D987D8AF-D985D8A4D8AED8B1D8A9-D8A8D986-D8B3D984D985D8A7D986-D8AAD8B7D988D981-D8B4D988D8A7D8B1D8B9-D8A3D985D8B1D98AD983D8A7%2F",
+            "name": "Freedom First",
+            "path": "sources/1_1601994502_G9TN-FXI_400x400.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "حملة ترامب الانتخابية لم تنشر هذه اللافتة الدعائية",
+    "updated_at": "2020-10-06 17:41:12",
+    "url_path": "/factcheck/2020/10/06/حملة-ترامب-الانتخابية-لم-تنشر-هذه-اللافتة-الدعائية",
+    "was_notification_pushed": true
+}

@@ -1,0 +1,133 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 225,
+    "author": {
+        "fullname": "مريم هواري",
+        "id": "5e299460d4a22939983a3ec5",
+        "photo": {
+            "path": "authors/1579791192_Maryam.jpg"
+        }
+    },
+    "caption": "ترفض &amp;amp;amp;amp;quot;إسرائيل&amp;amp;amp;amp;quot; بيع طائرات F-35 للإمارات (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">جاريد كوشنر: &quot;المجموعة الّتي لا تريد أن تحصل الإمارات على طائرات F-35 الأميركية، أكثر من غيرها، هي إيران&quot;.</p>\r\n",
+    "country": "AE",
+    "created_at": "2020-08-24 15:35:06",
+    "created_by": "5f39b5a51dd585076701cb94",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5f43b3fa60211806e646bfd2",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقّق &quot;مسبار&quot; من تصريح كوشنر ووجد أنّه انتقائي، إذ أنَّ دولة الاحتلال تعارض بشكلٍ علنيٍّ بيع هذه الطائرات للإمارات. وصرّح رئيس الوزراء &quot;الإسرائيلي&quot;، بنيامين نتنياهو، بتاريخ 18 أغسطس/آب الجاري، وعقب إعلان اتفّاقية التطبيع بين الإمارات العربية المتّحدة و&quot;إسرائيل&quot;، أنّه يرفض بيع طائرات F-35 لأي دولة في الشرق الأوسط، هذا وأعلن نتنياهو مجدّدا عن رفضه للصفقة وعن عدم وجود موافقة &quot;إسرائيلية&quot; لذلك في اتّفاقية التطبيع، وذلك خلال مؤتمرٍ صحفيٍ مشترك مع وزير الخارجية الأميركي، مايك بومبيو، بتاريخ 24 أغسطس/آب الجاري، إذ عقّب بومبيو أن الولايات المتّحدة ملتزمة بالتفوّق العسكري &quot;الإسرائيلي&quot; في منطقة الشرق الأوسط، تعقيباً على الرفض &quot;الإسرائيلي&quot; للصفقة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_yb3xy74d4.jpg\" style=\"height:462px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_2ewst63tt.jpg\" style=\"height:630px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_z93pawg6g.jpg\" style=\"height:664px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_lsq151d9d.jpg\" style=\"height:392px; width:624px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">أعلن جاريد كوشنر، مستشار وصهر الرئيس الأميركي دونالد ترامب، في مقابلةٍ له على قناة CNN، وذلك تعقيباً على الأنباء عن بيع طائرات حربية أميركية من طراز F-35 للإمارات العربيّة المتّحدة، أنّ أكثر من يعارض هذه الصفقة هي إيران، وذلك لأنهم يقعون عبر مضيق هرمز، وأضاف أن &quot;اتّفاقية السلام بين إسرائيل والإمارات يجب أن تزيد من احتمالية حصول الإمارات على هذه الطائرات&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_7cb7k5vcu.jpg\" style=\"height:864px; width:618px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_5v6fxg46s.jpg\" style=\"height:805px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_qhqe843in.jpg\" style=\"height:864px; width:554px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1598272505GettyImages-1181924706.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1598272505GettyImages-1181924706.jpg",
+        "width": 752
+    },
+    "post_date": "2020-08-24T15:30:00.000+03:00",
+    "published": [
+        {
+            "id": "5f91b672c9c0f3438265a64b",
+            "link": "https://edition.cnn.com/2020/08/23/politics/jared-kushner-israel-uae-f-35-jets/index.html",
+            "name": "CNN",
+            "origin": "",
+            "path": "sources/848f9d400b2112d59dbbe7be324fdfc49dec86e4.jpg"
+        },
+        {
+            "id": "5f91baf8c71c4f5bf8176297",
+            "link": "http://mubasher.aljazeera.net/news/%D9%83%D9%88%D8%B4%D9%86%D8%B1-%D9%8A%D8%AA%D8%AD%D8%AF%D8%AB-%D8%B9%D9%86-%D8%A5%D9%85%D9%83%D8%A7%D9%86%D9%8A%D8%A9-%D8%A8%D9%8A%D8%B9-%D9%85%D9%82%D8%A7%D8%AA%D9%84%D8%A7%D8%AA-%D8%A5%D9%81-35-%D9%84%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%8A-%D9%85%D8%A7-%D8%B9%D9%84%D8%A7%D9%82%D8%A9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D8%9F",
+            "name": "الجزيرة",
+            "origin": "",
+            "path": "published/1_1598272768_aljazeera.jpg"
+        },
+        {
+            "id": "5f91baf8d71c36491143fcdc",
+            "link": "https://www.almayadeen.net/news/politics/1418447/%D9%83%D9%88%D8%B4%D9%86%D8%B1--%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85-%D9%85%D8%B9--%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84--%D9%8A%D8%B2%D9%8A%D8%AF-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84-%D8%AD%D8%B5%D9%88%D9%84-%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B9",
+            "name": "الميادين",
+            "origin": "",
+            "path": "published/2_1598272768_almayadeen.jpg"
+        },
+        {
+            "id": "5f91baf8c7ba1d21484d99b8",
+            "link": "https://ramallah.news/post/164844/%D9%83%D9%88%D8%B4%D9%86%D9%8A%D8%B1-%D9%8A%D8%B9%D9%84%D9%86-%D8%B9%D9%86-%D8%A7%D9%84%D9%85%D9%83%D8%A7%D9%81%D8%A3%D8%A9-%D8%A7%D9%84%D8%A7%D9%85%D8%B1%D9%8A%D9%83%D9%8A%D8%A9-%D9%84%D9%84%D8%A7%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D8%B9%D9%87%D8%A7-%D9%85%D8%B9-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84",
+            "name": "رام الله الإخباري",
+            "origin": "",
+            "path": "published/3_1598272768_رام الله الاخباري.jpg"
+        },
+        {
+            "id": "5f913aca80af35113500f289",
+            "link": "https://arabic.rt.com/middle_east/1147101-%D9%83%D9%88%D8%B4%D9%86%D8%B1-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%85-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D9%88%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84-%D8%AD%D8%B5%D9%88%D9%84%D9%87%D8%A7-%D9%85%D9%82%D8%A7%D8%AA%D9%84%D8%A7%D8%AA-f-35/",
+            "name": "روسيا اليوم",
+            "origin": "",
+            "path": "sources/503885256032733240e36b9c7b4ab253a71ee546.jpg"
+        },
+        {
+            "id": "5f91baf886003f7c6a56ea59",
+            "link": "https://alkhaleejonline.net/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9/%D9%83%D9%88%D8%B4%D9%86%D8%B1-%D8%A7%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D8%B9-%D9%8A%D8%B2%D9%8A%D8%AF-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D8%AD%D8%B5%D9%88%D9%84-%D8%A3%D8%A8%D9%88%D8%B8%D8%A8%D9%8A-%D8%B9%D9%84%D9%89-%D8%A5%D9%81-35",
+            "name": "الخليج أونلاين",
+            "origin": "",
+            "path": "published/5_1598272768_الخليج اونلاين.jpg"
+        }
+    ],
+    "result": "selective",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f91baf89c400c18d97f98b7",
+            "link": "https://twitter.com/Reuters/status/1295772446675664896",
+            "name": "REUTERS",
+            "origin": "",
+            "path": "sources/0_1598272505_reuters.jpg"
+        },
+        {
+            "id": "5f91baf82a6e68373f0fba05",
+            "link": "https://twitter.com/newsisrael13/status/1295644142199083008",
+            "name": "13 News",
+            "origin": "",
+            "path": "sources/1_1598272768_13 News.jpg"
+        },
+        {
+            "id": "5f904844e62195238e717021",
+            "link": "https://arabic.cnn.com/middle-east/article/2020/08/24/pompeo-israel-uae-natanyahu-peace-agreement-middle-east",
+            "name": "CNN Arabic",
+            "origin": "",
+            "path": "sources/698e6d163f3b59c89a74c9d76e013e3a68b0de7a.jpg"
+        },
+        {
+            "id": "5f91baf985c9fb2f0d4b500b",
+            "link": "https://news.walla.co.il/item/3382292",
+            "name": "Walla News",
+            "origin": "",
+            "path": "sources/3_1598272768_walla news.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "تصريح انتقائي لكوشنر عن الجهات الرافضة لصفقة مقاتلات إف-35",
+    "updated_at": "2020-10-22 20:01:45",
+    "url_path": "/factcheck/2020/08/24/تصريح-انتقائي-لكوشنر-عن-بيع-طائرات-f-35-للإمارات"
+}

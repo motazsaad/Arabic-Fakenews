@@ -1,0 +1,112 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 16521,
+    "author": {
+        "fullname": "أحمد بن خميس الفريقي",
+        "id": "5eb96d68db29164cdf087404",
+        "photo": {
+            "name": "1589210472_888.jpg",
+            "path": "authors/1589210472_888.jpg"
+        }
+    },
+    "caption": "نفى اللاعب هذه الشائعة (Getty)",
+    "category": "Sports",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">سامي الجابر رئيساً لنادي نيوكاسل الإنجليزي.</p>\r\n",
+    "country": "SA",
+    "created_at": "2020-05-13 13:06:37",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ebbc6addb291617cb279163",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الخبر المتداول وتبين أنه زائف وفقاً لتصريحات سامي الجابر، الذي نفى هذه الشائعة لقناة <a href=\"iframe%20width=%22560%22%20height=%22315%22%20src=%22https:/www.youtube.com/embed/FnXd7kXcN_k%22%20frameborder=%220%22%20allow=%22accelerometer;%20autoplay;%20encrypted-media;%20gyroscope;%20picture-in-picture%22%20allowfullscreen%3e%3c/iframe\" style=\"color:#0563c1; text-decoration:underline\">روتانا خليجية</a> &quot;تفاجأت بشائعة اقترابي من تولّي منصب في نادي نيوكاسل مثل الجميع&quot;<span dir=\"LTR\">.</span> وأضاف &quot;لم أتلقَّ أيّ عروض رسمية، ولم يتحدث معي أحد بشأن تولي منصب في نادي نيوكاسل&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img alt=\"image.jpg\" src=\"https://images-prod.misbar.com/articlebody/investigation_k6ykb6azn.jpg\" style=\"height:418px; width:438px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "سامي الجابر",
+        "كأس العالم",
+        "نيوكاسل",
+        "الدوري الإنجليزي"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات على مواقع التواصل الاجتماعي إضافة إلى مواقع إعلامية أخرى، خبراً ادّعت فيه تولّي لاعب كرة القدم السعودي سابقاً، سامي الجابر،&nbsp; منصباً كبيراً في إدارة نادي&nbsp; نيوكاسل الإنجليزي، وذلك عقب الأخبار التي تتوقّع <a href=\"https://www.theguardian.com/football/2020/apr/14/newcastle-owner-mike-ashley-in-advanced-talks-to-sell-club-for-350m\" style=\"color:#0563c1; text-decoration:underline\">بيع النادي</a> إلى مجموعة من المستثمرين السعوديّين<span dir=\"LTR\"> .</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img alt=\"image.jpg\" src=\"https://images-prod.misbar.com/articlebody/origin_ggpv16erk.jpg\" style=\"height:456px; width:398px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img alt=\"image.jpg\" src=\"https://images-prod.misbar.com/articlebody/origin_z4cmejzmc.jpg\" style=\"height:476px; width:430px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img alt=\"image.jpg\" src=\"https://images-prod.misbar.com/articlebody/origin_bze33ut6x.jpg\" style=\"height:351px; width:422px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 354,
+        "left": 2.5999755859375,
+        "path": "articles/1589364396GettyImages-71221384.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 635,
+        "watermark_path": "articles/watermark-1589364396GettyImages-71221384.jpg",
+        "width": 630
+    },
+    "post_date": "2020-05-13T12:59:00.000+03:00",
+    "published": [
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=10218581395898719&id=1011261268",
+            "name": " محمد بشير ساسي",
+            "path": "published/0_1589364395_محمد بشير.jpg"
+        },
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=156982922480735&id=106236487555379",
+            "name": "يلا شوت",
+            "path": "published/1_1589364395_يا شوت.jpg"
+        },
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=557019998292128&id=156583138335818",
+            "name": "Rta7 Sport",
+            "path": "published/2_1589364395_rta7.jpg"
+        },
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=3026001164124759&id=1430175877040637",
+            "name": "Amipro",
+            "path": "published/3_1589364395_amipro.jpg"
+        },
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=2916755145069482&id=100002050761617",
+            "name": "ناصر الدوسري",
+            "path": "published/4_1589364395_ناصر الدوسري.jpg"
+        },
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=155788429268079&id=101918101321779",
+            "name": "نواف العقيل",
+            "path": "published/5_1589364395_نواف العقيل.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=FnXd7kXcN_k&feature=share&fbclid=IwAR00bcLWOuTAe053_Fqz9tpEV5sJUhM2AnHuUqOWnm2kKmt6gP4eNGvlQ-k ",
+            "name": "روتانا خليجية",
+            "path": "sources/0_1589364395_خليجية.jpg"
+        },
+        {
+            "link": "http://www.alkhaleej.ae/sports/page/b19d3e02-658b-403f-bcf2-a2728b724455 ",
+            "name": "صحيفة الخليج",
+            "path": "sources/1_1589364395_صحيفة الخليج.jpg"
+        },
+        {
+            "link": "https://alkhaleejonline.net/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/%D8%B3%D8%A7%D9%85%D9%8A-%D8%A7%D9%84%D8%AC%D8%A7%D8%A8%D8%B1-%D9%8A%D9%83%D8%B4%D9%81-%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D8%AA%D9%88%D9%84%D9%8A%D9%87-%D9%85%D9%86%D8%B5%D8%A8%D8%A7%D9%8B-%D9%81%D9%8A-%D9%86%D9%8A%D9%88%D9%83%D8%A7%D8%B3%D9%84?fbclid=IwAR1hsFvHnzZ0ywpHX_RO3H6-lQ8YFLMM9EeLcDo4Ih2XC5nDRR3lRuoU0Y4",
+            "name": "الخليج أونلاين",
+            "path": "sources/2_1589364395_الخليج أونلاين.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "سامي الجابر رئيساً لنادي نيوكاسل الإنجليزي.. خبر زائف",
+    "updated_at": "2020-09-25 07:51:07",
+    "url_path": "/factcheck/2020/05/13/سامي-الجابر-رئيسا-لنادي-نيوكاسل-الإنجليزي-خبر-زائف"
+}

@@ -1,0 +1,94 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 679,
+    "author": {
+        "fullname": "جهاد جمال",
+        "id": "5f2149e9163be3072c377619",
+        "photo": {
+            "name": "1596017128_50.jpg",
+            "path": "authors/1596017128_50.jpg"
+        }
+    },
+    "caption": "صُوّر في العاصمة الإسبانية مدريد (يوتيوب)",
+    "category": "Travel",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">بعد نقله للفريق الجزائري إلى هولندا، فيديو لطاقم الطائرة أثناء تقديمه عرضاً فلسطينياً في ملعب كرة قدم قبل بدء المباراة.</p>\r\n",
+    "country": "DZ",
+    "created_at": "2020-08-26 15:44:53",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f46594560211806ef6544d7",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقَّق &quot;مسبار&quot; من المقطع المتداول واتَّضح أنه مضلل، إذ تعود الرقصة لطاقم طائرة على خطوط الملكية الأردنية، وليس لطاقم طائرة جزائري كما ادعى ناشرو الخبر.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">كما ونشرت <a href=\"https://m.facebook.com/story.php?story_fbid=1530135923663242&amp;id=186193984724116\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">الصفحة الرسمية</a> للخطوط الجوية الملكية الأردنية مقطع الفيديو، الذي صُوّر في العاصمة الإسبانية مدريد، في ملعب بوتاركي البلدي تحديداً.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"Picture_x0020_3\" src=\"https://images-prod.misbar.com/articlebody/investigation_drqzmux52.jpg\" style=\"height:391.2pt; width:409.2pt\" /> </span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات وحسابات على مواقع التواصل الاجتماعي، حديثاً، مقطع فيديو لطاقم طائرة جزائري يقدم عرضاً فلسطينياً لرقصة الدبكة الشعبية قبل بدء مباراة في ملعب كرة قدم، بعد إيصال الفريق الجزائري لكرة القدم إلى هولندا.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img id=\"صورة_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/origin_zoacp9bb3.jpg\" style=\"height:442.2pt; width:391.2pt\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img id=\"Picture_x0020_2\" src=\"https://images-prod.misbar.com/articlebody/origin_6z300kki1.jpg\" style=\"height:355.8pt; width:403.2pt\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 380,
+        "left": 36.01666259765625,
+        "path": "articles/1598445893Annotation 2020-08-26 154001.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 747,
+        "watermark_path": "articles/watermark-1598445893Annotation 2020-08-26 154001.jpg",
+        "width": 675
+    },
+    "post_date": "2020-08-26T15:41:00.000+03:00",
+    "published": [
+        {
+            "link": "https://m.facebook.com/groups/253145032341191?view=permalink&id=385332475789112",
+            "name": "محمد جبران ",
+            "path": "published/0_1598446004_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100011502485756/videos/1142329562827116/",
+            "name": "كريمة عماد ",
+            "path": "published/1_1598446004_facebook.jpg"
+        },
+        {
+            "link": "https://m.facebook.com/groups/1236015543195666?view=permalink&id=1883367428460471",
+            "name": "ابو وسام دمحمد زعل ",
+            "path": "published/2_1598446004_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Camps202/videos/299981224563424/",
+            "name": "المخيم الجديد",
+            "path": "published/3_1598446099_facebook.jpg"
+        },
+        {
+            "link": "https://twitter.com/mmokhalalaty/status/1296153594480275457",
+            "name": "Mohammed Mokhalalaty",
+            "path": "published/4_1598446099_twitter.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://youtu.be/S0yJyjfBq8g",
+            "name": "Royal Jordanian ",
+            "path": "sources/0_1598445893_rj.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذا الفيديو لطاقم طائرة الملكية الأردنية وليس طاقم طيران جزائري",
+    "updated_at": "2020-09-25 18:11:49",
+    "url_path": "/factcheck/2020/08/26/هذا-الفيديو-لطاقم-طائرة-الملكية-الأردنية-وليس-طاقم-طيران-جزائري"
+}

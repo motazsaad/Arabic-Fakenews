@@ -1,0 +1,132 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 163,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "انتشر منه أكثر من نسخة قبل تسعة أعوام (يوتيوب)",
+    "category": "Entertainment",
+    "claim": "<p>ظهور جسم غريب فوق المسجد الأقصى بالقدس.</p>\r\n",
+    "country": "PS",
+    "created_at": "2020-12-14 17:03:11",
+    "created_by": "5f39b1ee1dd5850789476b61",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 2,
+    "id": "5fd7709f2aac530c9d52a684",
+    "investigation": "<p>تحقّق &quot;<a href=\"https://misbar.com/\">مسبار</a>&quot; من المقطع، ووجده قديم يعود إلى العام 2011 وقد تناولته وسائل الإعلام الفلسطينية والإسرائيلية بشكل موسع وقتها، وقدمت له عدة تفسيرات، أحدها وأكثرها انتشاراً كونه مفبرك عبر برامج التعديل التي عبرها أُدخل&nbsp;مؤثراً ضوئياً على المقطع، وأخرى قالت إنه منطاد عسكري إسرائيلي، وكان انتشر منه أكثر من نسخة&nbsp;قبل تسعة أعوام أحدها يصاحبه حوار باللغة الإنجليزية والآخر وهو الذي عاد انتشاره الآن يحيط به صوت حوار باللغة العبرية.</p>\r\n\r\n<p><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/jH_osBw-Qmk\" width=\"560\"></iframe></p>\r\n\r\n<p><img src=\"https://images-prod.misbar.com/articlebody/investigation_i1au2bv3m.jpg\" /></p>\r\n\r\n<p>اقرأ/ي أيضاً:</p>\r\n\r\n<p><a href=\"https://misbar.com/factcheck/2020/09/16/%D9%84%D9%8A%D8%B3-%D8%B5%D8%AD%D9%86%D8%A7-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A7-%D9%85%D8%A7-%D8%B4%D8%A7%D9%87%D8%AF%D9%87-%D8%B3%D9%83%D8%A7%D9%86-%D9%88%D9%84%D8%A7%D9%8A%D8%A9-%D9%86%D9%8A%D9%88%D8%AC%D8%B1%D8%B3%D9%8A-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9\">ليس صحناً طائراً شاهده سكان ولاية نيوجرسي الأميركية</a></p>\r\n\r\n<p><a href=\"https://misbar.com/factcheck/2020/11/27/%D8%A7%D9%84%D8%B9%D8%AB%D9%88%D8%B1-%D8%B9%D9%84%D9%89-%D8%AC%D8%B3%D9%85-%D8%BA%D8%B1%D9%8A%D8%A8-%D9%81%D9%8A-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D8%A7-%D9%84%D9%83%D9%86%D9%87-%D9%84%D9%8A%D8%B3-%D9%85%D9%86-%D8%A7%D9%84%D9%81%D8%B6%D8%A7%D8%A1\">العثور على جسم غريب في أميركا لكنه ليس من الفضاء</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "الاقصى",
+        "القدس",
+        "جسم",
+        "غريب"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p>تداولت عدة حسابات وصفحات على مواقع التواصل الاجتماعي في الساعات الأخيرة مقطع فيديو، قالت أنه يظهر جسم غريب يطير فوق المسجد الأقصى، ثم يعود إلى السماء بسرعة كبيرة، ولاقى المقطع كثير من التفاعل.</p>\r\n\r\n<p><img src=\"https://images-prod.misbar.com/articlebody/origin_vwg7xnoa0.jpg\" /></p>\r\n\r\n<p><img src=\"https://images-prod.misbar.com/articlebody/origin_4d0ed2r4j.jpg\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 321,
+        "left": 12.032958984375,
+        "path": "articles/1607954590بابلا.JPG",
+        "top": 83.7060546875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-1607954590بابلا.JPG",
+        "width": 571
+    },
+    "post_date": "2020-12-13T16:47:00.000+03:00",
+    "published": [
+        {
+            "id": "5fd77070b6b6315e0d192fee",
+            "link": "https://www.facebook.com/100009473585319/videos/2913236592335432",
+            "name": "قنديل مسالمه",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5fd770709aac7c70c5485ac4",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=105769364742683&id=105253184794301",
+            "name": "سلطان ابو بكر",
+            "origin": "facebook",
+            "path": "sources/d41b5641225c2c719800eee56d3ea73d439ca1c7.jpg"
+        },
+        {
+            "id": "5fd77070eeb82770e7768d54",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=214898363437569&id=100047522198798",
+            "name": "يطا الامل يطا",
+            "origin": "facebook",
+            "path": "sources/d41b5641225c2c719800eee56d3ea73d439ca1c7.jpg"
+        },
+        {
+            "id": "5fd77070d5b41669e81d5e55",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=150188446854407&id=100055897563746",
+            "name": "نسمات ريف يطا",
+            "origin": "facebook",
+            "path": "sources/d41b5641225c2c719800eee56d3ea73d439ca1c7.jpg"
+        },
+        {
+            "id": "5fd77070fd10e527c072fa26",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=433001771200316&id=100034714896315",
+            "name": "كريم عمران",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5fd77071330dc22c4d6f9357",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1797278507089788&id=100004229675528",
+            "name": "ستوديو يافا",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f8eb18ba3818a4eb81ad3d2",
+            "link": "https://www.youtube.com/watch?v=jH_osBw-Qmk",
+            "name": "قناة يوتيوب",
+            "origin": "",
+            "path": "published/7_1603128187_72cba5bc67b31d9d753cf43c35e93c59a1b0f98d.jpg"
+        },
+        {
+            "id": "5f91bac67d9dcf18836b9f1f",
+            "link": "https://www.wafa.ps/ar_page.aspx?id=fqccRBa568795193637afqccRB",
+            "name": "وكالة الأنباء الفلسطينية",
+            "origin": "",
+            "path": "sources/2_1580214485_وكالة الأنباء الفلسطينية وفا - logo.jpg"
+        },
+        {
+            "id": "5fd0a7e0512d37712f19a755",
+            "link": "https://www.maannews.net/news/356025.html",
+            "name": "وكـالـة مـعـا الاخـبـارية",
+            "origin": "",
+            "path": "sources/5269dc09168db8e17723e1ad90d05997a654c436.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "فيديو الجسم الغريب الذي يومض فوق الأقصى.. قديم",
+    "updated_at": "2020-12-14 17:03:26",
+    "url_path": "/factcheck/2020/12/14/فيديو-الجسم-الغريب-الذي-يومض-فوق-الأقصى-قديم-5fd7709e5d47b",
+    "was_notification_pushed": false
+}

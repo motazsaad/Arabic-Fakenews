@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 274,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "مقطع الفيديو لانفجار في القاهرة (يوتيوب)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">مقطع فيديو لانفجار في مستودع أسلحة لقوات&nbsp;سوريا الديمقراطية&nbsp;(قسد) في مدينة الحسكة شمال شرقي سورية.</p>\r\n",
+    "country": "EG",
+    "created_at": "2020-07-16 22:13:11",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f10a6c7163be31249042685",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">الفيديو مضلل، إذ يعود إلى حادث حريق خط بترول على طريق القاهرة الإسماعيلية الصحراوى، بتاريخ 14 يوليو/تموز الجاري.<br />\r\n&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/-4V1PLATmp8\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول حسابات وصفحات على مواقع التواصل الاجتماعي، يوم 15 يوليو/تموز الجاري، مقطع فيديو تدّعي أنه لانفجار في مستودع أسلحة بمدينة الحسكة شمال شرقي سورية.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FA5YAR%2Fvideos%2F284819319427592%2F&amp;show_text=0&amp;width=261\" style=\"border:none;overflow:hidden\" width=\"261\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FA5YAR%2Fvideos%2F284819319427592%2F&amp;show_text=0&amp;width=261\" style=\"border:none;overflow:hidden\" width=\"261\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 328,
+        "left": 13.10528564453125,
+        "path": "articles/1594926790unnamed.jpg",
+        "top": 20.746826171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-1594926790unnamed.jpg",
+        "width": 583
+    },
+    "post_date": "2020-07-16T19:44:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/A5YAR/videos/284819319427592/",
+            "name": "صفحة اخبار اهل العراق",
+            "path": "published/0_1594926790_106195728_133275185092027_2087624591590667173_n.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=-8OfejOUo-c",
+            "name": "سوريا الاسد الجيش العربي السوري.",
+            "path": "published/1_1594926790_Capture.jpg"
+        },
+        {
+            "link": "https://twitter.com/ueVMmcy2OrB2ySX/status/1283536421157044225",
+            "name": "علي",
+            "path": "published/2_1594926790_default_profile_400x400.jpg"
+        },
+        {
+            "link": "https://twitter.com/6A06kao76qXNGYG/status/1283487392398286848",
+            "name": "جار البحر",
+            "path": "published/3_1594926790_sfx3XCfl_400x400.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=_KnlPFlhhK8",
+            "name": "مصراوي",
+            "path": "sources/0_1594926790_4f2bKqTJ.jpg"
+        },
+        {
+            "link": "https://www.aljazeera.net/news/politics/2020/7/15/%d8%a8%d8%a7%d9%84%d9%81%d9%8a%d8%af%d9%8a%d9%88-%d8%ad%d8%b1%d9%8a%d9%82-%d9%87%d8%a7%d8%a6%d9%84-%d8%ac%d8%b1%d8%a7%d8%a1-%d9%86%d9%81%d8%b7%d9%8a-%d9%82%d8%b1%d8%a8",
+            "name": "قناة الجزيرة",
+            "path": "sources/1_1594926790_téléchargement.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذا الفيديو ليس لانفجار وقع في مدينة الحسكة شرق سورية",
+    "updated_at": "2020-09-25 17:21:05",
+    "url_path": "/factcheck/2020/07/16/هذا-الفيديو-ليس-لانفجار-وقع-في-مدينة-الحسكة-شرق-سوريا"
+}

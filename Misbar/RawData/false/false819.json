@@ -1,0 +1,72 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 1
+    },
+    "amount_sources": 0,
+    "amount_visits": 21031,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "caption": "كانت المملكة أعلنت في وقت سابق تعليق سفر المواطنين والمقيمين مؤقتاً، وتعليق الرحلات الجوية إلى عدد من الدول (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">أعلنت الإدارة العامة للجوازات على إثر انتشار فايروس كورونا (كوفيد-19)، عن إمكانية إرجاع جميع المقيمين من مختلف الجنسيات إلى بلدانهم في حال طالت أزمة الفايروس في المملكة والعالم.</p>\r\n",
+    "country": "",
+    "created_at": "2020-04-01 21:33:45",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e84de89db2916308a559b73",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الصورة المنتشرة والمنسوبة للإدارة العامة للجوازات زائفة ومفبركة، إذ لم تقم الإدارة العام للجوازات في المملكة بإصدار أيَّ بيانٍ تقول فيه إنها تنوي ترحيل الوافدين من المملكة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وكانت المملكة أعلنت في وقت سابق تعليق سفر المواطنين والمقيمين مؤقتاً، وتعليق الرحلات الجوية إلى عدد من الدول.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_ageqs1u9j.jpg\" style=\"height:485px; width:642px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تناقل مستخدمون لتطبيق التواصل واتساب، صورة منسوبة إلى الإدارة العامة للجوازات في المملكة العربية السعودية، وذكر ناشروها إنها إعلان من الحكومة السعودية بأنها قد تلجأ إلى ترحيل المقيمين من مختلف الجنسيات إلى بلدانهم مع التكفل بإجراءات السفر ومصاريفه.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_vnaeqtpob.jpg\" style=\"height:874px; width:572px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_pcwz434au.jpg\" style=\"height:839px; width:616px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1585776847GettyImages-1203954149.jpg",
+        "watermark_path": "articles/watermark-1585776847GettyImages-1203954149.jpg"
+    },
+    "post_date": "2020-04-01T21:07:00.000+03:00",
+    "published": [
+        {
+            "link": "https://web.whatsapp.com/",
+            "name": "مجموعات واتس آب",
+            "path": "published/0_1585766025_whatsapp.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.spa.gov.sa/2046764",
+            "name": "وكالة الأنباء السعودية",
+            "path": "sources/0_1585766025_وكالة-الأنباء-السعودية.JPG"
+        },
+        {
+            "link": "https://www.gdp.gov.sa/Ar/MediaCenter/News/Pages/default.aspx",
+            "name": "المديرية العامة للجوازات - السعودية",
+            "path": "sources/1_1585766025_المديرية-العامة-للجوازات.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "حقيقة الخبر المنتشر عن ترحيل المقيمين في السعودية إلى بلادهم",
+    "updated_at": "2020-09-25 01:04:53",
+    "url_path": "/factcheck/2020/04/01/حقيقة-الخبر-المنتشر-عن-ترحيل-المقيمين-في-السعودية-إلى-بلادهم"
+}

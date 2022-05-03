@@ -1,0 +1,128 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 1,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 16580,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الصورة من دبي بعد عاصفة رملية ضربت المنطقة (مواقع التواصل الاجتماعي)",
+    "category": "News",
+    "claim": "<p>صورة تُظهر كيف أنّ الطرق إلى دبي باتت مغطاة بالرمال بسبب&nbsp;انتشار كورونا وفرض حظر التجوال.</p>\r\n",
+    "country": "AE",
+    "created_at": "2020-05-28 13:34:27",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ecf93b3db29164ab022e616",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة المتداولة، ووجد أنّها بالفعل تصوّر إحدى الطرق التي غطتها الرمال في إمارة دبي. إلّا أن سبب ذلك لا يعود إلى تطبيق الإجراءات الاحترازية لمنع انتشار فايروس كورونا (كوفيد_19)، إنمّا بسبب عاصفة رملية ضربت تلك المنطقة في أوائل شهر مايو/أيار الجاري، ولا علاقة لفايروس كورونا بالأمر. وتجدر الإشارة أنّ هبوب العواصف الرملية في منطقة الخليج العربي أمر مألوف ويتكرر سنوياً.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"594\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FAmazingPlanetOfficial%2Fposts%2F1639172102902184&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/f94eQciLAu8\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت حسابات وصفحات على موقعي التواصل الاجتماعي فيسبوك وتويتر، صورة ادّعت أنها تُظهر كيف غطّت الرمال الطرق في دبي، وذلك بعد عّدة أشهر من انتشار فايروس كورونا وفرض حظر التجوال.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ymlpqj9vz.jpg\" style=\"height:543px; width:454px\" /></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"632\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D893975284402136%26id%3D100013690182346&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"rtl\">قريب انشالله راح تندثرو وتكون دولة الإمارات شيئ من الماضي ويرجع كل فرع الى اصله!<br />\r\nلاحظ الصورة هذي ليست فوتوشوب طرقات في دبي بسبب الحظر المفروض بسبب فيروس <a href=\"https://twitter.com/hashtag/%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7?src=hash&amp;ref_src=twsrc%5Etfw\">#كورونا</a> اندثرت وغطتها الرمال! <a href=\"https://t.co/x9OYLSzy7k\">pic.twitter.com/x9OYLSzy7k</a></p>\r\n&mdash; ﻫﺸﺎﻡ ﺍﻟﻤﻬﻨﺪﺱ&reg;️ (@saudicoolx) <a href=\"https://twitter.com/saudicoolx/status/1264667589004926981?ref_src=twsrc%5Etfw\">May 24, 2020</a></blockquote>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 189,
+        "left": 1.98431396484375,
+        "path": "articles/159066206746706075_2147241098826021_3569481868698976256_n.jpg",
+        "top": 6.4912109375,
+        "totalHeight": 423,
+        "totalWidth": 342,
+        "watermark_path": "articles/watermark-159066206746706075_2147241098826021_3569481868698976256_n.jpg",
+        "width": 336
+    },
+    "post_date": "2020-05-28T13:10:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/alhadath.tv/posts/2997793716951569?__tn__=-R",
+            "name": "قناة الحدث",
+            "path": "published/0_1590662066_قناة الحدث.jpg"
+        },
+        {
+            "link": "https://twitter.com/taizmdreed/status/1265083132845449217",
+            "name": "Taiz Madrid",
+            "path": "published/1_1590662066_Taiz Madrid.jpg"
+        },
+        {
+            "link": "https://twitter.com/saudicoolx/status/1264667589004926981",
+            "name": "هشام المهندس",
+            "path": "published/2_1590662066_هشام المهندس.jpg"
+        },
+        {
+            "link": "https://twitter.com/Peace_2216/status/1264775184663404546",
+            "name": "محمد",
+            "path": "published/3_1590662066_محمد.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/yaslim.bafkir.98/posts/146082597091254?hc_location=ufi",
+            "name": "Yaslim Bafkir",
+            "path": "published/4_1590662066_Yaslim Bafkir.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/maman.adamyasmine.1/posts/219768309460902?__tn__=-R",
+            "name": "Mama Adam Yasmine",
+            "path": "published/5_1590662066_Facebook_logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=893975284402136&id=100013690182346&hc_location=ufi",
+            "name": "عبد الجليل أحمد القفاز",
+            "path": "published/6_1590662066_عبد الجليل أحمد القفاز.jpg"
+        },
+        {
+            "link": "https://twitter.com/abdualansi4/status/1264647310119768064",
+            "name": "abdu alansi",
+            "path": "published/7_1590662066_abdu alansi.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/AmazingPlanetOfficial/photos/a.701015630051174/1639172066235521/?type=3&theater",
+            "name": "Amazing Planet",
+            "path": "sources/0_1590662066_Amazing Planet.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/dubaipolicehq/posts/3136860933039018",
+            "name": "شرطة دبي",
+            "path": "sources/1_1590662066_شرطة دبي.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=f94eQciLAu8&feature=emb_logo",
+            "name": "The Drone Collective",
+            "path": "sources/2_1590662067_The Drone Collective.jpg"
+        },
+        {
+            "link": "https://www.reddit.com/r/HumanForScale/comments/8odlbh/postdubai_sandstorm/",
+            "name": "Reddit",
+            "path": "sources/3_1590662067_reddit.JPG"
+        },
+        {
+            "link": "https://www.facebook.com/CosmosUp/posts/1649424395206336",
+            "name": "CosmoUp",
+            "path": "sources/5_1590662067_CosmoUp.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "بسبب كورونا، الطرق إلى دبي مغطاة بالرمال.. هل الخبر صحيح؟",
+    "updated_at": "2020-09-25 17:24:15",
+    "url_path": "/factcheck/2020/05/28/بسبب-كورونا-الطرق-إلى-دبي-مغطاة-بالرمال-هل-الخبر-صحيح"
+}

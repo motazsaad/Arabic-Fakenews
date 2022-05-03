@@ -1,0 +1,119 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 9163,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "التقطت الصور في القدس وتركيا (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">خبراء روس يعثرون على عملات ذهبية في ريف محافظة حماة الغربي وسط سورية.</p>\r\n",
+    "country": "SY",
+    "created_at": "2020-09-01 15:47:03",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5f4e42c79c25c90a431ee967",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصور ووجد أنها مضللة، وليست لعملات ذهبية عثر عليها في سورية.&nbsp;وتبين أنها تعود إلى أماكن وتواريخ مختلفة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;فصورة <a href=\"http://www.sanalbasin.com/eski-van-valisi-acikladi-altin-dolu-magara-bulundu-16949389/\" style=\"color:#0563c1; text-decoration:underline\">السبائك الذهبية</a>، عثر عليها داخل كهف في منطقة &quot;<span dir=\"LTR\" lang=\"EN-US\"><span style=\"background-color:white\">G&ouml;yn&uuml;kKanyonu</span></span><span style=\"background-color:white\">&quot; التركية </span>بتاريخ <span dir=\"LTR\" lang=\"EN-US\">29</span> ديسمبر/كانون الأول عام 2016.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img id=\"صورة_x0020_12\" src=\"https://images-prod.misbar.com/articlebody/investigation_yzldscqpb.jpg\" style=\"height:556.5pt; width:470.25pt\" /> </span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">أمّا <a href=\"http://edition.cnn.com/2008/WORLD/meast/12/22/israel.rare.coins/index.html\" style=\"color:#0563c1; text-decoration:underline\">صورة العملات</a>،التي نشرتها قناة CNN،&nbsp;فهي مجموعة &nbsp;ذهبية نادرة يبلغ عددها 264 قطعة، عثرت عليها متطوعة بريطانية في مدينة القدس بتاريخ 21 ديسمبر/كانون الأول عام 2008.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img id=\"صورة_x0020_13\" src=\"https://images-prod.misbar.com/articlebody/investigation_7a2kzsdgt.jpg\" style=\"height:258pt; width:470.25pt\" /> </span></strong></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": false,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات وحسابات على موقع فيسبوك، حديثاً، صوراً ادعت أنها لعملات ذهبية عثر عليها&nbsp;خبراء روس في قرية حورته شمال غرب مدينة حماة السورية. ونسبت بعض الصفحات الخبر لقناة CNN.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img id=\"صورة_x0020_9\" src=\"https://images-prod.misbar.com/articlebody/origin_0zi8h648l.jpg\" style=\"height:510pt; width:470.25pt\" /> <img id=\"صورة_x0020_10\" src=\"https://images-prod.misbar.com/articlebody/origin_czz65o2dv.jpg\" style=\"height:650.25pt; width:423pt\" /> <img id=\"صورة_x0020_11\" src=\"https://images-prod.misbar.com/articlebody/origin_m3xds8nmn.jpg\" style=\"height:463.5pt; width:470.25pt\" /> </span></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 327,
+        "left": 10.10528564453125,
+        "path": "articles/1598964422118712124_3327294467331951_700316932006210345_n.jpg",
+        "top": 20.746826171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-1598964422118712124_3327294467331951_700316932006210345_n.jpg",
+        "width": 582
+    },
+    "post_date": "2020-09-01T13:17:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/groups/1484198508335350/permalink/3169689343119583/",
+            "name": "كبرياء رجل متمرد",
+            "path": "published/0_1598964421_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=362501088477026&id=100041514134576",
+            "name": "عبد القادر جابر",
+            "path": "published/1_1598964421_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/groups/721720845006154/permalink/947447225766847/",
+            "name": "حنين الماضي",
+            "path": "published/2_1598964422_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/photo.php?fbid=117684156719073&set=a.102505748236914&type=3&theater",
+            "name": "إدلب العز",
+            "path": "published/3_1598964422_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/106959104226503/photos/a.106971570891923/180294130226333/?type=3&theater",
+            "name": "شبكة فدائيين الثورة السورية",
+            "path": "published/4_1598964422_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/photo.php?fbid=312192706738746&set=a.147140516577300&type=3&theater",
+            "name": "ابو اسد الكياري",
+            "path": "published/5_1598964422_67819776_2303763929710849_8279055560511324160_o.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "http://www.sanalbasin.com/eski-van-valisi-acikladi-altin-dolu-magara-bulundu-16949389/",
+            "name": "sanalbasin",
+            "path": "sources/0_1598964422_sanalbasin_400x400.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://oxu.az/world/168381",
+            "name": "oxu.az",
+            "path": "sources/1_1598964422_dd1.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "http://edition.cnn.com/2008/WORLD/meast/12/22/israel.rare.coins/index.html",
+            "name": "cnn",
+            "path": "sources/2_1598964422_250px-Cnn_logo_red_background.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصور ليست لكنز عُثر عليه في محافظة حماة السورية",
+    "updated_at": "2020-09-25 05:08:46",
+    "url_path": "/factcheck/2020/09/01/هذه-الصور-ليست-لكنز-عثر-عليه-في-محافظة-حماة-السورية"
+}

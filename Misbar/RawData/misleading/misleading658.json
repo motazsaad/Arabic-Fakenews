@@ -1,0 +1,109 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 682,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "انتشرت الصورة منذ عام 2018 (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">صور الطفلة ميار من مدينة زوارة الليبية.</span></p>\r\n",
+    "country": "SY",
+    "created_at": "2020-09-09 16:05:54",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f58d3328b8b473d1b169434",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة المتداولة وتبين أنها مضللة، وتعود لفتاة سورية تدعى ايساجيلا. انتشرت صورها عام 2018، ولاقت إعجاباً على مواقع التواصل الاجتماعي.<br />\r\nووجد &quot;مسبار&quot; حساب خالتها على فيسبوك، التي أعادت نشر صورها وعلقت عليها &quot;ملاكي الجميل&quot;.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"801\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmaria.chamoun1%2Fposts%2F1581919141905352&amp;show_text=true&amp;width=552&amp;height=801&amp;appId\" style=\"border:none;overflow:hidden\" width=\"552\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"1.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_3hd9kgcbu.jpg\" style=\"height:474px; width:605px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"00.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_fokqafsoo.jpg\" style=\"height:439px; width:605px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات إخبارية وحسابات على موقعي فيسبوك وتويتر، صورة ادعت أنّها لطفلة ليبية تدعى ميار من مدينة زوارة، وقالت صفحات أخرى إنها لطفلة من مدينة مصراتة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_ji93omt31.jpg\" style=\"height:557px; width:457px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"0.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_jm8wcudif.jpg\" style=\"height:590px; width:443px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 341,
+        "left": 6.10528564453125,
+        "path": "articles/159965675329744825_2276841362562277_5665775762403614419_o.jpg",
+        "top": 4.746826171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-159965675329744825_2276841362562277_5665775762403614419_o.jpg",
+        "width": 607
+    },
+    "post_date": "2020-09-09T13:55:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/Libya.20K/posts/192949922222603",
+            "name": "ليبيا 20K",
+            "path": "published/0_1599656998_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/Tikballiby/posts/201092558073273",
+            "name": "تك باليبي",
+            "path": "published/1_1599656998_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/eajiltablino/posts/121607916334669",
+            "name": "عاجل ليبيا الأصلية",
+            "path": "published/2_1599656998_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/FacbookLibya/posts/189843765871203",
+            "name": "فيسبوك ليبي",
+            "path": "published/3_1599656998_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/alslem20201/status/1091814259229683713",
+            "name": "عبدالسلام رمضان الحشر $",
+            "path": "published/4_1599656998_101195326_747056042707733_6451845424750788608_o.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.vetogate.com/Section_126/%D9%85%D9%86%D9%88%D8%B9%D8%A7%D8%AA/%D8%AC%D9%85%D8%A7%D9%84-%D8%B7%D9%81%D9%84%D8%A9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%8A%D8%AC%D8%B0%D8%A8-%D8%A3%D9%86%D8%B8%D8%A7%D8%B1-%D8%B1%D9%88%D8%A7%D8%AF-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%B5%D9%88%D8%B1_3131057",
+            "name": "vetogate",
+            "path": "sources/0_1599656753_avatar_domain_vetogate.com (1).jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/maria.chamoun1",
+            "name": "Maria Shamoun",
+            "path": "sources/1_1599656753_Capture.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه صورة طفلة سورية وليست ليبية",
+    "updated_at": "2020-09-25 17:02:46",
+    "url_path": "/factcheck/2020/09/09/هذه-صورة-طفلة-سورية-وليست-ليبية",
+    "was_notification_pushed": "true"
+}

@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 166,
+    "author": {
+        "fullname": "حسام الوكيل",
+        "id": "5e7cb2a9d4a2297a3f1db883",
+        "photo": {
+            "name": "1585230505_1hGLjIBq_400x400.jpg",
+            "path": "authors/1585230505_1hGLjIBq_400x400.jpg"
+        }
+    },
+    "caption": "صورة الطفلة التي انتشرت شبه عارية في الثلوج ليست من سوريا (Getty)",
+    "category": "Lifestyle",
+    "claim": "<p dir=\"RTL\" style=\"text-align:left\"><span style=\"color:black\">صورة لطفلة سورية شبه عارية وسط الثلوج.</span></p>\r\n",
+    "country": "SY",
+    "created_at": "2021-01-05 00:57:31",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 3,
+    "feedback_pos": 2,
+    "id": "5ff38f4b7b816933db8041c0",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تحقّق &quot;</span><a href=\"https://misbar.com/\" target=\"_blank\"><span style=\"color:#3498db\">مسبار</span></a><span style=\"color:black\">&quot; من الصورة، ووجد أنها مضللة، إذ إن الصورة تعود إلى طفلة من أطفال أقلية الغجر في رومانيا خلال العام الفائت، حيث تم التقاطها وسط عدد كبير من الصور نشرها موقع قناة تلفزيونية، معلقاً&nbsp;عليها باللغة السلوفاكية&nbsp;&quot;هكذا يعيش غجر رومانيا في&nbsp;فصل الشتاء بالقرن الواحد والعشرين..صور مرعبة&quot;.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"color:black\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_rgq0xxasd.jpg\" style=\"float:left; height:551px; width:487px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">اقرأ/ي أيضا:</p>\r\n\r\n<p style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/02/16/%D8%A3%D8%B1%D8%AF%D9%88%D8%BA%D8%A7%D9%86-%D9%84%D9%85-%D9%8A%D8%B9%D9%84%D9%86-%D8%B9%D9%86-%D9%85%D9%86%D8%AD-%D9%85%D8%B3%D9%84%D9%85%D9%8A-%D8%A7%D9%84%D8%A5%D9%8A%D8%BA%D9%88%D8%B1-%D8%A7%D9%84%D8%AC%D9%86%D8%B3%D9%8A%D8%A9-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9\" target=\"_blank\"><span style=\"color:#3498db\">أردوغان لم يعلن عن منح مسلمي الإيغور الجنسية التركية</span></a></p>\r\n\r\n<p dir=\"RTL\"><a href=\"https://misbar.com/factcheck/2020/05/09/%D9%84%D9%85-%D8%AA%D9%85%D8%B7%D8%B1-%D8%AD%D8%AC%D8%A7%D8%B1%D8%A9-%D9%81%D9%8A-%D8%B1%D9%88%D9%85%D8%A7%D9%86%D9%8A%D8%A7\" target=\"_blank\"><span style=\"color:#3498db\">لم تمطر حجارة في رومانيا</span></a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "غجر رومانيا",
+        "سوريا",
+        "طفلة",
+        "الثلوج",
+        "فقر"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\"><span style=\"color:black\"><span style=\"background-color:white\"><span style=\"color:#222222\">تتداول حسابات على موقعيّ التواصل الاجتماعي فيسبوك وتويتر، حديثاً ومنذ شهور، صورة لفتاة صغيرة تقف وسط الثلج، لا ترتدي كامل ملابسها، وزعم متداولو الصورة أنها لطفلة سورية تعاني من البرد بين الثلوج في فصل الشتاء.</span></span><img src=\"https://images-prod.misbar.com/articlebody/origin_404w1v8kz.jpg\" style=\"float:left; height:406px; width:624px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"color:black\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ay4leixcm.jpg\" style=\"float:left; height:624px; width:553px\" /></span></p>\r\n\r\n<p>&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 357,
+        "left": -0.49835205078125,
+        "path": "articles/1609797451GettyImages-1135759103.jpg",
+        "top": 44.107177734375,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1609797451GettyImages-1135759103.jpg",
+        "width": 635
+    },
+    "post_date": "2021-01-04T22:18:00.000+03:00",
+    "published": [
+        {
+            "id": "5f907fdab9e81076640ce794",
+            "link": "https://twitter.com/ScreenMix/status/1345817897172668419?s=09",
+            "name": "Screen Mix",
+            "origin": "twitter",
+            "path": "sources/8cef9fdd47d8c269138c87497910913b21ca55a0.jpg"
+        },
+        {
+            "id": "5ff396c2a59f74363c6a93e1",
+            "link": "https://www.facebook.com/BordjElBahriCity.bob/posts/1682508928587211",
+            "name": "برج البحري  سيتيBordj El Bahri City",
+            "origin": "facebook",
+            "path": "sources/761564eb55c4763e38a8be9454a9197c599651a5.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5ff38f4b82b04747754d8c06",
+            "link": "https://presstv.sk/zpravy/fotogaleria-aj-takto-ziju-romovia-v-dnesnej-dobe-pozrite-si-sokujuce-zabery/",
+            "name": "PRESS.TV",
+            "origin": "",
+            "path": "sources/ce8a6abec22a00149a56ba31e954e70e41b80aab.jpg"
+        },
+        {
+            "id": "5f9446e09a0e325d9b0cf86a",
+            "link": "https://www.france24.com/ar/20190602-%D8%BA%D8%AC%D8%B1-%D8%A7%D9%84%D8%B1%D9%88%D9%85%D8%A7-%D9%8A%D8%AD%D9%84%D9%85%D9%88%D9%86-%D8%A8%D8%B1%D9%88%D9%85%D8%A7%D9%86%D9%8A%D8%A7-%D8%A8%D8%AF%D9%88%D9%86-%D8%AA%D9%85%D9%8A%D9%8A%D8%B2-%D8%A8%D9%85%D9%86%D8%A7%D8%B3%D8%A8%D8%A9-%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A8%D8%A7%D8%A8%D8%A7",
+            "name": "France 24",
+            "origin": "",
+            "path": "sources/dd8a181a96a728e93a1b73e8d009b77e101e9d18.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الطفلة الفقيرة بين الثلوج ليست سورية، بل من أقلية غجر رومانيا",
+    "updated_at": "2021-01-05 01:41:27",
+    "url_path": "/factcheck/2021/01/05/الطفلة-الفقيرة-بين-الثلوج-ليست-سورية-بل-من-أقلية-غجر-رومانيا",
+    "was_notification_pushed": true
+}

@@ -1,0 +1,104 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2637,
+    "author": {
+        "fullname": "رشيد عفيف",
+        "id": "5ec4e956db291667784c4bc4",
+        "photo": {
+            "name": "1589963094_رشيد صورة.jpg",
+            "path": "authors/1589963094_رشيد صورة.jpg"
+        }
+    },
+    "caption": "أعلنت السلطات اللبنانية أن الانفجار سببه مادة نترات الأمونيوم (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">مقطع فيديو يدّعي سقوط قنبلة هيدروجينية على مرفأ بيروت.</p>\r\n",
+    "country": "LB",
+    "created_at": "2020-08-05 17:54:55",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f2ac83f40466e07100a9a34",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقق &quot;مسبار&quot; من المقطع المصوّر ووجد أن التعليق المُرفق له زائف، وأن الجسم الذي يحاول المقطع التركيز عليه ويدعي أنه قنبلة هيدروجينية، هو مجرد طائر كان يحلق في المنطقة لحظة الانفجار. وتظهر الصور أدناه حركة الطائر أسود اللون وهو يدخل مجال تصوير الكاميرا من الجهة اليسرى ابتداء من الثانية السابعة من مقطع الفيديو، ليختفي خلف البنايات. ثم يظهر طائر مشابه بشكلٍ أكثر وضوحاً ابتداءٍ من الثانية الحادية عشرة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_s0s74nere.jpg\" style=\"height:836px; width:476px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_9w0l89ygq.jpg\" style=\"height:830px; width:471px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_p5ytpvj7y.jpg\" style=\"height:828px; width:476px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">وأِشارت التصريحات الرسمية اللبنانية أن الانفجار الذي وقع بتاريخ 4 أغسطس/آب الجاري، في مرفأ بيروت ناتج عن مادة نترات الأمونيوم المصادرة منذ سنوات والمخزنة بالميناء دون رقابة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_46m1q173m.jpg\" style=\"height:800px; width:602px\" /></p>\r\n\r\n<p><span dir=\"RTL\" lang=\"AR-SA\">وتجدر الإشارة إلى أن القنبلة الهيدروجينية تتميز بقدرة تدميرية هائلة تفوق تلك التي تتميز بها القنبلة النووية التي أسقطت على هيروشيما وناغاساكي خلال الحرب العالمية الثانية.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/073qhNnP6Yk\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت حسابات على موقع التواصل الاجتماعي فيسبوك بتاريخي 4 و5 أغسطس/آب من العام الجاري، مقطع فيديو للانفجار الذي حدث في مرفأ بيروت، مرفقاً بتعليق أنّه يُظهر سقوط قنبلة هيدروجينية على المرفأ ممّا تسبب بانفجاره.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_2axwwo0a3.jpg\" style=\"height:593px; width:566px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 148,
+        "left": 3.804351806640625,
+        "path": "articles/1596639295GettyImages-1227918726.jpg",
+        "top": 13.95068359375,
+        "totalHeight": 180,
+        "totalWidth": 270,
+        "watermark_path": "articles/watermark-1596639295GettyImages-1227918726.jpg",
+        "width": 263
+    },
+    "post_date": "2020-08-05T17:47:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/100105288435941/videos/937430960063496/",
+            "name": "المشرق نيوز",
+            "path": "published/0_1596639294_المشرق نيوز.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/1029734943853234/posts/1605823732911016/",
+            "name": "ص/ اعلام شرق صلاح الدين",
+            "path": "published/1_1596639294_شرق صلاح الدين.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/108582984260328/posts/128603328924960/",
+            "name": "اخبار سوهاج",
+            "path": "published/2_1596639294_سوهاج.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/103129447795060/posts/299598341481502/",
+            "name": "صنع في الريف",
+            "path": "published/3_1596639294_صنع في الريف.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/103015911451181/posts/165588681860570/",
+            "name": "ابناء نوفمبر وباديس",
+            "path": "published/4_1596639294_نوفمبر.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.aljazeera.net/news/healthmedicine/2020/8/5/%D9%86%D8%AA%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%85%D9%88%D9%86%D9%8A%D9%88%D9%85-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%A8%D9%8A%D8%B1%D9%88%D8%AA",
+            "name": "الجزيرة",
+            "path": "sources/0_1596639294_الجزيرة.jpg"
+        },
+        {
+            "link": "https://www.aljazeera.net/encyclopedia/military/2016/1/6/%D8%A7%D9%84%D9%82%D9%86%D8%A8%D9%84%D8%A9-%D8%A7%D9%84%D9%87%D9%8A%D8%AF%D8%B1%D9%88%D8%AC%D9%8A%D9%86%D9%8A%D8%A9-%D8%AE%D8%B7%D8%B1-%D9%8A%D8%AA%D9%87%D8%AF%D8%AF-%D9%83%D9%88%D9%83%D8%A8",
+            "name": "الجزيرة",
+            "path": "sources/1_1596639294_الجزيرة.jpg"
+        },
+        {
+            "link": "https://www.livescience.com/53280-hydrogen-bomb-vs-atomic-bomb.html",
+            "name": "Live Science",
+            "path": "sources/2_1596639295_live science.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لم تسقُط قنبلة هيدروجينية على مرفأ بيروت",
+    "updated_at": "2020-09-25 07:46:00",
+    "url_path": "/factcheck/2020/08/05/لم-تسقط-قنبلة-هيدروجينية-على-مرفأ-بيروت"
+}

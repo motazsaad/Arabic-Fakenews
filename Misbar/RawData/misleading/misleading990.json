@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1216,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "خلل في الخادم حصل لعدة ساعات على مرتين في اليومين الأخيرين (Getty)",
+    "category": "Technology",
+    "claim": "<p><em>تطبيق واتساب يُلغي خاصية&nbsp;</em>آخر حالة تمت رؤيتها للمستخدمين الآخرين أو إماكنية معرفة إذا كان المستخدمون الآخرون متصلين أم لا، وكذلك إشارة جاري الكتابة.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+    "country": "US",
+    "created_at": "2020-06-21 10:51:10",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eef116e163be36b6372c503",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الخبر، ولم يجد أن تطبيق واتساب الشهير قد أعلن عن أية تحديثات جديدة، كما جرب خاصية آخر حالة تمت رؤيتها للمستخدمين الآخرين أو ما إذا كان المستخدمون الآخرون متصلين أم لا على التطبيق، ووجدها متوفرة ومتاحة، ولم يتم إلغاء أية من هذه المميزات.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">كما أوضحت بعض المواقع المتخصصة بشؤون التكنولوجيا أن الخلل حدث عدة ساعات على مرتين في اليومين الأخيرين بسبب مشكلات متعلقة بالخادم، ما أثر على العديد من ميزات تطبيق الدردشة الشهير، وسارع المستخدمون يكتبون شكواهم على صفحات وسائل التواصل الاجتماعي الأخرى، كما واجه بعضهم مشكلات من عدم تمكنهم التسجيل إلى تثبيت &quot;الواتساب&quot; الجديد.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_3qq7zc4ng.jpg\" style=\"height:384px; width:605px\" /></p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_bb0y13dlp.jpg\" style=\"height:391px; width:605px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداول مستخدمون أجانب وعرب على وسيلتيّ التواصل الاجتماعي فيسبوك وتويتر، في يومي 19 و20 من يونيو/حزيران الجاري، خبراً مفاده أن تطبيق &quot;واتساب&quot; العالمي قام بتحديث جديد عبره أصبح لا يمكن&nbsp;استخدام خاصية آخر حالة تمت رؤيتها للمستخدمين الآخرين أو رؤية&nbsp;إذا ما كان المستخدمون الآخرون متصلين أم لا على التطبيق، أو حتى مشاهدة إشارة جاري الكتابة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_y0itf0ljz.jpg\" style=\"height:380px; width:603px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_8uvxpbac4.jpg\" style=\"height:390px; width:605px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_wc867thqo.jpg\" style=\"height:498px; width:584px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_z6gbfpv02.jpg\" style=\"height:679px; width:492px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_ohvttaz64.jpg\" style=\"height:406px; width:494px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_5x4t8pmde.jpg\" style=\"height:546px; width:603px\" />&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 261,
+        "left": 120.82391357421875,
+        "path": "articles/1592725869GettyImages-1220243612 (1).jpg",
+        "top": 140.9556884765625,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1592725869GettyImages-1220243612 (1).jpg",
+        "width": 464
+    },
+    "post_date": "2020-06-21T08:39:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/mnbrnews/status/1274083807965167618",
+            "name": "صحيفة منبر",
+            "path": "published/0_1592725868_كميلا.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/alhawijaeye/photos/a.247050666178784/544089269808254/?type=3&theater",
+            "name": "عين الحويجة",
+            "path": "published/1_1592725868_الحويجة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/generaliq.mobiles/photos/a.1794837140795576/2716615565284391/?type=3&theater",
+            "name": "General",
+            "path": "published/2_1592725868_جينرال.jpg"
+        },
+        {
+            "link": "https://twitter.com/school_baghdad/status/1274105947502325761",
+            "name": "المدرسة العراقية الالمانية | بغداد",
+            "path": "published/3_1592725868_CczEVC85_400x400.jpg"
+        },
+        {
+            "link": "https://twitter.com/hmody44900/status/1274146535861821475",
+            "name": "محمد ماهر",
+            "path": "published/4_1592725868_محمد ماهر.jpg"
+        },
+        {
+            "link": "https://twitter.com/MelvinPradeep/status/1274002308670427137?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1274002308670427137&ref_url=https%3A%2F%2Fgadgets.ndtv.com%2Fapps%2Fnews%2Fwhatsapp-last-seen-online-status-down-now-fixed-reports-2249380",
+            "name": "Melvin Pradeep R",
+            "path": "published/5_1592725868_ميلفن.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://gadgets.ndtv.com/apps/news/whatsapp-last-seen-online-status-down-now-fixed-reports-2249380",
+            "name": "gadgets",
+            "path": "sources/0_1592725869_جديت.JPG"
+        },
+        {
+            "link": "https://wabetainfo.com/whatsapp-is-experiencing-serious-issues-with-last-seen-at-online-status-and-registration/",
+            "name": "wabetainfo",
+            "path": "sources/1_1592725869_واتا.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "واتساب ألغى خاصية الظهور.. خبر مضلل",
+    "updated_at": "2020-09-25 19:29:09",
+    "url_path": "/factcheck/2020/06/21/واتساب-ألغى-خاصية-الظهور-خبر-مضلل"
+}

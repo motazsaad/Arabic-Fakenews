@@ -1,0 +1,86 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 193,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "category": "Sports",
+    "claim": "<p>صورتان تُظهر نيمار يحمل مبابي، الأولى عام 2009 والثانية هذا العام.</p>\r\n",
+    "country": "FR",
+    "created_at": "2020-01-05 13:15:42",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e11b74ed4a2290f07612123",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تأكّد &quot;مسبار&quot; أنّ صورة نيمار وهو يحمل مبابي طفلاً غير صحيحة، فهذا ليس مبابي إنما طفل جنوب أفريقي، والحقيقة أنّ الصورة التقطت خلال مباراة ودية جمعت منتخبي البرازيل وجنوب أفريقيا قبيل انطلاق نهائيات كأس العام في البرازيل، وجرت على ملعب قرب مدينة جوهانسبورغ في آذار/ مارس 2014. &nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_b36e29a35e0d55bc266bd0526b646c7f.jpg\" style=\"height:360px; width:548px\" /></span></strong></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">شارك مئات من مستخدمي وسائل التواصل الاجتماعي صورتين يظهر فيهما لاعب كرة القدم البرازيلي نيمار يحمل زميله الحالي في نادي باريس سان جرمان، الفرنسي كيليان مبابي. الصورة الأولى التُقطت عام 2009 عندما كان مبابي طفلاً، والثانية بعد مرور عشر أعوام.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_d5cbfe422441525e25ae5438a5e9ee64.jpg\" style=\"height:382px; width:398px\" /></span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ae174f4ab6d2a4cb220a4e17f7931b32.jpg\" style=\"height:383px; width:403px\" /></span></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 351,
+        "left": 3.87939453125,
+        "path": "articles/1578219342GettyImages-1188053077.jpg",
+        "top": 13.80718994140625,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "width": 625
+    },
+    "post_date": "2019-12-15T13:09:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/azsporthd/photos/a.308943436397773/477694946189287/?type=3&theater",
+            "name": "AZ Sport",
+            "path": "published/0_1578219342_AZ sport-logo.jpg"
+        },
+        {
+            "link": "",
+            "name": "",
+            "path": ""
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.huffingtonpost.co.uk/2014/03/06/neymar-young-pitch-invader-south-africa_n_4909548.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAEpqjN5qQw-TyIbWvjnipCShHhs4295PRZhGOaV5N9_Zz-onqzjewsrUx04u1TZ_B-UcOSp7WwKje_D0zDjzVodPL3psbDkWTqCIhopoY5S0_EBu3D9e6bhlvv_TPCQrIFAeRm6_h4xQQrC_FenlzjmTzz9M64OdA6cAfx3U-A83",
+            "name": "Huffpost",
+            "path": "sources/0_1578219342_Huffpost-logo.jpg"
+        },
+        {
+            "link": "https://www.mirror.co.uk/sport/football/news/watch-heartwarming-moment-neymar-brazil-3211567",
+            "name": "Mirror",
+            "path": "sources/1_1578219342_Mirror-logo.jpg"
+        },
+        {
+            "link": "https://www.gettyimages.ae/detail/news-photo/south-african-boy-who-invaded-the-pitch-jokes-with-brazils-news-photo/476795947?adppopup=true",
+            "name": "Getty Images",
+            "path": "sources/2_1578219342_getty images-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "نيمار لم يحمل مبابي قبل 10 سنوات... الصورة غير صحيحة",
+    "updated_at": "2020-09-23 12:40:02",
+    "url_path": "/factcheck/2020/01/05/نيمار-لم-يحمل-مبابي-قبل-10-سنوات-الصورة-غير-صحيحة"
+}

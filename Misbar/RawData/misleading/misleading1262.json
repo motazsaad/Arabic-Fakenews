@@ -1,0 +1,119 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 3121,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "ليس لمغني راب أميركي سابق، إذ يعود الفيديو لمدرس وخطيب اسمه عبدالرشيد (مواقع التواصل)",
+    "category": "Spirituality & Religion",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"rtl\" lang=\"ar\">مغني الراب الأميركي السابق بوب جون جرب، يتلو القرآن الكريم بعدما اعتنق الإسلام.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-04-09 21:03:33",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 2,
+    "id": "5e8f6375db2916525634b024",
+    "investigation": "<p dir=\"rtl\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من مقطع الفيديو وتبين أنه غير صحيح، وليس لمغني راب أميركي سابق، إذ يعود الفيديو لمدرس وخطيب اسمه عبد الرشيد، لديه قناة عبر موقع يوتيوب بها العديد من الخطب وتلاوات للآيات القرآنية بصوته، والمقطع المتداول جزء من خطبة نشرها على قناته في 1 يناير/كانون الثانوني 2019.</span></p>\r\n\r\n<p dir=\"rtl\"><span dir=\"rtl\" lang=\"ar\">ويشغل الشيخ عبد الرشيد منصب مدير جميع البرامج الإسلامية بمسجد الصديق في مدينة نيويورك الأميركية، ويقوم بتدريس غالبية الفصول بنفسه، وهو أيضاً خطيب ومقرئ جميع التلاوات العشر للقرآن الكريم بالمسجد، وحائز على إجازات في كتب إسلامية. </span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_2sx244vvs.jpg\" style=\"height:414px; width:624px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_f6pki0yu7.jpg\" style=\"height:323px; width:624px\" /></p>\r\n\r\n<p dir=\"rtl\"><span dir=\"rtl\" lang=\"ar\">وبحث &quot;مسبار&quot; عن اسم بوب جون عبر محرك البحث جوجل، ولم <span style=\"background-color:white\"><span style=\"color:black\">يجد مغني راب باسم بوب جون ولا يوجد أثر لهذا الاسم، إلا للاعب كرة قدم بريطاني سابق كان&nbsp;</span></span></span>لاعباً&nbsp;<span dir=\"rtl\" lang=\"ar\"><span style=\"background-color:white\"><span style=\"color:black\">في نادي أرسنال الإنجليزي، ولد في أواخر القرن التاسع عشر وتوفي عام 1982.</span></span></span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_zkmn19wvs.jpg\" style=\"height:428px; width:624px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"rtl\" lang=\"ar\">يتداول الكثير من مستخدمي مواقع التواصل الاجتماعي، منذ شهر ديسمبر/كانون الأول من العام الماضي، مقطع فيديو يدّعي ناشروه أنه لمغني راب أميركي سابق اسمه بوب جون جرب، يتلو آيات من القرآن الكريم بعدما اعتنق الإسلام.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"rtl\" lang=\"ar\">وحقق الفيديو مشاهدات واسعة على موقع فيسبوك، وشاركه آلاف المستخدمين. </span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span dir=\"rtl\" lang=\"ar\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ej52qht2w.jpg\" style=\"height:560px; width:408px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span dir=\"rtl\" lang=\"ar\"><img src=\"https://images-prod.misbar.com/articlebody/origin_nsk0gj8n7.jpg\" style=\"height:530px; width:412px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 32.53997802734375,
+        "path": "articles/1586455412maxresdefault (1).jpg",
+        "top": 0,
+        "totalHeight": 465,
+        "totalWidth": 828,
+        "watermark_path": "articles/watermark-1586455412maxresdefault (1).jpg",
+        "width": 752
+    },
+    "post_date": "2020-04-09T20:52:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/100037431106875/videos/211113546813014/",
+            "name": "ابو رحيم محمد الشربيني",
+            "path": "published/0_1586455412_11.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100007848604673/videos/2530118713926391/",
+            "name": "لنرتقي بأخلاقنا",
+            "path": "published/1_1586456236_2.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/jannat.iman.184/videos/725884164820756/",
+            "name": "همسات مستقيمة",
+            "path": "published/2_1586456236_3.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/BestLifeAtObedienceAllah/videos/999757490397713/?v=999757490397713",
+            "name": "احلي حياه في طاعة الله",
+            "path": "published/3_1586456236_4.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/qon.ijabiaan/videos/vb.151315352329696/1136776049989471/?type=2&theater",
+            "name": "كن إيجابيا",
+            "path": "published/4_1586456236_5.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/abdou.aitboulahcen/videos/2645228285753203/",
+            "name": "Abdou Mimie",
+            "path": "published/5_1586456236_66.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.arsenal.com/historic/players/bob-john",
+            "name": "arsenal",
+            "path": "sources/0_1586455752_مصدر 3.jpg"
+        },
+        {
+            "link": "https://www.vintagefootballers.com/product/john-bob-image-7-arsenal-1934/",
+            "name": "vintage footballers",
+            "path": "sources/1_1586455669_مصدر4.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/pg/masjidsidiki/videos/?ref=page_internal",
+            "name": "Masjid Sidiki Channel",
+            "path": "sources/2_1586455669_مصدر 2.jpg"
+        },
+        {
+            "link": "https://sites.google.com/site/masjidsidik/teachers/ustadh-abdul-rashid",
+            "name": "Masjid Sidiki",
+            "path": "sources/3_1586455669_مصدر 2.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?time_continue=1705&v=ArxwaJ8_iBY&feature=emb_logo",
+            "name": "ABDUL RASHID",
+            "path": "sources/4_1586455669_مصدر1.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "مغني راب أميركي يتلو القرآن بعدما اعتنق الإسلام.. حقيقة الفيديو",
+    "updated_at": "2020-09-25 22:09:07",
+    "url_path": "/factcheck/2020/04/09/مغني-راب-أميركي-يتلو-القرآن-بعد-اعتناقه-الإسلام-حقيقة-الفيديو"
+}

@@ -1,0 +1,104 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 8694,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "نشر رونالدو الصورة أثناء احتفاله بليلة رأس السنة مع والدته (فيسبوك)",
+    "category": "Sports",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">والدة كريستيانو رونالدو ترتدي ملابس أمازيغية.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-05-18 15:12:50",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ec27bc2db29164930008e44",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من الصورة وتبين أنها مفبركة، إذ لم ترتديّ والدة رونالدو زياً أمازيغياً، وتم التعديل في الصورة وإضافة بعض أشكال الزخارف الأمازيغية على الملابس. ونشر رونالدو الصورة في 31 ديسمبر/كانون الأو</span><span dir=\"RTL\" lang=\"AR-EG\">ل 2019</span><span dir=\"RTL\" lang=\"AR-SA\">، أثناء احتفاله بمناسبة ليلة رأس السنة الميلادية مع والدته دولوريس أفيرو.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_nxwpxz3eu.jpg\" style=\"height:462px; width:623px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت حسابات وصفحات على موقع التواصل الاجتماعي فيسبوك، صورة للاعب كرة القدم البرتغالي كريستيانو رونالدو تجمعه مع والدته، وادّعت أن والدة رونالدو&nbsp;</span>ترتديّ<span dir=\"RTL\" lang=\"AR-SA\"> في الصورة زياً أمازيغياً.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_1w8v6ibwq.jpg\" style=\"height:626px; width:475px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_2bi5hl2iz.jpg\" style=\"height:587px; width:471px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 23,
+        "path": "articles/1589803969c7161407-c53e-470b-985d-bd086cb7e845.jpg",
+        "top": 0,
+        "totalHeight": 997,
+        "totalWidth": 798,
+        "watermark_path": "articles/watermark-1589803969c7161407-c53e-470b-985d-bd086cb7e845.jpg",
+        "width": 752
+    },
+    "post_date": "2020-05-18T15:10:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1605985446220728&id=100004278644955",
+            "name": "Hammoda Kassimi",
+            "path": "published/0_1589803969_Hammoda Kassimi.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2598478440401560&id=1938180576431353",
+            "name": "صفحة لحباب د امدوكال ايت مزيرت",
+            "path": "published/1_1589804200_صفحة لحباب د امدوكال ايت مزيرت.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/brahim.islmeoin/posts/599070304038895",
+            "name": "مملكة نوميديا",
+            "path": "published/2_1589804200_مملكة نوميديا.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Lesissernews/posts/552687935654893",
+            "name": "Ici C'est Les Isser",
+            "path": "published/3_1589804200_Ici C'est Les Isser.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/590547324786056/permalink/842438572930262/",
+            "name": "Mustapha Rami",
+            "path": "published/4_1589804200_Mustapha Rami.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=104232171298376&id=102725368115723",
+            "name": "عتابرني خوك",
+            "path": "published/5_1589804200_عتابرني خوك.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/mohamed.sari.353/posts/2090103437803177",
+            "name": "Agrawliw ILelli",
+            "path": "published/6_1589804200_Agrawliw ILelli.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.instagram.com/p/B6wDaRVgzRb/?igshid=19m4lfqcn5pj8",
+            "name": "Cristiano Ronaldo",
+            "path": "sources/0_1589803969_Cristiano Ronaldo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "والدة كريستيانو رونالدو ترتدي ملابس أمازيغية.. ما الحقيقة؟",
+    "updated_at": "2020-09-25 20:54:49",
+    "url_path": "/factcheck/2020/05/18/والدة-كريستيانو-رونالدو-ترتدي-ملابس-أمازيغية-حقيقة-الصورة"
+}

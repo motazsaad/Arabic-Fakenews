@@ -1,0 +1,102 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 152,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "السبورة في الصورة مقسومة إلى نصف للكتابة التقليدية ونصف للعروض المرئية (وكالة جيتي)",
+    "category": "Technology",
+    "claim": "<p><em>مدارس الصين بعد عودتها من خطر وباء فايروس كورونا تترك التكنولوجيا، وتعود إلى الورقة والقلم والطباشير.</em></p>\r\n",
+    "country": "CN",
+    "created_at": "2020-10-03 15:28:07",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 5,
+    "id": "5f786e5753eeed676b31d484",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الصورة فوجد أنه تم تصويرها في مدينة ووهان الصينية في شهر مايو/أيار الفائت عند العودة للمدارس، ولكن تم استخدامها في هذه المنشورات بشكل مضلل، فكما هو واضح بالصورة فإن اللوح أو السبورة&nbsp;مقسومة إلى نصفين، نصف تقليدي يتم الكتابة عليه بالطابشير، ونصف يتم استخدامه للعروض المرئية بوسائل التكنولوجيا.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">كما جاء التعليق على الصورة المتوفرة لدى وكالة جيتي التي يتعامل معها موقع مسبار &quot;طلاب المدارس الثانوية يدرسون في فصل دراسي في ووهان في مقاطعة هوبي بوسط الصين في 6 مايو 2020، عاد طلاب المدارس العليا إلى 121 مؤسسة أمام لوحات الطباشير والعروض الرقمية للمرة الأولى منذ إغلاق مدينتهم التي تعتبر نقطة الصفر لبداية وباء الفايروس التاجي&quot;.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_4v2c1md93.jpg\" style=\"height:518px; width:602px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت</span><span dir=\"RTL\" lang=\"AR-JO\"> حسابات وصفحات على</span> <span dir=\"RTL\" lang=\"AR-SA\">وسائل التواصل الاجتماعي، منذ الأسبوع الأخير لشهر أغسطس/آب الفائت، حتى نهاية سبتمبر/ أيلول المنصرم، صورةً لمعلمة في صف مدرسي بمدينة ووهان بالصين والتي كانت مصدر إصابة بقية دول العالم بفايروس كورونا المستجد، وصاحب هذه الصورة&nbsp;تعليق&nbsp;انتشر على هذه الحسابات مفاده &quot;إحدى مدارس الصين التي تصنع التابلت وتصدره لنا، يتعلمون بالورقة والقلم، والمعلمة تكتب على السبورة، غم أن عندهم أجهزة، بس هم عارفين إن التعليم الصحيح ورقة وقلم ومعلم&quot;.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ruh1rhq9v.jpg\" style=\"height:468px; width:602px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_apal68h53.jpg\" style=\"height:643px; width:602px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_a3szqu0cd.jpg\" style=\"height:209px; width:602px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_ma5hugrur.jpg\" style=\"height:682px; width:602px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_rzjtsf7pr.jpg\" style=\"height:202px; width:602px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 351,
+        "left": 6.00006103515625,
+        "path": "articles/1601728086GettyImages-1211911963.jpg",
+        "top": 12.800048828125,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1601728086GettyImages-1211911963.jpg",
+        "width": 624
+    },
+    "post_date": "2020-10-03T13:54:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/mohammed.kotbe.9/posts/1742638249238609",
+            "name": "محمد قطب",
+            "path": "published/0_1601728086_قققف.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/lamsarra/posts/1356292741243325",
+            "name": "هنا ششار",
+            "path": "published/1_1601728086_قققف.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/groups/465570663623414/permalink/1621300828050386",
+            "name": "Ri Nass",
+            "path": "published/2_1601728086_قققف.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/groups/465570663623414/permalink/1631676020346200",
+            "name": "أم عمر",
+            "path": "published/3_1601728086_قققف.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/monagaboob/status/1298688077037215744",
+            "name": "منى جعبوب",
+            "path": "published/4_1601728086_ق4.JPG"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.gettyimages.fr/detail/photo-d'actualit%C3%A9/high-school-senior-students-study-in-a-classroom-in-photo-dactualit%C3%A9/1211911963?adppopup=true",
+            "name": "Getty Images",
+            "path": "sources/0_1601730363_44444.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ووهان لم تتخلَ عن التكنولوجيا في التعليم بعد كورونا",
+    "updated_at": "2020-10-03 16:06:03",
+    "url_path": "/factcheck/2020/10/03/ووهان-لم-تتخل-عن-التكنولوجيا-في-التعليم-بعد-كورونا",
+    "was_notification_pushed": true
+}

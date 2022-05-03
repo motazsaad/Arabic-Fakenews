@@ -1,0 +1,154 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 184,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "اعتقال أجهزة أمن حماس أفراداً من عائلة القصاص (تويتر)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">مقطع فيديو يُظهر مداهمة شرطة حركة حماس لمنزل ممزِّق صور قاسم سليماني في مدينة غزة.</p>\r\n",
+    "country": "PS",
+    "created_at": "2021-01-01 21:26:57",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 3,
+    "id": "5fef6971ee963d610838213a",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;<a href=\"https://misbar.com/\" style=\"color:#0563c1; text-decoration:underline\" target=\"_blank\">مسبار</a>&quot; من المقطع المتداول ووجد أنه مضلل، لأن <a href=\"https://www.alroeya.com/60-63/2162935-%D8%A7%D9%84%D8%B6%D8%B1%D8%A8-%D9%88%D8%A7%D9%82%D8%AA%D8%AD%D8%A7%D9%85-%D8%A7%D9%84%D8%A8%D9%8A%D9%88%D8%AA-%D9%87%D9%83%D8%B0%D8%A7-%D8%AA%D9%81%D8%B1%D8%B6-%D8%AD%D9%85%D8%A7%D8%B3-%D9%82%D9%8A%D9%88%D8%AF-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-%D9%81%D9%8A-%D8%BA%D8%B2%D8%A9\" style=\"color:#0563c1; text-decoration:underline\" target=\"_blank\">المقطع الأصلي</a> حسب موقع الرؤية الفلسطيني، يعود لاعتقال أجهزة أمن حماس أفراداً من عائلة القصاص بتاريخ 4 سبتمبر<span dir=\"LTR\">/</span>أيلول الفائت في مدينة خانيونس جنوب قطاع غزة، بدعوى مخالفتهم حظر التجول&nbsp;الذي فُرض في مناطق متفرقة من القطاع، بعد انتشار فايروس كوفيد-19.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">ويأتي تداول المقطع على أنه حديث، بعد أن اعتقلت قوة من الأمن الداخلي التابع لحركة حماس، أمس الخميس 31 ديسمبر<span dir=\"LTR\">/</span>كانون الأول، الشيخ مجدي المغربي بتهمة تمزيق صورة قائد فيلق القدس الإيراني السابق قاسم سليماني التي عُلقت مؤخراً في شوارع غزة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"صورة_x0020_4\" src=\"https://images-prod.misbar.com/articlebody/investigation_rspjhyqzx.jpg\" style=\"height:327.6pt; width:470.4pt\" /> </span></p>\r\n\r\n<p dir=\"rtl\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/r7Kzfq51bzw\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"rtl\">اقرأ/ي أيضاً:</p>\r\n\r\n<p dir=\"rtl\"><a href=\"https://misbar.com/factcheck/2020/12/30/%D9%87%D8%B0%D9%87-%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D9%84%D9%8A%D8%B3%D8%AA-%D9%85%D9%86-%D9%85%D9%86%D8%A7%D9%88%D8%B1%D8%A9-%D9%81%D8%B5%D8%A7%D8%A6%D9%84-%D8%BA%D8%B2%D8%A9\" target=\"_blank\">هذه الصورة في سورية وليست من مناورة فصائل غزة</a></p>\r\n\r\n<p dir=\"rtl\"><a href=\"https://misbar.com/factcheck/2020/12/29/%D9%87%D8%B0%D9%87-%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9-%D9%84%D9%8A%D8%B3%D8%AA-%D9%84%D9%84%D8%B4%D9%87%D9%8A%D8%AF-%D8%B9%D9%84%D8%A7%D8%A1-%D8%A7%D9%84%D8%B5%D8%A8%D8%A7%D8%BA-%D9%83%D9%85%D8%A7-%D8%A3%D9%86%D9%87%D8%A7-%D9%84%D9%8A%D8%B3%D8%AA-%D9%81%D9%8A-%D8%B5%D8%B9%D9%8A%D8%AF-%D9%85%D8%B5%D8%B1\" target=\"_blank\">هذه الصورة ليست للشهيد علاء الصباغ كما أنها ليست في صعيد مصر</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "غزة",
+        "حماس",
+        "قاسم سليماني"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [
+        "قاسم سليماني"
+    ],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات وحسابات على مواقع التواصل الاجتماعيّ، منذ أمس الخميس 31 ديسمبر/كانون الأول، مقطع فيديو قال ناشروه إنه عملية مداهمة نفذتها شرطة حماس على منزل ممزق صورة الضابط الإيراني السابق قاسم سليماني التي عُلّقت مؤخراً في غزة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img id=\"صورة_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/origin_aaw8lord0.jpg\" style=\"height:555.6pt; width:402pt\" /></p>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"rtl\">عصابات حماس تعتدي على أهالي غزة انتقام لقاسم سليماني وتداهم منازل الشباب الذين مزقوا الصور في فلسطين الطاهرة من رجس المجوس ، أتباع قطر يتجاهلون ماتصنعه حماس بأبناء أهل السنة من ضرب للنساء وسحق لشعب غزة ،اللهم دمر المجوس وكل من يساعدهم بسكوته وتجاهله ، <a href=\"https://t.co/djyrmMSnRU\">pic.twitter.com/djyrmMSnRU</a></p>\r\n&mdash; 💚أّبِوِصٌخَرأّلَدِيِّنِ💚 أّلَأّحٌتّيِّأّطّيِّ (@sr5tyteeem) <a href=\"https://twitter.com/sr5tyteeem/status/1344721001121247234?ref_src=twsrc%5Etfw\">December 31, 2020</a></blockquote>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 381,
+        "left": 72.60003662109375,
+        "path": "articles/1609525617Screenshot 2021-01-01 201710.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 822,
+        "watermark_path": "articles/watermark-1609525617Screenshot 2021-01-01 201710.jpg",
+        "width": 677
+    },
+    "post_date": "2021-01-01T20:20:00.000+03:00",
+    "published": [
+        {
+            "id": "5fef6a747952ac50883ec4cb",
+            "link": "https://twitter.com/arabistan_tv/status/1344915808963747840?s=08",
+            "name": "قناة عربستان-الأحواز",
+            "origin": "twitter",
+            "path": "sources/f7a1fd6fa38fdbcbdd1d6f2889de9fb99d13d01e.jpg"
+        },
+        {
+            "id": "5fef6a74a0c9d8744c134657",
+            "link": "https://twitter.com/sr5tyteeem/status/1344721001121247234",
+            "name": "💚أّبِوِصٌخَرأّلَدِيِّنِ💚 أّلَأّحٌتّيِّأّطّيِّ",
+            "origin": "twitter",
+            "path": "sources/9a5cb36b81907b2c64e62a7a52cdf65a0cbb854a.jpg"
+        },
+        {
+            "id": "5fef6a74780623790816f169",
+            "link": "https://www.facebook.com/allthuraya/videos/5503081633050959/",
+            "name": "Allthuraya",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        },
+        {
+            "id": "5fef6a7497c5f36a0070dbb9",
+            "link": "https://www.facebook.com/falah.albaze/videos/3661620390596772",
+            "name": "Falah Albaze",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        },
+        {
+            "id": "5fef6a74f3d4d829363f61bb",
+            "link": "https://www.facebook.com/Hdoood/videos/3892704347419910",
+            "name": "Hdood",
+            "origin": "facebook",
+            "path": "sources/e1e00cfcb1a89bfb7961da961852fdcce42f9a57.jpg"
+        },
+        {
+            "id": "5fef6a75608338362b48e315",
+            "link": "https://www.facebook.com/sirwansali/videos/1494463494097165/",
+            "name": "Sirwansali",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        },
+        {
+            "id": "5fef6a750a2fab4d266e3f14",
+            "link": "https://www.facebook.com/Akhbaralsharkalausat/videos/128221032367465",
+            "name": "اخبار الشرق الاوسط",
+            "origin": "facebook",
+            "path": "sources/4f4cd20839f725eaab2d153c34c6f7bf7476e8a8.jpg"
+        },
+        {
+            "id": "5fef6a753307e20be7521ec8",
+            "link": "https://www.facebook.com/namrood.aliraqy/posts/241432734083143?",
+            "name": "Namrood Aliraqy",
+            "origin": "facebook",
+            "path": "sources/a87f2679356c5a8a7eeb46472e30167d18c3a494.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fef6971d5202f4b1039ff33",
+            "link": "https://www.youtube.com/watch?v=r7Kzfq51bzw&feature=youtu.be&ab_channel=%D8%A3%D9%85%D8%AF%D9%85%D9%8A%D8%AF%D9%8A%D8%A7",
+            "name": "أمد ميديا",
+            "origin": "youtube",
+            "path": "sources/cea6c63f428f341430152eaf6694f428ba1da246.jpg"
+        },
+        {
+            "id": "5f91b97964ba8e35a831c06f",
+            "link": "https://www.amad.ps/ar/post/366374",
+            "name": "أمد للإعلام",
+            "origin": "",
+            "path": "published/4_1575204472_أمد للإعلام-لوغو.jpg"
+        },
+        {
+            "id": "5f91b8bc01b7e87d0f2efdb6",
+            "link": "https://www.alhurra.com/palestine/2020/12/31/%D8%AD%D9%85%D8%A7%D8%B3-%D8%AA%D8%B9%D8%AA%D9%82%D9%84-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A7-%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%AA%D9%85%D8%B2%D9%8A%D9%82-%D8%B5%D9%88%D8%B1%D8%A9-%D8%B3%D9%84%D9%8A%D9%85%D8%A7%D9%86%D9%8A",
+            "name": "الحرة",
+            "origin": "",
+            "path": "sources/1_1588674902_الحرة.JPG"
+        },
+        {
+            "id": "5f91ba2001b7e87d0f2efdb7",
+            "link": "https://www.alroeya.com/60-63/2162935-%D8%A7%D9%84%D8%B6%D8%B1%D8%A8-%D9%88%D8%A7%D9%82%D8%AA%D8%AD%D8%A7%D9%85-%D8%A7%D9%84%D8%A8%D9%8A%D9%88%D8%AA-%D9%87%D9%83%D8%B0%D8%A7-%D8%AA%D9%81%D8%B1%D8%B6-%D8%AD%D9%85%D8%A7%D8%B3-%D9%82%D9%8A%D9%88%D8%AF-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-%D9%81%D9%8A-%D8%BA%D8%B2%D8%A9",
+            "name": "الروية",
+            "origin": "",
+            "path": "published/5_1594721219_الروية.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "اعتقال أجهزة أمن حماس أفراداً من عائلة القصاص.",
+    "title": "الفيديو قديم وليس لاقتحام شرطة حماس منزل مُمزّق صورة سليماني",
+    "updated_at": "2021-01-01 21:58:51",
+    "url_path": "/factcheck/2021/01/01/الفيديو-قديم-وليس-لاقتحام-شرطة-حماس-منزل-ممزق-صورة-سليماني",
+    "was_notification_pushed": false
+}

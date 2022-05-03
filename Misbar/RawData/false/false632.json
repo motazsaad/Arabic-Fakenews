@@ -1,0 +1,118 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 28107,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "لم يذهب السرّاج إلى روسيا من الأساس (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">بوتين يرفض لقاء السرّاج بعد وصوله روسيا، والكرملين يصرّح أنّ أساس الحل في ليبيا هو الرؤية المصرية.</p>\r\n",
+    "country": "LY",
+    "created_at": "2020-06-10 10:20:11",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ee089abd6e4a946af6b8714",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">تحقق &quot;مسبار&quot; من الخبر المتداول وتبين أنه زائف ويهدف للإثارة، إذ لم يذهب السرّاج إلى روسيا من الأساس.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">أكّدت حكومة الوفاق الليبية عدم نية رئيسها السرّاج السفر إلى روسيا، على لسان وزير خارجيّتها، محمد سيالة، عندما تواصلت</span><u><span style=\"background-color:white\"><span style=\"color:#1155cc\"><a href=\"https://arabic.sputniknews.com/arab_world/202006081045657633-%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D9%88%D9%81%D8%A7%D9%82-%D8%AA%D8%B9%D9%84%D9%82-%D8%B9%D9%84%D9%89-%D8%A3%D9%86%D8%A8%D8%A7%D8%A1-%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D8%B1%D8%A7%D8%AC-%D8%A5%D9%84%D9%89-%D9%85%D9%88%D8%B3%D9%83%D9%88/\" style=\"color:blue; text-decoration:underline\" target=\"_blank\"><span style=\"color:#1155cc\"> وكالة سبوتنيك الروسية</span></a></span></span></u><span style=\"background-color:white\"> معه. وجاء النفي الليبي يوم الإثنين، 8 يونيو/حزيران الجاري، بالتزامن مع <u><span style=\"color:#1155cc\"><a href=\"https://arabic.rt.com/middle_east/1122252-%D8%A7%D9%84%D9%83%D8%B1%D9%85%D9%84%D9%8A%D9%86-%D9%84%D8%A7-%D8%AE%D8%B7%D8%B7-%D9%84%D9%84%D9%82%D8%A7%D8%A1-%D8%A8%D9%8A%D9%86-%D8%A8%D9%88%D8%AA%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D8%B3%D8%B1%D8%A7%D8%AC/\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">نفي الكرملين</a></span></u> زيارة السرّاج إلى روسيا، أو وجود لقاءات مخطّط لها بين بوتين والسرّاج. </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">أما بالنسبة لترحيب الكرملين</span> <span style=\"background-color:white\">بمقترح مصر للحدّ من الصراع في ليبيا، فقد <a href=\"https://libyareview.com/?p=3510\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">أعلن بوتين</a> ترحيبه بمقترح وقف إطلاق النار الذي تقدّم به الرئيس المصري عبد الفتاح السيسي.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img id=\"Picture_x0020_4\" src=\"https://images-prod.misbar.com/articlebody/investigation_h0rizrx95.jpg\" style=\"height:363pt; width:402.6pt\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img id=\"Picture_x0020_5\" src=\"https://images-prod.misbar.com/articlebody/investigation_cum8idz23.jpg\" style=\"height:396pt; width:375.6pt\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"Picture_x0020_6\" src=\"https://images-prod.misbar.com/articlebody/investigation_dvl1jgewz.jpg\" style=\"height:372pt; width:416.4pt\" /> </span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "ليبيا",
+        "حكومة الوفاق",
+        "حفتر",
+        "السراج",
+        "بوتين",
+        "الكرملين"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">تتناقل صفحات على مواقع التواصل الاجتماعي، حديثاً، خبراً يفيد بأنّ فائز السراج، رئيس حكومة الوفاق الليبية، وصل إلى روسيا للقاء الرئيس الروسي فلاديمير بوتين، لكنّ الأخير رفض مقابلته. كما أضاف ناشرو الخبر تصريحاً على لسان المتحدّث باسم الكرملين، دميتري بيسكوف، قال فيه إنّ الرؤية المصرية هي أساس الحل للصراع في ليبيا.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"https://images-prod.misbar.com/articlebody/origin_g6o054adb.jpg\" id=\"Picture_x0020_1\" src=\"https://lh4.googleusercontent.com/OsvGrfyDOzOE9ENr4maHGivNV4x5-Gpq8Be8Xq4iXl_ahHnpssIB8nFtyViq5tYPND3Hsnowrzx9o93ELL91lFWe-tB3p2Hyx36SWS_QVDbClWD5OQCHqJDO0SSBihyAqyyAth5h\" style=\"height:346.8pt; width:376.8pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"https://images-prod.misbar.com/articlebody/origin_vl4vhlujg.jpg\" id=\"Picture_x0020_2\" src=\"https://lh3.googleusercontent.com/OUyEuT12Cpt8iAVPXuBxcXLLkQfdGJNFk5rYaAKg7JG799VDP9FycEGvokWhi4Hu1ElxstROBxvXCzbV8nqqSnOliyDdP01Cmcae3RsAxo3sUIgz2q4roctQLhlXJ9sxZ6658InH\" style=\"height:374.4pt; width:385.8pt\" /> </span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 348,
+        "left": 1.4666748046875,
+        "path": "articles/1591773610GettyImages-1209804970.jpg",
+        "top": 3.66650390625,
+        "totalHeight": 423,
+        "totalWidth": 621,
+        "watermark_path": "articles/watermark-1591773610GettyImages-1209804970.jpg",
+        "width": 618
+    },
+    "post_date": "2020-06-10T09:58:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/Mumammad.shams55/posts/272610744151997",
+            "name": "صفحة عمار يا مصر",
+            "path": "published/0_1591773609_عمار.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/people.of.the.state/photos/a.100403871461768/167174894784665/?type=3&__xts__%5B0%5D=68.ARD4F_ZWiSvws4-2yyh7i3nzVZtIwcim2vurYS5_dbxwRxI7JdkiJbsEXAyI4Gj6vrN0aNBl4HtGUvJJcPB1oVXHdHRf2RnVMtsxKiDvNTdcvsPHQMGTKXsWxwwHliIVnKLmIhJ5BSxCEEparaSCoH5CWSOmOwFNAT4G8RyVWsw2gSIadrB3fff_iFj8p9odeiGG_t8_i4GgsAcEBILdI_i5cSGfCuBSGQip5lRsK8-b2FfI4R5qSl-X0klysHXeq8er5GYmv8_YkvvYQFv_GPQsf89WuVYhzu4dR0ydB4NoAtdQKI6IPS_c_jd9uG-mzISp6Y34N6EoRRydsSCVgAQ&__tn__=-R",
+            "name": "شعب الدولة",
+            "path": "published/1_1591773609_شعب.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2705816649743615&id=100009459183493",
+            "name": "سامح سلطان",
+            "path": "published/2_1591773609_سامح.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/597684050988321/permalink/716329172457141/",
+            "name": "نيفين طوسون",
+            "path": "published/3_1591773609_نيفين.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/hananmahmod.gouda/posts/548686089144044",
+            "name": "حنان جودة",
+            "path": "published/4_1591773609_حنان.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2100981493369983&id=100003744593502",
+            "name": "إبراهيم نور الدين",
+            "path": "published/5_1591773609_ابراهيم.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/1543798899165172/permalink/2527560174122368/",
+            "name": "فداكي يا مصر",
+            "path": "published/6_1591773610_فداكي.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://arabic.sputniknews.com/arab_world/202006081045657633-%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D9%88%D9%81%D8%A7%D9%82-%D8%AA%D8%B9%D9%84%D9%82-%D8%B9%D9%84%D9%89-%D8%A3%D9%86%D8%A8%D8%A7%D8%A1-%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D8%B1%D8%A7%D8%AC-%D8%A5%D9%84%D9%89-%D9%85%D9%88%D8%B3%D9%83%D9%88/",
+            "name": "سبوتنيك الروسية",
+            "path": "sources/0_1591773610_سبوتنيك.jpg"
+        },
+        {
+            "link": "https://arabic.rt.com/middle_east/1122252-%D8%A7%D9%84%D9%83%D8%B1%D9%85%D9%84%D9%8A%D9%86-%D9%84%D8%A7-%D8%AE%D8%B7%D8%B7-%D9%84%D9%84%D9%82%D8%A7%D8%A1-%D8%A8%D9%8A%D9%86-%D8%A8%D9%88%D8%AA%D9%8A%D9%86-%D9%88%D8%A7%D9%84%D8%B3%D8%B1%D8%A7%D8%AC/",
+            "name": "روسيا اليوم",
+            "path": "sources/1_1591773610_RT.jpg"
+        },
+        {
+            "link": "https://libyareview.com/?p=3510",
+            "name": "Libya Review",
+            "path": "sources/2_1591773610_LR.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "السراج زار روسيا ولكنّ بوتين رفض مقابلته.. حقيقة الخبر",
+    "updated_at": "2020-09-25 22:02:55",
+    "url_path": "/factcheck/2020/06/10/السراج-زار-روسيا-ولكن-بوتين-رفض-مقابلته-حقيقة-الخبر"
+}

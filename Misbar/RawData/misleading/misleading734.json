@@ -1,0 +1,108 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 56190,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "تعود الصورة لصحفية في الإذاعة الجزائرية خلال تغطيتها للزيارة (تويتر)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-DZ\">صور مفبركة لسيدة متبرجة داخل المسجد الأعظم، أثناء الزيارة التفقدية للرئيس الجزائري عبد المجيد تبون.</span></p>\r\n",
+    "country": "DZ",
+    "created_at": "2020-08-22 22:07:23",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 4,
+    "id": "5f416ceb60211806e51e854e",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-DZ\">تحقق &quot;مسبار&quot; من الصورة المتداولة ووجد أنها صحيحة وليست مفبركة، وأن&nbsp;الصورة الحقيقية فبركت بمسح الخلفية الأصلية التي تظهر فيها المرأة.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-DZ\">وبحث &quot;مسبار&quot; عن صاحبة الصورة وتبين أنها تعود لصحفية في إذاعة الجزائر الدولية كلفت بتغطية زيارة العمل والتفقد التي قام بها الرئيس الجزائري عبد المجيد تبون لمسجد الجزائر الأعظم، الخميس 20 أغسطس/آب 2020، التي تعتبر الأولى له منذ انتخابه رئيساً للجمهورية.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-DZ\">وتواصل &quot;مسبار&quot;&nbsp;مع الصحفية التي أكدت أنها كانت في تغطية للزيارة التفقدية إلى المسجد الأعظم، وعند دخول الرئيس إحدى القاعات أدى ركعتي صلاة تحية للمسجد.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Felhayatalgeria%2Fvideos%2F785590175544389%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><strong>&nbsp;</strong><span dir=\"RTL\" lang=\"AR-DZ\">تداولت&nbsp;صفحات وحسابات على مواقع التواصل الاجتماعي، حديثاً، صوراً تدعي أنها مفبركة لامرأة&nbsp;متبرجة داخل المسجد الأعظم&nbsp;في الجزائر، استعملت كخلفية أثناء أداء الرئيس الجزائري عبد المجيد تبون للصلاة</span><span dir=\"RTL\" lang=\"AR-DZ\">، وذلك خلال زيارته التفقدية التي قام بها الخميس الفائت.</span><br />\r\n&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img alt=\"0.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_b59ck3ibt.jpg\" style=\"height:520px; width:480px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_akkh88mge.jpg\" style=\"height:484px; width:498px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 326,
+        "left": 25.105255126953125,
+        "path": "articles/15981232423.jpg",
+        "top": 14.746826171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-15981232423.jpg",
+        "width": 579
+    },
+    "post_date": "2020-08-22T19:32:00.000+03:00",
+    "published": [
+        {
+            "link": "https://mobile.facebook.com/story.php?story_fbid=2401868440110206&id=100008612192486&_rdc=1&_rdr",
+            "name": "سلطان الدبيلة ",
+            "path": "published/0_1598123241_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/photo.php?fbid=642556259999987&set=p.642556259999987&type=3",
+            "name": "Bà ÇHÎR Daoudi",
+            "path": "published/1_1598123241_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://mobile.facebook.com/photo.php?fbid=240941060606844&id=100040728549159&set=p.240941060606844&source=47&_rdc=1&_rdr",
+            "name": "عمر فرادي عين فارس ",
+            "path": "published/2_1598123242_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://mobile.facebook.com/story.php?story_fbid=195541208658516&id=111644017048236&_rdr",
+            "name": "الجزائر الجديدة ",
+            "path": "published/3_1598123242_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/photo.php?fbid=161739302232386&set=p.161739302232386&type=3",
+            "name": "عبد المجيد بن شيخ ",
+            "path": "published/4_1598123242_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/l7ouma.fr/photos/a.261658790695388/1449725135222075/?type=3",
+            "name": "Nas l7ouma",
+            "path": "published/5_1598123242_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://twitter.com/DQ2c7InK8hpli3h/status/1296551227044646919",
+            "name": "أحمد الجزائري صقر",
+            "path": "published/6_1598123242_101195326_747056042707733_6451845424750788608_o.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.radioalgerie.dz/news/ar/article/20200820/197983.html",
+            "name": "الإذاعة الجزائرية",
+            "path": "sources/0_1598123242_téléchargement.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/elhayatalgeria/videos/785590175544389/",
+            "name": "قناة الحياة",
+            "path": "sources/1_1598123242_100106099_143022717314626_780775267151904768_n.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صورة المرأة في المسجد الأعظم الجزائري خلال زيارة الرئيس ليست مفبركة",
+    "updated_at": "2020-09-25 21:20:26",
+    "url_path": "/factcheck/2020/08/22/صورة-المرأة-في-المسجد-الأعظم-الجزائري-خلال-زيارة-الرئيس-ليست-مفبركة"
+}

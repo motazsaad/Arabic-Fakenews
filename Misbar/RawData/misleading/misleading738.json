@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 548,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "صممت الفستان طالبة فنون جميلة (فيسبوك)",
+    "category": "Lifestyle",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">محامية بريطانية صممت فستان زفاف بأكثر من 1500 ورقة طلاق.</p>\r\n",
+    "country": "GB",
+    "created_at": "2020-08-22 14:07:31",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f40fc7360211806363a6389",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة والقصة المتداولة ووجد أنها مضللة، إذ صممت الفستان طالبة فنون جميلة في بريطانيا، عمرها 15 عاماً، دون تحديد حجم الأوراق المستخدمة.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">كان في نية المصممة استخدام مواد مُعاد تدويرها لتصميم الفستان، واختارت أوراق الطلاق بهدف إضفاء معنى أعمق للتصميم. تشكّل الأوراق الطبقة الخارجية من الفستان، أما بقيته فيتكون من القماش بشكل اعتيادي. صُمّم <a href=\"https://www.bbc.com/news/av/uk-22345932\" style=\"text-decoration:none\" target=\"_blank\"><u>الفستان</u></a> عام 2013.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_vp3lao673.jpg\" style=\"height:443px; width:533px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تتناقل صفحات على مواقع التواصل الاجتماعي، حديثاً، خبراً مفاده أن محامية بريطانية صممت فستان زفاف يتكون من نحو 1500 ورقة طلاق.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_m4pnbj54p.jpg\" style=\"height:606px; width:530px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_86x000mdi.jpg\" style=\"height:665px; width:537px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 288,
+        "left": 1.6500244140625,
+        "path": "articles/1598094450غلاف.jpg",
+        "top": 60.2999267578125,
+        "totalHeight": 423,
+        "totalWidth": 516,
+        "watermark_path": "articles/watermark-1598094450غلاف.jpg",
+        "width": 513
+    },
+    "post_date": "2020-08-22T14:04:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/thinking31/posts/1283255701852738",
+            "name": "Thinking Out Loud",
+            "path": "published/0_1598094732_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Mizanaladalahco/posts/703265130408935",
+            "name": "Mizan Aladalah Lawfirm",
+            "path": "published/1_1598094732_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/439782956598487/?post_id=738853936691386",
+            "name": "Àçhråf Làrtįst",
+            "path": "published/2_1598094732_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=117243166284544&id=109646013710926",
+            "name": "صافيتا الأن SNN",
+            "path": "published/3_1598094781_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/hassan.amzyn/posts/2589297761132734",
+            "name": "Hassan Amzyn",
+            "path": "published/4_1598094781_facebook.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.bbc.com/news/av/uk-22345932",
+            "name": "BBC",
+            "path": "sources/0_1598094450_bbc.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "فستان زفاف مكوّن من أوراق الطلاق لكنّ مصممته ليست محامية",
+    "updated_at": "2020-09-25 08:46:22",
+    "url_path": "/factcheck/2020/08/22/فستان-زفاف-مكون-من-أوراق-الطلاق-لكن-مصممته-ليست-محامية"
+}

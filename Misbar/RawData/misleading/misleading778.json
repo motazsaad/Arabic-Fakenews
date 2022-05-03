@@ -1,0 +1,98 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 278,
+    "author": {
+        "fullname": "صباح الخطيب",
+        "id": "5edc1b38db291674e776e9a3",
+        "photo": {
+            "path": "authors/1591643228_7.jpg"
+        }
+    },
+    "caption": "المقطع الأصلي قديم (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">كويتي يضرب مصريًّا، مما استدعى مجموعة من الجالية المصرية لضربه انتقاماً لابن بلدهم.</p>\r\n",
+    "country": "KW",
+    "created_at": "2020-08-13 11:14:38",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f34f66e1dd585078301d75a",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من مقطع الفيديو وتبين أنه مضلل، لأن المقطع الأصلي قديم ويعود لتاريخ 25 أكتوبر/تشرين الأول عام 2015، لشجار في منطقة الشويخ الصناعية في الكويت. هنالك عدة روايات عن الحادثة بحسب من تداول المقطع، إذ ادعى البعض أن الشجار كان بين أفراد من الجالية المصرية مع مواطن كويتي، وادعى آخرون أنه كان بين مصريين وأفراد من الجالية السورية. لكنّ المؤكد أنّ مقطع الفيديو قديم ولا علاقة له بالفترة الحالية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/RdhMxPxCISw\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/_5pKnJarh1I\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات على مواقع التواصل الاجتماعي ومواقع إخبارية، منذ 10 أغسطس/آب الجاري، مقطع فيديو يظهر شجاراً بين عدة أشخاص، وادعى ناشرو الخبر أنه شجار بين أفراد من الجالية المصرية ومواطن كويتي في شارع عام، بسبب ضرب الأخير لأحد أفراد الجالية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><iframe frameborder=\"0\" height=\"758\" scrolling=\"no\" src=\"https://web.facebook.com/plugins/video.php?href=https%3A%2F%2Fweb.facebook.com%2FHossamelsharkawy.official%2Fvideos%2F3302587126466094%2F&amp;show_text=1&amp;width=267\" style=\"border:none;overflow:hidden\" width=\"267\"></iframe></p>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"rtl\"><code>كويتى ضرب مصرى فى الكويت ... المصرين اتجمعو علية واخد علقة مووت .. لحد امتى هيفضل تطاول بعض من الكوايتة <a href=\"https://t.co/upKHWB3rUe\">pic.twitter.com/upKHWB3rUe</a></code></p>\r\n<code>&mdash; ramzy elsied (@ramzyelsied) <a href=\"https://twitter.com/ramzyelsied/status/1292882430446186496?ref_src=twsrc%5Etfw\">August 10, 2020</a></code></blockquote>\r\n\r\n<p>&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 359,
+        "left": 1.9666748046875,
+        "path": "articles/1597306477GettyImages-493044392.jpg",
+        "top": 63.10009765625,
+        "totalHeight": 423,
+        "totalWidth": 642,
+        "watermark_path": "articles/watermark-1597306477GettyImages-493044392.jpg",
+        "width": 638
+    },
+    "post_date": "2020-08-13T11:09:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/ramzyelsied/status/1292882430446186496",
+            "name": "ramzy elsied",
+            "path": "published/0_1597307129_رمزي.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/Hossamelsharkawy.official/videos/3302587126466094/",
+            "name": "حسام الشرقاوى - Hossam ElSharkawy",
+            "path": "published/1_1597307129_حسام.jpg"
+        },
+        {
+            "link": "https://www.coptstoday.com/l316135",
+            "name": "الأقباط اليوم ",
+            "path": "published/2_1597307129_الأقباط.jpg"
+        },
+        {
+            "link": "https://mashahed.org/112746.html",
+            "name": "مشاهد ",
+            "path": "published/3_1597307295_Annotation 2020-08-13 112700.jpg"
+        },
+        {
+            "link": "https://www.altreeq.com/161031",
+            "name": "الطريق",
+            "path": "published/4_1597307295_الطريق.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://alziadiq8.com/182810.html",
+            "name": "مدونة الزيادي ",
+            "path": "sources/0_1597306477_الزدياق.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=_5pKnJarh1I&feature=youtu.be",
+            "name": "علي اليامي",
+            "path": "sources/1_1597306477_علي.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "مقطع فيديو قديم لشجار في الكويت ضم مصريين وسوريين",
+    "updated_at": "2020-09-25 10:22:27",
+    "url_path": "/factcheck/2020/08/13/مقطع-فيديو-قديم-لشجار-في-الكويت-ضم-مصريين-وسوريين"
+}

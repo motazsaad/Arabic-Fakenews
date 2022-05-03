@@ -1,0 +1,118 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 159,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "نفت الصفحة الرسمية لوزارة التعليم العالي المصرية القرار المنسوب إلى الوزير (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\">في إطار جهود وزارة التعليم العالي المصرية للحدّ من انتشار فايروس كورونا المستجد، تقرّر تأجيل الامتحانات النهائية للفصل الدراسي الأول لمدة أسبوعين.</p>\r\n",
+    "country": "EG",
+    "created_at": "2020-12-26 15:52:17",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 2,
+    "feedback_pos": 2,
+    "id": "5fe73201e33df566e36758f8",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;<a href=\"https://misbar.com/\" style=\"text-decoration:none\" target=\"_blank\"><u>مسبار</u></a>&quot; من الخبر المتداول ووجد أنه زائف، إذ نفت <a href=\"https://www.facebook.com/MOHESREGYPT/posts/3581473535277391\" style=\"text-decoration:none\" target=\"_blank\"><u>الصفحة الرسمية</u></a> لوزارة التعليم العالي المصرية، على موقع فيسبوك،&nbsp; هذا القرار المنسوب إلى الوزير.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">يُذكر أن مصر تشهد ارتفاعاً في الحالات المسجلة للمصابين بكوفيد-19،&nbsp;ما جعل البعض ينشر صورة القرار المتداولة على أنها حقيقية وصادرة عن الوزارة.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_i0c32sww1.jpg\" style=\"height:565px; width:538px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">اقرأ/ي أيضاً:</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/12/25/%D8%A8%D9%8A%D8%BA-%D8%B1%D8%A7%D9%85%D9%8A-%D9%84%D9%8A%D8%B3-%D8%A3%D9%88%D9%84-%D8%B9%D8%B1%D8%A8%D9%8A-%D9%8A%D8%AD%D8%B5%D8%AF-%D9%84%D9%82%D8%A8-%D9%85%D8%B3%D8%AA%D8%B1-%D8%A3%D9%88%D9%84%D9%85%D8%A8%D9%8A%D8%A7\" target=\"_blank\">بيغ رامي ليس أول عربي يحصد لقب مستر أولمبيا</a></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/12/24/%D9%88%D8%A7%D9%82%D8%B9%D8%A9-%D8%AA%D8%B9%D8%B0%D9%8A%D8%A8-%D8%B7%D9%81%D9%84-%D8%AF%D8%A7%D8%AE%D9%84-%D8%AF%D8%A7%D8%B1-%D8%A3%D9%8A%D8%AA%D8%A7%D9%85-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1-%D9%82%D8%AF%D9%8A%D9%85%D8%A9\" target=\"_blank\">واقعت عذيب طفل داخل دار أيتام في مصر قديمة</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "كوفيد-19",
+        "كورونا",
+        "مصر",
+        "تأجيل الامتحانات"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تتناقل صفحات وحسابات على مواقع التواصل الاجتماعي، حديثاً، قراراً ادعت أنه صادر عن وزير التعليم العالي المصري، خالد عبد الغفور، قضى بتأجيل الامتحانات النهائية للفصل الدراسي الأول لمدة أسبوعين، وذلك للحدّ من انتشار فايروس كوفيد-19.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_vq5z2jmqy.jpg\" style=\"height:770px; width:540px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_x1qdd7vix.jpg\" style=\"height:390px; width:528px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 163,
+        "left": 1.70556640625,
+        "path": "articles/1608987137العالي.jpg",
+        "top": 214.80615234375,
+        "totalHeight": 423,
+        "totalWidth": 295,
+        "watermark_path": "articles/watermark-1608987137العالي.jpg",
+        "width": 290
+    },
+    "post_date": "2020-12-26T14:46:00.000+03:00",
+    "published": [
+        {
+            "id": "5fe7354ed8148f6f2b406cde",
+            "link": "https://twitter.com/SakrSak88833276/status/1342763082423152640",
+            "name": "&scaron;ăķř🙂",
+            "origin": "twitter",
+            "path": "sources/581bfa150c1c5862172bf58ad4a79fb13dd9763f.jpg"
+        },
+        {
+            "id": "5fe7354e2c95055f0a3ab1e4",
+            "link": "https://www.facebook.com/AkhbarKfrSqrAwnLayn/posts/4180122392002530",
+            "name": "اخبار كفر صقر",
+            "origin": "facebook",
+            "path": "sources/57f3c9c56eb1ebd24e36b9fcb3334b1248e22cc3.jpg"
+        },
+        {
+            "id": "5fe7354e63af5d7a1269a825",
+            "link": "https://www.facebook.com/Rehab.yo.50364592/posts/436544017361082",
+            "name": "Rehab Yaso",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        },
+        {
+            "id": "5fe7354e55d59d1ca8368084",
+            "link": "https://www.facebook.com/groups/441675533846775/permalink/442118090469186/",
+            "name": "الحاج سيد عمار",
+            "origin": "facebook",
+            "path": "sources/9fb41797f3ab0b7b87f8775614ed7b0bdd915b9b.jpg"
+        },
+        {
+            "id": "5fe735b418dba56f543abf41",
+            "link": "https://www.facebook.com/mohamed.matar.75033/posts/2766452513610263",
+            "name": "Mohamed Matar",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        },
+        {
+            "id": "5fe735b478062379081612be",
+            "link": "https://www.facebook.com/hoba.bakr.7/posts/738684183735067",
+            "name": "Hoba Bakr",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fe7320172381a3f4a3ef4f6",
+            "link": "https://www.facebook.com/MOHESREGYPT/posts/3581473535277391",
+            "name": "وزارة التعليم العالي والبحث العلمي المصرية",
+            "origin": "facebook",
+            "path": "sources/f0bf7ab0e004343ae11310af45c7a6e88233d6ca.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "نفت الصفحة الرسمية لوزارة التعليم العالي المصرية القرار المنسوب إلى الوزير.",
+    "title": "وزارة التعليم العالي المصرية تنفي تأجيل الامتحانات لأسبوعين",
+    "updated_at": "2020-12-26 16:18:30",
+    "url_path": "/factcheck/2020/12/26/وزارة-التعليم-العالي-المصرية-تنفي-تأجيل-الامتحانات-لأسبوعين",
+    "was_notification_pushed": "true"
+}

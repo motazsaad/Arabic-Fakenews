@@ -1,0 +1,109 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 13957,
+    "author": {
+        "fullname": "نور أبو عامر ",
+        "id": "5ef12ef3163be36bd11c3862",
+        "photo": {
+            "name": "1592864499_noorabuamaer.jpg",
+            "path": "authors/1592864499_noorabuamaer.jpg"
+        }
+    },
+    "caption": "الترجمة زائفة، إذ أنَّ النشيد لإسرائيلي لا يحمل المعاني المذكورة (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">النشيد الوطني الإسرائيلي يتوعد بقتل سكان مصر وكنعان وبابل.</span></p>\r\n",
+    "country": "IL",
+    "created_at": "2020-06-24 16:58:32",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ef35c08163be3721f07a4d3",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:black\">تحقّق &quot;مسبار&quot; من الخبر المتداول، ووجد أنَّ الترجمة زائفة، إذ أنَّ النشيد لإسرائيلي لا يحمل المعاني المذكورة، وفيما يلي ترجمته كاملاً:</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><span style=\"background-color:white\"><span style=\"color:black\">طالما في القلب تكمن،</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><span style=\"background-color:white\"><span style=\"color:black\">نفس يهودية تتوق،</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><span style=\"background-color:white\"><span style=\"color:black\">وللأمام نحو الشرق،</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><span style=\"background-color:white\"><span style=\"color:black\">عين تنظر إلى صهيون</span><span dir=\"LTR\" lang=\"EN-GB\"><span style=\"color:black\">.</span></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><span style=\"background-color:white\"><span style=\"color:black\">أملنا لم يضع بعد،</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><span style=\"background-color:white\"><span style=\"color:black\">أمل عمره ألفي سنة،</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><span style=\"background-color:white\"><span style=\"color:black\">أن نكون أمّة حرّة في بلادنا،</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:black\">بلاد صهيون وأورشليم.</span></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تداول عدد كبير من الحسابات على موقعي فيسبوك وتويتر، إضافةً إلى بعض الصحف، منشوراً يدّعي أنَّ النشيد الوطني الإسرائيلي يحمل عبارات تتوعد باحتلال الشرق، وتهدد بقطع رؤوس سكان مصر وكنعان وبابل، وإراقة دمائهم.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"AR-QA\"><span style=\"color:black\"><img alt=\"A screenshot of a cell phone\r\n\r\nDescription automatically generated\" id=\"Picture_x0020_8\" src=\"https://images-prod.misbar.com/articlebody/origin_9y46slhpw.jpg\" style=\"height:543.75pt; width:451.5pt\" /> </span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"AR-QA\"><span style=\"color:black\"><img alt=\"A screenshot of a social media post\r\n\r\nDescription automatically generated\" id=\"Picture_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/origin_5028wnr5m.jpg\" style=\"height:355.5pt; width:450.75pt\" /> </span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"background-color:white\"><strong><span dir=\"LTR\" lang=\"AR-SA\"><span style=\"color:black\"><img alt=\"A screenshot of a cell phone\r\n\r\nDescription automatically generated\" id=\"Picture_x0020_6\" src=\"https://images-prod.misbar.com/articlebody/origin_3g9foskur.jpg\" style=\"height:417pt; width:451.5pt\" /> </span></span></strong></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"background-color:white\"><strong><span dir=\"LTR\" lang=\"AR-SA\"><span style=\"color:black\"><img alt=\"A screenshot of a cell phone\r\n\r\nDescription automatically generated\" id=\"Picture_x0020_7\" src=\"https://images-prod.misbar.com/articlebody/origin_e2rrz96v1.jpg\" style=\"height:440.25pt; width:451.5pt\" /> </span></span></strong></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 352,
+        "left": 4.3238525390625,
+        "path": "articles/1593007112GettyImages-1204352124.jpg",
+        "top": 5.80712890625,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1593007112GettyImages-1204352124.jpg",
+        "width": 626
+    },
+    "post_date": "2020-06-24T16:12:00.000+03:00",
+    "published": [
+        {
+            "link": "http://alwatan.com/details/283248",
+            "name": "الوطن",
+            "path": "published/0_1593007111_الوطن-العمانية.JPG"
+        },
+        {
+            "link": "http://www.ahewar.org/debat/show.art.asp?aid=584111&r=0&fbclid=IwAR19jSBIKqtJW9svHI8UH5SaLKxYFqR88tyh4dx-Q-X2OBUjU0VdP7FKDMw",
+            "name": "الحوار المتمدن",
+            "path": "published/1_1593007111_الحوار المتمدن-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=3132455396811562&set=a.2149513788439066&type=3",
+            "name": "Mistergfx Latreche",
+            "path": "published/2_1593007111_Mistergfx Latreche.jpg"
+        },
+        {
+            "link": "https://twitter.com/amrelhady4000/status/1122471194647724032",
+            "name": "AMR ABD ELHADY عمرو عبد الهادي",
+            "path": "published/3_1593007111_عمرو-عبد-الهادي.jpg"
+        },
+        {
+            "link": "https://twitter.com/fatimaalwahsh/status/1120065288471445515",
+            "name": "الدكتورة فاطمة الوحش",
+            "path": "published/4_1593007111_الدكتورة فاطمة الوحش.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/anas.bensouda.5/posts/3078186755537731",
+            "name": "Anas Bensouda",
+            "path": "published/5_1593007111_Anas Bensouda.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/1572211326400618/permalink/2355397428082000/",
+            "name": "بريطانيا لم ترسل رسالة إلى الشعب عن رقاقات تتبع تحت الجلد",
+            "path": "published/6_1593007111_Islam Kasken.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://m.knesset.gov.il/about/lexicon/pages/hatikva.aspx",
+            "name": "knesset",
+            "path": "sources/0_1593007111_knesset.JPG"
+        },
+        {
+            "link": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%A3%D9%85%D9%84_(%D9%86%D8%B4%D9%8A%D8%AF)",
+            "name": "هَتِكْڤاه - ويكيبيديا",
+            "path": "sources/1_1593007111_Wikipedia-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ترجمة زائفة متداولة عن نشيد الاحتلال الإسرائيلي",
+    "updated_at": "2020-09-25 12:40:08",
+    "url_path": "/factcheck/2020/06/24/النشيد-الإسرائيلي-يتوعد-بقتل-العرب-زائف"
+}

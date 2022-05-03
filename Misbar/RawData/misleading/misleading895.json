@@ -1,0 +1,109 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 327,
+    "author": {
+        "fullname": "رشيد عفيف",
+        "id": "5ec4e956db291667784c4bc4",
+        "photo": {
+            "name": "1589963094_رشيد صورة.jpg",
+            "path": "authors/1589963094_رشيد صورة.jpg"
+        }
+    },
+    "caption": "الفيديو يُصوّر حيتان الأوروكا في نيوزيلاندا وليس في الجزائر (Getty)",
+    "category": "News",
+    "claim": "<p>فيديو يُصوّر حيتان الأوركا أو ما يُعرف بالحيتان القاتلة على شواطئ الجزائر.</p>\r\n",
+    "country": "DZ",
+    "created_at": "2020-07-17 10:24:31",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f11522f163be307ec29ba25",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:#1c1e21\">تحقق &quot;مسبار&quot; من مقطع الفيديو ووجده مضللاً ومفبركاُ، إذ تمّ تركيب التعليق الصوتي عليه، وهو ليس لحيتان من نوع الأوركا ظهرت حديثاً على شواطئ الجزائر، إنّما يعود إلى بداية العام الجاري ويصوّر حيتان الأوركا على شواطئ نيوزيلاندا. </span></span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/heuSedFX8m8\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات وحسابات على موقع التواصل الاجتماعي فيسبوك، مقطع فيديو يُظهر حيتاناً من نوع &quot;الأوركا&quot; تسبح على شواطئ الجزائر. وجاء الفيديو مرفقاً بتعليق صوتي يقول إن الحيتان تسبح في شواطئ منطقة عين تموشنت بالجزائر. كما صاحب الفيديو تعليقٌ يوضح أن ظهور الحيتان في هذه المنطقة جاء بعد توقف شبه تام لإبحار السفن، مع هاشتاغ <span style=\"background-color:white\"><a href=\"https://www.facebook.com/hashtag/%D9%83%D9%88%D8%B1%D9%86%D8%A7?source=feed_text&amp;epa=HASHTAG&amp;__xts__%5B0%5D=68.ARAcLHbz2xd10y1KffPbJ1azhD6lsSfuOnJXsNX3oeQUhMddGiCh9erzmjZwXxwQY4DGBWCIleMrV5fDnXw5KklqLoH6hcP1YdE0wUBLKBwuQglqCHslTjmZSxtJ3XJ4dQ--QsNt8mJaSHl2xmD7LaswC4mdqivytwePrEJhXT9xQEXQY7Wrkh7oFhrAWJPiSJnm4fYCydfevu8ixcvVzz-VCyBNLCAuQ8qNbq1xU19CGEGbwM6II7fERdHaxqZOyqvH9jJmOjVpXfuwQaxPwX-SpU3XN6flnnm0RFiZ8-Wr5AaFg4pKSQQXO4yawOUFAGnRq2eAv57Aym8S3B6_Q0MbzH3OlN51mN4&amp;__tn__=%2ANK-R\">#كورونا</a></span>&nbsp;<span style=\"background-color:white\">يغير العالم<span style=\"color:#1c1e21\">.</span></span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F100540811588279%2Fvideos%2F274108320562060%2F&amp;show_text=0&amp;width=331\" style=\"border:none;overflow:hidden\" width=\"331\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnabiltouil123%2Fvideos%2F3508145175885888%2F&amp;show_text=0&amp;width=331\" style=\"border:none;overflow:hidden\" width=\"331\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F104551491318494%2Fvideos%2F3295677743805060%2F&amp;show_text=0&amp;width=331\" style=\"border:none;overflow:hidden\" width=\"331\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 401,
+        "left": 3.2418365478515625,
+        "path": "articles/1594970671GettyImages-1176332433.jpg",
+        "top": 22.364501953125,
+        "totalHeight": 481,
+        "totalWidth": 721,
+        "watermark_path": "articles/watermark-1594970671GettyImages-1176332433.jpg",
+        "width": 712
+    },
+    "post_date": "2020-07-17T10:04:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/watch/?v=274108320562060",
+            "name": "الجزائر الجديدة",
+            "path": "published/0_1594970670_الجزائر الجديدة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=3508145175885888",
+            "name": "Touil Nabil Givenchi",
+            "path": "published/1_1594970670_Touil Nabil Givenchi.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=3295677743805060",
+            "name": "Biskra Vol.2",
+            "path": "published/2_1594970670_Biskra Vol.2.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=1188659501470333",
+            "name": "سلوكيات",
+            "path": "published/3_1594970670_سلوكيات.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=334285704237622",
+            "name": "Haraga DZ TV",
+            "path": ""
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=1713619692122923",
+            "name": "Dahka Dz",
+            "path": "published/5_1594971804_Dahka Dz.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=905377543316307",
+            "name": "Relax DZ 2",
+            "path": "published/6_1594971804_Relax DZ 2.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=586638408906031",
+            "name": "بلاد العجب Dzـ2",
+            "path": ""
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=heuSedFX8m8&app=desktop",
+            "name": "المقطع الأصلي",
+            "path": "sources/0_1594970671_YouTube-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "حيتان الأوركا القاتلة لم تظهر على شواطئ الجزائر",
+    "updated_at": "2020-09-25 20:54:20",
+    "url_path": "/factcheck/2020/07/17/حيتان-الأوركا-القاتلة-لم-تظهر-على-شواطئ-الجزائر"
+}

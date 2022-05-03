@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1847,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "نفت وزارة الأوقاف خبر إعادة فتح المساجد (Getty)",
+    "category": "Spirituality & Religion",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:black\">إعادة فتح المساجد في المملكة المغربيّة يوم 4 يونيو/ حزيران من العام الجاري، بعد قرار إغلاقها منذ أكثر من&nbsp;شهرين؛&nbsp;بسبب تفشي فايروس كورونا (كوفيد-19).</span></span></p>\r\n",
+    "country": "MA",
+    "created_at": "2020-05-31 12:53:39",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ed37ea3db291647b040e2c4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تحقق &quot;مسبار&quot; من الخبر وتبين أنه زائف، إذ نفت وزارة الأوقاف المغربيّة، في<a href=\"http://www.habous.gov.ma/%D8%A8%D9%84%D8%A7%D8%BA%D8%A7%D8%AA/14678-%D8%A8%D9%84%D8%A7%D8%BA-%D8%AA%D9%83%D8%B0%D9%8A%D8%A8-%D9%85%D8%B2%D8%A7%D8%B9%D9%85-%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D9%81%D8%AA%D8%AD-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AC%D8%AF.html\" style=\"color:blue; text-decoration:underline\"> بيان</a> لها، مزاعم إعادة فتح المساجد التي تتداولها بعض المواقع الإلكترونية. </span><span style=\"background-color:white\"><span style=\"color:black\">وندّدت الوزارة بنشر الأخبار الزائفة التي لا تُجهل خطورتها في هذه الظروف.<br />\r\nوأكدت الأوقاف المغربية أن كلّ ما يهم الشأن الديني، يعلن عنه عبر القنوات الرسمية المعتادة.</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"color:black\"><img alt=\"r9z8hOb.jpg\" src=\"https://images-prod.misbar.com/articlebody/investigation_jpa7oeupc.jpg\" style=\"height:643px; width:518px\" /></span></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تداولت صفحاتُ&nbsp;إخبارية وحسابات على مواقع التواصل الاجتماعيّ، خبراً يدّعي أن المملكة المغربيّة ستفتح أبواب مساجدها يوم 4 يونيو/ حزيران من العام الجاري، وذلك بعد إغلاق دام&nbsp; أكثر من شهرين؛&nbsp;بسبب تفشّي فايروس كورونا المستجدّ.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"color:black\"><img alt=\"Capture2.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_hm8ywc6iw.jpg\" style=\"height:416px; width:449px\" /></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"color:black\"><img alt=\"Capture1.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_dd11cjy50.jpg\" style=\"height:405px; width:451px\" /></span></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 355,
+        "left": 3.05169677734375,
+        "path": "articles/1590918818GettyImages-1156448776.jpg",
+        "top": 15.966552734375,
+        "totalHeight": 423,
+        "totalWidth": 638,
+        "watermark_path": "articles/watermark-1590918818GettyImages-1156448776.jpg",
+        "width": 631
+    },
+    "post_date": "2020-05-31T10:35:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/MarrakechBook/photos/a.908607459292752/1676405799179577/?type=3&theater",
+            "name": "Marrakech Book",
+            "path": "published/0_1590918817_91487362_1619885761498248_2418117203837583360_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/settatwalfa/photos/a.441428796434623/676177896293044/?type=3&theater",
+            "name": "سطات الولافة بلادي",
+            "path": "published/1_1590918817_الزلافة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/105905077624271/photos/a.106928964188549/166497668231678/?type=3&theater",
+            "name": "marocan sarcasm",
+            "path": "published/2_1590918817_91129222_147063310175114_8176384977185800192_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/officielpagedehayinbiaat/photos/a.407144859462120/1644084099101517/?type=3&theater",
+            "name": "حي الانبعاث سلا",
+            "path": "published/3_1590918817_حي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/NietosFnideq/photos/a.708860782535339/3177728905648502/?type=3&theater",
+            "name": "أحمد الفنيدق",
+            "path": "published/4_1590918817_94699169_3099240403497353_8713845313317634048_n.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "http://www.habous.gov.ma/%D8%A8%D9%84%D8%A7%D8%BA%D8%A7%D8%AA/14678-%D8%A8%D9%84%D8%A7%D8%BA-%D8%AA%D9%83%D8%B0%D9%8A%D8%A8-%D9%85%D8%B2%D8%A7%D8%B9%D9%85-%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D9%81%D8%AA%D8%AD-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AC%D8%AF.html",
+            "name": "وزارة الأوقاف المغربية",
+            "path": "sources/0_1590918818_1.jpg"
+        },
+        {
+            "link": "https://www.aa.com.tr/ar/%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%A3%D9%88%D9%82%D8%A7%D9%81-%D9%8A%D8%B1%D9%81%D8%B6-%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D9%81%D8%AA%D8%AD-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%AC%D8%AF-%D8%A8%D8%AA%D8%AF%D8%A7%D8%A8%D9%8A%D8%B1-%D8%AE%D8%A7%D8%B5%D8%A9/1856541",
+            "name": "وكالة الأناضول",
+            "path": "sources/1_1590920000_2.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "إعادة فتح المساجد في المغرب.. خبر زائف",
+    "updated_at": "2020-09-25 06:50:55",
+    "url_path": "/factcheck/2020/05/31/إعادة-فتح-المساجد-في-المغرب-خبر-زائف"
+}

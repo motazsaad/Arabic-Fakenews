@@ -1,0 +1,101 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2181,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "توفي عبد الرحيم الشعراوي عام 2012 (يوتيوب)",
+    "category": "Spirituality & Religion",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">وفاة الشيخ عبد الرحيم الشعراوي، نجل الشيخ محمد متولي الشعراوي، قبل أيام.</span></p>\r\n",
+    "country": "EG",
+    "created_at": "2020-07-09 14:28:15",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 1,
+    "id": "5f06ff4f163be30685623666",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من الخبر وتبيّن أنه مضلل، لأنّ الشيخ عبد الرحيم الشعراوي توفي عام 2012، وليس حديثاً كما يدّعي ناشرو الخبر المزعوم.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_mmzdd9a0e.jpg\" style=\"height:619px; width:521px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "الشعراوي",
+        "وفاة الشعراوي",
+        "عبد الرحيم الشعراوي",
+        "محمد متولي الشعراوي"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل صفحات وحسابات على مواقع التواصل الاجتماعي، حديثاً، خبراً مفاده وفاة الشيخ عبد الرحيم الشعراوي، نجل الشيخ محمد متولي الشعراوي، في مصر.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ewcwqtr82.jpg\" style=\"height:751px; width:529px\" /></span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"505\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D722605884975360%26id%3D100016778654528&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 261,
+        "left": 5.1500244140625,
+        "path": "articles/1594294095Annotation 2020-07-09 142157.jpg",
+        "top": 27.300048828125,
+        "totalHeight": 423,
+        "totalWidth": 561,
+        "watermark_path": "articles/watermark-1594294095Annotation 2020-07-09 142157.jpg",
+        "width": 464
+    },
+    "post_date": "2020-07-09T14:24:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=722605884975360&id=100016778654528",
+            "name": "ماضي النزلاوي",
+            "path": "published/0_1594294788_ماضي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=906460439829791&id=466666620475844",
+            "name": "ابوحماد الاخبارية",
+            "path": "published/1_1594294788_ابوحماد.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/1800658883597674/permalink/2620034764993411/?__tn__=H-R",
+            "name": "Ahmed M Farouk",
+            "path": "published/2_1594294789_احمد.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=4090847770989007&id=100001914739854",
+            "name": "محسن دش",
+            "path": "published/3_1594294789_محسن.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/2588289624581032/permalink/3132193336857322/",
+            "name": "Marwa Hany",
+            "path": "published/4_1594294789_مروى.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youm7.com/story/2012/1/10/%D9%85%D8%B4%D9%87%D8%AF-%D8%AC%D9%86%D8%A7%D8%A6%D8%B2%D9%89-%D9%85%D9%87%D9%8A%D8%A8-%D9%84%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%B1%D8%AD%D9%8A%D9%85-%D8%A7%D9%84%D8%B4%D8%B9%D8%B1%D8%A7%D9%88%D9%89-%D8%A7%D8%A8%D9%86-%D8%A5%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D8%AF%D8%B9%D8%A7%D8%A9/574535",
+            "name": "اليوم السابع",
+            "path": "sources/0_1594294094_اليوم السابع.jpg"
+        },
+        {
+            "link": "https://www.shorouknews.com/news/view.aspx?cdate=10012012&id=91b3686b-37a2-4bbc-8b06-a670d000bce0&fbclid=IwAR1oV6LxLyG1Xsf0ZXZV5rcSfZnc8UGakumLjhaCbpNtcS46bqMu0apFpEc",
+            "name": "الشروق",
+            "path": "sources/1_1594294095_الشروق.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "توفي الشيخ عبد الرحيم الشعراوي عام 2012 وليس حديثاً",
+    "updated_at": "2020-09-25 22:07:08",
+    "url_path": "/factcheck/2020/07/09/توفي-الشيخ-عبد-الرحيم-الشعراوي-عام-2012-وليس-حديثا"
+}

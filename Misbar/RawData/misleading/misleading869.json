@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 668,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "مجرد استعراض مسرحي (يوتيوب)",
+    "category": "Spirituality & Religion",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">ملحد يتحدى الله على الهواء مباشرة.</p>\r\n",
+    "country": "",
+    "created_at": "2020-07-22 16:31:20",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f183fa8163be306846a0d29",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من المقطع المتداول ووجد أنه مضلل ومجتزأ. يُظهر <a href=\"https://www.youtube.com/watch?v=Mt_sN3bEs-o\" target=\"_blank\">المقطع الأصلي</a> شخصاً اسمه Mate Rakonczai، يدّعي أنّ لديه القدرة على إيقاف دقّات قلبه مدة 29 ثانية. ومن الجدير بالذكر أنّ لـRakonczai العديد من الاستعراضات المسرحية التي أدى فيها عروضاً مشابهة، جميعها تندرج تحت تصنيف الخداع البصري والخفة.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/Mt_sN3bEs-o\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تتناقل صفحات وحسابات على مواقع التواصل الاجتماعي، منذ سنوات، مقطع فيديو تدعي أنه لشخص ملحد تحدى الله بأن يميته على الهواء مباشرة. وبحسب ناشري الخبر، يتوقف قلب ذلك الشخص بالفعل.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><iframe frameborder=\"0\" height=\"516\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FF.T.S.T.officielle%2Fvideos%2F715993041845412%2F&amp;show_text=1&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_t7zhexvxo.jpg\" style=\"height:566px; width:521px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/Yr4xFobpfRo\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 289,
+        "left": 3.066650390625,
+        "path": "articles/1595424680Annotation 2020-07-22 162054.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 520,
+        "watermark_path": "articles/watermark-1595424680Annotation 2020-07-22 162054.jpg",
+        "width": 514
+    },
+    "post_date": "2020-07-22T16:18:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/F.T.S.T.officielle/videos/715993041845412/",
+            "name": "Fédération Tunisienne du Sport et Travail",
+            "path": "published/0_1595425384_الجامعة.jpg"
+        },
+        {
+            "link": "https://twitter.com/ajlnews_s/status/778868339699486720",
+            "name": "فيديو عاجل",
+            "path": "published/1_1595425384_فيديو.jpg"
+        },
+        {
+            "link": "https://twitter.com/ajlnews_s/status/777289944981180416",
+            "name": "فيديو عاجل",
+            "path": "published/1_1595425384_فيديو.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=MyHlg3j0PIY",
+            "name": "omar shalash",
+            "path": "published/3_1595425432_عمر.jpg"
+        },
+        {
+            "link": "https://youtu.be/Yr4xFobpfRo",
+            "name": "HERO Official",
+            "path": "published/4_1595425433_هيرو.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://youtu.be/Mt_sN3bEs-o",
+            "name": " bestofmaterakonczai",
+            "path": "sources/0_1595424680_unnamed.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "مجرد استعراض مسرحي وليس ملحداً تحدى الله على الهواء",
+    "updated_at": "2020-09-25 22:06:49",
+    "url_path": "/factcheck/2020/07/22/مجرد-استعراض-مسرحي-وليس-ملحدا-تحدى-الله-على-الهواء"
+}

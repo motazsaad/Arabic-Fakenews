@@ -1,0 +1,151 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 196,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": " المقطع مفبرك استبدلت المقطوعة الأصلية بموسيقى فيلم الرسالة (Getty)",
+    "category": "Music",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">الموسيقار العالمي أندريه ريو يعزف موسيقى فيلم الرسالة.</p>\r\n",
+    "country": "NL",
+    "created_at": "2020-12-07 12:38:28",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 2,
+    "feedback_pos": 2,
+    "id": "5fcdf81470f5851f6a64d508",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;<a href=\"https://misbar.com/editorial\" style=\"color:blue; text-decoration:underline\">مسبار</a>&quot; من مقطع الفيديو المتداول وتبين أنه مفبرك، تم تعديله باستبدال المعزوفة الأصلية بموسيقى فيلم الرسالة. ويُظهر المقطع الأصلي الموسيقار العالمي أندريه ريو وأوركسترا يوهان شتراوس يعزفان مقطوعة &quot;بوليرو رافيل&quot; في مدينة ماسترخت الهولندية. ونشر ريو مقطع الفيديو في حسابه الخاص على موقع يوتيوب عام 2012.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">يذكر أن الفرنسي موريس جار، ألف موسيقى فيلم الرسالة، الذي يعدّ أحد&nbsp;أشهر الأفلام العربية التي تناولت السيرة النبوية وبداية انتشار الإسلام.&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><br />\r\n<iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/LwLABSm0yYc\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">اقرأ/ي أيضاً</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/12/02/%D9%84%D9%85-%D9%8A%D8%B9%D8%B2%D9%81-%D9%8A%D8%A7%D9%86%D9%8A-%D9%85%D9%88%D8%B3%D9%8A%D9%82%D9%89-%D8%B1%D8%A3%D9%81%D8%AA-%D8%A7%D9%84%D9%87%D8%AC%D8%A7%D9%86\" style=\"color:blue; text-decoration:underline\">لم يعزف ياني موسيقى رأفت الهجَّان</a></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/11/28/%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%B1%D8%B3%D9%85-%D8%A7%D8%B3%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D8%B1%D9%85%D8%B6%D8%A7%D9%86-%D8%B9%D9%84%D9%89-%D8%B4%D8%A7%D8%B7%D8%A6-%D8%BA%D8%B2%D8%A9-%D9%82%D8%AF%D9%8A%D9%85\" style=\"color:blue; text-decoration:underline\">فيديو رسم اسم محمد رمضان على شاطئ غزة قديم</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات إخبارية وحسابات على موقع فيسبوك، حديثاً، مقطع فيديو ادعت أنه للموسيقار العالمي أندريه ريو، يعزف موسيقى فيلم الرسالة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_9xp3equlf.jpg\" style=\"height:379px; width:453px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"0.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_f2aw79js5.jpg\" style=\"height:372px; width:453px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 327,
+        "left": 5.451904296875,
+        "path": "articles/1607333907GettyImages-626034226.jpg",
+        "top": 10.597900390625,
+        "totalHeight": 423,
+        "totalWidth": 635,
+        "watermark_path": "articles/watermark-1607333907GettyImages-626034226.jpg",
+        "width": 582
+    },
+    "post_date": "2020-12-07T10:12:00.000+03:00",
+    "published": [
+        {
+            "id": "5fc78d95d54c6f6b4b643261",
+            "link": "https://www.facebook.com/BayechCom/videos/394333295245724",
+            "name": "BayechCom",
+            "origin": "facebook",
+            "path": "sources/d6ec3a8ee3c749fe256dd563039da4f9fd9ec47f.jpg"
+        },
+        {
+            "id": "5fcdf8091f33d534c71ebbb5",
+            "link": "https://www.facebook.com/100008509772404/videos/2457434277883541",
+            "name": "Anis Yassine",
+            "origin": "facebook",
+            "path": "sources/1636503784ce56ae2bc317668a8ec92ce3d95c03.jpg"
+        },
+        {
+            "id": "5fcdf813d323dc736e35dee4",
+            "link": "https://www.facebook.com/100016271520163/videos/796284354257275",
+            "name": "عبد الفتاح شرفي",
+            "origin": "facebook",
+            "path": "sources/1636503784ce56ae2bc317668a8ec92ce3d95c03.jpg"
+        },
+        {
+            "id": "5fcdf8134b78af3cd26ae1c2",
+            "link": "https://www.facebook.com/tarak.khlif/videos/3558617890851964",
+            "name": "Tarak Khlif",
+            "origin": "facebook",
+            "path": "sources/1636503784ce56ae2bc317668a8ec92ce3d95c03.jpg"
+        },
+        {
+            "id": "5fcdf813a8060f1b574effce",
+            "link": "https://www.facebook.com/zied.boussaid.14/videos/1556830921175783",
+            "name": "زياد بوسعيد",
+            "origin": "facebook",
+            "path": "sources/1636503784ce56ae2bc317668a8ec92ce3d95c03.jpg"
+        },
+        {
+            "id": "5fcdf81302b91c2dd476be7f",
+            "link": "https://www.facebook.com/mohamed.bestami/videos/3934844836548301",
+            "name": "Mohamed Bestami",
+            "origin": "facebook",
+            "path": "sources/1636503784ce56ae2bc317668a8ec92ce3d95c03.jpg"
+        },
+        {
+            "id": "5fcdfad8ad816b4d2978e605",
+            "link": "https://www.facebook.com/bayan.almaghrebe/videos/1329359507401351",
+            "name": "Bayanoo Almaghrebi",
+            "origin": "facebook",
+            "path": "sources/1636503784ce56ae2bc317668a8ec92ce3d95c03.jpg"
+        },
+        {
+            "id": "5fcdfad8b6e1a7084750fe14",
+            "link": "https://www.facebook.com/eglenoir.pacific/videos/1288472724839982",
+            "name": "Egle Noir Pacific",
+            "origin": "facebook",
+            "path": "sources/1636503784ce56ae2bc317668a8ec92ce3d95c03.jpg"
+        },
+        {
+            "id": "5fcdfad83548d8402c4bb2d5",
+            "link": "https://www.facebook.com/loutfi.chikh.7/videos/707979683447955",
+            "name": "Lotfi Chikh",
+            "origin": "facebook",
+            "path": "sources/1636503784ce56ae2bc317668a8ec92ce3d95c03.jpg"
+        },
+        {
+            "id": "5fcdfad826471d36593ff3f2",
+            "link": "https://www.facebook.com/riadh.dachraoui.3/videos/2835747633369152",
+            "name": "Riadh Dachraoui",
+            "origin": "facebook",
+            "path": "sources/1636503784ce56ae2bc317668a8ec92ce3d95c03.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f8eb18ba3818a4eb81ad3d2",
+            "link": "https://www.youtube.com/watch?v=LwLABSm0yYc",
+            "name": "قناة يوتيوب",
+            "origin": "",
+            "path": "published/7_1603128187_72cba5bc67b31d9d753cf43c35e93c59a1b0f98d.jpg"
+        },
+        {
+            "id": "5f9e88133453126ed37c67df",
+            "link": "https://doc.aljazeera.net/portrait/%D9%85%D9%88%D8%B1%D9%8A%D8%B3-%D8%AC%D8%A7%D8%B1-%D8%B0%D9%88-%D8%A7%D9%84%D8%A3%D9%84%D9%81-%D8%A3%D8%B0%D9%86-%D8%A3%D8%B4%D9%87%D8%B1-%D9%85%D8%A4%D9%84%D9%81%D9%8A-%D9%85%D9%88%D8%B3%D9%8A/",
+            "name": "الجزيرة الوثائقية",
+            "origin": "",
+            "path": "sources/a04119fbae045cee4c3e1a1dff90fef9b3bbe598.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لم يعزف أندريه ريو موسيقى فيلم الرسالة",
+    "updated_at": "2020-12-07 13:06:59",
+    "url_path": "/factcheck/2020/12/07/لم-يعزف-أندريه-ريو-موسيقى-فيلم-الرسالة",
+    "was_notification_pushed": "true"
+}

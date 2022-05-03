@@ -1,0 +1,91 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 1,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 178,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">فيديو للرئيس الأميركي دونالد ترامب وهو يصفع حاكم مدينة مكسيكو.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-01-07 16:23:59",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e14866fd4a2294bea509703",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">الفيديو غير صحيح، فترامب لم يصفع حاكم &quot;مدينة مكسيكو&quot;، والمقطع يُصوّر مشاجرة مفتعلة متفق على تأديتها كمشهد تمثيلي بين ترامب وفينيس مكماهون المدير العام لرابطة المصارعة العالمية الترفيهية، في مؤتمر صحفي سبق افتتاح أحد مهرجانات المصارعة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_f2262b717af4adfb2d0652b6ab373acf.jpg\" style=\"height:466px; width:575px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">انتشر على منصات التواصل الاجتماعي منذ عام 2018 مقطع فيديو ادعى ناشروه أنّه يُصوّر الرئيس الأميركي دونالد ترامب وهو يصفع حاكم &quot;ولاية مكسيكو&quot;. وتداول الفيديو عدد من مستخدمي وسائل التواصل مصحوباً بتعليق &quot;لقاء بين ترامب وحاكم مكسيكو لن يظهر حتماً في تلفزيونات أمريكا&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_3c642b967c1b3a033a7da3c31c65c955.jpg\" style=\"height:336px; width:457px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_5114cf5b28d876377d669406f3bb39f0.jpg\" style=\"height:322px; width:356px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_1876f4d17672a85962991abbc720d90d.jpg\" style=\"height:344px; width:321px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_c16ec75cbe4ebebaf5e8e1d1e050b18e.jpg\" style=\"height:453px; width:364px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 351,
+        "left": 3.87939453125,
+        "path": "articles/1578403439ترامب.jpg",
+        "top": 37.80718994140625,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "width": 625
+    },
+    "post_date": "2019-12-21T16:11:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.youtube.com/watch?v=et2FT0XCZAc",
+            "name": "Bazar Video",
+            "path": "published/0_1578403439_Bazqr-logo.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=GMLejqXdZNM&feature=emb_logo",
+            "name": "Saif & Saif",
+            "path": "published/1_1578403912_Saif-logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/hatem.hekal.7/videos/2533421980081967/",
+            "name": "Hatem Hekal",
+            "path": "published/2_1578403912_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=781554672193052",
+            "name": "شبكة الوطن الإعلامية",
+            "path": "published/3_1578403992_شبكة الوطن الإخبارية-لوغو.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=Y8s9Pq0dTdA",
+            "name": "مقاطع ضحك",
+            "path": "published/4_1578404271_مقاطع ضحك-لوغو.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?time_continue=93&v=iJytfc-RhjE&feature=emb_logo",
+            "name": "الفيديو الأصلي",
+            "path": "sources/0_1578403439_YouTube-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل صفع ترامب حاكم مدينة مكسيكو؟",
+    "updated_at": "2020-09-23 12:39:58",
+    "url_path": "/factcheck/2020/01/07/هل-صفع-ترامب-حاكم-مدينة-مكسيكو"
+}

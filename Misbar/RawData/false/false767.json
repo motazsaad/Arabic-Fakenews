@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1811,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "تعود الرسمة لفتى التمرد (تويتر)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">ثوار لبنان يرسمون أيقونة الثورة العراقية صفاء السراي على الجدران.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-05-01 13:21:36",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eabf830db291634e541eac4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span dir=\"rtl\" lang=\"ar\">تحقق &quot;مسبار&quot; من الرسمة المتداولة ووجد أنّ الادعاء زائف، إذ تعود الرسمة لـAnarchist boy أي (فتى الفوضوية)، وقد عرض موقع أمازون لوحة لنفس الرسمة للبيع في يناير/كانون الثاني 2014.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span dir=\"rtl\" lang=\"ar\">كما عثر &quot;مسبار&quot; على صورة <a href=\"https://ar.wikipedia.org/wiki/%D8%B5%D9%81%D8%A7%D8%A1_%D8%A7%D9%84%D8%B3%D8%B1%D8%A7%D9%8A\" style=\"color:#0563c1; text-decoration:underline\">صفاء السراي</a> ويظهر فيها مختلفاً تماماً عن صورة الرسمة المتداولة.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_n6gzn5896.jpg\" style=\"height:445px; width:623px\" /></span><br />\r\n<span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_pcipei389.jpg\" style=\"height:502px; width:646px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت حسابات على مواقع التواصل الاجتماعي صورة لرسم جرافيتي (الرسم على الجدران)، وادّعت </span><span dir=\"rtl\" lang=\"ar\">أنّ</span><span dir=\"RTL\" lang=\"AR-SA\"> الصورة تعود لأيقونة الثورة&nbsp;العراقية، صفاء السراي.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_3srga95eb.jpg\" style=\"height:631px; width:546px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_433rxtkdg.jpg\" style=\"height:599px; width:527px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 42.3636474609375,
+        "path": "articles/158832849585.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 828,
+        "watermark_path": "articles/watermark-158832849585.jpg",
+        "width": 752
+    },
+    "post_date": "2020-05-01T13:16:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=3024005764346686&set=a.335244666556156&type=3",
+            "name": "Nahal Riyad Kasim",
+            "path": "published/0_1588328495_Nahal Riyad Kasim.jpg"
+        },
+        {
+            "link": "https://twitter.com/Ela51059106/status/1255475351557464067",
+            "name": "oprah",
+            "path": "published/1_1588328634_oprah.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/166640413781883/photos/a.184590698653521/906211099824807/?type=3&theater",
+            "name": "Anti War",
+            "path": "published/2_1588328635_Anti War.jpg"
+        },
+        {
+            "link": "https://twitter.com/Iraqiainlondon/status/1255556129435856899",
+            "name": "الطبيبة العراقية",
+            "path": "published/3_1588328635_الطبيبة العراقية.jpg"
+        },
+        {
+            "link": "https://twitter.com/ShnoodaShnooda3/status/1255487710690783239",
+            "name": "Shahoda ",
+            "path": "published/4_1588328635_Shahoda Shnooda.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.amazon.co.uk/GRAFFITI-ANARCHIST-ARTISTIC-CANVAS-DISCOUNT/dp/B00M799V3Y",
+            "name": "Amazon",
+            "path": "sources/0_1588328495_12.jpg"
+        },
+        {
+            "link": "https://abdulla56.blogspot.com/2019/12/whos-safa-alsaray.html",
+            "name": "صفاء السراي",
+            "path": "sources/1_1588328635_3CA354AF-A5E1-4744-9BDB-DA7D3685C1CC.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل رُسمت صورة الثائر العراقي صفاء السراي على جدران لبنان؟",
+    "updated_at": "2020-09-25 17:28:42",
+    "url_path": "/factcheck/2020/05/01/هل-رسم-ثوار-لبنان-أيقونة-الثورة-العراقية-صفاء-السراي-على-الجدران"
+}

@@ -1,0 +1,126 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 140,
+    "author": {
+        "fullname": "صباح الخطيب",
+        "id": "5edc1b38db291674e776e9a3",
+        "photo": {
+            "path": "authors/1591643228_7.jpg"
+        }
+    },
+    "caption": "التقطت الصور عام 2016 في الكويت (تويتر)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صور امرأة كويتية تقتحم بيت زوجها بالسيارة أثناء عقد قرانه على زوجته الثانية.</p>\r\n",
+    "country": "KW",
+    "created_at": "2020-09-29 14:22:26",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 3,
+    "feedback_pos": 6,
+    "id": "5f7318f28ef8db5be218575f",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصور ووجد أنها مضللة، إذ أنها ليست لسيدة كويتية اقتحمت بيت زوجها أثناء عقد قرانه على امرأة أخرى، وإنما تعود لحادث جرى بتاريخ 7 ديسمبر/كانون الأول عام 2016، حيث اقتحمت سيارة مجهولة، ديوانية عزاء لإحدى الأسر في الكويت، بعد أن فقد السائق السيطرة عليها.</p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات على مواقع التواصل الاجتماعي، حديثاً، صوراً تُظهر اقتحام&nbsp;سيارة لمنزل في الكويت، وأرفقت بتعليق يفيد أن امرأة كويتية اقتحمت منزل زوجها أثناء عقد قرانه على امرأة أخرى.</span></p>\r\n\r\n<p style=\"text-align:center\"><strong><span style=\"color:#f73832\"><img id=\"صورة_x0020_7\" src=\"https://images-prod.misbar.com/articlebody/origin_8ptvh6l02.jpg\" style=\"height:411.75pt; width:402.75pt\" /> </span></strong></p>\r\n\r\n<p style=\"text-align:center\"><img id=\"صورة_x0020_8\" src=\"https://images-prod.misbar.com/articlebody/origin_z1co8vfsv.jpg\" style=\"height:426.75pt; width:411pt\" /></p>\r\n\r\n<p style=\"text-align:center\"><img id=\"صورة_x0020_9\" src=\"https://images-prod.misbar.com/articlebody/origin_nj7795bcc.jpg\" style=\"height:471.75pt; width:364.5pt\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 340,
+        "left": 3,
+        "path": "articles/1601378546Capture.jpg",
+        "top": 38,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-1601378546Capture.jpg",
+        "width": 605
+    },
+    "post_date": "2020-09-29T12:06:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/elfaydi_/status/1310579586619629568",
+            "name": "Farj",
+            "path": "published/0_1601378545_cdeb606d2277405729841fe21c5d10e856529971.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://almesryoon.com/Section_439/آخر-الأخبار/تزوج-عليها-كويتية-تنتقم-من-زوجها-باقتحام-غرفته-بالسيارة_1285993",
+            "name": "المصريون",
+            "path": "published/1_1601378545_cb3e0958ad63418011a9f5b6e382a4086d95e00f.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/groups/567710033907031/permalink/631998440811523/",
+            "name": "خوخة الكرغلي",
+            "path": "published/2_1601378545_8a2f0a7e86ba89b9626f630dbecae4add155cf29.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/groups/332441030874808/permalink/777802906338616/",
+            "name": "اماني الزطاف",
+            "path": "published/3_1601378545_8a2f0a7e86ba89b9626f630dbecae4add155cf29.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/groups/1635575596486286/permalink/3465191613524666/",
+            "name": "Fairuz Rouz",
+            "path": "published/4_1601378545_8a2f0a7e86ba89b9626f630dbecae4add155cf29.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/groups/1508058836078384/permalink/2650955141788742/",
+            "name": "عہﹻﹻﹻليﹾﹾ٭",
+            "path": "published/5_1601378545_8a2f0a7e86ba89b9626f630dbecae4add155cf29.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/groups/172179013879060/permalink/269959740767653/",
+            "name": "MAHmOUD Gaber",
+            "path": "published/6_1601378545_8a2f0a7e86ba89b9626f630dbecae4add155cf29.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/E1O7BI2QJ0kVYYf/status/1296015584543608832",
+            "name": "ابوطارق",
+            "path": "published/7_1601378545_cdeb606d2277405729841fe21c5d10e856529971.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.almuraba.net/news_view_126140.html",
+            "name": "المربع نت",
+            "path": "sources/0_1601378546_068d99b79da4c2cf0e321316bccf9eacbb8e43a0.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://alqabas.com/article/330173-سيارة-تقتحم-عزاء-ولا-إصابات",
+            "name": "جريدة القبس الإلكتروني",
+            "path": "sources/1_1601378546_566bd87f8df9119186a08c099a724069c970470f.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الصور ليست لكويتية اقتحمت بيت زوجها أثناء عقد قرانه على أخرى",
+    "updated_at": "2020-09-29 15:12:08",
+    "url_path": "/factcheck/2020/09/29/الصور-لحادث-في-بيت-عزاء-وليست-لكويتية-اقتحمت-بيت-زوجها-أثناء-عقد-قرانه-على-أخرى",
+    "was_notification_pushed": "true"
+}

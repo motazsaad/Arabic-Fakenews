@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 267,
+    "author": {
+        "fullname": "خالد إسماعيل",
+        "id": "5e59256dd4a2295224257db3",
+        "photo": {
+            "name": "1582900589_صورة 2.jpg",
+            "path": "authors/1582900589_صورة 2.jpg"
+        }
+    },
+    "caption": "نفى نجله عبد الرحمان القرضاوي الخبر (فيسبوك)",
+    "category": "Spirituality & Religion",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">أنباء مؤكدّة عن وفاة الداعية الإسلاميّ الشيخ يوسف القرضاوي.<br />\r\n&nbsp;</p>\r\n",
+    "country": "EG",
+    "created_at": "2020-09-30 20:13:22",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 5,
+    "id": "5f74bcb28235411faa608343",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الخبر المتداول وتبيّن انّه زائف، ولا أساس له من الصحة. وتواصل &quot;مسبار&quot; مع نجل الشيخ القرضاوي الشاعر عبد الرحمن يوسف، الذي نفى ما راج حول وفاة والده على وسائل التواصل الاجتماعيّ.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تداولت حسابات وصفحات إخبارية، بتاريخ 30 سبتمبر/أيلول الجاري، خبراً &nbsp;يدّعي وفاة الداعية المصري يوسف القرضاوي. ونقلت الصفحات نفسها الخبر عن الداعية الإماراتي وسيم يوسف.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_j36pcimhj.jpg\" style=\"height:204px; width:602px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_pp4z50yw1.jpg\" style=\"height:219px; width:602px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_tsr7a5uul.jpg\" style=\"height:238px; width:602px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_g5x2miqh1.jpg\" style=\"height:467px; width:602px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 327,
+        "left": 10.10528564453125,
+        "path": "articles/160148600148367352_2603761716330543_5199387687986921472_n.jpg",
+        "top": 35.746826171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-160148600148367352_2603761716330543_5199387687986921472_n.jpg",
+        "width": 582
+    },
+    "post_date": "2020-09-30T17:42:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/waseem_yousef/status/1311292467690471424",
+            "name": "Dr. Waseem Yousef",
+            "path": "published/0_1601486001_cdeb606d2277405729841fe21c5d10e856529971.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/TurkeyAffairs/status/1311300192273080321",
+            "name": "شؤون تركية ",
+            "path": "published/1_1601486001_cdeb606d2277405729841fe21c5d10e856529971.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/leflash.leflashfr/posts/3929155313766330",
+            "name": "omar hashish ",
+            "path": "published/2_1601486001_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/ehabanteel/status/1311326121049370624",
+            "name": "عنتيل النشطاء ",
+            "path": "published/3_1601486001_cdeb606d2277405729841fe21c5d10e856529971.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/mhisen_mohamed/status/1311333310514290688",
+            "name": "محمد إمحيسن ",
+            "path": "published/4_1601486001_cdeb606d2277405729841fe21c5d10e856529971.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/arahmanyusuf/status/1311313896054099969",
+            "name": "عبد الرحمن يوسف -تويتر ",
+            "path": "sources/0_1601486001_cdeb606d2277405729841fe21c5d10e856529971.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لا صحة لخبر وفاة الشيخ يوسف القرضاوي",
+    "updated_at": "2020-10-01 00:59:44",
+    "url_path": "/factcheck/2020/09/30/لا-صحة-لخبر-وفاة-الشيخ-يوسف-القرضاوي",
+    "was_notification_pushed": "true"
+}

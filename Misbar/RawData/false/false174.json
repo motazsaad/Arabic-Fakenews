@@ -1,0 +1,152 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 3488,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "الخبر زائف ولا أساس له من الصحة (تويتر)",
+    "category": "Politics",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">أمير الكويت: قواتنا على أتم الاستعداد لضم محافظة البصرة إلى دولة الكويت.</span></p>\r\n",
+    "country": "KW",
+    "created_at": "2020-11-07 17:22:20",
+    "created_by": "5f39b5a51dd585076701cb94",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 12,
+    "feedback_pos": 21,
+    "id": "5fa6ad9ce1c43b770e449f4c",
+    "investigation": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من الخبر المتداول وتبين أنه زائف ولا أساس له من الصحة. إذ لم يصرح أمير الكويت بهذا الكلام على الإطلاق، كما لم تنشره أي <a href=\"https://www.kuna.net.kw/Default.aspx\" style=\"color:#0563c1; text-decoration:underline\">وسائل إعلامية</a> رسمية. </span></p>\r\n\r\n<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">وآخر ما نُشر في وسائل الإعلام مؤخراً، بخصوص دولتي الكويت والعراق، كان بتاريخ 2 نوفمبر/تشرين الثاني الجاري، عن تسلّم الرئيس العراقي برهم صالح، <a href=\"https://www.spa.gov.sa/2150824\" style=\"color:#0563c1; text-decoration:underline\">رسالة خطية</a> من أمير دولة الكويت الشيخ نواف الأحمد الجابر الصباح، تضمّنت دعوة رسمية لزيارة الكويت. وجاء ذلك خلال استقبال الرئيس العراقي في قصر السلام في بغداد، السفير الكويتي لدى العراق، سالم الزمانان.</span></p>\r\n\r\n<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">وبحث اللقاء بحسب <a href=\"https://www.rudaw.net/arabic/middleeast/iraq/021120208\" style=\"color:#0563c1; text-decoration:underline\">بيان المكتب الإعلامي</a> لرئيس الجمهورية العراقية، عمق العلاقات الأخوية العميقة بين العراق والكويت، والعمل على تعزيزها نحو مزيدٍ من التعاون في المجالات كافة، وبما يخدم مصلحة الشعبين والبلدين الشقيقين، ويرسخ قيم التعاون والمحبة والسلام في المنطقة.</span></p>\r\n\r\n<p style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">اقرأ أيضاً:</span></p>\r\n\r\n<p style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/10/24/%D9%84%D9%85-%D8%AA%D8%B1%D9%81%D8%B6-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A8%D8%A7%D9%84%D9%88%D8%B3%D8%A7%D8%B7%D8%A9-%D9%84%D8%AD%D9%84-%D8%A7%D9%84%D8%A3%D8%B2%D9%85%D8%A9-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC%D9%8A%D8%A9\" style=\"color:#0563c1; text-decoration:underline\">لم ترفض الكويت الاستمرار بالوساطة لحل الأزمة الخليجية</a></p>\r\n\r\n<p style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/10/30/%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%84%D9%8A%D8%B3-%D9%84%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1-%D8%B9%D9%84%D9%89-%D9%8A%D9%85%D9%86%D9%8A-%D9%81%D9%8A-%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D9%88%D9%84%D8%A7-%D8%B9%D9%84%D9%89-%D9%85%D8%B5%D8%B1%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA\" style=\"color:#0563c1; text-decoration:underline\">الفيديو ليس لاعتداء على يمني في فرنسا ولا على مصري في الكويت</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات وصفحات على مواقع التواصل الاجتماعي، حديثاً، تصريحاً نسبته&nbsp;لأمير دولة الكويت نواف الأحمد الصباح، مفاده أنه قال: &quot;قواتنا على أتم الاستعداد لضم محافظة البصرة العراقية إلى دولة الكويت في أقل من 5 ساعات&quot;.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_3rcz95xok.jpg\" style=\"height:804px; width:544px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_fg50bnfue.jpg\" style=\"height:653px; width:549px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/16047596823000.jpg",
+        "watermark_path": "articles/watermark-16047596823000.jpg"
+    },
+    "post_date": "2020-11-07T17:16:00.000+03:00",
+    "published": [
+        {
+            "id": "5fa6ad9a800b463aa414d0ea",
+            "link": "https://www.facebook.com/abzahl1988/posts/2882603485301143?__xts__%5B0%5D=68.ARB8MF6yh-a0UxENetuRCDFRP5B7GRvHTLttsXOwGIbFN6yOeKSmc1aq6hbQEB-9yEGtZXGwCVdhwx-vHJkCDj9kphJLN74qkflW2hXUBs1EO0Da-ghNBOWyA20-gRrdM3eg_1MGcA957vdrLkQZ76v2N85oIJy8VTNycc-jJWYKQH-KDNkJE6mtKwqgpX_nVA3WLFOj1IGiwVQf5BIreA06tQAo7NWxBCpESRebISMLaP_SuIeHcK2YS7Gsr5GHHiEt0gANON_gpNVlto8tfjMkbbUJHaSQuyjwELR82YCFMcp5J1_6ORdKujNVoWV2LORTAM6u8imO--N3AQIh61g8RRA4&__tn__=-R",
+            "name": "عينك عليه",
+            "origin": "facebook",
+            "path": "sources/25a89509a16c485968012e0cf4d1f00461dea3eb.jpg"
+        },
+        {
+            "id": "5fa6ad9b1edeb6718d69b1a5",
+            "link": "https://www.facebook.com/alsamawwa/posts/116459826912698",
+            "name": "السماوة خبر عاجل",
+            "origin": "facebook",
+            "path": "sources/8c00722c2f785f7a595214e7c5cff16eb6e2761d.jpg"
+        },
+        {
+            "id": "5fa6ad9b0180187efd5c704e",
+            "link": "https://www.facebook.com/926fm/posts/4528539193884472",
+            "name": "Fujairah",
+            "origin": "facebook",
+            "path": "sources/0893c68eda1d1deb973d11386361af0aa664ca26.jpg"
+        },
+        {
+            "id": "5fa6ad9b348a3e6db61e2d95",
+            "link": "https://www.facebook.com/Sarayamawtini/posts/369147041181872",
+            "name": "سرايا التغيير في موطني",
+            "origin": "facebook",
+            "path": "sources/8353f175c38f3b03c94b43260a11802ae8519155.jpg"
+        },
+        {
+            "id": "5fa6ad9b352bbb3dda07defe",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=190429332641624&id=101969621487596&__xts__%5B0%5D=68.ARD51jUITOmwSjf7phBa7nEFBQehznZkq9UrUDLoT0habtX9x_c6yXz8NbvB0YnBDX5tmFGNdwZH2Zf3O9sZUVc06ESMY27AMWRIXxVUwvYmQhotlpMV7DoHdJR6OoRqbO19B6XyNqgs892K28WR9UNawQ0hAZ7-5G0PEHyXw4RcU-ZRDpoLGZMaAkKSY8Lt259u1Dc1k3m8qQHIKOrv4fYUkqO4LrVWxeqXUUfoK9VAX_kcyjWxdPuEUoYuOZgPzKh6OuqHNUKnl2enZB9DZT_jtW3B4EEUe-Fh8w5L04uoeG9CLuIAz2aKiMKDIG8h2ooi5UZmVyVFmacuaeYMUr0&__tn__=-R",
+            "name": "عايش بالعراق",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5fa6ad9b2f89dd6fcd5f6cf7",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=189168492738690&id=101676684821205&__xts__%5B0%5D=68.ARAGsrKB24V63xV_L4ZfhPOAEaxDcjs6fg9qtd-FwHlN8ipM-mxz3qJ8Md7Hsaz-ktltkNPAork_lXYL5V78_e-hY6egECbRjKzUw357l7oFskq3qRdsWLOL3Nn7C87l8Up8RPqMe1CTPlYixJyzzD_8j8JMKLqTZW5KE32jNat8NIREl35cj3Y1i91xJyqEECDO4Gp1ZMkrFrTRMNFvid68GVUklfdnrvN6KekB2GqqmRsSKY3R4XS2zdnGICh8PQ_VNyNOiMMt7BHlgFqlI7rGAEKFtAdFbAv0iKtPADKNNEal-y8OIswt-E06tlBa8pnu-wjPB_pkVbWpM7wxE2M&__tn__=-R",
+            "name": "اهالي الاعظمية",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5fa6ad9b47104e7559070399",
+            "link": "https://www.facebook.com/104053534271436/photos/a.115028593173930/390025245674262/?type=3&__xts__%5B0%5D=68.ARCvHGKNl_6QTbxOy5oufdJuFRjrrlznna20ZB8Vc27q8ua2jQ7UJwPpKVEQUhkdqTY0ehK3KDXt3duYLwms_hAQEdyrd0TPTxN3xlydXR6ywssfEsnA5L4ZQXOkLsz3WRaA_jP5RrETdB6gmIt-GRMf0MkP1ZZADbn8C_ZELtCD1JQyfciO2iTmNVeFds0SAmQ5IBNzpsEc0ar1HNvdLHu5ixD1RCwaYTQaberlWJ6EYmiHIvDqgHo03ke6uqZGYaR9BixxVQIVR52MogkYho66-pjBxuasUOyQ64d3fxZGN9WPn_NMpQcRgD1sJiu5zVHwoQtXd4MVSUsbYH3edHA&__tn__=-R",
+            "name": "قناة البلاد",
+            "origin": "facebook",
+            "path": "sources/add215ac65cad106113940121ce32cf35362f307.jpg"
+        },
+        {
+            "id": "5fa6ad9b0f4e0d387009be06",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=655965255111007&id=113779685996236",
+            "name": "بخ عراقي اصيل",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5fa6ad9b60e37b108612aad7",
+            "link": "https://www.facebook.com/Tarmiyaha/posts/180771600256221",
+            "name": "الطارمية صوت الأحرار",
+            "origin": "facebook",
+            "path": "sources/4e1ee0d27392673d11f79efa06b60971f3e45d4b.jpg"
+        },
+        {
+            "id": "5fa6ad9b59875525471c69e4",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=385518236141397&id=110157783677445",
+            "name": "اخبار الاعظمية",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f93e27643760c62fa19d265",
+            "link": "https://www.kuna.net.kw/Default.aspx",
+            "name": "وكالة الأنباء الكويتية",
+            "origin": "",
+            "path": "sources/9f34289df75947cdff411b617462f77ddea5dd8c.jpg"
+        },
+        {
+            "id": "5fa6ad9b81eedb01be662143",
+            "link": "https://www.spa.gov.sa/2150824",
+            "name": "www.spa.gov.sa",
+            "origin": "",
+            "path": "sources/049b330d4544939bedb4261a5bd8a4787c13df3a.jpg"
+        },
+        {
+            "id": "5fa6ad9c5fce0157db5594a0",
+            "link": "https://www.rudaw.net/arabic/middleeast/iraq/021120208",
+            "name": "www.rudaw.net",
+            "origin": "",
+            "path": "sources/76821f45292804a661258ea26132d5a9474fdda1.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "أمير الكويت لم يتحدث عن ضم محافظة البصرة إلى دولته",
+    "updated_at": "2020-11-07 17:34:57",
+    "url_path": "/factcheck/2020/11/07/أمير-الكويت-لم-يتحدث-عن-ضم-محافظة-البصرة-إلى-دولته",
+    "was_notification_pushed": "true"
+}

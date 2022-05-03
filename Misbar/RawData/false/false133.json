@@ -1,0 +1,108 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 497,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "نفى خبر وفاته على حسابه الموثق في موقع فيسبوك (تويتر)",
+    "category": "Arts & Culture",
+    "claim": "<p>وفاة الفنان الكوميدي عماد الفراجين بحادث سير في الأردن.</p>\r\n",
+    "country": "JO",
+    "created_at": "2020-11-24 20:18:18",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 4,
+    "feedback_pos": 7,
+    "id": "5fbd405ad49edf4956386a35",
+    "investigation": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقّق &quot;<a href=\"https://misbar.com/\"><span style=\"color:#3498db\">مسبار</span></a>&quot; من الخبر الذي انتشر على مستوى واسع في وسائل التواصل، ووجد إنه إشاعة، فقد نفى الفراجين بعد دقائق من انتشار الخبر المفبرك تكذيباً له على حسابه الموثق في موقع فيسبوك، وقال إنه بصحة جيدة، ولم يتعرض لأي حادث.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_clqxlxaan.jpg\" style=\"height:222px; width:601px\" /></p>\r\n\r\n<p style=\"text-align:right\">اقرأ/ي أيضا:</p>\r\n\r\n<p style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/11/08/%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%B3%D8%A7%D8%AE%D8%B1-%D9%88%D9%84%D8%A7-%D9%8A%D8%B8%D9%87%D8%B1-%D9%81%D9%8A%D9%87-%D8%AF%D9%88%D9%86%D8%A7%D9%84%D8%AF-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8\"><span style=\"color:#3498db\">فيديو ساخر ومن يظهر فيه ليس دونالد ترامب</span></a></p>\r\n\r\n<p style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/06/24/%D9%85%D9%82%D9%84%D8%A8-%D8%B3%D8%A7%D8%AE%D8%B1-%D8%B3%D8%A7%D8%A6%D9%82-%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9-%D9%84%D9%86%D9%82%D9%84-%D8%A7%D9%84%D9%85%D9%88%D8%AA%D9%89-%D9%8A%D8%B1%D9%85%D9%8A-%D8%A8%D8%AC%D8%AB%D8%A9\"><span style=\"color:#3498db\">مقلب ساخر.. سائق سيارة لنقل الموتى يرمي بجثة</span></a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت صفحات وحسابات على مواقع التواصل الاجتماعي خبر وفاة الفنان الكوميدي الفلسطيني عماد الفراجين في حادث سير في الأردن، مساء الثلاثاء،&nbsp;الموافق 24 نوفمبر/تشرين الثاني الجاري.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_e5tlwcnlz.jpg\" style=\"height:197px; width:602px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_6had84ebi.jpg\" style=\"height:604px; width:488px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_yulvudtuu.jpg\" style=\"height:181px; width:596px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_l3p950yat.jpg\" style=\"height:329px; width:597px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_1jtav98ci.jpg\" style=\"height:274px; width:585px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 230,
+        "left": 8.8778076171875,
+        "path": "articles/1606238297124909078_3244951192298585_9129463295438985975_n.jpg",
+        "top": 5.125,
+        "totalHeight": 423,
+        "totalWidth": 423,
+        "watermark_path": "articles/watermark-1606238297124909078_3244951192298585_9129463295438985975_n.jpg",
+        "width": 410
+    },
+    "post_date": "2020-11-24T18:00:00.000+03:00",
+    "published": [
+        {
+            "id": "5fbd4059e6a14d6e97322e39",
+            "link": "https://www.facebook.com/groups/moltakaonline/permalink/2822671634683571",
+            "name": "ملتقى الغزازوة",
+            "origin": "facebook",
+            "path": "sources/5bfe4505f0d897cf8eadb4d078ea86f5bd10e8d5.jpg"
+        },
+        {
+            "id": "5fbd40596efb483dcb303be0",
+            "link": "https://www.facebook.com/groups/mst3ml/permalink/2824967174454829",
+            "name": "Dream Gaza",
+            "origin": "facebook",
+            "path": "sources/5bfe4505f0d897cf8eadb4d078ea86f5bd10e8d5.jpg"
+        },
+        {
+            "id": "5fbd4059792e9c68ec63ade0",
+            "link": "https://twitter.com/salwa_alwahidi/status/1331277074871578624",
+            "name": "salwa🧚",
+            "origin": "twitter",
+            "path": "sources/96a8aabab04dcdf3a121a8bc9d8304b2393ad1f1.jpg"
+        },
+        {
+            "id": "5faeb5accb69b361614e0157",
+            "link": "https://twitter.com/arbeqq/status/1331274450541678592",
+            "name": "عربي الجداوي.",
+            "origin": "twitter",
+            "path": "sources/493b99a55c5cfc98147f9e20617801def14487a9.jpg"
+        },
+        {
+            "id": "5fbd4059ae0df817d829c342",
+            "link": "https://twitter.com/Mahamushtaha1/status/1331276794071232513",
+            "name": "Maha Hani🕊&hearts;",
+            "origin": "twitter",
+            "path": "sources/ab5f8120b7c3d5c0357e505b4c40667be61b3086.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fbd4059edd33f44ee252255",
+            "link": "https://www.facebook.com/ImadFarajinmadFrajyn/posts/3283114261815611",
+            "name": "عماد فراجين Imad Farajin",
+            "origin": "facebook",
+            "path": "sources/13b654d488908b501b69e69f0ac62df3d115088f.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الفنان عماد الفراجين لم يمت في حادث سير في الأردن",
+    "updated_at": "2020-11-24 20:34:13",
+    "url_path": "/factcheck/2020/11/24/الفنان-عماد-الفراجين-لم-يمت-في-حادث-سير-في-الأردن",
+    "was_notification_pushed": true
+}

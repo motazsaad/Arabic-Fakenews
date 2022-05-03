@@ -1,0 +1,118 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2330,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "الشائعة نفسها انتشرت عام 2019 (Getty)",
+    "category": "Business",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">إصدار عملة 500 جنيه مصري في يوليو/تموز المقبل.</span></p>\r\n",
+    "country": "EG",
+    "created_at": "2020-05-27 09:41:33",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 2,
+    "id": "5ece0b9ddb291641962b5ad4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تحقق &quot;مسبار&quot; من الخبر المتداول وتبيّن أنه زائف، إذ نفى البنك المركزي المصري نيته إصدار ورقة نقدية جديدة من فئة 500 جنيه، وذلك وفقاً لموقع &quot;بنكي&quot; المتخصص في الشؤون المالية. وي</span><span style=\"color:black\">ُ</span><span style=\"color:black\">ذكر أن&nbsp;ورقة 200 جنيه هي أعلى فئة نقدية للجنيه في مصر. كما تجدر الإشارة أنّ شائعات مماثلة قد انتشرت في عام 2019، مع الصورة الافتراضية نفسها لفئة الـ 500 جنيه، الأمر الذي نفته الحكومة المصرية والبنك المركزي.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><span style=\"color:black\"><img alt=\"https://lh6.googleusercontent.com/EdwKrvn-D02U0-vuw3C-gdVZERNq_kCF-lDLSu9nhKP34fPUsGHsEG4N6sSwpmnNNujMTN4b4dMIofPIZ9bTRGF_QLdfjEm0ywKGrxtJgiH83raJSUnzPRpjcAs2xLa83DnaapTM\" src=\"https://images-prod.misbar.com/articlebody/investigation_ayptd92r4.jpg\" style=\"height:400px; width:602px\" /></span></span></strong></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:#1d2129\">انتشرت على مواقع التواصل الاجتماعي أخبار تفيد بأنّ عملة من فئة 500 جنيه مصري ستصدر مطلع يوليو/تموز القادم، ورافق الخبر صورة تُظهر شكل الورقة النقدية الجديدة.</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:#1d2129\"><img alt=\"https://lh6.googleusercontent.com/lwRuMH4_Sh4iy_A2JCt4ON7ClANwiuF039A4kR7q3HMBpSHjC6IzE-AFjhB2UAPrYp_AaINxTt648zry_cmgNTwa4HbOzVZ2aBIN0gBaUgNSgUT00ed9n5ZiWtxTiGY717bf41Dc\" src=\"https://images-prod.misbar.com/articlebody/origin_su636158s.jpg\" style=\"height:322px; width:500px\" /></span></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:#1d2129\"><img alt=\"https://lh5.googleusercontent.com/PGuIAvhA61CMnbo-1qYZaDO2vjhO7u-gfKtSaDbunkVLJxQ17T_iqgnYGOASvTpHKpNNI05mldIGwtRCY1WO-jSZoWo3WGxBeHlzuetrX6Qaw3d--qBfku80CgoyNWXPbeZF4YXg\" src=\"https://images-prod.misbar.com/articlebody/origin_0pe91pt0h.jpg\" style=\"height:355px; width:532px\" /></span></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><span style=\"color:black\"><img alt=\"https://lh3.googleusercontent.com/kzHI-YDF3USTPUd3TZvWrIWbASLe2sQSyFv5Z4DE9X6NeFH-WbsU6hA_MGn5nHkP9Ug56w4iM4CCSb0z4WvS0IiidaF-wYg6Rnraco5a2cHWytC4JX2k0FadzBDbIY_lvOLCxP9I\" src=\"https://images-prod.misbar.com/articlebody/origin_7sm5ds7xl.jpg\" style=\"height:384px; width:551px\" /></span></span></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 353,
+        "left": 2.2127685546875,
+        "path": "articles/1590561691GettyImages-156925885.jpg",
+        "top": 38.80712890625,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1590561691GettyImages-156925885.jpg",
+        "width": 628
+    },
+    "post_date": "2020-05-27T09:22:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/1578399039127960/posts/2335962210038302/",
+            "name": "Hossam Ghaly",
+            "path": "published/0_1590561689_Hossam Ghaly.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/107522594267676/photos/a.107537010932901/138751607811441/?type=3&__tn__=H-R",
+            "name": "شعب قنا",
+            "path": "published/1_1590561689_شعب قنا.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/shoubracairo/photos/a.748713101860346/3107455655986067/?type=3&__tn__=H-R",
+            "name": "شبرا",
+            "path": "published/2_1590561690_شبرا.jpg"
+        },
+        {
+            "link": " https://www.facebook.com/als3adaaa/photos/a.903874296306030/3644518072241625/?type=3&__xts__%5B0%5D=68.ARA8_5_Cq06uWufat6GG60JCPwzCjQf9v37XzidpYMCQr9Z6dd3vj5fFz9ddnLygtYC3BF5L2Yim8G-ifAX6vn5RiEhFKlZjFXkSINfmBjNO5eOUbiNjWi0BubKyw8rVrT9udFA480AjLzJ4dE1PEcvngRsqs5VoMz7MJ8tO9T_5pJZ_DR6PcPf6T2sUiLV2Yook31vB6jt-oz28xNoeW-YBBrYNMDOD3_j0mIOA7zf5L9hS6QSfR7EjnYvIC7IOc3XKgPIKOb9j-iT87Sani-qwG1ZW_0KMnlV1-XJzgTRNadVcjCJvgsfS89QIcaWyamAEGIBMS0zD66WZtim1XWlVaQ&__tn__=-R",
+            "name": "الهرم",
+            "path": "published/3_1590561690_الهرم.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=2629262743845464&set=a.556517137786712&type=3&theater",
+            "name": "Hassan Yasin",
+            "path": "published/4_1590561690_Hassan Yasin.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/sooqqena/permalink/3197954176931905/?__xts__%5B0%5D=68.ARCKeb0XlxNB5JXmli8vhg5fIttEC97WkaqbRN5ZISOF2VB9aspAU0V_XGrV_Pt9ikiOh1NYXYicbDNjnxqEC2V054lKUSswioDfy8GgPjvf9zJC0TIsKsjnEEl96QYbRqOu2MFrt80Pd3RP9YNhiyQLSFuUGpbxaNyFlE3nQBjk6jPHl1kNEdV6TVuKBbj574g45UcTqiQj1qnYZZ744rtS6DiYF1vQm3u9e2d9lZy_uqNIOIMLu3pGHJ9lYhncqoKYyCWIcDjEB9VB0JA3QqXY1SMZGFbZ0dtq2U74NQtfmeXj99RnBIqq1Bazv9Rwjs0&__tn__=-R",
+            "name": "Eslam Esmael",
+            "path": "published/5_1590561691_Eslam Esmael.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.cbe.org.eg/ar/Pages/default.aspx",
+            "name": "البنك المركزي المصري",
+            "path": "sources/0_1590561691_البنك المركزي المصري.jpg"
+        },
+        {
+            "link": "https://cabinet.gov.eg/Arabic/Pages/default.aspx",
+            "name": "رئاسة مجلس الوزراء المصري",
+            "path": "sources/1_1590561691_رئاسة مجلس الوزراء.jpg"
+        },
+        {
+            "link": "http://www.bankygate.com/11805",
+            "name": "بنكي",
+            "path": "sources/2_1590561691_بنكي.jpg"
+        },
+        {
+            "link": "https://arabic.sputniknews.com/mosaic/201908221042695739-%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1-%D8%B9%D9%85%D9%84%D8%A7%D8%AA-%D9%81%D8%A6%D8%AA%D9%8A-",
+            "name": "سبوتنيك",
+            "path": "sources/3_1590561691_سبوتنيك عربي1.jpg"
+        },
+        {
+            "link": "https://akhbarelyom.com/news/newdetails/2860602/1/%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1-%D8%B9%D9%85%D9%84%D8%A7%D8%AA-%D9%88%D8%B1%D9%82%D9%8A%D8%A9-%D9%81%D8%A6%D8%AA%D9%8A-500-%D9%881000-%D8%AC%D9%86%D9%8A%D9%87",
+            "name": "بوابة أخبار اليوم",
+            "path": "sources/4_1590561691_بوابة أخبار اليوم - logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "مصر: إصدار فئة الـ 500 جنيه بداية يوليو.. حقيقة الخبر",
+    "updated_at": "2020-09-25 14:36:22",
+    "url_path": "/factcheck/2020/05/27/مصر-إصدار-فئة-الـ-500-جنيه-بداية-يوليو-حقيقة-الخبر"
+}

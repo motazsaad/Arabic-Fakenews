@@ -1,0 +1,105 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 10475,
+    "author": {
+        "fullname": "خالد إسماعيل",
+        "id": "5e59256dd4a2295224257db3",
+        "photo": {
+            "name": "1582900589_صورة 2.jpg",
+            "path": "authors/1582900589_صورة 2.jpg"
+        }
+    },
+    "caption": "الصور قديمة ولا علاقة لها بدعوة مقتدى الصدر (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة سجود الجيش المصري لرب العالمين من أجل رفع البلاء، بعد دعوة مقتدى الصدر المسلمين إلى السجود في تغريدة له على موقع تويتر.</p>\r\n",
+    "country": "EG",
+    "created_at": "2020-04-15 17:33:02",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e971b1edb29161cb9041404",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تحقق &quot;مسبار&quot; من الصور المتداولة وتبين أنّها مضلّلة، إذ دعا مقتدى الصدر عبر حسابه على موقع <a href=\"https://twitter.com/Mu_AlSadr/status/1247478323913068547\" style=\"color:blue; text-decoration:underline\">تويتر</a> إلى سجدة حول العالم الإسلامي لمدة ثلاثين دقيقة عقب صلاة يوم الجمعة الموافق 10 إبريل/نيسان الجاري. لكنّ الصورة الأولى المتداولة تعود إلى عام 2013، أما الصورة الثانية فهي متداولة منذ انطلاق العملية العسكرية المصرية &quot;سيناء 2018&quot; لمحاربة الجماعات المتطرفة في شمال سيناء، ما ينفي صلة الصور بدعوة مقتدى الصدر مؤخراً.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"color:black\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_q5imdba0e.jpg\" style=\"height:652px; width:542px\" /></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_0tfqp3yi6.jpg\" style=\"height:579px; width:542px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_nrgpkxz11.jpg\" style=\"height:605px; width:545px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "مصر",
+        "الجيش المصري"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تداولت حسابات على مواقع التواصل الاجتماعي صوراً ادّعت أنها لجنود مصريين يسجدون لله استجابة لدعوة زعيم التيار الصدري العراقي مقتدى الصدر، المسلمين للسجود لمدة ثلاثين دقيقة والتوسل لله لرفع البلاء عقب صلاة يوم الجمعة الموافق 10 إبريل/نيسان الجاري</span><span dir=\"LTR\" lang=\"EN-GB\"><span style=\"color:black\"> .</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"color:black\"><img src=\"https://images-prod.misbar.com/articlebody/origin_p2qn0n8fk.jpg\" style=\"height:412px; width:548px\" /></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"color:black\"><img src=\"https://images-prod.misbar.com/articlebody/origin_d9x0erz7m.jpg\" style=\"height:733px; width:543px\" /></span></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 326,
+        "left": 3.683349609375,
+        "path": "articles/1586961181GettyImages-173554988.jpg",
+        "top": 96.949951171875,
+        "totalHeight": 423,
+        "totalWidth": 585,
+        "watermark_path": "articles/watermark-1586961181GettyImages-173554988.jpg",
+        "width": 580
+    },
+    "post_date": "2020-04-15T17:25:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=1167123516962142&set=pcb.1167123553628805&type=3&theater",
+            "name": "ياسر علي",
+            "path": "published/0_1586961180_ياسر-علي-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=271931850485241&set=a.104171130594648&type=3",
+            "name": "احمد احمد ",
+            "path": "published/1_1586961180_احمد-احمد-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/hatfkabar/posts/2684639778432965",
+            "name": "سيد هاتف أبو أيمن",
+            "path": "published/2_1586961180_سيد-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/108091614187678/photos/pcb.113684800295026/113684660295040/?type=3&theater",
+            "name": "القصر المشيد ",
+            "path": "published/3_1586961180_القصر-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/101595094772795/photos/pcb.129632918635679/129632855302352/?type=3&theater",
+            "name": "مسرة الزهراء",
+            "path": "published/4_1586961181_مسره-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=2651550175074159&set=pcb.2651550275074149&type=3&theater",
+            "name": "عمار الحجيمي العراقي ",
+            "path": "published/5_1586961181_عمار-لوغو.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.alwatanvoice.com/arabic/news/2013/07/12/414089.html?fbclid=IwAR0wPq6OJdnq71fnQOv2Bs_TNFrY1ERHYdqCbIFkA9eyzzC19LVH3YS-_Dk",
+            "name": "دنيا الوطن",
+            "path": "sources/0_1586961181_دنيا-الوطن-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/1900846726595846/photos/a.1900961159917736/3160564903957349/?type=3&__xts__%5B0%5D=68.ARAgSZrQvr2MquayQ4nObB6Igo2xdprI-5QeEuB7x_5AVBmgMTsn-gN4t2JXWkIw7eucpsWt3kzNT6hFVhNDVdLlvs2E-p_0TJvVJbcYWm-y6wh0F7INjJA52opjzrAO5aY4qxGjawk34LckQLaGQjplVarbzrOp1rty_YkZ3luQyMCng-0VYL90QwRG5UOqtE9oES6QWPfWKgbXGQSn9D2gbruozXOOJUBGEtef5BsQyYkQTLXDXJFaukCKcXu6U5GL_7TDQyWk1yqC6ziWyjuWZe-UzYMooj7wlbF-sWEghAkVJE0D42yaB2v_BNbH6XDVsx-kvfqQcCCLXkUIdHfLlQc0&__tn__=-R",
+            "name": "جريدة أخبار مصر الثريا ",
+            "path": "sources/1_1586961181_جريدة-لوغو.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صورة مضللة لسجود أفراد من الجيش المصري استجابة لدعوة مقتدى الصدر",
+    "updated_at": "2020-09-25 09:45:49",
+    "url_path": "/factcheck/2020/04/15/صورة-مضللة-لسجود-أفراد-من-الجيش-المصري-استجابة-لدعوة-الصدر"
+}

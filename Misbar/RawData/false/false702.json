@@ -1,0 +1,100 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2390,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "الصورة مفبركة (فيسبوك)",
+    "category": "Health",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">انتهاء جائحة فايروس كورونا المستجد في السعودية بتاريخ 5 شوال القادم.</span></p>\r\n",
+    "country": "SA",
+    "created_at": "2020-05-22 17:33:01",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 0,
+    "id": "5ec7e29ddb2916067416d194",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من الصورة المتداولة ووجد أنها مفبركة. يلاحظ المتمعّن في الصورة اختلاف شكل الخط الذي تستخدمه قناة العربية عادة على شاشتها، كذلك اختلاف الخط مقارنة بشريط الأخبار السفلي باللون الأبيض. إضافة إلى ذلك، تظهر علامات تدلّ على تعديل الكلام المكتوب في الأصل أشار &quot;مسبار&quot; إليها أدناه باستخدام دوائر حمراء. إضافة إلى أنّ كلمة &quot;السعوديه&quot; تحتوي على خطأ إملائي.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">وبالاطلاع على <a href=\"https://www.moh.gov.sa/Pages/Default.aspx\" target=\"_blank\">الموقع الرسمي</a> لوزارة الصحة السعودية، لم يصدر عنها أيّ خبر قريب من الخبر المزعوم.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_zjxm2fmwd.jpg\" style=\"height:767px; width:534px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "كورونا",
+        "فيروس كورونا",
+        "المملكة العربية السعودية"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتداول حسابات على مواقع التواصل الاجتماعي، وعبر تطبيق واتساب، صورة لخبر عاجل يظهر على قناة العربية يعلن انتهاء جائحة فايروس كورونا المستجد بتاريخ 5 شوال القادم في السعودية، الذي سيصادف 27 أو 28 من شهر مايو/أيار الجاري.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_rv1l1ao3c.jpg\" style=\"height:358px; width:523px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_m0p0ojwdj.jpg\" style=\"height:561px; width:536px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 306,
+        "left": 1.683349609375,
+        "path": "articles/1590157980غلاف.jpg",
+        "top": 54.816650390625,
+        "totalHeight": 423,
+        "totalWidth": 550,
+        "watermark_path": "articles/watermark-1590157980غلاف.jpg",
+        "width": 545
+    },
+    "post_date": "2020-05-22T17:21:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/hayoo3344/status/1262586746971324416",
+            "name": "هيو",
+            "path": "published/0_1590157979_هيو.jpg"
+        },
+        {
+            "link": "https://twitter.com/Qabdullahhumair/status/1262784137582297090",
+            "name": "عبد الله القحطاني",
+            "path": "published/1_1590157979_عبد الله الحمير.jpg"
+        },
+        {
+            "link": "https://twitter.com/estrenwestren/status/1262904740452720640",
+            "name": "شرقي غربي",
+            "path": "published/2_1590158758_شرقي غربي.jpg"
+        },
+        {
+            "link": "https://twitter.com/Abo23456788/status/1262735467738550273",
+            "name": "عبد العزيز",
+            "path": "published/3_1590158758_عبدالعزيز.jpg"
+        },
+        {
+            "link": "https://twitter.com/A79801/status/1262662373128704002",
+            "name": "خالد عبد العزيز",
+            "path": "published/4_1590158920_خالد.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "http://www.alriyadh.com/1822351",
+            "name": "الرياض",
+            "path": "sources/0_1590157980_الرياض.jpg"
+        },
+        {
+            "link": "https://www.moh.gov.sa/Pages/Default.aspx",
+            "name": "وزارة الصحة السعودية",
+            "path": "sources/1_1590159123_YoM-_dIE_400x400.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "انتهاء جائحة كورونا في السعودية قريباً.. خبر زائف",
+    "updated_at": "2020-09-25 11:06:01",
+    "url_path": "/factcheck/2020/05/22/انتهاء-الجائحة-كورونا-في-السعودية-قريبا-خبر-زائف"
+}

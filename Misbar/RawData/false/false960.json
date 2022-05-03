@@ -1,0 +1,75 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1813,
+    "author": {
+        "fullname": "حسام الهندي",
+        "id": "5e25c80bd4a229629038df03",
+        "photo": {
+            "path": "authors/1579542323_حسام الهندي.jpg"
+        }
+    },
+    "category": "Music",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">دورة للرقص الشرقي في جدة مع الراقصة فيفي عبده...التسجيل متاح للرجال والنساء.</p>\r\n",
+    "country": "SA",
+    "created_at": "2020-02-04 19:09:06",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e399722d4a2292bf73dff56",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">الإعلان عن دورة للرقص الشرقي تقدمها الراقصة فيفي عبده في جدة، والذي عرضه الإعلامي المصري محمد ناصر في 3 فبراير/شباط الجاري، شائعة قديمة ظهرت في يناير/كانون الثاني 2018، وانتشرت على وسائل التواصل الاجتماعي.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_k7d9a6516.jpg\" style=\"height:285px; width:432px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">ونفت الراقصة الاستعراضية فيفي عبده، في 2018 الخبر، وأكدت على أنَّ الإعلان مجرد شائعة وغير واقعي، وأعيد تداول الشائعة بعد فيديو متداول عن وصول الراقصة فيفي عبده لزيارة مدينة الرياض في المملكة العربية السعودية منذ عدة أيام.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_8qvlaxamc.jpg\" style=\"height:349px; width:393px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">عرض برنامج مصر النهاردة على قناة مكملين، إعلاناً انتشر على وسائل التواصل الاجتماعي، لدورة في الرقص الشرقي المعاصر تقدمها الراقصة الشرقية فيفي عبده في جدة خلال الفترة من 17 إلى 25 فبراير/شباط الجاري، <span style=\"color:black\">والتسجيل </span>متاح للنساء والرجال مع الحصول على شهادة معتمدة، وسعر الدورة ثلاث <span style=\"color:black\">آلاف </span>ريال سعودي.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_mv8a7f4pm.jpg\" style=\"height:307px; width:459px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1580896894GettyImages-949950404.jpg"
+    },
+    "post_date": "2020-02-04T22:32:00.000+03:00",
+    "published": [
+        {
+            "link": "https://web.facebook.com/amrabdelhadypolitician/photos/a.792647427416371/3301618619852560/?type=3&theater",
+            "name": "عمرو عبد الهادي",
+            "path": "published/0_1580832545_عمرو-عبد-الهادي.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/masrelnahrdah/videos/3332270416787029/?v=3332270416787029&external_log_id=d9c1f21f5f1b1d6e6a8ea22b19d2d68b&q=دورة%20الرقص%20الشرقي%20المعاصر%20في%20جدة",
+            "name": "قناة مكملين",
+            "path": "published/1_1580832546_قناة مكملين لوغو.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://youtu.be/2M9eEb--ptc?t=158",
+            "name": "قناة العربية",
+            "path": "sources/0_1580832545_قناة العربية لوغو.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=Zp1RRDmRZyM&feature=emb_title",
+            "name": "قناة دريم",
+            "path": "sources/1_1580832545_قناة دريم لوغو.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "دورة في الرقص الشرقي لفيفي عبده في السعودية.. شائعة قديمة تعود من جديد",
+    "updated_at": "2020-09-25 15:26:45",
+    "url_path": "/factcheck/2020/02/04/دورة-في-الرقص-الشرقي-لفيفي-عبده-في-السعودية-شائعة-قديمة-تعود-من-جديد"
+}

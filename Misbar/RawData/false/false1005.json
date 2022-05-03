@@ -1,0 +1,73 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1336,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "category": "Technology",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">الفنان الكوميدي جيم كاري يقلد الممثل جاك نيكلسون</p>\r\n",
+    "country": "US",
+    "created_at": "2020-01-05 12:29:14",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e11ac6ad4a2290381550d34",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">المقطع تم إنتاجه بتقنية الزيف العميق &quot;<span dir=\"LTR\">DeepFake</span>&quot; التي تتيح تركيب وجه شخص على مقطع لشخص آخر، فيصبح وكأنه هو من يؤدي دور الشخص الذي يتم تقليده، وما حدث هو تركيب لوجه الفنان جيم كاري على مقطع للفنان جاك نيكلسون. وكانت قناة موقع &quot;<span dir=\"LTR\">Ctrl Shift Face</span>&quot; الذي يتيح للمستخدمين استخدام هذه التقنية، نشرت المقطع ودوَّنت ملاحظة تحته بأنَّ هذا المقطع ليس حقيقي، وأنه يستخدم تقنية الزيف العميق <span dir=\"LTR\">&ldquo;DeepFake&rdquo;</span>.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_f8b9c0e477a1a5ad1178a8168d61f862.jpg\" style=\"height:539px; width:646px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "كاري",
+        "جيم",
+        "جاك",
+        "نيكلسون"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">نشر حساب على موقع التواصل الاجتماعي فيسبوك مقطعاً على أنه للفنان الأميركي من أصل كندي جيم كاري يقلد فيه الفنان الأميركي جاك نيكلسون، وقام الآلاف من مستخدمي الموقع بالإعجاب بالمقطع ونشره على صفحاتهم الشخصية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_c822b8ee6dd251d46f783450fecf11f3.jpg\" style=\"height:711px; width:559px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1578216609GettyImages-1079868556.jpg"
+    },
+    "post_date": "2019-10-24T12:20:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/groups/theculturaltalk/permalink/2482041712120721/",
+            "name": "Mona Farouk",
+            "path": "published/0_1578216554_facebook.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=HG_NZpkttXE&amp=&has_verified=1&fbclid=IwAR0Fb6PzOrsSw-ZCanym1EaQLERXhxOf9UWR6i3YmUej5wz_UCh96Cn1yBE",
+            "name": "Ctrl Shift Face",
+            "path": "sources/0_1578216554_YouTube-logo.jpg"
+        },
+        {
+            "link": "https://www.patreon.com/ctrl_shift_face?fbclid=IwAR3Kbqc6gkKhPyr_p52qk7Lrq2uq4e92S6sGBSlUhluW6HLdQvduvluWEHw",
+            "name": "Patreon",
+            "path": "sources/1_1578216554_patreon.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "كاري لم يقلد نيكلسون في هذا الفيديو... بل كانت تقنية الزيف العميق",
+    "updated_at": "2020-09-25 04:57:13",
+    "url_path": "/factcheck/2020/01/05/كاري-لم-يقلد-نيكلسون-في-هذا-الفيديو-بل-كانت-تقنية-الزيف-العميق"
+}

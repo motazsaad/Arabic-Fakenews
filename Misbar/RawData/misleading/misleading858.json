@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2412,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">صورة لملكة بريطانيا أثناء تفقدها لذهبها ومجوهراتها.</p>\r\n",
+    "country": "GB",
+    "created_at": "2020-07-24 21:40:03",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f1b2b03163be306c8049817",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الادعاء المتداول ووجد أنه مضلل، لأنّ <a href=\"https://stock.adobe.com/155867133\" target=\"_blank\"><span style=\"color:#3498db\">الصورة الأصلية</span></a> تُظهر الملكة إليزابيث أثناء جولة لها في أحد مخازن الذهب التابعة لبنك إنجلترا المتواجد في العاصمة لندن، بتاريخ 13 ديسمبر/كانون الأول عام 2012.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_q81ql5ate.jpg\" style=\"height:265px; width:624px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تتداول حسابات وصفحات على مواقع التواصل الاجتماعي، حديثاً، صورة لملكة المملكة المتحدة، إليزابيث الثانية، وهي متواجدة في مكان يمتلئ برفوف تحتوي على مكعبات من الذهب. ويدعي ناشرو الخبر أن الصورة تُظهر الملكة وهي في زيارة تفقدية لذهبها ومجوهراتها.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_abu3w6mro.jpg\" style=\"height:482px; width:531px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_gcbdd6pz1.jpg\" style=\"height:474px; width:524px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 316,
+        "left": 1.2833251953125,
+        "path": "articles/1595616003غلاف.jpg",
+        "top": 52.599853515625,
+        "totalHeight": 423,
+        "totalWidth": 564,
+        "watermark_path": "articles/watermark-1595616003غلاف.jpg",
+        "width": 561
+    },
+    "post_date": "2020-07-24T21:19:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/groups/1484198508335350/permalink/3058138300941355/",
+            "name": "بسام أبن حمص الخالدية",
+            "path": "published/0_1595616775_بسام.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/story.php?story_fbid=163683835256816&id=101086791516521",
+            "name": "يوميات أسواق دمشق",
+            "path": "published/1_1595616775_يوميات.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/1634847903234337/posts/3396914103694366/",
+            "name": "أخبار العاصمة دمشق",
+            "path": "published/2_1595616775_اخبار.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/419753828792263/posts/761709301263379/",
+            "name": "Mondo Markets - عالم الأسواق",
+            "path": "published/3_1595616775_عالم.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/239253640754738/permalink/295672458446189/",
+            "name": "مدين ابو اليمان",
+            "path": "published/4_1595616775_مدين.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://stock.adobe.com/155867133",
+            "name": "Adobe Stock",
+            "path": "sources/0_1595616003_stock.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصورة ليست لملكة بريطانيا أثناء تفقدها لمجوهراتها",
+    "updated_at": "2020-09-25 16:16:57",
+    "url_path": "/factcheck/2020/07/24/هذه-الصورة-ليست-لملكة-بريطانيا-أثناء-تفقدها-لمجوهراتها"
+}

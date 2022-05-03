@@ -1,0 +1,117 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 482,
+    "author": {
+        "fullname": "صفاء عليان",
+        "id": "5f316ac61dd58507a761df01",
+        "photo": {
+            "name": "1597074118_misbar-logo.jpg",
+            "path": "authors/1597074118_misbar-logo.jpg"
+        }
+    },
+    "caption": "الفتاة روان مستو بقيت في العناية المركزة بعد إصابتها لأربعة أيام ومن ثم توفيت (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">احتجاز جثمان &quot;روان مستو&quot; التي قضت في انفجار بيروت في &quot;مستشفى رزق&quot; وتدخل متبرع لدفع رسوم المشفى البالغة <span dir=\"LTR\">11</span> ألف دولار.</p>\r\n",
+    "country": "LB",
+    "created_at": "2020-08-12 17:11:26",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f33f88e1dd585077c3b6775",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">بعد التحقق تبين أن الخبر زائف، وأن الفتاة &quot;روان مستو&quot; بقيت في العناية المركزة بعد إصابتها لأربعة أيام ومن ثم توفيت جراء شدة الإصابة يوم الجمعة بتاريخ <span dir=\"LTR\">8</span> أغسطس<span dir=\"LTR\">/</span>آب الجاري.<br />\r\n<br />\r\nونفت مسؤولة إدارة المخاطر في المشفى، جويل خيشو، في تصريح خاص لموقع تلفزيون سوريا هذا الخبر نفياً قاطعاً بالقول &quot;إن كل الضحايا والجرحى الذين وصلوا مشفى رزق جرّاء الانفجار طبّبوا على عاتق وزارة الصحة، والضحايا سُلّموا لأهلهم&quot;، مشيرة إلى أن &quot;إدارة المشفى علمت بهذا الخبر وتنفيه بشكل رسمي، وستقوم بملاحقة المصدر الذي نشره&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_rus9ldc4f.jpg\" style=\"height:306px; width:480px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_e9yrzns0d.jpg\" style=\"height:275px; width:480px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_3m313cpwd.jpg\" style=\"height:264px; width:480px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت مواقع إخبارية وناشطون على موقعي &quot;تويتر&quot; و&quot;فيسبوك&quot;، خبراً حول احتجاز جثمان فتاة سورية قضت بانفجار بيروت &quot;روان مستو&quot; في مشفى رزق، حيث يفيد الخبر المتداول أنَّ المشفى رفضت تسليم الجثمان لأهل الفتاة حتى يدفعوا رسوم المشفى البالغة <span dir=\"LTR\">11</span> ألف دولار.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">كما أشارت هذه الأخبار إلى أنَّ المشفى احتجز جثمان &quot;روان مستو&quot; لأربعة أيام، قبل أن يتدخل &quot;ياسين فواز&quot; الملقب بـ &quot;<span dir=\"LTR\">King Rolodex</span>&quot; لمساندة عائلة الفتاة، ودفع <span dir=\"LTR\">11</span> ألف دولار للمشفى.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_o5w8nrq7z.jpg\" style=\"height:378px; width:480px\" /><br />\r\n&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><br />\r\n<img src=\"https://images-prod.misbar.com/articlebody/origin_7vff2ppwk.jpg\" style=\"height:224px; width:479px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_50abnszfw.jpg\" style=\"height:404px; width:480px\" /><br />\r\n<img src=\"https://images-prod.misbar.com/articlebody/origin_rs26o51nz.jpg\" style=\"height:284px; width:480px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ig3mtbarg.jpg\" style=\"height:250px; width:480px\" /><br />\r\n&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 389,
+        "left": 48.6185302734375,
+        "path": "articles/1597241485GettyImages-1227917661.jpg",
+        "top": 18.410400390625,
+        "totalHeight": 465,
+        "totalWidth": 788,
+        "watermark_path": "articles/watermark-1597241485GettyImages-1227917661.jpg",
+        "width": 692
+    },
+    "post_date": "2020-08-12T17:02:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/AsaadHannaa/status/1293161047558426626",
+            "name": "أسعد حنا",
+            "path": "published/0_1597241484_Asaad Hanna.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo?fbid=3855801641103926&set=a.421273767890081",
+            "name": "Alaa AlGhanem",
+            "path": "published/1_1597241485_Alaa AlGhanem.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/mohamad.oweydat/posts/1972773109520696",
+            "name": "Mohamad Nabil Oweydat",
+            "path": "published/2_1597241485_Mohamad Nabil Oweydat.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/1020217148087441/photos/a.1062866947155794/2921555891286881/",
+            "name": "من حكايا الناس",
+            "path": "published/3_1597241485_من حكايا الناس.jpg"
+        },
+        {
+            "link": "https://twitter.com/DrMahmoudHafez3/status/1293202909224730624",
+            "name": "Dr.Mahmoud Hafez",
+            "path": "published/4_1597241485_Dr.Mahmoud HafezDr.Mahmoud Hafez.jpg"
+        },
+        {
+            "link": "https://twitter.com/mohamed1aldaher/status/1293180178927988737",
+            "name": "Mohamed Aldaher",
+            "path": "published/5_1597241485_Mohamed Aldaher.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/aliai3/posts/10164106584220710",
+            "name": "Alia Ibrahim",
+            "path": "published/6_1597241485_Alia Ibrahim.jpg"
+        },
+        {
+            "link": "https://www.elfann.com/news/show/1274321/%D9%8A%D8%A7%D8%B3%D9%8A%D9%86-%D9%81%D9%88%D8%A7%D8%B2-%D9%8A%D8%AA%D9%83%D9%81%D9%91%D9%84-%D8%A8%D8%AF%D9%81%D9%86-%D8%A7%D9%84%D9%81%D8%AA%D8%A7%D8%A9-%D8%B1%D9%88%D8%A7%D9%86-%D9%85%D8%B3%D8%AA%D9%88-%D8%A7%D9%84%D8%AA%D9%8A-%D9%82%D8%B6%D8%AA-%D8%A5",
+            "name": "موقع الفن",
+            "path": "published/7_1597241485_موقع-الفن.JPG"
+        },
+        {
+            "link": "https://www.saidaonline.com/new/ar/news/details/news-77334?utm_campaign=nabdapp.com&utm_medium=referral&utm_source=nabdapp.com&ocid=Nabd_App",
+            "name": "صيدا أونلاين",
+            "path": "published/8_1597241485_صيدا اون لاين.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.syria.tv/%D9%85%D8%A7-%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D8%B7%D9%84%D8%A8-%D9%85%D8%B4%D9%81%D9%89-%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A-11-%D8%A3%D9%84%D9%81-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%84%D8%AA%D8%B3%D9%84%D9%8A%D9%85-%D8%AC%D8%AB%D9%85%D8%A7%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D9%91%D8%A9%D8%9F?fbclid=IwAR3Ds_n5t7NNKTGFUKPh_Oa3A7uV6kpnrxpOyEJ3nGeKkOBrokdkQAfVvD4",
+            "name": "تلفزيون سوريا",
+            "path": "sources/0_1597241485_تلفزيون سوريا.jpg"
+        },
+        {
+            "link": "https://www.theguardian.com/world/2020/aug/08/beirut-explosion-protests-lebanon-answers-and-justice",
+            "name": "Theguardian",
+            "path": "sources/1_1597241485_The Guardian-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لم يأخذ مشفى لبناني 11 ألف دولار للإفراج عن جثة فتاة سورية قضت بانفجار بيروت",
+    "updated_at": "2020-09-25 19:44:01",
+    "url_path": "/factcheck/2020/08/12/لم-يأخذ-مشفى-لبناني-11-ألف-دولار-للإفراج-عن-جثة-فتاة-سورية-قضت-بانفجار-بيروت"
+}

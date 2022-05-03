@@ -1,0 +1,92 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 467364,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "caption": "تحقق \"مسبار\" من الصورة المتداولة، ووجد أنَّ القصة زائفة والصورة من روضة أطفال (Getty)",
+    "category": "Spirituality & Religion",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">صدق او لا تصدق، هذه ليست ابنته ولا حفيدته بل زوجته على سنة الله ورسوله</p>\r\n",
+    "country": "TR",
+    "created_at": "2020-05-05 14:20:24",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5eb14bf8db291629572320d4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة المتداولة، ووجد أنَّ القصة زائفة، والصورة ليس لها أيَّة علاقة بزواج رجل خمسيني من فتاة قاصر. وحقيقة الصورة&nbsp;أنها تعود لعام 2016 والتقطت داخل روضة أطفال في منطقة <span dir=\"LTR\">Elazı</span><span dir=\"LTR\">ğ</span> التركيَّة، وكانت ضمن حفل للأطفال الذين يدرسون القرآن في الروضة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_k92f5c0lt.jpg\" style=\"height:493px; width:666px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت بعض الحسابات وبعض المجموعات في موقع فيسبوك، على فترات متباعدة، صورة ادعت أنها لرجل خمسيني يتزوج من فتاة قاصر.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_koeh684nq.jpg\" style=\"height:674px; width:453px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_j3oshltj4.jpg\" style=\"height:571px; width:451px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_y76suf4lp.jpg\" style=\"height:666px; width:458px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/158868784968322743_2412266578840544_131174876814770176_n.jpg",
+        "watermark_path": "articles/watermark-158868784968322743_2412266578840544_131174876814770176_n.jpg"
+    },
+    "post_date": "2020-05-05T14:10:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.youtube.com/watch?v=rvFGtEhACew",
+            "name": "فضائح الإسلام",
+            "path": "published/0_1588677623_فضائح_الاسلام.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1512010608939103&id=1244258722380961",
+            "name": "Iflissen Infos",
+            "path": "published/1_1588677623_Iflissen Infos.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=2412266575507211&set=a.197060870361137&type=3&theater",
+            "name": "Nabil L Maximos",
+            "path": "published/2_1588677623_Nabil L Maximos.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/salim.benahmed.5095/posts/140808447278170",
+            "name": "Śălîm Nåśśèŕ",
+            "path": "published/3_1588677623_Śălîm Nåśśèŕ.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/245457205800631/permalink/917651255247886/",
+            "name": "Lina Barakat",
+            "path": "published/4_1588677623_Lina Barakat.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.milliyet.com.tr/gundem/anaokulunun-paylastigi-fotograflar-cok-konusuluyor-2248791",
+            "name": "Milliyet",
+            "path": "sources/0_1588677623_milliyet.JPG"
+        },
+        {
+            "link": "https://www.bursadabugun.com/haber/sosyal-medyanin-gundeminde-bu-fotograflar-var-695851.html",
+            "name": "Bursadabugun",
+            "path": "sources/1_1588677623_bursadabugun.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "رجل خمسيني يتزوج فتاة قاصر.. قصة زائفة",
+    "updated_at": "2020-09-25 16:32:01",
+    "url_path": "/factcheck/2020/05/05/رجل-خمسيني-يتزوج-فتاة-قاصر-حقيقة-الصورة-المتداولة"
+}

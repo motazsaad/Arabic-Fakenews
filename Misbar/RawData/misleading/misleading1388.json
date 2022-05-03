@@ -1,0 +1,119 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 3,
+        "tw": 1
+    },
+    "amount_sources": 0,
+    "amount_visits": 2331,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">&nbsp;أردوغان: قد نلجأ إلى عملية عسكرية أخرى إذا لم يتم حل الوضع في إدلب بشكل سريع.</span></p>\r\n",
+    "country": "TR",
+    "created_at": "2020-02-01 00:43:45",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 1,
+    "id": "5e349f91d4a229738568e549",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">اطلع &quot;مسبار&quot; على كلمة الرئيس أردوغان، وعرضها أيضاً على متخصّصين في الترجمة بين العربية والتركية، وتبيّن أنّ أردوغان لم يقل ذلك الكلام في كلمته بل قال فيما يخصّ هذا الموضوع ما يلي: &quot;لم ولن نبقى متفرّجين حيال الوضع في إدلب أو المناطق الأخرى في سوريا (..) أقولها بكلّ صدق، إننا نريد إرساء الاستقرار في سورية، ولن نتردّد في القيام بكلّ ما يلزم إزاء ذلك بما فيه استخدام القوة العسكرية&quot;.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">هنالك فارق كبير بين الاقتباس الذي تناقلته وسائل الإعلام وما قاله الرئيس أردوغان، فهو لم يحدد مكاناً ولا زماناً لعملية عسكرية كما ذُكر في الخبر، ولم يخصّ مدينة إدلب في الخيارات التي ذكرها، بل كانت المناطق الحدودية السورية مع تركيا حاضرة بشكل كامل، ومن بينها إدلب، ولم يذكر أردوغان &quot;عملية عسكرية&quot; وإنما &quot;قوة عسكرية&quot; لم يحدّد كيفية استخدامها.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">إضافة إلى ذلك، اطلع &quot;مسبار&quot; على ما أوردته وكالة الأناضول التركية من أخبار عاجلة لكلمة الرئيس التركي، وترجمة قناة تي آر تي التركية، وجميعها تطابقت مع الترجمة التي توفّرت لـ&quot;مسبار&quot;. وهذا يبيّن أن الخبر المتداول يعدّ استنتاجاً من كلمة الرئيس أردوغان وليس ترجمة دقيقة.</span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "أردوغان",
+        "تركيا",
+        "سورية",
+        "عملية عسكرية"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تناقلت العديد من المواقع الإخبارية خبراً عاجلاً تقتبس فيه من كلمة ألقاها الرئيس التركي رجب طيب أردوغان في اجتماع موسّع لفروع حزب العدالة والتنمية في العاصمة التركية أنقرة، وكان الاقتباس على النحو التالي: &quot;أردوغان: قد نلجأ إلى عملية عسكرية أخرى إذا لم يتم حل الوضع في إدلب بشكل سريع&quot;.</span></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_klfgha7jh.jpg\" style=\"height:163px; width:373px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_9bos37vg1.jpg\" style=\"height:300px; width:367px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 299,
+        "left": 0.933349609375,
+        "path": "articles/1580507024GettyImages-1192544947.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 535,
+        "width": 531
+    },
+    "post_date": "2020-01-31T23:36:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/125786760767400/posts/3376430885702955/",
+            "name": " الجزيرة مباشر",
+            "path": "published/0_1580507024_الجزيرة مباشر.jpg"
+        },
+        {
+            "link": "https://twitter.com/AJABreaking/status/1223170912826134530?s=19",
+            "name": "الجزيرة عاجل",
+            "path": "published/1_1580507024_الجزيرة - عاجل - logo.jpg"
+        },
+        {
+            "link": "https://horrya.net/archives/119521",
+            "name": "حرية برس",
+            "path": "published/2_1580507024_حرية برس - لوغو.jpg"
+        },
+        {
+            "link": "https://www.mc-doualiya.com/articles/20200131-%D8%A3%D8%B1%D8%AF%D9%88%D8%BA%D8%A7%D9%86-%D9%82%D8%AF-%D9%86%D9%84%D8%AC%D8%A3-%D8%A5%D9%84%D9%89-%D8%B4%D9%86-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%A5%D8%B0%D8%A7-%D9%84%D9%85-%D9%8A%D8%AA%D9%85-%D8%AD%D9%84-%D8%A7%D9%84%D9%88%D8%B6%D8%B9-%D8%B3%D8%B1%D9%8A%D8%B9%D8%A7%D9%8B-%D9%81%D9%8A-%D8%A5%D8%AF%D9%84%D8%A8",
+            "name": "مونت كارلو الدولية",
+            "path": "published/3_1580507024_مونت كارلو الدولية Monte Carlo Doualiya - logo.jpg"
+        },
+        {
+            "link": "https://stepagency-sy.net/2020/01/31/%D8%A3%D8%B1%D8%AF%D9%88%D8%BA%D8%A7%D9%86-%D9%82%D9%88%D9%91%D8%A7%D8%AA%D9%86%D8%A7-%D9%85%D8%AA%D9%88%D8%A7%D8%AC%D8%AF%D8%A9-%D8%A8%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A8%D9%85%D9%88%D8%AC%D8%A8/",
+            "name": "ستيب نيوز",
+            "path": "published/4_1580507024_Step news.jpg"
+        },
+        {
+            "link": "https://b-sy.net/ar/articles/56485/%D8%A3%D8%B1%D8%AF%D9%88%D8%BA%D8%A7%D9%86-%D9%8A%D9%84%D9%88%D8%AD-%D8%A8%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%B1%D8%AF%D8%A7-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%88%D8%B6%D8%B9-%D8%A8%D8%A5%D8%AF%D9%84%D8%A8",
+            "name": "بلدي",
+            "path": "published/5_1580507024_بلدي - لوغو.jpg"
+        },
+        {
+            "link": "https://hadiabdullah.net/2020/01/31/%D8%A3%D8%B1%D8%AF%D9%88%D8%BA%D8%A7%D9%86-%D9%82%D8%AF-%D9%86%D9%84%D8%AC%D8%A3-%D9%84%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%B9%D8%B3%D9%80-%D9%83%D8%B1%D9%8A%D8%A9-%D8%A5%D8%B0%D8%A7-%D9%84%D9%85/",
+            "name": "مدونة هادي العبد الله",
+            "path": "published/6_1580507024_مدونة هادي العبد الله - لوغو.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/TRTArabi/videos/181458466264174/",
+            "name": "TRT عربي",
+            "path": "sources/0_1580507023_TRT عربي - لوغو.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=kIgJ_2sgvp8&feature=youtu.be",
+            "name": " Ali Kamil Tüfekyapan",
+            "path": "sources/1_1580507023_YouTube-logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/aa_arabic/status/1223172623531761664?s=21",
+            "name": "وكالة الأناضول",
+            "path": "sources/2_1580507023_وكالة الأناضول - لوغو.jpg"
+        },
+        {
+            "link": "https://twitter.com/aa_arabic/status/1223173069319131136?s=21",
+            "name": "وكالة الأناضول",
+            "path": "sources/3_1580507023_وكالة الأناضول - لوغو.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ترجمة مضلّلة تدّعي لجوء أردوغان إلى عملية عسكرية أخرى",
+    "updated_at": "2020-09-25 14:57:43",
+    "url_path": "/factcheck/2020/01/31/ترجمة-مضللة-تدعي-لجوء-أردوغان-إلى-عملية-عسكرية-أخرى"
+}

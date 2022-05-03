@@ -1,0 +1,127 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 171,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "التقطت الصور في ميناء باري في إيطاليا عام 1991 (تويتر)",
+    "category": "Travel",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">صور هجرة جماعية&nbsp;من أوروبا باتجاه دول المغرب العربي خلال الحرب العالمية الثانية، هرباً من جيش هتلر الذي بدأ باجتياح أوروبا.</span></p>\r\n",
+    "country": "AL",
+    "created_at": "2020-09-27 16:43:47",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 5,
+    "feedback_pos": 10,
+    "id": "5f7097135581ef406e350817",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الادعاء مضلل، إذ أن الصور ليست لهجرة جماعية من أوروبا إلى دول المغرب العربي خلال الحرب العالمية الثانية، بل لهجرة من ألبانيا إلى ميناء باري في إيطاليا عام 1991، على متن سفينة الشحن <span dir=\"LTR\">Vlora</span> القادمة من كوبا.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">كانت السفينة محملة بشحنة من السكر، وحين رست في دوريس لتفريغها، تجمعت حشود من الناس في الميناء من جميع أنحاء البلاد على أمل ركوب أي سفينة والإبحار إلى إيطاليا، بسبب الظروف الاقتصادية والسياسية في البلاد.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وصعد الآلاف منهم (حوالي 20000 وفق لتقارير إعلامية) إلى <span dir=\"LTR\">Vlora</span> في 7 أغسطس/آب 1991. قرر القبطان، حليم ملاقي، الإبحار بالقارب المكتظ إلى إيطاليا، تجنباً لما قد يحدث إذا استولى المسافرون على قيادة السفينة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"1.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_ghrkw4wwy.jpg\" style=\"height:552px; width:605px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"22.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_c2qjx04ek.jpg\" style=\"height:507px; width:605px\" /></span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"350\" scrolling=\"no\" src=\"https://cineuropa.org/fr/videoembed/225135/rdid/225057/\" width=\"620\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات إخبارية وحسابات على موقعي فيسبوك وتويتر، حديثاً ومنذ سنوات، صوراً تدّعي أنها لهجرة <span style=\"background-color:white\">جماعية من أوروبا إلى بلدان المغرب العربي أثناء الحرب العالمية الثانية &quot;بحثاً عن الأمان الذي فقدوه في أوطانهم&quot;.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_6lnsbjafp.jpg\" style=\"height:394px; width:605px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"0.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_4qlbymmd3.jpg\" style=\"height:433px; width:599px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"00.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_800xuxtwy.jpg\" style=\"height:438px; width:597px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 347,
+        "left": 13.279296875,
+        "path": "articles/1601214227albanians_refugees_in_italy_1991_5.jpg",
+        "top": 5.781982421875,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1601214227albanians_refugees_in_italy_1991_5.jpg",
+        "width": 617
+    },
+    "post_date": "2020-09-27T14:34:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/sohar102/status/1309783506105622528",
+            "name": "هتلر",
+            "path": "published/0_1601214226_cdeb606d2277405729841fe21c5d10e856529971.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/Factswd/status/644918664416792576",
+            "name": " حول العالم",
+            "path": "published/1_1601214226_cdeb606d2277405729841fe21c5d10e856529971.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/ArabicBest/status/645337651470536704",
+            "name": "الأكثر تأثيرا",
+            "path": "published/2_1601214226_cdeb606d2277405729841fe21c5d10e856529971.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/TheArabHash/status/643525101539991552",
+            "name": "هاشتاغ العرب",
+            "path": "published/3_1601214226_cdeb606d2277405729841fe21c5d10e856529971.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/VPicV/status/644063979485138944",
+            "name": "صورة ومعلومة",
+            "path": "published/4_1601214226_cdeb606d2277405729841fe21c5d10e856529971.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/ahmad_3926/status/645733752635723776",
+            "name": "أحمد الحربي",
+            "path": "published/5_1601214226_cdeb606d2277405729841fe21c5d10e856529971.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/Karlitoways/status/642989838942273537",
+            "name": "Karl de",
+            "path": "published/6_1601214227_cdeb606d2277405729841fe21c5d10e856529971.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://cineuropa.org/fr/video/rdid/225057/",
+            "name": "Cineuropa - le meilleur du cinéma européen",
+            "path": ""
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://rarehistoricalphotos.com/albanian-refugees-italy-1991/#:~:text=Privacy%20Policy-,Albanian%20refugees%20arriving%20in%20Italy%2C%201991,social%20unrest%20in%20the%20country.",
+            "name": "Rare Historical Photos",
+            "path": "sources/1_1601214227_f758e8d1982b71bf9560757871cff4102bb7894f.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.nytimes.com/1991/08/09/world/italy-moves-to-stem-wave-of-albanians.html",
+            "name": "The New York Times",
+            "path": "sources/2_1601214227_cdb0ec46c3675b581d343d566aca61336855fde1.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصور لمهاجرين من ألبانيا إلى إيطاليا وليست لهروب جماعي من أوروبا",
+    "updated_at": "2020-09-27 18:55:27",
+    "url_path": "/factcheck/2020/09/27/هذه-الصور-لمهاجرين-من-ألبانيا-إلى-إيطاليا-وليست-لهروب-جماعي-من-أوروبا",
+    "was_notification_pushed": "true"
+}

@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 3957,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "مقطع الفيديو معدل وليس حقيقي (يوتيوب)",
+    "category": "Health",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">مقطع فيديو يُظهر طفلاً حديث الولادة بثلاث عيون.</p>\r\n",
+    "country": "DE",
+    "created_at": "2020-07-25 20:35:03",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 2,
+    "id": "5f1c6d47163be306ae380972",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من مقطع الفيديو المتداول وتبين أنه مفبرك، إذ أنّ العين اليسرى للطفل والعين الثالثة على الجبين تتحركان في الآن ذاته نحو الاتجاه نفسه.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"00.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_e5fkphy4a.jpg\" style=\"height:331px; width:347px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><br />\r\n<span dir=\"LTR\"><img alt=\"000.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_o0yjdq79v.jpg\" style=\"height:266px; width:307px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وبالبحث عن أصل الفيديو، تبين أنه نشر على موقع يوتيوب بتاريخ 9 يوليو/تموز الجاري، وأرفق مقطع الفيديو بشرح لحالة الطفل. وذكر أنه ولد عام 2018 يعاني من حالة نادرة تعرف بازدواج الوجه القحفي وهو اضطراب خلقي نادر، تضاعف فيه أجزاء من الرأس أو الرأس كاملاً.<br />\r\n&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/z10cu700xhg\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وبالعودة إلى الحالات التي عرفت هذا الاضطراب في نفس العام، لم يعثر &quot;مسبار&quot; على حالة الطفل الألماني، ووجد أن الحالة التي تناولتها دراسة مفصلة في <a href=\"http://www.wajradiology.org/article.asp?issn=1115-3474;year=2018;volume=25;issue=1;spage=79;epage=83;aulast=Yahaya\" style=\"color:blue; text-decoration:underline\">&quot;the West African Journal of Radiology&quot;</a> هي لطفل نيجيري يختلف موضع عينه الثالثة عن العين التي أضيفت للطفل في الخبر المتداول.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"0.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_n6fwt6vu6.jpg\" style=\"height:330px; width:604px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات وحسابات على مواقع التواصل الاجتماعي مقطع فيديو تدّعي أنه لطفل ألماني حديث الولادة يملك ثلاث عيون.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/9eG18MkGQmU\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/Mz3RD_BtPlE\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 322,
+        "left": 13.10528564453125,
+        "path": "articles/159569850377.jpg",
+        "top": 59.746826171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-159569850377.jpg",
+        "width": 572
+    },
+    "post_date": "2020-07-25T18:19:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/um_3ziz_/status/1285165346257862656",
+            "name": "ام عبد العزيز",
+            "path": "published/0_1595698502_default_profile_400x400.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=9eG18MkGQmU",
+            "name": "كلمات هنا الحبشي",
+            "path": "published/1_1595698502_8.jpg"
+        },
+        {
+            "link": "https://twitter.com/Mohammad301m/status/1282970588592496644",
+            "name": "محمد",
+            "path": "published/2_1595698502_pWa4ibjR_400x400.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100050965554240/videos/153848979657286/?q=%D8%B7%D9%81%D9%84%20%D9%88%D9%84%D8%AF%20%D9%81%D9%8A%20%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7%20%D8%A8%D8%AB%D9%84%D8%A7%D8%AB%20%D8%B9%D9%8A%D9%88%D9%86..&epa=SEARCH_BOX",
+            "name": "سبيعي السبيعي",
+            "path": "published/3_1595698502_101813667_134368638271987_4312129753386582016_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/677596892386284/videos/601697753818607/?v=601697753818607&external_log_id=05e2c4a5-9139-4694-9404-d00195a4d406&q=%D8%B7%D9%81%D9%84%20%D9%88%D9%84%D8%AF%20%D9%81%D9%8A%20%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7%20%D8%A8%D8%AB%D9%84%D8%A7%D8%AB%20%D8%B9%D9%8A%D9%88%D9%86..",
+            "name": "تعز الحالمة",
+            "path": "published/4_1595698502_109799805_2206798092799482_9173250773791153456_o.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "http://www.wajradiology.org/article.asp?issn=1115-3474;year=2018;volume=25;issue=1;spage=79;epage=83;aulast=Yahaya",
+            "name": "The West African Journal of Radiology",
+            "path": "sources/0_1595698502_mini_magick20190130-4669-1bka8dh.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?time_continue=3&v=z10cu700xhg&feature=emb_title",
+            "name": "10news India",
+            "path": "sources/1_1595698503_9.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "فيديو مفبرك لطفل ولد في ألمانيا بثلاثة عيون",
+    "updated_at": "2020-09-25 21:40:22",
+    "url_path": "/factcheck/2020/07/25/فيديو-مفبرك-لطفل-ولد-في-ألمانيا-بثلاث-عيون"
+}

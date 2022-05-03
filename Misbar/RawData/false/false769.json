@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 12579,
+    "author": {
+        "fullname": "محمود غزيل",
+        "id": "5ea83263db291659bf4bf4c4",
+        "photo": {
+            "name": "1588081251_IMG-20180505-WA0040.jpg",
+            "path": "authors/1588081251_IMG-20180505-WA0040.jpg"
+        }
+    },
+    "caption": "تحقق \"مسبار\" من التصريح المنسوب للرئيس التركي ووجد أنه زائف (twitter)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"rtl\" lang=\"ar\">أردوغان: الوضع في لبنان أخطر من الحرب العالمية، وإذا لم يتم إنقاذ الشعب سنتدخل في شؤون لبنان.</span></p>\r\n",
+    "country": "LB",
+    "created_at": "2020-04-29 19:20:39",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ea9a957db291634617f2d14",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"rtl\" lang=\"ar\">تحقق &quot;مسبار&quot; من التصريح المنسوب إلى الرئيس التركي ووجد أنه زائف، إذ لم يجد ما يمت بصلة له، ولا توجد&nbsp;أيَّة تصريحات مشابهة نُشرت عن مصادر رسمية تركية.</span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تداول عدد من المواقع الإلكترونية وحسابات على مواقع التواصل الاجتماعي، تصريحاً نسبوه إلى الرئيس التركي رجب طيب أردوغان، ادّعت فيه أنه قال &quot;الوضع في لبنان أخطر من الحرب العالمية، وإذا لم يتم إنقاذ الشعب سنتدخل في شؤون لبنان&quot;.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"margin-right:48px; text-align:center\"><img alt=\"https://images-prod.misbar.com/articlebody/origin_bvx862z0f.jpg\" src=\"https://images-prod.misbar.com/articlebody/origin_xc95awldz.jpg\" style=\"height:613px; width:624px\" /></p>\r\n\r\n<p style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_k3602n7o2.jpg\" style=\"height:188px; width:603px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_jr8np2j3x.jpg\" style=\"height:605px; width:555px\" /></span></p>\r\n\r\n<h1 dir=\"RTL\" style=\"margin-right:24px; text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_dpqylr4wv.jpg\" style=\"height:307px; width:515px\" /></h1>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1588177239EWYIOuSWsAAFPvf.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1588177239EWYIOuSWsAAFPvf.jpg",
+        "width": 752
+    },
+    "post_date": "2020-04-29T19:17:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.elsharkonline.com/%D9%85%D9%86-%D9%8A%D9%82%D9%81-%D9%88%D8%B1%D8%A7%D8%A1-%D8%A5%D8%AD%D8%B1%D8%A7%D9%82-%D8%A7%D9%84%D8%A8%D9%86%D9%88%D9%83-%D9%88%D9%85%D8%A7-%D8%B9%D9%84%D8%A7%D9%82%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7%D8%9F/2020/04/29/%D9%85%D8%AD%D9%84%D9%91%D9%8A%D8%A7%D8%AA/",
+            "name": "الشرق",
+            "path": "published/0_1588177238_الشرق.jpg"
+        },
+        {
+            "link": "https://twitter.com/Daniel_9_Daniel/status/1255235794706579458",
+            "name": "دانيال",
+            "path": "published/1_1588177359_دانيال.jpg"
+        },
+        {
+            "link": "https://twitter.com/MSGMA22/status/1255261700091252737",
+            "name": "Mélissa",
+            "path": "published/2_1588177359_Mélissa.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=10158012677900803&set=a.10150096775775803&type=3",
+            "name": "Abu Hamza Makousi",
+            "path": "published/3_1588177359_Abu Hamza Makousi.jpg"
+        },
+        {
+            "link": "https://twitter.com/AliGhazel6/status/1255243732137455618",
+            "name": "عماد",
+            "path": "published/4_1588177359_عماد.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.aa.com.tr/ar/search/?s=%D9%84%D8%A8%D9%86%D8%A7%D9%86",
+            "name": "ANADOLU AGENCY",
+            "path": "sources/0_1588177238_ANADOLU AGENCY.jpg"
+        },
+        {
+            "link": "https://twitter.com/RTErdogan",
+            "name": "Recep Tayyip Erdoğan",
+            "path": "sources/1_1588177239_Recep Tayyip Erdoğan.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "أردوغان يستعد للتدخل وإنقاذ لبنان.. تصريح زائف ",
+    "updated_at": "2020-09-25 11:18:05",
+    "url_path": "/factcheck/2020/04/29/أردوغان-يستعد-للتدخل-وإنقاذ-لبنان-تصريح-زائف"
+}

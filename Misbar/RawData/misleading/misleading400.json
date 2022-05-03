@@ -1,0 +1,158 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 274,
+    "author": {
+        "fullname": "حسام الوكيل",
+        "id": "5e7cb2a9d4a2297a3f1db883",
+        "photo": {
+            "name": "1585230505_1hGLjIBq_400x400.jpg",
+            "path": "authors/1585230505_1hGLjIBq_400x400.jpg"
+        }
+    },
+    "caption": " الفيديو قديم ويعود إلى عام 2015 (يوتيوب)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">فيديو للحظات وقوع زلزال في مدينة إزمير في تركيا منذ أيام.</p>\r\n",
+    "country": "TR",
+    "created_at": "2020-11-03 15:00:02",
+    "created_by": "5f39b1ee1dd5850789476b61",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 3,
+    "id": "5fa146422f4b71375451aeb3",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقق &quot;مسبار&quot; من الفيديو، ووجد أنه مضلل، إذ أنَّ الفيديو قديم ويعود إلى عام 2015، حين<u><a href=\"https://www.bbc.com/arabic/worldnews/2015/10/151026_earthquake_afghanistan_india_pakistan\" style=\"color:blue; text-decoration:underline\"> ضرب زلزال بقوة 7.5 </a></u>ريختر شمال شرق أفغانستان وأثر على مناطق في باكستان والهند، والفيديو المتداول لتأثير الزلزال على أحد أحياء الهند.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"color:black\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_ts91nd87e.jpg\" style=\"height:397px; width:624px\" /></span></p>\r\n\r\n<p dir=\"RTL\"><strong><span style=\"color:black\">اقرأ/ي أيضاً</span></strong></p>\r\n\r\n<p><a href=\"https://misbar.com/factcheck/2020/10/31/%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9-%D9%84%D9%8A%D8%B3%D8%AA-%D9%84%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A7%D8%AA-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%88%D8%B5%D9%84%D8%AA-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%B2%D9%84%D8%B2%D8%A7%D9%84-%D8%A5%D8%B2%D9%85%D9%8A%D8%B1\" target=\"_blank\">الصورة ليست لطائرة مساعدات &quot;إسرائيلية&quot; وصلت تركيا بعد زلزال إزمير</a></p>\r\n\r\n<p><a href=\"https://misbar.com/factcheck/2020/10/31/%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D8%B4%D9%8A%D9%83-%D9%88%D9%84%D9%8A%D8%B3%D8%AA-%D9%84%D9%83%D9%84%D8%A8-%D9%8A%D9%86%D9%82%D8%B0-%D8%B5%D8%A7%D8%AD%D8%A8%D9%87-%D8%B9%D9%82%D8%A8-%D8%B2%D9%84%D8%B2%D8%A7%D9%84-%D8%A5%D8%B2%D9%85%D9%8A%D8%B1-%D9%81%D9%8A-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7\" target=\"_blank\">الصور من التشيك وليست لكلب ينقذ صاحبه عقب زلزال إزمير في تركيا</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\"><span style=\"color:black\">تداولت حسابات على موقعي التواصل الاجتماعي فيسبوك وتويتر، مقطع&nbsp;فيديو لزلزال كبير&nbsp;يظهر فيه&nbsp;اهتزاز الشارع&nbsp;وهلع&nbsp;المارة، وزعم متداولو الفيديو أنه لزلزال إزمير الذي وقع منذ أيام في تركيا.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"color:black\"><span dir=\"LTR\" lang=\"AR-SA\"><img src=\"https://images-prod.misbar.com/articlebody/origin_i49ef176n.jpg\" style=\"height:624px; width:578px\" /></span></span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:black\"><img src=\"https://images-prod.misbar.com/articlebody/origin_lp5294s5t.jpg\" style=\"height:620px; width:574px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 209,
+        "left": 46.25048828125,
+        "path": "articles/1604404801اتناتنتان.JPG",
+        "top": 107.015869140625,
+        "totalHeight": 423,
+        "totalWidth": 464,
+        "watermark_path": "articles/watermark-1604404801اتناتنتان.JPG",
+        "width": 371
+    },
+    "post_date": "2020-11-03T14:38:00.000+03:00",
+    "published": [
+        {
+            "id": "5fa144f20a1816734152108b",
+            "link": "https://twitter.com/kad767/status/1323378163116773376?s=20",
+            "name": "خالد العويس",
+            "origin": "twitter",
+            "path": "sources/a4c48653068dc61156bf238abac8d2090555b772.jpg"
+        },
+        {
+            "id": "5fa144f2ff4c6730a1586017",
+            "link": "https://twitter.com/ahmad_alsaeed9/status/1323326566487805952?s=20",
+            "name": "أحمد السعيّد أبوعبدالله",
+            "origin": "twitter",
+            "path": "sources/d0e0b41838f279a5b57a800b4474de0fc0b219b6.jpg"
+        },
+        {
+            "id": "5fa144f2bedaf97974080f3e",
+            "link": "https://twitter.com/AhmedAlhatmi15/status/1323290829084123136?s=20",
+            "name": "أحمد الحاتمي 🇴🇲",
+            "origin": "twitter",
+            "path": "sources/c1f8d558e1800d15cf7bdefefe5d3cd1810931a7.jpg"
+        },
+        {
+            "id": "5fa144f27094af356f24ecbd",
+            "link": "https://twitter.com/saidmajrafi/status/1323312746113437704?s=20",
+            "name": "سعيد بن عبدالله المجرفي",
+            "origin": "twitter",
+            "path": "sources/e15263efc4261858b0282b105702b6ed05377309.jpg"
+        },
+        {
+            "id": "5f9926c7d9f20d42ef04a498",
+            "link": "https://twitter.com/a7m_abo2/status/1323400501837398019?s=20",
+            "name": "✳️ 🇺🇸بواحمد🇰🇼 Ⓜ️✈️✈️✈️",
+            "origin": "twitter",
+            "path": "sources/bf9a706ca7d0ca7b97e8c21a51082e22520d4974.jpg"
+        },
+        {
+            "id": "5fa144f260a8bf037479dd8c",
+            "link": "https://twitter.com/nasseralguwaee/status/1323460181863313408?s=20",
+            "name": "Nasser Alguwaee",
+            "origin": "twitter",
+            "path": "sources/53c493a0c516590ba41e1a7c0d46f41e53f8a705.jpg"
+        },
+        {
+            "id": "5f94524b2352b72db169ffcb",
+            "link": "https://twitter.com/Q8Q100/status/1323412917891538944?s=20",
+            "name": "مهد الذهب / الامر كله لله ﷻ",
+            "origin": "twitter",
+            "path": "sources/6c04d9b42c2f5e553a6f9d7092a0af27fbfcc886.jpg"
+        },
+        {
+            "id": "5fa144f2e58bb561125a4891",
+            "link": "https://twitter.com/jamaankalzhrani/status/1323230626020052992?s=20",
+            "name": "جمعان الزهراني ابو خالد JAMAAN K ALZHRANI",
+            "origin": "twitter",
+            "path": "sources/0f5271c62212796a5782725824cb734ba3e57f1d.jpg"
+        },
+        {
+            "id": "5fa144f2e6488f77871513b3",
+            "link": "https://twitter.com/A_Alsolaim/status/1323365185445396482?s=20",
+            "name": "عبدالرحمن السُّلَيْم",
+            "origin": "twitter",
+            "path": "sources/cac28975e3eba014d8cacd0dcc5b318ad510a9b6.jpg"
+        },
+        {
+            "id": "5fa144f33453126ed37d1044",
+            "link": "https://twitter.com/bo_tamim30/status/1323166408818233344?s=20",
+            "name": "المحايد🇶🇦",
+            "origin": "twitter",
+            "path": "sources/d0fce9b53e1cbea64e9b145cdc722b12b9601527.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f8edfb4148b827f7d192205",
+            "link": "https://youtu.be/uxbcKEcTN7w",
+            "name": "قناة يوتيوب",
+            "origin": "",
+            "path": "sources/f4e473f70061267e3fbe3df8d9498087e3cf99aa.jpg"
+        },
+        {
+            "id": "5f91b84585c9fb2f0d4b500a",
+            "link": "https://www.bbc.com/arabic/worldnews/2015/10/151026_earthquake_afghanistan_india_pakistan",
+            "name": "BBC ",
+            "origin": "",
+            "path": "sources/1_1589372500_BBC NEWS-logo.jpg"
+        },
+        {
+            "id": "5f8edfb4148b827f7d192205",
+            "link": "https://youtu.be/ZmZiXyWGzMM",
+            "name": "قناة يوتيوب",
+            "origin": "",
+            "path": "sources/f4e473f70061267e3fbe3df8d9498087e3cf99aa.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الفيديو لزلزال قديم عام 2015 وليس لزلزال إزمير التركية",
+    "updated_at": "2020-11-04 14:28:10",
+    "url_path": "/factcheck/2020/11/03/الفيديو-لزلزال-قديم-عام-2015-وليس-لزلزال-إزمير-التركية",
+    "was_notification_pushed": "true"
+}

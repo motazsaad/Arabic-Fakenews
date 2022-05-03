@@ -1,0 +1,158 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 309,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "تعتمد ناسا على برنامج لرصد الحرائق (فيسبوك)",
+    "category": "Technology",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صور خريطة تابعة لوكالة ناسا، تظهر الآلاف من الحرائق في مناطق مختلفة من العالم خلال 24 ساعة الأخيرة، في ظاهرة غريبة.</p>\r\n",
+    "country": "",
+    "created_at": "2020-11-08 13:12:16",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 3,
+    "id": "5fa7c48060a8bf03747acb19",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;<a href=\"https://misbar.com/quick-check\" style=\"color:blue; text-decoration:underline\">مسبار</a>&quot; من صورة الخريطة المتداولة وتبين أن الادعاء مضلل، إذ إنّ خريطة الحرائق ظاهرة عادية معتمدة منذ سنوات وليست غريبة. فقد عملت <a href=\"https://earthdata.nasa.gov/earth-observation-data/near-real-time/firms/about-firms#ed-firms-background\" style=\"color:blue; text-decoration:underline\">وكالة ناسا</a> الفضائية على تطوير نظام معلومات الحرائق لإدارة الموارد (<span dir=\"LTR\">FIRMS</span>) بهدف توفير مواقع حرائق لمديري الموارد الطبيعية الذين واجهوا تحديات في الحصول على معلومات الحرائق من الأقمار الصناعية في الوقت المناسب. ووجد &quot;<a href=\"https://misbar.com/qna\" style=\"color:blue; text-decoration:underline\">مسبار</a>&quot; أن صور الخريطة المتداولة على أنها للـ24 ساعة الفائتة، قديمة وتعود لبيانات يوم 12 سبتمبر/أيلول الفائت.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"01.PNG\" id=\"Image_x0020_9\" src=\"https://images-prod.misbar.com/articlebody/investigation_ftahf89c2.jpg\" style=\"height:287.25pt; width:453.75pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">وُيوزع نظام المعلومات، بيانات الحرائق النشطة في الوقت الفعلي القريب (<span dir=\"LTR\">NRT</span>) في غضون 3 ساعات من مراقبة القمر الصناعي، بالاعتماد على مقياس التصوير الطيفي ذي الدقة المتوسطة (<span dir=\"LTR\">MODIS</span>) ومجموعة مقياس الإشعاع المرئي للتصوير بالأشعة تحت الحمراء (<span dir=\"LTR\">VIIRS</span>).</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"0.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_mtjteqjom.jpg\" style=\"height:293px; width:657px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"00.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_7lpll1pjj.jpg\" style=\"height:460px; width:676px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وفق <a href=\"https://earthdata.nasa.gov/faq/firms-faq\" style=\"color:blue; text-decoration:underline\">ناسا</a> لا يمكن تحديد الحجم الدقيق للحريق، لكنها تؤكد أن كل علامة بكسل فيها حريق واحد على الأقل. وقد يكون ذلك ناتجاً عن &nbsp;نشاط بركاني، حريق غابات، أو آبار لاستخراج الغاز.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">واعتمدت منظمة الأمم المتحدة للأغذية والزراعة (<span dir=\"LTR\">UN FAO</span>) نسخة من البرنامج في مشاريعها، لتقدم معلومات للرصد المستمر وحالات الطوارئ إلى منظمات الأمم المتحدة الأخرى بالإضافة إلى توفير المعلومات لعامة الناس.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">اقرأ/ي أيضاً<br />\r\n<a href=\"https://misbar.com/factcheck/2020/11/03/%D8%B5%D9%88%D8%B1%D8%A9-%D9%85%D9%81%D8%A8%D8%B1%D9%83%D8%A9-%D8%AA%D8%AF%D8%B9%D9%8A-%D8%A3%D9%86-%D8%A7%D9%84%D8%A3%D8%B1%D8%B6-%D9%85%D8%B3%D8%B7%D8%AD%D8%A9\" style=\"color:blue; text-decoration:underline\">صورة مفبركة تدّعي أن الأرض مسطحة</a></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/08/31/%D9%84%D9%85-%D8%AA%D8%B5%D8%B1%D8%AD-%D9%88%D9%83%D8%A7%D9%84%D8%A9-%D9%86%D8%A7%D8%B3%D8%A7-%D8%A8%D8%A3%D9%86-%D9%82%D9%85%D8%B1%D8%A7-%D8%B5%D9%86%D8%A7%D8%B9%D9%8A%D8%A7-%D8%B3%D9%8A%D8%B3%D9%82%D8%B7-%D8%B9%D9%25\" style=\"color:blue; text-decoration:underline\">لم تصرح وكالة ناسا بأن قمراً صناعياً سيسقط على الأرض</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات وحسابات على مواقع التواصل الاجتماعي، خريطة&nbsp;لوكالة ناسا،&nbsp;تظهر&nbsp;حرائق في دول مختلفة من العالم في الوقت نفسه، وادعت أنها ظاهرة غريبة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"1.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_wmnv0xal7.jpg\" style=\"height:695px; width:544px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"2.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_nnqgjzolr.jpg\" style=\"height:529px; width:532px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"3.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_t6evj3vwb.jpg\" style=\"height:493px; width:508px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 315,
+        "left": 40.105224609375,
+        "path": "articles/1604830336123910410_2617287971895479_8529603588602086070_o.jpg",
+        "top": 74.871826171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-1604830336123910410_2617287971895479_8529603588602086070_o.jpg",
+        "width": 560
+    },
+    "post_date": "2020-11-08T10:32:00.000+03:00",
+    "published": [
+        {
+            "id": "5fa7c47e2f89dd6fcd5f6cf8",
+            "link": "https://www.facebook.com/Derriere.chaque/posts/1477382762622804",
+            "name": "Derri&egrave;re Chaque",
+            "origin": "facebook",
+            "path": "sources/a7869dafd004cc74d738ded9e6888ee1c2b54d90.jpg"
+        },
+        {
+            "id": "5fa7c47e2338e462e605b0b2",
+            "link": "https://twitter.com/MidoDz07345547/status/1325008842451775489",
+            "name": "Mido🕸 DZ",
+            "origin": "twitter",
+            "path": "sources/df5969772de819cb0d4cb26a2ab4839b366b1dbc.jpg"
+        },
+        {
+            "id": "5fa7c47f09eb9442f11e0f1e",
+            "link": "https://www.facebook.com/meteo.Tunisie.kms/posts/3100454720059251",
+            "name": "M&eacute;t&eacute;o . Tunisie",
+            "origin": "facebook",
+            "path": "sources/c23d1b538a2bdfd743b13df71f156f00f0048dda.jpg"
+        },
+        {
+            "id": "5fa7c47f7cd5a22bf426a0c0",
+            "link": "https://www.facebook.com/djezzarenaw/posts/3097904680319474",
+            "name": "الجزار الان",
+            "origin": "facebook",
+            "path": "sources/0d12f768a2ad24931691d87dca8d4c6c60367191.jpg"
+        },
+        {
+            "id": "5fa7c47fdff4aa40983df50d",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=845543579348744&id=158640738039035",
+            "name": "خواطر شاب جزائري ツ",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5fa7c47f78c66a371a354302",
+            "link": "https://www.facebook.com/Timimoun.Documentary/posts/3555198404566360",
+            "name": "تيميمون الوثائقية-Timimoun Documentary",
+            "origin": "facebook",
+            "path": "sources/b2b681f3d77f0095004f023714c2c844fd49d8c9.jpg"
+        },
+        {
+            "id": "5fa7c47f04620f5de718a596",
+            "link": "https://www.facebook.com/Icosium62/posts/415441226512869",
+            "name": "إيكوزيوم Icosium",
+            "origin": "facebook",
+            "path": "sources/57d1a7fa6e6784127389b726e381e6fc9bf77553.jpg"
+        },
+        {
+            "id": "5fa7c47f800b463aa414d189",
+            "link": "https://www.facebook.com/Entre.Dz.Officiell/posts/3198880283574859",
+            "name": "Entre Dz",
+            "origin": "facebook",
+            "path": "sources/f50b6adf0b5842f148ad21f85f5463b108a70699.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fa7c47f6faed347862e1cda",
+            "link": "https://firms.modaps.eosdis.nasa.gov/map/#t:adv;d:2020-11-07;@369.4,35.4,4z",
+            "name": "firms.modaps.eosdis.nasa.gov",
+            "origin": "",
+            "path": "sources/d9dea9aaf24a65bb34fd47bc1729b7d0f64ec08d.jpg"
+        },
+        {
+            "id": "5fa7c47fdabdbd023f78ef55",
+            "link": "https://earthdata.nasa.gov/faq/firms-faq",
+            "name": "earthdata.nasa.gov",
+            "origin": "",
+            "path": "sources/7d0291da04b01c54a30f39a5a5e2c283403fb420.jpg"
+        },
+        {
+            "id": "5fa7c47fdabdbd023f78ef55",
+            "link": "https://earthdata.nasa.gov/earth-observation-data/near-real-time/firms/about-firms#ed-firms-background",
+            "name": "earthdata.nasa.gov",
+            "origin": "",
+            "path": "sources/7d0291da04b01c54a30f39a5a5e2c283403fb420.jpg"
+        },
+        {
+            "id": "5fa7c47fe58bb561125b064c",
+            "link": "https://www.gislounge.com/real-time-fire-mapping-and-satellite-data/",
+            "name": "GIS Lounge",
+            "origin": "",
+            "path": "sources/c1666cf42b6f442c01d6518cd41d3068775be443.jpg"
+        },
+        {
+            "id": "5fa7c480c2a0957b7873e459",
+            "link": "https://medium.com/extreme-weather-stories/fire-in-america-4d5c872e3efd",
+            "name": "Medium",
+            "origin": "",
+            "path": "sources/69ac4c5e885d986a893b11954a01dd8dcb6b70b9.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "خريطة ناسا للحرائق ليست ظاهرة غريبة",
+    "updated_at": "2020-11-08 13:54:57",
+    "url_path": "/factcheck/2020/11/08/خريطة-ناسا-للحرائق-ليست-ظاهرة-غريبة",
+    "was_notification_pushed": "true"
+}

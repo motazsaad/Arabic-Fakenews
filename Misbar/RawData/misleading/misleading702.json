@@ -1,0 +1,101 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 850,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "تصميم فني متخيل (فيسبوك)",
+    "category": "Science",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">صورة لجماجم غريبة عُثر عليها في أفريقيا عام 2010، تعود لمخلوقات هي الحن والبن التي سبقت وجود الإنس والجن على الكرة الأرضية.</p>\r\n",
+    "country": "",
+    "created_at": "2020-09-01 12:48:44",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f4e18fcdf71ff36ea58b834",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الادعاء المتداول ووجد أنه مضلل، لأن الجماجم الظاهرة في الصورة عبارة عن <a href=\"https://amusingthezillion.com/2010/12/07/art-of-the-day-freak-taxidermy-skull-by-takeshi-yamada/\" style=\"text-decoration:none\" target=\"_blank\"><u>تصميم فني</u></a> متخيل لجماجم كائنات غريبة، من تصميم تاكيشي يامادا.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_uprndm6pq.jpg\" style=\"height:427px; width:538px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_0ea2tvo4m.jpg\" style=\"height:468px; width:624px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": false,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تتناقل صفحات وحسابات على مواقع التواصل، حديثاً، صورة تدعي أنها لجماجم غريبة عُثر عليها في أفريقيا عام 2010، تعود لمخلوقات هي الحن والبن التي سبقت وجود الإنس والجن على الكرة الأرضية.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_z8kqmpikr.jpg\" style=\"height:760px; width:533px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_o551qkw2j.jpg\" style=\"height:672px; width:529px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 362,
+        "left": -1.01666259765625,
+        "path": "articles/1598953724alienskull_takeshiyamada.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 641,
+        "watermark_path": "articles/watermark-1598953724alienskull_takeshiyamada.jpg",
+        "width": 643
+    },
+    "post_date": "2020-09-01T12:41:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/groups/775588395962327/permalink/1557722107748948/",
+            "name": "السيد عطالله",
+            "path": "published/0_1598953919_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/idrishussein.maran/posts/3212444685507247",
+            "name": "أبو شان زاخوي",
+            "path": "published/1_1598953919_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/groups/2307183156065458/permalink/3139286369521795/",
+            "name": "كرمة كرمة",
+            "path": "published/2_1598953919_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/groups/ScareTV/permalink/1541680066014997/",
+            "name": "Rami Rawad",
+            "path": "published/3_1598953960_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/lamarmr.mohmed/posts/1417175921815994",
+            "name": "Mohamed ALi",
+            "path": "published/4_1598953960_facebook.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://amusingthezillion.com/2010/12/07/art-of-the-day-freak-taxidermy-skull-by-takeshi-yamada/",
+            "name": "Amusing the Zillion",
+            "path": "sources/0_1598953724_Razzle_dazzle_LIC_400x400.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ليست جماجم غريبة وإنما تصاميم فنية",
+    "updated_at": "2020-09-25 04:47:54",
+    "url_path": "/factcheck/2020/09/01/ليست-جماجم-غريبة-وإنما-تصاميم-فنية"
+}

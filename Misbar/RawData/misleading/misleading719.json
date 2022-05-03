@@ -1,0 +1,104 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1151,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "يتم تداولها منذ أشهر على العديد من الصفحات (تويتر)",
+    "category": "Health",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">صورة للعاملين في مختبرات فحص عينات فايروس كورونا في قطاع غزة.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-08-27 18:09:44",
+    "created_by": "5f39b5a51dd585076701cb94",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f47ccb860211806f341c2f0",
+    "investigation": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من الصورة المتداولة وتبين أن الادعاء مضلل، والصورة ليست من قطاع غزة. إذ يتم تداولها منذ أشهر على العديد من الصفحات مع عبارات شكر للأطباء على دورهم في مكافحة فايروس كورونا. كما نشرتها مواقع إخبارية كصورة تعبيرية مع بعض الأخبار الخاصة بالفايروس.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_1raeulk3v.jpg\" style=\"height:479px; width:495px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_tksoag13f.jpg\" style=\"height:582px; width:492px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات على مواقع التواصل الاجتماعي، حديثاً، صورة تظهر أطباء نائمون من الإرهاق، وادعت أنها للعاملين في مختبرات فحص عينات فايروس كورونا المستجد في قطاع غزة.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_88lekbuai.jpg\" style=\"height:771px; width:492px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_bh8nsgqas.jpg\" style=\"height:842px; width:492px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ec1i4hcmk.jpg\" style=\"height:849px; width:483px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1598540984200.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1598540984200.jpg",
+        "width": 752
+    },
+    "post_date": "2020-08-27T18:06:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/AyaIsleemEn/status/1298703978050584580",
+            "name": "Aya Isleem",
+            "path": "published/0_1598540983_twitter.jpg"
+        },
+        {
+            "link": "https://twitter.com/Ameera_Nahhal/status/1298726041494712326",
+            "name": "أميرة فؤاد",
+            "path": "published/1_1598541188_twitter.jpg"
+        },
+        {
+            "link": "https://twitter.com/mohammed_jbour/status/1298721806807834630",
+            "name": "محمد الجبور",
+            "path": "published/2_1598541188_twitter.jpg"
+        },
+        {
+            "link": "https://twitter.com/mahmoedalsoso/status/1298846730620932096",
+            "name": "mahmoedalsoso",
+            "path": "published/3_1598541188_twitter.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=10160064006898572&set=a.10153364159318572&type=3",
+            "name": "Yonis Abojabal",
+            "path": "published/4_1598541188_facebook.jpg"
+        },
+        {
+            "link": "https://twitter.com/ramifarook2/status/1298759345627369473",
+            "name": "RAMI FAROOK",
+            "path": "published/5_1598541188_twitter.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.maghrebinfo.dz/2020/07/17/vers-le-lancement-dune-initiative-pour-soutenir-les-professionnels-de-sante-dans-la-lutte-contre-le-coronavirus/",
+            "name": "info",
+            "path": "sources/0_1598540983_هىبخ.jpg"
+        },
+        {
+            "link": "https://twitter.com/hanysad14/status/1278431118598045696",
+            "name": "hany saad",
+            "path": "sources/1_1598540983_hany saad.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صورة العاملين في مختبرات فحص كورونا ليست من غزة",
+    "updated_at": "2020-09-25 17:08:31",
+    "url_path": "/factcheck/2020/08/27/صورة-العاملين-في-مختبرات-فحص-كورونا-ليست-من-غزة"
+}

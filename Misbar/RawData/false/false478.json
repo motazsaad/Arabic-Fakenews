@@ -1,0 +1,98 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 803,
+    "author": {
+        "fullname": "مريم هواري",
+        "id": "5e299460d4a22939983a3ec5",
+        "photo": {
+            "path": "authors/1579791192_Maryam.jpg"
+        }
+    },
+    "caption": "أقيمت \"تل أبيب\" على قرى في قضاء يافا (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">اليهود حوّلوا &quot;تل أبيب&quot; من صحراء إلى واحدة من أجمل مدن العالم</p>\r\n",
+    "country": "IL",
+    "created_at": "2020-07-17 19:14:24",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f11ce60163be306f0136f04",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الادّعاء زائف. إذ أن استخدام الادعاء المتداول لمصطلح &quot;صحراء&quot; للدلالة على انعدام أشكال الحياة غير صحيح، فقد أقيمت&nbsp;تل أبيب &quot;الإسرائيلية&quot; على أنقاض عدّة قرى فلسطينية في<a href=\"http://zochrot.org/ar/press/52817\"><span style=\"color:#e74c3c\"> قضاء مدينة يافا</span></a>، بعد تهجير سكّانها واحتلالها عام 1948، منها الشيخ مونّس، المسعودية، الجماسين، سارونة وغيرها. فقد سكن قرية <a href=\"http://zochrot.org/ar/village/49480\"><span style=\"color:#e74c3c\">الشيخ مونّس</span></a>&nbsp;حتى عام 1948 قرابة 2240 نسمة واحتوت على مدرسة زراعية اشتهرت بزراعة الحمضيّات ولا زالت العديد من منازل القرية المهجّرة قائمة، أمّا بالنسبة لقرية <a href=\"http://zochrot.org/ar/village/49275\"><span style=\"color:#e74c3c\">المسعودية</span></a>، فسكنها قرابة 990 شخص حتى عام 1948 عملوا في زراعة الحمضيّات وتربية المواشي والتجارة ، وقد بلغ عدد سكان قرية الجمّاسين الغربي قرابة 1250 نسمة قبيل النكبة عام 1948.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/GUZUNNmmiK0\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_rvyj65s06.jpg\" style=\"height:750px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_smeobib25.jpg\" style=\"height:686px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_16n9xx0tb.jpg\" style=\"height:555px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_iccn3sg1u.jpg\" style=\"height:547px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_8x4z5plk6.jpg\" style=\"height:536px; width:624px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت صفحة قف معنا بالعربية على موقع تويتر تغريدةً بتاريخ 16 يوليو/تموز الجاري، تُفيد بأن اليهود حوّلوا &quot;تل أبيب&quot; من صحراء إلى واحدة من أجمل مدن العالم.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_w3lyl2v4h.jpg\" style=\"height:777px; width:595px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 158,
+        "left": 1.548736572265625,
+        "path": "articles/1595002463يافا صورة.jpg",
+        "top": 29.154296875,
+        "totalHeight": 189,
+        "totalWidth": 283,
+        "watermark_path": "articles/watermark-1595002463يافا صورة.jpg",
+        "width": 280
+    },
+    "post_date": "2020-07-17T19:09:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/SWUArabic/status/1283672721407111169",
+            "name": "StandWithUs Arabic قف معنا بالعربية",
+            "path": "published/0_1595002462_قف معنا.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "http://info.wafa.ps/ar_page.aspx?id=2416",
+            "name": "وفا",
+            "path": "sources/0_1595002463_وفا.jpg"
+        },
+        {
+            "link": "http://www.pead.ps/article/4747/%D9%82%D8%B1%D9%89-%D9%82%D8%B6%D8%A7%D8%A1-%D9%8A%D8%A7%D9%81%D8%A7-%D8%A7%D9%84%D9%85%D8%AF%D9%85%D8%B1%D8%A9",
+            "name": "دائرة شؤون المغتربين – منظمة التحرير الفلسطينية",
+            "path": "sources/1_1595002463_المغتربين.jpg"
+        },
+        {
+            "link": "https://zochrot.org/ar/press/52817",
+            "name": "ذاكرات",
+            "path": "sources/2_1595002463_ذاكرات.jpg"
+        },
+        {
+            "link": "https://zochrot.org/ar/village/49093",
+            "name": "ذاكرات",
+            "path": "sources/3_1595002463_ذاكرات.jpg"
+        },
+        {
+            "link": "https://zochrot.org/ar/village/49480",
+            "name": "ذاكرات",
+            "path": "sources/4_1595002463_ذاكرات.jpg"
+        },
+        {
+            "link": "https://acap.maps.arcgis.com/apps/webappviewer/index.html?id=705b1cc3275e4f5aa02e0bf0a096a0d7",
+            "name": "المركز العربي للتخطيط البديل",
+            "path": "sources/5_1595002463_المركز العربي.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "\"تل أبيب\" لم تكُن صحراء قبل عام 1948",
+    "updated_at": "2020-09-25 22:03:43",
+    "url_path": "/factcheck/2020/07/17/لم-يحول-اليهود-تل-أبيب-من-صحراء-إلى-واحدة-من-أجمل-مدن-العالم"
+}

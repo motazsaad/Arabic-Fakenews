@@ -1,0 +1,123 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1250,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "تم التلاعب في الصورة الأصلية (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-DZ\">صورة لأحد الأحياء الشعبية القديمة في العاصمة الجزائرية. </span></p>\r\n",
+    "country": "DZ",
+    "created_at": "2020-08-07 10:57:14",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5f2d095a60211807193acb6f",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-DZ\">تحقق &quot;مسبار&quot; من الصورة المتداولة ووجد أنها مفبركة، إذ تم التلاعب في الصورة الأصلية ودمج صورة من الحي القديم والتاريخي، القصبة المتهاوية، مع صورة علوية للميناء. وقد تواصل &quot;مسبار&quot; مع مختصّين في عالم الصورة والتصوير، والّذين أشاروا إلى أنه تم إدخال بعض التعديلات على الصورة&nbsp;بتقريبها&nbsp;وتلوينها&nbsp;بتقنية خاصة، ومن ثم&nbsp;أقلمتها وفق صور لدمار او انهيارات في حالات الكوارث.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-DZ\">الصورة قبل وبعد التعديل:</span><br />\r\n<img alt=\"ربما تحتوي الصورة على: ‏‏‏سماء‏ و‏نشاطات في أماكن مفتوحة‏‏‏\" src=\"https://images-prod.misbar.com/articlebody/investigation_vj3q6uqu8.jpg\" style=\"height:270px; width:459px\" /><br />\r\n<img alt=\"ربما تحتوي الصورة على: ‏‏‏سماء‏ و‏نشاطات في أماكن مفتوحة‏‏‏\" src=\"https://images-prod.misbar.com/articlebody/investigation_9vc3mlz6s.jpg\" style=\"height:278px; width:460px\" />&nbsp;</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-DZ\">صورة للمدينة ليلاً:</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_twx3uqcf8.jpg\" style=\"height:385px; width:605px\" /></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-DZ\">فيديو يظهر بعض المشاهد للمدينة:</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"720\" src=\"https://www.youtube.com/embed/a2Rblm2RvmE\" width=\"1280\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-DZ\">تتداول صفحات وحسابات على مواقع التواصل الاجتماعي، منذ تاريخ 4 أغسطس/آب الجاري، صورةً تدعي أنها من العاصمة الجزائرية، التقطت من أحد الأحياء الشعبية القديمة،&nbsp;ونسبت بعض الصفحات الصورة لحي القصبة العريق. وتجدر الإشارة إلى أن الصورة انتشرت مباشرةً بعد انفجار مرفأ بيروت، وهدف ناشرو الصورة إظهار واقع الفقر في أحياء الجزائر العميقة، إذ أشاروا إلى أن هذا الشكل الحقيقي للجزائر بدون حدوث انفجار.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_f3i5y6qvr.jpg\" style=\"height:695px; width:454px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_xr0jn1yct.jpg\" style=\"height:790px; width:443px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_2mhfm92v7.jpg\" style=\"height:790px; width:451px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/159678703310.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-159678703310.jpg",
+        "width": 752
+    },
+    "post_date": "2020-08-07T10:51:00.000+03:00",
+    "published": [
+        {
+            "link": "https://web.facebook.com/105474674169056/photos/a.105656304150893/328502348532953/?type=3&theater",
+            "name": "Ultima Verba",
+            "path": "published/0_1596787033_facebook.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/ChelghoumLaidInfo/photos/a.258515044575976/977716705989136/?type=3&theater",
+            "name": "ChelghoumLaidInfo",
+            "path": "published/1_1596787213_facebook.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/DzVids/photos/a.1622937054586961/2707361009477888/?type=3&theater",
+            "name": "Algérie vidéo فيديو الجزائر",
+            "path": "published/2_1596787213_facebook.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/hirakDZD/photos/a.1054769088066197/1492036511006117/?type=3&theater",
+            "name": "الحراك الشعبي الجزائري",
+            "path": "published/3_1596787213_facebook.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/photo.php?fbid=10224828696723714&set=a.10212909539232226&type=3&theater",
+            "name": "Hamid Forlane",
+            "path": "published/4_1596787213_facebook.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/photo.php?fbid=324510922016374&set=gm.988372164918528&type=3&theater&ifg=1",
+            "name": "صوت الشعب",
+            "path": "published/5_1596787213_facebook.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/photo.php?fbid=2890533381051286&set=basw.AbqLCcWwNITrDqpYsT5QC0ahcvScxKsHvcqpP9KRmY9FcvsP5n4JNK2VVPLuBkUrVpkr78QHWafistQyKhxCg5bVsqpXk0C_0op-_x_ee0ks7NCorB8DQlcqYFvpu0K7FjfZRMArGvCV0lBLOIVoZ-rc7vYgkWF7FyFe0qFcTtE9H02bEA7TunEIY0ZXocr6Pakyx0IkRaLTS037whq4JhquKYoz_jhoP344F0_BLrcKuyUCA_jG3QnoTg-18fJbMVY.2890533381051286.1998792723598034.2832997893612960.1230680873946225.864049990418226.573577229472422&type=1&opaqueCursor=AboXKvEpQ-tr1_RavAG8tvizqWgZ1EKJhNTJLZYXp0Zk9Sm-o-YT-LW4vsBeJuaA5o4yeHvX3Fp0n2CwNcH70rLyxwbweZU-j_Jnt2dRiHzo474dcK9DGZqVryTTnra1Xxxbsk5nz_IojbxC8z_wVCMpwkiDXmodyec2fIxDbZxlhw1H3XDrRjrP_xJsiC7seWtQCtYs4AuWboGKDHFvKRCfDs7up1SN7LL7jLxbZZd01PlCe5IbYJRdnqjJPKecA93QOlzDz0LWA2ipick-3qOotGxlh7HAA6jMI_p_QW1oL0eoOpOhdLdfzlG7MPVhuccVJ29_4BDFvL2blLXC7UWrM0ntUl2atrc379D3c387vABVIefzQrSawIWGmP_eREjnixnziXkAWMLCFK4g88pE6mzJ4r2Db9xwYBQ6YZwf8MEDa2XEocG4iT6Pas9MS6CJnBEQX8ZfMJG4_b7fsTW1SwQUrfqZb131F4gbIfesoMUdVXNQS1kG2ZnJiIQ3apyDvRwr2pOCOLx0eRY9Fqe1E4ejsI5h9OyxPGNIki0wnwrAir8tuAsR3SCsv1RaECu99lWBZs6H5QQhNMDQXaawqt3d98PY87D7PZASOVqQSd-q8vJbvlATVH05xn-tVVDcFnVyUVast2ZTBjkpMt7-SJobyF4mQViJYl8QrXD4V47D8JoXxOzQSwSD1_jCMvN-EgkVAiQdwUrCPVu72iGf44CAfEh0-wHsw9K4xQhf1nqdrAMq7y4wMKerUZgqAXZc3tz8kf1eXytEB8KOHcBlEWwtIM5flRqZ0eFDs9zCVbwie5zgEMJM9nDIc5lkkYhoBVKNzSxDWL48LLkY8eI-qG82ODJPDhI3uooN2ExgXsQ5znrzA1mN4eL0edkiM8d4LzMH19EPcXlkgqpZubOwvhGPt_5ExxF-FnUluGWWaQRuYavTKXzN1Y8IFCF2-E-sT47V40m1I31EVO72T8mk0A6JZaoWj3hdtkwytjScNL_lJnZVJBLJucImrUsFIXGzNcss-zX6aCFzw3fHdWvdOzdGZ9O6-smC-kNqgTDqyphexabIZrMvfllzSsDpOpymTiefgr5Qv9yd4BxkLR6Vzh6FsGT-1qMDXqiz1UDPXxohrTdsV3xH_BWPTv_LVhGEBgfck50WGdwFI-b_N2xDN1LUYy-LOtYuODOVYHIxi0Ymy3tuprvc8ZSJg4cv3eYkCeqij2qd8fyr_zpt3o3Kcf4xgn7gulDf1MVgw_aou4l4w8uSdKYrRQ6VPksAU-Yal27_xFXaWf5wyqB7gh6e&theater",
+            "name": "Les notables de la ville de sétif",
+            "path": "published/6_1596790353_facebook.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/photo.php?fbid=2832997893612960&set=basw.Abomn3AD-BvL5rN7yaH7OKzVEi9qBGRZeaA3-xhmlheOVH_CA3MHN-o8zdGrLo9JBpScbB-Xur1RTBdCKYDUl2wLKFKwnCM8FXIiRg_Y_fp6a8afJbhTygYJgp4X6Usj2sBq-L2ohJfZkUa2_ITt9j_DGXWIU5Hi489sI48-qtF1oQQyFdIe2tKD92D-knDMZFThtJJT8HkguGPUHxoPYTE1inGrJA8axsDO0kknz37nTXEkbWPKU_7valWsJB1yfWA.2890533381051286.1998792723598034.2832997893612960.1230680873946225.864049990418226.573577229472422&type=1&theater",
+            "name": "Achour Difaoui",
+            "path": "published/7_1596787214_facebook.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://web.facebook.com/algeriafutur/photos/pcb.258180242330731/258180222330733/?type=3&theater",
+            "name": "Algeriafutur",
+            "path": "sources/0_1596787033_Algerie Future.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/123icilalgerie/photos/a.147193435880028/675805719685461/?type=3&theater",
+            "name": "1.2.3 Ici L'Algérie",
+            "path": "sources/1_1596787214_1.2.3 Ici L'Algérie.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/profile.php?id=100000257221980",
+            "name": "حساب المصور سمير سيد",
+            "path": "sources/2_1596787214_Samir Sid.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=a2Rblm2RvmE",
+            "name": "فرانس 24",
+            "path": "sources/3_1596787214_فرانس 24.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصورة للجزائر العاصمة ليست حقيقية",
+    "updated_at": "2020-09-25 19:50:02",
+    "url_path": "/factcheck/2020/08/07/صورة-مفبركة-الجزائر-العاصمة-هكذا-بدون-انفجار"
+}

@@ -1,0 +1,141 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 46,
+    "author": {
+        "fullname": "محمد منصور",
+        "id": "5fb23d186f2b3d250d7af928",
+        "photo": {
+            "name": "1605516568_220.jpg",
+            "path": "authors/1605516568_220.jpg"
+        }
+    },
+    "caption": "المقطع التُقط أثناء عودة ترامب إلى البيت الأبيض من مؤتمر انتخابي (يوتيوب)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">مقطع فيديو يُظهر لحظة خروج الرئيس الأميركي دونالد ترامب من البيت الأبيض.</p>\r\n",
+    "country": "US",
+    "created_at": "2021-01-15 21:10:01",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 0,
+    "id": "6001da79d25c537448755152",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;<a href=\"https://misbar.com/\" style=\"color:#0563c1; text-decoration:underline\" target=\"_blank\">مسبار</a>&quot; من المقطع المتداول واتضح أنه مضلل، لأن <a href=\"https://youtu.be/TkYgH3AeqUI\" style=\"color:#0563c1; text-decoration:underline\" target=\"_blank\">المقطع الأصلي</a> قديم ويعود إلى تاريخ 21 يونيو/حزيران عام 2020، أثناء عودة ترامب إلى البيت الأبيض من مؤتمر انتخابي له في ولاية تولسا.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وجاء تداول المقطع هذه الأيام بعد أن أفادت <u><a href=\"https://arabic.sputniknews.com/world/202101131047785775-%D8%B5%D8%AD%D9%8A%D9%81%D8%A9-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D8%BA%D8%A7%D8%AF%D8%B1-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D9%85%D8%B5%D8%B7%D8%AD%D8%A8%D8%A7-%D8%A7%D9%84%D8%AD%D9%82%D9%8A%D8%A8%D8%A9-%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A%D8%A9/\" style=\"color:#0563c1; text-decoration:underline\" target=\"_blank\">تقارير صحفية</a></u>، بأن الرئيس الأميركي المنتهية ولايته دونالد ترامب، قام بأول زيارة له خارج العاصمة واشنطن منذ أعمال العنف التي طالت مبنى الكونغرس مؤخرًا.</p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_u20ze76vm.jpg\" style=\"height:397px; width:624px\" /></p>\r\n\r\n<p dir=\"rtl\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/TkYgH3AeqUI\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"rtl\">اقرأ/ي أيضًا:</p>\r\n\r\n<p dir=\"rtl\"><a href=\"https://misbar.com/factcheck/2021/01/14/%D9%84%D9%85-%D9%8A%D8%BA%D8%B1%D8%AF-%D8%AD%D8%B3%D8%A7%D8%A8-%D8%B3%D8%A7%D9%85%D8%B3%D9%88%D9%86%D8%BA-%D8%B9%D9%84%D9%89-%D8%AA%D9%88%D9%8A%D8%AA%D8%B1-%D9%85%D9%86-%D8%AC%D9%87%D8%A7%D8%B2-%D8%A2%D9%8A%D9%81%D9%88%D9%86\" target=\"_blank\">لم يغرد حساب سامسونغ على تويتر من جهاز آيفون</a></p>\r\n\r\n<p dir=\"rtl\"><a href=\"https://misbar.com/factcheck/2021/01/15/%D9%87%D8%B0%D9%87-%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9-%D9%84%D8%A7-%D8%AA%D8%B9%D9%88%D8%AF-%D8%A5%D9%84%D9%89-%D9%85%D8%B3%D8%A4%D9%88%D9%84%D8%A9-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D9%85%D8%AD%D8%AC%D8%A8%D8%A9-%D9%81%D9%8A-%D8%B3%D9%84%D8%A7%D8%AD-%D8%A7%D9%84%D8%AC%D9%88-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A\" target=\"_blank\">الصورة لا تعود إلى مسؤولة عسكرية محجبة في سلاح الجو الأميركي</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "ترامب",
+        "الولايات المتحدة الأميركية",
+        "البيت الأبيض"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [
+        "دونالد ترامب"
+    ],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتناقل صفحات وحسابات على مواقع التواصل الاجتماعي، منذ تاريخ 14 يناير/كانون الثاني الجاري، مقطع فيديو للرئيس الأميركي دونالد ترامب، وادعت أنه يُظهر لحظة خروجه من البيت الأبيض بعد انتهاء ولايته.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_69thivvhf.jpg\" style=\"height:586px; width:542px\" /></span></p>\r\n\r\n<p dir=\"rtl\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/V4Mky0TX6kI\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 417,
+        "left": 110.68887329101562,
+        "path": "articles/1610734201Screenshot 2021-01-15 195511.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 962,
+        "watermark_path": "articles/watermark-1610734201Screenshot 2021-01-15 195511.jpg",
+        "width": 741
+    },
+    "post_date": "2021-01-15T19:52:00.000+03:00",
+    "published": [
+        {
+            "id": "6001dd0ceffe4a030b054369",
+            "link": "https://www.youtube.com/watch?v=V4Mky0TX6kI&feature=youtu.be",
+            "name": "بث مباشر",
+            "origin": "youtube",
+            "path": "sources/50d686fe6064f6cbb770b11834ad5b30e610f23f.jpg"
+        },
+        {
+            "id": "6001dd0ccd113d653a1e6b6b",
+            "link": "https://www.facebook.com/drwaheepsaad/videos/1763549210477652/",
+            "name": "Drwaheepsaad",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        },
+        {
+            "id": "6001dd0c917373375d01ecef",
+            "link": "https://twitter.com/setifis620/status/1349864647780933633",
+            "name": "1,2,3 VIVA l&rsquo;Algerie,سطيف العالي 芥末",
+            "origin": "twitter",
+            "path": "sources/7b942fdd52658ca5fef9a442ba55464f560c6ceb.jpg"
+        },
+        {
+            "id": "5fb27a3cabefa744166a26ff",
+            "link": "https://twitter.com/SABERHASSAN8621/status/1349811064179929095",
+            "name": "@SABERHASSAN8621",
+            "origin": "twitter",
+            "path": "sources/14c1d07dbe06d11fcfa1da99188d2e7c001969d8.jpg"
+        },
+        {
+            "id": "6001dd0d48f70314e4309885",
+            "link": "https://www.facebook.com/nadir.khair/videos/10222645840241918/",
+            "name": "Nadir Khair",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        },
+        {
+            "id": "6001dd0d8b99964a4f6331c7",
+            "link": "https://www.facebook.com/karim.mayster.73/posts/3648521825421184",
+            "name": "Karim Mayster",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "6001da78a90ff129e832c9e4",
+            "link": "https://www.youtube.com/watch?v=xeDCrAkyuFA",
+            "name": "MSNBC",
+            "origin": "youtube",
+            "path": "sources/21ad60485de56c2164ae86b3393598afc906f7da.jpg"
+        },
+        {
+            "id": "5fd8d4fe2e9f79514e116605",
+            "link": "https://arabic.sputniknews.com/world/202101131047785775-%D8%B5%D8%AD%D9%8A%D9%81%D8%A9-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D8%BA%D8%A7%D8%AF%D8%B1-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D9%85%D8%B5%D8%B7%D8%AD%D8%A8%D8%A7-%D8%A7%D9%84%D8%AD%D9%82%D9%8A%D8%A8%D8%A9-%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A%D8%A9/",
+            "name": "arabic.sputniknews.com",
+            "origin": "",
+            "path": "sources/d2044f53e279330448a6cae39f19c26ec9bc2670.jpg"
+        },
+        {
+            "id": "5ff6c9cfbfcab65d3f389ea1",
+            "link": "https://www.youtube.com/watch?v=TkYgH3AeqUI&feature=emb_logo",
+            "name": "CNN",
+            "origin": "youtube",
+            "path": "sources/2da7c850eb98037f98c927ef449593f1857e552b.jpg"
+        },
+        {
+            "id": "6001da7909520765980197be",
+            "link": "https://www.youtube.com/watch?v=IsT4XDHaZqY",
+            "name": "ButterCow",
+            "origin": "youtube",
+            "path": "sources/dbadf946249b299500d7811fa6d54f9cdad11d0c.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "المقطع التُقط أثناء عودة ترامب إلى البيت الأبيض من مؤتمر انتخابي.",
+    "title": "الفيديو لا يُظهر لحظة مغادرة ترامب للبيت الأبيض",
+    "updated_at": "2021-01-15 21:56:35",
+    "url_path": "/factcheck/2021/01/15/الفيديو-لا-يظهر-لحظة-مغادرة-ترامب-للبيت-الأبيض",
+    "was_notification_pushed": "true"
+}

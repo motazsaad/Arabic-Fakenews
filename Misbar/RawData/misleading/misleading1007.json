@@ -1,0 +1,95 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1162,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "المسجد الظاهر في المقطع يقع في السويد (Getty)",
+    "category": "Spirituality & Religion",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">مسجد تم إغلاقه وتشميعه من قِبل الحكومة البريطانية إلا أنّ صوت الأذان لا يزال يُسمع عند كل صلاة. وقد فتّشت الحكومة المسجد ولم يجدوا أثراً لإنسان أو تسجيل.</span></p>\r\n",
+    "country": "GB",
+    "created_at": "2020-06-16 16:57:49",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ee8cfddd6e4a9109e0070c4",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من مقطع الفيديو المتداول ووجد أنه مضلّل، لأنّ المسجد الذي يظهر في المقطع هو </span><a href=\"https://www.gettyimages.ae/detail/news-photo/muslims-greet-each-other-after-performing-eid-al-fitr-news-photo/1147891928?adppopup=true\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>مسجد Fittja</u></span></a><span style=\"color:#000000\"> الواقع في السويد، وهو مسجد مفتوح ويُرفع فيه الأذان. ولا علاقة للأمر بمسجد مغلق في المملكة المتحدة، أو سماع أصوات دون معرفة مصدرها.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_e2kfnluk5.jpg\" style=\"height:524px; width:624px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_4b0kpxcbv.jpg\" style=\"height:349px; width:624px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "بريطانيا",
+        "السويد",
+        "مسجد"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل صفحات على مواقع التواصل الاجتماعي، منذ سنوات، مقطع فيديو تدّعي أنه يُظهر مسجداً في المملكة المتّحدة، أُغلق بالشمع الأحمر من قِبل الحكومة لكنّ صوت الأذان استمرّ في الانطلاق عند كلّ صلاة. كما ادّعى ناشرو الخبر أنّ الحكومة البريطانية عادت إلى البيت وفتّشته دون أن تجد أثراً لإنسان يؤدي الأذان أو تسجيل يبثّه.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"443\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FHistoiresutiles%2Fvideos%2F283330558532501%2F&amp;show_text=1&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"469\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FVideosfaebook%2Fvideos%2F1526742090674291%2F&amp;show_text=1&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 354,
+        "left": 2.5999755859375,
+        "path": "articles/1592315868GettyImages-1147891928.jpg",
+        "top": 31,
+        "totalHeight": 423,
+        "totalWidth": 635,
+        "watermark_path": "articles/watermark-1592315868GettyImages-1147891928.jpg",
+        "width": 630
+    },
+    "post_date": "2020-06-16T16:46:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/_9tt_/status/789507161802022912",
+            "name": "9tt",
+            "path": "published/0_1592315867_9.jpg"
+        },
+        {
+            "link": "https://twitter.com/tabeeb11/status/787188738975797248",
+            "name": "طيّب الاحساس",
+            "path": "published/1_1592315867_طيب.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Videosfaebook/videos/1526742090674291/",
+            "name": "فيديوهات على الفيس بوك",
+            "path": "published/2_1592315867_فيديوهات.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Histoiresutiles/videos/283330558532501/",
+            "name": "قصص الانبياء وقصص واقعية ومفيدة",
+            "path": "published/3_1592315867_قصص.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/omar.fekryy/videos/1129720560476472/",
+            "name": "Omar Fego",
+            "path": "published/4_1592315867_عمر.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.gettyimages.ae/detail/news-photo/muslims-greet-each-other-after-performing-eid-al-fitr-news-photo/1147891928?adppopup=true",
+            "name": "Getty Images",
+            "path": "sources/0_1592315868_getty.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صوت الأذان يصدر عن مسجد مغلق في بريطانيا.. خبر مضلل",
+    "updated_at": "2020-09-25 21:23:10",
+    "url_path": "/factcheck/2020/06/16/صوت-الأذان-يصدر-عن-مسجد-مغلق-في-بريطانيا-خبر-مضلل"
+}

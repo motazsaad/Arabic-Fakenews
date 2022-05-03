@@ -1,0 +1,94 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2276,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تصريح على لسان ترامب يقول &quot;فعلنا كل ما بوسعنا لقتل النظام التعليمي في مصر ودفعهم للتخلف، ولكن رئيس جامعة القاهرة كَشَفَنا وقرّر حظر النقاب. هم الآن على قمّة الهرم العلمي. لم يعد بإمكاننا فعل شيء&quot;.</span></p>\r\n",
+    "country": "EG",
+    "created_at": "2020-01-29 11:39:37",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e3144c9d4a2297da5773733",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">بعد التحقّق، تبيّن لـ&quot;مسبار&quot; أن الخبر كاذب، ولم تنشر البي بي سي تصريحاً للرئيس ترامب حول النظام التعليمي في مصر، ولم يتحدث عن هذا الموضوع في أي مكان آخر. ومن الجدير بالذكر أن الخبر انتشر، عقب صدور حكم قضائي بحظر ارتداء النقاب لعضوات هيئة التدريس في جامعة القاهرة، وذلك بعد قرار رئيس الجامعة، الدكتور محمد عثمان الخشت، </span><a href=\"https://www.masrawy.com/news/news_cases/details/2020/1/27/1713150/%D8%AD%D9%83%D9%85-%D9%86%D9%87%D8%A7%D8%A6%D9%8A-%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D9%8A%D8%A9-%D8%AA%D8%AD%D8%B8%D8%B1-%D8%A7%D8%B1%D8%AA%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D9%86%D9%82%D8%A7%D8%A8-%D8%B9%D9%84%D9%89-%D8%B9%D8%B6%D9%88%D8%A7%D8%AA-%D9%87%D9%8A%D8%A6%D8%A9-%D8%AA%D8%AF%D8%B1%D9%8A%D8%B3-%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>بحظر النقاب</u></span></a><span style=\"color:#000000\"> لأعضاء الهيئة التدريسية داخل الجامعة.</span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "ترامب",
+        "مصر",
+        "تعليم"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">نشرت العديد من الصفحات على مواقع التواصل الإجتماعي خبراً مفاده أن الرئيس الأمريكي دونالد ترامب صرّح لـ بي بي سي، أنهم فعلوا كلّ ما بوسعهم لقتل النظام التعليمي في مصر ودفعهم للتخلف، لكن رئيس جامعة القاهرة كشفهم وقرّر منع النقاب. وختم التصريح قائلاً &quot;هم الآن علي قمّة الهرم العلمي. لم يعد بإمكاننا فعل شيء&quot;. أُعيد نشر الخبر آلاف المرات على مختلف مواقع التواصل الاجتماعي.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_u5yrh47pq.jpg\" style=\"height:482px; width:498px\" /></span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#1c1e21\"><span style=\"background-color:#ffffff\"><img src=\"https://images-prod.misbar.com/articlebody/origin_v8ne69o8c.jpg\" style=\"height:502px; width:501px\" /></span></span><span style=\"color:#1c1e21\"><span style=\"background-color:#ffffff\">&nbsp;</span></span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_cjpnrcxog.jpg\" style=\"height:480px; width:497px\" /></span><span style=\"color:#000000\">&nbsp;&nbsp;</span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 352,
+        "left": 3.883331298828125,
+        "path": "articles/1580287177GettyImages-610598368.jpg",
+        "top": 2,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "width": 626
+    },
+    "post_date": "2020-01-29T10:34:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=3692099804141325&set=a.159532280731446&type=3&theater",
+            "name": "أحمد ضاحي",
+            "path": "published/0_1580288022_66420986_3088580331159945_3823799608283234304_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Ikhwan.Society/photos/a.952082058169007/2882880188422508/?type=3&theater",
+            "name": "مجتمع إخوان",
+            "path": "published/1_1580288022_35954967_1811628812214323_8283393284206755840_o.png"
+        },
+        {
+            "link": "https://www.facebook.com/ahmedmorad2000/posts/10162794055145257",
+            "name": "أحمد السعيد مراد",
+            "path": "published/2_1580288102_52764688_10161339375325257_2664100215786569728_n.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.bbc.com/arabic",
+            "name": "بي بي سي عربي",
+            "path": "sources/0_1580287177_بي بي سي عربي- لوغو.jpg"
+        },
+        {
+            "link": "https://www.whitehouse.gov/",
+            "name": "White House",
+            "path": "sources/1_1580287177_White-House-Logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/realDonaldTrump",
+            "name": "Donald J. Trump",
+            "path": "sources/2_1580287177_Twitter-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ما صحّة تصريح ترامب حول النظام التعليمي في مصر؟",
+    "updated_at": "2020-09-23 12:39:22",
+    "url_path": "/factcheck/2020/01/29/ما-صحة-تصريح-ترامب-حول-النظام-التعليمي-في-مصر"
+}

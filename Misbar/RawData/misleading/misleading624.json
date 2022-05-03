@@ -1,0 +1,109 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2185,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "أطلق يوسف دريسي وسم تحدي القمامة في الجزائر (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">&quot;يحدث في مدينة ماطر، شاب يقوم بتنظيف بلوعة يعطيه الصحة من هنا يبدأ التغيير&quot;</span></p>\r\n",
+    "country": "DZ",
+    "created_at": "2020-09-16 21:21:55",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5f6257c314332355894f8d4e",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصور المتداولة وتبين أنها مضللة، ولا تعود لشاب تونسي يرفع القمامة من البالوعة، بل لشاب جزائري يدعى <span style=\"background-color:white\">&nbsp;يونس دريسي. وهو ناشط في المجال البيئي منذ سنوات</span><span dir=\"LTR\"><span style=\"background-color:white\">.</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">وأطلق دريسي وسم تحدي القمامة </span>&nbsp;<span dir=\"LTR\"><span style=\"background-color:white\">(#TrashTagChallenge)</span></span><span style=\"background-color:white\"> الذي تقوم فكرته على رفع القمامة ونشر صور قبل وبعد العملية.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"11.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_op3j8vi4i.jpg\" style=\"height:559px; width:605px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات إخبارية وحسابات على موقعي فيسبوك وتويتر، حديثاً ومنذ عام 2019، صوراً تدّعي أنها لشاب تونسي يرفع القمامة من بالوعة. نسبته بعض الصفحات إلى مدينة ماطر شمالي البلاد.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_9i6u26a8m.jpg\" style=\"height:571px; width:445px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"0.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_buf32lxfp.jpg\" style=\"height:405px; width:588px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"00.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_vs1k9u2q1.jpg\" style=\"height:551px; width:450px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 338,
+        "left": 3.10528564453125,
+        "path": "articles/16002805159.jpg",
+        "top": 16.746826171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-16002805159.jpg",
+        "width": 601
+    },
+    "post_date": "2020-09-16T19:09:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/Lobna.Sediri.Officielle/posts/2579912682236787",
+            "name": "Lobna Sediri",
+            "path": "published/0_1600280514_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/freefreebel/status/1305797561287151622",
+            "name": "Lobna",
+            "path": "published/1_1600280514_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/ben.mami.marie/posts/2247492555359266",
+            "name": "Mariem ben mami",
+            "path": "published/2_1600280514_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/tunisian.mediaa/posts/754773221640945/",
+            "name": "الإعلام التونسي",
+            "path": "published/3_1600280514_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/groups/1468274790100806/permalink/2620147398246867/",
+            "name": "طبرق اليوم",
+            "path": "published/4_1600280514_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/Tunisna.Fm1/posts/917466175318531",
+            "name": "Tunisna FM",
+            "path": "published/5_1600280514_67819776_2303763929710849_8279055560511324160_o.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.aljazeera.net/news/miscellaneous/2019/3/28/%D8%B4%D8%A7%D8%A8-%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A-%D9%8A%D9%86%D8%AA%D8%B5%D8%B1-%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D8%A9-%D9%8A%D8%AC%D8%AA%D8%A7%D8%AD-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85",
+            "name": "قناة الجزيرة",
+            "path": "sources/0_1600280514__c32kyFc_400x400.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الصور لشاب جزائري ينظف البالوعة وليس تونسيًّا",
+    "updated_at": "2020-09-25 16:01:13",
+    "url_path": "/factcheck/2020/09/16/الصور-لشاب-جزائري-ينظف-البالوعة-وليس-تونسيا",
+    "was_notification_pushed": "true"
+}

@@ -1,0 +1,87 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 4,
+        "tw": 2
+    },
+    "amount_sources": 0,
+    "amount_visits": 1388,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "نفت قوى الامن الداخلي في لبنان الخبر (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\"><span dir=\"RTL\" lang=\"AR-SA\">العثور على جثة طفلة سورية توفيت بعد اغتصابها من قبل ثلاثة شبان في منطقة البقاع اللبنانية.</span></p>\r\n",
+    "country": "SY",
+    "created_at": "2020-07-15 19:30:20",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f0f2f1c163be3066e40f9d5",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من الخبر ووجد أنه زائف، إذ&nbsp;نشرت قوى الأمن اللبناني عبر حسابها الخاص على موقع تويتر، أنه لا صحة لما يتم تداوله حول العثور على جثة طفلة في منطقة البقاع بعد تعرضها للاغتصاب والتعذيب من قبل ثلاثة شبان، مشيرة أنها أيضاً لم تتلق أي بلاغ بهذا الخصوص.</span></p>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"rtl\">لا صحة لما يتم تداوله على بعض مواقع التواصل الاجتماعي حول العثور على طفلة في البقاع جثة هامدة بعد تعرضها للإغتصاب والتعذيب من قبل ثلاثة شبان، علما انه لم يحصل أي إدعاء بهذا الموضوع لدى <a href=\"https://twitter.com/hashtag/%D9%82%D9%88%D9%89_%D8%A7%D9%84%D8%A3%D9%85%D9%86?src=hash&amp;ref_src=twsrc%5Etfw\">#قوى_الأمن</a>، ويرجى عدم نشر اي خبر قبل التاكد من صحته. <a href=\"https://t.co/RuaHqLG4Nq\">pic.twitter.com/RuaHqLG4Nq</a></p>\r\n&mdash; قوى الامن الداخلي (@LebISF) <a href=\"https://twitter.com/LebISF/status/1282633803819868162?ref_src=twsrc%5Etfw\">July 13, 2020</a></blockquote>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تناقلت حسابات وصفحات على مواقع التواصل الاجتماعي، حديثاً، خبراً زائفاً مفاده أن قوى الأمن اللبناني عثرت على جثة طفلة سورية في منطقة البقاع اللبنانية، تدعى &quot;لجين.س&quot; بعد أيام من اختفائها، وذلك إثر تعرضها للاغتصاب والتعذيب من قبل ثلاثة أشخاص.</span></p>\r\n\r\n<p style=\"text-align:center\"><img id=\"صورة_x0020_8\" src=\"https://images-prod.misbar.com/articlebody/origin_zpyyz7r12.jpg\" style=\"height:698.25pt; width:400.5pt\" /></p>\r\n\r\n<p style=\"text-align:center\"><img id=\"صورة_x0020_6\" src=\"https://images-prod.misbar.com/articlebody/origin_utyg2bh0j.jpg\" style=\"height:238.5pt; width:415.5pt\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/159483240151ac7b45f92a9e14d680d203b583f8bc79.jpg",
+        "watermark_path": "articles/watermark-159483240151ac7b45f92a9e14d680d203b583f8bc79.jpg"
+    },
+    "post_date": "2020-07-15T17:00:00.000+03:00",
+    "published": [
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=321155079274659&id=100231621367007",
+            "name": "وكالة حق نيوز سوريا",
+            "path": "published/0_1594830619_69642728_100233394700163_2355513928034811904_n.jpg"
+        },
+        {
+            "link": "https://m.facebook.com/groups/648098586021357?view=permalink&id=739435296887685",
+            "name": "نعيم حمدان نعيم حمدان",
+            "path": "published/1_1594830619_2.jpg"
+        },
+        {
+            "link": "https://m.facebook.com/groups/297663781212125?view=permalink&id=380013882977114",
+            "name": "يوميات كورونا في ألمانيا",
+            "path": "published/2_1594830619_1.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/SyrianLakta/posts/901923863646466",
+            "name": "وين في لقطة",
+            "path": "published/3_1594830619_5.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/syrianapress.net/posts/120397553065545?__xts__[0]=68.ARBgstIu3KHys6Sks9V5wvZnSRrrx1SEd8rnfEUKGyl-JHFQ0AvOwips-jYvC2twRl6OHfKdH3M4pUA4-hwcmB4d7UhYC5GngDadjTHRUSbDN4LReWw_Ef-EBPDFEeKn1ZABslPPbShiVEgFQdQw5V7MNAcRcQZ28mueQl4hPtYD5eNLw0xXvtVkhIOmr5ZGmOsmY61Gb-BBawfm3tEQC9cyHLSfdcd0o0grMjCL7jsJcZuu4R1m7Trcy5OldfLyemASKRb9BlysIPPSkTtPp7KRxxgnQ6TyyqDRblLVbKxCzM5P8oT5E9aj0dAT_98P2njJ0Tmnev0JwIUpLiWGu8U&__tn__=-R",
+            "name": "سيريانا بلس",
+            "path": "published/4_1594830619_4.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/LebISF/status/1282633803819868162?s=19",
+            "name": "قوى الامن الداخلي في لبنان",
+            "path": "sources/0_1594830619_qnzCTzLn_400x400.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لم يُعثر على جثة طفلة سورية  تعرضت للاغتصاب في لبنان",
+    "updated_at": "2020-09-25 21:19:42",
+    "url_path": "/factcheck/2020/07/15/لم-يعثر-على-جثة-طفلة-سورية-تعرضت-للاغتصاب-في-لبنان"
+}

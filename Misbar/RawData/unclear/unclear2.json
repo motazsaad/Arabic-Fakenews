@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 4163,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "بنك الطعام الكندي قلق إزاء كمية المخزون وقلة عدد المتطوعين في ظل أزمة فايروس كورونا المستجد (Getty)",
+    "category": "Food & Beverages",
+    "claim": "<p style=\"text-align:right\">رجل عربي يقول إنه يعيش في كندا يعرض مجموعة من المساعدات الغذائية في مقطع فيديو،&nbsp;وجدها على باب منزله من الحكومة الكندية.</p>\r\n",
+    "country": "CA",
+    "created_at": "2020-05-06 17:43:43",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 0,
+    "id": "5eb2cd1fdb291644e34aabc5",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الفيديو بعد أن قابل أحد العاملين في منظمات المجتمع المدني في كندا من المهاجرين، والذي فضل عدم ذكر اسمه بسبب وظيفته، وقال: &quot;الحكومة الكندية لا تترك مساعدات على أبواب المنازل، الأمر مستحيل، كما أنَّ العلامات التجارية للمواد التي تظهر في الفيديو غير موجودة في كندا، ناهيك على أنَّ كندا لا تستخدم الأكياس البلاستيكية، فلا يتم التعامل معها في المحال التجارية والمؤسسات الرسمية&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وتابع أنه يُرجح&nbsp;زيف المعلومات التي يقدمها الشخص في الفيديو، مضيفاً: &quot;يقول في نهاية الفيديو أنه من مدينة ملطميسيساجا ولا يوجد مدينة بهذا الاسم، بل هناك مدينة ميلتون وهناك ميسيساجا، ولا توجد مدينة تجمع بين الاسمين&quot;، مشيراً&nbsp;إلى أنَّ الحكومة لا توزع الفيتامينات بعد أزمة فايروس كورونا بل تحتاج للحصول عليها إلى وصفة طبية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وبحسب بنك الطعام الكندي الذي يوزع المساعدات، فلم يذكر إرسال مساعدات غذائية للمنازل بل يجب على المحتاجين التسجيل في أقرب فرع أو عبر الإنترنت للحصول على المساعدات، معبراً عن قلقه إزاء كمية المخزون وقلة عدد المتطوعين في ظل أزمة فايروس كورونا المستجد.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_e4kcwqmi3.jpg\" style=\"height:303px; width:604px\" /></span>&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت صفحاتٌ&nbsp;وحساباتٌ على &quot;فيسبوك&quot; في الأسبوع الأول من أبريل/نيسان المنصرم، فيديو لرجل عربي يقول إنه يعيش في كندا يعرض مجموعة من المساعدات الغذائية والفيتامينات، ويذكر&nbsp;أنها وصلته إلى باب منزله، بسبب الحجر الصحي بعد فايروس كورونا المستجد (كوفيد-19)، ويقارن بين اهتمام الحكومة الكندية وبين إهمال الدول العربية للفقراء.</span></p>\r\n\r\n<p style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_wcfcr5147.jpg\" style=\"height:378px; width:604px\" />&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_oxerxtet8.jpg\" style=\"height:508px; width:605px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_wl9ojdswr.jpg\" style=\"height:372px; width:605px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_mcts71gpn.jpg\" style=\"height:377px; width:604px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 313,
+        "left": 3.75,
+        "path": "articles/1588776222GettyImages-1211395341.jpg",
+        "top": 30.83984375,
+        "totalHeight": 423,
+        "totalWidth": 564,
+        "watermark_path": "articles/watermark-1588776222GettyImages-1211395341.jpg",
+        "width": 556
+    },
+    "post_date": "2020-05-06T18:53:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/search/top/?q=%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9%20%D8%BA%D8%B0%D8%A7%D8%A6%D9%8A%D8%A9%20%D9%85%D9%86%20%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9%20%D8%A7%D9%84%D9%83%D9%86%D8%AF%D9%8A%D8%A9&epa=SEARCH_BOX",
+            "name": "علي عودة القريشي",
+            "path": "published/0_1588776221_علي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/bassemshandal.algnabbe/videos/3000190910060756/",
+            "name": "Bassem Shandal ALgnabe",
+            "path": "published/1_1588776221_باسم.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/alordonalyoom/videos/2840362882747000/?v=2840362882747000",
+            "name": "الأردن اليوم",
+            "path": "published/2_1588776221_الاردن اليوم.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/coronajordan12/videos/550161032279321/",
+            "name": "صوت البلد",
+            "path": "published/3_1588776221_صوت البلد.jpg"
+        }
+    ],
+    "result": "unclear",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.foodbankscanada.ca/utility-pages/find-a-food-bank.aspx",
+            "name": "Food banks canada",
+            "path": "sources/0_1588776221_بنك الطعام.JPG"
+        },
+        {
+            "link": "",
+            "name": "",
+            "path": ""
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": " مواطن عربي يشكر كندا على مساعدات غذائية.. ما القصة؟",
+    "updated_at": "2020-09-25 10:23:38",
+    "url_path": "/factcheck/2020/05/06/-مواطن-عربي-يشكر-كندا-على-مساعدات-غذائية-ما-القصة"
+}

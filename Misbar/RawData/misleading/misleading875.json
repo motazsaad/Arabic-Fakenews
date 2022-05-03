@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1410,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "الصورة لمطعم كويتي (تويتر)",
+    "category": "Food & Beverages",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:#000000\">ديكور لأحد المطاعم التونسية يجلس فيه&nbsp;المحاسب داخل قدر تخرج منه ملعقة كبيرة، <span style=\"background-color:white\">ليتلقى فواتير الطلبات.</span></span></p>\r\n",
+    "country": "TN",
+    "created_at": "2020-07-21 18:44:04",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f170d44163be307b26474c3",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من الصورة المتداولة وتبين أنّها مضللة، إذ أنّ صورة الديكور تعود لمطعم&nbsp;كويتي&nbsp;يعرف باسم &quot;فريج صويلح للمأكولات الكويتية&quot;، فرع أسواق القرين الذي تأسس عام 2018.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"EDhLHl_XUAEQvfq.jpeg\" src=\"https://images-prod.misbar.com/articlebody/investigation_xwa7y5lyz.jpg\" style=\"height:340px; width:605px\" /></span><br />\r\n&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:#000000\">ووجد &quot;مسبار&quot; أنه منذ تأسيس فرع المطعم الجديد بديكوره المختلف في 2018، تناقلت&nbsp;وسائل التواصل الاجتماعي صورته على أنه في مصر، وأرجأه بعضهم إلى تونس والمغرب، وحيدر آباد.&nbsp;وكانت</span> <a href=\"https://twitter.com/SabahAlsaudiah/status/1041590692122898432\" style=\"color:blue; text-decoration:underline\">وسائل إعلام خليجية</a> <span style=\"color:#000000\">كشفت أنه مطعم شعبي في الكويت.</span></p>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"rtl\">من <a href=\"https://twitter.com/hashtag/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1%D9%86%D8%A7?src=hash&amp;ref_src=twsrc%5Etfw\">#اخبارنا</a> &quot;كاشير&quot; مطعم يتلقى طلبات الزبائن من داخل &quot;قدر&quot; في <a href=\"https://twitter.com/hashtag/%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA?src=hash&amp;ref_src=twsrc%5Etfw\">#الكويت</a><a href=\"https://t.co/B9F653uj5R\">https://t.co/B9F653uj5R</a><a href=\"https://twitter.com/hashtag/%D8%B5%D8%A8%D8%A7%D8%AD_%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9?src=hash&amp;ref_src=twsrc%5Etfw\">#صباح_السعودية</a> <a href=\"https://t.co/ygpnblJDZo\">pic.twitter.com/ygpnblJDZo</a></p>\r\n&mdash; صباح السعودية🇸🇦 (@SabahAlsaudiah) <a href=\"https://twitter.com/SabahAlsaudiah/status/1041590692122898432?ref_src=twsrc%5Etfw\">September 17, 2018</a></blockquote>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:#000000\">تتداول صفحات إخبارية وحسابات على مواقع التواصل الاجتماعي، حديثاً ومنذ عام 2018، صورةً تدّعي أنّها لأحد المطاعم التونسية، التي تعتمد ديكوراً مختلفاً، تضع فيه محاسب الطلبات داخل قدر. ونقلت الصفحات نفسها الصورة مرفقة بتعليقات ساخرة.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img alt=\"00.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_tqi6iieqm.jpg\" style=\"height:535px; width:332px\" /><br />\r\n<img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_vmrs57zf6.jpg\" style=\"height:607px; width:377px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 335,
+        "left": 9.10528564453125,
+        "path": "articles/159534624441848461_2050794741651764_5728421513032368128_n.jpg",
+        "top": 38.746826171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-159534624441848461_2050794741651764_5728421513032368128_n.jpg",
+        "width": 595
+    },
+    "post_date": "2020-07-21T16:30:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/dzeuz0/posts/2762875253943805",
+            "name": "Führer Achref",
+            "path": "published/0_1595346243_104492538_2736556583242339_1437315183871656120_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Tunisiaonline.org/photos/a.1474476969439761/2162666657287452/?type=3&theater",
+            "name": "Tunisia online تونس أونلاين",
+            "path": "published/1_1595346243_10154921_1449747798579345_2684757389055986105_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/maqalet/photos/a.895125487513026/1202641190094786/?type=3&theater",
+            "name": "مقالات",
+            "path": "published/2_1595346243_66879381_894666180892290_1352554298944258048_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/106378184390146/photos/a.107031634324801/149675526727078/?type=3&theater",
+            "name": "espace chlef",
+            "path": "published/3_1595346243_95943682_118132863214678_7169145799731838976_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ayoubti.lghali/posts/3198536406865278",
+            "name": "Hejer Frigui",
+            "path": "published/4_1595346243_110281666_3195412983844287_5225778369330359068_o.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/SabahAlsaudiah/status/1041590692122898432",
+            "name": "صباح السعودية",
+            "path": "sources/0_1595346244_ClgydNxA_400x400.jpg"
+        },
+        {
+            "link": "https://twitter.com/Twasul_Lite/status/1041414209349844992",
+            "name": "تواصل لايت",
+            "path": "sources/1_1595346244_8CN6CTKj_400x400.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصورة ليست لمطعم تونسي",
+    "updated_at": "2020-09-25 21:15:43",
+    "url_path": "/factcheck/2020/07/21/هذه-الصورة-ليست-لمطعم-تونسي"
+}

@@ -1,0 +1,91 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 3264,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "صورة تعبيرية (Getty)",
+    "category": "Arts & Culture",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">سائح يهودي يعترض على تمثال في أحد متاحف مدريد اسمه &quot; المسيحي واليهودي والمسلم&quot;، خوفاً&nbsp;من نهوض المسلم.</p>\r\n",
+    "country": "ES",
+    "created_at": "2020-02-24 20:39:19",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 3,
+    "id": "5e540a47d4a2290fda154774",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الخبر ووجد أنه متداول منذ سنوات عديدة، وعاد الآن إلى الظهور على مواقع التواصل الاجتماعي.&nbsp;يعود الخبر إلى عام 2010، إضافة إلى أنّ&nbsp;التمثال ليس معروضاً في متحف، بل تمّ بيعه في &quot;معرض الفن المعاصر&quot; في مدريد إلى زبون بلجيكي لم يعلن عن هويته، بمبلغ 45 ألف يورو. ويحمل التمثال اسم &quot;السلّم إلى الجنة&quot;، وهو عمل للفنان الإسباني &quot;أوجينيو ميرينو&quot;، ولم يحمل يوماً اسم &quot;المسيحي واليهودي والمسلم&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">. <span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_bon1d4svk.jpg\" style=\"height:640px; width:474px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت بعض صفحات التواصل الاجتماعي في 23 فبراير/شباط من العام الجاري خبراً مفاده أن تمثالاً معروضاً في أحد متاحف مدريد اسمه &quot; المسيحي واليهودي والمسلم&quot;، وأن سائحاً يهودياً اعترض عند رؤية التمثال، فسأله السياح عن سبب اعتراضه بالرغم من أن اليهودي يعلوهم، فأجاب السائح &quot;إذا نهض المسلم سنتناثر جميعاً&quot;، في إشارة إلى كون تمثال المسلم يمثل قاعدة لتمثالي&nbsp;اليهودي والمسيحي.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_rseyozt9r.jpg\" style=\"height:930px; width:467px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_rz12o3b25.jpg\" style=\"height:930px; width:523px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1582628714sdsdsdsd.jpg"
+    },
+    "post_date": "2020-02-24T17:28:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.youtube.com/watch?v=QeFIaZTofEY",
+            "name": "mohammedshabana",
+            "path": "published/0_1582565958_thumbnail_unnamed.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/1086104891583072/permalink/1305937409599818/",
+            "name": "الطريق الى الجنة",
+            "path": "published/1_1582565958_thumbnail_65814648_472803863473285_6591796654918074368_n.jpg"
+        },
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=177829843662012&id=103196301125367",
+            "name": "Dz politic",
+            "path": "published/2_1582565958_thumbnail_79898215_139019314209732_5767783088708911104_n.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.bbc.com/portuguese/cultura/2010/02/100218_arte_polemica_espanha_ai_np.shtml",
+            "name": "bbc",
+            "path": "sources/0_1582565958_th (1).jpg"
+        },
+        {
+            "link": "https://ultimosegundo.ig.com.br/mundo/obra-que-retrata-religiosos-empilhados-e-criticada-na-espanha/n1237612752042.html",
+            "name": "ultimosegundo",
+            "path": "sources/1_1582565958_thumbnail_logo-ig.jpg"
+        },
+        {
+            "link": "https://guiame.com.br/gospel/mundo-cristao/obra-que-retrata-religiosos-empilhados-e-criticada-na-espanha.html",
+            "name": "guiame",
+            "path": "sources/2_1582565958_8888888.JPG"
+        },
+        {
+            "link": "https://www.jpnews.com.br/variedades/obra-que-retrata-religiosos-empilhados-e-criticada-na-espanha/19562/",
+            "name": "jpnews",
+            "path": "sources/3_1582565958_thumbnail_gruporcnin.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ما حقيقة تمثال اليهودي والمسلم والمسيحي في متحف مدريد؟",
+    "updated_at": "2020-09-25 21:26:36",
+    "url_path": "/factcheck/2020/02/24/ما-حقيقة-تمثال-اليهودي-والمسلم-والمسيحي-في-متحف-مدريد"
+}

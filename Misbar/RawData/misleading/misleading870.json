@@ -1,0 +1,98 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 5499,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "المقطع قديم ويعود للشهر الفائت في ليبيا (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تصدى الجيش المصري للعناصر المسلحة في كمين رابعة في بئر العبد.</span></p>\r\n",
+    "country": "EG",
+    "created_at": "2020-07-22 13:45:36",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f1818d0163be308f30a1098",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من المقطع المتداول وتبين أنّ الادعاء مضلل، ولا علاقة له بسيناء. المقطع قديم ونشره إعلام بركان الغضب، التابع لحكومة الوفاق الليبية، بتاريخ 2 يونيو/حزيران الفائت، تحت عنوان &quot;فيديو كمين فرقة 20 20 جهاز الردع لآليـتين في مثلث بن عون اليوم وقطع الطريق&quot;. وحسب <a href=\"https://arabi21.com/story/1274674/%D9%83%D9%85%D9%8A%D9%86-%D9%85%D8%AD%D9%83%D9%85-%D9%84%D9%80-%D8%A7%D9%84%D9%88%D9%81%D8%A7%D9%82-%D9%8A%D9%88%D9%82%D8%B9-%D9%82%D8%AA%D9%84%D9%89-%D8%A8%D9%82%D9%88%D8%A7%D8%AA-%D8%AD%D9%81%D8%AA%D8%B1-%D8%A8%D8%B7%D8%B1%D8%A7%D8%A8%D9%84%D8%B3-%D8%B4%D8%A7%D9%87%D8%AF\" style=\"color:#0563c1; text-decoration:underline\">المركز الإعلامي</a> التابع لغرفة عمليات بركان الغضب، فإن هذه المشاهد التُقطت أثناء محاولة قوات تابعة للمشير خليفة حفتر الهروب من جنوب طرابلس.</span></p>\r\n\r\n<p style=\"text-align:right\"><iframe frameborder=\"0\" height=\"682\" src=\"https://www.youtube.com/embed/LDsFelCofl8\" width=\"1212\"></iframe></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">وقال <a href=\"https://www.youtube.com/watch?v=KojGLE2StJM&amp;feature=emb_title&amp;bpctr=1595414847\" style=\"color:#0563c1; text-decoration:underline\">الجيش المصري</a> في بيانه، اليوم 22 يوليو/تموز، إن اثنين من عناصره قتلا وأصيب أربعة آخرون في هجوم شنه مسلحون على نقطة تمركز أمنية في منطقة بئر العبد في شمال سيناء. وأشار أن القوات نجحت في إحباط محاولة هجوم للعناصر التكفيرية على أحد الإرتكازات الأمنية. وحسب البيان، فإن الجيش دمر 4 عربات، منهم 3 مفخخة.</span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات وصفحات على مواقع التواصل الاجتماعي، منذ أمس 21 يوليو/تموز، مقطع فيديو ادّعت أنه لتصدي قوات من الجيش المصري لعناصر مسلحة في بئر العبد. وانتشر المقطع بعدما هاجم مسلحون معسكر رابعة الأمني للجيش المصري، في مدينة بئر العبد في شمال سيناء، أمس الثلاثاء.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fahmed.hero.1276487%2Fvideos%2F2153952074750293%2F&amp;show_text=0&amp;width=340\" style=\"border:none;overflow:hidden\" width=\"340\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ndgvbb6kv.jpg\" style=\"height:623px; width:462px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_1qop84kg4.jpg\" style=\"height:590px; width:462px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1595416170100.jpg",
+        "watermark_path": "articles/watermark-1595416170100.jpg"
+    },
+    "post_date": "2020-07-22T13:41:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/ahmed.hero.1276487/videos/2153952074750293/",
+            "name": "Ahmed El-Adly",
+            "path": "published/0_1595414735_Ahmed El-Adly.jpg"
+        },
+        {
+            "link": "https://twitter.com/7oda277/status/1285855003211694080",
+            "name": "Mahmoud Elashry",
+            "path": "published/1_1595414869_Mahmoud Elashry.jpg"
+        },
+        {
+            "link": "https://twitter.com/Mahmoud30329610/status/1285746095537164290",
+            "name": "Mahmoud Manoo",
+            "path": "published/2_1595414869_Mahmoud Manoo.jpg"
+        },
+        {
+            "link": "https://twitter.com/MohamedNeaizy/status/1285838441125740551",
+            "name": "mohamed rabea neaizy",
+            "path": "published/3_1595414869_mohamed rabea neaizy.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/amgadphotographer/videos/1291399394534456/?v=1291399394534456&external_log_id=f149ab48b0cb3196aa0bb8050324221d&q=%D9%88%D8%AD%D9%88%D8%B4%20%D9%83%D9%85%D9%8A%D9%86%20%D8%B1%D8%A7%D8%A8%D8%B9%D9%87",
+            "name": "حـيـاهہ",
+            "path": "published/4_1595414869_حـيـاهہ.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://arabi21.com/story/1274674/%D9%83%D9%85%D9%8A%D9%86-%D9%85%D8%AD%D9%83%D9%85-%D9%84%D9%80-%D8%A7%D9%84%D9%88%D9%81%D8%A7%D9%82-%D9%8A%D9%88%D9%82%D8%B9-%D9%82%D8%AA%D9%84%D9%89-%D8%A8%D9%82%D9%88%D8%A7%D8%AA-%D8%AD%D9%81%D8%AA%D8%B1-%D8%A8%D8%B7%D8%B1%D8%A7%D8%A8%D9%84%D8%B3-%D8%B4%D8%A7%D9%87%D8%AF",
+            "name": "عربي21",
+            "path": "sources/0_1595414735_عربي 21.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=LDsFelCofl8",
+            "name": "إعلام بركان الغضب",
+            "path": "sources/1_1595414869_إعلام بركان الغضب.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=KojGLE2StJM&feature=emb_title&bpctr=1595414847",
+            "name": "وزارة الدفاع المصرية",
+            "path": "sources/2_1595414869_الجيش.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الفيديو ليس لتصدي الجيش المصري للمسلحين في كمين رابعة",
+    "updated_at": "2020-09-25 19:57:39",
+    "url_path": "/factcheck/2020/07/22/الفيديو-ليس-من-تصدى-للجيش-المصري-لعناصر-مسلحة-في-كمين-رابعة"
+}

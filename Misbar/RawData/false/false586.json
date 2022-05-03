@@ -1,0 +1,83 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1086,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "استغاثت بعد إعلان عن إصابات في دار تديرها للمسنين(Facebook)",
+    "category": "Health",
+    "claim": "<p style=\"text-align:justify\">وفاة الداعية عبلة الكحلاوي بعد إصابتها بفايروس كورونا المستجد (كوفيد_19) في مصر.</p>\r\n",
+    "country": "EG",
+    "created_at": "2020-06-21 00:34:15",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eee80d7163be37bb66d1d82",
+    "investigation": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقّق &quot;مسبار&quot; من الخبر ووجده زائفاً، فقد أرسلت د.عبلة رسالة صوتية عبر منصة يوتيوب اليوم الموافق20 يونيو/حزيران، تؤكد كونها بخير، وبصحة جيدة، معبرة عن حزنها لانتشار خبر وفاتها الكاذب. وكانت الكحلاوي قبل أسبوع قد استنجدت بعد اكتشاف إصابات بالفايروس عند بعض المقيمات لديها من كبيرات السن في دار مسنين تديرها اسمها &quot;الباقيات الصالحات&quot;.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/YDeNe9sbFPs\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:#333333\">تداولت مواقع التواصل الاجتماعي، إضافة إلى مواقع إعلامية، في الساعات الأخيرة، خبراً مفاده وفاة الداعية، والعميد الأسبق لكلية الدراسات الإسلامية بجامعة الأزهر، د.عبلة الكحلاوي، بعد إصابتها بفايروس كورونا المستجد.</span></span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_z3umbusbj.jpg\" style=\"height:282px; width:605px\" />&nbsp;&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_5sduzxr07.jpg\" style=\"height:485px; width:487px\" />&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_jpvwz1e26.jpg\" style=\"height:105px; width:492px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 384,
+        "left": 75.949951171875,
+        "path": "articles/1592688854ييييي.jpg",
+        "top": 2.4609375,
+        "totalHeight": 423,
+        "totalWidth": 761,
+        "watermark_path": "articles/watermark-1592688854ييييي.jpg",
+        "width": 683
+    },
+    "post_date": "2020-06-20T21:55:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/na_ahmed20/status/1274227442677362694",
+            "name": "ال لا لا لاند",
+            "path": "published/0_1592688854_لالا.jpg"
+        },
+        {
+            "link": "https://twitter.com/EmeeAAhmed/status/1274213221390565377",
+            "name": "ˈDēvə",
+            "path": "published/1_1592688854_ديفا.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/435730250182986/permalink/935849400171066/?__xts__[0]=68.ARAvRLjosSsx6_WekgbHVS-VaxyptfbDjSM63waRO9XJwo7TnJ5AZhKc0vrO8L0NKDqRzBlOsmvaIfHEjvVCArJomn7KYzYdbrFv2r69rSDA3y8TYv2axh_O_SxnpCMwbWqbfLu7UKau73Ma4jwcid-WVE75r1RmNUxSX-tCDSi0PVegFYVbRAVWMB4zaUbbKtY9VRfKZj0c5rxzjYt5ZjXKlDsmYJzZ5XMh9FUFXQmDH4X8NE_WsPVwwkvI_9L52MQNTGbLG5NzP5-vtmXaQk9rc44e4lDt&__tn__=-R",
+            "name": "Sayda Saydouna Letifi",
+            "path": "published/2_1592688854_سيسي.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=YDeNe9sbFPs&fbclid=IwAR26-53QRGCDZqC8OHz-FIzUA55etPXGY-Lcq75KbEud_IKYg4DmR04-guk",
+            "name": "عالم أخبار World Wide News",
+            "path": "sources/0_1592688854_ههههه.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الداعية عبلة الكحلاوي لم تمت وبصحة جيدة",
+    "updated_at": "2020-09-25 20:10:55",
+    "url_path": "/factcheck/2020/06/21/الداعية-عبلة-الكحلاوي-لم-تمت-وبصحة-جيد"
+}

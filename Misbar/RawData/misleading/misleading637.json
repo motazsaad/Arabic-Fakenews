@@ -1,0 +1,115 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 3646,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": " يعود الفيديو لشهر مارس/آذار عام 2019 (فيسبوك)",
+    "category": "News",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">مقطع فيديو لكويتيين يعتدون بالضرب علي مصريين.</span></p>\r\n",
+    "country": "KW",
+    "created_at": "2020-09-14 19:46:25",
+    "created_by": "5f39b5a51dd585076701cb94",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f5f9e61e3117e70824aed7a",
+    "investigation": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من المقطع المتداول وتبين أنه قديم والادعاء مضلل. إذ يعود الفيديو لشهر مارس/آذار عام 2019، لكويتين يعتدون على عناصر أمن في مجمع الكوت في الكويت.</span></p>\r\n\r\n<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">وأصدرت <a href=\"https://alqabas.com/article/650972-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D8%AA%D8%B5%D8%AF%D8%B1-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D9%8B-%D8%B9%D9%86-%D8%A7%D9%84%D9%88%D8%A7%D9%81%D8%AF-%D8%A7%D9%84\" style=\"color:#0563c1; text-decoration:underline\">وزارة الداخلية</a> الكويتية بياناً حينها عن الواقعة، أشارت فيه أن بلاغاً ورد بنشوب مشاجرة في مجمع الكوت في منطقة الفحيحيل، وانتقل رجال الأمن إلى موقع البلاغ، وأفاد موظف أمن من جنسية عربية، باعتداء مجموعة من الشباب عليه بالضرب بسبب منعهم من الدخول للمجمع، لأنه مخصص للعائلات، وعلى أثر ذلك اعتدوا عليه وعلى زملائه من موظفي أمن المجمع. ولم يذكر البيان جنسية موظف الأمن، لكن قال البعض إنه مصري.</span></p>\r\n\r\n<p><iframe frameborder=\"0\" height=\"518\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Falqabasnewspaper%2Fposts%2F2241273575894996&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n\r\n<p><iframe frameborder=\"0\" height=\"720\" src=\"https://www.youtube.com/embed/c_UEdN124CE\" width=\"1280\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات على مواقع التواصل الاجتماعي، حديثاً، مقطع فيديو ادعت أنه لكويتيين يعتدون بالضرب على مصريين.</span></p>\r\n\r\n<p style=\"text-align:right\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F100014195594909%2Fvideos%2F928561790960332%2F&amp;show_text=0&amp;width=261\" style=\"border:none;overflow:hidden\" width=\"261\"></iframe></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_lil5bxvif.jpg\" style=\"height:576px; width:452px\" /></p>\r\n\r\n<p style=\"text-align:right\">&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_4742sssdi.jpg\" style=\"height:578px; width:461px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/160010198455557161_2241273425895011_328212467228344320_n.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-160010198455557161_2241273425895011_328212467228344320_n.jpg",
+        "width": 752
+    },
+    "post_date": "2020-09-14T19:43:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/mnartalbalyana/videos/356479408828363/?__xts__%5B0%5D=68.ARArFxJvrQVszAqIn9YRGV2u7x2kdUw8Yg_OueUksO-YR-ijKmdY69lt-F64v0Bt6c0LJv_Nd9mvG7KoVrzd46VA9u6BIN45viU4ylZQRLYjY0FfmV0WiFu2pwiLUBzpZnTir0oNmNbrFKB6eKlnubflRufspfVy6pzZUeeIu0JNnIaihxjZ68GxC1Tf5ESs1RZ_NgbCiX7QukwInAZXsrEtLgp9_nut53y-O-G3jD7xnIEe_pUJPkt5C7ymi6y_zncemEUGjLyGCu4O8KSKnvQWFearjvIJqDnrhLobqa_YumLB_F7x1oSsCk3CL2_zpEl9Q4ByGrAf4-enYaz7EW5M7KjxIlyoefEvYw&__tn__=-R",
+            "name": "منارة البلينا",
+            "path": "published/0_1600101984_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/00201029402109http/posts/374147127310488",
+            "name": "ماشي شكرن",
+            "path": "published/1_1600101984_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/groups/1999044913650596/permalink/2676244432597304/",
+            "name": "Sha Mss",
+            "path": "published/2_1600102070_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=772637916857511&id=433679347420038",
+            "name": "ZOOM",
+            "path": "published/3_1600102070_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=131789265302065&id=102931354854523",
+            "name": "مشاعر",
+            "path": "published/4_1600102070_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/groups/691417265049604/permalink/701682084023122/",
+            "name": "هيلا هيلا",
+            "path": "published/5_1600102070_facebook.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": " https://alqabas.com/article/650972-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D8%AA%D8%B5%D8%AF%D8%B1-%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D9%8B-%D8%B9%D9%86-%D8%A7%D9%84%D9%88%D8%A7%D9%81%D8%AF-%D8%A7%D9%84",
+            "name": "القبس",
+            "path": "sources/0_1600101984_القبس.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.youtube.com/watch?v=Xm7fhMF1Ulo&feature=emb_logo",
+            "name": "الفيديو الأصلي",
+            "path": "sources/1_1600102205_youtube.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "فيديو مضلل.. كويتيون يعتدون بالضرب على مصريين",
+    "updated_at": "2020-09-25 20:13:21",
+    "url_path": "/factcheck/2020/09/14/فيديو-مضلل-كويتين-يعتدون-بالضرب-علي-مصريين",
+    "was_notification_pushed": "true"
+}

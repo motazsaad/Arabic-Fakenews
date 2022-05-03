@@ -1,0 +1,98 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 3263,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "أُخذت الصور من سياقات مختلفة (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">الشرطة الأميركية تساهم في عمليات النهب.</span></p>\r\n",
+    "country": "US",
+    "created_at": "2020-06-09 20:26:47",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5edfc657d6e4a9515e234916",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من الصور المتداولة ووجد أنها مضلّلة. الصور أُخذت من سياقات مختلفة ووُظفت لتبدو كأنها جزء من الاحتجاجات التي تبعت مقتل جورج فلويد.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">إحدى الصور تعود </span><a href=\"https://www.phillymag.com/news/2020/06/04/poes-sandwich-joint-police/\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>لإعلان ترويجي</u></span></a><span style=\"color:#000000\"> لمطعم في مدينة فيلادلفيا الواقعة في ولاية بنسلفانيا الأميركية، يؤكد فيه المطعم أنه لن يبيع منتجاته إلى الشرطة أبداً تضامناً مع الاحتجاجات وحملة Black Lives Matters.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">أما الصور الأخرى، بحسب موقع </span><a href=\"https://www.bbc.com/news/52934672\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>بي بي سي</u></span></a><span style=\"color:#000000\">، فهي لشرطي يساعد مالك إحدى المحال في استعادة ما سُرق منه، في مدينة شيكاغو الواقعة في ولاية إلينوي.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_o9wgx6wtx.jpg\" style=\"height:363px; width:546px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_azzc1h3k2.jpg\" style=\"height:510px; width:529px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل صفحات على مواقع التواصل الاجتماعي، مؤخراً، صوراً تدّعي أنها للشرطة الأميركية وهي تتورّط في عمليات النهب الحاصلة على إثر الاحتجاجات الأخيرة في الولايات المتحدة الأميركية، بعد مقتل جورج فلويد.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"561\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmmemezz%2Fposts%2F453402128857708&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"652\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D2939957682720539%26id%3D133179856731683&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 84.5,
+        "path": "articles/1591723606غلاف11.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 965,
+        "watermark_path": "articles/watermark-1591723606غلاف11.jpg",
+        "width": 752
+    },
+    "post_date": "2020-06-09T20:17:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/GhrissialouiMo1/status/1268457027552120833",
+            "name": "غريسي علوي محمد",
+            "path": "published/0_1591723605_غريسي.jpg"
+        },
+        {
+            "link": "https://twitter.com/KimoEbra/status/1268468804532789249",
+            "name": "أبو ميرال",
+            "path": "published/1_1591723606_أبوميرال.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/mmemezz/photos/a.120585592139365/453402098857711/?type=3&theater",
+            "name": "MMemez",
+            "path": "published/2_1591723606_mmemez.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2939957682720539&id=133179856731683",
+            "name": "Ankawa city",
+            "path": "published/3_1591723606_ankawa.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/robb.ta/posts/267446001027369",
+            "name": "صلاح الدين الربيعي",
+            "path": "published/4_1591723606_صلاح.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.phillymag.com/news/2020/06/04/poes-sandwich-joint-police/",
+            "name": "Philly Mag",
+            "path": "sources/0_1591723606_philly.jpg"
+        },
+        {
+            "link": "https://www.bbc.com/news/52934672",
+            "name": "BBC",
+            "path": "sources/1_1591723606_bbc.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الشرطة الأميركية تنهب الأسواق.. صور مضللة",
+    "updated_at": "2020-09-25 01:58:50",
+    "url_path": "/factcheck/2020/06/09/الشرطة-الأميركية-تنهب-الأسواق-صور-مضللة"
+}

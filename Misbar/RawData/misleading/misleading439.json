@@ -1,0 +1,122 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 228,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "المقطع منشور على منصة يوتيوب منذ 2015(يوتيوب)",
+    "category": "Spirituality & Religion",
+    "claim": "<p>مقطع فيديو لمظاهرة ضخمة، تجمع بها أهالي مدينة القدس؛ لنصرة النبي، عقب تصريحات رئيس الحكومة الفرنسية&nbsp;إيمانويل ماكرون، وإصراره على نشر الرسوم المسيئة.</p>\r\n",
+    "country": "PS",
+    "created_at": "2020-10-27 11:50:10",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 5,
+    "feedback_pos": 18,
+    "id": "5f97df427b7a3f52c5771675",
+    "investigation": "<p style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من المقطع، ووجد أنه قديم، فهو منشور على منصة يوتيوب منذ العام 2015، وكانت المظاهرة&nbsp;لنصرة النبي محمد وقتها من باحات المسجد الأقصى، وسط هتافات المئات الذين اعترضوا على&nbsp; إعادة نشر الصور المسيئة للرسول في صحيفة شارلي&nbsp;إيبدو الفرنسية.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/V1as-uVavSk\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت حسابات وصفحات على مواقع التواصل الاجتماعي، في اليومين الأخيرين، مقطع فيديو لمظاهرة ضخمة، تجمع بها أهالي مدينة القدس، وقالت هذه الحسابات إن المعتصمين اجتمعوا ليدافعوا عن رسول الله بعد محاولات الإساءة إليه من قبل قرارات وتصريحات الحكومة الفرنسية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_fk3tv2sq5.jpg\" style=\"height:626px; width:578px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_1paupq4dj.jpg\" style=\"height:297px; width:602px\" />\\</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?height=476&amp;href=https%3A%2F%2Fwww.facebook.com%2Fpalsoul%2Fvideos%2F392670538581311%2F&amp;show_text=false&amp;width=476\" style=\"border:none;overflow:hidden\" width=\"476\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 412,
+        "left": 8.899993896484375,
+        "path": "articles/1603788610Screenshot 2020-10-27 093219.jpg",
+        "top": 4,
+        "totalHeight": 423,
+        "totalWidth": 795,
+        "watermark_path": "articles/watermark-1603788610Screenshot 2020-10-27 093219.jpg",
+        "width": 732
+    },
+    "post_date": "2020-10-27T09:01:00.000+03:00",
+    "published": [
+        {
+            "id": "5f97df418da7ef11b5534824",
+            "link": "https://www.facebook.com/100039040301573/videos/374252473886093",
+            "name": "عفوك ورضاك يارب",
+            "origin": "facebook",
+            "path": "sources/02522e95303933bc1fc510ca098bf6ef4ad3700a.jpg"
+        },
+        {
+            "id": "5f97df4233b1710e231d82e4",
+            "link": "https://twitter.com/fadwaoma/status/1320388757598752768?s=04&fbclid=IwAR0EfUlRICbc5oEsExEgPMmO76qqQmRTr5yZ72Ww_jimyV_WV5yXXV41vpQ",
+            "name": "فدوى عمر",
+            "origin": "twitter",
+            "path": "sources/660e3b0cce5df43316c001fe00145422deaddf22.jpg"
+        },
+        {
+            "id": "5f97df424d9c0b4ba96188f0",
+            "link": "https://www.facebook.com/shakhabit.taib/posts/782603259005305",
+            "name": "Ahmed Jamal Salem",
+            "origin": "facebook",
+            "path": "sources/d09884bb75427b69cdc65586d329ebd5a63ebb2e.jpg"
+        },
+        {
+            "id": "5f97df42022aba7902208584",
+            "link": "https://www.facebook.com/watch/?v=392670538581311",
+            "name": "Facebook",
+            "origin": "facebook",
+            "path": "sources/d41b5641225c2c719800eee56d3ea73d439ca1c7.jpg"
+        },
+        {
+            "id": "5f97df42cf9452725c66b110",
+            "link": "https://twitter.com/alwatan_pal/status/1320707703564623873",
+            "name": "#فلسطين",
+            "origin": "twitter",
+            "path": "sources/2ce43bfbe6113703037400b61d1fd7610af1cb54.jpg"
+        },
+        {
+            "id": "5f97df42cd641f443736a2b5",
+            "link": "https://www.facebook.com/watch/?v=635733823763449",
+            "name": "Facebook",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5f97df4233949e749b4c7ae5",
+            "link": "https://twitter.com/safa291120/status/1320226396397047808",
+            "name": "safa🇵🇸",
+            "origin": "twitter",
+            "path": "sources/9d37a1ffc4fa645f65a189b300ecc8b7d0f23ec7.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f8eb18ba3818a4eb81ad3d2",
+            "link": "https://www.youtube.com/watch?v=V1as-uVavSk",
+            "name": "قناة يوتيوب",
+            "origin": "",
+            "path": "published/7_1603128187_72cba5bc67b31d9d753cf43c35e93c59a1b0f98d.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه المظاهرة الحاشدة في القدس لنصرة النبي.. قديمة",
+    "updated_at": "2020-10-27 11:56:55",
+    "url_path": "/factcheck/2020/10/27/هذه-المظاهرة-الحاشدة-في-القدس-لنصرة-النبي-قديمة",
+    "was_notification_pushed": true
+}

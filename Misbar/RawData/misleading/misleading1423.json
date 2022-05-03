@@ -1,0 +1,71 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 166,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">فيديو من لبنان يُظهر رجلاً يخاطب أحد عناصر مكافحة الشغب عقب اندلاع الحركة الاحتجاجية في 17 أكتوبر/ تشرين الأول من العام الجاري.</p>\r\n",
+    "country": "LB",
+    "created_at": "2019-12-05 13:46:17",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5de8dff98d7bd90bc27db0d5",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">في حقيقة الأمر لم يُصوَّر الفيديو أثناء الاحتجاجات الحالية، إنما يعود إلى فترة التظاهرات التي خرج فيها لبنانيون للتنديد بأزمة النفايات التي شهدتها شوارع مدن وبلدات لبنان في عام 2015.</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تزامناً مع اندلاع الحركة الاحتجاجية في لبنان في 17 أكتوبر/ تشرين الأول من العام الجاري، انتشر على مواقع التواصل الاجتماعي مقطع فيديو يُظهر رجلاً يخاطب أحد عناصر مكافحة الشغب. الرجل كبير في السن نسبياً ويطلب من رجل الشرطة أن يسانده في موقفه المناهض للحكومة اللبنانية. ولاقى الفيديو رواجاً واسعاً على إنّه إشارةٌ على التضامن بين المتظاهرين وعناصر من القوى الأمنية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_3bdc2478d6bb41ef6cab5c1bd4be6d08.jpg\" style=\"height:346px; width:391px\" /></span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_72cb8aebc3ad90667f4721202e6f4a0d.jpg\" style=\"height:391px; width:423px\" /></span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_c0d6806ea52b66bbb26c137d425926b1.jpg\" style=\"height:403px; width:386px\" /></span></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 362,
+        "left": 3.1820068359375,
+        "path": "articles/1575542777GettyImages-1185826035.jpg",
+        "top": 6,
+        "totalHeight": 423,
+        "totalWidth": 650,
+        "width": 644
+    },
+    "post_date": "2019-12-19T13:41:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/138047439558912/videos/820057168409312/?eid=ARAelXdF3VbXMI6g7j_BQQcyymPTskokhI_-Ll6inkbIXnTUfcxgigY6uHH_mbqDFTHYBzA0OUTUfRw0",
+            "name": "صفحة محبي الإعلامي محمد الوكيل ",
+            "path": "published/0_1575542777_صفحة محبي الإعلامي محمد الوكيل-لوغو.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=TkZ3BKN2tTo",
+            "name": "YouTube",
+            "path": "sources/0_1575542777_YouTube-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل هذا الفيديو أثناء احتجاجات 2019 في لبنان؟",
+    "updated_at": "2020-09-30 17:07:55",
+    "url_path": "/factcheck/2019/12/05/هل-هذا-الفيديو-أثناء-احتجاجات-2019-في-لبنان"
+}

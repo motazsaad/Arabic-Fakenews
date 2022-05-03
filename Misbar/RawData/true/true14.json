@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 218,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "caption": "وزارة التخطيط والإصلاح الإداري المصرية أعلنت عن هذا المشروع",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">أسعار مقابر وادي الراحة في طريق العين السخنة 130 ألف جنيه للمدفن</p>\r\n",
+    "country": "EG",
+    "created_at": "2020-10-12 17:15:11",
+    "created_by": "5f39b1ee1dd5850789476b61",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 9,
+    "id": "5f8464ef8b496c6a3761a766",
+    "investigation": "<p>راجع &quot;مسبار&quot; مصدر الخبر، وتبين أنَّ البوابة الرسمية لمحافظة القاهرة، أعلنت عبر موقعها الإلكتروني عن هذا المشروع فعلاً. وذكرت أنها فتحت المجال &quot;للتقديم للمرحلة الثانية للحصول على مدفن مساحته ٢٠ متراً بجبانات وادي الراحة المقامة بجنوب مدينة القاهرة الجديدة &ndash; طريق ( القطامية - العين السخنة ) وذلك حتى الانتهاء من حجز الوحدات المخصصة لتلك المرحلة&quot;.</p>\r\n\r\n<p>وأوردت المحافظة أنَّ سعر المدفن يكون 130 ألف جُنيهاً مصريًّا، أي ما يعادل 8300 دولاراً أميركيًّا، وإذا أراد المشتري قطعة مميزة يدفع زيادة مقدارها 20 ألف جُنيهاً إضافيًّا.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><span style=\"background-color:white\"><span dir=\"LTR\" style=\"color:black\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_8oure70wl.jpg\" style=\"height:394px; width:644px\" /></span></span></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">تناقلت حسابات على مواقع التواصل الاجتماعي خلال الأيام القليلة الفائتة، خبراً عن نية الحكومة المصرية بيع عدد من المدافن فيما يعرف بمشروع جبانات وادي الراحة، ويبلغ سعر المدفن الواحد 130 ألف جنيه، يضاف إليها 20 ألفاً في حال كانت القطعة مميزة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_8jw0lho19.jpg\" style=\"height:650px; width:543px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_xticvttj3.jpg\" style=\"height:553px; width:537px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_h56lm2mxk.jpg\" style=\"height:589px; width:532px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 338,
+        "left": 11.989791870117188,
+        "path": "articles/1602512111278965-IMG-20200714-WA0077.jpg",
+        "top": 69.79296875,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1602512111278965-IMG-20200714-WA0077.jpg",
+        "width": 600
+    },
+    "post_date": "2020-10-12T17:11:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/alsuways/posts/3394279000640421",
+            "name": "السويس",
+            "origin": "facebook",
+            "path": "published/0_1602512111_4cd247be3d323a01d0444d135fb5a957b60c945c.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/Sarahsasoo25/status/1314208665499435009",
+            "name": "Sarah",
+            "origin": "twitter",
+            "path": "published/1_1602512111_10be022bf0e66b8e649142b7355fb99c90427943.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/SisAnkhAmon/status/1313927099795697665",
+            "name": "سيس عنخ أمون",
+            "origin": "twitter",
+            "path": "published/2_1602512111_5a7228493fedf013b712df00a68132d9ab264565.jpg"
+        }
+    ],
+    "result": "true",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "http://www.cairo.gov.eg/ar/Interactive%20Services/Pages/wadi_elra7a_2.aspx?ID=4",
+            "name": "محافظة القاهرة",
+            "path": "sources/0_1602512517_محافظة-القاهرة.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "مدافن وادي الراحة في مصر بتكلفة 130 ألف جنيه مصري",
+    "updated_at": "2020-10-14 16:49:32",
+    "url_path": "/factcheck/2020/10/12/مدافن-وادي-الراحة-في-مصر-بتكلفة-130-ألف-جنيه-مصري",
+    "was_notification_pushed": "true"
+}

@@ -1,0 +1,88 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 3357,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": " كرمان ستكون ضمن مجلس الإشراف على المحتوى، إضافة إلى 39 آخرين (Getty)",
+    "category": "Technology",
+    "claim": "<p dir=\"RTL\" style=\"margin-left:20px; text-align:right\"><span style=\"background-color:white\"><span style=\"color:black\">موقع فيسبوك يختار اليمنيّة توكل كرمان الحائزة على جائزة نوبل للسلام، لتكون عضواً في مجلس الإشراف على المحتوى.</span></span></p>\r\n",
+    "country": "YE",
+    "created_at": "2020-05-10 16:27:59",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eb8015fdb29161ed6181d05",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الخبر، ووجده صحيحاً بعد أن كشف &quot;فيسبوك&quot; أسماء أعضاء مجلس الإشراف على المحتوى، فقد أوضحت الوكالة العالمية للأنباء رويترز أن الحائزة على نوبل للسلام كرمان ستكون ضمن مجلس الإشراف على المحتوى، إضافة إلى 39 آخرين منهم قاضي المحكمة الأوروبية السابقة لحقوق الإنسان أندراس ساجو، والمديرة التنفيذية لـ Internet Sans Fronti&egrave;res &nbsp;جولي أوونو، ورئيس التحرير السابق لصحيفة الغارديان آلان روسبريدجر، كما سيشمل الإشراف على محتوى موقع انستغرام أيضاً الذي تمتلكه الشركة ذاتها.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_mz9lhds1c.jpg\" style=\"height:419px; width:605px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"margin-left:20px\"><span style=\"background-color:white\"><span style=\"color:black\">تداولت صفحاتٌ على مختلف مواقع التواصل الاجتماعي منذ السادس من مايو/ أيار الجاري، خبراً مفاده أن اليمنيّة توكل كرمان الحائزة على جائزة نوبل للسلام، أصبحت عضواً في مجلس الإشراف على المحتوى في موقع فيسبوك، وسط حالة من التشكيك بالخبر، ورفضه.</span></span></p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_hlsq0swv9.jpg\" style=\"height:260px; width:605px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_dzwshalm5.jpg\" style=\"height:293px; width:605px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_1uwotee0w.jpg\" style=\"height:488px; width:605px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 358,
+        "left": 0.1185302734375,
+        "path": "articles/1589117278GettyImages-1047484830.jpg",
+        "top": 4.8480224609375,
+        "totalHeight": 423,
+        "totalWidth": 635,
+        "watermark_path": "articles/watermark-1589117278GettyImages-1047484830.jpg",
+        "width": 635
+    },
+    "post_date": "2020-05-10T13:51:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=556725988317206&set=a.107462246576918&type=3&theater",
+            "name": "Abdullah O. AL-Ghurabi",
+            "path": "published/0_1589117278_توكل1.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=10222039891167920&set=a.3192589735236&type=3&theater",
+            "name": "Gamal Raif Gamal Eldin",
+            "path": "published/1_1589117278_جمال توكل.JPG"
+        },
+        {
+            "link": "https://www.facebook.com/kheladelkhole/posts/2944926882290225",
+            "name": "خالد الخولي",
+            "path": "published/2_1589117278_خالد تركمان.JPG"
+        }
+    ],
+    "result": "true",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.reuters.com/article/us-facebook-oversight/facebook-names-first-members-of-oversight-board-that-can-overrule-zuckerberg-idUSKBN22I2LQ",
+            "name": "رويترز",
+            "path": "sources/0_1589120564_تويتر لصح.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Tawakkol.Abdulsalam.Karman/photos/a.541053379320704/3134776356615047/?type=3&theater",
+            "name": "توكل كرمان",
+            "path": "sources/1_1589120565_تتتت.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "توكل كرمان في مجلس الإشراف على محتوى فيسبوك.. خبر صحيح",
+    "updated_at": "2020-09-25 10:00:57",
+    "url_path": "/factcheck/2020/05/10/توكل-كرمان-في-مجلس-الإشراف-على-محتوى-فيسبوك-خبر-صحيح"
+}

@@ -1,0 +1,104 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2391,
+    "author": {
+        "fullname": "حمزة حسن",
+        "id": "5e318864d4a2294d2d7209c4",
+        "photo": {
+            "name": "1580304484_hamza-hasan.jpg",
+            "path": "authors/1580304484_hamza-hasan.jpg"
+        }
+    },
+    "caption": "الصورة تعود لعضو المكتب الفني لنائب محافظ القليوبية وليس النائب (تويتر)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">وفاة نائب محافظ القليوبية في مصر تزامناً</span><span style=\"color:black\">&nbsp;مع تأكد إصابته بفايروس كورونا المستجد، أثناء وقوفه في شرفة منزله مما أدى إلى اختلال توازنه وسقوطه من ارتفاع عالي.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-05-21 17:42:37",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ec6935ddb29163a4e4def36",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تحقق &quot;مسبار&quot; من الخبر المتداول، ووجد أنه يحتوي على تضليل، إذ تعود الصورة المرفقة مع الخبر &nbsp;إلى عضو المكتب الفني لنائب محافظ القليوبية محمد حسن، وليس النائب. و توفي محمد في 18 مايو/أيار الجاري، إثر سقوطه من شرفة منزله الكائن في مدينة شبرا الخيمة شمال القاهرة، أثناء إجراء مكالمة هاتفية ثم اختل توازنه وسقط على الفور.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">وكان الديوان العام لمحافظة القليوبية أعلن في يوم 17 مايو/أيار الجاري خبر إصابة محمد محسن بفايروس كورونا المستجد، وأنه يخضع لفترة العزل المنزلي. والجدير بالذكر أن نائب محافظ القليوبية هو المهندس سمير حمَّاد، وتشاركه الدكتورة إيمان ريان.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"color:black\"><img id=\"صورة_x0020_15\" src=\"https://images-prod.misbar.com/articlebody/investigation_nq9cgobw6.jpg\" style=\"height:287.4pt; width:6in\" /> </span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"color:black\"><img id=\"صورة_x0020_16\" src=\"https://images-prod.misbar.com/articlebody/investigation_1oedre2f4.jpg\" style=\"height:188.4pt; width:468pt\" /> </span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"color:black\"><img id=\"صورة_x0020_17\" src=\"https://images-prod.misbar.com/articlebody/investigation_22x893kud.jpg\" style=\"height:352.2pt; width:468pt\" /> </span></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تداولت حسابات وصفحات مصرية على مواقع التواصل الاجتماعي، خبراً يفيد بوفاة نائب محافظ&nbsp;القليوبية بعد فقدان توازنه أثناء إجراءه مكالمة هاتفية في شرفة منزله، مما أدى إلى سقوطه من ا</span><span style=\"color:black\">ر</span><span style=\"color:black\">تفاعٍ عالٍ، وهذا أثناء جلوسه في الحجر الصحي في منزله بعد تأكد إصابته بفايروس كورونا المستجد.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:black\"><img id=\"صورة_x0020_10\" src=\"https://images-prod.misbar.com/articlebody/origin_gjlzm0288.jpg\" style=\"height:9in; width:370.8pt\" /> </span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:black\"><img id=\"صورة_x0020_11\" src=\"https://images-prod.misbar.com/articlebody/origin_oj9bdxkie.jpg\" style=\"height:9in; width:381pt\" /> </span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:black\"><img id=\"صورة_x0020_12\" src=\"https://images-prod.misbar.com/articlebody/origin_opas06o1a.jpg\" style=\"height:9in; width:375.6pt\" /> </span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 28.5,
+        "path": "articles/1590072156784.jpg",
+        "top": 0,
+        "totalHeight": 512,
+        "totalWidth": 809,
+        "watermark_path": "articles/watermark-1590072156784.jpg",
+        "width": 752
+    },
+    "post_date": "2020-05-21T17:38:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=831800790676815&set=a.156435001546734&type=3&theater",
+            "name": "Aida Rizk",
+            "path": "published/0_1590072156_Aida Rizk.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=2736689303232031&set=a.1899708830263420&type=3&theater",
+            "name": "محمود المنجي",
+            "path": "published/1_1590072471_محمود المنجي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Elyoum.elsadis/photos/a.1398625520435931/2052962948335515/?type=3&theater",
+            "name": "اليوم السادس",
+            "path": "published/2_1590072471_اليوم السادس.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=2968673266548841&set=gm.2481050165514184&type=3&theater&ifg=1",
+            "name": "Amal Roubin",
+            "path": "published/3_1590072471_2.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/mansouranews/photos/a.566192573451882/3788408561230251/?type=3&theater",
+            "name": "اخبار المنصوره",
+            "path": "published/4_1590072471_اخبار المنصوره.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youm7.com/story/2020/5/18/%D8%A7%D9%84%D8%B1%D8%AD%D9%84%D8%A9-%D8%A7%D9%84%D9%83%D8%A7%D9%85%D9%84%D8%A9-%D9%84%D9%85%D8%B5%D8%B1%D8%B9-%D9%85%D9%88%D8%B8%D9%81-%D8%A8%D9%85%D9%83%D8%AA%D8%A8-%D9%86%D8%A7%D8%A6%D8%A8-%D9%85%D8%AD%D8%A7%D9%81%D8%B8-%D8%A7%D9%84%D9%82%D9%84%D9%8A%D9%88%D8%A8%D9%8A%D8%A9/4780497",
+            "name": "اليوم السابع",
+            "path": "sources/0_1590072156_اليوم السابع.jpg"
+        },
+        {
+            "link": "https://www.masrawy.com/news/news_regions/details/2020/5/17/1788550/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D9%85%D9%88%D8%B8%D9%81-%D9%81%D9%8A-%D8%AF%D9%8A%D9%88%D8%A7%D9%86-%D8%B9%D8%A7%D9%85-%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9-%D8%A7%D9%84%D9%82%D9%84%D9%8A%D9%88%D8%A8%D9%8A%D8%A9-%D8%A8%D9%81%D9%8A%D8%B1%D9%88%D8%B3-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-",
+            "name": "مصراوي ",
+            "path": "sources/1_1590072472_مصراوي.jpg"
+        },
+        {
+            "link": "http://www.qaliobia.gov.eg/SitePages/ctzTheGovernorCv_Naeb2.aspx",
+            "name": "محافظة القليوبية ",
+            "path": "sources/2_1590072472_1.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "وفاة عضو مكتب نائب محافظ القليوبية في مصر، وليس النائب",
+    "updated_at": "2020-09-25 09:43:12",
+    "url_path": "/factcheck/2020/05/21/وفاة-نائب-محافظ-القليوبية-في-مصر-خبر-مضلل"
+}

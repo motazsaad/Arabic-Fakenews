@@ -1,0 +1,124 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1107,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "سلم مركز شرطة فالنسيا مبلغاً ماليًّا لصاحبه الذي فقده منذ 10 أشهر (تويتر)",
+    "category": "Travel",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">جبريل مهاجر أفريقي في مدينة فالنسيا الإسبانية،</span>&nbsp;<span style=\"background-color:white\">سلم للشرطة ظرفاً بداخله مبلغ 4350 يورو وجده في الشارع، وبعد التقاط صورة شرفية له وبعيداً عن أعين الصحافة، طلبوا منه أوراقه الشخصية فتبين لهم أنه بلا فيزا (حراڨ) فتمت إعادته لموطنه الأصلي</span>.</p>\r\n",
+    "country": "ES",
+    "created_at": "2020-08-26 17:52:19",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f46772360211806e0221ac7",
+    "investigation": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">الادعاء مضلل، إذ أن الصورة ليست لمهاجر غير نظامي يُدعى جبريل، سلم مالاً للشرطة الإسبانية فأعادته إلى بلاده.</span></p>\r\n\r\n<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">وتبين أنها تعود لتاريخ 14 أغسطس/آب 2020، في مركز الشرطة الوطنية في فالنسيا، أين سلمت الشرطة مبلغ 4350 يورو، لرجل&nbsp;سبق أن أضاعه في أكتوبر/تشرين الأول عام 2019.</span></p>\r\n\r\n<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">يأتي ذلك بعد أن عثر مواطن&nbsp;على المبلغ وسلمه لمركز شرطة فالانس ترانزيتس، الذي فتح تحقيقًا في الغرض. ووجد المركز شكوى قُدمت منذ أكتوبر 2019 لرجل فقد مبلغًا كبيرًا من المال، بعد أن اقترض ما قيمته 5200 يورو.</span></p>\r\n\r\n<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">وعثرت الشرطة على بصمة إصبع صاحب المبلغ على الظرف الذي يحتوي النقود، وكان حينها مقيماً في فرنسا وبعد التواصل معه، منحته المبلغ الذي فقده قبل 10 أشهر.&nbsp; </span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_w39qjvvzu.jpg\" style=\"height:845px; width:487px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">تتداول صفحات إخبارية وحسابات على موقعي فيسبوك وتويتر، صورة تدعي أنها لمهاجر&nbsp;أفريقي يُدعى جبريل في مدينة فالنسيا الإسبانية،</span>&nbsp;<span style=\"background-color:white\">سلم للشرطة ظرفاً بداخله مبلغ 4350 يورو وجده في الشارع، وبعد التقاط صورة شرفية&nbsp;له وبعيداً عن أعين الصحافة، طلبوا منه أوراقه الشخصية فتبين لهم أنه بلا فيزا&nbsp;&nbsp;فتمت إعادته لموطنه الأصلي</span>.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"00.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_4tg2sr9bh.jpg\" style=\"height:347px; width:605px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"0.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_gjh2hpul6.jpg\" style=\"height:423px; width:538px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"1.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_giw2zv3d0.jpg\" style=\"height:433px; width:575px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_k7gggga43.jpg\" style=\"height:347px; width:605px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 276,
+        "left": 61.105224609375,
+        "path": "articles/1598453539Efneya3XYAMJ1A3.jpg",
+        "top": 73.746826171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-1598453539Efneya3XYAMJ1A3.jpg",
+        "width": 490
+    },
+    "post_date": "2020-08-26T15:32:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/2294745977474060/photos/a.2294757170806274/2760461644235822/?type=3&theater",
+            "name": "طرابلس الآن",
+            "path": "published/0_1598453539_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://m.facebook.com/596445724057085/photos/a.613179932383664/1194739760894342/?type=3&source=54&ref=page_internal",
+            "name": "خوارزميات بالدارجة",
+            "path": "published/1_1598453838_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/faycalsami55/photos/a.469366360087905/1228988777458989/?type=3&theater",
+            "name": "اخبار مدينة عنابة",
+            "path": ""
+        },
+        {
+            "link": "https://twitter.com/3kaidy/status/1298323775541346305",
+            "name": "أحمد ماهر‿ العگيدي‿",
+            "path": "published/3_1598453838_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/damascuscityONE/photos/a.100993056903927/1302420346761186/?type=3&theater",
+            "name": "دليلك في دمشق",
+            "path": "published/4_1598453838_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://twitter.com/OmniaEid97/status/1297274293483638785",
+            "name": "Omnia M Eid |ما سعيد",
+            "path": "published/5_1598453838_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "link": "https://twitter.com/hussainhaj82/status/1297569137963741190",
+            "name": "hussein haj hussein",
+            "path": "published/6_1598453838_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ArabStudentsBerlin.StudyInGermany/photos/a.188469501507455/1260478777639850/?type=3&theater",
+            "name": "طلاب برلين - الدراسة في المانيا arab students berlin",
+            "path": "published/7_1598453838_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://twitter.com/TARIK___AMRANI/status/1297475361006067712",
+            "name": "طارق",
+            "path": "published/8_1598453838_101195326_747056042707733_6451845424750788608_o.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.elperiodicodeaqui.com/epda-noticias/la-polic-a-nacional-entrega-4-350-euros-a-su-propietario-tras-perderlos-hace-10-meses-en-val-ncia/221925",
+            "name": "elperiodicodeaqui",
+            "path": "sources/0_1598453539_iFD_Z6mt_400x400.jpg"
+        },
+        {
+            "link": "https://www.elperiodic.com/valencia/policia-nacional-entrega-4350-euros-propietario-tras-perderlos-hace-meses_696674?fbclid=IwAR0Xq6aOtRPgBjd7hfHwcpcAEoUUs49qspHMf0kVcQ2ZecKtodw07Zj2afk",
+            "name": "elperiodic",
+            "path": "sources/1_1598453839_images.jpg"
+        },
+        {
+            "link": "https://twitter.com/policia/status/1295818751795851264",
+            "name": "Policía Nacional",
+            "path": "sources/2_1598534561_9SJbpIyC_400x400.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه ليست صورة مهاجر غير نظامي سلّم مالاً للشرطة الإسبانية فأعادته إلى بلاده",
+    "updated_at": "2020-09-25 03:59:30",
+    "url_path": "/factcheck/2020/08/26/هذه-ليست-صورة-مهاجر-غير-نظامي-سلم-مالا-للشرطة-الإسبانية-فأعادته-إلى-بلاده"
+}

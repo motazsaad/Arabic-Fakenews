@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 682,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "الطب وطب الأسنان ثم القانون وغيرها (Getty)",
+    "category": "Business",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">في ألمانيا المعلمون هم الأعلى دخلاً.</p>\r\n",
+    "country": "DE",
+    "created_at": "2020-08-29 11:56:51",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f4a185360211806376fc0d9",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الخبر المتداول ووجد أنه زائف، لأنّ وظيفة المعلم في ألمانيا ليست الأعلى دخلاً هناك، ولا تقع حتى في المراتب العشرة الأولى الأعلى دخلاً.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">بحسب موقع <a href=\"https://www.studying-in-germany.org/highest-paying-degrees-germany/\" style=\"text-decoration:none\" target=\"_blank\"><u>Study in Germany</u></a>، فإن المراكز الخمسة الأولى لأعلى الوظائف دخلاً في ألمانيا هي: الطب وطب الأسنان، ثم القانون، ثم الهندسة الصناعية، ثم الهندسة عموماً، ثم علوم الرياضيات والحوسبة&hellip; إلخ.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_czlins7l6.jpg\" style=\"height:404px; width:600px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تتناقل صفحات على مواقع التواصل الاجتماعي، حديثاً، خبراً مفاده أن وظيفة المعلم في ألمانيا هي الأعلى دخلاً هناك.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_soods9pgr.jpg\" style=\"height:621px; width:520px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_s1s4gaelk.jpg\" style=\"height:609px; width:509px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 361,
+        "left": 2.33331298828125,
+        "path": "articles/1598691411GettyImages-1228011092.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 646,
+        "watermark_path": "articles/watermark-1598691411GettyImages-1228011092.jpg",
+        "width": 641
+    },
+    "post_date": "2020-08-29T11:51:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/naigerialhadithah/posts/3310100362343553",
+            "name": "نيجيريا الحديثة",
+            "path": "published/0_1598691531_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=756469248503099&id=100024200930312",
+            "name": "Khadega Ebeid",
+            "path": "published/1_1598691531_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1459266257593410&id=100005301480704",
+            "name": "براق ابراهيم",
+            "path": "published/2_1598691531_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/rafik.saidi07.07/posts/391575145161628",
+            "name": "Rafik Saidi",
+            "path": "published/3_1598691571_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/1864031110332081/permalink/3191091827625996/?__tn__=-R",
+            "name": "أبو سيبويه الجميلي",
+            "path": "published/4_1598691571_facebook.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.studying-in-germany.org/highest-paying-degrees-germany/",
+            "name": "Study in Germany",
+            "path": "sources/0_1598691411_Annotation 2020-08-29 114841.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "وظيفة التعليم في ألمانيا ليست الأعلى أجراً هناك",
+    "updated_at": "2020-09-25 06:01:00",
+    "url_path": "/factcheck/2020/08/29/وظيفة-التعليم-في-ألمانيا-ليست-الأعلى-أجرا-هناك"
+}

@@ -1,0 +1,88 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 28167,
+    "author": {
+        "fullname": "خالد إسماعيل",
+        "id": "5e59256dd4a2295224257db3",
+        "photo": {
+            "name": "1582900589_صورة 2.jpg",
+            "path": "authors/1582900589_صورة 2.jpg"
+        }
+    },
+    "caption": "القصة الأصلية كانت في البرازيل عام 2016 لطبيبة برازيلية (مواقع التواصل الاجتماعي)",
+    "category": "Health",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\"><span style=\"background-color:white\"><span style=\"color:#1d2129\">طبيبة أسنان </span></span></span><span dir=\"RTL\" lang=\"AR-EG\">تُدعى</span> <span dir=\"RTL\" lang=\"AR-SA\"><span style=\"background-color:white\"><span style=\"color:#1d2129\">مريم حققت أمنية طفل وركبت له أسنان.</span></span></span></p>\r\n",
+    "country": "BR",
+    "created_at": "2020-04-23 17:02:13",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ea19fe5db291653db2c5d23",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-EG\">تحقق &quot;مسبار&quot; من القصة المتداولة مع الصور وتأكد أنّ الادعاء غير صحيح، إذ أنّ القصة الأصلية كانت في البرازيل عام 2016 لطبيبة برازيلية تُدعى <a href=\"https://www.bbc.com/news/world-latin-america-37797699\" style=\"color:#0563c1; text-decoration:underline\">أماندا ماتوس</a>، قامت بعلاج أسنان الطفل الظاهر معها في الصور واسمه <span style=\"color:#222222\">راين كوتينيو، بعد </span>أنّ<span style=\"color:#222222\"> فقد غالبية أسنانه نتيجة التسوس المبكر.</span></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_movhx6llz.jpg\" style=\"height:713px; width:602px\" /></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_jvs1hr1w1.jpg\" style=\"height:626px; width:602px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"rtl\" lang=\"ar\">تداولت صفحات وحسابات على مواقع التواصل الاجتماعي صوراً لطبيبة وطفل، وادعى ناشرو الصور أنها&nbsp;لطبيبة تُدعى مريم كانت في زيارة لإحدى&nbsp;المدارس ووجدت طفلاً بدون أسنان، وعلمت من والدته أنه بهذه الحالة منذ ثلاث&nbsp;سنوات نتيجة مرض وراثي. وكانت أمنية الطفل أنّ تكون&nbsp;له أسنان مثل أصدقائه في المدرسة؛ فحققت الطبيبة له أمنيته دون مقابل.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_glpec5bjo.jpg\" style=\"height:848px; width:561px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_yf1van705.jpg\" style=\"height:836px; width:558px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_j9wjiaqc0.jpg\" style=\"height:809px; width:502px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_4suucekq1.jpg\" style=\"height:804px; width:507px\" /></p>\r\n\r\n<p style=\"text-align:right\">&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/158765090287.jpg",
+        "watermark_path": "articles/watermark-158765090287.jpg"
+    },
+    "post_date": "2020-04-23T16:56:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/groups/215418266061670/permalink/644972853106207/",
+            "name": "أشواق هائمة",
+            "path": "published/0_1587650531_أشواق هائمة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/764647583919519/photos/a.764673333916944/1073886149662326/?type=3&theater",
+            "name": "دمع البنفسج ",
+            "path": "published/1_1587650660_دمع البنفسج.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/3ashwa2yat.Fekreya/photos/a.721277941332493/2599715050155430/?type=3&theater",
+            "name": "عشوائيات فكرية ",
+            "path": "published/2_1587650660_عشوائيات فكرية.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/elhayat109/photos/a.111342540369596/134174678086382/?type=3&theater",
+            "name": "الحياة من حولنا ",
+            "path": "published/3_1587650660_الحياة من حولنا.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.bbc.com/news/world-latin-america-37797699",
+            "name": "BBC",
+            "path": "sources/0_1587650532_8-XiwK-s_400x400.jpg"
+        },
+        {
+            "link": "https://www.metropoles.com/sai-do-serio/ta-bombando/dentista-realiza-sonho-de-crianca-ter-dentes-iguais-aos-coleguinhas",
+            "name": "Metrópoles",
+            "path": "sources/1_1587650660_Metrópoles.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصورة ليست لطبيبة تُدعى مريم.. حقيقة القصة",
+    "updated_at": "2020-09-25 18:05:20",
+    "url_path": "/factcheck/2020/04/23/هذه-الصورة-ليست-للطبيبة-مريم--حقيقة-القصة"
+}

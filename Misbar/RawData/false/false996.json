@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1892,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">هجوم مسلح في أحد محطات القطارات في العاصمة الألمانية برلين، والشرطة الألمانية تقتل مسلح وتعتقل آخر ومعلومات عن قتلى وجرحى.</p>\r\n",
+    "country": "DE",
+    "created_at": "2020-01-15 15:49:58",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e1f0a76d4a229347e5553c3",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">من خلال متابعة المقطع المنتشر، كان من الواضح فيه أن هناك تصوير يجري في المشاهد بشكل يوحي بعدم وجود خوف لدى المصورين، كما كان هناك بعض الناس الذين يمشون دون أي ذعر من الحادث. وبالبحث في المواقع الإخبارية الألمانية وموقع يوتيوب، تبين لنا أنَّ ما يظهر في الفيديو ليس هجوماً إرهابيًّا كما ادعت بعض المواقع والصفحات، وإنما كان تدريب محاكي أجرته فرق الطوارئ لسيناريوهات واقعية وعمليات قد تحدث في محطات القطار. كما أن هذا التدريب كان في مدينة نوبنبرغ الألمانية وليس في العاصمة برلين. وبحسب ما نشرت الوكالات الألمانية، فإنَّ هذا التدريب هدف بشكل أساسي إلى أن يكون الشخص المسافر ليلاً في محطة القطار في نورنبرغ، مستعداً لسيناريوهات تتخللها عمليات إطلاق نار وضوضاء وصراخ.</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "هجوم",
+        "قطار",
+        "برلين"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">انتشر مقطع فيديو يُظهر رجال شرطة يهاجمون مسلحين في محطة القطار، ومواطنين يهربون في إطلاق النيران، وكتبت هذه الصفحات توصيفاً لهذا المقطع على أنه هجوم مسلح في أحد محطات القطار في مدينة برلين الألمانية أسفر عن مقتل وجرح عدد من الأشخاص.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_b245c765226c568fd8d45608038b28c6.jpg\" style=\"height:589px; width:662px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 314,
+        "left": 3.4000244140625,
+        "path": "articles/157909259837157343046_a2f4a94567_b (1).jpg",
+        "top": 102.95001220703125,
+        "totalHeight": 423,
+        "totalWidth": 564,
+        "width": 558
+    },
+    "post_date": "2019-12-19T15:25:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.youtube.com/watch?v=uT2dGb4_BmQ",
+            "name": "قناة مختارات",
+            "path": "published/0_1579092598_قناة مختارات.jpg"
+        },
+        {
+            "link": "https://www.limlb.com/?p=74180",
+            "name": "ليميديا الإعلام اللبناني الدولي",
+            "path": "published/1_1579092598_ليميديا.JPG"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=912090229175603",
+            "name": "الأشرفية نيوز",
+            "path": "published/2_1579095329_الأشرفية نيوز.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.br.de/nachrichten/bayern/grossangelegte-anti-terror-uebung-am-nuernberger-hauptbahnhof,RerZYAd",
+            "name": "BR 24",
+            "path": "sources/0_1579092598_BR 24.JPG"
+        },
+        {
+            "link": "https://www.nordbayern.de/region/nuernberg/anti-terror-ubung-am-hauptbahnhof-das-mussen-sie-beachten-1.9422680",
+            "name": "Nordbayern",
+            "path": "sources/1_1579092956_nordbayern.JPG"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=VXol5tOwUks&feature=youtu.be&fbclid=IwAR2fbRV8Qzr9yNLTeItMwvpDx6fe2FdgDMkfPBbcDc9EHKoImL36IIAFEDM",
+            "name": "inFranken",
+            "path": "sources/2_1579095329_infranken.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=33PabXjvMQg",
+            "name": "Franken Life",
+            "path": "sources/3_1579095329_frankenlife.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=O5DpjEA_nac&feature=youtu.be&fbclid=IwAR3_r7JIU-LJdrRIWhy3kRmxqsGh83b2y43RMGjWg5no1-wqSFnviSjGb_o",
+            "name": "ed-media ",
+            "path": "sources/4_1579095329_ed media.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ما صحة الفيديو الذي يُظهر وقوع هجوم مسلح في ألمانيا؟",
+    "updated_at": "2020-09-23 12:39:59",
+    "url_path": "/factcheck/2020/01/15/ما-صحة-الفيديو-الذي-يظهر-وقوع-هجوم-مسلح-في-ألمانيا"
+}

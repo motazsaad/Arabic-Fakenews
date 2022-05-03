@@ -1,0 +1,134 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 402,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "الصورة تعود لعام 2016 (فيسبوك)",
+    "category": "Sports",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">صورة جاريث بيل وهو يشاهد مباراة ريال مدريد ومانشستر سيتي ويحتفل بخسارة فريقه.</span></p>\r\n",
+    "country": "ES",
+    "created_at": "2020-08-08 13:51:36",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f2e83b81dd58507773b502f",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقق &quot;مسبار&quot; من الصورة وتبين أنه مفبركة، وليست لبيل وهو يشاهد مباراة ريال مدريد ومانشستر سيتي.&nbsp; تعود الصورة الحقيقة للاعب الويلزي جاريث بيل إلى تاريخ 29 يناير/كانون الثاني عام 2016، وكان حينها غائب عن فريقه ريال مدريد بسبب الإصابة في ربلة الساق، ويشاهد مباريات<span dir=\"LTR\"> UFC </span>من منزله في لندن.<br />\r\nويأتي انتشار الصورة المفبركة تزامناً مع تصاعد الأزمات بين اللاعب والنادي والجماهير، نتيجة سوء المستوى الذي يقدمه في المباريات، وبسبب العديد من تصريحاته التي أغضبت جماهير ريال مدريد مؤخراً.</p>\r\n\r\n<p style=\"text-align:right\"><img alt=\"https://static.fangol.pl/content/1/c/3/1c3f73dc229dd6e2baa654e8e7ff0d3c-554.jpg\" src=\"https://images-prod.misbar.com/articlebody/investigation_ebj5d798b.jpg\" style=\"height:604px; width:554px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات على مواقع التواصل الاجتماعي، منذ أمس 7 أغسطس/آب، صورة للاعب فريق ريال مدريد الإسباني جاريث بيل، وادعت الحسابات أن الصورة لبيل هو يشاهد مباراة فريقه، أمس الجمعة، مع نادي مانشستر سيتي الإنجليزي، وأنه فرح واحتفل بهزيمة فريقه وخروجه من دور الـ16 من بطولة دوري أبطال أوروبا.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_3qwr8ydxm.jpg\" style=\"height:422px; width:534px\" /></p>\r\n\r\n<p style=\"text-align:right\">&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_gcsn9dtqb.jpg\" style=\"height:511px; width:524px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_4v715bft1.jpg\" style=\"height:405px; width:520px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1596883896117389257_2787188234896632_1610356668389226807_o.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1596883896117389257_2787188234896632_1610356668389226807_o.jpg",
+        "width": 752
+    },
+    "post_date": "2020-08-08T13:45:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/AboTrekaLovers/posts/2787188274896628",
+            "name": "Abo Treka Lovers",
+            "path": "published/0_1596883895_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/3024044114289358/permalink/3803379143022514/",
+            "name": " احمد جمال",
+            "path": "published/1_1596884237_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/406168993524544/permalink/791252815016158/",
+            "name": "Belal Mohammad",
+            "path": "published/2_1596884237_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/mahmoud.karim.524934/posts/314420339910238",
+            "name": "74+20",
+            "path": "published/3_1596884237_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=761417987941393&id=100022195965759",
+            "name": "Mohammed Khalid",
+            "path": "published/4_1596884237_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Barcelonaa.Army/photos/a.1464701426970096/3174261319347423/?type=3&theater",
+            "name": "Barca Barca",
+            "path": "published/5_1596884237_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=725659344880218&set=a.121317325314426&type=3",
+            "name": "Ähm Ädø",
+            "path": "published/6_1596884237_facebook.jpg"
+        },
+        {
+            "link": "https://twitter.com/ManchesterBoy20/status/1291856690237902848",
+            "name": "Ruud ",
+            "path": "published/7_1596884464_twitter.jpg"
+        },
+        {
+            "link": "https://twitter.com/ahly_hayate/status/1291850156187541510",
+            "name": "الاهلي حياتي",
+            "path": "published/8_1596884464_twitter.jpg"
+        },
+        {
+            "link": "https://twitter.com/Husseinaljifri/status/1291841330847637505",
+            "name": "حسيني الجفري ",
+            "path": "published/9_1596884464_twitter.jpg"
+        },
+        {
+            "link": "https://twitter.com/moon_66b/status/1291871716734533632",
+            "name": "محمد",
+            "path": "published/10_1596884464_twitter.jpg"
+        },
+        {
+            "link": "https://twitter.com/HamedoYassini/status/1291856935688589313",
+            "name": "بايرن",
+            "path": "published/11_1596884464_twitter.jpg"
+        },
+        {
+            "link": "https://twitter.com/AltelhawyAhmed/status/1291857307647848449",
+            "name": "احمد",
+            "path": "published/12_1596884464_twitter.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.fangol.pl/view/142397/a-bale-obejrzal-sobie",
+            "name": "fangol",
+            "path": "sources/0_1596883896_41.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صورة احتفال جاريث بيل بخسارة ريال مدريد مفبركة",
+    "updated_at": "2020-09-25 15:19:51",
+    "url_path": "/factcheck/2020/08/08/صورة-احتفال-جاريث-بيل-بخسارة-ريال-مدريد-مفبركة"
+}

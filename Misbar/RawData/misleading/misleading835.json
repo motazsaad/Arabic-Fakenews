@@ -1,0 +1,97 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 6156,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الصورة الأصلية تجمع بين أوباما ومساعده بن رودس عام 2010 (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة تُظهر كيف رفع أوباما رجليه على الطاولة أثناء جلسة جمعته برئيس الوزراء العراقي الأسبق نوري المالكي.</p>\r\n",
+    "country": "IQ",
+    "created_at": "2020-07-30 15:49:26",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f22c1d6163be307f25ece18",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة المتداولة، وتأكّد أنها مفبركة، فالصورة الأصلية تعود إلى عام 2010، وتجمع باراك أوباما ومساعده آنذاك بن رودس. &nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_44lr81nw5.jpg\" style=\"height:522px; width:646px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشر مستخدمون على موقع التواصل الاجتماعي فيسبوك، صورة قالوا إنها تُظهر الرئيس الأميركي السابق باراك أوباما وهو يرفع رجليه على الطاولة أثناء لقاء جمعه برئيس الوزراء العراقي الأسبق نوري المالكي.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_37p8cvigu.jpg\" style=\"height:512px; width:546px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ga6xhbu6f.jpg\" style=\"height:417px; width:924px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_xgjrtwtd5.jpg\" style=\"height:388px; width:805px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1596116531116371491_179073480296685_926997930088137258_n.jpg",
+        "watermark_path": "articles/watermark-1596116531116371491_179073480296685_926997930088137258_n.jpg"
+    },
+    "post_date": "2020-07-30T15:34:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=193645495513952&set=a.103440547867781&type=3&theater",
+            "name": "دحمون دحمون",
+            "path": "published/0_1596113365_دحمون دحمون.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/54novembre/photos/a.100239344846766/179073476963352/?type=3&theater",
+            "name": "الخيط الأبيض من الخيط الأسود",
+            "path": "published/1_1596113365_الخيط الأبيض من الخيط الأسود.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=620493972182158&id=100026646829008&__tn__=-R",
+            "name": "فرحات حبيب",
+            "path": "published/2_1596113365_فرحات.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2601265916755086&id=100006151097679",
+            "name": "Moh Chicor",
+            "path": "published/3_1596113365_Moh Chicor.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Lesnabil/posts/3777483832268446?__tn__=-R",
+            "name": "لعسل محمد نبيل",
+            "path": "published/4_1596113365_لعسل محمد نبيل.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=907718016397499&id=566311830538121",
+            "name": "تاريخ الشيتة",
+            "path": "published/5_1596113365_تاريخ الشيتة.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.thesun.co.uk/news/11191612/ex-obama-official-behind-iran-deal-ben-rhodes-hammers-president-trump-despite-calls-to-put-politics-aside/",
+            "name": "The Sun",
+            "path": "sources/0_1596113365_the sun.JPG"
+        },
+        {
+            "link": "https://news.sky.com/story/cameron-personally-requested-obamas-back-of-the-queue-brexit-warning-11423669?dcmp=snt-sf-twitter",
+            "name": "Sky news",
+            "path": "sources/1_1596113365_Sky news.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صورة مفبركة.. أوباما لم يجلس أمام المالكي بهذه الطريقة",
+    "updated_at": "2020-09-25 20:40:36",
+    "url_path": "/factcheck/2020/07/30/صورة-مفبركة-أوباما-لم-يجلس-أمام-المالكي-بهذه-الطريقة"
+}

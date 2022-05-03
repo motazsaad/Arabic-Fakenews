@@ -1,0 +1,83 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 139,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "نفت السفارة الفرنسية والمتحدث باسم اليونيفيل صحة مضمون التسجيل المتداول (Getty)",
+    "category": "Politics",
+    "claim": "<p>تسجيل متداول عبر &quot;واتساب&quot; تُحذّر فيه السفارة الفرنسية وقيادة اليونيفيل من عمل إرهابي وشيك في لبنان.</p>\r\n",
+    "country": "LB",
+    "created_at": "2020-08-13 11:49:36",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f34fea01dd58507a761e020",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">التسجيل المتداول عبر تطبيق واتساب زائف، إذ نفى المكتب الإعلامي للسفارة الفرنسية في اتصالٍ مع &quot;الوكالة الوطنية للإعلام&quot; صحة ما جاء به التسجيل. وفي اتصالٍ مع الوكالة أيضاً نفى المتحدث الرسمي باسم قوات اليونيفيل أن تكون القوات الدولية قد حذرت من حدوث أيّ عمل إرهابي في لبنان.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_dehy2oz8l.jpg\" style=\"height:318px; width:709px\" /></span></strong></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداول مستخدمون عبر تطبيق واتساب تسجيلاً صوتياً، يُفيد أنّ السفارة الفرنسية وقيادة اليونيفيل قد حذرتا من التجول بين يومي 13 و15 أغسطس/آب الجاري، بسبب معلومات عن إمكانية حدوث عمل إرهابي في لبنان خلال تلك الفترة.</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 352,
+        "left": 3.939697265625,
+        "path": "articles/1597308576GettyImages-1228003250.jpg",
+        "top": 67.80712890625,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1597308576GettyImages-1228003250.jpg",
+        "width": 626
+    },
+    "post_date": "2020-08-13T11:44:00.000+03:00",
+    "published": [
+        {
+            "link": "https://web.whatsapp.com/",
+            "name": "Whatsapp",
+            "path": "published/0_1597308576_whatsapp.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "http://nna-leb.gov.lb/ar/show-news/496376/",
+            "name": "الوكالة الوطنية للإعلام",
+            "path": "sources/0_1597308576_الوكالة الوطنية للإعلام - logo.jpg"
+        },
+        {
+            "link": "https://www.aljadeed.tv/arabic/news/local/1208202024",
+            "name": "الجديد",
+            "path": "sources/1_1597308576_الجديد.jpg"
+        },
+        {
+            "link": "https://www.annahar.com/article/1255684-%D8%AA%D8%B9%D9%84%D9%8A%D9%82-%D9%85%D9%86-%D8%B3%D9%81%D8%A7%D8%B1%D8%A9-%D9%81%D8%B1%D9%86%D8%B3%D8%A7-%D9%88%D8%A7%D9%84%D9%8A%D9%88%D9%86%D9%8A%D9%81%D9%84-%D8%B9%D9%84%D9%89-%D8%AA%D8%B3%D8%AC%D9%8A%D9%84-%D8%B5%D9%88%D8%AA%D9%8A-%D9%8A%D8%AD%D8%B0%D8%B1-%D9%85%D9%86-%D8%B9%D9%85%D9%84-%D8%A5%D8%B1%D9%87%D8%A7%D8%A8%D9%8A-%D9%85%D8%B1%D8%AA%D9%82%D8%A8-%D9%81%D9%8A-%D8%A8%D9%8A%D8%B1%D9%88%D8%AA",
+            "name": "جريدة النهار",
+            "path": "sources/2_1597308576_جريدة النهار-لوغو.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لم تُحذّر السفارة الفرنسية واليونيفيل من عمل إرهابي وشيك في لبنان",
+    "updated_at": "2020-09-25 10:44:21",
+    "url_path": "/factcheck/2020/08/13/لم-تحذر-السفارة-الفرنسية-واليونيفيل-من-عمل-إرهابي-وشيك-في-لبنان"
+}

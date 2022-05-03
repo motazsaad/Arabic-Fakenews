@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 5124,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "يعود المقطع لأحد أماكن تربية العقارب (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">ماذا فعل صاحب هذا القبر حتى يمتلئ بالعقارب.</span></p>\r\n",
+    "country": "CN",
+    "created_at": "2020-05-06 16:19:28",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eb2b960db291622797c3ae5",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من المقطع المتداول ووجد أنه مضلل هو ليس لقبرٍ، بل&nbsp;يعود المقطع لأحد</span><span dir=\"RTL\" lang=\"AR-EG\">&nbsp;أماكن تربية العقارب، وتم تداوله في شهر أبريل/نيسان الفائت&nbsp;على مواقع وحسابات صينية.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_szewaqbev.jpg\" style=\"height:451px; width:658px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"rtl\" lang=\"ar\">تداولت حسابات على موقع فيسبوك مقطع فيديو&nbsp;يُظهر&nbsp;عدداً&nbsp;من العقارب، تحت عنوان &quot;يا رب ماذا فعل صاحب هذا القبر حتى يمتلئ بالعقارب&quot;.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F101818841473053%2Fvideos%2F714311665980779%2F&amp;show_text=0&amp;width=261\" style=\"border:none;overflow:hidden\" width=\"261\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F107517187283509%2Fvideos%2F2638118523138828%2F&amp;show_text=0&amp;width=269\" style=\"border:none;overflow:hidden\" width=\"269\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FSultansaidabdu%2Fvideos%2F361559394815314%2F&amp;show_text=0&amp;width=222\" style=\"border:none;overflow:hidden\" width=\"222\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1588775039scorpio-arachnid-brown-toxic-wallpaper-preview.jpg",
+        "watermark_path": "articles/watermark-1588775039scorpio-arachnid-brown-toxic-wallpaper-preview.jpg"
+    },
+    "post_date": "2020-05-06T16:14:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/101818841473053/videos/714311665980779/?v=714311665980779&external_log_id=dca5692deb9ed5879ea17940ffadbcb0&q=%D9%85%D8%A7%D8%B0%D8%A7%20%D9%81%D8%B9%D9%84%20%D8%B5%D8%A7%D8%AD%D8%A8%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D9%82%D8%A8%D8%B1",
+            "name": "قرآن ",
+            "path": "published/0_1588771167_قرآن.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/1019409031531814/videos/525012734799328/?v=525012734799328&external_log_id=dca5692deb9ed5879ea17940ffadbcb0&q=%D9%85%D8%A7%D8%B0%D8%A7%20%D9%81%D8%B9%D9%84%20%D8%B5%D8%A7%D8%AD%D8%A8%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D9%82%D8%A8%D8%B1",
+            "name": "في رحاب السنة النبوية",
+            "path": "published/1_1588771723_في رحاب السنة النبوية.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Sultansaidabdu/videos/361559394815314/?v=361559394815314&external_log_id=dca5692deb9ed5879ea17940ffadbcb0&q=%D9%85%D8%A7%D8%B0%D8%A7%20%D9%81%D8%B9%D9%84%20%D8%B5%D8%A7%D8%AD%D8%A8%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D9%82%D8%A8%D8%B1",
+            "name": "فديو مباشر",
+            "path": "published/2_1588771723_فديو مباشر.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/107517187283509/videos/2638118523138828/?v=2638118523138828&external_log_id=dca5692deb9ed5879ea17940ffadbcb0&q=%D9%85%D8%A7%D8%B0%D8%A7%20%D9%81%D8%B9%D9%84%20%D8%B5%D8%A7%D8%AD%D8%A8%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D9%82%D8%A8%D8%B1",
+            "name": "عين السماء",
+            "path": "published/3_1588771724_عين السماء - Eye of Heaven.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/108731377288962/videos/1052859851796296/?v=1052859851796296&external_log_id=dca5692deb9ed5879ea17940ffadbcb0&q=%D9%85%D8%A7%D8%B0%D8%A7%20%D9%81%D8%B9%D9%84%20%D8%B5%D8%A7%D8%AD%D8%A8%20%D9%87%D8%B0%D8%A7%20%D8%A7%D9%84%D9%82%D8%A8%D8%B1",
+            "name": "القرآن الكريم",
+            "path": "published/4_1588771724_القرآن الكريم.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/paranormal_2ch/status/1254728262036717569",
+            "name": "パラノーマルちゃんねる",
+            "path": "sources/0_1588771167_MDsEyioY_400x400.jpg"
+        },
+        {
+            "link": "https://www.bilibili.com/s/video/BV14z411B7NG?fbclid=IwAR25bQ5Gy86zUAZ9Q8jB210sxABjbd59Dk6h0klGGkb7S4Thfc9s_QFlEUM",
+            "name": "bilibili",
+            "path": "sources/1_1588771167_bibi.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذا المقطع في بيت لتربية العقارب وليس قبراً",
+    "updated_at": "2020-09-25 10:41:03",
+    "url_path": "/factcheck/2020/05/06/هذا-المقطع-لبيت-عقارب-وليس-قبرا"
+}

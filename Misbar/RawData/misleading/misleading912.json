@@ -1,0 +1,88 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1523,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "يُسمى بمصحف المشهد الحسيني أو مصحف القاهرة(Quranmss)",
+    "category": "Spirituality & Religion",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">صورة متداولة لمصحف ضخم، قيل أنه أول مصحف في الإسلام، وهو مصحف عثمان بن عفان.</span></p>\r\n",
+    "country": "EG",
+    "created_at": "2020-07-11 20:42:50",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 4,
+    "id": "5f09fa1a163be30a973e8e27",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الصورة والمعلومة ليجد أن كليهما خاطئاً، فالمصحف بحسب دراسة متخصصة على موقع مخطوطات قرآنية يُسمى بمصحف المشهد الحسيني&nbsp;أو مصحف القاهرة، وتمتلكه المكتبة المركزية للمخطوطة الإسلامية في جامع السيدة زينب بالقاهرة، ويحتوي على1087 ورقة من الرق، في كل صفحة 12 سطراً، مكتوبة بالخط الكوفي. وتوجد فواصل بين السور عبارة عن رسوم نباتية متعددة الألوان، والمصحف خالي من علامات التنقيط إلا ما ندر وتظهر فيه فواصل الآيات والأعشار.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وتابع المقال &quot;لقد شاع بين الناس أن مصحف المشهد الحسيني هو أحد المصاحف التي أرسلها عثمان بن عفان إلى الأمصار الإسلامية وأن عليه قطرات دمه،&nbsp;إلاّ أن هذا الزعم غير صحيح، فالدراسات التي أجريت عليه تستبعد أن يكون أحد المصاحف العثمانية. وهذا المصحف ليس من مصاحف عثمان، ولا مصاحف القرن الأول قطعاً&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">كما يرجح المقال عدم صحة نسب المصاحف الموجودة في خزائن الكتب والآثار في مصر للخليفة عثمان لأن به&nbsp;نقوشاً وزركشةً كعلامات الفصل بين السور والأعشار، ومعلومٌ أن المصاحف العثمانية الأولى كانت مجردة من ذلك كله.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">أما عن أول مصحف في الإسلام، فلا يمكن القول بأن هناك أول مصحف في الإسلام لأنه تم جمعه على خطوات؛ إذ قام الصحابي أبو بكر الصديق بعد وفاة الرسول بجمع القرآن لأول مرة بين دفتين وسُمي ذلك بالمصحف، ثم جاء الخليفة عثمان بن عفان بعد نشأة الاختلافات بين المسلمين في قراءة القرآن الكريم، فقام بجمع الأمة على مصحف واحد هو مصحف أبي بكر والذي أجمع عليه الصحابة فنسخه وأرسل النسخ إلى الأمصار الإسلامية وأصبح هذا المصحف مرجع للمسلمين قاطبة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_sxg4lsefd.jpg\" style=\"height:640px; width:605px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات شخصية وإعلامية على مواقع التواصل الاجتماعي منذ عدة أشهر حتى يوليو/تموز الجاري، صورة لمصحف كبير، ويصاحب الصورة تعليق بأنه أول مصحف في الإسلام وهو مصحف عثمان بن عفان.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_58y1xzgvn.jpg\" style=\"height:248px; width:605px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_qjpgzctqz.jpg\" style=\"height:411px; width:537px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_xna6248g6.jpg\" style=\"height:210px; width:534px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 406,
+        "left": 26.25,
+        "path": "articles/1594489369mushaf.jpg",
+        "top": 7.296875,
+        "totalHeight": 423,
+        "totalWidth": 784,
+        "watermark_path": "articles/watermark-1594489369mushaf.jpg",
+        "width": 721
+    },
+    "post_date": "2020-07-11T18:07:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/110622360295475/photos/a.112446143446430/293552188669157/?type=3&theater",
+            "name": "خواطر",
+            "path": "published/0_1594489368_خواطر.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Seta.sop7/posts/593302208222312",
+            "name": "06:00",
+            "path": "published/1_1594489369_63157378_305789383640264_7755822677209645056_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Bb.nehbak.Officiel/photos/a.254642511701792/940356469797056/?type=3&theater",
+            "name": "Bb nehbak",
+            "path": "published/2_1594489369_60473136_629827354183304_5308743495282851840_n.jpg"
+        },
+        {
+            "link": "https://www.sayidaty.net/node/183971/%D8%A3%D8%B3%D8%B1%D8%A9-%D9%88%D9%85%D8%AC%D8%AA%D9%85%D8%B9/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A3%D8%B3%D8%B1%D8%A9-%D9%88%D9%85%D8%AC%D8%AA%D9%85%D8%B9/%D8%A3%D9%88%D9%84-%D9%85%D8%B5%D8%AD%D9%81-%D9%81%D9%8A-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85-%D9%85%D9%88%D8%AC%D9%88%D8%AF-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9#photo/1",
+            "name": "سيدتي",
+            "path": "published/3_1594489369_سيدتي.JPG"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://quranmss.com/2013/10/30/cairomushaf/",
+            "name": "المخطوطات القرآنية",
+            "path": "sources/0_1594489369_التثثثقاط.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه ليست صورة أول مصحف في الإسلام",
+    "updated_at": "2020-09-25 21:25:57",
+    "url_path": "/factcheck/2020/07/11/هذه-ليست-صورة-أول-مصحف-في-الإسلام"
+}

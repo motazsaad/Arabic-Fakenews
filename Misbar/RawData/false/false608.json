@@ -1,0 +1,118 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2324,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "رافيا أرشد، أول قاضية محجبة في تاريخ بريطانيا (Facebook)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\"><span style=\"color:black\">رافيا أرشد هي أول قاضية محجبة في تاريخ الولايات المتحدة الأميركية.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-06-14 18:34:36",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ee6438cd6e4a95f1924c794",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:#222222\">تحقق &quot;مسبار&quot; من الخبر وتبين أنه زائف. إذ لم تكُن رافيا أرشد أول قاضية محجّبة في الولايات المتّحدة انّما في بريطانيا، وقد عُيّنت في شهر مايو/أيار الفائت. أمّا بالنسبة لقصة&nbsp;أرشد في الخبر المتداول عن رفضها نصيحة نزع الحجاب من أجل الحصول على منحة دراسية، فقد روتها إرشد حسب الموقع الإخباري </span></span><a href=\"http://www.thenational.ae/world/europe/muslim-woman-becomes-britain-s-first-hijab-wearing-judge-1.1025135\"><span style=\"color:#e74c3c\"><span style=\"background-color:white\">The National</span></span></a><span style=\"background-color:white\"><span style=\"color:#222222\">.</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img id=\"Picture_x0020_6\" src=\"https://images-prod.misbar.com/articlebody/investigation_e06ul0vne.jpg\" style=\"height:475.8pt; width:467.4pt\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تداولت حسابات على موقع التواصل الاجتماعي فيسبوك، خبراً مفاده تعيين رافيا أرشد أول قاضية محجبة في تاريخ الولايات المتحدة الأميركية، وقد أرفق المستخدمين للخبر قصة تُفيد أن&nbsp;أرشد رفضت نصيحة أهلها بخلع حجابها من أجل&nbsp;الحصول على منحة جامعية لدراسة الحقوق.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img id=\"Picture_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/origin_gh7ym4d2k.jpg\" style=\"height:533.4pt; width:312.6pt\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img id=\"Picture_x0020_7\" src=\"https://images-prod.misbar.com/articlebody/origin_2j4rrf6fi.jpg\" style=\"height:351pt; width:312pt\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 306,
+        "left": 23.7103271484375,
+        "path": "articles/1592148875raffia arshad photo.jpg",
+        "top": 8.09326171875,
+        "totalHeight": 423,
+        "totalWidth": 587,
+        "watermark_path": "articles/watermark-1592148875raffia arshad photo.jpg",
+        "width": 542
+    },
+    "post_date": "2020-06-14T18:26:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/544611049015266/posts/1845356432274048/",
+            "name": "الكومنت الجاحد",
+            "path": "published/0_1592148874_الكومنت الجاحد.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/1477501469198655/posts/2738141713134618/",
+            "name": " Abo Treka Lovers",
+            "path": "published/1_1592148874_ابو تريكة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/story.php?story_fbid=3514086545287110&id=100000573977876 ",
+            "name": "Mahmoud Berengy",
+            "path": "published/2_1592148874_mahmoud berengy.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/story.php?story_fbid=2384313061864571&id=1477112355917984",
+            "name": "مَلاك-Malak",
+            "path": "published/3_1592148874_malak.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/159170161367669/posts/616065409011473/",
+            "name": "انستا Insta",
+            "path": "published/4_1592148874_insta.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/story.php?story_fbid=1950259408440345&id=100003689148066",
+            "name": "حسين عبد الله عبده",
+            "path": "published/5_1592148875_حسين عبدالله.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/story.php?story_fbid=1138367233193023&id=100010592705174",
+            "name": "معلم مروة",
+            "path": "published/6_1592148875_معلم مرةى.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/story.php?story_fbid=4084736504900239&id=100000917885957",
+            "name": "د.محمود أبو السعود",
+            "path": "published/7_1592148875_د. ابو السعود.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.bbc.com/news/uk-england-nottinghamshire-52819978",
+            "name": "BBC",
+            "path": "sources/0_1592148875_BBC NEWS-logo.jpg"
+        },
+        {
+            "link": "https://www.thenational.ae/world/europe/muslim-woman-becomes-britain-s-first-hijab-wearing-judge-1.1025135",
+            "name": "The National",
+            "path": "sources/1_1592148875_the national.jpg"
+        },
+        {
+            "link": "https://arabicpost.me/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/2020/05/27/%D8%A3%D9%82%D8%B1%D8%A8%D8%A7%D8%A4%D9%87%D8%A7-%D9%86%D8%B5%D8%AD%D9%88%D9%87%D8%A7-%D8%A8%D8%AE%D9%84%D8%B9-%D8%A7%D9%84%D8%AD%D8%AC%D8%A7%D8%A8-%D9%84%D9%83%D9%86%D9%87%D8%A7-%D8%B1%D9%81%D8%B6/?utm_medium=post&utm_source=facebook.com&utm_campaign=dp&utm_term=yb&utm_content=link&fbclid=IwAR0Ua6s39szMizYxRC4gZyVNDC9BbXDqSMonpF7mSJWjyEBoJ2Zl4ZFZagY",
+            "name": "عربي بوست",
+            "path": "sources/2_1592148875_عربي بوست.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "رافيا أرشد، أول قاضية محجبة في تاريخ بريطانيا وليس أميركا",
+    "updated_at": "2020-09-25 20:11:07",
+    "url_path": "/factcheck/2020/06/14/رافيا-أرشد-أول-قاضية-محجبة-في-تاريخ-بريطانيا-وليس-أميركا"
+}

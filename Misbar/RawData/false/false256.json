@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 149,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "علم أذربيجان الظاهر فيها مُركب (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">صورة قيادات في المعارضة&nbsp;سورية تقاتل&nbsp;في أذربيجان.</span></p>\r\n",
+    "country": "AZ",
+    "created_at": "2020-10-01 10:31:08",
+    "created_by": "5f39b5a51dd585076701cb94",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 2,
+    "id": "5f7585bc63e0d04d6e6da1cf",
+    "investigation": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من الصورة وتبين أنها مفبركة، وعلم أذربيجان الظاهر فيها&nbsp;مُركب. ونُشرت الصورة لأول مرة بتاريخ 16 أغسطس/آب الفائت، أي قبل اندلاع الاشتباكات الحالية بين أذربيجان وأرمينيا، بنحو شهر ونصف، على موقع تويتر، في حساب القيادي في المعارضة السورية، </span><span style=\"color:#0563c1\"><u><span dir=\"RTL\"><a href=\"https://twitter.com/abo33amsha/status/1295093576741924864\" style=\"color:#0563c1; text-decoration:underline\">محمد جاسم (أبو عمشة)</a></span></u></span><span dir=\"RTL\" lang=\"AR-SA\">. إذ نشر الصورة مع صورة أخرى مرفقة&nbsp;بتغريدة&nbsp;تقول &quot;من على خطوط الجبهات ولا يفصلنا عن العدو إلا أمتار حققنا انتصارات من الخنادق وليس من الفنادق برفقة بطل الاقتحامات&nbsp;الذئب التركماني العم فهيم أبو أحمد&quot;.&nbsp; ولا يظهر في الصورة الأصلية علم أذربيجان كما هو متداول.</span></p>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"rtl\">من على خطوط الجبهات ولا يـفصلنا عن الـعدو إلا أمتار حققنا انتصارات من الخنادق وليس من الفنادق برفقة بطل الاقتحامات&nbsp;الذئب التركماني العم فهيم أبو أحمد <a href=\"https://t.co/gxFXplgApe\">pic.twitter.com/gxFXplgApe</a></p>\r\n&mdash; محمد جاسم (أبو عمشة) (@abo33amsha) <a href=\"https://twitter.com/abo33amsha/status/1295093576741924864?ref_src=twsrc%5Etfw\">August 16, 2020</a></blockquote>\r\n\r\n<p style=\"text-align:right\">&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات وصفحات على مواقع التواصل الاجتماعي، حديثاً، صورة تُظهر شخصان يقفان داخل خندق، ويظهر خلفهما في الصورة رسم لعلم دولة أذربيجان. وادعت الحسابات أن الصورة لقيادات في المعارضة السورية تقاتل&nbsp;في أذربيجان.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_pprvnrpqt.jpg\" style=\"height:420px; width:496px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_io499zmty.jpg\" style=\"height:693px; width:498px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1601537468500.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1601537468500.jpg",
+        "width": 752
+    },
+    "post_date": "2020-10-01T10:25:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/mhmdalywns56/status/1310919965042769920",
+            "name": "Muhammad Alyounes",
+            "path": "published/0_1601537467_cdeb606d2277405729841fe21c5d10e856529971.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/Alhadath.Magazine/posts/2133840203426158",
+            "name": "الحدث Alhadath",
+            "path": "published/1_1601537468_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/108753924210648/photos/a.108833627536011/167687301650643/?type=3&theater",
+            "name": "ĞŔĔÁŤ ĔĞŶPŤ",
+            "path": "published/2_1601537468_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=377530806592374&id=100030063724250",
+            "name": "محمد أمون",
+            "path": "published/3_1601537468_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=692360551374495&id=100018016698939",
+            "name": "محمود ويح",
+            "path": "published/4_1601537468_facebook.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/abo33amsha/status/1295093576741924864",
+            "name": "محمد جاسم (أبو عمشة)",
+            "path": "sources/0_1601537468_cdeb606d2277405729841fe21c5d10e856529971.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الصورة ليست لقيادات سورية تقاتل في أذربيجان",
+    "updated_at": "2020-10-01 11:25:15",
+    "url_path": "/factcheck/2020/10/01/الصورة-ليست-لقيادات-سورية-يقاتلون-في-أذربيجان",
+    "was_notification_pushed": "true"
+}

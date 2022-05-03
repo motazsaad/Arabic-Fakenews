@@ -1,0 +1,108 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 194,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "caption": "السلطات الجزائرية لم تقرر الرد بالمثل ومنع طائرة مصرية من الهبوط في أراضيها",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">السلطات الجزائرية رفضت استقبال رحلة لطائرة مصرية، وذلك بسبب منع مصر لطائرة جزائرية تقل فلسطينيين من الهبوط في أراضيها.</p>\r\n",
+    "country": "DZ",
+    "created_at": "2020-10-01 10:46:39",
+    "created_by": "5f39b1ee1dd5850789476b61",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 29,
+    "id": "5f75895f3d477d11590c0e39",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقق &quot;مسبار&quot; من الادعاء المتداول، ووجد أنَّ السلطات المصرية ألغت بالفعل رحلة جوية كان من المقرر هبوطها في القاهرة يوم الاثنين الفائت، وكانت تقل قرابة 70 فلسطينيًّا عائداً إلى قطاع غزة. إلا أنَّ السلطات الجزائرية لم تقرر الرد بالمثل ومنع طائرة مصرية من الهبوط في أراضيها.</p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت بعض المواقع الإخبارية، خبر منع السلطات المصرية طائرة جزائرية تقل فلسطينيين عائدين إلى قطاع غزة من الهبوط في الأراضي المصرية. وذكرت المواقع أنَّ الجزائر ردت على ذلك بخطوة مشابهة، وأنها منعت طائرة مصرية من الهبوط في أراضيها.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_vvyiicoab.jpg\" style=\"height:481px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_qyaf4mo7k.jpg\" style=\"height:467px; width:624px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 350,
+        "left": 7.0520477294921875,
+        "path": "articles/16015383999202029135857454.jpg",
+        "top": 52.10205078125,
+        "totalHeight": 423,
+        "totalWidth": 649,
+        "watermark_path": "articles/watermark-16015383999202029135857454.jpg",
+        "width": 621
+    },
+    "post_date": "2020-10-01T10:35:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://sawahhost.com/news/%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D8%AA%D8%B1%D9%81%D8%B6-%D8%AF%D8%AE%D9%88%D9%84-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D8%AA%D9%82%D9%84%D9%91-%D9%81/",
+            "name": "سواح هوست",
+            "path": "published/0_1601538398_152e0180f90ae87d5f6b7e8f618d0123f8ff45f4.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://alerfannews.com/2020/10/01/%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D8%AA%D8%B1%D9%81%D8%B6-%D8%AF%D8%AE%D9%88%D9%84-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D8%AA%D9%82%D9%84%D9%91-%D9%81/",
+            "name": "العرفان نيوز",
+            "path": "published/1_1601538398_67d0c8d0761d9d4ca0c26a20693862167cbfd51c.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://arabitrend.com/2020/10/01/%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d8%a7%d8%aa-%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d8%a9-%d8%aa%d8%b1%d9%81%d8%b6-%d8%af%d8%ae%d9%88%d9%84-%d8%b7%d8%a7%d8%a6%d8%b1%d8%a9-%d8%aa%d9%82%d9%84%d9%91-%d9%81/",
+            "name": "عربي تريند",
+            "path": "published/2_1601538398_عربي-تريند.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.alquds.co.uk/%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D8%AA%D8%B1%D9%81%D8%B6-%D8%AF%D8%AE%D9%88%D9%84-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D8%AA%D9%82%D9%84%D9%91-%D9%81/",
+            "name": "القدس العربي",
+            "path": "published/3_1601538398_القدس العربي1.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://arabi21.com/story/1303800/%D8%B9%D8%A7%D9%84%D9%82%D9%88%D9%86-%D9%85%D9%86-%D8%BA%D8%B2%D8%A9-%D9%85%D9%86%D8%B9%D8%AA%D9%87%D9%85-%D9%85%D8%B5%D8%B1-%D9%88%D8%A7%D8%B3%D8%AA%D8%B6%D8%A7%D9%81%D8%AA%D9%87%D9%85-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%B4%D8%A7%D9%87%D8%AF",
+            "name": "عربي21",
+            "path": "sources/0_1601538398_a868883677606b9c0bb1c7cc2d7234a0a62811a0.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.youtube.com/watch?v=XIArgh9vjqY",
+            "name": "Algeria TECH",
+            "path": "sources/1_1601538398_b9a4106558670da4ec1c0749f414d1e693436e6c.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://wafa.ps/Pages/Details/9948",
+            "name": "وكالة وفا",
+            "path": "sources/2_1601538399_وفا.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الجزائر لم تمنع طائرة مصرية من الهبوط على أراضيها",
+    "updated_at": "2020-10-01 14:33:05",
+    "url_path": "/factcheck/2020/10/01/الجزائر-لم-تمنع-طائرة-مصرية-من-الهبوط-في-أراضيها",
+    "was_notification_pushed": "true"
+}

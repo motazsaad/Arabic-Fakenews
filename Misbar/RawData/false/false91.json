@@ -1,0 +1,66 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 187,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "توجد أعمال سعودية على نتفلكس (Getty)",
+    "category": "Arts & Culture",
+    "claim": "<p dir=\"rtl\">إنتاج مسلسل قصير من 6 حلقات يتكلم عن مسيرة الأمير الشاب محمد بن سلمان في التصدي للإرهاب، ودعم المرأة وغيرها!</p>\r\n",
+    "country": "SA",
+    "created_at": "2020-12-09 17:14:59",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5fd0dbe387e85310e564d7ef",
+    "investigation": "<p dir=\"rtl\">تحقق &quot;<a href=\"https://misbar.com/\" target=\"_blank\"><u>مسبار</u></a>&quot; من الخبر المتداول ووجد أنه زائف، إذ لم تعلن شبكة <a href=\"https://twitter.com/NetflixMENA\" target=\"_blank\"><u>نتفلكس</u></a> على أي من منصاتها الرسمية عن إنتاج مسلسل وثائقي قصير عن محمد بن سلمان.</p>\r\n\r\n<p dir=\"rtl\">يُذكر أن هذا الخبر الزائف تزامن مع انفتاح شبكة نتفلكس على الأعمال السعودية وتعاقدها مع العديد من الشركات العاملة في المجال الإبداعي الفني لعرض أعمالها، مثل تلفاز 11 وغيرها.</p>\r\n\r\n<p dir=\"rtl\">اقرأ/ي أيضاً:</p>\r\n\r\n<p dir=\"rtl\"><a href=\"https://misbar.com/factcheck/2020/12/01/%D8%A8%D9%8A%D8%A7%D9%86-%D9%85%D9%81%D8%A8%D8%B1%D9%83-%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-%D9%8A%D9%85%D9%86%D8%B9-%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D9%84%D9%82%D8%A8-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A\" target=\"_blank\">بيان مفبرك لاتحاد الكرة السعودي يمنع استخدام لقب العالمي</a></p>\r\n\r\n<p dir=\"rtl\"><a href=\"https://misbar.com/factcheck/2020/12/05/%D8%A5%D8%B9%D9%84%D8%A7%D9%86-%D9%85%D8%B2%D9%8A%D9%81-%D8%AA%D8%B8%D9%87%D8%B1-%D9%81%D9%8A%D9%87-%D8%B5%D9%88%D8%B1%D8%AA%D9%83-%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D8%A9-%D9%88%D9%8A%D8%B9%D8%AF%D9%83-%D8%A8%D8%A2%D9%84%D8%A7%D9%81-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A7%D8%B1%D8%A7%D8%AA\" target=\"_blank\">إعلان مزيف تظهر فيه صورتك الشخصية ويعدك بآلاف الدولارات</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "السعودية",
+        "محمد بن سلمان",
+        "نتفلكس"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\">تتناقل صفحات وحسابات على مواقع التواصل الاجتماعي، حديثاً، خبراً مفاده نية شبكة نتفلكس إنتاج مسلسل وثائقي قصير حول مسيرة ولي العهد السعودي محمد بن سلمان في التصدي للإرهاب، ودعم المرأة وغيرها من القضايا.</p>\r\n\r\n<p dir=\"rtl\"><img src=\"https://images-prod.misbar.com/articlebody/origin_objb86m6m.jpg\" /></p>\r\n\r\n<p dir=\"rtl\"><img src=\"https://images-prod.misbar.com/articlebody/origin_a3eme2b0g.jpg\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 354,
+        "left": 2.16192626953125,
+        "path": "articles/1607523299GettyImages-1152460332.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1607523299GettyImages-1152460332.jpg",
+        "width": 630
+    },
+    "post_date": "2020-12-09T16:03:00.000+03:00",
+    "published": [],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [],
+    "stats": null,
+    "subtitle": "",
+    "title": "لم تُعلن نتفليكس رسمياً عن إنتاج وثائقي عن محمد بن سلمان",
+    "updated_at": "2020-12-09 17:16:01",
+    "url_path": "/factcheck/2020/12/09/لم-تعلن-نتفليكس-رسميا-عن-إنتاج-وثائقي-عن-محمد-بن-سلمان",
+    "was_notification_pushed": false
+}

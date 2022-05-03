@@ -1,0 +1,158 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 804,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "caption": "الفيديو قديم وليس له علاقة بالأحداث الحالية (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">مقطع فيديو لشخص يضرب ماكرون بالبيض بسبب تصريحاته ضد المسلمين.</p>\r\n",
+    "country": "FR",
+    "created_at": "2020-10-25 17:47:28",
+    "created_by": "5f39b1ee1dd5850789476b61",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 11,
+    "feedback_pos": 26,
+    "id": "5f9590006091bd68346f6c80",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">الفيديو قديم وليس له علاقة بالأحداث الحالية، ويعود إلى مارس<span dir=\"LTR\">/</span>آذار من عام 2017، حين قام أحد الأشخاص بإلقاء بيضة على وجه ماكرون أثناء حضوره لمعرض زراعي في باريس.</p>\r\n\r\n<p><iframe frameborder=\"0\" height=\"314\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2Fcanalplus%2Fvideos%2F1378124998897361%2F&amp;show_text=false&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">وكان ماكرون تعرض<a href=\"https://www.leparisien.fr/economie/loi-travail-a-montreuil-macron-recoit-un-oeuf-sur-la-tete-06-06-2016-5860253.php\" target=\"_blank\"> لهجوم آخر بالبيض</a> في عام 2016، أثناء زيارته لمكتب البريد في مونتروي الفرنسية.</p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">تداولت حسابات على موقعي فيسبوك وتويتر، مقطع فيديو ادعت أنه لشخص قام بإلقاء بيضة على وجه الرئيس الفرنسي إيمانويل ماكرون، وذلك بسبب تصريحاته ضد المسلمين.<img src=\"https://images-prod.misbar.com/articlebody/origin_dyqswuvn3.jpg\" style=\"height:483px; width:623px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_7tvqxss3i.jpg\" style=\"height:738px; width:472px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_0ojgytesk.jpg\" style=\"height:672px; width:475px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_qn0l8yctm.jpg\" style=\"height:473px; width:624px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1603637508GettyImages-538375572.jpg",
+        "watermark_path": "articles/watermark-1603637508GettyImages-538375572.jpg"
+    },
+    "post_date": "2020-10-25T17:34:00.000+03:00",
+    "published": [
+        {
+            "id": "5f958ffef5acb06fe14f65d4",
+            "link": "https://twitter.com/TfTeeeSH/status/1319982678968553480",
+            "name": "تفتيش الكويت 🇰🇼",
+            "origin": "twitter",
+            "path": "sources/8b71ba82a35269a178b8823cb530e5d524562b34.jpg"
+        },
+        {
+            "id": "5f958ffe9de3835ae64d42b9",
+            "link": "https://twitter.com/xRo8LlegLZhC2jt/status/1320037141733408768",
+            "name": "بنت اليمن",
+            "origin": "twitter",
+            "path": "sources/cc44628e9ddac15efe410c2c4e09a293fa22e401.jpg"
+        },
+        {
+            "id": "5f958ffe661ce3210a32a970",
+            "link": "https://www.facebook.com/1040044329350770/videos/2450340925267994/",
+            "name": "العقل السليم",
+            "origin": "facebook",
+            "path": "sources/e28077ea7a2b1fd0f7d729e5a637bcc96fdf37e9.jpg"
+        },
+        {
+            "id": "5f958ffe26013018495bee96",
+            "link": "https://twitter.com/warda__25/status/1320233475342012419",
+            "name": "🌷زهرة اللوتس🌷",
+            "origin": "twitter",
+            "path": "sources/b8cdab7562134b2f3b175a5b0791406db70b4693.jpg"
+        },
+        {
+            "id": "5f958fff1293203ad0702029",
+            "link": "https://twitter.com/Abu_nawaf12356/status/1320305128033976320",
+            "name": "ابونواف البخيتي",
+            "origin": "twitter",
+            "path": "sources/f99fedbd50a132e1725415c2eb037457657047ff.jpg"
+        },
+        {
+            "id": "5f958fff74a894406168e2a8",
+            "link": "https://twitter.com/elmazlooma/status/1319749894631006210",
+            "name": "مظلوم",
+            "origin": "twitter",
+            "path": "sources/4fdf82d36b070c74d727b1fdb263849aeed5351e.jpg"
+        },
+        {
+            "id": "5f958fffb0e90f7ccc709215",
+            "link": "https://twitter.com/lkx_1/status/1320080375608152069",
+            "name": "سـيـنـشـي☕️🖤.",
+            "origin": "twitter",
+            "path": "sources/a87ba46b67ee5ac54f56c0d8286efec44b57f856.jpg"
+        },
+        {
+            "id": "5f958fffbf8f063e045cdf9b",
+            "link": "https://twitter.com/Eng_BahaaR/status/1320357347743719425",
+            "name": "بهاء هنية (Alp Arslan) 🇵🇸",
+            "origin": "twitter",
+            "path": "sources/f38e1b944924a5da7479362132fd2d2e13f3f647.jpg"
+        },
+        {
+            "id": "5f958ffff3eb8a327d486760",
+            "link": "https://twitter.com/aljouri_1990/status/1320302948912668672",
+            "name": "جوري",
+            "origin": "twitter",
+            "path": "sources/2fb72b06a11435a4ddc57db62240358dced4ed4d.jpg"
+        },
+        {
+            "id": "5f958fff1293203ad0702029",
+            "link": "https://twitter.com/Abu_nawaf12356/status/1320305128033976320",
+            "name": "ابونواف البخيتي",
+            "origin": "twitter",
+            "path": "sources/f99fedbd50a132e1725415c2eb037457657047ff.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f958fff5556b313ef3a0f17",
+            "link": "https://www.leparisien.fr/economie/loi-travail-a-montreuil-macron-recoit-un-oeuf-sur-la-tete-06-06-2016-5860253.php",
+            "name": "leparisien",
+            "origin": "",
+            "path": "sources/25d85c6ad03a5fa3d0566efafaf756512828f5f7.jpg"
+        },
+        {
+            "id": "5f958fffc6524b46f11edfc7",
+            "link": "https://www.express.co.uk/news/world/773806/En-Marches-Emmanuel-Macron-egged-France-show-Marine-Le-Pen-Hollande",
+            "name": "Express.co.uk",
+            "origin": "",
+            "path": "sources/3b72386842bf49c8049c73dc9cc8b830d4516d84.jpg"
+        },
+        {
+            "id": "5f958fffe4db04452e45e775",
+            "link": "https://www.facebook.com/144056732332683/videos/1378124998897361/",
+            "name": "CANAL+",
+            "origin": "facebook",
+            "path": "sources/36a9d87711e735c2248d0b0e109a405cae58bd11.jpg"
+        },
+        {
+            "id": "5f958fff43760c62fa1a18d5",
+            "link": "https://www.lefigaro.fr/elections/presidentielles/2017/03/01/35003-20170301ARTFIG00246-emmanuel-macron-recoit-un-oeuf-sur-la-tete-au-salon-de-l-agriculture.php",
+            "name": "Lefigaro",
+            "origin": "",
+            "path": "sources/d69b1f28056419a2d84cd5b2ccc76eee30610101.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لم يُضرب ماكرون بالبيض بسبب تصريحاته ضد المسلمين",
+    "updated_at": "2020-10-25 18:01:50",
+    "url_path": "/factcheck/2020/10/25/لم-يضرب-ماكرون-بالبيض-بسبب-تصريحاته-ضد-المسلمين",
+    "was_notification_pushed": "true"
+}

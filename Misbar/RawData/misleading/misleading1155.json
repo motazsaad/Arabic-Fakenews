@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1941,
+    "author": {
+        "fullname": "حسام الوكيل",
+        "id": "5e7cb2a9d4a2297a3f1db883",
+        "photo": {
+            "name": "1585230505_1hGLjIBq_400x400.jpg",
+            "path": "authors/1585230505_1hGLjIBq_400x400.jpg"
+        }
+    },
+    "caption": "انتقد وزير الاقتصاد التركي السابق السياسات الاقتصادية للحكومة الحالية (Getty)",
+    "category": "Politics",
+    "claim": "<p>وزير الاقتصاد التركي السابق علي باباجان: &quot;تركيا على وشك الإفلاس ورصيد الاحتياطي صفر&quot;.</p>\r\n",
+    "country": "TR",
+    "created_at": "2020-05-11 18:26:26",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eb96ea2db291611df498d65",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تحقق &quot;مسبار&quot; من الفيديو المنشور لوزير الاقتصاد التركي السابق، وتبيّن أنّ عنوانه مضلل، إذ وجّه الوزير انتقادات للسياسة الاقتصادية للحكومة التركية، إلّا أنه لم يقل على الإطلاق أنّ تركيا على وشك الإفلاس وأنّ&nbsp;رصيدها الاحتياطي صفر كما زعم الخبر المتداول. وقال باباجان أن الاحتياطي التركي كان قد بلغ في وقت ما <span dir=\"LTR\">136</span> مليار دولار، لكنه انخفض حتى وصل يوم <span dir=\"LTR\">24</span> أبريل/ نيسان من العام الجاري إلى <span dir=\"LTR\">85</span> مليار فقط، وأن صافي الاحتياطي يبلغ <span dir=\"LTR\">25</span> ملياراً. </span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/JxOMXAJ1zYg\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تداولت حسابات وصفحات على موقع التواصل الاجتماعي &quot;تويتر&quot;، مقطع فيديو نشرته مواقع إخبارية عديدة لوزير الاقتصاد التركي السابق علي باباجان، ادّعت أنّه قال فيه &quot;تركيا على وشك الإفلاس ورصيد الاحتياطي صفر&quot;.</span></p>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"rtl\">باباجان: تركيا على وشك الإفلاس ورصيد الاحتياطي صفر <a href=\"https://t.co/pJmsmkc63D\">pic.twitter.com/pJmsmkc63D</a></p>\r\n&mdash; W J (@WJlibya) <a href=\"https://twitter.com/WJlibya/status/1258853348784197632?ref_src=twsrc%5Etfw\">May 8, 2020</a></blockquote>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"color:black\"><span dir=\"LTR\"><img id=\"Picture_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/origin_l27w574jg.jpg\" style=\"height:375pt; width:468pt\" /> </span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 325,
+        "left": 19.845489501953125,
+        "path": "articles/1589210785GettyImages-471327054.jpg",
+        "top": 95.976318359375,
+        "totalHeight": 423,
+        "totalWidth": 636,
+        "watermark_path": "articles/watermark-1589210785GettyImages-471327054.jpg",
+        "width": 577
+    },
+    "post_date": "2020-05-11T18:08:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.dostor.org/3083256",
+            "name": "الدستور",
+            "path": "published/0_1589210785_جريدة الدستور - logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/turkeynownews/status/1259483332963778560?s=20",
+            "name": "تركيا الآن",
+            "path": "published/1_1589210785_تركيا الآن.jpg"
+        },
+        {
+            "link": "https://twitter.com/WJlibya/status/1258853348784197632?s=20",
+            "name": "WJ",
+            "path": "published/2_1589210785_WJ.jpg"
+        },
+        {
+            "link": "https://twitter.com/MHaddad09129468/status/1259484661753012225?s=20",
+            "name": "M Haddad",
+            "path": "published/3_1589210785_M Haddad.jpg"
+        },
+        {
+            "link": "https://twitter.com/Ali68293932/status/1259489039310295042",
+            "name": "Ali68293932",
+            "path": "published/4_1589210785_Ali68293932.jpg"
+        },
+        {
+            "link": "https://twitter.com/loolyita/status/1258889984888766465",
+            "name": "Lina faraji",
+            "path": ""
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=JxOMXAJ1zYg&feature=youtu.be",
+            "name": "Kemal Öztürk",
+            "path": "sources/0_1589210785_Kemal Öztürk.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "تركيا على وشك الإفلاس.. حقيقة تصريح وزير الاقتصاد السابق ",
+    "updated_at": "2020-09-23 12:32:53",
+    "url_path": "/factcheck/2020/05/11/تركيا-على-وشك-الإفلاس-ترجمة-مضللة-لتصريح-وزير-الاقتصاد-السابق"
+}

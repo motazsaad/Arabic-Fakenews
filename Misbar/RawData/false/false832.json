@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1929,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "خبر زائف عن تقرير لصحيفة ديلي ميل حول إلغاء الدوري الإنجليزي (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">صحيفة ديلي ميل البريطانية: لن يعود الدوري الإنجليزي مرة أخرى هذا الموسم، وستُلغى المسابقة بدون تحديد بطل، وسيُعلن لاحقاً عن موعد بداية الموسم الجديد.</span></p>\r\n",
+    "country": "GB",
+    "created_at": "2020-03-27 23:06:09",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e7e5cb1d4a2292ce71c4394",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقّق مسبار من الخبر المتداول ووجد أنه زائف، إذ لم تنشر صحيفة ديلي ميل أي خبر يحمل هذا الادعاء بتاريخ تداول الخبر المزعوم، 26 مارس/ آذار الجاري. وكانت ديلي ميل قد نشرت في نفس هذا التاريخ </span><a href=\"https://www.dailymail.co.uk/sport/sportsnews/article-8156383/Coronavirus-UK-English-football-NOT-return-April-30-new-date-announced-week.html\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>خبراً</u></span></a><span style=\"color:#000000\"> مفاده أنّ الصحيفة اطّلعت على مذكّرة وصلت أندية كرة القدم المحترفة في بريطانيا مفادها ترجيح عدم الالتزام بالتاريخ المُعلن سابقاً لعودة مباريات الدوري الإنجليزي الممتاز، الذي يصادف 30 أبريل/نيسان القادم، وإنما سيُعلن عن تاريخ جديد قريباً.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_zoupinudj.jpg\" style=\"height:343px; width:624px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">أما بالنسبة لآخر القرارات المتعلقة باستئناف فعاليات كرة القدم المختلفة في بريطانيا، فقد اجتمع اليوم المسؤولون عن الدوري الممتاز، ودوري الدرجة الأولى، واتحاد اللاعبين المحترفين، واتفقوا على أن الفعاليات لن تعود قبل تاريخ 30 أبريل/نيسان، إذا سمحت الظروف وكان الوضع آمناً، مع التركيز على أن اجتماعات قادمة سوف تُعقد لمناقشة مختلف القضايا المتعلقة بالتحديات الاقتصادية التي ولّدها إيقاف فعاليات كرة القدم في بريطانيا.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_wlyziiq4i.jpg\" style=\"height:379px; width:624px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "بريطانيا",
+        "كورونا بريطانيا",
+        "الدوري الإنجليزي"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تداولت صفحاتٌ على مواقع التواصل الاجتماعي خبراً ادّعت أنه منقول عن جريدة ديلي ميل البريطانية ومفاده أن الدوري الإنجليزي سيُلغى دون تحديد بطل له هذا الموسم، وسوف يُعلَن قريباً عن موعد بدء الموسم التالي. ويجدر بالذكر أن الخبر بدأ الانتشار بتاريخ 26 مارس/آذار الجاري.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_dweky1b2z.jpg\" style=\"height:665px; width:528px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ds4ep9bc6.jpg\" style=\"height:532px; width:527px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 367,
+        "left": 0.33331298828125,
+        "path": "articles/1585339569GettyImages-1212359315.jpg",
+        "top": 35,
+        "totalHeight": 423,
+        "totalWidth": 655,
+        "width": 652
+    },
+    "post_date": "2020-03-27T22:59:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/685694824818480/posts/3017040521683887/",
+            "name": "مصر العربية - رياضة",
+            "path": "published/0_1585339569_مصر-العربية-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ligue1promob1/posts/628613131019385",
+            "name": "البطولة المحترفة موبيليس",
+            "path": "published/1_1585339569_البطولة-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Kooora.Cafe/posts/2900295756724894",
+            "name": "جوول - أحداث العالم الكروية",
+            "path": "published/2_1585339569_جوول-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/StarAcademyArabiaAlways2014/permalink/2825968004309591/",
+            "name": "حسن موكا",
+            "path": "published/3_1585339569_حسن-موكا-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/omar.barca.16752754/posts/223786392362025",
+            "name": "Omar Culé",
+            "path": "published/4_1585339569_Omar-Culé_logo.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.premierleague.com/news/1649580?sf232019951=1",
+            "name": "Premier League",
+            "path": "sources/0_1585339568_Premier-League-logo.jpg"
+        },
+        {
+            "link": "https://www.dailymail.co.uk/sport/sportsnews/article-8156383/Coronavirus-UK-English-football-NOT-return-April-30-new-date-announced-week.html",
+            "name": "Daily Mail",
+            "path": "sources/1_1585339569_Daily-mail-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "خبر زائف عن تقرير لصحيفة ديلي ميل حول إلغاء الدوري الإنجليزي",
+    "title": "كورونا بريطانيا: لم تعلن ديلي ميل عن إلغاء الدوري الإنجليزي",
+    "updated_at": "2020-09-24 19:00:27",
+    "url_path": "/factcheck/2020/03/27/كورونا-بريطانيا-لم-تعلن-ديلي-ميل-عن-إلغاء-الدوري-الإنجليزي"
+}

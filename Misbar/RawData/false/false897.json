@@ -1,0 +1,102 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 3073,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "caption": "الفيديو المتداول في تطبيق TikTok حصل على قرابة المليون ونصف المليون إعجاباً",
+    "category": "Entertainment",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">خروج أكبر ثعبان على كوكب الارض في شواطئ مدينة تورنتو التايلاندية صباح اليوم.</p>\r\n",
+    "country": "TH",
+    "created_at": "2020-03-02 14:41:41",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 2,
+    "id": "5e5cf0f5d4a229628473fd34",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">مدينة تورنتو ليست في تايلاند، وإنما تقع في مقاطعة أونتاريو الكندية. أما عن المقطع المنتشر، فهو معدل باستخدام تقنية <span dir=\"LTR\">VFX</span>، وقام أحد المصممين بنشره على حسابه في تطبيق TikTok وحصل على قرابة المليون&nbsp;ونصف المليون إعجاباً، ومن ثم نشر المصمم توضيحاً على&nbsp;<a href=\"https://www.youtube.com/watch?v=7X2_zQQoE2Q\" style=\"color:blue; text-decoration:underline\">قناته في موقع يوتيوب</a>&nbsp;حول الآلية المستخدمة في تعديل الفيديو، والطريقة التي يُضاف فيها الثعبان إلى المقطع الأصلي ليظهر وكأنه جزء من المقطع. كما قام بنشر <a href=\"https://www.youtube.com/watch?v=tG-1L7vTWa4\" style=\"color:blue; text-decoration:underline\">المقطع الخاص بالثعبان</a>، والذي أضيف إلى الفيديو المتداول عبر برنامج تعديل الصور.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">تقنية التأثيرات المرئية <span dir=\"LTR\">VFX</span> هي وسيلة يتم خلالها استخدام إضافة الصور التي تم إنشاؤها أو معالجتها أو تعزيزها، ودمجها مع مقطع آخر بحيث أنَّ الصور أو الفيديو الذي يتم إضافته لا يمكن التقاطه أثناء التصوير المباشر، وتأتي التقنية لعمل تكامل بين اللقطات الفعلية والصور المتلاعب بها لإنشاء بيئة جديدة تظهر وكأنها جزء من الواقع.</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p>نشرت بعض الحسابات على موقعي تويتر وفيسبوك، وقنوات على موقع يوتيوب، فيديو يظهر فيه مجموعة من الناس على شاطئ البحر، ويخرج في الفيديو ثعبان من البحر يسبب الذعر للناس.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"420\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fanbaaalwatan1%2Fvideos%2F639712806824296%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 245,
+        "left": 2.2069244384765625,
+        "path": "articles/1583149301Capture.JPG",
+        "top": 22.232666015625,
+        "totalHeight": 423,
+        "totalWidth": 441,
+        "width": 435
+    },
+    "post_date": "2020-03-02T14:31:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.youtube.com/watch?v=OLeTqXoeaU0",
+            "name": "قناة سيدة القصر",
+            "path": "published/0_1583149300_قناة-سيدة.jpg"
+        },
+        {
+            "link": "https://twitter.com/ltzjj/status/1232658288828977153",
+            "name": "ججج",
+            "path": "published/1_1583149301_ججج.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=Exto2efq0SY",
+            "name": "حول العالم",
+            "path": "published/2_1583149301_حوال-العالم.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/anbaaalwatan1/videos/639712806824296/?__xts__[0]=68.ARAtzfcbQVs0_GUHAlK_uXB4VC916WXei2y58nJcRcZye4jiFeO4SeOkTyrp36n182vsmTdyt8DCmrX6gT5wnk3VYVvfrNut_SF-jdhj31umQsc_yksZmMvtY_4EbA9b2JKjY2JfWt0hYCbSxDAqw22dEHP3a9qI0jZVBfF0FhJajSm1ZMgp2NLK2QnwBKDurayg_UhRhmT-H6TpRZ-DudukfooGnG7oBAY8PEnbdHHgsx6BgHb_WpyTlod5ez8p2LtfEjGMfsmSlDUr5sFHOHcp0Pb1iviJxuaVOQWbA6kYvEWBRGYnJ4w0IoQ3roBxEFzie5_Ixcs4F9CJoHkXLVZ8D2uvPs4fzXkj0g&__tn__=-R",
+            "name": "جريدة أنباء الوطن الان",
+            "path": "published/3_1583149301_جريدة-انباء-الوطن-الان.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/aljwwal1982/videos/2541732502604109/?__xts__[0]=68.ARAyS0SjUeRqk0CJDfVqyiwWwovTDRXLQT1cdrQJlcDLBr7q_eHWhGoDw9DtxlWSZ0B04szB6PCyN53O86K8iObSU99IAzm9tYBMbdEOus2Lzn3AUitzFlwFlj5S3A9UwjiPxm3CwQK9nZEqwCzHU0gkIgf4C5NrK3CukIp0ENxh9DUaU8b8WIplhuoREU9l09L0MLxzNt3cNRQ8OWioUEBW-MdjZg&__tn__=H-R",
+            "name": "Ziad Rabaieh",
+            "path": "published/4_1583149803_زياد-ربايعة.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=7X2_zQQoE2Q",
+            "name": "Raj Tech Zone",
+            "path": "sources/0_1583149300_raj-tech.jpg"
+        },
+        {
+            "link": "https://www.instagram.com/murshidraj6/",
+            "name": "Múrshîd Rãj",
+            "path": "sources/1_1583151968_raj.JPG"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=tG-1L7vTWa4",
+            "name": "Haider Picture Studio",
+            "path": "sources/2_1583149300_haidar-picture-studio.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ثعبان ضخم على شواطئ تايلاند.. فيديو مزيف",
+    "updated_at": "2020-09-25 19:48:33",
+    "url_path": "/factcheck/2020/03/02/ثعبان-ضخم-على-شواطئ-تايلاند-فيديو-مزيف"
+}

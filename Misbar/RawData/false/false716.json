@@ -1,0 +1,104 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 3,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 34399,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "المغرب لم يعترف رسمياً بالجمهوريّة الصحراويّة (Getty) ",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">المغرب يعترف رسمياً&nbsp;بالجمهورية العربية الصحراوية الديمقراطية،&nbsp;كدولة مستقلّة، وينشر ذلك في جريدته الرسميّة.</p>\r\n",
+    "country": "MA",
+    "created_at": "2020-05-18 15:25:45",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 0,
+    "id": "5ec27ec9db291675951b25f5",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الخبر المتداول ليتبّين أنه زائف، إذ لم تعترف المملكة المغربية رسمياً بالجمهورية العربية الصحراوية الديمقراطية كدولة رغم توقيعها على القانون التأسيسيّ للاتحاد الإفريقي، بعد عودتها إلى المنظمة عام 2017. وأكد الوزير المنتدب في الخارجية المغربية ناصر بوريطة، في تصريح له بتاريخ 5 شباط/فبراير 2017، أن المغرب <span style=\"color:black\">لا يعترف ولن يعترف أبداً بالصحراء الغربيّةّ كدولة.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"color:black\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_7or0or93t.jpg\" style=\"height:563px; width:338px\" /></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات إخبارية وحسابات على مواقع التواصل الاجتماعيّ، خبراً يدّعي أنّ المغرب اعترف رسمياً&nbsp;بالجمهورية العربية الصحراوية، بعد توقيعه على القانون التأسيسيّ للانضمام مجدّداً إلى الاتحاد الأفريقيّ. ونشرت الجريدة الرسميّة للمملكة الاعتراف ضمن عددها 6539 مكرر، بتاريخ 31 كانون الأول/ يناير 2017.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"IMG_20200518_124236.jpg\" src=\"https://images-prod.misbar.com/articlebody/origin_h8tbuk61v.jpg\" style=\"height:713px; width:460px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"IMG_20200518_124336.jpg\" src=\"https://images-prod.misbar.com/articlebody/origin_ylnqk40h0.jpg\" style=\"height:797px; width:520px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"IMG_20200518_124255.jpg\" src=\"https://images-prod.misbar.com/articlebody/origin_oo0nzf6im.jpg\" style=\"height:733px; width:495px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 331,
+        "left": 11.72760009765625,
+        "path": "articles/15898047444DB208E8-2A72-451A-804C-0F13A3518155 (1).jpg",
+        "top": 5.3154296875,
+        "totalHeight": 423,
+        "totalWidth": 605,
+        "watermark_path": "articles/watermark-15898047444DB208E8-2A72-451A-804C-0F13A3518155 (1).jpg",
+        "width": 588
+    },
+    "post_date": "2020-05-18T13:03:00.000+03:00",
+    "published": [
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=2566264803585681&id=1730199380525565",
+            "name": "تنسيقية عائلات الأسرى المدنيين الصحراويين ",
+            "path": "published/0_1589804743_تنسيقية (1).jpg"
+        },
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=3814689275210756&id=1293141730698869",
+            "name": "صحيفة الصحراء الغربيّة الإخباريّة",
+            "path": "published/1_1589804743_صحيفة (1).jpg"
+        },
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=10158244118058711&id=76646853710",
+            "name": "ّالجيش الالكترونيّ الصحراوي",
+            "path": "published/2_1589804743_14141805_10154498445153711_3128547708683342113_n (1).jpg"
+        },
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=712306129516640&id=211517556262169",
+            "name": "محمد راضي الليلي",
+            "path": "published/3_1589804743_images.jpg"
+        },
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=2689159411368281&id=100008227455724",
+            "name": "ولد محمد المامي",
+            "path": "published/4_1589808210_fb_img_1589807291056 (1).jpg"
+        },
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=3211577208876190&id=100000718286237",
+            "name": "حكيم حمدانه",
+            "path": "published/5_1589808210_FB_IMG_1589806358471 (1).jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "http://www.sgg.gov.ma/BO/AR/2017/BO_6539-bis_ar.pdf?ver=2017-01-31-155505-047",
+            "name": "الجريدة الرسميّة",
+            "path": "sources/0_1589804743_الرسمية.jpg"
+        },
+        {
+            "link": "https://www.mc-doualiya.com/articles/20170205-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D9%84%D9%86-%D9%8A%D8%B9%D8%AA%D8%B1%D9%81-%D8%A3%D8%A8%D8%AF%D8%A7-%D8%A8%D9%80%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%B5%D8%AD%D8%B1%D8%A7%D9%88%D9%8A%D8%A9-%D8%A7%D9%84%D8%AF%D9%8A%D9%85%D9%82%D8%B1%D8%A7%D8%B7%D9%8A%D8%A9",
+            "name": "مونت كارلو الدولية ",
+            "path": "sources/1_1589804744_مونت كارلو (1).jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "المغرب يعترف رسمياً بالصحراء الغربيّة كدولة مستقلّة.. حقيقة الخبر",
+    "updated_at": "2020-09-25 16:23:30",
+    "url_path": "/factcheck/2020/05/18/اعتراف-المغرب-الرسمي-بالصحراء-العربية-الصحراوية-الديمقراطية-خبر-مضلل"
+}

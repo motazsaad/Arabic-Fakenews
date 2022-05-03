@@ -1,0 +1,98 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1341,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الفيديو المتداول قديم ويعود إلى أكتوبر 2019 (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">فيديو يُظهر كيف خرج العراقيون إلى الشوارع رفضاً لتمديد حظر التجوال المفروض لمنع تفشي فايروس كورونا.</p>\r\n",
+    "country": "IQ",
+    "created_at": "2020-04-19 17:31:41",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e9c60cddb29165eb045fa84",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الفيديو ووجده مضللاً، فالمقطع قديم ومنشور على فيسبوك منذ أكتوبر/تشرين الأول 2019 أي قبل ظهور فايروس كورونا، ويُظهر كما يفيد التعليق المرافق له،&nbsp;كسر متضاهرين لحظرِ&nbsp;التجوال الذي&nbsp;فرضته السلطات العراقية خلال فترة الاحتجاجات الشعبية التي شهدها العراق في ذلك الوقت.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fkamilik%2Fvideos%2F10159006922289867%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداول مستخدمون على موقعي فيسبوك ويوتيوب مقطع فيديو، ادعى ناشروه&nbsp;أنّه يصوّر كيف نزل مواطنون في العاصمة العراقية بغداد إلى الشوارع لكسر حظر التجوال، وذلك تعبيراً عن رفضهم لقرار الحكومة بتمديد فترة الحظر المفروض لمكافحة تفشي فايروس كورونا (كوفيد-19).</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"313\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F103679237907280%2Fvideos%2F225160311907839%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"313\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FIraq.News.Networks%2Fvideos%2F663678024416302%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/uER5elY9ONo\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 376,
+        "left": 6.5555419921875,
+        "path": "articles/1587306700GettyImages-57102812.jpg",
+        "top": 31,
+        "totalHeight": 423,
+        "totalWidth": 678,
+        "watermark_path": "articles/watermark-1587306700GettyImages-57102812.jpg",
+        "width": 668
+    },
+    "post_date": "2020-04-19T17:28:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/watch/?v=225160311907839",
+            "name": "صبارة",
+            "path": "published/1_1587306699_صبارة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=301065044210107",
+            "name": "وكالة روافد",
+            "path": "published/2_1587306699_وكالة روافد.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=uER5elY9ONo",
+            "name": "طراكيع ترند",
+            "path": "published/3_1587306999_طراكيع ترند.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=227148308368534",
+            "name": "الأنبار مدينتي",
+            "path": "published/4_1587307000_الأنبار مدينتي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=532475214362064",
+            "name": "يوميات من بلادي",
+            "path": "published/5_1587307000_يوميات من بلادي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100011174883126/videos/1077258919323261/",
+            "name": "محمد جاسم",
+            "path": "published/6_1587307000_محمد جاسم.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/kamilik/videos/10159006922289867/",
+            "name": "المقطع الأصلي",
+            "path": "sources/0_1587306700_YouTube-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "كورونا العراق: بغداديون يكسرون حظر التجوال.. حقيقة الفيديو",
+    "updated_at": "2020-09-24 18:17:19",
+    "url_path": "/factcheck/2020/04/19/البغداديون-ينزلون-إلى-الشوارع-ويكسرون-حظر-التجوال-فيديو-مضلل"
+}

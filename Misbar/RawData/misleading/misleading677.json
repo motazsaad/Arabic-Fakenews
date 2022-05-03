@@ -1,0 +1,137 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1965,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "عثر على الرضيع عام 2019 في مدينة فاس المغربية (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-DZ\">صورة رضيع حديث الولادة، عثر عليه اليوم وسط القمامة، في ولاية قالمة شرقي الجزائر.</span></p>\r\n",
+    "country": "DZ",
+    "created_at": "2020-09-06 19:20:54",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f550c6651ff97579951eeb9",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة المتداولة وتبين أنها مضللة، إذ أن الصورة قديمة، تعود إلى عام 2019، كما أن الرضيعة مغربية وليست جزائرية، عثر عليها عمال نظافة في مدينة فاس،&nbsp;وسط القمامة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">ووفق <a href=\"https://www.hespress.com/faits-divers/430550.html\" style=\"color:blue; text-decoration:underline\">موقع هسبريس</a> المغربي، فإنّ الرضيعة &quot;كانت ملفوفة في قطعة قماش وموضوعة داخل كيس بلاستيكي، وجدها أحد عمال الشركة المكلفة بتدبير قطاع النظافة في مدينة فاس، حين كان يهم برمي الأزبال المتجمعة بالحاوية وعلى أطرافها داخل شاحنة النفايات&quot;.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:black\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_zkaig6o64.jpg\" style=\"height:494px; width:494px\" /></span></span></span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/vtTZJv9lt8k\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-DZ\">تداولت حسابات وصفحات على مواقع التواصل الاجتماعي، حديثاً، صورة تدعي أنها &nbsp;لطفل حديث الولادة، عثر عليه وسط القمامة، في حي قرب جامعة قالمة شرقي الجزائر .<strong><em> &nbsp;</em></strong></span></p>\r\n\r\n<p style=\"text-align:center\"><strong><em><img src=\"https://images-prod.misbar.com/articlebody/origin_akm0y3fxe.jpg\" style=\"height:651px; width:447px\" /></em></strong></p>\r\n\r\n<p style=\"text-align:center\"><strong><em><img src=\"https://images-prod.misbar.com/articlebody/origin_djagxky9b.jpg\" style=\"height:629px; width:449px\" /></em></strong></p>\r\n\r\n<p style=\"text-align:center\"><strong><em><img src=\"https://images-prod.misbar.com/articlebody/origin_99vp5v78w.jpg\" style=\"height:590px; width:449px\" /></em></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 327,
+        "left": -1.569488525390625,
+        "path": "articles/1599409253b__b___fes_270670894.jpg",
+        "top": 89.8671875,
+        "totalHeight": 385,
+        "totalWidth": 576,
+        "watermark_path": "articles/watermark-1599409253b__b___fes_270670894.jpg",
+        "width": 581
+    },
+    "post_date": "2020-09-06T16:43:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://web.facebook.com/1constantine25/photos/a.430858067061082/2305027529644117/?type=3&theater",
+            "name": "Rak Fi Constantine - راك في قسنطينة",
+            "path": "published/0_1599409253_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://web.facebook.com/entrealgeriens.dz1/photos/a.485691251915430/949460585538492/?type=3&theater",
+            "name": "Entre Algériens",
+            "path": "published/1_1599409253_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://web.facebook.com/ElDjazairDaily/photos/a.118476996425839/186532909620247/?type=3&theater",
+            "name": "El-Djazair daily",
+            "path": "published/2_1599409253_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://web.facebook.com/110788130363989/photos/pcb.324528208989979/324526658990134/?type=3&theater",
+            "name": "Spotted zimou",
+            "path": "published/3_1599409253_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://web.facebook.com/groups/2828481217247434/permalink/3184350988327120/",
+            "name": "🎙guelma TV 🎙",
+            "path": "published/4_1599409253_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://web.facebook.com/Blidanew24/photos/a.115953056633520/192012289027596/?type=3&theater",
+            "name": "Blida News 24",
+            "path": "published/5_1599409253_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://web.facebook.com/groups/359891891655664/permalink/414954409482745/",
+            "name": "ناس حمام دباغ",
+            "path": "published/6_1599409253_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://web.facebook.com/villeconstantine25/posts/2693112974240517",
+            "name": "عشاق مدينة الجسور المعلقة قسنطينة",
+            "path": "published/7_1599409253_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://web.facebook.com/algevent/photos/a.101627511524162/282401996780045/?type=3&theater",
+            "name": "Algeria events أحداث الجزائر",
+            "path": "published/8_1599409253_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://web.facebook.com/108221387214566/photos/a.108251787211526/354128412623861/?type=3&theater",
+            "name": "مدينة المسيلة Ville de m'sila",
+            "path": "published/9_1599409253_67819776_2303763929710849_8279055560511324160_o.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.youtube.com/watch?v=vtTZJv9lt8k",
+            "name": "facepress Media",
+            "path": "sources/0_1599409253_00.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.hespress.com/faits-divers/430550.html",
+            "name": "hespress",
+            "path": "sources/1_1599409253_unXUNiex.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الرضيع الذي عثر عليه في حاوية قمامة ليس من مدينة قالمة الجزائرية",
+    "updated_at": "2020-09-25 15:17:27",
+    "url_path": "/factcheck/2020/09/06/الرضيع-الذي-عثر-عليه-في-حاوية-قمامة-ليس-من-مدينة-قالمة-الجزائرية",
+    "was_notification_pushed": "true"
+}

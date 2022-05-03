@@ -1,0 +1,119 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1422,
+    "author": {
+        "fullname": "رشيد عفيف",
+        "id": "5ec4e956db291667784c4bc4",
+        "photo": {
+            "name": "1589963094_رشيد صورة.jpg",
+            "path": "authors/1589963094_رشيد صورة.jpg"
+        }
+    },
+    "caption": "نشر جيرارد الصورة مع ابنتيه في يناير/كانون الثاني 2020 (Facebook)",
+    "category": "Sports",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">صورة للاعب نادي ليفربول السابق، ستيفن جيرارد، مع زوجته وإبنته.</p>\r\n",
+    "country": "",
+    "created_at": "2020-07-05 18:02:24",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f01eb80163be3067652c58b",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة&nbsp;المتداولة ووجد أنه مضلّلة. إذ نُشرت لأول مرة في حساب ستيفن جيرارد على منصّة إنستغرام بتاريخ 1 يناير/كانون الثاني من العام الحالي، بمناسبة رأس السنة الميلادية. والتقط ستيفان جيرارد الصورة مع ابنتيه ليكسي وليلي، وينشر ستيفان جيرارد بانتظام صوراً&nbsp;لعائلته ومنها صوره مع زوجته أليكس.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_rim5i3w1i.jpg\" style=\"height:293px; width:605px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_5vhttin5i.jpg\" style=\"height:320px; width:605px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات على موقعي التواصل الاجتماعي فيسبوك وتويتر، صورةً للاعب كرة القدم السابق في نادي&nbsp;ليفربول الإنجليزي، ستيفن جيرارد، تدّعي أنها تُظهر زوجته وابنته. وأُرفقت الصورة في بعض الصفحات بتساؤل عمّن هي الزوجة ومن هي الابنة، للإشارة إلى صعوبة إيجاد الفرق بينهن رغم اختلاف السن.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_37qzgz88g.jpg\" style=\"height:638px; width:605px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_tdgwd6g9i.jpg\" style=\"height:459px; width:605px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 137,
+        "left": 2.381683349609375,
+        "path": "articles/1593961344main photo.jpg",
+        "top": 36.96240234375,
+        "totalHeight": 178,
+        "totalWidth": 249,
+        "watermark_path": "articles/watermark-1593961344main photo.jpg",
+        "width": 243
+    },
+    "post_date": "2020-07-05T17:53:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/krimo.ka.5/posts/2991642034283798",
+            "name": "Krimo Gtd",
+            "path": "published/0_1593961343_krimo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/hassen.meghazi.5/posts/593347198271773",
+            "name": "Hassen Meghazi",
+            "path": "published/1_1593961343_hassen.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=123794932439041&id=111636783654856",
+            "name": "شركة صغيرة وساترها ربي",
+            "path": "published/2_1593961343_شركة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ishak.sail.5815/posts/492027115056019",
+            "name": "Ishak Sail",
+            "path": "published/3_1593961343_sail.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ghaitkhalil/posts/1958640900938654",
+            "name": "Hçãrät+wm3äñï",
+            "path": "published/4_1593961343_hacrat wamanni.jpg"
+        },
+        {
+            "link": "https://twitter.com/5IQ7QAWnCiueiMK/status/1212664785050963969",
+            "name": " It@lgerı@no ",
+            "path": "published/5_1593961343_igri.jpg"
+        },
+        {
+            "link": "https://twitter.com/yossef933/status/1212629013304422400",
+            "name": ".",
+            "path": "published/6_1593961343_dot.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.instagram.com/p/B6xeKfepYxb/",
+            "name": "Steven Gerrard",
+            "path": "sources/0_1593961343_ستيفن جيرارد.jpg"
+        },
+        {
+            "link": "https://www.instagram.com/p/B_9jfvGJlM6/",
+            "name": "Steven Gerrard",
+            "path": "sources/1_1593961343_ستيفن جيرارد.jpg"
+        },
+        {
+            "link": "https://www.instagram.com/p/B85koXYJVCP/",
+            "name": "Steven Gerrard",
+            "path": "sources/2_1593961344_ستيفن جيرارد.jpg"
+        },
+        {
+            "link": " https://www.instagram.com/lexiegerrardd/?hl=en",
+            "name": "Lexie Gerrardd",
+            "path": "sources/3_1593961344_lexie gerrard.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صورة جيرارد مع ابنتيه ولا تضم زوجته",
+    "updated_at": "2020-09-25 16:35:42",
+    "url_path": "/factcheck/2020/07/05/صورة-جيرارد-مع-ابنتيه-ولا-تضم-زوجته"
+}

@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 110433,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "تسجيل فيديو أظهره يضع ركبته على عنق فلويد لمدة ثماني دقائق و46 ثانية، أثناء الاعتقال (Getty)",
+    "category": "News",
+    "claim": "<p><span dir=\"RTL\" lang=\"AR-SA\">شرطي مدينة مينيابوليس المتهم بقتل الأميركي من أصل أفريقي جورج فلويد، خنقاً&nbsp;تحت ركبته، سيحصل على استحقاقات مالية خاصة بتقاعده تصل إلى أكثر من مليون دولار.</span></p>\r\n",
+    "country": "US",
+    "created_at": "2020-06-15 10:29:39",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5ee72363d6e4a9678b546a84",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الخبر ليجد أنه صحيح،&nbsp;فضابط شرطة مينيابوليس السابق المتهم بقتل جورج فلويد لا يزال بإمكانه الحصول على معاشات تقاعدية في غضون بضع سنوات،&nbsp;حتى لو أدين. وأكد مسؤولو المعاشات في مينيسوتا لشبكة سي بي إس نيوز أن الضابط السابق، ديريك تشوفين، يمكن أن يجمع أكثر من مليون دولار من الفوائد على مدى العقود الثلاثة المقبلة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وكان قد تم طرد تشوفين، (44 سنة) في مايو/أيار الفائت،&nbsp;بعد يوم واحد من تسجيل فيديو أظهره يضع ركبته على عنق فلويد لمدة ثماني دقائق و46 ثانية، أثناء الاعتقال، ما أدى إلى وفاة فلويد. ويواجه شوفين الآن تهمة القتل من الدرجة الثانية ويحتجز بكفالة تبلغ قيمتها مليون دولار. ووجهت إلى ثلاثة ضباط آخرين أطلقوا النار بتهمة المساعدة والتحريض على القتل.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وولاية مينيسوتا هي واحدة من عدة ولايات ليس لديها قانون يلغي أو يخفض معاش الموظفين العموميين إذا أدينوا بجنايات تتعلق بعملهم. وهذا يعني أن تشوفين الذي عمل في قسم شرطة مينيابوليس منذ عام 2001،&nbsp;&nbsp;يمكن أن يكون مؤهلاً للحصول على معاشات تقاعدية - ممولة جزئيًا من قبل دافعي الضرائب - حتى لو أدين وسجن. يواجه شوفين ما يصل إلى 40 عاماً خلف القضبان إذا أدين.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_nuazx9xhu.jpg\" style=\"height:406px; width:605px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت حسابات عربية وأجنبية،&nbsp;على وسائل التواصل الاجتماعي، منذ 13 يونيو/حزيران الجاري،&nbsp;خبراً مفاده أن الشرطي الأبيض في مدينة مينيابوليس المتهم بقتل الأميركي من أصل أفريقي جورج فلويد تحت ركبته، خنقاً،&nbsp;بعد تقديم الأخير ورقة مالية مزورة إلى متجر أغذية، سيحصل على استحقاقات مالية خاصة بتقاعده تصل إلى أكثر من مليون دولار.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_72wm8rh0d.jpg\" style=\"height:635px; width:582px\" /></span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_yu5s8i3wn.jpg\" style=\"height:420px; width:482px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_13ts5ci0l.jpg\" style=\"height:275px; width:605px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_fwphfzxbn.jpg\" style=\"height:754px; width:503px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 350,
+        "left": 3.0555419921875,
+        "path": "articles/1592206177GettyImages-1219988812.jpg",
+        "top": 29.3359375,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1592206177GettyImages-1219988812.jpg",
+        "width": 623
+    },
+    "post_date": "2020-06-15T08:53:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/groups/2258776467737755/permalink/2765494823732581/",
+            "name": "Zamano Al-abid",
+            "path": "published/0_1592206177_زمانو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=2586931021520833&set=a.1493097024237577&type=3&theater",
+            "name": "Youssef Sbai",
+            "path": "published/1_1592206177_يوسف سابي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/sidimohamed7331Hotmail.fr/photos/a.296739000659134/1182509835415375/?type=3&theater",
+            "name": "صوت الضمير السمراوي",
+            "path": "published/2_1592206177_صوت الضمير.jpg"
+        },
+        {
+            "link": "https://twitter.com/LisasLuck/status/1271611758768054272",
+            "name": "Lisa Fink ",
+            "path": "published/3_1592207449_ليزا.jpg"
+        },
+        {
+            "link": "https://twitter.com/GovtMoons/status/1271808067420786690",
+            "name": "@GovtMoons",
+            "path": "published/4_1592207450_ؤؤؤؤؤ.jpg"
+        }
+    ],
+    "result": "true",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.cbsnews.com/news/derek-chauvin-police-officer-charged-george-floyd-death-1-million-pension-benefits-minneapolis/",
+            "name": "cbs news",
+            "path": "sources/0_1592206177_سسسيييببب.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل سيحصل قاتل فلويد على مليون دولار؟",
+    "updated_at": "2020-09-25 17:29:08",
+    "url_path": "/factcheck/2020/06/15/هل-سيحصل-قاتل-فلويد-على-مليون-دولار"
+}

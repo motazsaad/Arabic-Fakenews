@@ -1,0 +1,111 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 688,
+    "author": {
+        "fullname": "خالد إسماعيل",
+        "id": "5e59256dd4a2295224257db3",
+        "photo": {
+            "name": "1582900589_صورة 2.jpg",
+            "path": "authors/1582900589_صورة 2.jpg"
+        }
+    },
+    "caption": "الصورة في جنازة الضابط كمال كورتول (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة لأفراد من الشرطة والجيش التركي يؤدون الصلاة في باحة مسجد آيا صوفيا لأول مرة منذ 86 عام.</p>\r\n",
+    "country": "TR",
+    "created_at": "2020-07-25 11:13:19",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f1be99f163be306d45b1c1e",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة المتداولة ووجد أنها مضللة، إذ لا علاقة لها بالصلاة الأولى في مسجد آيا صوفيا في يوم 24 يوليو/تموز، وإنما تعود لتاريخ 17 يوليو/ تموز الجاري، في جنازة الضابط التركي كمال كورتول الذي قضى خلال عملية إرهابية وقعت في منطقة برفاري الواقعة في مدينة هاتاي التركية. وقد نشرت وسائل إعلامية، من بينها وكالة الأناضول التركية الرسمية، <a href=\"https://www.aa.com.tr/tr/pg/foto-galeri/siirtte-sehit-dusen-ozel-harekat-polisi-kurtul-son-yolculuguna-ugurlandi\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">الصورة الأصلية</a> ضمن مجموعة صور لمراسم الجنازة &nbsp;العسكرية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_q4qxhout9.jpg\" style=\"height:462px; width:547px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_gnwc6x78g.jpg\" style=\"height:599px; width:541px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_swo3bk58g.jpg\" style=\"height:437px; width:546px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "آيا صوفيا",
+        "الجيش التركي",
+        "أردوغان"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول حسابات وصفحات على مواقع التواصل الاجتماعي، منذ يوم الجمعة 24 يوليو/تموز الجاري، صورة لأفراد بزي عسكري يؤدون الصلاة في إحدى الساحات، مع الادعاء بأنهم أفراد من الشرطة والجيش التركي وهم يؤدون الصلاة في باحة مسجد آيا صوفيا. &nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_lltecica6.jpg\" style=\"height:594px; width:542px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_45qfss9fk.jpg\" style=\"height:556px; width:539px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 338,
+        "left": 3.0999755859375,
+        "path": "articles/1595664798غلاف.jpg",
+        "top": 28.0166015625,
+        "totalHeight": 423,
+        "totalWidth": 607,
+        "watermark_path": "articles/watermark-1595664798غلاف.jpg",
+        "width": 601
+    },
+    "post_date": "2020-07-25T11:08:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/115215823208307/photos/a.122478909148665/341871700542717/",
+            "name": "حراك البرج ⵃⵔⴰⴽ ⵍⴱⵓⵔⵊ",
+            "path": "published/0_1595665007_نشر عن ذلك 2.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo?fbid=2726978927585907&set=a.1744050739212069",
+            "name": "Chalbi Ali",
+            "path": "published/1_1595665007_نشر عن ذلك 3.jpg"
+        },
+        {
+            "link": "https://tinyurl.com/y3thhn2l",
+            "name": "محمد حسن السعيدي",
+            "path": "published/2_1595665007_نشر عن ذلك 4.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/koll.chay.belmakchouff2/photos/pcb.185652049654103/185651932987448",
+            "name": "كل شيء بالمكشوف 2",
+            "path": "published/3_1595665007_نشر عن ذلك 5.jpg"
+        },
+        {
+            "link": "https://twitter.com/muhanadlabib/status/1286698113022021632",
+            "name": "مهند الدالاتي",
+            "path": "published/4_1595665007_نشر عن ذلك 6.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo?fbid=1021637991585333&set=a.108603126222162",
+            "name": "Habaci Mouhmd",
+            "path": "published/5_1595665007_نشر عن ذلك 1.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.aa.com.tr/tr/pg/foto-galeri/siirtte-sehit-dusen-ozel-harekat-polisi-kurtul-son-yolculuguna-ugurlandi",
+            "name": "وكالة الأناضول للأنباء",
+            "path": "sources/0_1595664798_مصدر 1.jpg"
+        },
+        {
+            "link": "https://www.yenicaggazetesi.com.tr/turkiye-sehitlerini-ugurladi-290019h.htm",
+            "name": "Yeniçağ",
+            "path": "sources/1_1595664798_مصدر 2.jpg"
+        },
+        {
+            "link": "https://www.korfezgazete.com/siirtte-sehit-dusen-ozel-harekat-polisi-anil-kemal-kurtul-torenle-son-yolculuguna-ugurlandi/",
+            "name": "korfezgazete",
+            "path": "sources/2_1595664798_مصدر 3.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصورة ليست لأفراد من الأمن التركي يؤدون الصلاة في آيا صوفيا",
+    "updated_at": "2020-09-25 13:38:08",
+    "url_path": "/factcheck/2020/07/25/هذه-الصورة-ليست-لأفراد-من-الأمن-التركي-يؤدون-الصلاة-في-آيا-صوفيا"
+}

@@ -1,0 +1,116 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 2,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1532,
+    "author": {
+        "fullname": "هيثم جودية",
+        "id": "5e295291d4a2296ff0065605",
+        "photo": {
+            "name": "1579766417_هيثم .JPG",
+            "path": "authors/1579766417_هيثم .JPG"
+        }
+    },
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة تُظهر عبور حوت عملاق يرافقه صغيره تحت أحد الجسور في كندا.</p>\r\n",
+    "country": "CA",
+    "created_at": "2020-01-23 11:29:38",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e295972d4a22912af2e15e3",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الصورة غير صحيحة، فبعد التحقق وجد &quot;مسبار&quot; أنّ فناناً تركياً يُدعى أوموت رجبر قام بتركيبها. وأشار رجبر حينما نشر الصورة على حسابه الشخصي على &quot;إنستغرام&quot; في 26 يوليو/ تموز 2019، إلى أنّه استخدم برنامج الفوتوشوب في تركيبها عبر الدمج بين صورتين، إحداهما لجسر سونجاي جوهور في ماليزيا، وصورة الحوتين من صفحة على &quot;إنستغرام&quot; تُدعى <span dir=\"LTR\">pixabay</span>. وتجدر الإشارة أنّ الفنان التركي نشر على حسابه على <span dir=\"LTR\">Behance</span> مقطع فيديو شرح فيه كيف ركّب صورة الحوت وصغيره وهما يعبران من تحت الجسر.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"Picture_x0020_9\" src=\"https://images-prod.misbar.com/articlebody/investigation_613190186199649f8fc62597081ce25a.jpg\" style=\"height:264pt; width:414.75pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"Picture_x0020_8\" src=\"https://images-prod.misbar.com/articlebody/investigation_9a949275b24114bb67461410f42d0c5f.jpg\" style=\"height:199.5pt; width:355.5pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وبعد البحث تأكّد &quot;مسبار&quot; أنّ المصدر الأصلي لصورة الحوتين هو موقع &quot;الرابطة الوطنية للمحيطات والغلاف الجوي&quot;، وذكر موقع <span dir=\"LTR\">Wabe</span> أنها التُقطت في المحيط الأطلسي في شهر فبراير/ شباط عام 2009 قبالة الساحل الشرقي للولايات المتحدة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"Picture_x0020_5\" src=\"https://images-prod.misbar.com/articlebody/investigation_b26aaef0a6c592a6faf0b14edb488170.jpg\" style=\"height:208.5pt; width:333pt\" /> </span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">شارك العديد من مستخدمي وسائل التواصل الاجتماعي صورة نشرتها عشرات الصفحات، زعموا أنها التُقطت لحوت ضخم يرافقه صغيره وهما يعبران من تحت أحد الجسور في كندا. يظهر في الصورة التي نسبها بعض الناشرين إلى تلفزيون <span dir=\"LTR\">TVA</span> الكندي، كيف يوشك ذيل الحوت العملاق أن يصطدم بالجسر.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"Picture_x0020_6\" src=\"https://images-prod.misbar.com/articlebody/origin_0ae39538d96075f918ea28c56fe76a02.jpg\" style=\"height:333.75pt; width:262.5pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"Picture_x0020_4\" src=\"https://images-prod.misbar.com/articlebody/origin_adb763e1b8b308bbd555ba59b7112de2.jpg\" style=\"height:347.25pt; width:255.75pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"Picture_x0020_2\" src=\"https://images-prod.misbar.com/articlebody/origin_df2464183d56ae736ec2bd1ef0368e39.jpg\" style=\"height:309.75pt; width:228.75pt\" /> </span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1579769018صورة الحوتين تحت الجسر.jpg"
+    },
+    "post_date": "2020-01-23T11:00:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/interestingsci1/status/1182694498754813954",
+            "name": "Science And Nature",
+            "path": "published/0_1579768529_siencenuture-logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Energysworld/photos/a.726676457497139/1279063158925130/?type=3&theater",
+            "name": "عالم الطاقة",
+            "path": "published/1_1579768178_عالم الطاقة-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Enaeltounsi/posts/2324056091017696",
+            "name": "أنا التونسي",
+            "path": "published/2_1579768178_أناا لتونسي-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=10157794986294274&set=a.157404554273&type=3&theater",
+            "name": "Serge Simard",
+            "path": "published/3_1579768178_sergisemard-logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/plespost/status/1155772857986760704",
+            "name": "فلسطين بوست",
+            "path": "published/4_1579768178_فلسطين بوست-لوغو.jpg"
+        },
+        {
+            "link": "https://twitter.com/FarrukhFL/status/1175456039929634817?ref_src=twsrc%5Etfw",
+            "name": "Farrukh Shahzad Chauhan",
+            "path": "published/5_1579768178_Farrukh Shahzad Chauhan-logo.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.instagram.com/p/B0Y10WEo4Tt/?utm_source=ig_embed",
+            "name": "umutrecberart",
+            "path": "sources/0_1579768177_umut-logo.jpg"
+        },
+        {
+            "link": "https://www.behance.net/gallery/85293247/Mother-(photo-manipulation-work)",
+            "name": "Behance",
+            "path": "sources/1_1579768177_behance-logo.jpg"
+        },
+        {
+            "link": "https://www.sde22.com/our-bridge",
+            "name": "Sde22",
+            "path": "sources/2_1579768177_sde-logo.jpg"
+        },
+        {
+            "link": "https://unsplash.com/photos/-gS54SWrHMg",
+            "name": "unsplash",
+            "path": "sources/3_1579768177_unsplash-logo.jpg"
+        },
+        {
+            "link": "https://oceanservice.noaa.gov/facts/rtwhale.html",
+            "name": "NOAA",
+            "path": "sources/4_1579768177_Noaa.jpg"
+        },
+        {
+            "link": "http://cp.wabe.org/post/protected-right-whale-habitat-georgia-coast-may-expand",
+            "name": "Wabe",
+            "path": "sources/5_1579768178_wabe_atlanta_npr_station_large.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "حوتان يعبران تحت جسر في كندا... ما حقيقة الصورة؟",
+    "updated_at": "2020-09-25 14:54:52",
+    "url_path": "/factcheck/2020/01/23/حوتان-يعبران-تحت-جسر-في-كندا-ما-حقيقة-الصورة"
+}

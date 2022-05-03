@@ -1,0 +1,94 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 2,
+        "fb": 1,
+        "tw": 1
+    },
+    "amount_sources": 0,
+    "amount_visits": 2720,
+    "author": {
+        "fullname": "حمزة حسن",
+        "id": "5e318864d4a2294d2d7209c4",
+        "photo": {
+            "name": "1580304484_hamza-hasan.jpg",
+            "path": "authors/1580304484_hamza-hasan.jpg"
+        }
+    },
+    "category": "Health",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">أول مصري يموت بفايروس كورونا.</span></p>\r\n",
+    "country": "EG",
+    "created_at": "2020-01-29 16:25:22",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e3187c2d4a2294d2d7209c3",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">قال السفير المصري في الصين، أسامة المجدوب، إنه أجرى عدة اتصالات بالمسؤولين في العاصمة بكين، للتأكد من أنباء وفاة مواطن مصري في الصين جرّاء إصابته بفيروس كورونا. أكّدت الاتصالات، وفقاً لموقع </span><a href=\"https://www.dostor.org/2984079\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>الدستور</u></span></a><span style=\"color:#000000\">، عدم صحة وفاة أي شخص من البعثة المصرية في مدينة ووهان.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">كما وأن الصورة المنشورة مع الخبر تعود لشاب مصري لقي مصرعه في أمريكا يوم 29 يناير/كانون الثاني من عام 2018، ويُدعى أندرو سمير مهني (28 سنة)، الذي سافر إلى أميركا&nbsp;عام 2013 ثم التحق بالعمل في صيدلية مؤسسية تسمّى &quot;رايت ريد&quot; في ولاية ميرلاند.</span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "كورونا",
+        "الصين",
+        "مصر"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تداولت مجموعة من الصفحات على مواقع التواصل الاجتماعي نبأً ادّعت فيه وفاة الشاب المصري محمد إبراهيم البربري في الصين بفايروس كورونا، والذي كان يدرس في كلية الطب البشري في مدينة ووهان الصينية.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\">&nbsp;</span><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_21ff0rxw2.jpg\" style=\"height:274px; width:411px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_mb6bemjqu.jpg\" style=\"height:554px; width:400px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 352,
+        "left": 5.433349609375,
+        "path": "articles/1580304322GettyImages-1194364594.jpg",
+        "top": 2.8000030517578125,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "width": 626
+    },
+    "post_date": "2020-01-29T15:20:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.youtube.com/watch?v=K4jjW3irXkI",
+            "name": "مصر TV",
+            "path": "published/0_1580304322_مصر TV - لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Mahalla.News2/photos/a.2285668731670394/2565635597007038/?type=3&theater",
+            "name": "شبكة أخبار المحلة اليوم",
+            "path": "published/1_1580304322_شبكة أخبار المحلة اليوم - لوغو.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.dostor.org/2984079",
+            "name": "الدستور",
+            "path": "sources/0_1580304321_الدستور - لوغو.jpg"
+        },
+        {
+            "link": "https://alwafd.news/%D8%A7%D9%84%D9%85%D8%BA%D8%AA%D8%B1%D8%A8%D9%88%D9%86-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D9%88%D9%86/2770741-%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D9%84%D8%A7-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A8%D9%81%D9%8A%D8%B1%D9%88%D8%B3-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC",
+            "name": "بوابة الوفد الإلكترونية",
+            "path": "sources/1_1580304321_بوابة الوفد الإلكترونية - لوغو.jpg"
+        },
+        {
+            "link": "http://www.ahram-canada.com/132376/",
+            "name": "الأهرام الجديد الكندي",
+            "path": "sources/2_1580304322_الأهرام الجديد الكندي - لوغو.jpg"
+        },
+        {
+            "link": "https://www.the-chesapeake.com/2018/02/04/murder-usa-gang-of-three-charged-in-homicide-of-andrew-kolta-victim-was-shot-dead-in-front-of-his-apartment-building-during-armed-robbery/",
+            "name": "The Chesapeake Today",
+            "path": "sources/3_1580304322_The Chesapeake Today - logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "حقيقة وفاة أول مصري بفايروس كورونا",
+    "updated_at": "2020-09-23 12:39:21",
+    "url_path": "/factcheck/2020/01/29/حقيقة-وفاة-أول-مصري-بفايروس-كورونا"
+}

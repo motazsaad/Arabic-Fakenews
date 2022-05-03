@@ -1,0 +1,101 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1763,
+    "author": {
+        "fullname": "رشيد عفيف",
+        "id": "5ec4e956db291667784c4bc4",
+        "photo": {
+            "name": "1589963094_رشيد صورة.jpg",
+            "path": "authors/1589963094_رشيد صورة.jpg"
+        }
+    },
+    "caption": "يظهر في المقطع ممثل كوميدي وليس شرطيًّا (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">شرطي أميركي يوجّه رسالة لدونالد ترامب، يهدّده ويسبّه فيها، ردًّا على مقتل جورج فلويد.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-06-12 20:35:24",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ee3bcdcd6e4a9538a7f8ac4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من المقطع المتداول وتبين أنه مضلّل، لأنّ المتحدث في المقطع ليس شرطيًّا أميركيًّا، وإنما يُظهر ممثلاً كوميديًّا وصانع محتوى من غامبيا، يُدعى Bah Ebou، ويُقيم في الولايات المتحدة الأميركية. وتبين أنّه ارتدى لباس الشرطة التمثيليّ في مقاطع فيديو أخرى سجّلها في وقت سابق. ونشر Bah Ebou <a href=\"https://www.facebook.com/baba.ja.7/videos/10216792394897618/\" style=\"color:blue; text-decoration:underline\">مقطع الفيديو</a> الموجّه لترامب على صفحته في موقع فيسبوك بتاريخ 31 مايو<span dir=\"LTR\" lang=\"FR\">/</span>أيار الفائت.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><iframe frameborder=\"0\" height=\"923\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbaba.ja.7%2Fvideos%2F10216792394897618%2F&amp;show_text=1&amp;width=267\" style=\"border:none;overflow:hidden\" width=\"267\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "ترامب",
+        "جورج فلويد",
+        "شرطي أميركي"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات على مواقع التواصل الاجتماعي، حديثاً، مقطع فيديو لشخص ادّعت أنه مواطن أميركي ويرتدي زي الشرطة، يوجّه رسالة للرئيس الأميركي دونالد ترامب بعد مقتل جورج فلويد، ويهدّده ويسبّه. ووصفت هذه الصفحات رسالة الشرطي المتداولة بالقوية، بعد أن تطرّق فيها لتدمير الولايات المتّحدة للعراق وأفغانستان وسورية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><iframe frameborder=\"0\" height=\"629\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FEnglishcoachwaleed%2Fvideos%2F877467769397116%2F&amp;show_text=1&amp;width=459\" style=\"border:none;overflow:hidden\" width=\"459\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><iframe frameborder=\"0\" height=\"490\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fmoi.gov.sy%2Fvideos%2F265239278013671%2F&amp;show_text=1&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 238,
+        "left": 53.08331298828125,
+        "path": "articles/1591983322غلاف.jpg",
+        "top": 92.300048828125,
+        "totalHeight": 423,
+        "totalWidth": 530,
+        "watermark_path": "articles/watermark-1591983322غلاف.jpg",
+        "width": 424
+    },
+    "post_date": "2020-06-12T20:24:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/abuhasan1up5ash/status/1268157154290262018",
+            "name": "علاء الشموسي",
+            "path": "published/0_1591984111_علاء.jpg"
+        },
+        {
+            "link": "https://twitter.com/X93PpDwAVpEFOQz/status/1268133507441754113",
+            "name": "أم حنين",
+            "path": "published/1_1591983322_أم حنين.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Englishcoachwaleed/videos/877467769397116/",
+            "name": "مدرب اللغة وليد خالد",
+            "path": "published/2_1591983322_مدرب.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/moi.gov.sy/videos/265239278013671/",
+            "name": "وزارة الإعلام السورية",
+            "path": "published/3_1591983322_وزارة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ameer81/videos/2580102708912065/",
+            "name": "Ameer khan",
+            "path": "published/4_1591983322_أمير.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=10216792398217701&id=1095428178#",
+            "name": "Bah ebou",
+            "path": "sources/0_1591983322_baba.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/channel/UCW4RvzxaGE5npGVSG4qrcxg",
+            "name": "SERING THIAPATHIOLY",
+            "path": "sources/1_1591983322_sering.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "شرطي أميركي يوجّه رسالة إلى ترامب.. حقيقة الفيديو",
+    "updated_at": "2020-09-25 17:28:37",
+    "url_path": "/factcheck/2020/06/12/شرطي-أميركي-يوجه-رسالة-إلى-ترامب-حقيقة-الفيديو"
+}

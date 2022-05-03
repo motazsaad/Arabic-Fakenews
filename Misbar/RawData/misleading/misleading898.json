@@ -1,0 +1,98 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1953,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "الصورة التقطت قبل محاولة الانقلاب (تويتر)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة للرئيس التركي رجب طيب أردوغان وهو يصلي في القصر الرئاسي في العاصمة أنقرة شكراً لله ليلة فشل الانقلاب.</p>\r\n",
+    "country": "",
+    "created_at": "2020-07-15 16:16:34",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f0f01b2163be3068e2c53db",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة المتداولة ووجد أنّ الادعاء مضلل. إذ نشرتها وسائل إعلام تركية، وقالت إنها للرئيس التركي أردوغان خلال أداءه صلاة جماعة في القصر الرئاسي في منطقة &quot;بشتبيه&quot; في العاصمة أنقرة. وأوضحت وسائل الإعلام أنّ الصورة التقطت بتاريخ 7 يوليو/تموز عام 2015، أي قبل عام من حدوث محاولة <span style=\"color:blue\"><u><a href=\"https://www.aljazeera.net/encyclopedia/events/2016/7/16/%D9%83%D9%8A%D9%81-%D8%A8%D8%AF%D8%A3%D8%AA-%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8%D9%8A%D8%A9-%D8%A8%D8%AA%D8%B1%D9%83%D9%8A%D8%A7\" style=\"color:blue; text-decoration:underline\">الانقلاب</a></u></span> الفاشلة في تركيا، وليس لها أي علاقة بالحدث.<br />\r\nويأتي انتشار الصورة تزامناً&nbsp;مع ذكرى محاولة الانقلاب الفاشلة في تركيا، اليوم، والذي حدث&nbsp;بتاريخ 15 يوليو/تموز عام 2016. والجدير بالذكر أنّ الصورة تنتشر كل عام بالادعاء نفسه.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_4q3thu3d6.jpg\" style=\"height:457px; width:602px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تتداول حسابات على مواقع التواصل الاجتماعي منذ أمس 14 يوليو/تموز، صورة للرئيس التركي رجب طيب أردوغان وهو يؤم الصّلاة بمجموعة من الأشخاص. وادّعت أن الصلاة كانت في القصر الرئاسي، ليلة فشل الانقلاب ضده بتاريخ 15 يوليو/تموز 2016.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_rnul58wpb.jpg\" style=\"height:580px; width:439px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_cyl5srn9q.jpg\" style=\"height:438px; width:448px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 422,
+        "left": 0.7901611328125,
+        "path": "articles/1594818994Ec6EUO6XoAAfInf.jpg",
+        "top": 0.888671875,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1594818994Ec6EUO6XoAAfInf.jpg",
+        "width": 750
+    },
+    "post_date": "2020-07-15T16:14:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/Noor_sabri2019/status/1283108429326934018",
+            "name": "نور صبري",
+            "path": "published/0_1594818994_نور.jpg"
+        },
+        {
+            "link": "https://twitter.com/dael_Alqassssmi/status/1283111289926160384",
+            "name": "دائل القاسمي",
+            "path": "published/1_1594819099_دائل.jpg"
+        },
+        {
+            "link": "https://twitter.com/Omar_Madaniah/status/754647235577651200",
+            "name": "عمر مدنيه",
+            "path": "published/2_1594819099_عمر مدنيه.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Lamour.311/posts/1096334687071997?__xts__[0]=68.ARBEucnQ3ZT_VEdnCjJRicA69oEIYO9ZxopeDFh0hhQOdXP6pqX56HuaPtanZN5b4UcpGov5a8Sj3PZp-9RJL2WFlSPRuw-wJR1NGw-U_IhiSlqGVYUortU0pwVCm-Vy9kJiZg_L1MewlMcghLaNnS5amlDJPF1Hu1AdMdm5PdXNsetvkywVxdXO1eLcDjYokTXE_LrF1vjggrJ7y5INbRyy0KXOdkK5LX3c9CeI31MapRkQiBUeRLRK7kJDmptSy7xu5shF2GDQQL4FJOjt-Vk-RWUKcRyzkB2lyulW5a0sBHVfydEwUJEsN7fZYWDQ7Fula_ZnRijqTvt_uDedOoDQaQ&__tn__=-R",
+            "name": "L'amour à l'Algérienne",
+            "path": "published/3_1594819100_L'amour à l'Algérienne.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/dztubeofficiel/posts/719236714881136?__xts__[0]=68.ARD_ZP-7CFgLHHLOdNQj2iUCU4gA_Uq8HUCWLnz5Pgp_X4zO09pmdedBzDI0snsZT582dI_Y-mbPY4Dyt6BBWMZBhj6Ow8fvMqjW0Q_PRKJBDnlG4Ax5plIJ6Es5VfCvOpP5SKSD_z16-nWRybMvQiKpJ5jdOkBhHAR3jlhqQpWolavX73-OXmOvv_WIjVhKfMOVoNQDZtDIzde1RIMz37PBLbfUvulW4MS8TIqPkBfy-I2Pa148ECAtg2nq64cDBa7Kys8axVm8cY2wIWTWaDQ80rzMkdi7-OdLHyMtukv58rPYa4Ui8Cc9O6cLRQUOZ9rChvVR9XMO0TgeNINLmtY&__tn__=-R",
+            "name": "Buzby",
+            "path": "published/4_1594819100_Buzby.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.sozcu.com.tr/2015/gundem/ankarayi-karistiran-fotograf-892333/",
+            "name": "Sözcü",
+            "path": "sources/0_1594818994_Sözcü.jpg"
+        },
+        {
+            "link": "https://www.haberler.com/cumhurbaskani-erdogan-danismanlarina-namaz-7538238-haberi/",
+            "name": "haberler",
+            "path": "sources/1_1594819100_haberler.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصورة ليست لأردوغان وهو يصلي ليلة الانقلاب الفاشل",
+    "updated_at": "2020-09-25 20:39:26",
+    "url_path": "/factcheck/2020/07/15/هذه-الصورة-ليست-لأردوغان-وهو-يصلي-ليلة-الانقلاب-الفاشل"
+}

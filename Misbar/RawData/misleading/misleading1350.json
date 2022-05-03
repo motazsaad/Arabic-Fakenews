@@ -1,0 +1,85 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2046,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "كاهنة بهلول، باريس (Getty)",
+    "category": "Spirituality & Religion",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">بعد قرار رئيس جامعة القاهرة، وفي سابقة، تؤمُّ اليومَ أستاذة جامعية بالمصلّين في مسجد الجامعة، تجديداً للخطاب الديني.</span></p>\r\n",
+    "country": "EG",
+    "created_at": "2020-02-26 15:42:03",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e56679bd4a2297bb23e5e33",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقّق &quot;مسبار&quot; من الصورة ووجد أنها مضللّة، وتُظهر الباحثة في الشؤون الإسلامية، </span><a href=\"https://www.gettyimages.com/detail/news-photo/french-female-imam-kahina-bahloul-leads-a-friday-prayer-in-news-photo/1202245511?adppopup=true\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>كاهنة بهلول</u></span></a><span style=\"color:#000000\">، وهي تؤمّ صلاةً مشتركة بين الجنسين، بتاريخ 21 فبراير/شباط الجاري، في العاصمة الفرنسية باريس. ولا صلة للصورة بأي أستاذة في جامعة القاهرة، أو بقرار رئيس الجامعة </span><a href=\"https://www.misbar.com/factcheck/5e3144c9d4a2297da5773733\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>بحظر</u></span></a><span style=\"color:#000000\"> ارتداء أعضاء هيئة التدريس للنقاب داخل الجامعة.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">أما بالنسبة لشعار قناة الجزيرة على الصورة المتداولة، فقد رُكّب على الصورة وليس أصليًّا.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_ud5xa4w13.jpg\" style=\"height:400px; width:624px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "جامعة القاهرة",
+        "الإسلام",
+        "النقاب",
+        "حظر النقاب",
+        "كاهنة بهلول"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تناقلت صفحات على مواقع التواصل الاجتماعي خبراً مفاده أن أستاذة في جامعة القاهرة أمَّت بالمصلّين في مسجد الجامعة، وذلك بعد قرار رئيس الجامعة بحظر ارتداء النقاب لأعضاء الهيئة التدريسية داخل الجامعة. وحملت الصورة التي رافقت الخبر شِعار قناة الجزيرة الإخبارية.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_kxckgc9ew.jpg\" style=\"height:505px; width:399px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_lm00k3z3y.jpg\" style=\"height:466px; width:397px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1582722943ghghghgh.jpg"
+    },
+    "post_date": "2020-02-26T14:33:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/KOLLORAIEH/posts/559740034887365",
+            "name": "كله رايح",
+            "path": "published/0_1582720923_كله رايح-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=177061560261415&id=100038727154255",
+            "name": "عرجون القديم",
+            "path": "published/1_1582720923_عرجون القديم-لوغو.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.gettyimages.com/detail/news-photo/french-female-imam-kahina-bahloul-leads-a-friday-prayer-in-news-photo/1202245511?adppopup=true",
+            "name": "Getty Images",
+            "path": "sources/0_1582720923_getty-logo.jpg"
+        },
+        {
+            "link": "https://www.bbc.com/arabic/middleeast-51557881",
+            "name": "BBC",
+            "path": "sources/1_1582720923_BBC-Logo.jpg"
+        },
+        {
+            "link": "https://www.albawaba.com/node/liberal-islam-or-western-influence-female-imam-leads-prayer-paris-first-mixed-mosque",
+            "name": "البوابة",
+            "path": "sources/2_1582720923_البوابة-لوغو.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صورة مضلّلة لأستاذة جامعية تؤمُّ صلاة في مصر",
+    "updated_at": "2020-09-25 08:31:21",
+    "url_path": "/factcheck/2020/02/26/صورة-مضللة-لأستاذة-جامعية-تؤم-صلاة-في-مصر"
+}

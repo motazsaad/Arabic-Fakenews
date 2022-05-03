@@ -1,0 +1,98 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2623,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "الصورة الأصلية تعود لمسيرة في جنوب إفريقيا (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">صور الزعيم العقيد معمر القذافي تُرفع فى أميركا.</span></p>\r\n",
+    "country": "US",
+    "created_at": "2020-06-09 22:39:56",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5edfe58cd6e4a91a5a3644a8",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من الصورة المتداولة ووجد أنها مضللة، لأنّ </span><a href=\"https://www.gettyimages.ae/detail/news-photo/the-youth-wing-of-the-ruling-african-national-congress-news-photo/130622761?adppopup=true\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>الصورة الأصلية</u></span></a><span style=\"color:#000000\"> تعود لمسيرة في جنوب إفريقيا، عام 2011، للجناح الطلّابي في حزب المؤتمر الوطني الإفريقي للمطالبة بتوفير الوظائف. وحمل بعض المشاركين في المسيرة، بالفعل، صوراً للقذافي &quot;المعادي للإمبريالية&quot;.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_ab7a5084b.jpg\" style=\"height:479px; width:566px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_d2whdzmff.jpg\" style=\"height:477px; width:564px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل صفحات على مواقع التواصل الاجتماعي، مؤخراً، صوراً تدّعي أنها تُظهر مجموعة من المحتجّين في الولايات المتحدة الأميركية وهم يرفعون صورة الرئيس الليبي الأسبق معمّر القذافي، إلى جانب نيلسون مانديلا، ضمن مسيرات حملة Black Lives Matter. وذلك دلالة على محبّة القذافي في قلوب الملايين، بحسب ناشري الخبر.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"614\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D1056462504748209%26id%3D100011534088289&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"445\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D715659722595031%26id%3D100024530289006&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 375,
+        "left": 3.01666259765625,
+        "path": "articles/1591731595GettyImages-130622761.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 672,
+        "watermark_path": "articles/watermark-1591731595GettyImages-130622761.jpg",
+        "width": 666
+    },
+    "post_date": "2020-06-10T08:32:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=715659722595031&id=100024530289006",
+            "name": "النمر الليبي",
+            "path": "published/0_1591731594_النمر.jpg"
+        },
+        {
+            "link": "https://twitter.com/theseelibya/status/1267956847811715077",
+            "name": "سعاد بني غازي",
+            "path": "published/1_1591731594_سعاد.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1056462504748209&id=100011534088289",
+            "name": "سليمان فالح",
+            "path": "published/2_1591731594_سليمان.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1420241534812908&id=1131218947048503",
+            "name": "اخبار مدينة غريان",
+            "path": "published/3_1591731594_أخبار.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=3052173414830137&id=1536678703046290&__tn__=-R",
+            "name": "الصفحة الرسمية للإعلامي ماهر قاسم",
+            "path": "published/4_1591731595_الصفحة.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.gettyimages.ae/detail/news-photo/the-youth-wing-of-the-ruling-african-national-congress-news-photo/130622761?adppopup=true",
+            "name": "Getty Images",
+            "path": "sources/0_1591731595_getty.jpg"
+        },
+        {
+            "link": "https://www.gettyimages.ae/detail/news-photo/the-youth-wing-of-the-ruling-african-national-congress-news-photo/130622762?adppopup=true",
+            "name": "Getty Images",
+            "path": "sources/1_1591731595_getty.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ظهور صور القذافي في الاحتجاجات الأميركية.. حقيقة الخبر",
+    "updated_at": "2020-09-25 20:34:40",
+    "url_path": "/factcheck/2020/06/09/ظهور-صور-القذافي-في-الاحتجاجات-الأميركي-حقيقة-الخبر"
+}

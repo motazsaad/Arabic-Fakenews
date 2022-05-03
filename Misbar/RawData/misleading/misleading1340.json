@@ -1,0 +1,92 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 969,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "التفجير استهدف جنازة في حلب عام 2017 (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">فيديو يُظهر قصف القوات التركية لموكب تشييع أحد ضباط جيش النظام السوري.</p>\r\n",
+    "country": "SY",
+    "created_at": "2020-03-03 12:47:42",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e5e27bed4a2296584466c43",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الادعاء غير&nbsp;صحيح، &quot;مسبار&quot; تحقق من الفيديو ووجده منشوراً على موقع يوتيوب، منذ أبريل/ نيسان عام 2017، ويصوّر انفجاراً استهدف موكب تشييعٍ في حي صلاح الدين في مدينة حلب كما ورد في التعليق المرافق للفيديو.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/vbDGxUxn8Lo\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداول مستخدمون على موقعي فيسبوك ويوتيوب، مقطعاً مصوّراً نال عشرات آلاف المشاهدات، زعموا أنّه يُظهر قصف القوات التركية بطائرة مسيّرة لموكب تشييع ضابط في جيش النظام السوري.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_znbzfwr8o.jpg\" style=\"height:427px; width:585px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_nwpafqg6m.jpg\" style=\"height:297px; width:582px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_7h2re6gur.jpg\" style=\"height:360px; width:688px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 366,
+        "left": 5.562744140625,
+        "path": "articles/1583228862GettyImages-1204709958.jpg",
+        "top": 3,
+        "totalHeight": 423,
+        "totalWidth": 659,
+        "width": 651
+    },
+    "post_date": "2020-03-03T12:40:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/hona.aljanoob/videos/969663956761828/?v=969663956761828&external_log_id=a03bc0ea51ca9c015e82708bdf3a2a6f&q=%D8%AA%D8%B4%D9%8A%D9%8A%D8%B9%20%D8%B6%D8%A7%D8%A8%D8%B7%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%AC%D9%8A%D8%B3%20%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%20%D9%82%D8%B5%D9%81%20%D8%AA%D8%B1%D9%83%D9%8A",
+            "name": "وكالة هنا الجنوب الإخبارية",
+            "path": "published/0_1583228861_وكالة هنا الجنوب الإخبارية-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100011245693154/videos/1015685452149635/",
+            "name": "فتى الحق المقاوم",
+            "path": "published/1_1583228861_فتى الحق المقاوم-لوغو.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=Ars6WzYhfes&feature=youtu.be&fbclid=IwAR1Nsd0IKWycudcOrdkLv4vMK5FivfH8CB4z5hascPm02x2BaCbh2VGmbfw",
+            "name": "kais salloum",
+            "path": "published/2_1583228861_kais salloum-logo.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=sP3GYMPzlPs",
+            "name": "الشبكة الإخبارية",
+            "path": "published/3_1583228861_الشبكة الإخبارية-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/102526097873997/videos/131643701578811/?v=131643701578811&external_log_id=a03bc0ea51ca9c015e82708bdf3a2a6f&q=%D8%AA%D8%B4%D9%8A%D9%8A%D8%B9%20%D8%B6%D8%A7%D8%A8%D8%B7%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%AC%D9%8A%D8%B3%20%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%20%D9%82%D8%B5%D9%81%20%D8%AA%D8%B1%D9%83%D9%8A",
+            "name": "أبو العوف",
+            "path": "published/4_1583228861_أبو العوف-لوغو.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=vbDGxUxn8Lo",
+            "name": "المقطع الأصلي",
+            "path": "sources/0_1583228861_YouTube-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "حقيقة فيديو قصف الأتراك جنازة ضابط في جيش النظام السوري",
+    "updated_at": "2020-09-23 12:37:35",
+    "url_path": "/factcheck/2020/03/03/حقيقة-فيديو-قصف-الأتراك-جنازة-ضابط-في-جيش-النظام-السوري"
+}

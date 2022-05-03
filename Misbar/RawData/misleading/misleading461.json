@@ -1,0 +1,150 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 162,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "caption": "",
+    "category": "Spirituality & Religion",
+    "claim": "<p><span style=\"background-color:white\"><span style=\"color:#1c1e21\">برج الساعة في مكة المكرمة يطلق ضوءً أخضر بمناسبة مولد النبي محمد عليه السلام.</span></span></p>\r\n",
+    "country": "",
+    "created_at": "2020-10-22 19:50:02",
+    "created_by": "5f39b1ee1dd5850789476b61",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 3,
+    "id": "5f91b83ac2444e563c7cbf81",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقق &quot;مسبار&quot; من الادعاء المتداول، ووجد أنه مضلل، إذ أنَّ برج الساعة لم تتم إضاءته في&nbsp;مولد النبي محمد، وإنما تم نشر هذه الصور إعلاناً عن دخول شهر رجب في العام 2015. ويذكر أن تداول هذا الخبر جاء قبل أسبوع تقريباً من تاريخ مولد النبي محمد.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_4hv2rgswj.jpg\" style=\"height:864px; width:605px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><strong>اقرأ/ي أيضاً</strong></p>\r\n\r\n<p><a href=\"https://misbar.com/factcheck/2020/10/08/%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%82%D8%AF%D9%8A%D9%85-%D9%88%D9%84%D9%8A%D8%B3-%D9%84%D8%A7%D8%AD%D8%AA%D9%81%D8%A7%D9%84-%D8%B3%D9%83%D8%A7%D9%86-%D9%85%D9%83%D8%A9-%D8%A8%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D9%81%D8%AA%D8%AD-%D8%A7%D9%84%D8%AD%D8%B1%D9%85%D9%8A%D9%86\" target=\"_blank\">فيديو قديم وليس لاحتفال سكّان مكة بإعادة فتح الحرمين</a></p>\r\n\r\n<p><a href=\"https://misbar.com/factcheck/2020/10/15/%D9%84%D9%85-%D8%AA%D8%AA%D8%B2%D9%88%D8%AC-%D9%85%D8%B9%D9%84%D9%85%D8%A7%D8%AA-%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A7%D8%AA-%D9%85%D9%86-%D8%B3%D8%A7%D8%A6%D9%82%D9%87%D9%86-%D9%88%D8%A5%D9%86%D9%85%D8%A7-%D8%AD%D9%81%D9%84-%D8%B2%D9%81%D8%A7%D9%81-%D9%88%D9%87%D9%85%D9%8A\" target=\"_blank\">لم تتزوج معلمات سعوديات من سائقهن، وإنما حفل زفاف وهمي</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": false,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">تتناقل حسابات على مواقع التواصل الاجتماعي، حديثاً ومنذ سنوات، صورة لبرج الساعة في مكة المكرمة أثناء إطلاقه ضوءً أخضر. وادعى ناشرو الصورة أنَّ هذا الضوء تم إطلاقه بمناسبة مولد النبي محمد عليه السلام.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_xrqqgy0x6.jpg\" style=\"height:783px; width:508px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_v8ermvje6.jpg\" style=\"height:782px; width:451px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 236,
+        "left": 3.4110565185546875,
+        "path": "articles/1603385402950.jpg",
+        "top": 46.324951171875,
+        "totalHeight": 423,
+        "totalWidth": 423,
+        "watermark_path": "articles/watermark-1603385402950.jpg",
+        "width": 419
+    },
+    "post_date": "2020-10-22T19:40:00.000+03:00",
+    "published": [
+        {
+            "id": "5f91b837fdbe851b48100611",
+            "link": "https://www.facebook.com/Curly800/posts/730655267793583",
+            "name": "\\u0643\\u064a\\u0631\\u0644\\u064a - Curly",
+            "origin": "facebook",
+            "path": "sources/fe0f2a67dc328e77b6b313aa61a03a0df1ebbd40.jpg"
+        },
+        {
+            "id": "5f91b837561d2d7d2e4220dc",
+            "link": "https://upload.facebook.com/ElTweethElfaseelh/photos/a.2153529438302644/2823584921297089/?type=3&theater",
+            "name": "Facebook",
+            "origin": "",
+            "path": "sources/d41b5641225c2c719800eee56d3ea73d439ca1c7.jpg"
+        },
+        {
+            "id": "5f91b838cf354d6bda37134e",
+            "link": "https://www.facebook.com/Sada.sina.ch/posts/1850561801836920",
+            "name": "\\u0635\\u062f\\u064a \\u0633\\u064a\\u0646\\u0627  Sada Sina",
+            "origin": "facebook",
+            "path": "sources/cb552842229ca6f7f8319cac032e76e6e3aeaf04.jpg"
+        },
+        {
+            "id": "5f91b838986b866c066e743c",
+            "link": "https://twitter.com/ReemKha83769128/status/807745880782733312",
+            "name": "Reem",
+            "origin": "twitter",
+            "path": "sources/710afcb14c79dcb767435396fb34489383e95e66.jpg"
+        },
+        {
+            "id": "5f91b838eef2b643fa6dd1d6",
+            "link": "https://twitter.com/A7med5aiiry/status/807743026198179840",
+            "name": "5airy🎖",
+            "origin": "twitter",
+            "path": "sources/90660f16ed0e37a477e4641e119b2d3262348b1d.jpg"
+        },
+        {
+            "id": "5f91b839aa27fd61d803b594",
+            "link": "https://twitter.com/Doaa_abdelazez/status/807796110597255168",
+            "name": "دعاء الشرق",
+            "origin": "twitter",
+            "path": "sources/3d70e70b0b8c2ef63021d764831a18fd0b3471d7.jpg"
+        },
+        {
+            "id": "5f91b83986003f7c6a56ea56",
+            "link": "https://twitter.com/AshriMoe/status/807933295686205440",
+            "name": "مُـو",
+            "origin": "twitter",
+            "path": "sources/33a28c6a4049a20151425e31fc02f45d82b82f6d.jpg"
+        },
+        {
+            "id": "5f91b8395556b313ef39e7ee",
+            "link": "https://twitter.com/NayiraAbdelwhab/status/807867047954759680",
+            "name": "Nayira Abdelwhab",
+            "origin": "twitter",
+            "path": "sources/771d7b9c9d3cbdcd9aaa86cfb5691ae471fa3b55.jpg"
+        },
+        {
+            "id": "5f91b839c5dd2b6f7304c43b",
+            "link": "https://twitter.com/MohandTaamer/status/807743571038273537",
+            "name": "Mohaned-Tamer &trade;",
+            "origin": "twitter",
+            "path": "sources/f7ed8b8100365cc86419f1f1ca4f8327f1973f45.jpg"
+        },
+        {
+            "id": "5f91b839e62195238e717b2f",
+            "link": "https://www.facebook.com/groups/455377281310797/permalink/488965711285287",
+            "name": "منتدى العلم و الأدب",
+            "origin": "facebook",
+            "path": "sources/5bfe4505f0d897cf8eadb4d078ea86f5bd10e8d5.jpg"
+        },
+        {
+            "id": "5f91b83905b6d749c4065c98",
+            "link": "https://sahelnews.info/%D8%A8%D8%B1%D8%AC-%D8%B3%D8%A7%D8%B9%D8%A9-%D9%85%D9%83%D8%A9-%D8%A7%D9%84%D9%85%D9%83%D8%B1%D9%85%D8%A9-%D9%8A%D8%B7%D9%84%D9%82-%D8%A7%D9%84%D8%B6%D9%88%D8%A1-%D8%A7%D9%84%D8%A3%D8%AE%D8%B6%D8%B1/",
+            "name": "Sahel News",
+            "origin": "",
+            "path": "sources/ad757e580467d5ae09744ea5402eccb399a4c8fe.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f91b83a0684b06e8f58b729",
+            "link": "https://www.al-madina.com/article/374922/",
+            "name": "صحيفة المدينة",
+            "origin": "",
+            "path": "sources/4c2c2601aa26b28fd283715f5ebd7780c76eb3d2.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لم تُضأ ساعة مكة بالضوء الأخضر احتفالاً بمولد النبي",
+    "updated_at": "2020-10-22 19:57:35",
+    "url_path": "/factcheck/2020/10/22/لم-تضأ-ساعة-مكة-بالضوء-الأخضر-احتفالا-بمولد-النبي",
+    "was_notification_pushed": "true"
+}

@@ -1,0 +1,88 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2418,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\"><span style=\"background-color:white\"><span style=\"color:#1c1e21\">تم الإنتهاء من بناء مسجد عمرو بن العاص في تركيا.</span></span></p>\r\n",
+    "country": "",
+    "created_at": "2020-02-19 17:48:41",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e4d4ac9d4a229036a52c4e3",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تأكد &quot;مسبار&quot; أنَّ الصورة المتداولة بالفعل لمسجد في تركيا، لكن اسم المسجد &quot;تشامليجا&quot; وليس مسجد عمرو بن العاص. ويقع المسجد في منطقة أسكودار بالشطر الآسيوي المطل على مضيق البوسفور بمدينة اسطنبول، وتم افتتاحه يوم الجمعة 3 مايو/ أيار 2019.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_08ita3usc.jpg\" style=\"height:386px; width:537px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">يعتبر مسجد تشامليجا أكبر مسجد في تركيا، وأقيم على مساحة 15 ألف متر مربع، ويتسع لنحو 63 ألف مصلٍّ في وقت واحد، ويعتلي المسجد 6 مآذن، 4 منها بطول 107.1 أمتار، واثنتان بطول 90 متراً، فيما يبلغ ارتفاع قبته نحو 72 متراً وقُطرها 34 متراً. ويمكن مشاهدته بسهولة من جميع مناطق اسطنبول، لأنه موجود على أعلى نقطة في المدينة، وهو عبارة عن مجمع كبير يضم قاعة مؤتمرات ومتحفاً للآثار الإسلامية التركية ومعرضاً للفنون.</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\"><span style=\"background-color:white\"><span style=\"color:black\">تداولت صفحاتٌ على مواقع التواصل الاجتماعي، منذ</span></span><span style=\"background-color:white\"><span style=\"color:black\"> 30 ديسمبر/ كانون الأول 2019 وحتى الأيام الفائتة</span></span>، صورة مسجد كبير ويتواجد حوله الكثير من الناس، وذكرت هذه الصفحات أنَّ هذا المسجد تم الإنتهاء منه في تركيا واسمه مسجد &quot;عمرو بن العاص&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">حققت الصورة انتشاراً واسعاً وتفاعل معها وشاركها الآلاف من الحسابات والصفحات العربية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ht67ir9mc.jpg\" style=\"height:677px; width:570px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_3sfjy492x.jpg\" style=\"height:625px; width:525px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_tqg9sch55.jpg\" style=\"height:596px; width:504px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 415,
+        "left": 7.9272613525390625,
+        "path": "articles/1582123721thumbs_b_c_2a8da29383b5d15694e0a7181a56e207.jpg",
+        "top": 0.4818115234375,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "width": 739
+    },
+    "post_date": "2020-02-19T17:38:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/mahdibeLmokhTaR29/photos/a.1359013070921712/1479824182173933/?type=3&theater",
+            "name": "X__PaiN__X",
+            "path": "published/0_1582123720_Facebook_logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Egprofileofficial/posts/1639928666162954",
+            "name": "ツprofile •",
+            "path": "published/1_1582123721_profile.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Askiim1/posts/2814926281861034",
+            "name": "Aşkım",
+            "path": "published/2_1582123721_askim.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/angel0devil/photos/a.482465105212065/1865649803560248/?type=3&theater",
+            "name": "Half angel , Half devil",
+            "path": "published/3_1582123721_half.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.aa.com.tr/ar/%D8%AA%D8%B1%D9%83%D9%8A%D8%A7/%D8%A5%D8%B3%D8%B7%D9%86%D8%A8%D9%88%D9%84-%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD-%D9%85%D8%B3%D8%AC%D8%AF-%D8%AA%D8%B4%D8%A7%D9%85%D9%84%D9%8A%D8%AC%D8%A7-%D8%A7%D9%84%D8%A3%D9%83%D8%A8%D8%B1-%D9%81%D9%8A-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7/1468975",
+            "name": "الأناضول",
+            "path": "sources/0_1582123720_الاناضول.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذا ليس مسجد عمرو بن العاص في تركيا... ما الحقيقة؟",
+    "updated_at": "2020-09-25 19:07:41",
+    "url_path": "/factcheck/2020/02/19/هذا-ليس-مسجد-عمرو-بن-العاص-في-تركيا-ما-الحقيقة"
+}

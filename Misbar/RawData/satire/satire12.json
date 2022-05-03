@@ -1,0 +1,108 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 248,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "مقطع الفيديو للحدث ذاته يوضح أنها ذاتها ميلانيا (فيسبوك)",
+    "category": "Entertainment",
+    "claim": "<p>صورة تعود&nbsp;إلى بديلة عن ميلانيا ترامب وليست زوجة الرئيس الأميركي ترامب الحقيقية،&nbsp;وذلك لكثرة المناسبات الاجتماعية&nbsp;التي يجب أن تحضرها خلال الانتخابات الرئاسية.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-10-27 17:14:35",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 9,
+    "feedback_pos": 3,
+    "id": "5f982b4b66bb7d0a3c32d8f1",
+    "investigation": "<p style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الصورة ليجد أن الاختلاف الذي يبدو في الصورة هي الخطوط حول شفتي ميلانيا، إلا أن هذا لا يعني بأنها ليست هي، وفي مقطع الفيديو أدناه للحدث ذاته يظهر أنها ميلانيا ترامب الحقيقية، وليست &quot;دوبلير&quot; عنها.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/Io8YphSL_ak\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت حسابات عربية وأجنبية على مواقع التواصل الاجتماعي، في الساعات الأخيرة، صورةً لميلانيا ترامب زوجة الرئيس الأميركي الحالي دونالد ترامب، وهي تلوح من الطائرة خلال ذهابها إلى المناظرة الأخيرة بصحبة زوجها أمام منافسه الديمقراطي جو&nbsp;بايدن في&nbsp;ناشفيل بولاية تينيسي، وقالت الحسابات إن من تظهر في الصورة ليست ميلانيا الحقيقية، بل &quot;دوبلير&quot; أو بديلة عنها تشبهها، وذلك لكثرة المناسبات الاجتماعية التي يفترض بزوجة الرئيس حضورها، وأصبح وسم fakemelania&nbsp;متصدراً تويتر، البعض يغرد في الوسم&nbsp;مصدقاً والبعض الآخر بسخرية.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_voesyrv4f.jpg\" style=\"height:601px; width:581px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_0v2krk77o.jpg\" style=\"height:609px; width:602px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_f5ob5021x.jpg\" style=\"height:494px; width:602px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 404,
+        "left": 24.100006103515625,
+        "path": "articles/1603808075136674359.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 795,
+        "watermark_path": "articles/watermark-1603808075136674359.jpg",
+        "width": 718
+    },
+    "post_date": "2020-10-27T13:32:00.000+03:00",
+    "published": [
+        {
+            "id": "5f982b4a7824bb7c256cab45",
+            "link": "https://www.facebook.com/ArabAmericaAmerican/posts/719434852005426",
+            "name": "عرب أميركا",
+            "origin": "facebook",
+            "path": "sources/a5b70df17b8ecc85bbcc7a47285da3dcdfeba4fd.jpg"
+        },
+        {
+            "id": "5f982b4a32290c66e6310a3a",
+            "link": "https://www.facebook.com/aaron.larimer/posts/10224096870992468",
+            "name": "Aaron Papagaio Larimer",
+            "origin": "facebook",
+            "path": "sources/cbcfd3c4b36c3aebad2757a03c2aa319a53ed2a2.jpg"
+        },
+        {
+            "id": "5f982b4b1818d0127a01c3e6",
+            "link": "https://www.facebook.com/hashtag/fakemelania",
+            "name": "Facebook",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5f982b4b2b4660545b094537",
+            "link": "https://www.facebook.com/MelaniaTrumpMemes/posts/995167874296478",
+            "name": "Melania Trump Memes",
+            "origin": "facebook",
+            "path": "sources/37f77c37347975c6f0757cc82a41e3178cc6a0f3.jpg"
+        },
+        {
+            "id": "5f982b4b8a4814547f3ab572",
+            "link": "https://twitter.com/meiselasb/status/1320206528100487168",
+            "name": "Ben Meiselas",
+            "origin": "twitter",
+            "path": "sources/59dc0415be028786e19519ec240328307eb96728.jpg"
+        }
+    ],
+    "result": "satire",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f8eb18ba3818a4eb81ad3d2",
+            "link": "https://www.youtube.com/watch?v=Io8YphSL_ak&feature=emb_title",
+            "name": "قناة يوتيوب",
+            "origin": "",
+            "path": "published/7_1603128187_72cba5bc67b31d9d753cf43c35e93c59a1b0f98d.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الصورة تعود إلى ميلانيا ترامب وليست بديلة عنها",
+    "updated_at": "2020-10-27 17:23:20",
+    "url_path": "/factcheck/2020/10/27/الصورة-تعود-إلى-ميلانيا-ترامب-وليست-بديلة-عنها",
+    "was_notification_pushed": true
+}

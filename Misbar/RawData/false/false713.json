@@ -1,0 +1,124 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 37352,
+    "author": {
+        "fullname": "أحمد بن خميس الفريقي",
+        "id": "5eb96d68db29164cdf087404",
+        "photo": {
+            "name": "1589210472_888.jpg",
+            "path": "authors/1589210472_888.jpg"
+        }
+    },
+    "caption": "منظمة الصحة العالمية لم تنشر خبراً يتعلق بدراسة مشابهة (Getty)",
+    "category": "Science",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\"><span style=\"color:#1d2129\">فايروس</span> <span style=\"color:#1d2129\">كورونا</span> <span style=\"color:#1d2129\">فقد</span> <span dir=\"LTR\"><span style=\"color:#1d2129\">60</span></span> <span style=\"color:#1d2129\">في</span> <span style=\"color:#1d2129\">المئة</span> <span style=\"color:#1d2129\">من</span> <span style=\"color:#1d2129\">شراسته</span></p>\r\n",
+    "country": "DE",
+    "created_at": "2020-05-19 12:10:26",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ec3a282db291650fd21ba74",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:#1d2129\">الخبر</span> <span style=\"color:#1d2129\">زائف</span><span style=\"color:#1d2129\">.. إذ </span><span style=\"color:#1d2129\">تحقق</span><span style=\"color:#1d2129\"> &quot;</span><span style=\"color:#1d2129\">مسبار&quot;</span> <span style=\"color:#1d2129\">من</span> <span style=\"color:#1d2129\">الخبر</span> <span style=\"color:#1d2129\">المنتشر</span> <span style=\"color:#1d2129\">على</span> <span style=\"color:#1d2129\">مواقع</span> <span style=\"color:#1d2129\">التواصل؛</span> <span style=\"color:#1d2129\">ليتبين</span> <span style=\"color:#1d2129\">أنَّ</span>&nbsp; <span style=\"color:#1d2129\">قناة</span> <span style=\"color:#1d2129\">بي بي سي ومواقعها الرسمية&nbsp;</span><span style=\"color:#1d2129\">لم</span> <span style=\"color:#1d2129\">تنشر</span> <span style=\"color:#1d2129\">أيَّ</span> <span style=\"color:#1d2129\">مقال</span> <span style=\"color:#1d2129\">يتعلق</span> <span style=\"color:#1d2129\">بدراسة</span> <span style=\"color:#1d2129\">ألمانية</span> <span style=\"color:#1d2129\">عن</span> <span style=\"color:#1d2129\">فقدان</span> <span style=\"color:#1d2129\">الفايروس 60%</span> <span style=\"color:#1d2129\">من</span> <span style=\"color:#1d2129\">شراسته، أو أنه</span> <span style=\"color:#1d2129\">سيواصل</span> <span style=\"color:#1d2129\">التحول</span> <span style=\"color:#1d2129\">في</span> <span style=\"color:#1d2129\">الأشهر</span> <span style=\"color:#1d2129\">القادمة</span> <span style=\"color:#1d2129\">ليصبح</span> <span style=\"color:#1d2129\">غير</span> <span style=\"color:#1d2129\">مؤذٍ</span> <span style=\"color:#1d2129\">للبشر</span> <span style=\"color:#1d2129\">.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:#1d2129\">وبالعودة للموقع الرسمي لمنظمة الصحة العالمية، تأكد &quot;مسبار&quot; أنها&nbsp;أيضاً لم تقم بنشر خبر على موقعها &nbsp;أو صفحاتها على مواقع التواصل الاجتماعي يتعلق بدراسة مشابهة.</span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:#1d2129\">نشرت</span>&nbsp;بعض المواقع و<span style=\"color:#1d2129\">صفحات</span> <span style=\"color:#1d2129\">على </span><span style=\"color:#1d2129\">وسائل</span> <span style=\"color:#1d2129\">التواصل</span> <span style=\"color:#1d2129\">الإجتماعي خلال الأيام القليلة الفائتة، عن وجود دراسة</span> <span style=\"color:#1d2129\">ألمانية</span> <span style=\"color:#1d2129\">على</span> <span style=\"color:#1d2129\">موقع</span> <span style=\"color:#1d2129\">بي</span> <span style=\"color:#1d2129\">بي</span> <span style=\"color:#1d2129\">سي</span> <span style=\"color:#1d2129\">أثبتت</span> <span style=\"color:#1d2129\">أن</span> <span style=\"color:#1d2129\">فايروس</span> <span style=\"color:#1d2129\">كورونا</span> <span style=\"color:#1d2129\">المستجد</span> <span style=\"color:#1d2129\">فقد</span> <span dir=\"LTR\"><span style=\"color:#1d2129\">60</span></span> <span style=\"color:#1d2129\">في</span> <span style=\"color:#1d2129\">المئة</span> <span style=\"color:#1d2129\">من</span> <span style=\"color:#1d2129\">شراسته</span><span style=\"color:#1d2129\">.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_hoi7du560.jpg\" style=\"height:299px; width:561px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_hpqe0vi4b.jpg\" style=\"height:553px; width:568px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_204wzs4hj.jpg\" style=\"height:420px; width:482px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_d8klm38tp.jpg\" style=\"height:217px; width:559px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 351,
+        "left": 3.5788421630859375,
+        "path": "articles/1589879425GettyImages-1207568784 (1).jpg",
+        "top": 12.83251953125,
+        "totalHeight": 423,
+        "totalWidth": 636,
+        "watermark_path": "articles/watermark-1589879425GettyImages-1207568784 (1).jpg",
+        "width": 624
+    },
+    "post_date": "2020-05-19T11:32:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/story.php?story_fbid=136628417947001&id=111114340498409",
+            "name": "شبكة أخبار جبل العرب",
+            "path": "published/0_1589879425_شبكة-اخبار-جبل-العرب.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/story.php?story_fbid=1742570179216490&id=1405000156306829",
+            "name": "NESS 13 MAI",
+            "path": "published/1_1589879425_NESS 13 MAI.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/story.php?story_fbid=2604601696420633&id=1486351904912290",
+            "name": "ايناس الروح",
+            "path": "published/2_1589879425_ايناس الروح.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/story.php?story_fbid=545439982832392&id=351653022211090",
+            "name": "أخبار العراق الأن IRAQ NEWSl",
+            "path": "published/3_1589879425_أخبار العراق الأن IRAQ NEWSl.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=161749348727201&id=107139990854804&__xts__[0]=68.ARCNvSd786RvGNJGXD1kaR7EX6hc-hdAON4LaL6pr2sjYP1zoj62TaTpADRfglgQT6MImjUawDW2HXHmdvCX-mj6C5wBosGF_NLaHwCNU42tauYclK60oooshaecjZg3qlDG177zXBjOftLT36QygvclJ-J6jQvDqsegTKdOD7vrHsugfeuxnmxP90017-LPKqvhh8l4O3jELIdtjZ5EcE6nTVyGhfwwCgGsx678MX6kLKc0X8bfmauapW8KUMSegNCuL80h3eQKUF6aW-9EEuD745pu3DIvtoNR5OxWGC3HfsaV1DVnJCucVp0qlGbZaPELUJ_KCcl4CzMErcg&__tn__=-R",
+            "name": "النجف مدينتي",
+            "path": "published/4_1589879425_النجف مدينتي.jpg"
+        },
+        {
+            "link": "https://twitter.com/Ek_Alhosani/status/1261109510556594177?s=19",
+            "name": "E.K alhosani",
+            "path": "published/5_1589879425_E.K alhosani.jpg"
+        },
+        {
+            "link": "http://tahdeeth.net/news/141072",
+            "name": "تحديث",
+            "path": "published/6_1589890296_تحديث.JPG"
+        },
+        {
+            "link": "http://sadarim.com/?p=3646",
+            "name": "صدى ريم",
+            "path": "published/7_1589890296_صدى-ريم.JPG"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.bbc.com/arabic",
+            "name": "بي بي سي عربي",
+            "path": ""
+        },
+        {
+            "link": "https://www.who.int/ar",
+            "name": "منظمة الصحة العالمية",
+            "path": "sources/1_1589879425_منظمة-الصحة-العالمية-تويتر.jpg"
+        },
+        {
+            "link": "https://www.bbc.com/",
+            "name": "BBC",
+            "path": "sources/2_1589890297_BBC NEWS-logo.jpg"
+        },
+        {
+            "link": "",
+            "name": "",
+            "path": ""
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "دراسة ألمانية: فايروس كورونا فقد 60% من شراسته.. خبر زائف",
+    "updated_at": "2020-09-25 22:04:58",
+    "url_path": "/factcheck/2020/05/19/دراسة-ألمانية-فايروس-كورونا-فقد-60-من-شراسته-خبر-زائف"
+}

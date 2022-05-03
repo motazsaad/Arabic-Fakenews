@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 4446,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "الخبر زائف ولا يوجد دليل على صحته، إذ لم ينشر على أي مصدر رسمي (مواقع التواصل الاجتماعي)",
+    "category": "Sports",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">كريستيانو رونالدو يقرأ العديد من الكتب وبدأ بالفعل بقراءة القرآن في فترة الحجر الصحي. </span></p>\r\n\r\n<p style=\"text-align:right\">&nbsp;</p>\r\n",
+    "country": "",
+    "created_at": "2020-04-04 12:49:36",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e885830db2916136f314af4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الخبر المتداول، ووجد&nbsp;أنه زائف ولا يوجد دليل على صحته، إذ لم ينشر على أي مصدر رسمي، والموقع الوحيد الذي قام بنشر الخبر هو موقع &quot;<span dir=\"LTR\">News1</span>&quot;، وهو مصدر ضعيف ولا يعتمد عليه في نقل الأخبار.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">ويذكر أن رونالدو يقضي فترة الحجر الصحي بمسقط&nbsp;رأسه في جزيرة ماديرا البرتغالية، ويشارك الكثير من يومياته في الحجر، عبر حساباته الرسمية على مواقع التواصل الاجتماعي.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_dudrr7o4f.jpg\" style=\"height:325px; width:435px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحاتٌ على مواقع التواصل الاجتماعي، خبراً منقولاً عن موقع &quot;<span dir=\"LTR\">News1</span>&quot;، زعموا فيه أنّ كريستيانو رونالدو، لاعب منتخب البرتغال لكرة القدم ونادي يوفنتوس الإيطالي، يقرأ العديد من الكتب خلال فترة الحجر الصحي، من بينهم القرآن الكريم.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_bh2vtzafn.jpg\" style=\"height:314px; width:377px\" /></span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_qf5zex3uw.jpg\" style=\"height:480px; width:375px\" /></p>\r\n\r\n<p style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_g4kukgnzv.jpg\" style=\"height:390px; width:388px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 422,
+        "left": -3.31121826171875,
+        "path": "articles/1585993775EUpGGZmX0AMJ10v.jpg",
+        "top": 0.800048828125,
+        "totalHeight": 466,
+        "totalWidth": 774,
+        "watermark_path": "articles/watermark-1585993775EUpGGZmX0AMJ10v.jpg",
+        "width": 750
+    },
+    "post_date": "2020-04-04T12:33:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.news1.news/i/2020/04/cristiano-ronaldo-started-reading-the-quran-in-quarantine.html",
+            "name": "1.news",
+            "path": "published/0_1585993775_1.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/cris4arabs7/posts/1516991791796237?__tn__=-R",
+            "name": "Cris4arab7 Media",
+            "path": "published/1_1585995142_2.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Cr7Lrj/photos/a.2662080157175940/3106424896074795/?type=3&theater",
+            "name": "Cr7Lrj - GOAT",
+            "path": "published/2_1585993775_3.jpg"
+        },
+        {
+            "link": "https://twitter.com/CR7_G0AT1/status/1245885345532690433",
+            "name": "الكرة الكرستاويه",
+            "path": "published/3_1585993775_5.jpg"
+        },
+        {
+            "link": "https://twitter.com/GoldenDose/status/1245898883340918784",
+            "name": "GDOSE",
+            "path": "published/4_1585993775_6.jpg"
+        },
+        {
+            "link": "https://twitter.com/PopNewsAR/status/1245946777171345408",
+            "name": "Pop News AR",
+            "path": "published/5_1585993775_7.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/Cristiano",
+            "name": "Cristiano Ronaldo",
+            "path": "sources/0_1585993775_a09TxL_1_400x400.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "كريستيانو رونالدو يقرأ القرآن في الحجر الصحي.. حقيقة الخبر",
+    "updated_at": "2020-09-25 11:19:50",
+    "url_path": "/factcheck/2020/04/04/كريستيانو-رونالدو-يقرأ-القرآن-في-الحجر-الصحي-حقيقة-الخبر"
+}

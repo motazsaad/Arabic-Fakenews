@@ -1,0 +1,123 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 230,
+    "author": {
+        "fullname": "بيان حمدان",
+        "id": "5fa0632609eb9442f11d9d69",
+        "photo": {
+            "name": "1604346662_2010.jpg",
+            "path": "authors/1604346662_2010.jpg"
+        }
+    },
+    "caption": "الإجراء كان ليومين فقط (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\">رئيس الشيشان يعلن مكافأة بمقدار 100 ألف روبل لكل مولود جديد يسمى باسم &quot;محمد&quot;.</p>\r\n",
+    "country": "RU",
+    "created_at": "2020-11-16 13:56:06",
+    "created_by": "5f39b5a51dd585076701cb94",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 4,
+    "id": "5fb25ac6514ad03dbd3e9199",
+    "investigation": "<p dir=\"RTL\">تحقق &quot;<a href=\"https://misbar.com/qna\">مسبار</a>&quot; من الخبر ووجده صحيح جزئياً، فبعد البحث تبين أن الادعاء المتداول انتقائي،&nbsp;فإجراء المكافأة ليس دائماً كما يتم تداوله بل كان فاعلاً ليومين فقط، وجاء تزامناً مع مناسبة المولد النبوي الشريف، إذ قال&nbsp;<a href=\"https://www.instagram.com/tv/CG4YLiZFYFN/?utm_source=ig_embed\">وزير الإعلام والصحافة&nbsp;</a>الشيشاني أحمد دوداييف &quot;ستحصل كل عائلة ترزق بمولود في الفترة بين 28 و29 أكتوبر، وتطلق اسم النبي أو اسم أحد أفراد آل البيت والصحابة، على 100 ألف روبل مكافأة&quot;.</p>\r\n\r\n<p dir=\"RTL\"><img alt=\"Graphical user interface, application, Teams\r\n\r\nDescription automatically generated\" src=\"https://images-prod.misbar.com/articlebody/investigation_qliwd0e28.jpg\" /></p>\r\n\r\n<p dir=\"RTL\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\">اقرأ/ي أيضاً</p>\r\n\r\n<p dir=\"RTL\"><a href=\"https://misbar.com/editorial/2020/11/01/%D8%A3%D8%A8%D8%B1%D8%B2-%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B2%D8%A7%D8%A6%D9%81%D8%A9-%D8%A7%D9%84%D8%AA%D9%8A-%D8%A7%D9%86%D8%AA%D8%B4%D8%B1%D8%AA-%D8%A8%D8%B9%D8%AF-%D8%AA%D8%B5%D8%B1%D9%8A%D8%AD%D8%A7%D8%AA-%D9%85%D8%A7%D9%83%D8%B1%D9%88%D9%86-%D8%B9%D9%86-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85\">أبرز الأخبار الزائفة التي انتشرت بعد تصريحات ماكرون عن الإسلام</a></p>\r\n\r\n<p dir=\"RTL\"><a href=\"https://misbar.com/factcheck/2020/11/15/%D9%87%D8%B0%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D9%82%D8%B7%D8%B9%D8%A7%D9%86-%D9%84%D9%8A%D8%B3%D8%A7-%D9%84%D8%AA%D8%B3%D8%A7%D9%82%D8%B7-%D8%A7%D9%84%D8%AD%D8%AC%D8%A7%D8%B1%D8%A9-%D9%81%D9%8A-%D9%81%D8%B1%D9%86%D8%B3%D8%A7\">هذان المقطعان ليسا لتساقط الحجارة في فرنسا</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\">تتداول صفحات وحسابات على مواقع التواصل الاجتماعي، منذ أواخر أكتوبر/تشرين الأول الفائت وحتى اليوم، خبراً مفاده إعلان رئيس الشيشان عن مكافأة مالية مقدارها 100 ألف روبل لكل مولود جديد يسمى باسم &quot;محمد&quot;، تيمناً بالنبي، في إشارة إلى أن هذا الإجراء دائم.</p>\r\n\r\n<p dir=\"RTL\"><img alt=\"Graphical user interface, application, Teams\r\n\r\nDescription automatically generated\" src=\"https://images-prod.misbar.com/articlebody/origin_6h2pyzql0.jpg\" /></p>\r\n\r\n<p dir=\"RTL\"><img alt=\"A person sitting in front of a computer\r\n\r\nDescription automatically generated\" src=\"https://images-prod.misbar.com/articlebody/origin_aksn3t75f.jpg\" /></p>\r\n\r\n<p dir=\"RTL\"><img alt=\"A screenshot of a computer\r\n\r\nDescription automatically generated\" src=\"https://images-prod.misbar.com/articlebody/origin_qq4ty7gda.jpg\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 4.57763671875e-05,
+        "path": "articles/1605524166GettyImages-1229308134.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1605524166GettyImages-1229308134.jpg",
+        "width": 752
+    },
+    "post_date": "2020-11-16T13:51:00.000+03:00",
+    "published": [
+        {
+            "id": "5fb252e90655981ea4215621",
+            "link": "https://twitter.com/gameelmaan1922/status/1321630118863904768",
+            "name": "جہمہيہل زكہريہأ آلہ خہطہاب",
+            "origin": "twitter",
+            "path": "sources/15823a0bf1bcc26569157dbfdc52505e693bdb8e.jpg"
+        },
+        {
+            "id": "5faae9a3eb65480410630895",
+            "link": "https://web.facebook.com/groups/562340611286185/permalink/809864299867147/",
+            "name": "Ali Harizi",
+            "origin": "",
+            "path": "sources/af6f8f22c296a2f707be1985c48b9d0009cfa471.jpg"
+        },
+        {
+            "id": "5fb252e9d95ef81d4f42b13a",
+            "link": "https://www.facebook.com/groups/286364378907506/permalink/648754912668449/",
+            "name": "الاستاذ شادي دراوشة",
+            "origin": "facebook",
+            "path": "sources/ce6c7301795eec895ddaccbfa72bd54a16ced3e6.jpg"
+        },
+        {
+            "id": "5fb252e919795f77fd573739",
+            "link": "https://twitter.com/aemanelmstari/status/1321551252409516033",
+            "name": "أيمن المسطاري",
+            "origin": "twitter",
+            "path": "sources/e043f22a4299adccdf7054d22bb18c94d60c7893.jpg"
+        },
+        {
+            "id": "5fb252e956869f1e9840d026",
+            "link": "https://www.facebook.com/groups/411487585617305/permalink/3361650953934272/",
+            "name": "تلس الحبيبة",
+            "origin": "facebook",
+            "path": "sources/ce6c7301795eec895ddaccbfa72bd54a16ced3e6.jpg"
+        },
+        {
+            "id": "5fb252ea5e9dea0c6b5fc23e",
+            "link": "https://www.facebook.com/groups/1613906778826979/permalink/2624771414407172/",
+            "name": "تمهبيل😍 السوافة 😍  39 💪",
+            "origin": "facebook",
+            "path": "sources/ce6c7301795eec895ddaccbfa72bd54a16ced3e6.jpg"
+        }
+    ],
+    "result": "selective",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f8edc10b764df2b6f025363",
+            "link": "https://www.instagram.com/tv/CG4YLiZFYFN/?utm_source=ig_embed",
+            "name": "Peter Brand&atilde;o",
+            "origin": "",
+            "path": "sources/855c232348646c64a0c7271d4cfee16b859db10c.jpg"
+        },
+        {
+            "id": "5f913aca80af35113500f289",
+            "link": "https://arabic.rt.com/russia/1168221-%D8%A7%D9%84%D9%85%D9%88%D9%84%D9%88%D8%AF-%D8%A7%D9%84%D9%86%D8%A8%D9%88%D9%8A-%D8%A3%D9%84%D9%81-%D8%B1%D9%88%D8%A8%D9%84-%D9%85%D9%88%D9%84%D9%88%D8%AF-%D9%85%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D8%B4%D9%8A%D8%B4%D8%A7%D9%86/",
+            "name": "روسيا اليوم",
+            "origin": "",
+            "path": "sources/503885256032733240e36b9c7b4ab253a71ee546.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "مكافأة المواليد الذين اسمهم محمد في الشيشان كانت ليومين فقط، وليس إجراءً دائماً",
+    "updated_at": "2020-11-16 14:07:19",
+    "url_path": "/factcheck/2020/11/16/مكافأة-المواليد-الذين-اسمهم-محمد-في-الشيشان-كانت-ليومين-فقط-وليس-إجراء-دائما",
+    "was_notification_pushed": "true"
+}

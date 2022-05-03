@@ -1,0 +1,104 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 826,
+    "author": {
+        "fullname": "رشيد عفيف",
+        "id": "5ec4e956db291667784c4bc4",
+        "photo": {
+            "name": "1589963094_رشيد صورة.jpg",
+            "path": "authors/1589963094_رشيد صورة.jpg"
+        }
+    },
+    "caption": "يعود الفيديو لعام 2014 (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">فيديو يصور رشق باعة الأغنام في مدينة فاس المغربية وطردهم من السوق بسبب غلاء الأسعار.<br />\r\n&nbsp;</p>\r\n",
+    "country": "MA",
+    "created_at": "2020-07-31 09:59:11",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5f23c13f602118073922f704",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من مقطع الفيديو المتداول ووجد أنه قديم، ويعود تاريخه إلى أكتوبر/تشرين الأول عام 2014. إذ شهد السوق المذكور أحداث عنف تعرض خلالها باعة الأغنام والمواشي للرشق بالحجارة والطرد من السوق، بسبب ما اعتبره بعض منفذي هذا الاعتداء مغالاة في أسعار المواشي بمناسبة عيد الأضحى.&nbsp;ولم يشر ناشرو المقطع المتداول أنه قديم، ما يجعل الأمر مضلل، بسبب عدم وضوح تاريخ النشر الحقيقي، والذي من الممكن أن يوهم المُستخدمين أن الحادثة وقعت مؤخراً.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"313\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FMartil.insolite%2Fvideos%2F752194981512233%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">تداولت حسابات وصفحات على موقع التواصل الاجتماعي فيسبوك، حديثاً، مقطع فيديو يظهر عملية رشق باعة الأغنام والمواشي في أحد أسواق مدينة فاس المغربية بالحجارة، وطردهم بسبب غلاء الأسعار. وادّعى&nbsp;ناشرو المقطع أنه حدث في هذه الأيام.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"314\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F1214528553%2Fvideos%2F10217627731464480%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_cxymrj6ut.jpg\" style=\"height:349px; width:495px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_y3rsc4vil.jpg\" style=\"height:356px; width:488px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1596178750100.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1596178750100.jpg",
+        "width": 752
+    },
+    "post_date": "2020-07-31T09:56:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/108459190700868/videos/288456342485811/",
+            "name": "Dades24 TTV",
+            "path": "published/0_1596178750_Dades24 TTV.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/1214528553/videos/10217627731464480/",
+            "name": "Said Khottour",
+            "path": "published/1_1596178882_Said Khottour.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/219672332192868/videos/2330456713917862/",
+            "name": "MDMTV",
+            "path": "published/2_1596178882_MDMTV.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/anapressanapress/videos/568063953860670/",
+            "name": "ANAP RESS",
+            "path": "published/3_1596178882_ANAP RESS.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/agadir8r/videos/2627638660807673/",
+            "name": "مميزات المغرب",
+            "path": "published/4_1596178882_مميزات المغرب.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/achrafkaiba1/videos/213035093409551/",
+            "name": "akaiba34",
+            "path": "published/5_1596178882_akaiba34.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/RHAMNA.PRESSE.Officielle/videos/726732428056276/",
+            "name": "الرحامنة بريس",
+            "path": "published/6_1596178882_الرحامنة بريس.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/Martil.insolite/videos/752194981512233/",
+            "name": "Lava Service",
+            "path": "sources/0_1596178750_Lava Service.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "فيديو طرد باعة الغنم في مدينة فاس المغربية قديم",
+    "updated_at": "2020-09-25 06:50:52",
+    "url_path": "/factcheck/2020/07/31/فيديو-طرد-باعة-الغنم-في-مدينة-فاس-المغربية-قديم"
+}

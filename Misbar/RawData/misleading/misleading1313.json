@@ -1,0 +1,122 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1554,
+    "author": {
+        "fullname": "حسام الهندي",
+        "id": "5e25c80bd4a229629038df03",
+        "photo": {
+            "path": "authors/1579542323_حسام الهندي.jpg"
+        }
+    },
+    "caption": "نُشرالفيديو قبل ظهور فايروس كورونا المستجد في الصين (Getty)",
+    "category": "Travel",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">فيديو لمصابين بفايروس كورونا المستجد قادمين من إيطاليا على الخطوط الجوية الإثيوبية.</span></p>\r\n",
+    "country": "SN",
+    "created_at": "2020-03-17 13:05:11",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e70a0d7d4a22963e350ad63",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تحقق &quot;مسبار&quot; من الفيديو المنتشر ووجد أنه مضلل، إذ إن الفيديو (16 ثانية فقط) ليس له أي علاقة بفايروس كورونا المستجد (كوفيد-19)، والطائرة التي ظهرت في الفيديو تابعة للخطوط الجوية السنغالية وليست الخطوط الجوية الإثيوبية كما تداول البعض.&nbsp;والمشهد لم يكن حقيقياً فهو محاكاة واختبار&nbsp;لخطة الطوارئ في مطار بليز ديان الدولي (</span><span dir=\"LTR\"><span style=\"color:black\">AIBD</span></span><span style=\"color:black\">) في العاصمة السنغالية دكار، وتضمن التدريب العمل على مواجهة الهجمات الإرهابية وحالات الطوارئ.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">وجد &quot;مسبار&quot; أن الفيديو الأصلي&nbsp;نشر للمرة الأولى على موقع</span>&nbsp;<a href=\"https://www.dakaractu.com/Diass-Test-grandeur-nature-du-plan-d-urgence-de-l-Aeroport-Dakar-Blaise-Diagne_a180088.html\" style=\"color:#0563c1; text-decoration:underline\">Dakaractu</a>&nbsp;السنغالي في<span style=\"color:black\">&nbsp;28 نوفمبر/تشرين الثاني 2019،&nbsp;إذ نُشر الفيديو&nbsp;قبل ظهور فايروس كورونا المستجد في الصين.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_0wqwfnr6k.jpg\" style=\"height:484px; width:328px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تداول بعض مستخدمي مواقع التواصل الاجتماعي مقطع فيديو لمجموعة من الأشخاص يجلسون في محيط أحد المطارات في&nbsp;حالة إعياء وسعال مستمر،&nbsp;وتحاول فرق الطوارئ مساعدتهم ونقل بعضهم لتلقّي العلاج. الفيديو المتداول على نطاق واسع على موقعي تويتر وفيسبوك حمل تعليق &quot;لا حول ولا قوة إلا بالله، مطار أديس أبابا، طيران الخطوط الإثيوبية قادم من إيطاليا، اسألوا الله العافية والسلامة من فايروس كورونا&quot;.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ozfqpofw1.jpg\" style=\"height:340px; width:391px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_7kj1redcq.jpg\" style=\"height:394px; width:421px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_9ncavbged.jpg\" style=\"height:386px; width:353px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 294,
+        "left": 34.16569519042969,
+        "path": "articles/1584439511GettyImages-474783060.jpg",
+        "top": 49.836181640625,
+        "totalHeight": 384,
+        "totalWidth": 594,
+        "width": 523
+    },
+    "post_date": "2020-03-17T14:30:00.000+03:00",
+    "published": [
+        {
+            "link": "https://web.facebook.com/111489470452449/videos/813992852416408/",
+            "name": "كورونا -  Corona Virus",
+            "path": "published/0_1584439845_كورونا -  Corona Virus.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/706303859428951/videos/517408719192032/",
+            "name": "Kairouan tunis  météo",
+            "path": "published/1_1584439845_Kairouan tunis  météo.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/Boycottsmaroc/videos/2992653964119084/",
+            "name": "مقاطعون",
+            "path": "published/2_1584439845_مقاطعون.jpg"
+        },
+        {
+            "link": "https://twitter.com/ebnqataralmulla/status/1239496855463100418",
+            "name": "ابن قطر",
+            "path": "published/3_1584439845_ابن قطر.jpg"
+        },
+        {
+            "link": "https://twitter.com/Fahad78921666/status/1239647811190296576",
+            "name": "الهادي",
+            "path": "published/4_1584439846_الهادى.jpg"
+        },
+        {
+            "link": "https://twitter.com/Csanaany/status/1239642131721043975",
+            "name": "نوال الصنعاني",
+            "path": "published/5_1584439846_نوال الصنعاني.jpg"
+        },
+        {
+            "link": "https://twitter.com/a2024n/status/1239532656544669696",
+            "name": "ahmed",
+            "path": "published/6_1584439846_ahmed.jpg"
+        },
+        {
+            "link": "https://twitter.com/ss69948151/status/1239603282911399946",
+            "name": "engineer",
+            "path": "published/7_1584439846_engineer.jpg"
+        },
+        {
+            "link": "https://twitter.com/ZtwvkuKEHCnAKUY/status/1239532907246563329",
+            "name": "ألـــوعـيـل آإألـعـولقـي",
+            "path": "published/8_1584439846_ألـــوعـيـل آإألـعـولقـي.jpg"
+        },
+        {
+            "link": "https://twitter.com/dlm1451/status/1239551484368470016",
+            "name": "ابو اسامة",
+            "path": "published/9_1584439846_ابو اسامة.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=lp4HRSBlP9g&feature=emb_title",
+            "name": "Dakaractu TV",
+            "path": "sources/0_1584439844_Dakaractu.com2.jpg"
+        },
+        {
+            "link": "https://www.dakaractu.com/Diass-Test-grandeur-nature-du-plan-d-urgence-de-l-Aeroport-Dakar-Blaise-Diagne_a180088.html",
+            "name": "dakaractu.com",
+            "path": "sources/1_1584439845_Dakaractu TV.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "طائرة إثيوبية تحمل مصابين بفايروس كورونا.. فيديو مضلل",
+    "updated_at": "2020-09-25 09:55:43",
+    "url_path": "/factcheck/2020/03/17/طائرة-إثيوبية-تحمل-مصابين-بفايروس-كورونا-فيديو-مضلل"
+}

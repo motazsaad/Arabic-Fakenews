@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 603,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الفيديو لقطار ينقل معدّات عسكرية في أميركا وليس في مصر (يوتيوب)",
+    "category": "Politics",
+    "claim": "<p>فيديو لقطار ينقل عربات ومعدّات عسكرية مصريّة.</p>\r\n",
+    "country": "EG",
+    "created_at": "2020-07-26 15:16:33",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 2,
+    "feedback_pos": 1,
+    "id": "5f1d7421163be3064d50c8a1",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الفيديو مضلل، فهو ليس من مصر إنّما من الولايات المتحدة، ووجده &quot;مسبار&quot; منشوراً على موقع يوتيوب منذ عام 2015، ويصوّر قطاراً ينقل عدداً من الدبابات والعربات العسكرية في ولاية لوس أنجليس.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/_GwYHGOQqdg\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت حسابات وصفحات على موقع التواصل الاجتماعي فيسبوك، مقطع فيديو زعمت أنّه يصوّر قطاراً ينقل معدّات وعربات عسكرية مصريّة. وعلّق غالبية من نشر الفيديو بالقول &quot;إيه ده كلو يا سيسي هتحارب العالم كلو ربنا يسترها شكلها كده مش هتعدي على خير&quot;. &nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fwww.mohamed12345%2Fvideos%2F2939481012844827%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F100007226057674%2Fvideos%2F2589559797961530%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"313\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F2347725695277863%2Fvideos%2F706386216869116%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 415,
+        "left": 4.611114501953125,
+        "path": "articles/1595765792Annotation 2020-07-26 145837.jpg",
+        "top": 5,
+        "totalHeight": 423,
+        "totalWidth": 817,
+        "watermark_path": "articles/watermark-1595765792Annotation 2020-07-26 145837.jpg",
+        "width": 738
+    },
+    "post_date": "2020-07-26T15:06:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/www.mohamed12345/videos/2939481012844827/",
+            "name": "محمد الدقدوسي",
+            "path": "published/0_1595765791_محمد الدقدوسي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100007226057674/videos/2589559797961530/",
+            "name": "Shorouk Raya",
+            "path": "published/1_1595765792_Shorouk Raya.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/2347725695277863/videos/706386216869116/?v=706386216869116&external_log_id=1a02b17a8cb0e2cf453f99484b89c2a5&q=%D8%A7%D9%8A%D9%87%20%D8%AF%D9%87%20%D9%83%D9%84%D9%88%20%D9%8A%D8%A7%20%D8%B3%D9%8A%D8%B3%D9%8A%20%D8%B4%D9%83%D9%84%D9%83%20%D9%87%D8%AA%D8%AD%D8%A7%D8%B1%D8%A8%20%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%20%D9%83%D9%84%D9%87%D8%A7",
+            "name": "Lotfy Mahmoud",
+            "path": "published/2_1595765792_Lotfy Mahmoud.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100007612681565/videos/2600980313499033/",
+            "name": "محمد عبد القادر عدس",
+            "path": "published/3_1595765792_محمد عبد القادر عدس.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/drmaher.sohsah/videos/3321285711268547/",
+            "name": "Dr-Maher Anwar Sohsah",
+            "path": "published/4_1595765792_Dr-Maher Anwar Sohsah.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1165040093883276&id=100011318893233",
+            "name": "أسامة حسن محمد",
+            "path": "published/5_1595765792_أسامة حسن محمد.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=3415361898527154&id=100001601338772",
+            "name": "أحمد العارف",
+            "path": "published/6_1595765792_أحمد العارف.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=_GwYHGOQqdg&feature=youtu.be",
+            "name": "المقطع الأصلي",
+            "path": "sources/0_1595765792_YouTube-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الفيديو مضلل.. هذا القطار لا ينقل عربات عسكرية مصرية",
+    "updated_at": "2020-09-25 22:15:33",
+    "url_path": "/factcheck/2020/07/26/الفيديو-مضلل-هذا-القطار-لا-يحمل-عربات-عسكرية-مصرية"
+}

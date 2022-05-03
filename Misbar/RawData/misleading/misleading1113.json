@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1522,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "الفيديو منشور على يوتيوب في مارس/ آذار 2017 (يوتيوب)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">القوات الحكومية اليمنية تُسيطر على منطقة الشيخ سالم في محافظة أبين بعد اشتباكات مع الانفصاليين الجنوبيين.</p>\r\n",
+    "country": "",
+    "created_at": "2020-05-23 11:32:26",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ec8df9adb29162542423064",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من مقطع الفيديو المتداول، وتبين&nbsp;أنه مضلل، لأنه منشور على موقع يوتيوب في مارس/آذار 2017، على أنه لاشتباكات بين الحوثيين وسرية الحزام الأمني التابعة للمقاومة الجنوبية، في مدينة المخا التابعة لولاية تعز اليمنية.&nbsp;وبالتالي مقطع الفيديو لا يمت بصلة لمنطقة الشيخ سالم.&nbsp;كما تداول ناشطون يمنيون قبل ثلاث سنوات مقابلة مصورة مع قائد سرية الحزام الأمني فهمي العوذلي يشرح فيها ما دار بالفيديو وعملية السيطرة على مدينة المخا.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_35c8gpr7m.jpg\" style=\"height:489px; width:602px\" /></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"506\" src=\"https://www.youtube.com/embed/qXb4E2zyyl4\" width=\"894\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت حسابات على مواقع التواصل الاجتماعي مقطع فيديو في 18 مايو/أيار الجاري، ادّعت أنه لقوات الحكومة اليمنية أثناء عملية التفاف ناجحة ضد القوات الانفصالية التابعة للمجلس الانتقالي الجنوبي، في منطقة الشيخ سالم في محافظة أبين جنوب شرقي اليمن، حيث سيطرت على المنطقة ومحيطها.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_8zvv7lbpg.jpg\" style=\"height:594px; width:602px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1590222745Screenshot (239).jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1590222745Screenshot (239).jpg",
+        "width": 752
+    },
+    "post_date": "2020-05-23T11:29:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/i/status/1262394652348551174",
+            "name": "مختار الرحبي",
+            "path": "published/0_1590222745_مختار الرحبي.jpg"
+        },
+        {
+            "link": "https://twitter.com/SANPFW/status/1262703538670571522",
+            "name": "UNITED NATIONS COMMAND",
+            "path": "published/1_1590223384_UNITED NATIONS COMMAND.jpg"
+        },
+        {
+            "link": "https://twitter.com/Walllad1/status/1262396578536579073",
+            "name": "Walllad",
+            "path": "published/2_1590223384_Walllad.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=FLjWtq3TquU",
+            "name": "يمن دايركت",
+            "path": "published/3_1590223384_اليمن دايرت.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=cRLGk8xEojw",
+            "name": "مطنوخ_مأرب",
+            "path": "published/4_1590223384_مطنوخ.jpg"
+        },
+        {
+            "link": " https://www.facebook.com/100033078350635/videos/256198248826118/",
+            "name": "القيل سمير محسن الوصابي",
+            "path": "published/5_1590223384_10.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?time_continue=112&v=qXb4E2zyyl4&feature=emb_logo",
+            "name": "منتديات شباب شرجان",
+            "path": "sources/0_1590222745_منتديات شباب شرجان (يوتيوب).jpg"
+        },
+        {
+            "link": "https://www.facebook.com/nasserbnbasser/videos/1908857132695447/",
+            "name": "مقابلة القائد العسكري",
+            "path": ""
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "سيطرة القوات اليمنية على منطقة الشيخ سالم.. فيديو مضلل",
+    "updated_at": "2020-09-23 12:31:51",
+    "url_path": "/factcheck/2020/05/23/سيطرة-القوات-اليمنية-على-منطقة-الشيخ-سالم-بمحافظة-أبين-في-اليمن-–-فيديو-مضلل"
+}

@@ -1,0 +1,84 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2083,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "المقطع مجتزأ من فيديو قديم (تويتر)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">الجندي المصري الأول في يد الجيش الحر السوري في ريف ادلب.</span></p>\r\n",
+    "country": "SY",
+    "created_at": "2020-08-04 15:10:55",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f29504f602118075f5d0011",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من مقطع الفيديو المتداول وتبين أنه مجتزأ من فيديو قديم، نُشر للمرة الأولى عام 2015 على عدد من الحسابات في موقع يوتيوب، قالت إن الفيديو للحظة القبض على جندي مصري يقاتل في صفوف قوات النظام السوري.<br />\r\nالفيديو الأصلي القديم مدته دقيقة و27 ثانية، وقد تم اقتطاع جزء منه ونشره حديثاً وسط الجدل الذي أثارته وكالة <a href=\"https://www.aa.com.tr/ar/%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/%D9%85%D8%B5%D8%A7%D8%AF%D8%B1-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D9%84%D9%84%D8%A3%D9%86%D8%A7%D8%B6%D9%88%D9%84-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A-%D8%A3%D8%B1%D8%B3%D9%84-%D8%AC%D9%86%D9%88%D8%AF%D8%A7-%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-/1927283\" style=\"color:#0563c1; text-decoration:underline\">الأناضول</a> التركية، حول إرسال مصر مقاتلين لدعم نظام بشار الأسد.</span></p>\r\n\r\n<p style=\"text-align:right\"><iframe frameborder=\"0\" height=\"868\" src=\"https://www.youtube.com/embed/hNkDL-MiTf4\" width=\"1280\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات على مواقع التواصل الاجتماعي، منذ أمس 3 أغسطس/آب، مقطع فيديو ادّعت أنه لحظة اعتقال جندي مصري من قبل الجيش السوري الحر، حديثاً، في ريف محافظة إدلب شمالي سورية</span></p>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"rtl\">اول عسكري مصري<br />\r\nاسير بيد الجيش الحر <a href=\"https://twitter.com/hashtag/%D8%B1%D9%8A%D9%81_%D8%A5%D8%AF%D9%84%D8%A8?src=hash&amp;ref_src=twsrc%5Etfw\">#ريف_إدلب</a><a href=\"https://twitter.com/ALThani_T_a?ref_src=twsrc%5Etfw\">@ALThani_T_a</a> <a href=\"https://twitter.com/ALThani_M?ref_src=twsrc%5Etfw\">@ALThani_M</a> <a href=\"https://twitter.com/mohsinQtr?ref_src=twsrc%5Etfw\">@mohsinQtr</a> <a href=\"https://twitter.com/trumb78739686?ref_src=twsrc%5Etfw\">@trumb78739686</a> <a href=\"https://twitter.com/DRaALTHANI?ref_src=twsrc%5Etfw\">@DRaALTHANI</a> <a href=\"https://t.co/yxiPsa7RE1\">pic.twitter.com/yxiPsa7RE1</a></p>\r\n&mdash; البرادعي ابو احمد (@Welibaradi) <a href=\"https://twitter.com/Welibaradi/status/1290308353575460866?ref_src=twsrc%5Etfw\">August 3, 2020</a></blockquote>\r\n\r\n<p style=\"text-align:center\"><span style=\"background-color:white\"><span style=\"color:#8899a6\"><img src=\"https://images-prod.misbar.com/articlebody/origin_g69d9bxvw.jpg\" style=\"height:603px; width:458px\" /></span></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1596543055565.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1596543055565.jpg",
+        "width": 752
+    },
+    "post_date": "2020-08-04T15:07:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/B_N_T_sh/status/1290309979451174913",
+            "name": "شامية_الهوى",
+            "path": "published/0_1596543055_شامية_الهوى.jpg"
+        },
+        {
+            "link": "https://twitter.com/Welibaradi/status/1290308353575460866",
+            "name": "البرادعي ابو احمد",
+            "path": "published/1_1596543153_البرادعي ابو احمد.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/103725724759383/videos/292063102228163/?v=292063102228163&external_log_id=975aeec5dd8054b6401a3d97603cf3d8&q=%D8%A7%D9%88%D9%84%20%D8%A7%D8%B3%D9%8A%D8%B1%20%D9%85%D8%B1%D8%AA%D8%B2%D9%82%20%D9%85%D8%B5%D8%B1%D9%8A%20%D9%81%D9%8A%20%D8%A7%D8%AF%D9%84%D8%A8",
+            "name": "احمد حافظ",
+            "path": "published/2_1596543153_احمد حافظ.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=hNkDL-MiTf4",
+            "name": "الفيديو الأصلي",
+            "path": "sources/0_1596543055_yt_1200-vflhSIVnY.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "فيديو قديم.. أسر جندي مصري في سورية",
+    "updated_at": "2020-09-25 03:48:35",
+    "url_path": "/factcheck/2020/08/04/فيديو-قديم-أسر-جندي-مصري-في-سوريا"
+}

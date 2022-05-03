@@ -1,0 +1,88 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1265,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "المقطع لاشتباكات بين المتظاهرين وقوات الشرطة في أوكرانيا (يوتيوب)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">مقطع فيديو تحت عنوان &quot;الأوضاع في أميركا&nbsp;تخرج عن السيطرة&quot;.</span></p>\r\n",
+    "country": "US",
+    "created_at": "2020-06-05 10:38:49",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ed9f689db2916360e46ea14",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من المقطع ووجد أن&nbsp;الادعاء مضلل، إذ أنه يعود لعام 2014، خلال اشتباكات بين متظاهرين وقوات الشرطة في كييف عاصمة أوكرانيا، ولا علاقة له بالأحداث الجارية في أميركا.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"587\" src=\"https://www.youtube.com/embed/wUH3dJdZbJc\" width=\"1044\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات وصفحات على مواقع التواصل الاجتماعي منذ الأول من يونيو/حزيران الجاري، مقطعاً مصوراً يُظهر اشتباكات بين متظاهرين وعناصر شرطة.&nbsp;وادعّت أنه من الاحتجاجات الجارية حالياً في الولايات المتحدة بعد مقتل الأميركي جورج فلويد. </span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"313\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F1248960048541002%2Fvideos%2F3216908135008101%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_f0wslmtlj.jpg\" style=\"height:462px; width:559px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/159134319378.jpg",
+        "watermark_path": "articles/watermark-159134319378.jpg"
+    },
+    "post_date": "2020-06-05T10:33:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/1248960048541002/videos/3216908135008101/?v=3216908135008101",
+            "name": "احداث غريبة تحدث في الارض",
+            "path": "published/0_1591342728_احداث غريبة تحدث في الارض.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/102212191155707/videos/551516845532620/?__xts__%5B0%5D=68.ARCqJhIZzk_uffqyQhFoQs9K4iCJZNVYGURqziGuQof-ZrQtUR64CeOy9JYXxJygzqn-0sAJzOvub_5D21M5hh8K7f2-wAhfZtX9YP9qD8oe8y7NwgeOdGxMmtqou4C1jfvUF_1pHrGgoy_ySU_ZvmdVssNZGRXmmpiZazcFGwSueakodq03SrvGZDmp_wvPdmQMNi7sLzmnLXPBDwKqCa_7GqIsiorIyqIWfKEuwWi1UKmrrGG65b5_T_2hSYhfljrYfwzFo5PpQhjg1GCxZ7EBtzaGXdAi9xSL_auMx96H2m3JLZKIQEMGrv9B-XaMoO05ulTUp4FwRBy_ZlIjISpQLQ1aZYO2bVc&__tn__=-R",
+            "name": "تك تك ميسان",
+            "path": "published/1_1591342945_تك تك.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/104333494644813/videos/250043829559866/?v=250043829559866&external_log_id=4263a805b2dc6be42c3933eb7ae0be41&q=%D8%A7%D9%84%D8%A3%D9%88%D8%B6%D8%A7%D8%B9%20%D9%81%D9%8A%20%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7%20%D8%AA%D8%AE%D8%B1%D8%AC%20%D8%B9%D9%86%20%D8%A7%D9%84%D8%B3%D9%8A%D8%B7%D8%B1%D8%A9",
+            "name": "من الواقع ",
+            "path": "published/2_1591342945_من الواقع.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/376071296356771/videos/3995069450565242/",
+            "name": "إذاعة وتلفزيون النورس",
+            "path": "published/3_1591342945_إذاعة وتلفزيون النورس.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/101446541403471/videos/562483051327269/?v=562483051327269&external_log_id=7ce54ab19f1186723117f6aac84f701b&q=%D8%A7%D9%84%D8%A3%D9%88%D8%B6%D8%A7%D8%B9%20%D9%81%D9%8A%20%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7%20%D8%AA%D8%AE%D8%B1%D8%AC%20%D8%B9%D9%86%20%D8%A7%D9%84%D8%B3%D9%8A%D8%B7%D8%B1%D8%A9",
+            "name": "ذي قار مدينتي",
+            "path": "published/4_1591342945_ذي قار مدينتي.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=wUH3dJdZbJc",
+            "name": "الفيديو الأصلي ",
+            "path": "sources/0_1591342728_yt_1200-vflhSIVnY.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الوضع في أميركا خرج عن السيطرة.. ما حقيقة هذا المقطع؟",
+    "updated_at": "2020-09-25 14:14:49",
+    "url_path": "/factcheck/2020/06/05/الوضع-في-أميركا-يخرج-عن-السيطرة-ما-حقيقة-هذا-المقطع"
+}

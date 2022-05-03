@@ -1,0 +1,88 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 1,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1533,
+    "author": {
+        "fullname": "مريم هواري",
+        "id": "5e299460d4a22939983a3ec5",
+        "photo": {
+            "path": "authors/1579791192_Maryam.jpg"
+        }
+    },
+    "caption": "أعلنت الحكومة الفلسطينية عن إصابة أسير محرر بفايروس كورونا يومًا بعد الإفراج عنه (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">صرّح وزير الشرطة الإسرائيلي عن عدم وجود إصابات في صفوف الأسرى في الأراضي المحتلة.</p>\r\n",
+    "country": "",
+    "created_at": "2020-04-01 16:52:17",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e849c91db2916781d18c023",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الادعاء زائف، إذ صرّح إبراهيم ملحم، المتحدث باسم الحكومة الفلسطينية، بتاريخ 1 أبريل/نيسان الجاري عن إصابة نور الدين صرصور، وهو أسير محرر فلسطيني من بلدة بيتونيا، والذي اعتقل بتاريخ 18 مارس/آذار الجاري، وقضى يومين في معتقل &quot;عصيون&quot; جنوب مدينة بيت لحم و14 يوماً في معتقل &quot;عوفر&quot; غرب مدينة رام الله وأُفرج عنه مساء 31 مارس/آذار الجاري.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_o5ra1hacl.jpg\" style=\"height:338px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_j5p50eqry.jpg\" style=\"height:864px; width:614px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": false,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">صرّح وزير الشرطة الإسرائيلي، غلعاد أردان، في خطابٍ له بتاريخ 1 أبريل/نيسان الجاري، عن عدم وجود إصابات للأسرى بفايروس كورونا في السجون الإسرائيلية، إذ قال في خطابه: &quot;على حد علمي، لا يوجد سجناء مصابين&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_f8wma7hhw.jpg\" style=\"height:634px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_594ffqhkp.jpg\" style=\"height:684px; width:624px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 146,
+        "left": 3.60650634765625,
+        "path": "articles/1585749137GettyImages-1207670651.jpg",
+        "top": 28.984375,
+        "totalHeight": 176,
+        "totalWidth": 264,
+        "watermark_path": "articles/watermark-1585749137GettyImages-1207670651.jpg",
+        "width": 259
+    },
+    "post_date": "2020-04-01T16:42:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.20il.co.il/%D7%94%D7%A9%D7%A8-%D7%92%D7%9C%D7%A2%D7%93-%D7%90%D7%A8%D7%93%D7%9F-%D7%90%D7%9D-%D7%AA%D7%94%D7%99%D7%94-%D7%94%D7%97%D7%9C%D7%98%D7%94-%D7%A2%D7%9C-%D7%A1%D7%92%D7%A8-%D7%90%D7%A0%D7%97%D7%A0/ ",
+            "name": "20il",
+            "path": "published/0_1585749136_20IL.jpg"
+        },
+        {
+            "link": "https://www.news1.co.il/Archive/001-D-424947-00.html  News1",
+            "name": "News1",
+            "path": "published/1_1585749137_news1 logo.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "http://qudspress.com/index.php?page=show&id=60104",
+            "name": "قدس برس | Quds Press",
+            "path": "sources/0_1585749136_قدس برس لوغو.jpg"
+        },
+        {
+            "link": "https://qudsnet.com/post/483437/%D9%85%D9%84%D8%AD%D9%85-%D8%A3%D8%B3%D9%8A%D8%B1-%D9%85%D8%AD%D8%B1%D8%B1-%D9%85%D9%86-%D8%A8%D9%8A%D8%AA%D9%88%D9%86%D9%8A%D8%A7-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D8%A8%D9%8A%D9%86-%D8%A7%D9%8415-%D8%A8%D9%81%D9%8A%D8%B1%D9%88%D8%B3-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-%D8%A7%D9%84%D9%8A%D9%88%D9%85",
+            "name": "وكالة قدس نت للأنباء",
+            "path": "sources/1_1585749136_قدس نت.jpg"
+        },
+        {
+            "link": "https://www.alwatanvoice.com/arabic/news/2020/04/01/1326270.html",
+            "name": "دنيا الوطن",
+            "path": "sources/2_1585749136_دنيا الوطن لوغو.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "وزير صهيوني يدّعي عدم وجود إصابات في صفوف الأسرى في الأراضي المحتلّة",
+    "updated_at": "2020-09-23 12:35:44",
+    "url_path": "/factcheck/2020/04/01/وزير-صهيوني-يدعي-عدم-وجود-إصابات-في-صفوف-الأسرى-في-الأراضي-المحتلة"
+}

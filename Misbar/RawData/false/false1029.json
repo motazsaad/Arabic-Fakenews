@@ -1,0 +1,76 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 94,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "category": "News",
+    "claim": "<p>صورةٌ لبرج إيفل وهو مضاءٌ بألوان العلم اللبناني.</p>\r\n",
+    "country": "FR",
+    "created_at": "2019-10-30 16:48:44",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5db994bc8d7bd92b89640025",
+    "investigation": "<p style=\"text-align:right\">إنّ الصورة مزيّفة، إذ تمّ فبركة صورة قديمة لبرج إيفل وتركيبها ليبدو مضاءً بألوان العلم اللبناني. ووجدنا الصورة الأصلية منشورة منذ نوفمبر/ تشرين الثاني 2013 في موقع&nbsp;Urban Splatter، ضمن مقال بعنوان &quot;تاريخ وعمارة برج إيفل&quot;.</p>\r\n\r\n<p style=\"text-align:right\">وهذه ليست المرّة الأولى التي يتم فيها تركيب صورٍ لبرج إيفل وقد أضاء بألوان أحد البلدان، ففي يوليو/ تموز الماضي انتشرت على مواقع التواصل الاجتماعي صورةٌ مفبركةٌ أظهرت إضاءة البرج بألوان علم الجزائر، إبان تتويج المنتخب الجزائري لكرة القدم بلقب كأس الأمم الأفريقية للمرة الثانية في تاريخه بعد فوزه على منتخب السنغال بهدفٍ دون مقابل.</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\">عقب اندلاع الاحتجاجات المناوئة للحكومة اللبنانية في 17 أكتوبر/ تشرين الأول من العام الجاري، تداول عددٌ من روّاد مواقع التواصل الاجتماعي صورةً تُظهر برج إيفل في العاصمة الفرنسية باريس مضاءً بألوان العلم اللبناني، في إشارةٍ تضامنيةٍ مع المتظاهرين.</p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_f06fdd3db9a50997ecdd317e953acf3e.jpg\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_854075a40aba2bbdcc7e6387d34d569e.jpg\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 392,
+        "left": 7.560791015625,
+        "path": "articles/1572443324صورة المادة.jpg",
+        "top": 17.40625,
+        "totalHeight": 423,
+        "totalWidth": 708,
+        "width": 696
+    },
+    "post_date": "2019-10-22T16:43:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/WeLoveLebanonn/photos/a.757269414300925/2991427250885119/?type=3&theater",
+            "name": "We Love Lebanon ",
+            "path": "published/0_1572443324_We love Lebanon- logo.jpg"
+        },
+        {
+            "link": "https://www.albawabhnews.com/3769084",
+            "name": "البوابة",
+            "path": "published/1_1572443324_البوابة-لوغو.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.urbansplatter.com/2013/11/history-architecture-eiffel-tower/",
+            "name": "Urban Splatter",
+            "path": "sources/0_1572443324_Urban Splatter-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "العلم اللبناني يضيء برج إيفل... ما حقيقة الصورة؟",
+    "updated_at": "2020-09-23 12:40:22",
+    "url_path": "/factcheck/2019/10/30/العلم-اللبناني-يضيء-برج-إيفل-ما-حقيقة-الصورة"
+}

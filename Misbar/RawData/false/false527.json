@@ -1,0 +1,117 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1218,
+    "author": {
+        "fullname": "أمين العطلة",
+        "id": "5e20299dd4a22961d73b6713",
+        "photo": {
+            "path": "authors/1579676161_Ameen.jpg"
+        }
+    },
+    "caption": "أنسو فاتي لا يملك حساباً على موقع فيسبوك (Getty)",
+    "category": "Sports",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">لاعب برشلونة أنسو فاتي: &quot;نحن نسجل الأهداف. لا ننتظر ضربة جزاء مجانية&quot;</p>\r\n",
+    "country": "ES",
+    "created_at": "2020-07-06 14:38:17",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f030d29163be3065c4834a3",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصفحة التي نشرت الصورة والتعليق ووجد أنها صفحة غير رسمية ولا تعود للاعب برشلونة أنسو فاتي، كما أنّ اللاعب لا يملك&nbsp;حساب على موقع فيسبوك، وبمراجعة حساباته الموثقة على &quot;انستغرام&quot; و&quot;تويتر&quot; لم يجد &quot;مسبار&quot; التصريح المنسوب له، وكان أخر ما نشره صور له أثناء تسجيله الهدف واحتفاله مع زملائه في مباراة فريقه الأخيرة ضد فياريال.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"Picture_x0020_4\" src=\"https://images-prod.misbar.com/articlebody/investigation_jshd3embe.jpg\" style=\"height:177.75pt; width:348pt\" /> </span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "برشلونة",
+        "ريال مدريد",
+        "انسو فاتي",
+        "الكلاسيكو",
+        "كرة قدم"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تداولت صفحات على مواقع التواصل الإجتماعي منذ ليل الأحد 5 يوليو/تموز الجاري تصريحاً نسب إلى لاعب نادي برشلونة الإسباني أنسو فاتي يقول فيه &quot;</span>نحن نسجل الأهداف. لا ننتظر ضربة جزاء مجانية&quot;.&nbsp;وأرفق ناشرو التصريح تعليقاً جاء فيه أنّ فاتي يقصف ريال مدريد، وذلك عقب تسجيل فريقه أربعة أهداف في مرمى فياريال، وعقب فوز ريال مدريد على فريق أتلتيك بيلباو بهدف دون مقابل من ركلة جزاء أثارت ضجة في الأوساط الرياضية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"color:black\"><img id=\"Picture_x0020_3\" src=\"https://images-prod.misbar.com/articlebody/origin_9iukfn1uu.jpg\" style=\"height:177pt; width:288.75pt\" /> </span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"color:black\"><img id=\"Picture_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/origin_858dlh3xl.jpg\" style=\"height:347.25pt; width:222pt\" /> </span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"color:black\"><img id=\"Picture_x0020_2\" src=\"https://images-prod.misbar.com/articlebody/origin_dm1eq3h7l.jpg\" style=\"height:374.25pt; width:249pt\" /> </span></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 350,
+        "left": 6.1576995849609375,
+        "path": "articles/1594035497GettyImages-1254460305.jpg",
+        "top": 69.015869140625,
+        "totalHeight": 423,
+        "totalWidth": 633,
+        "watermark_path": "articles/watermark-1594035497GettyImages-1254460305.jpg",
+        "width": 621
+    },
+    "post_date": "2020-07-06T14:19:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/AnsuFati07/photos/a.134631458002529/192719108860430/?type=3&theater",
+            "name": "Ansu Fati",
+            "path": "published/0_1594035495_Ansu Fati.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/1819149504826003/photos/a.1820595404681413/4022209121186686/?type=3&theater",
+            "name": "برشلونة شو بالعربي",
+            "path": "published/1_1594035496_برشلونة شو بالعربي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/114371260110423/photos/a.114375570109992/198543798359835/?type=3&theater",
+            "name": "Football Dz",
+            "path": "published/2_1594035496_Football Dz.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/3ocha9.achraf/photos/a.1410100339074479/3219641848120310/?type=3&theater",
+            "name": "عشاق أشرف بن عياد",
+            "path": "published/3_1594035496_عشاق أشرف بن عياد.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/1135184566691186/photos/a.1135573523318957/1434760130066960/?type=3&theater",
+            "name": "برشلونة الى الأبد",
+            "path": "published/4_1594035496_برشلونة الى الأبد.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/DzairBladi123/photos/a.2377404199249414/2721869258136238/?type=3&theater",
+            "name": "Dzair Bladi",
+            "path": "published/5_1594035496_Dzair Bladi.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/408430809721629/photos/a.408440439720666/707890559775651/?type=3&theater",
+            "name": "موقع كورة اون لاين",
+            "path": "published/6_1594035496_موقع كورة اون لاين.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.instagram.com/p/CBiJckfh0Y3/",
+            "name": "ansufati",
+            "path": "sources/0_1594035496_ansufati.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/197394889304/posts/10159290325509305/",
+            "name": "FC Barcelona",
+            "path": "sources/1_1594035496_FC Barcelona.jpg"
+        },
+        {
+            "link": "https://twitter.com/ANSUFATI",
+            "name": "Ansu Fati",
+            "path": "sources/2_1594035497_ansufati.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "تصريح منسوب للعاب برشلونة أنسو فاتي يقول فيه ",
+    "title": "لم يقل فاتي لريال مدريد \"نحن نسجل الأهداف. لا ننتظر ضربة جزاء مجانية\"",
+    "updated_at": "2020-09-25 11:07:01",
+    "url_path": "/factcheck/2020/07/06/لاعب-برشلونة-فاتي-لم-يصرح-حول-ضربة-جزاء-ريال-مدريد"
+}

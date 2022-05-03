@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 14938,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "المقطع قديم ومنشور على يوتيوب منذ يونيو 2019 (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">فيديو للمعارك بين القوات الحكومية والمجلس الانتقالي الجنوبي في زنجبار في اليمن.</p>\r\n",
+    "country": "YE",
+    "created_at": "2020-05-12 15:22:49",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eba9519db291644a843b3f4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الفيديو المتداول مضلل، إذ تبيّن بعدما تحقق منه &quot;مسبار&quot; أنّه ليس للمعارك الحالية في زنجبار، إنمّا يعود تاريخ نشره على موقع يوتيوب إلى شهر يونيو/حزيران 2019، ويصوّر معارك حصلت في عتق شبوة في اليمن كما جاء في التعليق المرافق للمقطع الأصلي، ولم يتسنّ لـ &quot;مسبار&quot; التأكد من حقيقته.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/YevDNs7D6Bc\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشر مستخدمون على موقع &quot;فيسبوك&quot; مقطع فيديو، قالوا إنّه يصوّر المعارك الدائرة حالياً بين القوات الحكومية اليمنية والمجلس الانتقالي الجنوبي في مدينة زنجبار في اليمن.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F100021604127436%2Fvideos%2F638805390182926%2F&amp;show_text=0&amp;width=316\" style=\"border:none;overflow:hidden\" width=\"316\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fjahmi.aljahmi.54%2Fvideos%2F923566444756460%2F&amp;show_text=0&amp;width=316\" style=\"border:none;overflow:hidden\" width=\"316\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_2u50t5rl1.jpg\" style=\"height:608px; width:1804px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 353,
+        "left": 1.723876953125,
+        "path": "articles/1589286168GettyImages-1165683683.jpg",
+        "top": 44.800048828125,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1589286168GettyImages-1165683683.jpg",
+        "width": 626
+    },
+    "post_date": "2020-05-12T15:13:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/jahmi.aljahmi.54/videos/923566444756460/",
+            "name": "جهمي الجهمي",
+            "path": "published/0_1589286167_جهمي الجهمي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/anismansoora/videos/2109079419238458/",
+            "name": "أنيس منصور",
+            "path": "published/1_1589286167_أنيس منصور.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100021604127436/videos/638805390182926/",
+            "name": "عمار محمد الطيب",
+            "path": "published/2_1589286167_عمار محمد الطيب.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100020043549110/videos/525328668145247/",
+            "name": "محمد الصلوي",
+            "path": "published/3_1589286167_محمد الصلوي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100008614778489/videos/2448103458820123/",
+            "name": "عبد الله سويدان",
+            "path": "published/4_1589286167_عبد الله سويدان.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=339456380372866&id=100029255201674&__tn__=-R",
+            "name": "أبو محمد البكري",
+            "path": "published/5_1589286168_Facebook_logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100040107648419/videos/240751117271808/",
+            "name": "عبد الله محمد العامري بديل",
+            "path": "published/6_1589286168_عبد الله محمد العامري بديل.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=YevDNs7D6Bc",
+            "name": "المقطع الأصلي",
+            "path": "sources/0_1589286168_YouTube-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "حقيقة فيديو المعارك الدائرة في زنجبار اليمنية",
+    "updated_at": "2020-09-25 18:00:19",
+    "url_path": "/factcheck/2020/05/12/حقيقة-فيديو-المعارك-الدائرة-في-زنجبار-اليمنية"
+}

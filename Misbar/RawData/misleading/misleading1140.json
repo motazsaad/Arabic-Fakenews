@@ -1,0 +1,109 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1802,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": " نُشر المقطع في أكتوبر 2015 وكان في مدينة سيهات السعودية (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تبادل إطلاق نار في الدوحة.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-05-14 20:03:01",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ebd79c5db29166f795c07c4",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من المقطع المتداول وتبين أنه مضلل، إذ نُشر في شهر&nbsp;أكتوبر/تشرين الأول عام 2015&nbsp;وكان في مدينة سيهات التي تقع في محافظة القطيف، شرق المملكة العربية السعودية، لحظة هجوم لرجال الأمن في المدينة.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"506\" src=\"https://www.youtube.com/embed/w2wACEPb7JM\" width=\"900\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت حسابات على موقع التواصل الاجتماعي تويتر مقطع فيديو و</span>ادّعت<span dir=\"RTL\" lang=\"AR-SA\"> أنه لتبادل إطلاق نار في الدوحة إثر نزاع مع القوات التركية.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_i8etteh4w.jpg\" style=\"height:452px; width:468px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_cirs2o2dn.jpg\" style=\"height:482px; width:458px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0.59991455078125,
+        "path": "articles/1589475780GettyImages-1137274888.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1589475780GettyImages-1137274888.jpg",
+        "width": 752
+    },
+    "post_date": "2020-05-14T19:57:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/alrub1967/status/1260642759892860928",
+            "name": "حافظ الرباطي",
+            "path": "published/0_1589475780_حافظ الرباطي.jpg"
+        },
+        {
+            "link": "https://twitter.com/bo_mohsin_/status/1260711593157017601",
+            "name": "خلف المزروعي",
+            "path": "published/1_1589475977_78.jpg"
+        },
+        {
+            "link": "https://twitter.com/Norashanar/status/1260683986004840448",
+            "name": "نورة شنار",
+            "path": "published/2_1589475977_نورة شنار.jpg"
+        },
+        {
+            "link": "https://twitter.com/fSlYOh99ShCuRP5/status/1260645973241430016",
+            "name": "عبدالرحمن",
+            "path": "published/3_1589476304_عبدالرحمن.jpg"
+        },
+        {
+            "link": "https://twitter.com/8Dm02/status/1260750747718881280",
+            "name": "محمد احمد",
+            "path": "published/4_1589476304_محمد احمد.jpg"
+        },
+        {
+            "link": "",
+            "name": "",
+            "path": ""
+        },
+        {
+            "link": "https://twitter.com/s_alharthi11/status/1260740254245535745",
+            "name": "سلطان الحارثي",
+            "path": "published/6_1589481132_سلطان الحارثي.jpg"
+        },
+        {
+            "link": "https://twitter.com/t33j_t/status/1260766030772809728",
+            "name": "وش سالفة الهاشتاق",
+            "path": "published/7_1589481132_وش سالفة الهاشتاق.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=w2wACEPb7JM",
+            "name": "الفيديو الأصلي",
+            "path": "sources/0_1589475780_yt_1200-vflhSIVnY.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "فيديو إطلاق النار ليس في الدوحة بل القطيف",
+    "updated_at": "2020-09-25 16:33:56",
+    "url_path": "/factcheck/2020/05/14/حقيقة-فيديو-إطلاق-النار-في-الدوحة"
+}

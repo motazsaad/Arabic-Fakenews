@@ -1,0 +1,138 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 129,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "صديقه قُتل في مواجهات جرت في منطقة كشمير (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\">صورة لطفل يبكي بعد حريق مخيم المنية في لبنان.</p>\r\n",
+    "country": "LB",
+    "created_at": "2020-12-29 21:19:14",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 3,
+    "id": "5feb732271a2550cc42cedf3",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;<a href=\"https://misbar.com/\" style=\"text-decoration:none\" target=\"_blank\"><u>مسبار</u></a>&quot; من الادعاء المتداول ووجد أنه مضلل، إذ تبين أن <a href=\"https://www.hindustantimes.com/india-news/image-of-grieving-9-yr-old-becomes-a-symbol-of-kashmir-s-suffering/story-cwHcvnNsXDDHp1JV7QMhmI.html\" style=\"text-decoration:none\" target=\"_blank\"><u>الصورة الأصلية</u></a> تعود إلى طفل اسمه برهان فايز يبكي صديقه الطفل أمير نزير الذي قُتل في مواجهات جرت في منطقة كشمير المتنازع عليها.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">يُذكر أن كشمير منطقة متنازع عليها بين الباكستان والهند والصين، كما أن أجزاء منها تحاول الحصول على حق الحكم الذاتي.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_a29y95w6k.jpg\" style=\"height:359px; width:544px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">اقرأ/ي أيضاً:</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/12/22/%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%84%D9%8A%D8%B3-%D9%84%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A9-%D8%B3%D8%B1%D9%82%D8%A9-%D9%81%D9%8A-%D9%84%D8%A8%D9%86%D8%A7%D9%86\" target=\"_blank\"><span style=\"color:#000000\">الفيديو ليس لمحاولة سرقة في لبنان</span></a></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/12/16/%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%A7%D9%84%D8%A5%D8%B9%D8%B5%D8%A7%D8%B1-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A-%D9%85%D9%81%D8%A8%D8%B1%D9%83-%D9%88%D9%84%D9%85-%D9%8A%D9%82%D8%B9-%D9%81%D9%8A-%D9%84%D8%A8%D9%86%D8%A7%D9%86\" target=\"_blank\"><span style=\"color:#000000\">فيديو الإعصار البحري مفبرك ولم يقع في لبنان</span></a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "لبنان",
+        "مخيم اليمنة",
+        "سورية"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تتناقل صفحات وحسابات على مواقع التواصل الاجتماعي، حديثاً، صورة تدّعي أنها لطفل يبكي بعد حريق مخيم المنية للاجئين السوريين في لبنان، وأرفقت الصورة مع اقتباس يقول &quot;وكأن لسان حاله يقول رباه لقد ضاقت علينا بما رحبت ففرّج عنا ما نحن فيه، وأعنّا لنخرج إلى مكان لا يظلم فيه أحد يا أكرم الأكرمين&quot;.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_iabwrd5dy.jpg\" style=\"height:624px; width:543px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_bz2z2kjwk.jpg\" style=\"height:709px; width:524px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 311,
+        "left": 0.0673828125,
+        "path": "articles/1609265953المنية.jpg",
+        "top": 24.525390625,
+        "totalHeight": 423,
+        "totalWidth": 554,
+        "watermark_path": "articles/watermark-1609265953المنية.jpg",
+        "width": 554
+    },
+    "post_date": "2020-12-29T20:12:00.000+03:00",
+    "published": [
+        {
+            "id": "5feb75743a0d441322598758",
+            "link": "https://twitter.com/bnt_ajmi/status/1343824828009226240",
+            "name": "𝒩𝒪𝒪ℱ",
+            "origin": "twitter",
+            "path": "sources/aa356cc61a44c34aca2de46c3020d6d4095651d5.jpg"
+        },
+        {
+            "id": "5feb757490274d71a02bcfd7",
+            "link": "https://twitter.com/AbdulRa36532561/status/1343678147020075012",
+            "name": "Abdul Rahman Nasser",
+            "origin": "twitter",
+            "path": "sources/5c2cab415b11ec773904afc411913b2e543fa7b0.jpg"
+        },
+        {
+            "id": "5feb7574b576302227751490",
+            "link": "https://www.facebook.com/groups/4083039388393391/permalink/4181963065167689",
+            "name": "جمال بلال",
+            "origin": "facebook",
+            "path": "sources/9fb41797f3ab0b7b87f8775614ed7b0bdd915b9b.jpg"
+        },
+        {
+            "id": "5feb7574b0eca31a341ef504",
+            "link": "https://www.facebook.com/963muminalloh/posts/1384731295200249",
+            "name": "موجوع قلبي",
+            "origin": "facebook",
+            "path": "sources/a8e2b16760c75a0687fe04f673e9a10bd903e957.jpg"
+        },
+        {
+            "id": "5feb75741a3c0c708603434f",
+            "link": "https://www.facebook.com/walid.lili.DZ/posts/3477398729024162",
+            "name": "Walid Lili DZ",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        },
+        {
+            "id": "5feb7575e050cb0421690517",
+            "link": "https://web.facebook.com/woooooooooow80/posts/2135358219928000?_rdc=1&_rdr",
+            "name": "من هنا وهناك",
+            "origin": "facebook",
+            "path": "sources/bb2ab9b9aab0d38e96371ddb21e52a89b0737acd.jpg"
+        },
+        {
+            "id": "5feb757541dd2e71e300cf88",
+            "link": "https://web.facebook.com/Damasscus.Lovers/photos/a.591184560923332/4985428281498916",
+            "name": "عشاق دمشق",
+            "origin": "facebook",
+            "path": "sources/c3deb198e79e3819e3981532fe3d2a1c41b89604.jpg"
+        },
+        {
+            "id": "5feb7575729fe8692872046b",
+            "link": "https://web.facebook.com/ruh.rou7/posts/968659620332829?_rdc=1&_rdr",
+            "name": "روح",
+            "origin": "facebook",
+            "path": "sources/19ee3ed8ef62e74b4265cd258cdf15fdd4973f3c.jpg"
+        },
+        {
+            "id": "5feb757569b6f7674e328dba",
+            "link": "https://web.facebook.com/em.maria.5209/posts/458738688826584?_rdc=1&_rdr",
+            "name": "Em Maria",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fbe368eb8d7f11f351612cd",
+            "link": "https://www.hindustantimes.com/india-news/image-of-grieving-9-yr-old-becomes-a-symbol-of-kashmir-s-suffering/story-cwHcvnNsXDDHp1JV7QMhmI.html",
+            "name": "Hindustan Times",
+            "origin": "",
+            "path": "sources/f15418f1728c0f9899579dea4fbd69b639fa759a.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "صديقه قُتل في مواجهات جرت في منطقة كشمير.",
+    "title": "ليست صورة طفل يبكي بعد حريق مخيّم المنية، وإنما من كشمير",
+    "updated_at": "2020-12-30 17:43:52",
+    "url_path": "/factcheck/2020/12/29/ليست-صورة-طفل-يبكي-بعد-حريق-مخيم-اليمنة-وإنما-من-كشمير",
+    "was_notification_pushed": false
+}

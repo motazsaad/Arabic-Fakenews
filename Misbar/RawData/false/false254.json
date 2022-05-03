@@ -1,0 +1,91 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 112,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "تم التعديل في الصورة الأصلية وإضافة صورة حسن نصر الله (تويتر)",
+    "category": "Politics",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">صورة لماكرون وهو يستمع لخطاب حسن نصر الله.</span></p>\r\n",
+    "country": "FR",
+    "created_at": "2020-10-01 12:25:17",
+    "created_by": "5f39b5a51dd585076701cb94",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 2,
+    "feedback_pos": 7,
+    "id": "5f75a07db872ef0dda01011e",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من الصورة المتداولة وتبين أنها مفبركة، وتم التعديل في الصورة الأصلية وإضافة صورة حسن نصر الله. </span><span dir=\"RTL\" lang=\"AR-EG\">إذ نُشرت الصورة الأصلية بتاريخ 10 مارس/آذار الفائت، في صفحة الرئيس الفرنسي على موقع فيسبوك، وكانت خلال اجتماع فيديو&nbsp;لماكرون&nbsp;مع بعض المسؤولين في <a href=\"https://www.elysee.fr/emmanuel-macron/2020/03/10/protegeons-ensemble-les-europeens-declaration-du-president-emmanuel-macron-a-lissue-du-conseil-europeen\" style=\"color:#0563c1; text-decoration:underline\">الاتحاد الأوروبي</a> لمتابعة التطورات بشأن فايروس كورونا المستجد، وتنسيق الجهود لمكافحة انتشار الفايروس في أوروبا.</span></p>\r\n\r\n<p style=\"text-align:right\"><iframe frameborder=\"0\" height=\"474\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FEmmanuelMacron%2Fposts%2F2695389644026938&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات على مواقع التواصل الاجتماعي، حديثاً، صورة تُظهر الرئيس الفرنسي إيمانويل ماكرون، وهو يشاهد الأمين العام لحزب الله، حسن نصر الله. وأرفقت الصورة بتعليق &quot;ماكرون يسمع خطاب نصر الله&quot;.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_28k54oqy6.jpg\" style=\"height:467px; width:550px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_skd6wypew.jpg\" style=\"height:513px; width:531px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1601544316EjGq4HaXgAAjlsb.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1601544316EjGq4HaXgAAjlsb.jpg",
+        "width": 752
+    },
+    "post_date": "2020-10-01T12:22:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/102416224920304/photos/a.102420711586522/134832991678627/?type=1&theater",
+            "name": "صادق مقدّم - ناشط سياسي وإجتماعي",
+            "path": "published/0_1601544316_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/dXIQyqvFiWQN4GK/status/1311016850080268288",
+            "name": "علي زعتير",
+            "path": "published/1_1601544574_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/MesSahar/status/1311013849815015424",
+            "name": "Sahar Mes",
+            "path": "published/2_1601544574_twitter.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/EmmanuelMacron/photos/a.1536815099884404/2695389207360315/?type=1&theater",
+            "name": "Emmanuel Macron",
+            "path": "sources/0_1601544316_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الصورة ليست لماكرون وهو يشاهد خطاب نصر الله ",
+    "updated_at": "2020-10-01 16:00:15",
+    "url_path": "/factcheck/2020/10/01/ماكرون-لم-يشاهد-خطاب-نصر-الله-في-هذه-الصورة",
+    "was_notification_pushed": "true"
+}

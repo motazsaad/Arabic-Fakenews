@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 3820,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "الصورة نشرتها مواقع وحسابات من أفغانستان (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">طفلة أصيبت في القصف الذي تعرضت له غزة بالأمس.</span></p>\r\n",
+    "country": "PS",
+    "created_at": "2020-08-27 17:18:53",
+    "created_by": "5f39b5a51dd585076701cb94",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f47c0cd60211806e646c8da",
+    "investigation": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من الصورة المتداولة&nbsp;وتبين أن الادعاء مضلل، وليست من غزة. إذ أن الصورة نشرتها مواقع وحسابات من أفغانستان، بتاريخ 4 أغسطس/آب الجاري، ضمن مجموعة صور أخرى، تعود لفتاة صغيرة جُرحت خلال انفجار قنبلة في منطقة شيغال بإقليم كونار شمال شرق البلاد. وقال ناشرو الصور إن الانفجار وقع في حفل زفاف.</span><br />\r\n<img src=\"https://images-prod.misbar.com/articlebody/investigation_kgeb911g2.jpg\" style=\"height:546px; width:488px\" /></p>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"rtl\">د خواشینې پیغام !<br />\r\n<br />\r\nنن د ورځې لس نیمې بجې په کونړ ولایت شیګل ولسوالې موڼې کلې پیښه کې د (۲) زنانه شهیدانو په شمول (۳) نور ټپیان شوې.<br />\r\n<br />\r\nچاودنه یو جنایت دی، په کلکو ټکو يى غندم.<br />\r\nپه امنیتي او کشفي ارګانونو جيدي غږ کوم چى عاملین زر تر زره پيدا او د قانون منګولو ته وسپاري <a href=\"https://t.co/ZUemp2GRWD\">pic.twitter.com/ZUemp2GRWD</a></p>\r\n&mdash; ضياﺀالرحمن کشميرخان (@ziakashmirkhan) <a href=\"https://twitter.com/ziakashmirkhan/status/1290739993804181504?ref_src=twsrc%5Etfw\">August 4, 2020</a></blockquote>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت حسابات وصفحات على مواقع التواصل الاجتماعي، بتاريخ 25 أغسطس/آب الجاري، صورة طفلة جريحة مرفقة بتعليق &quot;طفلة أصيبت في القصف الذي تعرضت له غزة بالأمس&quot;. &nbsp;</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_do2h4h3it.jpg\" style=\"height:736px; width:463px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ybks75qfz.jpg\" style=\"height:701px; width:463px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1598537932200.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1598537932200.jpg",
+        "width": 752
+    },
+    "post_date": "2020-08-27T17:16:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/MuslimPrayers25/posts/3324594744269924",
+            "name": " دعاء",
+            "path": "published/0_1598537932_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/naeiim.abdalla/posts/4260265710681913",
+            "name": " Naeiim Abdallah",
+            "path": "published/1_1598538108_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/alQalb.ala.chamal/posts/192160605641358",
+            "name": "القلب على الشمال",
+            "path": "published/2_1598538109_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=182320116811629&set=a.105078617869113&type=3&theater",
+            "name": "Baraa Shamse Eldein ",
+            "path": "published/3_1598538109_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/rima.karo/posts/315243266386528?__xts__%5B0%5D=68.ARAdc3segyIZHBXpf7GaRD1XDhq_-vJmXe1ms6zzbyaV1jrh4Cw0HzJkLbSsmd06JxLxaeJloYSVs1s8dJGTbjxSkk0eFkF15M9xDZs0ycWM_TRGLqFr-ejvJuHC4IpiY5Zc5zQoORmRx1PLWIIBw3CoQ6Xf1XNTTw15q5qw7Nsj4DNxu-W7cUxsITwZNNwZceLUciWRNOY_3nAs11yAmlbfex-JRSbgn63cDmOxkLHfE0mz783yyMNKOgaAPVLOBrdUjhAMWmAxyNk3mN5RH1TCAKHb7jqoD7XTvPFMIrK_-33JyWQTGDmzkoPtTrLfL3o&__tn__=-R",
+            "name": "Rima Karo",
+            "path": "published/4_1598538109_facebook.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/AhadiAbdullah55/status/1290613239072673792",
+            "name": "Abdullah Ahadi ",
+            "path": "sources/0_1598537932_Abdullah Ahadi.jpg"
+        },
+        {
+            "link": "https://twitter.com/ziakashmirkhan/status/1290739993804181504",
+            "name": "ضياﺀالرحمن کشميرخان",
+            "path": "sources/1_1598537932_ضياﺀالرحمن کشميرخان.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الصورة ليست لطفلة أصيبت في قصف على غزة",
+    "updated_at": "2020-09-25 21:13:36",
+    "url_path": "/factcheck/2020/08/27/الصورة-ليست-لطفلة-أصيبت-في-قصف-على-غزة"
+}

@@ -1,0 +1,206 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 445,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "caption": "لم يُدل اللاعب الألماني بأيّ تصريح حول الأزمة الأخيرة (Getty)",
+    "category": "Sports",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">تير شتيغن: &quot;أنا لست مسلماً لكن أفضل مخلوق بوجهة نظري هو محمد رسول الله&quot;.</p>\r\n",
+    "country": "DE",
+    "created_at": "2020-11-01 16:36:20",
+    "created_by": "5f39b1ee1dd5850789476b61",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 9,
+    "id": "5f9eb9d49892d12f6c02bd66",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقق &quot;مسبار&quot; من الادعاء المتداول ووجد أنه زائف، إذ لم يُدل اللاعب الألماني بأيّ تصريح حول الأزمة الأخيرة المتعلقة بالإساءة إلى النبي محمد، ولم يرد أيُّ تعقيب له حول الموضوع سواءً في حساباته على مواقع التواصل أو وسائل الإعلام المختلفة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">اقرأ/ي أيضاً</p>\r\n\r\n<p><a href=\"https://misbar.com/factcheck/2020/10/28/%D9%84%D9%85-%D9%8A%D8%B9%D9%84%D9%86-%D9%83%D8%A7%D9%86%D8%AA%D9%8A-%D8%B9%D9%86-%D8%A7%D8%B9%D8%AA%D8%B2%D8%A7%D9%84%D9%87-%D8%A7%D9%84%D9%84%D8%B9%D8%A8-%D8%AF%D9%88%D9%84%D9%8A%D8%A7-%D9%85%D8%B9-%D9%85%D9%86%D8%AA%D8%AE%D8%A8-%D9%81%D8%B1%D9%86%D8%B3%D8%A7\" target=\"_blank\">لم يعلن كانتي عن اعتزاله اللعب دوليًّا مع منتخب فرنسا</a></p>\r\n\r\n<p><a href=\"https://misbar.com/factcheck/2020/10/28/%D9%84%D8%A7-%D8%B5%D8%AD%D8%A9-%D9%84%D8%AE%D8%A8%D8%B1-%D9%88%D9%81%D8%A7%D8%A9-%D8%A7%D9%84%D8%A7%D8%B9%D8%A8-%D8%A7%D9%84%D8%AA%D9%88%D9%86%D8%B3%D9%8A-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D9%82-%D8%AF%D9%88%D8%B3-%D8%B3%D8%A7%D9%86%D8%AA%D9%88%D8%B3\" target=\"_blank\">لا صحة لخبر وفاة الاعب التونسي السابق دوس سانتوس</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">نشر عدد من الحسابات على مواقع التواصل الاجتماعي، تصريحاً منسوباً لحارس فريق برشلونة اللاعب الألماني تير شتيغن، ذكروا فيه أنَّ اللاعب قال&nbsp;&quot;أنا لست مسلماً لكن أفضل مخلوق بوجهة نظري هو محمد رسول الله&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_09hfk6l9p.jpg\" style=\"height:625px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_vtzh6s879.jpg\" style=\"height:515px; width:623px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_2ufvxnngb.jpg\" style=\"height:621px; width:504px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 380,
+        "left": 11.045654296875,
+        "path": "articles/1604237780GettyImages-1168690928.jpg",
+        "top": 30.556884765625,
+        "totalHeight": 423,
+        "totalWidth": 689,
+        "watermark_path": "articles/watermark-1604237780GettyImages-1168690928.jpg",
+        "width": 675
+    },
+    "post_date": "2020-11-01T16:28:00.000+03:00",
+    "published": [
+        {
+            "id": "5f9eb9d29ffa174dcc7ed0fa",
+            "link": "https://www.facebook.com/barca.arbic.1/posts/1773209592835940",
+            "name": "برشا برشا       :",
+            "origin": "facebook",
+            "path": "sources/b951acc9bde217ee02474eaad02019be8306b90e.jpg"
+        },
+        {
+            "id": "5f9eb9d204b0b5624137a46b",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=3205153226259749&id=586430074798757",
+            "name": "اخبار كورة اونلاين",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5f9eb9d2346ae127664c4f91",
+            "link": "https://www.facebook.com/marwan.kaid1/posts/3504075816297086",
+            "name": "Engmarwan Kaid",
+            "origin": "facebook",
+            "path": "sources/e28077ea7a2b1fd0f7d729e5a637bcc96fdf37e9.jpg"
+        },
+        {
+            "id": "5f9eb9d2e7b03c27b96a10a0",
+            "link": "https://www.facebook.com/groups/1719644711521690/permalink/1831798326972994/",
+            "name": "عاشق ريال مدريد",
+            "origin": "facebook",
+            "path": "sources/5bfe4505f0d897cf8eadb4d078ea86f5bd10e8d5.jpg"
+        },
+        {
+            "id": "5f9eb9d3dabdbd023f78aa05",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=172558447564477&id=109989623821360",
+            "name": "برشا برشا",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5f8edc10b764df2b6f025363",
+            "link": "https://www.instagram.com/p/BxTOGzVBbt6/",
+            "name": "Peter Brand&atilde;o",
+            "origin": "",
+            "path": "sources/855c232348646c64a0c7271d4cfee16b859db10c.jpg"
+        },
+        {
+            "id": "5f9eb9d3dc2b3866da5a9a51",
+            "link": "https://www.facebook.com/alminbar.ma/posts/391935371292317/",
+            "name": "منبر مولاي يعقوب     Minbar Moulay Yacoub",
+            "origin": "facebook",
+            "path": "sources/5fcf8773a8f87b676177c87b99dfddef753c80a3.jpg"
+        },
+        {
+            "id": "5f9eb9d315f9d44190806734",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=838825276971902&id=100025333118062",
+            "name": "ياسير الدراوي",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5f9eb9d3c5d76953653d890f",
+            "link": "https://www.facebook.com/moetez.hadjidj/posts/1326594977686676",
+            "name": "Moetez Moetez Hadjidj",
+            "origin": "facebook",
+            "path": "sources/e28077ea7a2b1fd0f7d729e5a637bcc96fdf37e9.jpg"
+        },
+        {
+            "id": "5f9eb9d38b4fa55528364d0d",
+            "link": "https://twitter.com/MoSobh7/status/1227333415701295106",
+            "name": "Mohammed Sobh 🇩🇪",
+            "origin": "twitter",
+            "path": "sources/43d7d8c5111da3eb23d42bf3b0950161ec74d5b1.jpg"
+        },
+        {
+            "id": "5f9eb9d34852581a7178dd3a",
+            "link": "https://twitter.com/Samirprinc1/status/1005119610604179457",
+            "name": "أمحمد سمير 🇩🇿",
+            "origin": "twitter",
+            "path": "sources/d55e605ab88da749ae68dad1c9f8c62ce5b3a2c6.jpg"
+        },
+        {
+            "id": "5f9eb9d3dff4aa40983d1eed",
+            "link": "https://twitter.com/Tharwat55352335/status/1297373104050708481",
+            "name": "Tharwat Mohamed",
+            "origin": "twitter",
+            "path": "sources/7fb174b29bd3c601415931aea9ba9a9adc42f9ad.jpg"
+        },
+        {
+            "id": "5f9eb9d31ed78371e344b59c",
+            "link": "https://twitter.com/DawaghrehMahde/status/1322660013052252160",
+            "name": "Mahde Dawaghreh",
+            "origin": "twitter",
+            "path": "sources/75969f2e9c484e5ce3af824aecf2325928aa17bb.jpg"
+        },
+        {
+            "id": "5f9eb9d304620f5de7186d87",
+            "link": "https://twitter.com/EL_President_/status/1321892581039628289",
+            "name": "𝗘𝗟 𝗣𝗥𝗘𝗦𝗜𝗗𝗘𝗡𝗧",
+            "origin": "twitter",
+            "path": "sources/8f2694e0181aba42e8889ceec6fa66f8f4daab04.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f9eb9d3e9f3e0452a1bf4a3",
+            "link": "https://www.facebook.com/mterstegen1",
+            "name": "Marc-Andr&eacute; ter Stegen ",
+            "origin": "facebook",
+            "path": "sources/503e24d0629f5a043b9419492e94f4361aaa1856.jpg"
+        },
+        {
+            "id": "5f9eb9d3bedaf97974080f2c",
+            "link": "https://twitter.com/mterstegen1",
+            "name": "Marc ter Stegen",
+            "origin": "twitter",
+            "path": "sources/a10783f2d442b2083f5b6da596030991672feea8.jpg"
+        },
+        {
+            "id": "5f919c6afdbe851b4810060f",
+            "link": "https://www.dw.com/en/germany-endure-taxing-evening-against-turkey/a-55187588",
+            "name": "DW News",
+            "origin": "",
+            "path": "sources/1_1596906589_4T05Cmmh_400x400.jpg"
+        },
+        {
+            "id": "5f9eb9d4730f7f30f70b5122",
+            "link": "https://www.euronews.com/news/sport",
+            "name": "euronews",
+            "origin": "",
+            "path": "sources/e8471eddc8c2b1e919076cad3eb522ea5be8823f.jpg"
+        },
+        {
+            "id": "5f91b84585c9fb2f0d4b500a",
+            "link": "https://www.bbc.com/sport",
+            "name": "BBC ",
+            "origin": "",
+            "path": "sources/1_1589372500_BBC NEWS-logo.jpg"
+        },
+        {
+            "id": "5f9eb9d41c05ef01d23d9bd1",
+            "link": "https://www.sportaccord.sport/?gclid=Cj0KCQjwufn8BRCwARIsAKzP694Lt4c9YrozoAfpejTeaZM7rXxQmSc6WZFBlQ_Tuu7bLVtWJTM3Y70aAigUEALw_wcB",
+            "name": "www.sportaccord.sport",
+            "origin": "",
+            "path": "sources/17d8c489b51d065098aa0688dbd112ae0f8b11b6.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "تصريح زائف منسوب لتير شتيغن عن النبي محمد",
+    "updated_at": "2020-11-01 19:41:45",
+    "url_path": "/factcheck/2020/11/01/تصريح-زائف-منسوب-لتير-شتيغن-عن-النبي-محمد",
+    "was_notification_pushed": true
+}

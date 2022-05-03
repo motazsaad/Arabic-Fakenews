@@ -1,0 +1,86 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 860,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">سلطان عُمان الجديد يرفض استقبال السيسي ويُعلن &quot;لن أستقبل أي رئيس وصل للحكم عن طريق الانقلاب&quot;.</p>\r\n",
+    "country": "OM",
+    "created_at": "2020-01-26 17:01:26",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e2d9bb6d4a22933c9068df3",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الخبر غير صحيح، فلم يعثر &quot;مسبار&quot; عليه&nbsp;في أي من المواقع الإلكترونية الرسمية العُمانية. واقتصر الخبر المتداول على وسائل التواصل الاجتماعي، وعلى موقع عرب لايف الذي كان قد نشر في شهر أكتوبر/ تشرين الأول من العام الماضي، التصريح نفسه ونسبه للرئيس التونسي قيس سعيّد.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_b0cd6819b6250ad83ec1bbcd28281119.jpg\" style=\"height:134px; width:641px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشر موقع عرب لايف، خبراً مفاده أنّ سلطان عُمان الجديد، هيثم بن طارق آل سعيد، رفض استقبال الرئيس المصري عبد الفتاح السيسي. وجاء في الخبر الذي شاركه آلاف المستخدمين على مواقع التواصل الاجتماعي، أنّ السلطان هيثم قال &quot;لن أستقبل أي رئيس وصل للحكم عن طريق الانقلاب&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_43e9408dbe21d8e55ee9f17417f1dbf9.jpg\" style=\"height:280px; width:320px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_96fd6ed9c016e1f46ee5d963e10631a5.jpg\" style=\"height:509px; width:255px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_3f0b8ba2b250dd40fb844e6c7a855527.jpg\" style=\"height:328px; width:326px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_5a2721e05f1fcbe3f0e390ab1078a639.jpg\" style=\"height:456px; width:301px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 353,
+        "left": 7.3975830078125,
+        "path": "articles/1580047285GettyImages-914247990.jpg",
+        "top": 50,
+        "totalHeight": 423,
+        "totalWidth": 639,
+        "width": 628
+    },
+    "post_date": "2020-01-26T16:50:00.000+03:00",
+    "published": [
+        {
+            "link": "https://alarab.live/archives/5761?fbclid=IwAR3GGHprwfPqJNueS2Xuy3caElwEQL-FB-4oottn3ukQ18Q6FYbe9EUeHIY",
+            "name": "عرب لايف ",
+            "path": "published/0_1580047285_عرب لايف-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/kachf.elmastoor2/photos/a.1604753176297295/2408722389233699/?type=3&__xts__%5B0%5D=68.ARAJgOsxVpanZXZrjv0cGcNuV4_flwq76mtGExNqaVQena7ADuRAYjnVyyvmMRVD2nfuFlYqMfa2kDbMazcRpJ6H3yG1Ul8HyP6TsMK-h4pjU8YUwmSsFf7f7Jpj8EkkE08ht0_3UM9WSzCIPaCDV-sJoPkGLVl7ci2m7343jW16aW6lIbZ1SRuBXeyFnINmSkqcxDD6sGuX45Fx8cgyAyDUUJO9s7q0KZ8mm0icZJzUzS0furUATX98adJ4zg73bqVCCEQsb8x0rZN4dctBXGscx1LBif4y2ETKtR_OlThNbjSisYLA-KN4CrGbfesQE-1PihaR0Gb4L_RQ7mMpnKQ99GQw&__tn__=-R",
+            "name": "كشف المستور",
+            "path": "published/1_1580047285_كشف المستور-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/takhrist56/photos/a.521027711605607/1024594334582273/?type=3&__xts__%5B0%5D=68.ARBGF1NeW4FaWW6Fal0PnZHQPHrMSirdLlpytFLxw7ZBn0u5iwYXwRAoKEl-cnXRt_CVW93wfZBkeDEwXDg38t17qYygy_40kOEy2OVES2r0sVS6_3I9Lz-Gy4c9k-jEwa47bX2QMK5ShtQY5loh8qz3w9CNsjBwPNspfeP5dOlyWfTc5Rbh6bi5EpTvpLmMDPcmWB-xquiFVYdeZ5rhWrxWKsvun4uCs5A2C68SC-1-HrbC5OxcuQP8Awzt8v7r_CkRLk7Lz6OcVg8Gb41wDuEwLwZTOIRiuzRCNl1Z9Lr2zlRIyJboVLUKMJ3rQ63HI5l1TQoIJ-eXOAykG-ZEWl3GeQ&__tn__=-R",
+            "name": "Takhrist Ahmed",
+            "path": "published/2_1580047285_Takhirst-logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/2411384628883571/photos/a.2411487768873257/2913176758704353/?type=3&theater",
+            "name": "أسبارطة ليبيا",
+            "path": "published/3_1580047285_أسبارطة ليبيا-لوغو.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://omannews.gov.om/",
+            "name": "وكالة الأنباء العُمانية",
+            "path": "sources/0_1580047285_وكالة الأنباء العُمانية-لوغو.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الخبر زائف... سلطان عُمان الجديد لم يرفض استقبال السيسي",
+    "updated_at": "2020-09-25 11:30:25",
+    "url_path": "/factcheck/2020/01/26/الخبر-زائف-سلطان-عمان-الجديد-لم-يرفض-استقبال-السيسي"
+}

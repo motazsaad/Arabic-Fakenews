@@ -1,0 +1,84 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2132,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "نفت رئاسة الجمهورية علمها بالخبر المتداول (صفحة الرئاسة التونسية) ",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">أمر رئيس الجمهورية التونسي، قيس سعيِّد، بإرسال وفدٍ طبيٍّ إلى الجزائر لمساعدتها على مكافحة فايروس كورونا المستجد (كوفيد-19).</p>\r\n",
+    "country": "TN",
+    "created_at": "2020-05-17 14:15:33",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ec11cd5db29161a0a239354",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الخبر وتبيّن أنه زائف، إذ لم يجد أيّ مصدرٍ رسميٍ تونسيٍّ نشر عنه أو عن أخبار مشابهة. وتواصل &quot;مسبار&quot; مع المكلّفة بالإعلام في رئاسة الجمهورية ريم قاسم، التي أكدت أنّ الرئيس قيس سعيِّد يدعم الجزائر دون شكّ، لكن لا علم لها بأمر إرسال أيّ طاقمٍ طبيٍّ لمعاضدة جهودها في مكافحة الفايروس حتى اللحظة. كما لم تصدر رئاسة الجمهورية أيّ بلاغٍ يؤكد صحّة الخبر الذي تمّ تداوله.</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تَتَداول صفحات إخبارية تونسيّة عبر مواقع التواصل الاجتماعيّ، خبراً مفاده أنَّ&nbsp;رئيس الجمهورية التونسية، قيس سعيّد، أمر بإرسال طاقمٍ طبيٍّ إلى الجزائر لمعاضدة جهودها في التصدّي لفايروس كورونا.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"2.jpg\" src=\"https://images-prod.misbar.com/articlebody/origin_14su744a4.jpg\" style=\"height:613px; width:420px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"3 (1).jpg\" src=\"https://images-prod.misbar.com/articlebody/origin_wlh73t9fk.jpg\" style=\"height:649px; width:440px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"1.jpg\" src=\"https://images-prod.misbar.com/articlebody/origin_sg805wv4s.jpg\" style=\"height:558px; width:375px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 352,
+        "left": 2.5,
+        "path": "articles/15897141321eee2c8c-872e-44f2-9a29-eabfbdb3f867.jpg",
+        "top": 3,
+        "totalHeight": 423,
+        "totalWidth": 629,
+        "watermark_path": "articles/watermark-15897141321eee2c8c-872e-44f2-9a29-eabfbdb3f867.jpg",
+        "width": 626
+    },
+    "post_date": "2020-05-17T10:05:00.000+03:00",
+    "published": [
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=1327337997456585&id=760505080806549 ",
+            "name": "راديو واب التضامن ",
+            "path": "published/0_1589714131_jpg.jpg"
+        },
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=736030837192790&id=299285077534037",
+            "name": "الأستاذ قيس سعيد رئيس الجمهورية التونسية ",
+            "path": "published/1_1589714132_kais-8-150x150.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/1860924594181420/posts/2558792277727978/",
+            "name": "قرطاج أف أم",
+            "path": "published/2_1589714132_carthage jpg.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/Presidence.tn/photos/a.271179406273457/873159386075453/?type=1&theater",
+            "name": "رئاسة الجمهورية التونسية",
+            "path": "sources/0_1589714132_riesa.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الرئيس التونسيّ يأمر بإرسال وفدٍ طبيٍّ إلى الجزائر.. خبر زائف",
+    "updated_at": "2020-09-25 16:22:53",
+    "url_path": "/factcheck/2020/05/17/الرئيس-التونسي-يأمر-بإرسال-وفد-طبي-إلى-الجزائر-خبر-زائف"
+}

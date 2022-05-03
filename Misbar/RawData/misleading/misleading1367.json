@@ -1,0 +1,96 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 1,
+        "fb": 1,
+        "tw": 1
+    },
+    "amount_sources": 0,
+    "amount_visits": 1903,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">مظاهرة في ألمانيا تطالب باستقبال السوريين الذين يعيشون في إدلب تحت القصف لإنقاذهم وإعطائهم حق اللجوء.</p>\r\n",
+    "country": "DE",
+    "created_at": "2020-02-13 14:21:15",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e45312bd4a2296b5747d323",
+    "investigation": "<p dir=\"RTL\">تحقق &quot;مسبار&quot; من الصور والفيديو، ليجد أنَّ المظاهرة تم تنظيمها في برلين بالتزامن مع مظاهرات في مدن ألمانية أخرى، بتاريخ 8 شباط/فبراير 2020، ولم تكن من أجل إدلب، كما لم تطالب باستقبال السوريين من الشمال السوري إلى ألمانيا، بل كانت تطالب الحكومة الألمانية باستقبال أطفال مخيمات اللاجئين اليونانية تحت شعار &quot;لدينا مساحة&quot;، وذلك إثر حالة الطوارئ التي تشهدها بعض الجزر اليونانية بسبب اكتظاظ مخيمات اللاجئين، ونقص الأماكن. وجاءت هذه المطالبات واضحة في الشعارات التي رددها المتظاهرون واللافتات التي رفعوها وهي تختلف كليًّا&nbsp;عما نشره النشطاء على وسائل التواصل الاجتماعي، وذلك على الرغم من تواجد بعضهم في المظاهرة والتقاطه صوراً ذاتية &quot;سيلفي&quot; هناك.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_zsw6stcb4.jpg\" style=\"height:930px; width:473px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_k1ikyi5ch.jpg\" style=\"height:930px; width:523px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_7srhgem6u.jpg\" style=\"height:930px; width:452px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_c6vear8ds.jpg\" style=\"height:930px; width:523px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشر الناشط السوري نور الأنيس المقيم في ألمانيا على حسابه في موقع فيسبوك، بتاريخ 9شباط/فبراير 2020، مقطعاً مصوراً وصوراً لمظاهرة في ألمانيا، وظهر الناشط في المقطع يتحدث قائلاً: &quot;الألمان خرجوا يهتفون ويناشدون حكومتهم لجلب السوريين من إدلب إلى ألمانيا وإنقاذهم ومنحهم حق اللجوء&quot;. وحاز الفيديو على تفاعل كبير من&nbsp;رواد صفحات التواصل الاجتماعي وتداوله عديد من الناشطين السوريين.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_74eecrt2h.jpg\" style=\"height:891px; width:554px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_pqkdvh4ew.jpg\" style=\"height:903px; width:554px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_pihymttfc.jpg\" style=\"height:761px; width:553px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 337,
+        "left": 26.657333374023438,
+        "path": "articles/1581592875GettyImages-532084310 (1).jpg",
+        "top": 36.584991455078125,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "width": 598
+    },
+    "post_date": "2020-02-13T11:24:00.000+03:00",
+    "published": [
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=2560570050878132&id=100007754856584",
+            "name": "نور الانيس",
+            "path": "published/0_1581592875_نور حسون.jpg"
+        },
+        {
+            "link": "https://twitter.com/Darin_ALabdalla/status/1226911915085062144?s=19",
+            "name": "دارين العبد الله",
+            "path": "published/1_1581592875_دارين4.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/112515453590503/posts/129191615256220/",
+            "name": "هيثم عبد اللطيف",
+            "path": "published/2_1581592875_هيثم4.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://umbruch-bildarchiv.org/seebruecke-wir-haben-platz/",
+            "name": "Umbruch",
+            "path": "sources/0_1581592875_التقاط.JPG"
+        },
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=1850665105063710&id=472061332924101",
+            "name": "‏‏‎RT Deutsch",
+            "path": "sources/1_1581592875_th.jpg"
+        },
+        {
+            "link": "",
+            "name": "",
+            "path": null
+        },
+        {
+            "link": "",
+            "name": "",
+            "path": null
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل تظاهر الألمان من أجل استقبال السوريين في إدلب؟",
+    "updated_at": "2020-09-23 21:04:10",
+    "url_path": "/factcheck/2020/02/13/هل-تظاهر-الألمان-من-أجل-استقبال-السوريين-في-إدلب"
+}

@@ -1,0 +1,106 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 638,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "المغرب لم يقرّر فتح الحدود حسب رئيس الحكومة (Getty)",
+    "category": "Travel",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:#1d2129\">قررت الحكومة المغربية</span><span style=\"color:#1d2129\"> فتح الحدود أمام المسافرين الراغبين بالخروج أو الدخول من وإلى الأراضي المغربية باستثناء السياح الأجانب. </span></span></p>\r\n",
+    "country": "MA",
+    "created_at": "2020-07-21 13:33:06",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f16c462163be3068679f95b",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:#1d2129\">تحقق &quot;مسبار&quot; من الخبر المتداول ووجد أنّه زائف،</span> <span style=\"color:#1d2129\">إذ ذكرت القناة المغربية الرسمية على حسابها الرسمي على &quot;تويتر&quot;، أنّ رئيس الحكومة </span><span style=\"background-color:white\"><span style=\"color:#222222\">المغربية قال إنه حتى الساعة لم تقرر الحكومة فتح حدود المملكة المغربية، لكنها اتفقت مع بعض الدول على تسيير رحلات استثنائية عبر البواخر والطائرات. </span></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"background-color:white\"><span style=\"color:#222222\">وكانت السلطات المغربية أعادت على متن رحلات خاصة خلال الأسابيع الأخيرة نحو 11 ألف مغربي من أصل نحو 40 ألفاً علقوا في مختلف أرجاء العالم، منذ إغلاق الحدود بعد تفشي الفايروس عالمياً في مارس/مارس الماضي.</span></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span dir=\"LTR\"><span style=\"color:#1d2129\"><img id=\"صورة_x0020_2\" src=\"https://images-prod.misbar.com/articlebody/investigation_frdf7me0p.jpg\" style=\"height:348.75pt; width:486.75pt\" /> </span></span></span><br />\r\n&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:#1d2129\">نشرت صفحات وحسابات على مواقع التواصل الاجتماعي، منذ 9 يوليو/تموز الجاري، خبراً مفاده أن المغرب سيعيد فتح الحدود أمام المسافرين الراغبين بالدخول والخروج إلى المملكة المغربية ابتداءً من 15 يوليو 2020، </span><span style=\"color:#1d2129\">باستثناء السياح الأجانب. </span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"background-color:white\"><span dir=\"LTR\"><span style=\"color:#1d2129\"><img id=\"صورة_x0020_3\" src=\"https://images-prod.misbar.com/articlebody/origin_22czurse9.jpg\" style=\"height:684pt; width:397.5pt\" /> <img id=\"صورة_x0020_4\" src=\"https://images-prod.misbar.com/articlebody/origin_ueuardz17.jpg\" style=\"height:703.5pt; width:417.75pt\" /> </span></span></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 393,
+        "left": 2.8857269287109375,
+        "path": "articles/1595327586GettyImages-1207019157.jpg",
+        "top": 29.121337890625,
+        "totalHeight": 481,
+        "totalWidth": 706,
+        "watermark_path": "articles/watermark-1595327586GettyImages-1207019157.jpg",
+        "width": 700
+    },
+    "post_date": "2020-07-21T13:17:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/story.php?story_fbid=670247673572659&id=100017622966797",
+            "name": "أبو محمد المصطفى الفارسي",
+            "path": "published/0_1595327585_أبو محمد المصطفى الفارسي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/story.php?story_fbid=10223833013910944&id=1162972500",
+            "name": "Ahmed Ayaou",
+            "path": "published/1_1595327585_Ahmed Ayaou.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/story.php?story_fbid=580307999273108&id=130474590923120",
+            "name": "الرؤية - La Vision",
+            "path": "published/2_1595327585_الرؤية - La Vision.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/story.php?story_fbid=1478902502312362&id=300019666867324",
+            "name": "أوريون بلوس",
+            "path": "published/3_1595327585_أوريون بلوس.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/6awari/posts/129221688828522?__xts__[0]=68.ARDxLaAMlRqfC0mZYLFtLmYDB3UG28QObBbRogRvcIe_j_9VWJ9WFkgjzLhdlR7Hoct4IP8uBXeNVP_yQuSdkapvTYjRmuz-HvLcotv9jr7eF46DM4-2iys349UAVoC1csYew4ss-KjFQ_UHlgts7WNfSIUD6ss-HO3X1wpB6jNU3XJtu_lAjDule9VLY4-TV_K95p9n1J8NE4hKQmp2ZclGkgSiuK2N62TgdFbH5WQjLCq1016n5onhokUTirb6aw_-DirVUtTS7Cn2FQAzvUlaKpFHqd3DPTFysTfp8QNcdQaKEbuVFi-FcPHFzYzPg7CTflTwwsr8rOlSoKc&__tn__=-R",
+            "name": "Taher mohamed",
+            "path": "published/4_1595327585_Taher mohamed.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/2MInteractive/status/1284935087876968448",
+            "name": "2M.ma",
+            "path": "sources/0_1595327586_2M.ma.jpg"
+        },
+        {
+            "link": "https://www.maghrebvoices.com/morocco/2020/07/20/%D8%A7%D9%84%D8%B9%D8%AB%D9%85%D8%A7%D9%86%D9%8A-%D9%84%D9%8A%D8%B3-%D9%82%D8%B1%D8%A7%D8%B1-%D8%A8%D9%81%D8%AA%D8%AD-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF-%D9%88%D9%87%D8%B0%D9%87-%D8%A7%D9%84%D8%AA%D8%AF%D8%A7%D8%A8%D9%8A%D8%B1-%D8%B6%D8%B1%D9%88%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D8%A3%D8%B6%D8%AD%D9%89",
+            "name": "أصوات مغاربية",
+            "path": "sources/1_1595327586_أصوات مغاربية.jpg"
+        },
+        {
+            "link": "https://arabia.as.com/%D9%81%D9%8A%D8%B1%D9%88%D8%B3-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7/%D9%81%D9%8A%D8%B1%D9%88%D8%B3-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7%7C-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D9%8A%D9%81%D8%AA%D8%AD-%D8%AD%D8%AF%D9%88%D8%AF%D9%87-%D9%84%D9%84%D9%85%D8%B3%D8%A7%D9%81%D8%B1%D9%8A%D9%86-%D9%88%D9%82%D8%B1%D8%A7%D8%B1-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%81%D9%8A-%D9%85%D9%88%D8%B1%D9%8A%D8%AA%D8%A7%D9%86%D9%8A%D8%A7",
+            "name": "عربي as",
+            "path": "sources/2_1595327586_عربي as.jpg"
+        },
+        {
+            "link": "",
+            "name": "",
+            "path": ""
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "المغرب لم يقرّر حتى الآن فتح حدود البلاد أمام المسافرين",
+    "updated_at": "2020-09-25 12:29:55",
+    "url_path": "/factcheck/2020/07/21/المغرب-لم-يقرر-حتى-الآن-فتح-حدود-البلاد-أمام-المسافرين"
+}

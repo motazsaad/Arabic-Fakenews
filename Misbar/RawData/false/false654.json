@@ -1,0 +1,98 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 1
+    },
+    "amount_sources": 0,
+    "amount_visits": 3536,
+    "author": {
+        "fullname": "خالد إسماعيل",
+        "id": "5e59256dd4a2295224257db3",
+        "photo": {
+            "name": "1582900589_صورة 2.jpg",
+            "path": "authors/1582900589_صورة 2.jpg"
+        }
+    },
+    "caption": "الصورة مفبركة وأضيفت إلى المقطع الأصلي (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\"><span style=\"background-color:white\">رجل أميركي يسرق خنزيراً من متجر أثناء الاحتجاجات التي تبعت&nbsp;مقتل جورج فلويد على يد الشرطة الأميركية.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-06-04 10:50:50",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ed8a7dadb29165a05682ec3",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تحقق &quot;مسبار&quot; من الصورة المتداولة&nbsp;وتبين أنها مُفبركة. إذ أُضيفت&nbsp;لمقطعٍ مصوّرٍ يُظهر عملية نهب لمتجر بتاريخ 28 مايو/أيار الفائت أثناء الاحتجاجات التي تبعت مقتل الأميركي جورج فلويد. وبالعودة للمقطع المصوّر الأصلي، لا يظهر الشاب الذي يحمل على كتفه خنزيراً كما هو مذكور في الخبر المتداول.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_f221mcq36.jpg\" style=\"height:395px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_g4be4k3qh.jpg\" style=\"height:470px; width:624px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تداولت حسابات على موقع التواصل الاجتماعي فيسبوك صورةً</span> <span style=\"color:black\">ادّعى ناشروها أنها لرجلٍ يسرق خنزيراً من متجر في الولايات المتّحدة الأميركية بعد مقتل المواطن الأميركي جورج فلويد على يد أحد عناصر الشرطة في ولاية مينيابوليس. </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_6rw01qwa5.jpg\" style=\"height:598px; width:624px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_g95acmwta.jpg\" style=\"height:534px; width:617px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1591257593GettyImages-1216500864.jpg",
+        "watermark_path": "articles/watermark-1591257593GettyImages-1216500864.jpg"
+    },
+    "post_date": "2020-06-04T10:43:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/408970779149763/photos/a.409439335769574/3110362399010574/?type=3&theater",
+            "name": "مملكة الكتب ",
+            "path": "published/0_1591257048_مملكة الكتب.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ManberDZ/photos/a.2366881140264609/2686553274964059/?type=3&theater",
+            "name": "منبر سكان الجزائر",
+            "path": "published/1_1591257049_منبر سكان الجزائر.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/369304259842863/photos/a.612112618895358/2662751343831465/?type=3&theater",
+            "name": "التجمع المغربي ضد التحكم العلماني",
+            "path": "published/2_1591257049_التجمع المغربي ضد التحكم العلماني.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Ahmed.Gaber.1982/photos/a.2526580587413998/3913748295363880/?type=3&theater",
+            "name": "هنا التاريخ ",
+            "path": "published/3_1591257049_هنا التاريخ.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/bilal.bendalibraham/posts/3013324862094599",
+            "name": "Bilal Bendali",
+            "path": "published/4_1591257049_bilal bendali.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=3267934323262752&set=a.771746769548199&type=3&theater",
+            "name": "Othmane Ghazi",
+            "path": "published/5_1591257049_othman ghazi.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://thefrontierpost.com/us-george-floyd-protests-marred-by-lootings-fire/",
+            "name": "The Frontier Post",
+            "path": "sources/0_1591257049_the frontier post.jpg"
+        },
+        {
+            "link": "https://streamable.com/e706oz",
+            "name": "Streamable",
+            "path": "sources/1_1591257049_the streamable.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "أميركي يسرق خنزيراً من أحد المتاجر.. صورة مفبركة",
+    "updated_at": "2020-09-25 16:47:00",
+    "url_path": "/factcheck/2020/06/04/أميركي-يسرق-خنزير-من-أحد-المتاجر-صورة-مفبركة"
+}

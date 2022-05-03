@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 612,
+    "author": {
+        "fullname": "حمزة حسن",
+        "id": "5e318864d4a2294d2d7209c4",
+        "photo": {
+            "name": "1580304484_hamza-hasan.jpg",
+            "path": "authors/1580304484_hamza-hasan.jpg"
+        }
+    },
+    "caption": "اللوحة للفنّان الألماني بيتر روبينز (Getty)",
+    "category": "Arts & Culture",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">لوحة &quot;</span><span dir=\"LTR\"><span style=\"color:black\">The Fall of the Damned</span></span><span style=\"color:black\"> &ndash; سقوط الملعون&quot; للفنان الألماني بيتر بول روبينز</span> <span style=\"color:black\">التي ظهرت في مسلسل </span><span dir=\"LTR\"><span style=\"color:black\">Dark</span></span><span style=\"color:black\">، تحتوي على تفاصيل الموسم الثالث من المسلسل. </span></p>\r\n",
+    "country": "",
+    "created_at": "2020-07-24 11:15:25",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f1a989d163be3071319b65a",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تحقق &quot;مسبار&quot; من الخبر المتداول ووجد أنّه زائف. فبالعودة للّوحة الأصلية المتداولة للفنّان الألماني بيتر روبينز، لم يجد أي من التفاصيل والمشاهد الخاصة بمسلسل </span><span dir=\"LTR\"><span style=\"color:black\">Dark</span></span><span style=\"color:black\">.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">وبالعودة إلى مسلسل </span><span dir=\"LTR\"><span style=\"color:black\">Dark</span></span><span style=\"color:black\">، وبعد مشاهدة الحلقة السابعة من الموسم الثالث، وتحديداً في المشهد الذي تقف فيه شخصية &quot;آدم&quot; أمام اللوحة المتداولة (الدقيقة </span><span dir=\"LTR\"><span style=\"color:black\">52:40</span></span><span style=\"color:black\">)، لم نجد أيضاً مشاهد المسلسل داخل اللوحة كما ادّعى ناشرو الخبر، كما هو موضّح في الصور أدناه، إذ أنّه تم التعديل على اللوحة الأصلية وإضافة مشاهد من المسلسل. </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img id=\"Picture_x0020_16\" src=\"https://images-prod.misbar.com/articlebody/investigation_ujg53j15a.jpg\" style=\"height:401.4pt; width:467.4pt\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"AR-SA\"><span style=\"color:black\"><img id=\"صورة_x0020_4\" src=\"https://images-prod.misbar.com/articlebody/investigation_v44ohlg75.jpg\" style=\"height:291.6pt; width:308.4pt\" /> </span></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">نشرت صفحات على موقع التواصل الاجتماعي فيسبوك، صورةً للوحة الفنان الألماني بيتر روبينز، التي تحمل عنوان &quot;</span><span dir=\"LTR\"><span style=\"color:black\">The Fall of the Damned</span></span><span style=\"color:black\">&quot;، والّتي ظهرت في الموسم الثالث للمسلسل الألماني </span><span dir=\"LTR\"><span style=\"color:black\">Dark</span></span><span style=\"color:black\">، وادّعت الصفحات أن اللوحة تحمل تفاصيل الموسم الثالث، مُظهرين أوجه الشبه بين تفاصيل اللوحة ومشاهد من المسلسل.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img id=\"Picture_x0020_2\" src=\"https://images-prod.misbar.com/articlebody/origin_ocsuebw4j.jpg\" style=\"height:495pt; width:422.4pt\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img id=\"Picture_x0020_3\" src=\"https://images-prod.misbar.com/articlebody/origin_gf604gh5h.jpg\" style=\"height:453.6pt; width:420.6pt\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 135,
+        "left": 0.218231201171875,
+        "path": "articles/1595578525getty.jpg",
+        "top": 22.135986328125,
+        "totalHeight": 174,
+        "totalWidth": 243,
+        "watermark_path": "articles/watermark-1595578525getty.jpg",
+        "width": 241
+    },
+    "post_date": "2020-07-24T11:04:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/SeriesMixx/posts/1543269735846678",
+            "name": "Series Mix",
+            "path": "published/0_1595578524_series mix.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/mahmoud.shrif.796/posts/970124323439684",
+            "name": "Mahmoud Rehab",
+            "path": "published/1_1595578524_mahmoud rehab.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=139323311145592&id=103018631442727",
+            "name": "Series",
+            "path": "published/2_1595578525_series.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/moroccanmix1/?post_id=304676914066718",
+            "name": "Ashraf Nasser",
+            "path": "published/3_1595578525_ashraf nasser.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/3029917267029257/?post_id=3250412478313067",
+            "name": "Baraa Osama",
+            "path": "published/4_1595578525_baraa osama.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.getdailyart.com/20345/peter-paul-rubens/the-fall-of-the-damned",
+            "name": "Daily Art",
+            "path": "sources/0_1595578525_daily art.jpg"
+        },
+        {
+            "link": "https://www.netflix.com/watch/81183529?trackId=200257858",
+            "name": "Netflix",
+            "path": "sources/1_1595578525_netflix.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لوحة الفنان بيتر روبينز لا تحتوي على تفاصيل الموسم الثالث من مسلسل Dark",
+    "updated_at": "2020-09-25 13:57:46",
+    "url_path": "/factcheck/2020/07/24/لوحة-الفنان-بيتر-روبينز-لا-تحتوي-على-تفاصيل-الموسم-الثالث-من-مسلسل-dark"
+}

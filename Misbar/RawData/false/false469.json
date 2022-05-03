@@ -1,0 +1,88 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 217,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "لم تظهر التغريدة على حسابه في موقع تويتر (Getty)",
+    "category": "Politics",
+    "claim": "<p>الرئيس الأميركي ترامب يغرد ناقداً وزارة الدفاع الأميركية &quot;البنتاغون&quot;؛ لأنها أمرت بإزالة الأعلام الكونفدرالية من على المؤسسات العسكرية، ويمدح العلم.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-07-20 15:21:49",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f158c5d163be306a7686514",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من التغريدة ليجد أنها مفبركة؛ فهي عبارة عن صورة منتشرة، تبدو وكأنها تغريدة من حساب الرئيس الأميركي ترامب، إلا أن التغريدة المزعومة&nbsp;لا تظهر خلال التسلسل الزمني في حساب ترامب الموثق على تويتر&nbsp;بتاريخ 17يوليو/تموز 2020، كما لا تظهر في قاعدة بيانات تجمع تغريدات ترامب أو في موقع أرشيفي يخزّن تغريداته المحذوفة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;ومن المعروف أن موقع تويتر يحتفظ بنسخ عن التغريدات، خاصةً التي لاقت تفاعلاً كبيراً ومن حسابات موثقة، وإذا تم حذفها تظل التغريدة موجودة على شكل رابط في محرك البحث غوغل، إلا أنه لم يتم العثور على تغريدة مماثلة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_xqaw9c4yi.jpg\" style=\"height:339px; width:605px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_gg5n3mz6m.jpg\" style=\"height:277px; width:604px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\">تداولت حسابات أجنبية تغريدة للرئيس الأميركي دونالد ترامب انتشرت في 17يوليو/تموز الجاري يقول فيها &quot;ألغى البنتاغون العلم الكونفدرالي اليوم. العلم جزء هائل من تاريخنا. إنه رمز الحب !! حافظت المزارع على توظيف السود وأعطتهم طعامًا وإسكانًا بالمجان!! كانت البطالة السوداء منخفضة للغاية في ذلك الوقت مثل الآن معي كرئيس&quot;، وتأتي التغريدة بعد إصدار البنتاغون قرار بمنع رفع علم الكونفدرالية الأميركية فوق المؤسسات العسكرية، وذلك عقب الأحداث التي تبعت مقتل الأميركي من أصل أفريقي جورج فلويد تحت ركبة شرطي أبيض.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_o116srrqr.jpg\" style=\"height:619px; width:605px\" /></span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_tgpr2h1ge.jpg\" style=\"height:509px; width:601px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_oeul3rlf1.jpg\" style=\"height:313px; width:597px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 346,
+        "left": 0.5,
+        "path": "articles/1595247709GettyImages-1256557194.jpg",
+        "top": 24.3359375,
+        "totalHeight": 423,
+        "totalWidth": 635,
+        "watermark_path": "articles/watermark-1595247709GettyImages-1256557194.jpg",
+        "width": 616
+    },
+    "post_date": "2020-07-20T13:45:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/TakeBackPA/status/1284883889408942081",
+            "name": "TakeBackPA",
+            "path": "published/0_1595247708_eWkx7RQB_400x400.jpg"
+        },
+        {
+            "link": "https://twitter.com/MrsCharHop/status/1284878800937906176",
+            "name": " CharHop",
+            "path": "published/1_1595247708_n9sanoyQ_400x400.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://projects.propublica.org/politwoops/user/POTUS",
+            "name": "projects.propublica.",
+            "path": "sources/0_1595247708_fd.JPG"
+        },
+        {
+            "link": "https://twitter.com/realDonaldTrump",
+            "name": "DonaldTrump",
+            "path": "sources/1_1595247708_kUuht00m_400x400.jpg"
+        },
+        {
+            "link": "http://www.trumptwitterarchive.com/",
+            "name": "Trump twitter archive",
+            "path": "sources/2_1595247708_ddd.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ترامب لم يغرد في مدح العلم الكونفدرالي",
+    "updated_at": "2020-09-25 07:31:36",
+    "url_path": "/factcheck/2020/07/20/ترامب-لم-يغرد-في-مدح-العلم-الكونفدرالي"
+}

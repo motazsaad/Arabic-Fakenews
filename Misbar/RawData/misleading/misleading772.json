@@ -1,0 +1,114 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 563,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "تعود الصورة إلى عام 2006 (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">صورة من جنازة ضحايا انفجار مرفأ بيروت.</span></p>\r\n",
+    "country": "LB",
+    "created_at": "2020-08-13 19:32:56",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f356b381dd585077a49b8e4",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من الصورة وتبين أنها قديمة وليست لضحايا انفجار مرفأ بيروت، وتعود الصورة لعام 2006، أثناء جنازة مدنيين قتلوا في غارات جوية إسرائيلية على قرية قانا جنوب لبنان.</span><br />\r\n<br />\r\n<img id=\"Picture_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/investigation_2chjtgia1.jpg\" style=\"height:274.5pt; width:467.25pt\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت حسابات وصفحات على مواقع التواصل الاجتماعي، بعد أيام من انفجار مرفأ بيروت صورة تظهر نعوشاً رفع عليها العلم اللبناني، ونشرها المستخدمون على أنها لضحايا انفجار مرفأ بيروت.</span></p>\r\n\r\n<p style=\"text-align:center\"><img id=\"Picture_x0020_3\" src=\"https://images-prod.misbar.com/articlebody/origin_wa74yp724.jpg\" style=\"height:390pt; width:367.5pt\" /></p>\r\n\r\n<p style=\"text-align:center\"><img id=\"Picture_x0020_2\" src=\"https://images-prod.misbar.com/articlebody/origin_00xzpx4we.jpg\" style=\"height:372pt; width:375pt\" /></p>\r\n\r\n<p style=\"text-align:center\"><img id=\"Picture_x0020_4\" src=\"https://images-prod.misbar.com/articlebody/origin_dtvzomnfe.jpg\" style=\"height:381pt; width:366pt\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 322,
+        "left": 26.5,
+        "path": "articles/1597336376GettyImages-71915224.jpg",
+        "top": 80,
+        "totalHeight": 423,
+        "totalWidth": 607,
+        "watermark_path": "articles/watermark-1597336376GettyImages-71915224.jpg",
+        "width": 572
+    },
+    "post_date": "2020-08-13T17:22:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/mednewsnetwork2/photos/a.101890128008825/176786593852511/?type=3&theater",
+            "name": "med news network",
+            "path": "published/0_1597336375_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/702847909854933/permalink/1818776644928715/",
+            "name": "اصدقاء  الجيش اللبناني العظيم",
+            "path": "published/1_1597336375_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/mouemen.kassar.3/posts/770362720458560",
+            "name": "Mouemen Kassar",
+            "path": "published/2_1597336375_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/455679688479449/permalink/528742644506486/",
+            "name": "عيون بيروت",
+            "path": "published/3_1597336375_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Revolution17Lb/posts/188650169305110",
+            "name": "ثورة ١٧ تشرين تمثلني",
+            "path": "published/4_1597336375_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Elmina.media2/photos/a.105735650951843/182265166632224/?type=3&theater",
+            "name": "موقع اعلاميو الميناء",
+            "path": "published/5_1597336375_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://twitter.com/ranoloulou/status/1291345680477433857",
+            "name": "Rania Fayad",
+            "path": "published/6_1597336375_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "link": "https://twitter.com/Soulaymamasri1/status/1291278969749360641",
+            "name": "Soulayma masri ",
+            "path": "published/7_1597336376_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "link": "https://twitter.com/RoroHaj5/status/1291303253515350017",
+            "name": "ام عمر ",
+            "path": "published/8_1597336376_101195326_747056042707733_6451845424750788608_o.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.gettyimages.ae/detail/news-photo/lebanese-civilians-carry-in-qana-18-august-2006-the-coffins-news-photo/71915224?irgwc=1&esource=AFF_GI_IR_TinEye_77643&asid=TinEye&cid=GI&utm_medium=affiliate&utm_source=TinEye&utm_content=77643",
+            "name": "Gettyimages",
+            "path": "sources/0_1597336376_getty images-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الصورة ليست من جنازة ضحايا انفجار مرفأ بيروت",
+    "updated_at": "2020-09-25 08:58:44",
+    "url_path": "/factcheck/2020/08/13/الصورة-ليست-من-جنازة-ضحايا-انفجار-مرفأ-بيروت"
+}

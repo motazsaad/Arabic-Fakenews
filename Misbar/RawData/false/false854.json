@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 14866,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "سيدة غير مصابة بفايروس كورونا المستجد تسقط في أحد شوارع جدة",
+    "category": "Health",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">شاهد امرأة مصابة بفايروس كورونا المستجد تسقط على الأرض في شارع صاري بمدينة جدة السعودية.</p>\r\n",
+    "country": "SA",
+    "created_at": "2020-03-19 19:03:59",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e7397efd4a22941cb750bb3",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من مقطع الفيديو إذ وجد بياناً صادراً عن شرطة منطقة مكة، ونشرته إمارة منطقة مكة في تغريدة على صفحتها الرسمية في موقع تويتر بتاريخ 17 مارس/آذار 2020، نفت فيها الخبر المتداول، ووضحت في بيانها أنّ مقطع الفيديو المتداول لسيدة بحالة غير طبيعية في أحد الطرق في محافظة جدة، هي لمقيمة في العقد الرابع من العمر وتعاني من اعتلالات نفسية، كما نفت الإمارة صحة ما أُشيع أنها مصابة بفايروس كورونا.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img id=\"صورة_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/investigation_ngchdow5l.jpg\" style=\"height:697.2pt; width:397.8pt\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "كورونا",
+        "السعودية",
+        "مكة"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداول نشطاء سعوديون بتاريخ 17 مارس/آذار 2020 على صفحاتهم الشخصية على مواقع التواصل الاجتماعي، إضافة إلى مواقع وصفحات إلكترونية يوم الأربعاء 18 مارس/آذار الجاري، مقطع فيديو ادّعوا أنه لامرأة أجنبية مصابة بفايروس كورونا، إذ تسقط على الأرض في أحد شوارع مدينة جدة السعودية. ويعلّق مصوّر الفيديو بالقول إنها حاولت الهروب من مجموعة رجال لدى اتصالهم بالإسعاف والشرطة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"Picture_x0020_2\" src=\"https://images-prod.misbar.com/articlebody/origin_blfmyr0hg.jpg\" style=\"height:413.4pt; width:366.6pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"Picture_x0020_5\" src=\"https://images-prod.misbar.com/articlebody/origin_kfadmddr9.jpg\" style=\"height:421.8pt; width:379.2pt\" /> </span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 344,
+        "left": 1.86669921875,
+        "path": "articles/1584633839Annotation 2020-03-19 172611.jpg",
+        "top": 31.800048828125,
+        "totalHeight": 423,
+        "totalWidth": 616,
+        "width": 612
+    },
+    "post_date": "2020-03-20T09:24:00.000+03:00",
+    "published": [
+        {
+            "link": "https://eldorar.com/node/149758",
+            "name": "الدرر الشامية",
+            "path": "published/0_1584633839_الدرر الشامية-لوغو.jpg"
+        },
+        {
+            "link": "https://voice-yemen.com/news141674.html",
+            "name": "يمن فويس",
+            "path": "published/1_1584633839_يمن-فويس-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/1784929795113849/posts/2588340931439394/",
+            "name": "تركيا بالعربي",
+            "path": "published/2_1584633839_تركيا-بالعربي-لوغو.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=B5CTZ9rz-mE",
+            "name": "نسائيات",
+            "path": "published/3_1584633839_نسائيات-لوغو.jpg"
+        },
+        {
+            "link": "https://twitter.com/Hassan0Alasiri/status/1240003054189060102?s=19",
+            "name": "حسن العسيري",
+            "path": "published/4_1584633839_حسن-العسيري-لوغو.jpg"
+        },
+        {
+            "link": "https://moka.news/news-637.html",
+            "name": "موكا نيوز",
+            "path": "published/5_1584633839_موكا-نيوز-لوغو.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/makkahregion/status/1240009863960371204?s=19",
+            "name": "إمارة منطقة مكة",
+            "path": "sources/0_1584633839_إمارة-مكة-لوغو.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "سيدة غير مصابة بفايروس كورونا المستجد تسقط في أحد شوارع جدة",
+    "title": "فيديو لامرأة تسقط في مدينة جدة، هل السبب فايروس كورونا؟",
+    "updated_at": "2020-09-24 14:15:56",
+    "url_path": "/factcheck/2020/03/19/فيديو-لامرأة-تسقط-في-مدينة-جدة-هل-السبب-فايروس-كورونا"
+}

@@ -1,0 +1,97 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2205,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "الفيديو من تصميم محترف المؤثرات الخاصة الإيراني أمين تقبور (Getty)",
+    "category": "Entertainment",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">صور ومقاطع فيديو لتساقط باذنجان في بعض المناطق إيران، في ظاهرة جوية غريبة أطلق البعض عليها اسم &quot;عاصفة الباذنجان&quot;.</p>\r\n",
+    "country": "",
+    "created_at": "2020-03-17 07:28:57",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e705209d4a2295fa27e5613",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الفيديو، ووجد أنَّه من تصميم محترف المؤثرات الخاصة الإيرانيّ أمين تقبور، الذي اعتذر في فيديو نشره على&nbsp;حسابه على منصة انستغرام، عن اللّبس الذي حدث بسبب الفيديو. إذ أراد الفنان الإيراني طرح مادة تعليمية عن المؤثرات البصرية من خلال الفيديو، ولم يهدف لخداع المشاهد حسب قوله.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"Image_x0020_13\" src=\"https://images-prod.misbar.com/articlebody/investigation_19yz6ivbc.jpg\" style=\"height:257.25pt; width:414.75pt\" /> </span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداول مستخدمون على وسائل التواصل الاجتماعي، مقطع&nbsp;فيديو وصوراً لتساقط حبات الباذنجان من السماء في إيران، واعتبروها ظاهرةً&nbsp;جويةً غريبةً،&nbsp;أطلقوا عليها اسم&nbsp;&quot;عاصفة الباذنجان&quot;، وهناك من ربطها بانتشار فايروس كورونا المستجد &quot;كوفيد19&quot;&nbsp;في إيران.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"Image_x0020_4\" src=\"https://images-prod.misbar.com/articlebody/origin_5z11mdy3k.jpg\" style=\"height:119.25pt; width:633pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><span style=\"color:#c00000\"><img id=\"Image_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/origin_r0g87urij.jpg\" style=\"height:233.25pt; width:415.5pt\" /> </span></span></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 326,
+        "left": 6.5333099365234375,
+        "path": "articles/1584419337GettyImages-1193975143.jpg",
+        "top": 2.07080078125,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "width": 579
+    },
+    "post_date": "2020-03-17T04:08:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/70081687667/videos/660066288153181/",
+            "name": "بغداد",
+            "path": "published/0_1584419336_باذنجان2.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/electronicliberary/videos/552450758708386/",
+            "name": "المكتبة الالكترونية",
+            "path": "published/1_1584419336_باذنجان1.jpg"
+        },
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=527714751482844&id=386964585267519",
+            "name": "ناس نيوز",
+            "path": "published/2_1584419336_ناس نيوز.JPG"
+        },
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=684115935750009&id=682004535217916",
+            "name": "عربية ",
+            "path": "published/3_1584419336_عربية رواد.jpg"
+        },
+        {
+            "link": "https://arabic.rt.com/videoclub/1094074-%D8%B3%D9%85%D8%A7%D8%A1-%D8%AA%D9%85%D8%B7%D8%B1-%D8%A8%D8%A7%D8%B0%D9%86%D8%AC%D8%A7%D9%86-%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%84%D8%A7-%D9%8A%D9%85%D9%83%D9%86-%D8%AA%D8%B5%D8%AF%D9%8A%D9%82%D9%87/amp/",
+            "name": "روسيا بالعربي",
+            "path": "published/4_1584419336_عقوبات ارت تي.JPG"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.instagram.com/p/B9y-LAXBtEV/",
+            "name": "amin_tgpr",
+            "path": "sources/0_1584419336_با.JPG"
+        },
+        {
+            "link": "https://www.instagram.com/p/B9vwcybDcxo/",
+            "name": "amin_tgpr",
+            "path": "sources/1_1584419336_با.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "باذنجان  يتساقط من سماءِ إيران.. حقيقة الفيديو",
+    "updated_at": "2020-09-23 23:22:30",
+    "url_path": "/factcheck/2020/03/17/باذنجان-يتساقط-من-سماء-إيران-حقيقة-الفيديو"
+}

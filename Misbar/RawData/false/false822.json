@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 2,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 24689,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "لم تذكر خلال كلمتها اكتشاف علاج لفايروس كورونا ولم تذكر الطبيب التونسي ",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\"><span style=\"color:black\">في تصريح مقتضب </span><span style=\"color:black\">للمستشارة الألمانية أنغيلا </span><span style=\"color:black\">ميركل، تحدثت عن المفاوضات مع الدكتور كمون صاحب العلاج الجديد ضد فايروس كورونا. </span></p>\r\n",
+    "country": "",
+    "created_at": "2020-03-31 16:38:13",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e8347c5db291659a6562ff3",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">راجع فريق مسبار كلمة المستشارة الألمانية أنغيلا ميركل، ليتبين أنَّ الترجمة غير صحيحة، إذ لم تذكر خلال كلمتها اكتشاف علاج لفايروس كورونا ولم تذكر الطبيب التونسي، بل كانت تتحدث عن الإجراءات التي تتخذها الحكومة الألمانية للتعامل مع انتشار فايروس كورونا حيث قالت: &quot;لقد ناقشنا اليوم الإجراءات الحالية لمواجهة الوضع، ليس لدينا حتى هذه اللحظة أيَّ لقاح أو دواء ضد الفايروس، لكنني أقصد هنا الإجراءات التي نتخذها وأولها تجهيز نظامنا الصحي، وبشكل خاص المستشفيات، استعداداً لارتفاع عدد الإصابات المتوقع خلال الفترة المقبلة&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">كما وجد &quot;مسبار&quot;&nbsp;<a href=\"https://twitter.com/almaniadiplo/status/1243618458417467394?s=20\" style=\"color:#0563c1; text-decoration:underline\">بياناً</a> صادراً عن المركز الألماني للإعلام التابع لوزارة الخارجية الألمانية، بتاريخ 27 مارس/آذار 2020 ينفي فيه الترجمة الزائفة التي تم تداولها لتصريحات المستشارة ميركل حول لقاح جديد ضد فيروس كورونا تم تطويره بواسطة طبيب تونسي.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img id=\"Picture_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/investigation_lq8p4r6iu.jpg\" style=\"height:300.75pt; width:405.75pt\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت العديد من صفحات التواصل الاجتماعي مقطعاً مصوراً للمستشارة الألمانية &quot; أنغيلا ميركل&quot; يومي 22،23 مارس/آذار 2020، تدّعي الترجمة أنَّ ميركل تتحدث عن مفاوضات مع الطبيب التونسي رضوان كمون صاحب العلاج الجديد لفايروس كورونا، وتفاعل مع الفيديو الآلاف من مستخدمي وسائل التواصل الاجتماعي، وتابعه الملايين وتمت مشاركته من الآلاف من المتابعين.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"صورة_x0020_4\" src=\"https://images-prod.misbar.com/articlebody/origin_3sxlvuvuu.jpg\" style=\"height:477.75pt; width:414.75pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"صورة_x0020_6\" src=\"https://images-prod.misbar.com/articlebody/origin_eznny25uc.jpg\" style=\"height:565.5pt; width:414.75pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"صورة_x0020_7\" src=\"https://images-prod.misbar.com/articlebody/origin_s1v0opiiw.jpg\" style=\"height:697.5pt; width:377.25pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"صورة_x0020_8\" src=\"https://images-prod.misbar.com/articlebody/origin_28ohnqf45.jpg\" style=\"height:565.5pt; width:414.75pt\" /> </span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 353,
+        "left": 2.0404815673828125,
+        "path": "articles/158566189337340185256_6dd4753edf_c.jpg",
+        "top": 54.28125,
+        "totalHeight": 423,
+        "totalWidth": 635,
+        "watermark_path": "articles/watermark-158566189337340185256_6dd4753edf_c.jpg",
+        "width": 627
+    },
+    "post_date": "2020-03-31T16:23:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.youtube.com/watch?time_continue=30&v=z-IH7F8tqkM&feature=emb_title",
+            "name": "marketing4u",
+            "path": "published/0_1585661892_marketing4u.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ettounsiafm.officiel/videos/854597358345699/",
+            "name": "Ettounsi - Jaafer",
+            "path": "published/1_1585661892_Ettounsi - Jaafer.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=146123403399570",
+            "name": "المواطن عصام بلانكو - Le citoyen Issam Blanco",
+            "path": "published/2_1585661892_المواطن عصام بلانكو - Le citoyen Issam Blanco.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=246772759693641",
+            "name": "ضد زارعي االبهامة والتسطيك الثوري",
+            "path": "published/3_1585661892_ضد زارعي االبهامة والتسطيك الثوري.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100010933291732/videos/1057688977938869/",
+            "name": "الحلوانى الغريب",
+            "path": "published/4_1585661893_الحلوانى الغريب.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/almaniadiplo/status/1243618458417467394?s=20",
+            "name": "Germany @ Arab World",
+            "path": "sources/0_1585661892_Germany @ Arab World.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ترجمة تدّعي إعلان ميركل اكتشاف طبيب تونسي علاج لفايروس كورونا  ",
+    "updated_at": "2020-09-25 09:46:25",
+    "url_path": "/factcheck/2020/03/31/ترجمة-تدعي-إعلان-ميركل-اكتشاف-طبيب-تونسي-علاج-لفايروس-كورونا"
+}

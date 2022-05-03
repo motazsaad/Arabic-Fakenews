@@ -1,0 +1,119 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 1,
+        "fb": 1,
+        "tw": 1
+    },
+    "amount_sources": 0,
+    "amount_visits": 17597,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "شاباً هندياً ظهر في مقطع فيديو على موقع تيك توك (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">عامر خان يقدم مساعدات مالية داخل أكياس الدقيق.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-04-29 17:50:00",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ea99418db29163b85078a94",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span dir=\"rtl\" lang=\"ar\">تحقق &quot;مسبار&quot; من الخبر ووجد أنه مشكوك فيه، إذ نشر عدد من المواقع والقنوات التلفزيونية الهندية والأجنبية الخبر، وقالوا إنَّ شاباً هندياً ظهر في مقطع فيديو نشره عبر موقع تيك توك، وادعى&nbsp;أنّ عامر خان تبرع بملبغ مالي&nbsp;للفقراء بطريقة فريدة من نوعها وأرسل شاحنة فيها&nbsp;أكياس من الدقيق، ليتم توزيعها على المحتاجين في مدينة دلهي الهندية في منطقة محرومة تحديداً. وكانت محملة بعبوات&nbsp;وزنها 1 كيلو غرام&nbsp;من الدقيق وفي داخلها المال. وأكد أنّ خان أراد بهذه الطريقة وصول الأموال إلى المحتاجين حقاً، لأنَّ أولئك الذين يعانون من ضغوط شديدة، هم فقط من سيصطفون للحصول على 1 كلغم من الدقيق.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span dir=\"rtl\" lang=\"ar\">وأكدت المواقع أنه لم يتم التحقق من صحة الفيديو أو الحادث حتى الآن، وقالت إنَّ خان من المعروف عنه أنه لا يُعلن عن خدمته الاجتماعية، على عكس معظم نجوم بوليوود الآخرين.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_tiadllzpz.jpg\" style=\"height:604px; width:686px\" /></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"506\" src=\"https://www.youtube.com/embed/0sKfCMUnwzo\" width=\"900\"></iframe></p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"rtl\" lang=\"ar\">نشرت مواقع إلكترونية وصحفات على مواقع التواصل الاجتماعي، خبراً عن قيام الفنان الهندي عامر خان بتوزيع مساعدات مالية على المحتاجين في بلاده في&nbsp;ظل انتشار فايروس كورونا المستجد، وأرفق مع الخبر صورة أكياس دقيق وفي داخلها مبلغ من المال. وادعى ناشرو الصورة أنه وبعد وصول شاحنات الدقيق إلى إحدى مناطق مدينة دلهي الهندية، رفض الكثير من الناس أخذ المساعدات على اعتبار أنّ كيلو غراماً من الدقيق لا يكفي لإطعام أسرهم، لتكون المساعدات من نصيب المحتاجين فقط، ثم تفاجأ كل من أخذ الدقيق بمبلغ مالي قدره 15 ألف روبية هندية (197 دولاراً أميركيًّا تقريباً) داخل الكيس. </span></p>\r\n\r\n<p style=\"text-align:center\"><strong><span style=\"color:#f73832\"><img src=\"https://images-prod.misbar.com/articlebody/origin_j8i8e4omh.jpg\" style=\"height:621px; width:623px\" /></span></strong></p>\r\n\r\n<p style=\"text-align:center\"><strong><span style=\"color:#f73832\"><img src=\"https://images-prod.misbar.com/articlebody/origin_5x77b0dpj.jpg\" style=\"height:437px; width:624px\" /></span></strong></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"470\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FThawra.Dantel%2Fposts%2F2681563478743568&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"470\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmegamixmovies1%2Fposts%2F2584529408454161&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 53.27284240722656,
+        "path": "articles/1588171799GettyImages-1145158692.jpg",
+        "top": 0,
+        "totalHeight": 563,
+        "totalWidth": 844,
+        "watermark_path": "articles/watermark-1588171799GettyImages-1145158692.jpg",
+        "width": 752
+    },
+    "post_date": "2020-04-29T17:45:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.noonpresse.com/%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A7%D8%AA-%D8%B5%D8%A7%D9%85%D8%AA%D8%A9-%D9%81%D9%8A-%D8%B2%D9%85%D9%86-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-%D9%86%D8%AC%D9%85-%D8%A8%D9%88%D9%84%D9%8A%D9%88%D8%AF/",
+            "name": "Noonpresse",
+            "path": "published/0_1588171798_Noonpresse.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Thawra.Dantel/posts/2681563478743568?__xts__%5B0%5D=68.ARD8Yb7S0cP7cNZ1Tn51vIdJP9ybvurwzby8k7hUA8rJAPNqJBGA4ccMl6fNX4nJVcAygA97qQci0Z_ypf_JQUJK2OUDFckLoIorHEgvpg0OF9YvRHQHGHd9Fql5VG30Py35PgqjNQmQxARF7HTWGZjAP97pWpdqK739yXhYBViExDKccODU5ujlffyvvHzIdc6ajLndNkpiyN9PpUaPNNJdS6IQ6A1XmKJ1xWrNxz6TWK-uWFTV_tsLFoR5hfF63JarqKu871T0LGGziIkwgalKzgf-Pi-M1-vleYBWksJ6aDkOPETqvOihx4eSBnJClkItqfVPdubdoexP87-wbUQfpCgJ&__tn__=-R",
+            "name": "ثوره الدانتيل",
+            "path": "published/1_1588172248_ثوره الدانتيل.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/megamixmovies1/posts/2584529408454161?__xts__%5B0%5D=68.ARAFe0MKvVE7VCJvx3DMYlORygD3ddUVyEBMCarIboks44ZnHGa5CcXoW4K6skvDJ4Mo5eAav1qiNVLrsA-aNOSzKoP5uKDyLUH6C9rrKtutoyDsmgca3Bof4Z_nsLmR8SVOmBk0PG5E3131zg4y_Mx_WQJok2zHyvCyb5YENjibNC-xsSmXKKtoJynUyVcy7ZFCvP4n6qz5oovfqwLC9fLHdDVqL4FV87l9zUo6DzXdM-C6zsuGs3yVEQct5cfQFLHTvr84Z57p9l0Bz7spYaEtRNbTxeMqMTzdQETU5h0lbBrjMV2RyTKxHcXHOlXleu9gxGROA2rzC0C3PmzqBp3OXTUS&__tn__=-R",
+            "name": "Mega Mix Movies",
+            "path": "published/2_1588172248_55.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/iraqidhaij/posts/3861875347216417?__xts__%5B0%5D=68.ARBMjU0qE9Xm0FkrFN_hPiiXPh6a_qYSjDV0CrqZ806IYQWxrDnwRlONwClNBYt6p3DDiL_lzT-mScNdmOWSrquCs1gzjD31recIL9-qidub9Mmx_1kB-1wAdholFvgd0NGB_5xfldhUFCtIUSJRIOMdT-IjuylL9iclKXmPy5uhaN8bVjvtHKv8kb7rfplxjmaDtBPFJ6SopAstHQPf77ME4GJ0g3hIEL2HgIX-zKPUmu-mn3liDOm6Mh_zR41yVlq_cS1lHpWeuQx8ZNoJXm_tSsvK5dXZS_zlhP_bUmpAQl6G96g9LNbNfcXquKi2hxTVdJlgIeAM__EoFJwkrcYtxA&__tn__=-R",
+            "name": "عراقي ضايج",
+            "path": "published/3_1588172248_عراقي ضايج.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=678906716238400&id=199193310876412&__xts__%5B0%5D=68.ARBIAdesp-2qzJcYi-T7200DQ-lKI7SktnSLoCTwN7aMMcRGxbj0ecTccCbdlrI7bTYRvYS4SOC_M7dYcBRzlXqE1YqWN6JRRQHT_6P_Uukr3RlRZ8Aujyb23UaYqG0iMxZv5bDNvZElI07xjOMPA7iGW-F0k0jeTYd55XEtGzpn7YadP8RTuM4xpN8STWbbHJ1msQDsdUg_f62UMgnTKy8jzZfZJ_02EzpsLRX8NpXE_8JtvpdgmxYYOlRq6DKr0nX1Um363JV-90Uf2i18DZL8S0O6kGcrtqy6O8Gap3quzaLrOA2cTex7C34q9PAducKNbIFM8KJ9eGHJplgOEBg&__tn__=-R",
+            "name": "المغرب الجديد",
+            "path": "published/4_1588172248_66.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/snapat218/posts/1696475897156941?__xts__%5B0%5D=68.ARBPge_fis1rkwMZZW60CBsG8nl_b0EtXzVIAkVpHKMiywXz10CvyTSYWZxTDuuohDufK-j5kQjTbaZfNH9JcWxaaU8KxaSs78aby9cztZOBFw4or_NWnJfaOvCjZAroY7jPIbuaBdjEuHZpA4RLkPsZg1F2cS6m848HtFjgd-IXdRBvdLz8wdfMZTAXmg1XE1mOHDlcP66d6_XapM1SDwibHQzh2G37vKhrSETbkzPvDFc3fr1gtCQHmGcbW8X_NcMAkG2XOgQpVIe9HM-FUne4qSfnCZwdEK8cWqXZwlPeu9qevbRntwOAs-IGGnZMK7BH8dU7wfQjZOLqdThXHzLKow&__tn__=-R",
+            "name": "ســنابات",
+            "path": "published/5_1588172248_ســنابات.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/mix.zaki.rbh/posts/1971992246263985?__xts__%5B0%5D=68.ARCeagZ41chXgUDyGN53-3CluRhDfRA3N0rnQaVKw812fJiwIDAFKoQgA9SW--xaC7K0PtB_Pck6mV3hvZtr2uvFEr4Fd1oZ2FBtiUC0PX4M6_5kChDBWgUufYqJ50bS8cqn7NdRrfj184iKS0xbmAKC1yty-crrcdL_QE0Vy-f-7ebIJbHIxl6Fh8KNIGtJcPLwmbNgntwEG4q8hW6qu3iGrRK2jDMgh9hgM9nr5948ohz1SefZQYMUqOvhwtp-BXxSM3z3l0sfr1Tbx1ltZ0meIQWw0ZzwfRnZeIyKPlA4nKsmFiAeVw5DrTWIJZrEhbbxm4prgX2xuz9zWsduJ19_lA&__tn__=-R",
+            "name": "Mix",
+            "path": "published/6_1588172249_89.jpg"
+        }
+    ],
+    "result": "unclear",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://gulfnews.com/entertainment/bollywood/did-aamir-khan-distribute-money-in-wheat-flour-packets-1.71211621",
+            "name": "Gulf News",
+            "path": "sources/0_1588171799_Gulf News.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=0sKfCMUnwzo",
+            "name": "ETimes",
+            "path": "sources/1_1588172320_ETimes.jpg"
+        },
+        {
+            "link": "https://twitter.com/Sangram_Sanjeet/status/1254978968849170432",
+            "name": "SANGRAM U SINGH",
+            "path": "sources/2_1588172320_SANGRAM U SINGH.jpg"
+        },
+        {
+            "link": "https://twitter.com/aamir_khan",
+            "name": "Aamir Khan",
+            "path": "sources/3_1588172320_Aamir Khan.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل وزّع عامر خان الأموال على المحتاجين في أكياس الدقيق؟",
+    "updated_at": "2020-09-25 21:27:45",
+    "url_path": "/factcheck/2020/04/29/هل-قام-عامر-خان-بتوزيع-الأموال-على-المحتاجين-في-أكياس-الدقيق"
+}

@@ -1,0 +1,96 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 2,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 4864,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "category": "Spirituality & Religion",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">اعتنق عشرون مليون صينيًّا الإسلام بعد أن ثَبُتَ أنّ وباء كورونا لا يصيب المسلمين.</p>\r\n",
+    "country": "CN",
+    "created_at": "2020-02-11 17:16:00",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e42b720d4a22979b05a10a3",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقّق &quot;مسبار&quot; من الخبر المتداول، ووجد أنه غير صحيح، فلم ينشر أيُّ موقع صينيّ هذه الأنباء أو حتى ما يشابهها، أما الصورة المتداولة نُشرت في تأبين رئيس الجمعية الإسلامية لمقاطعة شنغهاي عام 2018 عند وفاته. كما لم تعلن أية جهة رسمية اعتناق عدد كبير من الصينيين دين الإسلام عقب انتشار فايروس كورونا.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;وبحث &quot;مسبار&quot; عمّا يسمّى قناة الصين الأولى بحسب ما جاء في الخبر، ولم يعثر على أي قناة بهذا الاسم، بل توجد قناة الصين المركزية الأولى <span dir=\"LTR\" lang=\"EN-US\">(cctv)</span> التي لم تذكر هي الأخرى هذه الأخبار المتداولة على وسائل التواصل الاجتماعي.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">وتبيّن أنّ موقع قناة سكاي نيوز العربية لم ينشر أيَّ خبر حول عشرين مليون صينيًّا اعتنقوا الإسلام بسبب كورونا، أما شعار قناة سكاي نيوز على الصورة فهو زائف كما يتّضح من شكل الشعار ومكانه.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span dir=\"LTR\"><img id=\"صورة_x0020_4\" src=\"https://images-prod.misbar.com/articlebody/investigation_6whcicjy3.jpg\" style=\"height:423pt; width:466.5pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span dir=\"LTR\"><span style=\"color:#c00000\"><img id=\"Picture_x0020_3\" src=\"https://images-prod.misbar.com/articlebody/investigation_58ohrm57h.jpg\" style=\"height:247.5pt; width:468pt\" /> </span></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات على موقع التواصل الاجتماعي، خبراً ادّعت فيه أنّ عشرين مليون صينيًّا دخلوا إلى دين الإسلام بعد انتشار فايروس كورونا في الصين، بحجّة أنّ الفايروس لا يصيب المسلمين. ونسبت هذه الصفحات مصدر الخبر إلى القناة الصينية الأولى، كما وضعت على الصورة العاجلة شعار قناة سكاي نيوز مدّعية أنها نشرت الخبر، ولاقى الخبر تفاعلاً كبيراً.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"صورة_x0020_5\" src=\"https://images-prod.misbar.com/articlebody/origin_qibp1gswm.jpg\" style=\"height:564pt; width:344.25pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"صورة_x0020_6\" src=\"https://images-prod.misbar.com/articlebody/origin_ye8w5xa1b.jpg\" style=\"height:9in; width:372pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"صورة_x0020_7\" src=\"https://images-prod.misbar.com/articlebody/origin_zsk59lsov.jpg\" style=\"height:255.75pt; width:468pt\" /> </span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 326,
+        "left": 46.40458679199219,
+        "path": "articles/1581430559GettyImages-1196684909.jpg",
+        "top": 46.79356384277344,
+        "totalHeight": 423,
+        "totalWidth": 633,
+        "width": 580
+    },
+    "post_date": "2020-02-11T14:37:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/1860533364216274/posts/2547684622167808/",
+            "name": "المدينة الجديدة دراع الريش",
+            "path": "published/0_1581430559_القناة الجديدة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/tahrer25/photos/a.100735198049335/100793904710131/?type=1&theater",
+            "name": "أخبار متنوعة",
+            "path": "published/1_1581430559_اخبار متنوعة3.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/24NEWZ/videos/520981911945869/",
+            "name": "Orjan News",
+            "path": "published/2_1582930940_Orjan News-logo.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "http://tv.cctv.com/lm/dysj",
+            "name": "cctv1",
+            "path": "sources/0_1581430559_صينص.jpg"
+        },
+        {
+            "link": "http://www.heyanshouzhua.com/htm/20187/15_1237.htm",
+            "name": "Heyanshouzhua",
+            "path": "sources/1_1581430559_نننننننننن.jpg"
+        },
+        {
+            "link": "https://www.skynewsarabia.com/",
+            "name": "سكاي نيوز",
+            "path": "sources/2_1581430559_33صينينينين.jpg"
+        },
+        {
+            "link": "https://wemp.app/posts/e984e038-03f2-4fad-adcc-177c83b059c5",
+            "name": "WE MP",
+            "path": "sources/3_1581430559_صصصصصصصص.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "20 مليون صينياً يعتنقون الإسلام بعد كورونا..ما الحقيقة؟",
+    "updated_at": "2020-09-23 12:38:41",
+    "url_path": "/factcheck/2020/02/11/20-مليون-صينيا-يعتنقون-الإسلام-بعد-كورونا-ما-الحقيقة"
+}

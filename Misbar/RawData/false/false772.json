@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 6081,
+    "author": {
+        "fullname": "محمود غزيل",
+        "id": "5ea83263db291659bf4bf4c4",
+        "photo": {
+            "name": "1588081251_IMG-20180505-WA0040.jpg",
+            "path": "authors/1588081251_IMG-20180505-WA0040.jpg"
+        }
+    },
+    "caption": "نفت مؤسسة بيل وماليندا غايتس الخبر المتداول (تويتر)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\"><span dir=\"rtl\" lang=\"ar\">بيل غيتس، صاحب شركة مايكروسوفت، يستغل فيروس كورونا لتطبيق نظام عالمي جديد للتحكم بالبشر عبر رقائق إلكترونية ضمن مشروع ID2020.</span></p>\r\n",
+    "country": "US",
+    "created_at": "2020-04-28 02:02:02",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5ea7646adb29165833075bf4",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"rtl\" lang=\"ar\">تحقق &quot;مسبار&quot; من الخبر المتداول ووجد أنه يحتوي على نظرية مؤامرة، إذ أنّ بيل غيتس&nbsp;تحدث أكثر من مرة عن ضرورة أن&nbsp;يكون هناك نظام صحي قائم على شهادات صحية ذات قواعد موحّدة عالمية تساعد المؤسسات والشركات في تخطي فترة فايروس كورونا المستجد، دون أنّ يربط ذلك بمشروع ID2020 المتداول. وفي سؤال آخر وجه له حول كيفية إعادة فتح المؤسسات والشركات التجارية في مرحلة ما بعد فايروس كورونا، قال غيتس &quot;يجب أن&nbsp;يكون هناك نوعاً&nbsp;من الشهادات الرقمية تفيد بمن شُفي من كورونا ومن تم فحصه مؤخراً ومن حصل على لقاح&quot;. ولم يتحدث عن أي شيء&nbsp;حول الخبر المتداول.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"rtl\" lang=\"ar\">كما نفت مؤسسة بيل وماليندا غايتس في حديث لوكالة رويترز، الخبر المتداول وقالت إنه ادعاء كاذب.</span></p>\r\n\r\n<div dir=\"rtl\" style=\"border-bottom:none windowtext 1.0pt; padding:0in 0in 11.0pt 0in\">\r\n<p style=\"text-align:center\"><span dir=\"rtl\" lang=\"ar\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_luzh2u8qi.jpg\" style=\"height:539px; width:602px\" /></span></p>\r\n\r\n<p style=\"text-align:center\"><span dir=\"rtl\" lang=\"ar\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_p5soiofht.jpg\" style=\"height:366px; width:602px\" /></span></p>\r\n</div>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"rtl\" lang=\"ar\">نشرت مواقع إلكترونية وحسابات على مواقع التواصل الاجتماعي، خبراً مفاده أنّ رئيس شركة مايكروسوفت&nbsp;بيل غايتس، يدفع من أجل تطبيق مشروع رقاقة إلكترونية تعرف باسم مشروع ID202، من أجل التحكم بالناس وباللقاحات التي يمكن الحصول عليها.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"618\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fheart.of.mary.arabic%2Fposts%2F2918138491614428&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"717\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fashraf.yanni1%2Fposts%2F10159621338998047&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/158802877122135303_10154930899536961_4959660337302559557_o.jpg",
+        "watermark_path": "articles/watermark-158802877122135303_10154930899536961_4959660337302559557_o.jpg"
+    },
+    "post_date": "2020-04-28T01:54:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/salrashed/status/1249770845632974851 ",
+            "name": "صلاح صالح الراشد",
+            "path": "published/0_1588028771_صلاح صالح الراشد.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/heart.of.mary.arabic/posts/2918138491614428 ",
+            "name": "قلب مريم المتألم الطاهر",
+            "path": "published/1_1588028771_قلب مريم المتألم الطاهر.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Riadhaddad.dz/posts/2877140649049163 ",
+            "name": "رياض حداد",
+            "path": "published/2_1588028771_61799886_2236292783133956_3908079553964146688_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ashraf.yanni1/posts/10159621338998047 ",
+            "name": "Ashraf Yanni",
+            "path": "published/3_1588028771_Ashraf Yanni.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/MoslehSarieddine/photos/a.594168134012863/2904501569646163/ ",
+            "name": "مصلح سري الدين",
+            "path": "published/4_1588028771_صلاح صالح الراشد.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.gatesnotes.com/Health/A-coronavirus-AMA ",
+            "name": "GatesNotes",
+            "path": "sources/0_1588028519_GatesNotes.jpg"
+        },
+        {
+            "link": "https://reut.rs/2UQ6gwJ ",
+            "name": "Reuters",
+            "path": "sources/1_1588028519_Reuters.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "بيل غيتس يستغل كورونا لزرع رقائق تحت الجلد.. ما الحقيقة؟",
+    "updated_at": "2020-09-25 15:11:33",
+    "url_path": "/factcheck/2020/04/28/بيل-غايتس-يستغل-كورونا-لزرع-رقائق-تحت-الجلد-ما-الحقيقة"
+}

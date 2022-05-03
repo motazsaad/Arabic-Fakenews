@@ -1,0 +1,83 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 30646,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الفيديو منشور على يوتيوب منذ أبريل 2017 (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">عاجل بالفيديو: أميركا تعترف بخطاياها وتُعلن التوبة بعد انتشار كورونا.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-04-02 10:55:37",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e859a79db29162b3e29e3d4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">فحص &quot;مسبار&quot; مقطع الفيديو ووجد أن الادعاء كاذب، فالمقطع قديم ومنشور على &quot;يوتيوب&quot; منذ أبريل/نيسان 2017، أي قبل ظهور كورونا بأكثر من سنتين ونصف السنة. يصوّر الفيديو النائب راندي ويبر الذي يتلو صلاة يطلب فيها من الله المغفرة لأميركا على تشريع الإجهاض والمساواة في الزواج والمدارس العلمانية.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/hDif7h08tCk\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">انتشر على منصة فيسبوك، مقطع فيديو ادعى ناشروه أنّه يظهر اعتراف الولايات المتحدة رسمياً بذنوبها وطلبها المغفرة بعد أزمة انتشار فايروس كورونا. يظهر في الفيديو رجل ذو صفة رسمية لم يوضّح ناشرو المقطع هويته، يتلو صلاةً يطلب فيها المغفرة للأمة الأميركية.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"313\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fjoseph.manasseh1%2Fvideos%2F2948017428588783%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/WGxNUnXSvMA\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 353,
+        "left": 2.879425048828125,
+        "path": "articles/1585814136GettyImages-1192140836.jpg",
+        "top": 1.80712890625,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1585814136GettyImages-1192140836.jpg",
+        "width": 628
+    },
+    "post_date": "2020-04-02T10:47:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2562228680656080&id=100006069187689",
+            "name": "جمال رشدي",
+            "path": "published/0_1585814135_جمال رشدي.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=WGxNUnXSvMA",
+            "name": "عاشقة الرياضة شوشة",
+            "path": "published/1_1585814136_عاشقة الرياضة شوشة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100023834012108/videos/677351759735952/?hc_location=ufi",
+            "name": "فارس المحضار",
+            "path": "published/2_1585814136_فارس المحضار.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=hDif7h08tCk",
+            "name": "الفيديو الأصلي",
+            "path": "sources/0_1585814136_YouTube-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "أميركا تعترف بخطاياها وتطلب المغفرة بعد انتشار كورونا.. ما قصة الفيديو؟",
+    "updated_at": "2020-09-25 16:30:23",
+    "url_path": "/factcheck/2020/04/02/أميركا-تعترف-بخطاياها-وتطلب-التوبة-بعد-انتشار-كورونا-ما-قصة-الفيديو"
+}

@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 189,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "الصورة الأصلية لطفل في الهند (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">طفل يمشي على أنبوب نفط، وهو لا يعلم أن كنوز وطنه تجري من تحت قدميه. هذا ما يحصل في بلادنا.</p>\r\n",
+    "country": "",
+    "created_at": "2020-10-02 18:13:55",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 5,
+    "feedback_pos": 10,
+    "id": "5f7743b306061820606a44ab",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;<a href=\"https://misbar.com/\" style=\"text-decoration:none\" target=\"_blank\"><u>مسبار</u></a>&quot; من الادعاء المتداول ووجد أنه مضلل، لأن <a href=\"https://www.hemis.fr/image-photo/581343/inde-etat-maharashtra-mumbai-dharavi-grand-bidonville-bombay-mumbai-enfant-marchant-conduit.html?idLangue=2\" style=\"text-decoration:none\" target=\"_blank\"><u>الصورة الأصلية</u></a> تعود إلى طفل في الهند يمشي فوق أنبوب للمياه.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_bg74cqgdi.jpg\" style=\"height:265px; width:582px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">اقرأ/ي أكثر:</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/10/01/%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D9%84%D9%85-%D8%AA%D9%85%D9%86%D8%B9-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%87%D8%A8%D9%88%D8%B7-%D9%81%D9%8A-%D8%A3%D8%B1%D8%A7%D8%B6%D9%8A%D9%87%D8%A7\" target=\"_blank\">الجزائر لم تمنع طائرة مصرية من الهبوط على أراضيها</a></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/10/01/%D9%85%D8%B4%D9%87%D8%AF-%D8%AA%D9%85%D8%AB%D9%8A%D9%84%D9%8A-%D9%88%D8%A7%D9%84%D9%85%D8%B0%D9%8A%D8%B9%D8%A9-%D9%84%D9%85-%D9%8A%D8%B7%D9%84%D9%82%D9%87%D8%A7-%D8%B2%D9%88%D8%AC%D9%87%D8%A7-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%87%D9%88%D8%A7%D8%A1\" target=\"_blank\">مشهد تمثيلي والمذيعة لم يطلّقها زوجها على الهواء</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "الهند",
+        "النفط"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تتناقل صفحات وحسابات على مواقع التواصل الاجتماعي، منذ سنوات، صورة تدعي أنها لطفل يمشي حافي القدمين فوق أنبوب للنفط، في إحدى الدول العربية.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_shzbfotqy.jpg\" style=\"height:573px; width:544px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_z13bh61n0.jpg\" style=\"height:703px; width:526px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 156,
+        "left": 1.48333740234375,
+        "path": "articles/1601651635child on a pipe.jpg",
+        "top": 142.300048828125,
+        "totalHeight": 423,
+        "totalWidth": 281,
+        "watermark_path": "articles/watermark-1601651635child on a pipe.jpg",
+        "width": 278
+    },
+    "post_date": "2020-10-02T18:11:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://web.facebook.com/100005501799181/posts/1382784335248280/?app=fbl&_rdc=1&_rdr",
+            "name": "حميد بن محمد الجهمي",
+            "path": "published/0_1601651847_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://web.facebook.com/groups/553883368850468/permalink/682332162672254/?app=fbl&_rdc=1&_rdr",
+            "name": "ياسمين محمد",
+            "path": "published/1_1601651847_292125a415afd51c528af0974bc38d2c24b8ff16.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://web.facebook.com/100009819817537/posts/1278047839199198/?app=fbl&_rdc=1&_rdr",
+            "name": "متفأله بالله",
+            "path": "published/2_1601651847_d4cf08c13a4e4ce4776dca004ea523205db7ed06.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://web.facebook.com/groups/503037853393582/permalink/1242087012821992/?app=fbl&_rdc=1&_rdr",
+            "name": "ابو أمير الجبل",
+            "path": "published/3_1601651847_292125a415afd51c528af0974bc38d2c24b8ff16.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://web.facebook.com/groups/217381225407846/permalink/1105709446575015/",
+            "name": "Hams Amer",
+            "path": "published/4_1601651848_292125a415afd51c528af0974bc38d2c24b8ff16.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.hemis.fr/image-photo/581343/inde-etat-maharashtra-mumbai-dharavi-grand-bidonville-bombay-mumbai-enfant-marchant-conduit.html?idLangue=2",
+            "name": "www.hemis.fr",
+            "path": "sources/0_1601651634_53c762d957ad712a140b803798a5c1e2ba9713ae.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ليست صورة طفل عربي يمشي فوق أنبوب نفط",
+    "updated_at": "2020-10-02 18:20:02",
+    "url_path": "/factcheck/2020/10/02/ليست-صورة-طفل-عربي-يمشي-فوق-أنبوب-نفط",
+    "was_notification_pushed": "true"
+}

@@ -1,0 +1,109 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1147,
+    "author": {
+        "fullname": "إيهاب زيدان",
+        "id": "5e831843db29167af05e0683",
+        "photo": {
+            "name": "1585649731_Ihab Zidan Profile writer1.jpg",
+            "path": "authors/1585649731_Ihab Zidan Profile writer1.jpg"
+        }
+    },
+    "caption": "نفت السفارة الأسترالية في لبنان الخبر المتداول (Getty)",
+    "category": "Travel",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">أستراليا تفتح باب الهجرة أمام اللبنانين بسبب الظروف الاقتصادية والمعيشية الخانقة التي تعصف بلبنان.</p>\r\n",
+    "country": "AU",
+    "created_at": "2020-07-12 17:15:03",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f0b1ae7163be3071c6fdba8",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الخبر المتداول ووجد أنه زائف. إذ نشرت السفارة الأسترالية في لبنان بياناً على صفحتها الرسمية في موقع فيسبوك بتاريخ 7 يوليو/تموز الجاري، ينفي&nbsp;الخبر المتداول عن إعادة تفعيل طلبات الهجرة للّبنانيين، وأفادت أن إجراءات الهجرة المتّبعة في استراليا تسري على جميع المتقّدمين من جميع الدول.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_enw2236f0.jpg\" style=\"height:451px; width:563px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"color:red\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_0d8eqtzk1.jpg\" style=\"height:350px; width:358px\" /></span></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت مواقع إخبارية لبنانية وصفحات على موقع التواصل الاجتماعي فيسبوك بتاريخ 7 يوليو/تموز الجاري، خبراً مفاده أن أستراليا فتحت باب الهجرة أمام اللبنانين، نظرًا للظروف الاقتصادية والمعيشية الخانقة التي تعصف بلبنان، وأن السفارة على تواصل باللبنانيين الذين قدّموا طلبات هجرة في وقتٍ سابق، لإعلامهم أنها باشرت العمل على إعادة تفعيلها والبت بها من أجل تسفيرهم من لبنان.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_cnfth89wm.jpg\" style=\"height:774px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_kjzlgyjpf.jpg\" style=\"height:842px; width:591px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_glaifdoof.jpg\" style=\"height:482px; width:562px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_tkoxxm104.jpg\" style=\"height:213px; width:561px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 130,
+        "left": 2.413787841796875,
+        "path": "articles/1594563302GettyImages-498137506.jpg",
+        "top": 3.363037109375,
+        "totalHeight": 162,
+        "totalWidth": 231,
+        "watermark_path": "articles/watermark-1594563302GettyImages-498137506.jpg",
+        "width": 230
+    },
+    "post_date": "2020-07-12T17:08:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.lebanondebate.com/news/487718",
+            "name": "ليبانون ديبايت ",
+            "path": "published/0_1594563301_ليبانون ديبايت.jpg"
+        },
+        {
+            "link": "http://akhbarnaonline.com/%D8%A3%D8%B3%D8%AA%D8%B1%D8%A7%D9%84%D9%8A%D8%A7-%D8%AA%D9%81%D8%AA%D8%AD-%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D8%A3%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86/",
+            "name": "Akhbarna Online",
+            "path": "published/1_1594563302_اخبارنا.jpg"
+        },
+        {
+            "link": "https://www.addiyar.com/article/1824350-%D8%A3%D8%B3%D8%AA%D8%B1%D8%A7%D9%84%D9%8A%D8%A7-%D8%AA%D9%81%D8%AA%D8%AD-%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D8%A3%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A%D9%8A%D9%86",
+            "name": "الديار ",
+            "path": "published/2_1594563302_الديار.jpg"
+        },
+        {
+            "link": "http://lebanese.site/2020/07/%D8%A3%D8%B3%D8%AA%D8%B1%D8%A7%D9%84%D9%8A%D8%A7-%D8%AA%D9%81%D8%AA%D8%AD-%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D8%A3%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86/",
+            "name": "LEBANESE.SITE",
+            "path": "published/3_1594563302_LEBANESE SITE.jpg"
+        },
+        {
+            "link": "https://kataeb.org/%D8%A3%D8%B3%D8%AA%D8%B1%D8%A7%D9%84%D9%8A%D8%A7-%D8%AA%D9%81%D8%AA%D8%AD-%D8%A8%D8%A7%D8%A8-%D8%A7%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D8%A3%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A%D9%8A%D9%86/2020/07/07/%D9%85%D8%AD%D9%84%D9%8A%D8%A7%D8%AA/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1",
+            "name": "الكتائب اللبنانية ",
+            "path": "published/4_1594563302_الكتائب.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/jadeedouna/posts/3102126319854925",
+            "name": "Jadeedouna News أخبار جديدنا",
+            "path": "published/5_1594563302_JADEEDOUNA.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/LebaneseBloc/posts/2657810717653668",
+            "name": "Lebanese Bloc ",
+            "path": "published/6_1594563302_lebanese bloc.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/hrarnew/posts/2578271049104500",
+            "name": "حرار عكار شمال لبنان ",
+            "path": "published/7_1594563302_حرار عكار.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/AusEmbassyLebanon/posts/1414181732116497",
+            "name": "Australian Embassy – Beirut, Lebanon",
+            "path": "sources/0_1594563302_australian embassy.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لم تفتح أستراليا باب الهجرة أمام اللبنانيين بسبب الظروف المعيشية",
+    "updated_at": "2020-09-25 11:26:36",
+    "url_path": "/factcheck/2020/07/12/أستراليا-تفتح-باب-الهجرة-أمام-اللبنانين-بسبب-الظروف-الاقتصادية-والمعيشية-الخانقة-التي-تعصف-بلبنان"
+}

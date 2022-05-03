@@ -1,0 +1,113 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 3510,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": " أكد الرئيس التركي أنه سيتم إنشاء مستشفيين جديدين في مدينة إسطنبول (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">قضى فايروس كورونا على حركة الطيران في تركيا، فحولت مدرج مطار أتاتورك بإسطنبول لمستشفى لعلاج ضحايا الفايروس.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-04-20 17:24:46",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e9db0aedb291610961181f5",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من الادعاء ووجده مضللاً، إذ&nbsp;لم يتم تحويل مطار أتاتورك إلى مستشفى بعد أنّ قضى فايروس كورونا على حركة الطيران في تركيا، إذ توقفت جميع الرحلات التجارية في المطار&nbsp;منذ شهر أبريل/نيسان 2019، وتمّ نقلها إلى مطار إسطنبول الجديد الذي بُني حديثاً. الأمر الذي لم تأتِ القناتين على ذكره.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">وخُصّص مطار أتاتورك في الآونة للأخيرة للشحن والصيانة والطيران العام ورحلات العمل والطائرات الحكومية والدبلوماسية، بينما خُصص مطار إسطنبول الجديد لرحلات الركاب التجارية.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_ensr25rf5.jpg\" style=\"height:433px; width:623px\" /></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"rtl\" lang=\"ar\">وأكد الرئيس التركي رجب طيب أردوغان، أنه سيتم إنشاء مستشفيين جديدين في مدينة إسطنبول خلال مدة لا تتجاوز 45 يوماً، بهدف مكافحة فايروس كورونا <span style=\"background-color:white\"><span style=\"color:black\">(كوفيد-19).</span></span>&nbsp;وأضاف أنّ أحد المستشفيين سيكون في منطقة سنجاق تبه بالشطر الآسيوي من المدينة، والآخر في الطرف الأوروبي، داخل مطار أتاتورك.&nbsp;</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"rtl\" lang=\"ar\"><span style=\"background-color:white\">ويذكر<span style=\"color:black\">&nbsp;</span></span>أنّ<span style=\"background-color:white\"><span style=\"color:black\"> معظم دول العالم قد علقت رحلات الطيران، نتيجة تفشي فايروس كورونا المستجد.</span></span></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_14naam866.jpg\" style=\"height:411px; width:623px\" /></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">نشرت قناتيّ<span dir=\"RTL\" lang=\"AR-EG\"> </span>العربية والعربية الحدث، مقطع فيديو&nbsp;شاركه عدد من مستخدمي وسائل التواصل الاجتماعي، يصوّر&nbsp;عملية تحويل مطار أتاتورك في مدينة إسطنبول في تركيا&nbsp;إلى مستشفى، وقالت العربية&nbsp;إنّ المطار تم تحويله إلى مستشفى لعلاج ضحايا فايروس كورونا المستجد، بعد أنّ قضى الفايروس على حركة الطيران في تركيا.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_rz5k49m1o.jpg\" style=\"height:673px; width:438px\" /></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FAlHadath%2Fvideos%2F745358402664424%2F&amp;show_text=0&amp;width=380\" style=\"border:none;overflow:hidden\" width=\"380\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 23,
+        "path": "articles/1587392685GettyImages-1210327442.jpg",
+        "top": 0,
+        "totalHeight": 512,
+        "totalWidth": 798,
+        "watermark_path": "articles/watermark-1587392685GettyImages-1210327442.jpg",
+        "width": 752
+    },
+    "post_date": "2020-04-20T17:21:00.000+03:00",
+    "published": [
+        {
+            "id": "5f956882d43c437ba3084eb3",
+            "link": "https://twitter.com/AlArabiya/status/1251929806368718849",
+            "name": "العربية ",
+            "origin": "",
+            "path": "published/0_1587392685_العربية.jpg"
+        },
+        {
+            "id": "5f956882bf48f130ec28f647",
+            "link": "https://www.facebook.com/AlHadath/videos/745358402664424/?v=745358402664424&external_log_id=cd43f0c431d5838c7f1eb5c8bff639ae&q=%D8%B9%D9%84%D9%89%20%D8%AD%D8%B1%D9%83%D8%A9%20%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86%20%D9%81%D9%8A%20%23%D8%AA%D8%B1%D9%83%D9%8A",
+            "name": "العربية الحدث",
+            "origin": "",
+            "path": "published/1_1587392818_قناة الحدث.jpg"
+        },
+        {
+            "id": "5f956882c71c4f5bf8177db8",
+            "link": "https://www.facebook.com/AlArabiya/videos/155514525869958/?v=155514525869958&external_log_id=87612fe9fa72ef4166cfca0862100b52&q=%D8%B9%D9%84%D9%89%20%D8%AD%D8%B1%D9%83%D8%A9%20%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86%20%D9%81%D9%8A%20%23%D8%AA%D8%B1%D9%83%D9%8A%D8%A7%20%D9%81%D8%AD%D9%88%D9%84%D8%AA%20%D9%85%D8%AF%D8%B1%D8%AC%20%D9%85%D8%B7%D8%A7%D8%B1%20%23%D8%A7%D8%AA%D8%A7%D8%AA%D9%88%D8%B1%D9%83",
+            "name": "العربية ",
+            "origin": "",
+            "path": "published/2_1587392818_العربية.jpg"
+        },
+        {
+            "id": "5f956882a7a50942ea712e5d",
+            "link": "https://twitter.com/msjamal/status/1251886000877510656",
+            "name": "محمد جمال ",
+            "origin": "",
+            "path": "published/3_1587392818_محمد جمال MJ.jpg"
+        },
+        {
+            "id": "5f956882149cac75a9473d74",
+            "link": "https://twitter.com/baher7hamed/status/1252222980735844354",
+            "name": "بحر",
+            "origin": "",
+            "path": "published/4_1587392818_بحر.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f91ba496091bd68346f4227",
+            "link": "https://www.aa.com.tr/ar/%D8%AA%D8%B1%D9%83%D9%8A%D8%A7/%D9%85%D8%B7%D8%A7%D8%B1-%D8%A3%D8%AA%D8%A7%D8%AA%D9%88%D8%B1%D9%83-%D9%8A%D9%88%D8%AF%D8%B9-%D8%A2%D8%AE%D8%B1-%D8%B1%D8%AD%D9%84%D8%A7%D8%AA%D9%87-%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9-%D9%84%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D8%B3%D8%A8%D8%AA/1442272",
+            "name": "وكالة الأناضول",
+            "origin": "",
+            "path": "sources/1_1590257645_2.jpg"
+        },
+        {
+            "id": "5f91ba496091bd68346f4227",
+            "link": "https://www.aa.com.tr/ar/%D8%AA%D8%B1%D9%83%D9%8A%D8%A7/%D8%A5%D8%B3%D8%B7%D9%86%D8%A8%D9%88%D9%84-%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%A8%D9%86%D8%A7%D8%A1-%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89-%D8%A8%D9%85%D8%B7%D8%A7%D8%B1-%D8%A3%D8%AA%D8%A7%D8%AA%D9%88%D8%B1%D9%83-%D9%84%D9%85%D8%B1%D8%B6%D9%89-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7/1798482",
+            "name": "وكالة الأناضول",
+            "origin": "",
+            "path": "sources/1_1590257645_2.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "تحويل مطار أتاتورك في إسطنبول إلى مستشفى.. ما السبب الحقيقي؟",
+    "updated_at": "2020-10-25 14:58:58",
+    "url_path": "/factcheck/2020/04/20/الأسباب-الحقيقية-وراء-تحويل-مطار-أتاتورك-في-إسطنبول-إلى-مستشفى"
+}

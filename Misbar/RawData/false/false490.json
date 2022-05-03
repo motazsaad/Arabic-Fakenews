@@ -1,0 +1,87 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1306,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "لم تنشر مجلة تايم شيئاً من هذا القبيل (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">مجلة تايم الأميركية تنشر مقالة تقول فيها &quot;يحق للرئيس السوري بشار الأسد أن يجلس في قصره ويشرب قهوته على كرسيه ويضحك حتى القهقهة فهو الذي جعل العالم يتعارك من أجله، واجتمع مجلس الأمن الدولي عشرات المرات لإسقاطه دون جدوى&quot;.</span></p>\r\n",
+    "country": "SY",
+    "created_at": "2020-07-15 12:57:06",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f0ed2f2163be306ea34ddfc",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من الخبر المتداول ووجده زائفاً. اطّلع &quot;مسبار&quot; على </span><a href=\"https://time.com/\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>الموقع الإلكتروني</u></span></a><span style=\"color:#000000\"> لمجلة تايم الأميركية، ووجد أنها لم تنشر أي شيء شبيه بما ورد في الخبر المتداول.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">وكان آخر ظهور لاسم الأسد في المجلة بتاريخ 25 يونيو/حزيران الفائت، إذ نشرت تايم </span><a href=\"https://time.com/5859195/syria-regime-change/\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>مقالة</u></span></a><span style=\"color:#000000\"> حول العقوبات الأميركية الواقعة على سورية، واحتمالات سقوط نظام الأسد.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_m0slnep0u.jpg\" style=\"height:292px; width:521px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل صفحات وحسابات على مواقع التواصل الاجتماعي، حديثاً، خبراً مفاده أن مجلة تايم الأميركية نشرت مقالة تمدح الرئيس السوري بشار الأسد، فهو الذي جعل العالم يتعارك من أجله، واجتمع مجلس الأمن الدولي عشرات المرات لإسقاطه دون جدوى، وفقاً لناشري الخبر.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_85mij7q1z.jpg\" style=\"height:579px; width:527px\" /></span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"644\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D2680980805337203%26id%3D1327295057372458&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/15948083585.jpg",
+        "watermark_path": "articles/watermark-15948083585.jpg"
+    },
+    "post_date": "2020-07-15T12:53:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2680980805337203&id=1327295057372458",
+            "name": "داعمين النمر سهيل الحسن",
+            "path": "published/0_1594807459_داعمين.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=286026649483851&id=101516081268243",
+            "name": "سوريانا",
+            "path": "published/1_1594807459_سوريانا.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=3372287166156761&id=1703072296411598",
+            "name": "محبين الرئيس بشار الاسد",
+            "path": "published/2_1594807459_محبين.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=3377196628966405&id=2514035338615876",
+            "name": "الماسة السورية البديلة",
+            "path": "published/3_1594807459_الماسة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=184081493137637&id=108834540662333",
+            "name": "سما اللاذقية",
+            "path": "published/4_1594807459_سما.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://time.com/5859195/syria-regime-change/",
+            "name": "TIME",
+            "path": "sources/0_1594807026_تايم.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "مجلة تايم الأميركية لم تمدح بشار الأسد",
+    "updated_at": "2020-09-25 22:12:36",
+    "url_path": "/factcheck/2020/07/15/مجلة-تايم-الأميركية-لم-تمدح-بشار-الأسد"
+}

@@ -1,0 +1,119 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 2,
+        "fb": 5,
+        "tw": 2
+    },
+    "amount_sources": 0,
+    "amount_visits": 37188,
+    "author": {
+        "fullname": "مروى عبدالرزاق ",
+        "id": "5eb55e16db29161deb4b3924",
+        "photo": {
+            "path": "authors/1589212394_pp.jpg"
+        }
+    },
+    "caption": " الخبر المتداول مع الصورة لا أساس له من الصحة (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">صورة&nbsp;لراشد الغنوشي رئيس&nbsp;مجلس النواب التونسي، يفر بملابسه الداخلية بعد أنَّ تم الاعتداء عليه من شباب تونس الغاضبين بسبب سياسته.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-05-08 15:44:42",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5eb5543adb291643e471f8f4",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقّق &quot;مسبار&quot; من الخبر المتداول،&nbsp;ووجد أنه&nbsp;لا أساس له من الصحة، وتم استخدام الصورة دون سياقها، كما لم تنشر في الصحف التونسية أنباءً&nbsp;تُثبت الاعتداء&nbsp;على الغنوشي.&nbsp;وحسب بعض الصحفيين التونسيين فإن الصورة تعود إلى العام الماضي،&nbsp;إذ كان يرتدي الغنوشي&nbsp;وقتها زياً يناسب البحر،&nbsp;ويرافقه&nbsp;حرسه الشخصي.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">وعثر &quot;مسبار&quot; على الصورة الأصلية، منشوره على موقع العرب في متن مقال كتبه&nbsp;الباحث السياسي التونسي الجمعي القاسمي، في 17 يوليو/ تموز 2019، ينتقد فيه ظهور الغنوشي وهو بلباس البحر تحت عنوان &quot;خلافات النهضة تدفع الغنوشي إلى محاولة ترميم صورته&quot;، ويظهر الغنوشي في الصورة، ممسكاً&nbsp;بيده حذاءه&nbsp;الرياضي وبالأخرى منشفة.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_ic8hemb5u.jpg\" style=\"height:425px; width:623px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت حساباتُ وصفحات على مواقع التواصل الاجتماعي منذ 5 مايو/ أيار الجاري، صورة لرئيس مجلس النواب التونسي وزعيم حركة النهضة التونيسية راشد الغنوشي، وادّعت أنه تم الاعتداء عليه من قبل بعض الشباب التونسي الغاضبين بسبب سياسته. </span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_entwsqs5b.jpg\" style=\"height:358px; width:476px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_e90j32f2u.jpg\" style=\"height:334px; width:473px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_0qvri1jmd.jpg\" style=\"height:347px; width:454px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 35.5,
+        "path": "articles/1588941881GettyImages-462847276.jpg",
+        "top": 0,
+        "totalHeight": 563,
+        "totalWidth": 823,
+        "watermark_path": "articles/watermark-1588941881GettyImages-462847276.jpg",
+        "width": 752
+    },
+    "post_date": "2020-05-08T15:41:00.000+03:00",
+    "published": [
+        {
+            "id": "5fa195394852581a7179469a",
+            "link": "https://twitter.com/Mimi27399668/status/1257771651145633792",
+            "name": "Mimi",
+            "origin": "",
+            "path": "published/0_1588941881_Mimi.jpg"
+        },
+        {
+            "id": "5fa195398b4fa555283697ce",
+            "link": "https://twitter.com/RZpU7P5p2uuY06X/status/1258103975884308481",
+            "name": "الشعيبي",
+            "origin": "",
+            "path": "published/1_1588942041_الشعيبي.jpg"
+        },
+        {
+            "id": "5fa19539730f7f30f70b92a4",
+            "link": "https://twitter.com/ashraaf_alsaad/status/1257805395327844357",
+            "name": "أشرف السعد",
+            "origin": "",
+            "path": "published/2_1588942041_أشرف السعد.jpg"
+        },
+        {
+            "id": "5fa195397cd5a22bf425d58f",
+            "link": "https://twitter.com/Mahmoud31319539/status/1257825573877014529",
+            "name": "Mahmoud Nasr",
+            "origin": "",
+            "path": "published/3_1588942041_Mahmoud Nasr.jpg"
+        },
+        {
+            "id": "5fa19539352bbb3dda06eba1",
+            "link": "https://twitter.com/SnaaSoso3/status/1257927153607467011",
+            "name": "Snaa Soso",
+            "origin": "",
+            "path": "published/4_1588942041_Snaa Soso.jpg"
+        },
+        {
+            "id": "5fa195391e94af4b4029c0aa",
+            "link": "https://www.facebook.com/1858007607756805/photos/a.1858026934421539/3216484038575815/?type=3&theater",
+            "name": "حلم ورد الجناين",
+            "origin": "",
+            "path": "published/5_1588942041_حلم ورد الجناين.jpg"
+        },
+        {
+            "id": "5fa19539c2b80e07451345d8",
+            "link": "https://www.facebook.com/photo.php?fbid=233933834713595&set=a.107207304052916&type=3&theater",
+            "name": "Apo Iyad",
+            "origin": "",
+            "path": "published/6_1588942041_Apo Iyad.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fa1953904b0b56241380e09",
+            "link": "https://alarab.co.uk/%D8%AE%D9%84%D8%A7%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D9%86%D9%87%D8%B6%D8%A9-%D8%AA%D8%AF%D9%81%D8%B9-%D8%A7%D9%84%D8%BA%D9%86%D9%88%D8%B4%D9%8A-%D8%A5%D9%84%D9%89-%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A9-%D8%AA%D8%B1%D9%85%D9%8A%D9%85-%D8%B5%D9%88%D8%B1%D8%AA%D9%87",
+            "name": "العرب",
+            "origin": "",
+            "path": "sources/0_1588941881_777.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صورة لراشد الغنوشي على البحر تحولت إلى حكاية أخرى",
+    "updated_at": "2020-11-03 20:40:23",
+    "url_path": "/factcheck/2020/05/08/شباب-تونس-يعتدي-على-راشد-الغنوشي-حقيقة-الصورة"
+}

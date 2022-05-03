@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 7972,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "نفى جمال بلماضي دعوته للوكا زيدان (تويتر)",
+    "category": "Sports",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">جمال بلماضي يدعو لوكا زيدان إلى اللعب مع المنتخب الجزائري لكرة القدم.</p>\r\n",
+    "country": "DZ",
+    "created_at": "2020-06-07 02:07:31",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5edc21b3db29164b31320794",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الادعاء زائف، إذ نفى جمال بلماضي مدرب المنتخب الجزائريّ خبر دعوته لوكا زيدان، وقال <span style=\"background-color:white\"><span style=\"color:black\">إنه تجنب</span></span> <span style=\"background-color:white\"><span style=\"color:black\">الرد، في وقت سابق&nbsp;على ما وصفه بالكذب والافتراء، ما دامت المعلومة لم تأتِ&nbsp;على لسان اللاعب.</span></span></p>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"rtl\">الاتحاد الجزائري لكرة القدم وجمال <a href=\"https://twitter.com/hashtag/%D8%A8%D9%84%D9%85%D8%A7%D8%B6%D9%8A?src=hash&amp;ref_src=twsrc%5Etfw\">#بلماضي</a> المدير الفني للمنتخب الأول ينفيان وجود أي اتصال مع جوناثان <a href=\"https://twitter.com/hashtag/%D8%B4%D9%85%D9%8A%D8%AF?src=hash&amp;ref_src=twsrc%5Etfw\">#شميد</a> لاعب <a href=\"https://twitter.com/hashtag/%D9%81%D8%B1%D8%A7%D9%8A%D8%A8%D9%88%D8%B1%D8%AC?src=hash&amp;ref_src=twsrc%5Etfw\">#فرايبورج</a> الألماني ولوكا <a href=\"https://twitter.com/hashtag/%D8%B2%D9%8A%D8%AF%D8%A7%D9%86?src=hash&amp;ref_src=twsrc%5Etfw\">#زيدان</a> حارس <a href=\"https://twitter.com/hashtag/%D8%B1%D9%8A%D8%A7%D9%84_%D9%85%D8%AF%D8%B1%D9%8A%D8%AF?src=hash&amp;ref_src=twsrc%5Etfw\">#ريال_مدريد</a> المُعار من أجل ارتداء قميص منتخب <a href=\"https://twitter.com/hashtag/%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1?src=hash&amp;ref_src=twsrc%5Etfw\">#الجزائر</a> <a href=\"https://t.co/jqcRnGxmGd\">pic.twitter.com/jqcRnGxmGd</a></p>\r\n&mdash; الاتحاد الرياضي (@alittihadSport) <a href=\"https://twitter.com/alittihadSport/status/1269237603938766849?ref_src=twsrc%5Etfw\">June 6, 2020</a></blockquote>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:black\">كما نفى الاتحاد الجزائري لكرة القدم، السبت 6 يونيو/حزيران 2020، إجراء أي اتصال مع لوكا زيدان حارس مرمى ريال مدريد الإسباني وجوناثان شميد لاعب فريق فرايبورغ الألماني.</span></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحاتٌ إخبارية وحساباتٌ على موقع فيسبوك، خبراً يدّعي أنّ المدرب الجزائري جمال بلماضي دعا حارس فريق ريال مدريد الإسباني لوكا زيدان، نجل اللاعب الفرنسي من أصل جزائري زين الدين زيدان، إلى اللعب مع منتخب بلاده.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"Capture2.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_x0778ucmb.jpg\" style=\"height:479px; width:499px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_m8u1q2aeb.jpg\" style=\"height:475px; width:501px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 336,
+        "left": 7.4385986328125,
+        "path": "articles/15914848519.jpg",
+        "top": 54.746826171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-15914848519.jpg",
+        "width": 598
+    },
+    "post_date": "2020-07-05T23:49:00.000+03:00",
+    "published": [
+        {
+            "link": "https://orangefootballclub.com/ar/articles/%D9%84%D9%88%D9%83%D8%A7-%D8%B2%D9%8A%D8%AF%D8%A7%D9%86-%D8%A8%D9%82%D9%85%D9%8A%D8%B5-%D8%A7%D9%84%D8%AE%D8%B6%D8%B1-%D8%A7%D9%84%D9%86%D8%A7%D8%B7%D9%82-%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A/?fbclid=IwAR0FZPoDFtaAQs1SYz5diljChZBcxkOiaSpKyxUe3prrwcl3X5r5I4-vvKc",
+            "name": "Dzair Foot",
+            "path": "published/0_1591484850_2.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Alg7kora/photos/a.102637781358760/130202578602280/?type=3&theater",
+            "name": "كرة Algérie",
+            "path": "published/1_1591484850_93655050_129696295319575_4226932209417715712_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Bluefoot.dz/videos/626863707902660/?q=%D9%84%D9%88%D9%83%D8%A7%20%D8%B2%D9%8A%D8%AF%D8%A7%D9%86%20&epa=SEARCH_BOX",
+            "name": "أزرق",
+            "path": "published/2_1591484850_100514779_2991676797589401_4693358218879959040_n.jpg"
+        },
+        {
+            "link": "http://anbaetv.ma/%d8%b9%d8%a7%d9%84%d9%85-%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d8%a9/%d8%ac%d9%85%d8%a7%d9%84-%d8%a8%d9%84%d9%85%d8%a7%d8%b6%d9%8a-%d9%8a%d8%b3%d8%b9%d9%89-%d9%84%d8%b6%d9%85-%d9%86%d8%ac%d9%84-%d8%b2%d9%8a%d8%af%d8%a7%d9%86-%d9%84%d9%83%d8%aa%d9%8a%d8%a8%d8%a9/?fbclid=IwAR2Z681MhdEZW_laqqeCVGKOR0mOPici78TwNHQQ42Cn2CIPtGXSvLQAG_U",
+            "name": "الأنباء المغربية",
+            "path": "published/3_1591484850_90653064_3037984072889007_1608034368347963392_n.jpg"
+        },
+        {
+            "link": "https://www.alayam24.com/articles-264064.html?fbclid=IwAR339NIjt323pqWeVrCUITJA3qAQDzqY4VSU_DpE-hR6zDGMnMHjwtqhZsw",
+            "name": "هنا المغرب",
+            "path": "published/4_1591484850_1.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/alkasschannel/status/1269218764962304001",
+            "name": "قنوات الكأس",
+            "path": "sources/0_1591484850_hJW0uXbz_400x400.jpg"
+        },
+        {
+            "link": "https://twitter.com/DZfoot/status/1268951677035524101",
+            "name": "DZfoot",
+            "path": "sources/1_1591484850_5.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "دعوة نجل زيدان للانضمام إلى المنتخب الجزائري.. حقيقة الخبر",
+    "updated_at": "2020-09-25 06:45:26",
+    "url_path": "/factcheck/2020/06/07/دعوة-نجل-زيدان-للانضمام-إلى-المنتخب-الجزائري-حقيقة-الخبر"
+}

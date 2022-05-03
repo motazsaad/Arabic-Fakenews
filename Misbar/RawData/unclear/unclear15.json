@@ -1,0 +1,101 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 947,
+    "author": {
+        "fullname": "مريم هواري",
+        "id": "5e299460d4a22939983a3ec5",
+        "photo": {
+            "path": "authors/1579791192_Maryam.jpg"
+        }
+    },
+    "caption": "لا أنباء عن تهنئة محمود عباس نتنياهيو بالفوز في الانتخابات (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">الرئيس الفلسطيني محمود عبّاس يهنئ رئيس وزراء الاحتلال بنيامين نتنياهو بفوزه في الانتخابات الإسرائيلية.</p>\r\n",
+    "country": "",
+    "created_at": "2020-03-04 15:17:05",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 0,
+    "id": "5e5f9c41d4a2290e0e135305",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الخبر مشكوك فيه، إذ بعد أن فحص&nbsp;&quot;مسبار&quot; الأخبار المنشورة في الموقع الإخباري الإسرائيلي &quot;0404&quot;، وعلى صفحاته في موقعي التواصل الاجتماعي تويتر وفيسبوك، لم يجد الخبر المتداول. كما لم يعثر على الخبر المتداول في المواقع الإخبارية الفلسطينية والإسرائيلية.</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشر عددٌ من مستخدمي موقع التواصل الاجتماعي تويتر يوم الأربعاء 4 مارس/ آذار، لقطة شاشة لخبرٍ نُسب إلى الموقع الإخباري الإسرائيلي &quot;0404&quot;، مفاده أن الرئيس الفلسطيني محمود عباس تحدّث مع رئيس وزراء دولة الاحتلال الإسرائيلي بنيامين نتنياهو وهنأه بفوزه&nbsp;في الانتخابات الإسرائيلية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_bfl2c81ki.jpg\" style=\"height:705px; width:530px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_rn4adcjjd.jpg\" style=\"height:654px; width:474px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_m7ulkifnc.jpg\" style=\"height:660px; width:478px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_yj9m1xs1k.jpg\" style=\"height:659px; width:450px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1583324305GettyImages-56665133.jpg"
+    },
+    "post_date": "2020-03-04T14:01:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/dianamathew9/status/1235142713827262465",
+            "name": "dianamathew",
+            "path": "published/0_1583324224_dianamathew logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/NAlzaytunia/status/1235134832046419968",
+            "name": "nida' alzaytunia",
+            "path": "published/1_1583324224_nida alzaytuna logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/kefahsh2/status/1235125169993256960",
+            "name": "kefahsh",
+            "path": "published/2_1583324224_kefahsh logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/eslam_alhalees/status/1235118183129939968",
+            "name": "eslam alhalees",
+            "path": "published/3_1583324224_eslam alhalees logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/GaradAbu/status/1235124865356779521",
+            "name": "ahlam abu garad",
+            "path": "published/4_1583324224_ahlam logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/ThabitHala/status/1235127790384672768",
+            "name": "Hala thabit",
+            "path": "published/5_1583324224_hala thabit logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/kwaakyii/status/1235120407813836801",
+            "name": "kandy al saqa",
+            "path": "published/6_1583324224_kandy saqa logo.jpg"
+        }
+    ],
+    "result": "unclear",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.0404.co.il/?cat=14&paged=4 ",
+            "name": "0404",
+            "path": "sources/0_1583324224_0404 logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/0404news ",
+            "name": "0404 news",
+            "path": "sources/1_1583324224_0404 twitter logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل هنّأ محمود عبّاس رئيس وزراء الاحتلال نتنياهو؟",
+    "updated_at": "2020-09-25 11:24:27",
+    "url_path": "/factcheck/2020/03/04/هل-هنأ-محمود-عباس-رئيس-وزراء-الاحتلال-نتنياهو"
+}

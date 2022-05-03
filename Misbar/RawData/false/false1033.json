@@ -1,0 +1,95 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 101,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "category": "Health",
+    "claim": "<p>اعترَفت ممرضة من جمهورية زامبيا بأنها قامت بتبديل خمسة آلاف مولود عقب ولادتهم بأطفالٍ آخرين، على سبيلِ المرح والتسلية.</p>\r\n",
+    "country": "ZM",
+    "created_at": "2019-10-21 16:28:27",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5dadb27bbe494b06d0041f89",
+    "investigation": "<p style=\"text-align:right\">بعد انتشار الخبر على مواقع زامبيّة وأجنبية عديدة، فتحت السلطات المحليّة تحقيقاً حول القصة، أفضى إلى عدم وجود ممرضةٍ اسمها إليزابيث مويوا في السجل&nbsp;العام للتمريض في زامبيا. وجاء في التقرير الذي أجراه &quot;المجلس العام للتمريض في زامبيا&quot;، حصلت&nbsp;وكالة الصحافة الفرنسية (فرانس برس) على نسخةٍ منه &quot;لم يرِد&nbsp;في سجلاتنا هذا الاسم على الإطلاق، ولا توجد ممرضة بهذا الاسم عملت في قسم الولادات في المستشفى التعليمي الجامعي&quot;.</p>\r\n\r\n<p style=\"text-align:right\">وبالبحث عن الصورة المتداولة، وجد &quot;مسبار&quot;&nbsp;في مدوّنةٍ تعود لممرضةٍ من زيمبابوي تعيش في ولاية أوهايو في الولايات المتحدة، وتُدعى &quot;ما سيداي&quot;&nbsp;Ma Sedaye.</p>\r\n\r\n<p style=\"text-align:right\">وبهذا نرى كيف ساعدت الغرابة التي اتّسم بها الخبر، على انتشاره في الفضاء الرقمي العربي دون التثبت&nbsp;من صدقِ محتواه.</p>\r\n\r\n<p style=\"text-align:center\"><br />\r\n&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_9b6daa197a74210ec82f4341f7c3d6c0.jpg\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\">تداولت&nbsp;عشرات&nbsp;المواقع الالكترونية في أبريل/ نيسان الفائت، خبراً أفاد أنّ ممرضةً من جمهورية زامبيا تُدعى إليزابيث مويوا، اعترفت بعد أن اكتشفت إصابتها بالسرطان، أنّها بدّلت خمسة آلاف مولودٍ عقب ولادتهم بأطفالٍ آخرين أثناء عملها لـ 12 عاماً في مستشفى يو تي أتش. وبأنّها لم تكن تقصد من وراء فعلتها سوى التسلية.&nbsp;</p>\r\n\r\n<p style=\"text-align:right\">وجاء في الخبر إنّ الممرضة الزامبيّة قررت الاعتراف بجُرمها وهي على فراش الموت، إذ قالت &quot;أُصبت بسرطان مزمن وأعلم أني سأموت قريباً. وأتمنى الاعتراف بذنبي أمام الله وأمام أهالي الأُسر الذين وضعوا أطفالاً في المستشفى خلال خدمتي&quot;. وطلبت الممرضة إليزابيث مويوا من تلك الأُسر إجراء تحاليل الحمض النووي للتأكد من نَسَب أطفالهم.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_1a7e50dba2977792e62f9cc69e5ddf5e.jpg\" /></p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_c386620c376a30312021ec0e3f9e96c3.jpg\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1573029198GettyImages-1162665661.jpg"
+    },
+    "post_date": "2019-05-21T15:51:00.000+03:00",
+    "published": [
+        {
+            "link": "http://archive.fo/xkQTh",
+            "name": "وكالة سبوتنيك",
+            "path": "published/0_1571664507_سبوتنيك لوغو.jpg"
+        },
+        {
+            "link": "http://chaabpress.com/news73021.html",
+            "name": "شعب برس",
+            "path": "published/1_1571664507_شعب برس-لوغو.jpg"
+        },
+        {
+            "link": "https://say7at.annahar.com/article/958787-%D9%85%D9%85%D8%B1%D8%B6%D8%A9-%D8%AA%D8%B9%D8%AA%D8%B1%D9%81-%D8%A8%D8%A5%D8%A8%D8%AF%D8%A7%D9%84-5000-%D8%B7%D9%81%D9%84-%D9%81%D9%88%D8%B1-%D9%88%D9%84%D8%A7%D8%AF%D8%AA%D9%87%D9%85",
+            "name": "صيحات",
+            "path": "published/2_1571664507_صيحات-لوغو.jpg"
+        },
+        {
+            "link": "https://rotana.net/%D9%85%D9%85%D8%B1%D8%B6%D8%A9-%D8%AA%D9%8F%D8%A8%D8%AF%D9%84-5-%D8%A2%D9%84%D8%A7%D9%81-%D8%B7%D9%81%D9%84-%D9%81%D9%88%D8%B1-%D9%88%D9%84%D8%A7%D8%AF%D8%AA%D9%87%D9%85-%D9%88%D8%A7%D9%84%D8%B3",
+            "name": "روتانا",
+            "path": "published/3_1571664507_روتانا-لوغو.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.lusakatimes.com/2019/04/06/preliminary-investigations-disputes-the-swapping-of-5000-babies-at-uth-between-1983-and-1995/",
+            "name": "Lusaka Times",
+            "path": "sources/0_1571664507_Lusaka Times-logo.jpg"
+        },
+        {
+            "link": "https://www.lusakatimes.com/2019/04/06/preliminary-investigations-disputes-the-swapping-of-5000-babies-at-uth-between-1983-and-1995/",
+            "name": "The Zambian Observer",
+            "path": "sources/1_1571664507_The zambian observer-logo.jpg"
+        },
+        {
+            "link": "http://www.sedaye-ma.org/ma-sedaye-2/",
+            "name": "Ma Sedaye",
+            "path": "sources/2_1571664507_My Sedaue-logo.jpg"
+        },
+        {
+            "link": "http://www.gnc.org.zm/",
+            "name": "General Nursing Council of Zambia",
+            "path": "sources/3_1578817148_مجلس ممرضات زامبيا-لوغو.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ممرضة في زامبيا تُبدّل 5000 طفل حديث الولادة... ما حقيقة القصة؟",
+    "updated_at": "2020-09-23 12:40:45",
+    "url_path": "/factcheck/2019/10/21/ممرضة-في-زامبيا-تبدل-5000-طفل-حديث-الولادة-ما-حقيقة-القصة"
+}

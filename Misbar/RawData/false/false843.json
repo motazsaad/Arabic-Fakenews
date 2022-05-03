@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 1
+    },
+    "amount_sources": 0,
+    "amount_visits": 64925,
+    "author": {
+        "fullname": "أسامة سليم",
+        "id": "5e3fd276d4a229755625e693",
+        "photo": {
+            "name": "1581240950_أسامة.jpg",
+            "path": "authors/1581240950_أسامة.jpg"
+        }
+    },
+    "caption": "التصريح المنسوب للوزير زائف (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">محمد عبو يؤكد أنه من حق أبناء الوزير قيادة سيارة <span dir=\"LTR\" lang=\"FR\">Q5 </span>&nbsp;والأمر لا يستحق فتح تحقيق</p>\r\n",
+    "country": "",
+    "created_at": "2020-03-24 13:19:36",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e79deb8d4a229701b530df3",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:black\">تحقق &quot;مسبار&quot; من الخبر، ووجده زائفاً،&nbsp; إذ بمراجعة تصريح محمد عبو وزير الوظيفة العمومية والحوكمة ومكافحة الفساد لإذاعة جوهرة، قال إنّه يحق للوزير فقط قيادة السيارة إلى جانب السائق الذي توفره له الدولة، ولا يحق لأفراد عائلته ذلك، واستند محمد عبو في ذلك إلى منشور صادر عن رئيس الحكومة. وأكّد كذلك أنه سيفتح تحقيقاً في الأمر، إلا أنه لن يقوم بذلك الآن بحكم الوضع والانشغال بفايروس &quot;كوفيد19&quot; في البلاد، وأنَّ الحكومة لا تملك الوقت الآن للتحقيق في مثل هذه المسائل، وذلك بسبب تعليق أغلب الأنشطة الرقابية.</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img alt=\"Aucune description de photo disponible.\" src=\"https://images-prod.misbar.com/articlebody/investigation_1h7ae98dl.jpg\" style=\"height:813px; width:605px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"FR\"><span style=\"background-color:white\"><span style=\"color:black\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_jh9dspt1.jpg\" style=\"height:300px; width:604px\" /></span></span></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت عديد الصفحات &nbsp;على موقع التواصل الاجتماعي فيسبوك والمواقع الإخبارية منذ أمس 23 مارس/آذار، تصريحاً منسوباً لوزير الوظيفة العمومية والحوكمة ومكافحة الفساد في الحكومة التونسية محمود عبو، مفاده أنه يحق لأبناء الوزراء قيادة سيارة أودي من نوع <span dir=\"LTR\" lang=\"FR\">Q5</span> والتي تقدمها الحكومة لجميع الوزراء، وذلك بعد انتشار خبر حادث سيارة قامت به إبنة وزير النقل التونسي، وأن الأمر لا يتطلب تحقيقاً.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img alt=\"L’image contient peut-être : 1 personne, texte\" src=\"https://images-prod.misbar.com/articlebody/origin_g412gajcj.jpg\" style=\"height:622px; width:605px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"FR\"><span style=\"background-color:white\"><span style=\"color:black\"><img src=\"https://images-prod.misbar.com/articlebody/origin_5i4os2nz7.jpg\" style=\"height:310px; width:605px\" /></span></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"FR\"><span style=\"background-color:white\"><span style=\"color:black\"><img src=\"https://images-prod.misbar.com/articlebody/origin_759aisun0.jpg\" style=\"height:330px; width:558px\" /></span></span></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 354,
+        "left": -2.5397796630859375,
+        "path": "articles/1585045176GettyImages-161450622.jpg",
+        "top": 55.1708984375,
+        "totalHeight": 423,
+        "totalWidth": 635,
+        "width": 628
+    },
+    "post_date": "2020-03-24T12:59:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/radio.capsa/posts/2991914974199337",
+            "name": "Capsa Fm",
+            "path": "published/0_1585045175_Capsa Fmب.jpg"
+        },
+        {
+            "link": "https://www.capitalnews-tn.com/2020/03/q5.html?m=1&fbclid=IwAR0GsXvgTsqVty7e_QOygshlvPUJMVGHzayxKqDW8JCqnNaps_6Dyi6Ss4s",
+            "name": "Capital news",
+            "path": "published/1_1585045175_capital-news.JPG"
+        },
+        {
+            "link": "https://www.facebook.com/racinefm24/posts/799048683913702",
+            "name": "Racine Fm - Tunisie",
+            "path": "published/2_1585045176_Racine Fm - Tunisie.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=698832220860927&id=256669101743910",
+            "name": "عالم غريب 100%",
+            "path": "published/3_1585151276_79386399_614208335989983_7401037693997547520_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1833261546809474&id=271983756270602",
+            "name": "L’enseignement à Kélibia",
+            "path": "published/4_1585045176_L’enseignement à Kélibia.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/kaissaied/permalink/831117150717234/",
+            "name": "محمد الشارني",
+            "path": "published/5_1585045176_محمد الشارني.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/fpglcc/posts/2635841329861177",
+            "name": "وزارة الوظيفة العمومية والحوكمة ومكافحة الفساد.",
+            "path": "sources/0_1585045175_الوظيفة-العمومية1.jpg"
+        },
+        {
+            "link": "https://m.jawharafm.net/ar/article/%D9%85%D8%AD%D9%85%D8%AF-%D8%B9%D8%A8%D9%88--%D8%AD%D9%88%D9%84-%D8%AD%D8%A7%D8%AF%D8%AB-%D9%85%D8%B1%D9%88%D8%B1-%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D9%8A%D8%A9-%D9%85%D8%A7%D9%86%D8%A7%D8%B4-%D9%84%D8%A7%D9%87%D9%8A%D9%86-%D8%AA%D9%88%D8%A9/105/162958?fbclid=IwAR0M8RwDOaAtQ8T3pWi9AbSX7ONt-n064L26sRswytVN91R8EIo8vPKkj4w",
+            "name": "Jawhara Fm",
+            "path": "sources/1_1585045175_Jawhara Fm.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "تزييف تصريح لوزير مكافحة الفساد التونسي بخصوص قضية السيارة الإدارية",
+    "updated_at": "2020-09-25 19:08:32",
+    "url_path": "/factcheck/2020/03/24/تزييف-تصريح-لوزير-مكافحة-الفساد-التونسي-بخصوص-قضية-السيارة-الإدارية"
+}

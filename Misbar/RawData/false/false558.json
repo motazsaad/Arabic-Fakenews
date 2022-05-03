@@ -1,0 +1,94 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 6237,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "الصورة ليست لوزيرة سويسرية (تويتر)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">صورة وزيرة التربية السويسرية مع زوجها عامل النظافة.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-06-27 14:46:17",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5ef73189163be306711ae286",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من الصورة وتبين أنّها ليست لوزيرة سويسرية من الأساس، وهي صورة متداولة منذ سنوات على الإنترنت، ولم يعثر &quot;مسبار&quot; على أصلها. كما لا يوجد وزارة باسم التربية في سويسرا، وتتألف <a href=\"https://www.admin.ch/gov/en/start/federal-council/members-of-the-federal-council.html\" style=\"color:blue; text-decoration:underline\">الحكومة</a> السويسرية من سبعة أعضاء في مجلس اتحادي يُسمى الحكومة الفيدرالية، يتم انتخابهم من قبل مجلس النواب. ويتكون المجلس من؛ (رئيس الحكومة، وزارة الشؤون الخارجية، وزارة الشؤون الداخلية، وزارة العدل والشرطة، وزارة الدفاع والحماية المدنية والرياضة، وزارة المالية، وزارة الشؤون الاقتصادية)، ومنصب آخر يشغله المستشار الاتحادي.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_iz2jl76da.jpg\" style=\"height:536px; width:624px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت حسابات على مواقع التواصل الاجتماعي خلال شهر يونيو/حزيران الجاري، صورة ادّعت أنها لوزيرة التربية السويسرية مع زوجها عامل النظافة.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_5sny8atw7.jpg\" style=\"height:546px; width:427px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_41msb13ju.jpg\" style=\"height:525px; width:420px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1593258377EavEiOIWkAIKa5Z.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1593258377EavEiOIWkAIKa5Z.jpg",
+        "width": 752
+    },
+    "post_date": "2020-06-27T14:43:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=143245030670456&id=100049548786947",
+            "name": "نزيهة المناعي",
+            "path": "published/0_1593258376_نزيهة المناعي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2393159567650207&id=1391889371110570",
+            "name": "أسود الأمن الجمهوري",
+            "path": "published/1_1593258528_أسود الأمن الجمهوري.jpg"
+        },
+        {
+            "link": "https://twitter.com/albidhani/status/1273345961415278593",
+            "name": "Albidhani.kadhim",
+            "path": "published/2_1593258528_Albidhani.kadhim.jpg"
+        },
+        {
+            "link": "https://twitter.com/3laa_Cyrenaica/status/1273327414408556544",
+            "name": "3ℓαα_αℓzωy",
+            "path": "published/3_1593258528_3ℓαα_αℓzωy.jpg"
+        },
+        {
+            "link": "https://twitter.com/Ashraf944578219/status/1272609048140095492",
+            "name": "Ashraf91",
+            "path": "published/4_1593258528_Ashraf91.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.admin.ch/gov/en/start/federal-council/members-of-the-federal-council.html",
+            "name": "الحكومة السويسرية ",
+            "path": "sources/0_1593258376_سويسرا.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صورة زائفة.. وزيرة التربية السويسرية مع زوجها عامل النظافة",
+    "updated_at": "2020-09-25 21:48:02",
+    "url_path": "/factcheck/2020/06/27/ادعاء-زائف-وزيرة-التربية-السويسرية-مع-زوجها-عامل-النظافة"
+}

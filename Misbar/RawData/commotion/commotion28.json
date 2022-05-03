@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1444,
+    "author": {
+        "fullname": "مريم هواري",
+        "id": "5e299460d4a22939983a3ec5",
+        "photo": {
+            "path": "authors/1579791192_Maryam.jpg"
+        }
+    },
+    "caption": "إرشادات السفر إلى لبنان ليس بالأمر الجديد (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">الحكومة الكندية تحذّر رعاياها في لبنان من سلك بعض الطرق واجتياز بعض المناطق.</p>\r\n",
+    "country": "LB",
+    "created_at": "2020-08-14 22:07:15",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f36e0e31dd58507773b5193",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقّق &quot;مسبار&quot; من المنشور المتداول ووجد أنّه يحتوي على إثارة، إذ أن إرشادات السفر التي نُشرت في الموقع الرسمي للحكومة الكندية بتاريخ 12 أغسطس/آب الجاري، والّتي تُطالب&nbsp;الكنديين في لُبنان بتوخّي الحذر بسبب الوضع الأمني، ليس بالأمر الجديد، إنّما إرشادات تحدّثها الحكومة الكندية بين الحين والآخر. وبعد أن تواصل &quot;مسبار&quot; مع القائم بأعمال السفارة الكندية في لُبنان، غريغوري غاليان، أكّد أنّ الأمر الوحيد الّذي تغيّر في الإرشادات الحالية، هو المُطالبة بتجنّب بعض المناطق مثل الجميزة ومار&nbsp;ميخائيل بسبب خطر انهيار الحطام والمباني، وذلك&nbsp;&nbsp;بعد الانفجار الّذي وقع في مرفأ بيروت بتاريخ 4 أغسطس/آب الجاري.</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">تداولت مواقع إخبارية لبنانية وصفحات على موقع التواصل الاجتماعي فيسبوك بتاريخ 13 أغسطس/آب الجاري، خبراً مفاده تحذير الحكومة الكندية رعاياها في لبنان من الذهاب إلى مناطق محدّدة هناك بسبب الوضع الأمني الحالي وخطر التفجيرات وتزايد أعداد الجماعات المسلّحة، كما أنّها حذّرت من الذهاب إلى ضاحية بيروت الجنوبية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_rex4oq2bc.jpg\" style=\"height:548px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_zi7p84np3.jpg\" style=\"height:453px; width:460px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 134,
+        "left": 1.7481689453125,
+        "path": "articles/1597432035GettyImages-71494359.jpg",
+        "top": 0.990234375,
+        "totalHeight": 160,
+        "totalWidth": 245,
+        "watermark_path": "articles/watermark-1597432035GettyImages-71494359.jpg",
+        "width": 238
+    },
+    "post_date": "2020-08-14T22:01:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/groups/yasour.org/?post_id=4360744677301503",
+            "name": "سعاد الزين",
+            "path": "published/0_1597432034_سعاد الزين.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/almountadaalikhbari/posts/204014001058302",
+            "name": "المنتدى الإخباري",
+            "path": "published/1_1597432034_المنتدى الاخباري.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/bachir.masri.1/posts/10158183240675067",
+            "name": "Bachir Masri",
+            "path": "published/2_1597432035_بشير المصري.jpg"
+        },
+        {
+            "link": "http://yasour.org/2018/ar/news/html/news-48594?fbclid=IwAR24WEJl45jVIOHOnNsfxFQP5j6kGFN05bQenwAGyG9aowXY_o5D4ctifnA",
+            "name": "يا صور",
+            "path": "published/3_1597432035_يا صور.jpg"
+        },
+        {
+            "link": "https://www.elnashra.com/news/show/1437925",
+            "name": "eLNASHRA",
+            "path": "published/4_1597432035_elnashra.jpg"
+        },
+        {
+            "link": "https://www.janoub24.org/?p=11431",
+            "name": "جنوب 24",
+            "path": "published/5_1597432035_جنوب 24.jpg"
+        }
+    ],
+    "result": "commotion",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://travel.gc.ca/destinations/lebanon?fbclid=IwAR3xvAxn48Lcp2vbJezfKZNeD4545C9kXRh6PYhZr-OI8mTbz95MTjO1YgU",
+            "name": "Government of Canada",
+            "path": "sources/0_1597432035_الحكومة الكندية.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/GregoryGalligan/",
+            "name": "Gregory Galligan",
+            "path": "sources/1_1597432035_gregory gillan.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "تحذير السفارة الكندية في لبنان ليس بسبب مخاوف أمنية، بل متعلق بانفجار المرفأ",
+    "updated_at": "2020-09-25 21:33:49",
+    "url_path": "/factcheck/2020/08/14/تحذير-الحكومة-الكندية-لرعاياها-في-لبنان-غير-متعلق-بالأحداث-الأخيرة"
+}

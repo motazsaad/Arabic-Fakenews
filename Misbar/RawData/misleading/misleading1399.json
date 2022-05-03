@@ -1,0 +1,86 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 4,
+        "tw": 1
+    },
+    "amount_sources": 0,
+    "amount_visits": 1555,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">التلفزيون العُماني: إلقاء القبض على خلية إرهابية إماراتية حاولت اغتيال السلطان هيثم.</p>\r\n",
+    "country": "OM",
+    "created_at": "2020-01-21 11:09:40",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e26b1c4d4a229723b71d634",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الخبر غير صحيح، فمقطع الفيديو المتداول يعود إلى شهر يناير/ كانون الثاني من عام 2011، وهو لخبر ورد في إحدى نشرات التلفزيون العُماني، جاء فيه أنّ &quot;الأجهزة الأمنية العُمانية تمكنت من اكتشاف خلية تجسس تابعة لجهاز أمن الدولة في دولة الإمارات العربية المتحدة، مستهدفةً نظام الحكم في عُمان وآلية العمل الحكومي والعسكري فيها&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_7a8b6e3eca4b863c7d41020e2e4f8f8f.jpg\" style=\"height:495px; width:560px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">انتشر على موقع التواصل الاجتماعي فيسبوك مقطع فيديو مأخوذ من التلفزيون العُماني، يُعلن فيه خبر إلقاء القبض على خلية إرهابية تابعة لدولة الإمارات العربية المتحدة، كانت تسعى لاغتيال السلطان هيثم بن طارق آل سعيد، الذي خلف السلطان قابوس بن سعيد بعد وفاته في 10 يناير/ كانون الثاني من العام الجاري.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_f852c044306417b6f8cef0ba9bec48cf.jpg\" style=\"height:384px; width:680px\" /></span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_af7a531f40be5cc00b84ca0097d3ba97.jpg\" style=\"height:453px; width:656px\" /></span></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 344,
+        "left": 4.3301239013671875,
+        "path": "articles/1579594180GettyImages-1193050527.jpg",
+        "top": 56.71697998046875,
+        "totalHeight": 423,
+        "totalWidth": 619,
+        "width": 612
+    },
+    "post_date": "2020-01-21T11:00:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/watch/?v=500022663981477&external_log_id=6496e3da19f82cdef300d60485c38c27&q=%D8%A7%D9%84%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86%20%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D9%86%D9%8A%20%D8%A7%D9%84%D9%82%D8%A8%D8%B6%20%D8%B9%D9%84%D9%89%20%D8%AE%D9%84%D9%8A%D9%87%20%D8%A7%D8%B1%D9%87%D8%A7%D8%A8%D9%8A%D9%87%20%D8%A7%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%D9%8A%D9%87%20%D8%AD%D8%A7%D9%88%D9%84%D8%A9%20%D8%A7%D8%BA%D8%AA%D9%8A%D8%A7%D9%84%20%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D9%86%20%D9%87%D9%8A%D8%AB%D9%85",
+            "name": "Tripoli News",
+            "path": "published/0_1579594180_طرابلس-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/288469245376853/videos/644377019436022/?v=644377019436022&external_log_id=6496e3da19f82cdef300d60485c38c27&q=%D8%A7%D9%84%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86%20%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D9%86%D9%8A%20%D8%A7%D9%84%D9%82%D8%A8%D8%B6%20%D8%B9%D9%84%D9%89%20%D8%AE%D9%84%D9%8A%D9%87%20%D8%A7%D8%B1%D9%87%D8%A7%D8%A8%D9%8A%D9%87%20%D8%A7%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%D9%8A%D9%87%20%D8%AD%D8%A7%D9%88%D9%84%D8%A9%20%D8%A7%D8%BA%D8%AA%D9%8A%D8%A7%D9%84%20%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D9%86%20%D9%87%D9%8A%D8%AB%D9%85",
+            "name": "ليبيا الحدث 24",
+            "path": "published/1_1579594180_ليبيا.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/206955856894491/videos/210877783412984/?v=210877783412984&external_log_id=6496e3da19f82cdef300d60485c38c27&q=%D8%A7%D9%84%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86%20%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D9%86%D9%8A%20%D8%A7%D9%84%D9%82%D8%A8%D8%B6%20%D8%B9%D9%84%D9%89%20%D8%AE%D9%84%D9%8A%D9%87%20%D8%A7%D8%B1%D9%87%D8%A7%D8%A8%D9%8A%D9%87%20%D8%A7%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%D9%8A%D9%87%20%D8%AD%D8%A7%D9%88%D9%84%D8%A9%20%D8%A7%D8%BA%D8%AA%D9%8A%D8%A7%D9%84%20%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D9%86%20%D9%87%D9%8A%D8%AB%D9%85",
+            "name": "Sudanese Collection",
+            "path": "published/2_1579594180_sudanese collection-logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100007545757366/videos/2421047731490062/",
+            "name": "سليمان مقبل الفيروزي",
+            "path": "published/3_1579594180_سليمان الفيروزي-لوغو.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=9fMKWwWAsyw",
+            "name": "الفيديو الأصلي",
+            "path": "sources/0_1579594180_النقطع الأصلي-لوغو.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "القبض على خلية إماراتية حاولت اغتيال سلطان عُمان... هل الخبر صحيح؟",
+    "updated_at": "2020-09-25 11:29:56",
+    "url_path": "/factcheck/2020/01/21/القبض-على-خلية-إماراتية-حاولت-اغتيال-سلطان-عمان-هل-الخبر-صحيح"
+}

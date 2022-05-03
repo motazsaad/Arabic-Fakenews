@@ -1,0 +1,105 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2133,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "لا وجود لعلاج أو لقاح لفايروس كورونا حتى الآن (Getty)",
+    "category": "Health",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">شركة فرنسية تعرض أول دواء لعلاج مرضى فايروس كورونا المستجد.</span></p>\r\n",
+    "country": "FR",
+    "created_at": "2020-03-19 14:14:26",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e735412d4a2295c0e06c963",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقّق &quot;مسبار&quot; من صياغة العنوان والخبر ووجد أنّ فيها تضليلاً. وردت عبارة &quot;أول علاج لفايروس كورونا&quot; رغم عدم وجود أي علاج إلى الآن </span><a href=\"https://www.who.int/news-room/q-a-detail/q-a-coronaviruses\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>بحسب</u></span></a><span style=\"color:#000000\"> منظمة الصحة العالمية، ولا تنصح المنظّمة باستخدام أي نوع من العلاجات أو المضادات الحيوية في مجابهة المرض إلى هذه اللحظة. كما أنّ </span><a href=\"https://www.afp.com/fr/infos/334/coronavirus-sanofi-offre-de-lanti-paludique-plaquenil-pour-traiter-300000-malades-doc-1pz5qj1\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>الخبر الأصلي</u></span></a><span style=\"color:#000000\"> الذي نقلته المواقع العربية عن AFP لم يستخدم كلمة &quot;علاج&quot; وإنما &quot;traiter&quot; بالفرنسية، التي تعني &quot;التعامل&quot; مع المرض، وهي كلمة عامة تشمل تخفيف أعراض الفايروس أو تقليل مدّة تأثير تلك الأعراض على المصابين.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">أما بالنسبة لمتن الخبر، فإن معمل شركة سانوفي في فرنسا، وفقاً للـAFP، أعلن عن نتائج واعدة لقدرة &quot;بلانكيل&quot;، دواء الملاريا، على التعامل مع فايروس كورونا المستجد. وفي دراسة أشرف عليها مدير المستشفى الجامعي في مارسيليا، ديديه راؤول، على 24 حالة مصابة بالفايروس، فإن 18 حالة منها شُفيت بعد تلقّي الدواء لمدة 6 أيام.&nbsp;</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">رغم ما سبق، فإن عيّنة الدراسة غير ممثلة ولا تعني التوصّل إلى علاج أو لقاح بعد، الأمر الذي أهملت نقله المواقع العربية التي تداولت الخبر. وفي تصريح خاص لـ&quot;مسبار&quot;، أكّدت الصيدلانية ليلى خالد، والتي تعمل في موقع <a href=\"https://www.altibbi.com/\" target=\"_blank\">الطبي</a> للاستشارات الطبية، على ضرورة تجنّب تناول هذا الدواء أو أي دواء آخر دون استشارة الطبيب، فإن له آثاراً جانبية خطيرة عند الاستخدام العشوائي مثل تثبيط نبضات القلب والهبوط الحاد في نسبة السكّر في الدم، كما قد يؤدي استخدامه لمدى طويل إلى أضرار في شبكية العين. كما تؤكد خالد أن الفترة اللازمة لتطوير علاج أو لقاح لكوفيد-19 سوف تستغرق عاماً كاملاً في أكثر التقديرات تفاؤلاً.</span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "كورونا",
+        "فرنسا",
+        "دواء الكورونا",
+        "كوفيد-19"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تداولت مواقع إخبارية عربية خبراً عنوانه إعلان الشركة الفرنسية سانوفي أول دواء لعلاج مرضى فايروس كورونا المستجد. وجاء في متن الخبر الذي ادّعت تلك المواقع أنها نقلته عن الوكالية الفرنسية للأنباء (AFP) أنّ &quot;بلاكنيل&quot;، الدواء المضادّ للملاريا الذي تنتجه شركة سانوفي، برهن عن نتائج &quot;واعدة&quot; في معالجة مرضى بفايروس كورونا المستجدّ، وبالتالي فهي مستعدّة لأن تقدّم إلى السلطات الفرنسية ملايين الجرعات منه.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_tnk234rpn.jpg\" style=\"height:397px; width:486px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_v7whhrv7s.jpg\" style=\"height:398px; width:474px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 354,
+        "left": 4.48333740234375,
+        "path": "articles/1584616466GettyImages-1207621195.jpg",
+        "top": 65,
+        "totalHeight": 423,
+        "totalWidth": 635,
+        "width": 630
+    },
+    "post_date": "2020-03-19T13:00:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.skynewsarabia.com/technology/1329182-%D8%B4%D8%B1%D9%83%D8%A9-%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9-%D8%AA%D8%B9%D8%B1%D8%B6-%D8%A7%D9%94%D9%88%D9%84-%D8%AF%D9%88%D8%A7%D8%A1-%D9%84%D9%85%D8%B9%D8%A7%D9%84%D8%AC%D8%A9-%D9%85%D8%B1%D8%B6%D9%89-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7?fbclid=IwAR2hdDt69LlaRlnibbrsGj4vKzBgzBSsxOt-2OgAYXcSZ1zQVNxcTE4FKKo",
+            "name": "سكاي نيوز عربية",
+            "path": "published/0_1584616611_سكاي-نيوز-عربية-لوغو.jpg"
+        },
+        {
+            "link": "https://royanews.tv/news/208813",
+            "name": "رؤيا الإخباري",
+            "path": "published/1_1584616464_رؤيا-الإخباري-لوغو.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=GOJ9u-gn3G4",
+            "name": "العربية",
+            "path": "published/2_1584616465_العربية-لوغو.jpg"
+        },
+        {
+            "link": "https://paltimesps.ps/post/256545/%D8%B4%D8%B1%D9%83%D8%A9-%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9-%D8%AA%D8%B9%D8%B1%D8%B6-%D8%A3%D9%88%D9%84-%D8%AF%D9%88%D8%A7%D8%A1-%D9%84%D8%B9%D9%84%D8%A7%D8%AC-%D9%85%D8%B1%D8%B6%D9%89-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7",
+            "name": "فلسطين الآن",
+            "path": "published/3_1584616465_فلسطين-الان-لوغو.jpg"
+        },
+        {
+            "link": "https://www.alayam.com/alayam/last-page/848242/News.html",
+            "name": "الأيام",
+            "path": "published/4_1584616465_الأيام-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Globelinformation/videos/546266682661777/",
+            "name": "معلوماتيون",
+            "path": "published/5_1584616466_معلوماتيون-لوغو.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.who.int/news-room/q-a-detail/q-a-coronaviruses",
+            "name": "منظمة الصحة العالمية",
+            "path": "sources/0_1584616464_who-logo-new-vertical-294x300.jpg"
+        },
+        {
+            "link": "https://www.afp.com/fr/infos/334/coronavirus-sanofi-offre-de-lanti-paludique-plaquenil-pour-traiter-300000-malades-doc-1pz5qj1",
+            "name": "AFP (الخبر الأصلي)",
+            "path": "sources/1_1584616464_afp-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "خبر مضلل عن إنتاج شركة فرنسية لدواء لفايروس كورونا",
+    "title": "شركة فرنسية تنتج أول دواء لكورونا.. خبر مضلل",
+    "updated_at": "2020-09-25 16:27:37",
+    "url_path": "/factcheck/2020/03/19/شركة-فرنسية-تنتج-أول-دواء-لكورونا-خبر-مضلل"
+}

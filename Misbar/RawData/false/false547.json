@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2644,
+    "author": {
+        "fullname": "محمد الخالدي",
+        "id": "5ef9dcff163be306aa5d2826",
+        "photo": {
+            "name": "1593433343_48252779_2179011148784786_3755534693705973760_o.jpg",
+            "path": "authors/1593433343_48252779_2179011148784786_3755534693705973760_o.jpg"
+        }
+    },
+    "caption": "لا يوجد أي خبر على موقع قناة (CNN) بلغتيه العربية والانجليزية بهذا الخصوص (Getty)",
+    "category": "Politics",
+    "claim": "<p style=\"text-align:justify\">قناة (CNN)&nbsp;الأميركية نشرت أنه سيتم تأجيل خطة &quot;الضم&quot; الإسرائيلية لمناطق من الضفة الغربية المحتلة.</p>\r\n",
+    "country": "PS",
+    "created_at": "2020-06-29 14:23:30",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ef9cf32163be306c92d4697",
+    "investigation": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقّق &quot;مسبار&quot; من الخبر ووجده زائف، إذ لا يوجد أيّ خبر على موقع قناة (</span>CNN<span dir=\"RTL\" lang=\"AR-SA\">) بلغتيه العربية والإنجليزية بهذا الخصوص، كما لم تتناقل وسائل الإعلام المعروفة هذا الخبر كونه يُعد خبراً هامًّا&nbsp;إن حدث، أمام تصاعد التوتر مع &nbsp;اقتراب إعلان &quot;الضم&nbsp;الإسرائيلي&quot; في الأول من يوليو/تموز المقبل، وما تم تداوله فقط هو ترجيح&nbsp;تأجيل الخطة&nbsp;وفقاً للقناة&nbsp;13 الإسرائيلية. كما لم يصدر عن الاحتلال أي قرار رسمي بالتأجيل حتى اللحظة.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_zmphk1dbg.jpg\" style=\"height:171px; width:624px\" /></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_no50f69ar.jpg\" style=\"height:164px; width:624px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تداول موقع إخباري محلي وصفحات على مواقع التواصل الاجتماعي، يوم أمس، 28 يونيو/حزيران الجاري، خبراً مفاده بأنَّ قناة&nbsp;</span>(CNN)&nbsp;<span dir=\"RTL\" lang=\"AR-SA\">&nbsp;الأميركية نشرت عن تأجيل خطة &quot;</span><span dir=\"RTL\">الضم</span><span dir=\"RTL\" lang=\"AR-SA\">&quot; الإسرائيلية لمناطق من </span><span dir=\"RTL\">الضفة الغربية المحتلة</span><span dir=\"RTL\" lang=\"AR-SA\">، بسبب عدم اتخاذ قرار نهائيّ من&nbsp;إدارة </span><span dir=\"RTL\">الرئيس الأميركي دونالد ترامب</span><span dir=\"RTL\" lang=\"AR-SA\">، ووجود ضغوط دولية وعربية دفعت الإدارة إلى إعادة النظر في ضم&nbsp;أجزاء من الضفة.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_i66fo9ar9.jpg\" style=\"height:206px; width:624px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_oummjmtm8.jpg\" style=\"height:251px; width:624px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 336,
+        "left": 5.9974365234375,
+        "path": "articles/1593429809GettyImages-1223403743.jpg",
+        "top": 15.81103515625,
+        "totalHeight": 423,
+        "totalWidth": 608,
+        "watermark_path": "articles/watermark-1593429809GettyImages-1223403743.jpg",
+        "width": 598
+    },
+    "post_date": "2020-06-29T14:01:00.000+03:00",
+    "published": [
+        {
+            "link": "https://alkhabrpress.com/archives/23515",
+            "name": "الخبر برس",
+            "path": "published/0_1593429809_الخبر-برس.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?id=176360155744880&story_fbid=3078891675491699",
+            "name": "Jerusalem First القدس اولا",
+            "path": "published/1_1593429809_Jerusalem First القدس اولا.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Nuseirat.channel.Live/photos/a.109291683819126/276996900381936/?type=3&theater",
+            "name": "قناة النصيرات مباشر - Nuseirat Channel Live",
+            "path": "published/2_1593433548_قناة النصيرات مباشر - Nuseirat Channel Live1.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/samer.samer.samer.1994/posts/174736280750676?__xts__[0]=68.ARAsetsHY9gx2EW9OMVOVbnbjXPPprQTzhun4KsiKamNn7eelTzaoxGwjCe4oCaw9ZZknslb1Xr1ULNsk_lMsQTqoDcDJ4_-QAKeumZ6E9aXS1eFIIHTOmWZBPTBxZIQ3TDfm9u6jcgYkL92dyfWj99MrvhVfshczUMxQrWQHLBrVurUBW2yspUSbzjHMRDjMNiD4Yk1R9r9LN3ThBL4wpaZ31OClS2XqtvblD67eFA_3jkNyB9XFcjvAvDOJSBL-RZsI2H8WxP8PhpRoJEJ6NLKaq6hwvEHPDjei8C1qB3lSfXsgrWXZHNJOUQNfZPr593CpgUiDCw5CIEM3uQ&__tn__=-R",
+            "name": "صحيفة لا للمؤمرات الصهيوامريكية الاخبارية",
+            "path": "published/3_1593433548_صحيفة لا للمؤمرات الصهيوامريكية الاخبارية.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://arabic.cnn.com/",
+            "name": "CNN",
+            "path": "sources/0_1593429809_CNN العربية.jpg"
+        },
+        {
+            "link": "https://13news.co.il/item/news/politics/state-policy/jordan-annexation-1085948/",
+            "name": "القناة 13 الإسرائيلية",
+            "path": "sources/1_1593429809_القناة-13-اسرائيلية.jpg"
+        },
+        {
+            "link": "https://akka.ps/post/18314/%D8%A3%D9%87%D9%85-%D9%85%D8%A7-%D9%88%D8%B1%D8%AF-%D8%A8%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D8%B9%D8%A8%D8%B1%D9%8A-%D8%B5%D8%A8%D8%A7%D8%AD-%D8%A7%D9%84%D8%A7%D8%AB%D9%86%D9%8A%D9%86-29-6-2020",
+            "name": "عكا للشؤون الإسرائيلية",
+            "path": "sources/2_1593429809_عكا-للشؤون-الاسرائيلية.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "سي إن إن الأميركية لم تنشر خبراً عن تأجيل خطة الضم لمناطق الضفة",
+    "updated_at": "2020-09-25 06:56:16",
+    "url_path": "/factcheck/2020/06/29/خطة-الضم-الإسرائيلية-لمناطق-من-الضفة-الغربية-لم-تؤجل-حتى-اللحظة"
+}

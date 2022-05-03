@@ -1,0 +1,123 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 142,
+    "author": {
+        "fullname": "محمد سليمان",
+        "id": "5f83020e8731e97a9f205e7e",
+        "photo": {
+            "name": "1602421262_thumbnail_IMG_9049.jpg",
+            "path": "authors/1602421262_thumbnail_IMG_9049.jpg"
+        }
+    },
+    "caption": "تعود الصورة لرجل إطفاء أميركي خلال محاولته إخماد الحرائق التي اندلعت في كاليفورنيا (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">رجل إطفاء سعودي خلال إخماده حريق تنومة</p>\r\n",
+    "country": "",
+    "created_at": "2020-10-22 12:03:51",
+    "created_by": "5f39b1ee1dd5850789476b61",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 2,
+    "id": "5f914af7e62195238e717023",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقق &quot;مسبار&quot; من الصورة المتداولة وتبين أنها مضللة، إذ تعود لرجل إطفاء أميركي خلال محاولته إخماد الحرائق التي اندلعت في كاليفورنيا في سبتمبر<span dir=\"LTR\">/</span>أيلول الفائت، والتقطتها وكالة الأنباء الفرنسية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><span dir=\"LTR\" lang=\"AR-SA\"><img id=\"صورة_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/investigation_4t4lnj31o.jpg\" style=\"height:697.5pt; width:396.75pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\"><span dir=\"LTR\" lang=\"AR-SA\"><img id=\"صورة_x0020_2\" src=\"https://images-prod.misbar.com/articlebody/investigation_g7oi029c5.jpg\" style=\"height:690pt; width:405pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\">اقرأ/ي أيضاً</p>\r\n\r\n<p><a href=\"https://misbar.com/factcheck/2020/10/12/%D9%87%D8%B0%D9%87-%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9-%D9%84%D9%8A%D8%B3%D8%AA-%D9%85%D9%86-%D8%AD%D8%B1%D8%A7%D8%A6%D9%82-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%AE%D9%8A%D8%B1%D8%A9\" target=\"_blank\">هذه الصورة ليست من حرائق سورية الأخيرة</a></p>\r\n\r\n<p><a href=\"https://misbar.com/factcheck/2020/10/12/%D9%87%D8%B0%D9%87-%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D9%84%D9%8A%D8%B3%D8%AA-%D9%85%D9%86-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%A6%D9%82-%D8%A7%D9%84%D8%AA%D9%8A-%D8%A7%D9%84%D8%AA%D9%87%D9%85%D8%AA-%D9%85%D9%86%D8%A7%D8%B7%D9%82-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9\" target=\"_blank\">هذه الصور ليست من الحرائق التي التهمت مناطق سورية</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">تتداول مواقع إخبارية وحسابات وصفحات على مواقع التواصل الاجتماعي، حديثاً، صورة ادعت أنها لرجل من الدفاع المدني السعودي خلال محاولته إخماد حرائق في محافظة تنومة التي تقع جنوب غربي السعودية، والتي اندلعت فيها الحرائق مساء أمس الأربعاء.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><span dir=\"LTR\" lang=\"AR-SA\"><img id=\"صورة_x0020_3\" src=\"https://images-prod.misbar.com/articlebody/origin_bzse5qjhp.jpg\" style=\"height:593.25pt; width:303.75pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><span dir=\"LTR\" lang=\"AR-SA\"><img id=\"صورة_x0020_7\" src=\"https://images-prod.misbar.com/articlebody/origin_4qwj1chlk.jpg\" style=\"height:206.25pt; width:415.5pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><span dir=\"LTR\" lang=\"AR-SA\"><img id=\"صورة_x0020_8\" src=\"https://images-prod.misbar.com/articlebody/origin_0usz9sjd9.jpg\" style=\"height:579.75pt; width:303.75pt\" /> </span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 351,
+        "left": 4.4349822998046875,
+        "path": "articles/1603357431GettyImages-1228385635 (1).jpg",
+        "top": 39.91845703125,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1603357431GettyImages-1228385635 (1).jpg",
+        "width": 624
+    },
+    "post_date": "2020-10-22T11:54:00.000+03:00",
+    "published": [
+        {
+            "id": "5f914af69d516c3ebb08a6ac",
+            "link": "https://al-ain.com/article/tanumah-fire-twitter-arab-saudi-arabia",
+            "name": " العين الإخبارية",
+            "origin": "",
+            "path": "sources/4b4255102e100145e2651b3898d2bc4927788374.jpg"
+        },
+        {
+            "id": "5f914af6e0484912b60e1fb5",
+            "link": "https://2u.pw/S5qtC",
+            "name": "2u.pw",
+            "origin": "",
+            "path": "sources/a5f21050ff20806b597cb397526af1f8833249c7.jpg"
+        },
+        {
+            "id": "5f914af6d0efc93e8b4fdc60",
+            "link": "https://twitter.com/a_albander/status/1319169708361396224/photo/1",
+            "name": "عبدالله البندر",
+            "origin": "twitter",
+            "path": "sources/56f58704cdd45a28caf1cef633f5f211ff6772cd.jpg"
+        },
+        {
+            "id": "5f914af7141bbf003050c610",
+            "link": "https://twitter.com/ahmedalsharary/status/1319182600813109250",
+            "name": "أحمد الشراري",
+            "origin": "twitter",
+            "path": "sources/eee8a2f0f2f6cf70972d37cc8ba05061a377e1af.jpg"
+        },
+        {
+            "id": "5f914af7d0d21f73e7039656",
+            "link": "https://twitter.com/KSASociety/status/1319183074702348290/photo/1",
+            "name": "مجتمعنا",
+            "origin": "twitter",
+            "path": "sources/89b891d5c00ab43f6b4dd28fea97677740a8f746.jpg"
+        },
+        {
+            "id": "5f914af7be87a0034c7bccfc",
+            "link": "https://twitter.com/asma_yz/status/1319161591842091009",
+            "name": "أسماء الزهراني ~♡",
+            "origin": "twitter",
+            "path": "sources/73a83bc7b35127926476d4248b234692598bdf01.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f914af78fa48a61502b1fe9",
+            "link": "https://www.hollywoodreporter.com/news/el-dorado-fire-caused-by-pyrotechnic-device-used-during-gender-reveal-party",
+            "name": "www.hollywoodreporter.com",
+            "origin": "",
+            "path": "sources/51b56fc3b61148e6394238586db7425ee491b0c4.jpg"
+        },
+        {
+            "id": "5f8dddc9675718689f7f08d6",
+            "link": "https://www.nytimes.com/article/why-does-california-have-wildfires.html?action=click&block=storyline_menu_recirc&impression_id=4d440b11-f2ec-11ea-8835-032e29c59cab&name=styln-california-wildfires&pgtype=Article&region=TOP_BANNER&variant=undefined",
+            "name": "www.nytimes.com",
+            "origin": "",
+            "path": "sources/6ef182af576c3d3ef5751d0e996d7e926f9d91f8.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصورة ليست لرجل إطفاء سعودي يخمد نيران تنومة",
+    "updated_at": "2020-10-22 18:20:06",
+    "url_path": "/factcheck/2020/10/22/هذه-الصورة-ليست-لرجل-إطفاء-سعودي-يخمد-نيران-تنومة",
+    "was_notification_pushed": true
+}

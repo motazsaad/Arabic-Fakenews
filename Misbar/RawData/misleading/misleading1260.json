@@ -1,0 +1,97 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 3622,
+    "author": {
+        "fullname": "هيثم جودية",
+        "id": "5e295291d4a2296ff0065605",
+        "photo": {
+            "name": "1579766417_هيثم .JPG",
+            "path": "authors/1579766417_هيثم .JPG"
+        }
+    },
+    "caption": "الصورة قديمة وليست في سورية (مواقع التواصل الاجتماعي)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة تظهر عائلة سورية تنام في أحد شوارع العاصمة السورية دمشق بعد طردها من منزلها لعدم تمكّنها من دفع الإيجار الشهري.</p>\r\n",
+    "country": "SY",
+    "created_at": "2020-04-11 11:08:12",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5e917aecdb29163a972f2584",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة المتداولة وتبين أنها مضلّلة، لأنها نشرت لأول مرة في تقرير لصحيفة The Peninsula القطرية الناطقة باللغة الإنجليزية، في الصفحة السابعة من العدد الصادر بتاريخ 28 أغسطس/آب عام 2015، الذي يتحدّث عن مساعدة سكّان العاصمة الصربية بلغراد للاجئين السوريّين الذي يمرّون بالمدينة وهم في طريقهم إلى دول أوروبا الغربية. والتُقطت الصورة الأصلية في حديقة بالقرب من محطة الحافلات والقطارات الرئيسية في بلغراد بحسب الصحيفة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_hnw63qarv.jpg\" style=\"height:250px; width:554px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_sff5766ye.jpg\" style=\"height:414px; width:554px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "سورية",
+        "تشرد",
+        "كورونا",
+        "كوفيد-19"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات على مواقع التواصل الاجتماعي صورة ادّعت أنها لأفراد عائلة ينامون على قارعة الطريق في العاصمة السورية دمشق، وذلك بعد طردها من منزلها لعدم تمكّنها من دفع الإيجار. وشهدت الصورة تفاعلاً كبيراً لدى عدد من المواطنين إذ أبدى العديد استيائهم من هذا الأمر فيما عرض البعض المساعدة بتأمين سكن بديل.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_h39fmoulu.jpg\" style=\"height:466px; width:497px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_21yml52qo.jpg\" style=\"height:498px; width:494px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1586592491209102.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1586592491209102.jpg",
+        "width": 752
+    },
+    "post_date": "2020-04-11T10:58:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/DigitalMarktingDamas/photos/a.113031700158756/171317320996860/?type=3&theater ",
+            "name": "المسوق الرقمي سورية",
+            "path": "published/0_1586592490_المسوق-الرقمي-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/132351824098567/photos/a.132355354098214/514098612590551/?type=3&theater",
+            "name": "كلشي عن الشام",
+            "path": "published/1_1586592490_كلشي-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/2127967897228596/permalink/4271737156184982/",
+            "name": "صور اللاذقية",
+            "path": "published/2_1586592490_صور-اللاذقية-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/1370147396474683/photos/a.1370155686473854/1658448710977882/?type=3&theater",
+            "name": "سما سورية",
+            "path": "published/3_1586592490_سما-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/news.adver.damas/photos/a.1880431342209534/2510883489164313/?type=3&theater",
+            "name": "إعلانات وأخبار دمشق",
+            "path": "published/4_1586592491_إعلانات-لوغو.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thepeninsulaqatar.com%2Fuploads%2F2016%2F08%2F10%2Fpdf%2FThePeninsulaAugust282015.pdf&psig=AOvVaw3KpZi3ub6bjtZBhS3Eo0jS&ust=1586603823920000&source=images&cd=vfe&ved=0CA0QjhxqFwoTCNDjxITe3egCFQAAAAAdAAAAABAD",
+            "name": "The Peninsula Qatar",
+            "path": "sources/0_1586592491_Peninsula-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صورة مضلّلة لعائلة سورية تنام في أحد شوارع دمشق",
+    "updated_at": "2020-09-25 20:11:57",
+    "url_path": "/factcheck/2020/04/11/صورة-مضللة-لعائلة-سورية-تنام-في-أحد-شوارع-دمشق"
+}

@@ -1,0 +1,102 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 3267,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الفيديو لمشاجرة حصلت في مسجد في الكويت العام الفائت (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">فيديو يُظهر كيف طرد المصلون في الكويت رجلاً عطس خلال خطبة الجمعة، خوفاً من أن يكون مصاباً بـ كورونا.</p>\r\n",
+    "country": "KW",
+    "created_at": "2020-03-05 11:40:55",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e60bb17d4a229380d417d13",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الفيديو مضلّل لأنّه قديم ومتداول قبل ظهور فايروس كورونا، إذ وجده &quot;مسبار&quot; منشوراً على وسائل التواصل الاجتماعي وموقع يوتيوب منذ بداية نوفمبر/ تشرين الثاني من العام الماضي، وهو لمشاجرة حصلت خلال خطبة الجمعة في أحد مساجد الكويت، وقد لاقى الفيديو عندئذٍ تفاعلاً واسعاً على مواقع التواصل، خصوصاً أنّ التلفزيون الكويتي كان يبثّ الخطبة على الهواء مباشرة.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/TKy28GA-rIY\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<blockquote class=\"twitter-tweet\">&mdash; ديوان الكويت 🇰🇼 (@aldew3n_q8) <a href=\"https://twitter.com/aldew3n_q8/status/1190205926793453568?ref_src=twsrc%5Etfw\">November 1, 2019</a></blockquote>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداول مستخدمون على منصة فيسبوك، مقطع فيديو زعموا أنّه يُظهر طرد المصلين لرجلٍ عطس خلال خطبة الجمعة في أحد المساجد في الكويت، والسبب خوفهم من أن يكون مصاباً بـ كورونا. وتمّ تداول الفيديو على أنّه يصوّر حالة الهلع التي أصابت الكويتيين جراء انتشار الفايروس. وجاء في المنشور المرافق للفيديو &quot;فوبيا كورونا.. أمس في الكويت وفي منتصف خطبة الجمعة واحد من المصلين عطس بالمسجد بدل ما يقولون يرحمك الله طردوه من الجامع&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_wsvb4u4nh.jpg\" style=\"height:460px; width:485px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_jq0fv94dw.jpg\" style=\"height:432px; width:503px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_tic96zt7r.jpg\" style=\"height:746px; width:464px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 345,
+        "left": 5.1304931640625,
+        "path": "articles/1583397655GettyImages-1203890554.jpg",
+        "top": 37.073486328125,
+        "totalHeight": 423,
+        "totalWidth": 620,
+        "width": 613
+    },
+    "post_date": "2020-03-05T11:29:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1602319123242119&id=100003921406677&hc_location=ufi&comment_id=Y29tbWVudDoyMjIyMDEwODI0ODY4MjZfMjIyMjAyMzU1ODIwMDMy",
+            "name": "عبد الله رزيق",
+            "path": "published/0_1583397654_Facebook_logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/923057931124210/videos/1626433124171400/?v=1626433124171400",
+            "name": "سحس سحي",
+            "path": "published/1_1583397654_سحس سحي-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100007627059217/videos/2441685106095701/",
+            "name": "Naif Al Ahmad",
+            "path": "published/2_1583397654_Naif Al Ahmad.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100009477349481/videos/2581442928848260/",
+            "name": "أبو لقمان الناسك",
+            "path": "published/3_1583397655_أبو لقمان الناسك-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100003191176301/videos/2824206257695719/",
+            "name": "محمد عباس أبو توما",
+            "path": "published/4_1583397655_محمد عباس أبو توما.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/1453746437/videos/10219560047219140/",
+            "name": "محمد صبري",
+            "path": "published/5_1583397655_محمد صبري.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=TKy28GA-rIY",
+            "name": "الفيديو الأصلي",
+            "path": "sources/0_1583397654_YouTube-logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/aldew3n_q8/status/1190205926793453568?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1190205926793453568&ref_url=https%3A%2F%2Farabic.cnn.com%2Fentertainment%2Farticle%2F2019%2F11%2F01%2Fkuwait-friday-prayer-fight-social-reactions",
+            "name": "ديوان الكويت",
+            "path": "sources/1_1583397654_ديوان الكويت-لوغو.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "عطسَ خلال خطبة الجمعة فطرده المصلون.. هل يُظهر الفيديو خوف الكويتيين من كورونا؟",
+    "updated_at": "2020-09-25 01:11:06",
+    "url_path": "/factcheck/2020/03/05/عطس-خلال-خطبة-الجمعة-فطرده-المصلون-هل-يظهر-الفيديو-خوف-الكويتيين-من-كورونا"
+}

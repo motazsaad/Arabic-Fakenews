@@ -1,0 +1,121 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 13045,
+    "author": {
+        "fullname": "خالد إسماعيل",
+        "id": "5e59256dd4a2295224257db3",
+        "photo": {
+            "name": "1582900589_صورة 2.jpg",
+            "path": "authors/1582900589_صورة 2.jpg"
+        }
+    },
+    "caption": "الادعاء مضلّل ولا علاقة له بكوفيد-19 (مواقع التواصل الاجتماعي)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">وفاة 59 مواطن في كينيا نتيجة تناولهم لمطهّر الديتول بهدف الوقاية من فايروس كورونا، بأمرٍ من أحد رجال الدين.</span></p>\r\n",
+    "country": "KE",
+    "created_at": "2020-03-31 13:00:23",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e8314b7db29160ec70747e3",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من القصة المتداولة ووجد أن الادعاء مضلّل ولا علاقة له بكوفيد-19. عن طريق البحث العكسي بالصورة اتضح أنها تعود لشهر ديسمبر/كانون الأول من عام 2016، كما أنها توثّق قصة واقعية من جنوب أفريقيا عن رجل دين مسيحي يُدعى &quot;روفوس فالا&quot; أشار على أتباعه بشرب المطهّر للتخلص من أمراضهم. كما لم يعثر &quot;مسبار&quot; على أيّ أدلة موثوقة حول حدوث حالات وفاة ناتجة عن الواقعة القديمة أو حديث مشابه لها.&nbsp;</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">ويرجّح &quot;مسبار&quot; أنّ سبب انتشار القصة باعتبارها من كينيا هو أنّ موقعاً يُدعى كينيا اليوم نشرها قبل أيام قبل أن يقوم بحذفها.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_1hz01lhsu.jpg\" style=\"height:622px; width:521px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "كوفيد-19",
+        "كورونا",
+        "كورونا كينيا",
+        "ديتول"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تداولت مواقع إخبارية وصفحاتٌ على مواقع التواصل الاجتماعي صورة لشخصٍ يسكبُ مطهّر الديتول في حلق فتاة. رافقت الصورة قصة زعمت وفاة 59 مواطناً وأربع حالات حرجة في كينيا، نتيجة تناولهم ذلك المطهّر بغرض القضاء على كوفيد-19، وذلك بأمرٍ من رجل دين يدعى روفوس فالا، كما تُحقّق الشرطة الكينية في القضية.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_0v346ez9x.jpg\" style=\"height:640px; width:538px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_9dczepq1a.jpg\" style=\"height:776px; width:504px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 310,
+        "left": 3.3499755859375,
+        "path": "articles/1585648823غلاف.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 557,
+        "width": 550
+    },
+    "post_date": "2020-03-31T12:52:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.mobtada.com/details/920783?fbclid=IwAR1o6g3FXhAicS1O-KK9hGX7acCkArokKW-5A5-FY5sB18QZ88JOKHImDCk",
+            "name": "مبتدا",
+            "path": "published/0_1585648822_مبتدا-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=10213850402449276&set=pcb.10213850340447726&type=3&theater",
+            "name": "محمود مصطفى",
+            "path": "published/1_1585648822_محمود-مصطفى-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/Yahia2004/permalink/2953847378047679/",
+            "name": "إبراهيم الزاوي",
+            "path": "published/2_1585648823_إبراهيم-الزاوي-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/almarsad.official/posts/1376675319190800",
+            "name": "مرصد القنيطرة",
+            "path": "published/3_1585648823_مرصد-القنيطرة-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=824888731320373&id=239631299846122",
+            "name": "شموخ النيل",
+            "path": "published/4_1585648823_شموخ-النيل-لوغو.jpg"
+        },
+        {
+            "link": "https://www.alrakoba.net/31380312/%D9%88%D9%81%D8%A7%D8%A9-59-%D8%B4%D8%AE%D8%B5%D9%8B%D8%A7-%D9%81%D9%8A-%D9%83%D9%8A%D9%86%D9%8A%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%B4%D8%B1%D8%A8-%D9%85%D8%B7%D9%87%D8%B1-%D8%A7%D9%84%D8%AF%D9%8A%D8%AA/",
+            "name": "صحيفة الراكوبة",
+            "path": "published/5_1585648823_صحيفة-الراكوبة-لوغو.jpg"
+        },
+        {
+            "link": "https://www.masralyoum.net/ksa/1374125/%D9%88%D9%81%D8%A7%D8%A9-59-%D8%B4%D8%AE%D8%B5%D9%8B%D8%A7-%D9%81%D9%8A-%D9%83%D9%8A%D9%86%D9%8A%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%B4%D8%B1%D8%A8-%D9%85%D8%B7%D9%87%D8%B1-%D8%A7%D9%84%D8%AF%D9%8A%D8%AA%D9%88%D9%84-",
+            "name": "مصر اليوم",
+            "path": "published/6_1585648823_مصر-اليوم-لوغو.jpg"
+        },
+        {
+            "link": "https://www.febrayer.com/730228.html",
+            "name": "فبراير",
+            "path": "published/7_1585648823_فبراير-لوغو.jpg"
+        },
+        {
+            "link": "https://www.maghress.com/annoukhba/78176",
+            "name": "مغرس",
+            "path": "published/8_1585648823_مغرس-لوغو.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://citizen.co.za/news/south-africa/1371173/another-pastor-strikes-makes-congregants-drink-dettol/  ",
+            "name": "The Citizen",
+            "path": "sources/0_1585648822_citizen-logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/mpangazitha.phakathi/posts/1634177866608127",
+            "name": "Mpangazitha Nkinga Phakathi ",
+            "path": "sources/1_1585648822_Mpangazitha-Nkinga-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "خبر زائف عن رجل دين يُشير على أتباعه بتناول المطهّر للقضاء على كورونا",
+    "title": "كورونا كينيا: مواطنون يتناولون المطهّر.. خبر زائف",
+    "updated_at": "2020-09-25 16:25:42",
+    "url_path": "/factcheck/2020/03/31/كورونا-كينيا-مواطنون-يتناولون-المطهر-خبر-زائف"
+}

@@ -1,0 +1,114 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 513,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "الصورة ليست لوزير الخارجية الحالي &amp;quot;تويتر&amp;quot;",
+    "category": "Politics",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">الناطق باسم الخارجية الاسرائيلية: أول علاقات لإسرائيل كانت مع تركيا وأردوغان لا يستطيع مجرد التفكير فى قطع العلاقة معنا، لأنه يعلم جيدا الوثائق التي نمتلكها ضده.</span></p>\r\n",
+    "country": "TR",
+    "created_at": "2020-08-26 13:43:08",
+    "created_by": "5f39b5a51dd585076701cb94",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f463cbc602118066e20176f",
+    "investigation": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من الخبر المتداول وتبين أنه زائف. إذ لم تصرح الخارجية الإسرائيلية بهذا الخبر، كما لم ينشره أي مصدر رسمي.<br />\r\nأما عن الصورة المتداولة مع الخبر تعود لوزير المالية الحالي وعضو الكنيست، ووزير الخارجية السابق، يسرائيل كاتس. ووزير <a href=\"https://arabic.euronews.com/2020/05/14/who-is-gabi-ashkenazi-israel-new-foreign-minister\" style=\"color:#0563c1; text-decoration:underline\">الخارجية الحالي</a> يُدعى غابي أشكنازي.</span></p>\r\n\r\n<p style=\"text-align:right\"><iframe frameborder=\"0\" height=\"618\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Faljazeera.net%2Fposts%2F1428823533979213&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_srwzw1if1.jpg\" style=\"height:394px; width:624px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات على مواقع التواصل الاجتماعي، حديثاً، صورة مرفقة بخبر يقول &quot;الناطق باسم الخارجية الاسرائيلية: أول علاقات لإسرائيل كانت مع تركيا وأردوغان لا يستطيع مجرد التفكير فى قطع العلاقة معنا، لأنه يعلم جيداً الوثائق التي نمتلكها ضده&quot;.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_v6gwwhl1v.jpg\" style=\"height:587px; width:502px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_tagyzqi4m.jpg\" style=\"height:450px; width:502px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1598438587EfdFqGPWoAE_utV.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1598438587EfdFqGPWoAE_utV.jpg",
+        "width": 752
+    },
+    "post_date": "2020-08-26T13:40:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/JayshKarama/status/1294599467770028033",
+            "name": "أخبار جيش الكرامة",
+            "path": "published/0_1598438587_twitter.jpg"
+        },
+        {
+            "link": "https://twitter.com/AbuSaleemDfndrs/status/1294656090685276160",
+            "name": "حُماة أبو سليم",
+            "path": "published/1_1598438862_twitter.jpg"
+        },
+        {
+            "link": "https://twitter.com/Khaled13810/status/1294841597818019842",
+            "name": "خالد بن عبدالرحمن",
+            "path": "published/2_1598438862_twitter.jpg"
+        },
+        {
+            "link": "https://twitter.com/Jihan_Fathy88/status/1294636029320855553",
+            "name": "Jihan Fathy",
+            "path": "published/3_1598438862_twitter.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/abokalifa1931/posts/161524355523358",
+            "name": "محمد عبدالعزيز الغرباوى",
+            "path": "published/4_1598438862_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/494284508073406/permalink/764592617709259/",
+            "name": "Waleed Shalapy",
+            "path": "published/5_1598438862_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/AllhmAnsrMsr/posts/3656272941068123",
+            "name": "عـــــــربــــــــــي أنــــــــا",
+            "path": "published/6_1598438862_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=3158630964190686&id=750001065053700",
+            "name": "عاجل بنغازي الأخبارية",
+            "path": "published/7_1598438862_facebook.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/aljazeera.net/photos/a.309316329263278/1428823380645895/?type=3&theater",
+            "name": "الجزيرة ",
+            "path": "sources/0_1598438587_الجزيرة نت.jpg"
+        },
+        {
+            "link": "https://arabic.euronews.com/2020/05/14/who-is-gabi-ashkenazi-israel-new-foreign-minister",
+            "name": "euronews",
+            "path": "sources/1_1598438862_euronews (عــربي).jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الخارجية الإسرائيلية لم تقل إن أول علاقات لإسرائيل كانت مع تركيا",
+    "updated_at": "2020-09-25 07:36:43",
+    "url_path": "/factcheck/2020/08/26/الخارجية-الإسرائيلية-لم-تقل-إن-أول-علاقات-لإسرائيل-كانت-مع-تركيا"
+}

@@ -1,0 +1,96 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1994,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "المقطع مفبرك والترجمة مختلقة (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">البرلمان الكندي يضحك من حال المعلم المصري.</span></p>\r\n",
+    "country": "EG",
+    "created_at": "2020-06-23 16:56:25",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ef20a09163be32bfa0416c2",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من المقطع المتداول ووجد أنه زائف، إذ فبرك أحدهم مقطع </span><a href=\"https://www.euronews.com/2019/10/10/danish-pm-gets-the-giggles-during-statement-on-circus-elephants?jwsource=cl\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>الفيديو الأصلي</u></span></a><span style=\"color:#000000\"> وأضاف له ترجمة مختلقة.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">في حين أنّ المقطع الأصلي، المنشور بتاريخ 10 أكتوبر/تشرين الأول 2019، يُظهر رئيسة الوزراء الدنماركية، Mette Frederiksen، وهي تضحك أثناء حديثها عن شراء الحكومة الدنماركية لأربعة فيلة بهدف إنقاذها من السيرك وتوفير الراحة لها في آخر أيامها.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">ويرجّح &quot;مسبار&quot; أنّ مقطع الفيديو المتداول عُدّل بهدف السخرية لكن تناقلته العديد من الصفحات على أنه حقيقي.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/SCBp10pt7AE\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "البرلمان الكندي",
+        "المعلم",
+        "مصر",
+        "كورونا مصر"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل صفحات على مواقع التواصل الاجتماعي، منذ أشهر، مقطع فيديو ادّعت أنه يُظهر البرلمان الكنديّ وقد انتابته حالة من الضحك عندما تحدّثت إحدى النوّاب عن حالة المعلمين المصريين وأجورهم.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/vKjbEGaw-GQ\" width=\"560\"></iframe></span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"372\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fzainalbarod%2Fvideos%2F2800492789971971%2F&amp;show_text=1&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 359,
+        "left": 3.45001220703125,
+        "path": "articles/1592920584GettyImages-1202031298.jpg",
+        "top": 24.25,
+        "totalHeight": 423,
+        "totalWidth": 646,
+        "watermark_path": "articles/watermark-1592920584GettyImages-1202031298.jpg",
+        "width": 639
+    },
+    "post_date": "2020-06-23T16:41:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/zainalbarod/videos/2800492789971971/",
+            "name": "زين العابدين أحمدعيد البارودى",
+            "path": "published/0_1592920584_زين.jpg"
+        },
+        {
+            "link": "https://youtu.be/vKjbEGaw-GQ",
+            "name": " اخبارك مباشر",
+            "path": "published/1_1592920584_اخبارك.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100008237079147/videos/2644047769213100/",
+            "name": "Ebrahim Saad Abuzeed",
+            "path": "published/2_1592920584_ابراهيم.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/cfollow/permalink/3113766011969760/",
+            "name": "Mohamed Salama",
+            "path": "published/3_1592920584_سلامة.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=XGwKayTaNl4",
+            "name": "نور العلم",
+            "path": "published/4_1592920584_نور.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.euronews.com/2019/10/10/danish-pm-gets-the-giggles-during-statement-on-circus-elephants",
+            "name": "Euro News",
+            "path": "sources/0_1592920584_euro.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "فيديو زائف.. لم يضحك البرلمان الكندي على حال المعلم المصري",
+    "updated_at": "2020-09-25 17:27:52",
+    "url_path": "/factcheck/2020/06/23/البرلمان-الكندي-يضحك-من-حال-المعلم-المصري-فيديو-زائف"
+}

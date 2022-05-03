@@ -1,0 +1,90 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 4,
+        "fb": 0,
+        "tw": 5
+    },
+    "amount_sources": 0,
+    "amount_visits": 5734,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "المقطع مجتزأ والترجمة مضللة (مواقع التواصل الاجتماعي)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">الاعتراف بظهور فايروس كورونا منذ خمس سنوات على لسان الرئيس الأميركي السابق باراك أوباما، وإعلان نيّة أميركا خلق المزيد من الأوبئة. هل انكشفت اللعبة؟</span></p>\r\n",
+    "country": "US",
+    "created_at": "2020-04-28 21:58:05",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ea87cbddb291601e60825e4",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من مقطع الفيديو المتداول ووجد أنّ الترجمة مضللة والمقطع مجتزأ من خطاب للرئيس أوباما عام 2014، قال فيه &quot;قد يأتي يومٌ نضطر فيه لمجابهة وباء عالمي، وعلينا الاستعداد لذلك بإعداد بنية تحتية في العالم أجمع تسمح لنا برصده، وعزله، والتعامل معه بسرعة. علينا الاستثمار في إعداد هذه البنية التحتية، خصوصاً إذا جاء وباء مشابه للإنفلونزا الإسبانية، يكون بذلك استثمارنا ناجحاً وستكون لدينا القدرة في المدى البعيد على السيطرة على الوباء&quot;.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/pBVAnaHxHbM\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "أوباما",
+        "كوفيد-19",
+        "فيروس كورونا",
+        "كورونا أميركا"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تناقلت صفحات على مواقع التواصل الاجتماعي مقطع فيديو يدّعي توقّع الولايات المتحدة الأميركية انتشار وباء عالمي قبل خمس سنوات من الآن على لسان الرئيس السابق باراك أوباما، ونية الولايات المتّحدة الاستفادة من هذا الوباء ودعم اقتصادها من خلاله، إضافة إلى نيّتها خلق المزيد من الأوبئة، وذلك في إشارة إلى جائحة كوفيد-19 الحالية.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fcrash1bns%2Fvideos%2F2274111029552150%2F&amp;show_text=0&amp;width=476\" style=\"border:none;overflow:hidden\" width=\"476\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1588155796Annotation 2020-04-28 214552s.jpg",
+        "watermark_path": "articles/watermark-1588155796Annotation 2020-04-28 214552s.jpg"
+    },
+    "post_date": "2020-04-28T21:52:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/2218841331470814/videos/2274111029552150/",
+            "name": "الوجع",
+            "path": "published/0_1588100283_الوجع-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100029197352586/videos/314709882845588/",
+            "name": "فتحي المناوي",
+            "path": "published/1_1588100284_فتحي-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/2246262595588051/permalink/2635804323300541/",
+            "name": "Ben Lem",
+            "path": "published/2_1588100284_ben-logo.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=HmV7ffIbldU",
+            "name": "كلمات هنا الحبشي",
+            "path": "published/3_1588100284_كلمات-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/329856694523157/videos/784751282052135/",
+            "name": "أسود",
+            "path": "published/4_1588100284_أسود-لوغو.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=pBVAnaHxHbM&feature=",
+            "name": "NowThis News",
+            "path": "sources/0_1588100284_nowthis-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": " كورونا أميركا: أوباما لم يقل \"علينا خلق المزيد من الأوبئة\" ",
+    "updated_at": "2020-09-25 03:28:46",
+    "url_path": "/factcheck/2020/04/28/كورونا-أميركا-مقطع-فيديو-مضلل-لأوباما"
+}

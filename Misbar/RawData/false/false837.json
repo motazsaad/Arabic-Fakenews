@@ -1,0 +1,87 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2215,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "المتحدث باسم وزارة الإنتاج الحربي يصرّح بأسعار منتجات الوقاية من كورونا (Getty)",
+    "category": "Health",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">كمامة مصانع الجيش المصري بجنيه، والكحول الإيثيلي&nbsp;(تركيز 70%) بـ 4 جنيهات.</span></p>\r\n",
+    "country": "EG",
+    "created_at": "2020-03-26 13:20:34",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e7c81f2d4a22942ae7ac143",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تحقق &quot;مسبار&quot; من الخبر وتأكّد من زيفه. إذ أعلن محمد بكر المتحدث الرسمي باسم وزارة الإنتاج الحربي في 24 مارس/آذار</span><span style=\"color:black\"> من العام الجاري،</span><span style=\"color:black\"> أنّ أسعار المنتجات ستكون بسعر التكلفة دون هامش للربح. وبحسب الوزارة&nbsp;فالكمامة المتوفرة في منافذها ستكون من نوع (</span><span dir=\"LTR\"><span style=\"color:black\">N-95</span></span><span style=\"color:black\">)، وستباع بسعر 12 جنيهاً. أما سعر 100 ميليلتر الكحول الإيثيلي (تركيز 70%) سيبلغ 12.5 جنيهاً. وتجدر الإشارة أنّ المنتجات متوفرة في منافذ الإنتاج الحربي في مصر والبالغ عددها 18 منفذاً، وليس 47 منفذاً، كما زعم الخبر المتداول.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/Yj1BsWeO9lM\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">انتشر على حسابات وصفحات مصرية على مواقع التواصل الاجتماعي، خبرٌ مفاده أنّ كمامة مصانع القوات المسلحة المصرية ستُباع بجنيه واحد، والكحول تركيز&nbsp;٧٠٪؜ بأربعة جنيهات، مع إدراج أكثر من 40 مقر لبيع الكمامات والمعقمات التي تنتجها وزارة الدفاع والإنتاج الحربي في مصر.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"Picture_x0020_6\" src=\"https://images-prod.misbar.com/articlebody/origin_9lkor8ffm.jpg\" style=\"height:257.25pt; width:468pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><span style=\"color:black\"><img alt=\"https://images-prod.misbar.com/articlebody/origin_ba05okvzo.jpg\" id=\"Picture_x0020_2\" src=\"https://lh5.googleusercontent.com/7dEqvpQurGYf8lcHqhDAVhOqqt0Dg5hxlhlB4VK5bzMCRYZRhd_QrDd9Z6DUdT_fEk4IdbTgSoZNN7KqtkFW9QAwBO4pisp4l8O5UrKoAx8mVqVZcD4aQJpDyfCfkNXNtBmo3Euv\" style=\"height:304.5pt; width:345.75pt\" /> </span></span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><span style=\"color:black\"><img alt=\"https://images-prod.misbar.com/articlebody/origin_aigwoz845.jpg\" id=\"Picture_x0020_3\" src=\"https://lh4.googleusercontent.com/2_Oqyoeb07JCUh442ZgTvGmN2dVqM5c1NmWMwht0bvvw3lbSD3Yy2X7G01H5t3HktPbm82sYcBVupKue7hT6WM3F-LEN_aWIlymGbIIfYnkEVkcbuiPkY-gewNWmMaJkvB3pY2a6\" style=\"height:310.5pt; width:331.5pt\" /> </span></span></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 346,
+        "left": 9.1016845703125,
+        "path": "articles/1585218034GettyImages-1208078180.jpg",
+        "top": 17.80712890625,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "width": 616
+    },
+    "post_date": "2020-03-26T13:11:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/story.php?story_fbid=525968274777163&id=155469078493753 ",
+            "name": "عين مصر",
+            "path": "published/0_1585218034_عين مصر.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/gamal.shaban/posts/10157262602654370",
+            "name": "Gamal Shaban",
+            "path": "published/1_1585218034_Gamal Shaban.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/598394030340619/permalink/1512559685590711/",
+            "name": "هشام أبو عياد",
+            "path": "published/2_1585218034_Facebook_logo.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=Yj1BsWeO9lM",
+            "name": "صدى البلد",
+            "path": "sources/0_1585218034_صدى البلد- لوغو.jpg"
+        },
+        {
+            "link": "https://www.shorouknews.com/news/view.aspx?cdate=25032020&id=e72a0050-0f34-4427-b671-71ec8d0201fa",
+            "name": "الشروق",
+            "path": "sources/1_1585218034_الشروق.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "كمامة مصانع الجيش المصري بجنيه والكحول بأربعة.. حقيقة الخبر",
+    "updated_at": "2020-09-25 03:03:05",
+    "url_path": "/factcheck/2020/03/26/كمامة-مصانع-الجيش-المصري-بجنيه-والكحول-بأربعة-حقيقة-الخبر"
+}

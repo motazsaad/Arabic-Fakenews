@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 442,
+    "author": {
+        "fullname": "رشيد عفيف",
+        "id": "5ec4e956db291667784c4bc4",
+        "photo": {
+            "name": "1589963094_رشيد صورة.jpg",
+            "path": "authors/1589963094_رشيد صورة.jpg"
+        }
+    },
+    "caption": "الاسم الحقيقي للباحث هو إيلناز إماتدينوف (فيسبوك)",
+    "category": "Health",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة مكتشف اللقاح الروسي لفايروس كورونا.</p>\r\n",
+    "country": "RU",
+    "created_at": "2020-08-13 15:33:38",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f3533221dd58507bb5164f8",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة المتداولة ووجد أنها مضللة، فصورة الباحث الذي عمل على اللقاح مختلفة. كما تبين أنّ الاسم الحقيقي للباحث الروسي الذي ساهم في اكتشاف لقاح كوفيد-19 الروسي هو <a href=\"https://arabic.rt.com/russia/1103918-%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D9%85%D8%AF%D9%87%D8%B4%D8%A9-%D8%B9%D9%86-%D8%B5%D8%A7%D8%AD%D8%A8-%D8%A7%D9%84%D9%84%D9%82%D8%A7%D8%AD-%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A-%D8%B6%D8%AF-%D8%A7%D9%84%D9%81%D9%8A%D8%B1%D9%88%D8%B3-%D8%A7%D8%AA%D8%A7%D8%AC%D9%8A/\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">إيلناز إماتدينوف</a>. وكان هو المطور الرئيسي للقاح في مركز فيكتور لعلوم الفايروسات. وهو من مواليد إقليم تتارستان في روسيا الاتحادية. وقد نشرت صحف روسية مقالات عن هذا العالم مرفوقة <a href=\"https://73online.ru/r/sozdatel_vakciny_uchenye_ulgau_rasskazali_o_svoem_sekretnom_vospitannike-77081\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">بصور له</a> قبل بضعة أشهر.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_jkac2ehrp.jpg\" style=\"height:377px; width:538px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات وحسابات على مواقع التواصل الاجتماعي، حديثاً، صوراً لشخص ادعت أنه مكتشف اللقاح الروسي لفايروس كورونا المستجد، الذي أعلن عنه الرئيس الروسي فلاديمير بوتين أمس الأربعاء. كما ذكر ناشرو الخبر أنّ اسمه هو إلناز ماكراوي.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_t4kqujkjf.jpg\" style=\"height:512px; width:542px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_fud5ctv0n.jpg\" style=\"height:502px; width:540px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 318,
+        "left": 62.98333740234375,
+        "path": "articles/1597322017غلاف.jpg",
+        "top": 52.583251953125,
+        "totalHeight": 423,
+        "totalWidth": 629,
+        "watermark_path": "articles/watermark-1597322017غلاف.jpg",
+        "width": 565
+    },
+    "post_date": "2020-08-13T15:26:00.000+03:00",
+    "published": [
+        {
+            "link": "https://web.facebook.com/1233975030034669/posts/3096040367161450/?_rdc=1&_rdr",
+            "name": "Bob Taza",
+            "path": "published/0_1597322312_بوب.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/story.php?story_fbid=637536977159649&id=100027100560194&_rdc=1&_rdr",
+            "name": "Hamza Surfing TD",
+            "path": "published/1_1597322312_حمزة.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/1676064952634181/posts/2677482992492367/?_rdc=1&_rdr",
+            "name": "المبوق",
+            "path": "published/2_1597322313_المبوق.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/story.php?story_fbid=322107142535311&id=100042080829713&_rdc=1&_rdr",
+            "name": "Mouna Manoucha",
+            "path": "published/3_1597322465_منى.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/104008167820421/posts/188318622722708/?_rdc=1&_rdr",
+            "name": "سطاج لخر",
+            "path": "published/4_1597322465_سطاخ.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://arabic.rt.com/russia/1103918-%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D9%85%D8%AF%D9%87%D8%B4%D8%A9-%D8%B9%D9%86-%D8%B5%D8%A7%D8%AD%D8%A8-%D8%A7%D9%84%D9%84%D9%82%D8%A7%D8%AD-%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A-%D8%B6%D8%AF-%D8%A7%D9%84%D9%81%D9%8A%D8%B1%D9%88%D8%B3-%D8%A7%D8%AA%D8%A7%D8%AC%D9%8A/",
+            "name": "Arabic RT",
+            "path": "sources/0_1597322017_rt.jpg"
+        },
+        {
+            "link": "https://m.73online.ru/r/sozdatel_vakciny_uchenye_ulgau_rasskazali_o_svoem_sekretnom_vospitannike-77081",
+            "name": "73 Online",
+            "path": "sources/1_1597322017_73.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصورة ليست لمكتشف اللقاح الروسي لفايروس كورونا",
+    "updated_at": "2020-09-25 17:24:06",
+    "url_path": "/factcheck/2020/08/13/هذه-الصورة-ليست-لمكتشف-اللقاح-الروسي-لفايروس-كورونا"
+}

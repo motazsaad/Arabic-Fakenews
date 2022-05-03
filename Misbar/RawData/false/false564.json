@@ -1,0 +1,94 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 803,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "ظهر الخطيب بصحة جيدة في مران اليوم (تويتر)",
+    "category": "Sports",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">إصابة محمود الخطيب بفايروس كورونا.</span></p>\r\n",
+    "country": "EG",
+    "created_at": "2020-06-25 20:33:48",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ef4dffc163be306fb5eae96",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من الخبر وتبين أنّه زائف. إذ&nbsp;أنّ الكابتن محمود الخطيب حضر تمرين فريق كرة القدم صباح اليوم وهو بصحة جيدة، كما عقد اجتماعاً ظهر اليوم لمتابعة الإجراءات الاحترازية لفرق النشاط الرياضي في النادي.</span></p>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"rtl\">🔴 الكابتن محمود الخطيب يتابع مران فريقنا الصباحي على ملعب التتش 🏟 <a href=\"https://t.co/wAETlsKQYS\">pic.twitter.com/wAETlsKQYS</a></p>\r\n&mdash; Al Ahly TV - قناة الاهلي (@AlAhlyTV) <a href=\"https://twitter.com/AlAhlyTV/status/1276068857770381313?ref_src=twsrc%5Etfw\">June 25, 2020</a></blockquote>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"rtl\"><a href=\"https://twitter.com/hashtag/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1_%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A?src=hash&amp;ref_src=twsrc%5Etfw\">#أخبار_الأهلي</a> 📰<br />\r\nالكابتن <a href=\"https://twitter.com/hashtag/%D9%85%D8%AD%D9%85%D9%88%D8%AF_%D8%A7%D9%84%D8%AE%D8%B7%D9%8A%D8%A8?src=hash&amp;ref_src=twsrc%5Etfw\">#محمود_الخطيب</a> يطمئن على الإجراءات الاحترازية لفرق النشاط الرياضي بالأهلي قبل عودة التدريبات.<a href=\"https://twitter.com/hashtag/%D9%8A%D9%84%D8%A7_%D9%8A%D8%A7_%D8%A7%D9%87%D9%84%D9%8A?src=hash&amp;ref_src=twsrc%5Etfw\">#يلا_يا_اهلي</a><a href=\"https://twitter.com/hashtag/Alahlytv?src=hash&amp;ref_src=twsrc%5Etfw\">#Alahlytv</a> 📺 <a href=\"https://t.co/epBQGc6dPK\">pic.twitter.com/epBQGc6dPK</a></p>\r\n&mdash; Al Ahly TV - قناة الاهلي (@AlAhlyTV) <a href=\"https://twitter.com/AlAhlyTV/status/1276163120680091649?ref_src=twsrc%5Etfw\">June 25, 2020</a></blockquote>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">نشرت مواقع إخبارية وحسابات على مواقع التواصل الاجتماعي يومي 23 و24 يونيو/حزيران، خبراً مفاده&nbsp;أنّ رئيس النادي الأهلي المصري الكابتن محمود الخطيب أُصيب بفايروس كورونا المستجد.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ax8u3hwqb.jpg\" style=\"height:428px; width:546px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_cbwbphfcr.jpg\" style=\"height:324px; width:546px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_7pnpanwns.jpg\" style=\"height:549px; width:518px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 6,
+        "path": "articles/1593106427EbWauBhXsAE55hW.jpg",
+        "top": 0,
+        "totalHeight": 563,
+        "totalWidth": 764,
+        "watermark_path": "articles/watermark-1593106427EbWauBhXsAE55hW.jpg",
+        "width": 752
+    },
+    "post_date": "2020-06-25T20:31:00.000+03:00",
+    "published": [
+        {
+            "link": "http://soutelneel.org/?p=111038",
+            "name": "صوت النيل نيوز",
+            "path": "published/0_1593106427_صوت النيل.jpg"
+        },
+        {
+            "link": "https://twitter.com/Osama55elshekh/status/1275844988820164609",
+            "name": "يابني انتو الزمالك",
+            "path": "published/1_1593106601_يبني.jpg"
+        },
+        {
+            "link": "https://zamalek.news/2020/06/%d8%ac%d9%87%d8%a7%d8%af-%d8%a7%d9%84%d8%ba%d8%b2%d8%a7%d9%84%d9%8a-%d9%8a%d9%81%d8%ac%d8%b1-%d8%b9%d9%86-%d9%85%d9%81%d8%a7%d8%ac%d8%a3%d8%a9-%d8%a7%d8%b5%d8%a7%d8%a8%d9%87-%d9%85%d8%ad%d9%85/",
+            "name": "YaZamalek",
+            "path": "published/2_1593106601_224.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/375157329607391/permalink/963222747467510/?__tn__=-R",
+            "name": "رفعت فهمي أبوصير",
+            "path": "published/3_1593106601_رفعت فهمي أبوصير.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/hamdy.mansor.528/posts/328747491424841",
+            "name": "Hamdy Mansor",
+            "path": "published/4_1593106601_Hamdy Mansor.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/AlAhlyTV/status/1276068857770381313",
+            "name": "قناة الاهلي",
+            "path": "sources/0_1593106427_قناة الاهلي.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "محمود الخطيب لم يُصب بكورونا وحضر التمرين اليومي",
+    "updated_at": "2020-09-25 10:45:26",
+    "url_path": "/factcheck/2020/06/25/خبر-إصابة-محمود-الخطيب-بكورونا-زائف"
+}

@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 4015,
+    "author": {
+        "fullname": "مريم هواري",
+        "id": "5e299460d4a22939983a3ec5",
+        "photo": {
+            "path": "authors/1579791192_Maryam.jpg"
+        }
+    },
+    "caption": " الأغنية تعود للفنان الكندي عرفان مكي (Getty)",
+    "category": "Music",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">مايكل جاكسون يغنّي عن مناسك الحج قبل وفاته.</p>\r\n",
+    "country": "",
+    "created_at": "2020-05-03 16:18:05",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eaec48ddb29160d8d56bfd4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الادعاء زائف. إذ إن الأغنية المنتشرة تعود للفنان والمُنشد الكندي الباكستاني، عرفان مكي، وعنوانها &ldquo;Waiting for the call&rdquo;، وقد تم تركيب صوت عرفان مكي على المقاطع المصوّرة في الخبر المتداول.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/rpRxU8_vb08\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت حسابات على موقع يوتيوب أغنية عن مناسك الحج نُسبت للفنان الأميركي مايكل&nbsp;جاكسون، وادّعى الناشرون بأن مايكل جاكسون سجّل الأغنية قبل وفاته وتم نشرها بعد ذلك بتمويل المملكة العربية السعودية.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/HeIT3tl8MSE\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_lt91qca1b.jpg\" style=\"height:700px; width:611px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_9hvux0n6z.jpg\" style=\"height:612px; width:610px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 158,
+        "left": 2.3541259765625,
+        "path": "articles/1588511884GettyImages-94983986.jpg",
+        "top": 12.91796875,
+        "totalHeight": 187,
+        "totalWidth": 288,
+        "watermark_path": "articles/watermark-1588511884GettyImages-94983986.jpg",
+        "width": 280
+    },
+    "post_date": "2020-05-03T16:11:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.youtube.com/watch?v=aMal_kll_0s",
+            "name": "فرج بودومات العشيبي",
+            "path": "published/0_1588511884_العشيبي.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=HeIT3tl8MSE",
+            "name": "Moody مودي للمونتاج",
+            "path": "published/1_1588511884_مودي للإنتاج.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=uWuz845scOA",
+            "name": "hajeer1",
+            "path": "published/2_1588511884_hajeer1.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=4fiWxUEy6s0",
+            "name": "الحقيقة",
+            "path": "published/3_1588511884_الحقيقة.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=6HIFiBnxE_w",
+            "name": "Ahmed Aboelnaga",
+            "path": "published/4_1588511884_ahmed aboelnaga.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=rpRxU8_vb08",
+            "name": "Awakening Music",
+            "path": "sources/0_1588511884_awakening music.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "مايكل جاكسون يغني للحج.. حقيقة الفيديو",
+    "updated_at": "2020-09-25 17:25:12",
+    "url_path": "/factcheck/2020/05/03/مايكل-جاكسون-يغني-للحج-حقيقة-الفيديو"
+}

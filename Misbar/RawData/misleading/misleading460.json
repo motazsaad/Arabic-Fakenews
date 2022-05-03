@@ -1,0 +1,143 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 138,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "خراف بلتكس (Getty)",
+    "category": "Science",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">حيوان جديد مستنسخ اسمه الخنزيروف، تم تلقيحه في مختبرات أميركية وروسية بواسطة تقنية الاستنساخ جينياً من الخروف و الخنزير.</p>\r\n",
+    "country": "",
+    "created_at": "2020-10-22 20:32:05",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 5,
+    "id": "5f91c2153d64b6203c7ee8f8",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;<a href=\"https://misbar.com/\" style=\"text-decoration:none\" target=\"_blank\"><u>مسبار</u></a>&quot; من الادعاء المتداول ووجد أنه مضلل، لأن الحيوان الظاهر في المقطع المصوّر ليس ما سُمّي بالخنزيروف وإنما أحد فصائل الخراف التي تُعرف باسم خراف بلتكس (<a href=\"https://www.gettyimages.ae/detail/news-photo/flock-of-beltex-sheep-in-fresh-pasture-uk-news-photo/1097828388?adppopup=true\" style=\"text-decoration:none\" target=\"_blank\"><u>Beltex sheep</u></a>).</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_09akudbyk.jpg\" style=\"height:411px; width:550px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">اقرأ/ي أيضاً:</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/09/21/%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%A5%D9%86%D8%B2%D8%A7%D9%84-%D8%AC%D8%AB%D8%AB-%D8%A7%D9%84%D9%85%D9%88%D8%AA%D9%89-%D8%A8%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-%D9%81%D9%8A-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D8%B9%D8%A8%D8%A7%D8%B1%D8%A9-%D8%B9%D9%86-%D9%85%D9%82%D8%B7%D8%B9-%D8%AA%D9%85%D8%AB%D9%8A%D9%84%D9%8A\" target=\"_blank\">فيديو إنزال جثث ضحايا كورونا في روسيا عبارة عن مقطع تمثيلي</a></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/09/02/%D9%87%D8%B0%D8%A7-%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%84%D9%8A%D8%B3-%D9%84%D8%B2%D9%88%D8%AC%D8%A9-%D8%A8%D9%88%D8%AA%D9%8A%D9%86-%D8%A3%D8%AB%D9%86%D8%A7%D8%A1-%D8%AA%D8%B7%D8%B9%D9%8A%D9%85%D9%87%D8%A7-%D8%A8%D8%A7%D9%84%D9%84%D9%82%D8%A7%D8%AD-%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A\" target=\"_blank\">هذا الفيديو ليس لزوجة بوتين أثناء تطعيمها باللقاح الروسي</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تتناقل صفحات وحسابات على مواقع التواصل الاجتماعي، منذ سنوات، مقطع فيديو ادعى ناشروه أنه يصوّر حيواناً جديداً مستنسخاً اسمه الخنزيروف، نتج في مختبرات أميركية وروسية عن دمج جينات الخروف والخنزير.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_7cta2u2nh.jpg\" style=\"height:407px; width:538px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_gcwxvy72w.jpg\" style=\"height:738px; width:532px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 376,
+        "left": 1.73333740234375,
+        "path": "articles/1603387924GettyImages-1097828388.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 671,
+        "watermark_path": "articles/watermark-1603387924GettyImages-1097828388.jpg",
+        "width": 668
+    },
+    "post_date": "2020-10-22T20:28:00.000+03:00",
+    "published": [
+        {
+            "id": "5f91c2d3e0484912b60e204c",
+            "link": "https://www.facebook.com/m3lomat75/videos/461621567714735",
+            "name": "معلومات 75 من البشر لا تعلم بها",
+            "origin": "facebook",
+            "path": "sources/8c17ce45d3df1cf123d650339d5790daf4bed8cb.jpg"
+        },
+        {
+            "id": "5f91c2d486003f7c6a56ea5b",
+            "link": "https://www.facebook.com/100034481053075/videos/146938906465477/",
+            "name": "Mohamed Hassan",
+            "origin": "facebook",
+            "path": "sources/a74caa6f35ef83d036ad9767e859587877d2e65f.jpg"
+        },
+        {
+            "id": "5f91c2d49837854bd75d5092",
+            "link": "https://www.facebook.com/900026270142221/videos/1058371361000071",
+            "name": "لولي وحمودي",
+            "origin": "facebook",
+            "path": "sources/eb87a16dfbe4adb788ec3f71fb3a7871d45ea77a.jpg"
+        },
+        {
+            "id": "5f91c2d4bbe51b10af6d20de",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2419578821623084&id=100007129687492",
+            "name": "حيدر عبد الحسين ابراهيم",
+            "origin": "facebook",
+            "path": "sources/af6f8f22c296a2f707be1985c48b9d0009cfa471.jpg"
+        },
+        {
+            "id": "5f91c2d4bf8f063e045c9cba",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2345112382387471&id=2172060729692638",
+            "name": "السلط أون لاين",
+            "origin": "facebook",
+            "path": "sources/af6f8f22c296a2f707be1985c48b9d0009cfa471.jpg"
+        },
+        {
+            "id": "5f91c321e2663c71ad095d37",
+            "link": "https://www.facebook.com/tebessa0/posts/928029250866813",
+            "name": "Tebessa",
+            "origin": "facebook",
+            "path": "sources/9502af5b2efd0695a77bcb086543b0a11a4d4d82.jpg"
+        },
+        {
+            "id": "5f91c321dbf6fa43e95087c0",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2510980685600324&id=2393514167346977",
+            "name": "العلم للجميع",
+            "origin": "facebook",
+            "path": "sources/af6f8f22c296a2f707be1985c48b9d0009cfa471.jpg"
+        },
+        {
+            "id": "5f91c321acff353f0f24d221",
+            "link": "https://www.facebook.com/groups/1463621417283234/permalink/2189241534721215/",
+            "name": "هاشم هاشم",
+            "origin": "facebook",
+            "path": "sources/c2be627aea0e6ece74661870c4139bf061f3229a.jpg"
+        },
+        {
+            "id": "5f91c321988ffb7b6d33495a",
+            "link": "https://www.facebook.com/kais40/videos/449996915546892",
+            "name": "قايس فايس بولفرايس",
+            "origin": "facebook",
+            "path": "sources/89e512f7398c66a515d713d9ea26d74a5c7667fb.jpg"
+        },
+        {
+            "id": "5f91c3219c400c18d97f98b8",
+            "link": "https://www.facebook.com/265078957355284/videos/2156281357996743",
+            "name": "ظواهر غريبة - وأسرار من العالم",
+            "origin": "facebook",
+            "path": "sources/fed3428b0e0d41a623bcc05940574bcc3259c947.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f91c2147d9dcf18836b9f21",
+            "link": "https://www.gettyimages.ae/detail/news-photo/flock-of-beltex-sheep-in-fresh-pasture-uk-news-photo/1097828388?adppopup=true",
+            "name": "www.gettyimages.ae",
+            "origin": "",
+            "path": "sources/8851905d9f90eb2ee2c89a1ea948e7f0a857d51d.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "مجرّد فصيلة خراف وليس ما سُمّي بالخنزيروف",
+    "updated_at": "2020-10-22 20:41:03",
+    "url_path": "/factcheck/2020/10/22/مجرد-فصيلة-خراف-وليس-ما-سمي-بالخنزيروف",
+    "was_notification_pushed": false
+}

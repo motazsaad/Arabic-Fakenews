@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 534,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "المصور التشيكي Vít Lukáš التقط الصورة ونشرها على حسابه في إنستغرام بتاريخ 13 أغسطس 2019 (فيسبوك)",
+    "category": "News",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">صور تظهر فيروس بونيا المستجد حديثا في الصين.</span></p>\r\n",
+    "country": "CN",
+    "created_at": "2020-08-09 11:28:03",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 3,
+    "id": "5f2fb3931dd58507b410d085",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الصور قديمة وليس لها علاقة بفايروس مستجد في الصين، إذ أن المصور التشيكي <span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:#222222\">V&iacute;t Luk&aacute;&scaron;</span></span></span> التقط صورة القرادة أدناه ونشرها على حسابه في موقع&nbsp;إنستغرام بتاريخ 13 أغسطس/آب 2019.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\" lang=\"AR-SA\"><img id=\"صورة_x0020_4\" src=\"https://images-prod.misbar.com/articlebody/investigation_s63xa3m6u.jpg\" style=\"height:231.75pt; width:470.25pt\" /> </span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وعثر &quot;مسبار&quot; على الصورتين أدناه، منشورتان للمرة الأولى على صفحة <span style=\"background-color:white\"><span style=\"color:#222222\">أطباء مشفى تشرين الجامعي باللاذقية</span></span>، بتاريخ 29 فبراير/شباط الفائت، إذ التقط&nbsp;تلك الصور الطبيب&nbsp;<span style=\"background-color:white\"><span style=\"color:#1c1e21\">زين العابدين الحريشه،</span></span> وذكر أنَّ الصورتين لقرادة لسعت صديقه وعلقت في جلده.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\" lang=\"AR-SA\"><img id=\"صورة_x0020_5\" src=\"https://images-prod.misbar.com/articlebody/investigation_n2e5nk2xc.jpg\" style=\"height:650.25pt; width:377.25pt\" /> </span></strong></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات وحسابات على مواقع التواصل الاجتماعي، منذ 8 أغسطس/آب الجاري، صوراً قالوا إنها لفيروس بونيا المستجد&nbsp;في الصين حيث تم تشخيص ما لا يقل عن 60 إصابة بالمرض.</p>\r\n\r\n<p style=\"text-align:center\"><strong><img id=\"صورة_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/origin_gvua1ahr7.jpg\" style=\"height:650.25pt; width:393pt\" /></strong></p>\r\n\r\n<p style=\"text-align:center\"><strong><img id=\"صورة_x0020_2\" src=\"https://images-prod.misbar.com/articlebody/origin_fb5d9zn6o.jpg\" style=\"height:650.25pt; width:408.75pt\" /></strong></p>\r\n\r\n<p style=\"text-align:center\"><strong><img id=\"صورة_x0020_3\" src=\"https://images-prod.misbar.com/articlebody/origin_h9rwjvvmy.jpg\" style=\"height:650.25pt; width:323.25pt\" /> </strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 156,
+        "left": 3.66387939453125,
+        "path": "articles/1596961683117445139_727058151477349_1303227821201456054_n.jpg",
+        "top": 76.90478515625,
+        "totalHeight": 423,
+        "totalWidth": 287,
+        "watermark_path": "articles/watermark-1596961683117445139_727058151477349_1303227821201456054_n.jpg",
+        "width": 278
+    },
+    "post_date": "2020-08-09T10:56:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/groups/454199238598562/permalink/584801732204978/",
+            "name": "رامي محمد",
+            "path": "published/0_1596961682_رامي محمد.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/951800915208896/permalink/1512602855795363/",
+            "name": "Sy Nosaiba",
+            "path": "published/1_1596961682_Sy Nosaiba.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/karbashat1995/posts/1430275233829385?__tn__=-R",
+            "name": "خربشات",
+            "path": "published/2_1596961682_خربشات.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/713351362518171/permalink/923239998195972/?__tn__=-R",
+            "name": "ØSama Ãĺ",
+            "path": "published/3_1596961682_ØSama Ãĺ.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=743055216223770&id=507675396428421&__tn__=-R",
+            "name": "أطباء مشفى تشرين الجامعي باللاذقية",
+            "path": "sources/0_1596961682_أطباء مشفى تشرين الجامعي باللاذقية.jpg"
+        },
+        {
+            "link": "https://www.instagram.com/p/B1HR_7Sn-lC/",
+            "name": "photolukasczvitlukas",
+            "path": "sources/1_1596961682_photolukasczvitlukas.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصور ليس لها علاقة بفايروس مستجد في الصين",
+    "updated_at": "2020-09-25 18:04:41",
+    "url_path": "/factcheck/2020/08/09/هذه-الصور-ليست-لفيروس-بونيا-المستجد-في-الصين"
+}

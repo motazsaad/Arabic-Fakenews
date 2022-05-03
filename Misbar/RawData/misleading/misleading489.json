@@ -1,0 +1,127 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 240,
+    "author": {
+        "fullname": "محمد الخالدي",
+        "id": "5ef9dcff163be306aa5d2826",
+        "photo": {
+            "name": "1593433343_48252779_2179011148784786_3755534693705973760_o.jpg",
+            "path": "authors/1593433343_48252779_2179011148784786_3755534693705973760_o.jpg"
+        }
+    },
+    "caption": "المشهد تمثيلي لحدث حقيقي وقع سابقاً (فيسبوك)",
+    "category": "Entertainment",
+    "claim": "<p>مقطع فيديو يظهر شابة صينية تضرب شابين تحرشا بها.</p>\r\n",
+    "country": "CN",
+    "created_at": "2020-10-17 20:47:38",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 5,
+    "id": "5f8b2e3ae065bc396e672ec1",
+    "investigation": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقّق &quot;مسبار&quot; ووجد مقطع الفيديو مُضلل؛ فمن خلال البحث العكسي لصورة من المقطع على منصة &quot;بايدو&quot; الصينية، ظهرت العديد من التقارير الصحفية الصينية، التي تحدثت عن القصة الحقيقية؛&nbsp;وهي أن المقطع تمثيلي، فتقول الشابة التي ظهرت فيه، وتُدعى جيانغ يوهوان وهي صاحبة المطعم الكائن في مدينة جينان عاصمة مقاطعة شاندونغ الصينية، &quot;الاعتداء وقع فعلاً بتاريخ 8 أكتوبر/تشرين الأول الجاري، حين قام أحد المخمورين بركلها، لكن سرعان ما انتهى الأمر بتأسفه&nbsp;هو وصديقه&quot;.</span></p>\r\n\r\n<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">&nbsp;وأضافت&nbsp;أنها بعد فترة شعرت بكونها لا تزال غاضبة، فطلبت من زوجها وصديقه بأن يقوما بتمثيل عملية الاعتداء مرة أخرى على أن تضربهما هذه المرة، وذلك كي لا تشعر بالغضب المكتوم&nbsp;من جديد، وهذا بالفعل ما حدث، وهذه المرة مع&nbsp;الكاميرات، مشيرة إلى أن هدف نشره؛&nbsp;توعية الشابات بأهمية الدفاع عن أنفسهن، وتحذير الشباب من تأثير الكحول.<br />\r\n&nbsp;والشابة صاحبة المطعم، حاصلة بالفعل على عدة بطولات في رياضة &quot;التايكوندو&quot;، كما تملك صالة لتعليم فنون القتال، ونشرت عدة مرات مشاهد تمثيلية أخرى على حسابها في موقع التواصل الصيني &quot;ويبو&quot;.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_caug3uqng.jpg\" style=\"height:557px; width:597px\" /><img src=\"https://images-prod.misbar.com/articlebody/investigation_br8cx50u0.jpg\" style=\"height:515px; width:624px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت حسابات على مواقع التواصل الاجتماعي، </span><span dir=\"RTL\" lang=\"AR-JO\">منذ </span><span dir=\"RTL\" lang=\"AR-SA\">14 أكتوبر/ تشرين الأول الجاري، مقطع فيديو، وعلقت عليه &quot;شابة صينية قامت بضرب شابين بعد أنّ تحرشا بها في المطعم&quot;.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_op62h2r4r.jpg\" style=\"height:268px; width:625px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_w4afur72w.jpg\" style=\"height:291px; width:624px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_qh2oq9m1g.jpg\" style=\"height:279px; width:624px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_lc0psr2k1.jpg\" style=\"height:261px; width:624px\" /></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"314\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fwww.facebook.com%2Faboasfar2%2Fvideos%2F365417591246396%2F&amp;show_text=false&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 350,
+        "left": 10.100006103515625,
+        "path": "articles/1602956858Screenshot 2020-10-17 194449.jpg",
+        "top": 39.599853515625,
+        "totalHeight": 423,
+        "totalWidth": 791,
+        "watermark_path": "articles/watermark-1602956858Screenshot 2020-10-17 194449.jpg",
+        "width": 622
+    },
+    "post_date": "2020-10-17T18:51:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/ScreenMixx/videos/1210462939353634",
+            "name": "Screen Mix",
+            "path": "published/0_1602956857_قققف.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/ScreenMix/status/1316150350655651841",
+            "name": "Screen Mix",
+            "path": "published/1_1602956857_Screenshot 2020-10-16 191707.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/ScreenMix/status/1316150350655651841",
+            "name": "صاحبة السعادة dmc",
+            "path": "published/2_1602956857_Screenshot 2020-10-16 191707.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/watch/?v=365417591246396",
+            "name": "ابو الاصفر",
+            "path": "published/3_1602956857_قققف.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/FideoMixx/videos/1002845206903750",
+            "name": "Fideo",
+            "path": "published/4_1602956858_قققف.JPG"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://sd.dzwww.com/sdnews/202010/t20201010_6776494.htm",
+            "name": "sd.dzwww.",
+            "path": "sources/0_1602956858_Screenshot 2020-10-17 192546.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "http://济南俩男子调戏火锅店老板娘被反杀？老板：遭骚扰后拍视频解气",
+            "name": "weibo",
+            "path": "sources/1_1602956858_Screenshot 2020-10-17 192948.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://weibo.com/tv/show/1034:4558780994879524?from=old_pc_videoshow",
+            "name": "weibo",
+            "path": "sources/1_1602956858_Screenshot 2020-10-17 192948.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://baijiahao.baidu.com/s?id=1680301826077272581&wfr=spider&for=pc",
+            "name": "baijiahao",
+            "path": "sources/3_1602956858_Screenshot 2020-10-17 193627.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://weibo.com/u/2872360935?is_all=1#_loginLayer_160276537718",
+            "name": " جيانغ يوهوان",
+            "path": "sources/4_1602957360_Screenshot 2020-10-17 195235.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذا الفيديو لشابة صينية تضرب شابين تحرشا بها..تمثيلي",
+    "updated_at": "2020-10-17 20:58:48",
+    "url_path": "/factcheck/2020/10/17/شابة-صينية-تضرب-شابين-تحرشا-بها-في-مطعم",
+    "was_notification_pushed": "true"
+}

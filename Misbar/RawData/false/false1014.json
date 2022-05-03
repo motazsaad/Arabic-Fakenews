@@ -1,0 +1,90 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 320,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "category": "Sports",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">مقطع فيديو يصوّر جماهير نادي بروسيا دورتموند الألماني ترفع تيفو &quot;حبيبي يا رسول الله&quot;.</p>\r\n",
+    "country": "SA",
+    "created_at": "2019-12-05 15:55:33",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5de8fe458d7bd905570e3059",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">لم يرفع مشجعو بروسيا دورتموند تيفو &quot;حبيبي يا رسول الله&quot;، إذ يعود الفيديو إلى مباراة كرة قدمٍ في الدوري السعودي، جرت في عام 2015 بين ناديي الاتحاد والشعلة في أستاد الملك عبد الله في جدّة والذي يُعرف باسم (الجوهرة)، وانتهت بفوز الاتحاد بثلاثة أهداف مقابل هدفين لفريق الشعلة، وحضرها حوالي 59 ألف مشجّع.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وفاجأت جماهير نادي الاتحاد المتابعين حينما رفعت التيفو قبيل انطلاق المباراة، ثمّ بدأت بترديد أنشودة &quot;طلع البدر علينا&quot; تزامناً مع دخول لاعبي الفريقين إلى أرضيّة الملعب. وجاء تيفو &quot;حبيبي يا رسول الله&quot; كردٍّ من الجماهير السعودية على الإساءات التي طالت النبي الكريم في صحيفة تشارلي إبدو الفرنسية.</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت بعض الحسابات على &quot;يوتيوب&quot; ومواقع التواصل الاجتماعي مقطع فيديو، قالت إنّه لجماهير فريق كرة القدم الألماني بروسيا دورتموند وهي تكرّم النبيّ محمد برفع شعار &quot;حبيبي يا رسول الله&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"Picture_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/origin_f79e6f332a6f5ca81ef022213af18d07.jpg\" style=\"height:246pt; width:307.5pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"Picture_x0020_6\" src=\"https://images-prod.misbar.com/articlebody/origin_1d8a4f78c5156e9e69a3ed2a62ea38df.jpg\" style=\"height:257.25pt; width:279pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"Picture_x0020_5\" src=\"https://images-prod.misbar.com/articlebody/origin_86cb913c017f8f81522e096dcb2e1a28.jpg\" style=\"height:201pt; width:277.5pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"Picture_x0020_4\" src=\"https://images-prod.misbar.com/articlebody/origin_c7c5ffbb4b02e0aa57a51e8a3c755840.jpg\" style=\"height:354pt; width:217.5pt\" /> </span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1575551143GettyImages-1180309713.jpg"
+    },
+    "post_date": "2019-07-04T15:45:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.youtube.com/watch?v=f-iB-ngpXjs",
+            "name": " الشيخ ",
+            "path": "published/0_1575550533_الشيخ- لوغو.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=fdiOOMCK2xw",
+            "name": "Sikona videos ",
+            "path": "published/1_1575550533_Sikona Video-logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=1850988691858592",
+            "name": "Made In Tunisia Gags ",
+            "path": "published/2_1575550533_Made in Tunisia Gags- logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=2066855803424401",
+            "name": "Remchi online  ",
+            "path": ""
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "http://www.alriyadh.com/1023598",
+            "name": "جريدة الرياض ",
+            "path": "sources/0_1575550533_جريدة الرياض- لوغو.jpg"
+        },
+        {
+            "link": "https://www.alarabiya.net/ar/sport/saudi-sport/2015/02/21/-%D8%AA%D9%8A%D9%81%D9%88-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D9%8A%D8%A8%D9%87%D8%B1-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D8%A3%D8%AC%D9%86%D8%A8%D9%8A",
+            "name": "قناة العربية ",
+            "path": "sources/1_1575550533_العربية لوغو.jpg"
+        },
+        {
+            "link": "https://www.alaraby.co.uk/sport/2015/2/21/%D8%A8%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%AC%D9%85%D8%A7%D9%87%D9%8A%D8%B1-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%AA%D8%A8%D9%87%D8%B1-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A8%D8%AA%D9%8A%D9%81%D9%88-%D8%AD%D8%A8%D9%8A%D8%A8%D9%8A-%D9%8A%D8%A7-%D8%B1%D8%B3%D9%88%D9%84-%D8%A7%D9%84%D9%84%D9%87",
+            "name": "العربي الجديد ",
+            "path": "sources/2_1575550533_العربي الجديد-لوغو.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل رفع جمهور بروسيا دورتموند تيفو \"حبيبي يا رسول الله\"؟",
+    "updated_at": "2020-09-25 11:15:15",
+    "url_path": "/factcheck/2019/12/05/هل-رفع-جمهور-بروسيا-دورتموند-تيفو-حبيبي-يا-رسول-الله"
+}

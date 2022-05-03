@@ -1,0 +1,98 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2117,
+    "author": {
+        "fullname": "هيثم جودية",
+        "id": "5e295291d4a2296ff0065605",
+        "photo": {
+            "name": "1579766417_هيثم .JPG",
+            "path": "authors/1579766417_هيثم .JPG"
+        }
+    },
+    "caption": "نفت منظمة الصحة العالمية نيتها إعلان سورية بلداً خالياً من كورونا (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">لجنة التنسيق التابعة لمنظمة الصحة العالمية، تتوقع إعلان سورية&nbsp;بلداً ناجياً من انتشار فايروس كورونا خلال ثلاثة أسابيع.</p>\r\n",
+    "country": "",
+    "created_at": "2020-04-05 16:40:49",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e89dfe1db2916036c73d224",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من صحة الادعاء وتبين أنه زائف، إذ نفت منظمة الصحة العالمية الخبر عبر حسابها الرسمي على موقع تويتر، وقالت أنّ لا صحة لما تم تداوله على مواقع التواصل الاجتماعي في سورية، حول التوقع بإعلان سورية بلداً ناجياً من فايروس كورونا، خلال فترة 21 يوماً، مؤكدة أنه لا وجود لما يسمى بـ &quot;لجنة التنسيق التابعة لمنظمة الصحة العالمية&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_vgolss93p.jpg\" style=\"height:516px; width:390px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">هذا وأكّد ممثل منظمة الصحة&nbsp;في سوريا&nbsp;نعمه سيد عبد، في تصريح له نشره موقع روسيا اليوم في 2 أبريل/نيسان الجاري، أنّ المنظمة تقيم الوضع في سوريا بأنه خطير، نظراً لأنَّ سوريا تمثل قبلة لزيارة المراقد الدينية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_1rryc8wr4.jpg\" style=\"height:366px; width:450px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات على مواقع التواصل الاجتماعي خبراً مفاده، أنّ لجنة التنسيق التابعة لمنظمة الصحة العالمية، أبلغت الحكومة السورية استبعادها للأخيرة&nbsp;من قائمة الدول المعرضة لتفشي فايروس كورونا..</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وجاء ذلك بعد اطلاع المنظمة على التقارير ومراقبة الحالات المدروسة، من تاريخ 10 مارس/آذار الفائت حتى 1 أبريل/نيسان الجاري، وبعد إجراء دراسة لمنحنى انتشار الفايروس في سورية، وحصر عدد الإصابات بـ عشر&nbsp;حالات فقط. وأنّ المنظمة تتوقع بعد فترة لا تتجاوز 21 يوماً، أنّ يتم إعلان سورية بلداً ناجياً من انتشار فايروس كورونا &quot;كوفيد 19&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_i9kk2pnh4.jpg\" style=\"height:186px; width:408px\" /></span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_yspkgm6th.jpg\" style=\"height:349px; width:413px\" /></span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_9fx9x30an.jpg\" style=\"height:405px; width:409px\" /></span></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1586165430GettyImages-1205580183.jpg",
+        "watermark_path": "articles/watermark-1586165430GettyImages-1205580183.jpg"
+    },
+    "post_date": "2020-04-06T10:31:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/alkoronaa/posts/119514226351007?__tn__=-R",
+            "name": "كورونا في سوريا Coronavirus in syria",
+            "path": "published/0_1586094048_25.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/331202860734282/photos/a.331858550668713/826336614554235/?type=3&theater",
+            "name": "ساعات",
+            "path": "published/1_1586094048_ساعات.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Damascus5Syria/photos/a.342621589913483/638422207000085/?type=3&theater",
+            "name": "دمشق 2020",
+            "path": "published/2_1586094048_دمشق 2020.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Hiwiwaseem1/posts/3993740590636900?__tn__=-R",
+            "name": "All About Sham",
+            "path": "published/3_1586094048_كل شي عن الشام.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Newasworld/photos/a.2025545917743503/2340820166216075/?type=3&theater",
+            "name": "اخبار سوريا والوطن العربي والعالم",
+            "path": "published/4_1586094048_اخبار سوريا والوطن العربي والعالم.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/sy.consumernews/photos/a.1959614777603214/2708620339369317/?type=3&theater",
+            "name": "أخبار للمستهلك السوري",
+            "path": "published/5_1586094049_أخبار للمستهلك السوري.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/WHOSyria/status/1245766707240722434",
+            "name": "WHO Syria",
+            "path": "sources/0_1586094049_puZEUqWU_400x400.jpg"
+        },
+        {
+            "link": "https://arabic.rt.com/middle_east/1099934-%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D9%88%D8%B6%D8%B9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%AE%D8%B7%D9%8A%D8%B1-%D9%81%D9%8A%D8%B1%D9%88%D8%B3-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-%D9%82%D8%A8%D9%84%D8%A9-%D9%84%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D9%82%D8%AF-%D8%A7%D9%84%D8%AF%D9%8A%D9%86%D9%8A%D8%A9/",
+            "name": "RTARABIC",
+            "path": "sources/1_1586094049_CMfKse-U_400x400.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "حقيقة إعلان منظمة الصحة العالمية سورية خالية من كورونا",
+    "updated_at": "2020-09-25 18:07:01",
+    "url_path": "/factcheck/2020/04/05/هل-ستعلن-منظمة-الصحة-أن-سوريا-خالية-من-كورونا"
+}

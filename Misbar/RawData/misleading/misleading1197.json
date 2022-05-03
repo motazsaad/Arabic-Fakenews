@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 21624,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "تحقق \"مسبار\" من مقطع الفيديو ووجد أنّ الادعاء مضلل (يوتيوب)",
+    "category": "Spirituality & Religion",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">زعيم مافيا دنماركي يعتنق الإسلام.</span></p>\r\n",
+    "country": "DK",
+    "created_at": "2020-05-01 17:13:40",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eac2e94db291634e541eac6",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"rtl\" lang=\"ar\">تحقق &quot;مسبار&quot; من مقطع الفيديو المتداول ووجد أنّ الادعاء مضلل، لأن من يظهر في المقطع الأصلي ليس زعيم مافيا، وإنما شاب دنماركي يُدعى مايكل أشهر إسلامه في مسجد الوقف بالعاصمة الدنماركية كوبنهاغن، على يد الداعية الإسلامي اللبناني حسن ذياب، الذي نشر المقطع في قناته الرسمية عبر موقع يوتيوب في 11 مايو/أيار 2019.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"506\" src=\"https://www.youtube.com/embed/Jz8TWGJJDAQ\" width=\"900\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"rtl\" lang=\"ar\">تداولت صفحات وحسابات على مواقع التواصل الاجتماعي مقطع فيديو لرجلٍ ينطق الشهادتين على يد شيخ، وادّعت أنه لزعيم مافيا دنماركي أثناء إشهاره لإسلامه.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"313\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FSky.Football.kora%2Fvideos%2F536376863972874%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe><iframe frameborder=\"0\" height=\"316\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FMeknessky%2Fvideos%2F1033830226964867%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe><iframe frameborder=\"0\" height=\"316\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F100046527150728%2Fvideos%2F146295716931333%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": -2.181793212890625,
+        "path": "articles/1588342419Screenshot (199).jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1588342419Screenshot (199).jpg",
+        "width": 752
+    },
+    "post_date": "2020-05-01T17:09:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/Sky.Football.kora/videos/536376863972874/?v=536376863972874",
+            "name": "S o l i c i t o u s",
+            "path": "published/0_1588342419_90142542_2857533894568357_4134502262644932608_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Meknessky/videos/1033830226964867/?v=1033830226964867",
+            "name": "Meknès Sky",
+            "path": "published/1_1588342419_Meknès Sky.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=146296206931284&id=100046527150728",
+            "name": "رضاك يارب",
+            "path": "published/2_1588342419_رضاك يارب.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/178728956264500/permalink/751192995684757/",
+            "name": "ابو راكان الذنيبات",
+            "path": "published/3_1588342419_ابو راكان الذنيبات.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/111382000356455/videos/567062773921978/?__xts__%5B0%5D=68.ARDgAydz4DGf9ooY2_vAcxUn_pBi_QFz9n0Id0tLDEK4VFrtJmeXHw-DvHnfpIVNxPj-tgoo1FchqLIiuAOBhCnDHfD5i0DibzRxHAuOr3Lkhe8nE0uxm4SFzo_-UMu9g-gpUXS0h62wj1EVSsO3OqGA80uqI530W3Dx14eugTtUCr0WynpIx66-NuK0KG059sao4IVlOVDwiqhhH4JrJ6y3RiVXPH_18WUT2TiTEEwXOIqCwOhcWON5yIpuZx38M09civey-qPshf7tnBbkYDJNA3FzqOHHR3ZdbCfRgjdiYBpdJe-Mz9JpqZdt1WcTLCO3akH4vmn2xIAi7_Kx468lC3T5_V5Hw6s&__tn__=H-R",
+            "name": "مسلم في الغربة",
+            "path": "published/4_1588342419_Emad Eldin Kamal.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=599150044233031&id=100024141222922",
+            "name": "حسن راجح",
+            "path": "published/5_1588342419_حسن راجح.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=Jz8TWGJJDAQ&feature=emb_logo",
+            "name": "الشيخ حسن ذياب",
+            "path": "sources/0_1588342419_4.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "زعيم مافيا دنماركي يعتنق الإسلام.. ادعاء مضلل",
+    "updated_at": "2020-09-25 14:45:58",
+    "url_path": "/factcheck/2020/05/01/زعيم-مافيا-دنماركي-يعتنق-الإسلام-ادعاء-مضلل"
+}

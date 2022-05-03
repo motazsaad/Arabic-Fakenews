@@ -1,0 +1,108 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 652,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "الصور انتشرت على المواقع العراقية المحلية عام 2017 (فيسبوك)",
+    "category": "News",
+    "claim": "<p><span dir=\"RTL\" lang=\"AR-JO\">صورة لإرهابي يرتدي زي النساء في ريف دير الزور يحاول الوصول إلى حمص.</span></p>\r\n",
+    "country": "SY",
+    "created_at": "2020-10-17 17:35:58",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 3,
+    "feedback_pos": 22,
+    "id": "5f8b014e95642a4d7537a853",
+    "investigation": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقّق &quot;مسبار&quot; من الصور ليجد أنّها مضللة، وقديمة، </span><span dir=\"RTL\">فهي ليست في سورية، بل تم نشرها للمرة الأولى عام 2017 خلال حادثة أمنية بالعراق، حين تداولت الصور&nbsp;المواقع المحلية هناك.</span></p>\r\n\r\n<p><span dir=\"RTL\">وكانت المصادر الأمنية العراقية قالت وقتها </span>للإعلام &quot;شرطة كربلاء اعتقلت انتحاري لتنظيم الدولة الإسلامية، داعش، متنكر حاول اختراق نقطة تفتيش بمدخل محور العاصمة بغداد باتجاه كر بلا<span style=\"background-color:white\"><span style=\"color:black\">ء&quot;.</span></span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_pnk9q8qih.jpg\" style=\"height:418px; width:602px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-JO\">تداولت حسابات على مواقع التواصل الاجتماعي خلال أيام 11 و12 و13 من أكتوبر/ تشرين الأول الجاري، صورةً لرجل يرتدي شعراً مستعاراً، ويتنكر بهيئة&nbsp;سيدة حسناء ترتدي فستاناً&nbsp;أسوداً&nbsp;طويلاً، وقالت المنشورات إنه&quot; إرهابي يرتدي زي النساء في ريف دير الزور يحاول الوصول إلى حمص&quot;.</span></p>\r\n\r\n<p><img src=\"https://images-prod.misbar.com/articlebody/origin_atc90gs3l.jpg\" style=\"height:594px; width:502px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_fouowzg17.jpg\" style=\"height:534px; width:586px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_gwyaleksf.jpg\" style=\"height:530px; width:578px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 422,
+        "left": 21.70001220703125,
+        "path": "articles/1602945358Screenshot 2020-10-17 143600.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 795,
+        "watermark_path": "articles/watermark-1602945358Screenshot 2020-10-17 143600.jpg",
+        "width": 751
+    },
+    "post_date": "2020-10-17T15:44:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=297537681500844&id=224090068845606",
+            "name": "ياسمينة حديدة",
+            "path": "published/0_1602949167_قققف.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/groups/1331886990246761/permalink/2908776652557779",
+            "name": "Doaa A Kaso",
+            "path": "published/1_1602949167_قققف.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=819085375570032&id=169662707178972",
+            "name": "بس لو",
+            "path": "published/2_1602949167_قققف.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/from.all.syria/posts/1002046900261703",
+            "name": "شعب سوريا العظيم",
+            "path": "published/3_1602949168_قققف.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=181291093465728&id=110986300496208",
+            "name": "مكتب أمن الوطني في المنطقة الجنوبية ",
+            "path": "published/4_1602949168_قققف.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/1993_hadell/status/1315703493295038472",
+            "name": "ElizabethHadoll",
+            "path": "published/5_1602949168_Screenshot 2020-10-16 191707.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.rudaw.net/arabic/middleeast/iraq/1602201719",
+            "name": "Rudaw",
+            "path": "sources/0_1602949168_Screenshot 2020-10-17 173843.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصور ليست في ريف دير الزور بل في العراق",
+    "updated_at": "2020-10-17 18:52:37",
+    "url_path": "/factcheck/2020/10/17/هذه-الصو-ليست-في-ريف-دير-الزو-بل-في-العراق",
+    "was_notification_pushed": "true"
+}

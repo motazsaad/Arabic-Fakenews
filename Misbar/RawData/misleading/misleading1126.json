@@ -1,0 +1,112 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 1,
+        "fb": 0,
+        "tw": 1
+    },
+    "amount_sources": 0,
+    "amount_visits": 4921,
+    "author": {
+        "fullname": "خالد إسماعيل",
+        "id": "5e59256dd4a2295224257db3",
+        "photo": {
+            "name": "1582900589_صورة 2.jpg",
+            "path": "authors/1582900589_صورة 2.jpg"
+        }
+    },
+    "caption": "الصورة من ألمانيا وليست من اليابان (Getty)",
+    "category": "Technology",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:black\">صورة تُظهر موقف سيارات في اليابان. </span></span></p>\r\n",
+    "country": "JP",
+    "created_at": "2020-05-20 10:36:55",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ec4de17db2916160e24f1a4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تحقق &quot;مسبار&quot; من الصورة المتداولة، ووجد أنها غير صحيحة، فهي ليست لموقف سيارات في اليابان، إنّما تعود لأحد الأبراج في مدينة فولفسبورغ الألمانية، تستخدمته شركة فولكس فاغن لتخزين سيارتها.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"color:black\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_9lpnjnprd.jpg\" style=\"height:425px; width:624px\" /></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_8moa7615q.jpg\" style=\"height:493px; width:624px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">نشرت حسابات وصفحات على موقعي التواصل الاجتماعي فيسبوك وتويتر، صورة ادّعت أنّها لموقف سيارات في اليابان. مبنى هذا الموقف يمتاز بتصميم طابقي فريد وبارتفاع كبير.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_g9jh7j8uq.jpg\" style=\"height:660px; width:508px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_7v6l7xcor.jpg\" style=\"height:663px; width:505px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_o2mydj6xc.jpg\" style=\"height:662px; width:502px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 354,
+        "left": 1.10894775390625,
+        "path": "articles/1589960214GettyImages-3054462.jpg",
+        "top": 46.400146484375,
+        "totalHeight": 423,
+        "totalWidth": 632,
+        "watermark_path": "articles/watermark-1589960214GettyImages-3054462.jpg",
+        "width": 628
+    },
+    "post_date": "2020-05-20T10:21:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=2682839418627096&set=gm.901529237004168&type=3&theater&ifg=1",
+            "name": "صفاء علي ",
+            "path": "published/0_1589960213_صفاء علي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=137529551205375&set=gm.673846639858783&type=3&theater&ifg=1",
+            "name": "Lina Ali‎",
+            "path": "published/1_1589960213_Lina Ali.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/garayibmudahsah/photos/a.106933167597535/140354514255400/?type=3&theater",
+            "name": "غرائب وعجائب مدهشة",
+            "path": "published/2_1589960213_غرائب وعجائب مدهشة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Bananeety/photos/a.128293306810/10151009980901811/?type=3&theater",
+            "name": "Bananeety",
+            "path": "published/3_1589960213_Bananeety.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=2686413184820375&set=p.2686413184820375&type=1&theater",
+            "name": "حسن محمود سلمان‎",
+            "path": "published/4_1589960213_حسن محمود سلمان.jpg"
+        },
+        {
+            "link": "https://twitter.com/hV1GIc9dIlPv45w/status/1262176303861633025",
+            "name": "علي حسن الطوهري",
+            "path": "published/5_1589960213_علي حسن الطوهري.jpg"
+        },
+        {
+            "link": "https://twitter.com/otXB1iJS0OBVphD/status/1262273021324210176",
+            "name": "صفاوي الجريح ",
+            "path": "published/6_1589960213_صفاوي الجريح.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.gettyimages.ae/detail/news-photo/photo-dated-05-march-2004-showing-a-volkswagen-golf-v-model-news-photo/3054462?adppopup=true Adobe Stock",
+            "name": "Getty Images",
+            "path": "sources/0_1589960213_gettyimages icon.jpg"
+        },
+        {
+            "link": " https://stock.adobe.com/153250009?as_campaign=TinEye&as_content=tineye_match&epi1=153250009&tduid=49070191865ed7da98e84192e5791f51&as_channel=affiliate&as_campclass=redirect&as_source=arvato",
+            "name": "Adobe Stock",
+            "path": "sources/1_1589960214_Adobe Stock-logo.jpg"
+        },
+        {
+            "link": "https://www.theguardian.com/news/gallery/2010/mar/11/24-hours-in-pictures",
+            "name": "The Guardian",
+            "path": "sources/2_1589960214_The Guardian-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصورة ليست لموقف سيارات في اليابان",
+    "updated_at": "2020-09-25 20:28:56",
+    "url_path": "/factcheck/2020/05/20/هذه-الصورة-ليست-لموقف-سيارات-في-اليابان"
+}

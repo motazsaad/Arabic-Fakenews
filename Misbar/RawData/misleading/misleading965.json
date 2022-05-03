@@ -1,0 +1,116 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 3190,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "التُقطت الصورة في لندن عام 1963 (مواقع التواصل الاجتماعي)",
+    "category": "News",
+    "claim": "<p style=\"direction:rtl\">صورة لأمير الكويت في أحد شوارع بغداد وهو يستمع لشرطي مرور يشرح له طريقة عمل إشارة المرور.</p>\r\n",
+    "country": "IQ",
+    "created_at": "2020-06-28 16:18:23",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ef8989f163be307042e6857",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الادعاء مضلل، فالصورة لم تُلتقط في بغداد، إنّما في العاصمة البريطانية لندن، وتعود إلى عام 1963، أثناء زيارة أمير الكويت آنذاك عبد الله السالم المبارك الصباح إلى المملكة المتحدة. وتُظهر إصغاء الأمير إلى مرافقين له يتحدثون عن آلية عمل الإشارة الضوئية التي لم تكن ذات انتشار واسع في ذلك الوقت.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_7q9e5kac5.jpg\" style=\"height:778px; width:598px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشر مستخدمون على موقع التواصل الاجتماعي فيسبوك، صورة بالأبيض والأسود، قالوا إنها التُقطت لأمير الكويت في أحد شوارع بغداد، وتصوّره إلى جانب شرطي مرور يشرح له دلالة الألوان في إشارة المرور الضوئية. وجاء في التعليق المرافق للصورة المتداولة &quot;شرطي مرور في بغداد يشرح إلى أمير الكويت معنى الألوان في إشارة المرور، أين العراق الآن؟&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_9bycw6yr4.jpg\" style=\"height:892px; width:497px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_y285cogra.jpg\" style=\"height:794px; width:494px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><img src=\"https://images-prod.misbar.com/articlebody/origin_n7ggttuf4.jpg\" style=\"height:804px; width:446px\" /></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><img src=\"https://images-prod.misbar.com/articlebody/origin_9bionk64d.jpg\" style=\"height:642px; width:487px\" /></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 187,
+        "left": 2.52886962890625,
+        "path": "articles/1593350303101958631_246782633439975_1397311075099082752_n.jpg",
+        "top": 47.360107421875,
+        "totalHeight": 423,
+        "totalWidth": 338,
+        "watermark_path": "articles/watermark-1593350303101958631_246782633439975_1397311075099082752_n.jpg",
+        "width": 333
+    },
+    "post_date": "2020-06-28T16:02:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=2746647288898824&set=a.1460156314214601&type=3",
+            "name": "ناشع العراقي",
+            "path": "published/0_1593350302_ناشع العراقي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/265096928240024/permalink/273778297371887/?__tn__=-R",
+            "name": "بيشمه ركي كورد",
+            "path": "published/1_1593350302_بيشمه ركي كورد.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=944091836045770&set=a.135984970189798&type=3",
+            "name": "أموري الإيطالي",
+            "path": "published/2_1593350302_أموري الإيطالي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/noureldin.shata/posts/3458332994196127?__xts__%5B0%5D=68.ARDDXANX37Zkhg-kee37mcVS_eYo2vxb-78iNO2-7jnglYkBOn9an8Wqm74P66efpLyP7GjHStSVUssLDWX0byPC6250yPzbGJ-dxS0-EKBgtPiohK2KXP5O790G1Um6gvvOHlrtAP1coeXWccDBkTfFD3sW_2bpNhMoAViGFabYHvpj11KVneZNBe2VudKHRGvdHfrqxD5eOjoobFUB0rbTuPqAbWZzI1V7jYcta8rSX1ngFqn_bZA5cHT69DKoGAQ_J-XSALNXBmVPrU99GQuiKy9JV32_NEJIh1qjXE_DDHcxOlTW67SV9PbRIImvSTBo-O1-85mRoawSCbXuKzl3&__tn__=-R",
+            "name": "Nour El-din Amr Shata",
+            "path": "published/3_1593350302_Facebook_logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/406778296848446/photos/a.407094350150174/626263821566558/?type=3&__tn__=H-R",
+            "name": "تراثيات عراقية",
+            "path": "published/4_1593350302_تراثيات عراقية.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/112142030237370/photos/a.112204453564461/246782626773309/?type=3&theater",
+            "name": "hasn9795",
+            "path": "published/5_1593350302_hasn9795.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/mishtaq.yousif/posts/2324852174472341",
+            "name": "Mishtaq Yousif",
+            "path": "published/6_1593350302_Mishtaq Yousif.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=231254317819514&id=100028048414208",
+            "name": "عادل الجابري",
+            "path": "published/7_1593350302_عادل الجابري.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/hussin.alradwan/posts/1205633819644922",
+            "name": "حسين فارس حسين الجبوري",
+            "path": "published/8_1593350302_حسن فارس حسين الجبوري.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ali.haneen.549/posts/408631346530953",
+            "name": "فيض الحنين",
+            "path": "published/9_1593350302_فيض الحنين.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "http://www.hakektelakhbar.com/%D9%85%D9%86%D9%88%D8%B9%D8%A7%D8%AA/%D8%AD%D9%83%D8%A7%D9%8A%D8%A9-%D8%B5%D9%88%D8%B1%D8%A9-65/?fbclid=IwAR2tswrLwK9vaOVPh_lgfVLsFNxQrWdLFSzzCICpBMgaIWfNj_1KZvFwQGI",
+            "name": "جريدة حقيقة الأخبار",
+            "path": "sources/0_1593350303_جريدة حقيقة الأخبار.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصورة لأمير الكويت ليست في شوارع بغداد",
+    "updated_at": "2020-09-25 20:03:36",
+    "url_path": "/factcheck/2020/06/28/هذه-الصورة-لأمير-الكويت-ليست-في-شوارع-بغداد"
+}

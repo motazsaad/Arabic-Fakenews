@@ -1,0 +1,95 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1154,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "الصورة تحمل كلاماً مختلفاً عن المتداول (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">الممثل الفرنسي Gerard Depardieu يعترف أنّ فرنسا تتدخّل في شؤون تونس من خلال نشره صورة لوسم يقول &quot;لماذا تونس؟&quot;.</span></p>\r\n",
+    "country": "TN",
+    "created_at": "2020-05-28 14:21:51",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ecf9ecfdb2916534e094ef4",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من الصورة المتداولة ووجد أنها مفبركة، لأنها تحمل كلاماً مختلفاً عن </span><a href=\"https://www.facebook.com/GerardXavierMarcelDepardieu/posts/1558085997617966\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>الصورة الأصلية</u></span></a><span style=\"color:#000000\">. إذ نشر الفنان الفرنسي Gerard Depardieu الصورة عبر صفحته الرسمية على فيسبوك، والتي حملت الوسم الذي يقول &quot;لا روسيا، لا ألعاب&quot;، وذلك في سياق احتجاجه على </span><a href=\"https://www.nytimes.com/2017/12/05/sports/olympics/ioc-russia-winter-olympics.html\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>منع روسيا</u></span></a><span style=\"color:#000000\"> من المشاركة في الأولمبياد الشتوي عام 2018.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"591\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FGerardXavierMarcelDepardieu%2Fposts%2F1558085997617966&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "gerard depardieu",
+        "فرنسا",
+        "تونس"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل صفحات على مواقع التواصل الاجتماعي، منذ سنوات، صورة تدّعي أنها للممثل الفرنسي Gerard Depardieu عند نشره صورة تحمل وسماً يقول &quot;لماذا تونس؟&quot;، وذلك للإشارة إلى تدخّل فرنسا في شؤون تونس.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"711\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Foctobre.legitimite.electorale%2Fphotos%2Fa.297414493704620%2F2367342516711797%2F%3Ftype%3D3&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"711\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FMarethscoop%2Fposts%2F143825170597297&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ft0h8wb6o.jpg\" style=\"height:328px; width:624px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 238,
+        "left": 1.63330078125,
+        "path": "articles/1590664910غلاف.jpg",
+        "top": 69.316650390625,
+        "totalHeight": 423,
+        "totalWidth": 427,
+        "watermark_path": "articles/watermark-1590664910غلاف.jpg",
+        "width": 424
+    },
+    "post_date": "2020-05-28T14:11:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=717882559020286&set=a.147930756015472&type=3&theater",
+            "name": "رضا سعدوني",
+            "path": "published/0_1590664910_رضا.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Marethscoop/photos/a.114445900201891/143825150597299/?type=3&__tn__=-R",
+            "name": "مارث سكوب",
+            "path": "published/1_1590664910_مارث.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/octobre.legitimite.electorale/posts/2367342643378451",
+            "name": "23 octobre légitimité de la troika ",
+            "path": "published/2_1590664910_23.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2463276003726052&id=157413084312367&__xts__[0]=68.ARB9s609sAAsB4zFhnOoguQDzSLXwBaJ6HTrtsJdIclAXGXCTUyu5YwJUvYyCszUE1wD6bUrvpD6JHhQtptClkW7FskHPfIg1IPXpn7pwz3jaY53sf9tev3A8OVUmyWFBT_slSPdxsDSkQs3bKE63vtMp9r-j28jzWYsru_wOsp-MxT7V_Z1ww1R_Vd_LuGsbRwJ39lpQtu-K-TT4yT1Wu-rXj1xK98UtFFY5vdAfMarOU7uoaTEJsTTTQfvfyjRgDRvFM3ww8qsNdURhZTgl-cMMaQeeQdYT3SJMh09mfgsEiIYzWLXNXyUGuJnbNvVozuFw8kseq3SX8iAtOcO_gzEOifzlqV8j_6ZkBMvs4VOeAN7Sjnb0YJsc8XWaf_qrDdLlCW-Ue-CPs9SJk6FJ5y1Oofe4GxdPGiGrrXWegOQ_LCTNK7VcsvHGB3KKPkRZVUf1ghMPtsKh9a12GpVWABnkqvouG7lAGNnt2lHSdNmomHcHrgRav3Y&__tn__=-R",
+            "name": "الرأي الحر",
+            "path": "published/3_1590664910_الرأي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/7arakcha3belmouatinin/photos/a.336763786509209/1143018342550412/?type=3&theater",
+            "name": "حراك تونس",
+            "path": "published/4_1590664910_حراك.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/GerardXavierMarcelDepardieu/posts/1558085997617966",
+            "name": "Gerard Depardieu",
+            "path": "sources/0_1590664910_GERARD.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ممثل فرنسي يعترف بتدخّل دولته في شؤون تونس.. صورة مفبركة",
+    "updated_at": "2020-09-25 17:33:45",
+    "url_path": "/factcheck/2020/05/28/ممثل-فرنسي-يعترف-بدتخل-دولته-في-شؤون-تونس-صورة-مفبركة"
+}

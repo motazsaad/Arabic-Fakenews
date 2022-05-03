@@ -1,0 +1,158 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 394,
+    "author": {
+        "fullname": "خالد إسماعيل",
+        "id": "5e59256dd4a2295224257db3",
+        "photo": {
+            "name": "1582900589_صورة 2.jpg",
+            "path": "authors/1582900589_صورة 2.jpg"
+        }
+    },
+    "caption": "نفت أسرة المستشار الخبر (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\"><span style=\"color:black\">تنحية المستشار أبو المجد عبد الرحمن أبو المجد، والد &quot;طفل المرور&quot; من على منصة القضاء وإحالته للعمل الإداري بسبب تجاوزات نجله .</span></p>\r\n",
+    "country": "EG",
+    "created_at": "2020-11-13 10:46:41",
+    "created_by": "5f39b5a51dd585076701cb94",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 4,
+    "id": "5fae39e1854af14fe366ab44",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\"><span style=\"color:black\">تحقق &quot;<a href=\"https://misbar.com/\">مسبار</a>&quot; من الخبر المتداول وتبين أنه زائف، إذ لم يتم تنحية المستشار والد طفل المرور من منصة القضاء بسبب سلوك نجله كما ادعت المنشورات المتداولة. ونفت أسرة المستشار الخبر لوسائل إعلام مصرية، مؤكدة أنه لا يزال في منصبة الوظيفي، وكان المستشار والد الطفل قد أصدر بيان اعتذار لجموع الشعب المصري، عما بدر من ابنه من إهانات لرجال الشرطة، فيما قررت النيابة العامة إيداع الطفل بإحدى دور الملاحظة لمدة أسبوع لتقويم سلوكه بناءً على توصية المجلس القومي للطفوله والأمومة، وسيُعرض&nbsp;على المحكمة بعدها للنظر في تمديد فترة الايداع من عدمها، كما قررت النيابة حبس أصدقاءه احتياطياً. </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><u><span dir=\"LTR\" style=\"color:#0563c1\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_v3ynjw3st.jpg\" style=\"height:595px; width:602px\" /></span></u></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_zj2x6ugfb.jpg\" style=\"height:658px; width:602px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_gleu4f0hy.jpg\" style=\"height:681px; width:602px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-EG\"><span style=\"color:black\">تداولت حسابات وصفحات على مواقع التواصل الاجتماعي، حديثاً، خبراً يدعي تنحية المستشار أبو المجد عبد الرحمن،&nbsp;رئيس محكمة الإستئناف في محافظة الإسماعيلية المصرية، ووالد الطفل المعروف إعلامياً بـ&quot;طفل المرور&quot; والذي أثار غضباً واسعاً على مواقع التواصل الاجتماعي في مصر مؤخراً، بعد انتشار مقاطع فيديو له تُظهر تعديه لفظياً على شرطي مرور وأخرى يتفاخر فيها باستغلال نفوذ والده المستشار</span></span><span style=\"color:black\">. </span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ieah3vtd5.jpg\" style=\"height:704px; width:602px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_mrndaue4x.jpg\" style=\"height:565px; width:602px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_k1g73l0r5.jpg\" style=\"height:561px; width:602px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 4.57763671875e-05,
+        "path": "articles/1605253601unnamed.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1605253601unnamed.jpg",
+        "width": 752
+    },
+    "post_date": "2020-11-13T10:40:00.000+03:00",
+    "published": [
+        {
+            "id": "5fae39e0c545c36a952108cd",
+            "link": "https://www.facebook.com/Eyounelhaeaa38/posts/406004104095002",
+            "name": "عيون الحقيقه كلناEgyBest",
+            "origin": "facebook",
+            "path": "sources/fdd93afbe91704acd5702e0092a1238ccb6b51a2.jpg"
+        },
+        {
+            "id": "5fae39e119795f77fd56e1b1",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=186370813026553&id=106464057683896",
+            "name": " اخبار نت",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5fae39e1e068300acb2e5267",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=116571423586797&id=111769507400322",
+            "name": "كلنا ",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5fae39e1b3463a2ef971aec8",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2760753247507012&id=1378270625755288",
+            "name": "حركة_أرفتونا",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5fae39e135f88a4bf839b78d",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=141622417709835&id=103055801566497",
+            "name": "صوت مصر",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5fae3a94d2a79432262fa300",
+            "link": "https://www.facebook.com/panyhamil/posts/719607902001755",
+            "name": "منارة بنى حميل",
+            "origin": "facebook",
+            "path": "sources/fc7d2ae71e17b6433968612bada482a1ef80ef95.jpg"
+        },
+        {
+            "id": "5fae3a94b138070f53042b29",
+            "link": "https://www.facebook.com/Jm12200000twqyLrqdMhmdMrsyRayysaLlblad/posts/1670728186443551",
+            "name": "قنا مباشر",
+            "origin": "facebook",
+            "path": "sources/94a6d139bb4a34f14c4bbf6e360e23203540190e.jpg"
+        },
+        {
+            "id": "5fae3a943d80352ca9727307",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=3514523338605677&id=806229812768390",
+            "name": "وسط البلد ",
+            "origin": "facebook",
+            "path": "sources/93f9de391a020a75555fa2717698a41a40d7d3ec.jpg"
+        },
+        {
+            "id": "5fae3a94adeb2b3e13224263",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=657078201533841&id=141038979804435",
+            "name": "بني حميل",
+            "origin": "facebook",
+            "path": "sources/49e651cf11de0ddd2515fb2ea201674bb3603455.jpg"
+        },
+        {
+            "id": "5fae3a94c4dcf103b876449c",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=846557726096269&id=461362997949079",
+            "name": "غنوة وطن",
+            "origin": "facebook",
+            "path": "sources/93f9de391a020a75555fa2717698a41a40d7d3ec.jpg"
+        },
+        {
+            "id": "5fae3a9441402e15041d7ba7",
+            "link": "https://www.facebook.com/AkhbarKarmozWghetelenab/posts/3512334775498368",
+            "name": "اخبار كرموز وغيط العنب",
+            "origin": "facebook",
+            "path": "sources/ffa42d1b2b83ec75c5e08e51facc8d0b41c467ca.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fae39e1bf831043712bd5a4",
+            "link": "https://www.elwatannews.com/news/details/5027414",
+            "name": "الوطن",
+            "origin": "",
+            "path": "sources/9eb0307a13780f8a1ddec054cae5a83eb00a74dd.jpg"
+        },
+        {
+            "id": "5f9328ccbf8f063e045ca739",
+            "link": "https://www.almasryalyoum.com/news/details/2079347",
+            "name": "www.almasryalyoum.com",
+            "origin": "",
+            "path": "sources/4fcceb213642497c264697c3a28ffbac1299a391.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لم يتم تنحية القاضي والد \"طفل المرور\" من منصبه",
+    "updated_at": "2020-11-13 14:36:18",
+    "url_path": "/factcheck/2020/11/13/لم-يتم-تنحية-القاضي-والد-طفل-المرور-من-منصبه",
+    "was_notification_pushed": true
+}

@@ -1,0 +1,83 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 9836,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "المقطع قديم ويعود لشهر يوليو/تموز 2019 (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">سرقة سيارة شرطة، والوضع في أميركا يخرج عن السيطرة.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-06-08 21:37:22",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ede8562d6e4a9266c69af44",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من المقطع ووجد أن الادعاء مضلل، لأنّ المقطع قديم ويعود لشهر يوليو/تموز 2019، نشره <a href=\"https://www.facebook.com/hartzangels/videos/382742685930216/?v=382742685930216\">الفنان</a> الألماني هارتز انجلز عبر حساباته على مواقع التواصل الاجتماعي، كإعلان ترويجي لمقطع <a href=\"https://www.youtube.com/watch?v=tJ6IXTjsdtM&amp;feature=emb_logo\">غنائي</a>. ولا علاقة له بالاحتجاجات الجارية حالياً في الولايات المتّحدة.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fhartzangels%2Fvideos%2F382742685930216%2F&amp;show_text=0&amp;width=267\" style=\"border:none;overflow:hidden\" width=\"267\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">نشرت حسابات على مواقع التواصل الاجتماعي تزامناً مع الاحتجاجات الأميركية الجارية حالياً، التي اندلعت عقب مقتل الأميركي جورج فلويد، مقطع فيديو ادعّت أنه يُظهر مواطن أميركي &nbsp;يحاول سرقة سيارة شرطة. وانتشر المقطع تحت عنوان &quot;الوضع في أميركا يخرج عن السيطرة&quot;.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F459690631514701%2Fvideos%2F276557547047066%2F&amp;show_text=0&amp;width=267\" style=\"border:none;overflow:hidden\" width=\"267\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F207648816496322%2Fvideos%2F358587141784389%2F&amp;show_text=0&amp;width=267\" style=\"border:none;overflow:hidden\" width=\"267\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/15916416766.jpg",
+        "watermark_path": "articles/watermark-15916416766.jpg"
+    },
+    "post_date": "2020-06-08T21:34:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/459690631514701/videos/276557547047066/?v=276557547047066&external_log_id=c84cd1d9dd732a23507be344caf23d00&q=%D8%A7%D9%84%D9%88%D8%B6%D8%B9%20%D9%81%D9%8A%20%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7%20%D9%8A%D8%B8%D9%87%D8%B1%20%D8%B9%D9%86%20%D8%A7%D9%84%D8%B3%D9%8A%D8%B7%D8%B1%D8%A9%20%D9%8A%D8%B3%D8%B1%D9%82",
+            "name": "المنتخب الوطني الجزائري",
+            "path": "published/0_1591641442_85.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/mahmoud.shawky.9693/videos/272749493870097/",
+            "name": " كازاويب ",
+            "path": "published/1_1591641728_كازاويب.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/101185024917147/videos/552903875356122/?v=552903875356122&external_log_id=c84cd1d9dd732a23507be344caf23d00&q=%D8%A7%D9%84%D9%88%D8%B6%D8%B9%20%D9%81%D9%8A%20%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7%20%D9%8A%D8%B8%D9%87%D8%B1%20%D8%B9%D9%86%20%D8%A7%D9%84%D8%B3%D9%8A%D8%B7%D8%B1%D8%A9%20%D9%8A%D8%B3%D8%B1%D9%82",
+            "name": "ما يروج في سيدي سليمان",
+            "path": "published/2_1591641729_94700135_102664204769229_7120274925943783424_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/207648816496322/videos/358587141784389/?v=358587141784389&external_log_id=c84cd1d9dd732a23507be344caf23d00&q=%D8%A7%D9%84%D9%88%D8%B6%D8%B9%20%D9%81%D9%8A%20%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7%20%D9%8A%D8%B8%D9%87%D8%B1%20%D8%B9%D9%86%20%D8%A7%D9%84%D8%B3%D9%8A%D8%B7%D8%B1%D8%A9%20%D9%8A%D8%B3%D8%B1%D9%82",
+            "name": "Mahmoud Shawky",
+            "path": "published/3_1591641751_Mahmoud Shawky.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/hartzangels/videos/382742685930216/?v=382742685930216",
+            "name": "Hartz Angels",
+            "path": "sources/0_1591641442_Hartz Angels.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "أميركي يسرق سيارة شرطة.. مقطع قديم",
+    "updated_at": "2020-09-24 08:40:38",
+    "url_path": "/factcheck/2020/06/08/أميركي-يسرق-سيارة-شرطة-المقطع-ليس-من-الاحتجاجات-الجارية"
+}

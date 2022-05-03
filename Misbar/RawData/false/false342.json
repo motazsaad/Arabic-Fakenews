@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 586,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "نفت وزارة الصحة الخبر (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;<span style=\"background-color:white\">إقالة نصاف بن علية مديرة مرصد الأمراض الجديدة والمستجدة</span> في تونس من منصبها.</p>\r\n",
+    "country": "TN",
+    "created_at": "2020-08-24 19:31:30",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f43eb6260211806f11f7fc8",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الادعاء زائف، إذ تباشر <span style=\"background-color:white\">مديرة مرصد الأمراض الجديدة والمستجدة</span>، نصاف بن علية مهامها في وزارة الصحة، مع لجنة متابعة انتشار فايروس كورونا المستجد (كوفيد-19) في تونس.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">ووجد &quot;مسبار&quot; أن الناشط السياسي التونسي ورئيس حزب البناء الوطني رياض الشعيبي، هو من أول من نشر الخبر في منشور، عبر حسابه الرسمي على فيسبوك. </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">وقال &quot;إقالة الدكتورة انصاف بن علية من مهامها</span><span dir=\"LTR\"><span style=\"background-color:white\">...</span></span><span style=\"background-color:white\">هل يدخل هذا أيضا في نطاق تصفية الحسابات السياسية ؟</span><span dir=\"LTR\"><span style=\"background-color:white\">!!!</span></span> <span style=\"background-color:white\">معرفة الجهة التي اتخذت القرار كفيل بالاجابة عن هذا السؤال</span><span dir=\"LTR\"><span style=\"background-color:white\">...</span></span><span style=\"background-color:white\">&quot;</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"198\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D1296158530730135%26id%3D100010080014343&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">وتواصل &quot;مسبار&quot; مع المكلف الإعلامي في وزارة الصحة التونسية، شكري النفطي، الذي كذب خبر إقالتها وقال إنّ ما نقلته بعض المواقع والصفحات على وسائل التواصل الاجتماعي لا أساس له من الصحة.</span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات إخبارية وحسابات&nbsp;على موقعي فيسبوك وتويتر، خبراً مفاده إقالة نصاف بن علية<span style=\"background-color:white\"> مديرة مرصد الأمراض الجديدة والمستجدة&nbsp;</span>في تونس من منصبها. واتهمت بعض الصفحات رئيس الحكومة المستقيل إلياس الفخفاخ، بالوقوف وراء إقالتها.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_rkti7255t.jpg\" style=\"height:411px; width:498px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"0.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_d96adhild.jpg\" style=\"height:431px; width:502px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"00.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_tlp0tainm.jpg\" style=\"height:467px; width:494px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1598287003117597752_3342252675813813_7945409867873455978_o.jpg",
+        "watermark_path": "articles/watermark-1598287003117597752_3342252675813813_7945409867873455978_o.jpg"
+    },
+    "post_date": "2020-08-24T17:16:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/Elhamma.Officiel/photos/a.800629506621229/4895042897179849/?type=3&theater",
+            "name": "Elhamma City  -  مدينة الحامة",
+            "path": "published/0_1598286689_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/tounes.bi5ayr.news/photos/a.255654988459225/592078621483525/?type=3&theater",
+            "name": "تونس بخير",
+            "path": "published/1_1598286689_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=10222805719398915&set=gm.707878159939979&type=3&theater",
+            "name": "الحرايرية تجمعنا",
+            "path": "published/2_1598286689_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://athirpress.com/%d8%a5%d9%82%d8%a7%d9%84%d8%a9-%d8%a7%d9%84%d8%af%d9%83%d8%aa%d9%88%d8%b1%d8%a9-%d9%86%d8%b5%d8%a7%d9%81-%d8%a8%d9%86-%d8%b9%d9%84%d9%8a%d8%a9-%d9%85%d9%86-%d9%85%d9%87%d8%a7%d9%85%d9%87%d8%a7/?fbclid=IwAR2eCRFtumnIo5fn2DOX5rPn30QMnHDbI-5AsXaf739a26jlrY67pZT5s1A",
+            "name": "Athir - أثير : صحيفة إلكترونية جامعة",
+            "path": "published/3_1598286689_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=3256770211110620&id=106592912795048",
+            "name": "Gabés Info",
+            "path": "published/4_1598286689_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=3135688406554504&set=a.389592754497430&type=3&theater",
+            "name": "سيف الله",
+            "path": "published/5_1598286689_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://twitter.com/saberlarbi/status/1297841503482544128",
+            "name": "Sabeur Larbi G.C",
+            "path": "published/6_1598286689_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=616859392563258&id=184868892428979",
+            "name": "أولاد علي 24",
+            "path": "published/7_1598286689_67819776_2303763929710849_8279055560511324160_o.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/santetunisie.rns.tn/",
+            "name": "وزارة الصحة التونسية",
+            "path": "sources/0_1598286689_12246663_992832277422543_7950766948967818017_n.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "خبر زائف حول إقالة الدكتورة نصاف بن علية من منصبها",
+    "updated_at": "2020-09-25 18:53:46",
+    "url_path": "/factcheck/2020/08/24/خبر-زائف-حول-إقالة-الدكتورة-نصاف-بن-علية-من-منصبها"
+}

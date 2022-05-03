@@ -1,0 +1,104 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 691,
+    "author": {
+        "fullname": "حسام الوكيل",
+        "id": "5e7cb2a9d4a2297a3f1db883",
+        "photo": {
+            "name": "1585230505_1hGLjIBq_400x400.jpg",
+            "path": "authors/1585230505_1hGLjIBq_400x400.jpg"
+        }
+    },
+    "caption": "تعود الصور لاشتباكات وقعت في محيط الكامب نو عام 2019 (تويتر)",
+    "category": "Sports",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">أعمال شغب وتخريب في العاصمة الكاتالونية من طرف أنصار نادي برشلونة، بعد إعلان ليونيل ميسي</span>&nbsp;<span style=\"background-color:white\">رحيله عن الفريق</span>.</p>\r\n",
+    "country": "ES",
+    "created_at": "2020-08-26 19:34:28",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f468f146021180675586734",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصور، وتبين أنها قديمة ومضللة، إذ تعود لاشتباكات عنيفة بين الشرطة ومحتجين من إقليم كاتالونيا خارج ملعب &quot;كامب نو&quot; الذي شهد مباراة &quot;الكلاسيكو&quot; بين برشلونة وريال مدريد، أدت إلى إصابة 50 شخصا بجروح، يوم 18 ديسمبر/كانو الأول عام 2019.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/0ZJLFDpaWLM\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">يأتي ذلك ضمن الاحتجاجات التي نظمتها جماعة &quot;تسونامي الديمقراطية&quot; للمطالبة باستقلال إقليم كتالونيا، والتي أثارت الشغب في محيط ملعب &quot;كامب نو&quot; خلال الكلاسيكو.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">ووجد &quot;مسبار&quot; أن الصور الحقيقية لمشجعي نادي برشلونة الرافضين لرحيل ليونيل ميسي لا تظهر تبادلاً للعنف وأعمال شغب.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">ووثقت مقاطع فيديو مطالبة بعض الجماهير باستقالة رئيس النادي جوسيب بارتوميو .</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"color:black\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_wohb3qewv.jpg\" style=\"height:388px; width:624px\" /></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;</p>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"ltr\"><a href=\"https://twitter.com/hashtag/frac1?src=hash&amp;ref_src=twsrc%5Etfw\">#frac1</a> | 📹 Alguns aficionats del Bar&ccedil;a demanen la dimissi&oacute; de Bartomeu davant les oficines del club despr&eacute;s de saber-se que Messi ha comunicat que vol marxar. <a href=\"https://t.co/hBhYgnWRju\">pic.twitter.com/hBhYgnWRju</a></p>\r\n&mdash; Esports RAC1 (@EsportsRAC1) <a href=\"https://twitter.com/EsportsRAC1/status/1298345217846845442?ref_src=twsrc%5Etfw\">August 25, 2020</a></blockquote>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت حسابات على موقعي التواصل الاجتماعي فيسبوك وتويتر، حديثاً، صوراً لمتظاهرين يحرقون سيارات ويقومون بأعمال شغب، وزعم متداولو الصور أنها لمشجعي نادي برشلونة الرافضين لرحيل ميسي.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"color:black\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ekayu6h9h.jpg\" style=\"height:538px; width:405px\" /></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"color:black\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_kkx88ckwg.jpg\" style=\"height:506px; width:378px\" /></span></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 336,
+        "left": 5.10528564453125,
+        "path": "articles/1598459667image.jpg",
+        "top": 35.746826171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-1598459667image.jpg",
+        "width": 598
+    },
+    "post_date": "2020-08-26T16:40:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/story.php?story_fbid=1440048136188597&id=288148724711883  ",
+            "name": "عجائب وغرائب مدينة وهران",
+            "path": "published/0_1598460013_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/story.php?story_fbid=3284822554943196&id=848883925203750",
+            "name": "Couple Dz",
+            "path": "published/1_1598460013_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/story.php?story_fbid=2495188964105378&id=1890086224615658",
+            "name": "HCHO24.ma",
+            "path": "published/2_1598460013_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/story.php?story_fbid=2767437520246078&id=2370552583267909",
+            "name": "DzairBladi",
+            "path": "published/3_1598460013_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/story.php?story_fbid=2301352473344718&id=1274727416007234",
+            "name": "الشراقة سيتي Cheraga city",
+            "path": "published/4_1598460014_67819776_2303763929710849_8279055560511324160_o.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.alhurra.com/arabic-and-international/2019/12/19/%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9-%D8%AC%D8%B1%D8%AD%D9%89-%D9%81%D9%8A-%D8%A7%D8%B4%D8%AA%D8%A8%D8%A7%D9%83%D8%A7%D8%AA-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D8%B4%D8%B1%D8%B7%D8%A9-%D9%88%D9%85%D8%AD%D8%AA%D8%AC%D9%8A%D9%86-%D9%83%D8%A7%D8%AA%D8%A7%D9%84%D9%88%D9%86%D9%8A%D9%8A%D9%86",
+            "name": "الحرة ",
+            "path": "sources/0_1598459667_pp.jpg"
+        },
+        {
+            "link": "https://www.bbc.com/arabic/topics/cz74k9j3j8gt",
+            "name": "BBC",
+            "path": "sources/1_1598459667_B_dAPT7w.jpg"
+        },
+        {
+            "link": "https://www.sudinfo.be/id241132/article/2020-08-25/lionel-messi-veut-quitter-barcelone-des-supporters-manifestent-et-demandent-la",
+            "name": "sudinfo.be",
+            "path": "sources/2_1598459667_images.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصور ليست لجماهير برشلونة الرافضين لرحيل ميسي",
+    "updated_at": "2020-09-25 06:57:52",
+    "url_path": "/factcheck/2020/08/26/هذه-الصور-ليست-لجماهير-برشلونة-الرافضين-لرحيل-ميسي"
+}

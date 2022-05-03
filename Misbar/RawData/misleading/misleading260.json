@@ -1,0 +1,151 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 255,
+    "author": {
+        "fullname": "محمد منصور",
+        "id": "5fb23d186f2b3d250d7af928",
+        "photo": {
+            "name": "1605516568_220.jpg",
+            "path": "authors/1605516568_220.jpg"
+        }
+    },
+    "caption": "التقطت الصورة أمام السفارة الفرنسية في بغداد (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">حرق علم فرنسا وصور ماكرون، خلال المظاهرات الأخيرة ضد الحكومة الفرنسية.</p>\r\n",
+    "country": "FR",
+    "created_at": "2020-11-29 17:39:42",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 2,
+    "feedback_pos": 3,
+    "id": "5fc3b2aeafe84406474097f2",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;<a href=\"https://misbar.com/quick-check\" style=\"color:#0563c1; text-decoration:underline\">مسبار</a>&quot; من الصورة المتداولة ووجد أنها مضللة، ولم تُلتقط خلال الاحتجاجات الأخيرة في فرنسا ضد الحكومة، إذ تعود إلى متظاهرين عراقيين أمام السفارة الفرنسية في بغداد في 26 أكتوبر/تشرين الأول الفائت، نددوا بما اعتبروه تعدي الرئيس الفرنسي إيمانويل ماكرون على مقدسات الإسلام. التقطت الصورة من زوايا مختلفة ونُشرت في وكالة&nbsp;غيتي للصور، ووكالة رويترز للأنباء.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_i87msfh0m.jpg\" style=\"height:252px; width:500px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img alt=\"Graphical user interface, application\r\n\r\nDescription automatically generated\" src=\"https://images-prod.misbar.com/articlebody/investigation_ru12b9kfh.jpg\" style=\"height:238px; width:497px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">يُذكر أن احتجاجات عمت بلدان العالم الإسلامي ضد تصريحات الرئيس الفرنسي&nbsp;إيمانويل ماكرون حول الرسوم المسيئة للنبي محمد، شملت دعوات لمقاطعة المنتجات الفرنسية، عقب مقتل الأستاذ الفرنسي صامويل باتي يوم 16 أكتوبر/تشرين الأول الفائت.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">وتشهد فرنسا مؤخراً احتجاجات ضد قانون الأمن الشامل الذي تعتزم الحكومة تطبيقه أمام رفض شعبي واسع.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">اقرأ/ي أيضاً</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/11/29/%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D9%82%D8%AF%D9%8A%D9%85%D8%A9-%D9%88%D9%84%D9%8A%D8%B3%D8%AA-%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%AC%D8%A7%D8%AA-%D8%B6%D8%AF-%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%25A\" style=\"color:#0563c1; text-decoration:underline\">الصور قديمة وليست من الاحتجاجات ضد قانون الأمن الشامل في فرنسا</a></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/11/26/%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%AA%D8%A7%D9%86-%D9%82%D8%AF%D9%8A%D9%85%D8%AA%D8%A7%D9%86-%D9%88%D9%84%D9%8A%D8%B3%D8%AA%D8%A7-%D9%84%D9%84%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%AC%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D8%AE%25D\" style=\"color:#0563c1; text-decoration:underline\">الصورتان قديمتان وليستا للاحتجاجات الأخيرة في محافظة أم العرائس</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتناقل صفحات وحسابات على مواقع التواصل الاجتماعي، حديثاً، صورة زعمت أنها للاحتجاجات الأخيرة في العاصمة الفرنسية، التي تزامنت مع أزمة ماكرون مع المسلمين وانتشار فايروس كورونا المستجد (كوفيد-19).</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_12lc690ww.jpg\" style=\"height:636px; width:637px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_koc4fj7f5.jpg\" style=\"height:669px; width:624px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 296,
+        "left": 13.62310791015625,
+        "path": "articles/1606660782GettyImages-1229293216.jpg",
+        "top": 65.9755859375,
+        "totalHeight": 423,
+        "totalWidth": 626,
+        "watermark_path": "articles/watermark-1606660782GettyImages-1229293216.jpg",
+        "width": 527
+    },
+    "post_date": "2020-11-29T15:20:00.000+03:00",
+    "published": [
+        {
+            "id": "5fc3b2ad29e994652748c54b",
+            "link": "https://twitter.com/jDFOkNJQV4ikf1g/status/1332923515536891906",
+            "name": "?????",
+            "origin": "twitter",
+            "path": "sources/f42d2b46b95f460df8b800f2a7cb19e722390ab4.jpg"
+        },
+        {
+            "id": "5fc3b2ad19fb15490b7d97bb",
+            "link": "https://twitter.com/YAZEEDF_15/status/1332948020858654721",
+            "name": "Yazeed27",
+            "origin": "twitter",
+            "path": "sources/35ed811fbc573df6849c9180a567142c339e0b54.jpg"
+        },
+        {
+            "id": "5fc3b2ad707bce151e04baa6",
+            "link": "https://twitter.com/cCJvzj2ag1e8fKd/status/1332799123532230659",
+            "name": "حقوقنا من حقنا",
+            "origin": "twitter",
+            "path": "sources/9ae226d1af8e48cafcc8819fde6d5f39b3e86f37.jpg"
+        },
+        {
+            "id": "5fc3b2ad0e69bb1c316903b5",
+            "link": "https://twitter.com/delinjer12/status/1332942872937721858",
+            "name": "impossible ✨متصدر لاتكلمني ✨",
+            "origin": "twitter",
+            "path": "sources/f31174214e0a8dd96bc58db2ee2032c05d757352.jpg"
+        },
+        {
+            "id": "5fc3b2ae2697b01db8363a47",
+            "link": "https://twitter.com/k________om/status/1333004781502263298",
+            "name": "قلم حر🇪🇬🇹🇷🇱🇾🇦🇿",
+            "origin": "twitter",
+            "path": "sources/d615c4621ed0814073848507dfe40a9eabb226d4.jpg"
+        },
+        {
+            "id": "5fc3b2ae12ca8e262a44040e",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=901741973959676&id=100023716449852",
+            "name": "حماد مصطفى",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5fc3b2ae90fa97276565e21c",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=169205308229557&id=100054202677113",
+            "name": "أحمد عز الدين",
+            "origin": "facebook",
+            "path": "sources/d41b5641225c2c719800eee56d3ea73d439ca1c7.jpg"
+        },
+        {
+            "id": "5fc3b2ae891411723f1b339a",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1228998107473945&id=100010913027181",
+            "name": "محمد حسان",
+            "origin": "facebook",
+            "path": "sources/d41b5641225c2c719800eee56d3ea73d439ca1c7.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fa25762d61e9b21d957c45b",
+            "link": "https://www.gettyimages.com/detail/news-photo/iraqi-protestors-burn-posters-and-the-french-flag-during-a-news-photo/1229293216",
+            "name": "gettyimages",
+            "origin": "",
+            "path": "sources/8851905d9f90eb2ee2c89a1ea948e7f0a857d51d.jpg"
+        },
+        {
+            "id": "5f8edc10b764df2b6f025363",
+            "link": "https://www.instagram.com/tebasadiq/?hl=en",
+            "name": "Peter Brand&atilde;o",
+            "origin": "",
+            "path": "sources/855c232348646c64a0c7271d4cfee16b859db10c.jpg"
+        },
+        {
+            "id": "5f90484514e79834dd65b9a6",
+            "link": "https://www.alaraby.co.uk/politics/%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%AC%D8%A7%D8%AA-%D8%B6%D8%AF-%D8%AA%D8%B5%D8%B1%D9%8A%D8%AD%D8%A7%D8%AA-%D9%85%D8%A7%D9%83%D8%B1%D9%88%D9%86-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%AF%D9%8A%D8%A9-%D9%84%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85",
+            "name": "العربي الجديد",
+            "origin": "",
+            "path": "sources/7b6737625694f7043c16344b5ffc4b1b5602499a.jpg"
+        },
+        {
+            "id": "5f9ebef5f6a20e2d7a775a63",
+            "link": "https://www.bfmtv.com/paris/manifestation-contre-la-loi-securite-globale-quelques-tensions-dans-le-cortege-a-paris_AD-202011280163.html",
+            "name": "BFMTV",
+            "origin": "",
+            "path": "sources/c9101b27d1d3191897a45a324a15d9831c13c993.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صورة حرق علم فرنسا قديمة وليست من المظاهرات الأخيرة",
+    "updated_at": "2020-11-29 18:06:15",
+    "url_path": "/factcheck/2020/11/29/صورة-حرق-علم-فرنسا-قديمة-وليست-من-المظاهرات-الأخيرة",
+    "was_notification_pushed": "true"
+}

@@ -1,0 +1,108 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 7546,
+    "author": {
+        "fullname": "مريم هواري",
+        "id": "5e299460d4a22939983a3ec5",
+        "photo": {
+            "path": "authors/1579791192_Maryam.jpg"
+        }
+    },
+    "caption": "استبدال الأعلام يعود لمبنى شركة إيطالية (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">&nbsp;إيطاليا تُزيل علم الاتحاد الأوروبي وترفع مكانه العلم الصيني، احتجاجاً على تخلّي الاتحاد الأوروبي عنها في أزمة كورونا.</p>\r\n",
+    "country": "",
+    "created_at": "2020-05-07 14:42:00",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eb3f407db29164e890611d4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الادعاء مُضلل. نشر الموقع المحلّي المجري &ldquo;Atlatszo&rdquo; تقريراً عن الصورة، إذ وجد بأنها تعود لشركة إيطالية تستبدل الأعلام في مبناها بشكلٍ أسبوعي. وقد صرّح أحد عمال الشركة للصحيفة بأن رفع العلم الصيني هدفه تقديم الشكر للصين، لكن لا علاقة له بدور الاتحاد الأوروبي في أزمة كورونا.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_rt586zprk.jpg\" style=\"height:352px; width:624px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": false,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت حسابات على موقع التواصل الاجتماعي تويتر في نهاية مارس/أذار الجاري، صورةً لشخصٍ يرفع علم الصين مكان علم الاتحاد الأوروبي، وادّعى الناشرون بأن إيطاليا تتخذ هذه الخطوة تعبيراً عن تقديرها للمساعدات الطبية التي أرسلتها الصين بسبب تفشّي وباء كورونا، وعن غضبها من الاتحاد الأوروبي بسبب تخلّيه عنها في ظل هذه الأزمة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_teytqdtsr.jpg\" style=\"height:828px; width:597px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_vdwgpohp4.jpg\" style=\"height:640px; width:594px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ij9wvwgxn.jpg\" style=\"height:707px; width:589px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 154,
+        "left": 2.77093505859375,
+        "path": "articles/1588851718GettyImages-1161179083.jpg",
+        "top": 0.710693359375,
+        "totalHeight": 187,
+        "totalWidth": 280,
+        "watermark_path": "articles/watermark-1588851718GettyImages-1161179083.jpg",
+        "width": 274
+    },
+    "post_date": "2020-05-07T14:34:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/emad_badish/status/1242171416759459846",
+            "name": "عماد فتحي E.Fathi",
+            "path": "published/0_1588851717_عماد فتحي.jpg"
+        },
+        {
+            "link": "https://twitter.com/bilarakib/status/1243717285942038530",
+            "name": "Maria Maaloof",
+            "path": "published/1_1588851717_Maria Maaloof.jpg"
+        },
+        {
+            "link": "https://twitter.com/k________om/status/1242205892394864640",
+            "name": "قلم حر٠٠",
+            "path": "published/2_1588851718_قلم حر.jpg"
+        },
+        {
+            "link": "https://twitter.com/kholoodalghamdi/status/1243112844192878599",
+            "name": "Kholood Alghamdi | خلود الغامدي",
+            "path": "published/3_1588851718_خلود غامدي.jpg"
+        },
+        {
+            "link": "https://twitter.com/zahrihoussam/status/1242076586620444672",
+            "name": "حسام زهري",
+            "path": "published/4_1588851718_حسام زهري.jpg"
+        },
+        {
+            "link": "https://twitter.com/ZainaMAA/status/1242141081698996225",
+            "name": "Zaina USA Graduate.",
+            "path": "published/5_1588851718_زينة.jpg"
+        },
+        {
+            "link": "https://twitter.com/lolylolly1/status/1242170656575426560",
+            "name": "PrïñÇësś Loly‎‏",
+            "path": "published/6_1588851718_PrïñÇësś Loly‎‏.jpg"
+        },
+        {
+            "link": "https://twitter.com/Kalmuqdad/status/1242372527957200896",
+            "name": "خليل المقداد",
+            "path": "published/7_1588851718_خليل المقداد.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://english.atlatszo.hu/2020/03/27/fake-news-italians-did-not-swap-eu-flags-for-the-chinese-one/?fbclid=IwAR1u7Bdubt6kzjtQr9DN8FGdwG2YlP8zwdAMUvWhhtIklVkEz1n5kmvXE0g",
+            "name": "Atlatszo",
+            "path": "sources/0_1588851718_atlatszo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "إيطاليا تُزيل علم الاتحاد الأوروبي وتستبدله بعلم الصين.. حقيقة الخبر",
+    "updated_at": "2020-09-23 12:33:17",
+    "url_path": "/factcheck/2020/05/07/إيطاليا-تزيل-علم-الاتحاد-الأوروبي-وتستبدله-بعلم-الصين-حقيقة-الخبر"
+}

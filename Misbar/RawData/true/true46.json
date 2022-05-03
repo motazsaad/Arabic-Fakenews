@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1974,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "caption": "",
+    "category": "Health",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">الرئيس الأمريكي دونالد ترامب قرر تعيين المغربي منصف السلاوي مستشاراً رفيعاً لقيادة جهود الحكومة الأمريكية لتطوير لقاح ضد فيروس &quot;كورونا&quot; في البلاد</p>\r\n",
+    "country": "US",
+    "created_at": "2020-05-17 12:44:55",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ec10797db2916701549ecf4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الخبر صحيح، إذ نشر البيت الأبيض خبراً حول الموضوع، وجاء ذلك في مؤتمر صحفي عُقد في حديقة البيت الأبيض، الأربعاء الفائت، ظهر فيه السلاوي برفقة الرئيس الأميركي دونالد ترامب، وتحدث فيه عن التحدي الذي يواجهه الفريق، مع وثوقه بالجهود التي تبذلها الولايات المتحدة لإيجاد لقاح من شأنه معالجة الوضع الكارثي في العالم. مشيراً إلى أنه سيكون باستطاعتهم تطوبر ملايين اللقاحات&nbsp;قبل نهاية عام 2020.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_5iy08e1m8.jpg\" style=\"height:537px; width:544px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_4xkyp35y4.jpg\" style=\"height:457px; width:543px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تناقلت عدة صفحات على مواقع التواصل، ووكالات أنباء عربية، خبراً عن تعيين العالم المغربي منصف السلاوي، مستشاراً رفيعاً&nbsp;لقيادة جهود الحكومة الأميركية في إيجاد لقاح&nbsp;ضد فايروس كورونا المستجد (كوفيد-19).</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_jsjn49yxq.jpg\" style=\"height:351px; width:652px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_nf6eghfxy.jpg\" style=\"height:533px; width:655px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 353,
+        "left": 3.3238983154296875,
+        "path": "articles/1589708694GettyImages-1213154992.jpg",
+        "top": 37.696044921875,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1589708694GettyImages-1213154992.jpg",
+        "width": 629
+    },
+    "post_date": "2020-05-17T12:35:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/LibraBuzz/photos/a.990849831051412/1962497810553271/?type=3&theater",
+            "name": "LibraBuzz",
+            "path": "published/0_1589708693_LibraBuzz1.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/search/top/?q=%D8%AA%D8%B9%D9%8A%D9%8A%D9%86%20%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%20%D9%85%D9%86%D8%B5%D9%81%20%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%88%D9%8A",
+            "name": "Hamra mi amore",
+            "path": "published/1_1589708693_Hamra mi amore.jpg"
+        },
+        {
+            "link": "https://tahqiqe24.com/?p=2713&fbclid=IwAR0s5kYnRy-TNaxOoIUaccXzeZ8I1MCUF_nPP_QTTgP9S2IrtlcraGBQkI4",
+            "name": "تحقيق 24",
+            "path": "published/2_1589708693_تحقيق24.JPG"
+        },
+        {
+            "link": "https://www.nessma.tv/ar/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/actu/%D8%AA%D8%B9%D9%8A%D9%8A%D9%86-%D9%85%D9%86%D8%B5%D9%81-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%88%D9%8A-%D9%85%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1%D8%A7-%D8%B1%D9%81%D9%8A%D8%B9%D8%A7-%D9%84%D8%AF%D9%88%D9%86%D8%A7%D9%84%D8%AF-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%84%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D9%84%D9%82%D8%A7%D8%AD-%D8%B6%D8%AF-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7/220074?fbclid=IwAR3Ynyja865d9__6ijo7qN-a8uYzJUl_mNo8ZYAIl3wwWe0WgPO_Pd4zXws",
+            "name": "Nessma.tv",
+            "path": "published/3_1589708693_Nessma- logo.jpg"
+        }
+    ],
+    "result": "true",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/WhiteHouse/status/1261362114301575169",
+            "name": "The White House",
+            "path": "sources/0_1589708694_The White House.jpg"
+        },
+        {
+            "link": "https://www.alaraby.co.uk/society/2020/5/15/%D9%85%D9%86-%D9%87%D9%88-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%D9%8A-%D8%A7%D9%84%D8%B0%D9%8A-%D8%A7%D8%AE%D8%AA%D8%A7%D8%B1%D9%87-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%84%D8%AA%D8%B7%D9%88%D9%8A%D8%B1-%D9%84%D9%82%D8%A7%D8%AD-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7",
+            "name": "العربي الجديد",
+            "path": "sources/1_1589708694_العربي الجديد-لوغو.jpg"
+        },
+        {
+            "link": "https://twitter.com/cnni/status/1260749416568324096?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1260749416568324096&ref_url=https%3A%2F%2Fwww.alaraby.co.uk%2Fsociety%2F2020%2F5%2F15%2F%25D9%2585%25D9%2586-%25D9%2587%25D9%2588-%25D8%25A7%25D9%2584%25D9%2585%25D8%25BA%25D8%25B1%25D8%25A8%25D9%258A-%25D8%25A7%25D9%2584%25D8%25B0%25D9%258A-%25D8%25A7%25D8%25AE%25D8%25AA%25D8%25A7%25D8%25B1%25D9%2587-%25D8%25AA%25D8%25B1%25D8%25A7%25D9%2585%25D8%25A8-%25D9%2584%25D8%25AA%25D8%25B7%25D9%2588%25D9%258A%25D8%25B1-%25D9%2584%25D9%2582%25D8%25A7%25D8%25AD-%25D9%2583%25D9%2588%25D8%25B1%25D9%2588%25D9%2586%25D8%25A7",
+            "name": "CNN",
+            "path": "sources/2_1589708694_cnn- eng.jpg"
+        },
+        {
+            "link": "https://www.skynewsarabia.com/middle-east/1344855-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D9%85%D9%86%D8%B5%D9%81-%D8%A7%D9%84%D8%B3%D9%84%D8%A7%D9%88%D9%8A-%D8%A7%D9%94%D8%BA%D8%A7%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%A8%D9%8A%D8%AA-%D8%A7%D9%84%D8%A7%D9%94%D8%A8%D9%8A%D8%B6?q=%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%20%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%20%D8%AF%D9%88%D9%86%D8%A7%D9%84%D8%AF%20%D8%AA%D8%B1%D8%A7%D9%85%D8%A8&r=1344769",
+            "name": "مؤتمر صحفي - سكاي نيوز عربية",
+            "path": "sources/3_1589708694_سكاي نيوز عربية لوغو.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الولايات المتحدة تعيّن المغربي منصف السلاوي مستشاراً لتطوير لقاح ضد كورونا",
+    "updated_at": "2020-09-25 21:10:50",
+    "url_path": "/factcheck/2020/05/17/الولايات-المتحدة-تعين-المغربي-منصف-السلاوي-مستشارا-لتطوير-لقاح-ضد-كورونا"
+}

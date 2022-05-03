@@ -1,0 +1,98 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 639,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "الصورة للممثلة الأميركية إليزابيث أولسن (Getty)",
+    "category": "Arts & Culture",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">صورة لملكة جمال دولة الاحتلال لعنها الله.</p>\r\n",
+    "country": "",
+    "created_at": "2020-08-21 10:30:48",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f3f782860211806935b9490",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة المتداولة ووجد أنها مضللة، إذ أنها <a href=\"https://www.gettyimages.ae/detail/news-photo/elizabeth-olsen-attends-the-charles-james-beyond-fashion-news-photo/488374479?adppopup=true\" style=\"text-decoration:none\" target=\"_blank\"><u>تُظهر</u></a> الممثلة الأميركية إليزابيث أولسن، ولا علاقة لها بملكات جمال دولة الاحتلال.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">وبالاطلاع على قائمة الفائزات بلقب ملكة جمال دولة الاحتلال في السنوات الأخيرة، تأكد لـ&quot;مسبار&quot; ألا علاقة بين <a href=\"https://www.imdb.com/name/nm0647634/bio?ref_=nm_ov_bio_sm\" style=\"text-decoration:none\" target=\"_blank\"><u>الممثلة الأميركية</u></a> وتلك المسابقة.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_pyzvphra8.jpg\" style=\"height:489px; width:535px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تتناقل صفحات على مواقع التواصل الاجتماعي، حديثاً، صورة تدعي أنها لملكة جمال دولة الاحتلال.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_viqqkximb.jpg\" style=\"height:338px; width:525px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_re2t57ooy.jpg\" style=\"height:781px; width:505px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 157,
+        "left": 1.433349609375,
+        "path": "articles/15979950487.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 282,
+        "watermark_path": "articles/watermark-15979950487.jpg",
+        "width": 279
+    },
+    "post_date": "2020-08-21T10:19:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/mohamed58614103/status/1295728262447013889",
+            "name": "mohamed bakr",
+            "path": "published/0_1597995300_twitter.jpg"
+        },
+        {
+            "link": "https://twitter.com/ma1narr/status/1295625166551121923",
+            "name": "مر مر",
+            "path": "published/1_1597995300_twitter.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/lnnermind/permalink/782170305665914/",
+            "name": "AhMed AHmed",
+            "path": "published/2_1597995301_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/mostfa.afrekanoo/posts/2878187115619329",
+            "name": "مصطفى سامي عبدالجواد",
+            "path": "published/3_1597995487_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/1546655635484523/permalink/1659646617518757/",
+            "name": "Mahmoud Megahed",
+            "path": "published/4_1597995487_facebook.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.gettyimages.ae/detail/news-photo/elizabeth-olsen-attends-the-charles-james-beyond-fashion-news-photo/488374479?adppopup=true",
+            "name": "Getty Images ",
+            "path": "sources/0_1597995048_getty.jpg"
+        },
+        {
+            "link": "https://www.imdb.com/name/nm0647634/bio?ref_=nm_ov_bio_sm",
+            "name": "IMDb ",
+            "path": "sources/1_1597995048_IMDb.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصورة ليست لملكة جمال دولة الاحتلال",
+    "updated_at": "2020-09-25 19:21:32",
+    "url_path": "/factcheck/2020/08/21/هذه-الصورة-ليست-لملكة-جمال-دولة-الاحتلال"
+}

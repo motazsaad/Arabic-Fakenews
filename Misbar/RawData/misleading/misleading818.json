@@ -1,0 +1,98 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 453,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "الصورة الأصلية من مهرجان في مدينة زيورخ (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">مظاهرات في ألمانيا لليوم الثاني على التوالي بدون ارتداء الكمامات ضد فايروس كورونا المستجد، تحت شعار أنها مجرد مؤامرة فقط!</p>\r\n",
+    "country": "DE",
+    "created_at": "2020-08-03 12:44:12",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f27dc6c602118072d161b0f",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة المتداولة ووجد أنها مضللة، لأن <a href=\"https://www.streetparade.com/en/mediacorner/\" style=\"text-decoration:none\" target=\"_blank\"><u>الصورة الأصلية</u></a> تعود إلى مهرجان سنوي في مدينة زيورخ السويسرية، يحمل اسم Street Parade، في إحدى نسخه التي سبقت عام 2020، الذي أُلغي فيه الاحتفال بهذا المهرجان.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">ومن الجدير بالذكر، أن ألمانيا تشهد بالفعل <a href=\"https://www.bbc.com/news/world-europe-53622797\" style=\"text-decoration:none\" target=\"_blank\"><u>مظاهرات</u></a> تحتج على القيود المفروضة على الشعب بسبب كوفيد-19، مثل إلزامية ارتداء الكمامة، معتبرين ذلك انتهاكاً للحريات الشخصية.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">يُقدّر عدد المحتجين في ألمانيا نحو <a href=\"https://www.bbc.com/news/world-europe-53622797\" style=\"text-decoration:none\"><u>20 ألف</u></a>، فيما يُشارك في مهرجان Street Parade السنوي قرابة <a href=\"https://www.streetparade.com/en/mediacorner/\" style=\"text-decoration:none\"><u>مليون</u></a> شخص.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_u9wcxj1b1.jpg\" style=\"height:379px; width:553px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_5wmkgoq0n.jpg\" style=\"height:563px; width:548px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تتناقل صفحات وحسابات على مواقع التواصل الاجتماعي، حديثاً، صورة تدّعي أنها تُظهر احتجاجات في ألمانيا ضد كوفيد-19، بدون ارتداء الكمامات، تحت شعار أن الفايروس مجرد مؤامرة.</p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"633\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FDzairMiix%2Fposts%2F3932374413455987&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_cf43i2kwh.jpg\" style=\"height:677px; width:525px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 158,
+        "left": -0.3499755859375,
+        "path": "articles/1596447851غلاف.jpg",
+        "top": 187.0999755859375,
+        "totalHeight": 423,
+        "totalWidth": 282,
+        "watermark_path": "articles/watermark-1596447851غلاف.jpg",
+        "width": 281
+    },
+    "post_date": "2020-08-03T12:31:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2720101404941995&id=2287480018204138",
+            "name": "أخبار ولاية سيدي بلعباس",
+            "path": "published/0_1596448256_أخبار.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/quartiers49/photos/a.427382457399023/1943705985766655/?type=3&__tn__=H-R",
+            "name": "شوارع مدينة العلمة",
+            "path": "published/1_1596448256_العلمة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1849824685159033&id=704780342996812",
+            "name": "سطيف البستاني",
+            "path": "published/2_1596448256_106908657_1826359537505548_8889067181124196062_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/DzairMiix/posts/3932374413455987",
+            "name": "Dzair Mix",
+            "path": "published/3_1596448339_مكس.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=633365783958870&id=374787656483352",
+            "name": "الصحة في الجزائر",
+            "path": "published/4_1596448339_الصحة.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.streetparade.com/en/mediacorner/",
+            "name": "Street Parade",
+            "path": "sources/0_1596447851_street.jpg"
+        },
+        {
+            "link": "https://www.bbc.com/news/world-europe-53622797",
+            "name": "BBC ",
+            "path": "sources/1_1596447851_bbc-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصورة ليست من مظاهرات ألمانيا احتجاجاً على قيود كورونا",
+    "updated_at": "2020-09-25 22:14:43",
+    "url_path": "/factcheck/2020/08/03/هذه-الصورة-ليست-من-مظاهرات-ألمانيا-احتجاجا-على-قيود-كورونا"
+}

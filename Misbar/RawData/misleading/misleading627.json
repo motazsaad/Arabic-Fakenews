@@ -1,0 +1,138 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 16052,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "caption": "القصة مفبركة وليس لها أي أساس من الصحة",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">&rlm;فهد يتسلل ليلًا ليزور البقرة التي أرضعته بعد وفاة أمه.</p>\r\n",
+    "country": "IN",
+    "created_at": "2020-09-16 15:36:33",
+    "created_by": "5f39b1ee1dd5850789476b61",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f6206d1bee02169396b357e",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">القصة مفبركة وليس لها أي أساس من الصحة، كما لم تلتقطها كاميرات وضعها سكان القرية. إذ أنَّ الصورة منشورة في عام 2014 على الموقع الهندي <a href=\"http://www.udaipurpost.com/mothering-ability-maiyas-prayer-found-a-love-of-gaia-a-leopard.html?fbclid=IwAR0jdGnxByJ9UUKFoxNxzOVFVi1c8wpCH_idGUgfhyjIJETMdC0557wXLWo\" style=\"color:blue; text-decoration:underline\">udaipurpost</a>، والتقطها شخص يدعى <span dir=\"LTR\">Arvind Raj Gehlot</span>. وفي الوصف الخاص بالصورة لم تذكر القصة التي يتم تناقلها، بل ذكر الموقع أنه أنه يمكن للحيوانات ذات الطبيعة المعاكسة أن تجلس معاً في بعض الأحيان، خصوصاً إذا كانت الحيوانات المفترسة ليست جائعة، فلا تهاجم حينها الفرائس دون داعٍ. كما أورد المصدر أنَّ البقرة الظاهرة في الصورة قد تكون أقوى من الحيوان المفترس، وقد يكون ذلك سبباً آخر لعدم هجومه على البقرة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_c3cdon14f.jpg\" style=\"height:704px; width:664px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">اقرأ/ي أيضاً</p>\r\n\r\n<p><a href=\"https://misbar.com/factcheck/2020/09/09/%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9-%D9%84%D9%8A%D8%B3%D8%AA-%D9%84%D8%AD%D9%8A%D9%88%D8%A7%D9%86-%D9%85%D8%AC%D9%87%D9%88%D9%84-%D9%81%D9%8A-%D8%B4%D9%88%D8%A7%D8%B1%D8%B9-%D8%BA%D8%B2%D8%A9\" target=\"_blank\">الصورة ليست لحيوان مجهول في شوارع غزة</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتناقل صفحات وحسابات لصحف ومستخدمين&nbsp;على موقع فيسبوك منذ مايو<span dir=\"LTR\">/</span>أيار الفائت، صوراً ادعت أنها لفهد يتسلل ليلاً ليزور البقرة التي أرضعته وهو صغير. وأنَّ الصور تم التقاطها بواسطة كاميرات وضعها سكان القرية لفهم سبب نباح الكلاب ليلاً.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_rvk2ufr6a.jpg\" style=\"height:729px; width:582px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_j4r9ucw36.jpg\" style=\"height:635px; width:541px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_qjevqspfp.jpg\" style=\"height:663px; width:533px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 366,
+        "left": 3.9776458740234375,
+        "path": "articles/160025979298000604_1194295037572226_2579231288355454976_o.jpg",
+        "top": 10.077880859375,
+        "totalHeight": 423,
+        "totalWidth": 854,
+        "watermark_path": "articles/watermark-160025979298000604_1194295037572226_2579231288355454976_o.jpg",
+        "width": 650
+    },
+    "post_date": "2020-09-16T15:16:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/groups/720105644776786/permalink/3210341539086505/?app=fbl",
+            "name": "ابو زهير السلماني",
+            "path": "published/0_1600259791_Facebook_logo.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/101063934946772/posts/163854858667679/?app=fbl",
+            "name": "Tounsi mirtè7",
+            "path": "published/1_1600259791_Facebook_logo.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/100007541473735/posts/2591373127790711/?app=fbl",
+            "name": "محمد بك الشريف",
+            "path": "published/2_1600259791_Facebook_logo.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/kalamlibye/posts/863427730806403",
+            "name": "كلام ليبي",
+            "path": "published/3_1600259791_Facebook_logo.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/alrashidia/posts/1194295694238827",
+            "name": "الراشدية نيوز - Rashidiya News",
+            "path": "published/4_1600259791_Facebook_logo.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/sayidatynetpage/posts/3458033994227252",
+            "name": "sayidaty.net سيدتي.نت ",
+            "path": "published/5_1600259791_Facebook_logo.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=4006279269412282&id=1024499494256956",
+            "name": "القامشلي الأن",
+            "path": "published/6_1600259791_Facebook_logo.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/eutibkhurasn/posts/557243898510899",
+            "name": "عتب خرسان",
+            "path": "published/7_1600259791_Facebook_logo.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/Alroeya/status/1265695259863977986",
+            "name": "صحيفة الرؤية",
+            "path": "published/8_1600259791_Twitter-logo.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/Betkoen90/status/1261793429144637445",
+            "name": "عالم الإفتراس",
+            "path": "published/9_1600259791_Twitter-logo.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/Alghamdi97/status/1260568084903059456",
+            "name": "د.محمد الغامدي",
+            "path": "published/10_1600259792_Twitter-logo.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "http://www.udaipurpost.com/mothering-ability-maiyas-prayer-found-a-love-of-gaia-a-leopard.html?fbclid=IwAR0jdGnxByJ9UUKFoxNxzOVFVi1c8wpCH_idGUgfhyjIJETMdC0557wXLWo",
+            "name": "udaipurpost",
+            "path": "sources/0_1600259792_udaipurpost.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الصور ليست لفهد يزور البقرة التي أرضعته بعد وفاة أمه",
+    "updated_at": "2020-09-25 21:29:38",
+    "url_path": "/factcheck/2020/09/16/الصور-ليست-لفهد-يزور-البقرة-التي-أرضعته-بعد-وفاة-أمه",
+    "was_notification_pushed": true
+}

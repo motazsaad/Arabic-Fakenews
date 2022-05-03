@@ -1,0 +1,101 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 618,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;فيديو يُظهر مشاهد لقصف صاروخي يستهدف السفارة الأميركية في العراق.</p>\r\n",
+    "country": "IQ",
+    "created_at": "2020-01-08 15:35:34",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e15cc96d4a22936a07f3473",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">بالفعل استُهدفت المنطقة الخضراء ببغداد يوم الأحد 8 يناير/ كانون الثاني من العام الجاري ببضع صواريخ كاتيوشا سقط اثنان منها قرب السفارة الأميركية. وذلك إبان اغتيال قائد فيلق القدس في الحرس الثوري الإيراني قاسم سليماني، وأبو مهدي المهندس نائب رئيس هيئة الحشد الشعبي بغارة جوية أميركية استهدفت موكبهما في محيط مطار بغداد.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">لكنّ هذا الفيديو لا يصوّر قصف السفارة الأميركية ببغداد، إنّما يعود إلى شهر نوفمبر/ تشرين الثاني عام 2018، ويُظهر قصفاً صاروخياً مصدره قطاع غزة على مدينة عسقلان في الأراضي الفلسطينية المحتلة.</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت حسابات وصفحات على موقع التواصل الاجتماعي فيسبوك مقطع فيديو لاقى رواجاً على &quot;يوتيوب&quot;، يُظهر مشاهد من تعرّض السفارة الأميركية في المنطقة الخضراء في بغداد لقصف صاروخي.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_54f37c7d1fc7f10ab4714433b55f5d51.jpg\" style=\"height:301px; width:416px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_4560673a83503c277c495873a8b59ed1.jpg\" style=\"height:516px; width:392px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ad7d6164046003eb30f47cce2c8d1d0a.jpg\" style=\"height:408px; width:574px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 338,
+        "left": 23.3238525390625,
+        "path": "articles/1578486934GettyImages-1191105853.jpg",
+        "top": 32.80718994140625,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "width": 601
+    },
+    "post_date": "2020-01-06T15:26:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.youtube.com/watch?v=n3RhR3wzlWo&feature=share&fbclid=IwAR14oKl-PlnqKfMhxflKx4weoFh6AyQ5ANdbGGMg7eGOZE-x8wlCab9D-2k",
+            "name": "TOP-TV",
+            "path": "published/0_1578486934_Top tv-logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ykhawaldeh/videos/444128549809313/?v=444128549809313",
+            "name": "شو اللي قاعد بصير",
+            "path": "published/1_1578486934_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100025341280054/videos/571300610391310/",
+            "name": "غاندي حبيب",
+            "path": "published/2_1578486934_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=632023400957500&external_log_id=56029e16fff748921937b365b8b83add&q=%D9%82%D8%B5%D9%81%20%D8%B9%D9%86%D9%8A%D9%81%20%D8%B9%D9%84%D9%89%20%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D9%87%20%D8%A7%D9%84%D8%AE%D8%B6%D8%B1%D8%A7%D8%A1%20%D9%88%D8%A7%D9%84%D8%B3%D9%81%D8%A7%D8%B1%D9%87",
+            "name": "حمبي شلونك",
+            "path": "published/3_1578486934_facebook.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=l_Z-Wyru-R0",
+            "name": "رديف بلال",
+            "path": "published/4_1578486934_رديف بلال-لوغو.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=kj_34o9nuFw",
+            "name": "الفيديو الأصلي",
+            "path": "sources/0_1578486934_YouTube-logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=492105591300634",
+            "name": "Shehab News Agency",
+            "path": "sources/1_1578486934_شهاب-لوغو.jpg"
+        },
+        {
+            "link": "https://www.aljazeera.net/news/politics/2020/1/5/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%A8%D9%88%D9%85%D8%A8%D9%8A%D9%88-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%B3%D9%84%D9%8A%D9%85%D8%A7%D9%86%D9%8A",
+            "name": "الجزيرة",
+            "path": "sources/2_1578486934_الجزيرة.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذا الفيديو ليس لقصف السفارة الأميركية في بغداد",
+    "updated_at": "2020-09-23 12:39:53",
+    "url_path": "/factcheck/2020/01/08/هذا-الفيديو-ليس-لقصف-السفارة-الأميركية-في-بغداد"
+}

@@ -1,0 +1,123 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 185,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "نفى حازم إمام الخبر عبر صفحته الرسمية (فيسبوك)",
+    "category": "Sports",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">حازم إمام يدرس الترشح لمنصب&nbsp;رئيس نادي الزمالك في الانتخابات المقبلة.</span></p>\r\n",
+    "country": "EG",
+    "created_at": "2020-11-11 11:18:52",
+    "created_by": "5f39b5a51dd585076701cb94",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 2,
+    "id": "5fab9e6c52aae2273c5f4628",
+    "investigation": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">الخبر زائف. إذ نفى حازم إمام الخبر المتداول عبر صفحته&nbsp;الرسمية على موقع فيسبوك، وقال: &quot;لا نيه لدي للترشح وأرجو عدم الزج باسمى في هذا الموضوع&quot;.</span></p>\r\n\r\n<p><iframe frameborder=\"0\" height=\"578\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FHazemEmam%2Fposts%2F3637279176323534&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n\r\n<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-EG\">اقرأ أيضاً:</span></p>\r\n\r\n<p style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/11/10/%D8%B5%D9%88%D8%B1%D8%A9-%D8%AC%D9%85%D9%87%D9%88%D8%B1-%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%81%D9%8A-%D8%AA%D9%88%D9%86%D8%B3-%D9%88%D9%84%D9%8A%D8%B3-%D9%81%D9%8A-%D8%AF%D9%88%D9%84%D8%A9-%D8%A3%D8%AE%D8%B1%D9%89\" style=\"color:#0563c1; text-decoration:underline\">صورة جمهور مباراة كرة قدم في تونس وليس في دولة أخرى</a></p>\r\n\r\n<p style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/11/06/%D9%84%D9%86-%D8%AA%D9%82%D8%A7%D9%85-%D8%A8%D8%B7%D9%88%D9%84%D8%A9-%D9%8A%D9%88%D8%B1%D9%88-2020-%D9%81%D9%8A-%D8%B1%D9%88%D8%B3%D9%8A%D8%A7-%D9%81%D9%82%D8%B7\" style=\"color:#0563c1; text-decoration:underline\">لن تقام بطولة &quot;يورو 2020&quot; في روسيا فقط</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت مواقع إخبارية وحسابات على مواقع التواصل الاجتماعي، حديثاً، خبراً مفاده أن لاعب نادي الزمالك المصري السابق حازم إمام يدرس الترشح لمنصب&nbsp;رئيس نادي الزمالك في الانتخابات المقبلة.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_249bfuh5g.jpg\" style=\"height:818px; width:579px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_i91aba2yn.jpg\" style=\"height:504px; width:570px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 4.57763671875e-05,
+        "path": "articles/1605082732100.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1605082732100.jpg",
+        "width": 752
+    },
+    "post_date": "2020-11-11T11:14:00.000+03:00",
+    "published": [
+        {
+            "id": "5fab9e6cd95ef81d4f425af1",
+            "link": "https://twitter.com/AlMasrySports/status/1325802271083520000",
+            "name": "المصري الرياضي",
+            "origin": "twitter",
+            "path": "sources/2b0dddc46a8adfadc2646f1b00d3efb07a7c9bee.jpg"
+        },
+        {
+            "id": "5f9328ccbf8f063e045ca739",
+            "link": "https://www.almasryalyoum.com/news/details/2083770",
+            "name": "www.almasryalyoum.com",
+            "origin": "",
+            "path": "sources/4fcceb213642497c264697c3a28ffbac1299a391.jpg"
+        },
+        {
+            "id": "5fab9e6c6cc96b34491ae1a3",
+            "link": "https://www.facebook.com/eslam10shahen/posts/10222946733393746",
+            "name": "Eslam Shahen",
+            "origin": "facebook",
+            "path": "sources/770085f06aadef856dfae7f25fca090afbd79e11.jpg"
+        },
+        {
+            "id": "5fa50d1bba8347599d64c737",
+            "link": "https://www.operanewsapp.com/eg/ar/share/detail?news_id=e4b9181e39ad4978596a73a830b893e0&news_entry_id=6796c118201109ar_eg&open_type=transcoded&from=news&request_id=share_request&fbclid=IwAR21t6J2gkqhJ0mgBHrf1oevHlrxk0gt0UJM7sDEXo7PY_f1Pt--ak1HhC8",
+            "name": "www.operanewsapp.com",
+            "origin": "",
+            "path": "sources/99fe05acff583f16f71cb1730dc9a29e61f2e4a9.jpg"
+        },
+        {
+            "id": "5fab9f7f1c910913230c6e02",
+            "link": "https://www.facebook.com/kamal.abdelrahman/posts/10158769162890833",
+            "name": "Kamal Abd Elrahman",
+            "origin": "facebook",
+            "path": "sources/770085f06aadef856dfae7f25fca090afbd79e11.jpg"
+        },
+        {
+            "id": "5fab9f7f874164385b7bc37c",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2227702590707379&id=100004029806805",
+            "name": "يوسف الصديق",
+            "origin": "facebook",
+            "path": "sources/49e651cf11de0ddd2515fb2ea201674bb3603455.jpg"
+        },
+        {
+            "id": "5fab9f7f28118e45a76751df",
+            "link": "https://www.facebook.com/sayed.selman.3/posts/3362693757182587",
+            "name": "سيد سليمان",
+            "origin": "facebook",
+            "path": "sources/75728502b0284d6d52e667545dd9d57ecfb7f045.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fab9e6cc7753d158744403a",
+            "link": "https://www.facebook.com/HazemEmam/photos/a.565133480204801/3637279122990206/?type=3&__xts__%5B0%5D=68.ARDGUzfIFnEOVX0dlpCeNI_c8gcsSgO9yzNvbw32-1bk0fcA5rcFi4mYuZMvd7hPf8P7XXcBOkH4BkMs-ND7VfGEUijEyMDz8nFRmpkccYLpGg71EfPjHhtvLLWFME31ctV0dSyjchdJ3FnniGGtG-ijegsn-rnLwWVjPW3ME6TgGjQVk3CokLI5-HsQmUpeO0jjawkpDiWhQ3BfxH6RLEkpYHIARSi2Q3ukcdDDb5gDRs-WF-4G3asLZFX_ZnRePmE_I7gXA_KGosnL6ZO2eUh8zsb2HCd1TZZtZWKz3D2iLc6OYpNVR_tXG18tOXZaYfmmG2-347WQcsqyZOCMbClVDg&__tn__=-R",
+            "name": "Hazem Emam",
+            "origin": "facebook",
+            "path": "sources/e921f22a6f2082b0e8df578631850380f7f5879a.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "حازم إمام ينفي خبر ترشحه لانتخابات الزمالك",
+    "updated_at": "2020-11-11 11:33:01",
+    "url_path": "/factcheck/2020/11/11/حازم-إمام-ينفي-خبر-ترشحه-لانتخابات-الزمالك",
+    "was_notification_pushed": "true"
+}

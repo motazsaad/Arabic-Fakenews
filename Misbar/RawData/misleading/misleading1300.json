@@ -1,0 +1,102 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 4822,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "مقطع الفيديو منشور على يوتيوب قبل ظهور كورونا قرابة العام (Getty)",
+    "category": "Spirituality & Religion",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">فيديو لإيطاليين وهم يصلون خلف المسلمين من أجل أن يرفع الله عنهم بلاء فايروس كورونا.</p>\r\n",
+    "country": "IT",
+    "created_at": "2020-03-24 15:41:44",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e7a0008d4a2291cb6560033",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من مقطع الفيديو، وتأكد من أنه مضلل، إذ وجده منشوراً على موقع يوتيوب منذ ديسمبر/كانون الأول 2018، أي قبل ظهور فايروس كورونا بما يقارب العام. وجاء المقطع المنشور مرفقاً بتعليق يفيد بأنّه يصور عدداً ممن اعتنقوا الإسلام حديثاً، ولم يتسنّ لـ &quot;مسبار&quot; التأكد من حقيقة المقطع الأصلي.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/GKENh5sNUN8\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت مواقع إلكترونية وصفحات وحسابات على وسائل التواصل الاجتماعي وموقع يوتيوب، مقطع فيديو قالوا إنّه يُظهر مجموعة من الإيطاليين وهم يصلون خلف الجالية المسلمة كي يرفع الله عن بلادهم بلاء فايروس كورونا.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/C5wqQj_Ri_U\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/6gv9KrYRMNY\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_epun8n1kt.jpg\" style=\"height:769px; width:586px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 355,
+        "left": 2.1016845703125,
+        "path": "articles/1585053704GettyImages-1160474535.jpg",
+        "top": 38.80712890625,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "width": 632
+    },
+    "post_date": "2020-03-24T15:30:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.youtube.com/watch?v=TT_GM-yCzJY",
+            "name": "قناة مقاطع منوعة",
+            "path": "published/0_1585053703_قناة مقاطع منوعة.jpg"
+        },
+        {
+            "link": "https://twitter.com/abo_majed_sa/status/1242015831552376832?s=19",
+            "name": "عبد الله الحربي",
+            "path": "published/1_1585053703_عبد الله الحربي.jpg"
+        },
+        {
+            "link": "https://vd-sa.blogspot.com/2020/03/blog-post_863.html",
+            "name": "وسم 24 ",
+            "path": "published/2_1585053703_وسم 24.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=6gv9KrYRMNY&feature=emb_logo",
+            "name": "سامحني يا ربي",
+            "path": "published/3_1585053703_سامحني يا ربي.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=C5wqQj_Ri_U",
+            "name": "نور فلسطين",
+            "path": "published/4_1585053703_نور فلسطين.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=rkbTJc2IW9c",
+            "name": "Sara Haja Maghnia",
+            "path": "published/5_1585053704_Sara Haja Maghnia.jpg"
+        },
+        {
+            "link": "https://mz-mz.net/1464633/",
+            "name": "مزمز",
+            "path": "published/6_1585053704_مزمز.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=GKENh5sNUN8",
+            "name": "المقطع الأصلي",
+            "path": "sources/0_1585053703_YouTube-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "في إيطاليا المسيحيون يصلّون خلف المسلمين لرفع بلاء كورونا.. فيديو مضلل",
+    "updated_at": "2020-09-25 20:43:43",
+    "url_path": "/factcheck/2020/03/24/في-إيطاليا-المسيحيون-يصلون-خلف-المسلمين-لرفع-بلاء-كورونا-فيديو-مضلل"
+}

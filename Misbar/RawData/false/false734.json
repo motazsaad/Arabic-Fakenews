@@ -1,0 +1,104 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 2,
+        "tw": 1
+    },
+    "amount_sources": 0,
+    "amount_visits": 51124,
+    "author": {
+        "fullname": "خالد إسماعيل",
+        "id": "5e59256dd4a2295224257db3",
+        "photo": {
+            "name": "1582900589_صورة 2.jpg",
+            "path": "authors/1582900589_صورة 2.jpg"
+        }
+    },
+    "caption": "المقطع مكوّن من عدة مقاطع قديمة جُمعت سويًّا (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">إحدى عشرة طائرة مقاتلة مصرية تعترض سرب طائرات تركي كان يستعدّ للهبوط في مطار معيتيقة في ليبيا، وتجبرها على العودة لقواعدها في تركيا.</p>\r\n",
+    "country": "EG",
+    "created_at": "2020-05-12 19:18:42",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5ebacc62db29162b2421f694",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من المقطع المتداول وتبيّن أنه زائف، لأنّه مكوّن من عدة مقاطع قديمة جُمعت سويًّا. بالبحث عبر حساب المتحدث الرسمي المصري لم يعثر &quot;مسبار&quot; على أية بيانات تخصّ العملية المزعومة ولم تنشر أيّ وسيلة إعلامية الخبر. أما المقطع الأخير الذي انتهى به التقرير، فتبين أنه جزء من <a href=\"https://www.youtube.com/watch?v=o1OO75acsyU&amp;feature=emb_title\" style=\"color:blue; text-decoration:underline\">بيان عسكري</a> أعقب عملية أنجزتها طائرات مصرية عام 2017، ضربت فيها أهدافاً قالت إنها لتنظيمات إرهابية في ليبيا.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وجدير بالذكر أنه لم يُعلن رسميًّا، حتى الآن، عن مشاركة قوات عسكرية مصرية في القتال الدائر في ليبيا بين قوات حكومة الوفاق وقوات اللواء خليفة حفتر، ما ينفي إمكانية أن يُصدر الجيش المصري بياناً على لسان المتحدث الرسمي باسمه حول عملية عسكرية في ليبيا.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">مقاطع الفيديو التي استُخدمت في المقطع المتداول الزائف، بالترتيب:</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/2b7MPGpnpQw\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/3vM6ve2jg2c\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/o1OO75acsyU\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول حسابات وصفحات على مواقع التوال الاجتماعي، منذ شهر أبريل/نيسان الفائت وحتى اليوم، مقطع فيديو يشبه تقارير نشرات الأخبار، ويروي التعليق الصوتي المصاحب للمقطع نقلاً عن وسائل إعلامية يونانية (لم يذكرها) كيف اعترضت إحدى عشرة طائرة مقاتلة مصرية سرباً من الطائرات التركية كان يستعد للهبوط في مطار معيتيقة في ليبيا، ما أجبر الطائرات التركية على العودة إلى قواعدها في تركيا. وينتهي التقرير المصوّر بصوت المتحدث العسكري المصري وهو يؤكد على &quot;عودة الطائرات المصرية إلى قواعدها بعد إتمام مهامها، فيما تستمرّ العمليات العسكرية لحماية السيادة الليبية&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><iframe frameborder=\"0\" height=\"463\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FMumammad.shams55%2Fvideos%2F698757867594008%2F&amp;show_text=1&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 354,
+        "left": 3.16668701171875,
+        "path": "articles/1589300321GettyImages-481383250.jpg",
+        "top": 68.800048828125,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1589300321GettyImages-481383250.jpg",
+        "width": 630
+    },
+    "post_date": "2020-05-12T19:08:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/114603103517238/videos/vb.114603103517238/241419267202339/?type=2&theater",
+            "name": "قناة لخمة راس ",
+            "path": "published/0_1589300320_نشر عن ذلك 1.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Mumammad.shams55/videos/698757867594008/",
+            "name": "صفحة عمار يا مصر ",
+            "path": "published/1_1589300320_نشر عن ذلك 2.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100042507131496/videos/221390165954553/",
+            "name": "حمزة المصراتي",
+            "path": "published/2_1589300320_نشر عن ذلك 3.jpg"
+        },
+        {
+            "link": "https://z-m-www.facebook.com/112844670081160/videos/2860751550672499/",
+            "name": "الملازم احمد محمد",
+            "path": "published/3_1589300320_نشر عن ذلك 3.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100050275784452/videos/116555093363683/",
+            "name": "سالم الورفلي",
+            "path": "published/4_1589300320_نشر عن ذلك 5.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100010769172937/videos/1188958674806427/",
+            "name": "المخرج باسم عبد الرؤوف ",
+            "path": "published/5_1589300320_نشر عن ذلك 6.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://arabic.cnn.com/middle-east/2017/05/27/egypt-operations-libya-video",
+            "name": "CNN",
+            "path": "sources/0_1589300320_مصدر 1.jpg"
+        },
+        {
+            "link": "https://al-ain.com/article/egypt-libya-terrorism",
+            "name": "العين الإخبارية ",
+            "path": "sources/1_1589300320_مصدر 2.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل تصدّت مقاتلات مصرية لطائرات تركية في ليبيا؟",
+    "updated_at": "2020-09-25 19:48:13",
+    "url_path": "/factcheck/2020/05/12/هل-تصدت-مقاتلات-مصرية-لطائرات-تركية-في-ليبيا"
+}

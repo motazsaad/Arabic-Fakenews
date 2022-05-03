@@ -1,0 +1,87 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2106,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "",
+    "category": "Entertainment",
+    "claim": "<p style=\"text-align:right\">رضيعٌ&nbsp;عابس على مواقع التواصل الاجتماعي.</p>\r\n",
+    "country": "BR",
+    "created_at": "2020-03-01 11:54:37",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e5b784dd4a229253a1f26e4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">بحث &quot;مسبار&quot; في أصل الصورة ووجد أنها لطفلةٍ مولودة حديثاً اسمها إزابيلا بيريرا دي جيسوس بعد عمليةٍ قيصرية، عصر يوم 13 فبراير/شباط، بمستشفى في ريو دي جانيرو بالبرازيل، وتجهمت الطفلة عندما حاولت طبيبة التوليد تحفيزها على إصدار صوت والبكاء، فكان واضحاً وكأنَّ الطفلة لم يعجبها ذلك.<br />\r\nوأظهرت واحدة من الصور التي التقطها مصور محترف يدعى رودريغو كانستمان استأجرته الأم دايان دي جيسوس باربوسا لتصوير ولادة إيزابيلا، هذا التعبير المفاجئ للطفلة، وسرعان ما تم تداولها في وسائل الإعلام العالمية، كما يوضح المصور على صفحته الرسمية في &quot;فيسبوك&quot;.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_41qev23jc.jpg\" style=\"height:262px; width:604px\" /></p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_9q4fel2j8.jpg\" style=\"height:525px; width:517px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_we65kp7lx.jpg\" style=\"height:562px; width:605px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تداول </span><span dir=\"RTL\" lang=\"AR-SY\">بعض مستخدمي </span><span dir=\"RTL\" lang=\"AR-SA\">وسائل التواصل الاجتماعي صورةً يظهر فيها مولودٌ عابس، على أنه من الوطن العربي، وبعضهم جزم كونه فلسطينياً في إشارة إلى تدهور الأوضاع هناك، فتجهم الطفل حين عرف أنه قدم إلى مكان تعيس، إلا أن معظم المنشورات كان لها طابع السخرية، وبعضها قال أنها &quot;فوتوشوب&quot; لوجه المولود، وسرعان ما انتشرت على مستوى واسع كصورة ساخرة &quot;ميمز&quot;، ولم يشر أحد إلى أصل الصورة.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_5jusolyn7.jpg\" style=\"height:529px; width:475px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ug35jmyq8.jpg\" style=\"height:617px; width:552px\" /></p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 350,
+        "left": 7.5773162841796875,
+        "path": "articles/158305287686416528_2913859488855064_6651788513295466496_o.jpg",
+        "top": 17.80029296875,
+        "totalHeight": 423,
+        "totalWidth": 633,
+        "width": 621
+    },
+    "post_date": "2020-03-01T09:23:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/tounsifreemind/photos/a.495819783940919/1282111348645088/?type=3&theater",
+            "name": "توانسة وما على بالنا بشي",
+            "path": "published/0_1583052876_توانسة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=10206513867361586&set=a.10200129800843913&type=3&theater",
+            "name": "yousef saman",
+            "path": "published/1_1583052876_74674897_10206125903302727_5416136188991897600_o.jpg"
+        }
+    ],
+    "result": "satire",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/Suspirefotografia/posts/2765743726880650?__xts__[0]=68.ARCnv0SgYoWWGLpQMtJU69iPIPtqn2nGF3abRgGlPPWRei2ItT4pjZQgErgd5znHiDp-gE19T_hmPfssYKUiCkY4wUiothsZ3feqxAjUS1Nq6U2eA-kvN6z19kliG4w0z_8QTashAl0kf6-xmKBHwBZtz1jM97i32rFjxKxjqZYgeSMhJPJ2lYoHmtJTaB45JVjp5r8feihZWE2ogZdzpRjsEnMrLlSnPft1rZuGj1rzbvpCBT_VtixdC6qlcwtBOQayBP54ljxEnDHWsvob_vVBctrqpwwzkW3NGmaDWyrEQpZ53aItcaTU75XAAnxBtEbYPEqiuI04nGP0ahc121uyvA&__tn__=-R",
+            "name": "Suspire Fotografia",
+            "path": "sources/0_1583052876_تتتت.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/RKUNSTMANNFotografia/posts/2917757108465302?__xts__[0]=68.ARA29vil21xk5tK7OKwPIXbjLDK8VUfsMhXFD_5MwLxznJkpZ1cNJ2V3Lpu7mpaMllwM8HqlUke4OlbTCkdysVbnFMwIj9L4p-8OEnc6dqWdQ6zULsGj4DJ_0xigvpOOb0Uv7D9UVSDsouQkfxekTknLqXaYs1erGik9KFpolkA00_3g0X9YPUdga8J1L4i0rFHnlcdBCiMH2ScW20XPGXtySIbJtSPR5tZ9lEvgk4AGlrZK5bG4u3RT20iIAHhqne6esC0euZq1dsN2W4wp_7uVCjnEfiZ9-_Ro2rYNzGOjvNjSpwujWC_dkeBRTmGH9UDQUpc57_h663ords-5q-mZgU4O&__tn__=-R",
+            "name": "Rodrigo Kunstmann Fotógrafo Profissional",
+            "path": "sources/1_1583052876_مصور.jpg"
+        },
+        {
+            "link": "",
+            "name": "",
+            "path": null
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "مولودٌ يتجهم في وجه العالم.. حقيقة الصورة",
+    "updated_at": "2020-09-25 18:04:46",
+    "url_path": "/factcheck/2020/03/01/مولود-يتجهم-في-وجه-العالم-حقيقة-الصورة"
+}

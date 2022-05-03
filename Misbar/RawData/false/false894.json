@@ -1,0 +1,133 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 3079,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "نشرة توعوية زائفة منسوبة إلى يونيسف",
+    "category": "Health",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">مجموعة نصائح حول فيروس كورونا (كوفيد-19) نقلاً عن يونيسف.</span></p>\r\n",
+    "country": "US",
+    "created_at": "2020-03-03 17:29:02",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e5e69aed4a2290e0e135303",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقّق &quot;مسبار&quot; من النشرة التوعوية المنسوبة إلى يونيسف ووجد أنها زائفة، إذ تختلف كليًّا عن </span><a href=\"https://www.unicef.org/ar/%D9%81%D9%8A%D8%B1%D9%88%D8%B3-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-%D9%85%D8%A7-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A8%D8%BA%D9%8A-%D8%A3%D9%86-%D9%8A%D8%B9%D8%B1%D9%81%D9%87-%D8%A7%D9%84%D8%A2%D8%A8%D8%A7%D8%A1-%D9%88%D8%A7%D9%84%D8%A3%D9%85%D9%87%D8%A7%D8%AA/%D9%82%D8%B5%D8%B5\" style=\"text-decoration:none\"><span style=\"color:#1155cc\"><u>النشرة الأصلية</u></span></a><span style=\"color:#000000\"> الموجودة على الموقع الإلكتروني الرسمي للمنظمة. كما </span><a href=\"https://twitter.com/UNICEFmena/status/1234545045249888259\" style=\"text-decoration:none\"><span style=\"color:#1155cc\"><u>نفى</u></span></a><span style=\"color:#000000\"> الحساب الرسمي ليونيسف الشرق الأوسط وشمال إفريقيا في تغريدة له على موقع تويتر تلك المعلومات والنصائح الزائفة، وأكّد على ذلك في </span><a href=\"https://twitter.com/UNICEFmena/status/1234830729105854465\" style=\"text-decoration:none\"><span style=\"color:#1155cc\"><u>ردّه</u></span></a><span style=\"color:#000000\"> على مدير تحرير &quot;مسبار&quot; عبر موقع تويتر.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_d6rlmbcft.jpg\" style=\"height:588px; width:482px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_fdw13bmb6.jpg\" style=\"height:398px; width:473px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">إضافة إلى ما سبق، تأكّد &quot;مسبار&quot; من خلال خاصية Wayback Machine من أنَّ&nbsp;</span><a href=\"https://web.archive.org/web/20200302074302/https://www.unicef.org/ar/%D9%81%D9%8A%D8%B1%D9%88%D8%B3-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-%D9%85%D8%A7-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A8%D8%BA%D9%8A-%D8%A3%D9%86-%D9%8A%D8%B9%D8%B1%D9%81%D9%87-%D8%A7%D9%84%D8%A2%D8%A8%D8%A7%D8%A1-%D9%88%D8%A7%D9%84%D8%A3%D9%85%D9%87%D8%A7%D8%AA/%D9%82%D8%B5%D8%B5\" style=\"text-decoration:none\"><span style=\"color:#1155cc\"><u>النسخة الأولى</u></span></a><span style=\"color:#000000\"> المنشورة على الموقع الإلكتروني الرسمي ليونيسف&nbsp;لا تختلف عن النسخة الحالية، مما يؤكد زيف المعلومات والنصائح المتداولة.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_mm4hr9hk1.jpg\" style=\"height:783px; width:458px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "يونيسف",
+        "كورونا",
+        "كوفيد-19"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تناقلت مجموعة من المنصّات الإعلامية، والمواقع الإخبارية، وصفحات التواصل الاجتماعي، نشرة توعوية ادّعت أنّ مصدرها منظمة الأمم المتّحدة للطفولة (</span><a href=\"https://www.unicef.org/\">UNICEF</a><span style=\"color:#000000\">). احتوت النشرة على معلومات حول فايروس كورونا المستجد (كوفيد-19)، ونصائح للوقاية منه. وشملت المعلومات على سبيل المثال أنّ &quot;حجم قطر خلية الفايروس يبلغ 400 إلى 500 ولهذا فإنّ أيّ قناع يمنع دخولها&quot;، أو أنّ الفايروس يُقتَل في حال تعرّضه لدرجة حرارة 27 أو 26 درجة مئوية.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_29hax7rwj.jpg\" style=\"height:582px; width:482px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_a3nc4ctid.jpg\" style=\"height:588px; width:479px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_2i8fiipq0.jpg\" style=\"height:415px; width:510px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1583248640سيسيسيسيلل.jpg"
+    },
+    "post_date": "2020-03-03T16:15:00.000+03:00",
+    "published": [
+        {
+            "link": "http://alrai.com/article/10526184/",
+            "name": "جريدة الرأي",
+            "path": "published/0_1583245741_الرأي-لوغو1.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=195276278412638&id=100037908003379",
+            "name": "محمود نشوان",
+            "path": "published/1_1583245741_محمود نشوان-لوغو.jpg"
+        },
+        {
+            "link": "https://twitter.com/1njooud/status/1234805706630496256?s=21",
+            "name": "نجود",
+            "path": "published/2_1583245741_نجود-لوغو.jpg"
+        },
+        {
+            "link": "https://ida2at.org/news/2020/03/03/5929/unicef-%D9%86%D8%B4%D8%B1%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D9%8A%D9%88%D9%86%D9%8A%D8%B3%D9%8A%D9%81-%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA-%D9%87%D8%A7%D9%85%D8%A9-%D9%84%D9%84%D9%88%D9%82%D8%A7%D9%8A%D8%A9-%D9%85%D9%86-%D9%81%D8%A7%D9%8A%D8%B1%D9%88%D8%B3-%D9%83%D9%88%D9%81%D9%8A%D8%AF-19-",
+            "name": "إضاءات",
+            "path": "published/3_1583247885_إضاءات-لوغو.jpg"
+        },
+        {
+            "link": "https://www.arabiaweather.com/content/%D9%81%D8%A7%D9%8A%D8%B1%D9%88%D8%B3-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-%D9%88%D9%83%D9%8A%D9%81-%D9%86%D8%AA%D8%AC%D9%86%D8%A8-%D8%AE%D8%B7%D8%B1-%D8%A7%D9%84%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%A8%D9%87-%D8%9F",
+            "name": "طقس العرب",
+            "path": "published/4_1583247886_طقس العرب-لوغو.jpg"
+        },
+        {
+            "link": "http://www.jfranews.com.jo/more-259870-20-%D8%A7%D9%84%D9%8A%D9%88%D9%86%D9%8A%D8%B3%D9%81-%D8%AA%D9%88%D8%B6%D8%AD-%D9%86%D9%82%D8%A7%D8%B7-%D9%87%D8%A7%D9%85%D8%A9-%D8%AD%D9%88%D9%84-%D9%81%D8%A7%D9%8A%D8%B1%D9%88%D8%B3-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7..%D9%88%D8%AA%D9%82%D8%AF%D9%85-%D9%86%D8%B5%D8%A7%D8%A6%D8%AD-%D9%84%D9%84%D9%88%D9%82%D8%A7%D9%8A%D8%A9-%D9%85%D9%86%D9%87--%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84",
+            "name": "جفرا نيوز",
+            "path": "published/5_1583247886_جفرا نيوز-لوغو.jpg"
+        },
+        {
+            "link": "http://www.alanbatnews.net/article/index/273787",
+            "name": "الأنباط",
+            "path": "published/6_1583247886_الأنباط-لوغو.jpg"
+        },
+        {
+            "link": "https://twitter.com/sameerjsiht/status/1234589728260984835?s=21",
+            "name": "د. سامر إبراهيم",
+            "path": "published/7_1583247886_دكتور سامر إبراهيم-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/abbas.mh85/posts/3550638771629615",
+            "name": "عباس محي",
+            "path": "published/8_1583247886_عباس محي-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ThaqafaHawlEl3alam/posts/2608808719219689?__tn__=H-R",
+            "name": "ثقافة حول العالم",
+            "path": "published/9_1583247886_ثقافة حول العالم-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/630093041058959/permalink/635370337197896/",
+            "name": "أسامة صالح خواجا",
+            "path": "published/10_1583247886_أسامة صالح خواجا-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/surgerychirurgie/posts/215833226442207",
+            "name": "الجراحة",
+            "path": "published/11_1583247886_الجراحة-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/317291955516127/permalink/621760858402567/",
+            "name": "ختام أبو عطية",
+            "path": "published/12_1583247886_ختام أبو عطية-لوغو.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.unicef.org/ar/%D9%81%D9%8A%D8%B1%D9%88%D8%B3-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-%D9%85%D8%A7-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%86%D8%A8%D8%BA%D9%8A-%D8%A3%D9%86-%D9%8A%D8%B9%D8%B1%D9%81%D9%87-%D8%A7%D9%84%D8%A2%D8%A8%D8%A7%D8%A1-%D9%88%D8%A7%D9%84%D8%A3%D9%85%D9%87%D8%A7%D8%AA/%D9%82%D8%B5%D8%B5",
+            "name": "اليونيسف",
+            "path": "sources/0_1583245740_يونيسف-لوغو.jpg"
+        },
+        {
+            "link": "https://twitter.com/UNICEFmena/status/1234545045249888259",
+            "name": "يونيسف الشرق الأوسط وشمال إفريقيا",
+            "path": "sources/1_1583245740_يونيسف-لوغو.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "نشرة توعوية زائفة منسوبة إلى يونيسف",
+    "title": "لا صحة لنشرة يونيسف المتداولة حول الوقاية من كورونا",
+    "updated_at": "2020-09-25 19:48:09",
+    "url_path": "/factcheck/2020/03/03/لا-صحة-لنشرة-يونيسف-المتداولة-حول-الوقاية-من-كورونا"
+}

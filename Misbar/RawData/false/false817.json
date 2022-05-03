@@ -1,0 +1,109 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 2
+    },
+    "amount_sources": 0,
+    "amount_visits": 1536,
+    "author": {
+        "fullname": "خالد إسماعيل",
+        "id": "5e59256dd4a2295224257db3",
+        "photo": {
+            "name": "1582900589_صورة 2.jpg",
+            "path": "authors/1582900589_صورة 2.jpg"
+        }
+    },
+    "caption": "لم تنشر أيّ وسيلة إعلامية عربية أو عالمية مؤخراً أيّ حوار مع محمد صلاح (ويكيميديا)",
+    "category": "Sports",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">محمد صلاح يصرّح &quot;ما تفعله القيادة المصرية لمواجهة فايروس كورونا أروع من كل أهدافي&quot;.</span></p>\r\n",
+    "country": "EG",
+    "created_at": "2020-04-02 14:15:52",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e85c968db29161d275d1e73",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من الخبر المتداول وتبين أنه زائف، إذ لم تنشر أيّ وسيلة إعلامية عربية أو عالمية مؤخراً أيّ حوار مع محمد صلاح.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">ما يؤكد زيف هذا الادعاء، أنّ الحوار المزعوم يُعاد نشره في مناسبات وأزمنة مختلفة، مثلاً في عام 2018، ومع اختلاف السياق، زُعم أنّ صلاح أشاد في مقابلة إعلامية بما يقوم به الجيش والشرطة المصرية في محافظة سيناء للتصدي للإرهابيين.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_y1t6mhfpq.jpg\" style=\"height:775px; width:512px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "كورونا",
+        "كورونا مصر",
+        "محمد صلاح",
+        "ليفربول",
+        "المنتخب المصري",
+        "كرة القدم"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تداولت صفحات على مواقع التواصل الاجتماعي حواراً إعلامياً منسوباً لمحمد صلاح، لاعب فريق ليفربول الإنجليزي ومنتخب مصر، أشاد خلاله بإجراءات النظام المصري في مواجهة فايروس كورونا المستجد (كوفيد-19). وأكّد صلاح على استعداد القيادة المصرية للتضحية بنفسها من أجل شعبها، معبّراً عن حبّه للرئيس المصري عبد الفتاح السيسي. كما جاء في الحوار المتداول تبُّرع صلاح بمبلغ عشرين مليون دولار لصالح إجراءات مواجهة كوفيد-19 في مصر.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_6wlynusp8.jpg\" style=\"height:559px; width:518px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_cn08a22cc.jpg\" style=\"height:565px; width:529px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 357,
+        "left": -0.41668701171875,
+        "path": "articles/15858261511200px-Mo_Salah_2018.jpg",
+        "top": 27.7333984375,
+        "totalHeight": 423,
+        "totalWidth": 635,
+        "watermark_path": "articles/watermark-15858261511200px-Mo_Salah_2018.jpg",
+        "width": 634
+    },
+    "post_date": "2020-04-02T14:10:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=3372605356087998&set=p.3372605356087998&type=1&theater",
+            "name": "Omar hashish",
+            "path": "published/0_1585826150_Omar-Hashish-logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=525447445040646&set=pcb.525447578373966&type=3&theater",
+            "name": "هيثم صبحي سيف",
+            "path": "published/1_1585826150_هيثم-صبحي-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=2854492124626523&set=a.177258519016577&type=3&theater",
+            "name": "محمد الحسيني حسن",
+            "path": "published/2_1585826150_محمد-الحسيني-لوغو.jpg"
+        },
+        {
+            "link": "https://twitter.com/ElsayedElmando2/status/1244973029425328136 ",
+            "name": "السيد المندوه",
+            "path": "published/3_1585826150_السيد-المندوه-لوغو.jpg"
+        },
+        {
+            "link": "https://twitter.com/amal_yousef9/status/1245054795032989698",
+            "name": "EMMA",
+            "path": "published/4_1585826150_Emma-logo.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://sport.elwatannews.com/ar/1/1/701319/%D8%B4%D9%88%D8%A8%D9%8A%D8%B1-%D9%85%D8%AD%D9%85%D8%AF-%D8%B5%D9%84%D8%A7%D8%AD-%D9%84%D9%85-%D9%8A%D8%AA%D8%A8%D8%B1%D8%B9-%D8%A8-20-%D9%85%D9%84%D9%8A%D9%88%D9%86-%D8%AC%D9%86%D9%8A%D9%87-%D9%88%D9%84%D9%83%D9%86%D9%87-%D9%8A%D8%AC%D9%87%D8%B2-%D9%84%D8%AD%D9%85%D9%84%D8%A9-%D9%83%D8%A8%D8%B1%D9%89-%D8%B6%D8%AF-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7",
+            "name": " الوطن سبورت",
+            "path": "sources/0_1585826150_الوطن-سبورت-لوغو.jpg"
+        },
+        {
+            "link": "https://twitter.com/kh_aziz59/status/1240330332244713473 ",
+            "name": "خالد عبد العزيز",
+            "path": "sources/1_1585826150_خالد-عبدالعزيز-لوغو.jpg"
+        },
+        {
+            "link": "https://www.mirror.co.uk/sport/football/news/coronavirus-liverpool-confirms-training-plan-21688875",
+            "name": "Mirror",
+            "path": "sources/2_1585826150_Mirror-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "حوارٌ مزيّف حول رأي صلاح في إجراءات الحكومة المصرية لمواجهة كوفيد-19",
+    "title": "كورونا مصر: حوارٌ مزيّف منسوب لمحمد صلاح",
+    "updated_at": "2020-09-23 12:35:41",
+    "url_path": "/factcheck/2020/04/02/كورونا-مصر-حوار-مزيف-منسوب-لمحمد-صلاح"
+}

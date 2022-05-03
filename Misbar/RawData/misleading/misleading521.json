@@ -1,0 +1,119 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 127,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "الصورة من مقاطعة ناخون سوان التايلاندية (تويتر)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة جيش البط الصيني المكلف بمكافحة الجراد الباكستاني.</p>\r\n",
+    "country": "CN",
+    "created_at": "2020-10-11 13:20:12",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 3,
+    "id": "5f82dc5c58fa2d3268723f0b",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة المتداولة وتبين أنها مضللة وليست لجيش البط الصيني، بل لقطيع من البط يسير في مقاطعة ناخون سوان التايلاندية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"background-color:white\"><img alt=\"1.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_h9z742xwl.jpg\" style=\"height:240px; width:605px\" /></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">يذكر أن الحكومة الصينية اعتزمت إرسال 100 ألف بطة للمساهمة في القضاء على الملايين من الجراد الصحراوي الذي دمر المحاصيل الزراعية في باكستان، في فبراير/شباط الفائت. وطبقاً للخبراء الصينيين، تلتهم البطة الواحدة حوالي 200 من الجراد يومياً،&nbsp;ما يساهم في القضاء عليها في وقت قصير<span dir=\"LTR\">.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">واستبعدت جامعة الصين للزراعة هذا الحل للتعامل مع الجراد الباكستاني، وخَيّر&nbsp;الوفد الصيني المرسل إلى باكستان استخدام المبيدات الكيمياوية.</p>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"rtl\">جيش البط الصيني لمحاربة الجراد الباكستاني<a href=\"https://twitter.com/hashtag/%D8%A7%D9%84%D8%B5%D9%8A%D9%86?src=hash&amp;ref_src=twsrc%5Etfw\">#الصين</a> <a href=\"https://twitter.com/hashtag/%D8%A8%D8%A7%D9%83%D8%B3%D8%AA%D8%A7%D9%86?src=hash&amp;ref_src=twsrc%5Etfw\">#باكستان</a> <a href=\"https://t.co/sxTBPynyfU\">pic.twitter.com/sxTBPynyfU</a></p>\r\n&mdash; DW عربية (@dw_arabic) <a href=\"https://twitter.com/dw_arabic/status/1233144370746023937?ref_src=twsrc%5Etfw\">February 27, 2020</a></blockquote>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول مواقع إخبارية وحسابات على موقعي فيسبوك وتويتر، منذ فبراير/شباط الفائت، صورة تدّعي أنها لجيش البط الصيني المكلف بمحاربة&nbsp;الجراد الصحراوي الباكستاني.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"0.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_zh4hmp07r.jpg\" style=\"height:515px; width:504px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_esxgjemqs.jpg\" style=\"height:497px; width:604px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"00.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_rdt18zwch.jpg\" style=\"height:425px; width:600px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 406,
+        "left": 49.20001220703125,
+        "path": "articles/1602411612ERXBMWMXsAAOjxC.jpg",
+        "top": 9.300048828125,
+        "totalHeight": 423,
+        "totalWidth": 826,
+        "watermark_path": "articles/watermark-1602411612ERXBMWMXsAAOjxC.jpg",
+        "width": 722
+    },
+    "post_date": "2020-10-11T11:11:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/parlementkw/status/1231102503523160064?lang=da",
+            "name": "نراقبكم",
+            "origin": "twitter",
+            "path": "published/0_1602411611_9133496b870e7681d5e5dae04f91c9ff4d8d7634.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?id=555470847990930&story_fbid=1426410177563655",
+            "name": "سبق الإخبارية - Sabaq News",
+            "path": "published/1_1602411611_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/sufian19953/status/1258323715634364416",
+            "name": "‏ سفيانᏚᏫᎰᎥᎯ Ꮑ",
+            "origin": "twitter",
+            "path": "published/2_1602411611_3aeb181bbbd345cd6480a35b0303aec830d7cc35.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/Ramallah_Mix/status/1233113830248603651",
+            "name": "Ramallah Mix",
+            "origin": "twitter",
+            "path": "published/3_1602411611_c0f5546525ef2059b04e1f1953d85a93cbeca973.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://al-sharq.com/article/22/02/2020/%D8%A8%D8%AC%D9%8A%D8%B4-%D9%85%D9%86-%D8%A7%D9%84%D8%A8%D8%B7-%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D8%AA%D8%B3%D8%AA%D8%B9%D8%AF-%D9%84%D8%AE%D9%88%D8%B6-%D8%AD%D8%B1%D8%A8%D9%87%D8%A7-%D9%85%D8%B9-%D8%A7%D9%84%D8%AC%D8%B1%D8%A7%D8%AF",
+            "name": "جريدة الشرق",
+            "path": "published/4_1602411611_d8b067e52c7f688d4d369ce93c34a626e2984a0b.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://stock.adobe.com/fr/155488474?as_campaign=TinEye&as_content=tineye_match&epi1=155488474&tduid=fe696dc9226dd0a7d819ac04238a4994&as_channel=affiliate&as_campclass=redirect&as_source=arvato",
+            "name": "Adobe Stock",
+            "path": "sources/0_1602411612_13a4bb5cc43b5f04be4eec26c4cd8411d08ff8fe.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/dw_arabic/status/1233144370746023937",
+            "name": "DW عربية",
+            "origin": "twitter",
+            "path": "sources/1_1602411612_a746a9583393bb7a0f53beedfa6092a4dbf90f97.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.insidehook.com/daily_brief/science/china-enlists-ducks-eating-locusts",
+            "name": "InsideHook",
+            "path": "sources/2_1602411612_af2a391670c754e3e0c18f57a567b2a7d58c7ba1.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الصورة ليست لجيش البط الصيني في طريقه لمواجهة الجراد",
+    "updated_at": "2020-10-11 13:37:08",
+    "url_path": "/factcheck/2020/10/11/الصورة-ليست-لجيش-البط-الصيني-في-طريقه-لمواجهة-الجراد",
+    "was_notification_pushed": "true"
+}

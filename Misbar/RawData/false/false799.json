@@ -1,0 +1,114 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2293,
+    "author": {
+        "fullname": "حسام الوكيل",
+        "id": "5e7cb2a9d4a2297a3f1db883",
+        "photo": {
+            "name": "1585230505_1hGLjIBq_400x400.jpg",
+            "path": "authors/1585230505_1hGLjIBq_400x400.jpg"
+        }
+    },
+    "caption": "نفت النيابة العامة الكويتية خبر سجن البغيلي (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\"><span style=\"color:black\">النيابة الكويتيّة تحتجز الصحفي مبارك البغيلي لمدة 15 يوماً على ذمّة التحقيق بتهمة الإساءة إلى مصر.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-04-13 11:40:55",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e942597db2916273e6aaa14",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">الخبر زائف، إذ تحقّق &quot;مسبار&quot; من الخبر ووجد تصريحاً لمصدرٍ مسؤولٍ في النيابة العامة الكويتيّة على موقع صحيفة الأنباء الكويتيّة ينفي صحّة خبر سجن شخص كويتيّ لمدّة 15 يوماً&nbsp;بتهمة الإساءة لإحدى الدول العربيّة، كما نشر الصحفي مبارك البغيلي في حسابه على موقع تويتر تغريدةً تنفي الخبر وتنتقد المواقع والصحف المصريّة التي روّجت له.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"color:black\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_ldbwx97or.jpg\" style=\"height:307px; width:642px\" /></span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:black\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_l13ux175i.jpg\" style=\"height:903px; width:555px\" /></span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:black\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_650vpkp40.jpg\" style=\"height:429px; width:600px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": false,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تداولت مواقع التواصل الاجتماعي، وأخرى إخبارية&nbsp;بتاريخ 11 ابريل/ نيسان الجاري،&nbsp;خبراً عن سجن الصحفي الكويتيّ مبارك البغيلي لمدّة 15 يوماً على ذمة التحقيق بتهمة الإساءة إلى الدولة المصرية خلال تغريداتٍ له على موقع تويتر. ونشر موقع صحيفة اليوم السابع المصريّة صورةً لمنشورٍ نُسب إلى النيابة العامة الكويتيّة عن احتجاز البغيلي.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"color:black\"><img src=\"https://images-prod.misbar.com/articlebody/origin_sxy9i63hb.jpg\" style=\"height:740px; width:533px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"color:black\"><img src=\"https://images-prod.misbar.com/articlebody/origin_slhfept0x.jpg\" style=\"height:542px; width:540px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"color:black\"><img src=\"https://images-prod.misbar.com/articlebody/origin_6ze9psc8q.jpg\" style=\"height:758px; width:556px\" /></span></p>\r\n\r\n<div style=\"page-break-after:always\"><span style=\"display:none\">&nbsp;</span></div>\r\n\r\n<p><img src=\"https://images-prod.misbar.com/articlebody/origin_ch6jpiga6.jpg\" style=\"height:682px; width:591px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 128,
+        "left": 1.18939208984375,
+        "path": "articles/1586767254GettyImages-101686099.jpg",
+        "top": 2.86767578125,
+        "totalHeight": 178,
+        "totalWidth": 309,
+        "watermark_path": "articles/watermark-1586767254GettyImages-101686099.jpg",
+        "width": 228
+    },
+    "post_date": "2020-04-13T11:34:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.youtube.com/watch?v=496AjY5i__U",
+            "name": "صدى البلد - Sada Elbalad",
+            "path": "published/0_1586767254_صدى البلد- لوغو.jpg"
+        },
+        {
+            "link": "https://www.youm7.com/story/2020/4/11/النيابة-العامة-بالكويت-تحتجز-مبارك-البغيلى-15-يومًا-بتهمة-الإساءة/4720188",
+            "name": "اليوم السابع",
+            "path": "published/1_1586767526_اليوم السابع-لوغو.jpg"
+        },
+        {
+            "link": "https://arabic.rt.com/middle_east/1103202-النيابة-العامة-الكويتية-تقرر-حبس-الصحفي-مبارك-البغيلي-بتهمة-الإساءة-لمصر/",
+            "name": "RT online",
+            "path": "published/2_1586767526_روسيا اليوم لوغو.jpg"
+        },
+        {
+            "link": "",
+            "name": "",
+            "path": ""
+        },
+        {
+            "link": "https://www.albawabhnews.com/3974572",
+            "name": "البوابة",
+            "path": "published/4_1586767526_البوابة نيوز - logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/FFF_1616pPp/status/1249061298656153601?s=20",
+            "name": "Afaf Abdelwahab",
+            "path": "published/5_1586767526_Afaf Abdelwahab.jpg"
+        },
+        {
+            "link": "https://twitter.com/medoesmaeil/status/1249070207232086022?s=20",
+            "name": "الصقر المصري",
+            "path": "published/6_1586767526_الصقر المصري.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.alanba.com.kw/ar/kuwait-news/incidents-issues/961610/12-04-2020-مصدر-بالنيابة-العامة-ينفي-صحة-بيان-انتشر-وسائل-التواصل-غير-صحيح-حبس-أحد-المغردين-يوما-بتهمة-الإساءة-إلى-دولة-شقيقة/",
+            "name": "الأنباء",
+            "path": "sources/0_1586767526_الأنباء الكويتية لوغو.jpg"
+        },
+        {
+            "link": "https://twitter.com/M__albugaily/status/1249384398283321346?s=20",
+            "name": "مبارك البغيلي",
+            "path": "sources/1_1586767527_مبارك البغيلي.jpg"
+        },
+        {
+            "link": "https://www.almasryalyoum.com/news/details/1937052",
+            "name": "المصري اليوم",
+            "path": "sources/2_1586767527_المصري اليوم لوغو.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "سجن صحفي كويتيّ  بتهمة الإساءة إلى مصر.. خبر زائف",
+    "updated_at": "2020-09-25 20:30:15",
+    "url_path": "/factcheck/2020/04/13/سجن-الصحفي-الكويتي-مبارك-البغيلي-بتهمة-الإساءة-لمصر-خبر-زائف"
+}

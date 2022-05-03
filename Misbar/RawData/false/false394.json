@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2856,
+    "author": {
+        "fullname": "جهاد جمال",
+        "id": "5f2149e9163be3072c377619",
+        "photo": {
+            "name": "1596017128_50.jpg",
+            "path": "authors/1596017128_50.jpg"
+        }
+    },
+    "caption": "الفيديو يوثّق إصابة دارين العيّاش في منطقة الأشرفية (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">فيديو لوفاة زوجة السفير الهولندي في لبنان لحظة انفجار مرفأ بيروت.</p>\r\n",
+    "country": "LB",
+    "created_at": "2020-08-10 10:18:07",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f30f4af1dd58507a84ee181",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الفيديو المتداول وتبيّن أنّه&nbsp;ليس لزوجة السفير الهولندي؛&nbsp;فهذه معلومة زائفة انتشرت كتعليق على المقطع، إذ أنّ&nbsp;المرأة في الفيديو هي طبيبة لبنانية تُدعى دارين العياش، ولا تزال على قيد الحياة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وتواصل &quot;مسبار&quot; مع شقيق دارين، عامر العياش، والّذي أكّد أنه تم التقاط الفيديو في سكن الطلّاب <span dir=\"LTR\">Saint Dimitrious Dorms</span> في منطقة الأشرفية. كما ونشر عمها، أجود العياش، على حسابه في موقع فيسبوك، صورة تجمعه بابنة أخيه دارين بعد الإصابة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_8ha20kw24.jpg\" style=\"height:926px; width:540px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">انتشر على موقع التواصل الاجتماعي فيسبوك، أمس الموافق 9 أغسطس/آب الجاري،&nbsp;مقطعاً مصوّراً، ادّعى ناشروه أنّه يوثّق وفاة زوجة السفير الهولندي لحظة الانفجار في مرفأ بيروت بتاريخ 4 أغسطس/آب الجاري.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/e3-UMXChJqc\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 126,
+        "left": 37.231536865234375,
+        "path": "articles/1597043887الصورة الرئيسية.jpg",
+        "top": 12.44970703125,
+        "totalHeight": 141,
+        "totalWidth": 270,
+        "watermark_path": "articles/watermark-1597043887الصورة الرئيسية.jpg",
+        "width": 223
+    },
+    "post_date": "2020-08-10T10:13:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/278847558797035/videos/885923795231587/",
+            "name": "صدى البلد ",
+            "path": "published/0_1597043886_صدى البلد.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/107704214169784/videos/310384170014290/",
+            "name": "El-Djazair daily",
+            "path": "published/1_1597043887_eldjazair.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/1632748367040541/posts/2620434764938558/",
+            "name": "دامبي ",
+            "path": "published/2_1597043887_dambi.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/1019431124878373/videos/307646727124098/",
+            "name": "وتر سوري ",
+            "path": "published/3_1597043887_وتر سوري.jpg"
+        },
+        {
+            "link": "https://youtu.be/e3-UMXChJqc",
+            "name": "safiralchamal lebanon ",
+            "path": "published/4_1597043887_سفير الشمال.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=3366417816731415&id=100000896896656",
+            "name": "Ajwad Al Ayash",
+            "path": "sources/0_1597043887_اجود العياش.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/595691403864433/videos/3319231184969044/",
+            "name": "Fr. Elie Khneisser - Daily weather PRO ",
+            "path": "sources/1_1597043887_weather pro.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذا الفيديو لا يوثّق وفاة زوجة السفير الهولندي في لبنان",
+    "updated_at": "2020-09-25 14:19:35",
+    "url_path": "/factcheck/2020/08/10/هذا-الفيديو-لا-يوثق-وفاة-زوجة-السفير-الهولندي-في-لبنان"
+}

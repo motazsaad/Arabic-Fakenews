@@ -1,0 +1,128 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 47666,
+    "author": {
+        "fullname": "مريم هواري",
+        "id": "5e299460d4a22939983a3ec5",
+        "photo": {
+            "path": "authors/1579791192_Maryam.jpg"
+        }
+    },
+    "caption": "حتى الآن لا توجد أدلّة على وجود اختلاف متعلّق بخطورة الفايروس (Getty)",
+    "category": "Health",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">صرّح الطبيب الإيطالي، ألبرتو زانغريلو، إن فايروس كورونا المستجد بدأ يفقد قوّته وأصبح أقل فتكاً.</p>\r\n",
+    "country": "",
+    "created_at": "2020-06-12 16:59:51",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ee38a57d6e4a976fe53a804",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الادعاء ووجد أنه زائف. إذ <a href=\"https://www.youtube.com/watch?v=1qA52PUi_KY\"><span style=\"color:#e74c3c\">عقّب </span></a>المدير التنفيذي لبرنامج الطوارئ التابع لمنظمة الصحّة العالمية، د. رايان مايكل على الادعاءات المتداولة، بتاريخ 1 يونيو/حزيران الجاري،&nbsp;وأكّد أن فايروس كورونا لا يزال قاتلاً، وبالتالي يتوجّب الحذر في تداول هذه المعلومات. <a href=\"https://www.youtube.com/watch?v=1qA52PUi_KY\"><span style=\"color:#e74c3c\">وأشارت</span></a> رئيسة وحدة الأمراض المستجدة في منظمة الصحّة العالمية، د. ماريا فان كيرخوف، إلى أن تجاهل الفايروس بدون فرض إجراءات للحد من انتقاله، بإمكانه أن يُصيب حوالي 20% من البشر، فإن الفايروس لم يتغيّر من ناحية قابلية انتقاله أو خطورته. ونشرت وكالة رويترز بتاريخ 1 يونيو/حزيران الجاري، تصريحاً لخبير الأمراض المعدية في مدرسة لندن للصحة، البروفسور&nbsp;مارتن هيبرد، أنه حتى الآن لا توجد أدلّة على وجود اختلاف متعلّق بخطورة الفايروس.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/1qA52PUi_KY?start=1813\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_vydp22z55.jpg\" style=\"height:391px; width:623px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_1yadtb8qx.jpg\" style=\"height:569px; width:624px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت عدّة وكالات إخبارية وصفحات على مواقع التواصل الاجتماعي فيسبوك وتويتر بتاريخ 1 يونيو/حزيران الجاري، <a href=\"http://www.reuters.com/article/us-health-coronavirus-italy-virus/new-coronavirus-losing-potency-top-italian-doctor-says-idUSKBN2370OQ\"><span style=\"color:#e74c3c\">تصريحاً</span></a>&nbsp;للطبيب الإيطالي، ألبرتو زانغريلو، أن فايروس كورونا بدأ يفقد قوّته وأصبح أقل فتكاً، وأنه لم يعُد موجود إكلينيكياً في إيطاليا.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ftmrwtvor.jpg\" style=\"height:541px; width:557px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_sts930xm9.jpg\" style=\"height:644px; width:560px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_bdipsi2wx.jpg\" style=\"height:437px; width:418px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_pci5nxq75.jpg\" style=\"height:680px; width:416px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 136,
+        "left": -1.085479736328125,
+        "path": "articles/1591970390GettyImages-1214359497.jpg",
+        "top": 49.465576171875,
+        "totalHeight": 190,
+        "totalWidth": 242,
+        "watermark_path": "articles/watermark-1591970390GettyImages-1214359497.jpg",
+        "width": 242
+    },
+    "post_date": "2020-06-12T16:50:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/mufeed_AR/status/1267332238011752448",
+            "name": "مُـ ـفـ ـيـ ـد",
+            "path": "published/0_1591970389_مفيد.jpg"
+        },
+        {
+            "link": "https://twitter.com/Alajmi_3amer/status/1267388637555175430",
+            "name": "عامر العجمي",
+            "path": "published/1_1591970389_عامر العجمي.jpg"
+        },
+        {
+            "link": "https://twitter.com/AlArabiya/status/1267203319392612353",
+            "name": "ا لـ ـعـ ـر بـ ـيـ ـة",
+            "path": "published/2_1591970389_العربية.jpg"
+        },
+        {
+            "link": "https://twitter.com/magharibipress/status/1267659439512977409",
+            "name": "Maghribipress",
+            "path": "published/3_1591970389_maghribipress.jpg"
+        },
+        {
+            "link": "https://twitter.com/SaadaahNews/status/1267421600590245888",
+            "name": "SaadaahNews - سعادة نيوز",
+            "path": "published/4_1591970389_سعادة نيوز.jpg"
+        },
+        {
+            "link": "https://twitter.com/Nawaf_alobisan/status/1267426557964046336",
+            "name": "د.نواف فلاح العبيسان",
+            "path": "published/5_1591970389_نواف فلاح.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/RoyaNews/posts/4043998412339346",
+            "name": "Roya News - رؤيا الإخباري",
+            "path": "published/6_1591970389_رؤيا.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/amine.elyaagoubi.319/posts/1491808467689090",
+            "name": "Amine El Yaagoubi",
+            "path": "published/7_1591970389_امين اليعقوبي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/201409297440391/permalink/618934142354569/",
+            "name": "Sansousa Sanae",
+            "path": "published/8_1591970389_sansousa.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=292912582100885&id=100041464372814",
+            "name": "شرقاوة العالم",
+            "path": "published/9_1591970390_شرقاوة العالم.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=1qA52PUi_KY",
+            "name": "منظمة الصحة العالمية",
+            "path": "sources/0_1591970390_منظمة-الصحة-العالمية-تويتر.jpg"
+        },
+        {
+            "link": "https://uk.reuters.com/article/uk-health-coronavirus-who-transmission/who-and-other-experts-say-no-evidence-of-covid-19-losing-potency-idUKKBN23837C",
+            "name": "REUTERS",
+            "path": "sources/1_1591970390_رويترز.jpg"
+        },
+        {
+            "link": "https://www.cnbc.com/2020/06/01/who-says-coronavirus-isnt-losing-potency-this-is-still-a-killer-virus.html",
+            "name": "CNBC",
+            "path": "sources/2_1591970390_cnbc.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "فايروس كورونا فقد قوته وأصبح أقل فتكاً.. ادعاء زائف",
+    "updated_at": "2020-09-25 10:42:03",
+    "url_path": "/factcheck/2020/06/12/فايروس-كورونا-فقد-قوته-وأصبح-أقل-فتكا-ادعاء-زائف"
+}

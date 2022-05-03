@@ -1,0 +1,104 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1878,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "لا تزال أميركا تسجل أعداداً كبيرة يومياً مصابة بفايروس كورونا (تويتر)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">صورة تحت عنوان &quot;الربيع الأميركي الشعب يثور ضد ترامب، السؤال الذي يتبادر للعقول أين ذهبت كورونا&quot;.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-06-12 10:36:27",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ee3307bd6e4a92c664be8a4",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; الخبر وتبين أن الادعاء مضلل. إذ&nbsp;<a href=\"http://www.radiotunisienne.tn/2018/03/24/%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D9%85%D8%B3%D9%8A%D8%B1%D8%A9-%D9%83%D8%A8%D8%B1%D9%89-%D9%88%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%AC%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B9%D9%86%D9%81/\" style=\"color:#0563c1; text-decoration:underline\">تعود</a>&nbsp;الصورة لتجمع مئات الآلاف من الأشخاص في العاصمة الأميركية واشنطن في مارس/آذار 2018، معظمهم من الشباب، في مسيرة بعنوان &quot;من أجل حياتنا&quot;، للاحتجاج على العنف المسلح في البلاد. ولا علاقة لها بالاحتجاجات الأميركية الحالية. </span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">ولا تزال <a href=\"https://www.aa.com.tr/ar/%D8%AF%D9%88%D9%84%D9%8A/%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D9%88%D9%81%D9%8A%D8%A7%D8%AA-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-%D8%AA%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-115-%D8%A3%D9%84%D9%81%D9%8B%D8%A7/1873692\" style=\"color:#0563c1; text-decoration:underline\">أميركا</a> تسجل أعداداً كبيرة يومياً مصابة بفايروس كورونا المستجد، وبلغ إجمالي عدد الإصابات أمس مليونين و68 ألفاً و139، وارتفع عدد الوفيات إلى 115 ألفاً و166، بعد تسجيل 977 وفاة خلال الـ 24 ساعة الفائتة.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_a4di2grys.jpg\" style=\"height:434px; width:623px\" /></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_p3lzt6xn4.jpg\" style=\"height:482px; width:624px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">يتداول مستخدمون لمواقع التواصل الاجتماعي منذ الأول من شهر يونيو/حزيران الجاري، صورة نسبوها للاحتجاجات الأميركية الجارية حالياً والتي اندلعت عقب مقتل الأميركي جورج فلويد. ونشرت تحت عنوان &quot;الربيع الأميركي الشعب يثور ضد ترامب، السؤال الذي يتبادر للعقول أين ذهبت كورونا&quot;.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_aoeoduqgq.jpg\" style=\"height:478px; width:461px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_e3b8qezxx.jpg\" style=\"height:502px; width:466px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 422,
+        "left": 0.29010009765625,
+        "path": "articles/1591947387DZIhifjVMAA3qj-.jpg",
+        "top": 0,
+        "totalHeight": 563,
+        "totalWidth": 751,
+        "watermark_path": "articles/watermark-1591947387DZIhifjVMAA3qj-.jpg",
+        "width": 750
+    },
+    "post_date": "2020-06-12T10:33:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/Tunisia.today00/photos/a.118429096185743/279381016757216/?type=3&theater",
+            "name": "Le monde arabe العالم العربي",
+            "path": "published/0_1591947386_Le monde arabe العالم العربي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Tounsi.M9awed/photos/a.2005361092818870/3093229777365324/?type=3&theater",
+            "name": "تونسي مقود",
+            "path": "published/1_1591947471_تونسي مقود.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/208782443660405/permalink/260163245188991/",
+            "name": "Walid Stambouli",
+            "path": "published/2_1591947471_Walid Waloudi.jpg"
+        },
+        {
+            "link": "https://twitter.com/marwahshmar/status/1267950331922694151",
+            "name": "مروووة بنت الطنايا",
+            "path": "published/3_1591947471_مروووة بنت الطنايا.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=125452905830127&set=a.113919073650177&type=3",
+            "name": "Walid Waloudi",
+            "path": "published/4_1591947471_Walid Waloudi.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "http://www.radiotunisienne.tn/2018/03/24/%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D9%85%D8%B3%D9%8A%D8%B1%D8%A9-%D9%83%D8%A8%D8%B1%D9%89-%D9%88%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%AC%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B9%D9%86%D9%81/",
+            "name": "بوابة الإذاعة التونسية",
+            "path": "sources/0_1591947387_بوابة الإذاعة التونسية.jpg"
+        },
+        {
+            "link": "https://www.aa.com.tr/ar/%D8%AF%D9%88%D9%84%D9%8A/%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D9%88%D9%81%D9%8A%D8%A7%D8%AA-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-%D8%AA%D8%AA%D8%AC%D8%A7%D9%88%D8%B2-115-%D8%A3%D9%84%D9%81%D9%8B%D8%A7/1873692",
+            "name": "ANADOLU",
+            "path": "sources/1_1591947387_ANADOLU.jpg"
+        },
+        {
+            "link": "https://twitter.com/manmademoon/status/977880955590356992?lang=ar",
+            "name": "Duncan Jones",
+            "path": "sources/2_1591947387_Duncan Jones.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "\"الشعب يثور ضد ترامب وأين ذهبت كورونا\".. حقيقة الصورة",
+    "updated_at": "2020-09-24 23:06:06",
+    "url_path": "/factcheck/2020/06/12/الشعب-يثور-ضد-ترامب-وأين-ذهبت-كورونا-حقيقة-الصورة"
+}

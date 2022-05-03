@@ -1,0 +1,109 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2655,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "التقطت الصورة عام 2008 في قطاع غزة (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">صورة إسماعيل هنية في أحد فنادق اسطنبول مع الصهيونية كارمن لبعاف سكرتير أول في سفارة اسرائيل</span> في تركيا.</p>\r\n",
+    "country": "PS",
+    "created_at": "2020-09-15 15:01:51",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 4,
+    "id": "5f60ad2f7b27a414ca1ad552",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">الادعاء مضلل، إذ أن الصورة جمعت رئيس المكتب السياسي لحركة حماس مع الصحفية البريطانية </span><span style=\"background-color:white\">لورين بوث، الأخت غير الشقيقة لزوجة رئيس الوزراء البريطاني الأسبق توني بلير</span> خلال زيارتها لغزة <span style=\"background-color:white\">مع 44 ناشطاً، للاحتجاج على الحصار الإسرائيلي</span> للقطاع عام 2008. والتقطت الصور إثر المؤتمر الصحفي الذي عقد في فندق الديرا.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">يذكر أن بوث أعلنت اعتناقها للإسلام عام 2010.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:black\"><img alt=\"4.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_4gvl7vga0.jpg\" style=\"height:553px; width:605px\" /></span></span></span></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت حسابات على موقع تويتر حديثاً ومنذ سنوات، صورة تدّعي أنها لرئيس المكتب السياسي لحركة حماس إسماعيل هنية <span style=\"background-color:white\">مع كارمن لبعاف سكرتير أول في سفارة اسرائيل</span> في تركيا.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:#14171a\"><img alt=\"00.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_x5mzl7id6.jpg\" style=\"height:435px; width:593px\" /></span></span></span><br />\r\n<span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:#14171a\"><img alt=\"0.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_cwt23niu6.jpg\" style=\"height:448px; width:597px\" /></span></span></span><br />\r\n<span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:#14171a\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_39qmfmebu.jpg\" style=\"height:466px; width:597px\" /></span></span></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 358,
+        "left": 10.1715087890625,
+        "path": "articles/1600171310GettyImages-82553996.jpg",
+        "top": 11.721435546875,
+        "totalHeight": 423,
+        "totalWidth": 653,
+        "watermark_path": "articles/watermark-1600171310GettyImages-82553996.jpg",
+        "width": 636
+    },
+    "post_date": "2020-09-15T12:52:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/ksa_number2030/status/1266425170924908546/photo/2",
+            "name": " السعودية بالأرقام",
+            "path": "published/0_1600171309_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/H21Qatar/status/940011431751245829",
+            "name": "قطر أصيلة",
+            "path": "published/1_1600171833_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/drmohamadalhdla/status/940239533471420416",
+            "name": "DR.Mohamad ALHdla",
+            "path": "published/2_1600171833_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/lebanese1_2020/status/1303218369626279936/photo/1",
+            "name": "ويكيليكس لبنان",
+            "path": "published/3_1600171833_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/Azizksa1001/status/945104339269545984",
+            "name": "Azizksa100",
+            "path": "published/4_1600171833_101195326_747056042707733_6451845424750788608_o.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.gettyimages.ae/detail/news-photo/british-journalist-and-activist-lauren-booth-sister-in-law-news-photo/82553996?adppopup=true",
+            "name": "gettyimages",
+            "path": "sources/0_1600171879_images.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://arabic.cnn.com/world/2014/09/09/commentary-booth-muslims",
+            "name": "arabic.cnn",
+            "path": "sources/1_1600171879_dGu7VtuB.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الصورة للصحفية البريطانية لورين بوث وليست لمسؤولة إسرائيلية مع إسماعيل هنيّة",
+    "updated_at": "2020-09-25 20:21:22",
+    "url_path": "/factcheck/2020/09/15/الصورة-للصحفية-البريطانية-لورين-بوث-وليست-لمسؤولة-إسرائيلية-مع-إسماعيل-هنية",
+    "was_notification_pushed": "true"
+}

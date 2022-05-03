@@ -1,0 +1,90 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 845,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "category": "Politics",
+    "claim": "<p>قالت المستشارة الألمانية أنغيلا ميركل إنّ المسلمين&nbsp;لديهم ربٌّ واحد وكتابٌّ واحد ونبيٌّ واحد... ولكنّ شوارعهم تلوّنت بالأحمر من دمائهم.&nbsp;</p>\r\n",
+    "country": "DE",
+    "created_at": "2019-10-21 11:40:18",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5dad6ef2be494b3f6162b7c6",
+    "investigation": "<p>التصريحات المنسوبة إلى المستشارة الألمانية غير صحيحةٍ على الإطلاق، ولم نجد أيّ إشارةٍ على صدق ما أوردته هذه المواقع والصفحات بخصوص تلك المقارنة المزعومة التي أجرتها ميركل بين الهنود والصينيين من جهة، والمسلمين من جهةٍ ثانية.</p>\r\n\r\n<p>وفي سياق مواقفها من الإسلام والمسلمين، كانت أنغيلا ميركل قد ردّتْ على تصريح وزير الداخلية الألماني هورست زيهوفر، الذي اعتبر فيه &quot;إنّ الإسلام لا ينتمي لألمانيا صاحبة التقاليد المسحية الراسخة&quot;، بالقول: &quot;إنّ نحو 4.6 مليون مسلم يعيشون في ألمانيا، ويُعَدّون جزءاً منها، وكذلك دينهم الإسلام بات جزءاً من ألمانيا&quot;.</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p>تنتشرُ على بعض المواقع الالكترونية، وعلى موقعيّ التواصل الاجتماعي فيسبوك وتويتر منذ حوالي ثلاث سنوات، تصريحاتٌ منسوبةٌ إلى المستشارة الألمانية أنغيلا ميركل، تقول فيها &quot;الصين والهند لديهم أكثر من 150 رب و800 عقيدة مختلفة ويعشون بسلام مع بعض، بينما المسلمون لديهم رب واحد وكتاب واحد ونبي واحد... ولكن شوارعهم تلونت بالأحمر من دمائهم... القاتل يصرخ الله أكبر والمقتول يصرخ الله أكبر&quot;.&nbsp;</p>\r\n\r\n<p>وعلى حسابه على فيسبوك نشرَ جابر جاد نصّار، الرئيس الأسبق لجامعة القاهرة، التصريحات المنسوبة للمستشارة الألمانية، متسائلاً &quot;هل يعي العرب والمسلمون ما قالته أنغيلا ميركل المستشارة الألمانية في القمة الحكومية في دبي؟&quot;.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><img src=\"https://images-prod.misbar.com/articlebody/origin_5a7d2ba8ea420518f89abeb33147da9d.jpg\" /></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><img src=\"https://images-prod.misbar.com/articlebody/origin_7b407a4614ec7ac997f5254b55042f13.jpg\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1573031057GettyImages-1146788744.jpg"
+    },
+    "post_date": "2018-09-10T11:27:00.000+03:00",
+    "published": [
+        {
+            "link": "http://www.rougemagz.com/2016/03/31/%D8%B1%D8%A7%D8%BA%D8%A8-%D8%B9%D9%84%D8%A7%D9%85%D8%A9-%D9%84%D8%AF%D9%8A%D9%86%D8%A7-%D8%B1%D8%A8-%D9%88%D8%A7%D8%AD%D8%AF-%D9%88%D9%86%D8%A8%D9%8A-%D9%88%D8%A7%D8%AD%D8%AF/",
+            "name": "مجلة روج",
+            "path": "published/0_1571647218_مجلة روج-لوغو.jpg"
+        },
+        {
+            "link": "https://www.elbalad.news/1972488",
+            "name": "صدى البلد",
+            "path": "published/1_1571647218_صدى البلد- لوغو.jpg"
+        },
+        {
+            "link": "https://alarab.co.uk/%D9%87%D8%A7%D8%B4%D8%AA%D8%A7%D8%BA-%D8%A7%D9%84%D9%8A%D9%88%D9%85-%D9%82%D8%AA%D9%84-%D8%A8%D8%A7%D8%B3%D9%85-%D8%A7%D9%84%D8%AF%D9%8A%D9%86-%D9%81%D9%8A-%D9%84%D8%A8%D9%86%D8%A7%D9%86",
+            "name": "العرب",
+            "path": "published/2_1571647218_العرب-لوغو.jpg"
+        },
+        {
+            "link": "https://www.omandaily.om/?p=570639",
+            "name": "جريدة عُمان",
+            "path": "published/3_1571647218_جريدة عمان-لوغو.jpg"
+        },
+        {
+            "link": "https://alwafd.news/essay/26511",
+            "name": "بوابة الوفد الالكترونية",
+            "path": "published/4_1571647218_الوفد-لوغو.jpg"
+        },
+        {
+            "link": "http://www.eltwhed.com/vb/showthread.php?61349-%C3%87%C3%A4%C3%8C%C3%AD%C3%A1%C3%87-%C3%A3%C3%AD%C3%91%C3%9F%C3%A1-%C3%8A%C3%93%C3%8E%C3%91-%C3%A3%C3%A4-%C3%87%C3%A1%C3%A3%C3%93%C3%A1%C3%A3%C3%AD%C3%A4-%C3%87%C3%A1%C3%AD%C3%A6%C3%A3-%C3%A6%C3%8A%C3%9E%EF%BF%A6%EF%BF%A1",
+            "name": "منتدى التوحيد",
+            "path": "published/5_1571647218_منتدى التوحيد-لوغو.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.ap.org/en-gb/",
+            "name": "أسوشييتد برس",
+            "path": "sources/0_1571647218_AP-Logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ما حقيقة تصريحات ميركل حول المسلمين؟",
+    "updated_at": "2020-09-23 12:40:46",
+    "url_path": "/factcheck/2019/10/21/ما-حقيقة-تصريحات-ميركل-حول-المسلمين"
+}

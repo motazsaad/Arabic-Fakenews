@@ -1,0 +1,180 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 337,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "caption": "الصورة لا تعود إلى شخص تم تصويره في مدينة عجلون الأردنية (فيسبوك)",
+    "category": "Entertainment",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">ظهور شخص في أحراش عجلون يدعي أنه طرزان.</p>\r\n",
+    "country": "JO",
+    "created_at": "2020-11-01 19:34:14",
+    "created_by": "5f39b1ee1dd5850789476b61",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 2,
+    "feedback_pos": 6,
+    "id": "5f9ee3867cd5a22bf425d589",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقق &quot;مسبار&quot; من الصور المتداولة وتبين أنَّ الخبر زائف، إذ أنَّ الصورة لا تعود إلى شخص تم تصويره في مدينة عجلون الأردنية. وإنما تم نشرها منتصف تشرين الأول<span dir=\"LTR\">/</span>أكتوبر الفائت، وتعود لجلسة تصوير قام بها مصور كردي يُدعى محمد عبد الله من منطقة بردرش في محافظة نينوى العراقية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_fncdmwc6r.jpg\" style=\"height:787px; width:512px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">اقرأ/ي أيضاً</p>\r\n\r\n<p><a href=\"https://misbar.com/factcheck/2020/10/17/%D9%84%D9%85-%D8%AA%D9%86%D8%AE%D9%81%D8%B6-%D9%86%D8%B3%D8%A8%D8%A9-%D9%86%D9%82%D8%B5-%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%86%D8%B5%D9%81\" target=\"_blank\">لم تنخفض نسبة نقص التغذية في الأردن إلى النصف</a></p>\r\n\r\n<p><a href=\"https://misbar.com/factcheck/2020/10/25/%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%82%D8%AF%D9%8A%D9%85-%D9%88%D9%84%D8%A7-%D8%B9%D9%84%D8%A7%D9%82%D8%A9-%D9%84%D9%87-%D8%A8%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%A8%D9%84%D8%B7%D8%AC%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86\" target=\"_blank\">فيديو قديم ولا علاقة له بالقبض على مطلوبين في الأردن</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [
+        "test"
+    ],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت حسابات ومواقع أردنية وعربية، اليوم الأحد، صورة لشخص يلبس لباساً بدائيًّا، وادعت أنه لشخص في أحراش عجلون يُصور نفسه على أنه &quot;طرزان&quot;، وأطلقوا عليه لقب &quot;طرزان الأردن&quot; و&quot;طرزان عجلون&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><img src=\"https://images-prod.misbar.com/articlebody/origin_kyhnfmy70.jpg\" style=\"height:674px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><img src=\"https://images-prod.misbar.com/articlebody/origin_no8i8ie5e.jpg\" style=\"height:672px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><img src=\"https://images-prod.misbar.com/articlebody/origin_zgklr44ge.jpg\" style=\"height:425px; width:542px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 321,
+        "left": 59.70001220703125,
+        "path": "articles/1604248453121671937_170295101360253_4003047885450798218_o.jpg",
+        "top": 95.737548828125,
+        "totalHeight": 423,
+        "totalWidth": 635,
+        "watermark_path": "articles/watermark-1604248453121671937_170295101360253_4003047885450798218_o.jpg",
+        "width": 571
+    },
+    "post_date": "2020-11-01T19:23:00.000+03:00",
+    "published": [
+        {
+            "id": "5f9ee384f4739e46931c35eb",
+            "link": "https://www.facebook.com/Bump.Jo.1/posts/4271580426219640",
+            "name": "مطب - Bump",
+            "origin": "facebook",
+            "path": "sources/158cf18e98adfdcbdea888861bf4b4be0e3a7aee.jpg"
+        },
+        {
+            "id": "5f9ee3842898234365011c40",
+            "link": "https://www.facebook.com/blfalstine/posts/3514589515264209",
+            "name": "بالفلسطيني",
+            "origin": "facebook",
+            "path": "sources/eee9fba3520d628daef1b92b450e17afcf0c7d3a.jpg"
+        },
+        {
+            "id": "5f9ee38470397f3eb14ea660",
+            "link": "https://www.facebook.com/suhaib.momani1/posts/3247550752009895",
+            "name": "Dir Suhaib Momani",
+            "origin": "facebook",
+            "path": "sources/fcd6afd8ed071935c72b3c24258643a92e96ae05.jpg"
+        },
+        {
+            "id": "5f9ee384c314a64670105e85",
+            "link": "https://twitter.com/GeneralInspect2/status/1322635483457986561?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1322635483457986561%7Ctwgr%5Eshare_3&ref_url=https%3A%2F%2Froyanews.tv%2Fnews%2F228519",
+            "name": "General Inspector",
+            "origin": "twitter",
+            "path": "sources/b5c2230778ff0006590d21d85298001cbaafc5f5.jpg"
+        },
+        {
+            "id": "5f9ee3849c4ed53022435040",
+            "link": "https://www.eshraag.com/1.7.89/671023.html",
+            "name": "www.eshraag.com",
+            "origin": "",
+            "path": "sources/b2aff813d5d0d5bb1cb4133c7303e9a8dda5e3a6.jpg"
+        },
+        {
+            "id": "5f9ee38431d1116dd923a408",
+            "link": "https://www.facebook.com/rabtamoon/posts/4909118765766723",
+            "name": "خالد الحنيطي",
+            "origin": "facebook",
+            "path": "sources/e28077ea7a2b1fd0f7d729e5a637bcc96fdf37e9.jpg"
+        },
+        {
+            "id": "5f9ee3840f4e0d387008f326",
+            "link": "https://twitter.com/HalaZAlabbadi1/status/1322649657663754240",
+            "name": "هلا العبادي🇯🇴💙",
+            "origin": "twitter",
+            "path": "sources/771328d0aac721a34f9030f653fe94ac0392d22d.jpg"
+        },
+        {
+            "id": "5f9ee38515f9d44190806736",
+            "link": "https://twitter.com/farahjehad20/status/1322649713427042305",
+            "name": "ℱᎯℛᎯℋ",
+            "origin": "twitter",
+            "path": "sources/7609de2cb05cc6bfb38a4fe20af30df109653f9e.jpg"
+        },
+        {
+            "id": "5f9ee385f7091a7ce3204551",
+            "link": "https://twitter.com/obeida_swalha/status/1322608725035749379",
+            "name": "عبيده الصوالحة",
+            "origin": "twitter",
+            "path": "sources/274697ff5d473e620515f994f882577a69ada023.jpg"
+        },
+        {
+            "id": "5f9ee384c314a64670105e85",
+            "link": "https://twitter.com/GeneralInspect2/status/1322635483457986561",
+            "name": "General Inspector",
+            "origin": "twitter",
+            "path": "sources/b5c2230778ff0006590d21d85298001cbaafc5f5.jpg"
+        },
+        {
+            "id": "5f9ee385a118412bf4547ced",
+            "link": "https://twitter.com/DAlmasrri/status/1322651807873642497",
+            "name": "dr.maysa almasrri",
+            "origin": "twitter",
+            "path": "sources/1289cc19d75d7bde0f911d945f0dea743bd8cddd.jpg"
+        },
+        {
+            "id": "5f9ee385b99a5b4585076767",
+            "link": "https://twitter.com/Afafffx/status/1322827084570513412",
+            "name": "Afaf🥑",
+            "origin": "twitter",
+            "path": "sources/6bf5f0111eee9ec0fd8fab3df634d94f7abf78ff.jpg"
+        },
+        {
+            "id": "5f9ee38500b06b6316066790",
+            "link": "https://twitter.com/Alakofahi/status/1322689280955850752",
+            "name": "Ala' Alkofahi🇯🇴🇪🇺🇪🇦🇸🇯🤺",
+            "origin": "twitter",
+            "path": "sources/06fd853c2f69669cb76a28c2be1653f7fa565299.jpg"
+        },
+        {
+            "id": "5f9ee385c897511705311369",
+            "link": "https://twitter.com/111_almzionah/status/1322762365667102720",
+            "name": "ﮧالمزيونه ههﮧ' ⇣❥ֆ♔┇🕊️",
+            "origin": "twitter",
+            "path": "sources/156947cb12d124bb49f1f61b1770578c7baa04dd.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f9ee3858d6fc94ec809c634",
+            "link": "https://www.facebook.com/focus.photoofficial/posts/2826584687577970",
+            "name": "Focus photo",
+            "origin": "facebook",
+            "path": "sources/4df5ea4fdaa4f1f65545f8dff12a819c0c58ebd5.jpg"
+        },
+        {
+            "id": "5f9ee385f6a20e2d7a775a64",
+            "link": "https://www.facebook.com/NamaMediaNetwork/posts/170295924693504",
+            "name": "نامە - Nama",
+            "origin": "facebook",
+            "path": "sources/b529d8dc9532cbca403ea5066f94df890dc24277.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لم يظهر \"طرزان\" في أحراش عجلون الأردنية",
+    "updated_at": "2020-12-15 18:23:23",
+    "url_path": "/factcheck/2020/11/01/لم-يظهر-طرزان-في-أحراش-عجلون-الأردنية",
+    "was_notification_pushed": true
+}

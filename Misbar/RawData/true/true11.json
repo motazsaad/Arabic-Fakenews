@@ -1,0 +1,158 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 312,
+    "author": {
+        "fullname": "سنابل قنو",
+        "id": "5f6f5f3bd5003e02a70ee0ea",
+        "photo": {
+            "name": "1601134395_FB_IMG_1601131723904.jpg",
+            "path": "authors/1601134395_FB_IMG_1601131723904.jpg"
+        }
+    },
+    "caption": "باعت الفتاة حليبها بعد أزمة مالية مرت بها (تويتر)",
+    "category": "Business",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">أميركية تجني 20 ألف دولار من بيع حليب ثدييها للأطفال الرضع.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-10-21 21:37:16",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 7,
+    "feedback_pos": 20,
+    "id": "5f907fdc3e96c900cf6ff7bf",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق <a href=\"https://misbar.com/\">مسبار</a> من الخبر ووجد أنه صحيح، إذ قامت الشابة <a href=\"https://www.dailymail.co.uk/femail/article-8846853/Cash-strapped-mother-receives-backlash-making-close-20k-selling-breast-milk-strangers.html\" style=\"color:#0563c1; text-decoration:underline\">جولي دينيس</a> بتأجير رحمها لعائلة أميركية، وعندما بلغ الطفل الذي أنجبته ستة أشهر ولم يعد بحاجة إلى حليب ثدييها،&nbsp;باعته لأسر&nbsp;أخرى. أجرت صحيفة&nbsp; <a href=\"https://www.mirror.co.uk/news/uk-news/cash-strapped-mum-makes-15000-22856631\" style=\"color:#0563c1; text-decoration:underline\"><span dir=\"LTR\">Mirror</span></a>&nbsp;مقابلة مع جولي، تحدثت فيها عن تجربتها في بيع الحليب عبر الإنترنت أثناء مرورها بأزمة&nbsp;مالية، وشرحت طريقة تخزينه قبل إرساله للعائلات. وفي لقاء آخر أجرته جولي مع صحيفة <a href=\"https://www.dailymail.co.uk/femail/article-8846853/Cash-strapped-mother-receives-backlash-making-close-20k-selling-breast-milk-strangers.html\" style=\"color:#0563c1; text-decoration:underline\"><span dir=\"LTR\">Mail Online</span></a> أوضحت أنها تبيع أونصة الحليب بـ90 سنتاً.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"11.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_7eydwq2sn.jpg\" style=\"height:401px; width:624px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;تداولت حسابات وصفحات إخبارية على مواقع التواصل الاجتماعي، حديثاً، خبر بيع سيدة أميركية حليب ثدييها للأطفال الرضع، مقابل 20 ألف دولار. وشكك البعض في الخبر فيما تداوله آخرون بسخرية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"00.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_gfa8l8rq5.jpg\" style=\"height:544px; width:543px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"1.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_kqljifng8.jpg\" style=\"height:545px; width:476px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 327,
+        "left": 11.057891845703125,
+        "path": "articles/160330543577.jpg",
+        "top": 16.251220703125,
+        "totalHeight": 423,
+        "totalWidth": 601,
+        "watermark_path": "articles/watermark-160330543577.jpg",
+        "width": 581
+    },
+    "post_date": "2020-10-21T19:11:00.000+03:00",
+    "published": [
+        {
+            "id": "5f907fdaaa27fd61d803b524",
+            "link": "https://www.facebook.com/groups/1666651506829816/permalink/1766153896879576",
+            "name": "جمهورية الأسود المتحدة",
+            "origin": "facebook",
+            "path": "sources/5bfe4505f0d897cf8eadb4d078ea86f5bd10e8d5.jpg"
+        },
+        {
+            "id": "5f907fdaf5acb06fe14f24ea",
+            "link": "https://www.facebook.com/YlnYlyRbtAlhmarWdshrk/posts/4062606067099716",
+            "name": "جمهورية الأسود المتحدة",
+            "origin": "facebook",
+            "path": "sources/8975b630c143497609c16849071b19c075ed2d88.jpg"
+        },
+        {
+            "id": "5f907fdabbe51b10af6d0175",
+            "link": "https://www.facebook.com/permalink.php?id=120028319786095&story_fbid=172996067822653",
+            "name": "يلعن يلي ربط الجحش وفلتك",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5f907fda4631057aeb19c1b7",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=4487583524616167&id=2632564570118081",
+            "name": "أنتيكاantigue",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5f907fdab9e81076640ce794",
+            "link": "https://twitter.com/ScreenMix/status/1318131847759601664",
+            "name": "Screen Mix",
+            "origin": "twitter",
+            "path": "sources/8cef9fdd47d8c269138c87497910913b21ca55a0.jpg"
+        },
+        {
+            "id": "5f907fdabbe51b10af6d0175",
+            "link": "https://www.facebook.com/permalink.php?id=120028319786095&story_fbid=172996067822653",
+            "name": "يلعن يلي ربط الجحش وفلتك",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5f907fdadbf6fa43e950870f",
+            "link": "https://www.facebook.com/ETBAljazairiCom/posts/220202532863153",
+            "name": "ET بالجزائري",
+            "origin": "facebook",
+            "path": "sources/2d7b403dc134c26c2c0186b513e528cff490afaf.jpg"
+        },
+        {
+            "id": "5f907fdb0f4f6910a25a1076",
+            "link": "https://twitter.com/cairo24_/status/1318454344535203840",
+            "name": "القاهرة 24",
+            "origin": "twitter",
+            "path": "sources/32124bfae2291b05da28973ed68d17b40e8b42fa.jpg"
+        },
+        {
+            "id": "5f907fdb59fc680fee660883",
+            "link": "https://twitter.com/reowqe/status/1318501165869506560",
+            "name": "ريو | كود خصم نمشي hdz",
+            "origin": "twitter",
+            "path": "sources/7759d41fdefe6ce53564e8cfa11a0335be3c1262.jpg"
+        },
+        {
+            "id": "5f907fdbc5dd2b6f7304c438",
+            "link": "https://twitter.com/Aya42542275/status/1317834562358120448",
+            "name": "Aya",
+            "origin": "twitter",
+            "path": "sources/0de7ec90ecd0f18fd89b198018ae41da76436b29.jpg"
+        },
+        {
+            "id": "5f907fdbc65c8b1e85646074",
+            "link": "https://twitter.com/jihedd10/status/1317842300395978754",
+            "name": "jihedd🇹🇳",
+            "origin": "twitter",
+            "path": "sources/a33aa4a8f2f7c8e84b6fd7eb781b2173504b62bf.jpg"
+        }
+    ],
+    "result": "true",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f8fe8042634917a07409434",
+            "link": "https://www.dailymail.co.uk/femail/article-8846853/Cash-strapped-mother-receives-backlash-making-close-20k-selling-breast-milk-strangers.html",
+            "name": "Mail Online",
+            "origin": "",
+            "path": "sources/d4e81aeee6259659c962fc984d5b64376fff66e1.jpg"
+        },
+        {
+            "id": "5f907fdbe62195238e717022",
+            "link": "https://www.mirror.co.uk/news/uk-news/cash-strapped-mum-makes-15000-22856631",
+            "name": "mirror",
+            "origin": "",
+            "path": "sources/c24a0f6ef802f89f42386dc94f3796ac02c86934.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "أميركية تبيع حليب ثدييها للأطفال الرضع.. صحيح",
+    "updated_at": "2020-10-21 23:39:26",
+    "url_path": "/factcheck/2020/10/21/أميركية-تبيع-حليب-ثدييها-للأطفال-الرضع-صحيح",
+    "was_notification_pushed": "true"
+}

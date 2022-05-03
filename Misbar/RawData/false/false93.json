@@ -1,0 +1,108 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 234,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "الشركة نفت أن تكون قدمت هكذا عرض (Getty)",
+    "category": "Arts & Culture",
+    "claim": "<p>نتفليكس تقدم عرضاً&nbsp;مجانياً لمدة عام بسبب الحجر الصحي بعد انتشار فايروس كورونا المستجد.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-12-09 01:51:49",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 3,
+    "feedback_pos": 4,
+    "id": "5fd003859cd15b0fac5d811b",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الخبر،&nbsp;ووجده&nbsp;زائفاً، فالعرض الترويجي عبارة عن عملية احتيال، وكتبت صحيفة ذا اندبندنت&nbsp;البريطانية أن كثيراً من الناس وصلهم العرض عبر رسائل بريد إلكترونية&nbsp;مخادعة، والتي تدعو إلى النقر على&nbsp;رابط للمطالبة بسنة اشتراك مجانية، ثم يطلب من هؤلاء الأشخاص إدخال تفاصيلهم للمطالبة بالعرض، وهي&nbsp;طريقة مخادعة لسرقة المعلومات الشخصية كما أن هناك&nbsp;عدد قليل من الأشكال المختلفة لنفس &quot;العرض الترويجي&quot;، أحدها يدعي أن الشخص المستهدف &quot;تم اختياره من بين الآلاف&quot; ثم يطلب معلومات البريد الإلكتروني والبطاقة البنكية، ونفت نتفليكس الإعلان&nbsp;للاشتراك المجاني&nbsp;في بيان لها نشره تقرير الصحيفة البريطانية، لافتة إلى أنها من المستحيل أن&nbsp;تطلب أي معلومات شخصية للمستخدمين عبر بريد إلكتروني أو رسالة نصية على الهاتف.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_vbd5jo8jy.jpg\" style=\"height:246px; width:602px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_h63lp5stb.jpg\" style=\"height:277px; width:602px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات على مواقع التواصل الاجتماعي منذ شهر نوفمبر/تشرين الثاني الفائت، حتى اليوم، خبراً مفاده أن شركة نتفليكس الأميركية للإنتاج الإعلامي، جعلت الاشتراك&nbsp;مجانياً بسبب فايروس كورونا المستجد، والحجر المنزلي، واحتوت بعض&nbsp;المنشورات&nbsp;رابطاً للنقر والتسجيل.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_mw8srk17a.jpg\" style=\"height:381px; width:574px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_x2vmjohsx.jpg\" style=\"height:142px; width:585px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 403,
+        "left": 117.30001831054688,
+        "path": "articles/1607467909Screenshot 2020-12-08 232719.jpg",
+        "top": 9.89990234375,
+        "totalHeight": 423,
+        "totalWidth": 969,
+        "watermark_path": "articles/watermark-1607467909Screenshot 2020-12-08 232719.jpg",
+        "width": 717
+    },
+    "post_date": "2020-12-08T23:03:00.000+03:00",
+    "published": [
+        {
+            "id": "5fd00385bf167951ae2d378e",
+            "link": "https://twitter.com/mbbrad4d/status/1335563459178672129",
+            "name": "Dr. Beth",
+            "origin": "twitter",
+            "path": "sources/9a973901491caf6febfb48548ed26fe904d91820.jpg"
+        },
+        {
+            "id": "5fd01268a910d803df104c38",
+            "link": "https://seawallalife.com/free-netflix-accounts/",
+            "name": "Sea Wall / A Life Broadway",
+            "origin": "",
+            "path": "sources/9520ea76d7e2200f3f66909f3731c276d92c87ae.jpg"
+        },
+        {
+            "id": "5fd0126826471d3659405c5e",
+            "link": "https://bankoftech.com/%D8%AD%D8%B3%D8%A7%D8%A8-netflix-%D9%85%D8%AC%D8%A7%D9%86%D8%A7/",
+            "name": "بنك التقنية",
+            "origin": "",
+            "path": "sources/1395a284e5d2d9856201408f5d1553862f36ae0b.jpg"
+        },
+        {
+            "id": "5fd01268ca5abf4e0f3b2462",
+            "link": "https://twitter.com/0I_01/status/1334180696986951681",
+            "name": "متجر فلكس ❤️",
+            "origin": "twitter",
+            "path": "sources/da1742a8f42d191fa4377c671f6ac2c6492f45ab.jpg"
+        },
+        {
+            "id": "5fd012686c4e071714075eff",
+            "link": "https://twitter.com/QvqnCKF947AjSB5/status/1335565433135620102",
+            "name": "عبد القادر 17",
+            "origin": "twitter",
+            "path": "sources/e092c8d36a58c9112ab449ed140560da5ade1348.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fa2beaa24b41b4ad37cbf75",
+            "link": "https://www.independent.co.uk/arts-entertainment/tv/news/netflix-free-year-scam-promo-is-email-real-phishing-b1721102.html",
+            "name": "The Independent",
+            "origin": "",
+            "path": "sources/d4171fb18720974df05e284fc38430c3fb9febae.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "شركة نتفليكس لم تقدم اشتراكاً مجانياً لمدة عام بسبب كورونا",
+    "updated_at": "2020-12-09 09:31:27",
+    "url_path": "/factcheck/2020/12/09/شركة-نتفليكس-لم-تقدم-اشتراكا-مجانيا-لمدة-عام-بسبب-كورونا",
+    "was_notification_pushed": true
+}

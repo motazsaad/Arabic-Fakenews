@@ -1,0 +1,104 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 2,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 6878,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "الصورة مأخوذة من فيديو أغنية البرنامج (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">الأردنيون يكشفون وجه مقدم برنامج قلبي اطمأن (غيث).</span></p>\r\n",
+    "country": "JO",
+    "created_at": "2020-04-27 22:55:42",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 0,
+    "id": "5ea738bedb291623a9614aa4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span dir=\"rtl\" lang=\"ar\">تحقّق &quot;مسبار&quot; من الصورة المتداولة ووجد أنها مأخوذة من فيديو أغنية شارة&nbsp;البرنامج التي نُشرت في أغسطس/آب 2019، تحت عنوان &quot;كلنا غيث&quot;، خلال الموسم الثاني من البرنامج بصوت الفنان حسين الجسمي،&nbsp;&nbsp;ويظهر خلال مقطع الفيديو أكثر من شاب يرتدون الزي ذاته في إشارة إلى أن الجميع يساعد غيث ويسانده. ولم يظهر مقدم البرنامج المعروف باسم غيث بوجهه حتى الآن.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span dir=\"rtl\" lang=\"ar\">واستطاع &quot;مسبار&quot; أن يعثر على الحساب الخاص بالشاب الذي تم تداول صورته على أساس أنه غيث واسمه عبد الرحيم سمير الزرو، وصرح لمسبار &quot; شاركت كمؤدي خلال تصوير شارة&nbsp;&nbsp;البرنامج، وتم ذلك في منطقة أبو نصير بالأردن&quot;، مشيراً أن الدائرة المحيطة به من عائلته وأصدقائه يعرفون أنها صورته وليست صورة غيث، كما وضّح الأمر في منشور على حسابه بعد تداول صورته على مستوى واسع في وسائل التواصل الاجتماعي.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"712\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fabu.raul.9%2Fposts%2F2358444067592367&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_7nx30idkm.jpg\" style=\"height:434px; width:624px\" /></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"506\" src=\"https://www.youtube.com/embed/L15djBYkmNo\" width=\"900\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">نشرت صفحات وحسابات على مواقع التواصل الاجتماعي في الأردن صورة من برنامج قلبي اطمأن، وادّعت أنّ الصورة لمقدم البرنامج المعروف باسم غيث، وهو شخص لا يظهر بوجهه أبداً ويقدم العديد من المساعدات المالية والعينية إلى المحتاجين في أكثر من دولة، و</span> <span dir=\"RTL\" lang=\"AR-SA\">يُعرض برنامجه كل عام خلال شهر رمضان المبارك.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_v9v0zfdy8.jpg\" style=\"height:638px; width:485px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_hmb5a3l2c.jpg\" style=\"height:575px; width:442px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_elh092anh.jpg\" style=\"height:366px; width:442px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 14.772796630859375,
+        "path": "articles/158801734059471303_584871375327851_5906844105299722240_o.jpg",
+        "top": 0,
+        "totalHeight": 512,
+        "totalWidth": 767,
+        "watermark_path": "articles/watermark-158801734059471303_584871375327851_5906844105299722240_o.jpg",
+        "width": 752
+    },
+    "post_date": "2020-04-27T22:51:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/2ked.Bltekno/photos/a.681213381913118/3239203556114075/?type=3&theater",
+            "name": "اكيد انت بالتكنو",
+            "path": "published/0_1588017340_888.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/alimedia24/photos/a.102495661393519/132284068414678/?type=3&theater",
+            "name": "علي ميديا",
+            "path": "published/1_1588017511_77.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ShafaBadraan/photos/a.1947294518845520/2610068695901429/?type=3&theater",
+            "name": "أخبار شفابدران",
+            "path": "published/2_1588017511_أخبار شفابدران.jpg"
+        },
+        {
+            "link": "https://twitter.com/HriMohd/status/1254535904271699970",
+            "name": "محمد الحياري",
+            "path": "published/3_1588017511_محمد الحياري.jpg"
+        },
+        {
+            "link": "https://twitter.com/OShobki/status/1254546830655918080",
+            "name": "Osama",
+            "path": "published/4_1588017511_Osama.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/201793311082553/permalink/226015691993648/",
+            "name": "Sufyan Abusafi",
+            "path": "published/5_1588017512_Sufyan Abusafi.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=L15djBYkmNo",
+            "name": "قلبي اطمأن",
+            "path": "sources/0_1588018815_30414939_2064833437062803_4539499291902738432_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/abu.raul.9/posts/2358444067592367",
+            "name": "عبد الرحيم سمير الزرو",
+            "path": "sources/1_1588023190_78647919_2080224965414280_7225450097973133312_n.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل كشف الأردنيون وجه مقدم برنامج قلبي اطمأن؟",
+    "updated_at": "2020-09-25 19:23:27",
+    "url_path": "/factcheck/2020/04/27/هل-كشف-الأردنيون-وجه-مقدم-برنامج-قلبي-أطمأن"
+}

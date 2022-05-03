@@ -1,0 +1,86 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 495,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "category": "Entertainment",
+    "claim": "<p>سوري يبيع جهاز حاسوب قديم لشاب سعودي على أنه جهاز هتلر الخاص</p>\r\n",
+    "country": "SY",
+    "created_at": "2019-10-21 14:24:19",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5dad9563be494b2ac63a9739",
+    "investigation": "<p>الصورة منشورة على موقع&nbsp;Flickr في العام 2012، حيث نشرها أحد الأشخاص مبيناً أنها تعود لجهاز حاسوب منذ عام 1980. وهي نفس الصورة التي تم استخدامها لترويج الخبر الزائف.&nbsp;</p>\r\n\r\n<p><img src=\"https://images-prod.misbar.com/articlebody/investigation_f1ab6734194d58b3c3fd1f9899e58c60.jpg\" /></p>\r\n\r\n<p>وبالعودة لصحيفة الشرق الأوسط التي أشارت لها الأخبار الزائفة؛ فلم نجد أيَّة مادة تتحدث عن قيام شاب سوري ببيع حاسوب لآخر سعودي على أنه جهاز هتلر. إلا أننا وجدنا مادةً أخرى منشورة على صحيفة الشرق الأوسط بعنوان &quot;العثور على كومبيوتر آبل قيد التشغيل منذ 30 عاماً&quot;، وقد نشرت الصحيفة هذا الخبر &ndash;ملحق في المصادر- في شباط/ فبراير 2019، وذكرت الصحيفة أنَّ أحد أساتذة جامعة نيويورك عثر على جهاز كومبيوتر آبل عمره 30 عاماً، كما نشرت تغريدة الأستاذ الجامعي الذي كان يتحدث عن الحاسوب الذي وجده في عليَّة والده منذ عقود، ووجده يعمل كما هو.</p>\r\n\r\n<p><img src=\"https://images-prod.misbar.com/articlebody/investigation_46429f3a1d71c91d8ef01dcdd4ddea74.jpg\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p>في الأسبوع الأخير من شهر أيلول/ سبتمبر 2019، انتشر على عدد من المواقع وصفحات التواصل الاجتماعي، خبراً عن قيام شاب سوري يعمل في مجال التحف الشرقية بوسط العاصمة الرياض شارع الملك فيصل، ببيع جهاز كمبيوتر قديم 1994 بمبلغ 12 ألف دولار لشاب سعودي له هوايه في جمع التحف القديمة. بدأ هذا الخبر بالانتشار من صفحة تحمل اسم &quot;صحيفة شمس سورية&quot;، ثم انتقل بعد ذلك إلى عدد من الصحف والمواقع التي نشرت الخبر منسوخاً كما هو.</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 314,
+        "left": 10.216796875,
+        "path": "articles/1571657059Untitled1111111111111.jpg",
+        "top": 43.5594482421875,
+        "totalHeight": 423,
+        "totalWidth": 578,
+        "width": 559
+    },
+    "post_date": "2019-10-01T14:07:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.alalamtv.net/news/4461416/%D8%B3%D9%88%D8%B1%D9%8A-%D9%8A%D8%A8%D9%8A%D8%B9-%D8%AC%D9%87%D8%A7%D8%B2-%D9%83%D9%85%D8%A8%D9%8A%D9%88%D8%AA%D8%B1-%D9%82%D8%AF%D9%8A%D9%85-%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-%D8%B9%D9%84%D9%89-%D8%A3%D9%86%D9%87-%D9%83%D8%A7%D9%86-%D9%8A%D8%B3%D8%AA%D8%AE%D8%AF%D9%85%D9%87-%D9%87%D8%AA%D9%84%D8%B1",
+            "name": "قناة العالم",
+            "path": "published/0_1571657059_قناة العالم لوغو1.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/raaqa33/photos/a.447200405761163/704914813323053/?type=3&theater",
+            "name": "شبكة أخبار الرقة",
+            "path": "published/1_1571657059_facebook.jpg"
+        },
+        {
+            "link": "https://trendingsy.com/2019/09/27/%D8%B3%D9%88%D8%B1%D9%8A-%D9%8A%D8%A8%D9%8A%D8%B9-%D8%AC%D9%87%D8%A7%D8%B2-%D9%83%D9%85%D8%A8%D9%8A%D9%88%D8%AA%D8%B1-%D9%82%D8%AF%D9%8A%D9%85-%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-%D8%B9%D9%84%D9%89/",
+            "name": "Trending",
+            "path": "published/2_1571657059_trending1.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.flickr.com/photos/stiefkind/7127185911/?fbclid=IwAR0F9UX4cT8d_sTCUFBjE20MLXl8ICyuKVoV1sCauOYTTZ-Io5d_EPAZswQ",
+            "name": "Flickr",
+            "path": "sources/0_1571657059_flickr.jpg"
+        },
+        {
+            "link": "https://edition.cnn.com/2019/02/17/tech/30-year-old-apple-computer-work-trnd/index.html",
+            "name": "CNN",
+            "path": "sources/1_1571657059_cnn-logo-white-on-red.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "سوري يبيع حاسوب لسعودي على أنه جهاز هتلر! ما القصة؟",
+    "updated_at": "2020-09-23 12:40:35",
+    "url_path": "/factcheck/2019/10/21/سوري-يبيع-حاسوب-لسعودي-على-أنه-جهاز-هتلر-ما-القصة"
+}

@@ -1,0 +1,87 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 3112,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "الخبر المتداول زائف (Getty)",
+    "category": "Health",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">إثيوبيا تسجّل 2144 إصابة جديدة بفايروس كورونا المستجد، ليصل إجمالي الإصابات إلى 63 ألف.</span></p>\r\n",
+    "country": "ET",
+    "created_at": "2020-05-16 17:26:05",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5ebff7fddb2916621e52f874",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من الخبر المتداول ووجد أنه زائف، لأن إجمالي الإصابات في إثيوبيا حتى آخر إعلان (بتاريخ 16 مايو/أيار الجاري)، بحسب <a href=\"https://twitter.com/FMoHealth/status/1261612084485390337\" target=\"_blank\">وزارة الصحة الإثيوبية</a>، هو 306 حالة.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">بعد الاطّلاع على إجمالي الإصابات المعلنة رسميًّا في إثيوبيا عن طريق منصّتي Worldmeter وخريطة كوفيد-19 الخاصة بجامعة جون هوبكنز، بلغ عددها 306 إصابة، مما يفيد بأنّ الخبر المنشور في اليوم السابع زائف.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_mck0y3ex0.jpg\" style=\"height:49px; width:624px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_vcbqrkjgj.jpg\" style=\"height:387px; width:624px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "إثيوبيا",
+        "مصر",
+        "كورونا",
+        "فيروس كورونا",
+        "كوفيد-19"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">نشرت صحيفة اليوم السابع المصرية خبراً بتاريخ 11 مايو/أيار الجاري، ادّعت فيه تسجيل إثيوبيا 2144 إصابة جديدة بفايروس كورونا المستجد، ليصل إجمالي حالات كوفيد-19 في إثيوبيا، بذلك التاريخ، إلى ما يقارب 63 ألف إصابة.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ra30lm998.jpg\" style=\"height:589px; width:535px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 368,
+        "left": 42.5,
+        "path": "articles/1589639164GettyImages-1212201190.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 698,
+        "watermark_path": "articles/watermark-1589639164GettyImages-1212201190.jpg",
+        "width": 655
+    },
+    "post_date": "2020-05-16T17:16:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.youm7.com/story/2020/5/11/%D8%A5%D8%AB%D9%8A%D9%88%D8%A8%D9%8A%D8%A7-%D8%AA%D8%B3%D8%AC%D9%84-2144-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D8%A8%D9%81%D9%8A%D8%B1%D9%88%D8%B3-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-%D9%88%D8%A7%D9%84%D8%A5%D8%AC%D9%85%D8%A7%D9%84%D9%89-%D9%8A%D8%B1%D8%AA%D9%81%D8%B9-%D8%A5%D9%84%D9%89/4768599",
+            "name": "اليوم السابع",
+            "path": "published/0_1589639164_اليوم السابع.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://coronavirus.jhu.edu/map.html",
+            "name": "Covid-19 Map",
+            "path": "sources/0_1589639164_hopkins.jpg"
+        },
+        {
+            "link": "https://www.worldometers.info/coronavirus/",
+            "name": "Worldometer",
+            "path": "sources/1_1589639164_worldometer.jpg"
+        },
+        {
+            "link": "https://twitter.com/FMoHealth/status/1261612084485390337",
+            "name": "وزارة الصحة الإثيوبية",
+            "path": "sources/2_1589639771_وزارة الصحة الإثيوبية.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "اليوم السابع تنشر أخباراً زائفة عن أعداد المصابين بكورونا في إثيوبيا",
+    "updated_at": "2020-09-25 17:37:05",
+    "url_path": "/factcheck/2020/05/16/اليوم-السابع-تنشر-أخبارا-زائفة-عن-أعداد-المصابين-بكورونا-في-إثيوبيا"
+}

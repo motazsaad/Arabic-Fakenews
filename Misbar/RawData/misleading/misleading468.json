@@ -1,0 +1,143 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 144,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "الصورة الأصلية تُظهر مهاجرين يهود (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">القبض على مركب يحمل مواطنين أوروبيين متسللين إلى الإسكندرية بحثاً عن فرصة عمل وحياة أفضل من أوروبا.</p>\r\n",
+    "country": "EG",
+    "created_at": "2020-10-21 16:10:53",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 2,
+    "id": "5f90335ddcb43d1c034305f4",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;</span><a href=\"https://misbar.com/\" style=\"text-decoration:none\"><span style=\"color:#1155cc\"><u>مسبار</u></span></a><span style=\"color:#000000\">&quot; من الادعاء المتداول ووجد أنه مضلل، لأن </span><a href=\"https://photos.yadvashem.org/photo-details.html?language=en&amp;item_id=47428&amp;ind=49\" style=\"text-decoration:none\"><span style=\"color:#1155cc\"><u>الصورة الأصلية</u></span></a><span style=\"color:#000000\"> تُظهر مجموعة من المهاجرين اليهود أثناء استعدادهم للسفر من اليونان إلى فلسطين، عام 1945 أو 1946، ضمن المساعي الاستيطانية التي كانت تحصل في تلك الفترة.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_xt5e1ce9n.jpg\" style=\"height:236px; width:548px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">اقرأ/ي أيضاً:</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/10/19/%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D9%84%D9%8A%D8%B3%D8%AA-%D9%84%D8%B3%D8%B1%D9%82%D8%A9-%D8%A7%D9%85%D8%B1%D8%A3%D8%A9-%D8%B9%D9%84%D9%89-%D8%AF%D8%B1%D8%A7%D8%AC%D8%A9-%D9%86%D8%A7%D8%B1%D9%8A%D8%A9-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1\" target=\"_blank\">الصور ليست لسرقة امرأة على دراجة نارية في مصر</a></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/10/21/%D8%A7%D9%84%D8%B4%D9%86%D8%A7%D9%88%D9%8A-%D9%84%D9%85-%D9%8A%D8%AD%D8%B5%D9%84-%D8%B9%D9%84%D9%89-%D8%A5%D9%86%D8%B0%D8%A7%D8%B1-%D8%AB%D8%A7%D9%86%D9%8A-%D9%88%D8%BA%D9%8A%D8%B1-%D9%85%D9%87%D8%AF%D8%AF-%D8%A8%D8%B9%D8%AF%D9%85-%D9%84%D8%B9%D8%A8-%D8%A7%D9%84%D9%86%D9%87%D8%A7%D8%A6%D9%8A\" target=\"_blank\">الشناوي لم يحصل على إنذار ثان وغير مهدد بعدم لعب النهائي</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تتناقل صفحات وحسابات على مواقع التواصل الاجتماعي، منذ سنوات، صورة تدعي أنها لعملية القبض على مركب يحمل مواطنين أوروبيين متسللين إلى الإسكندرية بحثاً عن فرصة عمل وحياة أفضل من أوروبا.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_w87os197o.jpg\" style=\"height:549px; width:535px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_vm2t0gvjq.jpg\" style=\"height:497px; width:534px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 258,
+        "left": 2.79998779296875,
+        "path": "articles/1603285852greece jews.JPG",
+        "top": 1,
+        "totalHeight": 423,
+        "totalWidth": 463,
+        "watermark_path": "articles/watermark-1603285852greece jews.JPG",
+        "width": 459
+    },
+    "post_date": "2020-10-21T16:06:00.000+03:00",
+    "published": [
+        {
+            "id": "5f90342b8fa48a61502b1fe7",
+            "link": "https://www.facebook.com/TAXI.ALEXANDRIA/photos/a.168714723179441/1450864504964450",
+            "name": "تاكسي الأسكندرية Taxi Alexandria",
+            "origin": "facebook",
+            "path": "sources/3391faefdf4967053513ee18851d90d4e658549c.jpg"
+        },
+        {
+            "id": "5f90342b86c82542a942dd0e",
+            "link": "https://www.facebook.com/groups/225103577574709/permalink/3009875342430838/",
+            "name": "صوت من الماضي",
+            "origin": "facebook",
+            "path": "sources/c2be627aea0e6ece74661870c4139bf061f3229a.jpg"
+        },
+        {
+            "id": "5f90342b17624606dc320a2b",
+            "link": "https://www.facebook.com/groups/1414476292104389/permalink/2707383139480358/",
+            "name": "أحمد السبعاوي",
+            "origin": "facebook",
+            "path": "sources/c2be627aea0e6ece74661870c4139bf061f3229a.jpg"
+        },
+        {
+            "id": "5f90342be6b1e8499c33bdce",
+            "link": "https://www.facebook.com/abdullah.mohssen.1/posts/986576108421432",
+            "name": "Abdullah Mohssen",
+            "origin": "facebook",
+            "path": "sources/c6b4270a6212b8a4add32980fe2e33913e1e4eb2.jpg"
+        },
+        {
+            "id": "5f90342bfdbe851b480fd4e4",
+            "link": "https://www.facebook.com/millat.berwari/posts/1303006786571676",
+            "name": "Milat Berwari",
+            "origin": "",
+            "path": "sources/770085f06aadef856dfae7f25fca090afbd79e11.jpg"
+        },
+        {
+            "id": "5f90348743760c62fa1956ef",
+            "link": "https://www.facebook.com/photo/?fbid=3604777916278283&set=a.1202841649805267",
+            "name": "فهمي وساس",
+            "origin": "facebook",
+            "path": "sources/af6f8f22c296a2f707be1985c48b9d0009cfa471.jpg"
+        },
+        {
+            "id": "5f903487d0d21f73e7039655",
+            "link": "https://www.facebook.com/photo/?fbid=391518748538213&set=a.172660810424009",
+            "name": "علي الزعيم",
+            "origin": "facebook",
+            "path": "sources/af6f8f22c296a2f707be1985c48b9d0009cfa471.jpg"
+        },
+        {
+            "id": "5f90348858d02f1cb149828b",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=625978951305687&id=224266551476931",
+            "name": "بلدة شعث البقاعية",
+            "origin": "facebook",
+            "path": "sources/af6f8f22c296a2f707be1985c48b9d0009cfa471.jpg"
+        },
+        {
+            "id": "5f90348805b6d749c4065c00",
+            "link": "https://www.facebook.com/adel.torbani/posts/2711635679103316",
+            "name": "Adel Torbani",
+            "origin": "facebook",
+            "path": "sources/4877dd720efba0fcc82d4382b5fb1d4f6e7829f5.jpg"
+        },
+        {
+            "id": "5f903488e99951011449b036",
+            "link": "https://www.facebook.com/reda.saned/posts/925158760938464",
+            "name": "Reda Sanad",
+            "origin": "",
+            "path": "sources/770085f06aadef856dfae7f25fca090afbd79e11.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f90335c39dc546a3a4e65f8",
+            "link": "https://photos.yadvashem.org/photo-details.html?language=en&item_id=47428&ind=49",
+            "name": "Yad Vashem",
+            "origin": "",
+            "path": "sources/07a7e331bba4cb48b5476a2b923cbd34c3d9bd83.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "مستوطنون أثناء توجههم إلى فلسطين وليسوا مهاجرين إلى الإسكندرية",
+    "updated_at": "2020-10-21 16:17:53",
+    "url_path": "/factcheck/2020/10/21/مستوطنون-أثناء-توجههم-إلى-فلسطين-وليسوا-مهاجرين-إلى-الإسكندرية",
+    "was_notification_pushed": "true"
+}

@@ -1,0 +1,96 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 313,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "أكد أن اختباره لفحص الفايروس نتيجته سلبية (Twitter)",
+    "category": "Sports",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">إصابة الكابتن محمد عبد المنصف، حارس المرمى السابق لفريق الزمالك، بفايروس كورونا المستجد (كوفيد19).</p>\r\n",
+    "country": "EG",
+    "created_at": "2020-08-08 22:30:53",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f2efd6d1dd58507b410d084",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقّق &quot;مسبار&quot; من الخبر، ووجد أنه زائف، وكان عبد المنصف وزوجته الفنانة لقاء الخميسي قاما بنفي الخبر على برنامج التاسعة مع الإعلامي وائل الإبراشي، وأوضح عبد المنصف أن أعضاء الفريق خلال تدريبات خالطوا مصابين بالفايروس دون علمهم بذلك، إلا أنه تم إجراء الاختبار لجميع أعضاء فريق وادي دجلة، وجاءت النتائج سلبية، كذلك أكدت زوجته أن زوجها بمجرد انتهاء التدريبات عزل نفسه عن أسرته حتى تأكد من سلامته.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/N6YVer8KDyM\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات وحسابات على موقعيّ التواصل الاجتماعي، تويتر وفيسبوك منذ شهر يونيو/حزيران الفائت، خبراً مفاده إصابة حارس مرمى فريق الزمالك السابق وحارس فريق فريق وادي دجلة المصري الحالي، الكابتن محمد عبد المنصف، بفايروس كورونا المستجد، وأكثر الصفحات التي نشرت الخبر هي صفحات تحمل اسم نادي الزمالك نسبة إلى الشهرة التي اكتسبها عبد المنصف خلال كونه لاعباً أساسياً في فريق الزمالك المصري لأكثر من 11عاماً.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_m28kshwqo.jpg\" style=\"height:614px; width:600px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_dxndl6z6u.jpg\" style=\"height:241px; width:604px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_2codyn8bn.jpg\" style=\"height:232px; width:605px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_tyxwg754o.jpg\" style=\"height:236px; width:605px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_r965eppfz.jpg\" style=\"height:232px; width:604px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_6auaf9xd4.jpg\" style=\"height:183px; width:605px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 371,
+        "left": 53.449951171875,
+        "path": "articles/1596915053EPYdmA0X4AAJJhA.jpg",
+        "top": 17.026611328125,
+        "totalHeight": 423,
+        "totalWidth": 761,
+        "watermark_path": "articles/watermark-1596915053EPYdmA0X4AAJJhA.jpg",
+        "width": 660
+    },
+    "post_date": "2020-08-08T21:08:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/Mohamed36278800/status/1277040393511677957",
+            "name": " Mohamed Fawzy",
+            "path": "published/0_1596915052_6_1596888660_twitter.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/AhlywZamalek/photos/a.1961357503982256/2960144814103515/?type=3&theater",
+            "name": "Ahlyw Zamalek",
+            "path": "published/1_1596915053_0_1596888660_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Zamalektrends1/photos/a.100210018076039/268176217946084/?type=3&theater",
+            "name": "Zamalek trends",
+            "path": "published/2_1596915053_0_1596888660_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Nabaa.Saba/posts/2175024405976266?__xts__[0]=68.ARA39GPhzRvsOFNqggwa8h3KpowVvSzS2w2sS3RyYfce52ck-7lbS77XGDL63ehjb1UkX38Cxpd5OBDkcQChWmgG06QbMP3NwPYnyIkm_mQwCKqdLWEPPJW-3Q7lfUr5B2PRa1JdE5oMOL1wsqj_J67bTBd-d4LkMK41KdlRlLcVYxEcZmtkls0yo0Qdv8jq_gegEw8fnsIAAky7TiUI2jA7-VqJ0fsaF9SgWi2LuqJWbOCGFQefttE4byRBA5EL7xqRIrePFGHvXFQ_jNBTBdLR5dhWQECRdFaM8taaK7X_-7zhdLquip80ufSX9FuFC93BjcxUPHYqN_5Qto4SJttj&__tn__=-R",
+            "name": "Nabaa.Sab",
+            "path": "published/3_1596915053_0_1596888660_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Zamalek5jan1911/photos/a.438445102906350/3016352611782240/?type=3&theater",
+            "name": "Nabaa.Saba",
+            "path": "published/4_1596915053_0_1596888660_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/zamaleknews14/photos/a.118767956165225/298143148227704/?type=3&theater",
+            "name": "zamalek news",
+            "path": "published/5_1596915053_0_1596888660_facebook.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=N6YVer8KDyM",
+            "name": "القناة الأولى المصرية",
+            "path": "sources/0_1596915053_unnamed (1).jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الكابتن محمد عبد المنصف لم يصب بفايروس كورونا",
+    "updated_at": "2020-09-25 15:27:10",
+    "url_path": "/factcheck/2020/08/08/الكابتن-محمد-عبد-المنصف-لم-يصب-بفايروس-كورونا"
+}

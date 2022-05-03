@@ -1,0 +1,121 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 188,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "الصورة ليست حديثة (فيسبوك)",
+    "category": "News",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">&quot;هذا الولد له 40 يوم في مركز الشرطة ولا يعرف أرقام والديه ولا عنوان بيته، أرجو إرسالها لجميع المجموعات لمساعدته&quot;.</span></p>\r\n",
+    "country": "EG",
+    "created_at": "2020-10-04 18:24:14",
+    "created_by": "5f39b5a51dd585076701cb94",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 25,
+    "id": "5f79e91e6e5834788f2acee4",
+    "investigation": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من الادعاء المتداول مع الصورة وتبين أنه مضلل. إذ وجد أن الصورة ليست حديثة، وأقدم تاريخ لها يعود لعام 2015، نشرتها صفحات إيرانية بالادعاء نفسه، لكن <a href=\"https://www.otaghkhabar24.com/news/134357\" style=\"color:#0563c1; text-decoration:underline\">مواقع إيرانية</a> فندت الصورة حينها، وقالت إنها في الهند. وعثر &quot;مسبار&quot; بالفعل على بعض <a href=\"https://twitter.com/rmantha2/status/665212750788882432\" style=\"color:#0563c1; text-decoration:underline\">الحسابات الهندية</a> نشرت الصورة</span><span dir=\"RTL\" lang=\"AR-EG\">، عام 2015، تَطلُب التعرف على الطفل لأنه في قسم شرطة &quot;ناجركفيل&quot; منذ شهر.<br />\r\nويالبحث أكثر عن حقيقة الصورة، تبين أن الشرطي الذي خلف الطفل في الصورة، يرتدي نفس <a href=\"https://www.google.com/search?q=indian+Police&amp;rlz=1C1CHBD_arTR890TR890&amp;sxsrf=ALeKk02BhIOVj-VZQOWQbzyLS4Hw4wx4jw:1601822700578&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=2ahUKEwjZj77IlpvsAhUCt4sKHVUrD_EQ_AUoAXoECCMQAw&amp;biw=1396&amp;bih=612#imgrc=J8RDbqp_vGpzvM\" style=\"color:#0563c1; text-decoration:underline\">الزي الرسمي للشرطة الهندية</a>. ما يعزز احتمالية أن تكون الصورة التقطت هناك.</span><br />\r\n<img src=\"https://images-prod.misbar.com/articlebody/investigation_89broiaso.jpg\" style=\"height:390px; width:624px\" /><br />\r\nولم يتسن لمسبار التأكد من مكان وزمان الصورة بالتحديد، لكن المؤكد أنها ليست حديثة وليست من مصر ولا أي دولة عربية.</p>\r\n\r\n<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">اقرأ/ي أكثر:</span></p>\r\n\r\n<p style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/10/02/%D9%84%D9%8A%D8%B3%D8%AA-%D8%B5%D9%88%D8%B1%D8%A9-%D8%B7%D9%81%D9%84-%D8%B9%D8%B1%D8%A8%D9%8A-%D9%8A%D9%85%D8%B4%D9%8A-%D9%81%D9%88%D9%82-%D8%A3%D9%86%D8%A8%D9%88%D8%A8-%D9%86%D9%81%D8%B7\" style=\"color:#0563c1; text-decoration:underline\">ليست صورة طفل عربي يمشي فوق أنبوب نفط</a></p>\r\n\r\n<p style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/09/27/%D9%87%D8%B0%D8%A7-%D8%A7%D9%84%D8%B7%D9%81%D9%84-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D8%AA%D8%AD%D8%AF%D9%89-%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%B1%D8%A7%D8%B2%D9%8A%D9%84-%D9%88%D9%84%D9%8A%D8%B3-%D8%A8%D9%85%D8%B5%D8%B1\" style=\"color:#0563c1; text-decoration:underline\">الطفل الذي يتحدى قوات الأمن في البرازيل وليس بمصر</a></p>\r\n\r\n<p style=\"text-align:right\">&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">نشرت حسابات وصفحات مصرية ومن عدة دول عربية، حديثاً، صورة طفل مرفقة بتعليق مفاده أنه موجود منذ حوالي أربعين يوماً في مركز الشرطة ولا يعرف أرقام والديه ولا عنوان منزله.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_2fj0julxv.jpg\" style=\"height:818px; width:503px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_so8fja6bp.jpg\" style=\"height:839px; width:509px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1601825054100.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1601825054100.jpg",
+        "width": 752
+    },
+    "post_date": "2020-10-04T18:20:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=173258224283467&id=100047978702836",
+            "name": "الدقهلية اليوم",
+            "path": "published/0_1601826196_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=367446291118368&id=100035590006432",
+            "name": " العربي أجديك",
+            "path": "published/1_1601826558_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/groups/307309543039409/permalink/1117635035340185/?__xts__%5B0%5D=68.ARDkU5OUWK7gCh-pJEeP2eaRyDp9CyXRq20z_0DYFL5wnnVP4EJ8iMX1y-wHfdLcMFcHIj7EpgAHfTBKLJVUKzojyUlNLK167x7NUcPUjTkz_why-00aEMWoZmLjHb12I-SwF0xjVgyAXeRkCAlHkwOjjlIIAAgjrkN1ITCOFkcIj8wX_tW_8XicYU5SMsrxGxv-v2di49-ODYQT16zy1wIbchQ6gf4K_oKJ1En8jba6NAoACvy3S2OgTQyLelveMDIwXkT4glxbdk848kLu3xIbULZyuaXTmA&__tn__=-R",
+            "name": "جنه الخلد",
+            "path": "published/2_1601826558_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/groups/774325409422706/permalink/1416992365156004/?__xts__%5B0%5D=68.ARC3wcHg-86XVMZP8BhbE-JngSik_0MtoNR9FFGXyOSDukI2pI41Tm8slBH9HLUrioYaIdZ5ptJWzsG6zVruHjYfYeRAxI2KsNT9CtizLFdSE1S5Pq5_a4fTbinmyUCxFgSGeBYG9HoDfP0M4BmGqsZg4MipbQ5zVJ69DTv0pC3oOtK_qSRJ80eUU4CVJyF_pc3HPKCmwPokkZG1ycvlSS5vmOcCvgZp3kxHikgeHxghlIXL2iNpV0qeWZQdA1G0cQWrb04CGIrRMGfSyGwzs3DioosFQg5i-NEsv3iOIsmezUFs96XlK944ISxPROE9oG1zhWhA_DECUmJNnf4DJiRsXspG42cdbBP1AkPO8d5c1kaHrV7-8rJE34BynAX5OTgSMTD5Zw&__tn__=-R",
+            "name": "Mĕñ Nã ",
+            "path": "published/3_1601826558_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "http://بوسي مازن",
+            "name": "بوسي مازن",
+            "path": "published/4_1601826558_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/groups/1300483303493764/permalink/1530397040502388/?__xts__%5B0%5D=68.ARDQhj6R2CiWd9oU5_KoWth5L-90rvIZOsH_SfTNOFQnuFgcu-Xqz9I1AjzcC9LVR34SwTu8iBM1I0rAR2B-iuVwTxTPAT_GBv5oVpIOZii9gp_OpSCUFSeIgOCYpT1QjXs8rnt1v-AVwspiD_zpGUffiUuaFX2NW8_HgpOsNv4X2JQI9H3rNwcCjtwPLKmDjUnH8SZSR6FGlFdjbgSHNHJW19aNJJcbDNb7HDhYGUXloUD_icYF41p15EbSKAeUSkqVc8iBqRaTECd_K83_TtwLL8-_2_YDqSd3f2oB_CJWxHLu4WS7ZYhouAkeA5SL4v97AkldbG-_FmNNJejFxkPpzUhRrsIm8H1Qrw4SnpMyU5tjOJxi0PA_CEvDVJOEpX9t95FFC0E&__tn__=-R",
+            "name": "Tarig Čabtion ",
+            "path": "published/5_1601826558_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/groups/703252606907612/permalink/753072198592319/",
+            "name": "Abeer Wanoos",
+            "path": "published/6_1601826558_facebook.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.otaghkhabar24.com/news/134357",
+            "name": "otaghkhabar24",
+            "path": "sources/0_1601826743_24.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/rmantha2/status/665212750788882432",
+            "name": "Ravi Mantha",
+            "path": "sources/1_1601826743_bv_CcATx_400x400.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الصورة ليست لطفل تائه في مصر أو في دولة عربية أخرى",
+    "updated_at": "2020-10-04 19:03:29",
+    "url_path": "/factcheck/2020/10/04/الصورة-ليست-لطفل-تائه-في-مصر-ولا-أي-دولة-عربية",
+    "was_notification_pushed": "true"
+}

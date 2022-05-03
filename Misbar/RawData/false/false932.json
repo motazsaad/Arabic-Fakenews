@@ -1,0 +1,95 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1680,
+    "author": {
+        "fullname": "مريم هواري",
+        "id": "5e299460d4a22939983a3ec5",
+        "photo": {
+            "path": "authors/1579791192_Maryam.jpg"
+        }
+    },
+    "category": "News",
+    "claim": "<p>إعلاميو الجزيرة يحصلون على مكافآت مالية قيمتها أعلى من مليون دولار.</p>\r\n",
+    "country": "",
+    "created_at": "2020-02-17 19:00:04",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5e4ab884d4a22979a7151db3",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الخبر زائف للأسباب التالية، أولاً، يظهر في الوثيقة المتداولة استخدام مصطلح &quot;Depends&quot; الذي يعني &quot;يُعتمد&quot;، إلا أنّ الوثيقة استخدمته كمقابل&nbsp;لكلمة &quot;يُعتمد&quot; في اللغة العربية،&nbsp;للإشارة إلى الاعتماد الرسمي من قبل الإدارة أو الجهة المسؤولة في المؤسسة، مما يزيد الشك حول صحّة ومصداقية الوثيقة، فلا يُسخدم هذا المصطلح&nbsp;في هذا النوع من الوثائق كما هو مذكور. وثانياً،&nbsp;إن&nbsp;مجموع المبالغ المذكورة&nbsp;هو 1،750،000 دولار وليس 1،850،000 دولار كما هو مذكور في الوثيقة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;وتجدر الإشارة&nbsp;أن عدد من الإعلاميين الذين أُدرجت أسماؤهم في الوثيقة المتداولة نفوا&nbsp;ما جاء في الخبر وأعلنوا أن الوثيقة مزوّرة&nbsp;عن طريق تغريدات ساخرة على شبكة التواصل الاجتماعي&nbsp;تويتر،&nbsp;وأشارت&nbsp;الإعلامية روعة أوجيه أن اسم والدها المذكور في الوثيقة خاطئ.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_b8wgt21ag.jpg\" style=\"height:318px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_bs8mlw2w4.jpg\" style=\"height:522px; width:299px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_eq8sfpj5h.jpg\" style=\"height:395px; width:298px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_7m7sn255t.jpg\" style=\"height:461px; width:298px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت بعض الصحف يوم الاثنين 17 شباط/فبراير من العام الجاري، صورة لوثيقة نُسبت إلى شبكة الجزيرة الإعلامية تتضمّن قائمة بمكافآت مالية لصالح&nbsp;ثمانية إعلاميين في قناة الجزيرة تتجاوز قيمتها مليون دولار.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_pj37apmka.jpg\" style=\"height:396px; width:566px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_jbf4simd5.jpg\" style=\"height:550px; width:297px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_205hpg6xl.jpg\" style=\"height:709px; width:553px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_lwj81mezt.jpg\" style=\"height:654px; width:623px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_2gsud7wqv.jpg\" style=\"height:658px; width:394px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1581955342GettyImages-1195347643.jpg"
+    },
+    "post_date": "2020-02-17T17:46:00.000+03:00",
+    "published": [
+        {
+            "link": "https://sabq.org/rVpQ7d",
+            "name": "صحيفة سبق الإلكترونية",
+            "path": "published/0_1581955203_SABQ logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/sabqorg/status/1229300202118488064",
+            "name": "صحيفة سبق الإلكترونية",
+            "path": "published/1_1581955204_sabq twitter logo.jpg"
+        },
+        {
+            "link": "https://al-marsd.com/428267.html",
+            "name": "صحيفة المرصد",
+            "path": "published/2_1581955204_almarsad logo.jpg"
+        },
+        {
+            "link": "https://www.midline-news.net/%D9%85%D8%B0%D9%8A%D8%B9%D9%88-%D8%A7%D9%84%D8%AC%D8%B2%D9%8A%D8%B1%D8%A9-%D9%8A%D8%AA%D9%82%D8%A7%D8%B6%D9%88%D9%86-%D8%A3%D8%B1%D9%82%D8%A7%D9%85%D9%8B%D8%A7-%D9%81%D9%84%D9%83%D9%8A%D8%A9-%D9%85/  ",
+            "name": "Midline NEWS",
+            "path": "published/3_1581955204_midline news.jpg"
+        },
+        {
+            "link": "https://twitter.com/AlArabiya/status/1229464008694075392",
+            "name": "العربية",
+            "path": "published/4_1581976834_التقاطننن.JPG"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/OlaAlfares/status/1229343249116123136",
+            "name": "Ola Al Fares",
+            "path": "sources/0_1581955203_ola al fares logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/WajdWaqfi/status/1229373470687055874 ",
+            "name": "Wajd Waqfi وجد وقفي",
+            "path": "sources/1_1581955203_wajd waqfi logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/Rawaak/status/1229225376393637889 ",
+            "name": "Rawaa Augé روعة أوجيه",
+            "path": "sources/2_1581955203_rawaa auge logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ما حقيقة المكافآت المالية الباهظة التي حصل عليها إعلاميو الجزيرة؟",
+    "updated_at": "2020-09-25 10:46:24",
+    "url_path": "/factcheck/2020/02/17/ما-حقيقة-المكافآت-المالية-الباهظة-التي-حصل-عليها-إعلاميو-الجزيرة"
+}

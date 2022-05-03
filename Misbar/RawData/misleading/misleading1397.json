@@ -1,0 +1,105 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 1,
+        "fb": 4,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1948,
+    "author": {
+        "fullname": "محمد اللكود",
+        "id": "5e27f69dd4a2294c812c1af3",
+        "photo": {
+            "path": "authors/1579694210_صورة شخصية.jpg"
+        }
+    },
+    "category": "Politics",
+    "claim": "<p><span dir=\"RTL\" lang=\"AR-SA\">استقالة ثلاثة رؤساء بلديات في تركيا من حزب العدالة والتنمية بسبب سياسات أردوغان الفاشلة</span><span dir=\"RTL\" lang=\"AR\">.</span></p>\r\n",
+    "country": "TR",
+    "created_at": "2020-01-22 13:16:41",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e282109d4a2297eeb350c04",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">عاد &quot;مسبار&quot; إلى موقع تركيا الآن الذي استقت منه تلك المواقع العربية الخبر؛ ووجد بالفعل خبر استقالة ثلاثة رؤساء مقاطعات تركية من حزب العدالة والتنمية، إلّا أنّ موقع تركيا الآن اكتفى بذكر خبر الاستقالة وأسماء المستقيلين والبلديات التي كانوا يترأسونها، دون أدنى إشارة إلى الأسباب التي دفعتهم لتقديم استقالاتهم.</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": false,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت عدّة مواقع الكترونية يوم الأحد 15 ديسمبر/ كانون الأول 2019، خبراً أفاد باستقالة ثلاثة رؤساء بلديات تركية من حزب العدالة والتنمية الحاكم، وذلك بسبب السياسات الفاشلة للرئيس رجب طيب أردوغان، وأرجعت تلك المواقع مصدر هذا الخبر إلى موقع تركيا الآن. وجاء فيه أيضاً &quot;استقال 57 ألف عضو من حزب العدالة والتنمية التركي الحاكم خلال شهرين ونصف الشهر، بسبب ما آلت إليه أوضاع البلاد الاقتصادية وتفشي ظاهرة الانتحار الجماعي وانهيار منظومة التعليم وبيع القطاع العام، في ظل سياسات الرئيس رجب طيب أردوغان&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><br />\r\n<span dir=\"LTR\"><span style=\"color:red\"><img id=\"Picture_x0020_9\" src=\"https://images-prod.misbar.com/articlebody/origin_300baeb90c632eefea0be9917a70329f.jpg\" style=\"height:291pt; width:205.5pt\" /> </span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"image4.png\" src=\"https://images-prod.misbar.com/articlebody/origin_f2659954bb3803075b0d59b4e115370f.jpg\" style=\"height:242.25pt; width:285.75pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"color:red\"><img id=\"Picture_x0020_10\" src=\"https://images-prod.misbar.com/articlebody/origin_f7a784c2db75da802c2bebdba98eb825.jpg\" style=\"height:367.5pt; width:272.25pt\" /> </span></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1579763781GettyImages-1154618163.jpg"
+    },
+    "post_date": "2020-01-22T20:09:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.youm7.com/story/2019/12/15/3-رؤساء-بلديات-تركية-يعلنون-استقالتهم-من-حزب-أردوغان-بسبب/4546363",
+            "name": "اليوم السابع",
+            "path": "published/0_1579717693_youm-7.jpg"
+        },
+        {
+            "link": "https://gulf365.co/world-news/6355946/3-رؤساء-بلديات-تركية-يعلنون-استقالتهم-من-حزب-أردوغان-بسبب-سياساته-الفاشلة.html",
+            "name": "الخليج 365",
+            "path": "published/1_1579717827_dfsfghjgkfh.jpg"
+        },
+        {
+            "link": "https://www.elbayan-news.com/2976307",
+            "name": "البيان نيوز",
+            "path": "published/2_1579717827_sdgfdhfjgkjhhg.jpg"
+        },
+        {
+            "link": "https://abudhabi-news.com/egypt/7378267/3-رؤساء-بلديات-تركية-يعلنون-استقالتهم-من-حزب-أردوغان-بسبب-سياساته-الفاشلة",
+            "name": "أبو ظبي نيوز",
+            "path": "published/3_1579717827_32323.jpg"
+        },
+        {
+            "link": "https://www.masralyoum.net/Policy/1162279/3-رؤساء-بلديات-تركية-يعلنون-استقالتهم-من-حزب-أردوغان-بسبب-سياساته-الفاشلة",
+            "name": "مصر اليوم",
+            "path": "published/4_1579717827_1213.jpg"
+        },
+        {
+            "link": "",
+            "name": "",
+            "path": null
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.aa.com.tr/ar",
+            "name": "وكالة أنباء الأناضول",
+            "path": "sources/0_1579717827_343434.jpg"
+        },
+        {
+            "link": "https://tr.agency",
+            "name": "وكالة أنباء تركيا",
+            "path": "sources/1_1579717827_344545.jpg"
+        },
+        {
+            "link": "https://arab-turkey.com/category/أخبار-تركيا-السياسية/",
+            "name": "تركيا بالعربي",
+            "path": "sources/2_1579717827_5656545.jpg"
+        },
+        {
+            "link": "ergtehttps://www.youtube.com/watch?v=8m03K4l9_uc",
+            "name": "CNN",
+            "path": null
+        }
+    ],
+    "stats": null,
+    "subtitle": "هل حقاً استقال 3 رؤساء بلديات في تركيا بسبب سياسات أردوغان؟ ",
+    "title": "هل حقاً استقال 3 رؤساء بلديات في تركيا بسبب سياسات أردوغان؟ ",
+    "updated_at": "2020-09-25 06:59:17",
+    "url_path": "/factcheck/2020/01/22/هل-حقا-استقال-3-رؤساء-بلديات-في-تركيا-بسبب-سياسات-أردوغان"
+}

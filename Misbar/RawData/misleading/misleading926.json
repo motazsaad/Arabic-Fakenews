@@ -1,0 +1,98 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2106,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "يصل طول الثعلب الطيار نحو 30 سم (فيسبوك)",
+    "category": "Science",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">صورة لخفاش في حجم الإنسان، عُثر عليه في الفلبين.</span></p>\r\n",
+    "country": "PH",
+    "created_at": "2020-07-08 13:14:34",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f059c8a163be306ea34ddf7",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من الصورة المتداولة ووجد أنها مضللة. الصورة الأصلية متداولة على الإنترنت منذ سنوات، ولا يوجد دليل مؤكد على مكان وتاريخ التقاطها، لكنها لا تُظهر خفاشاً بحجم الإنسان، وإنما خفاشاً من نوع الثعلب الطيّار ذو التاج الذهبي، الذي يتواجد في أستراليا والفلبين وبلدان أخرى. يصل طوله إلى نحو </span><a href=\"https://www.britannica.com/animal/flying-fox\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>30 سم</u></span></a><span style=\"color:#000000\">، ويصل عرضه عندما يفتح جناحيه </span><a href=\"https://www.nwc.org.au/wp-content/uploads/2016/12/Flying_Fox_Article_June2010.pdf\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>قرابة متر</u></span></a><span style=\"color:#000000\">. وهو حيوان نباتي مهدّد بالانقراض.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">إذاً، هذا النوع من الخفافيش لا يصل طوله إلى طول الإنسان. ومن المرجّح أنّ تقدير طوله الخاطئ جاء بسبب الصورة التي تُظهره إلى جانب حائط بعيد عنه، مما جعله يبدو أطول مما هو عليه.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_58aqqwmna.jpg\" style=\"height:378px; width:529px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل صفحات وحسابات على مواقع التواصل الاجتماعي، منذ سنوات، صورة لخفّاش بحجم الإنسان، عُثر عليه في الفلبين.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"677\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FMarjalhamamnow%2Fposts%2F1725367624293529&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_qq0t99vo6.jpg\" style=\"height:534px; width:534px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 179,
+        "left": -0.4000244140625,
+        "path": "articles/1594203274غلاف.jpg",
+        "top": 140.11669921875,
+        "totalHeight": 423,
+        "totalWidth": 317,
+        "watermark_path": "articles/watermark-1594203274غلاف.jpg",
+        "width": 318
+    },
+    "post_date": "2020-07-08T13:10:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/AlexJoestar622/status/1275653432897126401",
+            "name": "Alex",
+            "path": "published/0_1594203614_اليكس.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Marjalhamamnow/posts/1725367624293529",
+            "name": "مرج الحمام الآن",
+            "path": "published/1_1594203614_مرج.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1217002255311587&id=100010054710732&__xts__[0]=68.ARAtkmV-Er0bHxlNpid9xUIYVKgfWCrWFmshCtSWPosvfnhPJHJm_5mxKvPxI2qu1b4tlEPY2E8ldLcs-TbUNIbGSYyCXHK0I6dxISITiF2wY-nBrlGKUO90unZfkgxNGs0EUWViHHmMshZWptQbVSQJpRsnBHgUPih_7JhPOfs-zCuZpfrNnkOB5rmQLPvhOP9wKCNPoouxFsFyL8PWvgfd7HH6XP8pueryOK1zNX1XG9KvHsyNu_zzmFdLM1HIT5SsP__EtVkOmhqwGHkTHW1790nd6EHeaFM_GpqHlYZx4dZKi8x38tO0XghHjYW2IBthTKxwAzxJRk-I0cF1Ey2PCA&__tn__=-R",
+            "name": "وفاء محمد",
+            "path": "published/2_1594204114_وفاء.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/1016018745197007/permalink/1967606816704857/?__tn__=-R",
+            "name": "Nawal ALqadi",
+            "path": "published/3_1594204114_نوال.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/eng.m.altayeb/posts/3148591441892106?__tn__=-R",
+            "name": "Eng Muneera Altayeb",
+            "path": "published/4_1594204114_انج.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.nwc.org.au/wp-content/uploads/2016/12/Flying_Fox_Article_June2010.pdf",
+            "name": "New South Wales Wildlife Council",
+            "path": "sources/0_1594203273_n.jpg"
+        },
+        {
+            "link": "https://www.britannica.com/animal/flying-fox",
+            "name": "Encyclopaedia Britannica",
+            "path": "sources/1_1594203273_brit.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذا الخفاش لا يصل طوله إلى طول الإنسان",
+    "updated_at": "2020-09-25 16:09:54",
+    "url_path": "/factcheck/2020/07/08/هذا-الخفاش-لا-يصل-طوله-إلى-طول-الإنسان"
+}

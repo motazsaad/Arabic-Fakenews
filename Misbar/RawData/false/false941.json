@@ -1,0 +1,102 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2202,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">سلطنة عُمان تستدعي سفيرها في الدوحة وتدعو قطر للكف عن نشاطاتها المزعزعة للاستقرار والأمن.</p>\r\n",
+    "country": "",
+    "created_at": "2020-02-12 15:54:19",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e43f57bd4a229117b146954",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تأكد &quot;مسبار&quot; من أنَّ الخبر المتداول غير صحيح، ولم يُعلن أيُّ مصدر رسميّ في سلطنة عُمان عن استدعاء سفير السلطنة في الدوحة. وخلال الأيام القليلة الماضية التي تم فيها تداول الخبر، ظهر سفير سلطنة عُمان نجيب بن يحيى البلوشي يوم 9 فبراير/ شباط، خلال زيارة لمعرض قدامى لاعبي نادي قطر في العاصمة القطرية الدوحة، وهو ما يؤكد أيضاً أنَّ السفير العُماني لم يغادر قطر.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_nwhxc78kb.jpg\" style=\"height:501px; width:504px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت بعض المواقع وعدد من مستخدمي &quot;فيسبوك&quot; و&quot;تويتر&quot;، خبراً أنَّ سلطنة عُمان قررت استدعاء سفيرها من الدوحة، وأنَّ السلطة دعت دولة قطر للكف عن نشاطاتها المزعزعة للاستقرار والأمن. وذكر الخبر أنَّ هذا القرار جاء بتوجيهات من &quot;هيثم بن طارق&quot; سلطان عُمان.</p>\r\n\r\n<h2 dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_be7g2xmch.jpg\" style=\"height:431px; width:572px\" /></span></h2>\r\n\r\n<h2 dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"color:#f73832\"><img src=\"https://images-prod.misbar.com/articlebody/origin_y48vt4gr4.jpg\" style=\"height:587px; width:503px\" /></span></span></h2>\r\n\r\n<h2 dir=\"RTL\" style=\"text-align:justify\">&nbsp;</h2>\r\n\r\n<h2 dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"color:#f73832\"><img src=\"https://images-prod.misbar.com/articlebody/origin_cpdhcoqhv.jpg\" style=\"height:453px; width:509px\" /></span></span></h2>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 391,
+        "left": 6.7867889404296875,
+        "path": "articles/1581512059هيثم.jpg",
+        "top": 26.275787353515625,
+        "totalHeight": 423,
+        "totalWidth": 704,
+        "width": 694
+    },
+    "post_date": "2020-02-12T15:42:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.mashahid.net/world-news/%D8%B3%D9%84%D8%B7%D9%86%D8%A9-%D8%B9%D9%85%D8%A7%D9%86-%D8%AA%D8%B3%D8%AA%D8%AF%D8%B9%D9%8A-%D8%B3%D9%81%D9%8A%D8%B1%D9%87%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%88%D8%AD%D8%A9/",
+            "name": "مشاهد",
+            "path": "published/0_1581512058_مشاهد.JPG"
+        },
+        {
+            "link": "https://mobile.alrayah.org/47524/",
+            "name": "الراية",
+            "path": "published/1_1581512058_الراية.JPG"
+        },
+        {
+            "link": "https://twitter.com/Mah_774/status/1225696495350902785",
+            "name": "Maha Hamoud",
+            "path": "published/2_1581512058_maha-hammod.jpg"
+        },
+        {
+            "link": "https://twitter.com/MUTH3B/status/1226129972403802112",
+            "name": "MUTHEB|مثيب",
+            "path": "published/3_1581512058_مثيب.jpg"
+        },
+        {
+            "link": "https://twitter.com/bolbolbakhshwen/status/1225883281700290560",
+            "name": "تحيا مصر",
+            "path": "published/4_1581512059_تحيا-مصر.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=143994723737203&id=100043800276440",
+            "name": "ثروت سلامة",
+            "path": "published/5_1581512059_ثروت-سلامة.JPG"
+        },
+        {
+            "link": "",
+            "name": "",
+            "path": null
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/OmanEmbassydoha",
+            "name": "سفارة سلطنة عمان- الدوحة",
+            "path": "sources/0_1581512058_سفارة-عمان.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "عُمان تستدعي سفيرها في الدوحة... خبر كاذب",
+    "updated_at": "2020-09-24 21:45:42",
+    "url_path": "/factcheck/2020/02/12/عمان-تستدعي-سفيرها-في-الدوحة-خبر-كاذب"
+}

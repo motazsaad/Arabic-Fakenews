@@ -1,0 +1,84 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 398,
+    "author": {
+        "fullname": "رشيد عفيف",
+        "id": "5ec4e956db291667784c4bc4",
+        "photo": {
+            "name": "1589963094_رشيد صورة.jpg",
+            "path": "authors/1589963094_رشيد صورة.jpg"
+        }
+    },
+    "caption": " نفت ابنته خبر وفاته (Iqraa.news)",
+    "category": "Arts & Culture",
+    "claim": "<p>وفاة المطرب المغربي عبد الهادي بلخياط.&nbsp;</p>\r\n",
+    "country": "MA",
+    "created_at": "2020-07-28 20:05:22",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f205ad2163be306536fbe16",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق مسبار من الخبر المتداول ووجد أنه زائف؛&nbsp;فقد خرجت ابنته مريم بلخياط في مقطع فيديو ضمن برنامج شوفTVـ تؤكد كون والدها بصحة جيدة، ومعبرة عن استغرابها من الإشاعة التي أثارت رعب أفراد عائلتها، مضيفة&nbsp;&quot; هو لاباس عليه، ما عندوش أي حاجة&quot;.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/ZmXQOyFgdYo\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات وحسابات على موقع التواصل الاجتماعي فيسبوك، &nbsp;في الساعات الأخيرة، خبراً عن وفاة المطرب المغربي عبد الهادي.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_deihye8cx.jpg\" style=\"height:468px; width:216px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_n17jezw16.jpg\" style=\"height:468px; width:216px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 408,
+        "left": 44.75,
+        "path": "articles/15959559224443.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 791,
+        "watermark_path": "articles/watermark-15959559224443.jpg",
+        "width": 725
+    },
+    "post_date": "2020-07-28T18:30:00.000+03:00",
+    "published": [
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=174302374144279&id=106417640932753",
+            "name": "هنا قسنطينة",
+            "path": "published/0_1595955922_هنا.JPG"
+        },
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=2321202864853273&id=1737873713186194",
+            "name": " Smart-promo",
+            "path": "published/1_1595955922_سما.JPG"
+        },
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=3129577657098078&id=148285828560624",
+            "name": "Choupot Oran",
+            "path": "published/2_1595955922_ييس.JPG"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=ZmXQOyFgdYo&feature=youtu.be",
+            "name": "Chouf tv",
+            "path": "sources/0_1595955922_ثث.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "المطرب المغربي عبد الهادي بلخياط لم يمت",
+    "updated_at": "2020-09-25 06:52:54",
+    "url_path": "/factcheck/2020/07/28/المطرب-المغربي-عبد-الهادي-بلخياط-لم-يمت"
+}

@@ -1,0 +1,123 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 23067,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "التُقطت الصورة أثناء زيارة صدام حسين إلى فرنسا عام 1975 (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة تُظهر فلاديمير بوتين وهو يُقدّم الضيافة بنفسه للرئيس العراقي الأسبق&nbsp;صدام حسين.</p>\r\n",
+    "country": "IQ",
+    "created_at": "2020-05-26 10:09:24",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eccc0a4db291628002e2534",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة المتداولة، وتأكّد من أنها زائفة، فهي ليست من روسيا، إنّما التُقطت أثناء زيارة الرئيس العراقي الأسبق&nbsp;صدام حسين إلى فرنسا في أوائل شهر مارس/آذار عام 1975، وذلك خلال غداء عمل جمعه مع رئيس الوزراء الفرنسي آنذاك جاك شيراك.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_1oiw6pk5l.jpg\" style=\"height:613px; width:1140px\" /></span></strong></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">يُعد مستخدمون على موقعي التواصل الاجتماعي فيسبوك وتويتر، نشر صورة يدعون أنها تُظهر فلاديمير بوتين، وهو يُقدم الضيافة بنفسه للرئيس العراقي الأسبق&nbsp;صدام حسين، وذلك في الفترة التي كان فيها بوتين موظفاً يعمل على خدمة ضيوف الاتحاد السوفييتي.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_oaq34sclx.jpg\" style=\"height:463px; width:490px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_dea7h9jd4.jpg\" style=\"height:602px; width:501px\" /></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"619\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D655096928655282%26id%3D100024649424146&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 333,
+        "left": 1.63067626953125,
+        "path": "articles/1590476963GettyImages-51346264.jpg",
+        "top": 29,
+        "totalHeight": 423,
+        "totalWidth": 597,
+        "watermark_path": "articles/watermark-1590476963GettyImages-51346264.jpg",
+        "width": 592
+    },
+    "post_date": "2020-05-26T09:57:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/groups/3shaqsdam/permalink/2520825778130036/",
+            "name": "Hussain Rifai",
+            "path": "published/0_1590476961_Hussain Rifai.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/1441504326158534/permalink/2239981066310852/",
+            "name": "مودي محمودي",
+            "path": "published/1_1590476961_Facebook_logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=2371904069798492&set=a.1794268524228719&type=3&theater",
+            "name": "Mohand Shaheen",
+            "path": "published/2_1590476962_Mohand Shaheen.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=655096928655282&id=100024649424146",
+            "name": "عبد الواحد محمد",
+            "path": "published/3_1590476962_عبد الواحد محمد.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/haamzatwasel/permalink/2893113760748779/?__tn__=H-R",
+            "name": "لغز الماضي",
+            "path": "published/4_1590476962_لغز الماضي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1661644354161654&id=100009483169826",
+            "name": "ابراهيم الأحمد",
+            "path": "published/5_1590476962_ابراهيم الأحمد.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=2173911112846524&set=a.1451140621790247&type=3&theater",
+            "name": "Hachem Hachem",
+            "path": "published/6_1590476962_Hachem Hachem.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=199424748101863&id=103334767710862&__tn__=-R",
+            "name": "هواة العلوم",
+            "path": "published/7_1590476962_هواة العلوم.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=2460698720927354&set=a.1623930277937540&type=3&theater",
+            "name": "Nasser Esmail",
+            "path": "published/8_1590476963_Nasser Esmail.jpg"
+        },
+        {
+            "link": "https://twitter.com/FawziZeidan/status/1013277050134810624",
+            "name": "Dr.Fawzi Zeidan",
+            "path": "published/9_1590476963_Dr.Fawzi Zeidan.jpg"
+        },
+        {
+            "link": "https://twitter.com/zo0om99/status/693584267473920000",
+            "name": "عزام العيادة",
+            "path": "published/10_1590476963_عزام العيادة.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.gettyimages.ae/detail/news-photo/iraqi-vice-president-saddam-hussein-has-a-lunch-03-march-news-photo/51346264?adppopup=true",
+            "name": "Getty",
+            "path": "sources/0_1590476963_gettyimages icon.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "بوتين قدّم الضيافة بنفسه لـ صدام حسين.. حقيقة الصورة",
+    "updated_at": "2020-09-25 15:25:27",
+    "url_path": "/factcheck/2020/05/26/بوتين-يقدم-الضيافة-بنفسه-لـ-صدام-حسين-حقيقة-الصورة"
+}

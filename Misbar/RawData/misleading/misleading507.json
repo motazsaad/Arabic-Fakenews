@@ -1,0 +1,129 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 700,
+    "author": {
+        "fullname": "خالد إسماعيل",
+        "id": "5e59256dd4a2295224257db3",
+        "photo": {
+            "name": "1582900589_صورة 2.jpg",
+            "path": "authors/1582900589_صورة 2.jpg"
+        }
+    },
+    "caption": "حاولت اللبؤة إنقاذ الجنين وامتنعت عن التهام الغزال ولكنها لم تمت (Colers News Agency)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\"><span style=\"color:black\">أثناء التهام أنثى الأسد&nbsp;لغزال&nbsp;وجدت بين أحشائها جنينا، فحاولت إنقاذه ولكنها لم تستطع، فاستلقت بجوار فريستها وبعد قليل اكتشف المصور الذي التقط الصور أنها ماتت من الحزن على قتلها للغزالة الحامل</span><span dir=\"LTR\"><span style=\"color:black\"> .</span></span></p>\r\n",
+    "country": "",
+    "created_at": "2020-10-13 13:35:22",
+    "created_by": "5f39b1ee1dd5850789476b61",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 20,
+    "id": "5f8582ea059da11e7813733c",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تحقق &quot;مسبار&quot; من الصورتين والقصة المصاحبة لهما، وتبيّن أنَّ القصة المتداولة مضللة، فبرغم أنَّ جزء من القصة صحيح إلا أنَّ النهاية مختلفة. إذ أنَّ القصة التي سردها المصور &quot;جيري فان دير فولت&quot; الذي وثق بكاميرته هذه اللحظات تحدثت عن أنَّ اللبؤة حاولت التأكد مما إذا كان الجنين لا يزال على قيد الحياة، وعندما اكتشفت أنه مات، سارت متوترة تنظر حولها كما لو كانت تطلب المساعدة أو تحميه من خطر ما، وأخفته بعناية خلف الأدغال وتوقفت عن التهام الفريسة واستلقت بجوارها، وسرد المصور أنَّها تعاملت بغريزة الأمومة في حمايتها للجنين ومحاولة إنقاذه كما لو كان أحد أشبالها، ولكن في النهاية لم تمت اللبؤة حزنا على قتلها للغزال الحامل. </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">يُذكر أنه&nbsp;تم التقاط الصور في Madikwe Game Reserve، وهي منطقة للحياة البرية في جنوب إفريقيا.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><u><span dir=\"LTR\" lang=\"AR-SA\" style=\"color:#0563c1\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_s0hcbhf4d.jpg\" style=\"height:419px; width:601px\" /></span></u></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/investigation_nbug8zpag.jpg\" style=\"height:515px; width:581px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تداولت حسابات وصفحات على منصات التواصل الاجتماعي صورتين إحداهما للبؤة تلتهم غزال، والأخرى لنفس اللبؤة وهي مستلقية بجوار فريستها، مع الادعاء بأنَّها فوجئت أثناء افتراسها للغزال بوجود جنين بين أحشائها؛ فارتبكت وحاولت إنقاذ الجنين، وحين فشلت إستلقت بجانب فريستها، ولما توجه المصور إليها فيما بعد وجدها قد فارقت الحياة حزناً على قتلها الغزال الحامل.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_hinm8wo4g.jpg\" style=\"height:782px; width:547px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_yiiexcca0.jpg\" style=\"height:776px; width:542px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_lnmz98vu5.jpg\" style=\"height:770px; width:549px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><u><span dir=\"LTR\" lang=\"EN-GB\" style=\"color:#0563c1\"><img src=\"https://images-prod.misbar.com/articlebody/origin_edlgj7ram.jpg\" style=\"height:811px; width:549px\" /></span></u></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/160258598273b1213314c9.jpg",
+        "watermark_path": "articles/watermark-160258598273b1213314c9.jpg"
+    },
+    "post_date": "2020-10-13T13:20:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/photo?fbid=2737055469888030&set=pcb.4122677547749509",
+            "name": "عادل نعيم ",
+            "path": "published/0_1602585319_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/photo/?fbid=422162282098599&set=pcb.1175363069501082",
+            "name": "أبو عبد الله الكريولي ",
+            "path": "published/1_1602585319_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/photo/?fbid=1222834408073180&set=gm.1319916131759009",
+            "name": "Ahmed baladi",
+            "path": "published/2_1602585320_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/100812511293172/photos/a.100826671291756/401736441200776/",
+            "name": "شبكة سوريا الساحل ",
+            "path": "published/3_1602585320_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/photo/?fbid=3417947748293199&set=pcb.3342407379128288",
+            "name": "محمود سيد مرسي ",
+            "path": "published/4_1602585320_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/photo?fbid=2715100052091980&set=pcb.2715100152091970",
+            "name": "محمد نور الدين ",
+            "path": "published/5_1602585320_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/rorolove888/status/784519166413922304",
+            "name": "Rewa",
+            "origin": "twitter",
+            "path": "published/6_1602585320_da13c2e83b9c7fc141359fe12baf0239d0354b66.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/lawyer_amol/status/1044914221773987840",
+            "name": "Amool⁦⁦",
+            "origin": "twitter",
+            "path": "published/7_1602585320_1ba9651372a68fa9bf474d74057f03ae06ad5f7e.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/ensana.fwdwia/photos/a.290472758015243/1093201627742348",
+            "name": "إنسانة فوضوية ",
+            "path": "published/8_1602585794_7ada239b3c9a5c6f314bd1cf880de59f98e7dba0.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.beliefnet.com/espanol/una-leona-descubre-que-la-cierva-que-comia-estaba-embarazada-lo-que-hace-con-el-feto-es-insolito",
+            "name": "Beliefnet",
+            "path": "sources/0_1602585321_beliefnet1.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://oxu.az/interesting/48132",
+            "name": "oxu.az",
+            "path": "sources/1_1602585321_e60836d91d3af53d6c24d57c792d989c569901d7.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "في هذه الصورة لم تمت أنثى الأسد حزناً على قتلها غزالة حامل",
+    "updated_at": "2020-10-13 13:59:59",
+    "url_path": "/factcheck/2020/10/13/في-هذه-الصورة-لم-تمت-أنثى-الأسد-حزنا-على-قتلها-غزالة-حامل",
+    "was_notification_pushed": true
+}

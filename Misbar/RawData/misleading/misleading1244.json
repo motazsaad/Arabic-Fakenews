@@ -1,0 +1,97 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1601,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "الممرضة برازيلية وليست مصرية (مواقع التواصل الاجتماعي)",
+    "category": "Health",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">بعد ساعات طويلة من العمل في جناح العزل الطبي، صورة لبطلة مصرية من جيش مصر الأبيض.</span></p>\r\n",
+    "country": "EG",
+    "created_at": "2020-04-15 15:39:10",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e97006edb29165c116fe294",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من الصورة المتداولة ووجد أنها مضللة. لأن الصورة تعود إلى الممرضة البرازيلية Amanda Ramalho.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_3fcd7005058614e5987c6489510b97d2.jpg\" style=\"height:536px; width:844px\" /></p>\r\n\r\n<p>&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "كورونا",
+        "كوفيد-19",
+        "كورونا مصر",
+        "مصر",
+        "تمريض"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تداولت صفحاتٌ على مواقع التواصل الاجتماعي صورة ادّعت أنها لممرضة مصرية تعمل في أحد أجنحة العزل الطبي، وتُظهر الصورة آثار ارتداء الكمامة الطبية لساعات طويلة.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_qggslz4n9.jpg\" style=\"height:390px; width:543px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_j7wm6qvr4.jpg\" style=\"height:385px; width:542px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 269,
+        "left": -0.29998779296875,
+        "path": "articles/1586954348غلاف2.jpg",
+        "top": 36,
+        "totalHeight": 423,
+        "totalWidth": 480,
+        "watermark_path": "articles/watermark-1586954348غلاف2.jpg",
+        "width": 479
+    },
+    "post_date": "2020-04-15T15:31:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/Namberx6/posts/152352662930647",
+            "name": "Namber X",
+            "path": "published/0_1586954347_namber-logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/480628572331081/permalink/1026504061076860/",
+            "name": "معتز قدري",
+            "path": "published/1_1586954347_معتز-قدري-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/1178792848906167/permalink/2834507830001319/",
+            "name": "حمادة",
+            "path": "published/2_1586954347_حمادة-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Mumammad.shams55/posts/229594581786947",
+            "name": "صفحة عمار يا مصر",
+            "path": "published/3_1586954347_عمار-يامصر-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/anticoronaegy/posts/2470528746381152",
+            "name": "الحملة الرسمية للقضاء على كورونا",
+            "path": "published/4_1586954348_الحملة-الرسمية-لوغو.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.instagram.com/p/B-xhljcAr5P/",
+            "name": "Amanda Ramalho",
+            "path": "sources/0_1586954348_The_Instagram_Logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "كورونا مصر: هذه الصورة لممرضة برازيلية",
+    "updated_at": "2020-09-25 06:54:34",
+    "url_path": "/factcheck/2020/04/15/كورونا-مصر-هذه-الصورة-لممرضة-برازيلية"
+}

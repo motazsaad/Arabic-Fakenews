@@ -1,0 +1,137 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 177,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "حطام سيارات مكدسة بعد أن جرفتها السيول (فيسبوك)",
+    "category": "News",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">مكان لجمع السيارات الخردة في إسبانيا.</span></p>\r\n",
+    "country": "ES",
+    "created_at": "2020-12-06 15:39:41",
+    "created_by": "5f39b5a51dd585076701cb94",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 6,
+    "feedback_pos": 10,
+    "id": "5fccd10d7c54a414a95ddbb7",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;<a href=\"https://misbar.com/factcheck/2020/11/28/%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%B1%D8%B3%D9%85-%D8%A7%D8%B3%D9%85-%D9%85%D8%AD%D9%85%D8%AF-%D8%B1%D9%85%D8%B6%D8%A7%D9%86-%D8%B9%D9%84%D9%89-%D8%B4%D8%A7%D8%B7%D8%A6-%D8%BA%D8%B2%D8%A9-%D9%82%D8%AF%D9%8A%D9%85\" style=\"color:#0563c1; text-decoration:underline\" target=\"_blank\">مسبار</a>&quot; من الصورة وتبين أن الادعاء مضلل، وليست من مكان لتجمع السيارات الخردة في إسبانيا. وتعود</span><span dir=\"RTL\" lang=\"AR-SA\">&nbsp;<a href=\"https://www.thesun.ie/news/4552984/shocking-footage-shows-spanish-flood-devastation-as-raging-torrents-swept-away-cars-leaving-them-stacked-on-roadside/\" style=\"color:#0563c1; text-decoration:underline\">الصورة</a> لسبتمبر/أيلول عام 2019، وهي تُظهر حطام عشرات السيارات المكدسة، بعد أن جرفتها السيول في مدينة أوريويلا الإسبانية.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">وشهدت المدينة حينها&nbsp;وعدة مدن إسبانية أخرى، هطول أمطار غزيرة&nbsp;&nbsp;وسيول جارفة نتج عنها قتلى وأضرار هائلة.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_he1kpq84a.jpg\" style=\"height:462px; width:624px\" /></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">اقرأ/ي أيضاً:</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/11/19/%D8%A3%D9%88%D8%A8%D8%A7%D9%85%D9%8A%D8%A7%D9%86%D8%BA-%D9%84%D9%85-%D9%8A%D8%B3%D8%AE%D8%B1-%D9%85%D9%86-%D8%AA%D9%88%D9%86%D9%8A-%D9%83%D8%B1%D9%88%D8%B3-%D8%B9%D9%84%D9%89-%D8%AA%D9%88%D9%8A%D8%AA%D8%B1-%D8%A8%D8%B9%D8%AF-%D8%AE%D8%B3%D8%A7%D8%B1%D8%A9-%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7-%D9%85%D9%86-%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A7\" style=\"color:#0563c1; text-decoration:underline\">أوباميانغ لم يسخر من توني كروس على تويتر بعد خسارة ألمانيا من إسبانيا</a></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/10/11/%D9%85%D9%82%D8%B7%D8%B9-%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%AE%D8%B2%D8%A7%D9%86-%D9%86%D8%A8%D9%8A%D8%B0-%D9%81%D9%8A-%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A7-%D9%88%D9%84%D9%8A%D8%B3-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1\" style=\"color:#0563c1; text-decoration:underline\">مقطع فيديو انفجار خزان نبيذ في إسبانيا وليس في الجزائر</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات وصفحات على مواقع التواصل الاجتماعي، حديثاً، صورة ادعت أنها من مكان لتجمع السيارات الخردة في إسبانيا.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_n64trs0ts.jpg\" style=\"height:495px; width:542px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_p5hon0dns.jpg\" style=\"height:536px; width:542px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/160725838070426667_3174945079246577_6534469312646742016_o.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-160725838070426667_3174945079246577_6534469312646742016_o.jpg",
+        "width": 752
+    },
+    "post_date": "2020-12-06T15:34:00.000+03:00",
+    "published": [
+        {
+            "id": "5fccd10b9785104c5807d4d8",
+            "link": "https://www.facebook.com/groups/379586679180294/permalink/1060908484381440",
+            "name": "إبراهيم الزوي",
+            "origin": "facebook",
+            "path": "sources/5bfe4505f0d897cf8eadb4d078ea86f5bd10e8d5.jpg"
+        },
+        {
+            "id": "5fccd10bcf306710f97fe496",
+            "link": "https://www.facebook.com/groups/554624268506420/permalink/721017448533767/",
+            "name": "حسام جابر",
+            "origin": "facebook",
+            "path": "sources/89cfeb66b09bdb5932849d2ec7807151d44ca216.jpg"
+        },
+        {
+            "id": "5fccd10b2f66b125f668a233",
+            "link": "https://www.facebook.com/groups/Mikanik.47/permalink/2845560569012644/",
+            "name": "كہٰاسہٰبٰٰر جاكہٰ",
+            "origin": "facebook",
+            "path": "sources/89cfeb66b09bdb5932849d2ec7807151d44ca216.jpg"
+        },
+        {
+            "id": "5fccd10bc7e8a606ce6af406",
+            "link": "https://www.facebook.com/Mrwn2027/posts/225816578895909",
+            "name": "mrwn2027",
+            "origin": "facebook",
+            "path": "sources/b6c195628ad75abd3ccf09ec567e3fa7d2afb9c8.jpg"
+        },
+        {
+            "id": "5fccd10c034ad71b504071c2",
+            "link": "https://www.facebook.com/sihetna.oula/posts/729386527692292",
+            "name": "صحتنا",
+            "origin": "facebook",
+            "path": "sources/15895f187a73d38f9f838a150857153ad429ce31.jpg"
+        },
+        {
+            "id": "5fccd10cd8995758394c0991",
+            "link": "https://www.facebook.com/bezzazbee/posts/1702837203223944",
+            "name": "عالم مكانيك وكهرباء السيارات",
+            "origin": "facebook",
+            "path": "sources/1608545172615f9911a89859cf0d3ec286f366eb.jpg"
+        },
+        {
+            "id": "5fccd10c30e28917ae007588",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1105965353157745&id=464334117320875",
+            "name": "Saber.Dz",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5fccd10c9cd15b0fac5d607d",
+            "link": "https://www.facebook.com/PLOMPIY/posts/846383572823533",
+            "name": "Pour vous",
+            "origin": "facebook",
+            "path": "sources/395cbadd53e3b12d6df6149b69909375de901c34.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fccd10c2910d2243e2b33ce",
+            "link": "https://www.thesun.ie/news/4552984/shocking-footage-shows-spanish-flood-devastation-as-raging-torrents-swept-away-cars-leaving-them-stacked-on-roadside/",
+            "name": "The Irish Sun",
+            "origin": "",
+            "path": "sources/c358312b02c79601656fb94dd69bc467e0e371a2.jpg"
+        },
+        {
+            "id": "5fccd10c8546dd7bb6348b38",
+            "link": "https://theweek.com/captured/866624/weeks-best-photojournalism",
+            "name": "theweek.com",
+            "origin": "",
+            "path": "sources/5d23f207a5ee0aceeb65682f25eee8fdde2bda8c.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ليس مكان لجمع السيارات الخردة في إسبانيا",
+    "updated_at": "2020-12-07 09:35:39",
+    "url_path": "/factcheck/2020/12/06/ليس-مكان-لجمع-السيارات-الخردة-في-إسبانيا",
+    "was_notification_pushed": "true"
+}

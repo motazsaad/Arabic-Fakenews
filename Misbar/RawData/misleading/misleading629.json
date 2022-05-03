@@ -1,0 +1,157 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 3894,
+    "author": {
+        "fullname": "محمود غزيل",
+        "id": "5ea83263db291659bf4bf4c4",
+        "photo": {
+            "name": "1588081251_IMG-20180505-WA0040.jpg",
+            "path": "authors/1588081251_IMG-20180505-WA0040.jpg"
+        }
+    },
+    "caption": "الفيديو لأستاذ جامعي يتعرّض للضرب ولا علاقة له برئيس غينيا (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p><span dir=\"RTL\" lang=\"AR-SA\">الرئيس الغيني ألفا كوندي يلاحق أحد المسؤولين ويلكمه لعدم تحليه بالمسؤولية. &nbsp;</span></p>\r\n",
+    "country": "GN",
+    "created_at": "2020-09-16 12:17:49",
+    "created_by": "5f39b5451dd585078b5d94f3",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5f61d83dffa8721afb371600",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقق &quot;مسبار&quot; من الفيديو المتداول، ووجد أنّه مضلل، ولا علاقة له برئيس غينيا. وهو منشور على يوتيوب منذ سبتمبر/أيلول 2018، وجاء في التعليق المرافق للفيديو الأصلي أنّه يصوّر تعرّض أحد أساتذة الجامعة الوطنية في غينيا للضرب. الأستاذ يُدعى فيليبرتو مونايونغ، ويشغل حالياً منصب رئيس قسم الإعلام في الجامعة.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/0jjW061rikY\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">نشرت صفحات وحسابات على موقع التواصل الاجتماعي فيسبوك وموقع يوتيوب، مقطع فيديو ادّعت أنّه للرئيس الغيني ألفا كوندي وهو يضرب أحد مسؤولي الحكومة، بسبب تقصيره في أداء واجبه.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/dhaO2OA7bS8\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FPolitica.Tunisienne1%2Fvideos%2F3298719386833155%2F&amp;show_text=0&amp;width=261\" style=\"border:none;overflow:hidden\" width=\"261\"></iframe></p>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"rtl\"><a href=\"https://twitter.com/hashtag/%D8%B3%D8%A7%D8%B9%D8%A7%D8%AA_%D9%84%D8%A7%D8%B2%D9%85_%D9%87%D9%83%D8%A7?src=hash&amp;ref_src=twsrc%5Etfw\">#ساعات_لازم_هكا</a><br />\r\nالرئيس الغيني ألفا كوندي يلكم ويضرب وزير العمال نتيجة التماطل في عمله وعدم التحلي بالمسؤولية في التسيير 😁🤣😅 <a href=\"https://t.co/tn3GXFp8Qd\">pic.twitter.com/tn3GXFp8Qd</a></p>\r\n&mdash; Salma Bouchoucha (@BouchouchaSalma) <a href=\"https://twitter.com/BouchouchaSalma/status/1305472651264221184?ref_src=twsrc%5Etfw\">September 14, 2020</a></blockquote>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 286,
+        "left": 1.62322998046875,
+        "path": "articles/1600247869Screenshot 2020-09-16 115429.jpg",
+        "top": 97.6943359375,
+        "totalHeight": 423,
+        "totalWidth": 519,
+        "watermark_path": "articles/watermark-1600247869Screenshot 2020-09-16 115429.jpg",
+        "width": 508
+    },
+    "post_date": "2020-09-16T12:04:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/Zaid_Alayoubi/status/1304477491000750082",
+            "name": "زيد الأيوبي",
+            "path": "published/0_1600247868_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/DawlaMadania/status/1305586051831009280",
+            "name": "DawlaMadania",
+            "path": "published/1_1600247868_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/YZiddfEg0d0DqLc/status/1305814319972614145",
+            "name": "فدوى عبدالرحمن عبدالله الرافد",
+            "path": "published/2_1600247868_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/nasronasro1988/status/1303734435809026049",
+            "name": "عبد الناصر البار",
+            "path": "published/3_1600247868_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/BouchouchaSalma/status/1305472651264221184",
+            "name": "Salma Bouchoucha",
+            "path": "published/4_1600248183_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/southarabia0/status/1305857137667702784",
+            "name": "الجابري",
+            "path": "published/5_1600247868_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.youtube.com/watch?v=pxCXjb3RjH8 ",
+            "name": "مجلة الأخبار",
+            "path": "published/6_1600247868_YouTube-logo.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.youtube.com/watch?v=dhaO2OA7bS8 ",
+            "name": "تلفزيون أورينت",
+            "path": "published/7_1600247869_unnamed.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/watch/?v=648323286060062 ",
+            "name": "Fanicko",
+            "path": "published/8_1600247869_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/watch/?v=3298719386833155&extid=K8LmajUx5f2gJTml ",
+            "name": "Politica Tunisienne بوليتيكا ",
+            "path": "published/9_1600247869_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/mahfoud.laidi/videos/1210022739377921/",
+            "name": "Mahfoud Laidi",
+            "path": "published/10_1600247869_facebook.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.youtube.com/watch?v=0jjW061rikY ",
+            "name": "المقطع الأصلي",
+            "path": "sources/0_1600247869_YouTube-logo.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/filiberto.monayong ",
+            "name": "Filiberto Monayong ",
+            "path": "sources/1_1600247869_15440433_1183763795041842_1515119096959914328_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.youtube.com/watch?v=3DMjM3u8Yeg ",
+            "name": "AFP",
+            "path": "sources/2_1600247869_AFP.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://en.wikipedia.org/wiki/Alpha_Cond%C3%A9 ",
+            "name": "Alpha Condé",
+            "path": "sources/3_1600247869_Wikipedia-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "فيديو مضلل.. الرئيس الغيني ألفا كوندي لم يضرب أحد وزرائه",
+    "updated_at": "2020-09-25 21:48:17",
+    "url_path": "/factcheck/2020/09/16/فيديو-مضلل-الرئيس-الغيني-ألفا-كوندي-لم-يضرب-أحد-وزرائه",
+    "was_notification_pushed": "true"
+}

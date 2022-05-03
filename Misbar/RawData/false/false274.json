@@ -1,0 +1,102 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 3220,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "الصورة المتداولة مفبركة (فيسبوك)",
+    "category": "Entertainment",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">صورة الممثل التركي كيفانش تاتليتوغ بين الماضي والحاضر.</p>\r\n",
+    "country": "TR",
+    "created_at": "2020-09-17 16:11:26",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 0,
+    "id": "5f63607e7a3c525b101361ac",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الخبر والصورة المتداولة وتبيّن أن الادعاء زائف، إذ <a href=\"https://english.alsiasi.com/shocking-image-of-kivanc-tatlitug-as-transsexual-forces-the-actor-to-respond/\" target=\"_blank\">صرّح</a> الفنان تاتليتوغ أنّ الصورة المتداولة مفبركة وغير صحيحة، كما قال أنه &quot;يحترم جميع ميول الناس إلا أنه متزوج وليس مثليًّا أو عابر جنسيًّا&quot;.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_u7mkhcws6.jpg\" style=\"height:427px; width:565px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تتناقل صفحات وحسابات على مواقع التواصل الاجتماعي، حديثاً، صورة للفنان التركي كيفانش تاتليتوغ تدعي أنها قديمة، وتسخر من ميوله الجنسية. بعض ناشري الخبر ادعوا أنه مثليّ وبعضهم الآخر ادعى أنه عابر جنسيًّا.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_96zyctpdt.jpg\" style=\"height:671px; width:537px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_csmqm4hxc.jpg\" style=\"height:476px; width:546px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 247,
+        "left": 0.41668701171875,
+        "path": "articles/1600348286kıvanç-tatlıtuğ-.jpg",
+        "top": 2,
+        "totalHeight": 423,
+        "totalWidth": 442,
+        "watermark_path": "articles/watermark-1600348286kıvanç-tatlıtuğ-.jpg",
+        "width": 439
+    },
+    "post_date": "2020-09-17T16:08:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/dramaturkishtn/posts/331099334976181",
+            "name": "DRAMA Turkish - TN",
+            "path": "published/0_1600348492_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2690670501250146&id=100009216668644",
+            "name": "Lassad Sniha",
+            "path": "published/1_1600348492_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/iheb.brahmi.509/posts/670667537139757",
+            "name": "Iheb Brahmi",
+            "path": "published/2_1600348492_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=168264121543077&id=100050784705316",
+            "name": "الكلمه الطيبه",
+            "path": "published/3_1600348534_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/meryatolgahan/posts/168228218215879",
+            "name": "Türkiye 'nin dünyasi",
+            "path": "published/4_1600348534_facebook.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://english.alsiasi.com/shocking-image-of-kivanc-tatlitug-as-transsexual-forces-the-actor-to-respond/",
+            "name": "Alsiasi ",
+            "path": "sources/0_1600348286_Kıvanç Tatlıtuğ.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الممثل التركي كيفانش تاتليتوغ ينفي شائعة مثليّته",
+    "updated_at": "2020-09-25 20:01:09",
+    "url_path": "/factcheck/2020/09/17/الممثل-التركي-كيفانش-تاتليتوغ-ينفي-شائعة-مثليته",
+    "was_notification_pushed": "true"
+}

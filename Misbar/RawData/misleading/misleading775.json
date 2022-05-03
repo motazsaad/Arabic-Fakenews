@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 233,
+    "author": {
+        "fullname": "مريم هواري",
+        "id": "5e299460d4a22939983a3ec5",
+        "photo": {
+            "path": "authors/1579791192_Maryam.jpg"
+        }
+    },
+    "caption": "الصور من مظاهرات \"إسرائيلية\" ضد نتنياهو (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">تقرير لقناة NBC عن المظاهرات في بيروت، يُظهر متظاهرين يحملون أعلام دولة الاحتلال &quot;الإسرائيلي&quot;.</p>\r\n",
+    "country": "LB",
+    "created_at": "2020-08-13 14:02:08",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f351db01dd585076111c17c",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقّق &quot;مسبار&quot; من الصور ووجد أنّها مضلّلة، فهي ليست من بيروت، إنّما من&nbsp;مظاهراتٍ جرت في مدينة القدس المحتلّة، أمام مقر رئيس الوزراء &quot;الإسرائيلي&quot;، بنيامين نتنياهو، بسبب تعامله مع أزمة تفشّي فايروس كورونا وما يترتّب عليها من آثار اقتصادية، إضافةً للوائح الاتّهام المقدّمة ضدّه في قضايا فساد.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/fI9cno3T4nU\" width=\"560\"></iframe><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/BUNU4nxStE8\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_8v84nxk30.jpg\" style=\"height:560px; width:625px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_rvtq6hdah.jpg\" style=\"height:698px; width:624px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">نشرت القناة&nbsp;الأميركية الإخبارية NBC على صفحتها في موقع يوتيوب، تقريراً بتاريخ 9 أغسطس/آب الجاري، عن المُظاهرات الجارية في العاصمة اللبنانية، بيروت، بعد الانفجار الّذي وقع في المرفأ بتاريخ 4 أغسطس/آب الجاري، وقد ظهر في التقرير صورٌ&nbsp;لمتظاهرين يحملون أعلام دولة الاحتلال &quot;الإسرائيلي&quot;.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/pTR0x-fYhJk?start=20\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_5ex0tdaph.jpg\" style=\"height:502px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_xiyr8gtvo.jpg\" style=\"height:505px; width:624px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 129,
+        "left": 47.000396728515625,
+        "path": "articles/1597316528GettyImages-1264724793 A.jpg",
+        "top": 58.4482421875,
+        "totalHeight": 190,
+        "totalWidth": 286,
+        "watermark_path": "articles/watermark-1597316528GettyImages-1264724793 A.jpg",
+        "width": 229
+    },
+    "post_date": "2020-08-13T13:53:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.youtube.com/watch?v=pTR0x-fYhJk",
+            "name": "NBC TODAY",
+            "path": "published/0_1597316527_today nbc.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?time_continue=1&v=BUNU4nxStE8&feature=emb_title",
+            "name": "Globes",
+            "path": "sources/0_1597316527_globes.jpg"
+        },
+        {
+            "link": "https://www.almayadeen.net/videos/1413696/%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D9%84%D8%AA%D8%B8%D8%A7%D9%87%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D9%85%D9%86%D8%AF%D8%AF%D8%A9-%D8%A8%D9%80--%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88",
+            "name": "الميادين",
+            "path": "sources/1_1597316528_almayadeen.jpg"
+        },
+        {
+            "link": "https://arabic.cnn.com/middle-east/article/2020/07/24/colorful-protest-in-jerusalem-draws-diverse-anti-netanyahu-crowd",
+            "name": "CNN بالعربية",
+            "path": "sources/2_1597316528_cnn arabic.jpg"
+        },
+        {
+            "link": "https://www.euronews.com/2020/07/26/israel-s-protests-continue-as-thousands-march-against-netanyahu-s-handling-of-coronavirus",
+            "name": "euronews.",
+            "path": "sources/3_1597316528_euronews.jpg"
+        },
+        {
+            "link": "https://www.gettyimages.ae/detail/news-photo/protesters-hold-signs-during-a-demonstration-against-the-news-photo/1264724793?adppopup=true",
+            "name": "Getty",
+            "path": "sources/4_1597316528_getty.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صور تقرير قناة NBC من القدس وليست من لبنان",
+    "updated_at": "2020-09-24 13:45:49",
+    "url_path": "/factcheck/2020/08/13/صور-تقرير-قناة-nbc-من-القدس-وليست-من-لبنان"
+}

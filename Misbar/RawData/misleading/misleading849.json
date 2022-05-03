@@ -1,0 +1,88 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 337,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "الصورة منذ عام 2016 لقصف في دوما (Firas Abdullah/Facebook)",
+    "category": "News",
+    "claim": "<p>صور لعائلات مصابة وأطفال من قصف دول التحالف على مدن في اليمن.</p>\r\n",
+    "country": "",
+    "created_at": "2020-07-27 12:46:02",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f1ea25a163be306894163d6",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; ليجد أن الصور صحيحة لعائلات مصابة بسبب القصف، إلا أنه ليس قصف دول التحالف خلال حربها على اليمن بل هو قصف على مدن في سوريا خلال السنوات السابقة، فصورة الطفلة هي من قصف قوات النظام السوري لمنطقة البنش عام 2014، ونشرها وقتها التجمع الطبي الإسلامي، وهو مركز صحي يعمل في محافظة ادلب، بينما صورة الأب والطفلين لقصف في مدينة دوما وهي أكبر مدن&nbsp; منطقة الغوطة عام 2016، والتقط&nbsp;الصور حينها الإعلامي فراس عبدالله وكان وقتها يعمل في مركز الغوطة الاعلامي.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_g1yctvgix.jpg\" style=\"height:239px; width:605px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_p2x3rqc7y.jpg\" style=\"height:273px; width:606px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_ynmjj6ize.jpg\" style=\"height:217px; width:605px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات على وسائل التواصل الاجتماعي، إضافة إلى مواقع إخبارية، في آخر أسبوعين من يوليو/تموز الجاري صورة لطفلة مصابة بعد قصف جوي، وصورة أخرى لرجل يحاول حماية طفلين نجيا من القصف أيضاً، وحملت المنشورات تعليقاً&nbsp; مفاده أنها من جرائم دول التحالف في حق الشعب اليمني، وتعليقات أخرى أنها صور ضحايا من منطقة الجوف بعد&nbsp;اعتراف السعودية بجريمتها المروعة هناك.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_d5mmeufcw.jpg\" style=\"height:422px; width:605px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_xtafxwsrg.jpg\" style=\"height:239px; width:605px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_t2dwam3mv.jpg\" style=\"height:487px; width:605px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 313,
+        "left": 70.5,
+        "path": "articles/159584316214051836_603743233126878_8665760103960338503_n.jpg",
+        "top": 89.3359375,
+        "totalHeight": 423,
+        "totalWidth": 635,
+        "watermark_path": "articles/watermark-159584316214051836_603743233126878_8665760103960338503_n.jpg",
+        "width": 556
+    },
+    "post_date": "2020-07-27T11:31:00.000+03:00",
+    "published": [
+        {
+            "link": "https://asharq-alarabi.com/2020/07/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D8%AA%D8%B9%D8%AA%D8%B1%D9%81-%D8%A8%D8%AC%D8%B1%D9%8A%D9%85%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D9%85%D8%B1%D9%88%D8%B9%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84/",
+            "name": "وكالة أنباء الشرق العربي",
+            "path": "published/0_1595844154_وكالة أنباء الشرق العربي.JPG"
+        },
+        {
+            "link": "https://archive.vn/UmaHD",
+            "name": "تعز أون لاين",
+            "path": "published/1_1595844154_تعز.JPG"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2725721204370967&id=100007993428304",
+            "name": "أبويونس الغابري",
+            "path": "published/2_1595844155_104614977_2702262206716867_2723303156609582248_n.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=603743233126878&set=a.111845745649965&type=3&theater",
+            "name": "Firas Abdullah",
+            "path": "sources/0_1595844155_فراس.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/pg/islamicmedicalcomplex/photos/?tab=album&album_id=805542452801552",
+            "name": "المجمع الطبي الإسلامي",
+            "path": "sources/1_1595844155_المجمع الطبي الاسلامي.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصورة وغيرها ليست لمصابين جراء قصف على اليمن",
+    "updated_at": "2020-09-25 09:24:09",
+    "url_path": "/factcheck/2020/07/27/هذه-الصورة-وغيرها-ليست-لمصابين-جراء-قصف-على-اليمن"
+}

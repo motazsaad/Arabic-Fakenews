@@ -1,0 +1,108 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1075,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "الفيديو قديم ولا علاقة له بالاحتجاجات الحالية في الولايات المتحدة (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">فيديو يصوّر كيف رفع متظاهرون في الولايات المتحدة صور قاسم سليماني وأبو مهدي المهندس.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-06-01 16:28:28",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ed5027cdb291673f0569ac5",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الفيديو، وتبين أنّ الادعاء مضلل. إذ عثر &quot;مسبار&quot; على المقطع منشوراً على &quot;يوتيوب&quot; منذ يناير/كانون الثاني من العام الجاري، وحسب التعليق المرافق للفيديو الأصلي، فإنّه&nbsp;يصوّر متظاهرين في الولايات المتحدة خرجوا احتجاجاً على اغتيال قاسم سليماني وأبو مهدي المهندس في غارة جوية أميركية في العراق. وليس للفيديو أي علاقة بالاحتجاجات الحالية في الولايات المتحدة، والتي اندلعت إثر مقتل المواطن الأميركي جورج فلويد في مدينة مينيابوليس في ولاية مينيسوتا على يد أحد عناصر الشرطة.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/0jPTLS1bYno\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت حسابات وصفحات على مواقع التواصل الاجتماعي وموقع يوتيوب، مقطع فيديو قالوا إنه لمتظاهرين في الولايات المتحدة الأميركية، وهم يرفعون صور لقائد الحرس الثوري الإيراني السابق قاسم سليماني ونائب رئيس هيئة الحشد الشعبي العراقي أبو مهدي المهندس.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/fUZMfaYc2fk\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/qXmDxtOaL84\" width=\"560\"></iframe></p>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"rtl\">صور قاسم سليماني والمهندس في تظاهرات <a href=\"https://twitter.com/hashtag/%D9%85%D8%A7%D9%86%D9%83%D8%AF%D8%B1_%D9%86%D8%AA%D9%86%D9%81%D8%B3_%D9%86%D8%B1%D9%8A%D8%AF_%D9%88%D8%B7%D9%86?src=hash&amp;ref_src=twsrc%5Etfw\">#مانكدر_نتنفس_نريد_وطن</a> في امريكا <a href=\"https://t.co/jTAKu7wazx\">pic.twitter.com/jTAKu7wazx</a></p>\r\n&mdash; محمد البغدادي (@malbaghdady2) <a href=\"https://twitter.com/malbaghdady2/status/1266180642884247552?ref_src=twsrc%5Etfw\">May 29, 2020</a></blockquote>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 357,
+        "left": 2.7423095703125,
+        "path": "articles/1591018107GettyImages-1191715580.jpg",
+        "top": 29.54248046875,
+        "totalHeight": 423,
+        "totalWidth": 640,
+        "watermark_path": "articles/watermark-1591018107GettyImages-1191715580.jpg",
+        "width": 635
+    },
+    "post_date": "2020-06-02T13:09:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.youtube.com/watch?v=fUZMfaYc2fk",
+            "name": "SHROKI",
+            "path": "published/0_1591018106_Shroki.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=gC8eSp93GAs",
+            "name": "الأستاذ توفيق الشمري",
+            "path": "published/1_1591018106_الأستاذ توفيق الشمري.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=qXmDxtOaL84",
+            "name": "سيد المقاومة",
+            "path": "published/2_1591018106_سيد المقاومة.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=8lq_TS7KlfM",
+            "name": "عباس كريم",
+            "path": "published/3_1591018106_عباس كريم.jpg"
+        },
+        {
+            "link": "https://twitter.com/malbaghdady2/status/1266180642884247552",
+            "name": "محمد البغدادي",
+            "path": "published/4_1591018107_محمد البغدادي.jpg"
+        },
+        {
+            "link": "https://twitter.com/alifawaz27/status/1266279385205628929",
+            "name": "Alifawaz27",
+            "path": "published/5_1591018107_Alifwaz27.jpg"
+        },
+        {
+            "link": "https://twitter.com/mukawema/status/1266140331130699778",
+            "name": "بنت الشهداء(مقاومة) HST",
+            "path": "published/6_1591018107_بنت الشهداء مقاومة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?ref=search&v=687241888796805&external_log_id=464e4ee7498a63ce78fe3d86096183b9&q=%D8%B5%D9%88%D8%B1%20%D8%B3%D9%84%D9%8A%D9%85%D8%A7%D9%86%D9%8A%20%D9%81%D9%8A%20%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8",
+            "name": "انكيدو",
+            "path": "published/7_1591018107_انكيدو.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=0jPTLS1bYno",
+            "name": "المقطع الأصلي",
+            "path": "sources/0_1591018107_YouTube-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل رفع المتظاهرون في أميركا صور قاسم سليماني وأبو مهدي المهندس؟",
+    "updated_at": "2020-09-25 22:14:15",
+    "url_path": "/factcheck/2020/06/01/هل-رفع-المتظاهرون-في-أميركا-صور-قاسم-سليماني-وأبو-مهدي-المهندس"
+}

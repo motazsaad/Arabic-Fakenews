@@ -1,0 +1,122 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 530,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "الصورة اُلتقطت عام 2015 (فيسبوك)",
+    "category": "Spirituality & Religion",
+    "claim": "<p>المطران عطالله حنا يتضامن مع المسلمين ضد إساءة فرنسا الأخيرة إليهم من خلال صورة رفع فيها لافتة كتب عليها: فداك أبي وأمي يا رسول الله.</p>\r\n",
+    "country": "PS",
+    "created_at": "2020-10-26 12:44:53",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 11,
+    "id": "5f969a9528940e406026ef1f",
+    "investigation": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقّق &quot;مسبار&quot; من الصورة، ووجدها قديمة، التقطت&nbsp;بداية عام 2015 حين شارك المطران في مسيرة بمدينة الخليل، احتجاجاً على الإساءة&nbsp;على الأديان، وقال خلالها &quot;مسيحيون ومسلمون نرفض التطاول على الرموز الدينية، ونرفض الإساءة بحق الدين الإسلامي والأديان التوحيدية الأخرى&quot;.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/bB3mZtRB-Jw\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت صفحات وحسابات على موقع التواصل الاجتماعي فيسبوك، في الساعات الأخيرة، صورةً للمطران عطا الله حنا رئيس أساقفة سباسطية للروم الأرثوذكس، وهو&nbsp;&nbsp;يحمل لافتة، تضامناً مع&nbsp; المسلمين، وكتبت هذه المنشورات تعليقاً مرافقاً للصورة يقول &quot; المطران عطالله يرتدي الوشاح الفلسطيني تضامناً مع المسلمين ضد سياسة فرنسا، ورئيسها ماكرون، ويحمل لافتة فداك أبي وأمي يا رسول الله&quot;.</span></p>\r\n\r\n<p><img src=\"https://images-prod.misbar.com/articlebody/origin_4wcmnt4p1.jpg\" style=\"height:613px; width:578px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_hteueq53a.jpg\" style=\"height:605px; width:582px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_704e7wpk1.jpg\" style=\"height:302px; width:602px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_t9q9zoxjb.jpg\" style=\"height:669px; width:582px\" /></p>\r\n\r\n<p>&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 410,
+        "left": 15.366607666015625,
+        "path": "articles/1603705492122463307_700772130554681_375321402271089194_n.jpg",
+        "top": 0.699951171875,
+        "totalHeight": 423,
+        "totalWidth": 795,
+        "watermark_path": "articles/watermark-1603705492122463307_700772130554681_375321402271089194_n.jpg",
+        "width": 730
+    },
+    "post_date": "2020-10-26T10:33:00.000+03:00",
+    "published": [
+        {
+            "id": "5f969ce0226a7617c14f9ea6",
+            "link": "https://www.facebook.com/100012717396755/posts/1061433440957226/?app=fbl",
+            "name": "Zoza Ana",
+            "origin": "",
+            "path": "sources/cbcfd3c4b36c3aebad2757a03c2aa319a53ed2a2.jpg"
+        },
+        {
+            "id": "5f969ce0c71c4f5bf8179de7",
+            "link": "https://www.facebook.com/photo/?fbid=700772123888015&set=a.639241373374424",
+            "name": "أحمد عبدالله",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        },
+        {
+            "id": "5f969ce00d127352f75f4b9f",
+            "link": "https://www.facebook.com/1843701309197803/posts/2878791979022059/?app=fbl",
+            "name": "أخبار دمياط",
+            "origin": "facebook",
+            "path": "sources/ca669ff01449f17f8baa89cf7b156626caf69c05.jpg"
+        },
+        {
+            "id": "5f969ce012d571020e37048b",
+            "link": "https://www.facebook.com/1487396935/posts/10218103682372050/?app=fbl",
+            "name": "Abo Chadi",
+            "origin": "",
+            "path": "sources/cbcfd3c4b36c3aebad2757a03c2aa319a53ed2a2.jpg"
+        },
+        {
+            "id": "5f969ce0e62195238e71b8fc",
+            "link": "https://www.facebook.com/1294865447337096/posts/1717407695082867/?app=fbl&refid=12",
+            "name": "موقع أوزون",
+            "origin": "facebook",
+            "path": "sources/5cbd22485f72f857ce3a56e509e6d69622216108.jpg"
+        },
+        {
+            "id": "5f969ce041e0f64639808f09",
+            "link": "https://www.facebook.com/www.alarab.net/photos/a.153345994718799/3274211275965573/",
+            "name": "كل العرب",
+            "origin": "facebook",
+            "path": "sources/87e75fad829ebbc93a46bbddc615b8464ba32430.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f8eb18ba3818a4eb81ad3d2",
+            "link": "https://www.youtube.com/watch?v=bB3mZtRB-Jw&feature=emb_title",
+            "name": "قناة يوتيوب",
+            "origin": "",
+            "path": "published/7_1603128187_72cba5bc67b31d9d753cf43c35e93c59a1b0f98d.jpg"
+        },
+        {
+            "id": "5f969a9405b6d749c406af55",
+            "link": "http://www.yomnet.net/?page=News&id=29264",
+            "name": "يافا  اليوم",
+            "origin": "",
+            "path": "sources/193f8aec44e3853d58b5ac2adea571851b62a658.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصورة للمطران عطا الله حنا قديمة، وليست بعد الأزمة الفرنسية",
+    "updated_at": "2020-10-26 13:11:56",
+    "url_path": "/factcheck/2020/10/26/هذه-الصورة-للمطران-حنا-عطا-الله-قديمة-وليست-بعد-الأزمة-الفرنسية",
+    "was_notification_pushed": true
+}

@@ -1,0 +1,94 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2035,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">غوغل يغيّر مساحة دولة فلسطين على محرّك البحث من 27 ألف كم مربع إلى 6.22 ألف كم مربع.</span></p>\r\n",
+    "country": "PS",
+    "created_at": "2020-01-30 14:48:30",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e32c28ed4a2293c632f9533",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تبيّن لـ&quot;مسبار&quot; بعد التحقّق، أن موقع غوغل لم يغيّر نتيجة البحث التي تظهر عند الاستعلام عن &quot;مساحة فلسطين&quot;، إذ لا يعترف غوغل، أصلاً، بمساحة فلسطين التاريخية التي تبلغ قرابة 27 ألف كم مربع، وإنما يقسّم تلك المساحة إلى ثلاثة أقسام تشمل الضفة الغربية التي تبلغ مساحتها 5.6 ألف كم مربع، وقطاع غزة الذي تبلغ مساحته 365كم مربع، ودولة الاحتلال التي تبلغ مساحتها 21.6 ألف كم مربع.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">بناء على ما سبق، فإن المساحة الرسمية المتاحة للفلسطينيّين من مساحة فلسطين التاريخية، وبعد جمع مساحتي الضفة الغربية وقطاع غزة، تبلغ قرابة 6.2 ألف كم مربع، كما يظهر بالفعل في نتائج البحث على غوغل منذ زمن وليس حديثاً.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\">(فلسطين، كما تظهرها خرائط غوغل)</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_59jeadqja.jpg\" style=\"height:557px; width:273px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "فلسطين",
+        "غوغل",
+        "خرائط غوغل",
+        "خريطة فلسطين"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تناقلت مجموعة من المواقع الإخبارية وصفحات التواصل الاجتماعي خبراً مفاده أن محرّك البحث غوغل غيّر النتيجة التي تظهر للمستخدمين عندما يبحثون عن &quot;مساحة فلسطين&quot;، إذ يُظهر مساحةً مقدارها 6.22 ألف كم مربع بدلاً من مساحة فلسطين التاريخية التي تصل إلى قرابة 27 ألف كم مربع.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_wmwy6nbmb.jpg\" style=\"height:383px; width:624px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_jn4dn41j6.jpg\" style=\"height:516px; width:614px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 354,
+        "left": 2.433349609375,
+        "path": "articles/1580384910GettyImages-453418618.jpg",
+        "top": 2.8000030517578125,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "width": 630
+    },
+    "post_date": "2020-01-30T13:41:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/alqudsnewspaper/photos/a.10151745375892984/10157228292842984/?type=3&theater",
+            "name": "جريدة القدس",
+            "path": "published/0_1580384910_جريدة القدس - لوغو.jpg"
+        },
+        {
+            "link": "https://royanews.tv/news/204194",
+            "name": "رؤيا الإخباري",
+            "path": "published/1_1580384910_رؤيا الإخباري - لوغو.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.britannica.com/place/West-Bank",
+            "name": "Encyclopedia Britannica",
+            "path": "sources/0_1580384910_britannica-logo.jpg"
+        },
+        {
+            "link": "https://www.britannica.com/place/Gaza-Strip",
+            "name": "Encyclopedia Britannica",
+            "path": "sources/1_1580384910_britannica-logo.jpg"
+        },
+        {
+            "link": "https://www.aljazeera.net/encyclopedia/countries/2015/3/14/%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86",
+            "name": "موسوعة الجزيرة",
+            "path": "sources/2_1580384910_الجزيرة.jpg"
+        },
+        {
+            "link": "https://www.theguardian.com/technology/2016/aug/10/google-maps-accused-remove-palestine",
+            "name": "The Guardian",
+            "path": "sources/3_1580384910_Guardian-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لم يغيّر غوغل نتيجة البحث التي تُظهر مساحة فلسطين",
+    "updated_at": "2020-09-23 12:39:19",
+    "url_path": "/factcheck/2020/01/30/لم-يغير-غوغل-نتيجة-البحث-التي-تظهر-مساحة-فلسطين"
+}

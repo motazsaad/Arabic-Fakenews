@@ -1,0 +1,88 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2921,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "المقطع المتداول مفبرك وتم التعديل فيه (Fox News)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">قناة فوكس نيوز تُعلن&nbsp;إصابة ترامب بفايروس كورونا المستجد.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-05-18 18:02:35",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ec2a38bdb291636093ae2e4",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من المقطع المتداول ووجد أنه مفبرك.&nbsp;بالفعل يعود لقناة فوكس نيوز الأميركية، ونُشر بتاريخ 7 مايو/أيار الجاري، عندما أعلنت القناة عبر شاشتها عن إصابة خادم الرئيس الأميركي دونالد ترامب بفايروس كورونا المستجد. ولكن تم التعديل عليه في الخبر المنقول على الشاشة وحذف كلمة (خادم) لتوحي أن ترامب هو من أُصيب. وهذه هي الصورة الحقيقية للخبر.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_0i5fwoqce.jpg\" style=\"height:360px; width:623px\" /></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"506\" src=\"https://www.youtube.com/embed/AmqLB5pDj3Y\" width=\"900\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">نشرت حسابات على موقعي فيسبوك وتويتر، مقطع فيديو تحت عنوان &quot;قناة فوكس نيوز الأميركية تُعلن عن إصابة الرئيس الأميركي دونالد ترامب بفايروس كورونا المستجد&quot;. فيما نشر آخرون الخبر مع العديد من الصور.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_60pv4c7y2.jpg\" style=\"height:337px; width:489px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_j06ql0a6f.jpg\" style=\"height:380px; width:438px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1589817251Screenshot (229).jpg",
+        "watermark_path": "articles/watermark-1589817251Screenshot (229).jpg"
+    },
+    "post_date": "2020-05-18T17:59:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/AhnabilM2020/status/1262180500984250377",
+            "name": "أحمد نبيل آل شبل",
+            "path": "published/0_1589814154_أحمد نبيل آل شبل.jpg"
+        },
+        {
+            "link": "https://twitter.com/ISTFIRAQ1/status/1262322115971354624",
+            "name": "حسنين الكريطي ",
+            "path": "published/1_1589814452_حسنين الكريطي.jpg"
+        },
+        {
+            "link": "https://twitter.com/wlla_78/status/1262179732969447424",
+            "name": "manar_ali",
+            "path": "published/2_1589814452_manar_ali.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/alimedia24/videos/379499316336262/?v=379499316336262&external_log_id=daa4d22c88aedd28fc89dc1284aaf472&q=%D9%81%D9%88%D9%83%D8%B3%20%D9%86%D9%8A%D9%88%D8%B2%20%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9%3A%20%D8%A7%D8%B5%D8%A7%D8%A8%D8%A9%20%D8%AA%D8%B1%D8%A7%D9%85%D8%A8",
+            "name": "علي ميديا ",
+            "path": "published/3_1589817578_74.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/shobashnews2/videos/600674480804582/?v=600674480804582&external_log_id=daa4d22c88aedd28fc89dc1284aaf472&q=%D9%81%D9%88%D9%83%D8%B3%20%D9%86%D9%8A%D9%88%D8%B2%20%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9%3A%20%D8%A7%D8%B5%D8%A7%D8%A8%D8%A9%20%D8%AA%D8%B1%D8%A7%D9%85%D8%A8",
+            "name": "شوباش للخبر العاجل",
+            "path": "published/4_1589814938_شوباش للخبر العاجل.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=AmqLB5pDj3Y&feature=youtu.be&fbclid=IwAR0xgBSK32DVyFnMkOFKeHTQLud-LxC1KoF9R77qaMo-VUvx4qilmSgGszs",
+            "name": "Fox News",
+            "path": "sources/0_1589814154_Fox News.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "فوكس نيوز تُعلن إصابة ترامب بفايروس كورونا.. خبر زائف",
+    "updated_at": "2020-09-25 13:32:30",
+    "url_path": "/factcheck/2020/05/18/فوكس-نيوز-تعلن-إصابة-ترامب-بفايروس-كورونا-خبر-مضلل"
+}

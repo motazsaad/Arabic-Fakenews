@@ -1,0 +1,116 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1677,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "category": "Entertainment",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">مقطع فيديو لوزيرة الدفاع اللبنانية زينة عكر عدرا وهي ترقص مع سفير لبنان في أميركا.</p>\r\n",
+    "country": "LB",
+    "created_at": "2020-01-26 18:48:35",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e2db4d3d4a2291f646a38b3",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">مقطع الفيديو غير صحيح، فمن يظهر فيه ليست وزيرة دفاع لبنان زينة عكر عدرا، إنمّا عازفة طبل لبنانية تُدعى كريستينا عيد، والشخص الذي يظهر في الفيديو ليس غابي عيسى سفير لبنان في الولايات المتحدة الأميركية. وعثر &quot;مسبار&quot; على المقطع الأصلي منشوراً على موقع &quot;يوتيوب&quot; منذ ديسمبر/ كانون الأول 2019.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_f948c304fc36fbd2a7231432f7acb576.jpg\" style=\"height:364px; width:562px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_cce056a221c4cde0050dce9f82118be8.jpg\" style=\"height:332px; width:312px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">لاقى مقطع فيديو منسوب لوزيرة الدفاع اللبنانية زينة عكر عدرا رواجاً واسعاً على مواقع التواصل الاجتماعي. وقد زعم ناشروه أنه يُصوّر الوزيرة اللبنانية وهي تعزف على الطبل وترقص مع سفير لبنان في واشنطن في إحدى الحفلات.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_d822ff5603b6f96b4f704a31bcf96ff6.jpg\" style=\"height:405px; width:303px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_c63eebd6edaa1d69a5893309579b97b0.jpg\" style=\"height:368px; width:280px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_baf24fc91e58126a7af00c27155daafe.jpg\" style=\"height:278px; width:346px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 323,
+        "left": 2.9351806640625,
+        "path": "articles/1580053715GettyImages-1195294353.jpg",
+        "top": 1.682281494140625,
+        "totalHeight": 423,
+        "totalWidth": 581,
+        "width": 575
+    },
+    "post_date": "2020-01-26T18:42:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.watanserb.com/2020/01/25/%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA%D8%B1%D9%82%D8%B5-%D9%85%D8%B9-%D8%A3%D8%AD%D8%AF-%D8%A7%D9%84%D8%B3/",
+            "name": "وطن ",
+            "path": "published/0_1580053714_وطن-لوغو.jpg"
+        },
+        {
+            "link": "http://allarab.info/node/18349",
+            "name": "وكالة العرب الإخبارية",
+            "path": "published/1_1580053714_وكالة العرب الإخبارية-لوغو.jpg"
+        },
+        {
+            "link": "https://twitter.com/videohat_1/status/1220886483319607298",
+            "name": "فيديوهات وروابط الأحداث",
+            "path": "published/2_1580053714_فيديوهات وروابط الأحداث-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100000663086209/videos/2951926558172751/",
+            "name": "Salem K Mubarak",
+            "path": "published/3_1580053715_facebook.jpg"
+        },
+        {
+            "link": "https://twitter.com/kooom911/status/1220737324369301506",
+            "name": "MBS",
+            "path": "published/4_1580053715_MBS.jpg"
+        },
+        {
+            "link": "https://twitter.com/SalahAlelaj/status/1220770755736227840",
+            "name": "صلاح العلاج",
+            "path": "published/5_1580053715_صلاح العلاج-لوغو.jpg"
+        },
+        {
+            "link": "",
+            "name": "",
+            "path": null
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=fPhlQiVlHFU",
+            "name": "الفيديو الأصلي",
+            "path": "sources/0_1580053714_YouTube-logo.jpg"
+        },
+        {
+            "link": "https://www.annahar.com/article/1029187-%D9%85%D8%A7%D8%B0%D8%A7-%D8%A3%D9%88%D8%B6%D8%AD-%D8%B3%D9%81%D9%8A%D8%B1-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%81%D9%8A-%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D9%84%D8%A7%D9%84%D9%86%D9%87%D8%A7%D8%B1-%D8%AD%D9%88%D9%84-%D8%AD%D8%B6%D9%88%D8%B1-%D8%A7%D9%84%D9%81%D8%A7%D8%AE%D9%88%D8%B1%D9%8A-%D8%AD%D9%81%D9%84-%D8%A7%D9%84%D8%B3%D9%81%D8%A7%D8%B1%D8%A9",
+            "name": "جريدة النهار",
+            "path": "sources/1_1580053714_جريدة النهار-لوغو.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=GCi1J8FqzRA",
+            "name": "Breaking news service",
+            "path": "sources/2_1580053714_breaking news service-logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/Christinaeid2",
+            "name": "كريستينا عيد",
+            "path": "sources/3_1580199498_كرستينا عيد-لوغو.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "فيديو لوزيرة دفاع لبنان وهي ترقص مع السفير اللبناني في واشنطن... ما حقيقته؟",
+    "updated_at": "2020-09-23 12:39:29",
+    "url_path": "/factcheck/2020/01/26/فيديو-لوزيرة-دفاع-لبنان-وهي-ترقص-مع-السفير-اللبناني-في-واشنطن-ما-حقيقته"
+}

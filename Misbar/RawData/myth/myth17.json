@@ -1,0 +1,107 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2068,
+    "author": {
+        "fullname": "هيثم جودية",
+        "id": "5e295291d4a2296ff0065605",
+        "photo": {
+            "name": "1579766417_هيثم .JPG",
+            "path": "authors/1579766417_هيثم .JPG"
+        }
+    },
+    "category": "Travel",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">ظهور طائرة بعد 35 عاماً على اختفائها، وكان ركابها وطاقهما قد تحولوا إلى هياكل عظمية.</p>\r\n",
+    "country": "DE",
+    "created_at": "2020-01-23 16:58:47",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e29a697d4a2291d862edf74",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الخبر غير صحيح، إذ وجد &quot;مسبار&quot; أنّه مأخوذ من قصة خيالية نشرتها صحيفة وورلد ويكلي نيوز في عام 1985، وهي صحيفة شعبية تنشر محتوىً غير حقيقي. مفاد القصة أنّ طائرة أقلعت من مدينة نيويورك عام 1955 وعلى متنها 57 راكباً، واختفت لمدة 37 عاماً، لتظهر فجأةً وتهبطت في ولاية ميامي. هذا وانتشرت العديد من الأكاذيب حول طائرات اختفت لسنوات طويلة ثمّ عادت وهبطت في أحد المطارات.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"Picture_x0020_13\" src=\"https://images-prod.misbar.com/articlebody/investigation_f974454856906f3a0a3443c5e4ad4726.jpg\" style=\"height:311.25pt; width:288.75pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"Picture_x0020_12\" src=\"https://images-prod.misbar.com/articlebody/investigation_2fb3a22707b06fafeec4cf4b6fc10e41.jpg\" style=\"height:240.75pt; width:355.5pt\" /> </span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت العديد من وسائل الإعلام ووسائل التواصل الاجتماعي، قصة رحلة جوية عُرفت باسم سانتياغو 513. الرحلة انطلقت من مدينة أخن بألمانيا الغربية في 4 سبتمبر/ أيلول عام 1954 متجهةً الى البرازيل. انقطع الاتصال مع الطائرة فوق المحيط الأطلسي، لتجري بعد اختفائها عمليات بحث استمرت لسنوات، إلا أنه لم يظهر لها أثر.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وفي 12 أكتوبر/ تشرين الاول عام 1985 ظهرت الطائرة المفقودة بعد مرور 35 عاماً على فقدانها، فوق مطار &quot;بورت أليغر&quot; في البرازيل، دون أن تُرسل أي إشارات لأبراج المراقبة تفيد بموعد هبوطها.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">حين فتحت قوات الأمن أبواب الطائرة بعد ظهورها، أصيبت بالذعر إذ عثرت على 92 هيكلاً عظميًّا على متنها. ما يعني أنَّ الركاب كانوا قد فارقوا الحياة على مقاعدهم، فيما كانت الهياكل العظمية لطاقم الطائرة ما تزال في قمرة القيادة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"Picture_x0020_10\" src=\"https://images-prod.misbar.com/articlebody/origin_7bafeaee29c2ee09cc2bf48e6254a629.jpg\" style=\"height:267pt; width:317.25pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img id=\"Picture_x0020_3\" src=\"https://images-prod.misbar.com/articlebody/origin_a52464d8558ca96c195ea89972c586f1.jpg\" style=\"height:3in; width:300.75pt\" /> </span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img id=\"Picture_x0020_4\" src=\"https://images-prod.misbar.com/articlebody/origin_648e0735fd16353d3303adab7c064abf.jpg\" style=\"height:151.5pt; width:307.5pt\" /> </span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 352,
+        "left": 1.3238525390625,
+        "path": "articles/1579787927GettyImages-1189413160.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "width": 626
+    },
+    "post_date": "2020-01-25T13:07:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.youtube.com/watch?v=-94_-0OnbYo",
+            "name": "حقائق وأسرار",
+            "path": "published/0_1579787927_حقائق وأسرار-لوغو.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=cY5qc8gYaTs",
+            "name": "Kwili",
+            "path": "published/1_1579787927_Kwili-logo.jpg"
+        },
+        {
+            "link": "https://www.wattpad.com/655616412-%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D8%B1%D9%87-%D8%A7%D9%84%D9%85%D9%81%D9%82%D9%88%D8%AF%D9%87-%D8%A7%D9%84%D8%B1%D8%AD%D9%84%D8%A9-513-",
+            "name": "Wattpad",
+            "path": "published/2_1579787927_Wattpad_logo.jpg"
+        },
+        {
+            "link": "https://www.mysteriesrunsolved.com/2018/03/1950s-missing-flight-513-lands-92-skeletons.html",
+            "name": "mysteries unsolved",
+            "path": "published/3_1579787927_Maysteries-logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/newinformation84/photos/a.1574083316208997/2257660667851255/?type=3",
+            "name": "معلومات جديدة متنوعة",
+            "path": "published/4_1579787927_معلومات متنوعة.jpg"
+        },
+        {
+            "link": "https://alwan.elwatannews.com/news/details/3747051/%D8%A8%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D8%AA%D8%AE%D8%AA%D9%81%D9%8A-%D9%81%D9%8A-%D9%81%D8%AC%D9%88%D8%A9-%D8%B2%D9%85%D9%86%D9%8A%D8%A9-%D9%88%D8%AA%D8%B9%D9%88%D8%AF-%D8%A8-%D9%87%D9%8A%D8%A7%D9%83%D9%84-%D8%B9%D8%B8%D9%85%D9%8A%D8%A9-%D8%A8%D8%B9%D8%AF-35-%D8%B9%D8%A7%D9%85%D8%A7",
+            "name": "ألوان الوطن",
+            "path": "published/5_1579787927_ألوان الوطن.jpg"
+        }
+    ],
+    "result": "myth",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://books.google.ca/books?id=TuwDAAAAMBAJ&pg=PA15&dq=irwin+fisher+report+on+plane+weekly+world+news&hl=en&sa=X&ved=0CCQQ6AEwAWoVChMIkaaqycz-xgIVBBkeCh0KPg70#v=onepage&q&f=false",
+            "name": "الخبر الأصلي",
+            "path": "sources/0_1579787926_weekly news log.jpg"
+        },
+        {
+            "link": "https://weeklyworldnews.com/",
+            "name": "Weekly World News",
+            "path": "sources/1_1579787926_weekly news log.jpg"
+        },
+        {
+            "link": "https://paranorms.com/santiago-flight-513/",
+            "name": "Paranorms",
+            "path": "sources/2_1579787926_paranormes-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "طائرة ركاب تصل المطار بعد 35 عاماً على اختفائها... ما القصة؟",
+    "updated_at": "2020-09-25 18:53:08",
+    "url_path": "/factcheck/2020/01/23/طائرة-ركاب-تصل-المطار-بعد-35-عاما-على-اختفائها-ما-القصة"
+}

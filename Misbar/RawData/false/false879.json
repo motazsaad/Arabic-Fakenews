@@ -1,0 +1,97 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 57389,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "caption": " الصورة تعود للفنانة الإسبانية آدريانا توريبيانو، والمشهد من مسلسل \"Tierra de lobo\".",
+    "category": "Entertainment",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">&rlm;السيدة تومسون خانها زوجها، فدست له السم في قهوته، فلما ظهرت عليه علامات التسمم أخذته إلى حبل المشنقة في الحديقة، وقبل أن تلف الحبل على عنقه أوقدت نار ثم لفت الحبل على عنقه ودفعت الكرسي وقبل أن يلفظ أنفاسه الأخيرة أطلقت عليه الرصاص، فمات مسموماً محروقاً مشنوقاً ومقتولاً.</p>\r\n",
+    "country": "",
+    "created_at": "2020-03-09 12:07:55",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e66076bd4a229590a3e7ec6",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من القصة المنتشرة، ووجد&nbsp;أنّ&nbsp;ليس لها أيُّ أساس من الصحة، والحقيقة أنَّ الصورة تعود للفنانة الإسبانية <a href=\"https://en.wikipedia.org/wiki/Adriana_Torrebejano\" style=\"color:blue; text-decoration:underline\">آدريانا توريبيانو</a>، والمشهد من مسلسل &quot;<a href=\"https://www.imdb.com/title/tt1698445/\" style=\"color:blue; text-decoration:underline\">Tierra de lobo</a>&quot; أي أرض الذئاب، الذي تم إنتاجه خلال أعوام 2010 وحتى 2014 ميلادية.</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">قصة منتشرة منذ قرابة العامين على مواقع التواصل الاجتماعي حول سيدة قامت بقتل زوجها.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_29hopwlqu.jpg\" style=\"height:807px; width:499px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ibkbjk58y.jpg\" style=\"height:383px; width:541px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">تنتشر القصة بين الفترة والأخرى على بعض صفحات مواقع التواصل الاجتماعي، وقامت بعض المواقع الإلكترونية بنشرها دون التحقق من صحة المعلومات الواردة فيها.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_vs4ehie8z.jpg\" style=\"height:751px; width:575px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_st6wmo5w2.jpg\" style=\"height:635px; width:578px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 267,
+        "left": 3.6817779541015625,
+        "path": "articles/1583744874Untitled11.jpg",
+        "top": 9.7099609375,
+        "totalHeight": 423,
+        "totalWidth": 481,
+        "width": 475
+    },
+    "post_date": "2020-03-09T11:42:00.000+03:00",
+    "published": [
+        {
+            "link": "https://elbashayer.com/2444594/2019/12/08/%d9%82%d8%aa%d9%84%d8%aa-%d8%b2%d9%88%d8%ac%d9%87%d8%a7-%d9%85%d8%b3%d9%85%d9%88%d9%85%d8%a7-%d9%85%d8%b4%d9%86%d9%88%d9%82%d8%a7-%d9%88%d9%85%d8%b1%d9%85%d9%8a%d8%a7-%d8%a8%d8%a7%d9%84%d8%b1%d8%b5/",
+            "name": "البشاير",
+            "path": "published/0_1583744874_البشاير.JPG"
+        },
+        {
+            "link": "https://alhayatnews.net/%D8%A3%D9%82%D9%88%D9%89-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D9%82%D8%AA%D9%84-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/",
+            "name": "الحياة نيوز",
+            "path": "published/1_1583744874_الحياة-نيوز.JPG"
+        },
+        {
+            "link": "https://twitter.com/picwinfo/status/1202639537400352768?fbclid=IwAR2iNa0VwbzuYlkvA-t_cxcSVMf1d99Hmw4hJchdlt530OOZYnSMohKD8kc",
+            "name": "صورة ومعلومة",
+            "path": "published/2_1583744874_صورة-ومعلومة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ahmedeawga3/posts/2643511989212691?fbclid=IwAR0s0nNBX75AT07BXS9Q-nwLBi8vidvrSl2vayCZsyozsxVNlnwIgp6GeYw",
+            "name": "Awga3",
+            "path": "published/3_1583744874_awga3.jpg"
+        },
+        {
+            "link": "https://twitter.com/jadelah10/status/985819182032879616",
+            "name": "جديلة",
+            "path": "published/4_1583744874_جديلة.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.instagram.com/torrebe/?fbclid=IwAR1MjcpxA765rs3qDGFlpkkTcvC9O_DfcKxHFAJFY1G9JnIIgbkT0X9zvvI",
+            "name": "Adriana Torrebejano",
+            "path": "sources/0_1583744874_adriana.JPG"
+        },
+        {
+            "link": "http://imaginacrisabel.blogspot.com/2012/08/adriana-torrebejano-desvela-nuevos_11.html",
+            "name": "Imaginacrisabel",
+            "path": "sources/1_1583744874_imagine.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "السيدة تومسون التي خانها زوجها.. قصة مزيفة مرفقة بصورة",
+    "updated_at": "2020-09-25 17:06:39",
+    "url_path": "/factcheck/2020/03/09/السيدة-تومسون-التي-خانها-زوجها-قصة-مزيفة-مرفقة-بصورة"
+}

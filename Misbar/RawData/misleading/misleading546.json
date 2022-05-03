@@ -1,0 +1,109 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 120,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "الفيديو لمساعد في مختبر تحاليل يغني لمصابة مسنة بفايروس كورونا (تويتر)",
+    "category": "Health",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">مقطع فيديو لطبيب عراقي يغني لأمه المصابة بفايروس كورونا المستجد (كوفيد-19).</p>\r\n",
+    "country": "IQ",
+    "created_at": "2020-10-05 12:57:25",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 4,
+    "id": "5f7aee05d088b6567709f631",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من مقطع الفيديو وتبيّن أنه مضلل، إذ لا يعود لطبيبٍ عراقيّ يغني لأمه المصابة بفايروس كورونا المستجد. ووجد أنه مساعد مختبر في مستشفى الموانئ في محافظة البصرة العراقية، يُدعى محمد كريم.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">انتشرت له عدة&nbsp;مقاطع غنّى فيها للمصابين، أشهرها الفيديو الذي جمعه بسيدة مسنة، قدّم&nbsp;لها أغنية &quot;أمي&quot; للمطرب العراقي سعدون جابر، ما دفع مستخدمي مواقع التواصل الاجتماعي لنشرها على&nbsp;أنها أمه.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">ومنحته وزارة الصحة العراقية شهادة تقديرية لتعامله الإنساني مع المصابين.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/lmDgCtedYuY\" width=\"560\"></iframe><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/sI3_M_LNyF0\" width=\"560\"></iframe></p>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"rtl\">من جد، مقدمي الرعاية الصحبه، أبدعوا في محاولات التخفيف على المرضى. ضربوا المثل بالانسانيه، قبل المهنه.<br />\r\n&quot;ممرض يغني لمصابين بكوفيد-19 في مستشفى عراقي&quot; <a href=\"https://t.co/NjLg7JkvsM\">https://t.co/NjLg7JkvsM</a></p>\r\n&mdash; Dr. Nadia Al Tamimi (@nadiaaltamimi) <a href=\"https://twitter.com/nadiaaltamimi/status/1281129092725735424?ref_src=twsrc%5Etfw\">July 9, 2020</a></blockquote>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات وحسابات على موقعي فيسبوك وتويتر، حديثاً ومنذ شهر يوليو/تموز الفائت، مقطع فيديو ادّعت أنه لطبيبٍ عراقيّ يغني لوالدته المصابة بفايروس كورونا المستجد (كوفيد-19).</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"308\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FAlshahin.afdi1%2Fvideos%2F623105454967450%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe><iframe frameborder=\"0\" height=\"315\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Famor.bensassi.5%2Fvideos%2F2058237984312823%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 335,
+        "left": 4.10528564453125,
+        "path": "articles/16018918450000.jpg",
+        "top": 42.746826171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-16018918450000.jpg",
+        "width": 596
+    },
+    "post_date": "2020-10-05T10:43:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/amor.bensassi.5/videos/2058237984312823",
+            "name": "Omar Ben Sassi",
+            "path": "published/0_1601891844_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/291077794354920/videos/580535652648266",
+            "name": "جامعة اليرموك yarmouk university",
+            "path": "published/1_1601891844_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/MMas2ool/status/1282920349076783104",
+            "name": "مصدر مسؤؤل",
+            "path": "published/2_1601891844_cdeb606d2277405729841fe21c5d10e856529971.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/Alshahin.afdi1/videos/623105454967450",
+            "name": "Alshahin Afdi",
+            "path": "published/3_1601891844_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/NashamaJU/videos/331063047912542",
+            "name": "قائمة النشامى - الجامعة الاردنية",
+            "path": "published/4_1601891845_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.youtube.com/watch?v=sI3_M_LNyF0",
+            "name": " قناة الجزيرة",
+            "path": "sources/0_1601891845_b9a4106558670da4ec1c0749f414d1e693436e6c.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.youtube.com/watch?v=lmDgCtedYuY",
+            "name": "BBC News عربي ",
+            "path": "sources/1_1601891845_b9a4106558670da4ec1c0749f414d1e693436e6c.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الفيديو ليس لطبيب عراقي يغني لوالدته المصابة بكورونا",
+    "updated_at": "2020-10-05 14:02:12",
+    "url_path": "/factcheck/2020/10/05/الفيديو-ليس-لطبيب-عراقي-يغني-لوالدته-المصابة-بكورونا",
+    "was_notification_pushed": "true"
+}

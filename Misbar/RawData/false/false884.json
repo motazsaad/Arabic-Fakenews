@@ -1,0 +1,87 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1635,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": " من الطبيعة في السعودية (Getty)",
+    "category": "Science",
+    "claim": "<p style=\"text-align:right\">بركان &quot;أم الجرسان&quot;&nbsp;سينفجر في السعودية.</p>\r\n",
+    "country": "SA",
+    "created_at": "2020-03-07 23:12:32",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e640030d4a22917805f52f3",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقَّق &quot;مسبار&quot; من صحة الفيديو، <span style=\"background-color:white\"><span style=\"color:#1d2129\">ووجد توضيحاً من مديرية الدفاع المدنيّ في المدينة المنورة، صدر في السابع من مارس</span></span><span style=\"background-color:white\"><span style=\"color:#1d2129\">/آذار الجاري، بأنَّها أرسلت&nbsp;</span></span><span style=\"background-color:white\"><span style=\"color:#1d2129\">فرقة إطفاءٍ إلى الكهف، فاكتشفت أن الحريق عبارة عن اشتعال وتصاعد أدخنة من مخلفاتٍ حيوانيةٍ مطمورةٍ تحت الأرض؛ أُشعلت&nbsp;بمصدر خارجي.&nbsp;</span></span><span style=\"background-color:white\"><span style=\"color:#1d2129\">وأضاف التوضيح الموجّه لمختلف وسائل الإعلام، أنَّ المديرية شكّلت في السابق لجنةً مشتركةً من الدفاع المدني وهيئة المساحة الجيولوجية؛ لدراسة حادث مشابه في الموقع ذاته، وثبت أن الحريق أيضاً حدث بسبب مخلفات</span></span> حيوانية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:#1d2129\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_5awqzzl5t.jpg\" style=\"height:397px; width:605px\" /></span></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:#1d2129\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_v06hbttdg.jpg\" style=\"height:308px; width:711px\" /></span></span></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تناقلت صفحاتٌ&nbsp;على وسائل التواصل الإجتماعي في اليومين الماضيين، مقطع فيديو صُوّر<span style=\"background-color:white\"><span style=\"color:#1d2129\">&nbsp;في محافظة خيبر الغربية التي تتبع المدينة المنورة بالسعودية، </span></span>يظهر فيه ما يشبه فوهة البركان، يخرج منها دخان، <span style=\"background-color:white\"><span style=\"color:black\">وصَاحَب الفيديوهات تعليقات عدّة، بعضها يقول &quot;تصاعد نيران من كهف أم الجرسان&quot;، فيما ادّعت الأخرى بأنَّها أبخرةٌ غازيةٌ صادرةٌ عن بركانِ&nbsp;&quot;أم الجرسان&quot;.</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_sd1k68c5w.jpg\" style=\"height:474px; width:605px\" /></p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ek1dfw3kb.jpg\" style=\"height:392px; width:605px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_acgaelak5.jpg\" style=\"height:400px; width:605px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 239,
+        "left": 0.1973114013671875,
+        "path": "articles/1583611952جدة2.jpg",
+        "top": 86.51025390625,
+        "totalHeight": 423,
+        "totalWidth": 423,
+        "width": 424
+    },
+    "post_date": "2020-03-07T20:09:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/watch/?v=740673713135225&external_log_id=641c39ebaea9638856753aad9a002db6&q=%D8%A8%D8%B1%D9%83%D8%A7%D9%86%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9",
+            "name": "المعلم الأكبر نفين الصعيدي",
+            "path": "published/0_1583611952_سعودية1.JPG"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=3559420664128591&external_log_id=7005fca563bb43b02aa9a2fe49a5c0c9&q=%D8%A8%D8%B1%D9%83%D8%A7%D9%86%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9",
+            "name": "Music Nation",
+            "path": "published/1_1583611952_سعودية2.JPG"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=603727800475631&external_log_id=7005fca563bb43b02aa9a2fe49a5c0c9&q=%D8%A8%D8%B1%D9%83%D8%A7%D9%86%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9",
+            "name": "sonar world news",
+            "path": "published/2_1583611952_سعودية3 سونار.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://grabbian.com/ar/blog/%D8%A8%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D8%B8%D9%87%D9%88%D8%B1-%D8%A8%D8%B1%D9%83%D8%A7%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9?fbclid=IwAR11v6rudBP2Q0v1KRJYjsdILfG0t2YTIJocAn5Tgh-m481L7EDwf7ARySw",
+            "name": "grabbian",
+            "path": "sources/0_1583611951_السعودية4.JPG"
+        },
+        {
+            "link": "https://www.facebook.com/SaudiDCD/photos/a.371333029561208/3295472013813947/?type=3&theater",
+            "name": "الدفاع المدني السعودي على الفيسبوك",
+            "path": "sources/1_1583611952_الدفاع المدني السعودي.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل هناك بركانٌ سينفجر في السعودية؟",
+    "updated_at": "2020-09-23 12:37:21",
+    "url_path": "/factcheck/2020/03/07/هل-هناك-بركان-سينفجر-في-السعودية"
+}

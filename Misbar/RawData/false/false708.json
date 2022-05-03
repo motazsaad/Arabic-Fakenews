@@ -1,0 +1,104 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 19523,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "لم تُعلن تونس عن حظر تجول في أول أيام عيد الفطر (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">الحكومة التونسية&nbsp;بصدد&nbsp;إقرار حظر التجول الشامل في البلاد، أول أيام عيد الفطر المبارك.</p>\r\n",
+    "country": "TN",
+    "created_at": "2020-05-20 16:27:47",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ec53053db291634b879cc83",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار من الخبر المتداول وتبين أنه زائف، إذ لم تُعلن الحكومة التونسية أو رئاسة الجمهورية عن حظر التجول في كامل البلاد أول أيام عيد الفطر المبارك. كما نفى مسؤول من وزارة الداخلية التونسية لـ&quot;مسبار&quot; علمه بالقرار. وقال مصدر من رئاسة الجمهورية لإذاعة موزاييك التونسية، بأنه لا صحة للخبر المتداول.&nbsp;واجتمع رئيس الجمهورية التونسية قيس سعيد مع رئيس الحكومة، أمس الثلاثاء 19 مايو/أيار 2020، وتناول اللقاء الوضع العام بالبلاد، ولم يتم الإعلان عن أيّ قرار جديد يخصّ&nbsp;حظر التجول.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_gkaybgktr.jpg\" style=\"height:501px; width:374px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات إخبارية تونسية على مواقع التواصل الاجتماعي، خبراً يدّعي أن الحكومة التونسية بصدد إقرار حظر التجول في كامل&nbsp;البلاد خلال أول أيام عيد الفطر المبارك.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_watx9uf6e.jpg\" style=\"height:557px; width:400px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"Capture3.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_3gkcx80wy.jpg\" style=\"height:436px; width:399px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 340,
+        "left": 8.9222412109375,
+        "path": "articles/1589981266imgpsh_fullsize.jpg",
+        "top": 60.737548828125,
+        "totalHeight": 423,
+        "totalWidth": 635,
+        "watermark_path": "articles/watermark-1589981266imgpsh_fullsize.jpg",
+        "width": 605
+    },
+    "post_date": "2020-05-20T13:18:00.000+03:00",
+    "published": [
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=2435668070058524&id=1623836467908359",
+            "name": "الواقع التونسي",
+            "path": "published/0_1589981266_93208860_2404418086516856_7655216255166578688_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/192603584865740/posts/721024292023664/",
+            "name": "عسلامة Tunisie",
+            "path": "published/1_1589981266_3.jpg"
+        },
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=141453970822798&id=102607611374101",
+            "name": "سيفاكس نيوز",
+            "path": "published/2_1589981266_8.jpg"
+        },
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=2483376138623755&id=1565017833792928",
+            "name": "عسلامة أف أم",
+            "path": "published/3_1589981266_4.jpg"
+        },
+        {
+            "link": "https://m.facebook.com/3ajl.info/photos/a.208390542545026/3221002434617140/?type=3",
+            "name": "خبر عاجل ",
+            "path": "published/4_1589981266_20190617180720869.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/Presidence.tn/photos/a.281368748587856/3209505549107480/?type=3&theater",
+            "name": "رئاسة الجمهورية التونسية",
+            "path": "sources/0_1589981266_10855084_873159386075453_7607065673046469010_o (1).jpg"
+        },
+        {
+            "link": "http://www.interieur.gov.tn/",
+            "name": "وزارة الداخلية التونسية",
+            "path": "sources/1_1589981266_ministere-de-linterieur1.jpg"
+        },
+        {
+            "link": "https://www.mosaiquefm.net/ar/%D8%AA%D9%88%D9%86%D8%B3-%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%88%D8%B7%D9%86%D9%8A%D8%A9/743277/%D9%85%D8%A7-%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D9%81%D8%B1%D8%B6-%D8%AD%D8%B8%D8%B1-%D8%AA%D8%AC%D9%88-%D9%84-%D8%A8%D9%8024-%D8%B3%D8%A7%D8%B9%D8%A9-%D9%8A%D9%88%D9%85-%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D9%81%D8%B7%D8%B1",
+            "name": "إذاعة موزاييك أف أم",
+            "path": "sources/2_1589981266_92177552_147630846759084_8879646761933602816_n.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "حظر تجول كامل أول أيام عيد الفطر في تونس.. خبر زائف ",
+    "updated_at": "2020-09-25 02:12:49",
+    "url_path": "/factcheck/2020/05/20/حظر-تجول-كامل-في-تونس-يوم-العيد-خبر-زائف"
+}

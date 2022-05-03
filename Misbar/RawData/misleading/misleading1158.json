@@ -1,0 +1,113 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 5565,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "caption": "",
+    "category": "Entertainment",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">طفل يمني بمدينة سانفورد بولاية نيويورك، شعر بالجوع، فاتصل بالشرطة وطلب بيتزا</p>\r\n",
+    "country": "YE",
+    "created_at": "2020-05-11 13:52:05",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eb92e55db2916374659efb5",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الخبر، ووجد أنَّ الشرطة الأميركية في مدينة سانفورد، نشرت توضيحاً عن الموضوع عبر صفحتها على موقع فيسبوك، ولم تأتِ على ذكر جنسية الطفل. وذكر&nbsp;كلٌّ من صفحة الجزيرة مصر وبرنامج الحكاية للإعلامي المصري عمرو أديب، أنَّ الطفل مصريّ الجنسية، لكن الصحف الغربية التي تداولت الموضوع، أشارت فقط لاسم الطفل وهو مانويل بشارة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_onbsr70q9.jpg\" style=\"height:661px; width:441px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">ينتشر على مواقع التواصل الاجتماعي، منذ العام الفائت وحتى الآن، منشوراً لطفل طلب البيتزا من الشرطة الأميركية، ويتداول المستخدمون أنَّ الطفل يمني الجنسية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_yzysg8x7x.jpg\" style=\"height:472px; width:680px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_t5ee4ita.jpg\" style=\"height:650px; width:438px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 181,
+        "left": 7.4733734130859375,
+        "path": "articles/158919432477272961_144431220300239_2587945454876491776_n.jpg",
+        "top": 77.58203125,
+        "totalHeight": 423,
+        "totalWidth": 339,
+        "watermark_path": "articles/watermark-158919432477272961_144431220300239_2587945454876491776_n.jpg",
+        "width": 322
+    },
+    "post_date": "2020-05-11T13:40:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/ILovE0Yemen/photos/a.122824225794272/144431216966906/?type=3&theater",
+            "name": "حب اليمن يجمعنا",
+            "path": "published/0_1589194323_حب-اليمن.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/khaliya.Aheba.janoub/posts/2379316765495074",
+            "name": "خلية أحباء الجنوب",
+            "path": "published/1_1589194323_خلية أحباء الجنوب.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/siccanews/posts/2380941058659391",
+            "name": "Sicca News",
+            "path": "published/2_1589194323_Sicca News.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=123373105980898&id=100049246271419",
+            "name": "أحلام الجنوبيه الضالعي",
+            "path": "published/3_1589194323_احلام-الجنوبية.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2635239149939177&id=100003593525807",
+            "name": "ابراهيم السياني",
+            "path": "published/4_1589194323_ابراهيم السياني.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://abcnews.go.com/US/year-boy-calls-911-wanted-pizza-officers-bought/story?id=64856034",
+            "name": "ABC News",
+            "path": "sources/0_1589194324_ABC News-logo.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=tqVF0gdonDg",
+            "name": "Inside Edition ",
+            "path": "sources/1_1589194324_Inside Edition.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/AJA.Egypt/posts/990101494706215",
+            "name": "الجزيرة - مصر",
+            "path": "sources/2_1589194324_الجزيرة مصر-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/SanfordPolice/posts/2422523071141828:0",
+            "name": "Sanford Police Department",
+            "path": "sources/3_1589194324_Sanford Police Department1.jpg"
+        },
+        {
+            "link": "https://www.mirror.co.uk/news/world-news/hungry-boy-5-calls-emergency-18874886",
+            "name": "Mirror",
+            "path": "sources/4_1589194474_Mirror-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الطفل الذي طلب البيتزا من الشرطة لأميركية.. مصري وليس يمنيًّا",
+    "updated_at": "2020-09-25 15:05:33",
+    "url_path": "/factcheck/2020/05/11/طفل-يمني-يطلب-البيتزا-من-الشرطة-الأميركية-غير-صحيح"
+}

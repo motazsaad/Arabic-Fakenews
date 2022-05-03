@@ -1,0 +1,98 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1773,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الصور ليست من إيطاليا إنما لمنتجع في تركيا (مواقع التواصل الاجتماعي)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة تُظهر الإجراءات التي اتخذتها إيطاليا على الشواطئ للحد من انتشار عدوى كورونا.</p>\r\n",
+    "country": "IT",
+    "created_at": "2020-05-26 13:58:11",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eccf643db29165ef5603be4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة المتداولة، وتبيّن أن الادعاء غير صحيح، فهي ليست من إيطاليا، إنّما تصوّر منتجع اسمه رويال مكاس يقع في مقاطعة أنطاليا في تركيا.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><img src=\"https://images-prod.misbar.com/articlebody/investigation_5fropfvkc.jpg\" style=\"height:792px; width:686px\" /></strong></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداول مستخدمون على موقع التواصل الاجتماعي فيسبوك، صورة قالوا إنها تُظهر الاستعدادات التي اتخذتها إيطاليا لفرض سياسة التباعد الاجتماعي على شواطئها، في ظل انتشار فايروس كورونا (كوفيد_19). ورافق الصور تعليقٌ قال &quot;شواطئ إيطاليا هكذا استعدت للصيف خوفاً من انتقال عدوى كورونا&quot;.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"575\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fcapitaldeannaba%2Fposts%2F3818081894933147&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"575\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D145111720463643%26id%3D101601981481284&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"460\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D547126829320954%26id%3D100020709252708&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 235,
+        "left": 1.29998779296875,
+        "path": "articles/1590490690download.jpg",
+        "top": 101.324951171875,
+        "totalHeight": 423,
+        "totalWidth": 423,
+        "watermark_path": "articles/watermark-1590490690download.jpg",
+        "width": 418
+    },
+    "post_date": "2020-05-26T13:44:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/capitaldeannaba/photos/a.767791349962232/3818081738266496/?type=3&source=57&__tn__=EH-R",
+            "name": "Annaba Live",
+            "path": "published/0_1590490689_Annaba Live.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=145111720463643&id=101601981481284&hc_location=ufi",
+            "name": "Vingt Deux",
+            "path": "published/1_1590490689_Vingt Deux.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/151803746009284/permalink/188667798989545/?hc_location=ufi",
+            "name": "Da Dou Hedia",
+            "path": "published/2_1590490689_Da Dou Hedia.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/101679948161255/photos/a.101686348160615/137112511284665/?type=3&theater",
+            "name": "مفهومية العقول",
+            "path": "published/3_1590490690_مفهومية العقول.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=547126829320954&id=100020709252708&hc_location=ufi",
+            "name": "فضاء المعرفة",
+            "path": "published/4_1590491814_فضاء المعرفة.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.maxxroyal.com/en/Kemer-Resort",
+            "name": "Max Royal",
+            "path": "sources/0_1590490690_MaxRoyal.jpg"
+        },
+        {
+            "link": "https://en.vogue.me/culture/turkey-tourism-post-covid-19-maxx-royal-resorts/",
+            "name": "Vogue",
+            "path": "sources/1_1590490690_Vogue.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "كورونا إيطاليا: شواطئ تراعي التباعد الاجتماعي.. ما أصل الصورة؟",
+    "updated_at": "2020-09-25 16:40:34",
+    "url_path": "/factcheck/2020/05/26/كورونا-إيطاليا-شواطئ-تراعي-التباعد-الاجتماعي-ما-أصل-الصورة"
+}

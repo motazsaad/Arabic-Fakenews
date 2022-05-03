@@ -1,0 +1,96 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 141219,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "أعلنت ابنة فيروز أنّ الخبر زائف (Getty)",
+    "category": "Music",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">وفاة الفنانة اللبنانية فيروز، عن عمر جاوز الثمانين.</span></p>\r\n",
+    "country": "LB",
+    "created_at": "2020-05-23 12:44:49",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ec8f091db29164e6d6678f4",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من الخبر المتداول ووجد أنه زائف، ذلك بعد إعلان ابنة فيروز، ريما الرحباني، أنّ الخبر القائل بوفاة والدتها كاذب.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"231\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FReema.Rahbany%2Fposts%2F3222759611108376&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "فيروز",
+        "لبنان",
+        "بيروت",
+        "وفاة فيروز"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل صفحات على مواقع التواصل الاجتماعي خبراً ادّعت فيه وفاة الفنانة اللبنانية فيروز في مشفى الجامعة الأميركية في بيروت.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_n17uvas2g.jpg\" style=\"height:845px; width:528px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_tbcp21ccx.jpg\" style=\"height:603px; width:531px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 338,
+        "left": 6.13330078125,
+        "path": "articles/1590227088GettyImages-105990901.jpg",
+        "top": 30.083251953125,
+        "totalHeight": 423,
+        "totalWidth": 611,
+        "watermark_path": "articles/watermark-1590227088GettyImages-105990901.jpg",
+        "width": 601
+    },
+    "post_date": "2020-05-23T12:31:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/groups/247039292955206/permalink/351346529191148/",
+            "name": "مروان اسماعيل",
+            "path": "published/0_1590227087_مروان.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=286007169460459&id=121699869224524",
+            "name": "سوق منتجك في سوريا",
+            "path": "published/1_1590227087_سوق.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/manel.mdaini/posts/335763420720209",
+            "name": "Manel Mdaini",
+            "path": "published/2_1590227087_manel.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/742346025832106/permalink/3118721471527871/",
+            "name": "Thami-mairouch",
+            "path": "published/3_1590227087_thami.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=160014562167312&id=109349380567164&__xts__[0]=68.ARBSF1HliC1gciv_zY0ODdcn1lGC33-BQ6mbRBKHOJ94yrHFScjrVYZZ8pxSu1rydh13QZ2k_YlbdVtQPvL56fR2HJSRvXLqIY28v5ZSUCi38h-6NDFDHWUHQgYPHn3EK3bZkj6_XpGTR2OVbSsG2hWmbhHPox_AUnJYROMCQfiroBiFjI6pBvmECOspTMQ0SKHA-37bdsyjszM-Ve-hV0Y2bP7GyRGTOH-zsGGUEh-naV9d4fj0p9MroCUldj4MhP5_7K08NuG-PsUxE1bUQYSmqvnvn946WCqU0jH960BB7FxTBcWq-lpgIxoO3Ibita0AA3kDQZPEE2SJZE0&__tn__=-R",
+            "name": "البنوك نيوز",
+            "path": "published/4_1590227087_البنوك.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/Reema.Rahbany/posts/3222759611108376",
+            "name": "ريما الرحباني",
+            "path": "sources/0_1590227087_ريما الرحباني.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "وفاة الفنانة فيروز.. خبر زائف",
+    "updated_at": "2020-09-25 15:26:07",
+    "url_path": "/factcheck/2020/05/23/وفاة-الفنانة-فيروز-خبر-زائف"
+}

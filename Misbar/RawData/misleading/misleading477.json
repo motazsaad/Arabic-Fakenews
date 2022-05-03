@@ -1,0 +1,116 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 156,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "مقطع الفيديو تم تصويره في غانا (Getty)",
+    "category": "Business",
+    "claim": "<p>فيديو يعرض سبائك ذهببة سرقها الجيش الفرنسي من دولة مالي.</p>\r\n",
+    "country": "",
+    "created_at": "2020-10-20 12:28:51",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 2,
+    "feedback_pos": 2,
+    "id": "5f8eadd369ef3e75e8610f8f",
+    "investigation": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تحقّق &quot;مسبار&quot; من مقطع الفيديو، بعد أن قسّمه&nbsp;إلى صور، وبحث عنه بشكل عكسي، ليجد أن الفيديو قديم، فقد نشرت صحيفة ليبراسيون الفرنسية&nbsp; في ستمبر/أيلول من العام 2019، تحقيقاً عن مقطع الفيديو أوضحت فيه أنها تواصت مع </span><span dir=\"RTL\" lang=\"AR-SA\">رينيه فيريكشيا، وهو محامٍ إيطالي يظهر في مقطع الفيديو مع ربطة عنق حمراء، وأكد لها أن الفيديو تم تصويره في غانا كجزء من مراقبة جودة الذهب .</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وأضاف فيريكشيا أن شعار شركة التجارة الدولية&nbsp;&quot; Far Trade&quot; الذي يظهر في الفيديو هو مصادفة بحتة، مضيفاً &quot;كنت أبحث عن ورقة لكتابة أسماء الوسطاء، وهذه هي الورقة التي صادفتني في ذلك الوقت. على حد علمي&nbsp;لم تنجح العملية، وفي نهاية هذا التفتيش أخبرت موكلي أن الوثائق المقدمة عن أصل هذا الذهب لا تبدو متسقة&quot;.</p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_wu8ie4dm4.jpg\" style=\"height:334px; width:602px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت حسابات وصفحات على مواقع التواصل الاجتماعي في الأيام القليلة الماضية من شهر أكتوبر/تشرين الأول الجاري، مقطع فيديو لما يبدو أنها صناديق محملة بسبائك الذهب، وعدة رجال يقومون بفحصها وتصويرها، وقالت إن رجال الجمارك في دولة مالي نجحوا في إيقاف تهريب الجنود الفرنسيين لصناديق&nbsp;الذهب.</span></p>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"rtl\">🚫نجح رجال الجمارك في دولة <a href=\"https://twitter.com/hashtag/%D9%85%D8%A7%D9%84%D9%8A?src=hash&amp;ref_src=twsrc%5Etfw\">#مالي</a> من إيقاف تهريب جنود فرنسيين لصناديق فيها كمية كبيرة من الذهب الخالص،وقد وثقت العملية بحضور مراقبين دوليين وصحافيين وصرح الفرنسيون الذين ينهبون خيرات مسلمي مالي ان الصناديق مملوءة ببعض الأسلحة الخفيفة وأنهم يتحركون بأوامر عليا من من الرئيس <a href=\"https://t.co/Wcvjj9oBRN\">pic.twitter.com/Wcvjj9oBRN</a></p>\r\n&mdash; Magid Almousbahi (@magidalmousbahi) <a href=\"https://twitter.com/magidalmousbahi/status/1317556427305701376?ref_src=twsrc%5Etfw\">October 17, 2020</a></blockquote>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_uyu7f91wr.jpg\" style=\"height:613px; width:558px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_toc0s3x6l.jpg\" style=\"height:501px; width:590px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1603193631GettyImages-1184517933.jpg",
+        "watermark_path": "articles/watermark-1603193631GettyImages-1184517933.jpg"
+    },
+    "post_date": "2020-10-20T10:02:00.000+03:00",
+    "published": [
+        {
+            "id": "5f8eadd157030e5bb31e11df",
+            "link": "https://twitter.com/AbdElanen/status/1317510575279267840",
+            "name": "Abd Elazez Abo Elanen",
+            "origin": "twitter",
+            "path": "sources/9569f4816d18b22b110eb66ed7e90e4de62d4323.jpg"
+        },
+        {
+            "id": "5f8eadd1b764df2b6f0252cf",
+            "link": "https://twitter.com/andaloseya/status/1318173222584651776",
+            "name": "Andaloseya",
+            "origin": "twitter",
+            "path": "sources/e675617d3fec4e4cb510794fd654f4fbabad24f7.jpg"
+        },
+        {
+            "id": "5f8eadd1d218a6229648d65c",
+            "link": "https://twitter.com/yhia1907/status/1317977592276942849",
+            "name": "يحيى حسن",
+            "origin": "twitter",
+            "path": "sources/7fcb720ebbcdafbfa787fee76b7910d2db69b4fc.jpg"
+        },
+        {
+            "id": "5f8eadd201427549b76adbf5",
+            "link": "https://twitter.com/amhdy7274/status/1317769768330530816",
+            "name": "لا اله الا الله محمد رسول الله",
+            "origin": "twitter",
+            "path": "sources/95d21ed1e589800ef2067b1e3cef0e7e9dc0a1ad.jpg"
+        },
+        {
+            "id": "5f8eadd28674401cde7d782c",
+            "link": "https://twitter.com/magidalmousbahi/status/1317556427305701376",
+            "name": "Magid Almousbahi",
+            "origin": "twitter",
+            "path": "sources/7606ce7227a8fb3ab00779c87d607540132f9f5a.jpg"
+        },
+        {
+            "id": "5f8eadd2da75911f892477f0",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=799944917522497&id=100025209886440",
+            "name": "عبدالمنعم الحسن الهندل",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5f8eadd21b5f4c09314ea08f",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=685846848719364&id=100018821654309",
+            "name": "Sayed Saker",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f8ebd5e4a475921f425209e",
+            "link": "https://www.liberation.fr/checknews/2019/09/10/non-la-douane-du-mali-n-a-pas-demantele-un-trafic-d-or-effectue-par-des-militaires-francais-sous-les_1750514?fbclid=IwAR151dscuB5pZ_bNmzRMyrmWdxM3puMIa4T1bvNNt0-6D5j4pKbTpNb2fLQ",
+            "name": "Lib&eacute;ration.fr",
+            "origin": "",
+            "path": "sources/bc02775c591372812cd2966ab11199f1000d9b16.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ليبراسيون: الفيديو ليس لسبائك ذهبية سرقها جنود فرنسيون من مالي",
+    "updated_at": "2020-10-20 15:40:33",
+    "url_path": "/factcheck/2020/10/20/هذا-الفيديو-ليس-لسبائك-ذهبية-سرقها-الجيش-الفرنسي-من-دولة-مالي",
+    "was_notification_pushed": true
+}

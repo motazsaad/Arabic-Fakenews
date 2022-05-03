@@ -1,0 +1,115 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 454,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "نفى الناطق الرسمي باسم القطب القضائي لمكافحة الإرهاب أن يكون للرجل علاقة بالعملية (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة الإرهابي الرابع الذي ساعد في تنفيذ عملية طعن في محافظة سوسة التونسية.</p>\r\n",
+    "country": "TN",
+    "created_at": "2020-09-07 16:26:07",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5f5634ef243bd06f2a457254",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقق &quot;مسبار&quot; من الصور المتداولة وتبين أنها مضللة ولا علاقة لصاحبها بالعملية الإرهابية التي حدثت&nbsp;يوم 6 سبتمبر/أيلول الجاري في محافظة سوسة في الساحل التونسي، وأن الأمن قبض عليه خلال عملية تمشيط في المنطقة، ثم أخلي سبيله.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">ونشر مقرب من صاحب الصورة المتداولة&nbsp;توضيحاً عبر حسابه الخاص على فيسبوك، أكد فيه أنّ المعني بالأمر يُدعى &quot;فوزي&quot;، ولا علاقة له بالحادثة الإرهابية، بل كان في طريق العودة إلى منزله بعد انتهائه من العمل. ونشر صوراً تجمعه به بعد إخلاء سبيله، وطلب من الذين نشروا صوره على أساس أنه إرهابي، الاعتذار منه.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">وأكد&nbsp;الناطق الرسمي باسم القطب القضائي لمكافحة الإرهاب سفيان السليطي،&nbsp;<a href=\"https://www.shemsfm.net/ar/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1_%D8%B4%D9%85%D8%B3-%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/260241/%D8%B3%D9%81%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D8%B3%D9%84%D9%8A%D8%B7%D9%8A-%D8%A7%D9%84%D8%B1%D8%AC%D9%84-%D8%A7%D9%84\" style=\"color:blue; text-decoration:underline\">لإذاعة شمس أف أم</a> المحلية، أنه لا علاقة للرجل الذي تم تداول صورته عبر مواقع التواصل الاجتماعي بالعملية الإرهابية في محافظة سوسة لا من قريب ولا من بعيد. وعبر عن أسفه لمثل هذه الممارسات دون الرجوع إلى المصادر الرسمية.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"624\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fsouhaiel.achour.1%2Fposts%2F366715401156637&amp;show_text=true&amp;width=553&amp;height=624&amp;appId\" style=\"border:none;overflow:hidden\" width=\"553\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"color:black\"><img alt=\"2.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_eddqsbz6c.jpg\" style=\"height:395px; width:605px\" /></span></span></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات إخبارية وحسابات على مواقع التواصل الاجتماعي، منذ يوم 6 سبتمبر/أيلول الجاري، صوراً تدّعي أنها للإرهابي الرابع الذي قبض عليه الأمن التونسي بعد عملية الطعن في محافظة سوسة الساحلية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"00.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_xvtpvxxzi.jpg\" style=\"height:568px; width:443px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"11.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_v8gambe32.jpg\" style=\"height:399px; width:547px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"1.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_56rhlsplr.jpg\" style=\"height:463px; width:547px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 341,
+        "left": 22.54107666015625,
+        "path": "articles/15994851672121.jpg",
+        "top": 8.085693359375,
+        "totalHeight": 423,
+        "totalWidth": 637,
+        "watermark_path": "articles/watermark-15994851672121.jpg",
+        "width": 607
+    },
+    "post_date": "2020-09-07T14:08:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/24tn.info/posts/2784736491738516",
+            "name": "24 ساعة تونس",
+            "path": "published/0_1599485166_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/Welcome.To.Sahel/posts/1545756862279161",
+            "name": "لكلنا سوسة",
+            "path": "published/1_1599485166_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1227055927652986&id=154769341548322",
+            "name": "Notre Douane",
+            "path": "published/2_1599485166_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/photo?fbid=924965441322341&set=a.221413421677550",
+            "name": "Mohamed Sghaier Dhifi",
+            "path": "published/3_1599485166_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/originaltunisia/status/1302591167448723459",
+            "name": "تونس الأصلية | ORIGINAL TUNISIA",
+            "path": "published/4_1599485166_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/SG100100T/status/1302608118732460033",
+            "name": "G.S ",
+            "path": "published/5_1599485166_101195326_747056042707733_6451845424750788608_o.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.shemsfm.net/ar/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1_%D8%B4%D9%85%D8%B3-%D8%A7%D9%84%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1/260241/%D8%B3%D9%81%D9%8A%D8%A7%D9%86-%D8%A7%D9%84%D8%B3%D9%84%D9%8A%D8%B7%D9%8A-%D8%A7%D9%84%D8%B1%D8%AC%D9%84-%D8%A7%D9%84%D8%B0%D9%8A-%D8%AA%D9%85-%D8%AA%D8%AF%D8%A7%D9%88%D9%84-%D8%B5%D9%88%D8%B1%D8%AA%D9%87-%D9%84%D8%A7-%D8%B9%D9%84%D8%A7%D9%82%D8%A9-%D9%84%D9%87-%D9%84%D8%A7-%D9%85%D9%86-%D8%A8%D8%B9%D9%8A%D8%AF-%D9%88%D9%84%D8%A7-%D9%85%D9%86-%D9%82%D8%B1%D9%8A%D8%A8-%D8%A8%D8%A7%D9%84%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8%D9%8A%D8%A9",
+            "name": "شمس أف أم",
+            "path": "sources/0_1599485166_unnamed.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/souhaiel.achour.1",
+            "name": "Souhaiel Achour",
+            "path": "sources/1_1599485166_118120134_353684832459694_3537875281962054616_n.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "تونس: لا علاقة لصاحب الصور بعملية سوسة الإرهابية",
+    "updated_at": "2020-09-25 20:13:59",
+    "url_path": "/factcheck/2020/09/07/تونس-لا-علاقة-لصاحب-الصور-بعملية-سوسة-الإرهابية",
+    "was_notification_pushed": "true"
+}

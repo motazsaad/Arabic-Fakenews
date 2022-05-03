@@ -1,0 +1,133 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 206,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "نفى ترامب في تغريدة له التقارير التي تتحدث عن نيته فرض الأحكام العرفية (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\">ترامب يعلن الأحكام العرفية في الولايات المتحدة ويأمر بنشر الجيش داخل الأراضي الأميركية.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-12-22 01:06:41",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 2,
+    "id": "5fe11c71f247051c27378765",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;<a href=\"https://misbar.com/\" target=\"_blank\"><span style=\"color:#3498db\">مسبار</span></a>&quot; من الادعاءات&nbsp;ووجدها&nbsp;زائفة، إذ نشر ترامب تغريدةً يوم&nbsp;20 ديسمبر/كانون الأول الجاري، نفى فيها ما أطلقت عليه الصحافة معلومات مسربة عن نيته إعلان الأحكام&nbsp;العرفية ونشر الجيش في شوارع الولايات المتحدة الأميركية بهدف الاحتفاظ بالرئاسة ومنع الرئيس الأميركي المنتخب جو&nbsp;بايدن، من الوصول إلى البيت الأبيض، واصفاً إياها&nbsp;بالأخبار المزيفة والتقارير السيئة. وفيما يتعلق&nbsp;بالتغريدة المتداولة المتضمنة&nbsp;الادعاءات نفسها، فقد بحث عنها &quot;<a href=\"https://misbar.com/\" target=\"_blank\"><span style=\"color:#3498db\">مسبار</span></a>&quot; ووجد أنها مفبركة،&nbsp;إذ إنها&nbsp;لا تظهر خلال التسلسل الزمني في حساب ترامب الموثّق على&nbsp;&quot;تويتر&quot; بتاريخ 18&nbsp;ديسمبر/كانون الأول الجاري، وبالبحث عنها لم&nbsp;&nbsp;تظهر في<a href=\"https://projects.propublica.org/politwoops/user/POTUS\" target=\"_blank\"> قاعدة البيانات</a> التي تجمع تغريدات ترامب، أو في <a href=\"http://www.trumptwitterarchive.com/\" target=\"_blank\">الموقع الأرشيفي</a> الذي يخزّن تغريداته المحذوفة<span dir=\"LTR\">.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_x5qhz76td.jpg\" style=\"height:253px; width:568px\" /></p>\r\n\r\n<p style=\"text-align:right\">اقرأ/ي أيضا:</p>\r\n\r\n<p style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/12/15/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%84%D9%85-%D9%8A%D8%BA%D8%B1%D8%AF-%D8%B9%D9%84%D9%89-%D8%AA%D9%88%D9%8A%D8%AA%D8%B1-%D8%A3%D9%86%D9%87-%D8%B3%D9%8A%D8%B9%D9%81%D9%88-%D8%B9%D9%86-%D8%A7%D9%84%D9%85%D9%85%D8%AB%D9%84-%D8%A8%D9%8A%D9%84-%D9%83%D9%88%D8%B3%D8%A8%D9%8A\" target=\"_blank\"><span style=\"color:#3498db\">ترامب لم يغرد على تويتر أنه سيعفو عن الممثل بيل كوسبي</span></a></p>\r\n\r\n<p style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/12/20/%D8%B5%D9%88%D8%B1%D8%A9-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%88%D9%87%D9%88-%D9%8A%D8%A3%D9%83%D9%84-%D8%A7%D9%84%D9%83%D8%B3%D9%83%D8%B3%D9%8A-%D9%85%D9%81%D8%A8%D8%B1%D9%83%D8%A9\" target=\"_blank\"><span style=\"color:#3498db\">صورة ترامب وهو يأكل الكسكسي مفبركة</span></a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "ترامب",
+        "انتخابات",
+        "بايدن",
+        "تغريدة",
+        "فرض الأحكام العرفية"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:left\"><span dir=\"RTL\" lang=\"AR-JO\">تداولت حسابات وصفحات على مواقع التواصل الاجتماعي، حديثاً، أخباراً&nbsp;ومعلومات قالت إنها مسربة تفيد بنية ترامب نشر قوات عسكرية داخل الولايات المتحدة الأميركية، وفرض الأحكام العرفية، والسيطرة على وسائل النقل.&nbsp;وحسابات أخرى تداولت المضمون ذاته في صورة لتغريدة من حساب ترامب على موقع تويتر بتاريخ 18 ديسمبر/كانون الأول الجاري، تفيد أن ذلك بهدف الاستمرار في الحكم ومنع الرئيس المنتخب جو بايدن من تسلمه الحكم&nbsp; الشهر المقبل .</span></p>\r\n\r\n<p><img src=\"https://images-prod.misbar.com/articlebody/origin_cpk2shwd3.jpg\" style=\"height:281px; width:602px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_uf0hp1ri3.jpg\" style=\"height:406px; width:602px\" /></p>\r\n\r\n<p>&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 346,
+        "left": 3.67938232421875,
+        "path": "articles/1608588400GettyImages-578546876.jpg",
+        "top": 20.80712890625,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1608588400GettyImages-578546876.jpg",
+        "width": 615
+    },
+    "post_date": "2020-12-21T21:45:00.000+03:00",
+    "published": [
+        {
+            "id": "5fe11c6f8095fe1b3c2941e4",
+            "link": "https://www.facebook.com/alimahmoud.ali.589/videos/1328716040801102",
+            "name": "Alimahmoud Ali",
+            "origin": "facebook",
+            "path": "sources/d41b5641225c2c719800eee56d3ea73d439ca1c7.jpg"
+        },
+        {
+            "id": "5fe11c6f57e6d5196041d344",
+            "link": "https://twitter.com/RahmouniAbdelg1/status/1341061333920444418",
+            "name": "Rahmouni Abdelghani",
+            "origin": "twitter",
+            "path": "sources/34e1ecd039574d8ec0074784e937e1de9af1166e.jpg"
+        },
+        {
+            "id": "5fe11c70d1c49a07b6591384",
+            "link": "https://twitter.com/PATRIOT17CW/status/1340824312400502784",
+            "name": "CW",
+            "origin": "twitter",
+            "path": "sources/7aa78ce2854241c8d09ebfdce365cad897fe3507.jpg"
+        },
+        {
+            "id": "5fe11c7069e1e83b6d06ce15",
+            "link": "https://twitter.com/CnnrGrn/status/1340525368294449155",
+            "name": "Connor Green",
+            "origin": "twitter",
+            "path": "sources/028be28b16a26df56a3e440aa2c634c6ab8bfb56.jpg"
+        },
+        {
+            "id": "5fe11c70cc7dc3166c796934",
+            "link": "https://www.facebook.com/groups/261110897998575/permalink/863156411127351",
+            "name": "(💥صوت * الوطنيين الأحرار * في الوطن العربي💥 )",
+            "origin": "facebook",
+            "path": "sources/89cfeb66b09bdb5932849d2ec7807151d44ca216.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fbfd52fa9883a30ff17ec63",
+            "link": "https://twitter.com/realDonaldTrump/status/1340523944680583169",
+            "name": "Donald J. Trump",
+            "origin": "twitter",
+            "path": "sources/6931b59ed1e7f521f4ef34a30aebfdb49b56c148.jpg"
+        },
+        {
+            "id": "5fbfd52fa9883a30ff17ec63",
+            "link": "https://twitter.com/realDonaldTrump",
+            "name": "Donald J. Trump",
+            "origin": "twitter",
+            "path": "sources/6931b59ed1e7f521f4ef34a30aebfdb49b56c148.jpg"
+        },
+        {
+            "id": "5fd8cab22bb1876b6727ee2d",
+            "link": "http://www.trumptwitterarchive.com/",
+            "name": "www.trumptwitterarchive.com",
+            "origin": "",
+            "path": "sources/cf5a0436b7bbd65dbb67916607b9283f694af0ad.jpg"
+        },
+        {
+            "id": "5fd8cab234e1be629332e744",
+            "link": "https://projects.propublica.org/politwoops/user/POTUS",
+            "name": "ProPublica",
+            "origin": "",
+            "path": "sources/31b8b72a8909054171efa26b42173e8ee7dcf3bf.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ترامب لم يعلن الأحكام العرفية ونزول الجيش إلى الشوارع",
+    "updated_at": "2020-12-22 10:38:57",
+    "url_path": "/factcheck/2020/12/22/ترامب-لم-يعلن-الأحكام-العرفية-ونزول-الجيش-إلى-الشوارع",
+    "was_notification_pushed": true
+}

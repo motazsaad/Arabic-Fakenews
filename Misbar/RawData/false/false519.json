@@ -1,0 +1,89 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1007,
+    "author": {
+        "fullname": "محمد الخالدي",
+        "id": "5ef9dcff163be306aa5d2826",
+        "photo": {
+            "name": "1593433343_48252779_2179011148784786_3755534693705973760_o.jpg",
+            "path": "authors/1593433343_48252779_2179011148784786_3755534693705973760_o.jpg"
+        }
+    },
+    "caption": "نفى المتحدث باسم الحكومة الفلسطينية نبأ الاستقالة (تويتر)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">استقالة مي كيلة وزيرة الصحة الفلسطينية.</p>\r\n",
+    "country": "",
+    "created_at": "2020-07-09 14:43:33",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f0702e5163be306a73cf377",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الخبر ووجد أنه زائف، إذ نفى إبراهيم ملحم، المتحدث باسم الحكومة الفلسطينية نبأ الاستقالة، خلال مؤتمر صحفي له يوم 7 يوليو/تموز الجاري.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fibra.milhim%2Fvideos%2F280646223357767%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت حسابات على مواقع التواصل الاجتماعي، يوم 7 يوليو/تموز الجاري، خبراً حول استقالة مي كيلة، وزيرة الصحة الفلسطينية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_yylgzcwe6.jpg\" style=\"height:541px; width:549px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_gj4m9qnbo.jpg\" style=\"height:196px; width:550px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 29,
+        "path": "articles/1594295012EcGxo6MWoAEx_Ip.jpg",
+        "top": 0,
+        "totalHeight": 563,
+        "totalWidth": 810,
+        "watermark_path": "articles/watermark-1594295012EcGxo6MWoAEx_Ip.jpg",
+        "width": 752
+    },
+    "post_date": "2020-07-09T14:40:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/Fadi.Elsalameen/photos/a.553903484685349/3145597085515963/?type=3&theater",
+            "name": "فادي السلامين ",
+            "path": "published/0_1594295012_Fadi Elsalameen (فادي السلامين).jpg"
+        },
+        {
+            "link": "https://www.facebook.com/hbtrash1/photos/a.102650247953676/180589463493087/?type=3&theater",
+            "name": "صفحة حبطرش",
+            "path": "published/1_1594295135_حبطرش hbtrash.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/m3ber/posts/1368228693383637",
+            "name": "معبر ترقوميا - الخليل",
+            "path": "published/2_1594295135_معبر ترقوميا - الخليل.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=153395449654229&id=109793690681072",
+            "name": "سكلانص",
+            "path": "published/3_1594295135_سكلانص.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/ibra.milhim/videos/280646223357767/?t=407",
+            "name": "إبراهيم ملحم",
+            "path": "sources/0_1594295012_المتحدث بإسم الحكومة الفلسطينية - إبراهيم ملحم.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "وزيرة الصحة الفلسطينية لم تستقل من منصبها",
+    "updated_at": "2020-09-25 06:56:22",
+    "url_path": "/factcheck/2020/07/09/وزيرة-الصحة-الفلسطينية-لم-تستقيل-من-منصبها"
+}

@@ -1,0 +1,162 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 247,
+    "author": {
+        "fullname": "أمين العطلة",
+        "id": "5e20299dd4a22961d73b6713",
+        "photo": {
+            "path": "authors/1579676161_Ameen.jpg"
+        }
+    },
+    "caption": "الفيديو قديم يعود لعام 2014 (يوتيوب)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">فيديو يوثق إلقاء القبض على البلطجية في الأردن ضمن الحملة التي أطلقها الأمن العام مؤخراً.</p>\r\n",
+    "country": "JO",
+    "created_at": "2020-10-25 02:41:26",
+    "created_by": "5f4a6d1e602118062e53594f",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 3,
+    "id": "5f94bba6fd789c23e31e496c",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;<a href=\"https://misbar.com/\" style=\"color:#0563c1; text-decoration:underline\" target=\"_blank\">مسبار</a>&quot; من المقطع المتداول ووجد أنه قديم والادعاء مضلل.&nbsp;ومن خلال البحث العكسي وجد &quot;مسبار&quot; أنّ <a href=\"https://www.youtube.com/watch?v=jdQJUtPFiCA\" style=\"color:#0563c1; text-decoration:underline\" target=\"_blank\">الفيديو الأصلي</a> نُشر على &quot;يوتيوب&quot; في 12 <span style=\"color:black\">أكتوبر/تشرين الأول من عام 2014 بعنوان &quot;الأمن ينفذ حملة اعتقالات في وسط البلد&quot;، ويوثّق&nbsp;لحظة إلقاء القبض على مجموعة من المشاركين في <a href=\"https://www.youtube.com/watch?v=Y7eakyP50Ds\" style=\"color:#0563c1; text-decoration:underline\" target=\"_blank\">المواجهات</a> التي اندلعت بين قوات الأمن الأردنية ومجموعة من المحتجين، على خلفية إزالة سوق شعبي من منطقة العبدلي وسط العاصمة الأردنية عمان.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">ولا علاقة للفيديو بالحملة الأمنية التي <a href=\"https://www.facebook.com/hussein.hawatmah/posts/3417903791635735\" style=\"color:#0563c1; text-decoration:underline\" target=\"_blank\">أطلقتها</a> مديرية الأمن العام الأردنية مؤخراً لإلقاء القبض على المطلوبين وتجار المواد المخدرة.</span></p>\r\n\r\n<p><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/jdQJUtPFiCA\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "أتاوات",
+        "حملة أمنية",
+        "أصحاب السوابق",
+        "الأمن العام",
+        "جريمة الزرقاء",
+        "فارضي الاتاوات"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تتداول حسابات على مواقع التواصل الإجتماعي ومواقع إخبارية منذ 19 أكتوبر/تشرين الأول الجاري، مقطع فيديو، حصد أكثر من مليون مشاهدة على &quot;فيسبوك&quot;، يُظهر قوات الأمن الأردنية&nbsp;تلقي القبض على مجموعة من الأشخاص، وتعتدي عليهم بالضرب.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">وادعى ناشرو المقطع أنه يصور لحظة إلقاء القوات الأمنية القبض على أصحاب السوابق وفارضي الأتاوات في المملكة، ضمن الحملة التي أطلقها الأمن العام الأردني مؤخراً.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p><iframe frameborder=\"0\" height=\"408\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fjerash.neshama%2Fvideos%2F979474165853492%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 417,
+        "left": 2.9779510498046875,
+        "path": "articles/1603582885videoplayback_.jpg",
+        "top": 3.411376953125,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1603582885videoplayback_.jpg",
+        "width": 740
+    },
+    "post_date": "2020-10-25T02:17:00.000+03:00",
+    "published": [
+        {
+            "id": "5f9528d7c7ba1d21484de498",
+            "link": "https://www.facebook.com/1812491355694453/videos/979474165853492/",
+            "name": "ملتقى نشامي جرش",
+            "origin": "facebook",
+            "path": "sources/ef51fd8755a73adb0c48841c9733a161cd3e90b3.jpg"
+        },
+        {
+            "id": "5f90005d2313437ade35fdc5",
+            "link": "https://www.alquds.co.uk/%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86%D9%8A-%D9%82%D8%AA%D9%84-%D8%A7%D9%84%D9%85%D8%A7%D8%B1%D8%AF-%D8%A8%D8%B9%D8%AF-%D8%A5%D8%B9%D8%AA%D9%82%D8%A7%D9%84-%D8%A7/comment-page-1/",
+            "name": "القدس العربي",
+            "origin": "",
+            "path": "sources/1aba5c0de9cbd44fae275cebb273e698b51d10a0.jpg"
+        },
+        {
+            "id": "5f94bf81ade87071ea7857bc",
+            "link": "http://www.ammanjo.net/article/136824",
+            "name": "وكالة عمان جو الاخبارية ",
+            "origin": "",
+            "path": "sources/8a4fb22640c69ad555d3173d83bf25fdec916f82.jpg"
+        },
+        {
+            "id": "5f94bba59d516c3ebb08a7d7",
+            "link": "https://www.pressbee.net/show2842541.html?title=%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86%D9%8A-%D9%82%D8%AA%D9%84-%D8%A7%D9%84%D9%85%D8%A7%D8%B1%D8%AF-%D8%A8%D8%B9%D8%AF-%D8%A5%D8%B9%D8%AA%D9%82%D8%A7%D9%84-%D8%A7%D9%84%D8%A8%D8%B1%D8%BA%D9%8A-%D9%88%D8%B9%D8%B5%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D8%B2%D9%86%D8%AE-%D9%88%D9%81%D9%8A%D8%AF",
+            "name": "برس بي",
+            "origin": "",
+            "path": "sources/2b9fe0888632883a3d7a7f52e9e4c22e488337dc.jpg"
+        },
+        {
+            "id": "5f94bba53e96c900cf700353",
+            "link": "https://www.thesaudireality.com/Read/38527",
+            "name": "The Saudi Reality - الواقع السعودي",
+            "origin": "",
+            "path": "sources/54a185b39d953ea0eb511f3925fd4c23ab3c29b3.jpg"
+        },
+        {
+            "id": "5f9528d7b18338501b64774c",
+            "link": "https://www.facebook.com/862446430448989/videos/380951709940066/",
+            "name": "Jordan Trend - ترند الاردن",
+            "origin": "facebook",
+            "path": "sources/2d70346f273d2f63c94565f324d1b5848540ca69.jpg"
+        },
+        {
+            "id": "5f94be9896907f2423026bcf",
+            "link": "https://www.facebook.com/rajaa.hanei/posts/10207516712512988",
+            "name": "Rajaa Rajab Hanei",
+            "origin": "facebook",
+            "path": "sources/243b676c360eb73dddf4b21e5528b878d28f0458.jpg"
+        },
+        {
+            "id": "5f9528d771788a08404dad97",
+            "link": "https://www.facebook.com/khaled.almarzouk.75?eid=ARC8gsAnoJVNJtFEFLwcMyJaJDBIwSVoYvSqCHc0pKARzrpSNFuIH0qmuKAMvTWRzGmj-KMz7RE10TFT&hc_ref=ARR2iF_9a3oMvjYk-fdOgIJl-H5G3ri-AeC7oofMO6oaR6rnXX7q6fWuVmZ5ez46tQQ&fref=nf",
+            "name": "Khaled Almarzouk",
+            "origin": "facebook",
+            "path": "sources/87b268d6a04c34e2f4cb7ef89f7d3b16f3d17e2e.jpg"
+        },
+        {
+            "id": "5f9528d7b0e90f7ccc709189",
+            "link": "https://www.facebook.com/malaz.sy.161/posts/849441532460970",
+            "name": "Malaz Sy",
+            "origin": "facebook",
+            "path": "sources/eb86bd563370ca6538d4ac55da472548d251263e.jpg"
+        },
+        {
+            "id": "5f9528d7e0484912b60e89a8",
+            "link": "https://www.facebook.com/emad.nazly.1/posts/209163467300944",
+            "name": "Emad Nazly",
+            "origin": "",
+            "path": "sources/af199f1a4a39b0e266e699792b5d256e855b9c0d.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f94be98c5dd2b6f7304f5ac",
+            "link": "https://www.facebook.com/hussein.hawatmah/posts/3417903791635735",
+            "name": "حسين الحواتمة Hussein Alhawatmeh",
+            "origin": "facebook",
+            "path": "sources/075f439ef1768704e1857a3e58f9812b8589a7b7.jpg"
+        },
+        {
+            "id": "5f8eb18ba3818a4eb81ad3d2",
+            "link": "https://www.youtube.com/watch?v=jdQJUtPFiCA",
+            "name": "قناة يوتيوب",
+            "origin": "",
+            "path": "published/7_1603128187_72cba5bc67b31d9d753cf43c35e93c59a1b0f98d.jpg"
+        },
+        {
+            "id": "5f8eb18ba3818a4eb81ad3d2",
+            "link": "https://www.youtube.com/watch?v=Y7eakyP50Ds",
+            "name": "قناة يوتيوب",
+            "origin": "",
+            "path": "published/7_1603128187_72cba5bc67b31d9d753cf43c35e93c59a1b0f98d.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "فيديو قديم ولا علاقة له بالقبض على مطلوبين في الأردن",
+    "updated_at": "2020-10-25 12:37:39",
+    "url_path": "/factcheck/2020/10/25/فيديو-قديم-ولا-علاقة-له-بالقبض-على-البلطجية-في-الأردن",
+    "was_notification_pushed": "true"
+}

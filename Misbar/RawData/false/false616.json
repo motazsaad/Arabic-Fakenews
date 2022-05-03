@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 852,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "نشر الإشاعة حساب على موقع انستغرام يُدعى لوكس فيوتشر  (Getty)",
+    "category": "Arts & Culture",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">تنبأ فيلم كابتن أميركا الذي أنتج عام 2011، بفايروس كورونا المستجد (كوفيد_19)&nbsp;في لوحة إعلانية ظهرت في&nbsp;مشهد بالتايم سكوير خلال خاتمة الفيلم.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-06-12 21:44:55",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ee3cd27d6e4a91c31420873",
+    "investigation": "<p>تحقّق &quot;مسبار&quot; من الخبر ووجد أنه مضلل، وقد بدأه حساب على موقع انستغرام يُدعى &quot;لوكس فيوتشر&quot; حين نشر اللقطة مع تعليق أن الفيلم تنبأ بالفايروس في اللوحات الإعلانية التمثيلية بالمشهد الختامي من الفيلم الذي أُنتج عام2011، إلا أنه سرعان ما أصبح الحساب غير متاح عبر خيار الخصوصية بعد أن تداول المئات &quot;سكرين شوت&quot; عن منشوره.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">أما اللوحات في الفيلم لم تكن تمثيلية أو تعبر عن المستقبل بل كانت حقيقية كما ظهرت وقتها في التايم سكوير إذ أنه فعلاً كان&nbsp;هناك إعلان للبيرة، بينما الآخر كان إعلاناً&nbsp;لمعكرونة Barilla، بزاوية تصوير جعلتها تبدو مشابهة لصورة الفايروس.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_2xjwflv5r.jpg\" style=\"height:299px; width:481px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_wf1do7o2m.jpg\" style=\"height:453px; width:605px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_t0fnxdxfc.jpg\" style=\"height:546px; width:416px\" /></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/gZa82Xz1nys\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت حساباتُ أجنبية وعربية، خلال اليومين الأخيرين، صورةً&nbsp;من مشهد في خاتمة فيلم كابتن أميركا الذي أنتج عام 2011، وقالت أن الفيلم تنبأ بالوباء حين&nbsp;وضع لوحات تدل على المستقبل خلف البطل&nbsp;كإعلانات في التايم سكوير بمدينة نيويورك، وكانت اللوحة على يمينه إعلان بيرة&nbsp; &quot;كورونا&quot;، بينما على يساره صورة لفايروس كورونا المستجد.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_2bwlog0cf.jpg\" style=\"height:1081px; width:552px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_o51mrkcil.jpg\" style=\"height:335px; width:560px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_dugckocy5.jpg\" style=\"height:443px; width:576px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_mw85vnl1g.jpg\" style=\"height:643px; width:577px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_sj9d5tx5a.jpg\" style=\"height:529px; width:605px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 234,
+        "left": 0.5833740234375,
+        "path": "articles/1591987494GettyImages-119408790.jpg",
+        "top": 86.8359375,
+        "totalHeight": 423,
+        "totalWidth": 421,
+        "watermark_path": "articles/watermark-1591987494GettyImages-119408790.jpg",
+        "width": 415
+    },
+    "post_date": "2020-06-12T18:59:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/whmullally/status/1271109120997933058",
+            "name": "William Mullally",
+            "path": "published/0_1591987493_LtBGKh4o_400x400.jpg"
+        },
+        {
+            "link": "https://twitter.com/Okehdom/status/1271278325906857985",
+            "name": "Tø©hukwü Däviðãnthøn",
+            "path": "published/1_1591987493__JI501H1_400x400.jpg"
+        },
+        {
+            "link": "https://twitter.com/neepdocker/status/1271494608334323712",
+            "name": " Graham Wilson",
+            "path": "published/2_1591987493_John_Allan_pics__20__400x400.jpg"
+        },
+        {
+            "link": "https://twitter.com/omarfromuk/status/1270775365322096640",
+            "name": "omar",
+            "path": "published/3_1591995635_2B7jp08v_400x400.jpg"
+        },
+        {
+            "link": "https://twitter.com/oryx48052588/status/1268283529466728449",
+            "name": "oryx",
+            "path": "published/4_1591995635_Smxd_AOV_400x400.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/flattyearth/posts/3099306346804794?__tn__=-R",
+            "name": "خفايا النظام العالمي الجديد",
+            "path": "published/5_1591995636_102310151_3106854269383335_4726555870541281658_n.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.instagram.com//",
+            "name": "lexfuture",
+            "path": "sources/0_1591987493_لوكس.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=gZa82Xz1nys",
+            "name": "TopMovieClips",
+            "path": "sources/1_1591987494_ffd.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "فيلم كابتن أميركا تنبأ بفايروس كورونا.. خبر زائف",
+    "updated_at": "2020-09-23 12:29:43",
+    "url_path": "/factcheck/2020/06/12/هل-تنبأ-كابتن-أميركا-بفايروس-كورونا"
+}

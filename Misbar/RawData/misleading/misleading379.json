@@ -1,0 +1,136 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 217,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "أدى ترامب الصلاة مع شخصيات دينية (تويتر)",
+    "category": "Politics",
+    "claim": "<p>ترامب يتلقى رقية شرعية من وسطاء روحانيين للحصول على دعم في الانتخابات الأميركية الرئاسية التي تظهر نتائجها خلال الأيام الجارية.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-11-06 22:40:23",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5fa5a6a7ebcec105770da5c5",
+    "investigation": "<p><span dir=\"RTL\" lang=\"AR-JO\">تحقّق &quot;<a href=\"https://misbar.com/\">مسبار</a>&quot; ووجد أن مقطع الفيديو يعود إلى عام 2017 حين </span><span dir=\"RTL\" lang=\"AR-SA\"><span style=\"background-color:white\">صلى ترامب مع عدد من الشخصيات الدينية أشهرهم </span></span><span dir=\"RTL\" lang=\"AR-SA\">القس الإنجيلي</span><span dir=\"RTL\" lang=\"AR-SA\"> روبرت جيفريس، </span><span dir=\"RTL\" lang=\"AR-SA\"><span style=\"background-color:white\">من أجل ضحايا إعصار هارفي&nbsp; الذي أدى إلى مقتل عشرات الأشخاص، وخسائر اقتصادية كبيرة</span></span>، وليس للانتخابات الحالية علاقة بالمقطع.&nbsp;وكان القس نشر الصورة وقتها على حسابه الموثق في موقع تويتر، أما الصوت باللغة العربية المرافق للمقطع فهو مركب.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_04nyda86l.jpg\" style=\"height:409px; width:578px\" /></p>\r\n\r\n<p style=\"text-align:right\">إقرأ/ي أيضاً:</p>\r\n\r\n<p style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/11/06/%D8%B5%D9%88%D8%B1%D8%A9-%D8%AC%D9%88-%D8%A8%D8%A7%D9%8A%D8%AF%D9%86-%D9%84%D8%A7-%D8%AA%D8%AC%D9%85%D8%B9%D9%87-%D9%85%D8%B9-%D9%85%D9%86%D8%AF%D9%88%D8%A8-%D9%84%D9%84%D8%AE%D8%A7%D9%85%D9%86%D8%A6%D9%8A\"><span style=\"color:#3498db\">صورة جو بايدن لا تجمعه مع مندوب للخمائيني</span></a></p>\r\n\r\n<p style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/11/05/%D9%87%D8%B0%D9%87-%D8%A7%D9%84%D9%81%D8%AA%D8%A7%D8%A9-%D9%84%D9%8A%D8%B3%D8%AA-%D8%A7%D8%A8%D9%86%D8%A9-%D8%AC%D9%88-%D8%A8%D8%A7%D9%8A%D8%AF%D9%86\"><span style=\"color:#3498db\">هذه الفتاة ليست ابنة جو بايدن</span></a></p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-JO\">تداولت حسابات على مواقع التواصل الاجتماعيّ، في الساعات الأخيرة، وأيضاً في شهري مارس/آذار وأبريل/نيسان الفائتين، مقطع فيديو تحت ادعاء أن ترامب يتلقى رقية شرعية من وسطاء روحانيين للحصول على دعم في الانتخابات الأميركية الرئاسية التي تظهر نتائجها خلال الساعات الحالية، ويبدو صوت الوسيط الروحي في نسخة من الفيديو وهو يبارك ترامب بتعويذة باللغة العربية بلهجة مغاربية.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?height=476&amp;href=https%3A%2F%2Fwww.facebook.com%2F110107157177417%2Fvideos%2F196620751859390%2F&amp;show_text=false&amp;width=476\" style=\"border:none;overflow:hidden\" width=\"476\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 312,
+        "left": 5.4000244140625,
+        "path": "articles/1604691622DIqIAOAUEAAyYaB.jpg",
+        "top": 43.199951171875,
+        "totalHeight": 423,
+        "totalWidth": 564,
+        "watermark_path": "articles/watermark-1604691622DIqIAOAUEAAyYaB.jpg",
+        "width": 555
+    },
+    "post_date": "2020-11-06T19:50:00.000+03:00",
+    "published": [
+        {
+            "id": "5fa5a6a60006972e847717c9",
+            "link": "https://www.facebook.com/mohamad.elhajji/posts/3106479282790375",
+            "name": "Mohamad El Hajji",
+            "origin": "facebook",
+            "path": "sources/5091aba9724b3cdffefc4de2ea4112048edd2565.jpg"
+        },
+        {
+            "id": "5fa5a6a637d5735e3a570298",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2932101036856888&id=100001710611074",
+            "name": "أيمن الصادق",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5fa5a6a660a8bf03747a769a",
+            "link": "https://twitter.com/rahimabdou20/status/1242508636376772609",
+            "name": "rahimabdou",
+            "origin": "twitter",
+            "path": "sources/a7ae383280694618698f69af33caf9fbc8fa0a21.jpg"
+        },
+        {
+            "id": "5fa5a6a69619675dea3e6f20",
+            "link": "https://twitter.com/tttttt2010tt/status/1245735754724265985",
+            "name": "Abu khaled",
+            "origin": "twitter",
+            "path": "sources/5abb68d608a79ca8c0717ceca04387ecda0dbe41.jpg"
+        },
+        {
+            "id": "5fa5a6a6e58bb561125a8055",
+            "link": "https://twitter.com/ghanaym_khaled/status/1243474657824645125",
+            "name": "Khaled Ghanaym",
+            "origin": "twitter",
+            "path": "sources/d6b3ddad0f549ef1b089027815724514ef710d79.jpg"
+        },
+        {
+            "id": "5fa5af0940c63e448b50ed14",
+            "link": "https://twitter.com/adeelahmedazad/status/1245024101535756290",
+            "name": "Adeel Ahmed Azad",
+            "origin": "twitter",
+            "path": "sources/26f924994041cebd164ceca2c3259290b4b9daa7.jpg"
+        },
+        {
+            "id": "5fa5af09c314a64670108346",
+            "link": "https://twitter.com/OlayyanA/status/1244507988498448384",
+            "name": "Olayyan S Alajmi",
+            "origin": "twitter",
+            "path": "sources/dfd9ea137b351dfa1246dbf040dcfaa7eef24310.jpg"
+        },
+        {
+            "id": "5fa5af09a4f6977cae0b2194",
+            "link": "https://twitter.com/tDHlrb6tj3TDiRZ/status/1247343565870714883",
+            "name": "يحيى الجعوني",
+            "origin": "twitter",
+            "path": "sources/33163f33662bbaabafeaf91649903f027c694455.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fa5a6a638de190db35af70d",
+            "link": "https://twitter.com/robertjeffress/status/903686853508857859/photo/1",
+            "name": "Dr. Robert Jeffress",
+            "origin": "twitter",
+            "path": "sources/98160d556e91bcffa1847f97c2cd69e1aa40a451.jpg"
+        },
+        {
+            "id": "5f8eb18ba3818a4eb81ad3d2",
+            "link": "https://www.youtube.com/watch?v=Zw7kHtHzqDk&feature=emb_title",
+            "name": "قناة يوتيوب",
+            "origin": "",
+            "path": "published/7_1603128187_72cba5bc67b31d9d753cf43c35e93c59a1b0f98d.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صلاة من أجل ضحايا إعصار هارفي ولا علاقة لها بالانتخابات الأميركية",
+    "updated_at": "2020-11-07 17:01:28",
+    "url_path": "/factcheck/2020/11/06/صلاة-من-أجل-ضحايا-إعصار-هارفي-ولا-علاقة-لها-بالانتخابات",
+    "was_notification_pushed": true
+}

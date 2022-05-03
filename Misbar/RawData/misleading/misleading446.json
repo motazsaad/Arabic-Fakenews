@@ -1,0 +1,165 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 396,
+    "author": {
+        "fullname": "محمد الخالدي",
+        "id": "5ef9dcff163be306aa5d2826",
+        "photo": {
+            "name": "1593433343_48252779_2179011148784786_3755534693705973760_o.jpg",
+            "path": "authors/1593433343_48252779_2179011148784786_3755534693705973760_o.jpg"
+        }
+    },
+    "caption": "الفيديو قديم لحريق في محطة قطارات في مدينة ميلوز (تويتر)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">مقطع فيديو لحريق ميناء لوهافر شمالي فرنسا.</p>\r\n",
+    "country": "FR",
+    "created_at": "2020-10-25 15:40:03",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 16,
+    "id": "5f95722386003f7c6a575261",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقّق &quot;مسبار&quot; من مقطع الفيديو وتبين أنه قديم ومضلل، ويعود لحريق في محطة قطارات&nbsp;في مدينة ميلوز شمال شرقي فرنسا، عام 2019، حيث دمرت ألسنة اللهب حوالي 8000&nbsp;متر مربع من مستودعاتها.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/TBfF30N7xfo\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">ونشر الدفاع المدني الفرنسي، مقطع فيديو لحريق ميناء لوهافر على حسابه في موقع &quot;تويتر&quot;.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">يذكر أن الحريق&nbsp;تزامن مع حملة من المسلمين&nbsp;لمقاطعة المنتجات الفرنسية، بعد نشر رسوم مسيئة لنبي الإسلام محمد.</p>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"ltr\"><a href=\"https://twitter.com/hashtag/Incendie?src=hash&amp;ref_src=twsrc%5Etfw\">#Incendie</a> d&rsquo;un entrep&ocirc;t d&eacute;saffect&eacute; au Havre : en renfort des sapeurs-pompiers mobilis&eacute;s, l&rsquo;h&eacute;licopt&egrave;re <a href=\"https://twitter.com/hashtag/Dragon?src=hash&amp;ref_src=twsrc%5Etfw\">#Dragon</a> 76 est engag&eacute; pour des op&eacute;rations de reconnaissance.<br />\r\n⚠️ Restez &agrave; l&rsquo;&eacute;coute des consignes <a href=\"https://twitter.com/Prefet76?ref_src=twsrc%5Etfw\">@Prefet76</a> <a href=\"https://twitter.com/Sdis76?ref_src=twsrc%5Etfw\">@Sdis76</a> <a href=\"https://t.co/yQFG5VTRBM\">pic.twitter.com/yQFG5VTRBM</a></p>\r\n&mdash; S&eacute;curit&eacute; Civile (@SecCivileFrance) <a href=\"https://twitter.com/SecCivileFrance/status/1320005327211974656?ref_src=twsrc%5Etfw\">October 24, 2020</a></blockquote>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تداولت صفحات إخبارية وحسابات على مواقع التواصل الاجتماعي، بتاريخ 24 أكتوبر/تشرين الأول الجاري، مقطع فيديو ادعت أنّه لحريق ميناء لوهافر شمالي فرنسا، الذي اندلع قبل يوم.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"350\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fpalestinianplayers%2Fvideos%2F715915752680075%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"317\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FHalabTodayTV%2Fvideos%2F295446921411159%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 330,
+        "left": 9.10528564453125,
+        "path": "articles/1603629602ElIq8mEWMAEOSdk.jpg",
+        "top": 79.746826171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-1603629602ElIq8mEWMAEOSdk.jpg",
+        "width": 587
+    },
+    "post_date": "2020-10-25T12:53:00.000+03:00",
+    "published": [
+        {
+            "id": "5f9572214631057aeb1a0019",
+            "link": "https://www.facebook.com/watch/?v=715915752680075",
+            "name": "PC Gaming Mahmoud",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5f95722101b7e87d0f2f0855",
+            "link": "https://www.facebook.com/watch/?v=295446921411159",
+            "name": "Halab Today TV قناة حلب اليوم",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5f957221e2663c71ad0967da",
+            "link": "https://www.facebook.com/watch/?v=397289164651916",
+            "name": "&rlm;&lrm;Dr. Ayyari&lrm;&rlm;",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5f9572211cc4cc28c27902c3",
+            "link": "https://www.facebook.com/watch/?v=356500935772668",
+            "name": "Jfranews - جفرانيوز",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5f957221353b11470d56ac55",
+            "link": "https://www.facebook.com/BARCA.BARCE.NEWS/posts/893456118124253",
+            "name": "برشا برشا",
+            "origin": "facebook",
+            "path": "sources/e11935523c38e114e8376d416886df792cfaaa10.jpg"
+        },
+        {
+            "id": "5f957221ade87071ea78843c",
+            "link": "https://www.facebook.com/736516039712952/videos/3800609133303009/",
+            "name": "ابن الأردن K 1",
+            "origin": "facebook",
+            "path": "sources/2daba2eea79a696998cf8574be1c6b3312b4ce16.jpg"
+        },
+        {
+            "id": "5f9572212352b72db16a1f9a",
+            "link": "https://twitter.com/allzwai/status/1320076937352589313",
+            "name": "TAMY",
+            "origin": "twitter",
+            "path": "sources/85ba794259ca25215af82447c5498ea509b3eb57.jpg"
+        },
+        {
+            "id": "5f9572218fa48a61502b1ff4",
+            "link": "https://twitter.com/HaithamAlheweny/status/1320075828307308555",
+            "name": "هيثم الحويني",
+            "origin": "twitter",
+            "path": "sources/f3152cf5f2e0f1c16c6875bb329b6064c915a737.jpg"
+        },
+        {
+            "id": "5f95722253ec925d0c74136a",
+            "link": "https://twitter.com/AlMasryAlYoum/status/1320144727774285824",
+            "name": "المصري اليوم",
+            "origin": "twitter",
+            "path": "sources/53b3ba53f1acf9043352b5aa7c8d32a7696b4715.jpg"
+        },
+        {
+            "id": "5f8f260de09f536a1a127f49",
+            "link": "https://twitter.com/liferdefempire/status/1320109630983442439",
+            "name": "شامل نيوز 🇰🇼",
+            "origin": "twitter",
+            "path": "sources/bcbbddc410efa904087663f7223b5691a714a410.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f8eb18ba3818a4eb81ad3d2",
+            "link": "https://www.youtube.com/watch?v=TBfF30N7xfo",
+            "name": "قناة يوتيوب",
+            "origin": "",
+            "path": "published/7_1603128187_72cba5bc67b31d9d753cf43c35e93c59a1b0f98d.jpg"
+        },
+        {
+            "id": "5f95722226013018495bee95",
+            "link": "https://twitter.com/SecCivileFrance/status/1320005327211974656",
+            "name": "S&eacute;curit&eacute; Civile",
+            "origin": "twitter",
+            "path": "sources/9db951ee8e7d0d9b187f04310fe644588b8285c5.jpg"
+        },
+        {
+            "id": "5f957222661ce3210a32a96f",
+            "link": "https://www.20minutes.fr/faits_divers/2521311-20190519-mulhouse-spectaculaire-incendie-ravage-pres-10000-m2-entrepots-gare-nord",
+            "name": "20minutes.fr",
+            "origin": "",
+            "path": "sources/be771490dab1b8e97e777ee70f5726eb08723734.jpg"
+        },
+        {
+            "id": "5f90484514e79834dd65b9a6",
+            "link": "https://www.alaraby.co.uk/economy/%D8%AD%D9%85%D9%84%D8%A9-%D9%85%D9%82%D8%A7%D8%B7%D8%B9%D8%A9-%D8%A7%D9%84%D9%85%D9%86%D8%AA%D8%AC%D8%A7%D8%AA-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9-%D8%AA%D8%AA%D8%B3%D8%B9-%D9%81%D9%8A-%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC",
+            "name": "العربي الجديد",
+            "origin": "",
+            "path": "sources/7b6737625694f7043c16344b5ffc4b1b5602499a.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذا الفيديو ليس لحريق ميناء لوهافر في فرنسا",
+    "updated_at": "2020-10-25 15:51:54",
+    "url_path": "/factcheck/2020/10/25/هذا-الفيديو-ليس-لحريق-ميناء-لوهافر-في-فرنسا",
+    "was_notification_pushed": "true"
+}

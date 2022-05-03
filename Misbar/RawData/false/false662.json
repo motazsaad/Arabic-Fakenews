@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2175,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": " الشجار سببه رفض الشبان لقرار إغلاق مدينة بيت لحم كإجراء وقائي من انتشار فايروس كورونا (Youtube)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">قتل أردني خمسة من عناصر الأمن بعد منعه من إسعاف ابنته إلى المشفى، وتوفيت إثر ذلك.</p>\r\n",
+    "country": "JO",
+    "created_at": "2020-06-01 12:44:30",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ed4cdfedb29167d995e6765",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الخبر، ليتبين أن القصة مفبركة، إذ تم استخدام فيديو لحدث في مكان آخر وتاريخ مختلف، لاثبات وقائع كاذبة، لم تحدث؛ فالفيديو يعود إلى شجار بين مدنيين فلسطينيين وعناصر من أجهزة الأمن الفلسطينية في مدينة بيت لحم، بتاريخ 23 مايو/ أيار 2020، ما تسبب الشجار بإصابة شابين نتيجة إطلاق النار من قبل عناصر الأمن.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وأوضحت وسائل إعلام فلسطينية أن الشجار سببه رفض الشبان لقرار إغلاق مدينة بيت لحم كإجراء وقائي من انتشار فايروس كورونا المستجد خلال فترة العيد، الأمر الذي تطور إلى إطلاق نار من قبل أجهزة الأمن، وأُصيب شابين بقدميهما، وأُسعفا إلى مستشفى الجمعية العربية.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/FVG0bXZ14F4\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_6blxzhe3i.jpg\" style=\"height:454px; width:601px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت حساباتٌ على موقع التواصل الاجتماعي تويتر في يوميّ 28، 29 مايو/أيار المنصرم، مقطعاً مصوراً قالت أنه لأردني أطلق النار على خمسة من عناصر الأمن في العاصمة عمّان ما تسبب بمقتلهم، وذلك بعد أن تم منعه من إسعاف ابنته الرضيعة إلى المشفى ما تسبب بوفاتها، فرجع إليهم وقتلهم.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_s0cteydpa.jpg\" style=\"height:574px; width:577px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_zdm66mihq.jpg\" style=\"height:565px; width:590px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 359,
+        "left": 23.39111328125,
+        "path": "articles/1591004669اب.JPG",
+        "top": 26.719970703125,
+        "totalHeight": 423,
+        "totalWidth": 676,
+        "watermark_path": "articles/watermark-1591004669اب.JPG",
+        "width": 638
+    },
+    "post_date": "2020-06-01T10:57:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/Saadi72331557/status/1266580590658289674",
+            "name": "سعدي عراق",
+            "path": "published/0_1591004669_سعدي عراق.jpg"
+        },
+        {
+            "link": "https://twitter.com/IraqibaghdadSAS/status/1266237546914144257",
+            "name": "SAS",
+            "path": "published/1_1591004669_اس اس.jpg"
+        },
+        {
+            "link": "https://twitter.com/hmeidan_ali/status/1266102664078790656",
+            "name": "علي حميدان",
+            "path": "published/2_1591004669_علي حميدان.jpg"
+        },
+        {
+            "link": "https://twitter.com/metabalswidi/status/1266066021837942784",
+            "name": "متعب المحارب",
+            "path": "published/3_1591004669_محارب.jpg"
+        },
+        {
+            "link": "https://twitter.com/ndem502/status/1265991727518756875",
+            "name": "محمد الرحباني",
+            "path": "published/4_1591004669_محمد الرحباني.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=FVG0bXZ14F4",
+            "name": "عماد جبرين",
+            "path": "sources/0_1591004669_عمادي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=294169154920044",
+            "name": "شبكة قدس الإخبارية",
+            "path": "sources/1_1591004669_49128361_2367337776676443_5393352061796483072_o.jpg"
+        },
+        {
+            "link": "https://refugeesps.net/posts/%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%B4%D8%A7%D8%A8%D9%8A%D9%86-%D9%81%D9%8A-%D9%85%D8%AE%D9%8A%D9%85-%D8%A7%D9%84%D8%AF%D9%87%D9%8A%D8%B4%D8%A9-%D8%A8%D8%B1%D8%B5%D8%A7%D8%B5-%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A9",
+            "name": "بوابة اللاجئين",
+            "path": "sources/2_1591004669_لاجي.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "أردني يقتل عناصر من الأمن بعد منعه من إسعاف ابنته.. قصة مفبركة",
+    "updated_at": "2020-09-25 08:38:43",
+    "url_path": "/factcheck/2020/06/01/أردني-يقتل-خمسة-من-عناصر-الأمن-بعد-منعه-من-إسعاف-ابنته-الرضيعة-قصة-مفبركة"
+}

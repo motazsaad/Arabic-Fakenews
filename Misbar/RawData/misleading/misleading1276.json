@@ -1,0 +1,112 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 5648,
+    "author": {
+        "fullname": "حسام الوكيل وإيهاب زيدان",
+        "id": "5e8866dddb291620c225f124",
+        "photo": {
+            "name": "1585997533_misbar-logo.jpg",
+            "path": "authors/1585997533_misbar-logo.jpg"
+        }
+    },
+    "caption": " نقلت تركيا اللاجئين إلى مخيمات بديلة للعزل لمدة 14 يوماً (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">الشرطة التركية تحرق مخيمات اللاجئين السوريين على الحدود التركية اليونانية لإجبارهم على الذهاب إلى اليونان.</span></p>\r\n",
+    "country": "TR",
+    "created_at": "2020-04-04 13:58:52",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e88686cdb291620c225f125",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من الخبر ووجد أن مقطع الفيديو صحيح ولكن الادعاء المصاحب له مضلل، إذ أحرقت السلطات التركية خيام اللاجئين بهدف إغلاق المخيم وحجر الموجودين صحيًّا لمدة 14 يوم، وليس لإخراجهم إلى اليونان.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تعود قصة هؤلاء اللاجئين إلى شهر فبراير/شباط الماضي، عندما سمحت الحكومة التركية للاجئين السوريين بالتوجه إلى الحدود اليونانية ومنها إلى أوروبا، عبر معبر &quot;بازاركولي&quot; الحدودي، وقد نجح عشرات آلاف اللاجئين من عبور الحدود، بينما تجمع آلاف في مخيمات أمام المعبر بعد منع السلطات اليونانية عبورهم، واستمروا هناك لمدة شهر.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">ونشر موقع &quot;</span><a href=\"https://www.baladi-news.com/ar/articles/58601/%22%D9%84%D8%A7-%D8%AA%D8%AA%D8%B1%D9%83%D9%88%D8%A7-%D8%A3%D8%AD%D8%AF%D8%A7-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF%22..-%D8%AD%D9%85%D9%84%D8%A9-%D8%AA%D8%B6%D8%A7%D9%85%D9%86%D9%8A%D8%A9-%D9%85%D8%B9-%D8%A7%D9%84%D9%84%D8%A7%D8%AC%D8%A6%D9%8A%D9%86-%D8%B9%D9%84%D9%89-%D8%AD%D8%AF%D9%88%D8%AF-%D8%A7%D9%84%D9%8A%D9%88%D9%86%D8%A7%D9%86\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>بلدي</u></span></a><span style=\"color:#000000\">&quot; السوري تقريراً بتاريخ 20 مارس/آذار الماضي، كشف عن توقيع أكثر من 38 ألف شخص على عريضة تضامنية مع اللاجئين العالقين على الحدود اليونانية التركية، وذلك بعد انتشار فايروس كورونا المستجد (كوفيد-19)، مطالبين المفوضية الأوروبية والحكومات بإخلاء مخيمات اللاجئين المكتظة ونقلهم إلى أماكن آمنة، كما تطالب العريضة بتنفيذ الحجر الصحي والإجراءات الوقائية للحد من انتشار كوفيد-19، فضلاً عن توفير الرعاية الطبية في مخيمات اللاجئين.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">كما نشر موقع &quot;</span><a href=\"https://bawaba-sy.com/2020/03/28/%D8%A8%D8%B9%D8%AF-%D8%B4%D9%87%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D8%B1-%D8%B7%D8%A7%D9%84%D8%A8%D9%88-%D8%A7%D9%84%D9%84%D8%AC%D9%88%D8%A1-%D9%8A%D8%BA%D8%A7%D8%AF%D8%B1/\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>بوابة سوريا</u></span></a><span style=\"color:#000000\">&quot; الإخباري، تقريراً بتاريخ 28 مارس/آذار الماضي كشف أنّ طالبي اللجوء السوريين بدأوا بمغادرة المنطقة الحدودية مع اليونان بعد انتظار دام شهراً، وأشار التقرير إلى أنّهم أبلغوا موظفي دائرة الهجرة في ولاية أدرنة شمال غربي تركيا، فقدانهم الأمل من فتح السلطات اليونانية الحدود أمامهم، موضّحاً أنّ قرار اللاجئين بمغادرة الحدود اليونانية، يأتي بعد أن أقنعهم موظفو الهجرة بأنّ بقاءهم في العراء يشكّل خطراً عليهم بعد انتشار الفايروس.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">كما نقلت مواقع إخبارية تركية وأمريكية تصريحات لوزير الداخلية التركي &quot;سليمان صويلو&quot; يؤكد فيها أنّ الشرطة التركية أَجْلَت 5800 لاجئاً سوريًّا من مخيمهم أمام المعبر الحدودي &quot;بازاركولي&quot; وذلك مؤقتاً خوفاً من تفشي كوفيد-19، وأنّ الدولة نقلت اللاجئين إلى مخيمات بديلة للعزل لمدة 14 يوماً، ثم ستسمح السلطات لهم البقاء داخل مخيمات لحين انتهاء أزمة فايروس كورونا، لستسمح لهم لاحقاً العودة من جديد إلى الحدود بعد انتهاء الأزمة.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">وقالت شاهدة عيان لـ&quot;مسبار&quot; إلا أنها فضلت عدم ذكر اسمها لحساسية وظيفتها &quot;نعم تم حرق الخيام بعد توجه حوالي ألف جندي من الجيش التركي إلى الحدود وذلك لإجبار اللاجئين&nbsp;على الصعود إلى الحافلات والتوجه لأنقرة وهناك يتم حجرهم صحياً، بعد وفاة سيدة سورية في المستشفيات التركية بسبب إصابتها بالعدوى بالفايروس حين كانت على الحدود، وإصابة آخرين&quot;، وكانت عدة مواقع نقلت خبر وفاة مريم البطي في مستشفى أديمن التركي، وكانت السيدة</span>&nbsp;مع ولدها الوحيد،&nbsp;ضمن جموع السوريين الذين توجهوا الى الحدود التركية اليونانية محاولين العبور إلى اليونان منذ قرابة الشهر.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_ymytg6wop.jpg\" style=\"height:595px; width:624px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_gff9pc7cv.jpg\" style=\"height:371px; width:624px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "كورونا تركيا",
+        "تركيا",
+        "اللاجؤون السوريون",
+        "كوفيد-19",
+        "فيروس كورونا"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تداولت مواقع إخبارية وحسابات على مواقع التواصل الاجتماعي مقطع فيديو يُظهر مجموعة من الخيام المحترقة، إلى جانب عدد من الرجال والنساء والأطفال. ويقول مصوّر المقطع أنه وعدد من السوريين الذين كانوا يتمركزون أمام معبر &quot;بازاركولي&quot; الحدودي بين تركيا واليونان، يتهمون القوات العسكرية التركية بحرق خيامهم وإخراجهم منها. فيما علّقت الحسابات التي نشرت الخبر أن سبب الإحراق هو دفع اللاجئين للخروج إلى اليونان.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_k9hcc3mda.jpg\" style=\"height:463px; width:439px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_xcmkv1n5e.jpg\" style=\"height:297px; width:438px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1586096455GettyImages-1207278489.jpg",
+        "watermark_path": "articles/watermark-1586096455GettyImages-1207278489.jpg"
+    },
+    "post_date": "2020-04-04T13:52:00.000+03:00",
+    "published": [
+        {
+            "link": "https://thelevantnews.com/2020/03/الشرطة-التركية-تحرق-خيام-اللاجئين-الس/?fbclid=IwAR3HI1OlDjZc_X2aDFEobgisfmeH7aU0E89Mqko8FCMDVCwa8zS4dSALOE8",
+            "name": "The Levant News",
+            "path": "published/0_1585997929_The-levant-logo.jpg"
+        },
+        {
+            "link": "https://www.infomigrants.net/ar/post/23758/تركيا-إخلاء-المهاجرين-من-المعبر-الحدودي-وإحراق-خيمهم?fbclid=IwAR1S9_kBC-N4sHjMW9CEBetQNr0SaBTNckEk8MiXIVtOMdSS6S6O63jn5W0",
+            "name": "مهاجر نيوز",
+            "path": "published/1_1585997929_مهاجر-نيوز-لوغو.jpg"
+        },
+        {
+            "link": "https://twitter.com/TurkeyAffairs/status/1244724430305198084?s=20",
+            "name": "شؤون تركية",
+            "path": "published/2_1585997930_شؤون-تركية-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=258044205223387",
+            "name": "مسرح الجريمة hd",
+            "path": "published/3_1585997930_مسرح-الجريمة-لوغو.jpg"
+        },
+        {
+            "link": "https://twitter.com/Hasan6al/status/1245083956330070026?s=20",
+            "name": "Hasan Alhasan",
+            "path": "published/4_1585997930_Hasan-Alhasan_logo.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.baladi-news.com/ar/articles/58601/%22لا-تتركوا-أحدا-على-الحدود%22..-حملة-تضامنية-مع-اللاجئين-على-حدود-اليونان",
+            "name": "بلدي نيوز",
+            "path": "sources/0_1585997930_بلدي-نيوز-لوغو.jpg"
+        },
+        {
+            "link": "https://bawaba-sy.com/2020/03/28/بعد-شهر-من-الانتظار-طالبو-اللجوء-يغادر/",
+            "name": "بوابة سوريا",
+            "path": "sources/1_1585997930_بوابة-سوريا-لوغو.jpg"
+        },
+        {
+            "link": "https://www.dailysabah.com/politics/eu-affairs/refugees-waiting-at-greek-border-settled-in-repatriation-centers-in-turkey-interior-minister-says",
+            "name": "Daily Sabah",
+            "path": "sources/2_1585997930_Daily-Sabah-logo.jpg"
+        },
+        {
+            "link": "https://www.breitbart.com/europe/2020/03/31/turkey-migrants-will-return-to-border-after-coronavirus-outbreak-ends/",
+            "name": "Breitbart News",
+            "path": "sources/3_1585997930_Breitbart-News-logo.jpg"
+        },
+        {
+            "link": "https://www.jesrpress.com/2020/03/31/%D9%88%D9%81%D8%A7%D8%A9-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-%D9%85%D8%B1%D9%8A%D9%85-%D8%A7%D9%84%D8%A8%D8%B7%D9%8A-%D8%A7%D8%A8%D9%86%D8%A9-%D8%AF%D9%8A%D8%B1-%D8%A7%D9%84%D8%B2%D9%88%D8%B1/?fbclid=IwAR30f2qIyKhLX_1sK-4s34DuLeXUTDzzOvtPPvYG20i1tZLDBCV-NalJ8Ng",
+            "name": "صحيفة الجسر",
+            "path": "sources/4_1586096454_جسرر.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "خبر مضلل حول مقطع فيديو يُظهر حرق خيام اللاجئين السوريين في تركيا",
+    "title": "الشرطة التركية تحرق خيام اللاجئين السوريين.. ما الحقيقة؟",
+    "updated_at": "2020-09-24 21:39:59",
+    "url_path": "/factcheck/2020/04/04/الشرطة-التركية-تحرق-خيام-اللاجئين-السوريين-خبر-مضلل"
+}

@@ -1,0 +1,104 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2791,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "نشر الاتحاد بياناً رسمياً على موقعه يوضح حقيقة الخبر (فيسبوك)",
+    "category": "Sports",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">الاتحاد المغربي لكرة القدم يقرر إلغاء الدوري بسبب فايروس كورونا المستجد.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-06-10 16:28:56",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ee0e018d6e4a9722f429e84",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من الخبر المتداول ووجد أنه زائف، إذ نفى الاتحاد المغربي لكرة القدم الخبر ونشر بياناً رسميًّا&nbsp;على موقعه أمس 9 يونيو/حزيران الجاري، </span><span dir=\"RTL\" lang=\"AR-EG\">يوضح</span><span dir=\"RTL\" lang=\"AR-SA\"> فيه الحقيقة&nbsp;وقال &quot;تفند الجامعة الملكية المغربية لكرة القدم، الخبر الذي أورده أحد المواقع الإلكترونية بخصوص عدم استئناف البطولة الوطنية، مؤكّدة عدم توصلها بأيّ قرار من السلطات المُختصة&quot;.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"373\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fofficielfrmf%2Fposts%2F2968333526535810&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت مواقع إخبارية وحسابات على مواقع التواصل الاجتماعي، خبراً يفيد بأنّ الاتحاد المغربي لكرة القدم قرر إلغاء بطولة الدوري&nbsp;للموسم الحاليّ، بسبب جائحة فايروس كورونا المستجد.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_o3ozq5mch.jpg\" style=\"height:367px; width:571px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_y3jyo8xmj.jpg\" style=\"height:384px; width:531px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_t4gc2l3ji.jpg\" style=\"height:262px; width:553px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 187,
+        "path": "articles/1591795735102934666_2968333483202481_2179758329429790454_o.jpg",
+        "top": 0,
+        "totalHeight": 620,
+        "totalWidth": 1126,
+        "watermark_path": "articles/watermark-1591795735102934666_2968333483202481_2179758329429790454_o.jpg",
+        "width": 752
+    },
+    "post_date": "2020-06-10T16:26:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.elnelelyom.com/2020/06/blog-post_546.html?m=1",
+            "name": "جريدة النيل اليوم",
+            "path": "published/0_1591795734_جريدة النيل اليوم.jpg"
+        },
+        {
+            "link": "https://www.mbc.news/n/2020/06/%d8%aa%d9%82%d8%a7%d8%b1%d9%8a%d8%b1-%d8%aa%d9%85-%d8%a5%d9%84%d8%ba%d8%a7%d8%a1-%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a-%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8%d9%8a-%d9%81%d9%8a-%d8%ba%d8%b6%d9%88%d9%86.html",
+            "name": "MBC NEWS",
+            "path": "published/1_1591796092_MBC NEWS.jpg"
+        },
+        {
+            "link": "https://twitter.com/misrtalateen/status/1270548244611940352",
+            "name": "صحيفة مصر تلاتين",
+            "path": "published/2_1591796092_صحيفة مصر تلاتين.jpg"
+        },
+        {
+            "link": "https://twitter.com/7trendM/status/1268154809116483589",
+            "name": "7trend.me",
+            "path": "published/3_1591796093_7trend.me.jpg"
+        },
+        {
+            "link": "https://twitter.com/shulanewss/status/1270398562522841096",
+            "name": "جريدة الشعلة الإلكترونية",
+            "path": "published/4_1591796093_10.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/khaledbondokelghandour4/posts/1385372305184865?__xts__%5B0%5D=68.ARBHeVfFkNTO1sQp17Q1fYyf6nH1Dp4K_X64XJcvvwTgT3HxkK0NgJUo8-z6CWZo8FYwuQqfSaRXc6mTpKeiynw22KUxWB0vL6IsC1cT3yxjLM8KA-hWlAGGhEgmlZ9d4GrGK0ECr7X0xMZNW4AfcxIwQDRie5FHdVF2HnMIJfN2Ln3oMLwe0Uire8mwenAkbVDYcAkRrO8jVZ3NN9fE8PHXVt4U26Fn9tJjFTsyMXpFAxIU8NWxXH-utRRTskQwhwrBDyZANH5xtNeftMWITrjX2cOdjm35GVlb8jkC3mZQQR6Ob-qsoqHANcgppjWhoWiVUKa9f5q7sqj6lZBy9g&__tn__=-R",
+            "name": "Khaled El Ghandor",
+            "path": "published/5_1591796093_Khaled El Ghandor.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/RADAR.INFO.24/photos/a.114656796877819/138208097856022/?type=3&theater",
+            "name": "TCHA WRR9",
+            "path": "published/6_1591796093_TCHA WRR9.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/officielfrmf/photos/a.911993145503202/2968333473202482/?type=3&__xts__%5B0%5D=68.ARBGnVKhnnUGZpNxBR135VY-I_JPPkrzlD80MXn7wxajmbhLk5phA_AuVv7Qu2I2XujFzufb-Wpvwt-VNL-1FaCmKTa9W-D207mszKhQZuEGzHlHioY3_ShNK9N5owiwB7lY6bunzZantbiMFzdR5v2TJDSy_ZQ8HwqGKZvY5csm4j4crpkf0JjAtICK62f9-GmfScA75vwkEmllnUHiSVNtfDB-8ppBpoDnz7Ujmqldz21sa1dyHU7eag2WjJYSbRazg_enxvFgbKBcMJ-4gUbJmhSsuYpkPke1VULuq3XCAT1UMvmF7PgCEm-ysnvMe7iLMm7o4rf375593Dec8hypvg&__tn__=-R",
+            "name": "الجامعة الملكية المغربية لكرة القدم",
+            "path": "sources/0_1591795734_الاتحاد.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الاتحاد المغربي لكرة القدم يوضح حقيقة إلغاء الدوري",
+    "updated_at": "2020-09-23 12:29:57",
+    "url_path": "/factcheck/2020/06/10/الاتحاد-المغربي-لكرة-القدم-يوضح-حقيقة-إلغاء-الدوري"
+}

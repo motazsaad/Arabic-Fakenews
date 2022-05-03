@@ -1,0 +1,114 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 446,
+    "author": {
+        "fullname": "حسام الوكيل",
+        "id": "5e7cb2a9d4a2297a3f1db883",
+        "photo": {
+            "name": "1585230505_1hGLjIBq_400x400.jpg",
+            "path": "authors/1585230505_1hGLjIBq_400x400.jpg"
+        }
+    },
+    "caption": "الفيديو منشور في يوليو الفائت قبل ليلة رأس السنة الهجرية (Getty)",
+    "category": "Spirituality & Religion",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\"><span style=\"color:black\">هطول أمطار غزيرة بالحرم المكي أثناء صلاة العشاء في ليلة رأس السنة الهجرية يوم 29 ذي الحجة الموافق 19 أغسطس/آب الجاري.</span></p>\r\n",
+    "country": "SA",
+    "created_at": "2020-08-20 15:41:22",
+    "created_by": "5f39b5451dd585078b5d94f3",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f3e6f72602118070a52d712",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\"><span style=\"color:black\">الفيديو مضلل، إذ بعد التحقق وجده &quot;مسبار&quot; منشوراً على موقع فيسبوك، بتاريخ 26 يوليو/تموز الفائت. هذا ونُقلت صلاة العشاء في ليلة رأس السنة الهجرية على الهواء مباشرة، ونشر الشيخ ياسر الدوسري مقطع فيديو يُظهر الصلاة التي جرت بإمامته، ولم يظهر في الفيديو أي إشارة إلى تساقط الأمطار.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"color:black\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_dmqn8oro6.jpg\" style=\"height:367px; width:658px\" /></span></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\"><span style=\"color:black\">تداولت مواقع إخبارية وحسابات على موقعي التواصل الاجتماعي فيسبوك وتويتر، فيديو يصوّر هطول أمطار غزيرة في الحرم المكي أثناء صلاة العشاء في ليلة رأس السنة الهجرية يوم 29 ذي الحجة، الموافق لـ 19 آب/أغسطس الجاري.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fquraantv1%2Fvideos%2F853086758553931%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"510\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FAbdelrahim.Ali%2Fposts%2F5028084210550465&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"rtl\">هطول أمطار غزيرة فى <a href=\"https://twitter.com/hashtag/%D8%A7%D9%84%D8%AD%D8%B1%D9%85_%D8%A7%D9%84%D9%85%D9%83%D9%8A?src=hash&amp;ref_src=twsrc%5Etfw\">#الحرم_المكي</a> ليلة <a href=\"https://twitter.com/hashtag/%D8%B1%D8%A7%D8%B3_%D8%A7%D9%84%D8%B3%D9%86%D9%87_%D8%A7%D9%84%D9%87%D8%AC%D8%B1%D9%8A%D9%87?src=hash&amp;ref_src=twsrc%5Etfw\">#راس_السنه_الهجريه</a>.. فيديو وصور<a href=\"https://twitter.com/hashtag/%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D9%87?src=hash&amp;ref_src=twsrc%5Etfw\">#السعوديه</a><a href=\"https://t.co/5jyhScUF3Y\">https://t.co/5jyhScUF3Y</a></p>\r\n&mdash; اليوم السابع (@youm7) <a href=\"https://twitter.com/youm7/status/1296154333675954176?ref_src=twsrc%5Etfw\">August 19, 2020</a></blockquote>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 315,
+        "left": 1.4505157470703125,
+        "path": "articles/1597927281GettyImages-487669842.jpg",
+        "top": 61.872802734375,
+        "totalHeight": 423,
+        "totalWidth": 564,
+        "watermark_path": "articles/watermark-1597927281GettyImages-487669842.jpg",
+        "width": 561
+    },
+    "post_date": "2020-08-20T15:30:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/youm7/status/1296154333675954176?s=20",
+            "name": "اليوم السابع  ",
+            "path": "published/0_1597927280_اليوم السابع-لوغو.jpg"
+        },
+        {
+            "link": "https://twitter.com/Vetogate/status/1296180132999094272?s=20",
+            "name": "بوابة فيتو",
+            "path": "published/1_1597927280_بوابة فيتو.jpg"
+        },
+        {
+            "link": "https://twitter.com/AlBawabaNews/status/1296170474620227584?s=20",
+            "name": "البوابة نيوز ",
+            "path": "published/2_1597927280_البوابة نيوز - logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/masralarabia/status/1296169161228525568?s=20",
+            "name": "مصر العربية ",
+            "path": "published/3_1597927280_مصر-العربية.JPG"
+        },
+        {
+            "link": "https://www.facebook.com/ElBaladOfficial/videos/vb.278847558797035/936071570201584/?type=2&theater",
+            "name": "صدى البلد ",
+            "path": "published/4_1597927281_صدى البلد- لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/story.php?story_fbid=5028084210550465&id=174945922531009&__fns&hash=Ac3_yxq6JTmVibrT",
+            "name": "عبد الرحيم علي ",
+            "path": "published/5_1597927281_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/quraantv1/videos/853086758553931/?v=853086758553931",
+            "name": "قرآن",
+            "path": "published/6_1597928337_قرآن.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://youtu.be/Vw7vnEqFQBA",
+            "name": "haramaininfo",
+            "path": "sources/0_1597927281_unnamed.jpg"
+        },
+        {
+            "link": "https://twitter.com/yasser__telawat/status/1296193849170235396?s=19",
+            "name": "تلاوات د.ياسر الدوسري",
+            "path": "sources/1_1597927281_ؤيسي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/kasheefcom/videos/1011907699240312/",
+            "name": "كاشف كوم",
+            "path": "sources/2_1597927281_ك.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لم تهطل الأمطار في الحرم المكي ليلة رأس السنة الهجرية",
+    "updated_at": "2020-09-25 11:52:41",
+    "url_path": "/factcheck/2020/08/20/لم-تهطل-الأمطار-في-الحرم-المكي-ليلة-رأس-السنة-الهجرية"
+}

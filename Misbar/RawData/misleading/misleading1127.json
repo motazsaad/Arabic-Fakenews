@@ -1,0 +1,97 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1628,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "الصورة الأصلية تعود لطفلٍ أُنقذ عقب غرق عبّارة (تويتر)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">بعد ثلاثة أيام من سقوط الطائرة الإندونيسية، فرق الإنقاذ تعثر على رضيع عائم في البحر.</span></p>\r\n",
+    "country": "ID",
+    "created_at": "2020-05-19 16:21:26",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5ec3dd56db291647461d6384",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من الخبر المتداول ووجد أنه مضلل، لأنّ الصورة الأصلية، بحسب </span><a href=\"https://twitter.com/Sutopo_PN/status/1057113422242803712\" style=\"text-decoration:none\"><span style=\"color:#1155cc\"><u>المتحدث باسم الوكالة الإندونيسية</u></span></a><span style=\"color:#000000\"> للحدّ من الكوارث، تعود لطفلٍ أُنقذ عقب </span><a href=\"https://edition.cnn.com/2018/06/20/asia/indonesia-tourist-ferry-disaster-intl/index.html\" style=\"text-decoration:none\"><span style=\"color:#1155cc\"><u>غرق عبّارة</u></span></a><span style=\"color:#000000\"> في إندونيسيا عام 2018، وليس عقب سقوط طائرة هناك، كما أنّ والدي الطفل أُنقذا معه، مثلما يظهر في تقرير مصوّر لقناة سي أن أن - إندونيسيا.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/pGtt7NNyarI\" width=\"560\"></iframe></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل صفحات على مواقع التواصل الاجتماعي، منذ سنوات، صوراً لطفلٍ نجا من حادثة سقوط طائرة إندونيسية. كما ادّعى ناشرو الخبر أنّ فرق الإنقاذ عثرت على الطفل مربوطاً إلى سترة نجاة من المرجّح أنها لأمه التي آثرت إنقاذه والتضحية بحياتها.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"727\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Falrashidia%2Fposts%2F1194763270858736&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"733\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D863840937429495%26id%3D126295107850752&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"708\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D769749833367576%26id%3D100009976997990&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1589897526غلاف.jpg",
+        "watermark_path": "articles/watermark-1589897526غلاف.jpg"
+    },
+    "post_date": "2020-05-19T16:09:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2653120284964592&id=100007999390524",
+            "name": "هيثم الشمري",
+            "path": "published/0_1589894485_هيثم الشمري.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/Yahia2004/permalink/3070912526341163/",
+            "name": "ابراهيم الزاوي",
+            "path": "published/1_1589894485_ابراهيم الزاوي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/alrashidia/posts/1194763270858736?__tn__=H-R",
+            "name": "الراشدية نيوز",
+            "path": "published/2_1589894485_الراشدية نيوز.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/343531712763557/permalink/1041182792998442/",
+            "name": "حسيني عبد الحميد عوض",
+            "path": "published/3_1589894485_حسيني.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=863840937429495&id=126295107850752&__tn__=-R",
+            "name": "بني وسين",
+            "path": "published/4_1589894485_بني وسين.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=769749833367576&id=100009976997990",
+            "name": "مروى جمال",
+            "path": "published/5_1589896119_مروى جمال.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/Sutopo_PN/status/1057113422242803712",
+            "name": "Sutopo Purwo",
+            "path": "sources/0_1589897526_sutopo.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?time_continue=56&v=pGtt7NNyarI&feature=emb_title",
+            "name": "CNN Indonesia",
+            "path": "sources/1_1589897526_cnn.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "فرق الإنقاذ تعثر على رضيع غريق في إندونيسيا.. خبر مضلل",
+    "updated_at": "2020-09-25 10:10:01",
+    "url_path": "/factcheck/2020/05/19/إندونيسيا"
+}

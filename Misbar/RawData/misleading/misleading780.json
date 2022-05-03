@@ -1,0 +1,134 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 269,
+    "author": {
+        "fullname": "حسام الوكيل",
+        "id": "5e7cb2a9d4a2297a3f1db883",
+        "photo": {
+            "name": "1585230505_1hGLjIBq_400x400.jpg",
+            "path": "authors/1585230505_1hGLjIBq_400x400.jpg"
+        }
+    },
+    "caption": "محطة الوقود التي انفجرت في روسيا وليست في أميركا (يوتيوب)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\"><span style=\"color:black\">انفجار كبير في بالتيمور بولاية ميريلاند في الولايات المتحدة دمر عدة منازل وأسقط قتلى وجرحى.</span></p>\r\n",
+    "country": "US",
+    "created_at": "2020-08-12 11:05:56",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f33a2e41dd585093a769cb3",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\"><span style=\"color:black\">تحقق &quot;مسبار&quot; من الفيديو المتداول ووجد أنه مضلل، فهو لم يحدث في الولايات المتحدة، إنّما يعود إلى انفجار محطة وقود في مدينة فولغوغراد في روسيا حدث يوم الاثنين 10 أغسطس/آب الجاري، وأسفر عن جرح بضعة أشخاص. ويذكر أنّ انفجاراً حدث في بالتيمور في أميركا يوم الاثنين 7 أغسطس/آب الجاري، لكن لا علاقة للفيديو المتداول به.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/cpQKGlUMsLc\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\"><span style=\"color:black\">تداولت حسابات وصفحات على موقعي التواصل الاجتماعي فيسبوك وتويتر، فيديو لانفجار ضخم في ولاية ميريلاند بالولايات المتحدة الأميركية، أسفر عن تدمير عدّة منازل وسقوط قتلى وجرحى.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/H04otzPtGKM\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fkokivideos%2Fvideos%2F650889895518445%2F&amp;show_text=0&amp;width=267\" style=\"border:none;overflow:hidden\" width=\"267\"></iframe></p>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"rtl\"><a href=\"https://twitter.com/hashtag/%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7?src=hash&amp;ref_src=twsrc%5Etfw\">#أمريكا</a> <a href=\"https://twitter.com/hashtag/%D8%B9%D8%A7%D8%AC%D9%84?src=hash&amp;ref_src=twsrc%5Etfw\">#عاجل</a> | انفجار كبير في بالتيمور بولاية ماريلاند دمر عدة منازل وأسقط قتلى وجرحى وما زال آخرين تحت الأنقاض <a href=\"https://t.co/3LqMIfgJsm\">pic.twitter.com/3LqMIfgJsm</a></p>\r\n&mdash; 🇱🇧Nancy Lakkis🇱🇧نانسي اللقيس (@LakkisNancy) <a href=\"https://twitter.com/LakkisNancy/status/1292899083749908480?ref_src=twsrc%5Etfw\">August 10, 2020</a></blockquote>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"rtl\"><a href=\"https://twitter.com/hashtag/%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7?src=hash&amp;ref_src=twsrc%5Etfw\">#أمريكا</a><br />\r\nانفجار كبير في بالتيمور بولاية ماريلاند. <a href=\"https://t.co/OUyaLPKJQ5\">pic.twitter.com/OUyaLPKJQ5</a></p>\r\n&mdash; ناصر بن سحيم (@nassser55) <a href=\"https://twitter.com/nassser55/status/1292864764956348423?ref_src=twsrc%5Etfw\">August 10, 2020</a></blockquote>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 152,
+        "left": 216.064697265625,
+        "path": "articles/1597219556Annotation 2020-08-12 104401.jpg",
+        "top": 184.067626953125,
+        "totalHeight": 423,
+        "totalWidth": 709,
+        "watermark_path": "articles/watermark-1597219556Annotation 2020-08-12 104401.jpg",
+        "width": 271
+    },
+    "post_date": "2020-08-12T10:50:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/hussein97014512/status/1292861293616136192?s=20",
+            "name": "Hussein Moussa",
+            "path": "published/0_1597219555_Hussein moussa.jpg"
+        },
+        {
+            "link": "https://twitter.com/TheGulfPortal/status/1292879785069350913?s=09",
+            "name": "The Gulf Portal News",
+            "path": "published/1_1597219555_The Gulf Portal News.jpg"
+        },
+        {
+            "link": "https://twitter.com/nassser55/status/1292864764956348423?s=20",
+            "name": "ناصر بن سحيم",
+            "path": "published/2_1597219555_ناصر بن سحيم.jpg"
+        },
+        {
+            "link": "https://twitter.com/LakkisNancy/status/1292899083749908480?s=20",
+            "name": "نانسي اللقيس ",
+            "path": "published/3_1597219555_نانسي اللقيس.jpg"
+        },
+        {
+            "link": "https://twitter.com/luois_l/status/1292862411914072064?s=20",
+            "name": "𝕷𝖀𝕬𝖄",
+            "path": "published/4_1597219555_يسي.jpg"
+        },
+        {
+            "link": "https://twitter.com/AliAbuhassanein/status/1292883399913480204?s=20",
+            "name": "Ali Abu hassanein",
+            "path": "published/5_1597219555_Ali Abu hassanein.jpg"
+        },
+        {
+            "link": "https://twitter.com/amal_yousef9/status/1292880183406530561?s=20",
+            "name": "Emma l",
+            "path": "published/6_1597219555_Emma l.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/kokivideos/videos/650889895518445/",
+            "name": "كوكي",
+            "path": "published/7_1597219555_كوكي.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=H04otzPtGKM",
+            "name": "مطبخ هيدر وخالد",
+            "path": "published/8_1597220602_مطبخ هيدر وخالد.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://arabic.rt.com/russia/1142937-انفجار-محطة-وقود-في-مدينة-فولغوغراد-الروسية/",
+            "name": "روسيا اليوم",
+            "path": "sources/0_1597219555_روسيا اليوم.jpg"
+        },
+        {
+            "link": "https://www.alquds.co.uk/%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%B9%D9%86%D9%8A%D9%81-%D9%81%D9%8A-%D9%85%D8%AD%D8%B7%D8%A9-%D9%88%D9%82%D9%88%D8%AF-%D8%A8%D9%85%D8%AF%D9%8A%D9%86%D8%A9-%D8%B1%D9%88%D8%B3%D9%8A%D8%A9/",
+            "name": "القدس العربي",
+            "path": "sources/1_1597219556_القدس العربي1.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=cpQKGlUMsLc",
+            "name": "المقطع الأصلي",
+            "path": "sources/2_1597219556_YouTube-logo.jpg"
+        },
+        {
+            "link": "https://arabic.euronews.com/video/2020/08/11/13-injured-after-fire-broke-out-at-gas-station-in-russia",
+            "name": "Euro News",
+            "path": "sources/3_1597220031_Euro News.jpg"
+        },
+        {
+            "link": "https://www.voanews.com/usa/least-6-injured-1-dead-after-baltimore-gas-blast-leveled-three-homes",
+            "name": "The Voice of America",
+            "path": "sources/4_1597220602_The Voice of America.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذا الفيديو ليس لانفجار في ولاية ميريلاند الأميركية",
+    "updated_at": "2020-09-25 09:09:39",
+    "url_path": "/factcheck/2020/08/12/هذا-الفيديو-ليس-لانفجار-محطة-وقود-في-أميركا"
+}

@@ -1,0 +1,88 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1484,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "ذوبان الجليد أدى إلى إنهيار أحد أعمدة خزان الوقود(Getty)",
+    "category": "News",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تسرب 20 ألف طن وقود في سيبيريا بروسيا من مفاعل نووي.</span></p>\r\n",
+    "country": "RU",
+    "created_at": "2020-06-07 15:20:04",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5edcdb74db29165c3d493344",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الخبر ليجد أنَّ هناك أكثر من 20 ألف طن من وقود الديزل تسرب من مدينة نوريلسك شمال سيبيريا التي تقع في القطب الشمالي إلى نهر أمبارنايا، بتاريخ 29 مايو/أيار المنصرم، بعد انهيار خزان الوقود في محطة توليد الطاقة والكهرباء التابعة لشركة نوريلسك نيكل.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وأوضحت الشركة أنَّ ذوبان الجليد أدى إلى إنهيار أحد أعمدة الخزان؛&nbsp;فتسرب الوقود إلى أكثر من سبعة أميال، مضيفة أنهم تمكنوا حتى الآن من جمع حوالي 340 طنًا فقط من الوقود.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">ويعتبر الحادث من أكبر تسريبات النفط في التاريخ الروسي الحديث، وسيلحق أضراراً كبيرة في بيئة القطب الشمالي قد تستمر لعقود.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_zy53cyoo8.jpg\" style=\"height:373px; width:604px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">تداولت حساباتٌ على موقع تويتر خبراً مفاده تسرب 20 ألف طن وقود في سيبيريا بروسيا من مفاعل نووي، مضيفة أنها أكبر كارثة في تاريخ القارة لما تمثله من خطر على&nbsp; البيئة، في حين شبَّهت تغريدات أخرى ما يحدث بكارثة تشيرنوبل،&nbsp;وهي&nbsp;<span style=\"background-color:white\">حادثة نووية إشعاعية</span><span style=\"background-color:white\"><span style=\"color:#202122\">&nbsp;وقعت في</span></span>&nbsp;<span style=\"background-color:white\">المفاعل</span>&nbsp;<span style=\"background-color:white\"><span style=\"color:#202122\">رقم 4 من</span></span>&nbsp;<span style=\"background-color:white\">محطة تشيرنوبل للطاقة النووية عام 1986</span><span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:#202122\">.</span></span></span></p>\r\n\r\n<pre style=\"text-align:center\">\r\n<span style=\"background-color:#f8f9fa\"><span dir=\"LTR\" lang=\"FR\" style=\"color:black\"><img src=\"https://images-prod.misbar.com/articlebody/origin_2vv84e8vs.jpg\" style=\"height:532px; width:598px\" /></span>&nbsp;</span></pre>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_k8kvqbnn0.jpg\" style=\"height:339px; width:589px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 349,
+        "left": 6.1016845703125,
+        "path": "articles/1591532403GettyImages-1218001766.jpg",
+        "top": 3.75,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1591532403GettyImages-1218001766.jpg",
+        "width": 621
+    },
+    "post_date": "2020-06-07T12:33:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/azizallaround/status/1269082739610976256",
+            "name": "Aziz Almutawa",
+            "path": "published/0_1591532402_عزيز.jpg"
+        },
+        {
+            "link": "https://twitter.com/OMN_4/status/1269191047344685057",
+            "name": "شبكة عُمان",
+            "path": "published/1_1591532402_شبكة.jpg"
+        },
+        {
+            "link": "https://twitter.com/aalaamabdelaziz/status/1268595176240549891",
+            "name": "Epictetus",
+            "path": "published/2_1591532403_العائلة.jpg"
+        },
+        {
+            "link": "https://twitter.com/AhmedISaed/status/1268654275472785409",
+            "name": "هيما",
+            "path": "published/3_1591532403__zE0xNXu_400x400.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.nytimes.com/2020/06/04/world/europe/russia-oil-spill-arctic.html",
+            "name": "New york times",
+            "path": "sources/0_1591532403_التقاط.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "تسرب الوقود في سيبيريا من محطة للطاقة وليس مفاعلاً نووياً",
+    "updated_at": "2020-09-25 07:51:34",
+    "url_path": "/factcheck/2020/06/07/تسرب-21-ألف-طن-وقود-في-سيبيريا-من-محطة-للطاقة-وليس-مفاعلا-نوويا"
+}

@@ -1,0 +1,98 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1602,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "caption": "الخبر انتشر لأول مرة على صفحة باسم الفنان محمد لطفي",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">وفاة الفنان المصري أحمد بدير</p>\r\n",
+    "country": "EG",
+    "created_at": "2020-04-26 16:21:55",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ea58af3db291629130bde04",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الخبر انتشر لأول مرة على صفحة باسم الفنان محمد لطفي، والتي اختفت بعد انتشار الخبر بشكل واسع.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_uucon46zg.jpg\" style=\"height:527px; width:642px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">نفى الفنان أشرف زكي نقيب المهن التمثيلية لعدة وسائل إعلام خبر وفاة الفنان القدير أحمد بدير؛ مؤكداً أنها شائعة لا يعلم مصدرها، وأضاف الدكتور أشرف زكي،&nbsp; أنَّ الفنان أحمد بدير بخير. كما نفت صفحة باسم الفنان أحمد بدير صحة الخبر المتداول وذكرت أنَّ الفنان بصحة جيدة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_p8u525w4z.jpg\" style=\"height:543px; width:600px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت بعض الصفحات والحسابات على موقع فيسبوك، خبراً حول وفاة الفنان المصري أحمد بدير اليوم الأحد، السادس والعشرين من أبريل<span dir=\"LTR\">/</span>نيسان 2020.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_oj8a0j9j5.jpg\" style=\"height:632px; width:504px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 397,
+        "left": 13.20001220703125,
+        "path": "articles/1587907314Capture3.JPG",
+        "top": 15.300048828125,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1587907314Capture3.JPG",
+        "width": 706
+    },
+    "post_date": "2020-04-26T15:57:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/iraqalaan/photos/a.988026604585852/2939590816096078/?type=3&theater",
+            "name": "Iraq Al Aan العراق الآن",
+            "path": "published/0_1587907313_العراق الآن.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/MntqtAlmnswrhayyAlmansur/posts/2759182497513123?__xts__[0]=68.ARD5NXsD42U9DCFcS7dKQ1meB4Y31N_AgQqJcOr7NY65w3PbuP932uPVHMOV9PUOd0ZHMrNRgb_qsVhazs8HZy5hwg8nZo5GV4QVXyeaI8pmHpS3p8aGfmxCRAlYc4E7uDnhtlWjvrT86vy74ns3CWW0rVjgUmW_x77qQeEb8HMDdZhGMuGeM2vqB-R2bzCx4C6hadUnA9vW1U4kPgc-GSa-mrkf-edKGO-xzOne16JpdGEbmvbG7Uncj2vvc3L_pUB0l6JaktGW8aX4AAEpUtJkV_9B9Q12_CKL0yRTOA3lCSceYkHrP8qoHKSQ4UNs1R3-wzIBRxWUfOt6nele-gNXLw&__tn__=-R",
+            "name": "منطقة المنصور hayy almansur",
+            "path": "published/1_1587907313_منطقة المنصور hayy almansur.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/inisnss/posts/251862769521271",
+            "name": "هلا عراق",
+            "path": "published/2_1587907313_هلا عراق.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/Elmehan.Eltamthelya/posts/2328999203870311?__xts__[0]=68.ARDYsrvcttgxECHjkDa6Or173w984-kLdRp1XcQg8qsxhY8AICXGvQ8Zn2mB8fCt-yEbCw1TvZBJp8-sQzukWwSchBxKszPj_zwlz4sMANILplXVOy7PqSjPDp0KWbOrRhUO900nDje4Hod4uWSiAzL3EvbekcpwWKIQOCKVNknrzc_i5Zt6-vT_flECkc-8T69dVQzqJZVqmMJIa0V04SDamQ-m0C_W-b0qAspkTQ97rUuSaOEzUV-dxnoj_-o_qp7YaaiOSQiKJXSvgbI2KCLxowoyWtkEUMaI2Gxc7bSghgr4hkbj3cVDU28UsdJGoUW050K-TFWvcQm-JC47KA&__tn__=-R",
+            "name": "نقابة المهن التمثيلية - الصفحة الرسمية",
+            "path": "sources/0_1587907313_نقابة المهن التمثيلية - الصفحة الرسمية.jpg"
+        },
+        {
+            "link": "https://www.dostor.org/3070722?fbclid=IwAR07JXitx_peeWnzCDF7strqti_2xTrnAs3CYV8fNVLFQB8gRP4tXos2ORU",
+            "name": "الدستور",
+            "path": "sources/1_1587907313_الدستور-لوغو.jpg"
+        },
+        {
+            "link": "https://www.almasryalyoum.com/news/details/1972073",
+            "name": "المصري اليوم",
+            "path": "sources/2_1587907313_المصري اليوم لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/AhmedBedirOfficial/?epa=SEARCH_BOX",
+            "name": "أحمد بدير",
+            "path": "sources/3_1587907314_احمد-بدير.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "شائعات حول وفاة الفنان المصري أحمد بدير",
+    "updated_at": "2020-09-23 23:45:35",
+    "url_path": "/factcheck/2020/04/26/شائعات-حول-وفاة-الفنان-المصري-أحمد-بدير"
+}

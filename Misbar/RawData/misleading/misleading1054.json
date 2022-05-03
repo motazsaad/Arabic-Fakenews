@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1571,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "الجهاز يعمل وفق تقنية انعكاس الضوء (تويتر)",
+    "category": "Technology",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">العنصرية في أميركا، حتى الصابون للبيض فقط!</span></p>\r\n",
+    "country": "US",
+    "created_at": "2020-06-05 16:53:45",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eda4e69db291636773aaa64",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من المقطع المتداول ووجد أنه مضلّل، لأنّ بعض أنواع آلات الصابون تستخدم تقنية انعكاس الضوء من أجل الاستجابة لليد أسفلها، وإن كان لون اليد غامقاً، أي يمتصّ الضوء ولا يعكسه، فقد يؤدي ذلك إلى امتناع الآلة عن إخراج الصابون.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">نُشر مقطع الفيديو لأول مرة عام 2017 عن طريق حساب على موقع </span><a href=\"https://twitter.com/nke_ise/status/897756900753891328\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>تويتر</u></span></a><span style=\"color:#000000\"> يحمل اسم Chukwuemeka Afigbo، الذي تحدّث عن ضرورة مواجهة التقنيات التكنولوجية الحديثة لمثل هذه المشاكل في الأجهزة والآليات التي نستخدمها في الحياة اليومية، والسعي نحو مراعاة التنوّع في المجتمعات.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">كما قابل موقع <a href=\"https://www.cnet.com/news/how-accurate-are-wristband-heart-rate-monitors/\" target=\"_blank\">CNET</a> مسؤول العمليات في شركة </span><a href=\"https://www.crunchbase.com/organization/basis-science#section-overview\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>Basis Science</u></span></a><span style=\"color:#000000\"> المختصة بتصنيع أجهزة الاستشعار لمختلف الأغراض، وقال في تصريح للموقع أنّ الضوء يجب أن يرتدّ إلى الجهاز حتى يعمل، وإن كان الجسم يميل إلى اللون الغامق (يمتص الضوء)، يصير من الصعب أن يعمل الجهاز. كما عبّر عن أسفه أنّ الأمر لا يسترعي اهتمام القائمين على صناعة التكنولوجيا.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_9i4a0of8x.jpg\" style=\"height:343px; width:534px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل صفحات على مواقع التواصل الاجتماعي، منذ سنوات، مقطع فيديو ادّعت فيه أنّ ماكينات الصابون في الولايات المتّحدة الأميركية عنصرية وتميّز بين الأعراق، إذ يظهر في المقطع شخص داكن البشرة يحاول استخدام الصابون الآلي دون استجابة من الآلة.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"654\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FJournalDzairSport%2Fvideos%2F180284423371121%2F&amp;show_text=1&amp;width=376\" style=\"border:none;overflow:hidden\" width=\"376\"></iframe></span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"795\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Ft.mobily%2Fvideos%2F1334816519969503%2F&amp;show_text=1&amp;width=261\" style=\"border:none;overflow:hidden\" width=\"261\"></iframe></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 305,
+        "left": 5.4000244140625,
+        "path": "articles/1591365224غلاف.jpg",
+        "top": 26,
+        "totalHeight": 423,
+        "totalWidth": 553,
+        "watermark_path": "articles/watermark-1591365224غلاف.jpg",
+        "width": 542
+    },
+    "post_date": "2020-06-05T16:42:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/t.mobily/videos/1334816519969503/",
+            "name": "أبو خالد",
+            "path": "published/0_1591365224_أبو خالد.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/JournalDzairSport/videos/180284423371121/",
+            "name": "Dzair Tube",
+            "path": "published/1_1591367011_dzaier.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Chhiwatlhadgat.official/videos/915813165223564/",
+            "name": "Chhiwatlhadgat",
+            "path": "published/2_1591367012_chh.jpg"
+        },
+        {
+            "link": "https://twitter.com/1alm3lm/status/1267174898390183936",
+            "name": "المعلم",
+            "path": "published/3_1591367012_المعلم.jpg"
+        },
+        {
+            "link": "https://twitter.com/r__vQ/status/1268370886350028801",
+            "name": "الأمير",
+            "path": "published/4_1591367012_الأمير.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/nke_ise/status/897756900753891328",
+            "name": "Chukwuemeka Afigbo",
+            "path": "sources/0_1591365224_تويتر.jpg"
+        },
+        {
+            "link": "https://gizmodo.com/why-cant-this-soap-dispenser-identify-dark-skin-1797931773",
+            "name": "Gizmodo",
+            "path": "sources/1_1591365224_Gizmodo.jpg"
+        },
+        {
+            "link": "https://www.cnet.com/news/how-accurate-are-wristband-heart-rate-monitors/",
+            "name": "CNET",
+            "path": "sources/2_1591365224_cnet.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "في أميركا الصابون للبيض فقط.. فيديو مضلل",
+    "updated_at": "2020-09-25 10:40:21",
+    "url_path": "/factcheck/2020/06/05/حتى-الصابون-للبيض-فقط-فيديو-مضلل"
+}

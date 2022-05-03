@@ -1,0 +1,92 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 2,
+        "tw": 2
+    },
+    "amount_sources": 0,
+    "amount_visits": 2425,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\"><span style=\"background-color:white\"><span style=\"color:#050505\">صحيفة لوموند الفرنسيّة تنتقد السلطة الفلسطينيّة بعد حرمان غزة من الدعم الإنسانيّ لمواجهة فايروس كورونا المستجد &quot;كوفيد19&quot;.</span></span></p>\r\n",
+    "country": "FR",
+    "created_at": "2020-03-25 18:09:59",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e7b7447d4a2291a233bae33",
+    "investigation": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقّق &quot;مسبار&quot; من مصادر نشر التقرير، ووجد أنَّه لا يوجد له أَصلٌ في صحيفة لومونـد، كما&nbsp;راسل مدير تحرير موقع &quot;مسبار&quot; محمد الشيخ يوسف&nbsp;الصحيفة التي أكَّدت بدورها بعد التواصل مع مراسلها&nbsp;في القدس،&nbsp;أنّه&nbsp;&nbsp;لا يوجد في أرشيفها تقريراً يحتوي هكذا معلومات. بدوره حذف موقع البيادر السياسيّ التقرير عن موقعه.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_ddbdg7bq3.jpg\" style=\"height:359px; width:605px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_ib648hyq0.jpg\" style=\"height:835px; width:605px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:#050505\">نشرت عدةُ صفحاتٍ على مواقع التواصل الاجتماعيّ، وبعض مواقع إخباريّة أولها موقع البيادر السياسيّ، عصر أمس، بتاريخ 23 مارس/آذار الجاري تقريراً قالت إنّه عن صحيفة لوموند الفرنسيّة، مفاده أنَّ السلطة الوطنيّة الفلسطينيّة رفضت إرسال حصة غزة من الدعم الإنسانيّ لمواجهة كورونا.</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:#050505\">وأضافت البيادر في التقرير الذي أخذه عنها العديد من النشطاء ومستخدمي موقع فيسبوك &quot;أفردت صحيفة لوموند الفرنسيّة في تقريرٍ لها مساحةً للحديث عن الإجراءات التي قامت بها بعض الدول العربيّة للحدّ من انتشار فايروس &quot;كوفيد19&quot;...</span><span dir=\"LTR\"><span style=\"color:#050505\">.</span></span><span style=\"color:#050505\">وحول الوضع الفلسطينيّ انتقدت الصحيفة تعامل السلطة برام الله مع قطاع غزة، قائلةً بأنَّ الحكومة الفلسطينيّة تتعامل مع قطاع غزة كأنّه دولةٌ مجاورةٌ وليس تابعاً لها&quot;.</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:#050505\">وأضافت البيادر في التقرير &quot;أكّدت أنّ المساعدات التي وصلت السلطة لمكافحة الفايروس من المفترض أن تشمل كلَّ المناطق الفلسطينيّة بما فيها غزة، وهذا لم يحدث على الرغم من الحالة الإنسانيّة الصعبة التي يمرُّ بها القطاع، وضَعْف الإمكانات الطبيّة نتيجة الحصار المفروض منذ أكثر من 13 عاماً&quot;.</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:#050505\">وكان عنوان التقرير المفترض أنّه عن الصحيفة الفرنسيّة &quot;السلطة فشلت في الاختبار عندما رفضت إرسال حصة غزة من الدعم الإنسانيّ لمواجهة كورونا&quot;.</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:#050505\">وتابعت البيادر في التقرير أنَّ الصحيفة أشارت إلى الخلافات السياسيّة بين الطرفين كما أشادت بإجراءات قطاع غزة المحاصر لمواجهة الفايروس على الرغم من عدم توفر الإمكانات الطبيّة والماديّة.</span></span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_yq8p41ym0.jpg\" style=\"height:445px; width:604px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_3czn6wxkm.jpg\" style=\"height:567px; width:605px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_36mmqzcfe.jpg\" style=\"height:316px; width:605px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_dmzh5w8e5.jpg\" style=\"height:226px; width:605px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_bnambnunh.jpg\" style=\"height:623px; width:605px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 263,
+        "left": 58.72306823730469,
+        "path": "articles/1585148998Screen Shot 2020-03-24 at 7.42.55 PM.jpg",
+        "top": 79.71923828125,
+        "totalHeight": 423,
+        "totalWidth": 586,
+        "width": 469
+    },
+    "post_date": "2020-03-25T15:41:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.al-bayader.org/",
+            "name": "البيادر السياسي",
+            "path": "published/0_1585148998_ثثثث.JPG"
+        },
+        {
+            "link": "https://www.facebook.com/110998663649109/posts/206484927433815/?d=n&substory_index=0",
+            "name": "شبكة خانيونس لايف",
+            "path": "published/1_1585148998_82401367_150614809687494_5531871852378456064_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/khalil.hamada.10/posts/10218978112138410",
+            "name": "خليل حمدة",
+            "path": "published/2_1585148998_خليل.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/fahmy.shurab/posts/149632363191516",
+            "name": "فهمي شراب",
+            "path": "published/3_1585148998_فهمي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=116143490014256&id=104100044551934",
+            "name": "الميدان الإخباية",
+            "path": "published/4_1585148998_الميدان.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.lemonde.fr/international/?fbclid=IwAR1rB61qx47ojj3JetCQib8x7BjdH3M47E-OAGW4G2MkPU9rpnO3Z5hcROU",
+            "name": "Lemonde",
+            "path": "sources/0_1585148998_لموند.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل انتقدت لوموند الفرنسيَّة السلطةَ بسبب حصة غزة من مساعدات كورونا؟",
+    "updated_at": "2020-09-23 14:45:53",
+    "url_path": "/factcheck/2020/03/25/هل-انتقدت-لوموند-الفرنسية-السلطة-بسبب-حصة-غزة-من-مساعدات-كورونا"
+}

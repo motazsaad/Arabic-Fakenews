@@ -1,0 +1,136 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 155,
+    "author": {
+        "fullname": "هيثم جودية",
+        "id": "5e295291d4a2296ff0065605",
+        "photo": {
+            "name": "1579766417_هيثم .JPG",
+            "path": "authors/1579766417_هيثم .JPG"
+        }
+    },
+    "caption": "تحقق &amp;amp;amp;quot;مسبار&amp;amp;amp;quot; من صحة الخبر ووجد أنه غير صحيح (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">&quot;القوات الأمريكية تغرق ناقلة نفط كانت متجهة إلى سورية التي تعاني من أزمة بنزين خانقة&quot;.</p>\r\n",
+    "country": "",
+    "created_at": "2020-10-18 16:47:13",
+    "created_by": "5f39b1ee1dd5850789476b61",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 2,
+    "id": "5f8c476125a7ff018f1b9018",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من صحة الخبر ووجد أنه زائف، إذ لم تُشر أيٌّ من وكالات الأنباء ووسائل الإعلام العالمية والوسائل التابعة للحكومة السورية بما فيها الصفحة الرسمية لوزارة النفط في سورية على فيسبوك، إلى قيام الولايات المتحدة بإغراق أي ناقلة نفط متجهة إلى سورية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وبالتحقق أيضاً تبين أنَّ موقع الاقتصادي السوري هو أول من نشر الخبر وأشار فيه نقلاً عن مصدر في وزارة النفط إلى أنَّ استمرار أزمة البنزين مرتبط بصعوبة تأمين المادة بشكل مستمر، نتيجة تشديد العقوبات الاقتصادية على سورية، كاشفاً عن إقدام الولايات المتحدة الأميركية على إغراق ناقلة نفط أثناء قدومها إلى سورية عبر البحر المتوسط، ونقلته بعض وسائل الإعلام. إلا أن موقع الاقتصادي حذف في وقت لاحق التصريح المتعلق بإغراق الناقلة، ما استدعى بعض المصادر الإعلامية إلى حذف الخبر، مثل قناة العالم الإيرانية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><strong>الخبر قبل التعديل</strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"AR-SA\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_7rleevw8p.jpg\" style=\"height:451px; width:554px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><strong>الخبر بعد التعديل</strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"AR-SA\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_vfz347mr7.jpg\" style=\"height:436px; width:554px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">يشار إلى أنّ سورية تعاني من أزمة بنزين خانقة منذ أسابيع، ما تسبب في ظهور طوابير السيارات على محطات الوقود.<br />\r\n&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">اقرأ/ي أيضاً</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/10/01/%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9-%D9%84%D9%8A%D8%B3%D8%AA-%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A7%D8%AA-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%8A%D9%82%D8%A7%D8%AA%D9%84%D9%88%D9%86-%D9%81%D9%8A-%D8%A3%D8%B0%D8%B1%D8%A8\" style=\"color:blue; text-decoration:underline\">الصورة ليست لقيادات سورية تقاتل في أذربيجان</a></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/10/12/%D9%87%D8%B0%D9%87-%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9-%D9%84%D9%8A%D8%B3%D8%AA-%D9%85%D9%86-%D8%AD%D8%B1%D8%A7%D8%A6%D9%82-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%AE%D9%8A%D8%B1%D8%A9\" style=\"color:blue; text-decoration:underline\">هذه الصورة ليست من حرائق سورية الأخيرة</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت وسائل إعلام وصفحات على موقع التواصل الاجتماعي فيسبوك، بتاريخ 17 أكتوبر/تشرين الأول الجاري،&nbsp;ادعاءً مفاده أنَّ القوات الأميركية أغرقت ناقلة نفط كانت متجهة إلى سورية. وأشارت إحدى الوسائل نقلاً عن مصدر في وزارة النفط السورية إلى أنَّ إغراق الناقلة هو أحد أسباب أزمة المحروقات التي تشهدها سورية منذ أكثر من شهر.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"AR-SA\"><img src=\"https://images-prod.misbar.com/articlebody/origin_d41v61xad.jpg\" style=\"height:376px; width:554px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"AR-SA\"><img src=\"https://images-prod.misbar.com/articlebody/origin_n1eevw00f.jpg\" style=\"height:248px; width:554px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"AR-SA\"><img src=\"https://images-prod.misbar.com/articlebody/origin_h4y7p14qr.jpg\" style=\"height:143px; width:554px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 328,
+        "left": 5.6478729248046875,
+        "path": "articles/1603028832GettyImages-956982256.jpg",
+        "top": 54.843505859375,
+        "totalHeight": 423,
+        "totalWidth": 592,
+        "watermark_path": "articles/watermark-1603028832GettyImages-956982256.jpg",
+        "width": 583
+    },
+    "post_date": "2020-10-18T16:27:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.alsouria.net/%D9%85%D8%B5%D8%AF%D8%B1-%D9%8A%D8%B9%D8%B1%D8%B6-%D8%A3%D8%B3%D8%A8%D8%A7%D8%A8-%D8%A3%D8%B2%D9%85%D8%A9-%D8%A7%D9%84%D8%A8%D9%86%D8%B2%D9%8A%D9%86-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9/",
+            "name": "السورية",
+            "path": "published/0_1603028831_de50a1f6a61036e4bee6412f45b0891e2a174011.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/24.sy.news/posts/1411008755773601",
+            "name": "وكالة سورية 24",
+            "origin": "facebook",
+            "path": "published/1_1603028831_882b4c017d6d66026db24eb4597e44d58892125d.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=841448533348576&id=461773431316090",
+            "name": "دافينشي في دمشق ",
+            "path": "published/2_1603028831_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/syriadailynews/posts/3384793644936611",
+            "name": "سيريا ديلي نيوز",
+            "origin": "facebook",
+            "path": "published/3_1603028831_1ff0d59da498b31410f5fa139429abd77ab2dbd9.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/syrianarmy777/photos/a.372200569576500/2317294941733710/",
+            "name": "الحرس الجمهوري السوري الالكتروني اللواء 105",
+            "path": "published/4_1603028832_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://aliqtisadi.com/1894787-%D8%A3%D8%B3%D8%A8%D8%A7%D8%A8-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A3%D8%B2%D9%85%D8%A9-%D8%A7%D9%84%D8%A8%D9%86%D8%B2%D9%8A%D9%86/",
+            "name": "الاقتصادي",
+            "path": "published/5_1603028832_2fe56058d484109f4489c80541314fc1be439b4a.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/mopmr.gov.sy",
+            "name": "وزارة النفط والثروة المعدنية",
+            "origin": "facebook",
+            "path": "sources/0_1603028832_3a776b1792a572bf1acfcc5ec9efbf273d9850da.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.reuters.com/",
+            "name": "Reuters",
+            "path": "sources/1_1603028832_ad7ed7fd437bbeaa684332c1e225834fa40c6296.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.bbc.com/",
+            "name": "BBC",
+            "path": "sources/2_1603028832_bf8f2cab08094694b6251b4e7c154cb045210542.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://apnews.com/",
+            "name": "Apnews",
+            "path": "sources/3_1603028832_263ed09112d031dafa95f3a899617e8441109ec6.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.aljazeera.net/",
+            "name": "Aljazeera",
+            "path": "sources/4_1603028832_70ea78f858de57b07721acc6fce56083ab92bca6.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "القوات الأميركية لم تُغرق ناقلة نفط متجهة إلى سورية",
+    "updated_at": "2020-10-18 17:56:26",
+    "url_path": "/factcheck/2020/10/18/القوات-الأميريكية-لم-تغرق-ناقلة-نفط-متجهة-إلى-سورية",
+    "was_notification_pushed": true
+}

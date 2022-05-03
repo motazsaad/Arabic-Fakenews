@@ -1,0 +1,114 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2595,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "تعود الصور الأصلية إلى تصميم معماري (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">الڤيلا السوداء في جبال الألب، التي تعود لكاتبة قصة المسلسل الكرتوني المحبوب، هايدي، المؤلفة السويسرية يوهانا شبيري.</p>\r\n",
+    "country": "CH",
+    "created_at": "2020-09-10 21:46:49",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f5a749988fa816595007c51",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصور المتداولة ووجد أنها مضللة، إذ تعود <a href=\"https://www.amazingarchitecture.com/post/black-villa-in-harriman-state-park-new-york-designed-by-reza-mohtashami\" style=\"text-decoration:none\" target=\"_blank\"><u>الصور الأصلية</u></a> إلى تصميم معماري متخيّل في إحدى حدائق ولاية نيويورك الأميركية.&nbsp;</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">بدأت <a href=\"https://www.harmoniesmagazine.com/en/2020/09/black-villa-in-new-york-designed-by-reza-mohtashami/\" style=\"text-decoration:none\" target=\"_blank\"><u>المواقع الإلكترونية</u></a> المهتمة بالفنون المعمارية نشر التصميم الذي أنجزه المعماري رضا محتشمي نهاية أغسطس/آب الفائت. إلى جانب أن التصميم متخيل ولم يُطبّق على أرض الواقع، فهو حديث، مما ينفي احتمالية أن تسكنه الكاتبة السويسرية <a href=\"https://www.britannica.com/biography/Johanna-Spyri\" style=\"text-decoration:none\" target=\"_blank\"><u>يوهانا شبيري</u></a>، التي عاشت ما بين 1827 - 1901.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_nif4le7wt.jpg\" style=\"height:417px; width:533px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_x6e7yoq6o.jpg\" style=\"height:202px; width:552px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تتناقل صفحات وحسابات على مواقع التواصل الاجتماعي، حديثاً، صوراً تدعي أنها لڤيلا سوداء تقع في جبال الألب، سكنتها الكاتبة السويسرية يوهانا شبيري، مؤلفة رواية هايدي التي تحولت فيما بعد إلى عمل كرتوني ياباني دُبلج إلى العديد من اللغات منها العربية.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ycnr28anf.jpg\" style=\"height:642px; width:536px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_4xv84uz5v.jpg\" style=\"height:620px; width:521px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 175,
+        "left": 4.1500244140625,
+        "path": "articles/1599763608Black-Villa-Reza-Mohtashami-New-York-USA-001.jpg",
+        "top": 180.1168212890625,
+        "totalHeight": 423,
+        "totalWidth": 317,
+        "watermark_path": "articles/watermark-1599763608Black-Villa-Reza-Mohtashami-New-York-USA-001.jpg",
+        "width": 311
+    },
+    "post_date": "2020-09-10T21:38:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://web.facebook.com/groups/lnnermind/permalink/798716240677987",
+            "name": "محمد القيصر",
+            "path": "published/0_1599764131_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://web.facebook.com/groups/113833862569113/permalink/607308333221661/",
+            "name": "Wiz Ahmed Alsunni",
+            "path": "published/1_1599764131_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/fadia_sha/status/1301264512633516033",
+            "name": "Fadia_Al-Sha’ar",
+            "path": "published/2_1599764131_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/khalid_4591542/status/1301591176043286534",
+            "name": "امير كوكب فليد - دوق فليد",
+            "path": "published/3_1599764200_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/AmeeraAdelMDH1/status/1302318960197677057",
+            "name": "Mereet dola",
+            "path": "published/4_1599764200_twitter.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.amazingarchitecture.com/post/black-villa-in-harriman-state-park-new-york-designed-by-reza-mohtashami",
+            "name": "Amazing Architecture ",
+            "path": "sources/0_1599763608_amazing-black-villa.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.harmoniesmagazine.com/en/2020/09/black-villa-in-new-york-designed-by-reza-mohtashami/",
+            "name": "Harmonnies Magazine",
+            "path": "sources/1_1599763608_harmonies-reza-black-villa.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.britannica.com/biography/Johanna-Spyri",
+            "name": "Britannica ",
+            "path": "sources/2_1599763608_britannica-johanna.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الڤيلا ليست في جبال الألب ولم تسكنها يوهانا شبيري",
+    "updated_at": "2020-09-25 18:12:34",
+    "url_path": "/factcheck/2020/09/10/هذه-الڤيلا-ليست-في-جبال-الألب-ولم-تسكنها-يوهانا-شبيري",
+    "was_notification_pushed": "true"
+}

@@ -1,0 +1,145 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 301,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "شجار في البرلمان التركي (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">صورة لشجار بين أعضاء جبهة التحرير الوطنية في الجزائر.</p>\r\n",
+    "country": "DZ",
+    "created_at": "2020-10-28 13:14:00",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 3,
+    "feedback_pos": 9,
+    "id": "5f9944688fc88637336bf31e",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;<a href=\"https://misbar.com/\" style=\"text-decoration:none\" target=\"_blank\"><u>مسبار</u></a>&quot; من الصورة المتداولة ووجد أنها مضللة، لأن <a href=\"https://www.theguardian.com/world/2015/feb/20/mass-brawl-in-turkish-parliament-over-controverisal-police-bill\" style=\"text-decoration:none\" target=\"_blank\"><u>الصورة الأصلية</u></a> تعود إلى شجار في البرلمان التركي عام 2015 إثر نقاش حاد حول قانون الأمن الداخلي.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_6di8sciri.jpg\" style=\"height:522px; width:529px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">اقرأ/ي أيضاً:</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/10/23/%D9%87%D8%B0%D8%A7-%D8%A7%D9%84%D9%83%D8%AA%D8%A7%D8%A8-%D9%84%D9%8A%D8%B3-%D8%B9%D9%86-%D9%83%D9%8A%D9%81%D9%8A%D8%A9-%D9%81%D9%87%D9%85-%D8%A7%D9%84%D9%85%D8%B1%D8%A3%D8%A9\" target=\"_blank\">هذا الكتاب ليس عن طريقة تفكير المرأة</a></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/10/23/%D9%87%D8%B0%D8%A7-%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%84%D9%8A%D8%B3-%D9%84%D9%84%D9%85%D8%B1%D8%A8%D9%8A%D8%A9-%D8%B3%D9%8A%D8%AF%D9%8A%D8%A7-%D9%85%D8%B1%D8%A7%D8%A8%D8%B7-%D8%A7%D9%84%D8%AA%D9%8A-%D8%A3%D9%87%D8%A7%D9%86%D9%87%D8%A7-%D9%88%D8%A7%D9%84%D9%8A-%D9%88%D9%87%D8%B1%D8%A7%D9%86\" target=\"_blank\">هذا الفيديو ليس للمربية سيديا مرابط التي أهملها والي وهران</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "جبهة التحرير الوطنية",
+        "الجزائر",
+        "تركيا"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تتناقل صفحات وحسابات على مواقع التواصل الاجتماعي، منذ شهور، صورة تدعي أنها لشجار وقع بين أعضاء حزب جبهة التحرير الوطنية في الجزائر.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_g8g8tld0c.jpg\" style=\"height:573px; width:532px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_75wyxgc94.jpg\" style=\"height:521px; width:529px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 365,
+        "left": 1.45001220703125,
+        "path": "articles/1603880038GettyImages-463877948.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 652,
+        "watermark_path": "articles/watermark-1603880038GettyImages-463877948.jpg",
+        "width": 649
+    },
+    "post_date": "2020-10-28T13:11:00.000+03:00",
+    "published": [
+        {
+            "id": "5f9941bd048aff45f30a945e",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=836592933351535&id=100010025079085",
+            "name": "Amine Amino",
+            "origin": "facebook",
+            "path": "sources/af6f8f22c296a2f707be1985c48b9d0009cfa471.jpg"
+        },
+        {
+            "id": "5f9941bd8da7ef11b55378b1",
+            "link": "https://www.facebook.com/Algerieta3na/posts/2249303511779956",
+            "name": "Algerie Ta3na",
+            "origin": "facebook",
+            "path": "sources/16bb5bd7eff7d198c492d1804e5ee0b2e812627c.jpg"
+        },
+        {
+            "id": "5f9941bd65705f66326451dd",
+            "link": "https://www.facebook.com/dz.bakhlili1848/posts/334795673833033",
+            "name": "Lahvav Lahvav Anda Malan",
+            "origin": "facebook",
+            "path": "sources/770085f06aadef856dfae7f25fca090afbd79e11.jpg"
+        },
+        {
+            "id": "5f9941bd0967b55c6319f4da",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=403822823515890&id=399986270566212",
+            "name": "Mouvement Citoyens D'akbou",
+            "origin": "facebook",
+            "path": "sources/af6f8f22c296a2f707be1985c48b9d0009cfa471.jpg"
+        },
+        {
+            "id": "5f9941bdd3b2e9727029f576",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2318923758396697&id=100008372864095",
+            "name": "Fawzzi Ghezzali",
+            "origin": "facebook",
+            "path": "sources/af6f8f22c296a2f707be1985c48b9d0009cfa471.jpg"
+        },
+        {
+            "id": "5f9943a671522e52d14e5660",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=305406123458385&id=287080971957567",
+            "name": "Je suis kabyle fier",
+            "origin": "facebook",
+            "path": "sources/af6f8f22c296a2f707be1985c48b9d0009cfa471.jpg"
+        },
+        {
+            "id": "5f9943a641650f540d1bc4be",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=428408404367888&id=427859911089404",
+            "name": "Algeria now",
+            "origin": "facebook",
+            "path": "sources/af6f8f22c296a2f707be1985c48b9d0009cfa471.jpg"
+        },
+        {
+            "id": "5f9943a69358cb23ea3c2857",
+            "link": "https://www.facebook.com/groups/961893260514095/permalink/2088200111216732/",
+            "name": "Salim Youcef Ali",
+            "origin": "facebook",
+            "path": "sources/c2be627aea0e6ece74661870c4139bf061f3229a.jpg"
+        },
+        {
+            "id": "5f9943a6283ea013450d89e0",
+            "link": "https://www.facebook.com/Newsalgerie17/posts/1397568977077694",
+            "name": "News Alg&eacute;rie",
+            "origin": "facebook",
+            "path": "sources/63cd19cf375bb93739e54d0bffe3f9ff6620b4ee.jpg"
+        },
+        {
+            "id": "5f9943a6f92e963126723134",
+            "link": "https://www.facebook.com/fadou66/posts/812217095823426",
+            "name": "Aitiftene Madadi Fadila",
+            "origin": "facebook",
+            "path": "sources/770085f06aadef856dfae7f25fca090afbd79e11.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f993f7e1020da47441d53e6",
+            "link": "https://www.theguardian.com/world/2015/feb/20/mass-brawl-in-turkish-parliament-over-controverisal-police-bill",
+            "name": "the Guardian",
+            "origin": "",
+            "path": "sources/05346cff21bb52cea4b0aefa02715d8da3fee194.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "شجار في البرلمان التركي وليس بين أعضاء جبهة التحرير الجزائرية",
+    "updated_at": "2020-10-28 13:18:21",
+    "url_path": "/factcheck/2020/10/28/شجار-في-البرلمان-التركي-وليس-بين-أعضاء-جبهة-التحرير-الجزائرية",
+    "was_notification_pushed": "true"
+}

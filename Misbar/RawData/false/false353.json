@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2854,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "كما يستمر موقع رئاسة الجمهورية في نشر صور وأنشطة الرئيس قيس سعيد اليوم بشكل اعتيادي(Carthage)",
+    "category": "News",
+    "claim": "<p>محاولة اغتيال الرئيس التونسي قيس سعيد عبر وضع السم له في الخبز.</p>\r\n",
+    "country": "TN",
+    "created_at": "2020-08-21 22:38:30",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5f4022b6602118070833074d",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الخبر ليجد أنه محض إشاعات، فقد نفت دائرة الإعلام برئاسة الجمهورية التونسية عبر وكالة تونس أفريقيا للأنباء الرسمية، اليوم الجمعة، ما تم تداوله من أخبار حول محاولة تسميم الرئيس قيس سعيد، واعتبرت رئاسة الجمهورية التونسية أن ما تم نشره من أخبار حول استهداف الرئيس يتنزل في خانة &quot;الإشاعات التي لا أساس لها من الصحة&quot;. كما قالت المستشارة الإعلامية في رئاسة الجمهورية التونسية رشيدة النيفر، في منشور لها على حسابها بموقع فيسبوك &quot;يبحثون عن تسميم الأجواء ببث الإشاعات و لكن الأمل يبقى قائماً في تونس جديدة حرة ومزدهرة</span><span style=\"background-color:white\">&quot;.</span>&nbsp;ويستمر موقع الرئاسة الجمهورية التونسية في نشر صور وأنشطة الرئيس قيس سعيد اليوم بشكل اعتيادي.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"background-color:white\"><span dir=\"LTR\"><span style=\"color:#2c2f34\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_4jj3i8k7m.jpg\" style=\"height:295px; width:605px\" /></span></span></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">تداولت مواقع إعلامية وحسابات على مواقع التواصل الاجتماعي، اليوم الجمعة الموافق 21 أغسطس/ آب الجاري، خبراً حول محاولة اغتيال الرئيس التونسي قيس سعيد عبر دس السم في طعامه، وجاء بتفاصيل الخبر الذي نشرته صحيفة الشروق التونسية صباح اليوم، وأخذته عنها مواقع التواصل، أن <span style=\"color:#2c2f34\">أحد رجال الأعمال عرض على صاحب المخبز الذي يزود القصر الرئاسي بالخبز، مبلغاً مالياً&nbsp;يقدر بـ 20 ألف ديناراً تونسياً&nbsp;&nbsp;(7 آلاف دولار) مقابل دس السم في الخبز الموجه لقصر رئاسة الجمهورية بهدف تسميم الرئيس قيس سعيد</span><span dir=\"LTR\"><span style=\"color:#2c2f34\">.</span></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"background-color:white\"><span dir=\"LTR\"><span style=\"color:#2c2f34\"><img src=\"https://images-prod.misbar.com/articlebody/origin_zh4aen840.jpg\" style=\"height:594px; width:602px\" /></span></span></span></p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_mhqd3ysfz.jpg\" style=\"height:457px; width:542px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_1pm25c8j6.jpg\" style=\"height:188px; width:605px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 401,
+        "left": 8.5,
+        "path": "articles/1598038710يييي.JPG",
+        "top": 10.265625,
+        "totalHeight": 423,
+        "totalWidth": 761,
+        "watermark_path": "articles/watermark-1598038710يييي.JPG",
+        "width": 713
+    },
+    "post_date": "2020-08-21T21:12:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/307850262573890/posts/4930148800343990/",
+            "name": "الشروق",
+            "path": "published/0_1598038709_33117504_2474252365933658_4701786645521760256_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/4741695135841347/?post_id=4927025927308266",
+            "name": "Salah Boulatrous",
+            "path": "published/1_1598038709_106740183_133744651713782_2559122909251997886_n.jpg"
+        },
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=360342628695648&id=117641019632478",
+            "name": "أخبار الجزائر",
+            "path": "published/2_1598038709_أخبار الجز.JPG"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "http://attessia.tv/news/nation/725473/%D8%B1%D8%A6%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D9%83%D9%84-%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A9-%D9%84%D8%A7%D8%B3%D8%AA%D9%87%D8%AF%D8%A7%D9%81-%D8%B3%D9%84%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3",
+            "name": "وكالة أنباء تونس أفريقيا الرسمية",
+            "path": "sources/0_1598038709_وكا.JPG"
+        },
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=197458301722130&id=100043738833241",
+            "name": "رشيدة النيفر",
+            "path": "sources/1_1598038709_رشيجة.JPG"
+        },
+        {
+            "link": "https://www.carthage.tn/?q=ar",
+            "name": "موقع رئاسة الجمهورية التونسية",
+            "path": "sources/2_1598038709_ررر.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لم يخطط أحد لتسميم الرئيس التونسي قيس سعيد",
+    "updated_at": "2020-09-25 22:13:07",
+    "url_path": "/factcheck/2020/08/21/لم-يخطط-أحد-لتسميم-الرئيس-التونسي-قيس-سعيد"
+}

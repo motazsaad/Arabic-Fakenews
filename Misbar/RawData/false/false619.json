@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 15365,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": " أجرى اختبار المسحة للفايروس قبل أن يلتقي بأفراد عائلته(Getty)",
+    "category": "Arts & Culture",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">إصابة المطرب محمد عبده بفايروس كورونا المستجد(كوفيد_19)، ويعزل نفسه في أحد فنادق مدينة جدة.</span></p>\r\n",
+    "country": "SA",
+    "created_at": "2020-06-12 16:25:29",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ee38249d6e4a913687f0524",
+    "investigation": "<p dir=\"RTL\">تحقّق &quot;مسبار&quot; من الخبر، ووجد أنه عارٍ عن الصحة، فالفنان ظهر على قناة العربية منذ ساعات، مؤكداً أن&nbsp;نتيجته سلبية، وأن الفيديو المتداول له كان خلال عودته من الخارج، وتوجهه إلى أحد الفنادق التي اختارتها المملكة لإجراء الفحوص والعزل الصحي، حيث أجرى اختبار المسحة قبل أن يلتقي بأفراد عائلته.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FAlArabiya%2Fvideos%2F255985749070634%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت حسابات على موقع تويتر، منذ التاسع من يونيو/حزيران الجاري، خبراً مفاده إصابة المطرب محمد عبده بفايروس كورونا المستجد، كما تداولت الحسابات ذاتها فيديو قالت أنه يعزل نفسه في أحد فنادق مدينة جدة، وفي استقباله مسؤول من وزارة الصحة السعودية.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_z844ir9tk.jpg\" style=\"height:654px; width:578px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_v61g5wz9o.jpg\" style=\"height:594px; width:558px\" /></p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_jvohgoakz.jpg\" style=\"height:571px; width:588px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_0mdyshday.jpg\" style=\"height:647px; width:574px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_jhbmqvv9q.jpg\" style=\"height:600px; width:565px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 341,
+        "left": 17.5,
+        "path": "articles/1591968328GettyImages-71132573.jpg",
+        "top": 39.3359375,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1591968328GettyImages-71132573.jpg",
+        "width": 608
+    },
+    "post_date": "2020-06-12T13:53:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/gQSLmvd3cKnroSX/status/1271127835495878656",
+            "name": "صالح عبدالباري صالح حسين",
+            "path": "published/0_1591968327_صالح عبد الباري.jpg"
+        },
+        {
+            "link": "https://twitter.com/Mohameed1383/status/1270826557670555653",
+            "name": "محمد الزهراني",
+            "path": "published/1_1591968327_محمد الزهراني.jpg"
+        },
+        {
+            "link": "https://twitter.com/Faisal_Aljehani/status/1270909645394186240",
+            "name": "فيصل الجهني",
+            "path": "published/2_1591968327_فيصل الجهني.jpg"
+        },
+        {
+            "link": "https://twitter.com/ezooalharby/status/1271134741094334464",
+            "name": "@ezooalharby",
+            "path": "published/3_1591968327_ايزو.jpg"
+        },
+        {
+            "link": "https://twitter.com/SaadFahadOsaimi/status/1271024746600292352",
+            "name": "سعد العصيمي",
+            "path": "published/4_1591968328_سعد العصيمي.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/AlArabiya/videos/255985749070634/?v=255985749070634&external_log_id=9463bfa6-515f-4a1a-afe0-c8eca4eb349d",
+            "name": "AlArabiya",
+            "path": "sources/0_1591968328_العربيةةة.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل أُصيب المطرب محمد عبده بفايروس كورونا؟",
+    "updated_at": "2020-09-25 21:07:16",
+    "url_path": "/factcheck/2020/06/12/هل-أصيب-المطرب-محمد-عبده-بفايروس-كورونا"
+}

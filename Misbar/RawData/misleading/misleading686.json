@@ -1,0 +1,120 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2454,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "فندق يقع في شبه جزيرة يوكاتان (فيسبوك)",
+    "category": "Travel",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صور لحمام مياه معدنية، تحت الأرض، بمنطقة بوحرزين في ولاية المدية في الجزائر سيفتتح بعد أزمة كورونا.</p>\r\n",
+    "country": "DZ",
+    "created_at": "2020-09-05 15:51:50",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 2,
+    "id": "5f5389e601f37b629e179e34",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصور المتداولة وتبين أنها مضللة، لأنها لا تُظهر مكاناً في ولاية المدية الجزائرية، كما لا توجد منطقة باسم بوحرزين في الولاية المذكورة. أما <a href=\"https://www.hotelzentik.com/en/the-cave-zentik-hotel-valladolid\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">الصور الأصلية</a> تعود لحمام بمياه معدنية في فندق يقع في شبه جزيرة يوكاتان المكسيكية، وبالتحديد في مدينة فالادوليد، واسمه<span dir=\"LTR\">Zentik Project Valladolid</span>.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_8qwr52153.jpg\" style=\"height:331px; width:543px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت مواقع إخبارية، وصفحات على مواقع التواصل الاجتماعي، حديثاً، صوراً لحمام بمياه معدنية تحت الأرض، ادعت أنه يقع في منطقة اسمها بوحرزين في ولاية المدية الجزائرية، وسيفتتح هذا المشروع السياحي بعد انفراج أزمة كوفيد-19.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_je2iy3o4n.jpg\" style=\"height:642px; width:526px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_01v1weo7s.jpg\" style=\"height:660px; width:527px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 302,
+        "left": 1.8499755859375,
+        "path": "articles/1599310310zentik-algeria-mexico.jpg",
+        "top": 72.883544921875,
+        "totalHeight": 423,
+        "totalWidth": 541,
+        "watermark_path": "articles/watermark-1599310310zentik-algeria-mexico.jpg",
+        "width": 537
+    },
+    "post_date": "2020-09-05T15:47:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://mobile.facebook.com/story.php?story_fbid=976625536155265&id=526403174510839&_rdr",
+            "name": "Dzair El Jadida ",
+            "path": "published/0_1599310683_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://mobile.facebook.com/story.php?story_fbid=792636118158662&id=145139946241619&_rdr",
+            "name": "جمعية وازيت بواكلي  باش جراح 2",
+            "path": "published/1_1599310683_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://mobile.facebook.com/groups/1289328147880569?view=permalink&id=2225808870899154&_rdr",
+            "name": "وادي رهيو الان",
+            "path": "published/2_1599310683_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://mobile.facebook.com/story.php?story_fbid=551926882267220&id=531565664303342&_rdr",
+            "name": "Media plus dz  ",
+            "path": "published/3_1599310773_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://mobile.facebook.com/groups/1585063088327796?view=permalink&id=1671006899733414&_rdr",
+            "name": "نحوس في بلادي  ",
+            "path": "published/4_1599310773_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://mobile.facebook.com/story.php?story_fbid=1526374967548613&id=564972333688886&_rdr",
+            "name": "باتنة الزينة  ",
+            "path": "published/5_1599310773_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://web.facebook.com/radi3.dz/posts/4378603345546963",
+            "name": "الرادع الجزائري ",
+            "path": "published/6_1599310773_facebook.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.hotelzentik.com/en/the-cave-zentik-hotel-valladolid",
+            "name": "الموقع الإلكتروني للفندق",
+            "path": "sources/0_1599310310_Zentik.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.google.com/search?q=Oasis%20subterr%C3%A1neo%20Yucat%C3%A1n%20M%C3%A9xico&tbm=isch&tbs=rimg%3ACXLbSbsE02f8YR860s43qT8u&hl=ar&sa=X&ved=0CBsQuIIBahcKEwiQ7LDHytDrAhUAAAAAHQAAAAAQBg&biw=1007&bih=608",
+            "name": "صور الفندق على موقع غوغل",
+            "path": "sources/1_1599310310_Zaentik.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذا ليس حماماً بمياه معدنية في الجزائر وإنما فندق في المكسيك",
+    "updated_at": "2020-09-25 15:14:56",
+    "url_path": "/factcheck/2020/09/05/هذا-ليس-حماما-معدنيا-في-الجزائر-وإنما-فندق-في-المكسيك",
+    "was_notification_pushed": "true"
+}

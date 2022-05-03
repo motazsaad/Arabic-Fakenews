@@ -1,0 +1,96 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 3627,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "الصورة الأصلية تُظهر الأمير تشارلز بين أفراد العائلة المالكة وليس بعيداً (مواقع التواصل الاجتماعي)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">الأمير تشارلز وحيداً، في صورة لأفراد العائلة المالكة وهي تحيّي الجماهير.</span></p>\r\n",
+    "country": "GB",
+    "created_at": "2020-03-28 16:43:49",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e7f5495d4a22928b2757473",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقّق &quot;مسبار&quot; من الصورة المتداولة ووجد أنها مفبركة. الصورة الأصلية يعود تاريخها إلى عام 2019 في الفعالية السنوية للعائلة المالكة التي تُعرف باسم &quot;Trooping Colour&quot;، وهي استعراض عسكري للقوّات البريطانية.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">ويظهر الأمير تشارلز، الذي </span><a href=\"https://www.nytimes.com/2020/03/25/world/europe/prince-charles-coronavirus.html\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>أُصيب</u></span></a><span style=\"color:#000000\"> مؤخراً بكوفيد-19، في صور تلك الفعالية بالقرب من باقي أفراد العائلة المالكة وليس بعيداً عنهم مثلما يدّعي ناشرو الصورة الزائفة.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_5m1gbxezr.jpg\" style=\"height:356px; width:624px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "كورونا",
+        "كورونا بريطانيا",
+        "المملكة المتحدة",
+        "الأمير تشارلز",
+        "الملكة إليزابيث"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تداولت حسابات على موقع تويتر صورة تُظهر الأمير تشارلز، الذي أُصيب مؤخراً بكوفيد-19، وحيداً أثناء تجمّع للعائلة المالكة وهي تحيّي مجموعة من الجماهير أمام قصر باكنغهام الملكي.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_u3txno3pq.jpg\" style=\"height:494px; width:533px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_s7d3y480w.jpg\" style=\"height:344px; width:528px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 9,
+        "path": "articles/1585403029غلاف.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 770,
+        "width": 752
+    },
+    "post_date": "2020-03-28T16:37:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/shekoo001/status/1243746758452293632",
+            "name": "شيريف",
+            "path": "published/0_1585403028_شيريف-لوغو.jpg"
+        },
+        {
+            "link": "https://twitter.com/MhmdBosh/status/1243858322291294208",
+            "name": "Bürger Bush",
+            "path": "published/1_1585403028_bürger-bush-logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/thegeroz/status/1243351342271401984?s=19",
+            "name": "Geroz",
+            "path": "published/2_1585403028_Geroz-logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/itswadeDL/status/1243543106215194627",
+            "name": "W",
+            "path": "published/3_1585403028_W-logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/fahadaljalawy/status/1243216063640342538",
+            "name": "فهد الجلاوي",
+            "path": "published/4_1585403028_فهد-الجلاوي-لوغو.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.gettyimages.ae/detail/news-photo/queen-elizabeth-ii-catherine-duchess-of-cambridge-and-news-photo/1154583567?adppopup=true",
+            "name": "Getty Images",
+            "path": "sources/0_1585403028_getty-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "صورة زائفة للأمير تشارلز مفصولاً عن العائلة المالكة",
+    "title": "كورونا بريطانيا: صورة زائفة للأمير تشارلز مفصولاً عن العائلة المالكة",
+    "updated_at": "2020-09-25 16:25:33",
+    "url_path": "/factcheck/2020/03/28/كورونا-بريطانيا-صورة-زائفة-للأمير-تشارلز-مفصولا-عن-العائلة-المالكة"
+}

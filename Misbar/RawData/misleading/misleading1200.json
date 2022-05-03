@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 51059,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "caption": "الادعاء مضلل، والصورة ليست لإسرائيليين يلعبون في المسجد الأقصى المبارك (Hurriyetdailynews)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">إسرائيليون يلعبون ويلهون في المسجد الأقصى</p>\r\n",
+    "country": "PS",
+    "created_at": "2020-04-30 20:17:46",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eab083adb291672a7282c54",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الادعاء مضلل، والصورة ليست لإسرائيليين يلعبون في المسجد الأقصى المبارك. إذ أنَّ الصورة منشورة منذ تموز<span dir=\"LTR\">/</span>يوليو من العام 2013، وهي في أحد مساجد مدينة ميلاس التركية، إذ قامت بتقديم دروس في رياضة البادمنتون للأطفال الذين يشاركون في أنشطة متعلقة بتعلم القرآن في المساجد.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_oj1e6nu8c.jpg\" style=\"height:614px; width:658px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">انتشرت صورة لشاب وفتاة يلعبان تنس الريشة، على أنها لإسرائيليين يلعبون في المسجد الأقصى.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_flz7b8uin.jpg\" style=\"height:513px; width:621px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 381,
+        "left": 40.68461608886719,
+        "path": "articles/158826706659c7dbbd45d2a027e83b2b2b.jpg",
+        "top": 30.551513671875,
+        "totalHeight": 423,
+        "totalWidth": 744,
+        "watermark_path": "articles/watermark-158826706659c7dbbd45d2a027e83b2b2b.jpg",
+        "width": 678
+    },
+    "post_date": "2020-05-01T11:00:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/groups/459936587948159/permalink/595791254362691/",
+            "name": "Hman Rachid",
+            "path": "published/0_1588267065_Hman Rachid.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/102348034524433/photos/a.103379917754578/202863737806195/?type=3&__xts__%5B0%5D=68.ARB2iQr5qFjmbExixiBK9tkjyJOHl-o9_0uRuOKLfQINMsj1G4uoJfKYU60MAlWySFmQ6NKSObh3rjjWNFJc99uBhpn2w4Low8oqw-2IQFvtjVO4M-Rg0u4lEANyf6Zy5LiNZh_FIskILcqFqC4VmPP3-1v8YcCATkHSPFthxdmBn_212X1FDuZ4S30LPj2QcFXDvp5xrpTkNKUcl2v9UoiH04LiXd4upH33TJXqOYBMvaVqYxI0PuoUpxDFB8tmdyoAID4af-aa_QGUE0JYDyZx3OJ3RCgvZ0ST3TPojjVlP8CK6ilZNW758IhSk9zzyQi8n4UH5J2WIe4c3pkQw48&__tn__=-R",
+            "name": "Qisooyin Diini ah",
+            "path": "published/1_1588319839_Qisooyin Diini ah.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=853242334751873&set=a.782255495183891&type=3",
+            "name": "بوسى احمد",
+            "path": "published/2_1588319840_بوسى احمد.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=273500282832809&set=a.134759830040189&type=3",
+            "name": "Emad Eldin Kamal",
+            "path": "published/3_1588319840_Emad Eldin Kamal.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=324144098010769&set=a.200155700409610&type=3&theater",
+            "name": "Moaji Gonzalė",
+            "path": "published/4_1588319840_Moaji Gonzalė.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://dogruhaber.com.tr/haber/88525-kim-izin-verdi-bu-goruntuler-camide-cekildi/",
+            "name": "Dogruhaber",
+            "path": "sources/0_1588267065_dogruhaber.JPG"
+        },
+        {
+            "link": "http://www.gazetevatan.com/camide-badminton--550516-gundem/?f=mobil",
+            "name": "Vatan",
+            "path": "sources/1_1588267065_vatan.JPG"
+        },
+        {
+            "link": "https://www.hurriyetdailynews.com/badminton-offered-to-kids-to-attend-quran-courses-in-mosques-49936",
+            "name": "hurriyetdailynews",
+            "path": "sources/2_1588267066_hurriyetdailynews.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "إسرائيليون يلعبون في المسجد الأقصى.. صورة زائفة",
+    "updated_at": "2020-09-23 12:33:48",
+    "url_path": "/factcheck/2020/04/30/إسرائيليون-يلعبون-في-المسجد-الأقصى-صورة-زائفة"
+}

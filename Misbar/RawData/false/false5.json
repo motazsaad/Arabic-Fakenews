@@ -1,0 +1,98 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 56,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "وزارة الصحة القطرية نفت مصداقية قائمة موانع تلقي اللقاح (واتساب)",
+    "category": "Health",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">قائمة تحتوي على موانع تلقي لقاحات فايروس كورونا المستجد.</p>\r\n",
+    "country": "",
+    "created_at": "2021-01-14 21:35:41",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 2,
+    "id": "60008efdb4a6502a313bf002",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;<a href=\"https://misbar.com/\" style=\"text-decoration:none\" target=\"_blank\"><u>مسبار</u></a>&quot; من قائمة الموانع المتداولة ووجد أنها زائفة، فمعظم محتوياتها لا يشكّل أي مانع عن تلقي مختلف لقاحات كوفيد-19 المعتمدة.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">ومن خلال الاطلاع على موقع <u><a href=\"https://www.nhs.uk/conditions/coronavirus-covid-19/coronavirus-vaccination/coronavirus-vaccine/\" style=\"text-decoration:none\" target=\"_blank\">الخدمات الصحية البريطانية</a>&nbsp;<a href=\"https://www.who.int/news-room/feature-stories/detail/who-can-take-the-pfizer-biontech-covid-19--vaccine\" target=\"_blank\">ومنظمة الصحة العالمية</a></u>، تبين أن لقاحات كوفيد-19 محظورة على من هم تحت سن 16 عامًا،&nbsp;ومن يعانون من حساسية تجاه اللقاحات مسبقًا، كما يجب على من يحملون فايروس كورونا المستجد ولا تزال فحوصاتهم إيجابية الانتظار حين تعافيهم بالكامل لكي يتلقوا اللقاح. أما النساء الحوامل أو المرضعات، أو اللواتي يخططن للحمل، عليهن مراجعة الطبيب لمراجعة العوارض الجانبية التي سترافق تلقي اللقاح.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">يُذكر أن وزارة الصحة القطرية نشرت <a href=\"https://twitter.com/MOPHQatar/status/1349310266127884289\" style=\"text-decoration:none\" target=\"_blank\"><u>تغريدة</u></a> عبر حسابها على موقع تويتر نفت فيها صحة محتويات قائمة الموانع المتداولة.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_lywbmzkuo.jpg\" style=\"height:413px; width:555px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">اقرأ/ي أيضًا:</p>\r\n\r\n<p dir=\"rtl\"><a href=\"https://misbar.com/editorial/2021/01/11/%D8%AD%D8%AA%D9%89-%D9%84%D9%82%D8%A7%D8%AD-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-%D8%B7%D8%A7%D9%84%D8%AA%D9%87-%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D8%B6%D9%84%D9%84%D8%A9-%D9%88%D8%A7%D9%84%D8%B2%D8%A7%D8%A6%D9%81%D8%A9\" target=\"_blank\">الأخبار المضللة والزائفة التي طاولت لقاح فايروس كورونا</a></p>\r\n\r\n<p dir=\"rtl\"><a href=\"https://misbar.com/editorial/2021/01/12/%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D8%AA%D8%B6%D9%84%D9%8A%D9%84-%D8%A7%D9%84%D9%83%D9%84%D8%A7%D9%85%D9%8A-%D9%88%D8%B9%D9%84%D8%A7%D9%82%D8%AA%D9%87-%D8%A8%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B2%D8%A7%D8%A6%D9%81%D8%A9\" target=\"_blank\">حول التضليل الكلامي وعلاقته بالأخبار الزائفة</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "كورونا",
+        "كوفيد-19",
+        "موانع كورونا",
+        "لقاح كورونا",
+        "فايزر"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تتناقل مجموعات على تطبيق واتساب، حديثًا، قائمة تدّعي أنها تحتوي على مجموعة من الأسباب أو الحالات التي إذا انطبقت على الشخص عليه أن يمتنع عن تلقي أي من لقاحات فايروس كورونا المستجد.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_7xjqmoraj.jpg\" style=\"height:950px; width:534px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 358,
+        "left": -0.50689697265625,
+        "path": "articles/1610649341موانع.jpg",
+        "top": 25.939697265625,
+        "totalHeight": 423,
+        "totalWidth": 636,
+        "watermark_path": "articles/watermark-1610649341موانع.jpg",
+        "width": 637
+    },
+    "post_date": "2021-01-14T20:28:00.000+03:00",
+    "published": [
+        {
+            "id": "5fa4e81c04737e5e0e2992e5",
+            "link": "https://www.whatsapp.com",
+            "name": "WhatsApp.com",
+            "origin": "",
+            "path": "sources/9b825fc5ea6ae4bfc4c582c90cc9498ff8287ce1.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f95ddcfd71c364911444b41",
+            "link": "https://www.nhs.uk/conditions/coronavirus-covid-19/coronavirus-vaccination/coronavirus-vaccine/",
+            "name": "NHS",
+            "origin": "",
+            "path": "sources/384883faf21bec3c5cdd4157a5ee64c42ed0b62c.jpg"
+        },
+        {
+            "id": "60008efd2b978911a82db2d0",
+            "link": "https://twitter.com/MOPHQatar/status/1349310266127884289",
+            "name": "وزارة الصحة العامة",
+            "origin": "twitter",
+            "path": "sources/0b9aa8724569b7a4cdff81b731e000cd0d55e8da.jpg"
+        },
+        {
+            "id": "5f91bb1fc7ba1d21484d99b9",
+            "link": "https://www.who.int/news-room/feature-stories/detail/who-can-take-the-pfizer-biontech-covid-19--vaccine",
+            "name": "World Health Organization",
+            "origin": "",
+            "path": "sources/0_1592488465_منظمة-الصحة-العالمية-تويتر.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "وزارة الصحة القطرية نفت مصداقية قائمة موانع تلقي اللقاح.",
+    "title": "قائمة زائفة تحتوي على موانع لتلقّي لقاحات كورونا",
+    "updated_at": "2021-01-15 17:42:09",
+    "url_path": "/factcheck/2021/01/14/قائمة-زائفة-تحتوي-على-موانع-لتلقي-لقاحات-كورونا",
+    "was_notification_pushed": "true"
+}

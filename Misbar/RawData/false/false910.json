@@ -1,0 +1,92 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 2
+    },
+    "amount_sources": 0,
+    "amount_visits": 2283,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "",
+    "category": "Science",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">فيديو يصور ظاهرة البرق الكروي في روسيا.</p>\r\n",
+    "country": "RU",
+    "created_at": "2020-02-25 22:31:10",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e5575fed4a2297d2a09fc53",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الفيديو، ووجد أنه متداول منذ شهر مايو/ أيار على صفحاتٍ أجنبية، وعاد إلى الظهور على صفحاتٍ عربية، إذ نُشر للمرة الأولى على صفحة الشاب الروسي&nbsp;&quot;Andrei &nbsp;Trukhonovets&quot; في موقع يوتيوب كعملٍ&nbsp;فني صمَّمه بواسطة الحاسوب، ولا علاقة له بظاهرة البرق الكروي، وهي ظاهرة نادرة الحدوث، تظهر ككرةٍ من البرق معلقةً بالهواء وسط الريح والعواصف.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_rtm57xjfw.jpg\" style=\"height:557px; width:553px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_dcvse4m63.jpg\" style=\"height:106px; width:805px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_adb6n5sbx.jpg\" style=\"height:843px; width:553px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت بعض صفحات التواصل الاجتماعي،&nbsp;ومن بينها منصة المكتبة العربية الروسية، خلال شهر شباط/فبراير من العام الجاري فيديو تظهر فيه،&nbsp;سكةُ&nbsp;حديديةٌ وبجانبها كرة فضية متوهجة، ومصاحباُ له تعليق بأنها ظاهرة البرق الكروي التي تعتبر من أغرب وأخطر الظواهر الطبيعية، وقد حدثت&nbsp;في روسيا.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_73uurgxnq.jpg\" style=\"height:800px; width:553px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_i9lu0bdl9.jpg\" style=\"height:767px; width:553px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><span style=\"color:#c00000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_c6wkqm5z5.jpg\" style=\"height:930px; width:522px\" /></span></span></strong></p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 419,
+        "left": 15.555587768554688,
+        "path": "articles/1582659070GettyImages-807655426 (1).jpg",
+        "top": 1.111083984375,
+        "totalHeight": 423,
+        "totalWidth": 851,
+        "width": 746
+    },
+    "post_date": "2020-02-25T19:46:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/442525452593759/posts/1384076831771945/",
+            "name": "المكتبة العربىة الروسية ",
+            "path": "published/0_1582659069_thumbnail_67695153_1211293809050249_3455155418441973760_n.jpg"
+        },
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=117765033135338&id=100047055244735",
+            "name": "تاريخ منسي",
+            "path": "published/1_1582659070_thumbnail_WhatsApp Image 2020-02-25 at 20.37.47 (1).jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Ezidien/videos/1677657532374206/",
+            "name": "الأيزيديين في هانوفر",
+            "path": "published/2_1582659070_thumbnail_80188560_136508007785343_5006615760307486720_n.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=RSeYCC9r68s&feature=youtu.be",
+            "name": "قناة منوعات &AMSR&",
+            "path": "published/3_1582659070_منوعات.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=IwR14D3NA8c&feature=emb_title",
+            "name": "Andrei Trukhonovets",
+            "path": "sources/0_1582659069_thumbnail_unnamed (1).jpg"
+        },
+        {
+            "link": "https://parallaximag.gr/life/perivallon/to-lightning-ball-pou-egine-viral",
+            "name": "parallaxi",
+            "path": "sources/1_1582659069_thumbnail_parallaxilogo270.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ظاهرة البرق الكروي في روسيا.. ما صحة الفيديو؟",
+    "updated_at": "2020-09-25 09:40:54",
+    "url_path": "/factcheck/2020/02/25/ظاهرة-البرق-الكروي-في-روسيا-ما-صحة-الفيديو"
+}

@@ -1,0 +1,83 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2027,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "يتكون من كاميرات رقمية (Getty)",
+    "category": "Technology",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">سكان مدينة لندن البريطانية لأول مرة، ومقابل جنيه إسترليني واحد، يمكنهم مشاهدة الناس في نيويورك بأحجامهم الطبيعية وهم يمارسون حياتهم العادية في الشوارع، وذلك من خلال تلسكوب كبير وضع في موقع قريب من تاور بريدج.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-07-30 19:06:27",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 5,
+    "id": "5f22f003163be306846a1d04",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من الادعاء المتداول ووجد أنه مضلل، إذ لا وجود لتلسكوب يصل جسمه بين لندن ونيويورك. أما الحقيقة فهي وجود ما يُعرف باسم التيليكتروسكوب، أو التلسكوب الإلكتروني، الذي يتكون من كاميرات رقمية تصل بين نافذة التيليكتروسكوب في لندن ونافذته الأخرى في نيويورك، مما يسمح للناس في المنطقتين برؤية بعضهم البعض.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">افتتح </span><a href=\"https://www.gettyimages.ae/detail/news-photo/visitors-to-london-wave-to-people-they-can-see-in-new-york-news-photo/81214487?adppopup=true\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>التيليكتروسكوب</u></span></a><span style=\"color:#000000\"> عام 2008، بهدف توفير صورة رقمية لمدينة لندن ونيويورك، يستطيع من خلالها زوار التليكتروسكوب من الجهتين رؤية بعضهم وتبادل التحايا.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_z2hdkgud6.jpg\" style=\"height:590px; width:525px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_dfj6sjthz.jpg\" style=\"height:452px; width:534px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل صفحات وحسابات على مواقع التواصل الاجتماعي، حديثاً، خبراً مفاده تدشين تلسكوب كبير يصل ما بين عاصمة المملكة المتحدة، لندن، وولاية نيويورك الأميركية. مما يسمح للمواطنين في المنطقتين مشاهدة الناس وهم يمارسون حياتهم الطبيعية.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_6825enhbf.jpg\" style=\"height:710px; width:537px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_4fdaz65k2.jpg\" style=\"height:701px; width:528px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 354,
+        "left": 3.25,
+        "path": "articles/1596125185GettyImages-81214487.jpg",
+        "top": 33.7332763671875,
+        "totalHeight": 423,
+        "totalWidth": 635,
+        "watermark_path": "articles/watermark-1596125185GettyImages-81214487.jpg",
+        "width": 628
+    },
+    "post_date": "2020-07-30T19:03:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/serir.reda/posts/3282687901957420",
+            "name": "Serir Re Da-star",
+            "path": "published/0_1596125548_سرير.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/lnnermind/permalink/769502123599399/",
+            "name": "Belhadi Nasrine",
+            "path": "published/1_1596125548_بلهادي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/hikayatbdaoui/posts/307875660623847",
+            "name": "حكاية بدوي",
+            "path": "published/2_1596125548_حكاية.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.dailymail.co.uk/sciencetech/article-1021258/The-amazing-telescope-lets-New-York-Londons-Tower-Bridge.html",
+            "name": "The Dailymail",
+            "path": "sources/0_1596125185_daily.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "التلسكوب الذي يصل بين لندن ونيويورك عبارة عن أداة رقمية",
+    "updated_at": "2020-09-25 22:06:02",
+    "url_path": "/factcheck/2020/07/30/التلسكوب-الذي-يصل-بين-لندن-ونيويورك-عبارة-عن-أداة-رقمية"
+}

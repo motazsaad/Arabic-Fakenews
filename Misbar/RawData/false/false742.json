@@ -1,0 +1,114 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2990,
+    "author": {
+        "fullname": "خالد إسماعيل",
+        "id": "5e59256dd4a2295224257db3",
+        "photo": {
+            "name": "1582900589_صورة 2.jpg",
+            "path": "authors/1582900589_صورة 2.jpg"
+        }
+    },
+    "caption": "اقتصر نشره عبر صفحات وحسابات مؤيدة للنظام المصري (Egyptian media)",
+    "category": "Politics",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">خفر السواحل المصري يشتبه بأحد زوارق الصيد في المياه الإقليمية بالبحر الأبيض، وحين يفتشه يجد على متنه، ضابطاً في&nbsp;المخابرات التركىة وسبعة جنود، ويحولّهم إلى النيابة العسكرية.</span></p>\r\n",
+    "country": "EG",
+    "created_at": "2020-05-09 19:40:33",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eb6dd01db29164693366e84",
+    "investigation": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\"><span style=\"color:black\">تحقّق &quot;مسبار&quot; من الصورة المتداولة والإدعاء المصاحب لها وتبين أنه غير صحيح ، واقتصر نشره عبر صفحات وحسابات مؤيدة للنظام المصري، كما تبين بالبحث العكسي عن الصورة أنها تعود إلى البحارة الأميركيين الذين إحتجزتهم إيران في يناير/ كانون ثاني&nbsp;من عام 2016 &nbsp;في واقعة شهيرة&nbsp; أغضبت الولايات المتحدة الأميركية حينها، قبل أن يُفرج عنهم لاحقاً . </span></span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_028z4bnci.jpg\" style=\"height:672px; width:624px\" /><img src=\"https://images-prod.misbar.com/articlebody/investigation_a0csls02n.jpg\" style=\"height:397px; width:624px\" /><img src=\"https://images-prod.misbar.com/articlebody/investigation_h60nn9s7x.jpg\" style=\"height:658px; width:624px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_ig0yncgm4.jpg\" style=\"height:420px; width:624px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\"><span style=\"color:black\">تداولت حساباتٌ أغلبها يعود إلى مصريين عبر منصتيّ التواصل الاجتماعي فيسبوك وتويتر صورةً لجنود في وضعية الاستسلام على سطح سفينة بعرض البحر، ويرافق الصورة خبر مفاده أن ضباطاً وجنود&nbsp;أتراك ألقت البحرية القبض عليهم&nbsp; بعد الاشتباه بهم، وهم ضابط واحد&nbsp;وسبعة جنود، ثم تمت إحالتهم إلى النيابة العسكرية &nbsp;. </span></span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_x78iggpvp.jpg\" style=\"height:618px; width:554px\" /></p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_g06c130xk.jpg\" style=\"height:707px; width:624px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_f6ks51axr.jpg\" style=\"height:646px; width:624px\" /></p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_lbj2fi2sf.jpg\" style=\"height:695px; width:624px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_hdu6iffsj.jpg\" style=\"height:680px; width:624px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_v0dtortdk.jpg\" style=\"height:629px; width:566px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 419,
+        "left": 9.32220458984375,
+        "path": "articles/1589042432406272_0.jpg",
+        "top": 3.75,
+        "totalHeight": 423,
+        "totalWidth": 761,
+        "watermark_path": "articles/watermark-1589042432406272_0.jpg",
+        "width": 745
+    },
+    "post_date": "2020-05-09T17:11:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=269652524219854&set=gm.695013654588693&type=3&theater",
+            "name": "طه جاد",
+            "path": "published/0_1589042431_thumbnail_نشر عن ذلك 1.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=269652524219854&set=gm.695013654588693&type=3&theater",
+            "name": "AzaaElsese",
+            "path": "published/1_1589042431_thumbnail_نشر عن ذلك 2.jpg"
+        },
+        {
+            "link": "https://twitter.com/mosa_eldeeb/status/1258851463482281987",
+            "name": "eldeebmosa",
+            "path": "published/2_1589042431_thumbnail_نشر عن ذلك 3.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?id=111602913718482&story_fbid=163362545209185",
+            "name": "‎صفحه وطنيه ترفيهية اجتماعيه في حب مصر",
+            "path": "published/3_1589042431_thumbnail_نشر عن ذلك 4.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=679028026231818&set=gm.1405921716282904&type=3&theater&ifg=1",
+            "name": "Miro Elwardany‎",
+            "path": "published/4_1589042431_thumbnail_نشر عن ذلك 5.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=827632921064480&set=a.159904587837320&type=3&theater",
+            "name": "الكاتب مسعد خليفة",
+            "path": "published/5_1589042431_thumbnail_نشر عن ذلك 6.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://nypost.com/2016/06/23/navy-captains-career-likely-over-after-iran-captured-his-sailors/",
+            "name": "NewYork post",
+            "path": "sources/0_1589042431_thumbnail_مصدر 1.jpg"
+        },
+        {
+            "link": "https://www.cbsnews.com/pictures/iran-frees-u-s-sailors/2/",
+            "name": "CBS ",
+            "path": "sources/1_1589042431_thumbnail_مصدر 2.jpg"
+        },
+        {
+            "link": "https://www.almasryalyoum.com/news/details/874304",
+            "name": "المصري اليوم ",
+            "path": "sources/2_1589042431_thumbnail_مصدر 3.jpg"
+        },
+        {
+            "link": "https://arabic.sputniknews.com/world/201601151017075468/",
+            "name": "رابط سبوتنيك",
+            "path": "sources/3_1589042432_مصدر4.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصورة ليست لجنود أتراك في قبضة البحريّة المصريّة",
+    "updated_at": "2020-09-25 19:35:56",
+    "url_path": "/factcheck/2020/05/09/هذه-الصورة-ليست-لجنود-وضباط-أتراك-بقبضة-البحرية-المصرية"
+}

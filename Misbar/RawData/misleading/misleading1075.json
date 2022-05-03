@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 3491,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "تعود لعامل نظافة مغربي وليس مصريا (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">عامل نظافة مصري توفي أثناء أداء عمله، وكان لا يعلم أنه مُصاب بفايروس كورونا المستجد (كوفيد_19)</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-06-02 05:18:43",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ed5b703db2916233f7b30c4",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقّق &quot;مسبار&quot; من الصورة ووجد أنها مضللة، إذ تعود&nbsp;لعامل نظافة مغربي وليس مصرياً، ونُشرت&nbsp;بتاريخ 30 مايو/أيار الفائت على صفحات مغربية. وعثر &quot;مسبار&quot; على لقاء مصور مع صاحب الصورة على قناة شوف المغربية، وتحدث عن قصة الواقعة وقال إنه&nbsp;سقط وهو يمارس عمله لأنه يعاني من مرض الفتق.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"695\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FMEKNesmaville%2Fposts%2F1121680544863684&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe><iframe frameborder=\"0\" height=\"532\" src=\"https://www.youtube.com/embed/869OrjAWFZc\" width=\"946\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت حساباتٌ وصفحاتٌ على مواقع التواصل الاجتماعي، صورةً يظهر فيها رجلٌ ممدّدٌ&nbsp;على الأرض،&nbsp;ادعّت أنها لعامل نظافة من محافظة دمياط المصرية، كان مُصاباً&nbsp;بفايروس كورونا المستجد وتوفي أثناء تأدية عمله.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_dmg3jh7px.jpg\" style=\"height:498px; width:506px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_e7dpjeojw.jpg\" style=\"height:568px; width:497px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_8bwftmp2e.jpg\" style=\"height:617px; width:491px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/15910643224.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-15910643224.jpg",
+        "width": 752
+    },
+    "post_date": "2020-06-02T05:15:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/groups/178556846362385/permalink/714364842781580/",
+            "name": "Noha Al",
+            "path": "published/0_1591064322_Noha Al.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/1664181117156313/permalink/2645047499069665/",
+            "name": "عادل حسين",
+            "path": "published/1_1591064614_عادل.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Muslim291/posts/605155913437001",
+            "name": "والله بعودة يا رمضان",
+            "path": "published/2_1591064614_والله بعودة يا رمضان.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/288052234713696/permalink/1378580288994213/",
+            "name": "حماده ابوعلي",
+            "path": "published/3_1591064614_حماده ابوعلي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=146283303653766&id=100867714861992",
+            "name": "00:00:01",
+            "path": "published/4_1591064614_777777.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/MEKNesmaville/photos/a.539421236422954/1121680508197021/?type=3&theater",
+            "name": "مكناس مدينتي",
+            "path": "sources/0_1591064322_مكناس.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=869OrjAWFZc",
+            "name": "شوف تيفي",
+            "path": "sources/1_1591064322_شوف تيفي.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "عامل نظافة مصري مصاب بكورونا توفي أثناء عمله.. مضلل",
+    "updated_at": "2020-09-25 06:30:49",
+    "url_path": "/factcheck/2020/06/02/وفاة-عامل-نظافة-مصري-أثناء-عمله-وهو-مصاب-بكورنا-حقيقة-الصورة"
+}

@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 2,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2682,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "نُشرت الصورة لجيسون ستاثام عام 2016 (فيسبوك)",
+    "category": "Arts & Culture",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">صورة لجيسون ستاثام وهو يرتدي &quot;تيشيرت&quot; كُتب عليه&nbsp;&quot;كل الرجال خلقوا مثل بعضهم لكن أفضلهم من ولدوا في مصر&quot;.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-06-11 15:34:03",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ee224bbd6e4a96cb0712b34",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من الصورة وتبين أنها مفبركة، لأنّ جيسون ستاثام يظهر في الصورة الأصلية التي نُشرت له عام 2016، وهو يرتدي &quot;تيشيرت&quot;&nbsp;&nbsp;ليس مكتوباً عليه أي شيء. وتم التعديل في الصورة لتظهر بشكلها المتداول.</span></p>\r\n\r\n<p style=\"text-align:center\"><img id=\"_x0000_i1025\" src=\"https://images-prod.misbar.com/articlebody/investigation_v7jqntid1.jpg\" style=\"height:466.8pt; width:375.6pt\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات وصفحات على مواقع التواصل الاجتماعي منذ عام 2019 الفائت، صورة للممثل والملاكم جيسون ستاثام&nbsp; يظهر فيها وهو يرتدي &quot;تيشيرت&quot; كُتب عليه &quot;كل الرجال خُلقوا مثل بعضهم لكن أفضلهم من ولدوا في مصر&quot;.</span></p>\r\n\r\n<p style=\"text-align:center\"><img id=\"_x0000_i1025\" src=\"https://images-prod.misbar.com/articlebody/origin_khb3ddvbk.jpg\" style=\"height:439.2pt; width:307.2pt\" /></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"655\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D895209130811533%26id%3D100009673637346&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/15918788425.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-15918788425.jpg",
+        "width": 752
+    },
+    "post_date": "2020-06-11T15:30:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=874223323057212&set=a.385654001914149&type=3",
+            "name": "عمرو السعداوى",
+            "path": "published/0_1591878841_عمرو السعداوى.jpg"
+        },
+        {
+            "link": "https://twitter.com/ana_liloo/status/1134945187673907202",
+            "name": "walaa",
+            "path": "published/1_1591878981_walaa.jpg"
+        },
+        {
+            "link": "https://twitter.com/semryat2011/status/1270355045016625152",
+            "name": "Sayed Elsemary",
+            "path": "published/2_1591878981_Sayed Elsemary.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/noha.nyborg/posts/10155946644682047",
+            "name": "نهي جلال",
+            "path": "published/3_1591878981_نهى.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/kareem.almasry.165/posts/1683617568449994",
+            "name": "Kareem Almasry",
+            "path": "published/4_1591878981_Kareem Almasry.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=895209100811536&set=a.153643244968129&type=3",
+            "name": "Osama Salah",
+            "path": "published/5_1591878981_Osama Salah.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.gotceleb.com/rosie-huntington-whiteley-in-jeans-shorts-out-in-los-angele-2016-04-04.html/rosie-huntington-whiteley-in-jeans-shorts-05",
+            "name": "gotceleb",
+            "path": "sources/0_1591878842_gotceleb.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "\"المصريون أفضل الرجال\".. هل كُتب ذلك على تيشيرت ستاثام؟",
+    "updated_at": "2020-09-25 17:04:38",
+    "url_path": "/factcheck/2020/06/11/أفضل-الرجال-ولدوا-في-مصر-ما-حقيقة-تيشيرت-جيسون-ستاثام"
+}

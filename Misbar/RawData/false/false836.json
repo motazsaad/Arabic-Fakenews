@@ -1,0 +1,92 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1658,
+    "author": {
+        "fullname": "مريم هواري",
+        "id": "5e299460d4a22939983a3ec5",
+        "photo": {
+            "path": "authors/1579791192_Maryam.jpg"
+        }
+    },
+    "caption": "لا صحّة لادعاء عودة الدلافين والبجع لمدينة البندقية (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">عودة الدلافين والبجع لقنوات المياه في مدينة البندقية الإيطالية نتيجة الإغلاق الكامل للمدينة بسبب تفشّي فايروس كورونا.</p>\r\n",
+    "country": "",
+    "created_at": "2020-03-26 13:57:29",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5e7c8a99d4a22927fb1bad23",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الادعاء زائف، إذ نفى موقع ناشيونال جيوغرافيك العلمي الأخبار المتداولة وأشار إلى أن الصور والمقاطع المصوّرة للدلافين مصدرها ميناء جزيرة سردينيا الإيطالية وليس البندقية، أمّا بالنسبة لمقاطع وصور البجع فهي تعود للقنوات المائية في جزيرة بورانو الموجودة في منطقة البندقية، لكّنها ليست بأمرٍ استثنائي بل إنها تظهر بانتظامٍ في تلك المنطقة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_o41aaxsq0.jpg\" style=\"height:760px; width:613px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_1f6l8kwmz.jpg\" style=\"height:465px; width:625px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_hfxz98810.jpg\" style=\"height:682px; width:624px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": false,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات على موقع التواصل الاجتماعي تويتر صوراً ومقاطعاً مصوّرةً&nbsp;لدلافين وبجع في إيطاليا، وادّعى الناشرون بأن مصدرها القنوات المائية في مدينة البندقية، والتي عادت إليها هذه الكائنات نتيجة عزل السكان وانعدام السياح في المدينة بسبب الإغلاق الكامل التي تشهده إيطاليا كجزء من الإجراءات لمكافحة فايروس كورونا.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_nx404nxtn.jpg\" style=\"height:822px; width:556px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_k48zmlsof.jpg\" style=\"height:588px; width:556px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_93kjhy989.jpg\" style=\"height:673px; width:551px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_d636wiawf.jpg\" style=\"height:860px; width:558px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 352,
+        "left": 3.41278076171875,
+        "path": "articles/1585220249GettyImages-1206167234.jpg",
+        "top": 68.00732421875,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "width": 626
+    },
+    "post_date": "2020-03-26T12:43:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/Bluurr11/status/1241699057254400000",
+            "name": "BLUR.",
+            "path": "published/0_1585220248_BLUR logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/ScreenMix/status/1240908458574131202",
+            "name": "Screen Mix",
+            "path": "published/1_1585220248_Screen mix logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/HotelsGate/status/1241348015073505280",
+            "name": "HotelsGate | بوابة الفنادق",
+            "path": "published/2_1585220249_hotelsgate logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/ItaliaArabi/status/1240570626592702464 ",
+            "name": "نافذة على إيطاليا",
+            "path": "published/3_1585220249_نافذة على إيطاليا لوغو.jpg"
+        },
+        {
+            "link": "https://twitter.com/MedawarLana/status/1240768404178505728",
+            "name": "Lana Medawar",
+            "path": "published/4_1585220249_lana medawar logo.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.nationalgeographic.com/animals/2020/03/coronavirus-pandemic-fake-animal-viral-social-media-posts/",
+            "name": "NATIONAL GEOGRAPHIC",
+            "path": "sources/0_1585220248_national geographic-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "كورونا إيطاليا: عودة الدلافين والبجع لمدينة البندقية.. ما صحّة الخبر؟",
+    "updated_at": "2020-09-23 12:36:12",
+    "url_path": "/factcheck/2020/03/26/كورونا-إيطاليا-عودة-الدلافين-والبجع-لمدينة-البندقية-ما-صحة-الخبر"
+}

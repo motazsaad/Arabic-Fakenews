@@ -1,0 +1,119 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2384,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "التقطت الصورة في نيوزيلاندا عام 2009 (تويتر)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة سيف الإسلام القذافي في رحلته إلى روسيا.</p>\r\n",
+    "country": "LY",
+    "created_at": "2020-09-21 18:46:40",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f68cae0c221b74c15139f8b",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقق &quot;مسبار&quot; من الصورة المتداولة وتبين أنها مضللة، إذ أنها تعود لسيف الإسلام القذافي لكن ليس في روسيا بل في نيوزيلاندا.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">والتقطت الصورة لسيف الإسلام في كانون الأول/ديسمبر عام 2009، كان حينها قادماً من لندن، قبل أن يستقل طائرة ثانية نحو منتجع سياحي في نيوزيلاندا مع 12 شخصاً لقضاء عطلة نهاية السنة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"1.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_cimxm0jq4.jpg\" style=\"height:422px; width:605px\" /></span>&nbsp;<span dir=\"LTR\"><img alt=\"11.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_qsq9f5yjf.jpg\" style=\"height:603px; width:589px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">ونشرت <span style=\"background-color:white\">صحيفة <a href=\"https://www.corriere.it/esteri/20_settembre_18/nella-libia-dopo-sarraj-spunta-saif-islam-figlio-gheddafi-d71ebb4a-f987-11ea-91b0-38d50a849abb.shtml\" style=\"color:blue; text-decoration:underline\">كوريري ديلا سيرا</a> الإيطالية، يوم 18 سبتمبر/أيلول الجاري، أن طائرة روسية نقلت سيف الإسلام القذافي من مدينة الزنتان إلى موسكو لإجراء لقاءات خاصة، ولم ترفق الصحيفة الخبر بصورة لسيف الإسلام خلال رحلته.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"color:black\"><img alt=\"2.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_2q0w9z1rm.jpg\" style=\"height:574px; width:497px\" /></span></span></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات إخبارية وحسابات على مواقع التواصل الاجتماعي، بتاريخ 20 سبتمبر/أيلول الجاري، صورة ادعت أنها لسيف الإسلام القذافي نجل معمر القذافي خلال زيارة له إلى روسيا. ونسبت الصفحات نفسها الخبر لوسائل إعلام إيطالية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"0.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_d4ssi1inf.jpg\" style=\"height:452px; width:503px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_2k7z89izf.jpg\" style=\"height:507px; width:516px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 338,
+        "left": 5.10528564453125,
+        "path": "articles/160070320016kazal5-wide-20130311131120457400-620x349.jpg",
+        "top": 48.746826171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-160070320016kazal5-wide-20130311131120457400-620x349.jpg",
+        "width": 601
+    },
+    "post_date": "2020-09-21T16:31:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/groups/449080375273914/permalink/1886935091488428",
+            "name": "الزوي يونس",
+            "path": "published/0_1600703199_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=3384901214904342&id=503123633082129",
+            "name": "الغرفة الخاصه بعمليات طريق المطار",
+            "path": "published/1_1600703199_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=193562345471859&id=100183021476459",
+            "name": "حلم وضاع بسبب الأوضاع",
+            "path": "published/2_1600703199_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/Almrsad/posts/203074391234700",
+            "name": "المرصد الليبي",
+            "path": "published/3_1600703199_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/37kkjKy69SyAN11/status/1307468863437705216",
+            "name": "صالح غالي",
+            "path": "published/4_1600703199_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/814988355541876/photos/a.815252988848746/1213751012332273/",
+            "name": "زليتن 69",
+            "path": "published/5_1600703199_67819776_2303763929710849_8279055560511324160_o.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "http://sydney-hub.blogspot.com/2013/03/bad-company-sydney-morning-herald.html",
+            "name": "sydney-hub",
+            "path": "sources/0_1600703199_5.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "http://www.stuff.co.nz/national/3197013/Gaddafi-son-flies-in-for-hunting-fishing",
+            "name": "Stuff",
+            "path": "sources/1_1600703199_13495054_10154283884054268_1162718980475355229_n.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.corriere.it/esteri/20_settembre_18/nella-libia-dopo-sarraj-spunta-saif-islam-figlio-gheddafi-d71ebb4a-f987-11ea-91b0-38d50a849abb.shtml",
+            "name": "Corriere della Sera",
+            "path": "sources/2_1600703200_unnamed.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صورة سيف الإسلام القذافي قديمة وليست في روسيا",
+    "updated_at": "2020-09-25 20:51:37",
+    "url_path": "/factcheck/2020/09/21/صورة-سيف-الإسلام-القذافي-قديمة-وليست-في-روسيا",
+    "was_notification_pushed": "true"
+}

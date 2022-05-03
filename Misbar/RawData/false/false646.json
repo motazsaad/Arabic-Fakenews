@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1505,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "تم اختيار كرمان ضمن مجلس الإشراف في 6 مايو/أيار المنصرم (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">طرد توكل كرمان من مجلس إشراف موقع فيسبوك.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-06-06 12:37:09",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5edb63c5db291620b57233e4",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من الخبر وتبين أنه زائف، إذ لم يُعلن موقع فيسبوك عن خروج توكل كرمان. كما وجد أنها&nbsp;لا تزال ضمن <a href=\"https://www.oversightboard.com/meet-the-board/\" style=\"color:#0563c1; text-decoration:underline\">قائمة</a> مجلس إشراف &quot;فيسبوك&quot; المنشورة على الموقع الرسمي للمجلس.&nbsp;ما ينفي صحة الخبر المتداول. </span><br />\r\n<span dir=\"RTL\" lang=\"AR-EG\">مجلس الإشراف هو هيئة مستقلة مكونة من عدّة شخصيات عامة، لاتخاذ قرارات نهائية وملزمة حول ما إذا يجب السماح بمحتوى مُعين أو إزالته من &quot;فيسبوك&quot; و&quot;إنستغرام&quot;، بالإضافة إلى تأييد دعم حرّية التعبير في إطار المعايير الدولية لحقوق الإنسان. وأعلنت شركة <a href=\"https://twitter.com/TawakkolKarman/status/1258089136877121537\" style=\"color:#0563c1; text-decoration:underline\">فيسبوك</a>&nbsp;في تاريخ 6 مايو/أيار المنصرم، عن اختيار توكل كرمان، الحقوقية اليمنية الحائزة على جائز نوبل للسلام، بين أعضاء مجلس الإشراف.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_nx7ktl2g6.jpg\" style=\"height:442px; width:623px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات على مواقع التواصل الاجتماعي منذ الأول من شهر يونيو/حزيران الجاري، خبراً</span> <span dir=\"RTL\" lang=\"AR-SA\">يدعّي خروج الصحفية والسياسية اليمنية توكل كرمان من مجلس إشراف &quot;فيسبوك&quot;. </span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_befviuk05.jpg\" style=\"height:615px; width:529px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_fgbb06jqd.jpg\" style=\"height:427px; width:526px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_koukwkuav.jpg\" style=\"height:503px; width:495px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 7.5,
+        "path": "articles/1591436228GettyImages-630082008.jpg",
+        "top": 0,
+        "totalHeight": 512,
+        "totalWidth": 767,
+        "watermark_path": "articles/watermark-1591436228GettyImages-630082008.jpg",
+        "width": 752
+    },
+    "post_date": "2020-06-06T12:33:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/alfadguc/status/1267217314660913152",
+            "name": "مشعل الفدغوش",
+            "path": "published/0_1591436227_مشعل الفدغوش.jpg"
+        },
+        {
+            "link": "https://twitter.com/asmaasma_oran/status/1268222837556482057",
+            "name": "عَابــِرَةُ سَبِيـلْ",
+            "path": "published/1_1591436227_عَابــِرَةُ سَبِيـلْ.jpg"
+        },
+        {
+            "link": "https://twitter.com/Randa1Mohammed/status/1267151363512778753",
+            "name": "Randa Mohammed",
+            "path": "published/2_1591436227_Randa Mohammed.jpg"
+        },
+        {
+            "link": "https://twitter.com/HanyHelaly1/status/1267918780446973958",
+            "name": "Hany Helaly",
+            "path": "published/3_1591436227_هاني.jpg"
+        },
+        {
+            "link": "https://twitter.com/RZpU7P5p2uuY06X/status/1267590121408389121",
+            "name": "الشعيبي",
+            "path": "published/4_1591436227_الشعبي.jpg"
+        },
+        {
+            "link": "https://twitter.com/ALLWTN/status/1267452229004427264",
+            "name": "أ./ محمد النعيمي",
+            "path": "published/5_1591436228_محمد النعيمي.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.oversightboard.com/meet-the-board/",
+            "name": "Oversight Board",
+            "path": "sources/0_1591436228_Oversight Board.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "حقيقة طرد توكل كرمان من مجلس إشراف فيسبوك",
+    "updated_at": "2020-09-25 18:24:40",
+    "url_path": "/factcheck/2020/06/06/حقيقة-طرد-توكل-كرمان-من-مجلس-إشراف-فيسبوك"
+}

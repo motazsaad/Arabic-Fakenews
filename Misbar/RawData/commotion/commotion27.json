@@ -1,0 +1,114 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 666,
+    "author": {
+        "fullname": "رشيد عفيف",
+        "id": "5ec4e956db291667784c4bc4",
+        "photo": {
+            "name": "1589963094_رشيد صورة.jpg",
+            "path": "authors/1589963094_رشيد صورة.jpg"
+        }
+    },
+    "caption": "أُزيلت الصخرة عام 2019 من قبل بلدية عين دراهم (فيسبوك)",
+    "category": "Arts & Culture",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">تحطيم تمثال الشاعر التونسي أبي القاسم الشابي.</p>\r\n",
+    "country": "TN",
+    "created_at": "2020-08-21 18:44:00",
+    "created_by": "5f39b6aa1dd585076701cb95",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5f3febc060211807007c5d76",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقق &quot;مسبار&quot; من الخبر المتداول ووجد أنه تم نشره بهذه الصيغة بهدف&nbsp;الاثارة دون توضيح ملابسات ما جرى، إذ أن الصورة المتداولة تعود لمجسّم صخرة يُطلق عليها صخرة الشابي، وليس تمثالاً للشاعر، كما أن الخبر قديم، فقد&nbsp;قامت بلدية عين دراهم بإزالته عام 2019، بسبب حجب الصخرة الرؤية عن السائقين والمارة ممّا تسبب بعدّة حوادث سير في السابق.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">يذكر أن الشاعر أبو القاسم الشابي تغنى في إحدى رسائله بجمال مدينة عين دراهم مِن أعلى صخرة عملاقة، وهو الأمر الذي دفع بلدية المدينة إلى تخليد ذلك بوضع مجسم للصخرة&nbsp;بشارع وسط المدينة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_0bjkin2a4.jpg\" style=\"height:672px; width:602px\" />&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">تداولت صفحات وحسابات على موقع التواصل الاجتماعي فيسبوك، حديثاً، خبراً عن تحطيم تمثال الشاعر التونسي أبي القاسم الشابي في مدينة عين دراهم في تونس.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_se6s5oiug.jpg\" style=\"height:555px; width:602px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_mxitdg6sl.jpg\" style=\"height:703px; width:602px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 77,
+        "left": 0.47003173828125,
+        "path": "articles/1598024639main photo.jpg",
+        "top": 14.190185546875,
+        "totalHeight": 178,
+        "totalWidth": 141,
+        "watermark_path": "articles/watermark-1598024639main photo.jpg",
+        "width": 137
+    },
+    "post_date": "2020-08-21T18:37:00.000+03:00",
+    "published": [
+        {
+            "link": "https://facebook.com/story.php?story_fbid=3694039190628645&id=1098158866883370",
+            "name": "Nejma FM",
+            "path": "published/0_1598024638_Facebook_logo.jpg"
+        },
+        {
+            "link": "https://facebook.com/story.php?story_fbid=1033849260382456&id=615530285547691",
+            "name": "طبرقة",
+            "path": "published/1_1598024638_Facebook_logo.jpg"
+        },
+        {
+            "link": "https://facebook.com/story.php?story_fbid=628790564708850&id=100027337366947",
+            "name": "Ghidhaoui Maher",
+            "path": "published/2_1598024639_Facebook_logo.jpg"
+        },
+        {
+            "link": "https://facebook.com/story.php?story_fbid=159155399125007&id=103335124707035",
+            "name": "تونس للاخبار",
+            "path": "published/3_1598024639_Facebook_logo.jpg"
+        },
+        {
+            "link": "https://facebook.com/story.php?story_fbid=2092116950918976&id=100003620747173",
+            "name": "Dhikra Sahar WG",
+            "path": "published/4_1598024639_Facebook_logo.jpg"
+        },
+        {
+            "link": "https://facebook.com/story.php?story_fbid=779851156084689&id=100021794354529",
+            "name": "Sébastien Sébastien",
+            "path": "published/5_1598024639_Facebook_logo.jpg"
+        },
+        {
+            "link": "https://facebook.com/story.php?story_fbid=3096293290483267&id=374028902709733",
+            "name": "قناة كاريكار",
+            "path": "published/6_1598024639_Facebook_logo.jpg"
+        }
+    ],
+    "result": "commotion",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/DiwanFM/videos/1459366930931993/",
+            "name": "Diwan FM",
+            "path": "sources/0_1598024639_Facebook_logo.jpg"
+        },
+        {
+            "link": "https://www.nessma.tv/ar/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AC%D9%87%D8%A7%D8%AA/actu/%D8%B9%D9%8A%D9%86-%D8%AF%D8%B1%D8%A7%D9%87%D9%85-%D8%A5%D8%B2%D8%A7%D9%84%D8%A9-%D9%85%D8%AC%D8%B3%D9%91%D9%85-%D8%B5%D8%AE%D8%B1%D8%A9-%D8%A3%D8%A8%D9%88-%D8%A7%D9%84%D9%82%D8%A7%D8%B3%D9%85-%D8%A7%D9%84%D8%B4%D8%A7%D8%A8%D9%8A-%D9%88%D8%A7%D8%B3%D8%AA%D9%8A%D8%A7%D8%A1-%D8%A7%D9%84%D8%A3%D9%87%D8%A7%D9%84%D9%8A-9865/128660",
+            "name": "Nessma tv",
+            "path": "sources/1_1598024639_Nessma TV.jpg"
+        },
+        {
+            "link": "http://archive.alchourouk.com/190880/688/1/%D8%B3%D8%A7%D8%AD%D8%A7%D8%AA-%D9%88%D8%AD%D9%83%D8%A7%D9%8A%D8%A7%D8%AA-:--%D8%B5%D8%AE%D8%B1%D8%A9-%D8%A7%D9%84%D8%B4%D8%A7%D8%A8%D9%8A-%D8%A7%D9%84%D8%AA%D9%8A-%D8%AA%D8%AD%D9%88%D9%84%D8%AA-%D8%A5%D9%84%D9%89-%D9%81%D8%B6%D8%A7%D8%A1-%D8%AB%D9%82%D8%A7%D9%81%D9%8A-%D9%88%D8%A7%D8%AF%D8%A8%D9%8A-",
+            "name": "الشروق",
+            "path": "sources/2_1598024639_الشروق.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لم يُحطم تمثال أبي القاسم الشابي، بل أُزيل مجسم صخرة تغنى من فوقها بعين دراهم",
+    "updated_at": "2020-09-25 21:39:11",
+    "url_path": "/factcheck/2020/08/21/لم-يتم-تحطيم-تمثال-الشاعر-التونسي-أبي-القاسم-الشابي"
+}

@@ -1,0 +1,87 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 682,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">شاهد كيف يهرب وزير الحرب في دولة الاحتلال من صواريخ المقاومة الفلسطينية في غزة.</span></p>\r\n",
+    "country": "IL",
+    "created_at": "2020-01-24 21:54:48",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e2b3d78d4a22904a9359e93",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تبيّن لـ&quot;مسبار&quot; بعد التحقّق أن الفيديو بالفعل لوزير الحرب في دولة الاحتلال، إلا أنه يوثّق للحظة وصوله إلى الكنيست، وهو المجلس التشريعي في دولة الاحتلال، لتقديم الأوراق الرسمية لقائمته الانتخابية، يامينا، من أجل انتخابات الكنيست المقبلة. إذ تحالَفَ تيّارا اليمين واليمين المتطرّف لتشكيل تحالُف يامينا، بقيادة نفتالي بينيت.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://lh6.googleusercontent.com/yBV_076ru-IdtM2ikx7x_YV9mBmrp4GpxLUiEM72N5CHZ1q0dWBTKuz094ZZjRoe7n8uyNoHYPXxZVKjCH743QOYI7rAc-V8ITbKsyFeAxM9SsOJfW1acQOY2rNsjKkboY8nnVND\" style=\"height:523px; width:499px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "الكنيست",
+        "نفتالي بينيت"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تناقلت مجموعة من المواقع الإخبارية وصفحات التواصل الاجتماعي مقطع فيديو ادّعت أنه يصوّر وزير الحرب في دولة الاحتلال، نفتالي بينيت، أثناء هروبه مذعوراً من صواريخ المقاومة الفلسطينية في غزة.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://lh4.googleusercontent.com/37PUxPmkvWHBYSgKyIiqzgOq8gZ_wgZ2K8IMJiFk7PoaMpkPUWwXgvMVvTkTKKBxPAgsaBnC73dF1ZS4q01uj_uOuCN-AnksVMVSaaKNfsDYsZoVxxVZ7qk8xP9UOSizPoOtP_xD\" style=\"height:712px; width:551px\" /></span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://lh4.googleusercontent.com/ZudJYXU_jljumS1pK6Rl2pAZ26m9MZJRwvyN3a9nepXgkZok1La3MSMuAUAjtYwn3stx_W4h9mWG3whgrsYE7T96ociOr_LlGs7vS-sZJ9HeJFMAPWu6CEp_3Abb8JNIIJkgmCYF\" style=\"height:693px; width:501px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 345,
+        "left": 4.433349609375,
+        "path": "articles/1579892088GettyImages-1075775116.jpg",
+        "top": 2.26666259765625,
+        "totalHeight": 423,
+        "totalWidth": 623,
+        "width": 612
+    },
+    "post_date": "2020-01-17T20:44:00.000+03:00",
+    "published": [
+        {
+            "link": "https://web.archive.org/web/20200116201051/https://twitter.com/Arabi21TV/status/1217868628583993344",
+            "name": "عربي 21 TV (تغريدة محذوفة)",
+            "path": "published/0_1579892087_Arabi21 TV - logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/TheLensPost/status/1217828858688352257",
+            "name": "العدسة",
+            "path": "published/1_1579892088_Twitter-logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100272951478455/videos/1290443584489652/",
+            "name": "عين الحقيقة Egy",
+            "path": "published/2_1579892088_facebook.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/NadavElimelech/status/1217544613340373000",
+            "name": "Nadav Elimelech",
+            "path": "sources/0_1579892087_Twitter-logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/yanircozin/status/1217544436902694914",
+            "name": "Yanir Cozin",
+            "path": "sources/1_1579892087_Twitter-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل هرب وزير في دولة الاحتلال مذعوراً من صواريخ المقاومة؟",
+    "updated_at": "2020-09-23 12:39:45",
+    "url_path": "/factcheck/2020/01/24/هل-هرب-وزير-في-دولة-الاحتلال-مذعورا-من-صواريخ-المقاومة"
+}

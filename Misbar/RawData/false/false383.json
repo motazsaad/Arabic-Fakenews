@@ -1,0 +1,129 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 991,
+    "author": {
+        "fullname": "صفاء عليان",
+        "id": "5f316ac61dd58507a761df01",
+        "photo": {
+            "name": "1597074118_misbar-logo.jpg",
+            "path": "authors/1597074118_misbar-logo.jpg"
+        }
+    },
+    "caption": "أرسلت الجزائر أربع طائرات محملة بالمساعدات الطبية والغذائية إلى لبنان (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">مساعدات الجزائر للبنان عبارة عن مشروبات غازية.</p>\r\n",
+    "country": "DZ",
+    "created_at": "2020-08-12 12:55:04",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 0,
+    "id": "5f33bc781dd585079165cd07",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">بعد التحقق تأكّد &quot;مسبار&quot; من زيف الادعاء، إذ أرسلت الجزائر أربع طائرات محملة بالمساعدات الطبية والغذائية إلى جانب الخيام والأغطية، كما أرسلت طواقم طبية لمساعدة جرحى انفجار مرفأ بيروت. هذا ونفت صفحة (أخبار بيروت الحرة <span dir=\"LTR\">BFN</span>) صحة أنّ الصورة المنسوبة لها وأكدت أنها مفبركة وتحمل شعار مختلف عن شعار الصفحة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_hqv1b0yph.jpg\" style=\"height:356px; width:604px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_8ut7fzhbr.jpg\" style=\"height:374px; width:624px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_9vef3rgjp.jpg\" style=\"height:392px; width:787px\" /></span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/7U0ICgHPhkM\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت مواقع إخبارية وصفحات على مواقع التواصل الاجتماعي خبراً يفيد أنّ المساعدات الجزائرية التي وصلت للبنان عبارة عن مشروبات غازية وحاويات قمامة. ونشرت بعض الحسابات صورة تتضمن انتقادات للجزائر على نوعية المساعدات مأخوذة من صفحة (أخبار بيروت الحرة <span dir=\"LTR\">lbc</span>)، على حدّ زعم الناشرين.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_104orkm3v.jpg\" style=\"height:328px; width:592px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_0tj26h34v.jpg\" style=\"height:458px; width:480px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><br />\r\n<span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_gpw5w8g8a.jpg\" style=\"height:423px; width:480px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_cyvbvh2ls.jpg\" style=\"height:470px; width:480px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 357,
+        "left": -0.6761474609375,
+        "path": "articles/1597226104GettyImages-1227945958.jpg",
+        "top": 16.80712890625,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1597226104GettyImages-1227945958.jpg",
+        "width": 635
+    },
+    "post_date": "2020-08-12T12:42:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/alibarich1?lang=ar",
+            "name": "باريش المغربي ",
+            "path": "published/0_1597226103_باريش المغربي.jpg"
+        },
+        {
+            "link": "https://halapress.com/4048.html",
+            "name": "هلا برس",
+            "path": "published/1_1597226103_هلا برس.jpg"
+        },
+        {
+            "link": "https://www.algeriatimes.net/algerianews52696.html",
+            "name": "الجزائر تايمز ",
+            "path": "published/2_1597226104_الجزائر تايمز.jpg"
+        },
+        {
+            "link": "https://twitter.com/mohtarifescro/status/1292197748796731393",
+            "name": "محترف ايسكرو",
+            "path": "published/3_1597226730_محترف إيسكرو.jpg"
+        },
+        {
+            "link": "https://twitter.com/MoroccanEmpire/status/1292148720100945920",
+            "name": "Moroccan Empire",
+            "path": "published/4_1597226730_Moroccan Empire.jpg"
+        },
+        {
+            "link": "https://www.elwehda.com/Algeria/5033972/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D8%B3%D8%AE%D8%B1%D9%8A%D8%A9-%D8%B9%D8%A7%D8%B1%D9%85%D8%A9-%D9%81%D9%8A-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A%D9%8A%D9%86-%D8%AD%D9%88%D9%84-%D8%A5%D8%BA%D8%B1%D8%A7%D9%82-%D8%AA%D8%A8%D9%88%D9%86-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D8%A8%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%88%D8%A8%D8%A7%D8%AA-%D8%A7%D9%84%D8%BA%D8%A7%D8%B2%D9%8A%D8%A9-%D8%B9%D9%82%D8%A8-%D8%A5%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D8%A8%D9%8A%D8%B1%D9%88%D8%AA.html",
+            "name": "موقع الوحدة الإخباري ",
+            "path": "published/5_1597226730_موقع الوحدة الإخبارية.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=3092681457512420&id=298991216881472",
+            "name": "الصحراء المغربية",
+            "path": "published/6_1597226731_الصحراء المغربية.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/sifaw.vara/posts/3156940791054146",
+            "name": "عزيز فظلي إبراهيم",
+            "path": "published/7_1597226731_عزيز فظلي ابراهيم.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Saharawikileaks/posts/2720390678062057",
+            "name": "الصحراء ويكيليكس ",
+            "path": "published/8_1597226731_الصحراء ويكيليكس.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.alaraby.co.uk/%D9%88%D8%B5%D9%88%D9%84-%D8%A3%D8%B1%D8%A8%D8%B9-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A7%D8%AA-%D8%AA%D8%AD%D9%85%D9%84-%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A7%D8%AA-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A%D8%A9-%D8%A5%D9%84%D9%89-%D8%A8%D9%8A%D8%B1%D9%88%D8%AA",
+            "name": "العربي الجديد ",
+            "path": "sources/0_1597226104_العربي الجديد.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=7U0ICgHPhkM",
+            "name": "قناة الغد ",
+            "path": "sources/1_1597226104_قناة الغد.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/freebeirut/photos/a.413229098857173/1569192683260803",
+            "name": "أخبار بيروت الحرة BFN ",
+            "path": "sources/2_1597226104_أخبار بيروت الحرة.jpg"
+        },
+        {
+            "link": "https://www.gettyimages.ae/search/more-like-this/1227946080?assettype=image&family=editorial&phrase=Algerian%20aid%20to%20Lebanon#license",
+            "name": "Getty Images",
+            "path": "sources/3_1597226104_getty images-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "مساعدات الجزائر للبنان ليست مشروبات غازية",
+    "updated_at": "2020-09-25 18:01:05",
+    "url_path": "/factcheck/2020/08/12/مساعدات-الجزائر-للبنان-ليست-مشروبات-غازية"
+}

@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 247,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "خضعت الصورة للتعديل (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">صورة لجبل فوجي في اليابان.</p>\r\n",
+    "country": "JP",
+    "created_at": "2020-08-21 13:03:19",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f3f9be7602118069f7051db",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة المتداولة ووجد أنها زائفة، إذ خضعت للتعديل عن طريق برامج تعديل الصور.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">أما <a href=\"https://stock.adobe.com/8995761\" style=\"text-decoration:none\" target=\"_blank\"><u>الصورة الأصلية</u></a> تظهر فيها سحابة واحدة على شكل حلقة فوق قمة جبل فوجي، وليس كما تظهر في الصورة المتداولة.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_x8q94kc0s.jpg\" style=\"height:274px; width:535px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تتناقل صفحات على مواقع التواصل الاجتماعي، منذ سنوات، صورة تدعي أنها لجبل فوجي الواقع في اليابان.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_2xm8j8bas.jpg\" style=\"height:401px; width:535px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_1phc06tny.jpg\" style=\"height:432px; width:538px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 338,
+        "left": -0.433349609375,
+        "path": "articles/1598004199غلاف.jpg",
+        "top": 8.5,
+        "totalHeight": 423,
+        "totalWidth": 600,
+        "watermark_path": "articles/watermark-1598004199غلاف.jpg",
+        "width": 601
+    },
+    "post_date": "2020-08-21T13:00:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/3ajaaieb/posts/2481575178568378",
+            "name": "عجائب و غرائب حول العالم",
+            "path": "published/0_1598004323_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/officialantique1/posts/1188937227962125",
+            "name": "أنـتـيـكـا antique",
+            "path": "published/1_1598004323_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=957051924760054&id=323256088139644",
+            "name": "Pharmacie Principale Tanger",
+            "path": "published/2_1598004323_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/PSBLLUE/photos/a.1665799923632575/2409276495951577/?type=3&theater",
+            "name": "أزرق - Blue",
+            "path": "published/3_1598004431_facebook.jpg"
+        },
+        {
+            "link": "https://www.elmawke3.com/%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D8%B4%D8%A7%D9%87%D8%AF-%D9%82%D9%85%D9%85-%D9%88%D8%AC%D8%A8%D8%A7%D9%84-%D8%B1%D9%88%D8%B9%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D9%84/",
+            "name": "ElMawke3 الموقع",
+            "path": "published/4_1598004431_الموقع.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://stock.adobe.com/8995761",
+            "name": "Adobe Stock",
+            "path": "sources/0_1598004199_stock.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صورة زائفة لجبل فوجي في اليابان",
+    "updated_at": "2020-09-25 11:15:06",
+    "url_path": "/factcheck/2020/08/21/صورة-زائفة-لجبل-فوجي-في-اليابان"
+}

@@ -1,0 +1,119 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2386,
+    "author": {
+        "fullname": "محمد الخالدي",
+        "id": "5ef9dcff163be306aa5d2826",
+        "photo": {
+            "name": "1593433343_48252779_2179011148784786_3755534693705973760_o.jpg",
+            "path": "authors/1593433343_48252779_2179011148784786_3755534693705973760_o.jpg"
+        }
+    },
+    "caption": "الفاتيكان ليس هو الذي عثر على ذاك (تويتر)",
+    "category": "Spirituality & Religion",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">الفاتيكان يعثر على نسخة قديمة من الإنجيل ويصدم العالم المسيحي بأنّ عيسى ليس الله ولا ابناً لله.</p>\r\n",
+    "country": "TR",
+    "created_at": "2020-08-24 20:06:49",
+    "created_by": "5f39b5a51dd585076701cb94",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 4,
+    "id": "5f43f3a9602118325d413671",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقّق &quot;مسبار&quot; من الخبر ووجد أنه مضلل، إذ تبين أنه يعود إلى وقت عثور السلطات التركية على ما يُسمى بـ &quot;إنجيل برنابا&quot; خلال عملية مكافحة للتهريب عام 2000 بحسب صحيفة &quot;ذي ديلي ميل&quot; البريطانية، والذي احتوى على نصوص قريبة من رسالة الدين الإسلامي.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">ونسبت الصحيفة إلى وسائل إعلام إيرانية القول إن &quot;الإنجيل&quot; المكتشف ينص صراحة على أن المسيح عيسى بن مريم لم يُصلب، وأنه يبشر بمجيء النبي محمد صلى الله عليه وسلم ليكون خاتم الأنبياء.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">ووفقاً للمصادر المسيحية، فهي تعتبر &quot;إنجيل برنابا&quot; ملفقاً ولا تعده إنجيلاً.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">الجدير بالذكر، أن الفاتيكان ليس هو الذي عثر على ذاك &quot;الإنجيل&quot; ولم يُعلن تأييده له.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_m8s4q34h2.jpg\" style=\"height:445px; width:602px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_mc85q8d2r.jpg\" style=\"height:452px; width:602px\" /></span></p>\r\n\r\n<p style=\"text-align:justify\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_ppu8vadau.jpg\" style=\"height:77px; width:602px\" /><img src=\"https://images-prod.misbar.com/articlebody/investigation_12hdvzxi8.jpg\" style=\"height:203px; width:602px\" /><img src=\"https://images-prod.misbar.com/articlebody/investigation_hl2abrcz3.jpg\" style=\"height:314px; width:602px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">تداولت حسابات على موقع فيسبوك، حديثاً، خبراً مفاده أن الفاتيكان يصدم العالم المسيحي ويقلب &quot;النصرانية&quot; رأساً على عقب، بإعلانه العثور على نسخة قديمة من الإنجيل عمرها حوالي 1500 عاماً، وأن عيسى ليس الله ولا ابناً لله وأنه عبد الله ورسوله، كما أنه لم يُقتل ولم يُصلب بل رُفِع حياً إلى السماء.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_mibykbvxp.jpg\" style=\"height:554px; width:461px\" /></p>\r\n\r\n<p style=\"text-align:right\"><iframe frameborder=\"0\" height=\"313\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FALMASHAL.ALARABI%2Fvideos%2F217969809541114%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:right\"><iframe frameborder=\"0\" height=\"313\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F288911765124825%2Fvideos%2F2548743775363157%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1598288809120.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1598288809120.jpg",
+        "width": 752
+    },
+    "post_date": "2020-08-24T20:04:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=297418038209890&set=a.100306801254349&type=3&theater",
+            "name": "Najib Amar",
+            "path": "published/0_1598289223_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/mourad24000/permalink/3368939259830277/",
+            "name": "Halim Bazdouni",
+            "path": "published/1_1598289223_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/346752939097085/permalink/883682835404090/",
+            "name": "Sami Flix",
+            "path": "published/2_1598289223_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ALMASHAL.ALARABI/posts/200443534746425",
+            "name": "المشعل العربي",
+            "path": "published/3_1598289223_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=182523373478900&id=112968277101077",
+            "name": "بوصبع ز",
+            "path": "published/4_1598289223_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=520697395279593&id=288911765124825",
+            "name": " الترجي حبيب الملايين 1",
+            "path": "published/5_1598289224_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/cr7Realmadrid20177/posts/3218494424879443",
+            "name": "Yes we can",
+            "path": "published/6_1598289224_facebook.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.aljazeera.net/news/international/2012/5/26/%D8%A7%D9%83%D8%AA%D8%B4%D8%A7%D9%81-%D9%85%D8%AE%D8%B7%D9%88%D8%B7%D8%A9-%D9%85%D8%B3%D9%8A%D8%AD%D9%8A%D8%A9-%D8%AA%D8%A8%D8%B4%D8%B1-%D8%A8%D9%86%D8%A8%D9%88%D8%A9-%D9%85%D8%AD%D9%85%D8%AF",
+            "name": "الجزيرة",
+            "path": "sources/0_1598288809_الجزيرة نت.jpg"
+        },
+        {
+            "link": "https://ar.wikipedia.org/wiki/%D8%A5%D9%86%D8%AC%D9%8A%D9%84_%D8%A8%D8%B1%D9%86%D8%A7%D8%A8%D8%A7#%D9%88%D8%AC%D9%87%D8%A9_%D8%A7%D9%84%D9%86%D8%B8%D8%B1_%D8%A7%D9%84%D9%85%D8%B3%D9%8A%D8%AD%D9%8A%D8%A9_%D9%88%D8%A7%D9%84%D9%85%D9%81%D8%A7%D8%B1%D9%82%D8%A7%D8%AA_%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A%D8%A9",
+            "name": " Wikipedia",
+            "path": "sources/1_1598289224_6bH_cqBS_400x400.jpg"
+        },
+        {
+            "link": "https://answering-islam.org/Green/barnabas.htm",
+            "name": "Samuel Green",
+            "path": "sources/2_1598289224_ss.jpg"
+        },
+        {
+            "link": "https://st-takla.org/FAQ-Questions-VS-Answers/01-Questions-Related-to-The-Holy-Bible__Al-Ketab-Al-Mokaddas/005-Barnabas-fake-bible.html#5",
+            "name": "موقع الأنبا تكلا هيمانوت",
+            "path": "sources/3_1598289224_الانبا.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "خبر مضلل.. عثور الفاتيكان على نسخة قديمة من الإنجيل تنفي ألوهية عيسى",
+    "updated_at": "2020-09-25 21:55:05",
+    "url_path": "/factcheck/2020/08/24/خبر-مضلل-عثور-الفاتيكان-على-نسخة-قديمة-من-الإنجيل-تنفي-ألوهية-عيسى"
+}

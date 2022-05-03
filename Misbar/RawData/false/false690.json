@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2474,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "رد الحساب الرسمي للسفارة الأميركية في طرابلس ونفى الخبر ",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">مصادر الحدث: أنباء عن وصول وفد أميركي إلى بنغازي لبحث مساعي الحل في ليبيا.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-05-25 18:42:18",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ecbe75adb291669284b62e4",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">رد الحساب الرسمي للسفارة الأميركية في طرابلس على تغريدة الحدث، وقال &quot;لا يوجد وفد أميركي متوجه إلى بنغازي. هذه الشائعة غير صحيحة&quot;.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_zzdl5yng2.jpg\" style=\"height:232px; width:526px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">نشر حساب قناة الحدث على موقع تويتر، خبراً&nbsp;ادعى&nbsp;فيه وصول وفد أميركي إلى بنغازي لبحث مساعي الحل في ليبيا.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_19kxa3z18.jpg\" style=\"height:190px; width:543px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 9.11114501953125,
+        "path": "articles/1590421337GettyImages-135440599 (1).jpg",
+        "top": 0,
+        "totalHeight": 563,
+        "totalWidth": 786,
+        "watermark_path": "articles/watermark-1590421337GettyImages-135440599 (1).jpg",
+        "width": 752
+    },
+    "post_date": "2020-05-25T18:37:00.000+03:00",
+    "published": [
+        {
+            "id": "5f956866b9e81076640d200b",
+            "link": "https://twitter.com/AlHadath/status/1264560941909397506",
+            "name": "العربية الحدث",
+            "origin": "",
+            "path": "published/0_1590421336_jCjo7DqP_400x400.jpg"
+        },
+        {
+            "id": "5f95686613799413f16d3a5e",
+            "link": "https://www.facebook.com/younews2020/posts/138583741132053",
+            "name": "YouNews",
+            "origin": "",
+            "path": "published/1_1590421575_YouNews.jpg"
+        },
+        {
+            "id": "5f956866cf354d6bda3768b2",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2579361718969540&id=100006872117089",
+            "name": "Ali Mohamed",
+            "origin": "",
+            "path": "published/2_1590421575_Ali Mohamed.jpg"
+        },
+        {
+            "id": "5f95686614e79834dd66053f",
+            "link": "https://www.facebook.com/SabaNews.m/posts/2672811069490328?__xts__%5B0%5D=68.ARDHDkSAmtJvL2Po_LrR0rDtK7TEO4PxX4NtJDICRv_KKo-xbdHNaA2glmku8Z5zo96wwZ4PjYGum5fENo5zCfnMiTM_qbPWE3pkza4JxMCE1_kZGgIBsqVYcRKtvMgcwsX68KclWpWPvN1jmfBr50YPC6szGnRaFblifVzO7XeNrEhT35oy0kZTNU5VeChdFXIxXAKLlcA22aGvIAzXKxBzxuNHNodfwejkQF7E1SGN64h9_SF6TMpi8DI-nSXyS059OVTsE4iHiGiQnM6_d12xWWwbqWYE2UvnGbY_aiBctFCh2-z2R_k2L-T3xFleOGaPis61Da0EvoOZIZBv6cQ8&__tn__=-R",
+            "name": "سبأ نيوز",
+            "origin": "",
+            "path": "published/3_1590442925_سبأ نيوز.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f956866bf8f063e045cdf07",
+            "link": "https://twitter.com/USAEmbassyLibya/status/1264830255417696260",
+            "name": "U.S. Embassy &ndash; Libya",
+            "origin": "",
+            "path": "sources/0_1590421337_rWWkvXcN_400x400.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "السفارة الأميركية في ليبيا تنفي وصول وفد أميركي إلى بنغازي",
+    "updated_at": "2020-10-25 14:58:30",
+    "url_path": "/factcheck/2020/05/25/السفارة-الأميركية-في-ليبيا-تنفي-وصول-وفد-أميركي-إلى-بنغازي"
+}

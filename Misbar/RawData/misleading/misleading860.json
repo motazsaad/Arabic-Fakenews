@@ -1,0 +1,98 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 441,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "تلقى طلباً بتقديم رؤيته لإصلاح المسرح (فيسبوك)",
+    "category": "Arts & Culture",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">تعيين الممثل والمخرج المسرحي عبد القادر جريو في منصب رسمي &nbsp;لدى وزارة الثقافة الجزائرية.</p>\r\n",
+    "country": "DZ",
+    "created_at": "2020-07-24 19:43:34",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 0,
+    "id": "5f1b0fb6163be306c960bada",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الخبر المتداول، وتبين أنّ الادعاء مضلل، إذ <a href=\"https://youtu.be/xImm8PkTNuw\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">أكد</a> الممثل والمخرج المسرحي عبد القادر جريو أنه لم يعيّن بأي منصب رسمي في وزارة الثقافة الجزائرية، وأن الحقيقة تكمن في أنه تلقى طلباً من أحد كوادر الوزارة بتقديم اقتراح يخص رؤية جريو في إصلاح وضع المسرح.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وعمل الممثل عبد القادر جريو على تجسيد بطل شخصية مسلسل أولاد الحلال، مرزاق، الذي حقق نجاحاً كبيراً في شهر رمضان المنصرم.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><iframe frameborder=\"0\" height=\"754\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FDjeabdelkder%2Fvideos%2F282734822991009%2F&amp;show_text=1&amp;width=226\" style=\"border:none;overflow:hidden\" width=\"226\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول مواقع إخبارية، وحسابات وصفحات على مواقع التواصل الاجتماعي، حديثاً، خبراً يدعي أن الممثل والمخرج المسرحي عبد القادر جريو قد عُيّن في منصب رسمي لدى وزارة الثقافة الجزائرية، وبالتحديد في لجنة إصلاح المسرح.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_b8sf0i9in.jpg\" style=\"height:567px; width:539px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_jn4xibnjn.jpg\" style=\"height:422px; width:542px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 338,
+        "left": 4.7166748046875,
+        "path": "articles/1595609013إلاف.jpg",
+        "top": 11,
+        "totalHeight": 423,
+        "totalWidth": 610,
+        "watermark_path": "articles/watermark-1595609013إلاف.jpg",
+        "width": 601
+    },
+    "post_date": "2020-07-24T19:40:00.000+03:00",
+    "published": [
+        {
+            "link": "https://youtu.be/GjEgIJivXPc",
+            "name": " algerie vif",
+            "path": "published/0_1595609589_alger.jpg"
+        },
+        {
+            "link": "https://almasdar-dz.com/?p=116475",
+            "name": "المصدر",
+            "path": "published/1_1595609589_المصدر.jpg"
+        },
+        {
+            "link": " https://www.tariqnews.com/2020/07/23/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D8%AA%D8%B9%D9%8A%D9%91%D9%86-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%82%D8%A7%D8%AF%D8%B1-%D8%AC%D8%B1%D9%8A%D9%88-%D8%B9/",
+            "name": "طريق نيوز",
+            "path": "published/2_1595609589_طريق.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/photo.php?fbid=1153533165026266&set=a.248914635488128&type=3&theater",
+            "name": "Bouhidel Redouane",
+            "path": "published/3_1595609589_bouhidel.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/photo.php?fbid=3234787669930611&set=a.725260637550006&type=3&theater",
+            "name": "Merouane Lounnas",
+            "path": "published/4_1595609589_مروان.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=xImm8PkTNuw",
+            "name": "Bilal Nouni ",
+            "path": "sources/0_1595609013_Bilal.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Djeabdelkder/videos/282734822991009/",
+            "name": "عبد القادر جريو",
+            "path": "sources/1_1595609013_جريو.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لم يُعيّن الفنان عبد القادر جريو في وزارة الثقافة الجزائرية",
+    "updated_at": "2020-09-25 16:14:39",
+    "url_path": "/factcheck/2020/07/24/لم-يعين-الفنان-عبد-القادر-جريو-في-وزارة-الثقافة-الجزائرية"
+}

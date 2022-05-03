@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1299,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "لم يمنح عبد المجيد تبون وسام الاستحقاق لوفاء بوديسة (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">منح الرئيس الجزائريّ، عبد المجيد تبون، وسام الاستحقاق الوطني&nbsp;لعائلة الطبيبة الشهيدة وفاء بوديسة، وأطلق اسمها على أحد المستشفيات في البلاد.</p>\r\n",
+    "country": "DZ",
+    "created_at": "2020-05-18 20:49:13",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ec2ca99db29166f7d33d5c4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الخبر وتبيّن أنه زائف، إذ لم تذكر الصفحات الرسميّة للرئاسة الجزائرية&nbsp;أو الصفحة الرسميّة الشخصية&nbsp;لرئيس الجمهورية&nbsp;الخبر، ولم تتداوله وسائل الإعلام الرسمية. وتواصل&nbsp;&quot;مسبار&quot; مع صحفيين في الإذاعة الرسمية الجزائريّة، نفوا الخبر وقالوا إن&nbsp;بعض المواقع تداولته لكن لا صحة&nbsp;له، وأنهم لم&nbsp;يتسلموا حتى الآن&nbsp;أي بيانٍ رسميٍ&nbsp;بهذا الخصوص.</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات وحسابات على موقع فيسبوك، خبراً يدّعي أن الرئيس الجزائري، عبد المجيد تبّون، منح وسام الاستحقاق الوطني&nbsp;لعائلة الطبيبة الشهيدة وفاء بوديسة، وكرمها بتسمية مستشفى باسمها، وذلك بعد وفاتها جراء الإصابة بفايروس كورونا المستجد&nbsp;<span dir=\"LTR\">)</span>كوفيد-19).</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"img_20200518_181237.jpg\" src=\"https://images-prod.misbar.com/articlebody/origin_fisbtckqg.jpg\" style=\"height:917px; width:605px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"img_20200518_181223.jpg\" src=\"https://images-prod.misbar.com/articlebody/origin_ju5itw9al.jpg\" style=\"height:932px; width:605px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"img_20200518_181314.jpg\" src=\"https://images-prod.misbar.com/articlebody/origin_luwcixftx.jpg\" style=\"height:925px; width:605px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1589826180GettyImages-1189627488.jpg",
+        "watermark_path": "articles/watermark-1589826180GettyImages-1189627488.jpg"
+    },
+    "post_date": "2020-05-19T06:28:00.000+03:00",
+    "published": [
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=152109746363542&id=106417640932753",
+            "name": "هنا قسنطينة",
+            "path": "published/0_1589824151_fb_img_1589822182924 (1).jpg"
+        },
+        {
+            "link": "https://m.facebook.com/groups/310852259889816?view=permalink&id=348451432796565",
+            "name": "خير الدين",
+            "path": "published/1_1589824151_fb_img_1589822233753 (1).jpg"
+        },
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=3066315696723587&id=1531665253521980",
+            "name": "قناة قصر الصبيحي",
+            "path": "published/2_1589824151_fb_img_1589822153249 (1).jpg"
+        },
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=129499238732507&id=100560144959750",
+            "name": "أخبار 48 ولاية",
+            "path": "published/3_1589824151_fb_img_1589822173119 (1).jpg"
+        },
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=697783437664666&id=194351104674571",
+            "name": "أخبار خميس مليانة مباشرة",
+            "path": "published/4_1589824151_fb_img_1589822191823 (1).jpg"
+        },
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=1691311900992687&id=296353950488496",
+            "name": "Nori DZ ",
+            "path": "published/5_1589824151_fb_img_1589822201579 (1).jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.radioalgerie.dz/news/ar/",
+            "name": "الإذاعة الجزائريّة",
+            "path": "sources/0_1589824152_unnamed (1).jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ما حقيقة تكريم الطبيبة الجزائرية وفاء بوديسة؟",
+    "updated_at": "2020-09-25 18:42:57",
+    "url_path": "/factcheck/2020/05/18/الرئيس-الجزائري-يكرم-الطبيبة-الشهيدة-بوسام-استحقاق-وطني-خبر-زائف"
+}

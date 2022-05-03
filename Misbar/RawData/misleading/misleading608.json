@@ -1,0 +1,115 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 8244,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "تعود الصورة لشهر نوفمبر/تشرين الثاني عام 2016 (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">القبض على أبوصدام السوري في مصر وبحوزته 300 ألف دولار، لتوزيعهم على الناس للخروج في مظاهرات معارضة للنظام.</span></p>\r\n",
+    "country": "EG",
+    "created_at": "2020-09-21 19:43:30",
+    "created_by": "5f39b5a51dd585076701cb94",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 7,
+    "feedback_pos": 19,
+    "id": "5f68d832327b8a409e4444d1",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقق &quot;مسبار&quot; من الصورة وتبين أن الادعاء مضلل، وليست لمواطن سوري يُدعى أبو صدام. وتعود الصورة لشهر نوفمبر/تشرين الثاني عام 2016، ونشرتها وزارة الداخلية المصرية ونقلتها&nbsp;العديد من <a href=\"https://www.elmogaz.com/333917\" style=\"color:#0563c1; text-decoration:underline\">المواقع</a>، وقالت إن عناصر الأمن في مدينة ميت غمر في محافظة الدقهلية، القوا القبض على تاجر عملات أجنبية، بحوزته مبالغ مالية هائلة. وهو مصري الجنسية، يُدعى منصور . ع . م، يبلغ من العمر 66 عاماً، ومقيم في منطقة بندر ميت غمر، وتم اتهامه بالإتجار غير المشروع فى العملات الأجنبية خارج نطاق السوق المصرفي<span dir=\"LTR\"> .</span><br />\r\n<img src=\"https://images-prod.misbar.com/articlebody/investigation_f9tt3bmjk.jpg\" style=\"height:536px; width:624px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات على مواقع التواصل الاجتماعي، خلال الأيام الأخيرة، صورة ادعت أنها لشخص يُدعى أبو صدام السوري، قبض عليه في مصر وبحوزته 300 ألف دولار أميركي، لتوزيعهم على الناس للخروج في مظاهرات ضد النظام المصري. وجاء انتشار الخبر تزامناً مع دعوات التظاهر التي تشهدها مصر حالياً.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_xe00iy18g.jpg\" style=\"height:294px; width:624px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_54f2xx1dr.jpg\" style=\"height:345px; width:625px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1600706610100.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1600706610100.jpg",
+        "width": 752
+    },
+    "post_date": "2020-09-21T19:41:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/groups/1522534264450334/permalink/3442968679073540/",
+            "name": "Mohamed Mohsen",
+            "path": "published/0_1600706610_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=926137607876677&id=100014413386358",
+            "name": "مرفت عبد السلام",
+            "path": "published/1_1600706610_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/lan.tantafei.anwar.masr.spox/posts/1540358179491355",
+            "name": "لن تنطفئ انوار مصر",
+            "path": "published/2_1600706755_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/groups/2031382033826570/permalink/2479526142345488/",
+            "name": "Soad Halawa",
+            "path": "published/3_1600706755_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1016509682508454&id=100024482954503&__xts__%5B0%5D=68.ARDkCbGozs6cdC1SanKyW8Be1PVWSnn1Ikv93ENWvIKq-BW5VDvA57LxJNX_FhVfBxbgbMfhfDnw--shV8IQr-JrnN-AvjJvPufORfqoWXu1FVmeG7wJN0fQ9tBn6Njx4sejXBL3wF8lriiidMTqG5nBtorBkVSSe7EJW7YE_L4tCDVOfrcKCDowouXq3aQj27KY9stvghiYNtgL2MnzYoRrffxQDkrvAbvNz_hcs7wtNqPkclj0kQSwxWKwMJ8UyjS0tzo8BwgzH1xnNX87MOZXpj7JQqFtpPz1QVOUaSSazZQPjFDzmNAv&__tn__=-R",
+            "name": "فتحى فرحات ",
+            "path": "published/4_1600706756_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/groups/561702744613594/permalink/758533338263866/",
+            "name": "أشرف عبد الحميد علي",
+            "path": "published/5_1600706756_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/groups/578209039548039/permalink/629932924375650/",
+            "name": "Awatef Mohammed ",
+            "path": "published/6_1600706756_facebook.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.elmogaz.com/333917",
+            "name": "الموجز",
+            "path": "sources/0_1600706610_الموجز.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الصورة ليست لسوري قبض عليه في مصر بسبب تحريضه على المظاهرات",
+    "updated_at": "2020-09-25 22:08:34",
+    "url_path": "/factcheck/2020/09/21/الصورة-ليست-لسوري-قبض-عليه-في-مصر-بسبب-تحريضه-على-المظاهرات",
+    "was_notification_pushed": "true"
+}

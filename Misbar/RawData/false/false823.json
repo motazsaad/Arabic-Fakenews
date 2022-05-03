@@ -1,0 +1,97 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 6274,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "caption": "تم نشر الصورة منذ أبريل/نيسان من العام 2019، أي قبل انتشار فايروس كورونا",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">بعد يأسهم بسبب انتشار فايروس كورونا، الإيطاليون يقومون بإلقاء نقودهم في الشوارع.</p>\r\n",
+    "country": "",
+    "created_at": "2020-03-30 15:57:47",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e81eccbdb29164aac556453",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الخبر زائف وليس له أساس من الصحة، إذ تم نشر الصورة منذ أبريل<span dir=\"LTR\">/</span>نيسان من العام 2019، أي قبل انتشار فايروس كورونا <span dir=\"LTR\">(Covid-19)</span>، وكُتب عليها في حينه أنَّها لأموال ملقاة على الأرض في فنزويلا بفعل التضخم الذي جرى فيها ووصول أسعار صرف عملتها إلى مستويات متدنية جداً.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_bhfkxvcg1.jpg\" style=\"height:523px; width:675px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_knjpv103q.jpg\" style=\"height:729px; width:584px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">انتشرت على نطاق محدود، صورةٌ ادّعى ناشروها أنها لأموال ملقاة على الأرض في شوارع إيطاليا، بفعل شعور المواطنين الإيطاليين باليأس جراء الانتشار الواسع لفايروس كورونا في البلاد.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_p5alnkgcg.jpg\" style=\"height:863px; width:586px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 131,
+        "left": 1.9434967041015625,
+        "path": "articles/1585573067D3PK9cdW4AA0P47gggggggggggg.jpg",
+        "top": 145.200927734375,
+        "totalHeight": 423,
+        "totalWidth": 238,
+        "width": 233
+    },
+    "post_date": "2020-03-30T15:52:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.youtube.com/watch?v=UWKwoxXAwbI",
+            "name": "بصراوي FM",
+            "path": "published/0_1585573066_بصراوي FM.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/zenab.sabah",
+            "name": "Zenab Sabah",
+            "path": "published/1_1585573067_Zenab Sabah.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=2761701407397041&set=p.2761701407397041&type=1&theater",
+            "name": "عاصم ديب",
+            "path": "published/2_1585574639_عاصم ديب.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=1912348512233081&set=p.1912348512233081&type=1&theater",
+            "name": "أبو فدك أحمد",
+            "path": "published/3_1585574716_أبو فدك أحمد.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.twitter.com/juanrallo/status/1113456696112885761",
+            "name": "Juan Ramón Rallo",
+            "path": "sources/0_1585573066_Juan Ramón Rallo.jpg"
+        },
+        {
+            "link": "https://www.reddit.com/r/Damnthatsinteresting/comments/bafjw4/worthless_currency_litters_the_street_in_venezuela/",
+            "name": "reddit",
+            "path": "sources/1_1585573066_reddit.JPG"
+        },
+        {
+            "link": "https://www.right-mind.us/socialist-venezuela-today-thats-money-in-the-gutter-totally-worthless/",
+            "name": "Right-Mind",
+            "path": "sources/2_1585573066_right-mind.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "كورونا إيطاليا: يلقون أموالهم في الشوارع بعد يأسهم بسبب كورونا.. خبر زائف",
+    "updated_at": "2020-09-25 20:43:20",
+    "url_path": "/factcheck/2020/03/30/كورونا-إيطاليا-يلقون-أموالهم-في-الشوارع-بعد-يأسهم-بسبب-كورونا-خبر-زائف"
+}

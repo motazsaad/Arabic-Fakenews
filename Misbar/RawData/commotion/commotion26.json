@@ -1,0 +1,88 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 3193,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "الخاتم اشترته مع صديقتها (Twitter)",
+    "category": "Arts & Culture",
+    "claim": "<p>الفنانة أصالة تشتري خاتم الخطوبة، وتعلن خطوبتها.</p>\r\n",
+    "country": "SY",
+    "created_at": "2020-08-23 12:35:15",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 2,
+    "feedback_pos": 0,
+    "id": "5f42385360211806962969f0",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الخبر ليجد أن المواقع الفنية نشرته مجتزأ، بشكل متعمد بهدف الإثارة، فالفنانة أصالة أعلنت خلال مقابلة هاتفية مع برنامج ET &nbsp;بالعربي أنها مخطوبة إلى نفسها خلال الفترة الحالية، ولا تستطيع الارتباط، فقلبها &quot;تعبان&quot;ومقهور عقب طلاقها من زوجها، أما الخاتم الذي &nbsp;تتحدث عنه المواقع، فقالت عنه أصالة &quot; اشتريت الخاتم مع صحبتي ميرال وعملته من قلوب مكسرة&quot;.&nbsp; &nbsp;&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_g1eka9gf3.jpg\" style=\"height:343px; width:605px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت مواقع فنية وصحف عربية على مواقعها في وسائل التواصل الاجتماعي أخباراً وعناوين عن الفنانة أصالة نصري، مفادها خطوبة الأخيرة وشرائها خاتم الخطوبة بعد طلاقها من المخرج طارق العريان، دون أن توضح هذه المواقع تفاصيل الخبر، ما أحدث بلبلة واستغراباً بين مستخدمي وسائل التواصل.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_q85dk3emp.jpg\" style=\"height:558px; width:605px\" /></p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_o2qhwbn8s.jpg\" style=\"height:410px; width:600px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_shvykc6cb.jpg\" style=\"height:563px; width:605px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 398,
+        "left": 4.25,
+        "path": "articles/1598175315أصالةة.JPG",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 730,
+        "watermark_path": "articles/watermark-1598175315أصالةة.JPG",
+        "width": 706
+    },
+    "post_date": "2020-08-23T11:30:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/omar.tom.7/posts/2074717102611288",
+            "name": "Omar Mahmoud Refat",
+            "path": "published/0_1598178770_0_1596888660_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/iraqtoday.net/posts/704315546786576",
+            "name": "العراق اليوم",
+            "path": "published/1_1598178770_64916323_428684081016392_3223029083386413056_n.jpg"
+        },
+        {
+            "link": "https://twitter.com/Maqarcom/status/1297448780955033601",
+            "name": "صحيفة المقر",
+            "path": "published/2_1598178770_ddqTZ5cw_400x400.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/alsaudiatoday/posts/3162400227222152",
+            "name": "السعودية اليوم",
+            "path": "published/3_1598179782_20429742_1307580549370805_2071680272854440832_n.jpg"
+        }
+    ],
+    "result": "commotion",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://etbilarabi.com/%D9%85%D9%8A%D9%83%D8%B3/%D8%A3%D8%B5%D8%A7%D9%84%D8%A9-%D9%86%D8%B5%D8%B1%D9%8A-%D9%85%D8%AE%D8%B7%D9%88%D8%A8%D8%A9-%D8%9F?fbclid=IwAR0b6-nJjWCnEaqzs-6lAxWpa6zTFNjZ_mLj19u26VFrP5qpQ6XyoX6dULw",
+            "name": "ET بالعربي",
+            "path": "sources/0_1598178770_ثثث33333.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الفنانة أصالة أعلنت خطوبتها على نفسها فقط",
+    "updated_at": "2020-09-25 14:38:51",
+    "url_path": "/factcheck/2020/08/23/الفنانة-أصالة-أعلنت-خطوبتها-على-نفسها-فقط"
+}

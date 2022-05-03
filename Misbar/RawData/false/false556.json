@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 6321,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "لم بصب مقتدى الصدر بكورونا (Facebook)",
+    "category": "Health",
+    "claim": "<p dir=\"rtl\">زعيم التيار الصدري مقتدى الصدر مصاب بفايروس كورونا المستجد (كوفيد_19)، وتوفي في بيروت.</p>\r\n",
+    "country": "IQ",
+    "created_at": "2020-06-27 20:15:17",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ef77ea5163be30659381556",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الخبر ليجد أنه ليس صحيحاً؛ فقد نفى مكتب مقتدى الصدر الخبر في الصحف والمواقع العراقية الإعلامذية، كما أن الصورة التي تم نسبها إلى مقتدى الصدر في المستشفى هي في الحقيقة للشيخ صادق الزائر العقيلي، ونشرها على صفحته في يونيو/حزيران من العام 2019 حين أجرى عملية جراحية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وقال &nbsp;المتحدث باسم التيار الصدري، الشيخ صلاح العبيدي &quot;ما تناقلته بعض وسائل الإعلام هي عبارة عن أخبار مزيفة تدعي بان السيد مقتدى الصدر مصاب بفايروس كورونا والخبر غير صحيح&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وكانت أولى الصفحات التي نشرت الخبر هي صفحة على وسائل التواصل الاجتماعي باسم الشيخ الشهيد العتابي، إلا أنه خرج في مقطع فيديو يؤكد أنه لم ينشر الخبر والصفحة التي تحمل اسمه مفبركة، ويبدو أن البلاغات على المنشور أدت لحذفه من على الصفحة المزيفة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_4s6t9gsx1.jpg\" style=\"height:738px; width:605px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_lpcnr2vtp.jpg\" style=\"height:279px; width:605px\" /></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/Pgyi4r_xTrY\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات على موقع التواصل الاجتماعي تويتر، منذ 23 يونيو/حزيران الماضي، خبراً، مفاده أن زعيم التيار الصدري في العراق مقتدى الصدر توفي عقب إصابته بفايروس كورونا المستجد في المستشفى الأميركي في بيروت بلبنان، في حين تناقلت صفحات أخرى خبراً مفاده&nbsp;أنه مريض بالفايروس وتم حجره بمنزله في النجف الأشرف.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_d5h2mg2jq.jpg\" style=\"height:392px; width:589px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_0ens57onu.jpg\" style=\"height:386px; width:583px\" />&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><a href=\"https://twitter.com/CIA007K/status/1275596141401452545\" style=\"color:blue; text-decoration:underline\"><img src=\"https://images-prod.misbar.com/articlebody/origin_wwbuid3iv.jpg\" style=\"height:378px; width:594px\" /></a>&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_yh23wwqja.jpg\" style=\"height:102px; width:592px\" />&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_96si78b6q.jpg\" style=\"height:454px; width:587px\" />&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 370,
+        "left": 29.75,
+        "path": "articles/1593278116مقتدى الصدر.jpg",
+        "top": 13.078125,
+        "totalHeight": 423,
+        "totalWidth": 761,
+        "watermark_path": "articles/watermark-1593278116مقتدى الصدر.jpg",
+        "width": 658
+    },
+    "post_date": "2020-06-27T17:42:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/CoronavirusMd/status/1275477357856305152",
+            "name": "الدكتور اياد",
+            "path": "published/0_1593278115_د.اياد.jpg"
+        },
+        {
+            "link": "https://twitter.com/4EvfpMGCrDoBorV/status/1275916924623433728",
+            "name": "مازن الجبوري",
+            "path": "published/1_1593278115_مازن الجبوري.jpg"
+        },
+        {
+            "link": "https://twitter.com/CIA007K/status/1275596141401452545",
+            "name": "خالد أكرم",
+            "path": "published/2_1593278115_-sNVarmQ_400x400.jpg"
+        },
+        {
+            "link": "https://twitter.com/AliAlmosawi1991/status/1276266938956689409",
+            "name": "علي الموسوي",
+            "path": "published/3_1593278116_علي الموسوي.jpg"
+        },
+        {
+            "link": "https://twitter.com/hqtfsXXvq2t7DVh/status/1275382447526555649",
+            "name": "العراقي",
+            "path": "published/4_1593278116_Qo7fpgea_400x400.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=1157949301073960&set=pb.100005767029006.-2207520000..&type=3&theater",
+            "name": "الشيخ صادق الزائر العقيلي",
+            "path": "sources/0_1593278116_زائر العقيلي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/%D8%B5%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B4%D9%87%D9%8A%D8%AF-%D8%A7%D9%84%D8%B9%D8%AA%D8%A7%D8%A8%D9%8A-%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A%D8%A9-286950242241212/?tn-str=k*F",
+            "name": "الشيخ الشهيد العتابي",
+            "path": "sources/1_1593278116_92812065_543093523293548_3073118794722312192_n (1).jpg"
+        },
+        {
+            "link": "https://addustor.com/content.php?id=7652",
+            "name": "جريدة الدستور",
+            "path": "sources/2_1593281478_الدستورر.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "مقتدى الصدر ليس مصاباً بكورونا.. ولم يمت في بيروت",
+    "updated_at": "2020-09-25 17:10:07",
+    "url_path": "/factcheck/2020/06/27/مقتدى-الصدر-ليس-مصابا-بكورونا-ولم-يمت-بسببها-في-بيروت"
+}

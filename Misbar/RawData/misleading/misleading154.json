@@ -1,0 +1,133 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 303,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "الصور من صلاة عيد الفطر في لبنان (موقع إندونيسي)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">الجيش التركي يؤدي صلاة الجماعة على ظهر إحدى السفن الحربية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n",
+    "country": "TR",
+    "created_at": "2020-12-22 17:51:50",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 8,
+    "id": "5fe20806effb113e49051b86",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;<a href=\"https://misbar.com/\" style=\"color:blue; text-decoration:underline\">مسبار</a>&quot; من الصورة المتداولة وتبين أنها قديمة ومضللة، وليست لجنود من الجيش التركي خلال أدائهم للصلاة جماعة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">ووفق <a href=\"https://www.nusantarabicara.co/2017/06/perayaan-idul-fitri-di-lebanon.html\" style=\"color:blue; text-decoration:underline\">مواقع إندونيسية</a>، تعود الصورة إلى فرقة غارودا الإندونيسية، التابعة لقوة الأمم المتحدة المؤقتة في لبنان، عام 2017، الذين تزامن وجودهم مع احتفالات عيد الفطر، فأقاموا الصلاة جماعة.<br />\r\nوتُظهر الصورة العلم الإندونيسي على لباسهم ومن الجهة الأخرى شارة قوات حفظ السلام التابعين إليها، إضافة إلى الأعلام المحيطة بهم وقبعات الرأس التي يلبسونها.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_3x25z8zi7.jpg\" style=\"height:407px; width:605px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">يُذكر أن القوة المؤقتة للأمم المتحدة في لبنان، تأسست بواسطة مجلس الأمن في آذار/مارس 1978 للتأكيد على انسحاب إسرائيل من لبنان، واستعادة الأمن والسلام الدوليين ومساعدة الحكومة اللبنانية على استعادة سلطتها الفعالة في المنطقة. وتم تعديل المهمة مرتين نتيجة التطورات في عام 1982 وعام 2000.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">اقرأ/ي أيضاً<br />\r\n<a href=\"https://misbar.com/factcheck/2020/12/22/%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9-%D9%85%D8%B9%D8%AF%D9%84%D8%A9-%D9%88%D9%84%D9%8A%D8%B3%D8%AA-%D9%84%D8%B7%D9%8A%D8%A7%D8%B1-%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A-%D9%8A%D8%AD%D9%85%D9%84-%D9%83%D8%AA%D8%A8-%D9%81%D9%82%D9%87\" style=\"color:blue; text-decoration:underline\">الصورة معدلة وليست لطيار جزائري يحمل كتاب فقه</a></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/12/18/%D9%84%D8%A7-%D8%A3%D9%86%D8%A8%D8%A7%D8%A1-%D8%B9%D9%86-%D9%88%D8%AC%D9%88%D8%AF-%D9%82%D8%A7%D8%B9%D8%AF%D8%A9-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B5%D8%AD%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9-%D9%84%D9%8A%D8%B3%D8%AA-%D9%84%D9%87%D8%A7\" style=\"color:blue; text-decoration:underline\">لا أنباء عن وجود قاعدة عسكرية أميركية في الصحراء الغربية، والصورة ليست لها</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "فوة حفظ السلام الدولية",
+        "اليونيفيل",
+        "البحرية التركية",
+        "حرب لبنان"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات وحسابات على موقعي التواصل الاجتماعي فيسبوك وتويتر، حديثاً، صورة لجنود يؤدون الصلاة جماعة على ظهر سفينة،&nbsp;وزعمت أنها لقوات من الجيش المحمدي التركي.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_9p6zar2dl.jpg\" style=\"height:413px; width:605px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ss62hop7u.jpg\" style=\"height:443px; width:598px\" /></span>&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 345,
+        "left": 8.70001220703125,
+        "path": "articles/1608648710photo_2017-06-26_15-53-51(1) (1).jpg",
+        "top": 38.737548828125,
+        "totalHeight": 423,
+        "totalWidth": 635,
+        "watermark_path": "articles/watermark-1608648710photo_2017-06-26_15-53-51(1) (1).jpg",
+        "width": 613
+    },
+    "post_date": "2020-12-22T15:08:00.000+03:00",
+    "published": [
+        {
+            "id": "5fa2b3214dbee147cf1878eb",
+            "link": "https://twitter.com/omelbanen6/status/1339442268365795331",
+            "name": "⌛sho👩&zwj;🔬sho⌛",
+            "origin": "twitter",
+            "path": "sources/77a249661d1627726557d8a90f2467b74ef8168b.jpg"
+        },
+        {
+            "id": "5fe20a415305e83a0e4670f1",
+            "link": "https://twitter.com/amar713443/status/1340355760581210113",
+            "name": "عمار الربيعي🇾🇪",
+            "origin": "twitter",
+            "path": "sources/d2ede21e3aee06b06f328342704bb163fa87d461.jpg"
+        },
+        {
+            "id": "5fe20a42df779e7b6616ee8c",
+            "link": "https://www.facebook.com/khalid.alahmadi.758/posts/1317183945287279",
+            "name": "Khalid Alahmadi",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        },
+        {
+            "id": "5fa8599282510856ba10b103",
+            "link": "https://twitter.com/ha5153422/status/1339721333077405701",
+            "name": "حسن عبدالرحمن",
+            "origin": "twitter",
+            "path": "sources/eb4dee2a679b852686923603945002211416fd3b.jpg"
+        },
+        {
+            "id": "5fe20bc326321c363106e860",
+            "link": "https://www.facebook.com/100018620046040/posts/707719476525381/?app=fbl",
+            "name": "Al Aarbi Saeid",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        },
+        {
+            "id": "5fe20c4455d39d7e2c5f2dd7",
+            "link": "https://www.facebook.com/wikwikmaroc.wik.7/posts/205726431106614",
+            "name": "BO Zeitun",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fe20806aed951347f0d8c71",
+            "link": "https://www.nusantarabicara.co/2017/06/perayaan-idul-fitri-di-lebanon.html",
+            "name": "www.nusantarabicara.co",
+            "origin": "",
+            "path": "sources/35f4ec0dfc012384391dcaebdb322aebc9ac3e6e.jpg"
+        },
+        {
+            "id": "5fa39f88b494187dfb1c182c",
+            "link": "https://peacekeeping.un.org/ar/mission/unifil",
+            "name": "United Nations",
+            "origin": "",
+            "path": "sources/26a90b901f1a619620fad95ef61fc99d60d5e9e0.jpg"
+        },
+        {
+            "id": "5fe20806e3a5a94f632131c2",
+            "link": "https://pantauriau.com/news/detail/5516/perayaan-idul-fitri-di-lebanon-cerminkan-soliditas-tni-kbri-dan-warga-indonesia",
+            "name": "pantauriau.com",
+            "origin": "",
+            "path": "sources/e4d80ad32d0d8420d7381c386c196d6dd234ca23.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الصورة لجنود إندونيسيين يؤدون الصلاة وليست لعناصر من الجيش التركي",
+    "updated_at": "2020-12-23 02:07:19",
+    "url_path": "/factcheck/2020/12/22/الصورة-لجنود-إندونيسيين-يؤدون-الصلاة-وليست-لعناصر-من-الجيش-التركي",
+    "was_notification_pushed": "true"
+}

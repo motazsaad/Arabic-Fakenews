@@ -1,0 +1,123 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 4481,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "الصحيفة التركية أجرت حواراً مع صحفي ذكر أنّ بشار الأسد سيتنحى قريباً (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">صحيفة صباح التركية تكشف موعد تنحي بشار الأسد عن السلطة، وتُحدّد الدولة التي سيلجأ إليها.</p>\r\n",
+    "country": "TR",
+    "created_at": "2020-07-05 17:53:28",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f01e968163be33c98173a07",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تتبع &quot;مسبار&quot; الخبر ووجد أنّه مضلل وينطوي على إثارة، إذ لم تنقل صحيفة صباح التركية الخبر عن مصادرها الخاصة والمطلعة كما ذكر الخبر المتداول. والحقيقة أنّ الصحيفة التركية سألت الكاتب والصحفي &quot;توران قشلاقجي&quot; في حوار أجرته معه في 1 يوليو/تموز الجاري عن التغريدة التي نشرها على حسابه الخاص بتاريخ 30 يونيو/حزيران الفائت، والتي قال فيها &quot;إنّ بشار الأسد سيترك السلطة قريباً جداً&quot;، فقال الكاتب توران في سياق إجابته عن سؤال الصحيفة أنّه من المتوقع لجوء بشار الأسد إلى إحدى الدول الخليجية.&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"صورة_x0020_13\" src=\"https://images-prod.misbar.com/articlebody/investigation_psqmhv3je.jpg\" style=\"height:303.75pt; width:414.75pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"صورة_x0020_15\" src=\"https://images-prod.misbar.com/articlebody/investigation_2aw8d4zk0.jpg\" style=\"height:374.25pt; width:414.75pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"صورة_x0020_14\" src=\"https://images-prod.misbar.com/articlebody/investigation_qo01vr835.jpg\" style=\"height:651.75pt; width:414.75pt\" /> </span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت مواقع إخبارية خبراً يُفيد أنّ صحيفة صباح التركية أعلنت عن موعد تنحي بشار الأسد عن السلطة وعن المكان الذي سيلجأ إليه. وجاء في تفاصيل الخبر أنّ رئيس النظام السوري سيظهر على التلفزيون معلناً تنحيه عن منصبه خلال ثلاثة أيام وسيلجأ إلى إحدى دول الشرق الأوسط، وذلك وفق أحد مصادر الصحيفة الخاصة. وذكرت بعض المواقع أنّ كلام الصحيفة جاء تزامناً مع تغريدة نشرها كاتب تركي على حسابه في &quot;تويتر&quot; كشف فيها أيضاً عن المعلومات نفسها.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"صورة_x0020_12\" src=\"https://images-prod.misbar.com/articlebody/origin_ks8dehzlv.jpg\" style=\"height:284.25pt; width:414.75pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"صورة_x0020_5\" src=\"https://images-prod.misbar.com/articlebody/origin_y87hocwd9.jpg\" style=\"height:258pt; width:414.75pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"صورة_x0020_3\" src=\"https://images-prod.misbar.com/articlebody/origin_x5pczauq6.jpg\" style=\"height:555pt; width:414.75pt\" /> </span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 367,
+        "left": 0.77777099609375,
+        "path": "articles/1593960808GettyImages-1132995356.jpg",
+        "top": 30,
+        "totalHeight": 423,
+        "totalWidth": 658,
+        "watermark_path": "articles/watermark-1593960808GettyImages-1132995356.jpg",
+        "width": 652
+    },
+    "post_date": "2020-07-05T17:29:00.000+03:00",
+    "published": [
+        {
+            "link": "https://aramme.com/post/8014/%D8%B5%D8%AD%D9%8A%D9%81%D8%A9-%D8%A8%D8%B4%D8%A7%D8%B1-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D8%B3%D9%8A%D8%B9%D9%84%D9%86-%D8%AA%D9%86%D8%AD%D9%8A%D9%87-%D8%AE%D9%84%D8%A7%D9%84-%D8%A3%D9%8A%D8%A7%D9%85",
+            "name": "شبكة آرام الإعلامية",
+            "path": "published/0_1593960807_شبكة آرام الإعلامية.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/151271931596606/posts/3652463914810706/",
+            "name": "الدكتور فيصل القاسم",
+            "path": "published/1_1593960808_الدكتور فيصل القاسم.jpg"
+        },
+        {
+            "link": "https://wp.me/p9Xhsd-dN2",
+            "name": "الوسيلة",
+            "path": "published/2_1593960808_الوسيلة.jpg"
+        },
+        {
+            "link": "https://eldorar.com/node/153374",
+            "name": "الدرر الشامية",
+            "path": "published/3_1593960808_الدرر الشامية.jpg"
+        },
+        {
+            "link": "https://arab-turkey.com/2020/07/02/%D8%B5%D8%AD%D9%8A%D9%81%D8%A9-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D8%B3%D9%8A%D8%B8%D9%87%D8%B1-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86-%D9%85%D8%B9%D9%84%D9%86%D8%A7/",
+            "name": "تركيا بالعربي",
+            "path": "published/4_1593960808_تركيا بالعربي-لوغو.jpg"
+        },
+        {
+            "link": "https://www.qasioun-news.com/ar/articles/227303/%D8%B5%D8%AD%D9%8A%D9%81%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D8%B3%D9%8A%D8%B8%D9%87%D8%B1-%D8%AE%D9%84%D8%A7%D9%84-%D8%A3%D9%8A%D8%A7%D9%85-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86-%D9%85%D8%B9%D9%84%D9%86%D8%A7-%D8%AA%D9%86%D8%AD%D9%8A%D9%87",
+            "name": "قاسيون ",
+            "path": "published/5_1593960808_قاسيون-لوغو.jpg"
+        },
+        {
+            "link": "https://turkey-breaking.com/%D8%B5%D8%AD%D9%8A%D9%81%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%B3%D8%AF-%D8%B3%D9%8A%D8%B8%D9%87%D8%B1-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86/",
+            "name": "تركيا عاجل ",
+            "path": "published/6_1593960808_تركيا عاجل.jpg"
+        },
+        {
+            "link": "https://turkeyhashtag.com/%D8%B5%D8%AD%D9%8A%D9%81%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D8%A7%D8%B3%D8%AA%D9%82%D8%A7%D9%84%D8%A9-%D8%A7%D9%84%D8%A7%D8%B3%D8%AF-%D9%82%D8%A7%D8%A8-%D9%82%D9%88%D8%B3%D9%8A%D9%86-%D8%A7%D9%88/",
+            "name": "تركيا هاشتاغ",
+            "path": "published/7_1593960808_تركيا هاشتاغ.jpg"
+        },
+        {
+            "link": "https://news-turkey.com/2020/07/03/%D8%B5%D8%AD%D9%8A%D9%81%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%82%D8%B1%D8%A8%D8%A9-%D9%85%D9%86-%D8%A3%D8%B1%D8%AF%D9%88%D8%BA%D8%A7%D9%86-%D8%AA%D8%B1%D9%82%D8%A8%D9%88-%D8%A7%D9%84%D8%A3/",
+            "name": "تركيا نيوز بالعربي ",
+            "path": "published/8_1593960808_تركيا نيوز بالعربي.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.sabah.com.tr/video/dunya/son-dakika-haberi-suriyede-besar-esad-iktidari-birakiyor-iste-siginacagi-iddia-edilen-o-ulke-video",
+            "name": "Sabah",
+            "path": "sources/0_1593961356_sabah-logo-170x71.jpg"
+        },
+        {
+            "link": "https://twitter.com/turankislakci/status/1278031749898031104 ",
+            "name": "Turan Kışlakçı",
+            "path": "sources/1_1593961356_Turan Kışlakçı.jpg"
+        },
+        {
+            "link": "https://www.sabah.com.tr/dunya/2020/07/01/esad-ile-ilgili-flas-iddia-esad-iktidari-birakacak-siginacagi-ulke-bile-belli",
+            "name": "Sabah",
+            "path": "sources/2_1593961356_sabah-logo-170x71.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لم تكشف صحيفة صباح التركية موعد تنحي بشار الأسد",
+    "updated_at": "2020-09-25 15:25:12",
+    "url_path": "/factcheck/2020/07/05/لم-تكشف-صحيفة-صباح-التركية-موعد-تنحي-بشار-الأسد"
+}

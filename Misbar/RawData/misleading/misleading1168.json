@@ -1,0 +1,120 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 20919,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "يظهر في المقطع تساقط البَرَد وأغصان الأشجار (يوتيوب)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">مطر من حجارة في رومانيا.</span></p>\r\n",
+    "country": "RO",
+    "created_at": "2020-05-09 14:25:48",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 19,
+    "id": "5eb6933cdb29165550446164",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من مقطع الفيديو المتداول ووجد أنه مضلل، لأنه يُظهر تساقط البَرَد وأغصان الشجر في رومانيا وليس الحجارة. إذ نُشر المقطع الأصلي ضمن </span><a href=\"https://stirileprotv.ro/stiri/actualitate/prapad-in-salaj-dupa-cod-rosu-de-tornada-grindina-a-ranit-oameni-si-a-spart-parbrize.html\" style=\"text-decoration:none\"><span style=\"color:#1155cc\"><u>تقرير مصوّر</u></span></a><span style=\"color:#000000\"> لقناة Stirile ProTV الرومانية، قيل فيه إنّ سيارات العديد من المواطنين في عدّة مناطق في رومانيا تعرّضت لأضرار مختلفة نتيجة تساقط البَرَد ذو الحجم كبير ما أدّى إلى تساقط أغصان الأشجار أيضاً.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/FzKq8wH3N2k\" width=\"560\"></iframe></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "رومانيا",
+        "أمطار",
+        "مطر من حجارة"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تناقلت صفحات على مواقع التواصل الاجتماعي مقطع فيديو ادّعت أنه يُظهر تساقط أمطار من حجارة في رومانيا. حظي المقطع بملايين المشاهدات.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><iframe frameborder=\"0\" height=\"427\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F9oranalkarimwa9isasalanbiyaa%2Fvideos%2F947110695622318%2F&amp;show_text=1&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><iframe frameborder=\"0\" height=\"433\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F100006813437218%2Fvideos%2F2571016956468727%2F&amp;show_text=1&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 265.5,
+        "path": "articles/1589023547غلاف.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 1045,
+        "watermark_path": "articles/watermark-1589023547غلاف.jpg",
+        "width": 752
+    },
+    "post_date": "2020-05-09T14:19:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/297808856994312/videos/947988315539855/",
+            "name": "القرآن الكريم وقصص الأنبياء",
+            "path": "published/0_1589023546_القران الكريم.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100006813437218/videos/2571016956468727/",
+            "name": "أمين محمود",
+            "path": "published/1_1589023546_أمين محمود.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/297808856994312/videos/947988315539855/",
+            "name": "البيت السوري في ألمانيا",
+            "path": "published/2_1589023546_البيت السوري.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/hatmalanbea/videos/596466960864531/",
+            "name": "خاتم الأنبياء",
+            "path": "published/3_1589023546_خاتم الأنبياء.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/294190041170121/videos/457007108410335/",
+            "name": "حسينية الحسن المجتبى",
+            "path": "published/4_1589023546_حسينية.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ahmed.anoody.9/videos/2497171207219677/",
+            "name": "أحمد عنودي",
+            "path": "published/5_1589023546_أحمد عنودي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/rulz.rebecca/videos/832136417244645/",
+            "name": "محمد نوري عبد",
+            "path": "published/6_1589023547_محمد نوري.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/almontada1986/videos/363511851021791/",
+            "name": "مسلم أنا",
+            "path": "published/7_1589023547_مسلم أنا.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100006670420488/videos/2437224839843173/",
+            "name": "محمد عبد الهادي",
+            "path": "published/8_1589023547_محمد عبد الهادي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100011275039238/videos/854602268258933/",
+            "name": "أحمد عبد القادر",
+            "path": "published/9_1589023547_احمد عبد القادر.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://stirileprotv.ro/stiri/actualitate/prapad-in-salaj-dupa-cod-rosu-de-tornada-grindina-a-ranit-oameni-si-a-spart-parbrize.html",
+            "name": "Stirile ProTV",
+            "path": "sources/0_1589023547_stiril.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "يظهر في المقطع تساقط البَرَد وأغصان الأشجار",
+    "title": "لم تمطر حجارة في رومانيا",
+    "updated_at": "2020-09-25 19:38:50",
+    "url_path": "/factcheck/2020/05/09/لم-تمطر-حجارة-في-رومانيا"
+}

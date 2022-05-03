@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 12953,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": ".وصف المشاركون المكالمة بالمرعبة (Getty)",
+    "category": "News",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">شابٌ&nbsp; أميركي في الثانية والثلاثين من العمر، قتل والده السبعيني، حين كان يشارك الأخير في اجتماع&nbsp;عبر الفيديو بواسطة تطبيق زووم.</span></p>\r\n",
+    "country": "US",
+    "created_at": "2020-05-23 16:15:52",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ec92208db291666a33ea1c4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:black\">تحقّق &quot;مسبار&quot; من صدقية الخبر، ووجد أنَّه صحيح، فقد وأوضحت الصحف العالمية على لسان الشرطة أن المشاركين في الاجتماع الافتراضي اتصلوا بخدمات الطوارئ، بعدما رأوا ما حصل، ووصفوها بالمكالمة المرعبة، كما جاهدوا لطلب الرقم 911، بعدما رأوه يختفي عن الشاشة، ثم سمعوه يتنفس بصعوبة.</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:black\">وأضافت هذه الصحف أن توماس طعن والده حوالي 15 مرة واستخدم عدة سكاكين لأن الشفرات ظلت تنحني، كما أظهر تشريح الجثة أن الأب لديه عدة طعنات في ظهره ورقبته وجذعه، وعثرت الشرطة على سكاكين متعددة في مكان الحادث.</span></span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_5nuu6vcio.jpg\" style=\"height:606px; width:605px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/investigation_s4d5uer8q.jpg\" style=\"height:333px; width:605px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">تداولت صفحاتٌ&nbsp;إخبارية عربية أنَّ شاباً أميركياً في الثانية والثلاثين من العمر، قتل والده السبعيني، حين كان يشارك الأخير في اجتماع&nbsp;عبر الفيديو بواسطة تطبيق &quot;زوم&quot; الذي بلغت شهرته أقصاها خلال الحجر الصحي بعد انتشار&nbsp;فايروس كورونا المستجد (كوفيد_19).</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">واعتبرت المواقع أنها أول جريمة قتل خلال اجتماع عبر هذه المنصة التي غدت بديلاً عن الاجتماعات في الحياة الواقعية، مضيفة أن توماس سكالي باورز طعن والده دوايت باورز حتى الموت، في مدينة أميتيفيل في لونغ أيلاند.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_pa3xfhwda.jpg\" style=\"height:347px; width:392px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_43jz9zn7b.jpg\" style=\"height:582px; width:591px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_dy0rdnkxh.jpg\" style=\"height:551px; width:586px\" />&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_y3m7yapns.jpg\" style=\"height:621px; width:581px\" />&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 344,
+        "left": 4.296142578125,
+        "path": "articles/1590239751GettyImages-1211994722.jpg",
+        "top": 22.55712890625,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1590239751GettyImages-1211994722.jpg",
+        "width": 611
+    },
+    "post_date": "2020-05-23T14:22:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/aljarida/status/1263851979689938946",
+            "name": "الجريدة",
+            "path": "published/0_1590239750_الجريدة.jpg"
+        },
+        {
+            "link": "https://twitter.com/skynewsarabia/status/1263898326870745088",
+            "name": "سكاي نيوز",
+            "path": "published/1_1590239751_ييي.jpg"
+        },
+        {
+            "link": "https://twitter.com/alaraby_ar/status/1263922580806750209",
+            "name": "العربي الجديد",
+            "path": "published/2_1590239751_العربي الجديد.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Medi1Radio/posts/10160266272659199?__xts__[0]=68.ARCBLeivUEG31OBg9DHb9-AAHkM9XZos-lW3E-FviB3P-S2VyJtK7S6cBPlvmb1mW_q42oahsEvJnIy-jXZTECksCM6XDsIeTWC0RY0mlyFCsU6vo1fwgeh23-yB4xU9k6cFmCHEPjuQWjkN_9DxoIoZIksJmjCVvkCXzYD13yvRk6ytJUxfHsmmkRv_ye6NJ2UE47VaKtUKdKuDwtMcynrP4RCPWvAgIJ7FXAmdsptOfPCIOeFwhEhP9ErMMwmnCU-WXFRKd-o37wl6rpdCeuyj2kRAntOPdzelgs4K2951UXyvJB9fsqxnRz8VXoFrCndZOVTLXXOePQQjrlzW&__tn__=-R",
+            "name": "Medi1 Radio",
+            "path": "published/3_1590239751_سسس.jpg"
+        }
+    ],
+    "result": "true",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.bbc.com/news/world-us-canada-52767764",
+            "name": "BBC",
+            "path": "sources/0_1590239751_بيبي سي.jpg"
+        },
+        {
+            "link": "https://www.theguardian.com/us-news/2020/may/22/man-confesses-to-fatally-stabbing-his-father-on-zoom-video-conference-call",
+            "name": "The Guardian",
+            "path": "sources/1_1590239751_جارديان.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ابنٌ يطعن والده خلال اجتماع فيديو عبر تطبيق زووم",
+    "updated_at": "2020-09-25 17:39:17",
+    "url_path": "/factcheck/2020/05/23/ابن-يطعن-والده-خلال-اجتماع-فيديو-عبر-تطبيق-زوم"
+}

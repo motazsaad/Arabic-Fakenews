@@ -1,0 +1,151 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 255,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "تخرجت قريبتها فارتدت ملابسها وحملت شهادتها (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">السيدة يمينة دحمون تخرجت من جامعة مستغانم الجزائرية في السبعين من عمرها.</p>\r\n",
+    "country": "DZ",
+    "created_at": "2020-10-21 17:30:52",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 2,
+    "feedback_pos": 18,
+    "id": "5f90461ca63b8f066f1d9d55",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقق &quot;مسبار&quot; من الصورة المتداولة وتبين أنها مضللة، إذ أن الصورة للسيدة يمينة دحمون في مدينة سيدي بلعباس الجزائرية، لكنها لم تتخرج من الجامعة بعد أن تجاوزت السبعين عاماً، بل ارتدت لباس قريبة لها تخرجت من الجامعة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وتواصل &quot;مسبار&quot; مع <a href=\"https://www.facebook.com/meryam.feriel\" style=\"color:blue; text-decoration:underline\">مريم فريال</a>، صاحبة الشهادة الحقيقية، المتخرجة من&nbsp;كلية التكنولوجيا في جامعة جيلالي اليابس سيدي بلعباس، التي أوضحت أنها تخرجت&nbsp;يوم 20 سبتمبر/أيلول الفائت، وتزامن ذلك مع حفل خطبة ابنة عمتها، وكانت العائلة مجتمعة، فطلبت منها السيدة يمينة، أن تلتقط صورة&nbsp;بثياب التخرج.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">بعد ذلك نشر&nbsp;ابنها الأصغر الصورة للمزاح، وادعى أنها متحصلة على شهادة في الحقوق، فانتشرت الصورة في كامل الجزائر على أنها حقيقة. وأكدت مريم أن السيدة يمينة لم تدرس&nbsp;في الجامعة يوماً.&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات إخبارية وحسابات على مواقع التواصل الاجتماعي، حديثاً، صورة لسيدة جزائرية بلباس التخرج، زعموا أنها أنهت تعليمها الجامعي في كلية الحقوق في مستغانم، بعد أن بلغت سن السبعين. وأرفقت الصور بتعليق &quot;لا حدود عمرية للعلم&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"00.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_4htrp480m.jpg\" style=\"height:319px; width:605px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"1.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_hrgzu0ug0.jpg\" style=\"height:332px; width:604px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_bej5ivlff.jpg\" style=\"height:408px; width:603px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 253,
+        "left": 2.7640380859375,
+        "path": "articles/1603290651122038314_2903263173234599_1033760243176158322_o.jpg",
+        "top": 54.7109375,
+        "totalHeight": 423,
+        "totalWidth": 457,
+        "watermark_path": "articles/watermark-1603290651122038314_2903263173234599_1033760243176158322_o.jpg",
+        "width": 450
+    },
+    "post_date": "2020-10-21T15:07:00.000+03:00",
+    "published": [
+        {
+            "id": "5f90461af4253c4631167eea",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1507719796089735&id=397206527141073",
+            "name": "Universit&eacute; Dz",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5f90461acf354d6bda37134b",
+            "link": "https://www.facebook.com/elhidhabtv19/posts/179546817049465",
+            "name": "الهضاب",
+            "origin": "facebook",
+            "path": "sources/89cecaed4674eca945965fdb2e8e908be385a552.jpg"
+        },
+        {
+            "id": "5f90461adcb43d1c034305f5",
+            "link": "https://twitter.com/ouchaitmeriem/status/1318134094312706049",
+            "name": "Ouchait مريم بلعالية Meriem Belalia",
+            "origin": "twitter",
+            "path": "sources/a3427d3f2f423193c13f2d14d3197d507959bf39.jpg"
+        },
+        {
+            "id": "5f90461a28940e4060269535",
+            "link": "https://twitter.com/arabwomanmag/status/1318129576900481024",
+            "name": "Amal Alharithiأمل الحارثي",
+            "origin": "twitter",
+            "path": "sources/47af52cd3b538fc85418468320df30bcd995242f.jpg"
+        },
+        {
+            "id": "5f90461a149cac75a94712c3",
+            "link": "https://twitter.com/zgdtravel/status/1317922492628017152",
+            "name": "S@3id (Only Algerian)",
+            "origin": "twitter",
+            "path": "sources/a27e40afb43a43ab1b73c1aa851786294b3f0cf4.jpg"
+        },
+        {
+            "id": "5f90461ae6bdbc54ce7c5e15",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=197571848436834&id=108418167352203",
+            "name": "With medicine",
+            "origin": "facebook",
+            "path": "sources/d41b5641225c2c719800eee56d3ea73d439ca1c7.jpg"
+        },
+        {
+            "id": "5f90461ba79c7b05a70e78fd",
+            "link": "https://www.facebook.com/102416388310344/photos/a.102436581641658/111443407407642/",
+            "name": "صفحة الاستاذ خروبي تازي للرياضيات",
+            "origin": "facebook",
+            "path": "sources/34be33cb33d2769d63ec041186237a1c7963bfa2.jpg"
+        },
+        {
+            "id": "5f90461be0484912b60e1fb3",
+            "link": "https://www.facebook.com/photo?fbid=3605480772828957&set=gm.1071570839939665",
+            "name": "Abdelghani Arrache",
+            "origin": "facebook",
+            "path": "sources/d41b5641225c2c719800eee56d3ea73d439ca1c7.jpg"
+        },
+        {
+            "id": "5f90461b96907f2423026af4",
+            "link": "https://www.facebook.com/2154536814789247/photos/a.2209557955953799/2812322605677328/",
+            "name": "شوارع عين آزال نيوز",
+            "origin": "facebook",
+            "path": "sources/9186b8c7ae4b81ce284d6653ca13dfa76cd83737.jpg"
+        },
+        {
+            "id": "5f90461bc65c8b1e85643fea",
+            "link": "https://www.facebook.com/2179913848902872/photos/a.2180006768893580/2903263169901266/",
+            "name": "همسات أسماء",
+            "origin": "facebook",
+            "path": "sources/2990ca09eb62f0bc58192b1f13b6ea479c224e31.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f90461bc71c4f5bf8175799",
+            "link": "https://www.facebook.com/meryam.feriel",
+            "name": "Meryam Feriel",
+            "origin": "",
+            "path": "sources/76b5c74ff83d456eca712d55693f6032944693ed.jpg"
+        },
+        {
+            "id": "5f90461b2352b72db169cf65",
+            "link": "https://www.facebook.com/zakaria.abdou.52",
+            "name": "Maman Rafik Rafik",
+            "origin": "",
+            "path": "sources/4f2dcdfc102ce48eb792f6c86b6f029d46f8f63e.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه السيدة لم تتخرج من جامعة مستغانم الجزائرية بعد 70 عاماً",
+    "updated_at": "2020-10-21 17:51:40",
+    "url_path": "/factcheck/2020/10/21/هذه-السيدة-لم-تتخرج-من-جامعة-مستغانم-الجزائرية-بعد-70-عاما",
+    "was_notification_pushed": "true"
+}

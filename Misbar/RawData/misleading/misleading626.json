@@ -1,0 +1,109 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 10461,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "لم تنشر الجهات الأمنية صور المواطن التونسي (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">&quot;<span style=\"background-color:white\">منير مواطن تونسي من مدينة عين دراهم، يعثر على كنز روماني قيمته حوالي 7 مليارات، ويسلمه للجهات الامنية، فيحصل على شهادة مواطن صالح&quot;</span>.</p>\r\n",
+    "country": "TN",
+    "created_at": "2020-09-16 16:48:12",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5f62179c7a3c525b10136121",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصور المتداولة والادعاء المصاحب لها وتبين انه مضلل، إذ عثر <span style=\"background-color:white\">مواطن تونسي من محافظة القصرين على كنز روماني تقدر قيمته بحوالي7 مليار، يوم 13 فبراير/شباط الفائت. وأعلم الجهات الأمنية التي كرمته. ولم يعثر عليه بتاريخ 15 سبتمبر/أيلول الجاري في مدينة عين دراهم.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">ونشرت <a href=\"http://alchourouk.com/article/%D9%85%D9%88%D8%A7%D8%B7%D9%86-%D9%85%D9%86-%D8%A7%D9%84%D9%82%D8%B5%D8%B1%D9%8A%D9%86-%D9%8A%D8%B9%D8%AB%D8%B1-%D8%B9%D9%84%D9%89-%D9%83%D9%86%D8%B2-%D9%88%D9%8A%D8%B3%D9%84%D9%85%D9%87-%D9%84%D9%84%D8%A7%D9%85%D9%86-%D8%B5%25D\" style=\"color:blue; text-decoration:underline\">صحيفة الشروق المحلية</a> صورة التكريم، التي عمدت فيها الجهات الأمنية إلى إخفاء وجهه.</span></p>\r\n\r\n<p dir=\"RTL\"><span dir=\"LTR\"><span style=\"background-color:white\"><img alt=\"1.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_qs924dtpg.jpg\" style=\"height:249px; width:605px\" /></span></span><br />\r\n<span style=\"background-color:white\">كما أن الصورة&nbsp;المرافقة للخبر</span> <span style=\"background-color:white\">قديمة، وهي لكنز عثر عليه في روسيا عام 2011.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"background-color:white\"><img alt=\"55.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_a94ql3u7c.jpg\" style=\"height:547px; width:485px\" /></span></span></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات وحسابات على مواقع التواصل الاجتماعي، حديثاً، صوراً ادعت أنها لشاب تونسي عثر على كنز روماني بقيمة 7 مليار دينار ويسلمه للجهات الأمنية. ونشرتها بعض الصفحات على أنها لشاب سوري، ونسبته صفحات أخرى إلى مواطن مغربي.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"5.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_ca9qgiazb.jpg\" style=\"height:403px; width:499px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"000.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_6y3qabouy.jpg\" style=\"height:441px; width:503px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"7.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_td1z9q87t.jpg\" style=\"height:403px; width:502px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 326,
+        "left": 20.10528564453125,
+        "path": "articles/1600264092Two-hoards-for-two_1-460x345 (1).jpg",
+        "top": 24.746826171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-1600264092Two-hoards-for-two_1-460x345 (1).jpg",
+        "width": 579
+    },
+    "post_date": "2020-09-16T14:38:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/merome90/status/1305941380917800962",
+            "name": "منارررر",
+            "path": "published/0_1600264091_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/mohamed28190559/status/1305929392745574408",
+            "name": "محمد الأسواني",
+            "path": "published/1_1600264328_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/yaserfathy85/status/1306188880933269504",
+            "name": "yaser fathy",
+            "path": "published/2_1600264329_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/fcb.MFT/posts/1965601467072759",
+            "name": "Moroccan fighters troll +18",
+            "path": "published/3_1600264329_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/Damascusmarketsdealsandrates/posts/2671938053121586?comment_id=2671941486454576",
+            "name": "أسواق سورية",
+            "path": "published/4_1600264330_67819776_2303763929710849_8279055560511324160_o.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "http://alchourouk.com/article/%D9%85%D9%88%D8%A7%D8%B7%D9%86-%D9%85%D9%86-%D8%A7%D9%84%D9%82%D8%B5%D8%B1%D9%8A%D9%86-%D9%8A%D8%B9%D8%AB%D8%B1-%D8%B9%D9%84%D9%89-%D9%83%D9%86%D8%B2-%D9%88%D9%8A%D8%B3%D9%84%D9%85%D9%87-%D9%84%D9%84%D8%A7%D9%85%D9%86-%D8%B5%D9%88%D8%B1",
+            "name": "الشروق التونسية",
+            "path": "sources/0_1600264091_téléchargement.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "http://klads.org/dva-klada-na-dvoix/",
+            "name": "klads",
+            "path": "sources/1_1600264092_1606256_369616316513540_1846592660_o.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه ليست صور تونسي عثر على كنز روماني وسلمه للأمن",
+    "updated_at": "2020-09-25 22:16:00",
+    "url_path": "/factcheck/2020/09/16/هذه-ليست-صور-تونسي-عثر-على-كنز-روماني-وسلمه-للأمن",
+    "was_notification_pushed": "true"
+}

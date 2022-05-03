@@ -1,0 +1,109 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 905,
+    "author": {
+        "fullname": "محمد الخالدي",
+        "id": "5ef9dcff163be306aa5d2826",
+        "photo": {
+            "name": "1593433343_48252779_2179011148784786_3755534693705973760_o.jpg",
+            "path": "authors/1593433343_48252779_2179011148784786_3755534693705973760_o.jpg"
+        }
+    },
+    "caption": "الحركتان فلسطينيتان (حكومي)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صور لاجتماع سري بين حركة حماس والحوثيين لاستهداف السعودية.</p>\r\n",
+    "country": "PS",
+    "created_at": "2020-09-16 14:39:35",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f61f977c176af40e00f96b8",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الادعاء ووجده مُضللاً، إذ تبين أنّ الصور تعود للقاءٍ عُقد بتاريخ 13 سبتمبر/أيلول الجاري، استقبل فيه رئيس المكتب السياسي لحركة حماس إسماعيل هنية، كل من حركتي أنصار الله الفلسطينية وليس اليمنية، والحركة الإسلامية المجاهدة في العاصمة اللبنانية بيروت، وكلتا الحركتين فلسطينيتين متواجدتين في مخيمات لبنان، حيث كان الاجتماع ضمن سلسلة اللقاءات التي عقدتها حركة حماس عقب اجتماع الأمناء العامين للفصائل الفلسطينية، من أجل توحيد الجهود ضد الاحتلال الإسرائيلي وتعزيز الاستقرار داخل المخيمات الفلسطينية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_gn8yekwtc.jpg\" style=\"height:287px; width:535px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_j7jhcajse.jpg\" style=\"height:342px; width:547px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_eu09lt7u6.jpg\" style=\"height:248px; width:534px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_dxewwv11n.jpg\" style=\"height:120px; width:540px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول حسابات وصفحات على مواقع التواصل الاجتماعي، إضافة إلى مواقع إخبارية، منذ 13 سبتمبر/ أيلول الجاري، صوراً ادعت أنّها لاجتماعٍ سري بين حركة حماس، برئاسة إسماعيل هنية، مع تنظيم الحوثي، في العاصمة اللبنانية بيروت. وذلك لاستهداف المملكة العربية السعودية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_dazibe1u3.jpg\" style=\"height:474px; width:539px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_wdmsra3w1.jpg\" style=\"height:577px; width:538px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 356,
+        "left": 1.48333740234375,
+        "path": "articles/1600256374hamas.jpg",
+        "top": 25.7333984375,
+        "totalHeight": 423,
+        "totalWidth": 635,
+        "watermark_path": "articles/watermark-1600256374hamas.jpg",
+        "width": 632
+    },
+    "post_date": "2020-09-16T14:30:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/s_hm2030/status/1305477373043838976",
+            "name": "الردع السعودي 2030  ",
+            "path": "published/0_1600256502_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/HE_Namiq/status/1305341135875907585",
+            "name": "معالي الوزير نامق ",
+            "path": "published/1_1600256503_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/BelalAlsabbah/status/1305236069433176065",
+            "name": "بلال الصباح ",
+            "path": "published/2_1600256503_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/monther72/status/1305249858228563969",
+            "name": "منذر آل الشيخ مبارك ",
+            "path": "published/3_1600256618_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/9977822/status/1305243623609569280",
+            "name": " نستاهلك ",
+            "path": "published/4_1600256618_twitter.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.palinfo.com/280813",
+            "name": " المركز الفلسطيني للإعلام ",
+            "path": "sources/0_1600256374_pic-hamas.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "http://palcamps.net/ar/camp/68/9/%D8%A7%D9%84%D9%81%D8%B5%D8%A7%D8%A6%D9%84-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D8%AE%D9%8A%D9%85",
+            "name": " موسوعة المخيمات الفلسطينية  ",
+            "path": "sources/1_1600256374_encyclopedia-hamas.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصور ليست لاجتماع بين حماس والحوثيين",
+    "updated_at": "2020-09-25 15:36:16",
+    "url_path": "/factcheck/2020/09/16/هذه-الصور-ليست-لاجتماع-بين-حماس-والحوثيين",
+    "was_notification_pushed": "true"
+}

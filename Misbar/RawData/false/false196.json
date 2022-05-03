@@ -1,0 +1,124 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 305,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "نفى اللاعب الخبر (فيسبوك)",
+    "category": "Sports",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">وفاة المهاجم السابق للمنتخب التونسي لكرة القدم سيلفا دوس سانتوس.</p>\r\n",
+    "country": "TN",
+    "created_at": "2020-10-28 22:24:15",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5f99c55f0046d6079d6c03e0",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الخبر المتداول وتبين أنه زائف، إذ نفى اللاعب السابق للمنتخب الدونسي سيلفا دوس سانتوس خبر وفاته في مقطع فيديو نشره على مواقع التواصل الاجتماعي. وأكد أنه بصحة جيدة ولم يكن طريح الفراش كما نشرت صفحات إخبارية على مواقع التواصل الاجتماعي.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/UlCLh_NXdmA\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\">تتداول صفحات وحسابات على موقع فيسبوك، حديثاً، خبراً يدّعي وفاة المهاجم السابق للمنتخب التونسي لكرة القدم، من أصل برازيلي، سيلفا دوس سانتوس بعد مدة قضاها طريح الفراش.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_tudyu4kyd.jpg\" style=\"height:334px; width:605px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img alt=\"0.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_in5l313qj.jpg\" style=\"height:321px; width:605px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1603913444santos-1.jpg",
+        "watermark_path": "articles/watermark-1603913444santos-1.jpg"
+    },
+    "post_date": "2020-10-28T19:37:00.000+03:00",
+    "published": [
+        {
+            "id": "5f99c55e23feef0dae735e0d",
+            "link": "https://www.facebook.com/%D8%A7%D9%84%D8%AA%D8%B1%D8%AC%D9%8A-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A-%D8%A7%D9%84%D8%AA%D9%88%D9%86%D8%B3%D9%8A-%D9%83%D8%B1%D8%A9-%D9%82%D8%AF%D9%85-%D9%8A%D8%AF-%D9%83%D8%B1%D8%A9-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-1686278524934680/photos/a.1701046370124562/2816791898549998",
+            "name": "الترجي الرياضي التونسي كرة قدم- يد- كرة طائرة",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5f99c55eb295784768181468",
+            "link": "https://www.facebook.com/Marwen.Clubiste1920/photos/a.228620223924124/3385025418283573/",
+            "name": "Marwen Clubiste",
+            "origin": "facebook",
+            "path": "sources/29458730e9bc2437cc0ad7188cfe905aa5a87dc7.jpg"
+        },
+        {
+            "id": "5f99c55e27587e4655204644",
+            "link": "https://www.facebook.com/communaull/photos/a.136214076986735/720872831854187/",
+            "name": "رجال وبنات بوحجلة",
+            "origin": "facebook",
+            "path": "sources/71db4c40fd490376ad0e06c02d7f97de629f3ed7.jpg"
+        },
+        {
+            "id": "5f99c55fe94f067eee6017a8",
+            "link": "https://www.facebook.com/303002963625845/photos/a.303505536908921/736398636952940/",
+            "name": "اتلتيكو مدريد بالعربية",
+            "origin": "facebook",
+            "path": "sources/3da3a716e869ee6433c91736f31c1dbf5809cbe5.jpg"
+        },
+        {
+            "id": "5f99c55f476e2042cc68e4e5",
+            "link": "https://www.facebook.com/Cayadawlaa/photos/a.606005982832905/2973428926090587/",
+            "name": "Club Africain news",
+            "origin": "facebook",
+            "path": "sources/9f4db78c2a6312385267cecc9c7bdba405120124.jpg"
+        },
+        {
+            "id": "5f99c55f137d5f08f60a39ce",
+            "link": "https://www.facebook.com/Gouvernorat.de.Mateur/photos/gm.2761050150825096/3644817055563706/",
+            "name": "ماطر",
+            "origin": "facebook",
+            "path": "sources/2314b480c944953c8027f36598fb663b8eab2f4c.jpg"
+        },
+        {
+            "id": "5f99c55f3ffd0f10b32de878",
+            "link": "https://www.facebook.com/108243164387192/photos/a.108257651052410/117203530157822/",
+            "name": "M'y KingdooM",
+            "origin": "facebook",
+            "path": "sources/e4499c74cddc275c861c51c2bbb93bb02ca29b40.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f8eb18ba3818a4eb81ad3d2",
+            "link": "https://www.youtube.com/watch?v=UlCLh_NXdmA",
+            "name": "قناة يوتيوب",
+            "origin": "",
+            "path": "published/7_1603128187_72cba5bc67b31d9d753cf43c35e93c59a1b0f98d.jpg"
+        },
+        {
+            "id": "5f919b599c400c18d97f98b1",
+            "link": "https://www.mosaiquefm.net/ar/%D8%AA%D9%88%D9%86%D8%B3-%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9-%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/813320/%D9%88%D9%81%D8%A7%D8%A9-%D8%B3%D9%8A%D9%84%D9%81%D8%A7-%D8%AF%D9%88%D8%B3-%D8%B3%D8%A7%D9%86%D8%AA%D9%88%D8%B3-%D8%A5%D8%B4%D8%A7%D8%B9%D8%A9",
+            "name": "موزاييك أف أم",
+            "origin": "",
+            "path": "sources/1_1591112711_logo-mosaique-fm_0.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لا صحة لخبر وفاة اللاعب التونسي السابق دوس سانتوس",
+    "updated_at": "2020-11-01 19:42:48",
+    "url_path": "/factcheck/2020/10/28/لا-صحة-لخبر-وفاة-الاعب-التونسي-السابق-دوس-سانتوس",
+    "was_notification_pushed": "true"
+}

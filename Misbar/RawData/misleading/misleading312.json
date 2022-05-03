@@ -1,0 +1,127 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 214,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "الصور الأصلية لشلالات نياجرا (يوتيوب)",
+    "category": "Travel",
+    "claim": "<p dir=\"rtl\">صورة لشلالات ملوّنة في نيجيريا.</p>\r\n",
+    "country": "NG",
+    "created_at": "2020-11-18 18:45:31",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 6,
+    "id": "5fb5419b70e59a6d6313944f",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;<a href=\"https://misbar.com/\" style=\"text-decoration:none\" target=\"_blank\"><u>مسبار</u></a>&quot; من الادعاء المتداول ووجد أنه مضلل، لأن <a href=\"https://www.niagaraparks.com/events/event/falls-illumination\" style=\"text-decoration:none\" target=\"_blank\"><u>الصور الأصلية</u></a> لشلالات نياغرا الواقعة في كندا، إذ يعمل القائمون على الشلالات على إضاءتها كلّ مساء بالعديد من الألوان، وذلك احتفاء بكلّ أشكال الطبيعة.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">تقع شلالات نياغرا على نهر نياغرا الذي يصل بين ولاية أونتاريو في كندا وولاية نيويورك في أميركا.</p>\r\n\r\n<p dir=\"rtl\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/SlPuWkTu5XE\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"rtl\">اقرأ/ي أيضاً:</p>\r\n\r\n<p dir=\"rtl\"><a href=\"https://misbar.com/factcheck/2020/09/20/%D9%87%D8%B0%D9%87-%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9-%D9%81%D9%8A-%D9%86%D9%8A%D8%AC%D9%8A%D8%B1%D9%8A%D8%A7-%D9%88%D9%84%D9%8A%D8%B3%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86\" target=\"_blank\">هذه الصورة في نيجيريا وليست في السودان</a></p>\r\n\r\n<p dir=\"rtl\"><a href=\"https://misbar.com/factcheck/2020/05/14/%D9%85%D8%AC%D8%B3%D9%85-%D9%84%D9%84%D9%83%D8%B9%D8%A8%D8%A9-%D9%81%D9%8A-%D9%86%D9%8A%D8%AC%D9%8A%D8%B1%D9%8A%D8%A7-%D8%B5%D9%88%D8%B1%D8%A9-%D9%85%D8%B6%D9%84%D9%84%D8%A9\" target=\"_blank\">مجسّم للكعبة في نيجيريا.. خبر مضلل</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تتناقل صفحات وحسابات على مواقع التواصل الاجتماعي، حديثاً، صوراً تدّعي أنها لشلالات ملوّنة في نيجيريا.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_fymmjedtc.jpg\" style=\"height:658px; width:540px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_y7h7dbpue.jpg\" style=\"height:691px; width:536px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0.5,
+        "path": "articles/1605714331Screenshot 2020-11-18 163922.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 753,
+        "watermark_path": "articles/watermark-1605714331Screenshot 2020-11-18 163922.jpg",
+        "width": 752
+    },
+    "post_date": "2020-11-18T17:41:00.000+03:00",
+    "published": [
+        {
+            "id": "5fb538624773c6296e20c94d",
+            "link": "https://www.facebook.com/Ro7y.Infinity/posts/3347176395351835",
+            "name": "Ro7y",
+            "origin": "facebook",
+            "path": "sources/a21eaa974dc28b1364d5c17eec1839d8e5cc1a96.jpg"
+        },
+        {
+            "id": "5fa544e11022c052f840daa0",
+            "link": "https://www.facebook.com/groups/600745827225304/permalink/748068612493024/",
+            "name": "Nature Lovers🌺🌼🌸",
+            "origin": "facebook",
+            "path": "sources/5bfe4505f0d897cf8eadb4d078ea86f5bd10e8d5.jpg"
+        },
+        {
+            "id": "5fb5386252aae2273c600f64",
+            "link": "https://www.facebook.com/MTSH4/posts/2351695925137730",
+            "name": "As White As Snow",
+            "origin": "facebook",
+            "path": "sources/0fec6ca81db31b3c7637766ef836f6a80a1a3001.jpg"
+        },
+        {
+            "id": "5fb5386219795f77fd5765a0",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=146501807133327&id=101795218270653",
+            "name": "منوعات",
+            "origin": "facebook",
+            "path": "sources/85d0076350e1f699330fa4c516d0fde00c93612a.jpg"
+        },
+        {
+            "id": "5fb538621c910913230ce30b",
+            "link": "https://www.facebook.com/sinece.amel/posts/3265704026810963",
+            "name": "احاسيس مرهفه",
+            "origin": "facebook",
+            "path": "sources/27443609aca3f713ebf75f1bad9f9e64a16707f2.jpg"
+        },
+        {
+            "id": "5fb538fb1c910913230ce30c",
+            "link": "https://twitter.com/alhayi3/status/1325712509953773568",
+            "name": "alhayi",
+            "origin": "twitter",
+            "path": "sources/60ec548659172e504bff328b866c53560082781a.jpg"
+        },
+        {
+            "id": "5fb538fb520c970e0f6a6fd9",
+            "link": "https://twitter.com/azizalmhaid/status/310869299562692609",
+            "name": "عبدالعزيز أبوالليف🎼",
+            "origin": "twitter",
+            "path": "sources/4b735e6e950b877474c52447a2fd9a7378d52f1e.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fb536aa6f2b3d250d7b25e1",
+            "link": "https://www.niagaraparks.com/events/event/falls-illumination",
+            "name": "www.niagaraparks.com",
+            "origin": "",
+            "path": "sources/66b04a2d8eb2f409c08dd1dd9dc637b22e2403c1.jpg"
+        },
+        {
+            "id": "5f8edfb4148b827f7d192205",
+            "link": "https://youtu.be/SlPuWkTu5XE",
+            "name": "قناة يوتيوب",
+            "origin": "",
+            "path": "sources/f4e473f70061267e3fbe3df8d9498087e3cf99aa.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صورة لشلالات نياغرا وليست شلالات في نيجيريا",
+    "updated_at": "2020-11-18 18:45:31",
+    "url_path": "/factcheck/2020/11/18/صورة-لشلالات-نياغرا-وليست-شلالات-في-نيجيريا",
+    "was_notification_pushed": false
+}

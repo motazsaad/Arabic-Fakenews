@@ -1,0 +1,84 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2021,
+    "author": {
+        "fullname": "المهند أبو سيف",
+        "id": "5e26f269d4a2296bed5724c3",
+        "photo": {
+            "path": "authors/1592828305_WhatsApp Image 2020-03-31 at 1.01.20 PM.jpg"
+        }
+    },
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">انتشرت صور لقصف &quot;إسرائيلي&quot; على قطاع غزة بتاريخ 15 يناير / كانون الثاني 2020.</p>\r\n",
+    "country": "PS",
+    "created_at": "2020-01-21 17:42:44",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 0,
+    "id": "5e270de4d4a22933c37c71b3",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تعرّض قطاع غزة بالفعل لقصف &quot;إسرائيلي&quot; ليلة الأربعاء، 15 يناير / كانون الثاني 2020، إلا أن الصور المرفقة في الأخبار غير صحيحة، إذ تحقّق &quot;مسبار&quot; من مصدر الصور المستخدمة، وتبيّن أنها نُشرت في عام 2019 لقصف &quot;إسرائيلي&quot; استهدف القطاع في حينها، وتعود تلك الصور لوكالة رويترز ووكالة التصوير الفلسطينية <strong><span dir=\"LTR\" lang=\"EN-GB\">APA</span></strong>&shy;&shy;&shy;&shy;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img id=\"Picture_x0020_12\" src=\"https://images-prod.misbar.com/articlebody/investigation_b295617c8036095d93c931d198ecf5a6.jpg\" style=\"height:354pt; width:6in\" /> </span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\" lang=\"AR-JO\"><img alt=\"A sunset over a fire\r\n\r\nDescription automatically generated\" id=\"Picture_x0020_13\" src=\"https://images-prod.misbar.com/articlebody/investigation_952cbe8e61edf6d4fb76920cc12cc8ce.jpg\" style=\"height:339pt; width:6in\" /> </span></strong></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "غزة",
+        "فلسطين",
+        "إسرائيل",
+        "قصف"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">انتشرت خلال الأسبوع الماضي صور ادّعت وسائل إعلامية وحسابات على وسائل التواصل الاجتماعي، أنها للقصف &quot;الإسرائيلي&quot; الأخير على قطاع غزة يوم الأربعاء 15 يناير/ كانون الثاني 2020. وقامت تلك المنصّات والحسابات بنشر صور تظهر تعرّض أحد مباني القطاع للقصف.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\" lang=\"AR-JO\"><img alt=\"A picture containing monitor, screenshot\r\n\r\nDescription automatically generated\" id=\"Picture_x0020_4\" src=\"https://images-prod.misbar.com/articlebody/origin_76886214629dbb51915e764add9b7b73.jpg\" style=\"height:385.5pt; width:357.75pt\" /> </span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\" lang=\"AR-JO\"><img alt=\"A close up of a fire\r\n\r\nDescription automatically generated\" id=\"Picture_x0020_9\" src=\"https://images-prod.misbar.com/articlebody/origin_20f129d19fd71b7fa88c9daf3e5c8c61.jpg\" style=\"height:367.5pt; width:6in\" /> </span></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 370,
+        "left": 10.54998779296875,
+        "path": "articles/1579617764GettyImages-محمود حمس.jpg",
+        "top": 41.083343505859375,
+        "totalHeight": 423,
+        "totalWidth": 674,
+        "width": 657
+    },
+    "post_date": "2020-01-22T04:33:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.khaberni.com/news/%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D9%8A%D9%82%D8%B5%D9%81-%D8%B9%D8%AF%D8%A9-%D8%A3%D9%87%D8%AF%D8%A7%D9%81-%D9%81%D9%8A-%D8%BA%D8%B2%D8%A9-326645",
+            "name": "خبرني",
+            "path": "published/0_1579617764_خبرني.jpg"
+        },
+        {
+            "link": "https://twitter.com/GNNANOW/status/1217519619625320448",
+            "name": "غزة الآن",
+            "path": "published/1_1579617764_Twitter-logo.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.reuters.com/news/picture/israel-hamas-clash-over-gaza-then-truce-idUSKCN1R61UIv",
+            "name": "رويترز",
+            "path": "sources/0_1579617764_Reuters-logo.jpg"
+        },
+        {
+            "link": "https://www.middleeastmonitor.com/20190325-israel-strikes-gaza/#jp-carousel-335141",
+            "name": "وكالة التصوير الفلسطينية APA",
+            "path": "sources/1_1579617764_APA Images.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "حقيقة صور قصف غزة المنتشرة على مواقع التواصل الاجتماعي",
+    "updated_at": "2020-09-25 20:58:00",
+    "url_path": "/factcheck/2020/01/21/حقيقة-صور-قصف-غزة-المنتشرة-على-مواقع-التواصل-الاجتماعي"
+}

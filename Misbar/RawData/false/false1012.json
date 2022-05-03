@@ -1,0 +1,91 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 377,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">فيديو يُظهر رئيس أكوادوري سابق يُدعى &quot;خوسيه&quot; ينطق الشهادتين معلناً إسلامه.</p>\r\n",
+    "country": "CO",
+    "created_at": "2019-12-08 16:35:09",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5decfc0d8d7bd90bc27db0d8",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">في الحقيقة الرّجل الذي يظهر في الفيديو ليس رئيساً سابقاً للأكوادور. فآخر رئيس للأكوادور حمل اسم &quot;خوسيه&quot;، هو خوسيه ماريا فيلاسكو إيبارا، الرئيس الرابع والعشرين للأكوادور والذي توفي عام 1979.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">ووجد &quot;مسبار&quot; أن أقدم تاريخ لنشر مقطع الفيديو يعود إلى شهر أبريل/ نيسان 2016، لكنّه جاء بعنوان &quot;رجل ينطق الشهادة ويقرأ الفاتحة ويغلبه البكاء&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وتنتشر بشكلٍ متكرر على وسائل التواصل الاجتماعي شائعاتٌ عن اعتناق مشاهير للإسلام، ليس أولهم مدير شركة مايكروسوفت بيل غيتس ولا آخرهم الممثل الصيني جاكي شان.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_9b1aebd8c82a2a79278440b5aa7fd30f.jpg\" style=\"height:173px; width:633px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداول عددٌ من روّاد موقعي التواصل الاجتماعي فيسبوك وتويتر، مقطع فيديو ادّعوا أنّه يصوّر رئيس الأكوادور السابق &quot;خوسيه&quot;، وهو ينطق الشهادتين معتنقاً الإسلام. ويظهر في الفيديو الرئيس الأكوادوري المزعوم وهو يُجهش بالبكاء أثناء تلاوته سورة الفاتحة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_fc13eeb8ee6ebd428019d1613fa38b5c.jpg\" style=\"height:337px; width:598px\" /></span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_e249e04a1e7a28db871a2c8ec472ee11.jpg\" style=\"height:372px; width:316px\" /></span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_afaa5dc68b3ba4281405abe5d0e8d60c.jpg\" style=\"height:330px; width:561px\" /></span></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 342,
+        "left": 26.0074462890625,
+        "path": "articles/1575812108GettyImages-1166275462.jpg",
+        "top": 60.59794616699219,
+        "totalHeight": 423,
+        "totalWidth": 635,
+        "width": 608
+    },
+    "post_date": "2019-10-01T16:28:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/281840818526851/videos/1369851139725808/?v=1369851139725808",
+            "name": "رخ لا ",
+            "path": "published/0_1575812108_رخ لا لوغو.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=CDydJC2EE_w",
+            "name": "Sky press",
+            "path": "published/1_1575812108_Sky press- logo.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=yHmUUOdb3Ro",
+            "name": "قناة الشيخ النميري الرسمية",
+            "path": "published/2_1575812108_قناة الشيخ النميري الرسمية-لوغو.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=rHwVI3INYkY&t=2s",
+            "name": "قناة عبد الله الجباري",
+            "path": "published/3_1575812108_قناة عبد الله الجباري-لوغو.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://en.wikipedia.org/wiki/List_of_presidents_of_Ecuador",
+            "name": "Wikipedia",
+            "path": "sources/0_1575812108_Wikipedia-logo.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=3w_4lG-9Yyg",
+            "name": "الفيديو الأصلي",
+            "path": "sources/1_1575812108_أبو عبد الله العجرمي-لوغو.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل اعتنق رئيس الأكوادور الإسلام؟",
+    "updated_at": "2020-09-25 21:29:54",
+    "url_path": "/factcheck/2019/12/08/هل-اعتنق-رئيس-الأكوادور-الإسلام"
+}

@@ -1,0 +1,147 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 146,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "الصور من حرائق قديمة (تويتر)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صور تظهر حرائق في مناطق سورية.</p>\r\n",
+    "country": "",
+    "created_at": "2020-10-12 20:57:24",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 6,
+    "id": "5f849904ec65d01767568b34",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصور المتداول وتبين أنها مضللة وليست جميعها لحرائق سورية الأخيرة. إذ تعود الصورة الأولى لرجل إطفاء أثناء محاولة احتواء حريق جبل جوسبرز في منطقة هاوكيسبيري، بالقرب من ضواحي سيدني الأسترالية في عام 2019.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"77.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_u9swb7h22.jpg\" style=\"height:524px; width:512px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وتعود الصورة الثانية لرجل إطفاء خلال&nbsp;حرائق غابات في ولاية فكتوريا الأسترالية عام 2009، التي أدت إلى تدمير آلاف المنازل وسقوط قتلى وجرحى، ما دفع الإعلام المحلي إلى وصفه بـ&quot;السبت الأسود<span dir=\"LTR\">&quot;.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:black\"><img alt=\"7.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_f4jgexv1b.jpg\" style=\"height:395px; width:605px\" /></span></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">أما الصورة الثالثة، وجد &quot;مسبار&quot; أنها منشورة منذ مارس/آذار من عام 2019 في وسائل إعلام روسية حول حرائق الغابات في إقليم أوكروغ الذاتي، نقلاً عن موقع <a href=\"https://pixabay.com/fr/photos/les-feux-de-for%C3%AAt-feu-enfer-2930096/#comments\" style=\"color:blue; text-decoration:underline\">Pixabay</a>.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"777.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_niaa27og6.jpg\" style=\"height:496px; width:605px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات إخبارية وحسابات على موقعي فيسبوك وتويتر، منذ 9 أكتوبر/تشرين الأول الجاري، صوراً ادعت أنها لحرائق سورية الأخيرة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"00.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_vitp9c5ul.jpg\" style=\"height:391px; width:601px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_6ezamvuxz.jpg\" style=\"height:514px; width:542px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"11.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_4vk0lo98l.jpg\" style=\"height:417px; width:602px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 329,
+        "left": 19.10528564453125,
+        "path": "articles/160252544399.jpg",
+        "top": 8.746826171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-160252544399.jpg",
+        "width": 585
+    },
+    "post_date": "2020-10-12T18:41:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/halanot7ala/status/1314699294725865477",
+            "name": "hala",
+            "origin": "twitter",
+            "path": "published/0_1602525442_b01ce38206be43c5b825d8efed4c4df8f05f59ab.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/moicestriwa/status/1315031765308891138",
+            "name": "Riri :)",
+            "origin": "twitter",
+            "path": "published/1_1602525442_8567fecd2ebb5f18d82ffa256a4774a47843acf9.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/skinnysel/status/1314892838921015297",
+            "name": "emrah 💍 (fan account)",
+            "origin": "twitter",
+            "path": "published/2_1602525443_9e23d9d5248dcbfafc4bda83a33fbc5e5a4599fe.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/LadyVelvet_HFQ/status/1314946667536416771",
+            "name": "Hend F Q",
+            "origin": "twitter",
+            "path": "published/3_1602525443_bb91d0d3cd2a1a475d8a4401439f404bea2e030f.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/dylsdob/status/1314664034524946433",
+            "name": "raghad",
+            "origin": "twitter",
+            "path": "published/4_1602525443_563d8cbd7e42bef5107af5cf17b39f82a541175d.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/spookysofian/status/1314848609825968128",
+            "name": "sofian!",
+            "origin": "twitter",
+            "path": "published/5_1602525443_8bfc9f7863163ea5047398bb63e809897d9ee3d5.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/CngzCsknFan/status/1314976833377570818",
+            "name": "Cengiz Coşkun",
+            "origin": "twitter",
+            "path": "published/6_1602525443_ef8bd583e332169db1a6dd3446c58b457d1e2738.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/alrahalet/posts/201816901321342",
+            "name": "Ro7- Soul 1",
+            "origin": "facebook",
+            "path": "published/7_1602525443_701a1bac283b201aee1ede684444a0a94dbd2385.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.theguardian.com/australia-news/2019/nov/16/australian-bushfires-firefighters-struggle-to-contain-hawkesbury-blaze-as-catastrophic-conditions-forecast-in-wa",
+            "name": "The guardian",
+            "path": "sources/0_1602525443_ecf4fd50ca7feee598dc018a825c49d5b363c0cf.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.bordermail.com.au/story/5882842/how-black-saturday-changed-state-forever/",
+            "name": "The Border Mail",
+            "path": "sources/1_1602525443_a7137ee5549f783604e9027c50902d6b59f926a0.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.bel.kp.ru/online/news/3549525/",
+            "name": "Bel.kp",
+            "path": "sources/2_1602525443_5e5163273f762a9d0a5651a3af82401327810d4d.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://pixabay.com/fr/photos/les-feux-de-for%C3%AAt-feu-enfer-2930096/",
+            "name": "pixabay",
+            "path": "sources/3_1602525443_logo_square.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصور ليست من الحرائق التي التهمت مناطق سورية",
+    "updated_at": "2020-10-12 22:14:44",
+    "url_path": "/factcheck/2020/10/12/هذه-الصور-ليست-من-الحرائق-التي-التهمت-مناطق-سورية",
+    "was_notification_pushed": "true"
+}

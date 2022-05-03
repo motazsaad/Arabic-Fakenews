@@ -1,0 +1,104 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 2,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 25517,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "مقطع الفيديو نشر عام 2018 (يوتيوب)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">في نقابة المثليين في تركيا تم عقد قران يالمظ شركس عضو حزب العدالة والتنمية الحاكم في تركيا، على قوطاي يالمظ. وحضر الحفل نيابة عن أردوغان علي حكمت المتحدث باسم العدالة والتنمية التركي.</span></p>\r\n",
+    "country": "TR",
+    "created_at": "2020-07-06 16:19:10",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5f0324ce163be32c54485763",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من المقطع المتداول وتبين أنّه مضلل، إذ نُشر عام 2018 على أنّه لزواج مثليين في لبنان، وليس تركيا. ووجد &quot;مسبار&quot; أن من بينمها شخص لبناني الجنسية وابن <a href=\"https://www.farfeshplus.com/Display.asp?catID=118&amp;mainCatID=117&amp;sID=216508\" style=\"color:#0563c1; text-decoration:underline\">محامي</a> لبناني معروف وحفيد لوزير سابق، والآخر برازيلي الجنسية، حسب موقع فرفش بلس.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">والجدير بالذكر أن المتحدث باسم <a href=\"https://www.trtarabi.com/news/%D8%B9%D9%85%D8%B1-%D8%AC%D9%84%D9%8A%D9%83\" style=\"color:#0563c1; text-decoration:underline\">حزب</a> العدالة والتنمية التركي، اسمه عمر جليك، وليس علي حشمت كما في المنشورات المتداولة.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"747\" src=\"https://www.youtube.com/embed/NPI7svMyyLQ\" width=\"1280\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات وصفحات على مواقع التواصل الاجتماعي منذ أمس 5 يوليو/تموز، مقطع فيديو ادّعت أنه لزواج مثليين في تركيا أحدهما عضو في الحزب الحاكم، وأضافت المنشورات أن الحفل كان في نقابة المثليين في تركيا، وحضره المتحدث باسم حزب العدالة والتنمية علي حكمت.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fashrafalsaad%2Fvideos%2F300709314632456%2F&amp;show_text=0&amp;width=380\" style=\"border:none;overflow:hidden\" width=\"380\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_479e5olk7.jpg\" style=\"height:606px; width:418px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_bjk6msxpz.jpg\" style=\"height:606px; width:434px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1594041550gays-younes-boutros-768x518.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1594041550gays-younes-boutros-768x518.jpg",
+        "width": 752
+    },
+    "post_date": "2020-07-06T16:16:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/ashrafalsaad/videos/300709314632456/?v=300709314632456",
+            "name": "أشرف السعد",
+            "path": "published/0_1594041549_أشرف السعد.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100015675882533/videos/814383569094165/",
+            "name": "ناصر محمود سليمان",
+            "path": "published/1_1594041700_ناصر محمود سليمان.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/hamoodbinhamad/videos/370337777272790/",
+            "name": "حمود العَبري",
+            "path": "published/2_1594041700_حمود العَبري.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/abokalifa1931/posts/146577017018092",
+            "name": "محمد عبدالعزيز الغرباوى",
+            "path": "published/3_1594041700_محمد عبدالعزيز الغرباوى.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=301560387695377&id=100035242551597",
+            "name": "عابر سبيل مصرى",
+            "path": "published/4_1594041700_عابر سبيل مصرى.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=NPI7svMyyLQ",
+            "name": "حقيقة المقطع",
+            "path": "sources/0_1594041550_yt_1200-vflhSIVnY.jpg"
+        },
+        {
+            "link": "https://www.farfeshplus.com/Display.asp?catID=118&mainCatID=117&sID=216508",
+            "name": "فرفش بلاس",
+            "path": "sources/1_1594041700_Farfesh plus.jpg"
+        },
+        {
+            "link": "https://www.trtarabi.com/news/%D8%B9%D9%85%D8%B1-%D8%AC%D9%84%D9%8A%D9%83",
+            "name": "TRT عربي",
+            "path": "sources/2_1594041700_TRT عربي.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "فيديو مضلل.. زواج مثليين في تركيا أحدهما من الحزب الحاكم",
+    "updated_at": "2020-09-25 21:25:46",
+    "url_path": "/factcheck/2020/07/06/فيديو-مضلل-زواج-مثليين-في-تركيا-أحدهما-من-الحزب-الحاكم"
+}

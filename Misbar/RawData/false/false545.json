@@ -1,0 +1,104 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 30327,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "نفى أحمد كامل زوج الفنانة عبلة كامل السابق الخبر (تويتر)",
+    "category": "Arts & Culture",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">اعتزال الفنانة عبلة كامل الفن.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-06-29 15:34:27",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ef9dfd3163be3065b4da487",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من الخبر وتبين أنّه زائف. إذ <a href=\"https://www.dostor.org/3130625\" style=\"color:#0563c1; text-decoration:underline\">نفى</a> أحمد كامل زوج الفنانة عبلة كامل السابق ووالد ابنتيها الخبر، وأكد أنه لا يعرف شيئاً عن اعتزالها إطلاقاً، ولا صحة لهذا الكلام، واصفاً الخبر بالشائعة. أما عن الحساب الذي كتب التغريدة فهو مفبرك وينتحل شخصية كامل. والجدير بالذكر،&nbsp;أنّ هذه الشائعة تتجدد ما بين الحين والآخر.<br />\r\nوكان آخر أعمال الفنانة عبلة كامل بطولة مسلسل &quot;سلسال الدم&quot;، الذي قدّمت منه 5 أجزاء متتالية، ولم تظهر في أيّة أعمال فنية أخرى من بعده حتى هذه اللحظة.</span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت مواقع إخبارية وحسابات على وسائل التواصل الاجتماعي، أمس 28 يونيو/حزيران الجاري،&nbsp;خبراً يُفيد باعتزال الفنانة المصرية عبلة كامل الفن، فيما نشر حساب باسم عبلة كامل على موقع تويتر تغريدة تقول &quot;الحمدلله النهاردة قررت اعتزل الفن نهائياً وأتمنى أكون قدمت طول السنين اللي فاتت أعمال هادفة وقدرت أدخل على قلوبكم السرور&quot;. </span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_85qxm6u4s.jpg\" style=\"height:555px; width:466px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_lg2xvjqev.jpg\" style=\"height:438px; width:439px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 38,
+        "path": "articles/1593434066EbqKtIdX0AAjt-N.jpg",
+        "top": 0,
+        "totalHeight": 465,
+        "totalWidth": 828,
+        "watermark_path": "articles/watermark-1593434066EbqKtIdX0AAjt-N.jpg",
+        "width": 752
+    },
+    "post_date": "2020-06-29T15:32:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/ablekamal/status/1277338735827472384?s=09",
+            "name": "عبلة كامل",
+            "path": "published/0_1593434066_عبلة كامل.jpg"
+        },
+        {
+            "link": "https://twitter.com/saranagyso/status/1277511956635832320",
+            "name": "الصحفية سارة جاب الله",
+            "path": "published/1_1593434227_الصحفية سارة جاب الله.jpg"
+        },
+        {
+            "link": "https://twitter.com/emyarafat/status/1277315747715469313",
+            "name": "emyarafat",
+            "path": "published/2_1593434227_emyarafat.jpg"
+        },
+        {
+            "link": "https://twitter.com/ABOOUF22/status/1277294620582477825",
+            "name": "محمد أبو عوف",
+            "path": "published/3_1593434227_محمد ابن عوف.jpg"
+        },
+        {
+            "link": "https://twitter.com/m_rashed87/status/1277522314461093888",
+            "name": "ماجد الراشد",
+            "path": "published/4_1593434227_ماجد الراشد.jpg"
+        },
+        {
+            "link": "https://twitter.com/hna1989s/status/1277426965197336577",
+            "name": "h",
+            "path": "published/5_1593434228_H.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.dostor.org/3130625",
+            "name": "الدستور ",
+            "path": "sources/0_1593434228_BKfG0eXZ_400x400.jpg"
+        },
+        {
+            "link": "https://www.nogoumfm.net/news/2020/06/%D9%87%D9%84-%D8%A7%D8%B9%D8%AA%D8%B2%D9%84%D8%AA-%D8%B9%D8%A8%D9%84%D8%A9-%D9%83%D8%A7%D9%85%D9%84-%D8%A7%D9%84%D9%81%D9%86%D8%9F-%D9%85%D9%82%D8%B1%D8%A8%D9%88%D9%86-%D9%88%D8%AA%D8%B5%D8%B1%D9%8A/",
+            "name": "نجوم أف إم",
+            "path": "sources/1_1593434443_Nogoum FM.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "عبلة كامل لم تعلن اعتزالها الفن",
+    "updated_at": "2020-09-25 17:39:14",
+    "url_path": "/factcheck/2020/06/29/عبلة-كامل-لم-تعلن-اعتزالها-الفن-حقيقة-الخبر"
+}

@@ -1,0 +1,128 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 4951,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الصورة ليست للسيناتور توم كوتون (مواقع التواصل الاجتماعي)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">السيناتور الأميركي توم كوتون يدعو إلى وقف أعمال النهب أثناء الاحتجاجات الحالية في أميركا، وصورة له مع سبائك الذهب المنهوبة أيام غزو الولايات المتحدة للعراق.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-06-08 16:45:08",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ede40e4d6e4a93b951593e4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">ما نشره المستخدمون غير صحيح، إذ تحقّق &quot;مسبار&quot; من الصورة المتداولة ووجد أن الشخص الذي يظهر فيها ويرتدي زياً عسكرياً، ليس السيناتور الجمهوري جون كوتون (الصورة أدناه)، والذي التحق بالجيش الأميركي في بداية عام 2004، في حين أنّ الصورة المتداولة تعود إلى فترة غزو الولايات المتحدة العراق وتحديداً إلى مايو/أيار 2003.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_3ohuees05.jpg\" style=\"height:734px; width:656px\" /></span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"margin-right:48px; text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_599q0d9k2.jpg\" style=\"height:533px; width:956px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشر مستخدمون على موقعي التواصل الاجتماعي فيسبوك وتويتر، خبراً جاء فيه أنّ السيناتور الأميركي توم كوتون دعا إلى وقف أعمال النهب في الولايات المتحدة، وهو الذي شارك في سرقة ذهب العراق أيام الغزو الأميركي عام 2003. وتداول مستخدمون برفقة المنشور صورة قالوا إنها تُظهر السيناتور الأميركي مع سبائك الذهب المنهوب. &nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_qcx64gmek.jpg\" style=\"height:576px; width:501px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_uezufn2kx.jpg\" style=\"height:794px; width:565px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_isnrvgiap.jpg\" style=\"height:650px; width:491px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><img src=\"https://images-prod.misbar.com/articlebody/origin_m1bg5ztwq.jpg\" style=\"height:670px; width:488px\" /></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 314,
+        "left": 1.5555419921875,
+        "path": "articles/1591623907صورة المادة.jpg",
+        "top": 53.39990234375,
+        "totalHeight": 423,
+        "totalWidth": 564,
+        "watermark_path": "articles/watermark-1591623907صورة المادة.jpg",
+        "width": 559
+    },
+    "post_date": "2020-06-08T16:26:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/rdrtv.news/photos/a.106052927478417/257706622313046/?type=3&__tn__=-R",
+            "name": "الخبر لحظة وقوعه",
+            "path": "published/0_1591623905_الخبر لحظة وقوعه.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=3091196227611621&set=a.1164182716979658&type=3&theater",
+            "name": "Amjad Abudlrazzak Gorjia",
+            "path": "published/1_1591623905_Amjad Abudlrazzak Gorjia.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Secularismillusion1/photos/a.627840141010229/940602773067296/?type=3&__xts__%5B0%5D=68.ARA55ZcdCVCI7jh77QROJ2-JH22rs_wtKhxxKd60QAqhgp1UhB1Z0bzUrNIfxHRSpgVygS5G9kVbFuGz5WbarsubWcRloS_WCDYmwm2v-jrejxtV8vx2o4FcvTUi2Lo01MdU_MkVxZDQdtzQjs885YN87jKpbK7kbuvmAfRVhNIdqJYD6Hx_WbU3VsQFF33nu5_TX0ajwrCXhD5N9__pCJ86trTDqKcHT4YE65iZIHFfjNxD1-i0t--iRJScw7T2-L5uVNZWCYBBuwwmjb4UJJs6D2rSyhgVJBISjQq0VpXSh71HMv_zjcXRfiuXOP6Viduv7xHM_cYK8hXSIQMedAk&__tn__=-R",
+            "name": "صفحة وهم العلمانية",
+            "path": "published/2_1591623905_صفحة وهم العلمانية.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/101729894505129/photos/a.101753071169478/263235691687881/?type=3&theater",
+            "name": "صفحة حراك الشعب",
+            "path": "published/3_1591623906_صفحة حراك الشعب.jpg"
+        },
+        {
+            "link": "https://twitter.com/Omar_Madaniah/status/1268247461598027777",
+            "name": "عمر مدنية",
+            "path": "published/4_1591623906_عمر مدنية.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=1326558680883267&set=a.340971372775341&type=3&theater",
+            "name": "جمعة تركي",
+            "path": "published/5_1591623906_جمعة تركي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=1931374306994073&set=a.160580007406854&type=3&theater",
+            "name": "Sayed Ayedi",
+            "path": "published/6_1591623906_Sayed Ayedi.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=773274413207914&set=a.101155890419773&type=3&theater",
+            "name": "Sufyan Alobaidi",
+            "path": "published/7_1591623906_Sufyan Alobaidi.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://prepareforchange.net/2017/03/20/war-what-is-it-good-for-gold-oil-and-drugs-the-god-they-trust/",
+            "name": "Prepare for change",
+            "path": "sources/0_1591623906_Prepare for change.jpg"
+        },
+        {
+            "link": "https://dawnofdivinerays.wordpress.com/2017/03/22/war-what-is-it-good-for-gold-oil-and-drugs-the-god-they-trust-prepare-for-change/",
+            "name": "Dawn of Divine Rays",
+            "path": "sources/1_1591623906_Dawn of Divine Rays.jpg"
+        },
+        {
+            "link": "https://twitter.com/SenTomCotton?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+            "name": "Tom Cotton/Twitter",
+            "path": "sources/2_1591623906_Tom Cotton.jpg"
+        },
+        {
+            "link": "https://www.nytimes.com/2020/06/03/opinion/tom-cotton-protests-military.html",
+            "name": "The New York Times",
+            "path": "sources/3_1591623906_The New York Times.jpg"
+        },
+        {
+            "link": "https://www.bloomberg.com/profile/person/17588093",
+            "name": "Bloomberg",
+            "path": "sources/4_1591624333_Bloomberg.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "سرق ذهب العراق ويدعو لوقف النهب في أميركا.. هل الصورة للسيناتور؟",
+    "updated_at": "2020-09-25 03:25:12",
+    "url_path": "/factcheck/2020/06/08/سرق-ذهب-العراق-ويدعو-لوقف-النهب-في-أميركا-هل-الصورة-للسيناتور"
+}

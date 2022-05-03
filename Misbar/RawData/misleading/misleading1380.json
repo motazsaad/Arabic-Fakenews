@@ -1,0 +1,65 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1363,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة للقيادي في التيار الصدري حاكم الزاملي يرفع سيفه وسط أنصار التيار احتفالاً بالانتصار على المتظاهرين.</p>\r\n",
+    "country": "IQ",
+    "created_at": "2020-02-04 16:58:17",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5e397879d4a22958db44e223",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الصورة غير صحيحة، إذ وجدها &quot;مسبار&quot; منشورة على وسائل التواصل الاجتماعي منذ عام 2014، وليست جديدة حسب ادعاء&nbsp;صفحة الحدث العراقي.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_miwfqafla.jpg\" style=\"height:423px; width:350px\" /></span></strong></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت صفحة الحدث العراقي على منصة فيسبوك، صورة ادعت أنها للقيادي في التيار الصدري حاكم الزاملي، وهو يرفع سيفه احتفالاً بالانتصار على المتظاهرين.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_xy92ksgo5.jpg\" style=\"height:467px; width:411px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1580824843GettyImages-1197904423.jpg"
+    },
+    "post_date": "2020-02-04T16:51:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/105892180806441/photos/a.129433538452305/221822902546701/?type=3&theater&ifg=1",
+            "name": "الحدث العراقي",
+            "path": "published/0_1580824697_الحدث العراقي-لوغو.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=281261328707031&set=a.142995992533566&type=3&theater",
+            "name": "جاسمية ظاهر",
+            "path": "sources/0_1580824697_Facebook_logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل رفع الزاملي سيفه احتفالاً بالانتصار على المتظاهرين العراقيين؟",
+    "updated_at": "2020-09-23 12:39:03",
+    "url_path": "/factcheck/2020/02/04/هل-رفع-الزاملي-سيفه-احتفالا-بالانتصار-على-المتظاهرين-العراقيين"
+}

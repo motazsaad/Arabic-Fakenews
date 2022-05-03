@@ -1,0 +1,109 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 329,
+    "author": {
+        "fullname": "محمد الخالدي",
+        "id": "5ef9dcff163be306aa5d2826",
+        "photo": {
+            "name": "1593433343_48252779_2179011148784786_3755534693705973760_o.jpg",
+            "path": "authors/1593433343_48252779_2179011148784786_3755534693705973760_o.jpg"
+        }
+    },
+    "caption": "قابل مسبار الشاب الذي التقط الصورة حيث كان والده يرقد بجانب هذا المريض (Flickr)",
+    "category": "Entertainment",
+    "claim": "<p>ممرضة التقطت صورة لمريض حطّت عليه حمامة لزيارته في الوقت الذي لم يحظَ فيه بزيارة من عائلته.</p>\r\n",
+    "country": "GR",
+    "created_at": "2020-09-30 00:15:57",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 2,
+    "feedback_pos": 10,
+    "id": "5f73a40df4d4ba71333f90ea",
+    "investigation": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقّق &quot;مسبار&quot; من الادعاء ووجده مضللاً، إذ تبين أنّ الصورة لم تلتقطها ممرضة بل رجل يوناني كان يرافق والده المريض حيث كان يجاور ذاك المريض، الذي حطت عليه الحمامة، فقام بالتقاط الصورة له، ما ينفي الرواية المتداولة حول الممرضة والوحدة.<br />\r\n<br />\r\n&nbsp; &nbsp;</span> <span dir=\"RTL\" lang=\"AR-SA\">تواصل &quot;مسبار&quot; مع صاحب الصورة&nbsp; أيانيس بروتوناسيوس عبر منصة فليكر والذي أوضح بأنّه التقط هذه الصورة بتاريخ 19 أكتوبر/ تشرين الأول عام 2013، في مستشفى الصليب الأحمر باليونان، بينما كان يجلسُ بجانب والده المريض في قسم أمراض القلب، ففي لحظة انتبه إلى وجود حمامة تقف على&nbsp;المريض المجاور لوالده، والذي لا يعرف هويته، فبادر&nbsp;بالتقاط الصورة بكاميرا هاتفه الذكي.<br />\r\n<br />\r\nوتابع &quot;نُقل والدي بعدها إلى وحدة العناية المركزة، ولم أرَ هذا المريض لاحقاً، وفي اليوم التالي نشرت تلك الصورة على منصة فليكر، ثم بعد ثلاثة أيام توفي والدي، لذلك كرست هذه الصورة تخليدًا لذكرى والدي&quot; نافياً كون هذا الرجل&nbsp;&nbsp;وحيداً بالمستشفى.</span><br />\r\n&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_3u8lm1jsn.jpg\" style=\"height:294px; width:624px\" /><img src=\"https://images-prod.misbar.com/articlebody/investigation_sajpdxhqr.jpg\" style=\"height:305px; width:623px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><br />\r\nتداولت حسابات على موقع التواصل الاجتماعي فيسبوك، منذ تاريخ 22 سبتمبر/ أيلول الجاري، صورةً لمريض يرقد في المستشفى وفوقه حمامة، وادعت هذه الحسابات بأنّ ممرضةً التقطت صورة لحمامة حطت على مريض يرقد على سرير المستشفى، وقد قالت &quot;لم يأتِ أحد من أقارب هذا المريض لزيارته، فجاءت هذه الحمامة لزيارته&quot;، وكانت هذه الصورة قد تم تداولها في سنوات سابقة تحت ادعاءات مختلفة.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_iduiaxpkz.jpg\" style=\"height:267px; width:624px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_7g98cib8e.jpg\" style=\"height:288px; width:625px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_vsbj5g6c3.jpg\" style=\"height:257px; width:623px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_z4o0u4s0w.jpg\" style=\"height:283px; width:624px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_l3t1xxa71.jpg\" style=\"height:286px; width:625px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 310,
+        "left": 2.51116943359375,
+        "path": "articles/1601414157يييثص.JPG",
+        "top": 72,
+        "totalHeight": 423,
+        "totalWidth": 560,
+        "watermark_path": "articles/watermark-1601414157يييثص.JPG",
+        "width": 550
+    },
+    "post_date": "2020-09-29T22:42:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/sawtelghad/posts/3662098067181324",
+            "name": "إذاعة صوت الغد",
+            "path": "published/0_1601414699_قققف.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/douz.live12/posts/1757512591072058",
+            "name": "دوز على المباشر",
+            "path": "published/1_1601414699_قققف.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/www.mostagnem.dz/posts/3344723108941590",
+            "name": "مستغانم لؤلؤة الغرب",
+            "path": "published/2_1601414699_قققف.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/1ABDA.ALAM/posts/901585476915771",
+            "name": "عبده العالم",
+            "path": "published/3_1601414699_قققف.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/Ahlam.Mostghanemi/posts/3433416560027212",
+            "name": "أحلام مستغانمي",
+            "path": "published/4_1601415896_قققف.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/sawtelghad/posts/3662098067181324",
+            "name": "إذاعة صوت الغد",
+            "path": "published/0_1601414699_قققف.JPG"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.flickr.com/photos/protonotarios/10385581784/in/photostream/",
+            "name": "Ιωάννης Πρωτονοτάριος",
+            "path": "sources/0_1601414699_بث4.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصورة لم تلتقطها ممرضة، والحمامة ليست زائرته الوحيدة",
+    "updated_at": "2020-09-30 00:55:41",
+    "url_path": "/factcheck/2020/09/30/هذه-الصورة-لم-تلقتطها-ممرضة-والحمامة-ليست-زائرته-الوحيدة",
+    "was_notification_pushed": true
+}

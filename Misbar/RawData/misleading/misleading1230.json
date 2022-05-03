@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2310,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الصورة ملتقطة لعمامة الشيخ أحمد الرفاعي الكبير (مواقع التواصل الاجتماعي)",
+    "category": "Spirituality & Religion",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة متداولة على أنها لعمامة النبي محمد عليه السلام.</p>\r\n",
+    "country": "IQ",
+    "created_at": "2020-04-19 15:22:42",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5e9c4292db2916223b52df44",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة، وتأكد من أنها غير صحيحة، فهي ليست لعمامة النبي محمد عليه السلام، إنمّا لعمامة الشيخ أحمد الرفاعي الكبير وهو من أشهر مشايخ الطرق الصوفية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_q1k4ejimq.jpg\" style=\"height:635px; width:523px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_s591mtujm.jpg\" style=\"height:367px; width:711px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_f8bq4jjlp.jpg\" style=\"height:582px; width:572px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت صفحات وحسابات على مواقع التواصل الاجتماعي، صورة حظيت بعشرات آلاف المشاركات، زعم ناشروها أنّها ملتقطة لعمامة النبي محمد (ص). وقد كُتب على الصورة المتداولة &quot;عيب تشوف عمامة خير الخلق محمد ولا تعمل مشاركة وتصلي عليه&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_fz5gez5cn.jpg\" style=\"height:430px; width:680px\" /></span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/1rRegMB2XgY\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 158,
+        "left": -0.0394287109375,
+        "path": "articles/1587298961صورة المادة.jpg",
+        "top": 131.102783203125,
+        "totalHeight": 423,
+        "totalWidth": 282,
+        "watermark_path": "articles/watermark-1587298961صورة المادة.jpg",
+        "width": 280
+    },
+    "post_date": "2020-04-19T15:10:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=645802499495473&set=gm.541256790144481&type=3&theater&ifg=1",
+            "name": "محمد عبد الغني محمد",
+            "path": "published/0_1587298960_محمد عبد الغني محمد.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/464555171131215/permalink/535793914007340/",
+            "name": "Bejaia Cet Ma Ville",
+            "path": "published/1_1587298960_Bejaia Cet Ma Ville.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=1rRegMB2XgY",
+            "name": "وصفات سعيدة",
+            "path": "published/2_1587298960_وصفات سعيدة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/samir.mrabet.5832/posts/1127493494250599",
+            "name": "Samir Mrabet",
+            "path": "published/3_1587298960_Samir Mrabet.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/emad.rawash.1/posts/712374709531346",
+            "name": "Emad Rawash",
+            "path": "published/4_1587298960_Emad Rawash.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "http://taqwa.sg/v/articles/ahmad-al-rifai-al-kabir/?fbclid=IwAR3PqiCevGWO35injeXnJcAEKu3zhfgHP-f3vMNoLqa3ToUF0tObYf8OsGE",
+            "name": "Taqwa",
+            "path": "sources/0_1587298960_Taqwa.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/300506256741028/photos/a.394685550656431/415034981954821/?type=1&theater",
+            "name": "الصفحة الرسمية لبيت السيد محمود شيخ هويدي الراوي الرفاعي",
+            "path": "sources/1_1587298960_الصفحة الرسمية لبيت السيد محمود شيخ هويدي الراوي الرفاعي.jpg"
+        },
+        {
+            "link": "https://vk.com/wall301507174_874?z=photo301507174_456239936%2Falbum301507174_00%2Frev",
+            "name": "Andrey Mayer",
+            "path": "sources/2_1587298961_Andrey Mayer.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل هذه الصورة لعمامة النبيّ محمد؟",
+    "updated_at": "2020-09-25 12:59:48",
+    "url_path": "/factcheck/2020/04/19/هل-هذه-الصورة-لعمامة-النبي-محمد"
+}

@@ -1,0 +1,143 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 15980,
+    "author": {
+        "fullname": "مريم هواري",
+        "id": "5e299460d4a22939983a3ec5",
+        "photo": {
+            "path": "authors/1579791192_Maryam.jpg"
+        }
+    },
+    "caption": "سجّلت الأردن حالات جديدة بتاريخ 6 و7 مايو/أيار (Getty)",
+    "category": "Health",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">المملكة الأردنية الهاشمية ترفع جميع القيود الصحية المفروضة لمواجهة فايروس كورونا وتُعيد الحياة لطبيعتها، وذلك بعد مرور أسبوع دون تسجيل أي إصابة جديدة بالفايروس.</p>\r\n",
+    "country": "",
+    "created_at": "2020-05-08 14:46:34",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eb5469adb29163dd2476024",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الادعاء زائف. إذ قررت الحكومة الأردنية فرض حظر التجوّل الشامل بتاريخ 8 مايو/أيار الجاري، وذلك استمراراً لما اتّبعته&nbsp;في فرض الحظر الشامل أيام الجمعة وإبقاء الحظر الجزئي طيلة أيام الأسبوع. وقد أعلنت وزارة الصحّة الأردنية عن تسجيل إصابة واحدة داخل المملكة بتاريخ 6 مايو/أيار الجاري، و 11 إصابة جديدة بتاريخ 7 مايو/أيار الجاري، وطلب وزير الصحّة الأردني، د سعد جابر، من المواطنين الالتزام بالتعليمات بعد تسجيل تلك الحالات، وأشار جابر إلى أهمية عدم التسرّع في فتح القطاعات والعودة إلى الحياة الطبيعية على الرغم من مرور أسبوع دون تسجيل إصابات بالفايروس داخل المملكة حتى تاريخ 4 مايو/أيار.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">أما بالنسبة لتخفيف القيود، فأعلنت الحكومة الأردنية بتاريخ 3 مايو/أيار الجاري برفع جميع القيود على الأنشطة الاقتصادية فقط، بدءاً من تاريخ 6 مايو/أيار بعدما شهدت الأردن أعداد إصابات قليلة للغاية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_dkhb9twjn.jpg\" style=\"height:828px; width:491px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_2joz47xg8.jpg\" style=\"height:354px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_ycc4hrnm7.jpg\" style=\"height:488px; width:586px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_itee93hk2.jpg\" style=\"height:540px; width:495px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_eax335lsu.jpg\" style=\"height:564px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_adx0wc0cj.jpg\" style=\"height:686px; width:624px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت بعض الصفحات على موقع التواصل الاجتماعي تويتر بتاريخ 5 و6 مايو/أيار الجاري، منشوراً يدّعي بأنّ المملكة الأردنية الهاشمية رفعت جميع القيود الصحيّة المفروضة لمواجهة جائحة&nbsp;كورونا وأعادت الحياة لطبيعتها، وذلك لأنها لم تسجّل أي إصابة لمدّة أسبوعٍ كاملٍ.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_pkyl46mzt.jpg\" style=\"height:864px; width:495px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_nwrawbgku.jpg\" style=\"height:787px; width:491px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 349,
+        "left": 4.44964599609375,
+        "path": "articles/1588938393GettyImages-1207594509.jpg",
+        "top": 4.05908203125,
+        "totalHeight": 423,
+        "totalWidth": 627,
+        "watermark_path": "articles/watermark-1588938393GettyImages-1207594509.jpg",
+        "width": 619
+    },
+    "post_date": "2020-05-08T14:34:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/Kenooz6/status/1257719341086314498",
+            "name": "كنوز",
+            "path": "published/0_1588938391_كنوز.jpg"
+        },
+        {
+            "link": "https://twitter.com/ku_1978_/status/1257806637986918403",
+            "name": "راشد",
+            "path": "published/1_1588938391_راشد.jpg"
+        },
+        {
+            "link": "https://twitter.com/m3aly_alwazera/status/1257777210901041154",
+            "name": "معالي الوزيرة",
+            "path": "published/2_1588938391_معالي الوزيرة.jpg"
+        },
+        {
+            "link": "https://twitter.com/yaser_alkandari/status/1257714710570504193",
+            "name": "د. ياسر احمد الكندري",
+            "path": "published/3_1588938391_د. ياسر احمد الكندري.jpg"
+        },
+        {
+            "link": "https://twitter.com/scopenews/status/1257730566247649286",
+            "name": "سكوب نيوز",
+            "path": "published/4_1588938391_سكوب نيوز.jpg"
+        },
+        {
+            "link": "https://twitter.com/ali_mohd_alamri/status/1257739659137949696",
+            "name": "علي العامري",
+            "path": "published/5_1588938391_علي العامري.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/mohgovjo/status/1258491265542508557",
+            "name": "وزارة الصحة الأردنية",
+            "path": "sources/0_1588938392_وزارة الصحة جديد.jpg"
+        },
+        {
+            "link": "https://twitter.com/mohgovjo/status/1258135529029357570",
+            "name": "وزارة الصحة الأردنية",
+            "path": "sources/1_1588938392_وزارة الصحة جديد.jpg"
+        },
+        {
+            "link": "https://twitter.com/mohgovjo/status/1257742420067987456",
+            "name": "وزارة الصحة الأردنية",
+            "path": "sources/2_1588938392_وزارة الصحة جديد.jpg"
+        },
+        {
+            "link": "https://twitter.com/DrSaadJaber/status/1257694287166353408",
+            "name": "د. سعد الجابر ",
+            "path": "sources/3_1588938392_وزير الصحة.jpg"
+        },
+        {
+            "link": "https://twitter.com/DrSaadJaber/status/1258052776246067200",
+            "name": "د. سعد الجابر ",
+            "path": "sources/4_1588938392_وزير الصحة.jpg"
+        },
+        {
+            "link": "https://twitter.com/DrSaadJaber/status/1258417556131581953",
+            "name": "د. سعد الجابر ",
+            "path": "sources/5_1588938393_وزير الصحة.jpg"
+        },
+        {
+            "link": "https://www.almamlakatv.com/news/%D8%AD%D8%B8%D8%B1-%D8%AA%D8%AC%D9%88%D9%84-%D8%B4%D8%A7%D9%85%D9%84-%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D8%A9-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84%D8%A9-38846",
+            "name": "المملكة",
+            "path": "sources/6_1588938393_قناة المملكة.jpg"
+        },
+        {
+            "link": "https://www-alaraby-co-uk.cdn.ampproject.org/c/s/www.alaraby.co.uk/amp/society/2020/5/7/%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D9%8A%D8%B3%D8%AA%D8%A3%D9%86%D9%81-%D8%AD%D8%B8%D8%B1-%D8%A7%D9%84%D8%AA%D8%AC%D9%88%D9%84-%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84-%D8%A8%D8%B3%D8%A8%D8%A8-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7",
+            "name": "العربي الجديد",
+            "path": "sources/7_1588938393_العربي الجديد.jpg"
+        },
+        {
+            "link": "https://twitter.com/jo24com/status/1257329021211144193",
+            "name": "jo24.net",
+            "path": "sources/8_1588938393_jo24.net.jpg"
+        },
+        {
+            "link": "https://www.skynewsarabia.com/middle-east/1341538-%D8%A7%D9%84%D8%A7%D9%94%D8%B1%D8%AF%D9%86-%D9%8A%D8%B1%D9%81%D8%B9-%D8%A7%D9%84%D9%82%D9%8A%D9%88%D8%AF-%D8%A7%D9%84%D8%A7%D9%94%D9%86%D8%B4%D8%B7%D8%A9-%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B5%D8%A7%D8%AF%D9%8A%D8%A9",
+            "name": "sky news عربية",
+            "path": "sources/9_1588938393_sky news arabic logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "كورونا الأردن: هل أُزيلت القيود الصحيّة المفروضة في المملكة؟",
+    "updated_at": "2020-09-25 01:58:10",
+    "url_path": "/factcheck/2020/05/08/الأردن-ترفع-القيود-الصحية-المفروضة-لمواجهة-فايروس-كورونا-وتعيد-الحياة-لطبيعتها-حقيقة-الخبر"
+}

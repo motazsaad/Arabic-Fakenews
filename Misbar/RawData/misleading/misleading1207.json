@@ -1,0 +1,98 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2290,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "المشاهد لتشييع زعيم كوريا الشمالية الأسبق عام 2011 (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">بث مباشر لمراسم تشييع زعيم كوريا الشمالية كيم جونغ أون.</p>\r\n",
+    "country": "KP",
+    "created_at": "2020-04-27 15:43:09",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ea6d35ddb291635c20709c4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من المشاهد التي يعرضها البث المباشر على أنها لجنازة الزعيم الكوري الشمالي كيم جونغ أون، وتأكد من أنها مضللة، فهي تعود إلى ديسمبر/كانون الأول 2011، وتصوّر مراسم تشييع والد كيم جونغ أون، الرئيس الأسبق لكوريا الشمالية كيم جونغ إيل.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وتأتي الصور ومقاطع الفيديو المضللة حول الرئيس الكوري الشمالي كيم جونغ أون، عقب تقارير صحفية ومعلومات غير مؤكدة حتى اللحظة حول تدهور صحته وربما وفاته.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/nMYHOV1tIyE\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات وحسابات على موقع التواصل الاجتماعي فيسبوك، ما زعمت أنّه بثٌ مباشرٌ لمراسم تشييع زعيم كوريا الشمالية كيم جونغ أون.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"314\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F106508824379927%2Fvideos%2F568550413772281%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FNewsInternational.inc%2Fvideos%2F310062856644357%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 282,
+        "left": 3.3082275390625,
+        "path": "articles/1587991388GettyImages-136167470.jpg",
+        "top": 28.18603515625,
+        "totalHeight": 325,
+        "totalWidth": 508,
+        "watermark_path": "articles/watermark-1587991388GettyImages-136167470.jpg",
+        "width": 502
+    },
+    "post_date": "2020-04-27T15:27:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/watch/live/?v=953206078415974&ref=search&external_log_id=48efacd6e47b156bae9450248e4d014b",
+            "name": "أخبار العالم",
+            "path": "published/0_1587991387_أخبار العالم.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/607215235984574/permalink/3412272845478785/?__tn__=-R",
+            "name": "عبد ناصر السملالي ",
+            "path": "published/1_1587991387_Facebook_logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=764327524388642&id=100024342043774&__tn__=-R",
+            "name": "عراقي كبابجي",
+            "path": "published/2_1587991387_عراقي كبابجي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/110561383926447/videos/310062856644357/",
+            "name": "News Update",
+            "path": "published/3_1587991387_News Update.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=nMYHOV1tIyE",
+            "name": "AP Archive",
+            "path": "sources/0_1587991387_AP-Logo.jpg"
+        },
+        {
+            "link": "https://www.bbc.com/arabic/worldnews/2011/12/111228_kim_funeral",
+            "name": "BBC عربي",
+            "path": "sources/1_1587991388_BBC NEWS-logo.jpg"
+        },
+        {
+            "link": "https://www.alaraby.co.uk/politics/2020/4/26/%D9%83%D9%8A%D9%85-%D8%AC%D9%88%D9%86%D8%BA-%D8%A3%D9%88%D9%86-%D9%8A%D9%85%D8%AF%D8%AF-%D8%A7%D9%84%D8%A5%D8%AB%D8%A7%D8%B1%D8%A9-%D9%87%D8%A4%D9%84%D8%A7%D8%A1-%D9%87%D9%85-%D8%A7%D9%84%D8%AE%D9%84%D9%81%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D9%85%D9%84%D9%88%D9%86",
+            "name": "العربي الجديد",
+            "path": "sources/2_1587991388_العربي الجديد.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذا الفيديو ليس لتشييع زعيم كوريا الشمالية كيم جونع أون",
+    "updated_at": "2020-09-25 16:41:31",
+    "url_path": "/factcheck/2020/04/27/هذا-الفيديو-ليس-لتشييع-زعيم-كوريا-الشمالية-كيم-جونع-أون"
+}

@@ -1,0 +1,144 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 229,
+    "author": {
+        "fullname": "محمد الخالدي",
+        "id": "5ef9dcff163be306aa5d2826",
+        "photo": {
+            "name": "1593433343_48252779_2179011148784786_3755534693705973760_o.jpg",
+            "path": "authors/1593433343_48252779_2179011148784786_3755534693705973760_o.jpg"
+        }
+    },
+    "caption": "",
+    "category": "Politics",
+    "claim": "<p>أميركي يبيع العلمين النازي والكونفدرالي في تظاهرات تدعم دونالد ترامب وترفض نتائج الانتخابات الأميركية.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-11-16 17:05:00",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 2,
+    "feedback_pos": 6,
+    "id": "5fb2870c9430f01688343b6f",
+    "investigation": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقّق &quot;<a href=\"https://misbar.com/\"><span style=\"color:#3498db\">مسبار</span></a>&quot; من الادعاء ووجده مضللاً، إذ تبين أنّ الصورة قديمة ولم تكن من تظاهرات نُظمت بتاريخ 14 نوفمبر/تشرين الثاني الجاري، بل&nbsp;ظهرت قبل هذا التاريخ&nbsp;في مقالة ساخرة من سياسة ترامب في الثالث من سبتمبر/أيلول الفائت، كما ظهرت في&nbsp;الشهر ذاته بمحتوى&nbsp;عدة تغريدات على تويتر.</span></p>\r\n\r\n<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">يُذكر أنّ العلم الكونفدرالي الأميركي </span><span dir=\"RTL\" lang=\"AR-SA\">كان يُمثل الولايات الجنوبية، التي رفضت إلغاء العبودية خلال الحرب الأهلية (1861-1865)، فهو&nbsp;يُمثل بالنسبة إلى الغالبية&nbsp;رمزاً&nbsp;لماضي أميركا العنصري.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_uzacm1lrx.jpg\" style=\"height:650px; width:410px\" /></p>\r\n\r\n<p style=\"text-align:right\">&nbsp; ا<span style=\"color:#3498db\">قرأ/ي أيضا:</span></p>\r\n\r\n<p style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/09/12/%D9%87%D8%B0%D9%87-%D8%A7%D9%84%D8%AA%D8%BA%D8%B1%D9%8A%D8%AF%D8%A9-%D9%84%D8%AC%D9%88-%D8%A8%D8%A7%D9%8A%D8%AF%D9%86-%D9%85%D9%81%D8%A8%D8%B1%D9%83%D8%A9\"><span style=\"color:#3498db\">هذه التغريدة لجو بايدن عن مدينة كينوشا الأميركية مفبركة</span></a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت حسابات وصفحات على مواقع التواصل الاجتماعي، بتاريخ 14 نوفمبر/تشرين الثاني الجاري، صورةً قالت إنّها من تظاهرات&nbsp;لمناصري ترامب نُظمت في التاريخ ذاته؛ لرفض نتائج الانتخابات الأميركية التي أُعلن نهايتها&nbsp;فوز المرشح&nbsp;الديمقراطي جو بايدن، ويظهر في الصورة&nbsp;مواطن يبيع العلمين النازي الألماني والكونفدرالي الأميركي الذي يشهد على فترة الانقسام من تاريخ أميركا.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_dlpxc4eg1.jpg\" style=\"height:561px; width:445px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_2z410jigp.jpg\" style=\"height:521px; width:443px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_ffj2vk4tj.jpg\" style=\"height:517px; width:409px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_nzm8xszzy.jpg\" style=\"height:487px; width:459px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_l4i2b69pj.jpg\" style=\"height:461px; width:455px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_8vnj1s58u.jpg\" style=\"height:483px; width:463px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_m8jm808hs.jpg\" style=\"height:427px; width:447px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 11.700042724609375,
+        "path": "articles/1605535500EmzQUeAXEAAnN2s.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 799,
+        "watermark_path": "articles/watermark-1605535500EmzQUeAXEAAnN2s.jpg",
+        "width": 752
+    },
+    "post_date": "2020-11-16T14:38:00.000+03:00",
+    "published": [
+        {
+            "id": "5fb2870bcb69b361614e931c",
+            "link": "https://twitter.com/mfu46/status/1327665047129223170",
+            "name": "USA|NOW🇺🇸",
+            "origin": "twitter",
+            "path": "sources/5b1c034ee342dd0d37541e838c3a977a80241fb2.jpg"
+        },
+        {
+            "id": "5fb2870bacd7be676657598c",
+            "link": "https://twitter.com/farhan_naji_1/status/1327665311018078210",
+            "name": "فرحان الهادي",
+            "origin": "twitter",
+            "path": "sources/af09c3c20b93e7718dcfc564050b12eee941a7a1.jpg"
+        },
+        {
+            "id": "5fb2870bc668044352304dc9",
+            "link": "https://twitter.com/AL86344373/status/1327740131571281923",
+            "name": "AL",
+            "origin": "twitter",
+            "path": "sources/aeca160a16136dba0cea4ac6840d849b8bc0c478.jpg"
+        },
+        {
+            "id": "5fb2870ba42bc86d535fb3e9",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2767304810185189&id=1378270625755288",
+            "name": "Facebook",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5fb2870b1e6ac73e9074042b",
+            "link": "https://www.facebook.com/Waelation/posts/10157631058262344",
+            "name": "Wael Mohamed",
+            "origin": "facebook",
+            "path": "sources/5091aba9724b3cdffefc4de2ea4112048edd2565.jpg"
+        },
+        {
+            "id": "5fb2870bc5f19336cb2faadd",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1074088209686673&id=579656382463194",
+            "name": "مجلة الأسرة المصرية",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5fb2870ce1a8ca169f58c052",
+            "link": "https://twitter.com/MelanieIglesias/status/1328007010810523652",
+            "name": "Twitter",
+            "origin": "twitter",
+            "path": "sources/316191497b6c1488f2f8929b0ac9c71b81df8818.jpg"
+        },
+        {
+            "id": "5fb2870cff14d34cfc3904d0",
+            "link": "https://twitter.com/MongoFree/status/1327667373411713024",
+            "name": "Mongo: The Dog Who Was A Whale",
+            "origin": "twitter",
+            "path": "sources/5e9b9bdec23892938276c79738ee2bc1badeb9c5.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fb2870cb0a82b7d0c4d30bb",
+            "link": "https://twitter.com/sam_vinograd/status/1302272676816449538",
+            "name": "Sam Vinograd",
+            "origin": "twitter",
+            "path": "sources/64f259662b0190b214dd06bc16de5cdba264ca07.jpg"
+        },
+        {
+            "id": "5fb2870c0655981ea42156bd",
+            "link": "https://share.america.gov/ar/%D8%A7%D9%84%D8%AC%D8%AF%D9%84-%D8%A7%D9%84%D8%AF%D8%A7%D8%A6%D8%B1-%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D9%84%D9%85-%D8%A7%D9%84%D9%83%D9%88%D9%86%D9%81%D8%AF%D8%B1%D8%A7%D9%84%D9%8A/",
+            "name": "ShareAmerica",
+            "origin": "",
+            "path": "sources/56589d19fbf673dab0d9cd50199fc9c2732962dd.jpg"
+        },
+        {
+            "id": "5fb288c922179a6a5a533ddd",
+            "link": "http://www.meo3w.com/tiche/2020/9/2/b70ga44wi675vbj069h4vjg8tvtopu",
+            "name": "MEO3W",
+            "origin": "",
+            "path": "sources/569f71f5b71e4d691a7956ef49bba6d573475650.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الصورة ليست من تظاهرات احتجت على نتائج الانتخابات الأميركية",
+    "updated_at": "2020-11-16 17:34:10",
+    "url_path": "/factcheck/2020/11/16/الصورة-ليست-من-تظاهرات-احتجت-على-نتائج-الانتخابات-الأميركية",
+    "was_notification_pushed": true
+}

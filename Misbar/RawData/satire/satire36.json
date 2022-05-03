@@ -1,0 +1,96 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1593,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "مقطع الفيديو قديم ولا علاقة له بكوفيد-19 (مواقع التواصل الاجتماعي)",
+    "category": "Health",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">مقطع فيديو لرجل يودّع أهله وأصدقاءه قبل الذهاب إلى الحجر الصحي بسبب فايروس كورونا المستجد.</span></p>\r\n",
+    "country": "JO",
+    "created_at": "2020-04-10 21:27:59",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e90baafdb291654d172ceb4",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من مقطع الفيديو المتداول ووجد أنه مضلّل. المقطع قديم، يعود إلى عام 2015، ضمن فقرة صباحية ساخرة تحت عنوان &quot;ابتسامة الصباح&quot; ضمن برنامج يوم جديد على شاشة التلفزيون الأردني. ولا علاقة له بفايروس كوفيد-19، وإنما يناقش ظاهرة إطلاق العيارات النارية في الأعراس في الأردن.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/iRMot-ZCdz8\" width=\"560\"></iframe></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "كورونا الأردن",
+        "كورونا",
+        "كوفيد-19",
+        "فايروس كورونا"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تداولت صفحات على مواقع التواصل الاجتماعي مقطع فيديو ادّعت أنه لرجل يودّع أهله بالأحضان والقُبَل قبيل ذهابه إلى الحجر الصحي بسبب فايروس كورونا المستجد (كوفيد-19).</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_n9zs47ih7.jpg\" style=\"height:483px; width:437px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_4ms24q1ae.jpg\" style=\"height:472px; width:430px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 341,
+        "left": 0.98333740234375,
+        "path": "articles/1586543278غلاف.jpg",
+        "top": 81.5498046875,
+        "totalHeight": 423,
+        "totalWidth": 609,
+        "watermark_path": "articles/watermark-1586543278غلاف.jpg",
+        "width": 607
+    },
+    "post_date": "2020-04-10T21:24:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/100016469806166/videos/633357457223242/",
+            "name": "الخضري القماش",
+            "path": "published/0_1586543277_الخضري-القماش-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/378636329287843/permalink/897093587442112/",
+            "name": "أحمد صبري",
+            "path": "published/1_1586543278_أحمد-صبري-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/zezo.pop.7549185/videos/235855884230653/",
+            "name": "ABANOUB ZAMEKA",
+            "path": "published/2_1586543278_ABANOUB-ZAMEKA-logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/497832791152210/permalink/526666421602180/",
+            "name": "أحمد بهيج",
+            "path": "published/3_1586543278_أحمد-بهيج-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100029550563949/videos/267628400898843/",
+            "name": "حسنين عاشور",
+            "path": "published/4_1586543278_حسنين-عاشور-لوغو.jpg"
+        }
+    ],
+    "result": "satire",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://youtu.be/iRMot-ZCdz8",
+            "name": "يوم جديد",
+            "path": "sources/0_1586543278_يوم-جديد-لوغو.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "فيديو مضلّل لرجل يودّع أهله قبل الذهاب إلى الحجر الصحي",
+    "updated_at": "2020-09-25 08:43:36",
+    "url_path": "/factcheck/2020/04/10/فيديو-مضلل-لرجل-يودع-أهله-قبل-الذهاب-إلى-الحجر-الصحي"
+}

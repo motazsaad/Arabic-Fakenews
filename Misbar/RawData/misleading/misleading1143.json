@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 1,
+        "fb": 2,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1486,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الصورة لمدينة بوا فيستا البرازيلية (مواقع التواصل الاجتماعي)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة لمدينة الأنبار في العراق، تُظهر شوارعها المنظمة والأرصفة الخاصة بممارسة الرياضة.</p>\r\n",
+    "country": "IQ",
+    "created_at": "2020-05-14 15:10:34",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5ebd353adb29167eae0f41f4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة، وتأكد من عدم صحتها، فهي ليست لمدينة الأنبار إنّما تعود لمدينة بوا فيستا البرازيلية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><img src=\"https://images-prod.misbar.com/articlebody/investigation_frsfn12wv.jpg\" style=\"height:806px; width:761px\" /></strong></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداول مستخدمون على موقع التواصل الاجتماعي فيسبوك، صورة قالوا إنها لمدينة الأنبار في العراق. الصورة تُظهر طريقة تنظيم الشوارع وتخصيص أرصفة لممارسة الرياضة، وجوانب أخرى من التقدم العمراني الذي تشهده المدينة.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"595\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D273959747093228%26id%3D100034376147312&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"595\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D750162112394220%26id%3D100022013146729&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"595\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D173320704138084%26id%3D100043804673680&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 321,
+        "left": 2.81292724609375,
+        "path": "articles/1589458233noti-1459605288.jpg",
+        "top": 100.90185546875,
+        "totalHeight": 423,
+        "totalWidth": 577,
+        "watermark_path": "articles/watermark-1589458233noti-1459605288.jpg",
+        "width": 570
+    },
+    "post_date": "2020-05-14T14:57:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/129418217690291/photos/a.129418867690226/602887737010001/?type=3&__tn__=H-R",
+            "name": "عشائر الجنوب",
+            "path": "published/0_1589458232_عشائر الجنوب.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=273959747093228&id=100034376147312&hc_location=ufi",
+            "name": "ابن الداخلية",
+            "path": "published/1_1589458232_ابن الداخلية.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=750162055727559&set=a.117182952358809&type=3",
+            "name": "صادق الغانمي",
+            "path": "published/2_1589458232_صادق الغانمي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/2002954919745220/permalink/4052697428104282/",
+            "name": "فاضل أبو عباس العيداني",
+            "path": "published/3_1589458232_فاضل أبو عباس العيداني.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=173320684138086&set=a.114042983399190&type=3&theater",
+            "name": "أبو عباس الشبلاوي",
+            "path": "published/4_1589458232_أبو عباس الشبلاوي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/103222501331376/photos/a.104307571222869/133246681662291/?type=3&__tn__=-R",
+            "name": "الصويرة ولايتنا",
+            "path": "published/5_1589458233_الصويرة ولايتنا.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1225713737776828&id=100010146393749",
+            "name": "ضياء الخفاجي",
+            "path": "published/6_1589458233_ضياء الخفاجي.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://folhabv.com.br/noticia/Mais-um-trecho-de-ciclovia-em-Boa-Vista-e-inaugurado/15224?fbclid=IwAR3HOJCvK4QIbRvHcMtINYmiISPr9ljQfrzcmw6vkp1NfDZqmTr5ghkp4po",
+            "name": "Folha Bv",
+            "path": "sources/0_1589458233_Folha Bv.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الصورة المتداولة لمدينة الأنبار العراقية.. ما حقيقتها؟",
+    "updated_at": "2020-09-25 14:55:55",
+    "url_path": "/factcheck/2020/05/14/الصورة-المتداولة-لمدينة-الأنبار-العراقية-ما-حقيقتها"
+}

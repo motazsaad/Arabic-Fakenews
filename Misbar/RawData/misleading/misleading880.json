@@ -1,0 +1,96 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 279,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الصورة قديمة وتعود إلى عام 2019 (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة دبابات تابعة للنظام السوري وهي تتجه إلى محافظة إدلب.</p>\r\n",
+    "country": "SY",
+    "created_at": "2020-07-20 18:08:49",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f15b381163be307d044b52e",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الصورة مضللة، إذ تبيّن لـ &quot;مسبار&quot; بعد التحقق، أنها قديمة وتعود إلى عام 2019 وتُظهر قوات تابعة للنظام السوري في منطقة رأس العين شمالي البلاد.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_flydsynf2.jpg\" style=\"height:363px; width:904px\" /></span></strong></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداول مستخدمون على موقع التواصل الاجتماعي فيسبوك، صورة ادعوا أنها لدبابات تابعة للنظام السوري وهي في طريقها إلى محافظة إدلب.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_bcqljnyvq.jpg\" style=\"height:595px; width:534px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ok1kfq8vn.jpg\" style=\"height:528px; width:490px\" /><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_f208dryvq.jpg\" style=\"height:367px; width:775px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 341,
+        "left": 2.64410400390625,
+        "path": "articles/1595257728109008584_333292024733593_1156027273796456837_n.jpg",
+        "top": 17.8623046875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-1595257728109008584_333292024733593_1156027273796456837_n.jpg",
+        "width": 607
+    },
+    "post_date": "2020-07-20T17:57:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=137867961292503&id=100336305045669&hc_location=ufi",
+            "name": "شعبة المنطقة الثانية طرطوس",
+            "path": "published/0_1595257728_شعبة المنطقة الثانية طرطوس.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=333292051400257&id=108999783829486",
+            "name": "مدينة طرطوس",
+            "path": "published/1_1595257728_مدينة طرطوس.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/sawasyria10/posts/124338102671044",
+            "name": "سورية أون لاين",
+            "path": "published/2_1595257728_سورية أون لاين.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1075453642887038&id=100012672362926&__tn__=-R",
+            "name": "عبد الحنّان الشيخ",
+            "path": "published/3_1595257728_عبد الحنّان الشيخ.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/abeer.shahoud/posts/2724702771092679?__tn__=-R",
+            "name": "Abeer Shhoud",
+            "path": "published/4_1595257728_Abeer Shhoud.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=746638852805836&id=100023791843754&__tn__=-R",
+            "name": "حمزة حمزة",
+            "path": "published/5_1595257728_حمزة حمزة.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.veteranstoday.com/2019/11/03/saa-deploying-artillery-bases-to-engage-new-turkish-attacks-in-n-syria/",
+            "name": "Veterans Today",
+            "path": "sources/0_1595257728_Veterans Today.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صورة مضللة.. دبابات النظام السوري تتجه إلى إدلب",
+    "updated_at": "2020-09-24 21:35:38",
+    "url_path": "/factcheck/2020/07/20/صورة-مضللة-دبابات-النظام-السوري-تتجه-إلى-إدلب"
+}

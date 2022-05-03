@@ -1,0 +1,109 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 2,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2412,
+    "author": {
+        "fullname": "خالد إسماعيل",
+        "id": "5e59256dd4a2295224257db3",
+        "photo": {
+            "name": "1582900589_صورة 2.jpg",
+            "path": "authors/1582900589_صورة 2.jpg"
+        }
+    },
+    "caption": "الخبر المتداول مضلل (فيسبوك)",
+    "category": "Health",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">طبيب يبكي لوفاة أمّ بعد ولادتها الطفل الذي انتظرته منذ إحدى عشرة سنة.</p>\r\n",
+    "country": "",
+    "created_at": "2020-05-14 16:37:29",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ebd4999db291666eb7216a5",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الادعاء المتداول وتبين أنه مضلل، لأنّ صورة الرجل الباكي ليست لطبيب بل لوالد الرضيع الذي كان يبكي من الفرحة بعد ولادة ابنه، أما الأم فلم تمت كما ادّعت المنشورات المتداولة، ولكنها خرجت بعد العملية بصحة جيدة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">نُشرت صورة الأم وطفلها لأول مرة في شهر ديسمبر/كانون الأول عام 2015، عبر صفحة <a href=\"https://www.facebook.com/206746789535288/photos/a.206857329524234/444178032458828/?type=3&amp;theater\" style=\"color:blue; text-decoration:underline\">Merve Tiritoglu Sengunler Photography</a> المتخصصة في نشر صور الأطفال حديثي الولادة، ومنذ وقتها، تُنشَر هذه الصورة إضافة إلى صورة الوالد الباكي مع ادّعاءات مضللة بين الحين والآخر، رغم أنّ المصور التركي نشر قصة صورة الوالد عام 2017 عبر حسابه على موقع <a href=\"https://www.instagram.com/p/BYphKtphUgS/\" style=\"color:blue; text-decoration:underline\">إنستغرام</a>.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_jnsk0h1ho.jpg\" style=\"height:417px; width:560px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_apoitkx9x.jpg\" style=\"height:421px; width:578px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات على مواقع التواصل الاجتماعي صورتين إحداهما&nbsp;لسيدة&nbsp;نائمة بجانب رضيع حديث الولادة،&nbsp;والثانية لرجل يبكي مرتدياً زيّ الكوادر الطبية.&nbsp;رافق الصورتين الادعاء بأنّ الطبيب يبكي لوفاة الأمّ أثناء ولادتها الطفل الذي انتظرته منذ إحدى عشرة سنة، وذلك لأنها مصابة بمرض خطير.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ffijbbsr5.jpg\" style=\"height:749px; width:502px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_uawrn3e6f.jpg\" style=\"height:701px; width:505px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 235,
+        "left": 2.29998779296875,
+        "path": "articles/1589463449غلاف1.jpg",
+        "top": 69.33349609375,
+        "totalHeight": 423,
+        "totalWidth": 423,
+        "watermark_path": "articles/watermark-1589463449غلاف1.jpg",
+        "width": 418
+    },
+    "post_date": "2020-05-14T16:28:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=876371432877427&set=g.215418266061670&type=1&theater&ifg=1",
+            "name": "عمرو خالد",
+            "path": "published/0_1589463448_نشر عن ذلك 1.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/quizzzat/posts/2330216577274534",
+            "name": "كويزززات ",
+            "path": "published/1_1589463448_نشر عن ذلك 2.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/CULTUREbelahodood/photos/a.621250611317148/2758837820891739/?type=3&theater",
+            "name": "ثقافة و معرفة بلا حدود",
+            "path": "published/2_1589463448_نشر عن ذلك 3.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/103342707685899/photos/a.103342814352555/247907846562717/?type=3&theater",
+            "name": "StÀtùT Dz",
+            "path": "published/3_1589463448_نشر عن ذلك 4.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=535404224081137&set=p.535404224081137&type=1&theater",
+            "name": "Chamsou Joud‎",
+            "path": "published/4_1589463448_نشر عن ذلك 5.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/144038008965917/photos/a.697772746925771/2943097305726626/?type=3&theater",
+            "name": "Les Algerois et Les Algeroises",
+            "path": "published/5_1589463448_نشر عن ذلك 6.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/abuKabiragainstcorruption/photos/a.459700174193638/1621775421319435/?type=3&theater",
+            "name": "شباب ابو كبير ",
+            "path": "published/6_1589463448_نشر عن ذلك 7.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/206746789535288/photos/a.206857329524234/444178032458828/?type=3&theater",
+            "name": "Merve Tiritoğlu Şengünler Photography",
+            "path": "sources/0_1589463449_مصدر 1.jpg"
+        },
+        {
+            "link": "https://www.instagram.com/p/BYphKtphUgS/",
+            "name": "Ozgemetin Photography",
+            "path": "sources/1_1589463449_instagram.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "طبيب يبكي لوفاة أمّ بعد ولادتها.. خبر مضلل",
+    "updated_at": "2020-09-25 17:00:16",
+    "url_path": "/factcheck/2020/05/14/طبيب-يبكي-لوفاة-الأم-بعد-ولادتها-صور-مضللة"
+}

@@ -1,0 +1,88 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1192,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "الفيديو من حفل إحياء ذكرى مؤسس الدولة التركية (تويتر)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">مقطع فيديو لأردوغان يتحدث عن مصر والسيسي.</span></p>\r\n",
+    "country": "EG",
+    "created_at": "2020-07-22 10:34:38",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f17ec0e163be306dc22b397",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">راجع &quot;مسبار&quot; كلمة الرئيس التركي والترجمة الظاهرة في مقطع الفيديو وتبين أنّ الترجمة مضللة، ولم يتحدث أردوغان عن مصر أو السيسي نهائياً في هذا المقطع، وشعار الجزيرة مفبرك ولم تنشره القناة. وأصل الكلمة مأخوذة من خطاب لأردوغان</span><span dir=\"RTL\" lang=\"AR-EG\">، يعود تاريخه إلى نوفمبر/تشرين الثاني عام 2016، خلال حفل إحياء ذكرى مؤسس الدولة التركية الحديثة، مصطفى كمال أتاتورك، التي نظمته مؤسسة أتاتورك العليا للثقافة.<br />\r\nوالترجمة الحقيقية للمقطع هي&nbsp;(بالأمس كنا هناك كدولة، واليوم نحن هناك بمؤسساتنا الخيرية والمؤسسات التعليمية والمؤسسات الصحية ومشاريع التنمية. أقول لكم، العالم أكبر بخمس مرات. و تركيا أكبر من تركيا الحالية، فلنعلم ذلك. لا يمكن أن نكون محاصرين في 780 ألف كيلومتر مربع. لأن حدودنا الجسدية مختلفة و حدود قلوبنا مختلفة تماماً. إخواننا في الموصل، كركوك، حلب، حمص، مصراتة، سكوبيه، القرم، القوقاز ، قد يكونون خارج حدودنا المادية، لكنهم جميعاً داخل حدود قلوبنا، في وسط قلوبنا تماماً. لن نسمح لأولئك الذين يحاولون تحديد تاريخ دولتنا وأمتنا بـ 90 عاماً. من التعليم الأساسي الذي نسميه &quot;المدرسة الابتدائية&quot; الآن، يجب علينا اتخاذ كل خطوة لجمع أمتنا مع تاريخها وثقافتها وحضارتها، بما في ذلك مراجعة الكتب المدرسية في هذا الإطار).</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"720\" src=\"https://www.youtube.com/embed/mQW-V1S04HM\" width=\"1280\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات وصفحات على مواقع التواصل الاجتماعي منذ أمس 21 يوليو/تموز، مقطع فيديو للرئيس التركي رجب طيب أردوغان، </span>يقول فيه، بحسب الترجمة المصاحبة للمقطع<span dir=\"RTL\" lang=\"AR-SA\"> &quot;تركيا ومصر قلب واحد، لا يمكننا دخول سرت دون علم السيسي، السيسي في قلوبنا ومصر أيضاً.. ويظل يتحدث عن مصر إلى نهاية المقطع&quot;. &nbsp;كما يظهر شعار قناة الجزيرة في المقطع.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FKhasGedan%2Fvideos%2F659723284623245%2F&amp;show_text=0&amp;width=476\" style=\"border:none;overflow:hidden\" width=\"476\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_gp42uyufi.jpg\" style=\"height:731px; width:492px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/15954036898584.jpg",
+        "watermark_path": "articles/watermark-15954036898584.jpg"
+    },
+    "post_date": "2020-07-22T10:32:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/KhasGedan/videos/659723284623245/?v=659723284623245",
+            "name": "خاص جدا",
+            "path": "published/0_1595403277_خاص جدا.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/shaimaa.elsayedmohamed/posts/314077289967073",
+            "name": "Shimaa Mwans",
+            "path": "published/1_1595403395_Shimaa Mwans.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/hamada.elsafty/posts/10158640687455600",
+            "name": "Hamada El-Safty",
+            "path": "published/2_1595403396_Hamada El-Safty.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=140432264397846&id=100052932190401",
+            "name": "علي برين",
+            "path": "published/3_1595403396_علي برين.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=754051075367521&id=100022879064438",
+            "name": "Sobhy Fouad",
+            "path": "published/4_1595403396_Sobhy Fouad.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=mQW-V1S04HM&feature=youtu.be",
+            "name": "الخطاب الأصلي",
+            "path": "sources/0_1595403277_yt_1200-vflhSIVnY.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "أردوغان لم يمدح السيسي، ولم يتحدث عن مصر وسرت في هذا الفيديو",
+    "updated_at": "2020-09-25 14:51:06",
+    "url_path": "/factcheck/2020/07/22/أردوغان-لم-يمدح-السيسي-ولم-يتحدث-عن-مصر-وسرت-في-هذا-الفيديو"
+}

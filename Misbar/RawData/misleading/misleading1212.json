@@ -1,0 +1,98 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1900,
+    "author": {
+        "fullname": "خالد إسماعيل",
+        "id": "5e59256dd4a2295224257db3",
+        "photo": {
+            "name": "1582900589_صورة 2.jpg",
+            "path": "authors/1582900589_صورة 2.jpg"
+        }
+    },
+    "caption": " الصور في أستراليا وليس العراق (فيسبوك)",
+    "category": "Arts & Culture",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"rtl\" lang=\"ar\">شاب عراقي يحوّل أكشاك الحاويات إلى منزل سياحي صغير في محافظة&nbsp;كركوك العراقية.</span></p>\r\n",
+    "country": "IQ",
+    "created_at": "2020-04-24 15:09:42",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ea2d706db2916028c332604",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span dir=\"rtl\" lang=\"ar\">تحقق &quot;مسبار&quot; من الصور المتداولة ووجد&nbsp;أنّ الادعاء مضلل، لأن&nbsp;الصور في أستراليا وليس العراق، ونشرها&nbsp;موقع <a href=\"https://www.livinginacontainer.com/the-magnificent-hideaway-litchfield-container-cabin-in-nature-australia/\" style=\"color:#0563c1; text-decoration:underline\">Living in a Container</a> المتخصص في عرض&nbsp;تصميمات المنازل المُصنعة من حاويات الشحن وغيرها، كما نشر الموقع&nbsp;أيضاً مقطعاً مصوّراً يُظهر مراحل صناعة المنزل خطوة بخطوة.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_45m9d7n8r.jpg\" style=\"height:647px; width:639px\" /></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"506\" src=\"https://www.youtube.com/embed/NgoIc46B1dQ\" width=\"900\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت صفحات وحسابات على مواقع التواصل الاجتماعي صوراً لمنزل صُنع من حاويات الشحن، وادعى ناشروها&nbsp;أنّ المنزل من صناعة شاب عراقي يحوّل صناديق الحاويات&nbsp;إلى منازل سياحية&nbsp;في مدينة كركوك العراقية.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_irzfcldov.jpg\" style=\"height:803px; width:504px\" /></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><iframe frameborder=\"0\" height=\"622\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBaghdad.mall2020%2Fposts%2F4466150663426557&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/158773097085178631_184043956265312_6914736534394503168_o.jpg",
+        "watermark_path": "articles/watermark-158773097085178631_184043956265312_6914736534394503168_o.jpg"
+    },
+    "post_date": "2020-04-24T14:58:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/groups/471162440191929/permalink/671492960158875/",
+            "name": "محمد ال عبد الله ",
+            "path": "published/0_1587730181_محمد ال عبد الله.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=2552014111677265&set=p.2552014111677265&type=1&theater",
+            "name": "عباس التميمي ",
+            "path": "published/1_1587730412_عباس التميمي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/Adabiiat/permalink/3125736810783108/",
+            "name": "Zubaida Khaled",
+            "path": "published/2_1587730413_أدبيات.jpg"
+        },
+        {
+            "link": "https://twitter.com/23Fmu/status/1252545715798192129",
+            "name": "جنا ",
+            "path": "published/3_1587730413_جنا.jpg"
+        },
+        {
+            "link": "https://twitter.com/bzxFj14psY1zfRx/status/1252574607527350272",
+            "name": "أمير العراقي ",
+            "path": "published/4_1587730413_امير العراقي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/2565781803466510/photos/a.2565815826796441/3215539815157369/?type=3&__xts__%5B0%5D=68.ARAVZpDBT27igcAjjWacz7tOv4_u-gWOu6-XwXPJ07ArB58lPDkJdu98jQc546Bfoddd8J74a0RW0V_a5zvUrLl0sB9ahArK958LzAcMpHNmtuezxcAtEcK_J_cIriDs4BZEZaOi9v__k1Gcl0FQJZ3nxnXei3pOMg88WkSPYJOJmGTTCmy3TxBkG7THEjNJGG-e1ZBpqQbOizZciEXtgvtcyIrqpDx7pkqV17-AABkAShmh0fjuY0kZ1ykqG4bWlcvEaRhBwbLUZfez9FWmZx-1y8Uh4iwGTT_vFifdIzi4Ke4fagrFiTlK0xLx8mRCnIM8iFqjH7nYG5hT3rLGbpcs0be6&__tn__=-R",
+            "name": "التواصل التربوي لمشرفي وتربوي العراق",
+            "path": "published/5_1587730413_التواصل التربوي لمشرفي وتربوي العراق.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.livinginacontainer.com/the-magnificent-hideaway-litchfield-container-cabin-in-nature-australia/",
+            "name": "Living in a Container",
+            "path": "sources/0_1587730181_Living in a Container.jpg"
+        },
+        {
+            "link": "https://youtu.be/NgoIc46B1dQ?t=116",
+            "name": "Living in a Container",
+            "path": "sources/1_1587730413_Living in a Container.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "عراقي يصنع منازل سياحية من أكشاك الحاويات.. عنوان مضلل",
+    "updated_at": "2020-09-25 17:57:49",
+    "url_path": "/factcheck/2020/04/24/عراقي-يصنع-منازل-سياحية-من-أكشاك-الحاويات-عنوان-مضلل"
+}

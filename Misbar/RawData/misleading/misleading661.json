@@ -1,0 +1,109 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 3451,
+    "author": {
+        "fullname": "مهيب الرفاعي",
+        "id": "5e485a82d4a2291f48646b23",
+        "photo": {
+            "name": "1581800066_20190511_191329-01_resized_20200215_093927157.jpg",
+            "path": "authors/1581800066_20190511_191329-01_resized_20200215_093927157.jpg"
+        }
+    },
+    "caption": "الصورة لطفل برازيلي وُلد عام 2005 (Crónica de Xalapa)",
+    "category": "Health",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">صورة لأضخم&nbsp;طفل حديث الولادة&nbsp;يبلغ وزنه 18 كيلو غراماً.</p>\r\n",
+    "country": "BR",
+    "created_at": "2020-09-09 13:38:08",
+    "created_by": "5f39b5451dd585078b5d94f3",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f58b0902245f92a05222b64",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقق &quot;مسبار&quot; من الصورة المتداولة، ليتبيّن أنها مضللة. فالصفحات تداولت الصورة على أنها حديثة، وأنّ وزن الطفل 18 كيلو غراماً، بينما هي صورة لطفل وُلد في البرازيل عام 2005، لطفل حمل اسم إديملتون، بلغ وزنه عند الولادة 17 باوند أي 7.711 كيلو غراماً. وبحسب سجل أرقام موسوعة غينيس للمواليد الأكثر وزناً، فإن الطفل في الصورة لم يكسر الرقم القياسي وهو 9.98 كيلو غراماً لطفل أمريكي توفي بعد 11 ساعة من ولادته&nbsp;عام 1879.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_brva4j946.jpg\" style=\"height:512px; width:624px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">نشرت صفحات على موقع التواصل الاجتماعي فيسبوك، صورة طفل حديث الولادة، ادّعت أنّ وزنه بلغ 18 كيلو غراماً، ليحقق بذلك رقماً قياسياً كأضخم مولود في العالم.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ij607p3do.jpg\" style=\"height:589px; width:379px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_7f1o6ajjo.jpg\" style=\"height:576px; width:363px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_o6a751myv.jpg\" style=\"height:589px; width:393px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1599651092Gordito.jpg",
+        "watermark_path": "articles/watermark-1599651092Gordito.jpg"
+    },
+    "post_date": "2020-09-09T13:20:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/233347874110415/posts/753160652129132/ ",
+            "name": "صفحة طرطوس البحر",
+            "path": "published/0_1599647887_طرطوس البحر.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/121341796312530/posts/153063583140351/",
+            "name": "صفحة بكل جرأة سوريا الأسد",
+            "path": "published/1_1599647887_بكل جرأة.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/530938867244457/posts/1280871902251146/ ",
+            "name": "شاشة طرطوس",
+            "path": "published/2_1599647887_شاشة طرطوس.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/107054377500074/posts/204731074399070/ ",
+            "name": "طرطوس سيتي",
+            "path": "published/3_1599647887_طرطوس ستي.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.guinnessworldrecords.com/world-records/heaviest-birth?_ga=2.167829025.1253804969.1599639144-895722998.1599639143",
+            "name": "Guinness World Records",
+            "path": "sources/0_1599650343_guinness-book-of-world-records-logo.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://largest.org/people/babies/",
+            "name": "Largest.org",
+            "path": "sources/1_1599650343_L.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.usatoday.com/story/life/allthemoms/2019/03/20/mom-gives-birth-record-15-pound-baby-new-york-state/3220995002/",
+            "name": "USA Today",
+            "path": "sources/2_1599649766_USA.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://cronicadexalapa.com/propensos-a-sobrepeso-o-desnutricion-30-de-recien-nacidos/",
+            "name": "Cronica Dexalapa",
+            "path": "sources/3_1599650922_Cor.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الصورة ليست لأضخم مولود في العالم",
+    "updated_at": "2020-09-25 18:05:56",
+    "url_path": "/factcheck/2020/09/09/هذه-الصورة-ليست-لأضخم-مولود-في-العالم",
+    "was_notification_pushed": "true"
+}

@@ -1,0 +1,94 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2458,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "يتواجد الحمام بكثرة في محيط الكعبة المشرفة (Getty)",
+    "category": "Spirituality & Religion",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">لأول مرة، سرب من الحمام الأبيض يطوف حول الكعبة بعد منع الصلاة في الحرم.</span></p>\r\n",
+    "country": "SA",
+    "created_at": "2020-03-17 18:24:57",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e70ebc9d4a22903df497de3",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من مقطع الفيديو المتداول، ووجد أن الادعاء مضلّل، إذ لا شيء يمنع الحمام من الطيران حول الكعبة المشرفة، بل </span><a href=\"https://www.youtube.com/watch?v=EaspnbSqizI\" style=\"text-decoration:none\"><span style=\"color:#1155cc\"><u>ويكثر</u></span></a><span style=\"color:#000000\"> الحمام هناك. ويتواجد العديد من </span><a href=\"https://www.youtube.com/watch?v=hxbIv2cCDWw\" style=\"text-decoration:none\"><span style=\"color:#1155cc\"><u>مقاطع</u></span></a><span style=\"color:#000000\"> </span><a href=\"https://www.youtube.com/watch?v=L4uoen80ggc\" style=\"text-decoration:none\"><span style=\"color:#1155cc\"><u>الفيديو</u></span></a><span style=\"color:#000000\"> التي تسبق في تاريخ نشرها تاريخ انتشار المقطع المتداول. ورغم ما سبق، تظلّ احتمالية أن يكون مقطع الفيديو المتداول صحيحاً من ناحية حدوثه.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_oejre1jc0.jpg\" style=\"height:379px; width:572px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "الكعبة المشرفة",
+        "حمام",
+        "إغلاق الحرم"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تناقلت صفحات على مواقع التواصل الاجتماعي مقطع فيديو ادّعت أنه لطواف حمام أبيض في محيط الكعبة المشرّفة، في حدث وصفه بعض من نشروا عنه أنه نادر، أو يحدث للمرة الأولى، بتاريخ 12 مارس/آذار الجاري.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_9ohkrtai0.jpg\" style=\"height:378px; width:512px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_bsgk35qrc.jpg\" style=\"height:375px; width:505px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 360,
+        "left": 8.04998779296875,
+        "path": "articles/1584458696GettyImages-93328866.jpg",
+        "top": 37,
+        "totalHeight": 423,
+        "totalWidth": 657,
+        "width": 640
+    },
+    "post_date": "2020-03-17T17:17:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/1423110084602830/videos/193909302029976/",
+            "name": "تونسي حر",
+            "path": "published/0_1584458696_تونسي-حر-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/sameat.elquran.eg/videos/1123100114704905/",
+            "name": "سميعة القرآن بمصر",
+            "path": "published/1_1584458696_سميعة-القرآن-بمصر-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/rou7i.officielle/videos/883446472109595/",
+            "name": "روحي",
+            "path": "published/2_1584458696_روحي-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ka3ba0/videos/1487093628114089/",
+            "name": "كعبة",
+            "path": "published/3_1584458696_كعبة-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Wahakaza.Almatny.Alhayah/videos/556900578261366/",
+            "name": "وهكذا علمتني الحياة",
+            "path": "published/4_1584458696_وهكذا علمتني الحياة-لوغو.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=EaspnbSqizI",
+            "name": "قناة مكة",
+            "path": "sources/0_1584458696_قناة-مكة-لوغو.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "مقطع فيديو مضلل يُظهر سرباً من الحمام الأبيض حول الكعبة",
+    "title": "سرب من الحمام الأبيض حول الكعبة لأول مرة.. فيديو مضلل",
+    "updated_at": "2020-09-24 05:26:06",
+    "url_path": "/factcheck/2020/03/17/سرب-من-الحمام-الأبيض-حول-الكعبة-لأول-مرة-فيديو-مضلل"
+}

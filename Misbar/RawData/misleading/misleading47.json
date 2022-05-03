@@ -1,0 +1,111 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 112,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "لم ينشر الإعلام المحلي أي أخبار حول العثور على أي كنز في الخليل (فيسبوك)",
+    "category": "News",
+    "claim": "<p style=\"text-align:right\">صورة لكنز ذهبي وتماثيل عُثر عليها في مدينة الخليل الفلسطينية خلال حفر شارع في منطقة العيصي.</p>\r\n",
+    "country": "PS",
+    "created_at": "2021-01-08 20:17:14",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 4,
+    "id": "5ff8939acac486673e16e8f4",
+    "investigation": "<p dir=\"RTL\">تحقّق &quot;<a href=\"https://misbar.com/\" target=\"_blank\"><span style=\"color:#3498db\">مسبار</span></a>&quot; من الصورة ووجد أنها مضللة، فهي لقطة من مقطع فيديو انتشر على موقع يوتيوب قبل عدة سنوات لآثار فرعونية عُثر عليها في مصر، ولم يجد &quot;مسبار&quot; أي خبر على المواقع الفلسطينية المحلية يثبت صحة العثور على كنز في منطقة الخليل أثناء الحفر أحد شوارع المدينة.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/hNexY2qWk5s\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_evkvp43oj.jpg\" style=\"height:354px; width:602px\" /></p>\r\n\r\n<p style=\"text-align:right\">اقرأ/ي أيضا:</p>\r\n\r\n<p style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/09/16/%D9%87%D8%B0%D9%87-%D9%84%D9%8A%D8%B3%D8%AA-%D8%B5%D9%88%D8%B1-%D8%AA%D9%88%D9%86%D8%B3%D9%8A-%D8%B9%D8%AB%D8%B1-%D8%B9%D9%84%D9%89-%D9%83%D9%86%D8%B2-%D8%B1%D9%88%D9%85%D8%A7%D9%86%D9%8A-%D9%88%D8%B3%D9%84%D9%85%D9%87-%D9%84%D9%84%D8%A3%D9%85%D9%86\" target=\"_blank\"><span style=\"color:#3498db\">هذه ليست صور تونسي عثر على كنز روماني وسلمه للأمن</span></a></p>\r\n\r\n<p style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/12/15/%D9%84%D9%85-%D8%AA%D8%B9%D8%AB%D8%B1-%D8%A3%D9%85%D8%A7%D9%86%D8%A9-%D8%B9%D9%85%D8%A7%D9%86-%D8%B9%D9%84%D9%89-%D8%B0%D9%87%D8%A8-%D8%AE%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%AD%D9%81%D8%B1-%D9%88%D8%B3%D8%B7-%D8%A7%D9%84%D8%A8%D9%84%D8%AF-%D8%A8%D9%84-%D8%B9%D9%84%D9%89-%D9%85%D9%88%D9%82%D8%B9-%D8%A3%D8%AB%D8%B1%D9%8A\" target=\"_blank\"><span style=\"color:#3498db\">لم تعثر أمانة عمان على ذهب خلال الحفر وسط البلد بل على موقع أثري</span></a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "",
+        "كنز",
+        "فراعنة",
+        "الحضارة الفرعونية"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت حسابات على مواقع التواصل الاجتماعي، حديثاً، صورة لمجموعة من تماثيل ذهبية فرعونية،&nbsp;وعلقت عليها &quot;العثور على تماثيل ذهب و12 صندوقًا&nbsp;أثناء حفر شارع في منطقة عيصي في الخليل قبل ساعات، وإبلاغ المباحث والجهات الأمنية المختصة&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_r45a0g1fy.jpg\" style=\"height:311px; width:602px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_v3hjaik4o.jpg\" style=\"height:429px; width:602px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_fac5zd8ti.jpg\" style=\"height:206px; width:602px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 367,
+        "left": 2.86663818359375,
+        "path": "articles/1610126233فراعنة.jpg",
+        "top": 51.2001953125,
+        "totalHeight": 423,
+        "totalWidth": 656,
+        "watermark_path": "articles/watermark-1610126233فراعنة.jpg",
+        "width": 652
+    },
+    "post_date": "2021-01-08T16:20:00.000+03:00",
+    "published": [
+        {
+            "id": "5ff88d2c3eed0d6b8c7352a7",
+            "link": "https://www.facebook.com/groups/2179248052310414/permalink/2970954976473047",
+            "name": "مدينة الخليل 🇵🇸",
+            "origin": "facebook",
+            "path": "sources/5bfe4505f0d897cf8eadb4d078ea86f5bd10e8d5.jpg"
+        },
+        {
+            "id": "5ff890559317ff01c35e2af7",
+            "link": "https://twitter.com/CoofeHoland/status/1347237897842413570/photo/1",
+            "name": "holand.coofe",
+            "origin": "twitter",
+            "path": "sources/9989d7039e72287641eb92be293ac48fa75095f3.jpg"
+        },
+        {
+            "id": "5fddbc1b669fbc69387f0290",
+            "link": "https://www.facebook.com/groups/dwawen.qal/permalink/2129738553824055",
+            "name": "دواوين البلد",
+            "origin": "facebook",
+            "path": "sources/89cfeb66b09bdb5932849d2ec7807151d44ca216.jpg"
+        },
+        {
+            "id": "5ff88d2c53797f751259252a",
+            "link": "https://www.facebook.com/Roujeeb/posts/5124292330946248",
+            "name": "قرية روجيب /  نابلس",
+            "origin": "facebook",
+            "path": "sources/0e808c0aaf918950fd889857252f5eeffe3d7b19.jpg"
+        },
+        {
+            "id": "5ff88d2ca59f74363c6add3a",
+            "link": "https://www.facebook.com/groups/un2017/permalink/2750871861829182",
+            "name": "خريج لازم اشتغل",
+            "origin": "facebook",
+            "path": "sources/5bfe4505f0d897cf8eadb4d078ea86f5bd10e8d5.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5ff8975da55e3c0d4d462a0a",
+            "link": "https://www.youtube.com/watch?v=hNexY2qWk5s",
+            "name": "PERSIAN AFFAIRS",
+            "origin": "youtube",
+            "path": "sources/d274eca4c0a16de59afdf6979f4ec4ae6ad57e38.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصورة ليست لكنز ذهبي عُثر عليه في الخليل بل في مصر",
+    "updated_at": "2021-01-10 12:13:50",
+    "url_path": "/factcheck/2021/01/08/هذه-الصورة-ليست-لكنز-ذهبي-عثر-عليه-في-الخليل-بل-في-مصر",
+    "was_notification_pushed": true
+}

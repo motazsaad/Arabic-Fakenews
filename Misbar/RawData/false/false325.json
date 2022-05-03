@@ -1,0 +1,78 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 866,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": " منتجع متخصص للعلاج الطبيعي بالمياه المعدنية (Facebook)",
+    "category": "Health",
+    "claim": "<p>مستشفى في بلغاريا لعلاج الأمراض التناسلية والجنسية.</p>\r\n",
+    "country": "BG",
+    "created_at": "2020-08-29 21:53:23",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5f4aa42360211806de226603",
+    "investigation": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقّق &quot;مسبار&quot; من الصورة ليجد أنه منتجع علاج بالمياه المعدنية، وهو المنتجع الأكبر في روسيا، وليس لبلغاريا علاقة بالأمر، واسم المنتجع ماتسيستا، ويقع في منتجع سوتشي بين الطبيعة من البحار والجبال والغابات.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_77sl6arj0.jpg\" style=\"height:264px; width:605px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_pdp0wt9nt.jpg\" style=\"height:593px; width:389px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول عدة حسابات على موقع فيسبوك منذ يوليو/تموز الفائت صورة لمبنى وسط الأشجار، تحت ادعاء أنها مستشفى في بلغاريا لعلاج الأمراض الجنسية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_fz1uhdfzd.jpg\" style=\"height:680px; width:586px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_3tyqasqc3.jpg\" style=\"height:723px; width:459px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 359,
+        "left": 25.949951171875,
+        "path": "articles/1598727202ييييبث.JPG",
+        "top": 42.2999267578125,
+        "totalHeight": 423,
+        "totalWidth": 761,
+        "watermark_path": "articles/watermark-1598727202ييييبث.JPG",
+        "width": 638
+    },
+    "post_date": "2020-08-29T20:28:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/mohammed.elaiddi/posts/303311427588360",
+            "name": "Mohammed ElAiddi",
+            "path": "published/0_1598727202_0_1596888660_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=713415592783264&id=100023444889753",
+            "name": "أحمد الشريف السباعي الإدريسي",
+            "path": "published/1_1598728808_0_1596888660_facebook.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.matsesta.info/podpishites-na-nashi-novosti/",
+            "name": "matsesta",
+            "path": "sources/0_1598727202_ييممم.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذا منتجع روسي للعلاج الطبيعي وليس مستشفى بلغاري للأمراض التناسلية",
+    "updated_at": "2020-09-25 18:58:20",
+    "url_path": "/factcheck/2020/08/29/هذا-منتجع-روسي-للعلاج-الطبيعي-وليس-مستشفى-بلغاري-للأمراض-التناسلية"
+}

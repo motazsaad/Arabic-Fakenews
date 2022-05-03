@@ -1,0 +1,71 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 165,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">مقطع فيديو يصوّر جانباً&nbsp;من الاحتجاجات الشعبية التي اندلعت في إيران في شهر نوفمبر/ تشرين الثاني 2019.</p>\r\n",
+    "country": "",
+    "created_at": "2019-12-04 14:42:32",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5de79ba88d7bd929b27ec4f4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">بعد فحص مقطع الفيديو تبيّن لــ &quot;مسبار&quot; أنّه ليس للاحتجاجات في إيران خلال نوفمبر/ تشرين الثاني الفائت، إنمّا لمظاهرة حصلت أثناء الحركة الاحتجاجية التي شهدتها العاصمة التشيلية سانتياغو في الشهر نفسه. وعثر &quot;مسبار&quot; على المقطع منشوراً على الموقع الالكتروني لإحدى القنوات التلفزيونية في تشيلي بتاريخ 14 نوفمبر/ تشرين الثاني 2019.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_d619d08de3c181e9ceda4219549924b7.jpg\" style=\"height:467px; width:432px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت صحيفة عكاظ السعودية على صفحتها الرسمية على &quot;تويتر&quot; في 17 نوفمبر/ تشرين الثاني من العام الجاري، مقطع فيديو لاقى رواجاً واسعاً على وسائل التواصل الاجتماعي، ادّعت أنّه يُظهر الاحتجاجات التي حصلت في إيران نتيجة رفع الحكومة لسعر البنزين. وعلّقت على المقطع بالقول &quot;الشعب الإيراني يواصل ثورته على نظام الملالي&quot;. ويصوّر الفيديو عدداً من المتظاهرين وهم يهاجمون سيارة مرّت في الشارع الذي يتجمع فيه المحتجون.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_d1c85777643fb6717dbd7da4e3a2aabf.jpg\" style=\"height:496px; width:321px\" /></span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_1466511301e172db792b187b50afb326.jpg\" style=\"height:443px; width:342px\" /></span></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 382,
+        "left": 1.841796875,
+        "path": "articles/1575459752GettyImages-1182866003.jpg",
+        "top": 7,
+        "totalHeight": 423,
+        "totalWidth": 684,
+        "width": 680
+    },
+    "post_date": "2019-11-20T14:33:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/OKAZ_online/status/1196093717268115458",
+            "name": "صحيفة عكاظ",
+            "path": "published/0_1575459752_صحيفة عكاظ-لوغو.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.tvperu.gob.pe/noticias/internacionales/chile-masivo-ataque-a-un-camion-de-carabineros",
+            "name": "Tvep Noticias",
+            "path": "sources/0_1575459752_logo_TVPENOTICIAS.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل هذا الفيديو للاحتجاجات في إيران؟",
+    "updated_at": "2020-09-23 12:40:13",
+    "url_path": "/factcheck/2019/12/04/هل-هذا-الفيديو-للاحتجاجات-في-إيران"
+}

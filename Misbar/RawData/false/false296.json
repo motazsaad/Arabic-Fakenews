@@ -1,0 +1,114 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1270,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "الصورة مفبركة (فيسبوك)",
+    "category": "Entertainment",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">صور توضح كيف تم تصوير الأسد الشهير مترو غولدن ماير في مقدمة الأفلام.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-09-08 17:24:10",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f57940aab5e8727185bc8f4",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصور المتداولة ووجد أنها زائفة، لأنها لا تُظهر صورة الأسد الشهير الذي يظهر في مقدمة بعض الأفلام السينمائية.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">مترو غولدن ماير ليس اسم الأسد وإنما اسم <a href=\"https://www.mgm.com/corporate/history\" style=\"text-decoration:none\" target=\"_blank\"><u>شركة إنتاج</u></a> أميركية أُسست عام 1924. كما أنّ الصورة التي يظهر فيها الأسد ممدداً على منضدة تثبّته الحبال مفبركة، أما <a href=\"https://www.telegraph.co.uk/news/worldnews/middleeast/israel/1486549/Pioneering-brain-surgery-saves-Samson-the-lion.html\" style=\"text-decoration:none\" target=\"_blank\"><u>الصورة الأصلية</u></a> فهي أثناء فحص أسد مريض في حديقة حيوانات داخل دولة الاحتلال الإسرائيلي.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">أما الأسد الذي يظهر في مقدمة الأعمال التي تنتجها شركة مترو غولدن ماير، فهو ليس أسداً واحداً، وإنما عدة أسود، تغيرت على مرّ السنوات. إذ كانت الشركة تجلب أسداً مروضاً <a href=\"https://www.smithsonianmag.com/smart-news/mgms-first-lion-didnt-roar-180962852/\" style=\"text-decoration:none\" target=\"_blank\"><u>وتصوّره بالكاميرا</u></a> جالساً على منضدة خشبية.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_21ehiuxmr.jpg\" style=\"height:536px; width:415px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_ezx0n5glh.jpg\" style=\"height:391px; width:525px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تتناقل صفحات وحسابات على مواقع التواصل الاجتماعي، حديثاً، صوراً ادعى ناشروها أنها توضّح كيفية تصوير الأسد الشهير مترو غولدن ماير، الذي يظهر في مقدمة العديد من الأفلام السينمائية.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_tqhlgbrdd.jpg\" style=\"height:426px; width:536px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_m7flvqqb3.jpg\" style=\"height:513px; width:531px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 342,
+        "left": 0.66668701171875,
+        "path": "articles/1599575049غلاف.jpg",
+        "top": 30.31689453125,
+        "totalHeight": 423,
+        "totalWidth": 610,
+        "watermark_path": "articles/watermark-1599575049غلاف.jpg",
+        "width": 609
+    },
+    "post_date": "2020-09-08T17:20:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/salah_satarr/status/1238136239594835971",
+            "name": "salah99",
+            "path": "published/0_1599575402_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/Brandsoon11/status/1185118195121827840",
+            "name": "مصمم جرافيك / موشن جرافيك",
+            "path": "published/1_1599575402_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://web.facebook.com/di5ney.w0rld/posts/1142396896143299",
+            "name": "D I S N E Y - W O R L D .",
+            "path": "published/2_1599575402_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/ali___alsaqer/status/1179854263897542658",
+            "name": "الـــدِّقَـــــــلْ",
+            "path": "published/3_1599575402_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://web.facebook.com/Officielle.page.RaCha/posts/2940348752859017",
+            "name": "RaCha - رشا",
+            "path": "published/4_1599575403_facebook.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.mgm.com/corporate/history",
+            "name": "MGM ",
+            "path": "sources/0_1599575049_MGM-lion.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.telegraph.co.uk/news/worldnews/middleeast/israel/1486549/Pioneering-brain-surgery-saves-Samson-the-lion.html",
+            "name": "The Telegraph ",
+            "path": "sources/1_1599575049_telegraph-MGM-lion.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.smithsonianmag.com/smart-news/mgms-first-lion-didnt-roar-180962852/",
+            "name": "Smithsonian Magazine ",
+            "path": "sources/2_1599575049_smithsonian-MGM-lion.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ليس أسد شركة مترو غولدن ماير",
+    "updated_at": "2020-09-25 20:58:16",
+    "url_path": "/factcheck/2020/09/08/ليس-أسد-شركة-مترو-غولدن-ماير",
+    "was_notification_pushed": "true"
+}

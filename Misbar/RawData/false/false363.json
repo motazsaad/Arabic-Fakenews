@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 889,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "لا يوجد أي تصريح منشور للسفيرة بهذه الصيغة (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">السفيرة البريطانية جين ماريوت قالت في تقريرها عن التعليم في العالم العربي في مجلس العموم البريطاني أنّ النظام التعليمي في العالم العربي يؤدي إلى مفارقات مدهشة بين الخريجين، فطلاب الدرجة الأولى من الأذكياء يذهبون إلى كليات الطب والهندسة، بينما خريجو الدرجة الثانية يذهبون إلى كليات إدارة الأعمال والاقتصاد، فيحكم البلاد طلاب الدرجة الثانية.</p>\r\n",
+    "country": "GB",
+    "created_at": "2020-08-19 16:21:49",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 3,
+    "id": "5f3d276d60211806e51e8469",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الخبر المتداول ووجد أنه زائف، إذ لا يوجد أي تصريح منشور للسفيرة جين ماريوت بهذه الصيغة.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">لم تشغل <a href=\"https://www.gov.uk/government/people/jane-marriott\" style=\"text-decoration:none\" target=\"_blank\"><u>السفيرة ماريوت</u></a> أي منصب له علاقة بالتعليم، إذ عملت كمبعوثة المملكة المتحدة لمكتب العلاقات الخارجية والكومونويلث في أفريقيا والشرق الأوسط، إضافة إلى سفيرة المملكة إلى اليمن، ونائب السفيرة إلى إيران، إضافة إلى أنها عملت في الوحدة البريطانية الدولية المشتركة لمواجهة الإرهاب. وتعمل ماريوت حالياً في منصب المفوض السامي للمملكة في كينيا منذ عام 2019.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">أما عن تصريحاتها العلنية فقد <a href=\"https://blogs.fco.gov.uk/janemarriott/2014/05/27/building-an-education-building-the-future/\" style=\"text-decoration:none\" target=\"_blank\"><u>تحدثت</u></a> عن معاناة الطلاب في اليمن وحاجتهم إلى تعليم سليم وآمن، <a href=\"http://b-ys.org.uk/about/annual-report/chairmans-report-2014\" target=\"_blank\">وأكدت</a> الجمعية اليمنية البريطانية على حرص السفارة البريطانية في اليمن، ممثلة بالسفيرة جين ماريوت (2013- 2015) على النهوض بمستوى التعليم في اليمن.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">أما التصريح المنسوب إليها في المنشورات المتداولة فهو زائف ولا دليل على صحته.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_zz16je6ps.jpg\" style=\"height:293px; width:533px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تتناقل صفحات على مواقع التواصل الاجتماعي، حديثاً، تصريحاً منسوباً للسفيرة البريطانية جين ماريوت حول التعليم في العالم العربي قالت فيه إن طلاب الدرجة الأولى من الأذكياء يذهبون إلى كليات الطب والهندسة، بينما خريجو الدرجة الثانية يذهبون إلى كليات إدارة الأعمال والاقتصاد، فيحكم البلاد طلاب الدرجة الثانية.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_siq2ttpk7.jpg\" style=\"height:830px; width:498px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_hp4bu994m.jpg\" style=\"height:805px; width:534px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 380,
+        "left": 0.066650390625,
+        "path": "articles/1597843309GettyImages-1181420605.jpg",
+        "top": 8.699951171875,
+        "totalHeight": 423,
+        "totalWidth": 675,
+        "watermark_path": "articles/watermark-1597843309GettyImages-1181420605.jpg",
+        "width": 675
+    },
+    "post_date": "2020-08-19T16:18:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/groups/lnnermind/permalink/689641214918824/?__tn__=-R",
+            "name": "علي جلود عاجل",
+            "path": "published/0_1597843487_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/manar.manarmansri.media/photos/a.1987558454880291/2276058619363605/?type=3&__tn__=-R",
+            "name": "الإعلامية منار منصري",
+            "path": "published/1_1597843487_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Samy.Kamal.Eldeen/posts/879043728944844/",
+            "name": "الإعلامي سامي كمال الدين",
+            "path": "published/2_1597843487_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/439782956598487/permalink/736098833633563/?__tn__=-R",
+            "name": "الغريب العاطفي",
+            "path": "published/3_1597843533_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ahmad.ayoub.7355/posts/2235344010079938",
+            "name": "Ahmad Ayoub",
+            "path": "published/4_1597843533_facebook.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.gov.uk/government/people/jane-marriott",
+            "name": "Gov.UK ",
+            "path": "sources/0_1597843308_gov.jpg"
+        },
+        {
+            "link": "https://blogs.fco.gov.uk/janemarriott/2014/05/27/building-an-education-building-the-future/",
+            "name": "Gov.UK ",
+            "path": "sources/1_1597843309_gov.jpg"
+        },
+        {
+            "link": "http://b-ys.org.uk/about/annual-report/chairmans-report-2014",
+            "name": "الجمعية اليمنية البريطانية ",
+            "path": "sources/2_1597843309_الجمعية.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "تصريح زائف منسوب للسفيرة جين ماريوت عن التعليم في العالم العربي",
+    "updated_at": "2020-09-25 15:56:41",
+    "url_path": "/factcheck/2020/08/19/تصريح-زائف-منسوب-للسفيرة-جين-ماريوت-عن-التعليم-في-العالم-العربي"
+}

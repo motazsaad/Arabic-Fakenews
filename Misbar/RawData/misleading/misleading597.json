@@ -1,0 +1,150 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 4284,
+    "author": {
+        "fullname": "صباح الخطيب",
+        "id": "5edc1b38db291674e776e9a3",
+        "photo": {
+            "path": "authors/1591643228_7.jpg"
+        }
+    },
+    "caption": "",
+    "category": "Technology",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">سرعة القطار الياباني الجديد تبلغ 4.800 كم/ساعة، يكمل الطريق من محطة شين أوساكا إلى طوكيو (502.3 كم) في 10 دقائق.</p>\r\n",
+    "country": "JP",
+    "created_at": "2020-09-23 21:57:49",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 2,
+    "feedback_pos": 10,
+    "id": "5f6b9aad788bcb39b13a64e4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من مقطع الفيديو ووجد أنه مضلل، إذ تم تعديله باستخدام تقنية الفاصل الزمني <span dir=\"LTR\" lang=\"EN-US\"><span style=\"background-color:white\">Time-lapse</span></span>، وذلك بتسريعه كنموذج لمعرفة ما سيكون عليه القطار إذا بلغت سرعته 4800 كم في الساعة، ليصل من محطة شين أوساكا إلى طوكيو في مدة لا تتجاوز 10 دقائق<span dir=\"LTR\" lang=\"EN-US\">.</span> بينما تستغرق الرحلة الحقيقية للمسافة نفسها،&nbsp;الساعتين والنصف.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">نُشر الفيديو لأول مرة بتاريخ 2 أغسطس/آب عام 2020، على قناة <a href=\"https://www.youtube.com/watch?v=NpsKi9485Xg&amp;t=2s\" style=\"color:#0563c1; text-decoration:underline\"><span dir=\"LTR\">Fermata Studio</span></a>&nbsp;في موقع يوتيوب، وأوردت القناة&nbsp;المعلومات المذكورة حوله في الوصف المرافق للفيديو.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/NpsKi9485Xg\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">الجدير بالذكر أن أسرع قطار في اليابان والعالم، هو قطار ماجليف الياباني،&nbsp;الذي وصلت سرعته إلى 603 كم/ساعة حين تم اختباره على خط تجريبي في البلاد عام 2015.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"صورة_x0020_9\" src=\"https://images-prod.misbar.com/articlebody/investigation_wry5nmyzy.jpg\" style=\"height:437.25pt; width:468pt\" /> </span></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات على مواقع التواصل الاجتماعي، حديثاً، فيديو لقطار في اليابان، تصل سرعته إلى 4800 كم في الساعة، حيث ينطلق من محطة شين أوساكا&nbsp;ليصل إلى طوكيو قاطعاً مسافة تبلغ 503.3 كم في 10 دقائق.</span></p>\r\n\r\n<p style=\"text-align:center\"><img id=\"صورة_x0020_3\" src=\"https://images-prod.misbar.com/articlebody/origin_k0jc9cfp0.jpg\" style=\"height:408pt; width:420.75pt\" /></p>\r\n\r\n<p style=\"text-align:center\"><img id=\"صورة_x0020_4\" src=\"https://images-prod.misbar.com/articlebody/origin_mglqjamea.jpg\" style=\"height:388.5pt; width:418.5pt\" /></p>\r\n\r\n<p style=\"text-align:center\"><img id=\"صورة_x0020_5\" src=\"https://images-prod.misbar.com/articlebody/origin_4juujwu5m.jpg\" style=\"height:500.25pt; width:433.5pt\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 333,
+        "left": 12.4385986328125,
+        "path": "articles/1600887469Capture.jpg",
+        "top": 88.746826171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-1600887469Capture.jpg",
+        "width": 591
+    },
+    "post_date": "2020-09-23T19:16:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/omarmohamedshow/posts/4347076325367514",
+            "name": "الاعلامي عمر محمد omar mohamed",
+            "path": "published/0_1600887467_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/mshaz/posts/3222341517884982",
+            "name": "د.محمد الحاج علي",
+            "path": "published/1_1600887467_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/dabbas50/status/1308329390263226368",
+            "name": "دباس",
+            "path": "published/2_1600887467_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/a7m_abo2/status/1308255487104778241",
+            "name": "بو احمد",
+            "path": "published/3_1600887468_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/Qaboos6666/status/1308113104119754755",
+            "name": "🇴🇲سُـمُــو",
+            "path": "published/4_1600887468_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/FctCO/status/1308509165267095553",
+            "name": "حقائق ومعلومات",
+            "path": "published/5_1600887468_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/waleedcanon.waleedhasham/posts/10222389685952545",
+            "name": "وليد هاشم المحنه",
+            "path": "published/6_1600887468_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/dobany.jamal/posts/10223002097271623",
+            "name": "Dobany Jamal",
+            "path": "published/7_1600887468_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/drkhaledalnuaimi/posts/1739274416232686",
+            "name": "Khaled Al Nuaimi",
+            "path": "published/8_1600887468_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/othman.ali.7758235/posts/866309724107178",
+            "name": "Othman Ali",
+            "path": "published/9_1600887468_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1092114177858115&id=100011786301997",
+            "name": "ماهر الرسلان",
+            "path": "published/10_1600887468_67819776_2303763929710849_8279055560511324160_o.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.youtube.com/watch?v=NpsKi9485Xg&t=2s",
+            "name": "フェルマータ・スタジオ- FERMATA STUDIO",
+            "path": "sources/0_1600887468_1.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://edition.cnn.com/2015/04/21/asia/japan-maglev-train-world-record/index.html",
+            "name": "CNN",
+            "path": "sources/1_1600887468_Cnn_logo_red_background.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.e-farsas.com/novo-trem-bala-do-japao-alcancou-uma-velocidade-de-4-800-km-h.html",
+            "name": "e-farasa",
+            "path": "sources/2_1600887469_00.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "سرعة القطار الياباني معدلة تقنياً وليست واقعية",
+    "updated_at": "2020-09-25 22:15:21",
+    "url_path": "/factcheck/2020/09/23/سرعة-القطار-الياباني-معدلة-تقنيا-وليسن-واقعية",
+    "was_notification_pushed": "true"
+}

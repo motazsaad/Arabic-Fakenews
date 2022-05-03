@@ -1,0 +1,87 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 298,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "caption": "الادعاءات زائفة ولا تستند لمصادر (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">الزعيم الكوري كيم جونغ أون يهاجم الرئيس الفرنسي إيمانويل ماكرون بعد تصريحات ماكرون حول الإسلام.</p>\r\n",
+    "country": "KP",
+    "created_at": "2020-11-04 16:19:04",
+    "created_by": "5f39b1ee1dd5850789476b61",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 6,
+    "feedback_pos": 4,
+    "id": "5fa2aa48f7b31c3f3478083e",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقق &quot;<a href=\"https://misbar.com/\" style=\"color:blue; text-decoration:underline\">مسبار</a>&quot; من الادعاءات الواردة في الفيديو، وتبين أنها زائفة وليس لها أي مصدر. إذ لم تنشر أي وسيلة إعلام عالمية خبراً حول الموضوع. كما راجع &quot;<a href=\"https://misbar.com/\" style=\"color:blue; text-decoration:underline\">مسبار</a>&quot; موقع <a href=\"http://www.mfa.gov.kp/en/\" style=\"color:blue; text-decoration:underline\">وزارة الخارجية الكورية الشمالية</a>، ليجد أنَّ الخبر&nbsp;غير مذكور في الموقع الرسمي للوزارة. وكان آخر ما نشرته الوزارة حول الزعيم الكوري إرساله لسلالٍ من الزهور إلى مقبرة الشهداء في 23 أكتوبر<span dir=\"LTR\">/</span>تشرين الأول الفائت.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_fg2yi97k4.jpg\" style=\"height:540px; width:614px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">اقرأ/ي أيضاً</p>\r\n\r\n<p><a href=\"https://misbar.com/factcheck/2020/05/06/%D8%B9%D9%88%D8%AF%D8%A9-%D8%B1%D8%A6%D9%8A%D8%B3-%D9%83%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D8%AD%D8%A7%D9%85%D9%84%D8%A7-%D8%B5%D8%A7%D8%B1%D9%88%D8%AE-%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%B3%D8%A7%D8%AE%D8%B1\" target=\"_blank\">عودة رئيس كوريا الشمالية حاملاً صاروخ.. فيديو ساخر</a></p>\r\n\r\n<p><a href=\"https://misbar.com/factcheck/2020/08/13/%D9%87%D8%B0%D9%87-%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9-%D9%84%D9%8A%D8%B3%D8%AA-%D9%81%D9%8A-%D9%83%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8%D9%8A%D8%A9-%D9%88%D8%A5%D9%86%D9%85%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D8%B5%D9%8A%D9%86\" target=\"_blank\">هذه الصورة ليست في كوريا الجنوبية وإنما في الصين</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">نشرت قناة على موقع يوتيوب تحمل اسم &quot;<span dir=\"LTR\">BUZZ TUBE</span>&quot; وقناة أخرى باسم &quot; <span dir=\"LTR\">Djamel Yahyaoui</span>&quot; مقطعاً مسجلاً، يقول فيه الراوي إنَّ الزعيم الكوري كيم جونغ أون شن هجوماً على نظيره الفرنسي إيمانويل ماكرون عقب تصريحات الأخير حول الإسلام، واصفاً ما قاله ماكرون بالوقاحة. وإنَّ ماكرون يهاجم الإسلام للتغطية على الأزمة التي تعيشها فرنسا وسياساته الفاشلة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_4o3arqsbb.jpg\" style=\"height:438px; width:623px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ekwd6ktsi.jpg\" style=\"height:432px; width:623px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 307,
+        "left": 7.438873291015625,
+        "path": "articles/1604495944GettyImages-1035996238.jpg",
+        "top": 46.07177734375,
+        "totalHeight": 423,
+        "totalWidth": 554,
+        "watermark_path": "articles/watermark-1604495944GettyImages-1035996238.jpg",
+        "width": 546
+    },
+    "post_date": "2020-11-04T16:08:00.000+03:00",
+    "published": [
+        {
+            "id": "5f8eb18ba3818a4eb81ad3d2",
+            "link": "https://www.youtube.com/watch?v=5g-Uy93MiNM&app=desktop&fbclid=IwAR353o9moA_Wobv_bzLjDa1ZaxJS0fBzlqovu1FfiHzSAFGZE1qCRHVkAvU",
+            "name": "قناة يوتيوب",
+            "origin": "",
+            "path": "published/7_1603128187_72cba5bc67b31d9d753cf43c35e93c59a1b0f98d.jpg"
+        },
+        {
+            "id": "5f8eb18ba3818a4eb81ad3d2",
+            "link": "https://www.youtube.com/watch?v=j_r88U7zMwk&feature=youtu.be",
+            "name": "قناة يوتيوب",
+            "origin": "",
+            "path": "published/7_1603128187_72cba5bc67b31d9d753cf43c35e93c59a1b0f98d.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fa2aa48c323356e0a61a2d1",
+            "link": "http://www.mfa.gov.kp/en/",
+            "name": "وزارة خارجية كوريا الشمالية",
+            "origin": "",
+            "path": "sources/ca1fed8aef7426ddabdc8291c710a65d5541ead3.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "زعيم كوريا الشمالية لم يهاجم ماكرون بسبب تصريحاته",
+    "updated_at": "2020-11-04 16:25:51",
+    "url_path": "/factcheck/2020/11/04/زعيم-كوريا-الشمالية-لم-يهاجم-ماكرون-بسبب-تصريحاته",
+    "was_notification_pushed": "true"
+}

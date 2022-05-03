@@ -1,0 +1,94 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 5676,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "نفت وكالة الأناضول التركية صحة الخبر (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">فقدان تركيا غواصتين قبالة سواحل ليبيا.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-06-28 12:55:00",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ef868f4163be30685536f26",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تابع &quot;مسبار&quot; الأمر خلال الأيام القليلة الفائتة ولم يجد أي شيء رسمي يثبت صحة الخبر المتداول، ولم يشر أحد إلى مصدره. ونشرت وكالة <a href=\"https://www.aa.com.tr/ar/%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/%D8%A7%D8%A8%D8%AD%D8%AB-%D9%85%D8%B9%D9%86%D8%A7-%D8%B9%D9%86-%D8%BA%D9%88%D8%A7%D8%B5%D8%AA%D9%8A%D9%86-%D8%AA%D8%A7%D8%A6%D9%87%D8%AA%D9%8A%D9%86-%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D9%85%D8%B1%D8%B5%D8%AF-%D8%AA%D9%81%D9%86%D9%8A%D8%AF-%D8%A7%D9%84%D8%A3%D9%83%D8%A7%D8%B0%D9%8A%D8%A8/1892359\" style=\"color:#0563c1; text-decoration:underline\">الأناضول</a> التركية اليوم تقريراً ونفت ما جاء في الخبر، وقالت إنه لم يستند إلى مصادر رسمية أو يقدم أدلة ملموسة على صحته، إنما اعتمد على تغريدة واحدة لمغرد من جزر الباهاما يدعي أنه <a href=\"https://twitter.com/DonKlericuzio/status/1269761885034950657\" style=\"color:#0563c1; text-decoration:underline\">مقاول</a> في شركة أمنية خاصة، ومتخصص في المخابرات البحرية، لكنه لا يحمل اسماً حقيقياً أو معروفاً.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">وأضافت أنه من الصعوبة أن تفقد تركيا غواصة أو غواصتين منذ قرابة ثلاثة أسابيع دون أن تعلن عن ذلك. ومن الناحية الفنية، ووفقاً لخبراء، فإن احتمالات التشويش على الغواصات وتعطيل منظومة السيطرة والقيادة تبدو ضعيفة جداً لوجودها على أعماق بعيدة تحت سطح الماء، إضافة إلى أن تركيا تمتلك قدرات تقنية متقدمة في صناعاتها العسكرية.</span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت مواقع إخبارية وقنوات تلفزيونية وحسابات على وسائل التواصل الاجتماعي مؤخرا، خبراً&nbsp; عن فقدان تركيا لغواصتين قبالة سواحل ليبيا.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FSkyNewsArabia%2Fvideos%2F298109001570921%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_3fz8nimu9.jpg\" style=\"height:418px; width:566px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 7.5,
+        "path": "articles/1593338099GettyImages-1203002194.jpg",
+        "top": 0,
+        "totalHeight": 512,
+        "totalWidth": 767,
+        "watermark_path": "articles/watermark-1593338099GettyImages-1203002194.jpg",
+        "width": 752
+    },
+    "post_date": "2020-06-28T12:52:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/SkyNewsArabia/videos/298109001570921/?__xts__%5B0%5D=68.ARDyQmTufbdJGCl6n4IfDGmUhQUwZDjEexQUqM0Dqzkp78FTgZDCXS91qNirEJvy3mOOICgMVQqPhwsZgi_ST8dvUsEozbHZ9kEifMZNdX2g86R3PG3h2j8TE7iSKNagi2GENh9DsPgVEmkKmnq9_D4-aTsktEdtQhCkNboVU4f17dlJ2OlxEjGFHbHRG62Le4PTQE9CAwAekWMJmdDTt6iDeiuKlPwdy7VOIku3rKa7yL6t-noD4YgaIWxs6TpCDK_IpnO_RAFsO75fPbyRT4iVHE5WxW3qJ0mpAhHRWMy9EVAb49CY15_u6BgsRjMa-N5SVbD_bRwJ3R5RxS5e-euuHDywc4aDncrKDg&__tn__=H-R",
+            "name": "سكاي نيوز عربية",
+            "path": "published/0_1593338099_سكاي نيوز عربية.jpg"
+        },
+        {
+            "link": "https://www.youm7.com/story/2020/6/25/%D8%B1%D9%88%D8%A7%D8%AF-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D9%8A%D8%B3%D8%AE%D8%B1%D9%88%D9%86-%D9%85%D9%86-%D8%A3%D8%B1%D8%AF%D9%88%D8%BA%D8%A7%D9%86-%D8%A8%D8%B9%D8%AF-%D9%81%D9%82%D8%AF%D8%A7%D9%86-%D8%BA%D9%88%D8%A7%D8%B5%D8%AA%D9%8A%D9%86-%D8%A8%D8%A7%D9%84%D8%A8%D8%AD%D8%B1/4845273",
+            "name": "اليوم السابع ",
+            "path": "published/1_1593338232_3Qt-Zrhp_400x400.jpg"
+        },
+        {
+            "link": "https://alaraby-media.net/%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%AA%D9%81%D9%82%D8%AF-%D8%A7%D9%84%D8%A7%D8%AA%D8%B5%D8%A7%D9%84-%D8%A8%D8%BA%D9%88%D8%A7%D8%B5%D8%AA%D9%8A%D9%86-%D8%AA%D8%A7%D8%A8%D8%B9%D8%AA%D9%8A%D9%86-%D9%84-3/",
+            "name": "العربي ميديا",
+            "path": "published/2_1593338232_العربي ميديا.jpg"
+        },
+        {
+            "link": "https://libyan.tv/2020/06/08/%D8%A8%D8%B3%D8%A8%D8%A8-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D8%AA%D8%B4%D9%88%D9%8A%D8%B4-%D9%85%D8%AC%D9%87%D9%88%D9%84%D8%A9-%D8%A7%D9%84%D9%85%D8%B5%D8%AF%D8%B1-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7/",
+            "name": "الفضائية الليبية",
+            "path": "published/3_1593338232_اليبيبة.jpg"
+        },
+        {
+            "link": "https://twitter.com/AgozBaran/status/1276509016311685121",
+            "name": "Abdullah  Baran",
+            "path": "published/4_1593338232_Abdullah  Baran.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.aa.com.tr/ar/%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/%D8%A7%D8%A8%D8%AD%D8%AB-%D9%85%D8%B9%D9%86%D8%A7-%D8%B9%D9%86-%D8%BA%D9%88%D8%A7%D8%B5%D8%AA%D9%8A%D9%86-%D8%AA%D8%A7%D8%A6%D9%87%D8%AA%D9%8A%D9%86-%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D9%85%D8%B1%D8%B5%D8%AF-%D8%AA%D9%81%D9%86%D9%8A%D8%AF-%D8%A7%D9%84%D8%A3%D9%83%D8%A7%D8%B0%D9%8A%D8%A8/1892359",
+            "name": "الأناضول",
+            "path": "sources/0_1593338099_اناضول.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الأناضول تنفي فقدان تركيا غواصتين قبالة سواحل ليبيا",
+    "updated_at": "2020-09-25 20:00:20",
+    "url_path": "/factcheck/2020/06/28/الأناضول-تنفي-فقدان-تركيا-غواصتين-قبالة-سواحل-ليبيا"
+}

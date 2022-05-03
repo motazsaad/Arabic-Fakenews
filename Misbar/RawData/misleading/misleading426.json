@@ -1,0 +1,188 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 253,
+    "author": {
+        "fullname": "أمين العطلة",
+        "id": "5e20299dd4a22961d73b6713",
+        "photo": {
+            "path": "authors/1579676161_Ameen.jpg"
+        }
+    },
+    "caption": "حملة انطلقت في ألمانيا (فيسبوك)",
+    "category": "Spirituality & Religion",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">مسلم يوزع نسخاً من القرآن بالمجان في فرنسا لكي يعلموا عظمة الدين الإسلامي.</p>\r\n",
+    "country": "FR",
+    "created_at": "2020-10-29 16:46:31",
+    "created_by": "5f4a6d1e602118062e53594f",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 6,
+    "id": "5f9ac7b759875525471b49a7",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;<a href=\"https://misbar.com/\" style=\"color:blue; text-decoration:underline\" target=\"_blank\"><span style=\"color:#1155cc\">مسبار</span></a>&quot; من الادعاء المتداول ووجد أنه مضلل، لأنّ الصورة الأصلية تعود لحملة انطلقت في ألمانيا لتوزيع نسخ من المصحف مجاناً.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">بالبحث العكسي عن الصورة، لم يتسن لمسبار الوصول إلى أصل الصورة. لكن عند تحليل عناصرها، خصوصاً اللافتة وراء الشخص الذي يحمل القرآن بين يديه، تبين أنه شعار حملة انطلقت عام 2014 في ألمانيا لتوزيع المصحف مجاناً في الشوارع. ونشر موقع <a href=\"https://www.dw.com/ar/%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7-%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%A5%D9%84%D9%89-%D9%85%D9%88%D8%B2%D8%B9%D9%8A-%D9%86%D8%B3%D8%AE-%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86-%D8%A8%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D9%86/a-18029016\" style=\"color:blue; text-decoration:underline\">DW</a> الألماني تقريراً عن الحملة حينها.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_uo6syko0n.jpg\" style=\"height:589px; width:432px\" /></span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_qpcqryuj4.jpg\" style=\"height:378px; width:624px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "فرنسا",
+        "ألمانيا",
+        "قرآن",
+        "إساءة للنبي"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تتناقل صفحات وحسابات على مواقع التواصل الاجتماعي، حديثاً، صورة تدعي أنها لمسلم يوزّع نسخاً من القرآن الكريم بالمجان في فرنسا لكي يعلم الناس&nbsp;عظمة الدين الإسلامي.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ouy6fpeqn.jpg\" style=\"height:738px; width:462px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_a5plrdf5h.jpg\" style=\"height:681px; width:466px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 184,
+        "left": 0.7377777099609375,
+        "path": "articles/1603979191مسلم يوزع القرآن.jpg",
+        "top": 25.835205078125,
+        "totalHeight": 423,
+        "totalWidth": 331,
+        "watermark_path": "articles/watermark-1603979191مسلم يوزع القرآن.jpg",
+        "width": 328
+    },
+    "post_date": "2020-10-29T16:43:00.000+03:00",
+    "published": [
+        {
+            "id": "5f9acd48c314a646700fdafa",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=379101980190669&id=101640407936829",
+            "name": "لا إله إلا الله محمد رسول الله",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        },
+        {
+            "id": "5f9acd4860e37b108611bd65",
+            "link": "https://www.facebook.com/Salafawey/posts/221560869395125",
+            "name": "فيسبكاوي سلفاوي",
+            "origin": "facebook",
+            "path": "sources/781e1a404c52ef566e59534f04848c385e0fc9c1.jpg"
+        },
+        {
+            "id": "5f9acd48a046907f910dd9b5",
+            "link": "https://www.facebook.com/photo.php?fbid=2795075127417691&set=a.1679825862275962&type=3&theater",
+            "name": "Madjid Bin Zair",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        },
+        {
+            "id": "5f9acd48346ae127664bd1f2",
+            "link": "https://www.facebook.com/biggbuz1/posts/1489372377923130",
+            "name": "منوعات روائع ثقافية",
+            "origin": "facebook",
+            "path": "sources/6a88d574c41a60e5326bd6e2e0739be354eff89c.jpg"
+        },
+        {
+            "id": "5f9acd4804b0b562413749ff",
+            "link": "https://www.facebook.com/kerdassalaan/posts/1782023338620640",
+            "name": "كرداسة الآن",
+            "origin": "facebook",
+            "path": "sources/7b25cf017c9cc47a2fe3b83ed854e6d4d39e9831.jpg"
+        },
+        {
+            "id": "5f9acd49c89751170530c677",
+            "link": "https://www.facebook.com/groups/2804777479808059/permalink/2806668086285665/",
+            "name": "د.عماد عبدالله عيسى",
+            "origin": "facebook",
+            "path": "sources/9fb41797f3ab0b7b87f8775614ed7b0bdd915b9b.jpg"
+        },
+        {
+            "id": "5f9acd4936fe58241b4e6790",
+            "link": "https://www.facebook.com/yawmiaat.Libyan.walibia/posts/1812515092260557",
+            "name": "يوميات ليبي وليبية",
+            "origin": "facebook",
+            "path": "sources/2f33ebdbb7c193c54bf80e411139f52c16d11f9b.jpg"
+        },
+        {
+            "id": "5f9acd4981eedb01be654947",
+            "link": "https://www.facebook.com/groups/660208460853021/permalink/1551550681718790/",
+            "name": "رمضان ابو جنيدي",
+            "origin": "facebook",
+            "path": "sources/9fb41797f3ab0b7b87f8775614ed7b0bdd915b9b.jpg"
+        },
+        {
+            "id": "5f9acd492f89dd6fcd5e1639",
+            "link": "https://www.facebook.com/groups/353265805490256/permalink/804874280329404/",
+            "name": "فاتن محمد",
+            "origin": "facebook",
+            "path": "sources/9fb41797f3ab0b7b87f8775614ed7b0bdd915b9b.jpg"
+        },
+        {
+            "id": "5f9acd4937d5735e3a5622b4",
+            "link": "https://www.facebook.com/groups/414786012316431/permalink/1041066433021716/",
+            "name": "Lansari Mohamed",
+            "origin": "facebook",
+            "path": "sources/9fb41797f3ab0b7b87f8775614ed7b0bdd915b9b.jpg"
+        },
+        {
+            "id": "5f9acd4991e1cd73481d2ff4",
+            "link": "https://www.facebook.com/groups/371122282965603/permalink/3397196140358187/",
+            "name": "محمد سليمان",
+            "origin": "facebook",
+            "path": "sources/9fb41797f3ab0b7b87f8775614ed7b0bdd915b9b.jpg"
+        },
+        {
+            "id": "5f9acd499892d12f6c01f43f",
+            "link": "https://www.facebook.com/Krdasalovers/posts/3279762968819117",
+            "name": "كرداسة",
+            "origin": "facebook",
+            "path": "sources/dc76e92018c644fa74da694cbbbb14dd72aec1b7.jpg"
+        },
+        {
+            "id": "5f9acd495a378f2a003cb251",
+            "link": "https://www.facebook.com/photo.php?fbid=1005066843292696&set=a.116497612149628&type=3&theater",
+            "name": "Abdelrahman H. Hashim",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        },
+        {
+            "id": "5f9acd49ff4c6730a157e24c",
+            "link": "https://www.facebook.com/photo/?fbid=1304171849915803&set=gm.985830165257911",
+            "name": "Ali Khairi",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        },
+        {
+            "id": "5f9acd4a8d6fc94ec80965a1",
+            "link": "https://www.facebook.com/groups/nassmidelt/permalink/3731924986818590/",
+            "name": "حفيظة الكرومي",
+            "origin": "facebook",
+            "path": "sources/9fb41797f3ab0b7b87f8775614ed7b0bdd915b9b.jpg"
+        },
+        {
+            "id": "5f9acd4a0d3aad1ab004b04c",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=140299047830279&id=103788568147994",
+            "name": "الجمال عدي الكلام",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f919c6afdbe851b4810060f",
+            "link": "https://www.dw.com/ar/%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7-%D8%B2%D9%8A%D8%A7%D8%B1%D8%A9-%D8%A5%D9%84%D9%89-%D9%85%D9%88%D8%B2%D8%B9%D9%8A-%D9%86%D8%B3%D8%AE-%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86-%D8%A8%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D9%86/a-18029016",
+            "name": "DW News",
+            "origin": "",
+            "path": "sources/1_1596906589_4T05Cmmh_400x400.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الصورة قديمة لتوزيع القرآن الكريم في ألمانيا، وليس فرنسا",
+    "updated_at": "2020-10-29 17:34:25",
+    "url_path": "/factcheck/2020/10/29/الصورة-قديمة-لتوزيع-القرآن-الكريم-في-ألمانيا-وليس-فرنسا",
+    "was_notification_pushed": "true"
+}

@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 4351,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "تبين أن المنشور مفبرك(فيسبوك)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">فاطمة المسدي تتهم حركة النهضة بالوقوف وراء أعمال الشغب، في مدينة بروكلين بالولايات المتحدة الأميركية.</p>\r\n",
+    "country": "TN",
+    "created_at": "2020-06-01 12:29:55",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ed4ca93db291673f0569ac4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من المنشور&nbsp;وتبين أنّه&nbsp;مفبرك، إذ لم تنشر السياسية التونسية المنشور&nbsp;المتداول. كما وضّحت المسدّي عبر حسابها الخاص على موقع فيسبوك أنّه مفبرك.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"420\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ffatma.mseddi.54%2Fposts%2F274791086900463&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تداولت صفحاتٌ وحساباتٌ على مواقع التواصل الاجتماعيّ، خبراً يدّعي أن النائب السابق بمجلس نواب الشعب التونسي، فاطمة المسدي، اتهمت حركة النهضة بالوقوف وراء أعمال الشغب في </span><span style=\"color:black\">مدينة بروكلين الأميركية، </span><span style=\"background-color:white\"><span style=\"color:black\">خلال الاحتجاجات التي تلت وفاة الأميركي من أصول أفريقية، جورج فلويد،</span></span> على يد شرطيّ،&nbsp;يوم 25 مايو/أيار 2020.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:black\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_ob1nwi84i.jpg\" style=\"height:458px; width:465px\" /></span></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:black\"><img alt=\"Capture4.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_6skrs0390.jpg\" style=\"height:522px; width:335px\" /></span></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:black\"><img alt=\"101564642_2283056348669469_4370161298495766528_n.jpg\" src=\"https://images-prod.misbar.com/articlebody/origin_pi6e5pxq2.jpg\" style=\"height:617px; width:605px\" /></span></span></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 258,
+        "left": 22.1805419921875,
+        "path": "articles/159100379374381206_178710166508556_6291270307088957440_o.jpg",
+        "top": 78.4453125,
+        "totalHeight": 423,
+        "totalWidth": 485,
+        "watermark_path": "articles/watermark-159100379374381206_178710166508556_6291270307088957440_o.jpg",
+        "width": 459
+    },
+    "post_date": "2020-06-01T10:15:00.000+03:00",
+    "published": [
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=10158600819462652&id=751177651",
+            "name": "رضوان المصمودي ",
+            "path": "published/0_1591003793_94231231_10158458689462652_963111369194864640_o.jpg"
+        },
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=2475657645990166&id=2109314595957808",
+            "name": "أضرب مازال يتنفس",
+            "path": "published/1_1591003793_49204832_2109316175957650_6723432570702266368_n.jpg"
+        },
+        {
+            "link": "https://m.facebook.com/groups/174525679302721?view=permalink&id=3046796382075622",
+            "name": "عبير الجلاصي",
+            "path": "published/2_1591003793_1.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/rassad13/photos/a.103567354550572/154284209478886/?type=3&theater",
+            "name": "الراصد التونسي",
+            "path": "published/3_1591003793_87894274_120906956149945_4499433079596646400_n.jpg"
+        },
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=270683930965005&id=110419066991493",
+            "name": "فايسبوك قابس",
+            "path": "published/4_1591003793_93491214_235827051117360_5050396389180178432_n.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/fatma.mseddi.54",
+            "name": " فاطمة المسدي",
+            "path": "sources/0_1591006738_95097013_255635828815989_3406490191983017984_n.jpg"
+        },
+        {
+            "link": "http://fotoforensics.com/analysis.php?id=6ae42c8d4af3664c0a6aadaf59844b1c2171d2c5.29377",
+            "name": "fotoforensic",
+            "path": "sources/1_1591006738_2.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "سياسية تونسية: حركة النهضة وراء أعمال الشغب في أميركا.. منشور مفبرك",
+    "updated_at": "2020-09-25 08:39:34",
+    "url_path": "/factcheck/2020/06/01/سياسية-تونسية-حركة-النهضة-وراء-أعمال-الشغب-في-أميركا-تدوينة-مفبركة"
+}

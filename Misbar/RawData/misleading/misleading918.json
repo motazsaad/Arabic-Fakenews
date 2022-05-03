@@ -1,0 +1,108 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 5770,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "الذئب الرمادي في الفيديو ظهر في أميركا عام 2017 (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">ظهور ذئب كبير في تونس ونوع نادر من الوحوش المفترسة في لبنان.</p>\r\n",
+    "country": "",
+    "created_at": "2020-07-09 14:48:20",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f070404163be306ab3ad276",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الادعاء المتداول وتبيّن أنه مضلّل. إذ أن الفيديو الأصلي يعود لظهور ذئب يُدعى الذئب الرمادي في وادي لامار في ولاية وايومينغ في الولايات المتّحدة الأميركية، في شهر يناير/كانون الثاني عام 2017. ونشر موقع <span dir=\"LTR\">Earth Touch</span> <a href=\"https://www.earthtouchnews.com/conservation/success-stories/photographer-meets-a-big-burly-wolf-in-yellowstone-video/\" style=\"color:blue; text-decoration:underline\"><span style=\"color:#e74c3c\">تقريرا</span></a><span style=\"color:blue\"><u>ً</u></span> عن المقطع المصوّر بعد أيامٍ من نشره، قابل من خلاله <a href=\"http://www.facebook.com/wolftrackr\"><span style=\"color:#e74c3c\">مصوّر </span></a>الفيديو.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"AR-SA\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_xsw58sjy9.jpg\" style=\"height:403px; width:602px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت حسابات على موقع التواصل الاجتماعي فيسبوك مقطعاً مصوّراً ادّعى بعض ناشريه&nbsp;أنه لظهور نوعٍ نادرٍ من الوحوش المفترسة في أعالي جبال أهدن شمال لبنان، في حين ادّعى البعض الآخر أنه لذئبٍ كبيرٍ ظهر في تونس.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/Fic8h41SF8c\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_3sb3p3qqu.jpg\" style=\"height:531px; width:582px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 286,
+        "left": 8.333282470703125,
+        "path": "articles/1594295300main photo.jpg",
+        "top": 93.9248046875,
+        "totalHeight": 386,
+        "totalWidth": 519,
+        "watermark_path": "articles/watermark-1594295300main photo.jpg",
+        "width": 509
+    },
+    "post_date": "2020-07-09T14:32:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.youtube.com/watch?v=XUXePG0UCZc",
+            "name": "X Mas",
+            "path": "published/0_1594295299_XMAS.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/alsaa.net/videos/1037796459939793/",
+            "name": "وكالة مدار الساعة الإخبارية",
+            "path": "published/1_1594295299_وكالة مدار الساعة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/lebdailyweather/videos/651973918874421/?v=651973918874421",
+            "name": "Lebanese Daily Weather",
+            "path": "published/2_1594295299_lebanese daily weather.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=DL4E9Pb3DyA",
+            "name": "ابو اسد",
+            "path": "published/3_1594295299_ابو اسد.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=Fic8h41SF8c&feature=youtu.be&fbclid=IwAR3px-LqDdPExTpAmeITqQlDe9SpCYn2WNcwpVV46BwQeO3uT8_wjnL2Yjk",
+            "name": "tutap hello",
+            "path": "published/4_1594295299_tutap hello.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/moezjadaida/videos/268360713575818/",
+            "name": "Moez Ben Amer",
+            "path": "published/5_1594295299_moez.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/chedly.harzi/videos/3029628710432395/",
+            "name": "الجنيرال الحرزي",
+            "path": "published/6_1594295299_الجنيرال.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/wolftrackr/videos/993045444173478/",
+            "name": "Siddharth Gandhi Photography ",
+            "path": "sources/0_1594295299_ghandi photography.jpg"
+        },
+        {
+            "link": "https://www.earthtouchnews.com/conservation/success-stories/photographer-meets-a-big-burly-wolf-in-yellowstone-video/",
+            "name": "Earth Touch",
+            "path": "sources/1_1594295299_earth thouch.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الفيديو لذئب في أميركا وليس في البلدان العربية",
+    "updated_at": "2020-09-23 12:26:55",
+    "url_path": "/factcheck/2020/07/09/الفيديو-ليس-لوحش-مفترس-في-لبنان-أو-ذئب-في-تونس-انما-لذئب-في-أميركا"
+}

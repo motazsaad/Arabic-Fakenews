@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 344,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "category": "Sports",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">قناة إسرائيلية أرادت أن تجري لقاء مع اللاعب البرتغالي كريستيانو رونالدو، فقام الأخير بالإمساك بمايكروفون المذيع وإلقائه في الماء.</p>\r\n",
+    "country": "",
+    "created_at": "2020-01-12 13:53:20",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e1afaa0d4a2294587548453",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">المقطع المنتشر ليس جديداً، ولم يصوَّر في 2019، وإنما تم تصويره في العام 2016، حيث كان دييغو توريس مراسل قناة <span dir=\"LTR\">CMTV</span> البرتغالية يسأل رونالدو عن ما إذا كان مستعداً لمباراة البرتغال مع المجر خلال تصفيات بطولة يورو 2016، ليحصل بعدها الموقف الواضح في الفيديو (في المصادر).</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_2c132fa7a7e4e3bce1d34105edfc1991.jpg\" style=\"height:531px; width:648px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وبحسب ما نشرت صحيفة الغارديان قبل ثلاث سنوات، فإنَّ رونالدو كان يواجه في حينها ضغوطاً إعلامية متصاعدة بعد ركلة جزاء أهدرها أمام النمسا، وهو ما قد يكون ترك أثراً على طريقة تعامل النجم البرتغالي مع وسائل الإعلام.</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "كريستيانو",
+        "رونالدو",
+        "مايكروفون"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">انتشر على بعض صفحات مواقع التواصل الاجتماعي، وموقع يوتيوب، مقطعاً يظهر فيه نجم كرة القدم البرتغالي كريستيانو رونالدو وهو يسير بالقرب من بحيرة، ويتقدم صحفي ليجري معه مقابلة، ليقابله رونالدو بإمساك المايكروفون من يد الصحفي وإلقائه في الماء. انتشر المقطع خلال نوفمبر/ تشرين الثاني من العام 2019 على أنَّه لقناة إسرائيلية أرادت إجراء مقابلة مع النجم العالمي، وأنَّ الأخير كان معترضاً على عمل لقاء مع قناة إسرائيلية؛ فقام بإلقاء المايكروفون في البحيرة.</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 350,
+        "left": 11.563232421875,
+        "path": "articles/1578826400رونالدو.JPG",
+        "top": 47.31683349609375,
+        "totalHeight": 423,
+        "totalWidth": 632,
+        "width": 623
+    },
+    "post_date": "2019-11-27T13:41:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/Samy.Kamal.Eldeen/videos/522557471919394/",
+            "name": "الإعلامي سامي كمال الدين",
+            "path": "published/0_1578826400_facebook.jpg"
+        },
+        {
+            "link": "https://www.sm3ha.com/song/%D8%B1%D8%AF-%D9%81%D8%B9%D9%84-%D9%83%D8%B1%D9%8A%D8%B3%D8%AA%D9%8A%D8%A7%D9%86%D9%88-%D8%B1%D9%88%D9%86%D8%A7%D9%84%D8%AF%D9%88-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%86-%D8%AD%D8%A7%D9%88%D9%84%D8%AA-%D9%82%D9%86%D8%A7%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D9%87-%D8%AA%D8%B3%D8%AC%D9%8A%D9%84-%D8%AD%D9%88%D8%A7%D8%B1-%D9%85%D8%B9%D9%87.html",
+            "name": "سمعها",
+            "path": "published/1_1578826400_سمعها.JPG"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=Nu31oKbkukI",
+            "name": "Match-Kora",
+            "path": "published/2_1578826400_YouTube-logo.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.theguardian.com/football/2016/jun/22/cristiano-ronaldo-throws-television-reporters-microphone-into-lake?fbclid=IwAR07kNcAZ_AvNyL5RyCLW9io_ysHYMC57jePcEipJapABc3pgaPBbm2n6t4",
+            "name": "The guardian",
+            "path": "sources/0_1578826400_The Guardian-logo.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=l2P8xNNIb8c",
+            "name": "RT",
+            "path": "sources/1_1578826400_RT.jpg"
+        },
+        {
+            "link": "https://www.independent.co.uk/sport/football/international/euro-2016-cristiano-ronaldo-must-apologise-for-throwing-microphone-into-lake-says-portuguese-tv-a7097771.html",
+            "name": "Independent",
+            "path": "sources/2_1578826400_Independent- logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "فيديو منتشر على أنه لرونالدو يرمي بمايكروفون قناة إسرائيلية",
+    "updated_at": "2020-09-23 12:40:08",
+    "url_path": "/factcheck/2020/01/12/فيديو-منتشر-على-أنه-لرونالدو-يرمي-بمايكروفون-قناة-إسرائيلية"
+}

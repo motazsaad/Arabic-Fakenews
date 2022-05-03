@@ -1,0 +1,111 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 3930,
+    "author": {
+        "fullname": "مريم هواري",
+        "id": "5e299460d4a22939983a3ec5",
+        "photo": {
+            "path": "authors/1579791192_Maryam.jpg"
+        }
+    },
+    "caption": "الإعفاء لحملة جوازات السفر الدبلوماسية فقط (Getty)",
+    "category": "Travel",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">&nbsp;الرئيس التركي رجب طيب أردوغان يُصدر قراراً بإعفاء المواطنين الفلسطينيين من تأشيرة الدخول لتركيا.</p>\r\n",
+    "country": "",
+    "created_at": "2020-06-04 12:34:04",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 0,
+    "id": "5ed8c00cdb291619e0514624",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الخبر مُضلل. إذ بموجب قرار الرئيس التركي رجب طيّب أردوغان، مددت تركيا فترة الإعفاء من تأشيرة الدخول للأراضي التركية، للمواطنين الفلسطينية حاملي جوازات السفر الدبلوماسية فقط بما لا يتجاوز 90 يوماً، ولم يشمل القرار جميع المواطنين الفلسطينيين.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_q6bhrc2vs.jpg\" style=\"height:627px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_8wsyshllr.jpg\" style=\"height:835px; width:624px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت عدّة صفحات على موقع التواصل الاجتماعي فيسبوك في بداية شهر يونيو/حزيران الجاري، خبراً مفاده إعفاء المواطنين الفلسطينيين الراغبين في زيارة تركيا من تأشيرة الدخول المطلوبة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_cgi1aw4er.jpg\" style=\"height:801px; width:498px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_6ewe3lm01.jpg\" style=\"height:737px; width:494px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_eumtifckz.jpg\" style=\"height:415px; width:624px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 154,
+        "left": 3.8713226318359375,
+        "path": "articles/1591263243GettyImages-1213155035.jpg",
+        "top": 10.614013671875,
+        "totalHeight": 187,
+        "totalWidth": 280,
+        "watermark_path": "articles/watermark-1591263243GettyImages-1213155035.jpg",
+        "width": 274
+    },
+    "post_date": "2020-06-04T12:24:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/groups/ArtGirll/permalink/2668052350094257/",
+            "name": "أميرة أبي",
+            "path": "published/0_1591263242_أميرة أبي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ardoganeFans/posts/272188054189928",
+            "name": "رجب طيب أردوغان بالعربية",
+            "path": "published/1_1591263242_اردوغان بالعربية.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Ali.Abo.Baraa/posts/2938164606270091",
+            "name": "علي أبو البراء",
+            "path": "published/2_1591263242_علي ابو البراء.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/oguzhanli.sanliturkmen/posts/1923428487794514",
+            "name": "Göktürk Şanlitürkmen",
+            "path": "published/3_1591263242_Göktürk Şanlitürkmen1.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/faten.othman.52/posts/974289389657168",
+            "name": "Faten Othman",
+            "path": "published/4_1591263243_فاتن عثمان.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2698959187015155&id=100007032992888",
+            "name": "Ahmad Alhroob Trt",
+            "path": "published/5_1591263243_احمد الحروب.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.aa.com.tr/ar/%d8%aa%d8%b1%d9%83%d9%8a%d8%a7/%d8%aa%d8%b1%d9%83%d9%8a%d8%a7-%d8%aa%d9%85%d8%af%d8%af-%d9%81%d8%aa%d8%b1%d8%a9-%d8%a7%d9%84%d8%a5%d8%b9%d9%81%d8%a7%d8%a1-%d9%85%d9%86-%d8%a7%d9%84%d8%aa%d8%a3%d8%b4%d9%8a%d8%b1%d8%a9-%d9%84%d9%84%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86%d9%8a%d9%8a%d9%86/1861724",
+            "name": "AA",
+            "path": "sources/0_1591263243_aa.JPG"
+        },
+        {
+            "link": "https://turkey-breaking.com/%D8%AA%D9%85%D8%AF%D9%8A%D8%AF-%D8%A5%D8%B9%D9%81%D8%A7%D8%A1-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D9%8A%D9%86-%D9%85%D9%86-%D8%AA%D8%A3%D8%B4%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%AF/",
+            "name": "تركيا عاجل",
+            "path": "sources/1_1591263243_تركيا عاجل.jpg"
+        },
+        {
+            "link": "https://www.turkpress.co/node/71961",
+            "name": "ترك برس",
+            "path": "sources/2_1591263243_ترك-برس.JPG"
+        },
+        {
+            "link": "http://www.rmix.ps/archives/273439",
+            "name": "رام الله مكس",
+            "path": "sources/3_1591263243_رام الله مكس RamaLLah Mix - logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "إعفاء الفلسطينيين من تأشيرة الدخول لتركيا.. خبر مضلل",
+    "updated_at": "2020-09-25 21:22:52",
+    "url_path": "/factcheck/2020/06/04/إعفاء-الفلسطينيين-من-تأشيرة-الدخول-لتركيا-خبر-مضلل"
+}

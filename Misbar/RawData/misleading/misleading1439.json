@@ -1,0 +1,85 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 262,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "category": "Politics",
+    "claim": "<p>مقطع فيديو لحفلِ تأسيس جمعيّة الصداقة السعوديّة الإسرائيلية.&nbsp;</p>\r\n",
+    "country": "SA",
+    "created_at": "2019-10-21 14:31:18",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5dad9706be494b1e10781efe",
+    "investigation": "<p>يعودُ تاريخ نشر الفيديو الأصلي إلى شهر ديسمبر/ كانون الأول 2016، والتُقط أثناء احتفالٍ بمناسبة عيد &quot;الحانوكا&quot; اليهودي في البحرين، عندما زار المملكة وفدٌ من التجار اليهود الأمريكيين. وأثار الفيديو حينها ردودَ فعلٍ مستنكرة من عددٍ من روّاد مواقع التواصل الاجتماعي فأطلقوا وسم #بحرينون_ضد_التطبيع. في المقابل اعتبرَ آخرون أنّ هؤلاء يهود وليسوا صهاينة، وما حدث لا يُعدّ تطبيعاً مع دولة الاحتلال.&nbsp;</p>\r\n\r\n<p>وتأتي عودة الفيديو&nbsp;للانتشارعلى أنّه احتفالٌ بتأسيسِ جمعيةٍ للصداقة بين السعودية وإسرائيل، في سياق بروز بعض مظاهر التطبيع بين بعض الدول العربية واسرائيل في سياق ما باتَ يُعرف بــ &quot;صفقة القرن&quot;، والتي تمّ الكشف عن بعض تفاصيلها خلال &quot;ورشة البحرين&quot; في يونيو/ حزيران الفائت، وشاركت فيها عدّة دولٍ عربية هي: السعودية ومصر والإمارات العربية المتحدة والمغرب والأردن.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_e8866e564e80a393138ca7f0f211b968.jpg\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p>نشرت عدّة مواقع الكترونية وحساباتٌ وصفحاتٌ على مواقع التواصل الاجتماعي في أوائلِ هذا العام، مقطع فيديو قالت إنّه التُقطَ خلال حفل افتتاح جمعيّة الصداقة الإسرائيلية السعودية. يُظهر الفيديو رجالاً يرتدون الزيّ الخليجي التقليدي وهم يرقصون مع آخرين يلبسون ثياب سوداء وقلنسوات تدلّ على أنهم يهود. وقد أُعيدَ تداول المقطع حديثاً على أنه احتفالٌ بمناسبةِ تأسيس جمعيّةٍ للصداقة بين السعوديّة وإسرائيل.&nbsp;</p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_7d47a872db95ddd380d3e79d2ad444c0.jpg\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_0271edc211c0e53a5b862265cb253cd1.jpg\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1574257039GettyImages-615930902 (1).jpg"
+    },
+    "post_date": "2019-09-17T14:10:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.shasha.ps/news/229849.html",
+            "name": "شاشة نيوز",
+            "path": "published/0_1571657478_شاشة نيوز-لوغو.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=-DQIIvQS-3I",
+            "name": "قناة المسلم",
+            "path": "published/1_1571657478_قناة المسلم-لوغو.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=Z6UWrYR1chQ&t=2s",
+            "name": "Medo Tube",
+            "path": "published/2_1571657478_Medo Tube-logo.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=FNKF6nG1zvk",
+            "name": "Today's Video",
+            "path": "sources/0_1571657478_Tody's Video- logo.jpg"
+        },
+        {
+            "link": "https://www.bbc.com/arabic/trending-38438922?fbclid=IwAR1XXw5JjRbBw1gqG2YEVP8QAAVdJf5RPxo6AylQsaQxbxw6MLXWIT9EOC0",
+            "name": "BBC عربي",
+            "path": "sources/1_1571657478_بي بي سي عربي- لوغو.jpg"
+        },
+        {
+            "link": "https://www.nytimes.com/2016/12/27/world/middleeast/bahrain-hanukkah-arabs-jews.html",
+            "name": "The New York Times",
+            "path": "sources/2_1571657478_The new York times-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ما حقيقة افتتاح جمعيّة صداقة سعوديّة إسرائيليّة؟",
+    "updated_at": "2020-09-23 16:16:33",
+    "url_path": "/factcheck/2019/10/21/ما-حقيقة-افتتاح-جمعية-صداقة-سعودية-إسرائيلية"
+}

@@ -1,0 +1,84 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1284,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة لوزير سوداني يرتدي الكمامة أثناء استقباله السفير الصيني.</p>\r\n",
+    "country": "SD",
+    "created_at": "2020-02-12 16:12:05",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e43f9a5d4a229492d2cb083",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الصورة المتداولة مفبركة. وعثر &quot;مسبار&quot; على الصورة الأصلية منشورة على الصفحة الرسمية لوزارة الخارجية السودانية على &quot;تويتر&quot;، في 3 فبراير/شباط من العام الجاري. وعلّقت الصفحة على الصورة بالقول: &quot;وزير الدولة بوزارة الخارجية يستقبل سفير جمهورية الصين الشعبية&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_3anyt1a1n.jpg\" style=\"height:508px; width:369px\" /></span></strong></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت حسابات وصفحات على موقع التواصل الاجتماعي &quot;فيسبوك&quot;، صورة قالت إنها تُظهر وزيراً سودانياً يرتدي الكمامة خلال استقباله السفير الصيني في الخرطوم.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_yp4xsn6ey.jpg\" style=\"height:426px; width:346px\" /></span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_lpnz8d7kh.jpg\" style=\"height:419px; width:332px\" /></span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_rjkgjg87k.jpg\" style=\"height:474px; width:303px\" /></span></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 312,
+        "left": 4,
+        "path": "articles/1581513124صورة المادة.jpg",
+        "top": 2,
+        "totalHeight": 423,
+        "totalWidth": 564,
+        "width": 554
+    },
+    "post_date": "2020-02-12T16:02:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/Mezghennamedia/photos/a.107432770716469/149902606469485/?type=3&theater",
+            "name": "مزغنة",
+            "path": "published/0_1581513124_مزغنة-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=2728702863878367&set=a.204468152968530&type=3&theater",
+            "name": "Khaled Almadhaji",
+            "path": "published/1_1581513124_Khaled Almadhaji-logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/sahifa24.ma/posts/910639896063618",
+            "name": "Sahifa 24",
+            "path": "published/2_1581513124_Sahifa 24.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/yomeyatahlaanaas/photos/a.1611940209092743/2605233626430058/?type=3&__tn__=-R",
+            "name": "يوميات أحلى ناس",
+            "path": "published/3_1581513124_يوميات أحلى ناس-لوغو.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/MofaSudan/status/1224379567017730050?fbclid=IwAR0jRKX4pbLdWHHIflkswG3JBz5C-KJb-kKHQLDkwrzkBWeCgv94Jm-yDsk",
+            "name": "وزارة خارجية جمهورية السودان",
+            "path": "sources/0_1581513124_وزارة خارجية جمهورية السودان-لوغو.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صورة مفبركة... الوزير السوداني لم يضع الكمامة في استقبال سفير الصين",
+    "updated_at": "2020-09-23 12:38:36",
+    "url_path": "/factcheck/2020/02/12/صورة-مفبركة-الوزير-السوداني-لم-يضع-الكمامة-في-استقبال-سفير-الصين"
+}

@@ -1,0 +1,109 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1841,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "الصورة لكاتدرائية باليرمو في مدينة صقلية في إيطاليا (فيسبوك)",
+    "category": "Arts & Culture",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-EG\">صورة من المتحف الروماني في الإسكندرية.</span></p>\r\n",
+    "country": "EG",
+    "created_at": "2020-09-23 17:50:29",
+    "created_by": "5f39b5a51dd585076701cb94",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 3,
+    "id": "5f6b60b5109f716dd631a083",
+    "investigation": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">الادعاء مضلل والصورة ليست من الإسكندرية. إذ أوضحت <a href=\"https://headtopics.com/eg/157516041570157102140-15800034\" style=\"color:#0563c1; text-decoration:underline\">وزارة السياحة المصرية</a> حقيقة الصورة، ونفى مؤمن عثمان رئيس قطاع المتاحف الادعاء المتداول، قائلاً &quot;الصورة لا تمت بصلة إلى المتحف اليوناني الروماني أو متحف الإسكندرية القومي ولا أي متحف أو أثر مسجل في مصر، مؤكداً أن الصورة لكاتدرائية باليرمو في مدينة صقلية في إيطاليا&quot;.</span></p>\r\n\r\n<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">وعثر &quot;مسبار&quot; على الصورة الأصلية بالفعل منشورة على مواقع إلكترونية إيطالية، ضمن أخبار تتحدث عن&nbsp;مشكلة الكابلات الظاهرة في الصورة المتداولة داخل كاتدرائية باليرمو.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_rnxqjorhf.jpg\" style=\"height:546px; width:624px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات وصفحات على مواقع التواصل الاجتماعي، حديثاً، صورة تُظهر حدوث تشوه في حوائط تحوي زخارف أثرية، بسبب كابل تكييف، وادعت الحسابات أنها من المتحف الروماني في محافظة&nbsp;الإسكندرية.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_24odkftk9.jpg\" style=\"height:848px; width:486px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_8ohgd7w78.jpg\" style=\"height:849px; width:480px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_kg4bc2nw7.jpg\" style=\"height:685px; width:481px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1600872629300.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1600872629300.jpg",
+        "width": 752
+    },
+    "post_date": "2020-09-23T17:48:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/ManalMo90122700/status/1308019603373789187",
+            "name": "Manal Mohamed",
+            "path": "published/0_1600872628_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/kwi_77/status/1308063842056966147",
+            "name": "يورجن،كلوب",
+            "path": "published/1_1600872840_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/MonoAboughali/status/1308236358750818305",
+            "name": "Mono Aboughali",
+            "path": "published/2_1600872840_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/ashraf.aboali.1291/posts/1503227116551908",
+            "name": "أشرف أبوعلي",
+            "path": "published/3_1600872840_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/AHMED.FIKRY.QENAWY/posts/1295905167416339",
+            "name": " Ahmed Fikry Qenawy",
+            "path": "published/4_1600872840_facebook.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://headtopics.com/eg/157516041570157102140-15800034",
+            "name": "مبتدا",
+            "path": "sources/0_1600872628_مبتدا.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.lasicilia.it/news/cronaca/362011/palermo-e-i-cavi-che-deturpano-la-cattedrale-sono-li-da-piu-di-50-anni.html",
+            "name": "Lasicilia",
+            "path": "sources/1_1600872628_Lasicilia.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الصورة من إيطاليا وليست من المتحف الروماني في الإسكندرية",
+    "updated_at": "2020-09-25 22:08:07",
+    "url_path": "/factcheck/2020/09/23/الصورة-من-إيطاليا-وليست-من-المتحف-الروماني-في-الإسكندرية",
+    "was_notification_pushed": "true"
+}

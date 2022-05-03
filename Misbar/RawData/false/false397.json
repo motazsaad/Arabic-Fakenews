@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 509,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "مركز حلب الإعلامي صور مقطع الفيديو عام 2014 (Aleppo Media Center)",
+    "category": "News",
+    "claim": "<p><span dir=\"RTL\" lang=\"AR-SA\">فيديو لطفل لبناني فقد أفراد عائلته بالانفجار في لبنان، ويبكي بحرقة فقدانهم.</span></p>\r\n",
+    "country": "LB",
+    "created_at": "2020-08-09 00:49:43",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f2f1df71dd58507974f2a34",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; ليجد أن الفيديو صحيح لكنه ليس له علاقة بانفجار لبنان، كما أنه ليس حديثاً بل هو مقطع فيديو نشره مركز حلب الإعلامي يصور قصف أحياء سكنية سورية عام 2014، وكان الطفل يبكي أفراد من عائلته قُتل بعضهم، ومن بينهم شقيقته عقب قصف الطيران العسكري التابع لقوات النظام مساكن هنانو الواقعة على أطراف حلب، في يوم 14-2-2014 بالبراميل المتفجرة.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/wfzvZUR3QS8\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">انتشر فيديو على صفحات وحسابات في موقع فيسبوك منذ الخامس من أغسطس/آب الجاري عقب حادث تفجير لبنان، تحت عنوان &quot;طفل لبناني فقد أهله في الانفجار&quot; والطفل يبكي بحرقة بعد أن غطاه غبار الانفجار، منادياً &quot;يا اخواتي&quot;، كما شاهد وعلق على مقطع الفيديو الآلاف في مختلف الصفحات العامة والشخصية.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_k1y6pisjs.jpg\" style=\"height:453px; width:605px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_jjgnunl34.jpg\" style=\"height:451px; width:605px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 364,
+        "left": -3,
+        "path": "articles/1596923383حلب.JPG",
+        "top": 4.3359375,
+        "totalHeight": 423,
+        "totalWidth": 658,
+        "watermark_path": "articles/watermark-1596923383حلب.JPG",
+        "width": 648
+    },
+    "post_date": "2020-08-08T21:46:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/Extracts.1.jm.g/videos/778407352701537/?v=778407352701537&external_log_id=9655b192-9c44-45f2-8149-a84f97a121f7&q=%D8%B7%D9%81%D9%84%20%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A%20%D9%81%D9%82%D8%AF%20%D8%A3%D9%87%D9%84%D9%87%20%D8%A8%D8%A7%D9%84%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1",
+            "name": "مقتطفات",
+            "path": "published/0_1596923382_0_1596888660_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=723575048219551&external_log_id=9655b192-9c44-45f2-8149-a84f97a121f7&q=%D8%B7%D9%81%D9%84%20%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A%20%D9%81%D9%82%D8%AF%20%D8%A3%D9%87%D9%84%D9%87%20%D8%A8%D8%A7%D9%84%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1",
+            "name": "مهاويل الجنوب",
+            "path": "published/1_1596923382_0_1596888660_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/112880580419568/videos/300748348039935/?v=300748348039935&external_log_id=9655b192-9c44-45f2-8149-a84f97a121f7&q=%D8%B7%D9%81%D9%84%20%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A%20%D9%81%D9%82%D8%AF%20%D8%A3%D9%87%D9%84%D9%87%20%D8%A8%D8%A7%D9%84%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1",
+            "name": "البرنسيسة للهدايا والاكسسوارات",
+            "path": "published/2_1596923382_0_1596888660_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/muhammad.hamed.35/videos/634395417183590/",
+            "name": "Muhammed Hamed",
+            "path": "published/3_1596923382_0_1596888660_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/munther.abd.75/videos/1206060543077440/",
+            "name": "Munther Abd",
+            "path": "published/4_1596923382_0_1596888660_facebook.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=wfzvZUR3QS8&feature=emb_title",
+            "name": "مركز حلب الإعلامي",
+            "path": "sources/0_1596923383_سث.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذا الطفل لم يفقد عائلته في انفجار لبنان بل في سورية",
+    "updated_at": "2020-09-25 09:59:13",
+    "url_path": "/factcheck/2020/08/09/هذا-الطفل-لم-يفقد-عائلته-في-انفجار-لبنان-بل-في-سورية"
+}

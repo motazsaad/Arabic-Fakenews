@@ -1,0 +1,120 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2734,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "عنوان الخبر المتداول مضلل (تويتر)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">ضبط أسلحة تركية مهربة في ولاية القضارف السودانية في طريقها إلى إثيوبيا.</span></p>\r\n",
+    "country": "SD",
+    "created_at": "2020-06-24 18:25:00",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ef3704c163be372da4529f3",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من الخبر المتداول ووجد أنَّ عنوانه مضلل. فالوكالة <a href=\"https://suna-sd.net/ar/single?id=672957\" style=\"color:blue; text-decoration:underline\">السودانية</a> (سونا) التي نقلت عنها المواقع، كتبت عنوان الخبر &quot;الاستخبارات تضبط أسلحة بولاية القضارف&quot;، ولم تذكر فيه أنّها أسلحة تركية. </span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">وقالت الوكالة في تفاصيل الخبر إنّ شعبة الاستخبارات العسكرية بقيادة الفرقة الثانية مشاة في القضارف ضبطت كميات مقدّرة من الأسحلة، شملت عدد 25 بندقية&nbsp;كلاشنكوف و80 مسدساً تركيًّا وكميات من ذخائر الدوشكا كانت مهربة فى طريقها إلى إثيوبيا، وتم القبض على ستّة مُتهمين. </span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">وقال والى مدينة <a href=\"https://suna-sd.net/ar/single?id=672957\" style=\"color:blue; text-decoration:underline\">القضارف</a> اللواء الركن نصر الدين عبد القيوم، المسؤول عن متابعة هذه&nbsp;المضبوطات، إنّ هذه الأسلحة المهربة دليل على تعاون المهربين مع الأعداء الذين يعملون على إثارة المشاكل على الشريط الحدودي مع إثيوبيا، داعياً&nbsp;إلى بذل مزيد من الجهود&nbsp;وتبادل المعلومات بين القوات النظامية لضبط ومكافحة تهريب السلاح. أي أن الواقعة مُتعلقة بمهربين، ولم يشر الخبر إلى علاقة تركيا بالأمر. ويذكر أنّ أسلحة الكلاشنكوف والدوشكا هي روسية الصُنع في الأصل.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_706y7n60r.jpg\" style=\"height:648px; width:624px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">نشرت مواقع إخبارية أمس 23 يونيو/حزيران، خبراً بعنوان &quot;ضبط أسلحة تركية مهربة في ولاية القضارف السودانية في طريقها إلى إثيوبيا&quot;. وقالت المواقع في تفاصيل الخبر &nbsp;إنه منقول&nbsp;عن وكالة السودان للأنباء (سونا).</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_w9ytjdgxf.jpg\" style=\"height:528px; width:513px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_2lwsonvor.jpg\" style=\"height:583px; width:470px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_2u4p9j09f.jpg\" style=\"height:449px; width:476px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1593012299EbOE78PWoAAjBVm.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1593012299EbOE78PWoAAjBVm.jpg",
+        "width": 752
+    },
+    "post_date": "2020-06-24T18:19:00.000+03:00",
+    "published": [
+        {
+            "id": "5f913acafd789c23e31e07d2",
+            "link": "https://twitter.com/20fourLive/status/1275449932174856193",
+            "name": "24Live",
+            "origin": "",
+            "path": "published/1_1593012666_24Live.jpg"
+        },
+        {
+            "id": "5f913acae6b1e8499c33ed68",
+            "link": "https://twitter.com/KSA24/status/1275454500891852800",
+            "name": "معالي / موجز الأخبار",
+            "origin": "",
+            "path": "published/2_1593012666_معالي  موجز الأخبار.jpg"
+        },
+        {
+            "id": "5f913aca6c8d4f3fc6260c2b",
+            "link": "https://twitter.com/alain_4u/status/1275496344170315777",
+            "name": "العين الإخبارية",
+            "origin": "",
+            "path": "published/3_1593012666_العين.jpg"
+        },
+        {
+            "id": "5f8ddbb221f3b202de4d53e5",
+            "link": "https://www.youm7.com/story/2020/6/23/%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A%D8%A9-%D8%AA%D8%B6%D8%A8%D8%B7-%D8%A3%D8%B3%D9%84%D8%AD%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%87%D8%B1%D8%A8%D8%A9-%D8%A5%D9%84%D9%89-%D8%A5%D8%AB%D9%8A%D9%88%D8%A8%D9%8A%D8%A7/4841449",
+            "name": "اليوم السابع",
+            "origin": "",
+            "path": "sources/7535b392122e5cc6abcda002f0cefbbaf1de1685.jpg"
+        },
+        {
+            "id": "5f913aca1293203ad0700f21",
+            "link": "https://twitter.com/kanafani_rola/status/1275509320562737154",
+            "name": "Rola kanafani 2",
+            "origin": "",
+            "path": "published/5_1593012667_Rola kanafani 2.jpg"
+        },
+        {
+            "id": "5f913aca0d127352f75ef82c",
+            "link": "https://twitter.com/qstreetjournal/status/1275483026210934789",
+            "name": "Q Street Journal",
+            "origin": "",
+            "path": "published/6_1593012667_Q Street Journal.jpg"
+        },
+        {
+            "id": "5f913aca80af35113500f289",
+            "link": "https://arabic.rt.com/middle_east/1127398-%D8%B6%D8%A8%D8%B7-%D8%A3%D8%B3%D9%84%D8%AD%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D9%85%D9%87%D8%B1%D8%A8%D8%A9-%D9%88%D9%84%D8%A7%D9%8A%D8%A9-%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%B1%D9%81-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A%D8%A9/",
+            "name": "روسيا اليوم",
+            "origin": "",
+            "path": "sources/503885256032733240e36b9c7b4ab253a71ee546.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f913aca0f4f6910a25a1087",
+            "link": "https://suna-sd.net/ar/single?id=672957",
+            "name": "وكالة السودان للأنباء",
+            "origin": "",
+            "path": "sources/0_1593012299_download.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ضبط أسلحة تركية في السودان كانت مهربة إلى إثيوبيا.. خبر مضلل",
+    "updated_at": "2020-10-22 10:58:10",
+    "url_path": "/factcheck/2020/06/24/خبر-إثارة-حول-ضبط-أسلحة-تركية-في-السودان-كانت-مهربة-إلى-إثيوبيا"
+}

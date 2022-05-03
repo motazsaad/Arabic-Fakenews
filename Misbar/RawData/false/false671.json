@@ -1,0 +1,108 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2421,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "ظهر إبراهيم ريا في مقطع فيديو ونفى حقيقة وفاته (يوتيوب)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">مقتل الطفل السوري &nbsp;إبراهيم ريا في ليبيا.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-05-30 10:45:16",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ed20f0cdb291620130d08f4",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من الخبر ووجد أن الادعاء زائف، إذ ظهر الشاب إبراهيم ريا أمس 29 مايو/أيار الجاري، في مقطع فيديو ونفى حقيقة&nbsp;وفاته في ليبيا، وقال إنه ما زال على قيد الحياة ويتواجد حالياً في ريف حلب شمال سورية.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"587\" src=\"https://www.youtube.com/embed/vyUwFqanocA\" width=\"1044\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">نشرت قنوات تلفزيونية ومواقع إخبارية وحسابات على مواقع التواصل الاجتماعي، صور شابّ&nbsp;يُدعى إبراهيم ريا، وادعّت أنه سوريّ الجنسية وذهب للقتال في ليبيا وقُتل في إحدى معارك العاصمة طرابلس.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_om0gv0f1v.jpg\" style=\"height:462px; width:608px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_vza5n7h0e.jpg\" style=\"height:587px; width:629px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_k3mr3squz.jpg\" style=\"height:537px; width:625px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1590826474maxresdefault.jpg",
+        "watermark_path": "articles/watermark-1590826474maxresdefault.jpg"
+    },
+    "post_date": "2020-05-30T10:40:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/TurkeyAffairs/status/1266036879608221698",
+            "name": "شؤون تركية",
+            "path": "published/1_1590824941_شؤون تركية.jpg"
+        },
+        {
+            "link": "https://twitter.com/RD_Syrian/status/1266397278513881094",
+            "name": "الرادع السوري الحر",
+            "path": "published/2_1590824941_الرادع السوري الحر.jpg"
+        },
+        {
+            "link": "https://twitter.com/SMMArabic/status/1266322868331257856",
+            "name": "SMM Arabic",
+            "path": "published/3_1590824941_SMM Arabic.jpg"
+        },
+        {
+            "link": "https://twitter.com/49fkFfLlHwqPabK/status/1266440129188593665",
+            "name": "غزالي",
+            "path": "published/4_1590824941_غزالي.jpg"
+        },
+        {
+            "link": "https://twitter.com/alarabiya_rpt/status/1266360240481742848",
+            "name": "تقارير العربية",
+            "path": "published/5_1590824942_تقارير العربية.jpg"
+        },
+        {
+            "link": "https://twitter.com/lady_soo_oo/status/1266559782699368449",
+            "name": "Sɪ̅м̅σ̅σ̅σ",
+            "path": "published/6_1590824942_Sɪ̅м̅σ̅σ̅σ.jpg"
+        },
+        {
+            "link": "https://twitter.com/Jahid82225745/status/1266293227981697026",
+            "name": "جهيد الزعيم",
+            "path": "published/7_1590824942_جهيد الزعيم.jpg"
+        },
+        {
+            "link": "https://twitter.com/wa6ani_1/status/1266295642231455750",
+            "name": "مغردون للوطن",
+            "path": "published/8_1590824942_مغردون للوطن.jpg"
+        },
+        {
+            "link": "https://twitter.com/albhire/status/1266283854400126976",
+            "name": "سلمان محـمد البحـيري",
+            "path": "published/9_1590824942_UHYrN7HF_400x400.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "http://<iframe width=",
+            "name": "فيديو النفي",
+            "path": "sources/0_1590824715_yt_1200-vflhSIVnY.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الشاب السوري إبراهيم ريا ينفي شائعة وفاته في ليبيا",
+    "updated_at": "2020-09-25 16:02:06",
+    "url_path": "/factcheck/2020/05/30/الشاب-السوري-إبراهيم-ريا-ينفي-شائعة-وفاته-في-ليبيا"
+}

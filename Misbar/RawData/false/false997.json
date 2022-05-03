@@ -1,0 +1,96 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 1,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 696,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">فنلندا تصبح أول بلد في العالم يعتمد 4 أيام عمل أسبوعياً، من الإثنين إلى الخميس لمدة ست ساعات في اليوم فقط.</p>\r\n",
+    "country": "FI",
+    "created_at": "2020-01-13 14:16:15",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e1c517fd4a22950ed470343",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الخبر غير صحيح، إذ نفت الحكومة الفنلندية على حسابها الرسمي على &quot;تويتر&quot; في 7 يناير/ كانون الثاني من العام الجاري، أن يكون موضوع تقليص أيام العمل الأسبوعية مندرجاً في جدول أعمالها في الفترة الحالية، وأكدّت أنّ الفكرة كانت مجرّد تصوّر لدى رئيسة الوزراء الحالية سانا مارين، طرحته أثناء نقاش دار في شهر أغسطس/ آب 2019 عندما كانت تشغل منصب وزيرة النقل، قبل ترأسها مجلس الوزراء ابتداءً من 10 كانون الأول/ ديسمبر 2019.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_2529988b9ed0ea4254f28ee5946e6c2c.jpg\" style=\"height:298px; width:493px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">حظي أحد المنشورات المتداولة على &quot;فيسبوك&quot; بآلاف المشاركات، زعم فيه ناشروه أنّ السلطات الفنلندية أقرّت قانوناً جديداً يقضي باعتماد أربعة أيام عمل في الأسبوع تمتد من الإثنين إلى الخميس، وبتقليص فترة العمل اليومية إلى ست ساعات فقط. القانون الجديد يجعل فنلندا الدولة الأولى التي تتخذ هذه الخطوة، والتي جاءت بدعم من رئيسة الوزراء الجديدة سانا مارين، أصغر رئيسة وزراء في العالم.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_a062a79890ab23dbb6fd075c90105916.jpg\" style=\"height:383px; width:336px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_1dff71d2f06e362d03bd71667f501182.jpg\" style=\"height:444px; width:396px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_5f251c6e9b05ff174301f9bee9c0693c.jpg\" style=\"height:515px; width:317px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 349,
+        "left": 9.3238525390625,
+        "path": "articles/1578914174GettyImages-1193180165.jpg",
+        "top": 64.80717468261719,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "width": 621
+    },
+    "post_date": "2020-01-12T14:03:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/vanndpunkt/photos/a.265880751016888/474424783495816/?type=3&__tn__=H-R",
+            "name": "نقطة تحول 2 ",
+            "path": "published/0_1578914174_نقطة تحول-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/GenieElectromecanique/posts/2904299892961896",
+            "name": "Génie Électromécanique",
+            "path": "published/1_1578914174_Genie-logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/morooccantrip/posts/1434468440044572?__tn__=-R",
+            "name": "Moroccan Trip",
+            "path": "published/2_1578914174_Moroccan-logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/1925615877549816/photos/a.1925714384206632/2504116799699718/?type=3&__xts__%5B0%5D=68.ARBKChh_ymyrmFzzq2uyvNGpcUspiqNOfMGhAjt2mtBPAPYjoBZfRSF2TOOM_ba3qeYOOrjR5U-m3N8rN6eNmVSMvKgI3TVelKZ81dEKYevp-fJa9T_fmSLSW0DDMmWSL5MjjjFAdPeHivck0jA4BdF_iaqBJIxEtqYpP5Ms-SNWQ8v59gkpZlwQUPWJxJpaqhStwoGyWZEZpsLeL_dMAQ0O8QVQp_R-nq1NgbhptlSH-0706m_jiGTADQcrxjUGAl_UZbWA9xKGHoAJyjtT2BHJpNJmjSAu0wp6m-FAJ8_xUGNI19w7I0sW75j7MKKapn1tBmXOzdOCU52_kOt5ATDTgQTO&__tn__=-R",
+            "name": "ملتقى الجالية السورية في هولندا",
+            "path": "published/3_1578914174_ملتقى الجالية السورية-هولندا.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/AutomationTechSolution/photos/a.1899162750303711/2578664785686834/?type=3&theater",
+            "name": "ATS",
+            "path": "published/4_1578914174_ATS-logo.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/FinGovernment/status/1214523278515195907",
+            "name": "Finnish Government",
+            "path": "sources/0_1578914174_Finland-logo.jpg"
+        },
+        {
+            "link": "https://www.helsinkitimes.fi/finland/finland-news/domestic/16663-marin-floats-idea-of-a-four-day-24-hour-work-week.html",
+            "name": "Helsinki Times",
+            "path": "sources/1_1578914174_Helsenki times-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل أقرت فنلندا 4 أيام عمل في الأسبوع؟",
+    "updated_at": "2020-09-25 20:11:36",
+    "url_path": "/factcheck/2020/01/13/هل-أقرت-فنلندا-4-أيام-عمل-في-الأسبوع"
+}

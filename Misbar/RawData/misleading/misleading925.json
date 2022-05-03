@@ -1,0 +1,96 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1314,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "الصورتان قديمتان أضيف عليهما طلاء الأظافر (فيسبوك)",
+    "category": "Arts & Culture",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">صور للممثل الأيرلندي كيليان مورفي وأصابعه مزينة بطلاء الأظافر.</p>\r\n",
+    "country": "IE",
+    "created_at": "2020-07-08 13:17:30",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 2,
+    "id": "5f059d3a163be307312d1d07",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;تحقق &quot;مسبار&quot; من الصورتان وتبين أنهما مفبركتان، إذ تعود الأولى التي زينت فيها أصابعه بطلاء أصفر اللون، إلى حوار أجراه حول الجزء الثاني من فيلم الرعب الأميركي &quot;<span dir=\"LTR\" lang=\"FR\">a quiet place</span>&quot;، بتاريخ 2 مارس/آذار من العام الجاري. ويظهر بطل الفيلم في الدقيقة 1.14 إلى 1.16 دون طلاء.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/h7HF8JP6saU\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">أما <a href=\"https://www.flickr.com/photos/muratila/7569810272\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">الصورة الثانية</a>، فتصور مورفي في مهرجان&nbsp;أوديسا السينمائي الدولي عام 2012. ولا تظهر الأصلية أيّ زينة على الأظافر.</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "كيليان مورفي",
+        "افلام",
+        "صور مفبركة"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات وحسابات على مواقع التواصل الاجتماعي، صورتان للممثل الأيرلندي كيليان مورفي، تبرز فيهما أصابعه بطلاء الأظافر.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"AR-SA\"><img alt=\"2.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_j342dvlhs.jpg\" style=\"height:396px; width:312px\" /></span><br />\r\n<span dir=\"LTR\" lang=\"AR-SA\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_cewf0819n.jpg\" style=\"height:380px; width:302px\" /></span><br />\r\n<span dir=\"LTR\" lang=\"AR-SA\"><img alt=\"3.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_6o1e24rht.jpg\" style=\"height:256px; width:395px\" /></span><br />\r\n&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 398,
+        "left": 1.0933074951171875,
+        "path": "articles/1594203450الغلاف.jpg",
+        "top": 20.958740234375,
+        "totalHeight": 423,
+        "totalWidth": 713,
+        "watermark_path": "articles/watermark-1594203450الغلاف.jpg",
+        "width": 707
+    },
+    "post_date": "2020-07-08T13:05:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/Shelby.familysN1/posts/1040725062990256",
+            "name": "Tom Shelby",
+            "path": "published/0_1594203449_60009435_743003376095761_562563814386565120_n.jpg"
+        },
+        {
+            "link": " https://www.facebook.com/permalink.php?story_fbid=581073892596509&id=298997304137504&comment_id=581077465929485&reply_comment_id=581078382596060",
+            "name": "حالتك صعيبة",
+            "path": "published/1_1594203449_72952192_431435670893666_840238883206594560_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/246775832514719/photos/a.246776619181307/858511684674461/?type=3&theater",
+            "name": "قٌصًر آلُگلِيِماَتْ",
+            "path": "published/2_1594203449_61261930_574364919755807_6740679621764710400_n.jpg"
+        },
+        {
+            "link": "https://twitter.com/ruesheIby/status/1261334796778823680",
+            "name": "𝐜𝐡𝐚𝐲",
+            "path": "published/3_1594203449_XMMOQWqG_400x400.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.joblo.com/movie-news/john-krasinski-already-has-ideas-for-a-quiet-place-part-iii",
+            "name": "JoBlo Horror Trailers",
+            "path": "sources/0_1594203449_المصدر1.jpg"
+        },
+        {
+            "link": "https://www.flickr.com/photos/muratila/7569810730/in/photostream/",
+            "name": "flickr",
+            "path": "sources/1_1594203450_gio.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صورتان مفبركتان للممثل الأيرلندي كيليان مورفي",
+    "updated_at": "2020-09-25 16:58:51",
+    "url_path": "/factcheck/2020/07/08/صورتان-مفبركتان-للممثل-الأيرلندي-كيليان-مورفي"
+}

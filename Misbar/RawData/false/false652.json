@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2464,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "الصورة مفبركة وتم التلاعب فيها وتغيير الجملة الصحيحة (twipu)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">متظاهرة أميركية ترفع ترفع لافتة كُتب عليها &quot;خبز وماء وترامب لا&quot;.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-06-05 12:12:47",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eda0c8fdb29167488499184",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة ووجد أنها بالفعل من التظاهرات الأميركية الحالية التي اندلعت بعد مقتل الأميركي جورج فلويد، لكن الصورة مفبركة وتم التلاعب فيها وتغيير الجملة&nbsp;المكتوبة على اللافتة في الصورة الأصلية. والجملة الصحيحة هي&nbsp;&quot;لا أستطيع أن أصدق أن عمري 66 وما زلت أحتج على هذا العبث&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:#1c1e21\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_2k2h0wkwy.jpg\" style=\"height:641px; width:551px\" /></span></span></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">انتشرت على مواقع التواصل الاجتماعي، مؤخراً، صورةً نُسبت لإحدى&nbsp;المتظاهرات&nbsp;من الاحتجاجات الجارية حالياً في الولايات المتحدة، تحمل لافتة كُتب عليها بالإنجليزية &quot;<span dir=\"LTR\">Bread and water trump no</span>&quot;، أي &quot;خبز وماء وترامب لا&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_jgnhfrxxw.jpg\" style=\"height:573px; width:450px\" /></span></p>\r\n\r\n<p style=\"text-align:center\"><strong><span style=\"color:#f73832\"><img src=\"https://images-prod.misbar.com/articlebody/origin_x2uy4j515.jpg\" style=\"height:535px; width:457px\" /></span></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1591348367102660787_559679384970161_5767000249314836480_n.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1591348367102660787_559679384970161_5767000249314836480_n.jpg",
+        "width": 752
+    },
+    "post_date": "2020-06-05T12:09:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/Kaissaied19/posts/3081932131868706",
+            "name": "قيس سعيد رئيس تونس 2019",
+            "path": "published/0_1591348366_قيس سعيد رئيس تونس 2019.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/abouamine.alayadi.5/posts/894915574343930",
+            "name": "Abou Amine Al Ayadi",
+            "path": "published/1_1591348708_Abou Amine Al Ayadi.jpg"
+        },
+        {
+            "link": "https://twitter.com/JUnkZWqFnQJoh9L/status/1268306430651703296",
+            "name": "ام ليبيه وافتخر",
+            "path": "published/2_1591348708_ام ليبيه وافتخر.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/kais.zoghlami36/posts/1356701514527536",
+            "name": "Zoghlami Alpachino Zoghlami",
+            "path": "published/3_1591348708_Zoghlami Alpachino Zoghlami.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/bechir.est.7146/posts/559679501636816",
+            "name": "Bechir Est",
+            "path": "published/4_1591348708_Bechir Est.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.boredpanda.com/george-floyd-police-brutality-protest/?utm_source=google&utm_medium=organic&utm_campaign=organic",
+            "name": "Bored Panda",
+            "path": "sources/0_1591348366_Bored Panda.jpg"
+        },
+        {
+            "link": "https://www.twipu.com/madisonateeter/tweet/1266899755147427840",
+            "name": "Madison A. Teeter",
+            "path": "sources/1_1591348367_مصدر.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "متظاهرة أميركية ترفع لافتة \"خبز و ماء وترامب لا\".. صورة مفبركة",
+    "updated_at": "2020-09-25 08:22:35",
+    "url_path": "/factcheck/2020/06/05/متظاهرة-أميركية-ترفع-لافتة-خبز-و-ماء-وترمب-لا--صورة-مفبركة"
+}

@@ -1,0 +1,113 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 8089,
+    "author": {
+        "fullname": "خالد إسماعيل",
+        "id": "5e59256dd4a2295224257db3",
+        "photo": {
+            "name": "1582900589_صورة 2.jpg",
+            "path": "authors/1582900589_صورة 2.jpg"
+        }
+    },
+    "caption": "الصورة للناشط السياسي الإيراني ماجد كفوسيفار (Getty)",
+    "category": "Technology",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة لاعتقال البطل الهاكر الجزائري حمزة بن دلاج، الذي سحب 200 مليون دولار من بنوك الاحتلال الإسرائيلي وحوّلها لفقراء فلسطين.</p>\r\n",
+    "country": "DZ",
+    "created_at": "2020-06-11 16:19:00",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 0,
+    "id": "5ee22f44d6e4a945612c5424",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصور المتداولة والادعاء المصاحب لها وتبين أنها زائفة، لأنّ <a href=\"https://uk.reuters.com/article/uk-iran-rights-execution/iran-hangs-judges-killers-in-public-idUKHOS22472320070802\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">الصورة الأصلية</a> ليست للهاكر الجزائري حمزة بن دلاج ولكنها للناشط السياسي الإيراني ماجد كفوسيفار، الذي أعدمته السلطات الإيرانية، رفقة قريبه حسين كفوسيفار، عام 2007 بتهمة قتل أحد القضاة. أما الجزائري حمزة بن دلاج الذي يمارس القرصنة الإلكترونية، فلم يُعدَم كما ادعت المنشورات المتداولة، ولكنه مسجون حاليًّا في الولايات المتحدة الأميركية، إذ <a href=\"https://www.bbc.com/arabic/worldnews/2013/01/130108_thailand_algeria_usa_bank_hacking?fbclid=IwAR3zZhjLQ4WGU_YwJ3qaedpO0kkvF_KJ1jE_STF9ngyBb27or61ThB0cGyw\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">قُبض</a> عليه في تايلاند عام 2013، وحُكم عليه بالسجن <a href=\"https://arabic.rt.com/news/820210-%D8%A7%D9%84%D8%AD%D9%83%D9%85-%D8%A8%D8%A7%D9%84%D8%B3%D8%AC%D9%86-%D9%82%D8%B1%D8%B5%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA%D9%8A%D8%A9-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A-%D8%AD%D9%85%D8%B2%D8%A9-%D8%A8%D9%86-%D8%AF%D9%84%D8%A7%D8%AC/\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">15 سنة</a> بتهمة قرصنة مئات الحسابات البنكية في ماليزيا وأميركا.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">الجدير بالذكر أيضاً أنّ حمزة بن دلاج لم يدّعِ مساعدة فقراء فلسطين كما قال ناشرو الخبر المتداول، وعند سؤاله أثناء التحقيقات عن كيفية إنفاق الأموال التي سرقها، أكّد أنه <a href=\"https://www.bbc.com/arabic/worldnews/2013/01/130108_thailand_algeria_usa_bank_hacking?fbclid=IwAR3zZhjLQ4WGU_YwJ3qaedpO0kkvF_KJ1jE_STF9ngyBb27or61ThB0cGyw\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">صرفها على حياة البذخ</a> والرفاهية مثل السفر والإقامة في الأماكن الفخمة وغير ذلك.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_p9ijd6sbz.jpg\" style=\"height:485px; width:624px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_lq83ks1bb.jpg\" style=\"height:544px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_744840704289f744fc61039cee90ecbd.jpg\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "الجزائر",
+        "قرصنة",
+        "إسرائيل",
+        "فلسطين",
+        "الاحتلال الإسرائيلي"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات على مواقع التواصل الاجتماعي، مؤخراً، صوراً لشاب يقف على مقصلة إعدام، مع الادعاء بأنه الهاكر الجزائري حمزة بن دلاج، الذي قرصن حسابات بنوك في الاحتلال الإسرائيلي، وحوّل 200 مليون دولار لحساب فقراء فلسطينيّين. وينتهي المنشور المتداول بالإشارة إلى أنّ الشاب أُعدم.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_c9lsy3smm.jpg\" style=\"height:642px; width:553px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_s5c1q03e9.jpg\" style=\"height:637px; width:550px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 332,
+        "left": 3.54998779296875,
+        "path": "articles/1591881539GettyImages-75929590.jpg",
+        "top": 14,
+        "totalHeight": 423,
+        "totalWidth": 597,
+        "watermark_path": "articles/watermark-1591881539GettyImages-75929590.jpg",
+        "width": 590
+    },
+    "post_date": "2020-06-11T16:09:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=288504539203771&set=gm.3282847175175572&type=3&theater&ifg=1",
+            "name": "هديل علي",
+            "path": "published/0_1591881538_نشر عن ذلك 1.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=1029558150792373&set=gm.2689916571329306&type=3&theater&ifg=1",
+            "name": "علي أحمد السامرائي",
+            "path": "published/1_1591881538_نشر عن ذلك 2.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/414240895980091/permalink/752855065452004/",
+            "name": "Amr Ahmed",
+            "path": "published/2_1591881538_نشر عن ذلك 3.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/569869203087947/permalink/3769285816479587/",
+            "name": "عبدالله محمد",
+            "path": "published/3_1591881539_نشر عن ذلك 4.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/1299141363515503/permalink/3155801551182799/",
+            "name": "Zain AlhIale",
+            "path": "published/4_1591881539_نشر عن ذلك 5.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/390003658150828/photos/a.390018711482656/632009883950203/?type=3&theater",
+            "name": "WAC",
+            "path": "published/5_1591881539_نشر عن ذلك 6.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://uk.reuters.com/article/uk-iran-rights-execution/iran-hangs-judges-killers-in-public-idUKHOS22472320070802",
+            "name": "Reuters",
+            "path": "sources/0_1591881539_reuters.jpg"
+        },
+        {
+            "link": "https://tinyurl.com/y8utjh9g",
+            "name": "BBC",
+            "path": "sources/1_1591881539_مصدر 2.jpg"
+        },
+        {
+            "link": "https://tinyurl.com/y6v3mqtb",
+            "name": "RT عربي",
+            "path": "sources/2_1591881539_مصدر 3.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هاكر جزائري سحب ملايين من بنوك الاحتلال وأعطاها للفلسطينيّين.. حقيقة الصورة",
+    "updated_at": "2020-09-25 20:08:02",
+    "url_path": "/factcheck/2020/06/11/هاكر-جزائري-سحب-ملايين-من-بنوك-الاحتلال-وأعطاها-للفلسطينيين-حقيقة-الصورة"
+}

@@ -1,0 +1,90 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1303,
+    "author": {
+        "fullname": "مريم هواري",
+        "id": "5e299460d4a22939983a3ec5",
+        "photo": {
+            "path": "authors/1579791192_Maryam.jpg"
+        }
+    },
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">السودان يفتح مجاله الجوي للطيران المدني الإسرائيلي.</p>\r\n",
+    "country": "SD",
+    "created_at": "2020-02-06 16:39:25",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e3c170dd4a2294ea1745619",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الادعاء مضلل، إذ نشرت سُلطة&nbsp;الطيران المدني السوداني تصريحاً&nbsp;في تاريخ 6 فبراير/ شباط من العام الجاري، مفاده أنها لم تتلقَّ&nbsp;أي توجيهات&nbsp;بالسماح للطيران الإسرائيلي بعبور الأجواء السودانية، وأنها لم تسمح بذلك حتى الآن.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وتجدر الإشارة إلى أنه تداولت بعض المواقع الإخبارية العالمية خبراً عن فتح المجال الجوي السوداني للطائرات التجارية المتجهة من أميركا الجنوبية إلى الأراضي المحتلة، وليس للطائرات المدنية كما نشرت المواقع الإسرائيلية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_robddq0d2.jpg\" style=\"height:746px; width:587px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_hpeorwx0d.jpg\" style=\"height:692px; width:522px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت عدّة مواقع إخبارية إسرائيلية يومي 4 و5 فبراير/ شباط من العام الجاري، خبراً مفاده أن السودان وافق على فتح مجاله الجوي أمام الطيران المدني الإسرائيلي والرحلات الدولية المنطلقة من فلسطين المحتلة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_bj0et6aoy.jpg\" style=\"height:326px; width:589px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_xrunoh7na.jpg\" style=\"height:662px; width:442px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_oxoeko58z.jpg\" style=\"height:624px; width:624px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1581065909GettyImages-1146669276.jpg"
+    },
+    "post_date": "2020-02-06T15:26:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/kann_news/status/1224763865214472204",
+            "name": "Kan News",
+            "path": "published/0_1580996365_Kan Israeli news.jpg"
+        },
+        {
+            "link": "https://www.israelhayom.co.il/article/731033",
+            "name": "Israel Hayom",
+            "path": "published/1_1580996365_Israel hayom hebrew.jpg"
+        },
+        {
+            "link": "https://www.maariv.co.il/news/world/Article-746379",
+            "name": "Maariv Online",
+            "path": "published/2_1580996365_Maariv Icon.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.assayha.net/now/27996/",
+            "name": "الصيحة",
+            "path": "sources/0_1580996364_alsayha sudan news.jpg"
+        },
+        {
+            "link": "https://www.aljazeera.net/news/politics/2020/2/5/%D8%A7%D9%84%D8%A8%D8%B1%D9%87%D8%A7%D9%86-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88-%D8%A7%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86",
+            "name": "الجزيرة",
+            "path": "sources/1_1580996365_الجزيرة.jpg"
+        },
+        {
+            "link": "https://arabic.rt.com/world/1083278-%D9%85%D8%B3%D8%A4%D9%88%D9%84-%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D8%A7%D8%AA%D9%81%D8%A7%D9%82%D8%A7-%D9%85%D8%A8%D8%AF%D8%A6%D9%8A%D8%A7-%D9%85%D8%B9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D9%84%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D9%84-%D8%A7%D9%84%D8%AC%D9%88%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A/",
+            "name": "RT",
+            "path": "sources/2_1580996365_روسيااليوم.jpg"
+        },
+        {
+            "link": "https://www.mc-doualiya.com/articles/20200206-%D9%87%D9%84-%D8%B3%D8%AA%D9%81%D8%AA%D8%AD-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D9%85%D8%AC%D8%A7%D9%84%D9%87%D8%A7-%D8%A7%D9%84%D8%AC%D9%88%D9%91%D9%8A-%D8%A3%D9%85%D8%A7%D9%85-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84",
+            "name": "MCD مونت كارلو الدولية",
+            "path": "sources/3_1580996365_مونت كارلو الدولية Monte Carlo Doualiya - logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل الأجواء السودانية مفتوحة للطيران المدني الإسرائيلي؟",
+    "updated_at": "2020-09-23 12:38:56",
+    "url_path": "/factcheck/2020/02/06/هل-الأجواء-السودانية-مفتوحة-للطيران-المدني-الإسرائيلي"
+}

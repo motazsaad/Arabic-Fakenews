@@ -1,0 +1,114 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 138176,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "تعود الصورة لعام 2008 (تويتر)",
+    "category": "Arts & Culture",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">صورة نادرة للفنان محمد رمضان والفنانة ياسمين صبري. </span></p>\r\n",
+    "country": "",
+    "created_at": "2020-05-23 16:13:12",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ec92168db2916255107e4d5",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة ووجد أن الادعاء زائف، لكن تداولها البعض بشكل ساخر. ويظهر في الصورة بالفعل الفنان محمد رمضان لكنّ الشخص الآخر ليست الفنانة ياسمين صبري، إنما الفنان محمد الشرنوبي. وهي صورة قديمة لهما عندما كان رمضان في بداية مسيرته الفنية، وكان شرنوبي في مرحلة المراهقة. وتعود لعام 2008 أثناء تصوير مسلسل &quot;إيد أمينة&quot;.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"615\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FArabwoodTV%2Fposts%2F3086564501567655&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت حسابات على مواقع التواصل الاجتماعي صورة،&nbsp;ادّعت أنها قديمة&nbsp;وتجمع بين الفنان محمد رمضان والفنانة ياسمين صبري.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_vb0kag2xc.jpg\" style=\"height:529px; width:473px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_c195gxrpd.jpg\" style=\"height:613px; width:515px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_5d7tke2d5.jpg\" style=\"height:498px; width:462px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1590239591EYXn9QaWkAAxOg_.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1590239591EYXn9QaWkAAxOg_.jpg",
+        "width": 752
+    },
+    "post_date": "2020-05-23T16:09:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/6bkh5CU8RImIA26/status/1262670313885761542",
+            "name": "ماريا الجالي",
+            "path": "published/0_1590239590_ماريا الجالي.jpg"
+        },
+        {
+            "link": "https://twitter.com/H_almuhessin/status/1262199200185495554",
+            "name": "واي غميييضه",
+            "path": "published/1_1590239752_واي غميييضه.jpg"
+        },
+        {
+            "link": "https://twitter.com/samer69abbas/status/1263057323599237121",
+            "name": "Samer Abbas",
+            "path": "published/2_1590239752_Samer Abbas.jpg"
+        },
+        {
+            "link": "https://twitter.com/ThaerKhalof/status/1262424660223889408",
+            "name": "ثائر",
+            "path": "published/3_1590239752_ثائر.jpg"
+        },
+        {
+            "link": "https://twitter.com/Ahmedgomah300/status/1262102524514967560",
+            "name": "Alexander The Great",
+            "path": "published/4_1590239752_Alexander The Great.jpg"
+        },
+        {
+            "link": "https://twitter.com/8na9Q8/status/1262098744130129920",
+            "name": "قناص",
+            "path": "published/5_1590239752_قناث.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/panadol2019/photos/a.2038324916474164/2288638388109481/?type=3&theater",
+            "name": "Panadol",
+            "path": "published/6_1590239752_Panadol.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/218552658876092/photos/a.218912235506801/650080779056609/?type=3&__xts__%5B0%5D=68.ARC2QNuL9tkWqAXAAnivA0q06F9dEUoMe41I2dVzk2mf0BV9xhSYWROVCnP2mpHOygARCWuk_Rhap1F8buw_QvcBw8fGsXzPFrZ6edst4wvcU-8k3ZblfwcTob2cIWA13yfV793phmbOQrpW1R5btzz9OVrkpXo7IT1V7QeXQjAzzeSmbWwils4-k4L8GiPCIgxBjxp_N-NKPvfYHTAT-QH_MQCIkxzpiOiWR8WcNjJaHm17QXWXntLjsTCMZsOkzai-gMARVSU8EmQYHGgGPTellhVE8OG83mpqyY0nptwh0NU_AjcFuLE1tOnqqErlox1dxIq7crJEQ1xDNDEuWMc&__tn__=-R",
+            "name": "يرموكي ساخر",
+            "path": "published/7_1590239753_يرموكي ساخر.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/ArabwoodTV/photos/a.1782645141959604/3086564314901007/?type=3&__xts__%5B0%5D=68.ARDNq3Z9hyvlHMGIhWtlGzjrK5bMMUJ4ZRkp5oCTJ4JWN9qPmlebFDvQsMjwYrfjZDkF_MzQlpEsr8TExhb_hb5ZTcX8wmolBwkjV_DZmfkKKOAVqK87P3cJ5kGre2ZKMTbBfLPJxglnViA-0jtpbaTS0dbMoZ6hxO579dAk0LFFJjUfeHr9Re1tTNlqCoBdj0ikwFi8fyMU38PchAaRs_dffpIauKZb7OB9Cvc1he2ZqdiL5X8N3tzCtCWBT3nNTKaWEOad_9GiWJ3IXeZyl5oljTBh6guI9Iw7qJ5665Z2afySzI1f77Y2MLsgKHPPoHt4spQ8a2dnzYjCM6-t_yJq4wEr&__tn__=-R",
+            "name": "ArabWood - عرب وود",
+            "path": "sources/0_1590239591_ArabWood - عرب وود.jpg"
+        },
+        {
+            "link": "https://www.filfan.com/news/details/108517",
+            "name": "في الفن ",
+            "path": "sources/1_1590239591_في الفن.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "حقيقة الصورة القديمة للفنان محمد رمضان مع ياسمين صبري",
+    "updated_at": "2020-09-25 21:06:58",
+    "url_path": "/factcheck/2020/05/23/حقيقة-الصورة-القديمة-لمحمد-رمضان-وياسمين-صبري"
+}

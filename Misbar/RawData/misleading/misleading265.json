@@ -1,0 +1,136 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 349,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "مقطع الفيديو لجريمة قتل في مدينة أنطاليا بتركيا (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p>مقطع فيديو لاغتيال العالم الإيراني النووي محسن فخري زادة.</p>\r\n\r\n<p>تحذير: مقطع الفيديو يحوي مشاهد عنيفة ودموية.</p>\r\n",
+    "country": "IR",
+    "created_at": "2020-11-28 15:26:19",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 2,
+    "feedback_pos": 10,
+    "id": "5fc241eb34c35174e77bc6d3",
+    "investigation": "<p><span dir=\"RTL\" lang=\"AR-SA\">تحقّق &quot;مسبار&quot; من مقطع الفيديو، ووجد أن الادعاء مضلل، فالمقطع نُشر في 25 نوفمبر/تشرين الثاني قبل مقتل العالم الإيراني بيومين.</span></p>\r\n\r\n<p><span dir=\"RTL\" lang=\"AR-SA\">وقد نُشر على موقع فيسبوك على أنه&nbsp;لحادثة في تركيا، وقعت ظهر يوم 25 نوفمبر/تشرين الثاني الجاري، حين عثر المارة على قتيلين&nbsp;وجريح&nbsp;من رجال الأعمال الأتراك في مدينة أنطاليا التركية داخل سيارة جيب، وترجح الشرطة من اتجاه الأعيرة النارية أن أحدهم قتل شريكيّه في تجارة العقارات بعد شجار عنيف داخل السيارة بسبب مستحقات مالية، قبل أن ينتحر، و&nbsp;نُقل الجريح بينهم&nbsp;إلى المستشفى وتوفي هناك، ولم يستطع &quot;مسبار&quot; الجزم بأن المقطع&nbsp;يعود إلى الحادثة ذاتها، لكنه بالتأكيد ليس لمقتل العالم الإيراني زادة.</span></p>\r\n\r\n<p><span dir=\"RTL\" lang=\"AR-SA\">وكانت وسائل إعلام عالمية وعربية نقلت مكان حادثة إغتيال العالم الإيراني زادة، والذي يبدو&nbsp;مختلفاً تماماً عما تناقلته الحسابات في مقطع الفيديو السابق.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/KXc2x-WA0Gc\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_qn36qmwt6.jpg\" style=\"height:400px; width:602px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_9rml9bc1m.jpg\" style=\"height:262px; width:602px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_zs36460u2.jpg\" style=\"height:162px; width:602px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت صفحات على مواقع&nbsp;التواصل الاجتماعي خلال الساعات الأخيرة، مقطع فيديو قالت عنه إنه حصري لاغتيال العالم الإيراني محسن فخري زادة، رئيس مركز الأبحاث والتكنولوجيا في وزارة الدفاع الإيرانية، الذي قُتل يوم الجمعة الموافق 27 نوفمبر/تشرين الثاني الجاري في سيارته، ويحتوي مقطع الفيديو على مشاهد عنيفة، لذلك لم ينشره &quot;مسبار&quot;.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_vfr1kxpky.jpg\" style=\"height:398px; width:602px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 379,
+        "left": 75.199951171875,
+        "path": "articles/1606566379_115671865_064537263-1.jpg",
+        "top": 0.7998046875,
+        "totalHeight": 423,
+        "totalWidth": 814,
+        "watermark_path": "articles/watermark-1606566379_115671865_064537263-1.jpg",
+        "width": 674
+    },
+    "post_date": "2020-11-28T12:24:00.000+03:00",
+    "published": [
+        {
+            "id": "5fc241e8255ec53faf65fa97",
+            "link": "https://www.facebook.com/100002217016828/videos/3991193494297845",
+            "name": "ابراهيم عبدالله البلوشي",
+            "origin": "facebook",
+            "path": "sources/cbcfd3c4b36c3aebad2757a03c2aa319a53ed2a2.jpg"
+        },
+        {
+            "id": "5fc241e956ba767448136120",
+            "link": "https://www.facebook.com/watch/TubasAwaln/",
+            "name": "طوباس أولاً",
+            "origin": "facebook",
+            "path": "sources/d41b5641225c2c719800eee56d3ea73d439ca1c7.jpg"
+        },
+        {
+            "id": "5fc241e93957c6231d59d3d9",
+            "link": "https://www.facebook.com/100007171698787/videos/2727827727466257",
+            "name": "Mostafa Khreisat",
+            "origin": "facebook",
+            "path": "sources/cbcfd3c4b36c3aebad2757a03c2aa319a53ed2a2.jpg"
+        },
+        {
+            "id": "5fc241e93e96ee34595ae3e2",
+            "link": "https://twitter.com/ibrahim5643/status/1332370253003763716",
+            "name": "ابراهيم البلوشي",
+            "origin": "twitter",
+            "path": "sources/f8a61ebf31090aeaaa0f82068fc90d596f6495e0.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f8eb18ba3818a4eb81ad3d2",
+            "link": "https://www.youtube.com/watch?v=KXc2x-WA0Gc",
+            "name": "قناة يوتيوب",
+            "origin": "",
+            "path": "published/7_1603128187_72cba5bc67b31d9d753cf43c35e93c59a1b0f98d.jpg"
+        },
+        {
+            "id": "5fc241e9cb0b2a62635831a1",
+            "link": "https://www.facebook.com/Yaln%C4%B1z-Dostlar-147506718694263/videos/695538448006125/",
+            "name": "Yaln\\u0131z Dostlar",
+            "origin": "facebook",
+            "path": "sources/fbc8ae500be54a74f27adac36ce9fe21294cba92.jpg"
+        },
+        {
+            "id": "5fc241ea7918ba1157760b78",
+            "link": "https://www.hurriyet.com.tr/galeri-antalyada-3-kisinin-luks-cipte-olumu-3-kisinin-cenazeleri-alinirken-yakinlari-gozyaslarina-boguldu-41672790/12",
+            "name": "H&uuml;rriyet",
+            "origin": "",
+            "path": "sources/3885cc6fe1da991e1c357d975bb63b54e1428e81.jpg"
+        },
+        {
+            "id": "5fc241ebb76ca2426c335da4",
+            "link": "https://www.sondakika.com/haber/haber-son-dakika-haberi-antalya-da-3-kisinin-luks-cipte-olumu-13760907/",
+            "name": "www.sondakika.com",
+            "origin": "",
+            "path": "sources/3bc29db656c3a898701c7de44db7170024a10e2b.jpg"
+        },
+        {
+            "id": "5fc25b7a893c9362b3369668",
+            "link": "https://www.sabah.com.tr/yasam/2020/11/26/alacak-verecek-kavgasi-3-olu",
+            "name": "www.sabah.com.tr",
+            "origin": "",
+            "path": "sources/c8dd5e4a2caa825ea0b1341107ea44506ec75550.jpg"
+        },
+        {
+            "id": "5fc25b7aafe84406474097df",
+            "link": "https://www.haberler.com/son-dakika-haberi-once-iki-arkadasini-oldurdu-sonra-intihar-etti-13758905-haberi/",
+            "name": "Haberler",
+            "origin": "",
+            "path": "sources/b683f468dda916879a605c3268ebc9b9ada8a809.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الفيديو ليس لاغتيال العالم الإيراني محسن فخري زادة",
+    "updated_at": "2020-11-28 20:56:28",
+    "url_path": "/factcheck/2020/11/28/الفيديو-ليس-لاغتيال-العالم-الإيراني-بل-لجريمة-قتل-في-تركيا",
+    "was_notification_pushed": true
+}

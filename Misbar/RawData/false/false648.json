@@ -1,0 +1,97 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 4313,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "نفت ابنة الفنانة الخبر (تويتر)",
+    "category": "Health",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">وفاة الفنانة المصرية رجاء الجداوي نتيجة لإصابتها بفايروس كورونا المستجد.</span></p>\r\n",
+    "country": "EG",
+    "created_at": "2020-06-05 19:50:12",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eda77c4db29160586470db4",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحديث، بتاريخ 5 يوليو/تموز 2020: أعلنت <a href=\"https://www.facebook.com/amira.mokhtar.399/posts/10159001667475572\" target=\"_blank\">أميرة مختار</a>، ابنة الفنانة المصرية رجاء الجداوي، وفاة والدتها إثر إصابتها بكوفيد-19.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">________________</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من الخبر المتداول ووجد أنه زائف. نفت أميرة مختار، ابنة الجداوي، عبر صفحتها على موقع </span><a href=\"https://www.facebook.com/amira.mokhtar.399/posts/10158892372305572\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>فيسبوك</u></span></a><span style=\"color:#000000\">، خبر وفاة والدتها التي ما تزال حتى اللحظة في العناية المركزة وفقاً لأميرة.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"179\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Famira.mokhtar.399%2Fposts%2F10158892372305572&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "مصر",
+        "رجاء الجداوي",
+        "فيروس كورونا",
+        "كورونا",
+        "كوفيد-19"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل صفحات على مواقع التواصل الاجتماعي خبراً مفاده وفاة الفنانة المصرية رجاء الجداوي نتيجة لإصابتها بكوفيد-19، وذلك بعد </span><a href=\"https://misbar.com/factcheck/2020/05/24/%D9%87%D9%84-%D8%A3%D8%B5%D9%8A%D8%A8%D8%AA-%D8%B1%D8%AC%D8%A7%D8%A1-%D8%A7%D9%84%D8%AC%D8%AF%D8%A7%D9%88%D9%8A-%D8%A8%D9%81%D8%A7%D9%8A%D8%B1%D9%88%D8%B3-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>تأكيد إصابتها</u></span></a><span style=\"color:#000000\"> بالفايروس قبل أيام.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"440\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D139808664371650%26id%3D102739988078518&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_7tqdlgpna.jpg\" style=\"height:696px; width:529px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 367,
+        "left": 1.73333740234375,
+        "path": "articles/1591375812غلاف.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 656,
+        "watermark_path": "articles/watermark-1591375812غلاف.jpg",
+        "width": 653
+    },
+    "post_date": "2020-06-05T19:40:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=136346714695090&id=102012704795158",
+            "name": "أبو العربي",
+            "path": "published/0_1591375811_أبو العربي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=139808664371650&id=102739988078518",
+            "name": "النهار الجديد",
+            "path": "published/1_1591375811_النهار.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=165933424916441&id=101748534668264&__tn__=-R",
+            "name": "سعد",
+            "path": "published/2_1591375811_سعد.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/284641882571304/permalink/285934192442073/",
+            "name": "وسام المصراتي",
+            "path": "published/3_1591375811_وسام.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/moustahpa.salem/posts/2622083224724950",
+            "name": "مصطفى بلال",
+            "path": "published/4_1591375811_مصطفى.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/amira.mokhtar.399/posts/10158892372305572",
+            "name": "أميرة مختار",
+            "path": "sources/0_1591375811_أميرة.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "كورونا مصر: وفاة الفنانة رجاء الجداوي.. خبر زائف",
+    "updated_at": "2020-09-25 15:07:57",
+    "url_path": "/factcheck/2020/06/05/كورونا-مصر-وفاة-رجاء-الجداوي-بكوفيد-19-خبر-زائف"
+}

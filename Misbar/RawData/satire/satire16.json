@@ -1,0 +1,120 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 276,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "الأغلبية شاركت الصورة بشكل ساخر، والقليلون صدقوها (تويتر)",
+    "category": "Arts & Culture",
+    "claim": "<p>صورة ليوناردو دي كابريو يبدو فيها بشكل مختلف، إذ اكتسب وزناً زائداً.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-10-10 20:54:37",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 7,
+    "feedback_pos": 15,
+    "id": "5f81f55d54b4c93eab7ece1b",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الصورة، ووجد أنها مفبركة، وشاركتها الأغلبية على أساس أنها ساخرة، والقليل منهم صدق أنها صورة له بشكله الحالي، فالصورة من حفلة جائزة الغولدن غلوب التي تم تنظيمها في يناير/كانون الثاني من&nbsp;العام&nbsp;الجاري، وانتشرت الصورة ذاتها، وبالخلفية نفسها، ولكن بشكله&nbsp;الذي اعتاده الجمهور.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_mze9eawqx.jpg\" style=\"height:398px; width:602px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_z7bn98l70.jpg\" style=\"height:289px; width:602px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-JO\">تداولت حسابات على موقع التواصل الاجتماعي تويتر منذ التاسع من أكتوبر/تشرين الأول الجاري، صورةً للممثل </span><span dir=\"RTL\" lang=\"AR-JO\">ليوناردو دي كابريو بطل مجموعة من الأفلام الشهيرة مثل&nbsp;&quot;العائد&quot; و&quot;تايتنك&quot; و &quot;ذئب وول ستريت&quot;، وقد ظهر&nbsp;في الصورة&nbsp;بعد أن&nbsp;اكتسب وزناً زائداً، وعلّقت هذه الحسابات بعبارة واحدة &quot;أكل الأوسكار&quot;، كما كتبت بعض الحسابات في الردود على المتابعين، أن دي كابريو بالفعل زاد وزنه تحضيراً لدور قادم في فيلم جديد.</span></p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_m4tx79osn.jpg\" style=\"height:388px; width:592px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_16qke02zj.jpg\" style=\"height:182px; width:581px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_k15jr3puv.jpg\" style=\"height:376px; width:582px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 203,
+        "left": 0.4512939453125,
+        "path": "articles/1602352476Ej4qnLyWAAor3nn.jpg",
+        "top": 5.141357421875,
+        "totalHeight": 423,
+        "totalWidth": 362,
+        "watermark_path": "articles/watermark-1602352476Ej4qnLyWAAor3nn.jpg",
+        "width": 362
+    },
+    "post_date": "2020-10-10T19:19:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/xAzxiz1/status/1314535000361046016",
+            "name": "Abdulaziz",
+            "path": "published/0_1602352476_ق4.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/Yonas_7d/status/1314654029671260168",
+            "name": "يوناس",
+            "path": "published/1_1602352476_ق4.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/socratx6/status/1314646810078720000",
+            "name": "سقراط",
+            "path": "published/2_1602352476_ق4.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/i1xlll/status/1314899465170546689",
+            "name": "ايرنا نمشي",
+            "path": "published/3_1602352476_ق4.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/Fa7iix/status/1314908435205492736",
+            "name": "متقيد",
+            "path": "published/4_1602352476_ق4.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/xAzxiz1/status/1314593170265706497",
+            "name": "Abdulaziz",
+            "path": "published/0_1602352476_ق4.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/jr7y_sarab/status/1314613331970396160",
+            "name": "شوق",
+            "path": "published/6_1602354149_ق4.JPG"
+        }
+    ],
+    "result": "satire",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.alarabiya.net/ar/fashion-beauty/2020/01/07/%D9%86%D8%AC%D9%88%D9%85-%D8%AD%D9%81%D9%84-%D8%A7%D9%84%D8%BA%D9%88%D9%84%D8%AF%D9%86-%D8%BA%D9%84%D9%88%D8%A8-%D9%8A%D9%86%D8%A7%D9%81%D8%B3%D9%86-%D9%86%D8%AC%D9%85%D8%A7%D8%AA%D9%87-%D8%A8%D8%A3%D9%86%D8%A7%D9%82%D8%AA%D9%87%D9%85",
+            "name": "العربية",
+            "path": "sources/0_1602352476_Screenshot 2020-10-10 194922.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://sports.yahoo.com/ricky-gervais-made-fun-leonardo-013703674.html",
+            "name": "ياهو",
+            "path": "sources/1_1602352476_Screenshot 2020-10-10 194956.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه صورة ساخرة للممثل ليوناردو دي كابريو",
+    "updated_at": "2020-10-10 22:38:14",
+    "url_path": "/factcheck/2020/10/10/هذه-صورة-ساخرة-للممثل-ليوناردو-دي-كابريو",
+    "was_notification_pushed": true
+}

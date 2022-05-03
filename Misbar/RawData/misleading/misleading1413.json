@@ -1,0 +1,86 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 310,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">فيديو يُظهر إيقاظ جنود في الجيش المصري بواسطة إطلاق النار في الهواء.</p>\r\n",
+    "country": "EG",
+    "created_at": "2020-01-05 12:07:29",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e11a751d4a2290e8a7836e4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">بعد التحقق وجد &quot;مسبار&quot; أنّ مقطع الفيديو المتداول لا يعود إلى الجيش المصري، فالمقطع الأصلي منشور منذ عام 2016 على موقع &quot;يوتيوب&quot;، ويرجع لعناصر من القوات الخاصة العراقية وهم يتعرضون إلى تدريب &quot;الإزعاج الليلي&quot; خلال إحدى دورات الصاعقة.</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداول عددٌ من مستخدمي منصة التواصل الاجتماعي فيسبوك مقطع فيديو قالوا إنّه يُصوّر الطريقة التي يتم بها إيقاظ جنود الجيش المصري خلال الدورات التدريبية. الفيديو الذي حصد أكثر من مليون مشاهدة على أحد الحسابات يظهر فيه مدربون يدخلون مهجعاً للجنود لإيقاظهم عبر ضربهم بالهراوات وإطلاق النار بجانبهم؛ ليبدؤوا بعد ذلك تدريبات عسكرية قاسية. وعلّق الكثير ممن شاركوا الفيديو بالقول:</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&quot;واللي صحي قال ماما حضريلي الفطار غير اللي صحي على ضرب النار&quot;.&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_a0a9c5a6d2f0929a28553f4d7c6f303c.jpg\" style=\"height:306px; width:542px\" /></span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_0bdbfcaa419498714d9e38c16c61466f.jpg\" style=\"height:443px; width:373px\" /></span></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 355,
+        "left": 1.578857421875,
+        "path": "articles/1578215249GettyImages-1127017283.jpg",
+        "top": 60.38812255859375,
+        "totalHeight": 423,
+        "totalWidth": 636,
+        "width": 631
+    },
+    "post_date": "2019-12-22T12:02:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/mohannad5/videos/2377495375681548/",
+            "name": "مهند خلاف",
+            "path": "published/0_1578215249_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?ref=search&v=655305184874028&external_log_id=512ba5ab99cb3613fea9109e61cb03f3&q=%D9%88%D8%A7%D9%84%D9%84%D9%8A%20%D8%B5%D8%AD%D9%8A%20%D9%82%D8%A7%D9%84%20%D9%85%D8%A7%D9%85%D8%A7%20%D8%AD%D8%B6%D8%B1%D9%8A%D9%84%D9%8A%20%D8%A7%D9%84%D9%81%D8%B7%D8%A7%D8%B1%20%D8%BA%D9%8A%D8%B1%20%D8%A7%D9%84%D9%84%D9%8A%20%D8%B5%D8%AD%D9%8A%20%D8%B9%D9%84%D9%8A%20%D8%B6%D8%B1%D8%A8%20%D8%A7%D9%84%D9%86%D8%A7%D8%B1",
+            "name": "Optimistic",
+            "path": "published/1_1578215249_Optimistic- logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=553321648733628",
+            "name": "رابطة شباب أسيوط بالكويت",
+            "path": "published/2_1578215249_رابطة شباب أسيوط في الكويت-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=2471155703143597",
+            "name": "الخبر3",
+            "path": "published/3_1578215249_الخبر 3-لوغو.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=yZ-jB-Pp0SE",
+            "name": "الفيديو الأصلي",
+            "path": "sources/0_1578215249_YouTube-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "أهكذا يستيقظ جنود الجيش المصري... ما حقيقة الفيديو؟",
+    "updated_at": "2020-09-23 12:39:57",
+    "url_path": "/factcheck/2020/01/05/أهكذا-يستيقظ-جنود-الجيش-المصري-ما-حقيقة-الفيديو"
+}

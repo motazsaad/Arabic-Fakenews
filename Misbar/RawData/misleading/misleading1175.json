@@ -1,0 +1,137 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 3465,
+    "author": {
+        "fullname": "خالد إسماعيل",
+        "id": "5e59256dd4a2295224257db3",
+        "photo": {
+            "name": "1582900589_صورة 2.jpg",
+            "path": "authors/1582900589_صورة 2.jpg"
+        }
+    },
+    "caption": "الصورة لمطار نيوآرك في ولاية نيو جيرسي الأميركية (فيسبوك)",
+    "category": "Travel",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\"><span dir=\"LTR\">‪</span>صورة لمطار فرانكفورت في ألمانيا الذي يشبه ساعة الرولكس.</p>\r\n",
+    "country": "DE",
+    "created_at": "2020-05-07 17:11:41",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eb4171ddb29161b7b0c5654",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة المتداولة وتبيّن أنها مضلّلة، فهي صورة لمطار نيوارك ليبرتي الدولي، الواقع ضمن حدود مدينتي نيوارك وإليزابيث في ولاية نيو جيرسي الأميركية. كما تبيّن أنها ليست المرة الأولى التي تنتشر فيها هذه الصورة مع الادعاء المصاحب، إذ تدخل في دورة من الظهور والاختفاء كلّ فترة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_cyylto1il.jpg\" style=\"height:491px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_8bc4i1007.jpg\" style=\"height:693px; width:624px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "أميركا",
+        "فرانكفورت",
+        "ألمانيا",
+        "مطار فرانكفورت"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\"><span style=\"background-color:white\"><span style=\"color:black\">تداولت حسابات وصفحات على مواقع التواصل الاجتماعي صورة ادّعت أنها لمطار فرانكفورت، مع تشبيهه بساعة من نوع رولكس.</span></span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"background-color:white\"><span style=\"color:black\"><img src=\"https://images-prod.misbar.com/articlebody/origin_bnt7yfz09.jpg\" style=\"height:720px; width:457px\" /></span></span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"background-color:white\"><span style=\"color:black\"><img src=\"https://images-prod.misbar.com/articlebody/origin_qlkeu9380.jpg\" style=\"height:731px; width:460px\" /></span></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 186,
+        "left": 2.5,
+        "path": "articles/1588860699غلاف.jpg",
+        "top": 40.89990234375,
+        "totalHeight": 423,
+        "totalWidth": 336,
+        "watermark_path": "articles/watermark-1588860699غلاف.jpg",
+        "width": 331
+    },
+    "post_date": "2020-05-07T17:03:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/garayibmudahsah/photos/a.106933167597535/138672581090260/?type=3&theater",
+            "name": "مملكة الكتب ",
+            "path": "published/0_1588860698_نشر عن ذلك 1.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/garayibmudahsah/photos/a.106933167597535/138672581090260/?type=3&theater",
+            "name": "غرائب وعجائب مدهشة ",
+            "path": "published/1_1588860698_نشر عن ذلك 2.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=697086514427623&set=gm.3037768932988856&type=3&theater&ifg=1",
+            "name": "إبراهيم الزاوي ",
+            "path": "published/2_1588860698_نشر عن ذلك 3.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=2674246119370415&set=gm.1088765574856533&type=3&theater&ifg=1",
+            "name": "حسن محمود سلمان",
+            "path": "published/3_1588860698_نشر عن ذلك 4.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/414756869074609/photos/a.415411815675781/633707783846182/?type=3&theater",
+            "name": "الجالية المغربية في ألمانيا ",
+            "path": "published/4_1588860699_نشر عن ذلك 5.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/search/top/?q=%D8%B4%D8%A8%D9%8A%D9%87%20%D8%A8%D9%80%20%D8%B3%D8%A7%D8%B9%D8%A9%20%D8%B1%D9%88%D9%84%D9%83%D8%B3&epa=SEARCH_BOX",
+            "name": "ذياب يسور ",
+            "path": "published/5_1588860699_نشر عن ذلك 6.jpg"
+        },
+        {
+            "link": "https://twitter.com/twer_ibrahim/status/1257856703804170245",
+            "name": "ibrahim twer",
+            "path": "published/6_1588860699_نشر عن ذلك 7.jpg"
+        },
+        {
+            "link": "https://twitter.com/NaderEmbia/status/1236744788516405250",
+            "name": "أحمد",
+            "path": "published/7_1588860699_نشر عن ذلك 8.jpg"
+        },
+        {
+            "link": "https://twitter.com/alaawi_79/status/1258024988810018816",
+            "name": "ali surur",
+            "path": "published/8_1588860699_نشر عن ذلك 9.jpg"
+        },
+        {
+            "link": "https://twitter.com/MonerahChita/status/1258040373957492736",
+            "name": "Monerah AbdAllah",
+            "path": "published/9_1588860699_نشر عن ذلك 10.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://meintripnachnewyork.com/blogs/transfer/transfer-von-newark-flughafen-ewr-in-new-jersey-nach-manhattan",
+            "name": "Mein Trip Nach",
+            "path": "sources/0_1588860699_مصدر 1.jpg"
+        },
+        {
+            "link": "https://www.archdaily.com.br/br/01-108595/visto-de-cima-jeffrey-milstein-captura-a-arte-nos-desenhos-de-aeroportos?ad_medium=gallery",
+            "name": "ArchDaily ",
+            "path": "sources/1_1588860699_مصدر 2.jpg"
+        },
+        {
+            "link": "https://citytravelnyc.com/aeropuerto-de-newark/",
+            "name": "City Travel NYC",
+            "path": "sources/2_1588860699_مصدر 3.jpg"
+        },
+        {
+            "link": "https://tinyurl.com/y9q3mw7t",
+            "name": "الاقتصاد ",
+            "path": "sources/3_1588860699_مصدر 4.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "الصورة لمطار نيوآرك في ولاية نيو جيرسي الأميركية",
+    "title": "هذه الصورة ليست لمطار فرانكفورت في ألمانيا ",
+    "updated_at": "2020-09-25 17:22:17",
+    "url_path": "/factcheck/2020/05/07/هذه-الصورة-ليست-لمطار-فرانكفورت-في-ألمانيا"
+}

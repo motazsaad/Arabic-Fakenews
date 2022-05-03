@@ -1,0 +1,118 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1232,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "الصورة تعود لمواطن سعودي (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صور مؤثرة لأب يودع جثامين أبنائه الستة وزوجته، في حادث مرور وقع في ولاية الشلف الجزائرية.</p>\r\n",
+    "country": "DZ",
+    "created_at": "2020-08-28 16:10:27",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f490243602118071240c11c",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة المتداولة، وتبين أن الادعاء مضلل، لأن الصورة تعود لمواطن سعودي اسمه سامي بن محمد علي النعمي، وقد نُشرت من قِبل مواقع إخبارية سعودية ودولية في تاريخ 17 يناير/كانون الثاني 2018 إثر فقدان النعمي لستة من أبنائه وزوجته، في حادث مروري في مركز الكدمي التابع لمحافظة صبيا، في منطقة جازان، السعودية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">ولا علاقة للصورة بأي حادث وقع في الجزائر حديثاً.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_a0kk02mf4.jpg\" style=\"height:517px; width:549px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_6wjllkbtv.jpg\" style=\"height:505px; width:537px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتناقل صفحات وحسابات على مواقع التواصل الاجتماعي، حديثاً، صورة تدعي أنها لأب يودع جثامين أبنائه الستة وزوجته، بعد حادث مرور خطير، وقع في ولاية الشلف غرب الجزائر.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ogiuuv6ua.jpg\" style=\"height:686px; width:460px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_bihspse2d.jpg\" style=\"height:833px; width:486px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 133,
+        "left": -0.29998779296875,
+        "path": "articles/1598620226غلاف.jpg",
+        "top": 105.949951171875,
+        "totalHeight": 423,
+        "totalWidth": 238,
+        "watermark_path": "articles/watermark-1598620226غلاف.jpg",
+        "width": 237
+    },
+    "post_date": "2020-08-28T16:06:00.000+03:00",
+    "published": [
+        {
+            "link": "https://web.facebook.com/dzertic24/photos/a.130691178399454/209788860489685/?type=3&theater",
+            "name": "ديزارتيك 24 Dzertic ",
+            "path": "published/0_1598620389_facebook.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/photo.php?fbid=326517272035655&set=gm.2432571320380130&type=3&theater&ifg=1",
+            "name": "‎البليدة اليوم Blida aujourd'hui ",
+            "path": "published/1_1598620389_facebook.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/Msilamsif/photos/a.1052644144794228/3330104153714871/?type=3&theater",
+            "name": "مسيف المسيلة Mcif ",
+            "path": "published/2_1598620390_facebook.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/Amellavita/photos/a.1878190728962264/3293139057467417/?type=3&theater",
+            "name": "الهجرة إلى أوروبا Dz ",
+            "path": "published/3_1598620677_facebook.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/288622402087129/photos/a.325340371748665/653629958919703/?type=3&theater",
+            "name": "Ici mascara ",
+            "path": "published/4_1598620677_facebook.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/104208590321220/photos/a.104211353654277/812712452804160/?type=3&theater",
+            "name": "فارس زياد Fares ziad ",
+            "path": "published/5_1598620677_facebook.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/photo.php?fbid=608737163345369&set=a.329124754639946&type=3&theater",
+            "name": "Benyahia Moussi ",
+            "path": "published/6_1598620677_facebook.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/nacerrecords/photos/pcb.1446427258899539/1446427125566219/?type=3&theater",
+            "name": "Nacer Records ",
+            "path": "published/7_1598620677_facebook.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/najrantoday/status/953705729239678977?lang=ar",
+            "name": "نجران اليوم ",
+            "path": "sources/0_1598620226_نجران.jpg"
+        },
+        {
+            "link": "https://www.alarabiya.net/ar/saudi-today/2018/01/17/-%D9%81%D8%A7%D8%AC%D8%B9%D8%A9-%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1-7-%D8%AC%D8%AB%D8%AB-%D9%85%D8%AA%D8%B1%D8%A7%D8%B5%D8%A9-%D9%84%D8%A3%D8%B4%D9%82%D8%A7%D8%A1-%D9%88%D8%A3%D9%85%D9%87%D9%85-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9.html",
+            "name": "العربية  ",
+            "path": "sources/1_1598620226_العربية.jpg"
+        },
+        {
+            "link": "https://sabq.org/JbWyqC",
+            "name": "صحيفة سبق",
+            "path": "sources/2_1598620226_سبق.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصورة عقب حادث في السعودية وليس الجزائر",
+    "updated_at": "2020-09-25 20:10:36",
+    "url_path": "/factcheck/2020/08/28/هذه-الصورة-عقب-حادث-في-السعودية-وليس-الجزائر"
+}

@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1488,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "لم تصرح أي صحفية ألمانية بموقفها من قرار الحكومة التونسية (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:#1c1e21\">صحفية ألمانية غاضبة من الحكومة التونسية لأنّها تخاطر بشعبها لإنقاذ الموسم السياحي.</span></span></p>\r\n",
+    "country": "TN",
+    "created_at": "2020-06-18 19:13:31",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eeb92abd6e4a918f5384676",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:#1c1e21\">تحقّق &quot;مسبار&quot; من الخبر المتداول وتبين أنه زائف، إذ لا يوجد أي تصريح لصحفية ألمانية حول قرار الحكومة التونسية باستئناف الموسم السياحي وفتح مجالها الجوي في 27 يونيو/حزيران الجاري. ولم يعثر &quot;مسبار&quot; على اسم الصحفية والبرنامج الحواري المذكور. كما لا تحيل الصورة المرافقة للخبر إلى هوية صحفية ألمانية. ولم يتوصل &quot;مسبار&quot; إلى معرفة&nbsp;الهوية الحقيقية لصاحبة الصورة.</span><br />\r\n<span style=\"color:#000000\">وكانت منصة فالصو قد تحققت بتاريخ 22 يونيو/حزيران من </span><a href=\"https://www.facebook.com/103527437988087/posts/140103827663781/?d=n\" style=\"text-decoration:none\"><span style=\"color:#1155cc\"><u>الخبر نفسه</u></span></a><span style=\"color:#000000\"> واستطاعت الحصول على </span><a href=\"https://www.youtube.com/watch?v=JhnD7UreRBE&amp;fbclid=IwAR2EfwnVpHipTjM2JrlxWnQE8g29486zHu-GwJQlHGeLfAKN2GUwse-KOKc\" style=\"text-decoration:none\"><span style=\"color:#1155cc\"><u>الفيديو الأصلي</u></span></a><span style=\"color:#000000\">. ووجدت أنّ الصورة المرافقة للمقال تعود لمقدمة برامج ترفيه ألبانية تدعى </span><a href=\"https://www.instagram.com/rudinamagjistari/?hl=fr\" style=\"text-decoration:none\"><span style=\"color:#1155cc\"><u>رودينا ماجيستاري</u></span></a><span style=\"color:#000000\">، صاحبة برنامج RUDINA، الذي يبث من الإثنين إلى الجمعة على شاشة RTV KLAN و KLAN.</span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:#1c1e21\">نشرت صفحات إخبارية وحسابات على مواقع التواصل الاجتماعي، خبراً مفاده أن صحفية ألمانية تدعى &quot;</span><span style=\"color:#1c1e21\">زفيتا كلينغل&quot; قالت</span><span style=\"color:#1c1e21\">&nbsp;في برنامج حواري أوروبي لم يذكر اسمه، إنّ تونس تخاطر بشعبها من أجل إنقاذ الموسم السياحي.</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:#1c1e21\">يأتي ذلك بعد القرار الذي اتخذته الحكومة بفتح حدودها يوم 27 يونيو/حزيران الجاري أمام السياح ومواطنيها في الخارج.</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"background-color:white\"><span dir=\"LTR\"><span style=\"color:#1c1e21\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_x5ox12hk1.jpg\" style=\"height:472px; width:504px\" /></span></span></span><br />\r\n<img alt=\"Capture1.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_9py6hx3bg.jpg\" style=\"height:469px; width:498px\" /><br />\r\n<img alt=\"Capture3.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_f4x9vvja5.jpg\" style=\"height:465px; width:498px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 320,
+        "left": 25.105255126953125,
+        "path": "articles/1592496810safe_image.jpg",
+        "top": 10.746826171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-1592496810safe_image.jpg",
+        "width": 569
+    },
+    "post_date": "2020-06-18T16:57:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.asslematunisie.net/2020/06/Germany-tunisia-corona.html?fbclid=IwAR370yYRQboeUIhzOC4QyH3DHZq5N1z6Ks31WmnFT0M_JBXpoHNd3L4U3_k",
+            "name": "سامي الفهري الصفحة الرسمية",
+            "path": "published/0_1592496809_94037939_2990760797629691_6448718413681393664_o.jpg"
+        },
+        {
+            "link": "https://www.asslematunisie.net/2020/06/Germany-tunisia-corona.html?fbclid=IwAR370yYRQboeUIhzOC4QyH3DHZq5N1z6Ks31WmnFT0M_JBXpoHNd3L4U3_k",
+            "name": "عسلامة تونس",
+            "path": "published/1_1592496809_2.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=1365657233628924&set=a.565885826939406&type=3&theater",
+            "name": "Rayene Benarous Ep Taieb",
+            "path": "published/2_1592496809_68766878_1105453456315971_4934605574118572032_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/aljedidnews/photos/a.900344313489837/1357828597741404/?type=3&theater",
+            "name": "الموقع الإخباري الجديد نيوز",
+            "path": "published/3_1592496809_67631979_1089452364579030_4997370400821215232_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/1516046191743792/posts/3582430545105336/",
+            "name": "Gafsa  lyoum",
+            "path": "published/4_1592496809_103373698_3561098417238549_6722394462746278394_n.jpg"
+        },
+        {
+            "link": "https://www.ettounsi.net/2020/06/covidalmanya.html",
+            "name": "التونسي.نت",
+            "path": "published/5_1592496809_1.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://misbar.com/",
+            "name": "مسبار",
+            "path": "sources/0_1592496809_3.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صحفية ألمانية: تونس تخاطر بشعبها لإنقاذ الموسم السياحي.. خبر زائف",
+    "updated_at": "2020-09-25 17:28:15",
+    "url_path": "/factcheck/2020/06/18/صحفية-ألمانية-تونس-تخاطر-بشعبها-لإنقاذ-الموسم-السياحي-خبر-زائف"
+}

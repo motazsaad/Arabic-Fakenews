@@ -1,0 +1,104 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 1
+    },
+    "amount_sources": 0,
+    "amount_visits": 16464,
+    "author": {
+        "fullname": "محمود غزيل",
+        "id": "5ea83263db291659bf4bf4c4",
+        "photo": {
+            "name": "1588081251_IMG-20180505-WA0040.jpg",
+            "path": "authors/1588081251_IMG-20180505-WA0040.jpg"
+        }
+    },
+    "caption": "المقاطع المتداولة صُوّرت في الهند عند تسرّب غاز سام من مصنع كيمياوي (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\">حشرة كبيرة بحجم الدبور تقتل بعد لدغتها بلحظات، منتشرة حالياً&nbsp;في الصين والهند ومتوجهة لإيران.</p>\r\n",
+    "country": "",
+    "created_at": "2020-05-10 21:00:38",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5eb84146db2916293848bd44",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الادّعاءات المرفقة للمقاطع المصوّرة زائفة. إذ تحقّق &quot;مسبار&quot; منها ووجد بأنها صُوّرت في الهند بتاريخ 7 مايو/ أيار الجاري، من قبل صحافي حين&nbsp;تسرّب غاز سام من مصنع كيمياوي، ولا علاقة للحادثة&nbsp;بهجوم الحشرات.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_m5zw06rc5.jpg\" style=\"height:763px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_n220vt06x.jpg\" style=\"height:493px; width:624px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": false,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداول عدد من مستخدمي موقعيّ التواصل الاجتماعي فيسبوك وتويتر، بتاريخ 9 مايو/ أيار الجاري، مجموعةً من المقاطع المصوّرة، تُظهر أشخاصاً في حالة هلع يركضون ويتساقطون. وادّعى الناشرون بأنها تعود لهجوم من الحشرات الكبيرة في الصين&nbsp;والهند، إضافةً إلى أنها تتوجّه لإيران.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_3omgy3i3n.jpg\" style=\"height:360px; width:625px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_69avir0yk.jpg\" style=\"height:356px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ecg5kjsmr.jpg\" style=\"height:789px; width:492px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_7yy6qc74h.jpg\" style=\"height:690px; width:490px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 155,
+        "left": 3.327117919921875,
+        "path": "articles/1589133637GettyImages-1212154389.jpg",
+        "top": 2.140869140625,
+        "totalHeight": 188,
+        "totalWidth": 282,
+        "watermark_path": "articles/watermark-1589133637GettyImages-1212154389.jpg",
+        "width": 277
+    },
+    "post_date": "2020-05-11T12:55:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/109635834024559/videos/577150092916491/",
+            "name": "أفلام اكشن وقتال",
+            "path": "published/1_1589133637_افلام اكشن.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100026415722344/videos/564322901124896/",
+            "name": "وداد الشريف",
+            "path": "published/2_1589135646_وداد الشريف.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/nazzar00000076/posts/10157331435860745",
+            "name": "Nizo Nazzar",
+            "path": "published/3_1589135646_نيزو نزار.jpg"
+        },
+        {
+            "link": "https://twitter.com/DalalRaffa/status/1259092739146362881",
+            "name": "𝔇𝔏𝔄𝔏 ℜ𝔄𝔉𝔈𝔄",
+            "path": "published/4_1589135646_dalal rafa.jpg"
+        },
+        {
+            "link": "https://twitter.com/bandar27148334/status/1258930311741812737",
+            "name": "bandar",
+            "path": "published/5_1589135646_bandar.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.alarabiya.net/ar/social-media/2020/05/08/%D8%B4%D8%A7%D9%87%D8%AF-%D8%A7%D9%84%D9%87%D9%86%D9%88%D8%AF-%D9%8A%D8%B3%D9%82%D8%B7%D9%88%D9%86-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B7%D8%B1%D9%82%D8%A7%D8%AA-%D9%82%D8%AA%D9%84%D9%89-%D9%88%D9%85%D8%B1%D8%B6%D9%89-%D9%85%D9%86-%D8%AA%D8%B3%D8%B1%D8%A8-%D8%A7%D9%84%D8%BA%D8%A7%D8%B2",
+            "name": "العربية",
+            "path": "sources/0_1589135646_العربية لوغو.jpg"
+        },
+        {
+            "link": "https://edition.cnn.com/2020/05/08/asia/india-gas-leak-deaths-intl-hnk/index.html",
+            "name": "CNN",
+            "path": "sources/1_1589135646_cnn-logo-white-on-red.jpg"
+        },
+        {
+            "link": "https://www.aljazeera.com/news/2020/05/indian-protesters-carry-bodies-gas-leak-plant-200509165455395.html",
+            "name": "ALJAZEERA",
+            "path": "sources/2_1589135646_الجزيرة.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "حشرة قاتلة تلدغ المارة في الهند وتتجه إلى إيران.. حقيقة الخبر",
+    "updated_at": "2020-09-25 20:45:06",
+    "url_path": "/factcheck/2020/05/10/حشرة-كبيرة-قاتلة-منتشرة-في-الصين-والهند-وتتوجه-إلى-إيران-حقيقة-الخبر"
+}

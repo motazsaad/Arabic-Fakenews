@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 737,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "ركن صلاة في قطار داخل السعودية (فيسبوك)",
+    "category": "Travel",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">ركن مخصص لأداء الصلاة داخل قطار في إنجلترا.</p>\r\n",
+    "country": "GB",
+    "created_at": "2020-08-27 15:38:14",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f47a936602118129f18bae9",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة المتداولة ووجد أنها مضللة، لأن الصورة الأصلية تُظهر ركن صلاة في قطار داخل المملكة العربية السعودية وليس المملكة المتحدة.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">ومن الممكن الاطلاع على <a href=\"https://youtu.be/aiV1IE-Tvog?t=54\" style=\"text-decoration:none\" target=\"_blank\"><u>مقطع فيديو</u></a> يُظهر ركن الصلاة في قطار ما بين محافظات الرياض والدمام في السعودية.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_jnatmuwx7.jpg\" style=\"height:363px; width:529px\" /></span></p>\r\n\r\n<p><iframe frameborder=\"0\" height=\"868\" src=\"https://www.youtube.com/embed/aiV1IE-Tvog\" width=\"1280\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تتناقل صفحات على مواقع التواصل الاجتماعي، منذ سنوات، صورة تدعي أنها تُظهر ركناً مخصصاً لأداء صلاة المسلمين داخل قطار في إنجلترا.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_lbdzj4gj0.jpg\" style=\"height:569px; width:538px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ucctd974p.jpg\" style=\"height:526px; width:522px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 315,
+        "left": 2.183349609375,
+        "path": "articles/1598531894غلاف.jpg",
+        "top": 33.599853515625,
+        "totalHeight": 423,
+        "totalWidth": 564,
+        "watermark_path": "articles/watermark-1598531894غلاف.jpg",
+        "width": 560
+    },
+    "post_date": "2020-08-27T15:29:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1362815613872585&id=100004324783314",
+            "name": "محمد تواتي",
+            "path": "published/0_1598532141_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/olamaatggt.touggourt/posts/2376407745974087",
+            "name": "Jamiy'at Elolamaa Touggourt",
+            "path": "published/1_1598532142_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/el7kmah/posts/2684278011605920",
+            "name": "الموعظة الحسنة",
+            "path": "published/2_1598532142_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/larache.4.ever/posts/2366363863477329",
+            "name": "Larache 4Ever | العرائش الى الأبد",
+            "path": "published/3_1598532228_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/abdelkader.houti/posts/2599268486784638",
+            "name": "Abdelkader Houti Lalmani",
+            "path": ""
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://youtu.be/aiV1IE-Tvog",
+            "name": "شبكة أخبار مغاغة ",
+            "path": "sources/0_1598531894_مغاغة.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ركن الصلاة في قطار سعودي وليس إنجليزي",
+    "updated_at": "2020-09-25 19:28:08",
+    "url_path": "/factcheck/2020/08/27/ركن-الصلاة-في-قطار-سعودي-وليس-إنجليزي"
+}

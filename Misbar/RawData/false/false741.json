@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 16986,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "منصب رئيس الجمهورية فخرياً في أثيوبيا، والسلطة الفعلية في يد رئيس الوزراء (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">رئيس وزراء إثيوبيا أبي أحمد لا يريد للفساد في بلاده أن يصبح كما الفساد في لبنان أو العراق أو الجزائر.</p>\r\n",
+    "country": "ET",
+    "created_at": "2020-05-10 12:37:16",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eb7cb4cdb29162f00321f14",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من التصريح، ووجد فيه عدة مواضع زيف، ففي بعض المنشورات يتم تناقل أن التصريحات على لسان الرئيس الإثيوبي، والصور المرافقة هي لرئيس الوزراء أبي أحمد، وليس لرئيس الجمهورية الذي كان وقها هو مولاتو تيشومي. وقد انتُخِب في 2013، لولاية تستمر 6 سنوات. ويُعتَبر منصب رئيس الجمهورية فخرياً في أثيوبيا، خصوصاً أن صلاحياته محدودة، والسلطة الفعلية في يد رئيس الوزراء، وبعد انتهاء ولاية الرئيس&nbsp;في 2018 أصبحت الدبلوماسية&nbsp;سهلي ورق رئيسة إثيوبيا.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">ومن جهة أخرى تم تناقل هذه التصريحات عقب أداء اليمين الدستورية من قبل أبي أحمد في أبريل/ نيسان من العام 2018، وخلال منح حكومته&nbsp;الثقة، وتحقّق &quot;مسبار&quot; من كلمته أمام البرلمان، ليجد أنه بالفعل تحدث خلالها عن الفساد، لكن لم يقم بأي مقارنات من أي نوع مع دول أخرى، بل تعهد أحمد حينها بمحاربة الفساد وإجراء الإصلاحات الضرورية.</p>\r\n\r\n<p style=\"text-align:center\"><span style=\"background-color:white\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_yqi0ar6mk.jpg\" style=\"height:406px; width:605px\" />.</span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">يتداول مستخدمون على وسائل التواصل الاجتماعي منذ النصف الثاني من العام 2018 تصريحاً لرئيس وزراء أثيوبيا يقول فيه &quot; إذا لم نتحد معاً، ونحارب الفساد، سنصبح مثل دولة العراق أو أكثر&quot;، ويتم تناقل التصريح بكثافة في أكثر من صفحة مع تبديل اسم الدولة، فمرة الجزائر ومرة لبنان ومرة الجزائر، كما عاد تداول هذه التصريحات في شهر أبريل/ نيسان المنصرم.</p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_6o086etgl.jpg\" style=\"height:251px; width:605px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_0o1uj9l9k.jpg\" style=\"height:463px; width:605px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_92d6cc6hc.jpg\" style=\"height:338px; width:605px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_x051vh925.jpg\" style=\"height:505px; width:605px\" /></p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_2m8owdmwt.jpg\" style=\"height:470px; width:604px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 333,
+        "left": 8.3238525390625,
+        "path": "articles/1589103435GettyImages-1187385147.jpg",
+        "top": 55.0572509765625,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1589103435GettyImages-1187385147.jpg",
+        "width": 591
+    },
+    "post_date": "2020-05-10T10:15:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=756721544675431&id=100010127773660",
+            "name": " Abbas Najm",
+            "path": "published/0_1589103435_عباس نعيم اث1.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/264874097212305/permalink/1104403516592688/",
+            "name": "‎د. رافد النهاري‎ ",
+            "path": "published/1_1589103435_رافت.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/MnBaghdad/posts/1106833829480714?__xts__[0]=68.ARCuUYBMCovS1zPjZ_FNKUvZhwl6TyoHnuMlb8589O3LovG-i8hteQgiqxA243nA7z1mLnmCAn2FWBVEEVjXbINyOrmdtR20FfqvYMm84jhcfkqoPE7GhYbRG78hjRdmvjqQZtkiSGzAY91AokNbl-04q30jlNP1BELNeaigvJUdCemgRLT9g2RN8G66um_yfcb1hptDM0VuvXmWVKFzp8mo-tU4r2G1HdiunfETBPMBoqvTPG6sVW-PO8MPsRI3aXSM-vNdRIeKOFy24zbdfBppoWLnp2ByCnB_x82EI3_oeKyjkdNoQUQM_X5hMjmJYfunMB1W3xjwjl4-S7yB_Xo-jQ&__tn__=-R",
+            "name": "من بغداد",
+            "path": "published/2_1589103435_بغداد3.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=10156016642962634&set=a.10151562040582634&type=3&theater",
+            "name": "Jaafar A Watfa",
+            "path": "published/3_1589103435_جفرا.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/2051502898508338/photos/a.2052501788408449/2695014214157200/?type=3&theater",
+            "name": "Ne3ya G Thwaghith",
+            "path": "published/4_1589103435_يييي999.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.aa.com.tr/ar/%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7/%D8%A3%D8%A8%D9%8A-%D8%A3%D8%AD%D9%85%D8%AF-%D9%8A%D8%AA%D8%B9%D9%87%D8%AF-%D8%A8%D9%85%D8%AD%D8%A7%D8%B1%D8%A8%D8%A9-%D8%A7%D9%84%D9%81%D8%B3%D8%A7%D8%AF-%D8%A3%D9%85%D8%A7%D9%85-%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D8%A5%D8%AB%D9%8A%D9%88%D8%A8%D9%8A/1122737",
+            "name": "وكالة الأناضول",
+            "path": "sources/0_1589103435_الاناضول.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "رئيس وزراء إثيوبيا لم ينتقد الفساد في العراق أو لبنان أو الجزائر",
+    "updated_at": "2020-09-25 22:11:57",
+    "url_path": "/factcheck/2020/05/10/رئيس-وزراء-إثيوبيا-لم-ينتقد-الفساد-في-العراق-أو-لبنان-أو-الجزائر"
+}

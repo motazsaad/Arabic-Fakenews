@@ -1,0 +1,109 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2165,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "خبر ساخر يتحوّل إلى حقيقة (مواقع التواصل الاجتماعي)",
+    "category": "Arts & Culture",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">هاني شاكر يقرر إلغاء &quot;تيك توك&quot; في مصر.</p>\r\n",
+    "country": "EG",
+    "created_at": "2020-03-03 14:05:00",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e5e39dcd4a22924c52a2cb5",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الادعاء ووجد أنه ساخر، إذ صحبته تعليقات ساخرة من على شاكلة &quot;<span style=\"color:black\">إيه يا أستاذ هاني ما تاخد مننا الموبايلات بالمرة!&quot;، كما روّجت له العديد من الصفحات الساخرة على مواقع التواصل الاجتماعي. </span>ولا وجود للخبر على <a href=\"https://www.facebook.com/HanyShaker/\" style=\"color:blue; text-decoration:underline\">الصفحة الرسمية</a> للفنّان هاني شاكر، <a href=\"http://www.musicans-syndicate.com/Aboutus.aspx\" style=\"color:blue; text-decoration:underline\">والموقع الرسمي</a> لنقابة المهن الموسيقية، كما لا يندرج حجب المواقع الإلكترونية في مصر تحت صلاحيات <u><span style=\"color:#1155cc\"><a href=\"http://www.musicans-syndicate.com/Files/Laws/%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86.PDF\" style=\"color:blue; text-decoration:underline\">النقابة</a></span></u>.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">ومن المرجّح أنّ هذه&nbsp;السخرية مرتبطة بالجدل الدائر بين هاني شاكر ومغني المهرجانات في مصر، الأمر الذي دفع نقيب الموسيقيين إلى <u><span style=\"color:#1155cc\"><a href=\"https://www.youtube.com/watch?v=nH8kWfSUJfY\" style=\"color:blue; text-decoration:underline\">منعهم</a></span></u> من عضوية النقابة، رغم أنّ مهرجاناتهم واسعة الانتشار في مصر، وتحقّق ملايين المشاهدات، ممّا وفّر بيئة خصبة للسخرية، كما فتح باباً للأخبار الساخرة التي تنتشر باعتبارها حقيقية.</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "مهرجانات",
+        "مصر",
+        "هاني شاكر"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحاتٌ على مواقع التواصل الاجتماعي أخباراً عن قرار هاني شاكر، نقيب المهن الموسيقية في مصر، حجب تطبيق &quot;تيك توك&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"Picture_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/origin_maekip10m.jpg\" style=\"height:402.75pt; width:297.75pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"Picture_x0020_5\" src=\"https://images-prod.misbar.com/articlebody/origin_ngrda8mxz.jpg\" style=\"height:449.25pt; width:344.25pt\" /> </span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 320,
+        "left": 6.51666259765625,
+        "path": "articles/1583233499هاني شاكر-غلاف.jpg",
+        "top": 70.966552734375,
+        "totalHeight": 423,
+        "totalWidth": 580,
+        "width": 569
+    },
+    "post_date": "2020-03-03T12:52:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=143224167163730&id=101089238043890",
+            "name": "Fara7day",
+            "path": "published/0_1583233499_fara7day-logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/shoshet.elmasry.7/posts/2627089867520739",
+            "name": "شيماء عيد",
+            "path": "published/1_1583233499_شيماء عيد-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/donia.mohamedfouad/posts/824511428022555",
+            "name": "دنيا محمد فؤاد",
+            "path": "published/2_1583233499_دنيا محمد فؤاد-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Inffinity11/posts/3235026786531185",
+            "name": "Infinity ∞",
+            "path": "published/3_1583233499_Infinity-logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/tm_isra/status/1234448392027287555",
+            "name": "إسراء",
+            "path": "published/4_1583233499_إسراء-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/PassionBookshots1/posts/2861762260717569",
+            "name": "شغف",
+            "path": "published/5_1583233499_شغف-لوغو.jpg"
+        }
+    ],
+    "result": "satire",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "http://www.musicans-syndicate.com/index.aspx",
+            "name": "نقابة المهن الموسيقية المصرية",
+            "path": "sources/0_1583233498_نقابة المهن الموسيقية-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/HanyShaker/",
+            "name": "الصفحة الرسمية لهاني شاكر",
+            "path": "sources/1_1583233498_هاني شاكر-لوغو.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=nH8kWfSUJfY",
+            "name": "برنامج الحكاية",
+            "path": "sources/2_1583233499_الحكاية-لوغو.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "خبر ساخر يتحوّل إلى حقيقة",
+    "title": "هل قرّر هاني شاكر حجب تطبيق \"تيك توك\" في مصر؟",
+    "updated_at": "2020-09-25 20:36:12",
+    "url_path": "/factcheck/2020/03/03/هل-قرر-هاني-شاكر-حجب-تطبيق-تيك-توك-في-مصر"
+}

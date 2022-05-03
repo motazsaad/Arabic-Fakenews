@@ -1,0 +1,117 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 4863,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "نفت وزارة الصحة المصرية زيارة الوزيرة هالة زايد لإيطاليا (Getty)",
+    "category": "Health",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">وزيرة الصحة المصرية تسافر&nbsp;إلى إيطاليا لمساندتها في التخلص من الوباء، وتقرير من مجلة فورين بوليسي يتساءل هل يمتلك المصريون علاج &quot;كورونا المستجد&quot;؟&nbsp;وبرلماني مصري يقول &quot;مصر مفتاح السر في حل أزمة فايروس كورونا المستجد (كوفيد-19) في العالم&quot;.</p>\r\n",
+    "country": "EG",
+    "created_at": "2020-03-22 16:23:47",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e7766e3d4a22935dd6627a3",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الخبر المتداول، وتبيّن أنه زائف، إذ <a href=\"https://www.youtube.com/watch?v=kgOo6Fq41Eo\" style=\"color:blue; text-decoration:underline\">نفت وزارة الصحة</a> المصرية، على لسان متحدثها الرسمي خالد مجاهد، زيارة الوزيرة هالة زايد لإيطاليا، وقال مجاهد، بلهجة حادة خلال مداخلة هاتفية يوم الجمعة 20 مارس/آذار 2020 &quot;مَن يعيد نشر هذا الخبر الزائف الذي نُفي أكثر من مرة صحف ومواقع قومية -تابعة للحكومة- وهو أمر لا يصح على الإطلاق&quot;، مطالباً بالالتزام ببيانات الوزارة الرسمية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وبحث &quot;مسبار&quot; في مجلة فورين بوليسي الأميركية فلم يجد أي مقالات منشورة حول الادعاء المتداول. ومن الجدير بالذكر أن منظمة الصحة العالمية لم تعلن بعد عن توصل أي دولة لعلاج لفايروس كورونا المستجد (كوفيد-19)، كما تحقق &quot;مسبار&quot; في 5 مارس/آذار الجاري من زيف ما تم تداوله عن <a href=\"https://www.misbar.com/factcheck/5e60dd65d4a22967c11dece4\" style=\"color:blue; text-decoration:underline\">توصل مصر لعلاج</a> لفايروس كورونا المستجد وتسليمه للصين.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/kgOo6Fq41Eo\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداول بعض مستخدمي مواقع التواصل الاجتماعي في مصر أنباء عن سفر وزيرة الصحة المصرية الدكتورة هالة زايد إلى إيطاليا، وادَّعى البعض أن السر وراء الزيارة إمداد إيطاليا بعلاج مصري لمساعدتها على وقف وباء فايروس كورونا (كوفيد-19)، كما فعلت الوزيرة من قبل خلال زيارتها للصين بداية شهر مارس/آذار الجاري.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">كان ممن ادعوا ذلك&nbsp;مصطفى بكري، عضو البرلمان المصري، وقال في تغريدة &quot;بعد زيارة الصين، وزيرة الصحة تسافر إلى إيطاليا، المرض يتراجع في الصين، غداً سيتحدث العالم عن الزعيم عبد الفتاح السيسي والأيام بيننا&quot;. كما نشر آخرون تقريراً -بدون مصدر- لمجلة فورين بوليسي الأميركية عن السر المصري الذي منحته الوزيرة للصين وساهم في انحسار الوباء في مدينة ووهان.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_j9bhcvkz6.jpg\" style=\"height:254px; width:438px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_okc03tzj7.jpg\" style=\"height:409px; width:435px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_jnzkme08k.jpg\" style=\"height:648px; width:431px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 286,
+        "left": 50.37937927246094,
+        "path": "articles/1584883427GettyImages-1206163618.jpg",
+        "top": 34.36279296875,
+        "totalHeight": 384,
+        "totalWidth": 577,
+        "width": 508
+    },
+    "post_date": "2020-03-22T16:06:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/BakryMP/status/1241244097379291146",
+            "name": "مصطفى بكري",
+            "path": "published/0_1584885322_مصطفي بكري.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/story.php?story_fbid=1123697677974984&id=452166678461424",
+            "name": "عبد الرحمن احمد",
+            "path": "published/1_1584885322_عبدالرحمن احمد.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/permalink.php?story_fbid=114778873482945&id=100048524991781",
+            "name": "الحاج السيد ابو محمد",
+            "path": "published/2_1584885322_الحاج السيد ابو محمد.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/3enmasrnews/photos/a.155816568459004/523675381673119/?type=3&theater",
+            "name": "عين مصر",
+            "path": "published/3_1584885322_عين مصر.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/story.php?story_fbid=911575722605548&id=505762876520170",
+            "name": "أنا مصري",
+            "path": "published/4_1584885322_أنا مصرى.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/permalink.php?story_fbid=1419523431552625&id=100004849445811",
+            "name": "سمير توكل",
+            "path": "published/5_1584885322_سمير توكل.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=2191263977681507&set=a.752684771539442&type=3",
+            "name": "Amir Rakha",
+            "path": "published/6_1584885322_Amir Rakha.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=1645457218925647&set=a.111893192282065&type=3",
+            "name": "Tamer Eladawy",
+            "path": "published/7_1584885322_Tamer Eladawy.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=kgOo6Fq41Eo",
+            "name": "الجمعة في مصر",
+            "path": "sources/0_1584885321_الجمعة في مصر.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/egypt.mohp/",
+            "name": "وزارة الصحة والسكان المصرية",
+            "path": "sources/1_1584885322_وزارة الصحة والسكان المصرية.jpg"
+        },
+        {
+            "link": "https://foreignpolicy.com/tag/egypt/",
+            "name": "Foreign Policy",
+            "path": "sources/2_1584885322_Foreign Policy.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "وزيرة الصحة المصرية تحمل سر علاج كورونا إلى إيطاليا.. أخبار زائفة",
+    "updated_at": "2020-09-25 15:48:47",
+    "url_path": "/factcheck/2020/03/22/وزيرة-الصحة-المصرية-تحمل-سر-علاج-كورونا-إلى-إيطاليا-أخبار-زائفة"
+}

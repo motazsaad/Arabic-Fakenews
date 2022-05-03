@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2286,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "لقطة مأخوذة عن فيلم (يوتيوب)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">ليست مناورة ولا تدريباً عسكرياً، هذه صورة نشامى الجيش العربي الأردني يحاربون على أسوار القدس.</p>\r\n",
+    "country": "JO",
+    "created_at": "2020-08-27 22:23:37",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 2,
+    "feedback_pos": 1,
+    "id": "5f480839602118067e258bd7",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة المتداولة ووجد أنها مضللة، لأنها لا تُظهر أفراداً من الجيش الأردني على أسوار القدس، وإنما هي مأخوذة عن فيلم &quot;<a href=\"https://www.imdb.com/title/tt0060218/\" style=\"text-decoration:none\" target=\"_blank\"><u>Cast A Giant Shadow</u></a>&quot; الصادر عام 1966.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">يتحدث الفيلم عن قصة ضابط أميركي-&quot;إسرائيلي&quot; يساهم في قيادة قوات من جيش الاحتلال، أثناء حرب عام 1948. ومن خلال اطلاع &quot;مسبار&quot; على نسخة من الفيلم، تظهر اللقطة المأخوذة عنه في المنشور المضلل في الدقيقة 01:50:39.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_8fs63aw73.jpg\" style=\"height:222px; width:580px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تتناقل صفحات على مواقع التواصل الاجتماعي، حديثاً، صورة تدعي أنها تُظهر أفراداً من الجيش الأردني يحاربون على أسوار القدس في إحدى الحروب. وُصفت الصورة بأنها نادرة.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_43izbgbzn.jpg\" style=\"height:501px; width:534px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_3y39ogpr8.jpg\" style=\"height:489px; width:530px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 111.5,
+        "path": "articles/1598556216Annotation 2020-08-27 222030.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 1105,
+        "watermark_path": "articles/watermark-1598556216Annotation 2020-08-27 222030.jpg",
+        "width": 752
+    },
+    "post_date": "2020-08-27T22:21:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/HAMZAjordan20/status/1298950591050403840",
+            "name": "HAMZA",
+            "path": "published/0_1598556388_twitter.jpg"
+        },
+        {
+            "link": "https://twitter.com/Fatima_yousef20/status/1299009975461859328",
+            "name": "Fatima",
+            "path": "published/1_1598556389_twitter.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/um.sarah.520/posts/797520684323221",
+            "name": "Um Sarah",
+            "path": "published/2_1598556389_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/631260157401571/permalink/912069402653977/",
+            "name": "Abad Alkrem Zauahra",
+            "path": "published/3_1598556429_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=320972895626638&set=a.100579424332654&type=3",
+            "name": "محمد الشواربة الدعجة",
+            "path": "published/4_1598556430_facebook.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.imdb.com/title/tt0060218/",
+            "name": "IMDb ",
+            "path": "sources/0_1598556216_IMDb.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصورة ليست للجيش الأردني على أسوار القدس وإنما مقطع من فيلم",
+    "updated_at": "2020-09-25 14:28:55",
+    "url_path": "/factcheck/2020/08/27/هذه-الصورة-ليست-للجيش-الأردني-على-أسوار-القدس-وإنما-مقطع-من-فيلم"
+}

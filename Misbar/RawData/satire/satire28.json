@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2436,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "الخبر نشره موقع تونسي ساخر (فيسبوك)",
+    "category": "Food & Beverages",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">شاب تونسي يجني ثروة في إيطاليا ببيعه لمادة البسيسة كعلاج فعال ضد فايروس كورونا المستجد (كوفيد-19).</p>\r\n",
+    "country": "TN",
+    "created_at": "2020-06-15 13:16:11",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ee74a6bd6e4a9630e10f2c5",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الادعاء ساخر، إذ لم تنشر صحيفة لارينا الإيطالية خبراً عن تونسي يبيع مادة البسيسة على أنها علاج فعال ضد فايروس كورونا (كوفيد-19).</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">كما وجد &quot;مسبار&quot; أنّ الخبر منشور في <a href=\"https://www.tounesnews.net/2020/06/%D9%85%D9%87%D8%A7%D8%AC%D8%B1-%D8%AA%D9%88%D9%86%D8%B3%D9%8A-%D9%8A%D8%A8%D9%8A%D8%B9-%D8%A7%D9%8450%D8%BA%D8%B1%D8%A7%D9%85-%D9%85%D9%86-%D8%A7%D9%84%D8%A8%D8%B3%D9%8A%D8%B3%D8%A9-%D9%81%D9%8A/\" style=\"color:blue; text-decoration:underline\">موقع تونس نيوز</a> الساخر يوم 13 يونيو/ حزيران الجاري، وتناقلته صفحات إخبارية كخبر صحيح.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"Capture6.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_6zi3zfaev.jpg\" style=\"height:541px; width:605px\" /></span><br />\r\n<br />\r\n&nbsp;</p>\r\n\r\n<p dir=\"RTL\">والبسيسة أكلة مغاربية شعبية، غنية بالمكونات الغذائية المفيدة للجسم، وهي عبارة عن طحين يضاف إليه التوابل، الزيت، السكر والعسل.</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات إخبارية وحسابات على موقع فيسبوك، خبراً نسبوه إلى صحيفة لارينا الإيطالية، يدّعي أنّ مهاجراً تونسيًّا جنى أموالاً طائلةً ببيع مادة البسيسة كعلاج فعال لمصابي فايروس كورونا المستجد (كوفيد-19)، وأوهم الإيطاليين أنها أنقذت تونس من انتشاره.<br />\r\nووفق الخبر، سعّر التونسي 50 غرام من مادة البسيسة بـ100 أورو في ظلّ إقبال كبير عليها.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><br />\r\n<span dir=\"LTR\"><img alt=\"Capture1.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_tekoyz4r2.jpg\" style=\"height:518px; width:504px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"Capture3.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_hdsmh4pnj.jpg\" style=\"height:471px; width:499px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 334,
+        "left": 17.4385986328125,
+        "path": "articles/1592216170DSC_4627-600x450_c.jpg",
+        "top": 42.059326171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-1592216170DSC_4627-600x450_c.jpg",
+        "width": 594
+    },
+    "post_date": "2020-06-15T11:01:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/realite.tn/photos/a.1754269218198416/2454889018136429/?type=3&theater",
+            "name": "الواقع التونسي",
+            "path": "published/0_1592216170_93208860_2404418086516856_7655216255166578688_n.jpg"
+        },
+        {
+            "link": "https://www.ettounsi.net/2020/06/italiatunisie.html?fbclid=IwAR2kP51Al62WcfVOCIGdyxBYBpdetAx_dEp34FQuf-_CElGRtJIEsZiQRO4",
+            "name": "موقع التونسي نت",
+            "path": "published/1_1592216170_2.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/sbih.3073.sbih/photos/a.112900479391170/543245386356675/?type=3&theater",
+            "name": "صبييح 3073",
+            "path": "published/2_1592216170_49307649_267983060549577_8446859095247421440_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=2966995326750895&set=gm.3190630421198715&type=3&theater",
+            "name": "sonia lamin",
+            "path": "published/3_1592216170_97473037_2882433358540426_1336267280446652416_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Ghardimaou.Page.Officielle/photos/a.633350206704107/3126441744061595/?type=3&theater",
+            "name": "غار الدماء",
+            "path": "published/4_1592216170_1479471_633349806704147_2096624164_n.jpg"
+        }
+    ],
+    "result": "satire",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.tounesnews.net/2020/06/%D9%85%D9%87%D8%A7%D8%AC%D8%B1-%D8%AA%D9%88%D9%86%D8%B3%D9%8A-%D9%8A%D8%A8%D9%8A%D8%B9-%D8%A7%D9%8450%D8%BA%D8%B1%D8%A7%D9%85-%D9%85%D9%86-%D8%A7%D9%84%D8%A8%D8%B3%D9%8A%D8%B3%D8%A9-%D9%81%D9%8A/",
+            "name": "تونس نيوز ",
+            "path": "sources/0_1592216170_1.jpg"
+        },
+        {
+            "link": "https://www.larena.it/territori/citt%C3%A0/filovia-2-mesi-di-nuovi-cantieri-in-borgo-roma-1.7944250",
+            "name": "صحيفة لارينا",
+            "path": "sources/1_1592216170_unnamed.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "تونسي يبيع البسيسة في إيطاليا كعلاج فعال ضد كورونا.. ساخر",
+    "updated_at": "2020-09-25 20:15:21",
+    "url_path": "/factcheck/2020/06/15/تونسي-يبيع-البسيسة-في-إيطاليا-كعلاج-فعال-ضد-كورونا-ساخر"
+}

@@ -1,0 +1,106 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 138,
+    "author": {
+        "fullname": "حسام الوكيل",
+        "id": "5e7cb2a9d4a2297a3f1db883",
+        "photo": {
+            "name": "1585230505_1hGLjIBq_400x400.jpg",
+            "path": "authors/1585230505_1hGLjIBq_400x400.jpg"
+        }
+    },
+    "caption": "استقال راينهارد جريندل في أبريل الفائت (Getty)",
+    "category": "Sports",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">عاجل: استقالة رئيس اتحاد كرة القدم الألماني بعد تلقيه ساعة باهظة الثمن كهدية.</p>\r\n",
+    "country": "DE",
+    "created_at": "2021-01-02 22:10:36",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 3,
+    "feedback_pos": 1,
+    "id": "5ff0c52c243b0334993fbccf",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقق &quot;<a href=\"https://misbar.com/\" style=\"text-decoration:underline\" target=\"_blank\">مسبار</a>&quot; من الخبر المتداول ووجد أنه مضلل، إذ إن رئيس الاتحاد الألماني لكرة القدم، راينهارد جريندل، تقدم باستقالته في أبريل/نيسان من عام 2020، عقب انتشار تقارير حول تلقيه دخلاً من شركة تابعة للاتحاد الألماني وهدية حصل عليها من رجل الأعمال الأوكراني ومسؤول كرة القدم جريجوري سوركيس.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">ويتولى فريتز كيلر رئاسة اتحاد كرة القدم الألماني حاليًّا.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"color:black\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_v9ea4auji.jpg\" style=\"height:476px; width:624px\" /></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><span style=\"color:black\">اقرأ/ي أيضاً</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2021/01/01/%D8%A7%D9%84%D8%A3%D9%87%D9%84%D9%8A-%D9%84%D9%85-%D9%8A%D8%B9%D9%84%D9%86-%D8%AA%D8%B9%D8%A7%D9%82%D8%AF%D8%A7-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A7-%D9%85%D8%B9-%D9%85%D8%A4%D9%85%D9%86-%D8%B2%D9%83%D8%B1%D9%8A%D8%A7-%D9%81%D8%B9%D9%82%D8%AF%D9%87-%D9%84%D8%A7-%D9%8A%D8%B2%D8%A7%D9%84-%D8%B3%D8%A7%D8%B1%D9%8A%D8%A7\" style=\"text-decoration:underline\">الأهلي لم يعلن تعاقداً جديداً مع مؤمن زكريا، فعقده ما يزال سارياً</a></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2021/01/02/%D8%AA%D8%B4%D8%A7%D9%81%D9%8A-%D8%B6%D9%85%D9%86-%D8%A7%D9%84%D8%A3%D8%B3%D9%85%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%B1%D8%B4%D8%AD%D8%A9-%D9%84%D9%82%D9%8A%D8%A7%D8%AF%D8%A9-%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9-%D8%A7%D9%84%D9%85%D9%88%D8%B3%D9%85-%D8%A7%D9%84%D9%85%D9%82%D8%A8%D9%84-%D9%88%D9%84%D9%8A%D8%B3-%D9%85%D8%A4%D9%83%D8%AF%D8%A7\" style=\"text-decoration:underline\">لم يُعيّن تشافي رسمياً مدرباً لبرشلونة للموسم المقبل حتى الآن</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "الاتحاد الألماني لكرة القدم",
+        "راينهارد جريندلو",
+        "جريجوري سوركيس"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [
+        "راينهارد جريندل"
+    ],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت حسابات على موقعي التواصل الاجتماعي فيسبوك وتويتر خبراً حول استقالة رئيس اتحاد كرة القدم الألماني بعد تلقيه ساعة باهظة الثمن كهدية، وزعم متداولو الخبر أن الاستقالة حدثت توًّا، ونشروا الخبر مسبوقًا بكلمة <span dir=\"LTR\" lang=\"RU\">&quot;</span>عاجل&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"color:black\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_l94iotv4p.jpg\" style=\"height:654px; width:567px\" /></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"color:black\"><img src=\"https://images-prod.misbar.com/articlebody/origin_wo1jz42lj.jpg\" style=\"float:left; height:619px; width:624px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 342,
+        "left": 13.3238525390625,
+        "path": "articles/1609614636GettyImages-1166702938.jpg",
+        "top": 13.80712890625,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1609614636GettyImages-1166702938.jpg",
+        "width": 608
+    },
+    "post_date": "2021-01-02T19:51:00.000+03:00",
+    "published": [
+        {
+            "id": "5ff0c52ce0dfaa300646b6bb",
+            "link": "https://www.facebook.com/groups/2483952904970802/permalink/3994672867232124/",
+            "name": "الزمالك اون لاين",
+            "origin": "facebook",
+            "path": "sources/5bfe4505f0d897cf8eadb4d078ea86f5bd10e8d5.jpg"
+        },
+        {
+            "id": "5ff0c886dc066e2fed780ad7",
+            "link": "https://www.facebook.com/1472290579753131/photos/a.2090383237943859/2756666674648842/?type=3&theater",
+            "name": "عشاق الاتحاد السكندرى فى جميع انحاء العالم",
+            "origin": "facebook",
+            "path": "sources/aea64fe1eb3a65bf03fce4c487a3570a27041b38.jpg"
+        },
+        {
+            "id": "5ff0c887ae2d745f1c3b54e7",
+            "link": "https://www.facebook.com/www.dmc.comm/photos/a.108769747776843/112120534108431/",
+            "name": "دي ام سي سبورت Dmc",
+            "origin": "facebook",
+            "path": "sources/e5478c6114b13d1dd283d71fc032544823cc948a.jpg"
+        },
+        {
+            "id": "5ff0c88782b04747754d0059",
+            "link": "https://twitter.com/salahelbeah/status/1345213177836007424",
+            "name": "SalaH ❤🇦🇹 ElBeaH🌟🌟🌟🌟🌟",
+            "origin": "twitter",
+            "path": "sources/8a40169150040f9cf2aeba4169b0afa06d6245f0.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f981f49bef65b2f5f0c1343",
+            "link": "https://www.mc-doualiya.com/articles/20190402-%D8%A7%D8%B3%D8%AA%D9%82%D8%A7%D9%84%D8%A9-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A7%D9%84%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A-%D9%84%D9%83%D8%B1%D8%A9-%D8%A7%D9%84%D9%82%D8%AF%D9%85-%D8%A8%D8%B3%D8%A8%D8%A8-%D9%87%D8%AF%D9%8A%D8%A9-%D8%A8%D8%A7%D9%87%D8%B8%D9%87-%D8%A7%D9%84%D8%AB%D9%85%D9%86",
+            "name": "مونت كارلو الدولية / MCD",
+            "origin": "",
+            "path": "sources/bda98702da604ef499cba7ee869c4cfbcce89dd4.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "رئيس اتحاد كرة القدم الألماني استقال العام الفائت وليس حديثاً",
+    "updated_at": "2021-01-02 22:24:55",
+    "url_path": "/factcheck/2021/01/02/رئيس-اتحاد-كرة-القدم-الألماني-استقال-العام-الفائت-وليس-حديثا",
+    "was_notification_pushed": "true"
+}

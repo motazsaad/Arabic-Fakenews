@@ -1,0 +1,119 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 256,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "نُشر الفيديو على موقع يوتيوب عام 2019 (sabah)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-EG\">أتراك وسوريون&nbsp;ينهبون آثار مدينة عفرين السورية.</span></p>\r\n",
+    "country": "TR",
+    "created_at": "2020-08-14 04:02:18",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f35e29a1dd58504d55d00e5",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من مقطع الفيديو المتداول وتبين أن الادعاء مضلل، وليس في مدينة عفرين السورية، بل في مدينة بورصة التركية.&nbsp;ونُشر <a href=\"https://www.youtube.com/watch?v=gPjdm8XAIWE\" style=\"color:#0563c1; text-decoration:underline\">الفيديو</a> على موقع يوتيوب عام 2019، بعنوان &quot;لحظة فتح القبر في</span> <span dir=\"RTL\" lang=\"AR-SA\">إزنيق بورصة&quot;، لكن الفيديو في الأصل يعود لواقعة حدثت في عام 2016.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"720\" src=\"https://www.youtube.com/embed/gPjdm8XAIWE\" width=\"1280\"></iframe></p>\r\n\r\n<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">وبحث &quot;مسبار&quot; حول القصة، وعثر على تقرير نُشر عام 2016، على <a href=\"https://www.sabah.com.tr/fotohaber/yasam/zeytinlikten-lahit-fiskiriyor-5-tonluk-mermer-mezar-vincle-cikarildi/5\" style=\"color:#0563c1; text-decoration:underline\">موقع صباح</a> التركي، يتحدث عن اكتشاف 3 مقابر تاريخية في منطقة بستان الزيتون في مدينة بورصة التركية. ويظهر في الصور المرفقة مع التقرير نفس الأشخاص الذين يظهرون في مقطع الفيديو المتداول، بنفس الملابس ونفس الملامح.</span><br />\r\n<img src=\"https://images-prod.misbar.com/articlebody/investigation_h69r9x7qv.jpg\" style=\"height:298px; width:623px\" /></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_j3mrv8qnf.jpg\" style=\"height:414px; width:623px\" /><br />\r\nوتمت عملية حفر وإخراج توابيت رخام أثرية من المنطقة، بعد اكتشاف المقابر. وهي منطقة تم <a href=\"https://www.cnnturk.com/turkiye/iznikte-bulunan-lahit-icin-kralice-nikaia-heyecani?page=6\" style=\"color:#0563c1; text-decoration:underline\">الإعلان</a> عنها منذ سنوات كموقعاً أثرياً من الدرجة الأولى، بعد استخراج عدد من التوابيت الأثرية من المكان نفسه.</p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_nq7uau75c.jpg\" style=\"height:631px; width:624px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات على مواقع التواصل الاجتماعي، حديثاً ، مقطع فيديو ادعت أنه لعملية نهب وسرقة مقبرة أثرية في مدينة عفرين، شمالي سورية، نفذتها قوات تركية وفصائل سورية. </span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_7oy381ix3.jpg\" style=\"height:710px; width:487px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_njvsqrbqu.jpg\" style=\"height:626px; width:484px\" /></p>\r\n\r\n<p style=\"text-align:right\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F100011447587624%2Fvideos%2F1309694456088795%2F&amp;show_text=0&amp;width=380\" style=\"border:none;overflow:hidden\" width=\"380\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/159736693890.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-159736693890.jpg",
+        "width": 752
+    },
+    "post_date": "2020-08-14T10:00:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/djuandarwish/status/1290935981013696512?s=20",
+            "name": "مـــغرد كــوردي",
+            "path": "published/0_1597366938_twitter.jpg"
+        },
+        {
+            "link": "https://twitter.com/yigb5tqN0k0SEpq/status/1289899387334922246",
+            "name": "رجال الجبال",
+            "path": "published/1_1597367223_twitter.jpg"
+        },
+        {
+            "link": "https://twitter.com/gaafrgaafr1/status/1291012018078720000",
+            "name": "جعفر PRESS",
+            "path": "published/2_1597367223_twitter.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/330795920637469/permalink/1153320728384980/",
+            "name": "Bavê Azad Mamo",
+            "path": "published/3_1597367223_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1309694529422121&id=100011447587624",
+            "name": " حكمت ابو دوران",
+            "path": "published/4_1597367223_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/419117008696118/permalink/645579276049889/?__xts__%5B0%5D=68.ARBPOfo8i8a3y7MaPf1rDD713QhSO5p8benNqertkDJ9br38QiQtvZaGnXk-QWJ-GqncHorwOfnu7_hVtuXr9fIFOJFeB0KC0i7VG0F48bKoh4wOa9G1F4C0liUTn4YUVHAw7QAHbhsgiPPca935NsXIiUwosZQE5_677ephzjKzAPEZ11DkZ282ZMxMki254FsKjYT5tHMTaCqzNxrB5aYvjZvLxXxNMqOunVUsGMnPuXZBEICi2nVEd4rzQIJe2ISOLcKzhgTjPkI1Ft_othBLwdpo8t23zlBWRGUfo6Ty&__tn__=-R",
+            "name": "‏Jaafar Askandar Chali",
+            "path": "published/5_1597367224_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/330795920637469/permalink/1153320728384980/",
+            "name": "Bavê Azad Mamo ",
+            "path": "published/6_1597367224_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/1545077762183107/permalink/3472387899452074/",
+            "name": "Paizi Xam ",
+            "path": "published/7_1597367224_facebook.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=gPjdm8XAIWE",
+            "name": "الفيديو الأصلي",
+            "path": "sources/0_1597366938_youtube.jpg"
+        },
+        {
+            "link": "https://www.sabah.com.tr/fotohaber/yasam/zeytinlikten-lahit-fiskiriyor-5-tonluk-mermer-mezar-vincle-cikarildi/5",
+            "name": "sabah",
+            "path": "sources/1_1597367767_صباح.jpg"
+        },
+        {
+            "link": "https://www.cnnturk.com/turkiye/iznikte-bulunan-lahit-icin-kralice-nikaia-heyecani?page=5",
+            "name": "cnn turk",
+            "path": "sources/2_1597367767_BWeoJgxM_reasonably_small.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذا الفيديو ليس لسرقة قوات تركية آثار مدينة عفرين السورية",
+    "updated_at": "2020-09-25 05:15:47",
+    "url_path": "/factcheck/2020/08/14/هذا-الفيديو-ليس-لسرقة-قوات-تركية-آثار-مدينة-عفرين-السورية"
+}

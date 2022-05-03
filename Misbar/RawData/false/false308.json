@@ -1,0 +1,111 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 4949,
+    "author": {
+        "fullname": "مريم هواري",
+        "id": "5e299460d4a22939983a3ec5",
+        "photo": {
+            "path": "authors/1579791192_Maryam.jpg"
+        }
+    },
+    "caption": "الخبر المتداول نُشر في حساب مزيّف لزياد الرحباني (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">بناءً على طلب فيروز، سيتم إطلاق سراح الأسير جورج عبدالله.</p>\r\n",
+    "country": "LB",
+    "created_at": "2020-09-03 14:06:15",
+    "created_by": "5f39b6aa1dd585076701cb95",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f50ce2780323839fb6aaff4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقّق &quot;مسبار&quot; من الخبر المتداول ووجد أنّه مفبرك. إذ أن الحساب الذي يحمل اسم الفنان زياد الرحباني، إبن المطربة فيروز، مزيّف ولا يمت للفنّان بصلة، كما أنّ محتوى اللقاء الذي جرى بين الرئيس الفرنسي إيمانويل ماكرون وفيروز بتاريخ 1 سبتمبر/أيلول الجاري لم تُنشر للإعلام، وفق <a href=\"https://misbar.com/factcheck/2020/09/02/%D9%85%D8%A7%D9%83%D8%B1%D9%88%D9%86-%D9%84%D9%85-%D9%8A%D8%AA%D8%AD%D8%AF%D8%AB-%D9%84%D9%88%D8%B3%D8%A7%D8%A6%D9%84-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D8%B9%D9%86-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D9%84%D9%82%D8%A7%D8%A6%D9%87-%D8%A8%D9%81%D9%8A%D8%B1%D9%88%D8%B2\" style=\"color:#0563c1; text-decoration:underline\">تحقّق</a> &quot;مسبار&quot;، إذ أنّه لم يُسمح لأي وسيلة إعلامية بتصوير اللقاء.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">ولا تُعتبر هذه المرّة الأولى الّتي ينتحل فيها حساب على &quot;تويتر&quot;، والحساب في الخبر المتداول على وجه الخصوص، شخصيّة زياد الرحباني ويُطلق الشائعات عن الفنانة فيروز من خلاله.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_4s54aig6c.jpg\" style=\"height:670px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_9hxclp7xw.jpg\" style=\"height:498px; width:624px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": "true",
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">نشرت صفحة تحمل إسم زياد الرحباني في موقع تويتر، خبراً بتاريخ 2 سبتمبر/أيلول الجاري، مفاده إطلاق سراح الأسير اللبناني في السجون الفرنسية، جورج عبدالله، وذلك بناءً على طلب المطربة فيروز، وقد تداولت المنشور حسابات على موقع التواصل الاجتماعي فيسبوك وعدّة مواقع إخبارية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_qo85n58zf.jpg\" style=\"height:830px; width:499px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_enlj08fuj.jpg\" style=\"height:665px; width:408px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_u4ugjx4lt.jpg\" style=\"height:810px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_350j4m8wu.jpg\" style=\"height:767px; width:624px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 153,
+        "left": 4.43389892578125,
+        "path": "articles/1599131175GettyImages-160092687.jpg",
+        "top": 6.455078125,
+        "totalHeight": 185,
+        "totalWidth": 278,
+        "watermark_path": "articles/watermark-1599131175GettyImages-160092687.jpg",
+        "width": 272
+    },
+    "post_date": "2020-09-03T13:59:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/ziad_rahbany/status/1301105895057874944",
+            "name": "زياد الرحباني",
+            "path": "published/0_1599131174_Twitter-logo.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/groups/Ziadquotes/permalink/10157860226469107/",
+            "name": "Mahmoud Koujieh",
+            "path": "published/1_1599131174_Facebook_logo.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/ali.charif.1650/posts/1512086432513212",
+            "name": "Ali Charif",
+            "path": "published/2_1599131174_Facebook_logo.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.elbalad.news/4475607",
+            "name": "صدى البلد",
+            "path": "published/3_1599131174_صدى البلد.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://emarat-news.ae/2020/09/03/174746/%D9%85%D8%A7%D8%B0%D8%A7-%D8%B7%D9%84%D8%A8%D8%AA-%D9%81%D9%8A%D8%B1%D9%88%D8%B2-%D9%85%D9%86-%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A-%D9%85%D8%A7%D9%83%D8%B1/",
+            "name": "الإمارات نيوز",
+            "path": "published/4_1599131174_الامارات نيوز.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://mwatan.news/%D9%81%D9%86-%D9%88%D8%AB%D9%82%D8%A7%D9%81%D8%A9/%D9%81%D9%8A%D8%B1%D9%88%D8%B2-%D8%AA%D8%B7%D8%A7%D9%84%D8%A8-%D9%85%D8%A7%D9%83%D8%B1%D9%88%D9%86-%D8%A8%D8%A7%D9%84%D8%A5%D9%81%D8%B1%D8%A7%D8%AC-%D8%B9%D9%86-%D8%AC%D9%88%D8%B1%D8%AC-%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D9%84%D9%87-%D9%85%D9%86-%D8%A7%D9%84%D8%B3%D8%AC%D9%88%D9%86-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9",
+            "name": "مستقبل وطن نيوز",
+            "path": "published/5_1599131175_مستقبل وطن نيوز.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.annahar.com/article/1256290-%D8%AD%D8%B3%D8%A7%D8%A8-%D8%AD%D9%82%D9%88%D8%AF-%D9%8A%D9%86%D8%AA%D8%AD%D9%84-%D8%A7%D8%B3%D9%85-%D8%B2%D9%8A%D8%A7%D8%AF-%D8%A7%D9%84%D8%B1%D8%AD%D8%A8%D8%A7%D9%86%D9%8A-%D8%B5%D9%84%D9%88%D8%A7%D8%AA%D9%83%D9%85-%D9%84%D9%81%D9%8A%D8%B1%D9%88%D8%B2",
+            "name": "النهار",
+            "path": "sources/0_1599131175_annahar.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.lebanon24.com/news/arts-celebrities/735357/%D8%B1%D9%8A%D9%85%D8%A7-%D8%A7%D9%84%D8%B1%D8%AD%D8%A8%D8%A7%D9%86%D9%8A-%D8%AA%D8%B1%D9%91%D8%AF-%D9%85%D9%86-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%85%D9%86-%D9%88%D8%B1%D8%A7%D8%A1-%D8%A3%D9%86%D8%A8%D8%A7%D8%A1-%D8%AA%D8%AF%D9%87%D9%88%D8%B1-%D8%B5%D8%AD%D8%A9",
+            "name": "لبنان 24",
+            "path": "sources/1_1599131175_lebnan24.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لن يتم إطلاق سراح جورج عبدالله بناءً على طلب فيروز",
+    "updated_at": "2020-09-25 18:26:08",
+    "url_path": "/factcheck/2020/09/03/لن-يتم-إطلاق-سراح-جورج-عبدالله-بناء-على-طلب-فيروز"
+}

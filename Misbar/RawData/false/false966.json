@@ -1,0 +1,88 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1811,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "category": "Spirituality & Religion",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">ظهور نسخة من القرآن الكريم داخل سفينة تايتنك عن طريق فريق استكشافي من ناشيونال جيوغرافيك، وذلك أثناء المسح الشامل لحطام السفينة ومحيطها للمرة الثالثة عشر منذ غرقها واستقرارها في عمق المحيط الأطلسي عام 1912.</span></p>\r\n",
+    "country": "GB",
+    "created_at": "2020-02-01 22:15:17",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e35ce45d4a2293c632f9535",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تبيّن لـ&quot;مسبار&quot; بعد التحقّق أن الصورة ظهرت لأول مرة على </span><a href=\"http://stuffyoucanthave.blogspot.com/2014/05/crystallization-experiments-1-books-and.html\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>مدوّنة</u></span></a><span style=\"color:#000000\"> Stuff You Can&#39;t Have التي تعود للفنّانة كاثرين مكيفر، إذ نشرتْ تدوينة تسرد فيها كيفيّة تعلّمها طريقة تشكيل طبقة الكريستال فوق الكتب، الأمر الذي استلهمته من أعمال الفنانة </span><a href=\"https://www.alexisarnold.com/#/crystallized-books/\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>أليكسس أرنولد</u></span></a><span style=\"color:#000000\">. من الجدير بالذكر، أن مجموعة الصور هذه تمرّ بدورة من التداول كلّ فترة، وبتغييرات متعددة، فأحياناً تكون للقرآن وأحياناً أخرى للإنجيل وغيرها.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_cvujycf45.jpg\" style=\"height:561px; width:394px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "القرآن",
+        "الإنجيل",
+        "تايتنك"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تناقلت عدّة صفحات على مواقع التواصل الاجتماعي مجموعة من الصور التي تدّعي أنها لنسخة من القرآن الكريم عُثر عليها في حطام سفينة التايتنك، وذلك أثناء مسح تجريه شبكة ناشيونال جيوغرافيك لحطام السفينة ومحيطها للمرة الثالثة عشرة. تعلو تلك النسخة من القرآن طبقة من الكريستال ساهمت في حفظه إلى يومنا هذا.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_10a6p0gj6.jpg\" style=\"height:598px; width:387px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_5d2552p8y.jpg\" style=\"height:604px; width:390px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 352,
+        "left": 2.88330078125,
+        "path": "articles/1580584517GettyImages-141284808.jpg",
+        "top": 1.8000030517578125,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "width": 626
+    },
+    "post_date": "2020-02-01T21:10:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=2207674376204802&set=a.1388141564824758&type=3&theater",
+            "name": "رهام صلاح",
+            "path": "published/0_1580584516_رهام صلاح - لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/223344nnmm/posts/2377234472515682?__tn__=-R",
+            "name": "الخبر الآن",
+            "path": "published/1_1580584516_الخبر الآن - لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/yo.my.5070/posts/637389020401345",
+            "name": "مريم محمد",
+            "path": "published/2_1580584516_مريم محمد - لوغو.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "http://stuffyoucanthave.blogspot.com/2014/05/crystallization-experiments-1-books-and.html",
+            "name": "Stuff You Can’t Have",
+            "path": "sources/0_1580584516_Stuff you cant have - logo.jpg"
+        },
+        {
+            "link": "https://www.alexisarnold.com/crystallized-books/",
+            "name": "Alexis Arnold",
+            "path": "sources/1_1580584516_Alexis Arnold - logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لم يُعثَر على نسخة من القرآن يعلوها الكريستال في حطام سفينة تايتنك",
+    "updated_at": "2020-09-25 21:16:11",
+    "url_path": "/factcheck/2020/02/01/لم-يعثر-على-نسخة-من-القرآن-يعلوها-الكريستال-في-حطام-سفينة-تايتنك"
+}

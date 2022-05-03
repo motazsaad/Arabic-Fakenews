@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 21823,
+    "author": {
+        "fullname": "خالد إسماعيل",
+        "id": "5e59256dd4a2295224257db3",
+        "photo": {
+            "name": "1582900589_صورة 2.jpg",
+            "path": "authors/1582900589_صورة 2.jpg"
+        }
+    },
+    "caption": "الصورة التقطت في مستشفى برارام في بانكوك (فيسبوك)",
+    "category": "Health",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"background-color:white\"><span dir=\"RTL\" lang=\"AR-SA\">صورة أصغر توأم مُصاب بفايروس كورونا المستجد (كوفيد_19) في العالم. </span></span></p>\r\n",
+    "country": "",
+    "created_at": "2020-05-02 16:16:23",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ead72a7db29166a76158753",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\"><span style=\"color:black\">تحقق &quot;مسبار&quot; من الصورة ووجد أنّ الادعاء زائف، لأن الصورة اُلتقطت في مستشفى برارام في بانكوك، والتوأم ليس مصاباً بفايروس كورونا المستجد. بل الصورة تُظهر ارتداء حديثي الولادة للقناع الواقي كإجراء جديد تتبعه المستشفى لحمايتهم من الفايروس.</span></span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_iav87195g.jpg\" style=\"height:686px; width:624px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"rtl\" lang=\"ar\">تداولت حساباتٌ&nbsp;وصفحاتٌ على موقع فيسبوك صورةً&nbsp;تُظهر طفلان توأم يرتديان&nbsp;القناع الطبي&nbsp;الواقي، وادّعت في&nbsp;التعليق المرافق للصورة بأنها&nbsp;</span><span dir=\"rtl\" lang=\"ar\">لأصغر توأم بالعالم مُصاب بفايروس كورونا المستجد.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"616\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmajalet.sookr.banaty%2Fposts%2F839939729850493&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"616\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fskikdazoomm%2Fposts%2F162432588612114&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"616\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fispasouargla%2Fposts%2F2738783282911125&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/158842757290.jpg",
+        "watermark_path": "articles/watermark-158842757290.jpg"
+    },
+    "post_date": "2020-05-02T16:12:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/majalet.sookr.banaty/photos/a.410616896116114/839939693183830/?type=3&theater",
+            "name": "مجلة سكر بنات ",
+            "path": "published/0_1588425382_مجلة سكر بنات.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=284603725863674&set=gm.1446598835677984&type=3&theater&ifg=1",
+            "name": "هادي أبو نبوت",
+            "path": "published/1_1588425502_هادي ابونبوت.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=232362774637034&set=gm.3019499784815771&type=3&theater&ifg=1",
+            "name": "صاحب الذوق الراقي ",
+            "path": "published/2_1588425502_صہاحہب الہذؤقہ الہرآقہي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/108754397279485/photos/p.165770524911205/165770524911205/?type=1&theater",
+            "name": "ضحك& نكت&فدلكة",
+            "path": "published/3_1588425502_ضحك& نكت&فدلكة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/skikdazoomm/photos/a.106628170859223/162432571945449/?type=3&theater",
+            "name": "سكيكدة زووم",
+            "path": "published/4_1588425503_سكيكدة زووم.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ispasouargla/photos/a.502071596582316/2738783246244462/?type=3&theater",
+            "name": "فضاء ورفلة ",
+            "path": "published/5_1588425503_فضاء ورقلة.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.independent.co.uk/news/world/asia/coronavirus-baby-newborn-face-shield-bangkok-hospital-thailand-a9459251.html",
+            "name": "independent",
+            "path": "sources/0_1588425382_independent.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "أصغر توأم في العالم مُصاب بكورونا.. ما الحقيقة؟  ",
+    "updated_at": "2020-09-23 12:33:42",
+    "url_path": "/factcheck/2020/05/02/هذه-الصورة-ليست-لأصغر-توأم-في-العالم-مصاب-بكورونا"
+}

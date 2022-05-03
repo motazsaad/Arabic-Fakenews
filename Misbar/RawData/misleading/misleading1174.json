@@ -1,0 +1,104 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 7058,
+    "author": {
+        "fullname": "حسام الوكيل",
+        "id": "5e7cb2a9d4a2297a3f1db883",
+        "photo": {
+            "name": "1585230505_1hGLjIBq_400x400.jpg",
+            "path": "authors/1585230505_1hGLjIBq_400x400.jpg"
+        }
+    },
+    "caption": "مقطع الفيديو تم تصويره في المكسيك وليس البرازيل (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\"><span style=\"color:black\">ببغاوات يأكلون الطعام على شرفة أحد المنازل في البرازيل.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-05-07 19:23:35",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eb43607db29166d6902fd94",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تحقق &quot;مسبار&quot; من المقطع المتداول ووجد أنه تم تصويره في المكسيك وليس البرازيل، وكان قد نشره على موقع فيسبوك حساب مكسيكي باسم <span style=\"color:#000099\"><u><span style=\"color:black\"><a href=\"https://www.facebook.com/NEPabloMerino/videos/531980361039284/\" style=\"color:blue; text-decoration:underline\"><span style=\"color:black\"><span style=\"color:black\">Pablo Merino</span></span></a></span></u></span>، وعلق&nbsp;عليه&nbsp;بعبارة &quot;تواصل جديد يبدأ&quot;،&nbsp;وحصل&nbsp;مقطع&nbsp;الفيديو على ما يقرب من مليون ونصف مشاهدة.&nbsp;وقامت إذاعة <span style=\"color:#000099\"><u><span style=\"color:black\"><a href=\"https://www.facebook.com/R.MusikaReal/videos/254040232402464/\" style=\"color:blue; text-decoration:underline\"><span style=\"color:black\"><span style=\"color:black\">Radio MusikaReal</span></span></a></span></u></span> بإعادة نشره على صفحتها، وهي إذاعة مكسيكية محلية، وعلقت على المقطع بأنه رغم الحجر الصحي في المكسيك وتوقف الحياة بشكل كبير، إلا أنّه&nbsp;يوجد حياة أخرى تزدهر.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FNEPabloMerino%2Fvideos%2F531980361039284%2F&amp;show_text=0&amp;width=269\" style=\"border:none;overflow:hidden\" width=\"269\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FR.MusikaReal%2Fvideos%2F254040232402464%2F&amp;show_text=0&amp;width=269\" style=\"border:none;overflow:hidden\" width=\"269\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تداول عدد من الحسابات العربية على موقع التواصل الاجتماعي تويتر مقطع فيديو يُظهر مجموعة من الببغاوات تقف على نافذة، ويقوم رجل&nbsp;وسيدتان بتقديم الطعام لهم، و</span>ادّعت أنّ<span style=\"color:black\"> مقطع الفيديو تم تصويره في البرازيل.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"color:black\"><span dir=\"LTR\" lang=\"AR-SA\"><img src=\"https://images-prod.misbar.com/articlebody/origin_s7yyst5ux.jpg\" style=\"height:457px; width:430px\" /></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"color:black\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_43c99lmm9.jpg\" style=\"height:453px; width:411px\" /></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"color:black\"><span dir=\"LTR\" lang=\"AR-SA\"><img src=\"https://images-prod.misbar.com/articlebody/origin_j0dxup4ho.jpg\" style=\"height:419px; width:426px\" /></span></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 5.318206787109375,
+        "path": "articles/1588868614GettyImages-1211870933.jpg",
+        "top": 0,
+        "totalHeight": 512,
+        "totalWidth": 767,
+        "watermark_path": "articles/watermark-1588868614GettyImages-1211870933.jpg",
+        "width": 752
+    },
+    "post_date": "2020-05-07T19:16:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/20aa10d/status/1257818732476411907?s=20",
+            "name": "سعد الحوطي",
+            "path": "published/0_1588868613_سعد الحوطي.jpg"
+        },
+        {
+            "link": "https://twitter.com/tlal199001/status/1257825090688954375?s=20",
+            "name": "طلال الخليفه ",
+            "path": "published/1_1588868868_طلال الخليفه 59.jpg"
+        },
+        {
+            "link": "https://twitter.com/ASsb204/status/1258096496802758656?s=20",
+            "name": "ابو خالد",
+            "path": "published/2_1588868868_ابو خالد.jpg"
+        },
+        {
+            "link": "https://twitter.com/hussoonii/status/1258108127762939906?s=20",
+            "name": "حسين",
+            "path": "published/3_1588868868_حسين.jpg"
+        },
+        {
+            "link": "https://twitter.com/fahdobeed/status/1258087588210106376?s=20",
+            "name": "FAHDOBEED",
+            "path": "published/4_1588868869_𝔽𝔸ℍ𝔻𝕆𝔹𝔼𝔼𝔻.jpg"
+        },
+        {
+            "link": "https://twitter.com/AhmedNasser223/status/1258130804888174596?s=20",
+            "name": "أ.أحمد بن ناصر ",
+            "path": "published/5_1588868869_أ.أحمد بن ناصر.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": " https://www.facebook.com/NEPabloMerino/videos/531980361039284/ ",
+            "name": " Pablo Merino",
+            "path": "sources/0_1588868614_94432950_4318585568167071_9050181801380675584_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/R.MusikaReal/videos/254040232402464/",
+            "name": "Radio MusikaReal",
+            "path": "sources/1_1588868614_الاذاعة.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ببغاوات تأكل من النوافذ خلال الحجر الصحي.. في المكسيك وليس البرازيل ",
+    "updated_at": "2020-09-23 12:33:13",
+    "url_path": "/factcheck/2020/05/07/ببغاوات-تأكل-من-النوافذ-خلال-الحجر-الصحي-ولكن-في-المكسيك-وليس-البرازيل"
+}

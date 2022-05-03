@@ -1,0 +1,144 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 219,
+    "author": {
+        "fullname": "بيان حمدان",
+        "id": "5fa0632609eb9442f11d9d69",
+        "photo": {
+            "name": "1604346662_2010.jpg",
+            "path": "authors/1604346662_2010.jpg"
+        }
+    },
+    "caption": "الممرضة استخدمت حقنة أحادية الاستحدام ولم تكن تحاول إظهار رأسها (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\"><span style=\"background-color:white\">مقطع فيديو يوضح أن كامالا هاريس زيّفت تلقيها &nbsp;لقاحاً ضد فايروس كورونا المستجد وأن الممرضة لم تُدخل رأس الحقنة &nbsp;في ذراعها.</span></p>\r\n",
+    "country": "US",
+    "created_at": "2021-01-07 00:14:41",
+    "created_by": "5f9fab38bddeec3fc23209e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 5,
+    "feedback_pos": 3,
+    "id": "5ff628414e4b456afb1a6f62",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقق &quot;<a href=\"https://misbar.com/qna\" style=\"color:#0563c1; text-decoration:underline\" target=\"_blank\">مسبار</a>&quot; من الادعاء المتداول &nbsp;ووجد أنه زائف، إذ إن <a href=\"https://www.gettyimages.ae/photos/kamala-harrisvaccine?agreements=pa:90245&amp;family=editorial&amp;phrase=kamala%20harris%2Bvaccine&amp;sort=best#license\" style=\"color:#0563c1; text-decoration:underline\" target=\"_blank\">مجموعة صور منشورة في موقع غيتي </a>&nbsp;وثّقت&nbsp;دخول رأس الحقنة في يد هاريس وتلقيها للقاح يوم 29 ديسمبر/ كانون الأول الفائت. <span dir=\"LTR\" lang=\"AR-JO\"><img alt=\"A picture containing text, person, indoor\r\n\r\nDescription automatically generated\" src=\"https://images-prod.misbar.com/articlebody/investigation_otim6wjk6.jpg\" style=\"height:552px; width:1069px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">وفيما يتعلق بما تم تداوله عن محاولة الممرضة لإظهار رأس الحقنة، وجد &quot;مسبار&quot; أن فِعلها يعود&nbsp;لأن&nbsp;الحقنة المستخدمة في المقطع <a href=\"https://youtu.be/1y665WJrPgM\">حقنة أحادية الاستخدام</a>، وتُتلف بعد أول مرة من استخدامها عقب كبسها بسطح أفقي والذي هو يد الكرسي في المقطع المتداول.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">اقرأ/ي أيضاً</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/12/15/%D8%AA%D8%B5%D8%B1%D9%8A%D8%AD-%D9%85%D9%81%D8%A8%D8%B1%D9%83-%D9%84%D9%83%D8%A7%D9%85%D8%A7%D9%84%D8%A7-%D9%87%D8%A7%D8%B1%D9%8A%D8%B3-%D8%B9%D9%86-%D8%A5%D8%B9%D9%84%D8%A7%D9%86-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%A8%D8%B4%D8%A3%D9%86-%D8%A7%D9%84%D8%B5%D8%AD%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9\" style=\"color:#0563c1; text-decoration:underline\" target=\"_blank\">تصريح مفبرك لكامالا هاريس عن إعلان ترامب بشأن الصحراء الغربية</a></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/11/24/%D9%84%D9%85-%D8%AA%D8%B9%D9%84%D9%86-%D8%B4%D8%B1%D9%83%D8%A9-%D9%81%D8%A7%D9%8A%D8%B2%D8%B1-%D8%A3%D9%86-%D9%85%D8%B5%D8%B1-%D9%85%D9%86-%D8%A3%D9%88%D8%A7%D8%AE%D8%B1-%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D8%B3%D8%AA%D8%AD%D9%82%D8%A7%D9%82%D8%A7-%D9%84%D9%84%D9%82%D8%A7%D8%AD\" style=\"color:#0563c1; text-decoration:underline\" target=\"_blank\">لم تعلن شركة فايزر أن مصر من أواخر الدول استحقاقاً للقاح</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "هاريس",
+        "لقاح",
+        "فايروس",
+        "كورونا",
+        "حقنة",
+        "إبرة"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [
+        "كامالا هاريس"
+    ],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات وحسابات على مواقع التواصل الاجتماعي، منذ 5 يناير/كانون الثاني الجاري، مقطع فيديو لنائبة الرئيس الأميركي المنتخب جو بايدن،&nbsp;كامالا هاريس، وهي تتلقى الجرعة الأولى من لقاح فايروس كورونا المستجد، ادعى ناشروه أنه يبيّن فبركة هاريس لتلقي اللقاح وأن الممرضة لم تُدخل رأس الإبرة في ذراعها بل ثنته ثم حاولت إرجاعه من خلال ضغطه بذراع الكرسي، ليبدو للإعلام أنها حقتنها.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><span dir=\"LTR\" lang=\"AR-JO\"><img alt=\"A picture containing text, person, screenshotDescription automatically generated\" src=\"https://images-prod.misbar.com/articlebody/origin_rlw00slqw.jpg\" style=\"height:521px; width:512px\" /></span></p>\r\n\r\n<p dir=\"rtl\"><strong><span dir=\"LTR\" lang=\"AR-SA\"><span style=\"color:#f73832\"><img alt=\"A picture containing text, person, screenshot\r\nDescription automatically generated\" src=\"https://images-prod.misbar.com/articlebody/origin_ewsfmzsza.jpg\" style=\"height:480px; width:512px\" /></span></span></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 421,
+        "left": 4.20001220703125,
+        "path": "articles/1609967681gettyimages-1230346295-594x594.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1609967681gettyimages-1230346295-594x594.jpg",
+        "width": 748
+    },
+    "post_date": "2021-01-06T22:56:00.000+03:00",
+    "published": [
+        {
+            "id": "5ff62b9ba59f74363c6aaa0f",
+            "link": "https://web.facebook.com/swedentoday.net/posts/3635545406521913",
+            "name": "السويد اليوم - Sweden today",
+            "origin": "facebook",
+            "path": "sources/90db0814d2fc5f6c53bf3ab5bf30255b8503de97.jpg"
+        },
+        {
+            "id": "5ff62b9b68d2da73502b4762",
+            "link": "https://web.facebook.com/abuqasim.hijazi.7/posts/2937215093166692",
+            "name": "Abuqasim Hijazi",
+            "origin": "facebook",
+            "path": "sources/a87f2679356c5a8a7eeb46472e30167d18c3a494.jpg"
+        },
+        {
+            "id": "5ff62b9b38affc2fee11dfac",
+            "link": "https://web.facebook.com/groups/778110749262642/permalink/959394971134218",
+            "name": "أخبار طرابلس/لبنان 24",
+            "origin": "facebook",
+            "path": "sources/ce6c7301795eec895ddaccbfa72bd54a16ced3e6.jpg"
+        },
+        {
+            "id": "5ff62b9bd6c30e7ac5258b9b",
+            "link": "https://web.facebook.com/soso.tanjawiya.125/posts/1279410652424422",
+            "name": "Soso Tanjawiya",
+            "origin": "facebook",
+            "path": "sources/a87f2679356c5a8a7eeb46472e30167d18c3a494.jpg"
+        },
+        {
+            "id": "5ff62b9c3a0d4413225a93f4",
+            "link": "https://web.facebook.com/karimoviche.mahboub/posts/3583801951703819",
+            "name": "Karimoviche Mahboub",
+            "origin": "facebook",
+            "path": "sources/a87f2679356c5a8a7eeb46472e30167d18c3a494.jpg"
+        },
+        {
+            "id": "5ff62b9c3307e20be753850e",
+            "link": "https://web.facebook.com/fefe.youssef.73/posts/411433020133092",
+            "name": "Fefe Youssef",
+            "origin": "facebook",
+            "path": "sources/a87f2679356c5a8a7eeb46472e30167d18c3a494.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f91c2147d9dcf18836b9f21",
+            "link": "https://www.gettyimages.ae/photos/kamala-harrisvaccine?agreements=pa:90245&family=editorial&phrase=kamala%20harris%2Bvaccine&sort=best#license",
+            "name": "www.gettyimages.ae",
+            "origin": "",
+            "path": "sources/8851905d9f90eb2ee2c89a1ea948e7f0a857d51d.jpg"
+        },
+        {
+            "id": "5f8edfb4148b827f7d192205",
+            "link": "https://youtu.be/v0G7Qa5OEY0",
+            "name": "قناة يوتيوب",
+            "origin": "",
+            "path": "sources/f4e473f70061267e3fbe3df8d9498087e3cf99aa.jpg"
+        },
+        {
+            "id": "5f8edfb4148b827f7d192205",
+            "link": "https://youtu.be/1y665WJrPgM",
+            "name": "قناة يوتيوب",
+            "origin": "",
+            "path": "sources/f4e473f70061267e3fbe3df8d9498087e3cf99aa.jpg"
+        },
+        {
+            "id": "5f904844f3eb8a327d485c26",
+            "link": "https://twitter.com/Reuters/status/1344044271985446914",
+            "name": "Reuters",
+            "origin": "twitter",
+            "path": "sources/2a34a51c2f044d7f683d59f06e00c001632906a9.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الإبرة دخلت ذراع هاريس ولا دليل على تزييف تلقيها اللقاح",
+    "updated_at": "2021-01-07 15:12:56",
+    "url_path": "/factcheck/2021/01/07/الإبرة-دخلت-ذراع-هاريس-ولا-دليل-على-تزييف-تلقيها-اللقاح",
+    "was_notification_pushed": "true"
+}

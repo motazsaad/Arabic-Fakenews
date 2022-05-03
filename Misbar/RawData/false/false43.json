@@ -1,0 +1,104 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 123,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "الصورة مُعدلة بغرض السخرية (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">شيخ يرتدي&nbsp;قبعة الكريسماس في احتفالات أعياد الميلاد.</p>\r\n",
+    "country": "EG",
+    "created_at": "2020-12-26 23:23:12",
+    "created_by": "5f39b5a51dd585076701cb94",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 2,
+    "feedback_pos": 2,
+    "id": "5fe79bb0c7fdc656af33d18c",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقق &quot;<a href=\"https://misbar.com/factcheck/2020/12/20/%D9%84%D9%85-%D8%AA%D8%B9%D9%84%D9%86-%D9%85%D8%AC%D9%84%D8%A9-%D8%AA%D8%A7%D9%8A%D9%85-%D8%A7%D9%84%D8%B3%D9%8A%D8%B3%D9%8A-%D9%85%D8%AC%D8%B1%D9%85-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-2020\" style=\"color:#0563c1; text-decoration:underline\" target=\"_blank\">مسبار</a>&quot; من الصورة وتبين أنها مُعدلة بغرض السخرية. والشخص الذي يظهر في الصورة هو المبتهل إسلام السرساوي، ومأخوذة من لقاء له على قناة الحياة عام 2017، بمناسبة أعياد الميلاد والكريسماس. وتم تركيب قبعة &quot;بابا نويل&quot; على رأسه وهو يلقي الابتهالات<span dir=\"LTR\">.</span></p>\r\n\r\n<p><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/a9jD94OIsuE\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">اقرأ/ي أيضاً:</span></p>\r\n\r\n<p style=\"text-align:right\"><span style=\"color:#0563c1\"><u><a href=\"https://misbar.com/factcheck/2020/12/26/%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%B4%D8%AC%D8%A7%D8%B1-%D8%B1%D8%AC%D8%A7%D9%84-%D8%A8%D8%B2%D9%8A-%D8%A8%D8%A7%D8%A8%D8%A7-%D9%86%D9%88%D9%8A%D9%84-%D9%82%D8%AF%D9%8A%D9%85-%D9%88%D9%84%D9%8A%D8%B3-%D9%87%D8%B0%D8%A7-%D8%A7%D9%84%D8%B9%D8%A7%D9%85\" style=\"color:#0563c1; text-decoration:underline\" target=\"_blank\">فيديو شجار رجال بزي بابا نويل قديم وليس هذا العام</a></u></span></p>\r\n\r\n<p><span style=\"color:#0563c1\"><u><a href=\"https://misbar.com/factcheck/2020/12/20/%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9-%D9%82%D8%AF%D9%8A%D9%85%D8%A9-%D9%88%D9%84%D9%8A%D8%B3%D8%AA-%D9%84%D8%B4%D8%AC%D8%B1%D8%A9-%D9%83%D8%B1%D9%8A%D8%B3%D9%85%D8%A7%D8%B3-%D8%AF%D8%A7%D8%AE%D9%84-%D9%85%D8%B3%D8%AC%D8%AF\" style=\"color:#0563c1; text-decoration:underline\" target=\"_blank\">الصورة قديمة وليست لشجرة كريسماس داخل مسجد</a></u></span></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "أعياد الميلاد",
+        "شيخ الكريسماس",
+        "المبتهل إسلام السرساوي"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">تتداول حسابات وصفحات على مواقع التواصل الاجتماعي، حديثاً ومنذ سنوات، صورة تُظهر شيخاً يرتدي زياً أزهرياً وقبعة &quot;بابا نويل&quot; في أحد البرامج التلفزيونية على قناة الحياة المصرية.<img src=\"https://images-prod.misbar.com/articlebody/origin_vzbzeczi7.jpg\" style=\"height:658px; width:585px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_re4gryydd.jpg\" style=\"height:538px; width:586px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/160901419280094704_512734572928455_1504620979018530816_n.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-160901419280094704_512734572928455_1504620979018530816_n.jpg",
+        "width": 752
+    },
+    "post_date": "2020-12-26T23:18:00.000+03:00",
+    "published": [
+        {
+            "id": "5fe79111b576302227749089",
+            "link": "https://twitter.com/CHEBLIOMAR87/status/1342464667688595457",
+            "name": "د. عمر الشبلي الزيتوني التونسي",
+            "origin": "twitter",
+            "path": "sources/8beb874dcfd6e353f6af35cafe2690b0ac016a45.jpg"
+        },
+        {
+            "id": "5fe79406bfcab65d3f378e3c",
+            "link": "https://www.facebook.com/eslamelkazanovaa/posts/3289096811196911",
+            "name": "Eslam Eltabakh",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        },
+        {
+            "id": "5fe794066c1a4575ef1df6cc",
+            "link": "https://twitter.com/engrhs_/status/1342471923234725888",
+            "name": "Hessa.",
+            "origin": "twitter",
+            "path": "sources/d502a947d5ea915e371f5998f099f3c789c8032c.jpg"
+        },
+        {
+            "id": "5fe795c046c7e6303a1d6724",
+            "link": "https://www.facebook.com/mahmouden/posts/3538802232836341?__tn__=%2CO*F",
+            "name": "Denis Saad",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fe79111a4a2252a1b0f43ff",
+            "link": "https://www.youtube.com/watch?v=a9jD94OIsuE&feature=share&fbclid=IwAR2M9vCLO_CJi_nKymTdpxObxE2wzgj8NU20aOYsBxAGbF7jisykGpYc_ts",
+            "name": "AlHayah TV Network",
+            "origin": "youtube",
+            "path": "sources/252a077278642b50837a8ede973e865d6d77885c.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صورة الشيخ الذي يرتدي قبعة الكريسماس مُعدلة",
+    "updated_at": "2020-12-27 16:11:13",
+    "url_path": "/factcheck/2020/12/26/صورة-الشيخ-الذي-يرتدي-قبعة-الكريسماس-معدلة-5fe79bb053ff1",
+    "was_notification_pushed": "true"
+}

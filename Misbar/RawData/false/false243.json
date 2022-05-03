@@ -1,0 +1,97 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 154,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "نفى النادي الخبر عبر حسابه الرسمي (getty)",
+    "category": "Sports",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">إصابة مدرب نابولي الإيطالي غاتوزو بفايروس كورونا المستجد.</span></p>\r\n",
+    "country": "IT",
+    "created_at": "2020-10-05 16:31:09",
+    "created_by": "5f39b5a51dd585076701cb94",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 2,
+    "feedback_pos": 2,
+    "id": "5f7b201d7c7c5062512ea3ae",
+    "investigation": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">الخبر زائف. إذ نفى نادي نابولي خبر إصابة مدربه جينارو غاتوزو بفايروس كورونا، عبر حسابه الرسمي على موقع تويتر، مشيراً إلى أن الفريق سيخضع لمزيد من الفحوصات الطبية.</span></p>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"ltr\">Si comunica che la notizia riguardo la positivit&agrave; di mister Gattuso al Covid-19 &egrave; priva di qualsiasi fondamento. Il gruppo squadra effettuer&agrave; i prossimi tamponi nella giornata di domani.</p>\r\n&mdash; Official SSC Napoli (@sscnapoli) <a href=\"https://twitter.com/sscnapoli/status/1312772806006976517?ref_src=twsrc%5Etfw\">October 4, 2020</a></blockquote>\r\n\r\n<p style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">اقرأ/ي أكثر:</span></p>\r\n\r\n<p style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/10/05/%D9%84%D8%A7-%D9%88%D8%AC%D9%88%D8%AF-%D9%84%D8%AD%D8%AF%D9%8A%D8%AB-%D8%A8%D9%8A%D9%86-%D9%81%D9%8A%D8%AF%D8%A7%D9%84-%D9%88%D8%AD%D9%83%D9%8A%D9%85%D9%8A-%D8%B9%D9%86-%D8%A7%D9%84%D8%B1%D8%AC%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%D9%8A\" style=\"color:#0563c1; text-decoration:underline\">لا وجود لحديث بين فيدال وحكيمي عن الرجاء المغربي</a></p>\r\n\r\n<p style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/10/04/%D9%85%D8%AD%D9%85%D8%AF-%D8%B5%D9%84%D8%A7%D8%AD-%D9%84%D9%8A%D8%B3-%D9%85%D8%B5%D8%A7%D8%A8%D8%A7-%D8%A8%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7\" style=\"color:#0563c1; text-decoration:underline\">محمد صلاح ليس مصاباً بكورونا</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت حسابات وصفحات على مواقع التواصل الاجتماعي، بتاريخ 4 أكتوبر/ تشرين الأول الجاري، خبراً مفاده إصابة المدير الفني لنادي نابولي الإيطالي، جينارو غاتوزو، بفايروس كورونا المستجد.<br />\r\nوجاء انتشار الخبر بعدما أعلن <a href=\"https://www.beinsports.com/ar/%D8%A7%D9%84%D8%AF%D9%88%D8%B1%D9%8A-%D8%A7%D9%84%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/%D9%85%D8%A8%D8%A7%D8%B1%D8%A7%D8%A9-%D9%86%D8%A7%D8%A8%D9%88%D9%84%D9%8A-%D9%88%D9%8A%D9%88%D9%81%D9%86%D8%AA%D9%88%D8%B3-%D9%84/1557514\" style=\"color:#0563c1; text-decoration:underline\">فريق نابولي</a>، أمس الأحد، عدم حضوره إلى ملعب أليانز ستاديوم، في مدينة تورينو الإيطالية لمواجهة يوفنتوس في الدوري الإيطالي لكرة القدم. بسبب منعهم من السفر، من قبل السلطات الصحية في مدينة نابولي، بعد إصابة لاعبي الفريق، إلماس وزيلينسكي بالفايروس.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_taxsfiiim.jpg\" style=\"height:670px; width:489px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1601904669GettyImages-1228751716.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1601904669GettyImages-1228751716.jpg",
+        "width": 752
+    },
+    "post_date": "2020-10-05T16:23:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/AC_MilanWorld/status/1312775172500402176",
+            "name": " عالم ميلان",
+            "path": "published/0_1601904669_cdeb606d2277405729841fe21c5d10e856529971.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/ISDA555/photos/a.111772210437172/181859153428477/?type=3&__xts__%5B0%5D=68.ARBNoIw3tSGJsqA36xfhsCNrMkgTvjTVYczrDRqMHOiibsNjIpsbKl6GwP0ijQyjbJl-iUn7SgQInOtULPpINJ2uyxEevCHugmxsrRbuNZ-PeTwAIHjcwMWTOy-xBjYF-vxL_LHV8mpGn1-Xg5z8x-fhRvgyBF5aGUHMMRl7SeIiR4h_b3T8jUv8BqZtciQKjbA7w2MHj2JwKXhQuVoWwj7qKZ-84YNbLHMHuXwI-AwAXYiWoNk2Ba2tYOlyEG1wRJ0FuIsqZhNUFxSnzfE6soM_fe9HdlizV6dyFBP5B6aeActTF-L-akIgKGNHm41Lc1DutujOyrofBSDYQDMNvIQ&__tn__=-R",
+            "name": "المعلومات والإحصاء والتحليل",
+            "path": "published/1_1601906244_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/groups/415948612599738/permalink/703756470485616/",
+            "name": "محمد علي",
+            "path": "published/2_1601906244_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=925504324524737&id=100011955348981",
+            "name": "محمد سمير",
+            "path": "published/3_1601906244_facebook.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/sscnapoli/status/1312772806006976517",
+            "name": "Official SSC Napoli",
+            "path": "sources/0_1601904669_cdeb606d2277405729841fe21c5d10e856529971.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "نابولي ينفي إصابة مدربه غاتوزو بكورونا",
+    "updated_at": "2020-10-08 20:46:52",
+    "url_path": "/factcheck/2020/10/05/نابولي-ينفي-إصابة-مدربه-غاتوزو-بكورونا",
+    "was_notification_pushed": "true"
+}

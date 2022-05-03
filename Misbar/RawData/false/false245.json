@@ -1,0 +1,114 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 181,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "أكد مكتب السيدة الأولى ميلانيا ترامب أنه يتمتع بصحة جيدة (وكالة جيتي)",
+    "category": "Health",
+    "claim": "<p>إصابة ابن الرئيس الأميركي دونالد ترامب بفايروس كورونا &quot;كوفيد_19&quot;.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-10-05 11:07:13",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 3,
+    "id": "5f7ad4314b67987e7f6737f6",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الخبر ليجد أنّّه إشاعة، فقد نفى مكتب زوجة الرئيس الأميركي ميلانيا ترامب، مؤكداً أنَّ نتيجة الفحص جاءت سلبية، كما يتمتع بصحة جيدة.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_5j2wdyzi5.jpg\" style=\"height:362px; width:602px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_n8bwy06j2.jpg\" style=\"height:129px; width:602px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-JO\">تداولت حسابات وصفحات على مواقع التواصل الاجتماعيّ، منذ الثاني من أكتوبر/تشرين أول الجاري، خبراً يفيد إصابة بارون ترامب ابن الرئيس الحالي دونالد ترامب بفايروس كورونا المستجد، عقب التأكد من إصابة والدّيه.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_dy0k48mlz.jpg\" style=\"height:414px; width:602px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_kmf3tw5me.jpg\" style=\"height:638px; width:602px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_oblokd7zb.jpg\" style=\"height:562px; width:602px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_0f9nyscb1.jpg\" style=\"height:534px; width:602px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_y20vsdi00.jpg\" style=\"height:526px; width:602px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 340,
+        "left": 9.20001220703125,
+        "path": "articles/1601885233GettyImages-632188932.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1601885233GettyImages-632188932.jpg",
+        "width": 605
+    },
+    "post_date": "2020-10-05T09:31:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/Livenews3/posts/992716044574972",
+            "name": "On time",
+            "path": "published/0_1601885233_قققف.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/newspartymo/posts/177727223858126",
+            "name": "أخبار فايروس كورونا",
+            "path": "published/1_1601885233_قققف.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1329495814063661&id=956181908061722",
+            "name": "أحداث آخر الزمان لحظة بلحظة",
+            "path": "published/2_1601885233_قققف.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/bawabaanews/posts/984640972034329",
+            "name": "بوابة نيوز",
+            "path": "published/3_1601885233_قققف.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/cQQccc/posts/3359052627652418",
+            "name": "سوالف عراقية",
+            "path": "published/4_1601885233_قققف.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/Ashwryalraq/status/1312048904238661638",
+            "name": "آشوري",
+            "path": "published/5_1601885233_ق4.JPG"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/NBCNews/status/1312029966603874305",
+            "name": "NBC NEWS",
+            "path": "sources/0_1601885597_CyLn5GVQ_400x400.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://edition.cnn.com/politics/live-news/trump-coronavirus-positive/h_9e67494fca84da9aa8d855a5995f5124",
+            "name": "CNN",
+            "path": "sources/1_1601885597_9009.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "بارون ابن الرئيس ترامب غير مصاب بفايروس كورونا",
+    "updated_at": "2020-10-05 13:59:23",
+    "url_path": "/factcheck/2020/10/05/بارون-ابن-الرئيس-ترامب-غير-مصاب-بفايروس-كورونا",
+    "was_notification_pushed": true
+}

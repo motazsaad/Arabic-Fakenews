@@ -1,0 +1,157 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1090,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "لم تصرح بريجيت هذا التصريح في أي من مقابلاتها الأخيرة (Getty)",
+    "category": "News",
+    "claim": "<p>زوجة الرئيس الفرنسي تقول أن الحجاب يخيف الأطفال.</p>\r\n",
+    "country": "FR",
+    "created_at": "2020-10-26 11:26:10",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 24,
+    "feedback_pos": 43,
+    "id": "5f968822bf8f063e045cdf9d",
+    "investigation": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-JO\">&nbsp;تحقّق &quot;مسبار&quot; من التصريح، ووجد أنه زائف، بعد أن بحث عنه بعدة لغات، فلم يجد لها أي لقاء تصف فيه الحجاب بالمخيف، وكان أطول وأشهر حوار لها مع مجلة &quot;هي&quot; الفرنسية، والذي تحدثت&nbsp;به عن مهنة التدريس وحياتها في القصر الرئاسي، وقصة الحب التي جمعتها مع ماكرون.</span></p>\r\n\r\n<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-JO\">&nbsp;وكانت بريجيت في السابق&nbsp;&nbsp;تعرضت لانتقادات من الصحافة الفرنسية لأنها ارتدت الحجاب حين زارت أحد المساجد في دولة الإمارات العربية المتحدة.</span></p>\r\n\r\n<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-JO\">وصاحبت هذه المنشورات التي تسخر من عمر وشكل بريجيت صورة مفبركة لها كان &quot;مسبار&quot; من قبل قد<span style=\"color:#3498db\"> </span><a href=\"https://misbar.com/factcheck/2020/07/03/%D8%B5%D9%88%D8%B1%D8%A9-%D9%85%D9%81%D8%A8%D8%B1%D9%83%D8%A9-%D9%84%D8%A8%D8%B1%D9%8A%D8%AC%D9%8A%D8%AA-%D9%85%D8%A7%D9%83%D8%B1%D9%88%D9%86\"><span style=\"color:#3498db\">فند</span></a><span style=\"color:#3498db\">ها</span></span><span dir=\"RTL\">&nbsp; في أحد تقاريره.</span></p>\r\n\r\n<p><img src=\"https://images-prod.misbar.com/articlebody/investigation_lv17cdhnl.jpg\" style=\"height:476px; width:602px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-JO\">تداولت حسابات على مواقع التواصل الاجتماعي، في الساعات الأخيرة،&nbsp;صوراً لبريجيت ماكرون زوجة الرئيس الفرنسي إيمانويل ماكرون، مع اقتباس نُسب إليها قالت قيه&nbsp;&quot;&nbsp;الحجاب يخيف الأطفال&quot; ثم يلي الاقتباس عبارات سخرية من هيئتها وعمرها.</span></p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_5yew0ory2.jpg\" style=\"height:610px; width:572px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_cq0bpk5xc.jpg\" style=\"height:323px; width:602px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_1u1ug32p4.jpg\" style=\"height:609px; width:498px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_755e5utxz.jpg\" style=\"height:666px; width:598px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 355,
+        "left": -3.5999755859375,
+        "path": "articles/1603700770GettyImages-1132995547.jpg",
+        "top": 5.599853515625,
+        "totalHeight": 423,
+        "totalWidth": 626,
+        "watermark_path": "articles/watermark-1603700770GettyImages-1132995547.jpg",
+        "width": 632
+    },
+    "post_date": "2020-10-26T08:11:00.000+03:00",
+    "published": [
+        {
+            "id": "5f9688210f4f6910a25a8442",
+            "link": "https://www.facebook.com/azzadine.zizou.98/videos/654413781941034",
+            "name": "Azzadine Ben Rabahe",
+            "origin": "facebook",
+            "path": "sources/7f94ca813882809ca0bd6d8376169fbba4df3f1c.jpg"
+        },
+        {
+            "id": "5f968821226a7617c14f9ea5",
+            "link": "https://www.facebook.com/100004389664583/videos/1696078780548428",
+            "name": "سعد المساني",
+            "origin": "facebook",
+            "path": "sources/ac0f82677c1fcb3184f598a224f717df182b8ea6.jpg"
+        },
+        {
+            "id": "5f96882184f53770ca7c17cc",
+            "link": "https://www.facebook.com/samessim.njehhammi/videos/3416791021724011",
+            "name": "Samessim Bent Tounis",
+            "origin": "",
+            "path": "sources/5091aba9724b3cdffefc4de2ea4112048edd2565.jpg"
+        },
+        {
+            "id": "5f968821aa27fd61d803f95b",
+            "link": "https://www.facebook.com/groups/388325748787264/permalink/472442927042212",
+            "name": "نقاء �القلوب �الصادقة �",
+            "origin": "facebook",
+            "path": "sources/5bfe4505f0d897cf8eadb4d078ea86f5bd10e8d5.jpg"
+        },
+        {
+            "id": "5f9688212bbd8f49567aba06",
+            "link": "https://www.facebook.com/hassnia.elsara/posts/187603656187026",
+            "name": "Hassnia El Sara",
+            "origin": "facebook",
+            "path": "sources/eced75020706be289ec3c1901255706b4cce45de.jpg"
+        },
+        {
+            "id": "5f9688229837854bd75dae2b",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=824232495080008&id=100024797948809",
+            "name": "اشراقة أمل",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5f968822b36c0b3e6d2bb0d9",
+            "link": "https://www.facebook.com/ahlam.mohammed.50999405/posts/380768189640105",
+            "name": "Ahlam Mohammed",
+            "origin": "facebook",
+            "path": "sources/80c9c9efca956402fd70995a6cb15e14c3c6046e.jpg"
+        },
+        {
+            "id": "5f96882258d02f1cb149c4aa",
+            "link": "https://www.facebook.com/asma.osman.39501/posts/2756555244664428",
+            "name": "Asma Osman",
+            "origin": "facebook",
+            "path": "sources/2c19932b1ffd5ca310de97d0956a7bc96f6439f0.jpg"
+        },
+        {
+            "id": "5f96882264ba8e35a8320060",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1785361944952793&id=100004370149435",
+            "name": "منتهى حسيبا",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5f968822a7a50942ea7149ab",
+            "link": "https://twitter.com/m552m553/status/1320366374074580993",
+            "name": "ابو الحسن بديل",
+            "origin": "twitter",
+            "path": "sources/249b937e1990b8da4051046d5b314767c4ff00ad.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f968822c7ba1d21484e2b5d",
+            "link": "https://www.elle.fr/People/La-vie-des-people/News/Brigitte-Macron-decouvrez-son-interview-exclusive-en-integralite-3522842",
+            "name": "elle.fr",
+            "origin": "",
+            "path": "sources/e694ff68988c66206058e4e2283195ae3a9c6fb6.jpg"
+        },
+        {
+            "id": "5f8eb18ba3818a4eb81ad3d2",
+            "link": "https://www.youtube.com/watch?v=rb8t1NfsKY0",
+            "name": "قناة يوتيوب",
+            "origin": "",
+            "path": "published/7_1603128187_72cba5bc67b31d9d753cf43c35e93c59a1b0f98d.jpg"
+        },
+        {
+            "id": "5f968d87128f3405b01b80a4",
+            "link": "https://www.afp.com/ar",
+            "name": "AFP.com",
+            "origin": "",
+            "path": "sources/711ebaeb8732b6c248b32e2760fb7b0c554c691f.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "بريجيت ماكرون لم تصرح أن الحجاب يخيف الأطفال",
+    "updated_at": "2020-10-26 11:59:28",
+    "url_path": "/factcheck/2020/10/26/بريجيت-ماكرون-لم-تصرح-أن-الحجاب-يخيف-الأطفال",
+    "was_notification_pushed": true
+}

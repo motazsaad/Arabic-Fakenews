@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2014,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "الصورة قديمة وتم تعديلها (تويتر)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">برج ساعة شارع الحبيب بورقيبة في تونس مضاء بالعلم اللبناني.</p>\r\n",
+    "country": "TN",
+    "created_at": "2020-08-05 19:51:36",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f2ae3986021180733505947",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة ووجد أنها مضللة، إذ لم يُضئ برج الساعة التونسية في شارع الحبيب بورقيبة مساء أمس 4 أغسطس/آب، بالعلم اللبناني. وتبين أن صورة الساعة قديمة تم تعديلها، وتعود الأصلية لعام 2007، نشرت في مواقع ومنتديات للتعريف بأماكن في تونس بتوقيع Matilda@Tunisia، وكانت تعرف الساعة وقتها باسم &quot;ساعة 7 نوفمبر&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_lhqd9wooz.jpg\" style=\"height:546px; width:355px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول حسابات وصفحات على موقعي فيسبوك وتويتر، منذ أمس 4 أغسطس/آب، صورة تدّعي أنها لبرج ساعة شارع الحبيب بورقيبة مضاءة بالعلم اللبناني، بعد انفجار بيروت.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img alt=\"00.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_x6s0qaglz.jpg\" style=\"height:430px; width:597px\" /><br />\r\n<img alt=\"0.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_1te01dj9y.jpg\" style=\"height:414px; width:595px\" /><br />\r\n<img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_8wrw266co.jpg\" style=\"height:383px; width:595px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 336,
+        "left": 1,
+        "path": "articles/1596646296EenL-BOXYAANypD.jpg",
+        "top": 20,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-1596646296EenL-BOXYAANypD.jpg",
+        "width": 598
+    },
+    "post_date": "2020-08-05T17:37:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/elleuchi_fethi/status/1290790527693094921",
+            "name": "Fethi",
+            "path": "published/0_1596646295_Kh-kLSPx_400x400.jpg"
+        },
+        {
+            "link": "https://twitter.com/anisAssiile/status/1290781346307158017",
+            "name": "Anis Assile",
+            "path": "published/1_1596646295_acWnD7A5_400x400.jpg"
+        },
+        {
+            "link": "https://twitter.com/marwendridi10/status/1290787726128750592",
+            "name": "marwen dridi",
+            "path": "published/2_1596646295_kk5_niqh_200x200.jpg"
+        },
+        {
+            "link": "https://twitter.com/_ElieMerheb/status/1290785169276833803",
+            "name": "Elie Merheb | ايلي مرعب",
+            "path": "published/3_1596646295_5-bUQ_mw_400x400.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/BanzartFM/photos/a.390041114453709/2130801440377659/?type=3&theater",
+            "name": "Banzart FM",
+            "path": "published/4_1596646295_12311186_398948143563006_4178037515046975542_n.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://al-forsan.yoo7.com/t235-topic",
+            "name": "الفرسان",
+            "path": "sources/0_1596646296_0.jpg"
+        },
+        {
+            "link": "https://www.4algeria.com/forum/t/12020/",
+            "name": "منتدى اللمة الجزائرية",
+            "path": ""
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "علم لبنان لم يزين برج الساعة التونسية في شارع الحبيب بورقيبة",
+    "updated_at": "2020-09-25 17:47:03",
+    "url_path": "/factcheck/2020/08/05/علم-لبنان-لم-يزين-برج-الساعة-التونسية-في-شارع-الحبيب-بورقيبة"
+}

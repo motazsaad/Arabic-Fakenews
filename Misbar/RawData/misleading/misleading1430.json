@@ -1,0 +1,76 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 339,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">إطلاق صواريخ من قطاع غزة على جنوب فلسطين المحتلة<strong> </strong>بعد سريان الهدنة بين حركة الجهاد الإسلامي وجيش الاحتلال الإسرائيلي.</p>\r\n",
+    "country": "PS",
+    "created_at": "2019-11-17 16:38:13",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5dd14d458d7bd9544c060633",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الخبر صحيح، ولكنّه انتقائي، فالهدنة بين قوات الاحتلال وحركة الجهاد الإسلامي كانت بالأصل هشّة، واختُرقت عدّة مرّات من قبل سلاح الجو الإسرائيلي الذي نفذّ عدداً من الغارات على شمالي القطاع بعد سريان الهدنة صباح الخميس 14 نوفمبر/ تشرين الثاني.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وكانت طائرات الاحتلال اغتالت القيادي في حركة الجهاد الإسلامي بهاء أبو العطا فجر الخميس 12 نوفمبر/ تشرين الثاني، ورّدت المقاومة بإطلاق عشرات الصواريخ على الأراضي الفلسطينية المحتلة. وأسفر التصعيد العسكري بين الطرفين إلى استشهاد 34 فلسطينياً وإصابة 111 آخرين.</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">أورد الموقع الالكتروني لقناة سكاي نيوز عربية خبراً حمل عنوان &quot;رغم الهدنة.. تجدّد إطلاق الصواريخ على إسرائيل&quot;. وجاء في الخبر أنّ الدفاعات الإسرائيلية المضادة للصواريخ اعترضت السبت 16 نوفمبر/ تشرين الثاني من العام الحالي، صاروخين أُطلقا من قطاع غزة على جنوب الأراضي الفلسطينية المحتلة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_6146898e5e08d11323c0748b13f42049.jpg\" style=\"height:551px; width:430px\" /></span></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 351,
+        "left": 5.99053955078125,
+        "path": "articles/1573997893العدوان على غزة-سكاي نيوز.jpg",
+        "top": 51.80717468261719,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "width": 624
+    },
+    "post_date": "2019-11-17T16:30:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.skynewsarabia.com/middle-east/1298325-%D8%B1%D8%BA%D9%85-%D8%A7%D9%84%D9%87%D8%AF%D9%86%D8%A9-%D8%AA%D8%AC%D8%AF%D8%AF-%D8%A7%D9%95%D8%B7%D9%84%D8%A7%D9%82-%D8%A7%D9%84%D8%B5%D9%88%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A7%D9%95%D8%B3%D8%B1%D8%A7%D9%8A%D9%94%D9%8A%D9%84",
+            "name": "سكاي نيوز عربية",
+            "path": "published/0_1573997893_سكاي نيوز- لوغو.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://ara.reuters.com/article/ME_TOPNEWS_MORE/idARAKBN1XQ032",
+            "name": "رويترز",
+            "path": "sources/0_1573997893_Reuters-logo1.jpg"
+        },
+        {
+            "link": "https://www.alaraby.co.uk/politics/2019/11/16/%D8%B7%D8%A7%D8%A6%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84-%D8%AA%D8%B4%D9%86-%D8%BA%D8%A7%D8%B1%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D9%84%D9%84%D9%85%D9%82%D8%A7%D9%88%D9%85%D8%A9-%D8%B4%D9%85%D8%A7%D9%84%D9%8A-%D8%BA%D8%B2%D8%A9",
+            "name": "العربي الجديد",
+            "path": "sources/1_1573998208_العربي الجديد-لوغو.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "رغم الهدنة صواريخ على الأراضي المحتلة... هل في الخبر تضليل؟",
+    "updated_at": "2020-09-23 12:40:13",
+    "url_path": "/factcheck/2019/11/17/رغم-الهدنة-صواريخ-على-الأراضي-المحتلة-هل-في-الخبر-تضليل"
+}

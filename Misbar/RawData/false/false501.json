@@ -1,0 +1,104 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 13261,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "الصورة ليست لصحيفة ألمانية (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">صحيفة ألمانية قالت إن أحمد قايد صالح من بين الشخصيات القوية في العالم التي رحلت وتركت وراءها تاريخ حافل وشعب بأكمله يتذكره.</span></p>\r\n",
+    "country": "DZ",
+    "created_at": "2020-07-12 17:18:58",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f0b1bd2163be3064d611476",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من صورة الصحيفة المتداولة ووجد أنّها مفبركة، وليست لصحيفة ألمانية كما متداول في المنشورات. وأصل الصورة يعود لشكل مصمم منشور على المواقع المتخصصة في تصميم الأعمال الفنية، وعرضها في شكل صور، والتي تتيح للمستخدمين إمكانية التعديل في التصميم وإضافة صورة أخرى. نُشر التصميم على مواقع مثل <a href=\"https://www.istockphoto.com/ru/%D0%B2%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F/folded-realistic-economic-newspaper-vector-business-finance-information-daily-gm859307258-142147463\" style=\"color:#0563c1; text-decoration:underline\">istock</a> و<a href=\"https://www.shutterstock.com/image-illustration/folded-business-newspaper-images-articles-information-729959827\" style=\"color:#0563c1; text-decoration:underline\">shutterstock</a>&nbsp;في عام 2017، أي قبل وفاة الجنرال العسكري الجزائري أحمد قايد صالح بقرابة&nbsp;عامين، والذي <a href=\"https://ar.wikipedia.org/wiki/%D8%A3%D8%AD%D9%85%D8%AF_%D9%82%D8%A7%D9%8A%D8%AF_%D8%B5%D8%A7%D9%84%D8%AD\" style=\"color:#0563c1; text-decoration:underline\">توفي</a> في ديسمبر/كانون الأول عام 2019.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_o35t542q4.jpg\" style=\"height:633px; width:622px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات وصفحات على مواقع التواصل خلال شهر يوليو/تموز الجاري، صورة تُظهر شكل صحيفة أجنبية على غلافها صورة رئيس أركان الجيش الشعبي الجزائري الراحل أحمد قايد صالح، وادّعت المنشورات أنها لصحيفة ألمانية قالت إنه من بين الشخصيات القوية في العالم التي رحلت وتركت وراءها تاريخ حافل وشعب بأكمله يتذكره، والذي أبكى الجزائريين حقاً وترك حزن عميق لدى الشعب ليومنا هذا، وأن جنازته الأولى في تاريخ أفريقيا، ومن بين أكبر الجنازات في العالم.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_2a6bpdrgd.jpg\" style=\"height:552px; width:481px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_79j49ocro.jpg\" style=\"height:541px; width:486px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1594563537107333394_159438268981944_3734330400870566114_n.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1594563537107333394_159438268981944_3734330400870566114_n.jpg",
+        "width": 752
+    },
+    "post_date": "2020-07-12T17:16:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=157621642498729&set=a.126217805639113&type=3",
+            "name": "رابح وسيم",
+            "path": "published/0_1594563537_رابح وسيم.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/109664623959309/photos/a.109734260619012/159438265648611/?type=3&theater",
+            "name": "جندي الوطن Dz",
+            "path": "published/1_1594563796_جندي الوطن Dz.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/2119342031655470/photos/a.2147598008829872/2676963202560014/?type=3&theater",
+            "name": "الجزائر عربية",
+            "path": "published/2_1594563797_لجزائر عربية.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=140071974376984&id=114332143617634&__tn__=-R",
+            "name": "عودة المحروسة",
+            "path": "published/3_1594563797_عودة المحروسة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ouvalgerie/posts/862185320857430?__tn__=-R",
+            "name": "الـجـزائر إلى أيـن",
+            "path": "published/4_1594563797_الـجـزائر إلى أيـن.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100447041504927/photos/a.100674071482224/182155426667421/?type=3&theater",
+            "name": "المنجل النوفمبري 2",
+            "path": "published/5_1594563797_المنجل النوفمبري 2.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.shutterstock.com/image-illustration/folded-business-newspaper-images-articles-information-729959827",
+            "name": "shutterstock ",
+            "path": "sources/0_1594563537_shutterstock.jpg"
+        },
+        {
+            "link": "https://www.istockphoto.com/ru/%D0%B2%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F/folded-realistic-economic-newspaper-vector-business-finance-information-daily-gm859307258-142147463",
+            "name": "istock",
+            "path": "sources/1_1594563797_istock.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صورة مفبركة.. صحيفة ألمانية تحدثت عن رحيل القايد صالح",
+    "updated_at": "2020-09-25 18:17:34",
+    "url_path": "/factcheck/2020/07/12/صورة-مفبركة-وليست-لصحيفة-ألمانية-تحدثت-عن-رحيل-قايد-صالح"
+}

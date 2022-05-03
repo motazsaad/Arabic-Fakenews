@@ -1,0 +1,90 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 143,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "الطائرة سورية أسقطتها قوات المعارضة (يوتيوب)",
+    "category": "News",
+    "claim": "<p>سقوط طائرة أذربيجانية&nbsp;من قبل قوات أميركية تدخلت لحماية أرمينيا.</p>\r\n",
+    "country": "AZ",
+    "created_at": "2020-09-28 14:16:48",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 2,
+    "feedback_pos": 9,
+    "id": "5f71c6205581ef406e350818",
+    "investigation": "<p style=\"text-align:right\"><span dir=\"RTL\">تحقّق &quot;مسبار&quot; من الصورة ووجد&nbsp;أنَّ الادعاء مضلل؛ فالصورة قُصت&nbsp;من مقطع فيديو نُشر&nbsp;في فبراير/شباط الفائت، لسقوط طائرة عسكرية تابعة للنظام السوري في إدلب، بعد استهدافها من قبل&nbsp;فصائل المعارضة، وكانت انتشرت الصورة&nbsp;ذاتها في يونيو/حزيران الفائت،&nbsp;مع ادعاء أنّ الصورة لطائرتين&nbsp;عسكريتين تركيتين&nbsp;سقطتا في العراق، وقد <a href=\"https://misbar.com/factcheck/2020/06/22/%D8%A5%D8%B3%D9%82%D8%A7%D8%B7-%D8%B7%D8%A7%D8%A6%D8%B1%D8%AA%D9%8A%D9%86-%D8%AA%D8%B1%D9%83%D9%8A%D8%AA%D9%8A%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D8%A7%D8%AF%D8%B9%D8%A7%D8%A1-%D9%85%D8%B6%D9%84%D9%84\"><span style=\"color:#3498db\">نشر</span></a> &quot;مسبار&quot; تحقّقاً وقتها ينفي ذلك.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/I7FGrXiLGgw\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت حسابات أجنبية على موقع التواصل الاجتماعي تويتر منذ 27 سبتمبر/أيلول الجاري حتى هذه اللحظة، صورةً تم قصها من مقطع فيديو لسقوط طائرة هيلوكبتر، وقالت هذه الحسابات إنها طائرة أذربيجانية تم إسقاطها من قبل قوات أميركية تدخلت لحماية أرمينيا، بعد أن ساد التوتر بين الطرفين في الأيام الأخيرة على الحدود بين أذربيجان وأرمينيا.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_bblc4ge52.jpg\" style=\"height:546px; width:602px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_oyx3niws2.jpg\" style=\"height:462px; width:602px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_wuemrhwlp.jpg\" style=\"height:421px; width:602px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 349,
+        "left": 97.08355712890625,
+        "path": "articles/1601291807طيا.JPG",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 721,
+        "watermark_path": "articles/watermark-1601291807طيا.JPG",
+        "width": 620
+    },
+    "post_date": "2020-09-28T12:14:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/maytham956/status/1310214050966646791",
+            "name": " maytham",
+            "path": "published/0_1601292007_ق4.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/Tso_Meg/status/1310305406800007170",
+            "name": "Tsoghig Megerdichian Lattouf ",
+            "path": "published/1_1601292007_ق4.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/PutainBlague/status/1310224118873231362",
+            "name": " putain de blague @PutainBlague",
+            "path": "published/2_1601292007_ق4.JPG"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.youtube.com/watch?v=I7FGrXiLGgw",
+            "name": "قناة الحدث",
+            "path": "sources/0_1601291807_09.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الطائرة سوريّة أسقطتها المعارضة، وليست أذربيجانية",
+    "updated_at": "2020-09-28 14:42:56",
+    "url_path": "/factcheck/2020/09/28/الطائرة-سورية-أسقطتها-المعارضة-وليست-أذربيجانية",
+    "was_notification_pushed": true
+}

@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1509,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "نفت مواقع فرنسية صحة الخبر (تويتر)",
+    "category": "Sports",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">وفاة روجي لومار مدرب المنتخب التونسي وفريق النجم الساحلي السابق، بعد إصابته منذ أسبوعين بفايروس كورونا المستجد.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-05-25 10:02:32",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ecb6d88db291650782d1704",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من الخبر المتداول ووجد أنه زائف، إذ نفت مواقع فرنسية أمس 24 مايو/أيار صحة الخبر، وقالت إن الأمر مجرد شائعات لا أساس لها من الصحة.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_hafb88iyn.jpg\" style=\"height:530px; width:624px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت&nbsp;حسابات وصفحات على مواقع التواصل الاجتماعي، خبراً عن وفاة الفرنسي روجي لومار مدرب المنتخب التونسي وفريق النجم الساحلي السابق،&nbsp;بعد إصابته منذ أسبوعين بفايروس كورونا (كوفيد-19).</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_kker80bap.jpg\" style=\"height:610px; width:458px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_8phc7i7ts.jpg\" style=\"height:618px; width:451px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 1,
+        "path": "articles/1590390151لوجي.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 754,
+        "watermark_path": "articles/watermark-1590390151لوجي.jpg",
+        "width": 752
+    },
+    "post_date": "2020-05-25T10:00:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/Souassi2030/posts/275383050481498",
+            "name": "السواسي",
+            "path": "published/0_1590390151_السواسي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=3236181983274634&id=1527820264110823",
+            "name": "الترجي الرياضي التونسي",
+            "path": "published/1_1590390269_الترجي الرياضي التونسي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/toujouretoiliste/posts/1914808835316905",
+            "name": "Toujours Etoiliste",
+            "path": "published/2_1590390269_Toujours Etoiliste.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2917081265048368&id=597403440349507",
+            "name": "شط سيدي عبد السلام بقابس",
+            "path": "published/3_1590390269_شط سيدي عبد السلام بقابس.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Ibtassem.enta.fi.tounes/posts/3202118509809696",
+            "name": "إبتسم أنت في تونس",
+            "path": "published/4_1590390269_إبتسم أنت في تونس.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=149362563300415&id=101688268067845",
+            "name": "تونس لك T4Y",
+            "path": "published/5_1590390269_تونس لك T4Y.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://fr.mediamass.net/people/roger-lemerre/rumeurdeces.html",
+            "name": "Mass Media",
+            "path": "sources/0_1590390151_Mass Media.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "وفاة مدرب منتخب تونس السابق روجي لومار إثر إصابته بكورونا.. زائف",
+    "updated_at": "2020-09-24 22:20:07",
+    "url_path": "/factcheck/2020/05/25/وفاة-مدرب-المنتخب-التونسي-السابق-روجي-لومار-إثر-إصابته-بكورونا-زائف"
+}

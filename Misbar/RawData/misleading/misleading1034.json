@@ -1,0 +1,104 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 34089,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "لم تجر أي فحوصات طبية على المشكوك فيهم لمعرفة عدد الإصابات (Getty)",
+    "category": "Health",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">160 حالة عدوى بفايروس نقص المناعة المكتسبة (الإيدز)، خلال الحجر الصحي في محافظة مدنين التونسية.</p>\r\n",
+    "country": "TN",
+    "created_at": "2020-06-09 13:06:54",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5edf5f3ed6e4a97a995ef1a5",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">تحقق &quot;مسبار&quot; من الخبر وتبين أنّه يحتوي على تضليل، إذ لم ينف الدكتور زيد العنز كاهية مدير الصحة الأساسية في مدنين، خبر تفكيك شبكة دعارة وإلقاء القبض على عدد من الأشخاص داخل المحل يوم 8 يونيو/حزيران من العام الجاري.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">في المقابل، أكد العنز أن الإدارة الجهوية للصحة في محافظة مدنين التونسية، لم تسجل 160 إصابة بفايروس نقص المناعة المكتسبة في منطقة سيدي مخلوف، كما لم ترد عليهم أي تساخير أمنية للقيام بالفحوصات الطبية للكشف عنه.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">وأعلنت النيابة العمومية في المحافظة عن <span style=\"color:black\">الاحتفاظ بـ7 أشخاص، منهم 5 رجال أحدهم مصاب بالإيدز، وسيدتين إحداهما في حالة فرار</span><span dir=\"LTR\"><span style=\"color:black\">.</span></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:black\">وتأتي عملية الاحتفاظ على خلفية ورود معلومات منذ شهر رمضان الفائت، تفيد بوجود شبكة دعارة والاشتباه في سيدتين إحداهما أعدت محلاً لتعاطي البغاء السري والأخرى شريكة لها باستجلاب الحرفاء من الرجال بمقابل.</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:black\">كما لم يحدد إلى الآن عدد المصابين بالفايروس، في انتظار إجراء إدارة الصحة للفحوصات اللازمة.</span></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحاتٌ وحساباتٌ على مواقع التواصل الاجتماعي، خبراً يدّعي إصابة 160 شخصاً في منطقة سيدي مخلوف في محافظة مدنين في الجنوب التونسي، بفايروس نقص المناعة المكتسبة (الإيدز).</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وذكر أن سيدتان إحداهما سائحة أوكرانية والأخرى من أفريقيا لم تكشف جنسيتها، كانتا السبب في انتقال الفايروس داخل محل دعارة في المنطقة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"Capture1.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_wdtbp0sy6.jpg\" style=\"height:474px; width:499px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_r4vx9gvz0.jpg\" style=\"height:470px; width:502px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 263,
+        "left": 40.451904296875,
+        "path": "articles/1591697213GettyImages-109309814.jpg",
+        "top": 1.597900390625,
+        "totalHeight": 423,
+        "totalWidth": 635,
+        "watermark_path": "articles/watermark-1591697213GettyImages-109309814.jpg",
+        "width": 467
+    },
+    "post_date": "2020-06-09T10:46:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.asslematunisie.net/2020/06/medninsida3.html?m=1&fbclid=IwAR0wceSqXzR_0g53-qOtBByMUb2ee3WujI6CVo-OjhQ39nn0-2WeXD29XXc",
+            "name": "عسلامة Tunisie  ",
+            "path": "published/0_1591697211_1.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/381409529164395/photos/a.381602092478472/598879310750748/?type=3&theater",
+            "name": "كشف الحقائق",
+            "path": "published/1_1591697212_72569226_443929639579050_7787426133200338944_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=182369466555551&set=gm.939926863121372&type=3&theater",
+            "name": "Fatima toujours seule",
+            "path": "published/2_1591697212_94132028_169331461192685_1529115280586833920_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/376615892523595/photos/a.376626242522560/1426424040876103/?type=3&theater",
+            "name": "الجريدة السياسية ",
+            "path": "published/3_1591697212_13895117_549112361940613_7906951822030142617_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Radssii/photos/a.111969447154757/137423297942705/?type=3&theater",
+            "name": "رادس العالمية",
+            "path": "published/4_1591697212_97642671_128470092171359_9020859630154153984_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/882667815231106/photos/a.882774468553774/1663770743787472/?type=3&theater",
+            "name": "صحيفة الثورة والثوار  ",
+            "path": "published/5_1591697213_102420761_1660517867446093_708671613884694528_n.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.mosaiquefm.net/ar/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%AA%D9%88%D9%86%D8%B3-%D8%AC%D9%87%D8%A7%D8%AA/752813/%D9%85%D8%A7-%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D8%A7%D9%83%D8%AA%D8%B4%D8%A7%D9%81-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A8%D9%80-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A7-%D9%81%D9%8A-%D9%85%D8%AF%D9%86%D9%8A%D9%86",
+            "name": "موزاييك أف أم",
+            "path": "sources/0_1591697213_4.jpg"
+        },
+        {
+            "link": "https://www.shemsfm.net/amp/ar/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1_%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%AA%D9%88%D9%86%D8%B3_%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AC%D9%87%D9%88%D9%8A%D8%A9/252339/%D9%85%D8%AF%D9%86%D9%8A%D9%86-%D8%A7%D9%84%D8%A5%D8%AD%D8%AA%D9%81%D8%A7%D8%B8-%D8%A8%D9%805-%D8%B1%D8%AC%D8%A7%D9%84-%D8%A3%D8%AD%D8%AF%D9%87%D9%85-%D9%85%D8%B5%D8%A7%D8%A8-%D8%A8%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A7-%D9%88%D9%85%D9%86%D8%AF%D9%88%D8%A8%D9%8A%D8%A9-%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D8%AA%D9%86%D9%81%D9%8A-%D9%88%D8%AC%D9%88%D8%AF-120-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D9%81%D9%8A-%D8%B3%D9%8A%D8%AF%D9%8A-%D9%85%D8%AE%D9%84%D9%88%D9%81",
+            "name": "شمس أف أم",
+            "path": "sources/1_1591697213_3.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "تونس: 160 حالة عدوى بالإيدز خلال الحجر الصحي.. خبر مضلل",
+    "updated_at": "2020-09-25 11:16:03",
+    "url_path": "/factcheck/2020/06/09/تونس-160-حالة-عدوى-بالإيدز-خلال-الحجر-الصحي-خبر-مضلل"
+}

@@ -1,0 +1,108 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 4,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 78136,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": " التصريحات زائفة ولا أساس لها من الصحة (مواقع التواصل الاجتماعي)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تصريحات منسوبة للرئيسين الفرنسي والأميركي عن قيس سعيد.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-04-19 12:50:47",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e9c1ef7db2916785d29d8a4",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من التصريحات المنسوبة للرئيسين الفرنسي والأميركي، وتبين أنها&nbsp;زائفة ولا أساس لها من الصحة، إذ لم يجد ما يمت بصلة للتصريحات، ولا يوجد أي تصريحات مشابهة نُشرت عن مصادر رسمية فرنسية أو أميركية أو تونسية، ما يؤكد زيف الادعاء.</span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت العديد من المواقع الإلكترونية وحسابات على مواقع التواصل الاجتماعي </span><span dir=\"RTL\" lang=\"AR-SA\">تصريحاً منسوباً</span><span dir=\"RTL\" lang=\"AR-SA\"> للرئيس الفرنسي </span><span dir=\"RTL\" lang=\"AR-SA\">إيمانويل ماكرون ادعى ناشروه&nbsp;أنه قال، &quot;يصعب علينا التعامل مع قيس سعيد لأنه يضع مصلحة الإسلام والمسلمين قبل كل المسائل الأخرى&quot;.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">ونشر آخرون&nbsp;تصريحاً آخر منسوباً للرئيس الأميركي دونالد ترامب، قال فيه &quot;كنت أظن أنّ قيس سعيد كباقي الرؤساء ولكن البيت الأبيض نبهني أنه مختلف تماماً وعصبي وحاسم ولا يقبل أنّ يعامل بدونية&quot;.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_f2xa3z4k1.jpg\" style=\"height:374px; width:623px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_knqcznwxd.jpg\" style=\"height:372px; width:574px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_8arph038f.jpg\" style=\"height:492px; width:495px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ywbxvnyqj.jpg\" style=\"height:422px; width:472px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/158729083491776624_3088492267875476_2458543072410075136_o.jpg",
+        "watermark_path": "articles/watermark-158729083491776624_3088492267875476_2458543072410075136_o.jpg"
+    },
+    "post_date": "2020-04-19T12:45:00.000+03:00",
+    "published": [
+        {
+            "link": "https://safarfeed.com/7443/%d8%b9%d9%80%d8%a7%d8%ac%d9%84-%d8%b4%d8%a7%d9%87%d8%af-%d8%aa%d8%b1%d8%a7%d9%85%d8%a8-%d9%8a%d8%b9%d9%84%d9%86%d9%87%d8%a7-%d9%83%d9%86%d8%aa-%d8%a3%d8%b8%d9%86-%d8%a3%d9%86-%d9%82%d9%8a%d8%b3/?fbclid=IwAR2YvaXOsGXmABga2htW4QMc2LOZEYRmQYH4sWlq8w2n64XrGq--yz-V6J8",
+            "name": "عرب لايف",
+            "path": "published/0_1587289846_عرب لايف.jpg"
+        },
+        {
+            "link": "https://www.joussefstore619.com/2020/04/blog-post_981.html?fbclid=IwAR0nxZ6Ens_HYqe0uFCaU5NYJ9iiVhxKVPmL11Whm58m5HuqZsyFUvqvDBE",
+            "name": "tuniso",
+            "path": "published/1_1587290001_tuniso.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/islamicvideoyoutube/posts/2851688428201223?__xts__%5B0%5D=68.ARDpOQhFRjnMumc2vyCoIPMC93bo0btvWbqJ4FutNrurZ9gXeWojSxm5duZMzshLIBcUqwURQVpwWMCYNX9aBqjPg8bmqyWmr-V2ZAGFqDZ4YHfqfe9j6sbqT_B-9ECOtYtZo53-zwOQnXk3uObaXJa-Zv-7-9MFG8z2-CO5Z6HdURyBKuAueDjwtHh8jzvmHl0p2AJyechdKR3wYeT_7VGXm8Be_ybmVpGEj-jsJ9FPmF-5QvYF0OM0lNp_VbPIB9Dm1ts-eHxwGRLnt_SGTk2VsRdwRod-Zb2wR3PzZk0igKVq1Nh2k1iJAXnjvkLd03z8DeIuQ20CzJMfvqM_NqG4VQ&__tn__=-R",
+            "name": "اليوتيوب الإسلامي",
+            "path": "published/2_1587290001_اليوتيوب الاسلامي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/abdelhamid.lotfi.792/posts/150005776504306",
+            "name": "Abdelhamid Lotfi",
+            "path": "published/3_1587290001_Abdelhamid Lotfi.jpg"
+        },
+        {
+            "link": "https://twitter.com/pulpficction/status/1251533802113060868",
+            "name": "Gino Martinez",
+            "path": "published/4_1587290001_Gino Martinez.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/EmmanuelMacron",
+            "name": "Macron",
+            "path": "sources/0_1587289846_sXH9CRje_400x400.jpg"
+        },
+        {
+            "link": "https://twitter.com/realDonaldTrump",
+            "name": "Trump",
+            "path": "sources/1_1587289909_Donald J. Trump.jpg"
+        },
+        {
+            "link": "https://www.elysee.fr/",
+            "name": "elysee",
+            "path": "sources/2_1587289909_Élysée.jpg"
+        },
+        {
+            "link": "https://www.whitehouse.gov/",
+            "name": "The White House",
+            "path": "sources/3_1587289909_The White House.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Presidence.tn/",
+            "name": "رئاسة الجمهورية التونسية",
+            "path": "sources/4_1587290630_10855084_873159386075453_7607065673046469010_o.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "تصريحات زائفة لماكرون وترامب عن قيس سعيد",
+    "updated_at": "2020-09-25 15:30:16",
+    "url_path": "/factcheck/2020/04/19/تصريحات-زائفة-لماكرون-وترامب-عن-قيس-سعيد"
+}

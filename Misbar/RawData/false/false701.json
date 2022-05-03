@@ -1,0 +1,88 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 3833,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "لم يطالب أعضاء مجلس الشعب السوري الاعتذار (تويتر)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">قبنض ينضم إلى خالد العبود ويطالب بوتين بالاعتذار، وبيان صادر عن أعضاء مجلس الشعب يطالبون الحكومة الروسية فيه بالاعتذار من الحكومة السورية.</p>\r\n",
+    "country": "",
+    "created_at": "2020-05-22 18:20:40",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ec7edc8db29165f3f22ce24",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الخبر والبيان المتداول ووجد أن العنوان الذي استخدمه تلفزيون سورية&nbsp;وبعض الحسابات على مواقع التواصل الاجتماعي، يجزم أنّ أعضاء مجلس الشعب السوري، يطالبون روسيا بالاعتذار وهذا زائف. إذ عاد &quot;مسبار&quot; إلى منشور خالد العبود عضو مجلس الشعب السوري الذي نشره تلفزيون سورية في تقريره، ولم يجد مطالبة منه لروسيا بالاعتذار، بل كان المنشور يقتصر على طرح فرضيات وتساؤلات تخص ما يتداوله الإعلام الروسي من أخبار عن سورية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">كما تحقّق &quot;مسبار&quot; عن&nbsp;البيان الصادر من أعضاء مجلس الشعب ووجد أنه زائف، إذ نُشر البيان للمرة الأولى في حساب باسم محمد قبنض على موقع تويتر، وهو حساب مُزوّر ولا يتبع لعضو مجلس الشعب محمد قبنض، الذي نشر بدوره توضيحاً&nbsp;عبر حسابه الخاص على موقع فيسبوك، وأكد عدم وجود حساب له على &quot;تويتر&quot; و نفي فيه كافة المنشورات التي تُنسب له.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">ولم يُنشر على مواقع التواصل الاجتماعي، لمحمد قبنض أو غيره من أعضاء مجلس الشعب، أيّ بيان يخص روسيا.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"صورة_x0020_8\" src=\"https://images-prod.misbar.com/articlebody/investigation_v6msukzw7.jpg\" style=\"height:613.2pt; width:415.2pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"_x0000_i1025\" src=\"https://images-prod.misbar.com/articlebody/investigation_o9ny8fhur.jpg\" style=\"height:444pt; width:414.6pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشر تلفزيون سورية وحسابات على مواقع التواصل الاجتماعي في 12 مايو/أيار الجاري، تقريراً تحت عنوان &quot;محمد قبنض ينضم إلى خالد العبود ويطالب بوتين بالاعتذار&quot;، ونُشر ضمن التقرير بيان ادعى التلفزيون&nbsp;أنه صادر عن أعضاء مجلس الشعب السوري، يطالبون فيه الحكومة الروسية بالاعتذار من الحكومة السورية على ما صدر منهم من إساءات لرموز سورية المقدسة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"صورة_x0020_7\" src=\"https://images-prod.misbar.com/articlebody/origin_6o8h6ua73.jpg\" style=\"height:321pt; width:415.8pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"صورة_x0020_6\" src=\"https://images-prod.misbar.com/articlebody/origin_e54s1xu5m.jpg\" style=\"height:697.2pt; width:394.2pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"صورة_x0020_4\" src=\"https://images-prod.misbar.com/articlebody/origin_vhcdk1d6l.jpg\" style=\"height:697.2pt; width:401.4pt\" /> </span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1590160838EQqEP2YU4AYiFdS.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1590160838EQqEP2YU4AYiFdS.jpg",
+        "width": 752
+    },
+    "post_date": "2020-05-22T18:13:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.youtube.com/watch?v=Qaq8ECMRxGw",
+            "name": "تلفزيون سوريا",
+            "path": "published/0_1590160838_تليفوزيون سوريا .jpg"
+        },
+        {
+            "link": "https://twitter.com/Syria_Official/status/1259780492536184832",
+            "name": "Syria",
+            "path": "published/1_1590160838_Syria.jpg"
+        },
+        {
+            "link": "https://twitter.com/khband1/status/1259551001398444033",
+            "name": "محمد قنبض (الحساب المزور)",
+            "path": "published/2_1590160838_محمد قبنض .jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=983713082044626&set=a.257315488017726&type=3&theater",
+            "name": "محمد قبنض",
+            "path": "sources/0_1590160838_7.jpg"
+        },
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=837013006808388&id=100014990882923",
+            "name": "خالد العبود",
+            "path": "sources/1_1590160838_8.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "أعضاء مجلس الشعب السوري يطالبون بوتين بالاعتذار.. حقيقة الخبر",
+    "updated_at": "2020-09-25 17:39:29",
+    "url_path": "/factcheck/2020/05/22/أعضاء-مجلس-الشعب-السوري-يطالبون-بوتين-بالاعتذار-حقيقة-الخبر"
+}

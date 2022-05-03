@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2744,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "لم تصدر جهة رسمية سودانية بياناً بالحكم، كما لم ينشر عنه الإعلام المحلي السوداني (Facebook)",
+    "category": "News",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-DZ\">الحكم على الداعية الفلسطيني محمود الحسنات بالسجن عشر سنوات من قبل القضاء السوداني بعد مشاركته في مسيرة احتجاجية تدعم نظام الحكم السابق في الخرطوم .</span></p>\r\n",
+    "country": "SD",
+    "created_at": "2020-08-04 04:36:57",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5f28bbb96021187ab55ceb5b",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">تحقّق &quot;مسبار&quot; من الخبر المتداول وتبين أنّه زائف،&nbsp; إذ تواصل مع شقيق الداعية محمود الحسنات، أحمد سلمان الحسنات، ونفى الأخير <span style=\"color:black\">ما يتم تداوله حول إصدار القضاء السوداني حكماً بالسجن 10 أعوام على شقيقه.</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:black\">&nbsp;وقال &quot;الخبر مجرد إشاعة، ومحمود بخير، ولم يعرض على أية محاكمة حتى الآن&quot;.</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:black\">وطالب الحسنات جميع النشطاء، ووسائل الإعلام التحري والتأكد قبل نشر الخبر.</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:black\">هذا ولم تصدر أي جهة رسمية سودانية بياناً حول الحكم، كما لم ينشر الإعلام المحلي السوداني خبراً حول الحكم المزعوم، ما يؤكد أنها مجرد إشاعات.</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:black\">وكانت السلطات السودانية اعتقلت الحسنات، الذي يقيم في الخرطوم منذ نحو عامين قادماً من قطاع غزّة، للتحقيق معه في المشاركة بمظاهرة خرجت تطالب بعودة النظام القديم بقيادة عمر البشير.</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:black\">ونشرت مواقع سودانية صورة الحسنات من داخل أحد المراكز الأمنية، وصوراً أخرى لرجلين بملامح عربية، قيل إنهما من اليمن، واثنين آخرين من إندونيسيا، تم اتهامهم جميعاً بالمشاركة في مظاهرة تقف خلفها جماعة الإخوان المسلمين.</span></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\"><span style=\"color:black\">كما&nbsp;نشرت وزارة الداخلية السودانية بياناً، قالت فيه إنها ألقت القبض على خمسة أجانب نتيجة مشاركتهم في الاحتجاجات التي شهدتها الخرطوم</span></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول مواقع &nbsp;إخبارية وحسابات على مواقع التواصل الاجتماعي، منذ أسبوع، خبراً مفاده أن القضاء السوداني، اصدر حكماً بالسجن عشر سنوات، على الداعية محمود الحسنات وذلك بعد إلقاء القبض عليه بتهمة التحريض بسبب مشاركته في مسيرات احتجاجية في العاصمة السودانية الخرطوم .</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_xngd06vos.jpg\" style=\"height:526px; width:437px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ovbv13mer.jpg\" style=\"height:459px; width:446px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_c2j8auf6k.jpg\" style=\"height:698px; width:439px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 339,
+        "left": -9.050048828125,
+        "path": "articles/159650501679165356_1884737381658826_9189968104803794944_n.jpg",
+        "top": 43.75,
+        "totalHeight": 423,
+        "totalWidth": 761,
+        "watermark_path": "articles/watermark-159650501679165356_1884737381658826_9189968104803794944_n.jpg",
+        "width": 601
+    },
+    "post_date": "2020-08-04T03:20:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.amad.ps/ar/post/361596?fbclid=IwAR0vJ4qOgquzI6x9yE70DmHle9oGrnTZ2q6Iw9l_vOdLEYMW0E5ZP_sudA0",
+            "name": "أمد",
+            "path": "published/0_1596505016_أمد.JPG"
+        },
+        {
+            "link": "https://www.facebook.com/111722187246808/photos/a.146073860478307/146073827144977/?type=3&theater&_rdc=1&_rdr",
+            "name": "الواقع",
+            "path": "published/1_1596505016_الواقع.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Nuseiratcity/photos/a.102318601368454/165435091723471/?type=3&theater&_rdc=1&_rdr",
+            "name": "مدينة النصيرات",
+            "path": "published/2_1596505016_86934759_102293998037581_4473618225908678656_o.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=OZedHY-lQq8",
+            "name": "أخباركم",
+            "path": "published/3_1596505016_أخباركم.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Amellavita/photos/a.1878190728962264/3218644378250219/?type=3&theater",
+            "name": "الهجرة إلى أوروبا",
+            "path": "published/4_1596505016_100082267_3026527000795292_7347708876084477952_n.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/ELKOSHI",
+            "name": "Ahmad s al Hassanat",
+            "path": "sources/0_1596505016_53023827_10162031188050112_4453145607162298368_o.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "السودان لم تحكم على الداعية محمود الحسنات بعشر سنوات سجناً",
+    "updated_at": "2020-09-25 20:30:52",
+    "url_path": "/factcheck/2020/08/04/السودان-لم-تحكم-على-الداعية-محمود-الحسنات-بعشر-سنوات-سجن"
+}

@@ -1,0 +1,108 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2714,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الفيديو من أمام مقر الحكومة في ولاية أوهايو (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">فيديو يصوّر لحظة اقتحام المحتجين للبيت الأبيض في العاصمة الأميركية واشنطن.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-05-31 19:55:02",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ed3e166db291629e61870d6",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الفيديو، ووجده مضللاً، فهو لا يُظهر اقتحام المحتجين البيت الأبيض في العاصمة الأميركية واشنطن، إنمّا يصوّر تجمهر متظاهرين أمام مبنى الحكومة في ولاية أوهايو.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/sLGVrs1bLmI\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشر مستخدمون على موقع فيسبوك، مقطع فيديو زعموا أنه يصوّر لحظة اقتحام المحتجين للبيت الأبيض على خلفية مقتل أميركي من أصول إفريقية على يد الشرطة.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"317\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnajafiah%2Fvideos%2F547632599268116%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"317\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Femadalshemmarii%2Fvideos%2F295120194852118%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FWahran902Live%2Fvideos%2F565295504127072%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 353,
+        "left": 0.87939453125,
+        "path": "articles/1590944101GettyImages-1215995111.jpg",
+        "top": 53.6142578125,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1590944101GettyImages-1215995111.jpg",
+        "width": 628
+    },
+    "post_date": "2020-05-31T19:44:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/najafiah/videos/547632599268116/",
+            "name": "النجف للعالم",
+            "path": "published/0_1590944101_النجف للعالم.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/emadalshemmarii/videos/295120194852118/",
+            "name": "عماد الشمري",
+            "path": "published/1_1590944101_عماد الشمري.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Wahran902Live/videos/565295504127072/",
+            "name": "Warhan Live",
+            "path": "published/2_1590944101_Warhan Live.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Bashbish.Newspaper/videos/2616769288539423/",
+            "name": "بشبيش اليوم",
+            "path": "published/3_1590944101_بشبيش اليوم.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/MoroccoMediaNews/videos/681602319343673/",
+            "name": "موروكو ميديا نيوز",
+            "path": "published/4_1590944101_موروكو ميديا نيوز.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Ruqbawnos/videos/251593569247837/",
+            "name": "ركبة ونص",
+            "path": "published/5_1590944101_ركبة ونص.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100051509505180/videos/119725883087728/",
+            "name": "بربر العميدي",
+            "path": "published/6_1590944101_بربر العميدي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/2328494983864534/videos/580747339241195/",
+            "name": "أحداث الصحراء",
+            "path": "published/7_1590944101_أحداث الصحراء.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=sLGVrs1bLmI",
+            "name": "المقطع الأصلي",
+            "path": "sources/0_1590944101_YouTube-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "المحتجون يقتحمون البيت الأبيض.. هل الفيديو صحيح؟",
+    "updated_at": "2020-09-25 18:19:34",
+    "url_path": "/factcheck/2020/05/31/المحتجون-يقتحمون-البيت-الأبيض-حقيقة-الفيديو"
+}

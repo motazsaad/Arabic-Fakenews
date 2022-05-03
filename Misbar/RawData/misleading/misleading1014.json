@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1452,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الفيديو من إيطاليا وليس من تونس (يوتيوب)",
+    "category": "Health",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">فيديو يُظهر احتفال أحد الكوادر الطبية التونسية بطريقة خاصة، بمناسبة الانتصار على فايروس كورونا.</p>\r\n",
+    "country": "TN",
+    "created_at": "2020-06-14 15:59:20",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ee61f28d6e4a904f24e7674",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من المقطع المتداول، ووجد أنّه مضلل. فهو ليس من تونس إنما من إيطاليا، ويصوّر احتفال طاقم طبي في أحد مستشفيات مدينة ماتيرا بإغلاق القسم المخصص لعلاج المصابين بفايروس كورونا (كوفيد_19).</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/zJkuIK8aTG0\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشر مستخدمون على موقع التواصل الاجتماعي فيسبوك وموقع يوتيوب، مقطع فيديو قالوا إنّه يظهر احتفال الأطقم الطبية التونسية في أحد المشافي بانتصار تونس على وباء فايروس كورونا (كوفيد_19).</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/kha3H48K-s0\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/bzGX9oVsGuk\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F756488478086253%2Fvideos%2F2528691704057758%2F&amp;show_text=0&amp;width=261\" style=\"border:none;overflow:hidden\" width=\"261\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 209,
+        "left": 55.0555419921875,
+        "path": "articles/1592139560Untitled.jpg",
+        "top": 30.78125,
+        "totalHeight": 423,
+        "totalWidth": 470,
+        "watermark_path": "articles/watermark-1592139560Untitled.jpg",
+        "width": 371
+    },
+    "post_date": "2020-06-14T18:00:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.youtube.com/watch?v=kha3H48K-s0",
+            "name": "أخبار بلا حدود",
+            "path": "published/0_1592139559_أخبار بلا حدود.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=bzGX9oVsGuk",
+            "name": "Yassmin FM",
+            "path": "published/1_1592139559_Yassmin FM.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/756488478086253/videos/2528691704057758/",
+            "name": "ضد العنف في الملاعب",
+            "path": "published/2_1592139559_ضد العنف في الملاعب.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/mohamed.mezni.969/posts/2445489885741023?__xts__%5B0%5D=68.ARDtHTlNXS2ORHglbZ13yEcSonZtbSB0R--8L2lno9leZdpBOKtgcWhV_VE8MzukYQ36AKiN2HtWDZg0AuhRyPSfp6VUqnkBzw2T5Z9Qrxnd-fqLkr5RGIDgXcFHf_3Tt5nZ2zXBEvFeVrkswOjIgwoGlOEj1cmfjCGJimDG3zvxiNS3nVyi7BXa3RNFKtqR-LUvsXu4fNtTgTThTpz5_ED_-YVl9866P2Z40UQhGzm6Xhd9stbxEY0l5owjVIVsoMMR42iEbareN4sVveSkrlkIB5KNVCkSDmt-zx0RDAU3mjXZU5Ex-XM6je9ZkFKAf4IFZbIURou_wYTP&__tn__=-R",
+            "name": "حاتم حيزي",
+            "path": "published/3_1592139559_حاتم حيزي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/nourchen.khyari/posts/905052583325524?__tn__=-R",
+            "name": "لسعد لسعد زيدي",
+            "path": "published/4_1592139559_لسعد لسعد زيدي.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=zJkuIK8aTG0",
+            "name": "المقطع الأصلي",
+            "path": "sources/0_1592139560_YouTube-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "طاقم طبي يحتفل بالانتصار على كورونا.. هل الفيديو من تونس؟",
+    "updated_at": "2020-09-25 13:24:14",
+    "url_path": "/factcheck/2020/06/14/طاقم-طبي-يحتفل-بالانتصار-على-كورونا-هل-الفيديو-من-تونس"
+}

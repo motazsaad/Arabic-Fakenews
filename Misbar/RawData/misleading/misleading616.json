@@ -1,0 +1,125 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 8073,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "سائق الحافلة رجل يدعى أميس موسى من موزمبيق (تويتر)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">&quot;رجل أفريقي نشر صورته معبرا عن سعادته بركوب حافلة تقودها امرأة لأول مرة في حياته، بعد عشر دقائق نفس الرجل نشر صورته الثانية&quot;.</p>\r\n",
+    "country": "MZ",
+    "created_at": "2020-09-20 19:27:07",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f6782dbc6c1964df9173e69",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">تحقق &quot;مسبار&quot; من الخبر المتداول وتبين أنه مضلل، </span>إذ لم يلتقط الرجل صوراً قبل تعرض الحافلة لحادث وبعده لأنّ امرأة تقودها. ووجد &quot;مسبار&quot; أن القصة وقعت في موزمبيق خلال رحلة حافلة تحمل 65 راكباً، كانت متجهة من بلدة كليماني إلى بيرا.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وبحسب <a href=\"https://clubofmozambique.com/news/bus-crash-in-gorongosa-kills-three-people-and-injures-37/\" style=\"color:blue; text-decoration:underline\">تقارير إعلامية</a>، بدا الرجل سعيدًا قبل ركوب الحافلة، وبعد أن نجا من الحادث، سار على بعد خطوات قليلة من الحافلة ليلتقط صورة أخرى له.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وتبين أن سائق الحافلة هو رجل يدعى أميس موسى يبلغ من العمر 48 عاماً، وليس امرأة كما نشر في الخبر المتداول. وأرجعت الشرطة سبب الحادث إلى تجاوزه للسرعة، بينما أكد السائق أنّ عطلاً ميكانيكيًّا تسبب فيه.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"7.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_vi8n00e5o.jpg\" style=\"height:497px; width:605px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"8.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_uxn4x8lcc.jpg\" style=\"height:495px; width:605px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات إخبارية وحسابات على موقعي فيسبوك وتويتر، حديثاً ومنذ سنوات، صوراً تدعي أنها ل<span style=\"background-color:white\">رجل أفريقي نشر صورته معبراً عن سعادته بركوب حافلة تقودها امرأة لأول مرة في حياته، وبعد عشر دقائق نشر الرجل صورة ثانية</span> له بعد وقوع حادث للحافلة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"background-color:white\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_kih05z7zo.jpg\" style=\"height:529px; width:544px\" /></span></span><br />\r\n<span dir=\"LTR\"><span style=\"background-color:white\"><img alt=\"00.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_z4tiufbyb.jpg\" style=\"height:410px; width:542px\" /></span></span><br />\r\n<span dir=\"LTR\"><span style=\"background-color:white\"><img alt=\"11.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_ywh1xp15h.jpg\" style=\"height:539px; width:541px\" /></span></span><br />\r\n<span dir=\"LTR\"><span style=\"background-color:white\"><img alt=\"3.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_rhrt4p05l.jpg\" style=\"height:305px; width:604px\" /></span></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 333,
+        "left": 3.61346435546875,
+        "path": "articles/1600619227EhO4lmsXsAAjURa.jpg",
+        "top": 71.251220703125,
+        "totalHeight": 423,
+        "totalWidth": 601,
+        "watermark_path": "articles/watermark-1600619227EhO4lmsXsAAjURa.jpg",
+        "width": 593
+    },
+    "post_date": "2020-09-20T17:08:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/ahmelsonbaty18/status/1302587676118454272",
+            "name": "سنباطي",
+            "path": "published/0_1600619226_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/RaniaAtef22/status/1303955528020762624",
+            "name": "Rania ",
+            "path": "published/1_1600619226_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/home_jor/status/1066308268413337600",
+            "name": "خربشة وطن",
+            "path": "published/2_1600619226_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/maldhabyani/status/1067131967177744384",
+            "name": "محمد الضبياني Mohammed Aldhabyani",
+            "path": "published/3_1600619226_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/omr_iy/status/1066319057488617472",
+            "name": "OMAR Al-obaidi",
+            "path": "published/4_1600619226_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/MutwaliMahmud/status/1066717543686172672",
+            "name": "Mutwali Mahmud",
+            "path": "published/5_1600619227_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/3ajaaieb/posts/3379304008795486/",
+            "name": "عجائب وغرائب حول العالم",
+            "path": "published/6_1600619227_67819776_2303763929710849_8279055560511324160_o.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://news.amomama.com/119932-mans-crash-selfie-viral-bus-overturns-a.html",
+            "name": "News.amomama",
+            "path": "sources/0_1600619227_0.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.dailymail.co.uk/news/article-6419025/Bus-passengers-crash-selfies-viral-coach-overturns-road-Mozambique.html?ito=social-facebook",
+            "name": "Dailymail",
+            "path": "sources/1_1600619227_0 (1).jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://clubofmozambique.com/news/bus-crash-in-gorongosa-kills-three-people-and-injures-37/",
+            "name": "Clubofmozambique",
+            "path": "sources/2_1600619227_unnamed.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لم يلتقط الرجل صوراً قبل حادث الحافلة وبعده لأن من تقودها امرأة",
+    "updated_at": "2020-09-25 19:55:53",
+    "url_path": "/factcheck/2020/09/20/لم-يلتقط-الرجل-صورا-قبل-حادث-الحافلة-وبعده-لأن-من-تقودها-امرأة",
+    "was_notification_pushed": "true"
+}

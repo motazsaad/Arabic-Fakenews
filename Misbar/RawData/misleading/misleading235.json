@@ -1,0 +1,129 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 158,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "الصورة الأصلية تُظهر بايدن وهو يتحدث إلى فتاة تتسوق (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\">صورة للرئيس بايدن وهو يعتذر لابنة جورج فلويد.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-12-05 15:32:55",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 2,
+    "id": "5fcb7df7857a611883763b22",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;<a href=\"https://misbar.com/\" style=\"text-decoration:none\" target=\"_blank\"><u>مسبار</u></a>&quot; من الادعاء المتداول ووجد أنه مضلل، لأن <a href=\"https://www.gettyimages.in/detail/news-photo/democratic-presidential-candidate-joe-biden-speaks-c-j-news-photo/1228428810?adppopup=true\" style=\"text-decoration:none\" target=\"_blank\"><u>الصورة الأصلية</u></a> تُظهر بايدن وهو يتحدث إلى فتاة تتسوق برفقة جدها من متجر ملابس في مدينة ديترويت الأميركية، وليست ابنة جورج فلويد.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">يُذكر أن جورج فلويد مواطن أميركي قُتل على يد الشرطة بوحشية في تاريخ 25 مايو/أيار من هذا العام.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_8sib323kr.jpg\" style=\"height:334px; width:526px\" /></span></p>\r\n\r\n<p dir=\"rtl\">اقرأ/ي أيضاً:</p>\r\n\r\n<p dir=\"rtl\"><a href=\"https://misbar.com/factcheck/2020/12/03/%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D8%A9-%D9%85%D8%B4%D8%A7%D9%87%D8%AF%D8%A9-25-%D9%81%D9%8A%D9%84%D9%85%D8%A7-%D9%84%D9%84%D9%85%D9%82%D9%8A%D9%85%D9%8A%D9%86-%D9%81%D9%8A-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D8%A7-%D9%81%D9%82%D8%B7\" target=\"_blank\">مسابقة مشاهدة 25 فيلماً للمقيمين في أميركا فقط</a></p>\r\n\r\n<p dir=\"rtl\"><a href=\"https://misbar.com/factcheck/2020/12/05/%D9%87%D8%B0%D9%87-%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D9%84%D9%8A%D8%B3%D8%AA-%D9%84%D8%A3%D8%B5%D8%BA%D8%B1-%D8%B4%D8%AE%D8%B5-%D8%A3%D8%B9%D8%AF%D9%85-%D9%81%D9%8A-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D8%A7\" target=\"_blank\">هذه الصور ليست لأصغر شخص أُعدم في أميركا</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تتناقل صفحات وحسابات على مواقع التواصل الاجتماعي، حديثاً، صورة تدّعي أنها للرئيس الأميركي المنتخب جو بايدن وهو يعتذر لابنة جورج فلويد.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_4szbm39dc.jpg\" style=\"height:465px; width:527px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_zxyt56msu.jpg\" style=\"height:529px; width:555px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 353,
+        "left": 0.45159912109375,
+        "path": "articles/1607171575GettyImages-1228428810.jpg",
+        "top": 2.400146484375,
+        "totalHeight": 423,
+        "totalWidth": 628,
+        "watermark_path": "articles/watermark-1607171575GettyImages-1228428810.jpg",
+        "width": 627
+    },
+    "post_date": "2020-12-05T14:26:00.000+03:00",
+    "published": [
+        {
+            "id": "5fcb8071b100c635851267c8",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2851506891785995&id=100007801356251",
+            "name": "الحسن محمود أسليمان",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        },
+        {
+            "id": "5fcb80718c5bb638550b6faa",
+            "link": "https://www.facebook.com/photo?fbid=413920869994024&set=a.115688629817251",
+            "name": "Ahmed Kleib",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        },
+        {
+            "id": "5fcb8071bcb4c02ece624376",
+            "link": "https://www.facebook.com/aboubecry.sy.7/posts/2432033343759038",
+            "name": "Aboubecry Sy",
+            "origin": "facebook",
+            "path": "sources/770085f06aadef856dfae7f25fca090afbd79e11.jpg"
+        },
+        {
+            "id": "5fcb807230e28917ae0074e6",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=150793723449656&id=100055570882537",
+            "name": "Cliff Sonnittoh",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        },
+        {
+            "id": "5fcb80729a98a630d4483d46",
+            "link": "https://www.facebook.com/zia.usman.90/posts/1491091971080271",
+            "name": "Zia Usman",
+            "origin": "facebook",
+            "path": "sources/770085f06aadef856dfae7f25fca090afbd79e11.jpg"
+        },
+        {
+            "id": "5fcb807276408041a07c3d49",
+            "link": "https://www.facebook.com/prince.i.yaqub/posts/3803706173007557",
+            "name": "Ilias Yaqub Cna",
+            "origin": "facebook",
+            "path": "sources/770085f06aadef856dfae7f25fca090afbd79e11.jpg"
+        },
+        {
+            "id": "5fcb8072cf306710f97fe495",
+            "link": "https://www.facebook.com/muinga.chokwe/posts/10218328678070195",
+            "name": "Muinga Chokwe",
+            "origin": "facebook",
+            "path": "sources/770085f06aadef856dfae7f25fca090afbd79e11.jpg"
+        },
+        {
+            "id": "5fcb807278b46b5a4235f798",
+            "link": "https://twitter.com/oliverokoye/status/1330916095289675777",
+            "name": "Shaun",
+            "origin": "twitter",
+            "path": "sources/38fe34becd8b6a3d724798998ff5c05e7a2c5043.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fcb7df726471d36593ff3df",
+            "link": "https://www.gettyimages.in/detail/news-photo/democratic-presidential-candidate-joe-biden-speaks-c-j-news-photo/1228428810?adppopup=true",
+            "name": "www.gettyimages.in",
+            "origin": "",
+            "path": "sources/ad04b1800e4ad0324ab48a6714b7049c6bd62795.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "الصورة الأصلية تُظهر بايدن وهو يتحدث إلى فتاة تتسوق.",
+    "title": "ليست صورة لبايدن مع ابنة جورج فلويد",
+    "updated_at": "2020-12-05 15:51:40",
+    "url_path": "/factcheck/2020/12/05/ليست-صورة-لبايدن-مع-ابنة-جورج-فلويد",
+    "was_notification_pushed": "true"
+}

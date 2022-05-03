@@ -1,0 +1,90 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 952,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">رداً على العدوان الإسرائيلي الأخير على غزة، رئيس البرلمان الكويتي يطرد الوفد الإسرائيلي من قاعة البرلمان الدولي.</p>\r\n",
+    "country": "",
+    "created_at": "2019-12-01 16:02:49",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5de3b9f98d7bd91db447cd3b",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">مقطع الفيديو صحيح، لكنّه لم يُلتقط في شهر نوفمبر/ تشرين الثاني الفائت. إنّما يعود إلى شهر أكتوبر/ تشرين الأول عام 2017، عندما شنّ رئيس مجلس الأمة الكويتي مرزوق الغانم هجوماً على رئيس الوفد الإسرائيلي في المؤتمر السنوي للاتحاد البرلماني الدولي، الذي انعقد في مدينة سانت بطرسبورغ الروسية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_e7521f3a71ea922c617668c6b5fbd518.jpg\" style=\"height:353px; width:525px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداول الآلاف من مستخدمي وسائل التواصل الاجتماعي مقطع فيديو راج كذلك على موقع يوتيوب، يظهر فيه رئيس البرلمان الكويتي وهو يطالب بطرد الوفد الإسرائيلي من قاعة البرلمان الدولي. ويأتي هذا الموقف رداً على العدوان الإسرائيلي على قطاع غزة في نوفمبر/ تشرين الثاني 2019. ومما قاله رئيس البرلمان الكويتي لوفد دولة الاحتلال &quot;اخرج من القاعة إن كان لديك ذرة من كرامة... يا محتل يا قتلة الأطفال&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_634795415fd07845d88abb4a784afb93.jpg\" style=\"height:497px; width:498px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_1857e440dd4115b57210efdf484fc91a.jpg\" style=\"height:459px; width:496px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_3f8b158f2634172bf68754037cd4e58c.jpg\" style=\"height:461px; width:498px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1579432582رئيس البرلمان الكويتي.jpg"
+    },
+    "post_date": "2019-11-22T15:56:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/rayaljadid/videos/2598219386927954/",
+            "name": "الرأي الجديد",
+            "path": "published/0_1575205369_الرأي الجديد-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/MuSliM556/videos/505099213423845/?v=505099213423845",
+            "name": "أنت مسلم",
+            "path": "published/1_1575205369_أنت مسلم-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/803306010037312/videos/429075147968676/?v=429075147968676",
+            "name": "المرصد اليوم",
+            "path": "published/2_1575205369_المرصد اليوم- لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/DZ.Uniiversity/videos/423456765237878/?v=423456765237878",
+            "name": "DZ University",
+            "path": "published/3_1575205369_DZ University-logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100673328019633/videos/561223607755255/?v=561223607755255",
+            "name": "Health Technician",
+            "path": "published/4_1575205369_Health-logo.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "http://mubasher.aljazeera.net/news/%D8%B4%D8%A7%D9%87%D8%AF-%D8%B1%D8%A6%D9%8A%D8%B3-%D9%85%D8%AC%D9%84%D8%B3-%D8%A7%D9%84%D8%A3%D9%85%D8%A9-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA%D9%8A-%D9%8A%D8%B7%D8%B1%D8%AF-%D8%A7%D9%84%D9%88%D9%81%D8%AF-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D9%85%D9%86-%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A?fbclid=IwAR2E_iILgQ9iURbVTGr-PTCZbJH2t6J5qJVHpvEaw2QeqWvxIKeg4EcPKuM",
+            "name": "قناة الجزيرة مباشر",
+            "path": "sources/0_1575205369_-لوغو الجزيرة مباشر.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=uCvc4YvbyCg",
+            "name": "Alquds newspaper",
+            "path": "sources/1_1575205369_القدس-لوغو.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل طرد الغانم الوفد الإسرائيلي من قاعة البرلمان الدولي نوفمبر الماضي؟",
+    "updated_at": "2020-09-25 08:17:57",
+    "url_path": "/factcheck/2019/12/01/هل-طرد-الغانم-الوفد-الإسرائيلي-من-قاعة-البرلمان-الدولي-نوفمبر-الماضي"
+}

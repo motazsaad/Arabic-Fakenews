@@ -1,0 +1,83 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 3
+    },
+    "amount_sources": 0,
+    "amount_visits": 4962,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "caption": "تحقق \"مسبار\" من الخبر المنتشر، ووجد أنه ينطوي على تضليل وإثارة (Getty)",
+    "category": "News",
+    "claim": "<p><span style=\"background-color:white\"><span dir=\"RTL\" lang=\"AR-SA\"><span style=\"color:#1c1e21\">المملكة المتحدة تغير تصنيف گوڤيد من الأوبئة الخطيرة المعدية إلى الأمراض السارية العادية... انتهت اللعبة</span></span></span></p>\r\n",
+    "country": "GB",
+    "created_at": "2020-06-21 13:03:45",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eef3081163be35b99118054",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الخبر المنتشر، ووجد أنه ينطوي على تضليل وإثارة. ولتوضيح التضليل الجاري في الخبر، فهو موجود في العنوان، تاريخ النشر، وفي مضمون الخبر.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">في العنوان، كُتب &quot;هل انتهت اللعبة؟&quot; وكأنَّ تغيير تصنيف المرض يعني وجود لعبة أو مؤامرة ما، دون ذكر معنى تغيير التصنيف الذي أوضحته المملكة المتحدة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">أمّا التاريخ، فإنَّ الخبر يجري انتشاره في الأسبوع الثالث من يونيو<span dir=\"LTR\">/</span>حزيران الجاري، على الرغم من أنَّه يرتبط بقرار أصدرته بريطانيا في 19 مارس<span dir=\"LTR\">/</span>آذار الفائت، أي قبل أكثر من ثلاثة أشهر، وكان المرض في حينها في شهوره الأولى.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_91pf8qzao.jpg\" style=\"height:441px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وبالنسبة لمضمون الخبر، فإنه لم يتم ذكر الأسباب التي دعت المملكة المتحدة إلى تغيير تصنيف المرض، والذي أوضحته حكومة البلاد عبر <a href=\"https://www.gov.uk/guidance/high-consequence-infectious-diseases-hcid\" style=\"color:blue; text-decoration:underline\">موقعها الحكومي</a>. حيث ذكرت الحكومة أنَّ الأوبئة الخطيرة نادرة، وهذا قد يعني قلة الموارد العاملة في حقل الأوبئة الخطيرة. عدا أنَّ التغيير جاء بسبب المزيد من المعلومات وزيادة الوعي لدى الطواقم الطبية حول المرض، عوضاً عن أن اختبار الإصابة بكوفيد-19 تم اكتشافه بسرعة بعد أن بدأ المرض في الانتشار ببضعة أشهر، مما يعني أنه يمكن اكتشافه بسرعة. وعلى الرغم من تغيير التصنيف في 19 مارس 2020، قالت حكومة المملكة المتحدة إن الحاجة إلى استجابة وطنية ومنسقة للمرض لا تزال قائمة.</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت بعض المواقع الإلكترونية، وحساب الإعلامي المصري أحمد موسى على فيسبوك، خبراً قالوا فيه إن المملكة المتحدة غيرت تصنيف كوفيد-19 من قائمة الأمراض المعدية والخطيرة، وجعلته ضمن الأمراض السارية العادية، مع إضافة جملة &quot;انتهت اللعبة&quot; في إشارة إلى أنَّ كورونا ليس مرضاً خطيراً أو أنه مؤامرة ولعبة ما.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_pm36r545c.jpg\" style=\"height:373px; width:628px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_a3dhya13g.jpg\" style=\"height:518px; width:692px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_jc123ltnz.jpg\" style=\"height:348px; width:708px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 338,
+        "left": 13.323898315429688,
+        "path": "articles/1592733825GettyImages-1221571208.jpg",
+        "top": 59.91845703125,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1592733825GettyImages-1221571208.jpg",
+        "width": 601
+    },
+    "post_date": "2020-06-21T12:49:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/AhmedMoussaEG/posts/1629957077162100?__xts__[0]=68.ARCK7pSYZ7FWhxfZARbMvooVg_OMZw9Ls2WPQajPYmHYrxqS1YjPYV_q_lzVmMHbYpHgYAljEckiUsroPTBMb51Urk2LOdMptTXmYHIoyzWBiPhzk_g3CYDh3aZ3kpByIthgvRX4Eqtu2zc7QUV6gKC-apmtugqO6Hdi28UFHolfqavsikFLU8gyRTm52lbElP9gcZsfIK24bFe5UZANDjkdac652lBUZ5EuoCq2lOmicQbtGEd0gHunGoNsAq5ol3speeDPdl3dUXF6f5TccrlFu3ZDVCxzzbvXDRyHg13ck3yIvZ2CeWdviCv-XUYGf9oxujwjvDw7k_dbrsRAOhAC-Q&__tn__=-R",
+            "name": "احمد موسى - على مسئوليتي",
+            "path": "published/0_1592733824_احمد-موسى.jpg"
+        },
+        {
+            "link": "http://www.alghadeer.tv/news/detail/110995/",
+            "name": "قناة الغدير الفضائية",
+            "path": "published/1_1592733824_قناة-الغدير.JPG"
+        },
+        {
+            "link": "https://elqalamcenter.com/2020/06/16/%D8%B9%D8%A7%D8%AC%D9%84-%D8%A7%D9%84%D9%85%D9%85%D9%84%D9%83%D8%A9-%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9-%D8%AA%D8%BA%D9%8A%D8%B1-%D8%AA%D8%B5%D9%86%D9%8A%D9%81-%DA%AF%D9%88%DA%A4%D9%8A%D8%AF/",
+            "name": "مركز القلم للأبحاث والدراسات",
+            "path": "published/2_1592733825_مركز-القلم.JPG"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.gov.uk/guidance/high-consequence-infectious-diseases-hcid",
+            "name": "Gov.uk",
+            "path": "sources/0_1592733825_gov.uk logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "بريطانيا غيرت تصنيف كوفيد-19 من الأوبئة الخطيرة إلى الأمراض السارية.. مضلل",
+    "updated_at": "2020-09-25 20:56:22",
+    "url_path": "/factcheck/2020/06/21/بريطانيا-غيرت-تصنيف-كوفيد-19-من-الأوبئة-الخطيرة-للأمراض-السارية-مضلل"
+}

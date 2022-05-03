@@ -1,0 +1,144 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 231,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "مسيرة مناهضة لقمع الإيغور (يوتيوب)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">مقطع فيديو لاحتجاجات أمام منزل الرئيس الفرنسي إبمانويل ماكرون بعد تصريحاته المسيئة للإسلام.</p>\r\n",
+    "country": "DE",
+    "created_at": "2020-10-27 18:36:14",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 5,
+    "id": "5f983e6e9358cb23ea3bd295",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من مقطع الفيديو وتبين أنه مضلل وقديم،&nbsp;ويعود لمسيرة نظمتها جمعية &quot;جيل الإسلام&quot; في هامبورغ، يوم 11 يناير/كانون الثاني الفائت، ضد ما أسموه بالاضطهاد العرقي للإيغور في الصين.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">ووفق الشرطة الألمانية كانت المسيرة سلمية، وشارك فيها حوالي 2000 متظاهر.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/Ubql9LJ1Q3A\" width=\"560\"></iframe><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/FPHppowc1rs\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات وحسابات على مواقع التواصل الاجتماعي، حديثاً، مقطع فيديو ادعت أنه لاحتجاجات مسلمين أمام منزل الرئيس الفرنسي إيمانويل ماكرون، بعد تصريحاته المسيئة للنبي محمد.</p>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"rtl\">من امام منزل ماكرون عدو الله <a href=\"https://t.co/OA3kVDy7kh\">pic.twitter.com/OA3kVDy7kh</a></p>\r\n&mdash; ❁ ḐԻ. ℋḁẙḁ ❁ (@Hayataly11) <a href=\"https://twitter.com/Hayataly11/status/1320716698899632129?ref_src=twsrc%5Etfw\">October 26, 2020</a></blockquote>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F744217272284639%2Fvideos%2F798653594266850%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/OIvkdiSlGH0\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 335,
+        "left": 9.10528564453125,
+        "path": "articles/160381297488 (1).jpg",
+        "top": 42.746826171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-160381297488 (1).jpg",
+        "width": 596
+    },
+    "post_date": "2020-10-27T16:18:00.000+03:00",
+    "published": [
+        {
+            "id": "5f983e6d7051167f98263787",
+            "link": "https://www.facebook.com/744217272284639/videos/798653594266850",
+            "name": "Happy Segangan",
+            "origin": "facebook",
+            "path": "sources/10d636bf93a98ed03887bb2e8202053dbdca0d4e.jpg"
+        },
+        {
+            "id": "5f983e6dbc072931c175f182",
+            "link": "https://www.facebook.com/www.zahirzyan/videos/657491378489187",
+            "name": "كازا لي الحاكمة العالم",
+            "origin": "facebook",
+            "path": "sources/a88075672c34c40be2e823e10541c0e7650c3564.jpg"
+        },
+        {
+            "id": "5f983e6d2b4660545b094538",
+            "link": "https://twitter.com/Hayataly11/status/1320716698899632129",
+            "name": "❁ ḐԻ. ℋḁẙḁ ❁",
+            "origin": "twitter",
+            "path": "sources/d317410aa3f0dc818a05d05fa997d12daecea0be.jpg"
+        },
+        {
+            "id": "5f983e6d45e4fe595c074468",
+            "link": "https://twitter.com/Salah77017781/status/1320826431333715977",
+            "name": "salah",
+            "origin": "twitter",
+            "path": "sources/14b8d23c08975fab3c55fb5eb696af3114c04476.jpg"
+        },
+        {
+            "id": "5f983e6da4c27255153716e8",
+            "link": "https://twitter.com/t2RLtoEfRlAjFDQ/status/1320828852013309953",
+            "name": "مصرى حر",
+            "origin": "twitter",
+            "path": "sources/5f358e5e7c9a7cd7ffc9237ae56081291a55e141.jpg"
+        },
+        {
+            "id": "5f983e6e1818d0127a01c3e7",
+            "link": "https://twitter.com/ya_sr_e_sam/status/1321098657941360641",
+            "name": "🔜👉🏻jan2️⃣5️⃣",
+            "origin": "twitter",
+            "path": "sources/17d0079d32c03764dab89ed817905f3184dafa03.jpg"
+        },
+        {
+            "id": "5f983e6e65705f66326451d5",
+            "link": "https://twitter.com/zHHpugEpTRIk2Di/status/1320726837031542785",
+            "name": "عبد الناصر",
+            "origin": "twitter",
+            "path": "sources/d7a5046e96c65618c86512db739ecdb40988ecd1.jpg"
+        },
+        {
+            "id": "5f8eb18ba3818a4eb81ad3d2",
+            "link": "https://www.youtube.com/watch?v=OIvkdiSlGH0",
+            "name": "قناة يوتيوب",
+            "origin": "",
+            "path": "published/7_1603128187_72cba5bc67b31d9d753cf43c35e93c59a1b0f98d.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f8eb18ba3818a4eb81ad3d2",
+            "link": "https://www.youtube.com/watch?v=Ubql9LJ1Q3A",
+            "name": "قناة يوتيوب",
+            "origin": "",
+            "path": "published/7_1603128187_72cba5bc67b31d9d753cf43c35e93c59a1b0f98d.jpg"
+        },
+        {
+            "id": "5f8eb18ba3818a4eb81ad3d2",
+            "link": "https://www.youtube.com/watch?v=FPHppowc1rs",
+            "name": "قناة يوتيوب",
+            "origin": "",
+            "path": "published/7_1603128187_72cba5bc67b31d9d753cf43c35e93c59a1b0f98d.jpg"
+        },
+        {
+            "id": "5f983e6ef05a6346d02942c5",
+            "link": "https://www.ndr.de/nachrichten/hamburg/Demo-gegen-Unterdrueckung-der-Uiguren,demo2730.html?fbclid=IwAR0S4kQXpGVnNHZZbuazArh1MIxPrun2g4KT8u2Vv-y4pWNYLXopH5DA0zM",
+            "name": "www.ndr.de",
+            "origin": "",
+            "path": "sources/e25b09a475e259dcf5e807b8b7cdeafdd1c1e3c8.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الفيديو لاحتجاجات في هامبورغ وليس لهجوم على منزل ماكرون",
+    "updated_at": "2020-10-27 18:40:24",
+    "url_path": "/factcheck/2020/10/27/الفيديو-لاحتجاجات-في-هامبورغ-وليس-لهجوم-على-منزل-ماكرون",
+    "was_notification_pushed": "true"
+}

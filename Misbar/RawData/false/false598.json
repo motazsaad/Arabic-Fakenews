@@ -1,0 +1,88 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 70590,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "توفيت ماري عام 2000 قبل أن يدخل ابنها معركة السياسة بجدية (Twitter)",
+    "category": "News",
+    "claim": "<p style=\"text-align:justify\">ماري ترامب، والدة الرئيس الأميركي دونالد&nbsp;ترامب تصفه بالأحمق، وبالكارثة في حال دخل معترك السياسة.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-06-16 21:23:51",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ee90e37d6e4a968552c32f5",
+    "investigation": "<p style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من المقولة، ولم يجد لها أي أثر في الصحافة العالميّة؛ ويبدو أنَّه&nbsp;تم فبركتها، كما أكدت الوكالة العالمية للأنباء رويترز، كون&nbsp;والدته التي حملت اسم ماري آن ماكليود قبل الزواج&nbsp;لم تقل هذا الاقتباس المنتشر بكثرة، كما أنَّ ماري التي هاجرت من اسكتلندا إلى أميركا عام 1930 كانت قليلة الكلام.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وأضافت &quot;رويترز&quot; أنَّ العبارة الوحيدة الأقرب التي وجدتها ونُسبت إلى ماري في عدد Vanity Fair للعام1990 حين قالت في الثمانينات لزوجته الأولى ايفانا &quot;ما نوع الابن الذي أنجبته؟&quot;. وتوفيت ماري عام 2000 قبل أنّ يدخل ابنها معركة السياسة بجدية، وكان وقتها رجل أعمال وشخصية معروفة إعلامياً.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_rt5uo5avh.jpg\" style=\"height:502px; width:605px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت حسابات على موقعيّ فيسبوك وتويتر، خلال شهر يونيو/حزيران الجاري، مقولةً نُسبت إلى ماري آن ترامب قالت فيها عن ابنها الرئيس الحالي لأميركا دونالد ترامب&nbsp;&quot;نعم، إنَّه أحمق، بلا أي حس للمنطق أو مهارات إجتماعية، لكنه ابني، أنا فقط أتمنى ألا يدخل إلى السياسة، فسيكون كارثة&quot;.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_fxn08pa2s.jpg\" style=\"height:370px; width:585px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_g14ljxtth.jpg\" style=\"height:423px; width:569px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_g9f1erbwn.jpg\" style=\"height:466px; width:594px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_d48lk2kil.jpg\" style=\"height:701px; width:497px\" /></p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 411,
+        "left": 20.949951171875,
+        "path": "articles/1592331830TRUMB.jpg",
+        "top": 8.62353515625,
+        "totalHeight": 423,
+        "totalWidth": 761,
+        "watermark_path": "articles/watermark-1592331830TRUMB.jpg",
+        "width": 730
+    },
+    "post_date": "2020-06-16T17:58:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/Sabrina_298/status/1272626381923516416",
+            "name": " Sabrin",
+            "path": "published/0_1592331829_0SXshQDA_400x400.jpg"
+        },
+        {
+            "link": "https://twitter.com/BinCoronavirus/status/1272179277614788611",
+            "name": "Bin Ghaleb",
+            "path": "published/1_1592331829_J8kP7qy2_400x400.jpg"
+        },
+        {
+            "link": "https://twitter.com/hihussain54/status/1272551724729929729",
+            "name": "Hassan",
+            "path": "published/2_1592331829_YXkDDpFS_400x400.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=10157715502738235&set=a.10151400878603235&type=3&theater",
+            "name": "Yousef Banat",
+            "path": "published/3_1592331829_67921076_10156795686348235_9142139555153969152_n.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.reuters.com/article/uk-factcheck-trump-mother-quote/false-claim-donald-trumps-mother-said-he-would-be-a-disaster-in-politics-idUSKBN21Z2AF",
+            "name": "Reuters",
+            "path": "sources/0_1592331829_ب5.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ماري ترامب تصف ابنها بالأحمق.. مقولة مفبركة",
+    "updated_at": "2020-09-25 19:25:20",
+    "url_path": "/factcheck/2020/06/16/ماري-ترامب-تصف-ابنها-بالأحمق-مقولة-مفبركة"
+}

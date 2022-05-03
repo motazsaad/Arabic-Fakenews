@@ -1,0 +1,134 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 130,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "القصة انتشرت في أكتوبر عام 2017 (تويتر)",
+    "category": "News",
+    "claim": "<p><span dir=\"RTL\" lang=\"AR-SA\">حادثة تعذيب طفل داخل دار لرعاية الأيتام في مدينة 6 أكتوبر.</span></p>\r\n",
+    "country": "EG",
+    "created_at": "2020-12-24 13:23:55",
+    "created_by": "5f39b5a51dd585076701cb94",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 2,
+    "id": "5fe46c3b4400e1745814c026",
+    "investigation": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;<a href=\"https://misbar.com/factcheck/2020/12/14/%D9%85%D8%AC%D9%84%D8%A9-%D8%AA%D8%A7%D9%8A%D9%85-%D9%84%D9%85-%D8%AA%D8%B9%D9%84%D9%86-%D8%A3%D8%B1%D8%AF%D9%88%D8%BA%D8%A7%D9%86-%D8%A5%D8%B1%D9%87%D8%A7%D8%A8%D9%8A-%D8%A7%D9%84%D8%B9%D8%A7%D9%85-2020\" style=\"color:#0563c1; text-decoration:underline\" target=\"_blank\">مسبار</a>&quot; من الصورة وتبين أن الادعاء مضلل والواقعة قديمة. إذ تم تداول <a href=\"https://www.elbalad.news/2981524\" style=\"color:#0563c1; text-decoration:underline\" target=\"_blank\">القصة نفسها</a> والصورة في أكتوبر/تشرين الأول عام 2017، وأحدثت ضجة على مواقع التواصل الاجتماعي في مصر حينها. وحسب الروايات التي انتشرت، فإن الصورة تُظهر مشرف دار أيتام يجلس ويضحك وبجواره طفل صغير مُعلق على الحائط داخل الدار في مشهد صادم. وأن الطفل الذي تم تعذيبه يعيش في دار أيتام في مدينة 6 أكتوبر. </span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_7t6xu7dpe.jpg\" style=\"height:425px; width:624px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_9eqhfufzg.jpg\" style=\"height:431px; width:624px\" /></p>\r\n\r\n<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">اقرأ/ي أيضا:</span></p>\r\n\r\n<p style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/12/23/%D8%B5%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D9%83%D8%B9%D8%A8%D8%A9-%D8%AA%D8%B9%D9%88%D8%AF-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%81%D9%86%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%D9%8A-%D8%A5%D8%B3%D9%85%D8%A7%D8%B9%D9%8A%D9%84-%D9%88%D9%84%D9%8A%D8%B3-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A-%D8%AC%D9%86%D9%8A%D8%AF%D9%8A\" style=\"color:#0563c1; text-decoration:underline\" target=\"_blank\">الصورة لفنان مغربي رسم الكعبة وليست لفنان مصري</a></p>\r\n\r\n<p><a href=\"https://misbar.com/factcheck/2020/12/23/%D9%84%D9%85-%D8%AA%D8%B9%D9%84%D9%86-%D8%B4%D8%B1%D9%83%D8%A9-%D8%AA%D9%88%D8%AA%D8%A7%D9%84-%D8%A7%D9%84%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9-%D8%B9%D9%86-%D8%A7%D9%83%D8%AA%D8%B4%D8%A7%D9%81-%D8%AD%D9%82%D9%88%D9%84-%D8%BA%D8%A7%D8%B2-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1\" style=\"color:#0563c1; text-decoration:underline\" target=\"_blank\">لم تعلن شركة توتال الفرنسية عن اكتشاف حقول غاز جديدة في مصر</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [
+        "تعذيب طفل داخل دار أيتام",
+        "دار أيتام",
+        "مدينة 6 أكتوبر"
+    ],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات وصفحات على مواقع التواصل الاجتماعي، حديثاً، صورة ادعت أنها من حادثة تعذيب طفل داخل دار لرعاية الأيتام في مدينة 6 أكتوبر المصرية، حدثت خلال الأيام الأخيرة. ونشر البعض الصورة مع منشور يناشد النائب العام بالتحقيق&nbsp;في الواقعة.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_03xjrw6nh.jpg\" style=\"height:766px; width:578px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_w8uuf4yzt.jpg\" style=\"height:392px; width:580px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 422,
+        "left": 0.7901611328125,
+        "path": "articles/1608805435Capture.jpg",
+        "top": 0.888916015625,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1608805435Capture.jpg",
+        "width": 750
+    },
+    "post_date": "2020-12-24T13:21:00.000+03:00",
+    "published": [
+        {
+            "id": "5fe46c3bd6c30e7ac5237047",
+            "link": "https://twitter.com/Amalatyia1/status/1341058836279549953",
+            "name": "Amalattia",
+            "origin": "twitter",
+            "path": "sources/be6560444eaf53f887a2c31b389ffd3dbaaef9ae.jpg"
+        },
+        {
+            "id": "5fe46e2194f1c6491b1caa9b",
+            "link": "https://timemasrya.com/2020/12/16/%D8%A7%D9%86%D8%B9%D8%AF%D8%A7%D9%85-%D8%A7%D9%84%D8%B6%D9%85%D9%8A%D8%B1%D9%85%D9%88%D8%B8%D9%81-%D8%A8%D8%AF%D8%A7%D8%B1-%D8%A7%D9%84%D8%A3%D9%8A%D8%AA%D8%A7%D9%85-%D9%8A%D8%B9%D8%B0%D8%A8-%D8%B7/",
+            "name": "جريدة التايم المصرية",
+            "origin": "",
+            "path": "sources/8f626dc6d3c9cb163744b7dfae58f655fa7c395a.jpg"
+        },
+        {
+            "id": "5fe46e22c026c756ed48a45d",
+            "link": "https://www.facebook.com/groups/545074466164725/permalink/673963829942454/?__cft__[0]=AZUkYmyCFUjXWh_QdwTe6spdS5xw90tQk7WuJt19EnCWNng1hxQzASbhmrGwjT9XXPjy89BPX-Bs4O3kMJgBmCF26rHG64dI5IZ2Tjw-WJZ_7V47uIHOhxvwlXKDrCWVNc2gTDg-cbrWtZ827VmSnY6H&__tn__=%2CO%2CP-R",
+            "name": "Saad Magdy",
+            "origin": "facebook",
+            "path": "sources/9fb41797f3ab0b7b87f8775614ed7b0bdd915b9b.jpg"
+        },
+        {
+            "id": "5fe46e224e69b5004622057e",
+            "link": "https://www.facebook.com/nmjnm0/posts/3489530331144712?__cft__[0]=AZUkYmyCFUjXWh_QdwTe6spdS5xw90tQk7WuJt19EnCWNng1hxQzASbhmrGwjT9XXPjy89BPX-Bs4O3kMJgBmCF26rHG64dI5IZ2Tjw-WJZ_7V47uIHOhxvwlXKDrCWVNc2gTDg-cbrWtZ827VmSnY6H&__tn__=%2CO%2CP-R]-R",
+            "name": "Ahmed Eltohamey",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        },
+        {
+            "id": "5fe46e2268d2da735029a1cb",
+            "link": "https://www.facebook.com/saed.jesus/posts/468817604295973?__cft__[0]=AZUkYmyCFUjXWh_QdwTe6spdS5xw90tQk7WuJt19EnCWNng1hxQzASbhmrGwjT9XXPjy89BPX-Bs4O3kMJgBmCF26rHG64dI5IZ2Tjw-WJZ_7V47uIHOhxvwlXKDrCWVNc2gTDg-cbrWtZ827VmSnY6H&__tn__=%2CO%2CP-R]-R",
+            "name": "Saed Naseef",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        },
+        {
+            "id": "5fe46e2290274d71a02b80d5",
+            "link": "https://www.facebook.com/mohamed.elawa.77/posts/3367449710030903?__cft__[0]=AZUkYmyCFUjXWh_QdwTe6spdS5xw90tQk7WuJt19EnCWNng1hxQzASbhmrGwjT9XXPjy89BPX-Bs4O3kMJgBmCF26rHG64dI5IZ2Tjw-WJZ_7V47uIHOhxvwlXKDrCWVNc2gTDg-cbrWtZ827VmSnY6H&__tn__=%2CO%2CP-R]-R",
+            "name": "Mohamed Elawa",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f91b979a28d94581a2e3464",
+            "link": "https://www.elbalad.news/2981524",
+            "name": "صدى البلد",
+            "origin": "",
+            "path": "published/2_1575204472_صدى البلد- لوغو.jpg"
+        },
+        {
+            "id": "5fe46c3b5d04c90553697b9b",
+            "link": "https://elbashayer.com/1769137/896193",
+            "name": "جريدة البشاير",
+            "origin": "",
+            "path": "sources/03c805b00dad0870ffe72d5d2da9be3c87156c22.jpg"
+        },
+        {
+            "id": "5fe46c3b945705165e3cc454",
+            "link": "https://egykwt.com/%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D8%BA%D8%B6%D8%A8-%D8%B9%D9%84%D9%89-%D9%81%D9%8A%D8%B3-%D8%A8%D9%88%D9%83-%D8%A8%D8%B3%D8%A8%D8%A8-%D8%AA%D8%B9%D8%B0%D9%8A%D8%A8-%D8%B7%D9%81/",
+            "name": "بوابة المصريين في الكويت",
+            "origin": "",
+            "path": "sources/85caa474d4a2f54eb71cd53f29232bb066fb5447.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "واقعة تعذيب طفل داخل دار أيتام في مصر قديمة",
+    "updated_at": "2020-12-24 13:37:02",
+    "url_path": "/factcheck/2020/12/24/واقعة-تعذيب-طفل-داخل-دار-أيتام-في-مصر-قديمة",
+    "was_notification_pushed": "true"
+}

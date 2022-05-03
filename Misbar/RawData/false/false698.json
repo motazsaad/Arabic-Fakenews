@@ -1,0 +1,100 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1733,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "المقطع مفبرك، ومركّب من ثلاثة مقاطع (يوتيوب)",
+    "category": "Entertainment",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">إماراتيون يحتفلون بعيد ميلاد والدهم عن طريق ربطه ببالونات كبيرة، مما أدى إلى طيرانه في السماء مبتهجاً. لكنهم استدركوا بعد دقائق عدم قدرتهم على إنزاله، إذ ﻻ توجد لديهم أية وسيلة لذلك. بعدها اختفى الوالد ووجدوه ميتاً على جبال عُمان.</span></p>\r\n",
+    "country": "AE",
+    "created_at": "2020-05-23 17:13:02",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ec92f6edb29160a390d2194",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من مقطع الفيديو المتداول ووجد أنه مفبرك، ويتكوّن من ثلاثة مقاطع فيديو رُكّبت معاً. المقطع الأول (حتى الدقيقة 0:23) عبارة عن </span><a href=\"https://youtu.be/xjuFNaTgZrU\" style=\"text-decoration:none\"><span style=\"color:#1155cc\"><u>إعلان</u></span></a><span style=\"color:#000000\"> لافتتاح خليج جديد في إمارة دبي من قِبل شركة إعمار. أما المقطع الثاني (0:23 - 0:45) فلم يستطع &quot;مسبار&quot; التوصّل إلى حقيقته، لكنه يُظهر طائرة أو جسماً يحلّق في سماء إحدى الدول. أما المقطع الثالث (0:45 لغاية نهاية المقطع المتداول) عبارة عن </span><a href=\"https://twitter.com/emaratalyoum/status/1043221846634754048\" style=\"text-decoration:none\"><span style=\"color:#1155cc\"><u>عملية إنقاذ</u></span></a><span style=\"color:#000000\"> لفتاة سقطت في وادي غليلة في إمارة رأس الخيمة أثناء نقلها إلى المستشفى.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/xjuFNaTgZrU\" width=\"560\"></iframe></span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"748\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FEmaratAlYoum%2Fvideos%2F289680081863527%2F&amp;show_text=1&amp;width=269\" style=\"border:none;overflow:hidden\" width=\"269\"></iframe></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "الإمارات",
+        "بالونات",
+        "خليج كريك"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل صفحات على مواقع التواصل الاجتماعي، منذ سنوات، مقطع فيديو ادّعت أنه لإماراتيّ احتفل أولاده بعيد ميلاده عن طريق ربطه ببالونات كبيرة، الأمر الذي أدى إلى طيرانه في السماء واختفائه. كما ادّعى ناشرو الخبر أنّ عمليات البحث أدّت إلى اكتشاف جثته فوق أحد جبال سلطنة عُمان.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"451\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fdmctv%2Fvideos%2F557087728075348%2F&amp;show_text=1&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/fgDxGQNY1tE\" width=\"560\"></iframe></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 417,
+        "left": 5.33331298828125,
+        "path": "articles/1590243182غلاف.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1590243182غلاف.jpg",
+        "width": 741
+    },
+    "post_date": "2020-05-23T16:57:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/dmctv/videos/557087728075348/",
+            "name": "DMC TV",
+            "path": "published/0_1590243181_dmc.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/1042816125927018/videos/2343853819245948/",
+            "name": "علي الشمري",
+            "path": "published/1_1590243181_علي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/321233088287687/videos/196432628275213/",
+            "name": "طرطوس كلاسيك",
+            "path": "published/2_1590243181_طرطوس.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/touha.b.touha/posts/2868061659941042",
+            "name": "أم بدر",
+            "path": "published/3_1590243181_أم بدر.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/halahamed2018/videos/652672002175967/",
+            "name": "هالة حامد",
+            "path": "published/4_1590243181_هالة.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=xjuFNaTgZrU&feature=youtu.be",
+            "name": "Misfits Content Creators",
+            "path": "sources/0_1590243182_Misfits Content Creators.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/EmaratAlYoum/videos/289680081863527/",
+            "name": "الإمارات اليوم",
+            "path": "sources/1_1590243182_الإمارات اليوم.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "إماراتيّون يربطون والدهم بالبالونات احتفالاً بعيد ميلاده.. فيديو زائف",
+    "updated_at": "2020-09-25 17:23:49",
+    "url_path": "/factcheck/2020/05/23/إماراتيون-يربطون-والدهم-بالبالونات-احتفالا-بعيد-ميلاده-فيديو-زائف"
+}

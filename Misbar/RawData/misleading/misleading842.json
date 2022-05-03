@@ -1,0 +1,107 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 9139,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الفيديو لسيول حدثت في منطقة العريش في مصر عام 2019 (يوتيوب)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">فيديو يُظهر سيولاً حدثت بسبب انهيار أجزاء من جسم سدّ النهضة، والغرق يُهدّد أجزاء من أراضي السودان.</p>\r\n",
+    "country": "ET",
+    "created_at": "2020-07-29 11:19:38",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 0,
+    "id": "5f21311a163be306607828ee",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الفيديو مضلل، إذ عثر &quot;مسبار&quot; على الفيديو الأصلي منشوراً على موقع يوتيوب منذ أكتوبر/تشرين الأول 2019، ويُصوّر سيولاً حدثت في منطقة العريش المصريّة، ولا علاقة له بسدّ النهضة مطلقاً.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/7k1AmPbz2Us\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت حسابات وصفحات على موقع التواصل الاجتماعي فيسبوك، مقطع فيديو زعمت أنّه يُصوّر سيولاً حدثت بسبب انهيار أجزاء من سدّ النهضة في إثيوبيا. وأفاد التعليق المرافق للفيديو أنّ أجزاء من الأراضي السودانية مهدّدة بالغرق نتيجة ذاك الانهيار.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"425\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F100004180180521%2Fvideos%2F1637596713056319%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"308\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F1488216637903537%2Fvideos%2F2731333750435397%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"308\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F102803348047306%2Fvideos%2F336801294382427%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1596011313صورة المادة.jpg",
+        "watermark_path": "articles/watermark-1596011313صورة المادة.jpg"
+    },
+    "post_date": "2020-07-29T11:05:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/100004180180521/videos/1637596713056319/",
+            "name": "ربيع حسن إعلامي",
+            "path": "published/0_1596010777_ربيع حسن إعلامي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100012086406132/videos/961862027560002/",
+            "name": "Badr Ahmed Taha",
+            "path": "published/1_1596011312_Badr Ahmed Taha.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/1488216637903537/videos/2731333750435397/?v=2731333750435397&external_log_id=ed0b3450a97fcefd3e8546393dba8ea1&q=%D8%B3%D9%84%D9%85%D9%84%D9%8A%20%D8%B9%D9%84%D9%89%20%D9%85%D8%B4%D8%B1%D9%88%D8%B9%20%D8%A7%D9%84%D9%86%D9%87%D8%B6%D8%A9%20%D8%A5%D9%86%D9%87%D9%8A%D8%A7%D8%B1%20%D8%A7%D8%AC%D8%B2%D8%A7%D8%A1%20%D9%85%D9%86%20%D8%AC%D8%B3%D9%85%20%D8%B3%D8%AF%20%D8%A7%D9%84%D9%86%D9%87%D8%B6%D8%A9%20%D9%88%D8%BA%D8%B1%D9%82%20%D8%BA%D8%B1%D9%81%20%D8%A7%D9%84%D8%AA%D9%88%D8%B1%D8%A8%D9%8A%D9%86%D8%A7%D8%AA",
+            "name": "ضحكة مصر",
+            "path": "published/2_1596011312_ضحكة مصر.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ibrahimgaber.aly/videos/764797207661429/",
+            "name": "Ibrahim Gaebr Albtawy",
+            "path": "published/3_1596011313_Ibrahim Gaebr Albtawy.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/kemohofni/videos/3089499091139609/?v=3089499091139609&external_log_id=d770f6b86aada9afcba77286d275d71d&q=%D8%A3%D8%AB%D9%8A%D9%88%D8%A8%D9%8A%D8%A7%20%D8%AA%D9%81%D8%B4%D9%84%20%D9%81%D9%89%20%D8%A7%D9%84%D9%85%D8%B1%D8%AD%D9%84%D8%A9%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89%20%D9%84%D9%85%D9%84%D8%A1%20%D8%A7%D9%84%D8%B3%D8%AF%20%D9%88%D8%BA%D8%B1%D9%82%20%D8%BA%D8%B1%D9%81%20%D8%A7%D9%84%D8%AA%D9%88%D8%B1%D8%A8%D9%8A%D9%86%D8%A7%D8%AA",
+            "name": "الجيش المصري رجال",
+            "path": "published/4_1596011313_الجيش المصري رجال.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/102803348047306/videos/336801294382427/?v=336801294382427&external_log_id=d770f6b86aada9afcba77286d275d71d&q=%D8%A3%D8%AB%D9%8A%D9%88%D8%A8%D9%8A%D8%A7%20%D8%AA%D9%81%D8%B4%D9%84%20%D9%81%D9%89%20%D8%A7%D9%84%D9%85%D8%B1%D8%AD%D9%84%D8%A9%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89%20%D9%84%D9%85%D9%84%D8%A1%20%D8%A7%D9%84%D8%B3%D8%AF%20%D9%88%D8%BA%D8%B1%D9%82%20%D8%BA%D8%B1%D9%81%20%D8%A7%D9%84%D8%AA%D9%88%D8%B1%D8%A8%D9%8A%D9%86%D8%A7%D8%AA",
+            "name": "كلام صعيدي",
+            "path": "published/5_1596011313_كلام صعيدي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100053690152152/videos/113477867118551/",
+            "name": "عصام هندسة",
+            "path": "published/6_1596011313_عصام هندسة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/104321297972020/videos/3315366685189934/?v=3315366685189934&external_log_id=d770f6b86aada9afcba77286d275d71d&q=%D8%A3%D8%AB%D9%8A%D9%88%D8%A8%D9%8A%D8%A7%20%D8%AA%D9%81%D8%B4%D9%84%20%D9%81%D9%89%20%D8%A7%D9%84%D9%85%D8%B1%D8%AD%D9%84%D8%A9%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89%20%D9%84%D9%85%D9%84%D8%A1%20%D8%A7%D9%84%D8%B3%D8%AF%20%D9%88%D8%BA%D8%B1%D9%82%20%D8%BA%D8%B1%D9%81%20%D8%A7%D9%84%D8%AA%D9%88%D8%B1%D8%A8%D9%8A%D9%86%D8%A7%D8%AA",
+            "name": "الكابوس ",
+            "path": "published/7_1596011313_الكابوس.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/nasir.misr360/videos/1597265320432672/?v=1597265320432672&external_log_id=d770f6b86aada9afcba77286d275d71d&q=%D8%A3%D8%AB%D9%8A%D9%88%D8%A8%D9%8A%D8%A7%20%D8%AA%D9%81%D8%B4%D9%84%20%D9%81%D9%89%20%D8%A7%D9%84%D9%85%D8%B1%D8%AD%D9%84%D8%A9%20%D8%A7%D9%84%D8%A3%D9%88%D9%84%D9%89%20%D9%84%D9%85%D9%84%D8%A1%20%D8%A7%D9%84%D8%B3%D8%AF%20%D9%88%D8%BA%D8%B1%D9%82%20%D8%BA%D8%B1%D9%81%20%D8%A7%D9%84%D8%AA%D9%88%D8%B1%D8%A8%D9%8A%D9%86%D8%A7%D8%AA",
+            "name": "سوهاج",
+            "path": "published/8_1596011313_سوهاج.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=7k1AmPbz2Us&fbclid=IwAR2-NTNmGP-ATlfzWdNJp3pGuw3jc25112daaGCxuj5EFd_57FBXxYm1iFs",
+            "name": "المقطع الأصلي",
+            "path": "sources/0_1596010777_YouTube-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه السيول ليست نتيجة انهيار أجزاء من سد النهضة",
+    "updated_at": "2020-09-25 21:37:54",
+    "url_path": "/factcheck/2020/07/29/هذه-السيول-ليست-نتيجة-انهيار-أجزاء-من-سد-النهضة"
+}

@@ -1,0 +1,167 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 91,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "لم يقرر حلف الناتو تعليق عضوية تركيا (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\">حلف الناتو يقرّر تعليق عضوية تركيا بعد موافقة فرنسا وألمانيا.</p>\r\n",
+    "country": "TR",
+    "created_at": "2020-12-14 18:36:22",
+    "created_by": "5f39b1ee1dd5850789476b61",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 1,
+    "id": "5fd7867678b46b5a4236ec7a",
+    "investigation": "<p dir=\"RTL\">تحقق &quot;<a href=\"https://misbar.com/\" target=\"_blank\">مسبار</a>&quot; من الخبر المتداول وتبين أنه مضلل، إذ لم يقرر حلف الناتو تعليق عضوية تركيا، ولم يعقد أي قمة مؤخراً، بل القمة كانت لدول الاتحاد الأوروبي التي قرّرت فرض عقوبات محدودة على تركيا.</p>\r\n\r\n<p dir=\"RTL\">يُذكر أنه بحسب المتحدث باسم المجلس الأوروبي، فإن قادة الاتحاد قرروا خلال قمتهم في بروكسل التي عُقدت يومي 10 و11 ديسمبر/كانون الأول الجاري، فرض عقوبات محدودة على أفراد وشركات تركية مرتبطة بنزاعات التنقيب عن الطاقة مع اليونان وقبرص.</p>\r\n\r\n<p dir=\"RTL\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_vqfia5cfo.jpg\" /></p>\r\n\r\n<p dir=\"RTL\">اقرأ/ي أيضاً:</p>\r\n\r\n<p dir=\"RTL\"><a href=\"https://misbar.com/factcheck/2020/12/11/%D8%B5%D8%AD%D9%8A%D9%81%D8%A9-%D8%A8%D9%88%D9%84%D9%8A%D8%AA%D9%8A%D9%83%D9%88-%D8%B5%D9%86%D9%81%D8%AA-%D8%A3%D8%B1%D8%AF%D9%88%D8%BA%D8%A7%D9%86-%D8%B6%D9%85%D9%86-%D8%A3%D9%82%D9%88%D9%89-%D8%A7%D9%84%D8%B4%D8%AE%D8%B5%D9%8A%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D8%A7-%D9%88%D9%84%D9%8A%D8%B3-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85\" target=\"_blank\">صحيفة بوليتيكو صنفت أردوغان ضمن أقوى الشخصيات في أوروبا وليس في العالم</a></p>\r\n\r\n<p dir=\"RTL\"><a href=\"https://misbar.com/factcheck/2020/12/09/%D9%84%D8%A7%D8%B9%D8%A8%D9%88-%D8%A8%D8%A7%D8%B4%D8%A7%D9%83-%D8%B4%D9%87%D9%8A%D8%B1-%D9%84%D9%85-%D9%8A%D8%BA%D8%A7%D8%AF%D8%B1%D9%88%D8%A7-%D8%A7%D9%84%D9%85%D9%84%D8%B9%D8%A8-%D8%A8%D8%B3%D8%A8%D8%A8-%D8%B7%D8%B1%D8%AF-%D8%A3%D9%81%D8%B1%D8%A7%D8%AF-%D9%85%D9%86-%D8%A7%D9%84%D8%B7%D8%A7%D9%82%D9%85\" target=\"_blank\">لاعبو باشاك شهير لم يغادروا الملعب بسبب طرد أفراد من الطاقم</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "الناتو",
+        "تركيا",
+        "عضوية",
+        "عقوبات"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\">تتداول صفحات وحسابات على مواقع التواصل الاجتماعي، حديثاً، خبراً مفاده أن حلف الناتو قرّر تعليق عضوية تركيا بعد موافقة كل من فرنسا وألمانيا، وذلك ضمن حزمة جديدة من العقوبات الأوروبية على أنقرة.</p>\r\n\r\n<p dir=\"RTL\"><img src=\"https://images-prod.misbar.com/articlebody/origin_4fk33dsx7.jpg\" /></p>\r\n\r\n<p dir=\"RTL\"><img src=\"https://images-prod.misbar.com/articlebody/origin_4ul2emq67.jpg\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 355,
+        "left": 7.5545654296875,
+        "path": "articles/1607960181GettyImages-1230046357.jpg",
+        "top": 9.68701171875,
+        "totalHeight": 423,
+        "totalWidth": 644,
+        "watermark_path": "articles/watermark-1607960181GettyImages-1230046357.jpg",
+        "width": 632
+    },
+    "post_date": "2020-12-12T18:29:00.000+03:00",
+    "published": [
+        {
+            "id": "5fd7867437efc833551cf1dc",
+            "link": "https://facebook.com/story.php?story_fbid=218193016545909&id=110670383964840&_rdr",
+            "name": "قلم القائد الاحتياطية",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5fd7867440f2d70b95080c52",
+            "link": "https://www.facebook.com/LibyaAlaanChannel/photos/a.147313056643936/425701488805090/?type=3&source=48",
+            "name": "Libya Alaan TV",
+            "origin": "facebook",
+            "path": "sources/9606295ac9e17d2567c37f8f1161895563cce7aa.jpg"
+        },
+        {
+            "id": "5fd786759785104c58092259",
+            "link": "https://voixdedeuxrives.com/news/2020/12/11/%D8%B9%D8%A7%D8%AC%D9%84-%D8%AD%D9%84%D9%81-%D8%A7%D9%84%D9%86%D8%A7%D8%AA%D9%88-%D9%8A%D8%B9%D9%84%D9%91%D9%82-%D8%B9%D8%B6%D9%88%D9%8A%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%A8%D8%B9%D8%AF-%D9%85/",
+            "name": "صوت الضفتين",
+            "origin": "",
+            "path": "sources/40a89d642b32a4bad27a16d22c670618b3601ac7.jpg"
+        },
+        {
+            "id": "5fd78675ca8fc5743442a189",
+            "link": "https://facebook.com/story/graphql_permalink/?graphql_id=UzpfSTEwNTg1MTQyMDk2MjQ3MToyNDE1OTI5ODA3MjE2NDc%3D",
+            "name": "حاتم الخضر",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5fd78675feb4df3f3b2d84f6",
+            "link": "https://www.facebook.com/100959948046080/photos/a.100968344711907/246675893474484/?type=3",
+            "name": "اللواء التاسع مشاة من قلب الحدث الإحتياطية",
+            "origin": "facebook",
+            "path": "sources/ced3c5a1977036af4603be4476dc2fa69d79e1e5.jpg"
+        },
+        {
+            "id": "5fd7867526471d3659415fb8",
+            "link": "https://facebook.com/story.php?story_fbid=220985859427723&id=107744137418563",
+            "name": "معا ضد العدو التركي",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5fd786750c408327896fa086",
+            "link": "https://www.facebook.com/photo.php?fbid=387821985802512&id=100037241403117&set=a.102864484298265",
+            "name": "مسعود علي جريوان",
+            "origin": "facebook",
+            "path": "sources/d41b5641225c2c719800eee56d3ea73d439ca1c7.jpg"
+        },
+        {
+            "id": "5fd7867555193b6e5a6499c4",
+            "link": "https://libyaalaan.net/2020/12/11/%D9%85%D8%B5%D8%A7%D8%AF%D8%B1-%D8%AD%D9%84%D9%81-%D8%A7%D9%84%D9%86%D8%A7%D8%AA%D9%88-%D9%8A%D8%B9%D9%84%D9%82-%D8%B9%D8%B6%D9%88%D9%8A%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%A8%D8%B9%D8%AF/?fbclid=IwAR3HVLRWRJFJ6-foqEKvtueZE6mCA86yWQkA_PRztU7opTDPM0oB-HqRpiE",
+            "name": "ليبيا الآن",
+            "origin": "",
+            "path": "sources/5c3b5e6ef86ca76e40db4a7d1e6872b6dc5125f4.jpg"
+        },
+        {
+            "id": "5fd78675034ad71b504161de",
+            "link": "https://www.facebook.com/photo.php?fbid=879311799568735&id=100024697689608&set=a.107849360048320&source=48",
+            "name": "المهدي عبدالباسط اشعوه",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5fd78675034ad71b504161de",
+            "link": "https://www.facebook.com/photo.php?fbid=879311799568735&id=100024697689608&set=a.107849360048320&source=48",
+            "name": "المهدي عبدالباسط اشعوه",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f904844fd789c23e31e07c0",
+            "link": "https://www.reuters.com/article/eu-summit-turkey-ar7-idARAKBN28L0GL",
+            "name": "Reuters",
+            "origin": "",
+            "path": "sources/420cba08f17e87becb02f13d046f7209666bba8e.jpg"
+        },
+        {
+            "id": "5f913aca80af35113500f289",
+            "link": "https://arabic.rt.com/world/1182083-%D9%81%D8%B1%D8%A7%D9%86%D8%B3-%D8%A8%D8%B1%D8%B3-%D9%82%D9%85%D8%A9-%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF-%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A-%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7/",
+            "name": "روسيا اليوم",
+            "origin": "",
+            "path": "sources/503885256032733240e36b9c7b4ab253a71ee546.jpg"
+        },
+        {
+            "id": "5f919c6afdbe851b4810060f",
+            "link": "https://www.dw.com/ar/%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D9%85%D8%A9-%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D9%81%D8%B1%D8%B6-%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA-%D8%B9%D9%84%D9%89-%D8%A3%D9%86%D9%82%D8%B1%D8%A9/a-55901616",
+            "name": "DW News",
+            "origin": "",
+            "path": "sources/1_1596906589_4T05Cmmh_400x400.jpg"
+        },
+        {
+            "id": "5f8eb18c79e4d847985d0c07",
+            "link": "https://www.aljazeera.net/news/politics/2020/12/11/%D8%A7%D9%84%D8%A3%D9%88%D8%B1%D9%88%D8%A8%D9%8A%D9%88%D9%86-%D8%AF%D8%AE%D9%84%D9%88%D8%A7-%D9%81%D9%8A-%D8%AD%D9%84%D9%82%D8%A9-%D9%85%D9%81%D8%B1%D8%BA%D8%A9-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
+            "name": "الجزيرة نت",
+            "origin": "",
+            "path": "sources/0_1603096521_Screenshot 2020-10-19 101519.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الاتحاد الأوروبي يفرض عقوبات على تركيا ولم يعلّق الناتو عضويتها",
+    "updated_at": "2020-12-14 18:37:42",
+    "url_path": "/factcheck/2020/12/14/الاتحاد-الأوروبي-يفرض-عقوبات-على-تركيا-ولم-يعلق-الناتو-عضويتها",
+    "was_notification_pushed": false
+}

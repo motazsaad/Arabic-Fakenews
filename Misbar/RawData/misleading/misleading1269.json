@@ -1,0 +1,129 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 4,
+        "tw": 1
+    },
+    "amount_sources": 0,
+    "amount_visits": 82976,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "وقعت الحادثة في فبراير لقوة الرياح في ذلك اليوم، ولا علاقة للادعاء بالأمر (مواقع التواصل الاجتماعي)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">كورونا غاز وعدوى.. هذا ما وقع الليلة في شوارع روما؛ آلافُ الطيور مُلْقاة في كل مكان.</span></p>\r\n",
+    "country": "IT",
+    "created_at": "2020-04-07 16:24:32",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 6,
+    "feedback_pos": 25,
+    "id": "5e8c7f10db2916778f33d154",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقّق &quot;مسبار&quot; من الادعاء ووجد أنه مضلل. تُظهر الصور المتداولة سقوط شجرة في منطقة Viale del Policlinico داخل روما، مما أدى إلى موت عدد من الطيور التي كانت تعلوها. وقعت الحادثة بتاريخ 4 فبراير/شباط الماضي نتيجة لقوة الرياح في ذلك اليوم، ولا علاقة للأمر بفايروس كورونا المستجد (كوفيد-19).</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_8sk6fbddb.jpg\" style=\"height:414px; width:528px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_8vba20zc6.jpg\" style=\"height:294px; width:520px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "كورونا",
+        "كورونا إيطاليا",
+        "كوفيد-19",
+        "إيطاليا"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تداولت صفحاتٌ على مواقع التواصل الاجتماعي مجموعة من الصور التي ادّعت أنها لآلاف الطيور التي تساقطت في شوارع العاصمة الإيطالية روما، وذلك برأيهم لأن فايروس كورونا المستجد (كوفيد-19) ما هو إلا غاز سام تُطلقه جهات غير معلومة.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_7jeoljdcd.jpg\" style=\"height:624px; width:447px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_x8p6b164p.jpg\" style=\"height:604px; width:431px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 354,
+        "left": 2.51666259765625,
+        "path": "articles/158626587192066992_3139981886226982_4217881506439233536_n.jpg",
+        "top": 36,
+        "totalHeight": 423,
+        "totalWidth": 635,
+        "watermark_path": "articles/watermark-158626587192066992_3139981886226982_4217881506439233536_n.jpg",
+        "width": 630
+    },
+    "post_date": "2020-04-07T16:13:00.000+03:00",
+    "published": [
+        {
+            "id": "5ff1dfbd770eed70713bce38",
+            "link": "https://www.facebook.com/rim.moussi.14/posts/3139982029560301",
+            "name": "ريم موسى",
+            "origin": "facebook",
+            "path": "published/0_1602773043_facebook.jpg"
+        },
+        {
+            "id": "5ff1dfbda74768006d714078",
+            "link": "https://www.facebook.com/mlayel.ines.3/posts/655609051883186",
+            "name": "Ines Mlaiel",
+            "origin": "facebook",
+            "path": "published/1_1602773044_facebook.jpg"
+        },
+        {
+            "id": "5ff1dfbe3b367e0c1e144549",
+            "link": "https://www.facebook.com/gharbi.chaker/posts/10223122755081932",
+            "name": "Chaker Gharbi",
+            "origin": "facebook",
+            "path": "published/2_1602773044_facebook.jpg"
+        },
+        {
+            "id": "5ff1dfbea0c9d8744c1380a5",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2954529677923978&id=567903603253276&__tn__=-R",
+            "name": "المتلوي أون لاين 24/24",
+            "origin": "",
+            "path": "published/3_1602773044_facebook.jpg"
+        },
+        {
+            "id": "5ff1dfbecdecdb179270c21e",
+            "link": "https://www.facebook.com/amanimohamed.com2000/posts/1114146508943421",
+            "name": "حواء فقط",
+            "origin": "facebook",
+            "path": "published/4_1602773044_facebook.jpg"
+        },
+        {
+            "id": "5ff1dfbe4b43842c4a049830",
+            "link": "https://www.facebook.com/Far7a2221/posts/659632471390775",
+            "name": "Really ?",
+            "origin": "facebook",
+            "path": "published/5_1602773044_fef4ff3ba7ee7b2c3cf5b8c58fd41714f7a056be.jpg"
+        },
+        {
+            "id": "5ff1dfbe7952ac50883ed40c",
+            "link": "https://www.facebook.com/HorrorStationOfficial/posts/1607097019462300",
+            "name": "Horror Station",
+            "origin": "facebook",
+            "path": "published/6_1602773044_4042c2268c30c54041f5a0ed09f9751c43f79061.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f94380a9de3835ae64d371e",
+            "link": "https://www.adnkronos.com/fatti/cronaca/2020/02/04/albero-caduto-roma-decine-uccelli-morti-sull-asfalto_V8om6xRaaA4LbTI1LTO2ZM.html?refresh_ce",
+            "name": "www.adnkronos.com",
+            "origin": "",
+            "path": "sources/afa65f09407f730ccde04beaf2c4131a9123259a.jpg"
+        },
+        {
+            "id": "5ff1dfbe63af5d7a126a4f10",
+            "link": "http://www.romatoday.it/cronaca/ferito-albero-caduto-4-febbraio-2020-.html",
+            "name": "Roma Today",
+            "origin": "",
+            "path": "sources/1_1586265871_Roma-today-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "كورونا إيطاليا: آلاف الطيور الميتة ملقاة في شوارع روما.. خبر مضلل",
+    "updated_at": "2021-01-03 18:16:14",
+    "url_path": "/factcheck/2020/04/07/كورونا-إيطاليا-آلاف-الطيور-الميتة-ملقاة-في-شوارع-روما-خبر-مضلل"
+}

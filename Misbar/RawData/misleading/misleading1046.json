@@ -1,0 +1,98 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 3771,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "مخازن أمازون الأصلية لم تُصِبها النيران (Getty)",
+    "category": "Business",
+    "claim": "<p style=\"text-align:justify\">احتراق مخازن شركة أمازون بالكامل في ولاية كاليفورنيا&nbsp;.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-06-06 19:39:52",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5edbc6d8db291620b57233e5",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الخبر ليجد أن مخازن أمازون الأصلية لم تُصِبها النيران، بل احترقت مخازن شركة Kuehne and Nage التي تساعد &quot;أمازون&quot; على شحن سلع كبيرة جدًا للعملاء،</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وأفادت الأنباء التي نشرتها مواقع أميركية ودولية، أن الحريق اندلع في الصباح الباكر من يوم الجمعة عبر مستودع في ريدلاندز بولاية كاليفورنيا يساعد في توصيل شحنات أمازون.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وقال متحدث باسم أمازون &quot;الشركة التي &nbsp;تديرها Kuehne and Nagel، وهي شركة لوجستية تساعد أمازون في شحن عناصر كبيرة جدًا للعملاء&quot;.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_9p4ycytrf.jpg\" style=\"height:498px; width:604px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/investigation_yv3kmxhb7.jpg\" style=\"height:448px; width:604px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت حساباتٌ على موقعي فيسبوك وتويتر، وصفحات إعلامية، خبراً مفاده احتراق مخازن شركة أمازون، وذلك منذ 5 يونيو/حزيران الجاري، وأضافت أن مخازن الشركة التي تقع في مدينة</span><span dir=\"RTL\" lang=\"AR-SA\"> ريدلاندز بولاية كاليفورنيا احترقت بالكامل.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_urktbey2o.jpg\" style=\"height:639px; width:605px\" /></p>\r\n\r\n<p style=\"text-align:center\">&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_nv4s25hin.jpg\" style=\"height:681px; width:584px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_d8gyi8sgf.jpg\" style=\"height:383px; width:605px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_er4ia9o4o.jpg\" style=\"height:245px; width:681px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 353,
+        "left": 1.25,
+        "path": "articles/1591461591GettyImages-1213901900.jpg",
+        "top": 11.8359375,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1591461591GettyImages-1213901900.jpg",
+        "width": 628
+    },
+    "post_date": "2020-06-06T17:13:00.000+03:00",
+    "published": [
+        {
+            "link": "https://m.facebook.com/malamtrh/posts/3651546631541794?__tn__=-R",
+            "name": "ما لم تره من قبل",
+            "path": "published/0_1591461591_ما لم تره من قبل.JPG"
+        },
+        {
+            "link": "http://www.alanbatnews.net/post.php?id=287972&fbclid=IwAR1AnQNhqUCjlH4CnFR41PZoaPpF9BP9xlEHVAiRyn1SqkGKDDdbh07G3FM",
+            "name": "الأنباط",
+            "path": "published/1_1591461591_الانباط.JPG"
+        },
+        {
+            "link": "https://twitter.com/fPBDpiE3TW16t96/status/1269245996581769217",
+            "name": "ضحكة شهيد",
+            "path": "published/2_1591461591_ضحكة شهيد.jpg"
+        },
+        {
+            "link": "https://m.facebook.com/photo.php?fbid=2052638248101050&id=100000646853503&set=a.157556670942560&source=11",
+            "name": "عمر جف",
+            "path": "published/3_1591461591_عمر جف.JPG"
+        },
+        {
+            "link": "https://twitter.com/SarrafSuleiman/status/1269090541641379841",
+            "name": " @SarrafSuleiman",
+            "path": "published/4_1591461591_الخوال.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.businessinsider.fr/us/amazon-trucks-burn-as-a-massive-fire-tears-through-warehouse-2020-6",
+            "name": "businessinsider",
+            "path": "sources/0_1591461591_بزنس.JPG"
+        },
+        {
+            "link": "https://abcnews.go.com/US/wireStory/fire-destroys-southern-california-warehouse-linked-amazon-71096230",
+            "name": "abcnews",
+            "path": "sources/1_1591461591_111.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ليست مخازن شركة أمازون التي احترقت",
+    "updated_at": "2020-09-25 17:11:17",
+    "url_path": "/factcheck/2020/06/06/ليست-مخازن-شركة-أمازون-التي-احترقت"
+}

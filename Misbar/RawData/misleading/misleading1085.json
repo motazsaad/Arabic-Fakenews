@@ -1,0 +1,108 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 8704,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "المقطع يصوّر حادثة وقعت عام 2016 في ولاية لويزيانا (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">فيديو يصوّر مقتل مواطن أميركي أسمر البشرة، برصاص شرطي خلال التظاهرات الأخيرة في مدينة مينيابوليس.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-05-31 15:20:34",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ed3a112db29162ccf7c8c64",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من المقطع المتداول، وتبيّن أنّه مضلل، فالفيديو ليس لمقتل مواطن أميركي برصاص الشرطة خلال الاحتجاجات الأخيرة في ولاية مينيسوتا، إنّما يصوّر مقتل مواطن أميركي علي يد أحد عناصر الشرطة في ولاية لويزيانا عام 2016.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_44nv3ncr1.jpg\" style=\"height:585px; width:804px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات وحسابات على موقع التواصل الاجتماعي فيسبوك، مقطع فيديو قالت إنّه يُظهر مقتل مواطن أميركي ثانٍ، ذو بشرة سمراء، برصاص أحد عناصر الشرطية وذلك على خلفية التظاهرات الأخيرة في ولاية مينيسوتا.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Firaninarabic.ir%2Fvideos%2F585367142095776%2F&amp;show_text=0&amp;width=476\" style=\"border:none;overflow:hidden\" width=\"476\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fxu0k.Alasadi%2Fvideos%2F551605365548600%2F&amp;show_text=0&amp;width=465\" style=\"border:none;overflow:hidden\" width=\"465\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F111656490404427%2Fvideos%2F279638489844617%2F&amp;show_text=0&amp;width=476\" style=\"border:none;overflow:hidden\" width=\"476\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 354,
+        "left": 0.99053955078125,
+        "path": "articles/1590927633GettyImages-1216479297.jpg",
+        "top": 7,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1590927633GettyImages-1216479297.jpg",
+        "width": 630
+    },
+    "post_date": "2020-05-31T15:10:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/iraninarabic.ir/videos/585367142095776/",
+            "name": "إيران بالعربية",
+            "path": "published/0_1590927632_إيران بالعربية.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/384022432411520/videos/177103653702798/",
+            "name": "ساعة مدينة",
+            "path": "published/1_1590927633_ساعة مدينة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/xu0k.Alasadi/videos/551605365548600/",
+            "name": "حيدر دعدوعه",
+            "path": "published/2_1590927633_حيدر دعدوعه.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=254583649097669",
+            "name": "معاً في الوطن",
+            "path": "published/3_1590927633_معاً في الوطن.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/111656490404427/videos/279638489844617/",
+            "name": "عين على الجنوب",
+            "path": "published/4_1590927633_عين على الجنوب.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Aduiovisualaids/photos/a.312022665843463/1121146034931118/?type=3&__tn__=-R",
+            "name": "مكتب المعلم للوسائل التعليمية",
+            "path": "published/5_1590927633_مكتب المعلم للوسائل التعليمية.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/radarbamana/videos/591583711755711/",
+            "name": "نبض الساحل والوطن",
+            "path": "published/6_1590927633_نبض الساحل والوطن.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Guevara1112/videos/174980040617420/?__xts__[0]=68.ARARr881GPyUOrB8WE0aqr0FoV1IoArXHi4QI2_nf3uqMZ62BrS7F94nQRBCZak9ZVZYL0ZaJ3g2Rae6-9KLQLbLgpxAkJ_tQYgwYLUM0HJnH4zxk4R47bwEnBgM_tqqiJdFIsZb5od-ZsZi3YR_3xBEmyyAgzLDRGKiyv6JdINLOgWWoem0_rfFOeG7tVGhHrdGDTZrXh7fFxyPjDNdKDTiqtee0PJ9a_SZIciR0Zlv93kBKhthckXHh01leGi9L8XBu1Un9OkiBuWimlGSULZf9FTifZB-BxIK5XZydeNUX3xyAnj5kdm3JQunZpa4V6oseYVc1tbX6XZZAU2JqgpirBSdKFkPchg&__tn__=-R",
+            "name": "جبهة التصدي للاستغلال ونصرة المستضعفين",
+            "path": "published/7_1590927633_جبهة التصدي للاستغلال ونصرة المستضعفين.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.theguardian.com/us-news/2016/jul/06/alton-sterling-gun-baton-rouge-new-video ",
+            "name": "The Guardian",
+            "path": "sources/0_1590927633_The Guardian-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "مواطن آخر يسقط برصاص الشرطة الأميركية.. حقيقة الفيديو",
+    "updated_at": "2020-09-25 18:58:31",
+    "url_path": "/factcheck/2020/05/31/احتجاجات-أميركا-مواطن-آخر-يسقط-برصاص-الشرطة-حقيقة-الفيديو"
+}

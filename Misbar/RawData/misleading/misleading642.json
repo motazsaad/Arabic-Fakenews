@@ -1,0 +1,139 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 5648,
+    "author": {
+        "fullname": "حسام الوكيل",
+        "id": "5e7cb2a9d4a2297a3f1db883",
+        "photo": {
+            "name": "1585230505_1hGLjIBq_400x400.jpg",
+            "path": "authors/1585230505_1hGLjIBq_400x400.jpg"
+        }
+    },
+    "caption": "الفيديو التُقط خلال أحداث الثورة المصرية في يناير 2011 (يوتيوب)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\"><span style=\"color:#000000\">فيديو يصوّر كيف خلع رجال الشرطة ملابسهم وهربوا من أمام المتظاهرين في الاحتجاجات التي شهدتها مدينة الإسكندرية ضد قرار إزالة المباني.</span></p>\r\n",
+    "country": "EG",
+    "created_at": "2020-09-13 19:47:48",
+    "created_by": "5f39b5451dd585078b5d94f3",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f5e4d342759800d9e1df792",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\"><span style=\"color:black\">تحقق &quot;مسبار&quot; من مقطع الفيديو، ووجد أنه مضلل، فهو قديم يعود إلى أحداث الثورة المصرية، وتحديداً يوم <span dir=\"LTR\">28</span> يناير/ كانون الثاني عام <span dir=\"LTR\">2011 </span>، وتجدر الإشارة أنّ الفيديو التُقط في آنذاك في شارع رمسيس بالعاصمة المصرية القاهرة وليس بالإسكندرية.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/_vFFZRcKa28\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\"><span style=\"color:black\">تداولت حسابات على موقعي التواصل الاجتماعي فيسبوك وتويتر، مقطع فيديو قالت إنّه يصوّر كيف خلع بعض عناصر الشرطة المصرية زيّهم ولاذوا بالفرار، خوفاً من تظاهرات خرجت في مدينة الإسكندرية احتجاجاً على قرار إزالة المباني.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"420\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F100018998498661%2Fvideos%2F662416094401668%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"420\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbachir.albakouri.1%2Fvideos%2F802154547214805%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"rtl\">مظاهرات في <a href=\"https://twitter.com/hashtag/%D9%85%D8%B5%D8%B1?src=hash&amp;ref_src=twsrc%5Etfw\">#مصر</a> ضد فرعون مصر والشرطة من الخوف فصخت ملابسهم خوفا من الشعب <a href=\"https://t.co/FW248mpEbk\">pic.twitter.com/FW248mpEbk</a></p>\r\n&mdash;  دبلوماسي قديم (@Udt978Vz6lRWq0G) <a href=\"https://twitter.com/Udt978Vz6lRWq0G/status/1304877103771418630?ref_src=twsrc%5Etfw\">September 12, 2020</a></blockquote>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 392,
+        "left": 4.1666259765625,
+        "path": "articles/1600015667Annotation 2020-09-13 193859.jpg",
+        "top": 15.5625,
+        "totalHeight": 423,
+        "totalWidth": 706,
+        "watermark_path": "articles/watermark-1600015667Annotation 2020-09-13 193859.jpg",
+        "width": 698
+    },
+    "post_date": "2020-09-13T19:33:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/GenQatar/status/1304718382512640000?s=09",
+            "name": "الجنرال مبارك الخيارين",
+            "path": "published/0_1600015666_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/100018998498661/videos/662416094401668/",
+            "name": "أبو عبد الرحمن بدرة",
+            "path": "published/1_1600015666_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/100022608005726/posts/802155097214750/",
+            "name": "Bachir Al Bakouri",
+            "path": "published/2_1600015667_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://facebook.com/story.php?story_fbid=333225028094536&id=100042211238499",
+            "name": "Wesam Nwar",
+            "path": "published/3_1600015667_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/5xFHqPYEGTkxk0F/status/1304739597730156544?s=19",
+            "name": "شامخ الراس عالي",
+            "path": "published/4_1600015667_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/SalehAl25995478/status/1304487661554544640?s=19",
+            "name": "Saleh Almansoor11",
+            "path": "published/5_1600015667_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/saad37337/status/1304851521251807239?s=19",
+            "name": "S - ALENEZI",
+            "path": "published/6_1600015667_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/Udt978Vz6lRWq0G/status/1304877103771418630?s=19",
+            "name": "دبلوماسي قديم",
+            "path": "published/7_1600015667_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/105438474576507/videos/247331173188180",
+            "name": "أخبار البلد",
+            "path": "published/8_1600015667_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/100054607029737/videos/120342309796003/",
+            "name": "عبد الله سباغ",
+            "path": "published/9_1600015667_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://facebook.com/story.php?story_fbid=1288851324784071&id=100009776467223",
+            "name": "Ali Ben Ghaffar",
+            "path": "published/10_1600015667_facebook.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.youtube.com/watch?v=_vFFZRcKa28&feature=youtu.be",
+            "name": "المقطع الأصلي",
+            "path": "sources/0_1600015667_YouTube-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "رجال الشرطة لم يخلعوا زيهم خوفاً من الاحتجاجات ضد إزالة المباني في الإسكندرية",
+    "updated_at": "2020-09-25 18:10:47",
+    "url_path": "/factcheck/2020/09/13/رجال-الشرطة-لم-يخلعوا-زيهم-خوفا-من-الاحتجاجات-ضد-إزالة-المباني-في-الإسكندرية",
+    "was_notification_pushed": "true"
+}

@@ -1,0 +1,104 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1735,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "الصورة لسيدة تركية تعود لعام 2019 (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة لسيدة تبكي بقرتها التي ماتت في حريق اندلع في منطقة عمدون في الشمال الغربي التونسي.</p>\r\n",
+    "country": "TN",
+    "created_at": "2020-08-03 15:50:38",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f28081e602118076950b1cd",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة المتداولة وتبين أنّها مضللة ولا علاقة لها بالحرائق في تونس والجزائر. ووجد أنّ الصورة الأصلية تعود لسيدة تركية تدعى صبيحة أوزيل تبكي بقرتها (فاطمة) التي ماتت بعد سقوطها من منحدر عام 2019. وقام أحد جيرانها بتحميل صورتها على مواقع التواصل الاجتماعيّ، وجُمعت لها تبرعات عن طريق مجموعة <span dir=\"LTR\">Denizli Traffic Life</span> لشراء بقرة جديدة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"3.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_g1vus22eb.jpg\" style=\"height:609px; width:437px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><br />\r\n<span dir=\"LTR\"><img alt=\"33.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_5flfncwd1.jpg\" style=\"height:576px; width:579px\" /></span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/zbMfPNzqtuU\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">تتداول صفحات إخبارية وحسابات على مواقع التواصل الاجتماعي، حديثاً، صورة تدّعي أنها لسيدة تونسية ماتت بقرتها إثر الحرائق التي شهدتها منطقة عمدون شمال غربي البلاد. وتداولتها بعض الصفحات على أنها لسيدة جزائرية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"00.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_uwvu84u8q.jpg\" style=\"height:547px; width:332px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"0.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_uza41o6kw.jpg\" style=\"height:531px; width:398px\" /></span><br />\r\n<br />\r\n<span dir=\"LTR\"><img alt=\"000.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_pkhifuung.jpg\" style=\"height:479px; width:605px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 324,
+        "left": 24.105255126953125,
+        "path": "articles/1596459037116889950_164961195141788_7955661114959550910_n.jpg",
+        "top": 63.746826171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-1596459037116889950_164961195141788_7955661114959550910_n.jpg",
+        "width": 577
+    },
+    "post_date": "2020-08-03T13:37:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/bessembendhahbi/posts/1689018591275539",
+            "name": "اخبار تونس لحظة بلحظة",
+            "path": "published/0_1596459037_89722015_1556985347812198_5235216442609106944_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Tunisia300/posts/1239511956258073",
+            "name": "الڨصرين مباشر",
+            "path": "published/1_1596459037_95019516_1171449866397616_5676160763291500544_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?id=107998987504676&story_fbid=164961278475113",
+            "name": "الكريب بلادي",
+            "path": "published/2_1596459037_106776250_155074856130422_7774151508558309259_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Tunisia.News.actu/photos/a.2654359631514038/2725527581063909/?type=3&theater",
+            "name": "وكالة تونس للانباء",
+            "path": "published/3_1596459037_107870485_2708107369472597_4120226970333706193_n.jpg"
+        },
+        {
+            "link": "https://www.nessma.tv/ar/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%AC%D9%87%D8%A7%D8%AA/actu/%D8%B9%D9%85%D8%AF%D9%88%D9%86-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D9%8A-%D9%82-%D8%AA%D8%A3%D8%AA%D9%8A-%D8%B9%D9%84%D9%89-150-%D9%87%D9%83%D8%AA%D8%A7%D8%B1-%D9%88%D8%AA%D8%AD%D8%A7%D8%B5%D8%B1-%D8%A7%D9%84%D9%85%D8%AA%D8%B3%D8%A7%D9%83%D9%86%D9%8A%D9%86-%D8%B5%D9%88%D8%B1/236079",
+            "name": "قناة نسمة",
+            "path": "published/4_1596459037_26231454_10155636278257795_5759880878664829880_n.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.sadecehaber.com/yasam/denizlide-70-yasindaki-kadin-olen-inegine-gozyasi-doktu.html",
+            "name": "sadecehaber",
+            "path": "sources/0_1596459037_M8c_plSE_400x400.jpg"
+        },
+        {
+            "link": "https://www.sabah.com.tr/yasam/2019/04/05/ucurumdan-dusen-inegi-icin-uzulen-yasli-kadin-buzagi-ile-teselli-buldu",
+            "name": "sabah",
+            "path": "sources/1_1596459037_sabah-logo.jpg"
+        },
+        {
+            "link": "https://www.cnnturk.com/yerel-haberler/denizli/ucurumdan-dusen-inegi-oldu-buzagisi-ile-teselli-buluyor-971600",
+            "name": "cnnturk",
+            "path": "sources/2_1596459037_2.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه ليست صورة سيدة تونسية توفيت بقرتها في حريق",
+    "updated_at": "2020-09-25 06:00:49",
+    "url_path": "/factcheck/2020/08/03/هذه-ليست-صورة-سيدة-تونسية-توفيت-بقرتها-في-حريق"
+}

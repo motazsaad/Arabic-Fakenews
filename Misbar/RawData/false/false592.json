@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2840,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "الصورة الأصلية تعود لزيارة أجراها أردوغان إلى ثكنة عسكرية (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">وزير الدفاع التركي، إضافة إلى أردوغان، ينشران خريطة لتركيا تضمّ الموصل وأربيل وحلب.</span></p>\r\n",
+    "country": "TR",
+    "created_at": "2020-06-19 18:16:26",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eecd6cad6e4a966204fe444",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من الصور والأخبار المتداولة ووجد أنها مفبركة.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">جميع الحسابات التي حملت اسم خلوصي آكار هي حسابات وهمية وغير موثّقة على أي موقع للتواصل الاجتماعي، مما يعني أنّ ادعاء نشره للخريطة زائف.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">أما بالنسبة للصورة التي تجمع أردوغان مع الخريطة المتداولة فهي مفبركة، لأنّ </span><a href=\"https://ahvalnews.com/military/erdogan-directs-army-nationalist-zeal-analyst\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>الصورة الأصلية</u></span></a><span style=\"color:#000000\"> تعود لزيارة أجراها أردوغان إلى ثكنة عسكرية تركية في سورية، والخريطة التي كان يُشير إليها لم تظهر للإعلام بحكم أنها أسرار عسكرية.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_k7x3g7f3l.jpg\" style=\"height:413px; width:624px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل صفحات على مواقع التواصل الاجتماعي، منذ سنوات، صوراً تدّعي أنها لخريطة نشرها وزير الدفاع التركي خلوصي آكار، والرئيس رجب طيب أردوغان، تُظهر مدن الموصل وأربيل وحلب ضمن الأراضي التركية.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_h3twno54p.jpg\" style=\"height:744px; width:524px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_x9mpzyfwh.jpg\" style=\"height:498px; width:527px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 329,
+        "left": 66.41668701171875,
+        "path": "articles/1592579785غلاف.jpg",
+        "top": 53.91650390625,
+        "totalHeight": 512,
+        "totalWidth": 718,
+        "watermark_path": "articles/watermark-1592579785غلاف.jpg",
+        "width": 585
+    },
+    "post_date": "2020-06-19T18:08:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/Mna1mailru11/status/1273912877200654337",
+            "name": "نــآي",
+            "path": "published/0_1592579816_ناي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Mosulair/posts/388627742073913?__tn__=-R",
+            "name": "هوى الموصل",
+            "path": "published/1_1592579817_هوى.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2388483818077621&id=2311707349088602",
+            "name": "معالي المواطن",
+            "path": "published/2_1592579784_معالي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/zinar.rojava.35110/posts/403322363895164",
+            "name": "Zinar Rojava",
+            "path": "published/3_1592579785_ئهىشق.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=158332331937215&id=100032813468041",
+            "name": "وداد نديم العراقي",
+            "path": "published/4_1592579785_وداد.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://ahvalnews.com/military/erdogan-directs-army-nationalist-zeal-analyst",
+            "name": "Ahval News",
+            "path": "sources/0_1592579785_ahval.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "خريطة تركية تضمّ الموصل وأربيل وحلب.. حقيقة الخبر",
+    "updated_at": "2020-09-25 20:41:02",
+    "url_path": "/factcheck/2020/06/19/خريطة-تركية-تضم-الموصل-وأربيل-وحلب-حقيقة-الخبر"
+}

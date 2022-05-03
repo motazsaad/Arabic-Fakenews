@@ -1,0 +1,96 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 5127,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "caption": "تعود الصورة الأصلية إلى العام 2016",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">بعد الأحداث التي شهدتها أميركا، لافتة تجوب شوارع نيويورك كتب عليها: لا فرق بين أبيض وأسود إلا بالتقوى.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-06-08 11:40:53",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eddf995d6e4a940391b4bd3",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة، ووجد أنها ليست لها علاقة بالمظاهرات الحالية، إذ <a href=\"https://wopita.com/media/1295817861990513105_287554316\" style=\"color:blue; text-decoration:underline\">تعود الصورة الأصلية</a> إلى العام 2016، وكانت ضمن مبادرة لحملة تدعى &quot;<a href=\"https://www.facebook.com/thehatebusters/\" style=\"color:blue; text-decoration:underline\">The hate busters</a>&quot; وهي حملة مناهضة لكراهية الإسلام وتعمل على دعوة الناس إلى معرفة الدين الإسلامي عن قرب، كما تقوم باستخدام اللافتات الملصقة على الشاحنات لنشر بعض الأحاديث التي توضح للجمهور سماحة الدين الإسلامي. ويظهر اسم الحملة على اللافتة المنتشرة وصفحتها على موقع فيسبوك.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_hfbqdabyt.jpg\" style=\"height:373px; width:650px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">انتشرت على موقع تويتر تغريدة، قال ناشروها إنها للافتة تجوب شوارع نيويورك، وتحتوي حديثاً للنبي محمد، وأنَّ انتشار هذه اللافتة التي تتحدث عن عدم وجود فرق بين أبيض وأسود إلا بالتقوى، جاء بعد اندلاع الاحتجاجات المناهضة للعنصرية في الولايات المتحدة، والتي نتجت عن مقتل الأميركي من أصول أفريقية جورج فلويد.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_7c8wqe34w.jpg\" style=\"height:676px; width:481px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_7fr6uhium.jpg\" style=\"height:639px; width:482px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_t5mfmjfww.jpg\" style=\"height:686px; width:444px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_houm7gvyv.jpg\" style=\"height:716px; width:417px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 234,
+        "left": 4.1181793212890625,
+        "path": "articles/1591605652لافتة.jpg",
+        "top": 78.14306640625,
+        "totalHeight": 423,
+        "totalWidth": 423,
+        "watermark_path": "articles/watermark-1591605652لافتة.jpg",
+        "width": 415
+    },
+    "post_date": "2020-06-08T11:31:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/mammahamad/status/1269006276077539329",
+            "name": "Moubarak A.Mahamad",
+            "path": "published/0_1591605651_Moubarak A.Mahamad.jpg"
+        },
+        {
+            "link": "https://twitter.com/Abderrahmane259/status/1269531753259175936",
+            "name": "abderrahmane bouarif",
+            "path": "published/1_1591605651_abderrahmane bouarif.jpg"
+        },
+        {
+            "link": "https://twitter.com/Bibabou30302832/status/1269692228622069762",
+            "name": "عبدالله بوسالم",
+            "path": "published/2_1591605652_عبدالله بوسالم.jpg"
+        },
+        {
+            "link": "https://twitter.com/AhmedBa98474450/status/1269531145206726657",
+            "name": "Ahmed Babiker",
+            "path": "published/3_1591605652_Ahmed Babiker.jpg"
+        },
+        {
+            "link": "https://twitter.com/moujaradraey/status/1268496406857252864",
+            "name": "مجرد رأي",
+            "path": "published/4_1591605652_مجرد رأي.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://wopita.com/media/1295817861990513105_287554316",
+            "name": "محمد بن علي الخنبولي",
+            "path": "sources/0_1591605652_محمَد بِن عَلي الخَنبوليِ.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/thehatebusters/",
+            "name": "the hatebusters",
+            "path": "sources/1_1591605652_the hatebusters.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "هذه اللافتة لم تنتشر خلال المظاهرات الحالية في نيويورك",
+    "title": "هذه اللافتة لم تنتشر خلال المظاهرات الحالية في نيويورك",
+    "updated_at": "2020-09-25 21:57:32",
+    "url_path": "/factcheck/2020/06/08/هذه-اللافتة-لم-تنتشر-خلال-المظاهرات-الحالية-في-نيويورك"
+}

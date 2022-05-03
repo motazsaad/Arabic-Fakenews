@@ -1,0 +1,152 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 196,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "زيارة إحدى كتائب الناتو إلى الإسكندرية (تويتر)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\">انضمام مصر لأعضاء حلف الناتو.</p>\r\n",
+    "country": "EG",
+    "created_at": "2020-12-16 11:56:27",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 7,
+    "feedback_pos": 4,
+    "id": "5fd9cbbb7145b678ef7ea6e4",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;<a href=\"https://misbar.com/\" style=\"text-decoration:none\" target=\"_blank\"><u>مسبار</u></a>&quot; من الخبر المتداول ووجد أنه مضلل. إذ لم تنضم مصر إلى <a href=\"https://www.nato.int/cps/en/natohq/nato_countries.htm\" style=\"text-decoration:none\" target=\"_blank\"><u>حلف الناتو</u></a>، والصور المتداولة مع الخبر عبارة عن <a href=\"https://twitter.com/NATO_MARCOM/status/1335223931339497476\" style=\"text-decoration:none\" target=\"_blank\"><u>تغريدة</u></a> من حساب الناتو في موقع تويتر تحدثت عن زيارة إحدى كتائب الحلف إلى الإسكندرية لما تمثّله مصر من عنصر هام ضمن مساعي الناتو لخلق حوار سياسي وتعاون مشترك بين دول البحر المتوسط.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">يُذكر أن آخر دولة انضمت إلى حلف الناتو خلال العام الجاري هي مقدونيا الشمالية.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_jcuy9v97q.jpg\" style=\"height:622px; width:535px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">اقرأ/ي أيضاً:</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/12/15/%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A-%D9%84%D9%85-%D9%8A%D8%B9%D9%84%D9%86-%D8%B1%D9%81%D8%B6-%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D9%84%D8%AD%D8%A9-%D9%85%D8%B9-%D9%82%D8%B7%D8%B1\" target=\"_blank\"><span style=\"color:#000000\">وزير الخارجية المصري لم يعلن رفض المصالحة مع قطر</span></a></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/12/14/%D8%A3%D8%A8%D9%88-%D8%A7%D9%84%D8%AB%D9%88%D8%A7%D8%B1-%D9%84%D9%85-%D9%8A%D9%83%D9%86-%D8%B9%D9%82%D9%8A%D8%AF%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D9%88%D9%87%D8%B0%D9%87-%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9-%D9%84%D9%8A%D8%B3%D8%AA-%D9%84%D9%87\" target=\"_blank\"><span style=\"color:#000000\">أبو الثوار لم يكن عقيداً في الجيش وهذه الصورة ليست له</span></a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "مصر",
+        "الناتو",
+        "الإسكندرية"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تتناقل صفحات وحسابات على مواقع التواصل الاجتماعي، حديثاً، خبراً مفاده انضمام مصر إلى حلف شمال الأطلسي (الناتو).</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_7xk5miiq2.jpg\" style=\"height:717px; width:521px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_z1wl0z6yb.jpg\" style=\"height:505px; width:548px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 315,
+        "left": 0.7740478515625,
+        "path": "articles/1608108986ناتو.jpg",
+        "top": 32.272705078125,
+        "totalHeight": 423,
+        "totalWidth": 562,
+        "watermark_path": "articles/watermark-1608108986ناتو.jpg",
+        "width": 561
+    },
+    "post_date": "2020-12-16T10:47:00.000+03:00",
+    "published": [
+        {
+            "id": "5fd9cd3558b65d09243ce578",
+            "link": "https://www.facebook.com/groups/2668064690114171/permalink/2724592727794700/",
+            "name": "عادل الدناصورى",
+            "origin": "facebook",
+            "path": "sources/9fb41797f3ab0b7b87f8775614ed7b0bdd915b9b.jpg"
+        },
+        {
+            "id": "5fd9cd3533464429b32b5e44",
+            "link": "https://www.facebook.com/mory.mohamed89/posts/4454946484525911",
+            "name": "Mohamed Hamdy",
+            "origin": "facebook",
+            "path": "sources/770085f06aadef856dfae7f25fca090afbd79e11.jpg"
+        },
+        {
+            "id": "5fd9cd353bc7341b1d7441eb",
+            "link": "https://www.facebook.com/lan.tantafei.anwar.masr.spox/posts/1621968927996946",
+            "name": "لن تنطفئ انوار مصر",
+            "origin": "facebook",
+            "path": "sources/bd025210859b86b4d61e9345d235fc253db05a64.jpg"
+        },
+        {
+            "id": "5fd9cd350ab7b904222e4a75",
+            "link": "https://www.facebook.com/abo.wleed.165/posts/183697753397981",
+            "name": "Abo Wleed",
+            "origin": "facebook",
+            "path": "sources/770085f06aadef856dfae7f25fca090afbd79e11.jpg"
+        },
+        {
+            "id": "5fd9cd36ef8aa7034e249f10",
+            "link": "https://twitter.com/abdo_kmal86/status/1335734238176534536",
+            "name": "عبد الحفيظ كمال",
+            "origin": "twitter",
+            "path": "sources/bb121dc1bf2b973cdad49b60bf5ef7603c0e473c.jpg"
+        },
+        {
+            "id": "5fd9cd36fda17e56222410c5",
+            "link": "https://www.facebook.com/ahmed.fakhry.9803/posts/3564781486944723",
+            "name": "Ahmed Fakhry",
+            "origin": "facebook",
+            "path": "sources/770085f06aadef856dfae7f25fca090afbd79e11.jpg"
+        },
+        {
+            "id": "5fd9cd36b59abc46af4a97c8",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2473249972984109&id=100008973909260",
+            "name": "اشرف فؤاد",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        },
+        {
+            "id": "5fd9cd369e24ec79fe39caa4",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=818986928936254&id=100024748638085",
+            "name": "المستشار عبدالناصر عمران",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        },
+        {
+            "id": "5fd9cd36efa49076d87c8a6d",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2874267559528914&id=100008370935499",
+            "name": "عبدالغني والي",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        },
+        {
+            "id": "5fd9cd3763f3a0495a26ae29",
+            "link": "https://www.facebook.com/haytham.eltawel/posts/3734808169874451",
+            "name": "Haytham Eltaweel",
+            "origin": "facebook",
+            "path": "sources/770085f06aadef856dfae7f25fca090afbd79e11.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fd9cbba34a351055e2e4ec6",
+            "link": "https://twitter.com/NATO_MARCOM/status/1335223931339497476",
+            "name": "NATO Maritime Command",
+            "origin": "twitter",
+            "path": "sources/fbc5b28558728b328cc5affa2449d348a53b8a87.jpg"
+        },
+        {
+            "id": "5fd9cbbae6ecd3271d1beb24",
+            "link": "https://www.nato.int/nato-welcome/index.html",
+            "name": "NATO",
+            "origin": "",
+            "path": "sources/9a8732ae1b0678635b82a55f8487e47a95777e6f.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لم تعلن مصر انضمامها إلى حلف الناتو",
+    "updated_at": "2020-12-16 12:05:44",
+    "url_path": "/factcheck/2020/12/16/لم-تعلن-مصر-انضمامها-إلى-حلف-الناتو",
+    "was_notification_pushed": "true"
+}

@@ -1,0 +1,154 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 119,
+    "author": {
+        "fullname": "صباح الخطيب",
+        "id": "5edc1b38db291674e776e9a3",
+        "photo": {
+            "path": "authors/1591643228_7.jpg"
+        }
+    },
+    "caption": "انتشر المقطع المتداول على موقع يوتيوب في أيار/مايو 2020 (يوتيوب)",
+    "category": "Politics",
+    "claim": "<p><span dir=\"RTL\" lang=\"AR-SA\">ظهور باتمان&nbsp;بين أنصار ترامب خلال اقتحامهم لمبنى الكونغرس.</span></p>\r\n",
+    "country": "US",
+    "created_at": "2021-01-07 13:37:24",
+    "created_by": "5f39b6aa1dd585076701cb95",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 5,
+    "id": "5ff6e4647789d56039284c46",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقق &quot;<a href=\"https://misbar.com/factcheck/2020/12/03/%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9-%D9%84%D9%8A%D8%B3%D8%AA-%D9%85%D9%86-%D8%AD%D9%81%D9%84-%D8%B2%D9%81%D8%A7%D9%81-%D8%A3%D8%B7%D9%88%D9%84-%D8%B1%D8%AC%D9%84-%D8%B9%D9%85%D8%A7%D9%86%D9%8A\" style=\"color:#0563c1; text-decoration:underline\" target=\"_blank\">مسبار</a>&quot; من الادعاء ووجد أنه مضلّل، إذ إنَّ&nbsp;الفيديو قديم ويعود للاحتجاجات التي شهدتها الولايات المتحدة بعد مقتل جورج فلويد على يد شرطي أميركي، وليس من الأحداث الأخيرة لاقتحام مناصري ترامب مبنى الكونغرس. ونُشر <a href=\"https://www.youtube.com/watch?v=Ip8Wx4qrt0E\" style=\"color:#0563c1; text-decoration:underline\" target=\"_blank\">الفيديو</a> على موقع يوتيوب بتاريخ مايو/أيار 2020، على أنّه من ولاية فيلاديلفيا.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">الجدير بالذكر أن الولايات المتحدة الأميركية <a href=\"https://arabic.cnn.com/world/article/2021/01/07/trump-supporters-storm-congress\" style=\"color:#0563c1; text-decoration:underline\" target=\"_blank\">شهدت</a> احتجاجات لمؤيّدي الرئيس الأميركي&nbsp;ترامب، بتاريخ 6 يناير/كانون الثاني الجاري، في العاصمة واشنطن، وكان المتحتجّوا&nbsp;اقتحموا مبنى الكونغرس لعرقلة جلسة المصادقة على فوز الرئيس المنتخب&nbsp;جو بايدن في الانتخابات الأميركية.</p>\r\n\r\n<p><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/Ip8Wx4qrt0E\" width=\"560\"></iframe><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/XbFnnqpmtCE\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">اقرأ/ي أيضًا:</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2021/01/07/%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%82%D8%AF%D9%8A%D9%85-%D9%88%D9%84%D9%8A%D8%B3-%D9%84%D9%87%D8%B1%D9%88%D8%A8-%D9%86%D8%A7%D9%86%D8%B3%D9%8A-%D8%A8%D9%8A%D9%84%D9%88%D8%B3%D9%8A-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%82%D8%AA%D8%AD%D8%A7%D9%85-%D8%A7%D9%84%D9%83%D9%88%D9%86%D8%BA%D8%B1%D8%B3\" style=\"color:#0563c1; text-decoration:underline\" target=\"_blank\">الفيديو قديم وليس لهروب نانسي بيلوسي بعد اقتحام الكونغرس</a></p>\r\n\r\n<p><a href=\"https://misbar.com/editorial/2020/10/13/%D8%A7%D8%AA%D9%87%D8%A7%D9%85%D8%A7%D8%AA-%D8%A8%D8%A7%D9%84%D8%AA%D8%B6%D9%84%D9%8A%D9%84-%D9%81%D9%8A-%D8%A5%D8%B9%D9%84%D8%A7%D9%86-%D9%8A%D8%AD%D8%AB-%D8%B9%D9%84%D9%89-%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8\" style=\"color:#0563c1; text-decoration:underline\" target=\"_blank\">اتهامات بالتضليل في إعلانٍ يحثّ على إعادة انتخاب ترامب</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "اقتحام الكونغرس",
+        "بات مان"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [
+        "دونالد ترامب",
+        "جو بايدن"
+    ],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">تتداول حسابات على مواقع التواصل الاجتماعي فيسبوك وتويتر، منذ تاريخ 6 يناير/كانون الثاني الجاري، مقطع فيديو بعنوان &quot;حضور باتمان&nbsp;بين أنصار ترامب&quot;، ويظهر فيه أحد الأشخاص بزي شخصية باتمان في أحد الاحتجاجات، وادّعى الناشرون أنّه خلال اقتحام مناصري الرئيس الأميركي السابق دونالد ترامب لمبنى الكونغرس، بتاريخ 6 يناير/كانون الثاني الجاري.</p>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"rtl\">دوي قنابل صوتية بالتزامن مع دفع الشرطة لأنصار <a href=\"https://twitter.com/hashtag/%D8%AA%D8%B1%D9%85%D8%A8?src=hash&amp;ref_src=twsrc%5Etfw\">#ترمب</a> ، وظهور مفاجى ل باتمان قرب شرفات مبنى <a href=\"https://twitter.com/hashtag/%D8%A7%D9%84%D9%83%D9%88%D9%86%D8%BA%D8%B1%D8%B3?src=hash&amp;ref_src=twsrc%5Etfw\">#الكونغرس</a> .<a href=\"https://t.co/TKY92QomhK\">pic.twitter.com/TKY92QomhK</a></p>\r\n&mdash; مشاهير الشرق الأوسط CME (@CelebMiddleEast) <a href=\"https://twitter.com/CelebMiddleEast/status/1346935965999386630?ref_src=twsrc%5Etfw\">January 6, 2021</a></blockquote>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img id=\"Picture_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/origin_m67yd3gbv.jpg\" style=\"height:578.4pt; width:417.6pt\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;<img id=\"Picture_x0020_5\" src=\"https://images-prod.misbar.com/articlebody/origin_2uid1udlr.jpg\" style=\"height:516.6pt; width:417pt\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 316,
+        "left": 5.37139892578125,
+        "path": "articles/1610015844الصورة.jpg",
+        "top": 43.134033203125,
+        "totalHeight": 423,
+        "totalWidth": 574,
+        "watermark_path": "articles/watermark-1610015844الصورة.jpg",
+        "width": 562
+    },
+    "post_date": "2021-01-07T12:26:00.000+03:00",
+    "published": [
+        {
+            "id": "5ff6e462dc066e2fed7893a2",
+            "link": "https://www.facebook.com/100500125161849/posts/475589813430102/",
+            "name": "Al Ahed-HD",
+            "origin": "facebook",
+            "path": "sources/4b7b91eddaf69660c0ff5904c874b91e10fbb9b3.jpg"
+        },
+        {
+            "id": "5ff6e462e33df566e3685da4",
+            "link": "https://twitter.com/mekameleentv/status/1346939483057500164",
+            "name": "قناة مكملين الفضائية",
+            "origin": "twitter",
+            "path": "sources/8bb511378ecfa24ea54046827816408d96b1063b.jpg"
+        },
+        {
+            "id": "5ff6e463df704140754fc409",
+            "link": "https://www.facebook.com/farag.adel.779/posts/841860073025910/",
+            "name": "Farag Adel",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5ff6e4632c51880ce868b1a4",
+            "link": "https://twitter.com/mantouraofficia/status/1346927877716025344",
+            "name": "𝙈𝙖𝙣𝙩𝙤𝙪𝙧𝙖 -منتورة",
+            "origin": "twitter",
+            "path": "sources/6435b641171ee9c4ba0d63f2eef46a40af444094.jpg"
+        },
+        {
+            "id": "5ff6e463b961d0298c201569",
+            "link": "https://twitter.com/YHALMANEA/status/1346930557150703623",
+            "name": "يوسف المانع",
+            "origin": "twitter",
+            "path": "sources/70c7d0416e001b5c25d2f097e32f2bf41c8537c8.jpg"
+        },
+        {
+            "id": "5ff6e46334ecf95c157c7e9a",
+            "link": "https://www.facebook.com/AlmogazNews/posts/5048183778556441",
+            "name": "Almogaz | الموجز",
+            "origin": "facebook",
+            "path": "sources/986aed21e9a319078eaef075182a0c0ef6c88197.jpg"
+        },
+        {
+            "id": "5ff6e463097b81002546f591",
+            "link": "https://www.facebook.com/alemeannews/posts/109945151020108",
+            "name": "وكالة العميان نيوز",
+            "origin": "facebook",
+            "path": "sources/764e3a51a25f532e78ec03a3307e66b991c6555e.jpg"
+        },
+        {
+            "id": "5ff6e463ea2f214060453cc8",
+            "link": "https://www.facebook.com/100000904980173/posts/5063294627043987/",
+            "name": "Mohamed Omar Abosowa",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5ff6e46482b04747754dd5ef",
+            "link": "https://twitter.com/CelebMiddleEast/status/1346935965999386630",
+            "name": "مشاهير الشرق الأوسط CME",
+            "origin": "twitter",
+            "path": "sources/03e4b03f47a51f6c1bc333c2b38268aa09aec318.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5ff6e464c026c756ed4a1d55",
+            "link": "https://www.youtube.com/watch?v=Ip8Wx4qrt0E",
+            "name": "Bucks County Batman",
+            "origin": "youtube",
+            "path": "sources/e16605ffb1353065543e1db8e955d1ab0e592d4a.jpg"
+        },
+        {
+            "id": "5fd89e24bd1df429d3369009",
+            "link": "https://arabic.cnn.com/world/article/2021/01/07/trump-supporters-storm-congress",
+            "name": "CNN",
+            "origin": "",
+            "path": "sources/a55c3c13b3fde3b7e2d73865a8257d9185579567.jpg"
+        },
+        {
+            "id": "5ff6e4644082ef4ea334e5cd",
+            "link": "https://www.youtube.com/watch?v=XbFnnqpmtCE",
+            "name": "Corrupted Nation",
+            "origin": "youtube",
+            "path": "sources/73c096c084929ec18b97626c3f0a28d1ff38c8f6.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "فيديو ظهور باتمان قديم وليس من اقتحام مناصري ترامب للكونغرس",
+    "updated_at": "2021-01-07 16:11:52",
+    "url_path": "/factcheck/2021/01/07/فيديو-ظهور-باتمان-قديم-وليس-من-اقتحام-مناصري-ترامب-للكونغرس",
+    "was_notification_pushed": false
+}

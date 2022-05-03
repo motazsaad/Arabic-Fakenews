@@ -1,0 +1,113 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 7,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 10863,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "تحقق \"مسبار\" من الخبر المتداول ووجد أنه صحيح (مواقع التواصل)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\"><span dir=\"rtl\" lang=\"ar\">العالم الألماني يشكك في كيفية انتشار فايروس كورونا، ودراسة له تؤكد أنَّ الفايروس لا يعيش على الأسطح ولا ينتقل عن طريق الملامسة والمصافحة.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-04-10 16:26:25",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5e907401db29167f2301bae4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span dir=\"rtl\" lang=\"ar\">تحقق &quot;مسبار&quot; من الخبر المتداول ووجد أنه صحيح، إذ وجد الخبر الأصلي في مقابلة أجرتها قناة&nbsp; &quot;ZDF&quot;&nbsp;الألمانية مع البروفيسور الألماني &quot;هندريك ستريك&quot; مدير معهد علم الفيروسات ونقص المناعة في مستشفى بون الجامعي، بتاريخ 1 أبريل/نيسان الجاري، يتحدث فيها عن الدراسة التي يجريها&nbsp;في منطقة هاينزبرغ التي تأثرت بشدة بفايروس كورونا&nbsp;كوفيد-19 وتفشى فيها، حيث اختبر ستريك وفريقه مختلف الأسطح ولم يتمكنوا من اكتشاف فايروس نشط، لا على الهواتف المحمولة أو مقابض الأبواب أو الأحواض أو القطط، حتى في منازل الأسر المصابة بالعدوى.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span dir=\"rtl\" lang=\"ar\">وأكد العالم الألماني أنه&nbsp;بالتعاون مع فريقه في منطقة هاينزبرغ، سوف يدرس مزيداً من التفاصيل حول كيفية انتشار الفايروس، كما أنه يريد التحقق أكثر في مدى ارتفاع عدد حالات الإصابة.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span dir=\"rtl\" lang=\"ar\">وأضاف أنَّ في الوقت الحالي لا يمكن التخلي عن الإجراءات الوقائية إلى حين التأكد من طريقة انتشار الفايروس، وأنّ هذا لا يقلل من خطورة التجمعات كالحفلات وصالات الرياضة.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span dir=\"rtl\" lang=\"ar\">وتجدر الإشارة إلى أنّ هذه الدراسة تتنافى مع تصريحات منظمة الصحة العالمية، التي ذكرت أنّ فايروس كورونا كوفيد-19 ينتقل عبر ملامسة الأسطح الملوثة.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"صورة_x0020_4\" src=\"https://images-prod.misbar.com/articlebody/investigation_wz63a2gvg.jpg\" style=\"height:507.6pt; width:414.6pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"صورة_x0020_5\" src=\"https://images-prod.misbar.com/articlebody/investigation_cqe40v1nc.jpg\" style=\"height:697.2pt; width:348pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"صورة_x0020_6\" src=\"https://images-prod.misbar.com/articlebody/investigation_oxokda2v1.jpg\" style=\"height:697.2pt; width:351pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span dir=\"rtl\" lang=\"ar\">تداولت العديد من الصحف والمواقع الإخبارية العالمية والعربية، خبراً مفاده أنَّ البروفيسور الألماني هندريك ستريك&nbsp;أجرى بحثاً في قرية صغيرة بمدينة هاينزبرج، التي تعد أكثر المناطق تضرراً بفايروس كورونا في ألمانيا.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span dir=\"rtl\" lang=\"ar\">وأكد العالم خلال دراسته أنه عندما قام بفحص منزل عائلة مصابة بالفايروس، وجد أنّ المنزل لا يحتوي على أي فايروس حي على الأسطح، ولم يتم العثور على الفايروس على مقابض الأبواب أو فرو الحيوانات أيضاً، وهو ما يناقض الاعتقاد بأنّ الفايروس يمكن أنّ يعيش على الأسطح المختلفة لعدة أيام.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"صورة_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/origin_6kpplespe.jpg\" style=\"height:613.8pt; width:415.2pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"صورة_x0020_2\" src=\"https://images-prod.misbar.com/articlebody/origin_lvd29iw4k.jpg\" style=\"height:697.2pt; width:369pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"صورة_x0020_3\" src=\"https://images-prod.misbar.com/articlebody/origin_nola2uxsn.jpg\" style=\"height:697.2pt; width:342pt\" /> </span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 91.1600341796875,
+        "path": "articles/1586525184EUp6pQRWsAAw7gN.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 846,
+        "watermark_path": "articles/watermark-1586525184EUp6pQRWsAAw7gN.jpg",
+        "width": 752
+    },
+    "post_date": "2020-04-10T16:24:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.dailymail.co.uk/news/article-8182767/Scientist-casts-doubt-coronavirus-spread.html",
+            "name": "Daily mail ",
+            "path": "published/0_1586525184_Daily Mail.jpg"
+        },
+        {
+            "link": "https://www.express.co.uk/news/world/1264348/coronavirus-spreading-study-Germany-wuhan-lockdown ",
+            "name": "express ",
+            "path": "published/2_1586525319_express .jpg"
+        },
+        {
+            "link": "https://www.telegraph.co.uk/news/2020/04/02/no-proof-coronavirus-can-spread-shopping-says-leading-german/ ",
+            "name": "telegraph ",
+            "path": "published/3_1586525319_telegraph .jpg"
+        },
+        {
+            "link": "https://www.sadanews.ps/news/57190.html",
+            "name": "صدى نيوز",
+            "path": "published/4_1586525319_صدى نيوز.jpg"
+        },
+        {
+            "link": "https://almesryoon.com/story/1293182/%D9%85%D9%81%D8%A7%D8%AC%D8%A3%D8%A9-%D9%85%D8%AF%D9%88%D9%8A%D8%A9-%D9%8A%D9%83%D8%B4%D9%81%D9%87%D8%A7-%D8%B9%D8%A7%D9%84%D9%85-%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A-%D8%B9%D9%86-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7",
+            "name": " المصريون",
+            "path": "published/5_1586525319__________400x400.jpg"
+        },
+        {
+            "link": "https://www.pal24.net/news/146987.html",
+            "name": "وكالة فلسطين 24 الإخبارية ",
+            "path": "published/6_1586525319_وكالة فلسطين 24 الإخبارية .jpg"
+        },
+        {
+            "link": "http://essafirbc-dz.com/%D8%B9%D8%A7%D9%84%D9%85-%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A-%D8%A3%D9%86%D8%AA%D9%85-%D9%85%D8%AE%D8%B7%D8%A6%D9%88%D9%86-%D9%81%D9%8A-%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA%D9%83%D9%85-%D8%AD/",
+            "name": "السفير ",
+            "path": "published/7_1586525319_السفير .jpg"
+        }
+    ],
+    "result": "true",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/hendrikstreeck/status/1247906086218153985 ",
+            "name": "Hendrik Streeck ",
+            "path": "sources/0_1586525184_ZDF heute  Nachrichten.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?t=314s&v=VP7La2bkOMo&app=desktop",
+            "name": "ZDF heute  Nachrichten",
+            "path": "sources/1_1586527889_I7evdnil_400x400.jpg"
+        },
+        {
+            "link": "https://www.zdf.de/gesellschaft/markus-lanz/markus-lanz-vom-31-maerz-2020-100.html#xtor=CS3-162",
+            "name": "ZDF ",
+            "path": "sources/2_1586525473_ZDF heute  Nachrichten (2).jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "طبيب ألماني: فايروس كورونا لا يعيش على الأسطح.. خبر صحيح",
+    "updated_at": "2020-09-24 05:07:33",
+    "url_path": "/factcheck/2020/04/10/دراسة-لطبيب-ألماني-فايروس-كورونا-لا-يعيش-على-الأسطح-خبر-صحيح"
+}

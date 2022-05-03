@@ -1,0 +1,97 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1962,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "الصور لشاب أحرق لباسه الرسمي ساخطاً على الـ \"الواسطة\" (فيسبوك)",
+    "category": "Lifestyle",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">شاب يحرق لباس عرسه بعدما رفضت عروسه السكن مع والدته.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-05-27 17:11:38",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5ece751adb291605146551c6",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من الصور المتداولة ووجد أنها مضللة، لأنّ وكالة </span><a href=\"https://glgamesh.com/84102-.html\" style=\"text-decoration:none\"><span style=\"color:#1155cc\"><u>كلكامش</u></span></a><span style=\"color:#000000\"> برس كتبت عن القصة وراء الصور وتبيّن أنها تعود لشاب أحرق لباسه الرسمي ساخطاً على شغل الوظائف بـ &quot;الواسطة&quot;، ولا علاقة للأمر بالزواج أو أيّ شيء من هذا القبيل.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">من الجدير بالذكر أنّ الخبر المزعوم انتشر على أنه في الأردن والعراق، والمغرب العربي.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_046vrpwbv.jpg\" style=\"height:323px; width:537px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "العراق",
+        "الأردن",
+        "المغرب",
+        "الجزائر",
+        "تونس"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل صفحات على مواقع التواصل الاجتماعي، منذ سنوات، صوراً تدّعي أنها للباس عرس أحرقه العريس بعدما رفضت عروسه السكن مع والدته.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_sga2i8qb5.jpg\" style=\"height:651px; width:513px\" /></span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"602\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmdhillaa5bar%2Fposts%2F1284718901727980&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 239,
+        "left": 3.08331298828125,
+        "path": "articles/1590588697غلاف.jpg",
+        "top": 27,
+        "totalHeight": 423,
+        "totalWidth": 433,
+        "watermark_path": "articles/watermark-1590588697غلاف.jpg",
+        "width": 425
+    },
+    "post_date": "2020-05-27T16:56:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/mdhillaa5bar/posts/1284718901727980",
+            "name": "المظلية الإخبارية",
+            "path": "published/0_1590588696_المظلية.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/tebessa2020/posts/694671657659376?__tn__=-R",
+            "name": "ولاية تبسة",
+            "path": "published/1_1590588697_تبسة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/1151244401563038/permalink/2403504079670391/",
+            "name": "نزهة ربيع",
+            "path": "published/2_1590588697_نزهة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/HussailZ0775145394/posts/2573245059631870",
+            "name": "تجمع شباب لواء الهاشمية",
+            "path": "published/3_1590588697_تجمع.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2627868013945918&id=738136316252440&__xts__[0]=68.ARD0ZjLL8MJo_kcHxipardSrPXb6bAjiifenFrj9-9Yw3PSSlZ0nkxI3TzXjvlZdNQUoj9huY0oM4EdFvjTtCcNCAZ-Prxr6GPvpWbL4Z6YMN7nCcJ1zDJvZwvM8-zIyB6wxtnVlOij3stujEslJ8tKTD-HpbB5Pj4EQbqaeyiK_cX_P0iV8toMuhg6-iDzvcjHhC7L9DOmOM0hU4q7NuEl_WhkPHKRmE4ZI_j7vrbaoTDFY1OwxhLHl1esg0ed7xQCTYlALV2lMZGXDGxhx95qrpuDkYZOd0kFQuKDeN0IbeNOvsXYNUSK-cgR0tXP0V-7mppWiRW2V4wx5mm6aQp800A&__tn__=-R",
+            "name": "قناة الكرك الفضائية",
+            "path": "published/4_1590588697_كرك.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://glgamesh.com/84102-.html",
+            "name": "وكالة كلكامش برس",
+            "path": "sources/0_1590588697_كلكامش.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "رفضت السكن مع أمه فأحرق ملابس عرسه.. ما القصة؟",
+    "updated_at": "2020-09-25 19:38:04",
+    "url_path": "/factcheck/2020/05/27/رفضت-السكن-مع-أمه-فأحرق-ملابس-عرسه-خبر-مضلل"
+}

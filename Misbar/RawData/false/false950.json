@@ -1,0 +1,76 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1853,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">صورة من بلدة سنجل شمال رام الله</p>\r\n",
+    "country": "PS",
+    "created_at": "2020-02-10 13:06:53",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e412b3dd4a22907fa148313",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تواصل &quot;مسبار&quot; مع الصحفي محمد غفري من بلدة سنجل قضاء رام الله، والذي أكد أنَّ هذه الصورة ليست من البلدة، كما لم تتساقط الثلوج على البلدة خلال الأيام الماضية، مشيراً إلى أنَّ من نشر هذه الصورة هو أحد مغتربي البلدة الذين يقيمون في كندا. &nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">يذكر أنَّ الصفحة قامت بتعديل النص المرفق مع الصورة، وحذفت الجملة التي تقول فيها إنها من بلدة سنجل شمال رام الله.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"FR\"><span style=\"color:#548dd4\"><img id=\"Picture_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/investigation_d6fa0jlq2.jpg\" style=\"height:352.5pt; width:402.75pt\" /> </span></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">نشرت الصفحة الرسمية الموثقة لصحيفة القدس على موقع فيسبوك، صورةً قالت إنها من بلدة سنجل شمال رام الله.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_5uljh1mrq.jpg\" style=\"height:716px; width:563px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 194,
+        "left": 2.7777557373046875,
+        "path": "articles/1581329213سنجل1.jpg",
+        "top": 89.96527099609375,
+        "totalHeight": 423,
+        "totalWidth": 352,
+        "width": 347
+    },
+    "post_date": "2020-02-09T10:56:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/alqudsnewspaper/photos/a.132788947983/10157260897772984/?type=3&theater",
+            "name": "القدس",
+            "path": "published/0_1581329213_صحيفة-القدس.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/mohammad.halloum.9",
+            "name": "Mohammad Karakra",
+            "path": "sources/0_1581329213_Mohammad Karakra.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/mohammad.ghafary",
+            "name": "محمد غفري",
+            "path": "sources/1_1581329213_محمد-غفري.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صورة خاطئة لبلدة سنجل على صحيفة القدس",
+    "updated_at": "2020-09-25 18:31:58",
+    "url_path": "/factcheck/2020/02/10/صورة-خاطئة-لبلدة-سنجل-على-صحيفة-القدس"
+}

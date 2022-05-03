@@ -1,0 +1,96 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2045,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "category": "News",
+    "claim": "<p>صورة تُظهر اثنين من عائلة كولت كلان الأسترالية، التي كانت تعيش حياة منعزلة في ظروف صحيّة مزرية.&nbsp;اكتشفت السلطات الأسترالية العائلة عام2012، وتضم 38 فرداً يعاني غالبية الأطفال فيها من تشوهاتٍ خلقيّة نتيجة ما يُعرف بـ &quot;زواج المحارم&quot;.</p>\r\n",
+    "country": "AU",
+    "created_at": "2019-10-21 17:03:42",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 3,
+    "feedback_pos": 4,
+    "id": "5dadbabebe494b62a2384ba0",
+    "investigation": "<p>في الحقيقة&nbsp;هذه الصورة ليست لأيٍّ من أفراد عائلة &quot;كولت كلان&quot;، إنما هي صورة&nbsp;التقطها المصور الأمريكي روجر بالن عام 1993 في جنوب افريقيا لـتوأمين يعانيان من إعاقةٍ ذهنية.</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p>نشرَ عددٌ من روّاد وسائل التواصل لاجتماعي وبعض الحسابات على &quot;يوتيوب&quot;، إضافة&nbsp;إلى مجموعة من المدوّنات والمواقع الالكترونية، صورة&nbsp;لاثنين من عائلة كولت كلان. وهي عائلة&nbsp;أسترالية تضم&nbsp;حوالي 38 فرداً كانت تعيش في ظروف صحيّة&nbsp;سيئة، ويعاني غالبية الأطفال فيها من تشوهات خلقية&nbsp;بسبب &quot;زواج المحارم&quot; الحاصل بين عدد من البالغين فيها.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><img src=\"https://images-prod.misbar.com/articlebody/origin_57d1079245837e377aef4623948aec88.jpg\" /></p>\r\n\r\n<p><img src=\"https://images-prod.misbar.com/articlebody/origin_8343abf93171570d0ce6cec6ea40554e.jpg\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 233,
+        "left": 5.522216796875,
+        "path": "articles/1571666622صورة المادة.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 423,
+        "width": 414
+    },
+    "post_date": "2019-10-20T16:28:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.roayahnews.com/articles/2019/09/17/11206/%D8%A3%D8%BA%D8%B1%D8%A8-%D8%B9%D8%A7%D8%A6%D9%84%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%AA%D8%B9%D8%B1%D9%81-%D8%B9%D9%84%D9%8A%D9%87%D8%A7",
+            "name": "شبكة رؤية الإخبارية",
+            "path": "published/0_1571666622_رؤية لوغو.jpg"
+        },
+        {
+            "link": "https://mahmoudwahee.blogspot.com/2018/10/blog-post_12.html",
+            "name": "برامج نت",
+            "path": "published/1_1571666622_برامج نت لوغو.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=DUrHziUx7X0",
+            "name": "عشوائيات فكرية",
+            "path": "published/2_1571666622_عشوائيات فكرية لوغو.jpg"
+        },
+        {
+            "link": "",
+            "name": "",
+            "path": ""
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://publicdelivery.org/roger-ballen-twins/",
+            "name": "Public Delivery",
+            "path": "sources/0_1571666622_public-delivery-logo.jpg"
+        },
+        {
+            "link": "https://www.rogerballen.com/articles/roger-ballen-beyond-the-mind/",
+            "name": "Roger Ballen",
+            "path": "sources/1_1571666622_rogerballen-logo.jpg"
+        },
+        {
+            "link": "https://www.mirror.co.uk/news/world-news/full-horror-colt-incest-clan-13250236?fbclid=IwAR2z237O5lMcWKGglfHQTfABOBdRoWORkIb3CEyOv6GQmuMYcc0jibheVeM",
+            "name": "Mirror",
+            "path": "sources/2_1571666622_Mirror-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل هذه الصورة لأفراد من عائلة كولت كلان؟",
+    "updated_at": "2020-09-25 21:31:07",
+    "url_path": "/factcheck/2019/10/21/هل-هذه-الصورة-لأفراد-من-عائلة-كولت-كلان"
+}

@@ -1,0 +1,159 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2762,
+    "author": {
+        "fullname": "أحمد بن خميس الفريقي",
+        "id": "5eb96d68db29164cdf087404",
+        "photo": {
+            "name": "1589210472_888.jpg",
+            "path": "authors/1589210472_888.jpg"
+        }
+    },
+    "caption": "نفت وزارة المالية العراقية الخبر المتداول (Getty)",
+    "category": "Politics",
+    "claim": "<p>المملكة العربية السعودية تقرض العراق 3 مليارات دولار من أجل تأمين رواتب الموظفين.</p>\r\n",
+    "country": "",
+    "created_at": "2020-05-24 20:35:01",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ecab045db29166fa46b3523",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الخبر وتبيّن أنّه&nbsp;زائف. إذ نفى وزير المالية العراقي علي علاوي الخبر المتداول. ولم تنشُر أية جهة رسمية عراقية أو سعودية شيئاً بهذا الخصوص.</p>\r\n\r\n<p dir=\"RTL\">والجدير ذكره&nbsp;أنَّ المملكة العربية السعودية أعادت&nbsp;فتح قنصلية لها في العراق في شهر أبريل/نيسان من عام 2019،&nbsp;وأعلنت عن حزمة مساعدات بقيمة مليار دولار.وكانت العلاقات بين البلدين انقطعت تماما في أعقاب غزو نظام الرئيس السابق صدام حسين الكويت&nbsp;عام 1990.<img src=\"https://images-prod.misbar.com/articlebody/investigation_9odb9r76m.jpg\" style=\"height:779px; width:560px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات على مواقع التواصل الاجتماعي تويتر في تاريخي 23 و 24 مايو/أيار من العام الجاري، خبراّ مفاده إقراض السعودية 3 مليارات دولار للعراق من أجل تأمين رواتب الموظفين.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_jf7v80lnh.jpg\" style=\"height:234px; width:546px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_6fl62du0b.jpg\" style=\"height:292px; width:562px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_1b27izr52.jpg\" style=\"height:396px; width:552px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_acgjbikew.jpg\" style=\"height:440px; width:501px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 154,
+        "left": 2.582244873046875,
+        "path": "articles/1590341700GettyImages-612133560.jpg",
+        "top": 1.8203125,
+        "totalHeight": 184,
+        "totalWidth": 278,
+        "watermark_path": "articles/watermark-1590341700GettyImages-612133560.jpg",
+        "width": 273
+    },
+    "post_date": "2020-05-24T20:16:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/alshafe90/status/1263983515944747012?s=19",
+            "name": "الكاتبة رؤى أيمن العبودي ",
+            "path": "published/0_1590341698_رؤى أمين.jpg"
+        },
+        {
+            "link": "https://twitter.com/EMYuKAMEqx4kTft/status/1263943395736764418?s=19",
+            "name": "لبوة العراق ",
+            "path": "published/1_1590341746_لبؤة العراق.jpg"
+        },
+        {
+            "link": "https://twitter.com/awadhalabdan/status/1263969231403712517?s=19",
+            "name": "Awadh Abdan",
+            "path": "published/2_1590341699_awadh.jpg"
+        },
+        {
+            "link": "https://twitter.com/afrah66737662/status/1263991695538098178?s=19",
+            "name": "Révolution ",
+            "path": "published/3_1590341699_revolution.jpg"
+        },
+        {
+            "link": "https://twitter.com/fahad2544/status/1264191422892253184?s=19",
+            "name": "Fahd Abdulah",
+            "path": "published/4_1590341699_fahad abdallah.jpg"
+        },
+        {
+            "link": "https://twitter.com/EmadAlmusafir73/status/1264111149878034432?s=19",
+            "name": "Emad Almousafir",
+            "path": "published/5_1590341699_imad al musafer.jpg"
+        },
+        {
+            "link": "https://twitter.com/INPPLUSarabi/status/1263995669041332225?s=19",
+            "name": "شبكة الصحافة العراقية +INP",
+            "path": "published/6_1590341699_INP.jpg"
+        },
+        {
+            "link": "https://twitter.com/mujahed_altaee/status/1264116976705773568?s=19",
+            "name": "مجاهد الطائي ",
+            "path": "published/7_1590341699_مجاهد الطائي.jpg"
+        },
+        {
+            "link": "https://twitter.com/saifsalahalhety/status/1263973253825155072?s=19",
+            "name": "سيف صلاح ",
+            "path": "published/8_1590341699_سيف صلاح.jpg"
+        },
+        {
+            "link": "https://twitter.com/just_be_iraqi/status/1263970075939418116?s=19",
+            "name": "OMAR Al-obaidi",
+            "path": "published/9_1590341699_omar al obaida.jpg"
+        },
+        {
+            "link": "https://facebook.com/groups/209364223713053?view=permalink&id=254032682579540",
+            "name": "أبو عبد الله العبيدي",
+            "path": "published/10_1590341699_ابو عبيدة.jpg"
+        },
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=587283205230091&id=367131303911950",
+            "name": "العراق نيوز",
+            "path": "published/11_1590341700_العراقنيوز.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://arabic.rt.com/business/1117323-%D9%84%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%8A%D9%86%D9%81%D9%8A-%D8%A7%D9%82%D8%AA%D8%B1%D8%A7%D8%B6%D9%87-3-%D9%85%D9%84%D9%8A%D8%A7%D8%B1-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9/",
+            "name": "RT",
+            "path": "sources/0_1590341700_RT.jpg"
+        },
+        {
+            "link": "http://www.nrttv.com/AR/News.aspx?id=26771&MapID=2",
+            "name": "NRT",
+            "path": "sources/1_1590341798_NRT.jpg"
+        },
+        {
+            "link": "https://www.thebaghdadpost.com/ar/Story/195617/%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9-%D8%AA%D9%83%D8%B4%D9%81-%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D8%A7%D9%82%D8%AA%D8%B1%D8%B6-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-3-%D9%85%D9%84%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA-%D8%AF%D9%88%D9%84%D8%A7%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9-%D9%84%D8%AF%D9%81%D8%B9-%D8%B1%D9%88%D8%A7%D8%AA%D8%A8-%D8%A7%D9%84%D9%85%D9%88%D8%B8%D9%81%D9%8A%D9%86",
+            "name": "بغداد بوست",
+            "path": "sources/2_1590341700_بغداد بوست.jpg"
+        },
+        {
+            "link": "https://www.google.com/amp/s/aawsat.com/home/article/2299361/%25D8%25B9%25D9%2584%25D8%25A7%25D9%2588%25D9%258A-%25D9%2584%25D9%2580%25C2%25AB%25D8%25A7%25D9%2584%25D8%25B4%25D8%25B1%25D9%2582-%25D8%25A7%25D9%2584%25D8%25A3%25D9%2588%25D8%25B3%25D8%25B7%25C2%25BB-%25D8%25A7%25D9%2584%25D8%25A7%25D8%25B3%25D8%25AA%25D8%25AB%25D9%2585%25D8%25A7%25D8%25B1%25D8%25A7%25D8%25AA-%25D8%25A7%25D9%2584%25D8%25B3%25D8%25B9%25D9%2588%25D8%25AF%25D9%258A%25D8%25A9-%25D9%2585%25D8%25AD%25D8%25B1%25D9%2583-%25D8%25B1%25D8%25A6%25D9%258A%25D8%25B3-%25D9%2584%25D8%25A5%25D8%25B9%25D8%25A7%25D8%25AF%25D8%25A9-%25D8%25A5%25D8%25B9%25D9%2585%25D8%25A7%25D8%25B1-%25D8%25A7%25D9%2584%25D8%25A8%25D9%2584%25D8%25A7%25D8%25AF%3famp",
+            "name": "صحيفة الشرق الأوسط ",
+            "path": "sources/3_1590341700_صحيفة الشرق.jpg"
+        },
+        {
+            "link": "http://mof.gov.iq/Pages/MainMof.aspx",
+            "name": "وزارة المالية العراقية ",
+            "path": "sources/4_1590341700_المالية العراقية.jpg"
+        },
+        {
+            "link": "https://www.mof.gov.sa/Pages/default.aspx",
+            "name": "وزارة المالية السعودية ",
+            "path": "sources/5_1590341700_المالية السعودية.jpg"
+        },
+        {
+            "link": "https://www.aljazeera.com/news/2019/04/saudi-arabia-reopen-consulate-iraq-pledges-1bn-aid-190404180418791.html",
+            "name": "ALJAZEERA",
+            "path": "sources/6_1590343487_الجزيرة.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "السعودية تقرض العراق 3 مليارات دولار.. خبر زائف",
+    "updated_at": "2020-09-25 10:00:40",
+    "url_path": "/factcheck/2020/05/24/السعودية-تقرض-العراق-3-مليار-دولار-خبر-زائف"
+}

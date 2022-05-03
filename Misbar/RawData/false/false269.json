@@ -1,0 +1,109 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 406,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "أكد ريال مدريد أن نتيجة العينة الثانية لأوديجارد جاءت سلبية (Getty)",
+    "category": "Sports",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">إصابة أوديجارد لاعب ريال مدريد بفايروس كورونا المستجد.</span></p>\r\n",
+    "country": "ES",
+    "created_at": "2020-09-23 14:43:54",
+    "created_by": "5f39b5a51dd585076701cb94",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f6b34fae293807a88417a14",
+    "investigation": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من الخبر وتبين أنه زائف ولم يصب أوديجارد بفايروس كورونا. أصل القصة أن بعض الصحف الإسبانية كشفت أن نادي ريال مدريد، قام بعمل فحوصات كورونا لجميع أعضاء الفريق بعد العودة من المشاركة أمام فريق ريال سوسييداد ببطولة الدوري، ليتم اكتشاف إصابة أوديجارد.</span></p>\r\n\r\n<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">وبعد هذه الأنباء، أكد ريال مدريد، أن نتيجة العينة الثانية لأوديجارد جاءت سلبية، لتثبت عدم صحة العينة الأولى. وأوضح النادي أن اللاعب أصبح جاهزاً الآن، للظهور مع الفريق في المباراة المقبلة ضد ريال بيتيس في بطولة الدوري.</span></p>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"ltr\">🇪🇸 <a href=\"https://twitter.com/hashtag/LaLiga?src=hash&amp;ref_src=twsrc%5Etfw\">#LaLiga</a><br />\r\n🚨 Test&eacute; une nouvelle fois, Martin Odegaard n&#39;a finalement pas le Coronavirus !<a href=\"https://t.co/bG0Q5NlSqT\">https://t.co/bG0Q5NlSqT</a></p>\r\n&mdash; beIN SPORTS (@beinsports_FR) <a href=\"https://twitter.com/beinsports_FR/status/1308693854871269376?ref_src=twsrc%5Etfw\">September 23, 2020</a></blockquote>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول مواقع إخبارية وحسابات وصفحات على مواقع التواصل الاجتماعي، منذ أمس الثلاثاء، خبراً مفاده إصابة النرويجي مارتين أوديجارد لاعب ريال مدريد الإسباني بفايروس كورونا المستجد.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_o8hvan2t4.jpg\" style=\"height:487px; width:481px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_vhmie2150.jpg\" style=\"height:496px; width:488px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_zavadehtt.jpg\" style=\"height:440px; width:478px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1600861434GettyImages-1273898908.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1600861434GettyImages-1273898908.jpg",
+        "width": 752
+    },
+    "post_date": "2020-09-23T14:34:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/oleehreal/status/1308524635118501889",
+            "name": "أوليه مدريد",
+            "path": "published/0_1600861433_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/marsadfootball/status/1308525990197501954",
+            "name": "مرصد كرة القدم",
+            "path": "published/1_1600861433_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/omar_alshbrm/status/1308521236864040964",
+            "name": "عمر الشبرم",
+            "path": "published/2_1600861433_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/AlgamiKhairy/status/1308530912737591296",
+            "name": "اوديجارد",
+            "path": "published/3_1600861433_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/OleehSport/status/1308527028367503361",
+            "name": "جريدة أوليه الرياضية",
+            "path": "published/4_1600861433_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/ammanjonews/status/1308627427971694593",
+            "name": "وكالة عمان جو الاخبارية",
+            "path": "published/5_1600861433_twitter.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/beinsports_FR/status/1308693854871269376",
+            "name": "beIN SPORTS",
+            "path": "sources/0_1600861433_beIN SPORTS.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لاعب ريال مدريد مارتين أوديجارد لم يصب بكورونا",
+    "updated_at": "2020-09-25 21:33:04",
+    "url_path": "/factcheck/2020/09/23/لاعب-ريال-مدريد-مارتين-أوديجارد-لم-يصب-بكورونا",
+    "was_notification_pushed": "true"
+}

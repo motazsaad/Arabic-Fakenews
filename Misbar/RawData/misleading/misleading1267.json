@@ -1,0 +1,81 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 20807,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "مقطع الفيديو في أذربيجان وليس إسبانيا (غوغل)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">الجيش والشرطة في إسبانيا ينفّذان حملة اعتقالات واسعة في الشوارع لكبار السنّ. الجيش يعتقل كلّ من تجاوز عمره الخمسين سنة ويضعهم في الحجر الصحي.</span></p>\r\n",
+    "country": "ES",
+    "created_at": "2020-04-08 12:56:14",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e8d9fbedb2916613e7d1914",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقّق &quot;مسبار&quot; من الادعاء ووجد أنه مضلل، لأن مقطع الفيديو حقيقي إلا أنه ليس في إسبانيا وليس لحملة عسكرية لاعتقال الناس هناك، وإنما يُظهر قمع الشرطة في أذربيجان لاحتجاجات هناك عام 2019.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/qZgzvJscqt8\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "كورونا",
+        "كوفيد-19",
+        "كورونا إسبانيا",
+        "إسبانيا"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تداولت صفحات على مواقع التواصل الاجتماعي مقطع فيديو ادّعت أنه يُظهر الحملة التي تشنّها قوّات الجيش والشرطة في إسبانيا لاحتجاز كلّ من جاوز عمره الخمسين سنة من أجل احتجازهم في الحجر الصحي.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F100014943668879%2Fvideos%2F808192889688826%2F&amp;show_text=0&amp;width=408\" style=\"border:none;overflow:hidden\" width=\"408\"></iframe></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_dp51mh3wl.jpg\" style=\"height:477px; width:422px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/158633977319_oktyabr_mitinqi_(Bakı).jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-158633977319_oktyabr_mitinqi_(Bakı).jpg",
+        "width": 752
+    },
+    "post_date": "2020-04-08T12:50:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/100014943668879/videos/808192889688826/",
+            "name": "أبو هزام عماد",
+            "path": "published/0_1586339773_أبوهزام-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/malmadrahi/posts/1594008894106195",
+            "name": "أبو أحمد",
+            "path": "published/1_1586339773_أبوأحمد-لوغو.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=qZgzvJscqt8",
+            "name": "Radio Free Europe/Radio Liberty",
+            "path": "sources/0_1586339773_Radio Free Europe-Radio Liberty.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "مقطع فيديو مضلل يدّعي احتجاز المسنّين في إسبانيا بسبب كورونا",
+    "title": "كورونا إسبانيا: حملة عسكرية لاعتقال المسنّين.. خبر مضلّل",
+    "updated_at": "2020-09-25 18:08:48",
+    "url_path": "/factcheck/2020/04/08/كورونا-إسبانيا-حملة-عسكرية-لاعتقال-المسنين-خبر-مضلل"
+}

@@ -1,0 +1,108 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 727,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "اعتمدت الصحيفة على مصدر مجهول دون دعم التقرير بمصادر (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">قطر تمول الحوثيين بطائرات مسيرة &quot;درون&quot; تستخدم لمهاجمة السعودية. وتدفع مليوني دولار للحوثيين.</p>\r\n",
+    "country": "QA",
+    "created_at": "2020-09-07 16:47:58",
+    "created_by": "5f39b1a61dd585077a49c0ab",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f563a0e6bb01d68762c8313",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">راجع &quot;مسبار&quot; تقرير صحيفة &quot;ذا ناشونال&quot; ووجد أنه يتضمن عدة&nbsp;مغالطات وجوانب من&nbsp;التضليل.&nbsp;يرصد&nbsp;&quot;مسبار&quot; هنا أهم تلك الجوانب.</p>\r\n\r\n<ol>\r\n\t<li dir=\"RTL\" style=\"text-align:right\"><strong>مصدر مجهول للعديد من الادعاءات دون إثباتات:</strong></li>\r\n</ol>\r\n\r\n<p dir=\"RTL\" style=\"margin-right:48px; text-align:right\">اعتمدت &quot;ذا ناشونال&quot; على مصدر مجهول يدعى &quot;جايسون جي&quot; <span dir=\"LTR\">Jason G</span> دون دعم التقرير بمصادر إضافية حول المعلومات المنقولة عن المصدر المجهول، وهو نفس المصدر الذي نقلت عنه شبكة فوكس نيوز سابقاً تقريرها حول تمويل قطر لحزب الله دون أي وثائق أو مستندات داعمة للادعاء. بالبحث&nbsp;عن المصدر المجهول لم يجد &quot;مسبار&quot; ما يثبت هويته أو أنه عمل في قطر سابقاً. ووجد أنَّ الكثير من التقارير التي تُنشر في صحف عربية وأجنبية ذات انحيازات معينة تعتمد على الاسم دون تقديم معلومات تعريفية عنه.</p>\r\n\r\n<p dir=\"RTL\" style=\"margin-right:48px; text-align:right\">اقرأ/ <a href=\"https://misbar.com/factcheck/2020/08/08/%D9%85%D8%BA%D8%A7%D9%84%D8%B7%D8%A7%D8%AA-%D9%88%D8%AA%D8%B6%D9%84%D9%8A%D9%84-%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D9%81%D9%88%D9%83%D8%B3-%D9%86%D9%8A%D9%88%D8%B2-%D8%B9%D9%86-%D8%AF%D8%B9%D9%85-%D9%82%D8%B7%D8%B1-%D9%84%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87\" style=\"color:#0563c1; text-decoration:underline\">مغالطات وتضليل: تقرير فوكس نيوز عن دعم قطر لحزب الله</a></p>\r\n\r\n<p dir=\"RTL\" style=\"margin-right:48px; text-align:right\">&nbsp;</p>\r\n\r\n<ol start=\"2\">\r\n\t<li dir=\"RTL\" style=\"text-align:right\"><strong>الانتقائية والتضليل في التقرير:</strong></li>\r\n</ol>\r\n\r\n<p dir=\"RTL\" style=\"margin-right:48px; text-align:right\">اعتمدت &quot;ذا ناشونال&quot; على معلومات انتقائية من أكثر من تقرير، منها تقرير فوكس نيوز، دون الإشارة إلى أوجه أخرى من الحقيقة، إذ ذكرت&nbsp;أنَّ المخابرات الألمانية تحققت من صحة ما جاء في تقرير فوكس نيوز، إلا أنَّ &quot;مسبار&quot; لم يجد مرجعاً ولا دليلاً على ذلك.&nbsp;وكان &quot;مسبار&quot;&nbsp;أوضح&nbsp;سابقاً أنَّ الحكومة الألمانية قامت بالاعتذار عن ادعاء وزير التطوير وصرحت أنه لا يوجد أي دليل على صحة الادعاء بأنَّ قطر تدعم داعش.</p>\r\n\r\n<p dir=\"RTL\" style=\"margin-right:48px; text-align:right\">&nbsp;</p>\r\n\r\n<ol start=\"3\">\r\n\t<li dir=\"RTL\" style=\"text-align:right\"><strong>تعدد الادعاءات وعدم ارتباطها:</strong></li>\r\n</ol>\r\n\r\n<p dir=\"RTL\" style=\"margin-right:48px; text-align:right\">اعتمد التقرير على تجميع العديد من الادعاءات من سياقات زمنية مختلفة، مثل دعم إيران للحوثيين، ودعم قطر لحزب الله، وادعاءات تحذير البحرين من الهجمات، وغيرها دون ذكر أدلة تثبت ذلك، ولكن ليظهر التقرير بمظهر التقرير الشامل الذي يغطي العديد من الجوانب.</p>\r\n\r\n<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">يذكر أنَّ وزارة الخارجية الأميركية صرحت في بيان لها على موقعها بتاريخ 12 أغسطس/آب الجاري بأن &quot;منسق مكافحة الإرهاب السفير ناثان أ. سيلز سافر إلى الدوحة في 12 أغسطس/آب ليشكر دولة قطر على التزامها بمكافحة الإرهاب العالمي وتفانيها في إقامة شراكة قوية مع الولايات المتحدة بشأن مكافحة الإرهاب والأمن</span>&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">وأضاف تصريح وزارة الخارجية الأميركية بأن اللقاء يجمع السفير سيلز مع النائب العام علي بن فطيس المري ومسؤولين حكوميين كبار آخرين؛ لمناقشة دور قطر كشريك قوي في مكافحة تمويل الإرهاب، بما في ذلك تنفيذ برنامج مكافحة غسل الأموال، ومكافحة تمويل الإرهاب الجديد.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">جاءت تلك التصريحات بعد نشر ادعاءات فوكس نيوز وغيرها من الصحف بأنَّ قطر تمول حزب الله والإرهاب في المنطقة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">اقرأ/ <a href=\"https://misbar.com/factcheck/2020/08/18/%D8%A7%D9%84%D9%88%D9%81%D8%AF-%D8%A7%D9%84%D8%A3%D9%85%D9%86%D9%8A-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A-%D9%84%D9%85-%D9%8A%D8%B5%D9%84-%D8%A5%D9%84%D9%89-%D9%82%D8%B7%D8%B1-%D9%84%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82-%D9%81%D9%8A-%D8%AA%D9%85%D9%88%D9%8A%D9%84%D9%87%D8%A7-%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87\" style=\"color:#0563c1; text-decoration:underline\">الوفد الأمني الأميركي لم يصل إلى قطر للتحقيق في تمويلها لحزب الله</a></p>\r\n\r\n<p style=\"margin-left:48px; text-align:center\"><img alt=\"A screenshot of a cell phone\r\n\r\nDescription automatically generated\" src=\"https://images-prod.misbar.com/articlebody/investigation_wu6m5pbdx.jpg\" style=\"height:469px; width:468px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">كما راجع مسبار ادعاء صحيفة &quot;ذا غولف&quot; بأن قطر تدفع مليوني دولار شهرياً ووجد أن الادعاء فيه تضليل&nbsp;</p>\r\n\r\n<ul dir=\"rtl\">\r\n\t<li style=\"text-align:justify\">ذكرت الصحيفة أنها تمتلك وثائق تبين دفع قطر للحوثيين عبر مؤسسة قطر الخيرية، إلا أنها لم تعرض تلك الوثائق بل اكتفت بنشر نص مكتوب على أنه نص الوثيقة</li>\r\n\t<li style=\"text-align:justify\">كما أن التقرير كاملاً كان يستند إلى مصدر، وهو مصدر مجهول أيضاً دون التعريف به، وبدلاً من نشر الوثائق قامت بالاستناد إلى المصدر المجهول في تقريرها.</li>\r\n</ul>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><span dir=\"LTR\"><img alt=\"A screenshot of a cell phone\r\n\r\nDescription automatically generated\" src=\"https://images-prod.misbar.com/articlebody/investigation_k4gtj5db7.jpg\" style=\"height:456px; width:468px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:#022859\">اقرأ أيضاً:</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:#022859\"><a href=\"https://misbar.com/editorial/2020/05/09/%D8%A7%D9%84%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8-%D8%A7%D9%84%D8%B0%D9%8A-%D9%84%D9%85-%D9%8A%D9%83%D9%86-%D9%83%D9%8A%D9%81-%D8%A7%D9%86%D8%AA%D8%B4%D8%B1%D8%AA-%D8%B4%D8%A7%D8%A6%D8%B9%D8%A7%D8%AA-%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8-%D9%82%D8%B7%D8%B1\" style=\"box-sizing:border-box; background:unset !important; text-align:unset !important; color:#0563c1; text-decoration:underline\" target=\"_blank\"><span style=\"color:#2980b9\">كيف صنعوا انقلاب قطر على تويتر فقط؟</span></a></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:#022859\"><a href=\"https://misbar.com/editorial/2019/10/31/%D8%B4%D8%B1%D9%83%D8%A7%D8%AA-%D9%84%D8%AA%D8%B1%D9%88%D9%8A%D8%AC-%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D9%83%D8%A7%D8%B0%D8%A8%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%86%D8%B7%D9%82%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9\" style=\"box-sizing:border-box; background:unset !important; text-align:unset !important; color:#0563c1; text-decoration:underline\" target=\"_blank\"><span style=\"color:#2980b9\">شركات لترويج الأخبار الكاذبة في المنطقة العربية</span></a></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:#022859\"><a href=\"https://misbar.com/factcheck/2020/03/10/%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D8%A6%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A-%D9%81%D9%8A-%D8%B1%D8%B5%D8%AF-%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D9%81%D9%8A%D8%B3%D8%A8%D9%88%D9%83-%D8%B9%D9%86-%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B2%D8%A7%D8%A6%D9%81%D8%A9\" style=\"box-sizing:border-box; background:unset !important; text-align:unset !important; color:#0563c1; text-decoration:underline\" target=\"_blank\"><span style=\"color:#2980b9\">انتقائية الإعلام العربي في رصد تقرير &quot;فيسبوك&quot; عن الأخبار الزائفة</span></a></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:#022859\"><a href=\"https://misbar.com/editorial/2020/07/13/%D8%AE%D8%A8%D8%B1%D8%A7%D8%A1-%D9%88%D9%87%D9%85%D9%8A%D9%88%D9%86-%D9%82%D8%A7%D8%AF%D9%88%D8%A7-%D8%AD%D9%85%D9%84%D8%A7%D8%AA-%D8%AF%D8%B9%D8%A7%D8%A6%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%A3%D9%88%D8%B3%D8%B7\" style=\"box-sizing:border-box; background:unset !important; text-align:unset !important; color:#0563c1; text-decoration:underline\" target=\"_blank\"><span style=\"color:#2980b9\">خبراء وهميُّون قادوا حملات دعائية في الشرق الأوسط</span></a></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:#022859\"><a href=\"https://misbar.com/editorial/2020/05/19/%D8%A7%D9%84%D8%AC%D9%8A%D9%88%D8%B4-%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%D8%A9-%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9-%D8%A7%D9%84%D8%A5%D8%AC%D9%85%D8%A7%D8%B9-%D9%88%D8%AA%D8%B3%D9%85%D9%8A%D9%85-%D8%A7%D9%84%D9%81%D8%B6%D8%A7%D8%A1-%D8%A7%D9%84%D8%B9%D9%85%D9%88%D9%85%D9%8A\" style=\"box-sizing:border-box; background:unset !important; text-align:unset !important; color:#0563c1; text-decoration:underline\" target=\"_blank\"><span style=\"color:#2980b9\">الجيوش الإلكترونية: اصطناع الإجماع وتسميم الفضاء العمومي</span></a></span></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">ادعت صحيفة &quot;ذا ناشونال&quot; الإماراتية والتي تصدر باللغة الإنجليزية أنَّ قطر تموّل الحوثيين بطائرات مسيرة تستخدم لمهاجمة السعودية، وكانت تلك الادعاءات عبر شخصية مجهولة تسمى &quot;جايسون جي&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"AR-SA\"><img alt=\"A screenshot of a cell phone\r\n\r\nDescription automatically generated\" src=\"https://images-prod.misbar.com/articlebody/origin_dv5hq25wy.jpg\" style=\"height:121px; width:468px\" /></span></p>\r\n\r\n<p dir=\"RTL\">كما أن صحيفة &quot;ذا غولف&quot; الإماراتية ادعت في تقريرٍ لها أن قطر تدفع مليوني دولار شهرياً للحوثيين وأنها تمتلك وثائق بذلك</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><span dir=\"LTR\"><img alt=\"A screenshot of a cell phone\r\n\r\nDescription automatically generated\" src=\"https://images-prod.misbar.com/articlebody/origin_mhawjhpq2.jpg\" style=\"height:170px; width:468px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 353,
+        "left": 3.81707763671875,
+        "path": "articles/1599486477GettyImages-1267699517.jpg",
+        "top": 35.053466796875,
+        "totalHeight": 423,
+        "totalWidth": 635,
+        "watermark_path": "articles/watermark-1599486477GettyImages-1267699517.jpg",
+        "width": 628
+    },
+    "post_date": "2020-09-07T16:34:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.thenational.ae/world/gcc/qatar-paid-for-houthi-drones-used-in-attacks-on-saudi-arabia-1.1072648",
+            "name": "The National",
+            "path": "published/0_1599486577_E7waNDRs_400x400.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://english.alarabiya.net/en/News/gulf/2020/07/19/Qatar-paid-to-stop-consultant-revealing-terror-funding-of-Hezbollah-Report",
+            "name": "Al Arabiya English",
+            "path": "published/1_1599486577_VzB3ucsy_200x200.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://alkhaleejtoday.co/international/5038600/Qatar-paid-for-Houthi-attacks-on-Saudi-Arabia-report-claims.html",
+            "name": "AlKhaleej Today",
+            "path": "published/2_1599486577_logo copy.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://gulfnews.com/photos/news/inside-the-frost-magical-ice-of-siam-park-outside-pattaya-1.1599215760577?slide=9",
+            "name": "Gulf News",
+            "path": "published/3_1599570473_Zbiu5Z5P_400x400.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://misbar.com/factcheck/2020/08/08/%D9%85%D8%BA%D8%A7%D9%84%D8%B7%D8%A7%D8%AA-%D9%88%D8%AA%D8%B6%D9%84%D9%8A%D9%84-%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D9%81%D9%88%D9%83%D8%B3-%D9%86%D9%8A%D9%88%D8%B2-%D8%B9%D9%86-%D8%AF%D8%B9%D9%85-%D9%82%D8%B7%D8%B1-%D9%84%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87",
+            "name": "Misbar - مسبار",
+            "path": "sources/0_1599486577_QrtnaNUC_400x400.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://washington.embassy.qa/en/news/detail/1441/12/16/statement-on-inaccurate-foxnews.com-opinion-piece",
+            "name": "Qatar Embassy USA",
+            "path": "sources/1_1599486577_I5HhYfjF_400x400.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.state.gov/coordinator-for-counterterrorism-ambassador-nathan-a-sales-travels-to-qatar/",
+            "name": "U.S. Department of State",
+            "path": "sources/2_1599486577_OgWjlvES_400x400.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "مصدر مجهول لتقارير تهاجم قطر بادعاءات غير مثبتة",
+    "title": "مصدر مجهول لتقارير تهاجم قطر بادعاءات غير مثبتة",
+    "updated_at": "2020-09-25 08:46:45",
+    "url_path": "/factcheck/2020/09/07/مصدر-مجهول-لتقارير-تهاجم-قطر-بادعاءات-غير-مثبتة",
+    "was_notification_pushed": "true"
+}

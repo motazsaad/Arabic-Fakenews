@@ -1,0 +1,165 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 700,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "الصورة لعسكري يُدعى سلالو بلال التحق بالمغرب عام 2019 (تويتر)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">قيادي عسكري من<span dir=\"LTR\" lang=\"AR-SA\">&nbsp;&lrm;</span>البوليساريو يُدعى بابا البشير يلتحق بالمغرب ويدخل بسيارته رباعية الدفع وسلاح كلاشينكوف بعد اجتياز الجدار الرملي وتسليم نفسه للقوات المسلحة الملكية فجر الخميس.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;</p>\r\n",
+    "country": "MA",
+    "created_at": "2020-11-21 16:50:55",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 26,
+    "feedback_pos": 22,
+    "id": "5fb91b3f85beee38692b3770",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;<a href=\"https://misbar.com/statistics\" style=\"color:blue; text-decoration:underline\">مسبار</a>&quot; من الخبر المتداول والصور المرافقة له، ووجد أنها قديمة ومضللة، وليست لالتحاق عسكري من جبهة البوليساريو بالقوات المغربية، خلال المواجهات الأخيرة بين الجبهة والجيش المغربي.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وتعود القصة إلى مارس/آذار عام 2019، حين نشرت وسائل إعلام مغربية خبر التحاق القيادي العسكري في جبهة البوليساريو &quot;سلامو بلال&quot;، الذي ينتمي إلى &quot;درك الناحية الخامسة&quot; من &quot;دائرة الحكونية&quot;، بالقيادة العسكرية المغربية في منطقة الفارسية &quot;واد درعة&quot;.</p>\r\n\r\n<p dir=\"RTL\">ولم تذكر وسائل إعلامية رسمية مغربية، التحاق عسكري من جبهة البوليساريو يدعى &quot;بابا البشير&quot; بالقوات التابعة لها مؤخراً.<br />\r\n<br />\r\n<span dir=\"LTR\"><img alt=\"11.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_1poraow7a.jpg\" style=\"height:610px; width:495px\" /><img alt=\"8.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_lm9g66q8o.jpg\" style=\"height:345px; width:605px\" /></span><br />\r\n<br />\r\nيُذكر أن مواجهات اندلعت بين الجيش المغربي وجبهة البوليساريو في معبر الكركرات الحدودي، منذ يوم 13 نوفمبر/تشرين الثاني الجاري، بعد إعلان القيادة العسكرية المغربية، في بيان لها أنها قامت، &quot;بوضع <a href=\"https://www.bbc.com/arabic/interactivity-54953150\" style=\"color:blue; text-decoration:underline\">حزام أمني</a> من أجل تأمين تدفق السلع والأفراد عبر المنطقة العازلة للكركرات&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><strong>اقرأ/ي أيضاً</strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/11/20/%D8%B5%D9%88%D8%B1%D8%A9-%D9%82%D8%AF%D9%8A%D9%85%D8%A9-%D9%84%D8%AD%D8%B7%D8%A7%D9%85-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D9%85%D8%B3%D9%8A%D8%B1%D8%A9-%D9%84%D8%A7-%D8%B9%D9%84%D8%A7%D9%82%D8%A9-%D9%84%D9%87%D8%A7-%D8%25\" style=\"color:blue; text-decoration:underline\">صورة قديمة لحطام طائرة مسيّرة لا علاقة لها بمعارك الصحراء الغربية الأخيرة</a></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><u><a href=\"https://misbar.com/factcheck/2020/11/20/%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D9%82%D8%AF%D9%8A%D9%85%D8%A9-%D9%88%D9%84%D9%8A%D8%B3%D8%AA-%D9%85%D9%86-%D8%A7%D9%84%D9%85%D8%B9%D8%A7%D8%B1%D9%83-%D8%A7%D9%84%D8%A3%D8%AE%D9%8A%D8%B1%D8%A9-%D8%A8%D9%8A%D9%86-%D8%25A\" style=\"color:blue; text-decoration:underline\">الصور قديمة وليست من المعارك الأخيرة بين البوليساريو والمغرب</a></u></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات وحسابات على مواقع التواصل الاجتماعي، حديثاً، خبراً يدعي التحاق قيادي عسكري من<span dir=\"LTR\" lang=\"AR-SA\">&nbsp;&lrm;</span>البوليساريو، يُدعى بابا البشير، بالمغرب، ودخوله بسيارة رباعية الدفع وسلاح كلاشينكوف، بعد اجتياز الجدار الرملي وتسليم نفسه للقوات المسلحة الملكية فجر الخميس. وأرفق الخبر بصور للعسكري وبطاقة هويته.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"background-color:white\"><span dir=\"LTR\"><span style=\"color:#050505\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_oecalmbd2.jpg\" style=\"height:558px; width:493px\" /></span></span><br />\r\n<span dir=\"LTR\"><span style=\"color:#050505\"><img alt=\"0.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_19s4wi89s.jpg\" style=\"height:490px; width:509px\" /></span></span><br />\r\n<span dir=\"LTR\"><span style=\"color:#050505\"><img alt=\"00.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_tzd0me2j4.jpg\" style=\"height:595px; width:463px\" /></span></span></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 371,
+        "left": 39.239990234375,
+        "path": "articles/1605966655officierTindouf3_653918944.jpg",
+        "top": 6.603759765625,
+        "totalHeight": 423,
+        "totalWidth": 714,
+        "watermark_path": "articles/watermark-1605966655officierTindouf3_653918944.jpg",
+        "width": 660
+    },
+    "post_date": "2020-11-21T14:31:00.000+03:00",
+    "published": [
+        {
+            "id": "5fb91b3e1370513a2a318578",
+            "link": "https://www.facebook.com/permalink.php?id=379561725549429&story_fbid=1616240378548218",
+            "name": "Mirleft24 ميرلفت",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5fb91b3eb2eac845df6f7935",
+            "link": "https://www.facebook.com/nabaratchiadma/posts/198281255131797",
+            "name": "Tones of Chiadma - نبرات الشياظمة",
+            "origin": "facebook",
+            "path": "sources/b26536129d73c470e07d064f67a9773343a934d2.jpg"
+        },
+        {
+            "id": "5fb91b3e9009e021ad425b3e",
+            "link": "https://www.facebook.com/Kingmed6/posts/3497928406990160",
+            "name": "محبي الملك محمد السادس",
+            "origin": "facebook",
+            "path": "sources/f595119f1a993e1d54bfc1ef58f83a03de0b443e.jpg"
+        },
+        {
+            "id": "5fb91b3e841ca76a1d70da25",
+            "link": "https://twitter.com/ha_haboha/status/1329803603004051464",
+            "name": "فاضح البوليساريو",
+            "origin": "twitter",
+            "path": "sources/51901e2f36a88c6da35009a6e6ca5e8353831c9f.jpg"
+        },
+        {
+            "id": "5fb91b3ed49edf4956382faf",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=450617602997096&id=121629439229249",
+            "name": "Maroc Press - ماروك بريس",
+            "origin": "facebook",
+            "path": "sources/d41b5641225c2c719800eee56d3ea73d439ca1c7.jpg"
+        },
+        {
+            "id": "5fb91b3e04947d20f65fd1d6",
+            "link": "https://twitter.com/MouludaH/status/1329832731186905089",
+            "name": "فضائح جبهة البوليساريو",
+            "origin": "twitter",
+            "path": "sources/6915b0d575e9557e810e3feec3ffb872116cfd53.jpg"
+        },
+        {
+            "id": "5fb91b3ecbe30573ef14dea6",
+            "link": "https://ardbladi.com/%D9%82%D9%8A%D8%A7%D8%AF%D9%8A-%D9%81%D8%B9%D8%B3%D9%83%D8%B1-%D8%A7%D9%84%D8%A8%D9%88%D9%84%D9%8A%D8%AE%D8%A7%D8%B1%D9%8A%D9%88-%D9%87%D8%B1%D8%A8-%D9%88-%D8%B3%D9%84%D9%85-%D9%86%D9%81%D8%B3%D9%87/",
+            "name": "أرض بلادي",
+            "origin": "",
+            "path": "sources/f27cd67f3d7ecb21df30a02e1d2a747f5cc8ab03.jpg"
+        },
+        {
+            "id": "5fb91b3ea6ac1f6929605be6",
+            "link": "https://twitter.com/AzmaniMouhieddi/status/1329912363848519681",
+            "name": "Azmani Mouhieddine",
+            "origin": "twitter",
+            "path": "sources/7b973d2a0c36060f53b11afdc88a1366a8c963fb.jpg"
+        },
+        {
+            "id": "5fb91b3eae0df817d829a309",
+            "link": "https://twitter.com/ZargiyaB/status/1329802134980882432",
+            "name": "zargiya mant baiba",
+            "origin": "twitter",
+            "path": "sources/ee8a3431cd02942516fddf9e1121355df8b8bc94.jpg"
+        },
+        {
+            "id": "5fb91b3e26a2c7604b1beb19",
+            "link": "https://twitter.com/khatrisaid1/status/1329825065286963201",
+            "name": "khatri said",
+            "origin": "twitter",
+            "path": "sources/66939449bdd0a0208096bfa6b9334d0ed6c50f98.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f91b84585c9fb2f0d4b500a",
+            "link": "https://www.bbc.com/arabic/interactivity-54953150",
+            "name": "BBC ",
+            "origin": "",
+            "path": "sources/1_1589372500_BBC NEWS-logo.jpg"
+        },
+        {
+            "id": "5f91ba20b18338501b645532",
+            "link": "https://www.hespress.com/orbites/426036.html",
+            "name": "هسبريس",
+            "origin": "",
+            "path": "published/1_1594721218_هسبريس.JPG"
+        },
+        {
+            "id": "5fb91b3f36b808315a11aa0f",
+            "link": "http://sahrahorra.info/2019/03/21/1785/",
+            "name": "صحراء حرة",
+            "origin": "",
+            "path": "sources/82ee0b8b70d294bbabc366a280e4f2cfa4a58f6f.jpg"
+        },
+        {
+            "id": "5fb91cc84a4ce07cca43d65d",
+            "link": "https://www.mapnews.ma/ar/actualites/politique",
+            "name": "وكالة المغرب العربي للأنباء",
+            "origin": "",
+            "path": "sources/2f10a4d62f306c4d6ead053263dc8223457b7f7f.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "قصة التحاق عسكري من البوليساريو بالمغرب قديمة وليست من الأحداث الأخيرة",
+    "updated_at": "2020-11-21 16:58:27",
+    "url_path": "/factcheck/2020/11/21/قصة-التحاق-عسكري-من-البوليساريو-بالمغرب-قديمة-وليست-من-الأحداث-الأخيرة",
+    "was_notification_pushed": "true"
+}

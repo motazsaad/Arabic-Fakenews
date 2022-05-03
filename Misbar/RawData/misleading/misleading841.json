@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 253,
+    "author": {
+        "fullname": "مريم هواري",
+        "id": "5e299460d4a22939983a3ec5",
+        "photo": {
+            "path": "authors/1579791192_Maryam.jpg"
+        }
+    },
+    "caption": "تحويل فضلات الفاكهة لوقود ليس بأمرٍ حديثٍ (Getty)",
+    "category": "Technology",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">ابتكار &quot;إسرائيلي&quot; لتحويل البطيخ لمادّة وقود حيوي.</p>\r\n",
+    "country": "IL",
+    "created_at": "2020-07-29 12:52:28",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f2146dc163be3070260822c",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الخبر ووجد أنّه مضلل. إذ أنّ إنتاج مادة الإيثانول الحيوي (Bioethanol) ليس بابتكارٍ &quot;إسرائيليٍ&quot;، ولا يُعدّ&nbsp;اكتشافاً حديثاً. فقد نشر قسم خدمات البحوث الزراعية (ARS) التابع لوزارة الزراعة الأميركية، <a href=\"http://www.ars.usda.gov/news-events/news/research-news/2009/watermelons-tapped-for-ethanol/\"><span style=\"color:#e74c3c\">بحثاً </span></a>عام 2009 والّذي أظهر أن من الممكن تحويل السكر المتواجد في عصير البطيخ إلى مادة الإيثانول. ونشرت <a href=\"http://nopr.niscair.res.in/bitstream/123456789/44362/1/IJBT%2016%284%29%20663-666.pdf\"><span style=\"color:#e74c3c\">المجلّة العلمية الهندية للتكنولوجيا الحيوية</span></a>، بحثاً عام 2017، عن إنتاج الإيثانول الحيوي من قشرة البطيخ، وفي عام 2019، نشرت <a href=\"http://onlinelibrary.wiley.com/doi/pdf/10.1111/jfpe.13283\"><span style=\"color:#e74c3c\">المجلّة العلمية لهندسة الغذاء</span></a> بحثاً لعُلماء إيرانيين، عن تقنيات تحويل فضلات البطّيخ إلى مادة الإيثانول. ولا يُعتبر موضوع تحويل فضلات الفاكهة إلى الإيثانول الحيوي بأمرٍ جديدٍ، فقد <a href=\"http://www.hilarispublisher.com/open-access/production-of-bioethanol-from-fruit-wastes-banana-papaya-pineapple-and-mango-peels-under-milder-conditions-2155-9821-1000327.pdf\"><span style=\"color:#e74c3c\">نُشرت </span></a><a href=\"http://link.springer.com/article/10.1007/s13399-019-00436-y\"><span style=\"color:#e74c3c\">عدّة </span></a><a href=\"http://onlinelibrary.wiley.com/doi/abs/10.1002/9781119434436.ch20\"><span style=\"color:#e74c3c\">أبحاث </span></a>بهذا الخصوص، كجزء من البحث عن مصادر طاقة متجدّدة بديلة، أقل تكلفة وضرراً للبيئة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_8yorrj1y8.jpg\" style=\"height:450px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_ewadg1qt5.jpg\" style=\"height:390px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_oculigno4.jpg\" style=\"height:553px; width:431px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_yxtuuol22.jpg\" style=\"height:502px; width:624px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">تداولت صفحات وزارة الخارجية &quot;الإسرائيلية&quot; باللغة العربية على مواقع التواصل الاجتماعي فيسبوك وتويتر، خبراً بتاريخ 28 يوليو/تموز الجاري، مفاده اكتشاف مجموعة باحثين &quot;إسرائيليين&quot;، إمكانية تحويل فضلات البطيخ إلى مادّة الإيثانول، والّتي تُعتبر وقوداً طبيعياً صديقاً للبيئة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_5odm6ufh2.jpg\" style=\"height:662px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_wvd65v5hf.jpg\" style=\"height:754px; width:591px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 147,
+        "left": 3.131011962890625,
+        "path": "articles/1596016347GettyImages-1158940933.jpg",
+        "top": 26.6826171875,
+        "totalHeight": 178,
+        "totalWidth": 267,
+        "watermark_path": "articles/watermark-1596016347GettyImages-1158940933.jpg",
+        "width": 262
+    },
+    "post_date": "2020-07-29T12:42:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/IsraelArabic/status/1288025751401500673",
+            "name": "إسرائيل بالعربية",
+            "path": "published/1_1596016347_Untitled.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/IsraelArabic/posts/3179022858801767",
+            "name": "إسرائيل تتكلم بالعربية",
+            "path": "published/1_1596017117_Untitled.jpg"
+        },
+        {
+            "link": "https://www.ynetnews.com/environment/article/ry624mvgD",
+            "name": "Ynet",
+            "path": "published/2_1596017117_ynet.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.ars.usda.gov/news-events/news/research-news/2009/watermelons-tapped-for-ethanol/",
+            "name": "ARS",
+            "path": "sources/0_1596016347_ARS.jpg"
+        },
+        {
+            "link": "https://www.sciencedaily.com/releases/2009/05/090522180918.htm",
+            "name": "Science Daily",
+            "path": "sources/1_1596016347_science daily.jpg"
+        },
+        {
+            "link": "file:///C:/Users/ASUS/Dropbox/Maryam%20Hawari/7.%20July%202020/Fact%20Check/%D9%85%D8%B9%D9%82%D9%85%20%D8%A7%D9%84%D8%A8%D8%B7%D9%8A%D8%AE/IJBT%2016(4)%20663-666.pdf",
+            "name": "Indian Journal of Biotechnology",
+            "path": "sources/2_1596016347_indian journal.jpg"
+        },
+        {
+            "link": "https://onlinelibrary.wiley.com/doi/pdf/10.1111/jfpe.13283",
+            "name": "Journal of Food Processing engineering",
+            "path": "sources/3_1596016347_wiley.jpg"
+        },
+        {
+            "link": "https://onlinelibrary.wiley.com/doi/abs/10.1002/9781119434436.ch20",
+            "name": "Bioprocessing for Biomolecules Production",
+            "path": "sources/4_1596016347_bioprocessing.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "تحويل فضلات البطيخ لوقود طبيعي، ليس ابتكاراً \"إسرائيلياً\" ",
+    "updated_at": "2020-09-25 09:15:51",
+    "url_path": "/factcheck/2020/07/29/تحويل-فضلات-البطيخ-لوقود-طبيعي-ليس-بابتكار-إسرائيلي"
+}

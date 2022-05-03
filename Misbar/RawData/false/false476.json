@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 623,
+    "author": {
+        "fullname": "هيثم جودية",
+        "id": "5e295291d4a2296ff0065605",
+        "photo": {
+            "name": "1579766417_هيثم .JPG",
+            "path": "authors/1579766417_هيثم .JPG"
+        }
+    },
+    "caption": "ناسا غير مختصة بعلم التنجيم(Nasa)",
+    "category": "Entertainment",
+    "claim": "<p>وكالة الفضاء الأميركية (ناسا)تحدد تواريخ الأبراج، وتزيد عددها إلى 13 برجاً، وذلك بعد إضافة برج &quot;حامل الثعبان&quot; <span dir=\"LTR\" lang=\"EN-US\">(Ophiuchus)</span>.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-07-17 22:38:36",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f11fe3c163be306875c4a31",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; ووجد أن الادعاء زائف؛ إذ نشرت ناسا على موقعها الإلكتروني أن مهمتها دراسة علم الفلك وليس علم التنجيم وانها لم تغير أياً من تواريخ الأبراج.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_3h3o5p94z.jpg\" style=\"height:495px; width:554px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">كما تبين بالبحث أن ناسا كانت نفت تدخلها في قضية الأبراج بتاريخ 21 ايلول عام 2016.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_jemb2ljsm.jpg\" style=\"height:495px; width:554px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات على مواقع التواصل الاجتماعي في اليومين الماضيين أنباء عن قيام وكالة الفضاء الأميركية (ناسا)بتحديد تواريخ الأبراج وزيادة عددها إلى 13 برجاً، وذلك بعد إضافة برج &quot;حامل الثعبان&quot; <span dir=\"LTR\" lang=\"EN-US\">(Ophiuchus)</span>.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وتم خلال الادعاء تحديد أيام كل برج إذ تراوحت بين 7 أيام لبرج العقرب (اقل برج عدداً في الأيام) وذلك في الفترة ما بين 23 نوفمبر/ تشرين الثاني ولغاية 29 نوفمبر/ تشرين الثاني، و44 يوما لبرج العذراء (أطول برج عدداً في الأيام)، وتم تحديده ما بين 16 سبتمبر/ أيلول إلى 30 تشرين الأول/ أكتوبر.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_nlnzlv3xb.jpg\" style=\"height:497px; width:395px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_quxpgwlwr.jpg\" style=\"height:423px; width:399px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_tjnxy4v7s.jpg\" style=\"height:463px; width:497px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_fv3cls0ce.jpg\" style=\"height:501px; width:297px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_obouemesj.jpg\" style=\"height:593px; width:409px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 410,
+        "left": -42.0555419921875,
+        "path": "articles/1595014716ناسا11.JPG",
+        "top": 1.25,
+        "totalHeight": 423,
+        "totalWidth": 761,
+        "watermark_path": "articles/watermark-1595014716ناسا11.JPG",
+        "width": 729
+    },
+    "post_date": "2020-07-17T20:40:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/GoldenDose/status/1283416694183145472",
+            "name": "GDOSE",
+            "path": "published/0_1595014715_جود.jpg"
+        },
+        {
+            "link": "https://twitter.com/DionysosTun/status/1283469158336933888",
+            "name": "ديونيسوس",
+            "path": "published/1_1595014715_ديونيس.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Mlt3Mix/posts/750429552426878",
+            "name": "MiXمالاتعرفه",
+            "path": "published/2_1595014716_ميكس.jpg"
+        },
+        {
+            "link": "https://twitter.com/hala_ab61/status/1283737664894709761",
+            "name": "حلاعبدالعزيز",
+            "path": "published/3_1595014716_حلا.jpg"
+        },
+        {
+            "link": "https://twitter.com/5oloud_4/status/1283507713889181697",
+            "name": "خلود",
+            "path": "published/4_1595014716_b1LqIaX1_400x400.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://nasa.tumblr.com/search/Zodiac",
+            "name": "NASA",
+            "path": "sources/0_1595014716_ناسا2.JPG"
+        },
+        {
+            "link": "https://www.al.com/news/huntsville/2016/09/nasa_we_definitely_didnt_chang.html",
+            "name": "Alabama ",
+            "path": "sources/1_1595014716_ببببي.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ناسا لم تحدد تواريخ جديدة للأبراج أو تزد عددها",
+    "updated_at": "2020-09-25 20:43:07",
+    "url_path": "/factcheck/2020/07/17/ناسا-لم-تحدد-تواريخ-جديدة-للأبراج-أو-تزد-عددها"
+}

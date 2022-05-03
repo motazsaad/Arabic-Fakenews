@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2514,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "هذه الجزيرة في فنلندا (فيسبوك)",
+    "category": "Travel",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">جزيرة صغيرة في السويد تسكنها ثلاث عائلات، ويتغير شكلها مع تغير فصول السنة.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-05-09 17:36:04",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eb6bfd4db29162431703244",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من الصور المتداولة وتبين أنها مضللة، لأنها تُظهر جزيرة Kotisaari التي تقع على نهر Kemijoki بالقرب من مدينة Rovaniemi الفنلندية، ولا تقع في السويد. يمكن الاطلاع على الجزيرة من خلال الصور ومقاطع الفيديو المتاحة عبر الإنترنت.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/40p-vguaWDw\" width=\"560\"></iframe></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل صفحات على مواقع التواصل الاجتماعي منذ أعوام، ومؤخراً، صوراً تدّعي أنها تُظهر جزيرة في السويد تسكنها ثلاث عائلات، كما يظهر في الصور اختلاف شكل الجزيرة مع اختلاف الفصول.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_nljp17o9b.jpg\" style=\"height:715px; width:529px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_r5e3bb1ag.jpg\" style=\"height:694px; width:528px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 214,
+        "left": 3.2166748046875,
+        "path": "articles/1589034964غلاف.jpg",
+        "top": 164.466796875,
+        "totalHeight": 423,
+        "totalWidth": 387,
+        "watermark_path": "articles/watermark-1589034964غلاف.jpg",
+        "width": 381
+    },
+    "post_date": "2020-05-09T17:31:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=596373777754246&id=212256886165939&__xts__[0]=68.ARBNp6yk4N9kMDtEUrjnK1DcTelxHklZl43q-kXbIFqB1__8VtpI_S1kwu06UHSLBXhvc4uLHpi7p0WSpksWVxLbcUe-KA8xiD7_KAHrYC_w_tjAZ-A2osf_EDGb0VzKYVUubdvJIzmlNUDda8yE3unm6fhjHrWpnTYP6R-yKp73YtIfe8myw494Y12AEI9moI2dOfPJ1j_WXjfmVSyoKfk_-eR-wWp7cm1TbTsO3Ux_aFXSYJZUxJaj6nzC4jxxwy3gPW5pUv3Z9QkRKUEtK2cRk1T5HDz1Pg6yfiPyMVbDrEBkW5bnBfp_k227rhIXrEGd9nnrNGTo85iIWoKg5Og&__tn__=-R",
+            "name": "خيال عاشقة",
+            "path": "published/0_1589034963_خيال.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Ahmad09341/posts/3100339963362991?__tn__=-R",
+            "name": "نهفات جبله العماره",
+            "path": "published/1_1589034963_نهفات.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2877630952329868&id=713825705377081&__tn__=-R",
+            "name": "الإعلامية غادة الطبيب",
+            "path": "published/2_1589034963_الإعلامية.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/yeemkn/posts/1192805767561062?__tn__=-R",
+            "name": "يمكن.. أي",
+            "path": "published/3_1589034963_يمكن أي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/2255700108036689/permalink/2574266206180076/",
+            "name": "علا زاهر",
+            "path": "published/4_1589034963_علا.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=116750109850376&id=103556534503067",
+            "name": "طموح",
+            "path": "published/5_1589034963_طموح.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1838313846447550&id=100008068569471",
+            "name": "حسن صباح",
+            "path": "published/6_1589034963_حسن.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=40p-vguaWDw",
+            "name": "Jani Yelinamba",
+            "path": "sources/0_1589034963_jani.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الجزيرة الصغيرة في فنلندا وليس السويد",
+    "updated_at": "2020-09-25 17:50:50",
+    "url_path": "/factcheck/2020/05/09/هذه-الجزيرة-الصغيرة-في-فنلندا-وليس-السويد"
+}

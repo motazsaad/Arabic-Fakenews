@@ -1,0 +1,151 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 145,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "أداة بلاستيكية لتأدية حركات خفّة اليد (Getty)",
+    "category": "Technology",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">الصين تبتكر بصمة متحركة تسهّل عملية دخول الموظفين إلى أماكن عملهم.</p>\r\n",
+    "country": "CN",
+    "created_at": "2020-10-22 18:07:06",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 3,
+    "id": "5f91a01a2313437ade35fdc8",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;<a href=\"https://misbar.com/\" style=\"text-decoration:none\" target=\"_blank\"><u>مسبار</u></a>&quot; من الادعاء المتداول ووجد أنه مضلل، لأن ما يظهر في الصورة ليس بصمة متحرّكة وإنما <a href=\"https://youtu.be/i2RDtII1KaY\" style=\"text-decoration:none\" target=\"_blank\"><u>أداة بلاستيكية</u></a> تُستعمل لعدة غايات منها تأدية حركات خفّة اليد، ولا علاقة للأمر بأي اختراع تكنولوجي.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_nteydrg85.jpg\" style=\"height:360px; width:535px\" /></span><span style=\"color:#000000\">.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">اقرأ/ي أيضاً:</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/10/21/%D8%AA%D9%88%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D9%85%D8%AE%D8%AF%D9%88%D9%85-%D9%81%D9%8A-%D8%B3%D8%AC%D9%88%D9%86-%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D9%85%D9%86%D8%B0-%D9%81%D8%AA%D8%B1%D8%A9-%D9%88%D9%84%D9%8A%D8%B3-%D8%AD%D8%AF%D9%8A%D8%AB%D8%A7\" target=\"_blank\">توفي الشيخ مخدوم في سجون الصين منذ فترة وليس حديثاً</a></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/10/21/%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9-%D9%84%D9%8A%D8%B3%D8%AA-%D9%84%D8%A3%D9%83%D8%A8%D8%B1-%D8%B5%D9%8A%D9%86%D9%8A-%D8%B9%D9%85%D8%B1%D9%87-273-%D8%B3%D9%86%D8%A9\" target=\"_blank\">الصورة ليست لأكبر معمّر في العالم عمره 273</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "الصين",
+        "بصمة متحركة"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تتناقل صفحات وحسابات على مواقع التواصل الاجتماعي، منذ سنوات، صورة تدعي أنها لبصمة متحرّكة اختُرعت في الصين بهدف تسهيل عملية دخول الموظفين إلى أماكن عملهم.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_32d2lzrfs.jpg\" style=\"height:618px; width:540px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_6tk49f9yc.jpg\" style=\"height:506px; width:542px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 354,
+        "left": 1.63330078125,
+        "path": "articles/1603379224GettyImages-102075852.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 632,
+        "watermark_path": "articles/watermark-1603379224GettyImages-102075852.jpg",
+        "width": 629
+    },
+    "post_date": "2020-10-22T18:03:00.000+03:00",
+    "published": [
+        {
+            "id": "5f91a0a66957e03e7561a671",
+            "link": "https://www.facebook.com/IRAQ2DAY/posts/2383548228379736",
+            "name": "Iraq Today",
+            "origin": "facebook",
+            "path": "sources/b643aded5e469b457e1578a4d89484b382509f39.jpg"
+        },
+        {
+            "id": "5f91a0a6dbf6fa43e95087aa",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2669079219785928&id=2006996309327559",
+            "name": "قصص وحكم وعبر وكلام جميل",
+            "origin": "facebook",
+            "path": "sources/af6f8f22c296a2f707be1985c48b9d0009cfa471.jpg"
+        },
+        {
+            "id": "5f91a0a643760c62fa199af5",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2094079270689410&id=730637153700302",
+            "name": "كوميديا من ضيعتنا",
+            "origin": "facebook",
+            "path": "sources/af6f8f22c296a2f707be1985c48b9d0009cfa471.jpg"
+        },
+        {
+            "id": "5f91a0a61dd9e743a93ec69b",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=436804276888055&id=295489531019531",
+            "name": "13TV",
+            "origin": "facebook",
+            "path": "sources/af6f8f22c296a2f707be1985c48b9d0009cfa471.jpg"
+        },
+        {
+            "id": "5f91a0a69d516c3ebb08a6af",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1049963725195933&id=903638416495132",
+            "name": "مستعمل بفلس ونص",
+            "origin": "facebook",
+            "path": "sources/af6f8f22c296a2f707be1985c48b9d0009cfa471.jpg"
+        },
+        {
+            "id": "5f91a11080af35113500f28b",
+            "link": "https://www.facebook.com/SOI.G0/posts/1306293356200491",
+            "name": "يوميات طالب جامعي #",
+            "origin": "facebook",
+            "path": "sources/8890c629afd44469c2a519858471f4963699cff1.jpg"
+        },
+        {
+            "id": "5f91a110c0bb4c124f402804",
+            "link": "https://www.facebook.com/benatalsultan/posts/1297483093741824",
+            "name": "الا ليت ",
+            "origin": "facebook",
+            "path": "sources/fdb43af3e79990157d49bb69b174cc656be7b848.jpg"
+        },
+        {
+            "id": "5f91a11074a8944061688b53",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=361996324410537&id=286071318669705",
+            "name": "محطات عراقية",
+            "origin": "facebook",
+            "path": "sources/af6f8f22c296a2f707be1985c48b9d0009cfa471.jpg"
+        },
+        {
+            "id": "5f91a1112bbd8f49567a25d5",
+            "link": "https://www.facebook.com/Thousand.and.a.quarter/posts/1589147271216980",
+            "name": "الف وربع",
+            "origin": "facebook",
+            "path": "sources/b29071a43a77106a2c0d603f05678e1f189c7426.jpg"
+        },
+        {
+            "id": "5f91a1112a6e68373f0fba03",
+            "link": "https://www.facebook.com/University.Baghdad1957/posts/2254073994632007",
+            "name": "يوميات جامعة بغداد",
+            "origin": "facebook",
+            "path": "sources/e7a92469fd1f7993385c9689434fe27d3931ce7d.jpg"
+        },
+        {
+            "id": "5f91a1d0d71c36491143fcdb",
+            "link": "https://www.elmogaz.com/340261",
+            "name": "www.elmogaz.com",
+            "origin": "",
+            "path": "sources/bf805f865d43716a461e174b228ec8424e631dd6.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f8edfb4148b827f7d192205",
+            "link": "https://youtu.be/i2RDtII1KaY",
+            "name": "قناة يوتيوب",
+            "origin": "",
+            "path": "sources/f4e473f70061267e3fbe3df8d9498087e3cf99aa.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ليست صورة بصمة متحركة وإنما مجرد أداة بلاستيكية",
+    "updated_at": "2020-10-22 18:15:24",
+    "url_path": "/factcheck/2020/10/22/ليست-صورة-بصمة-متحركة-وإنما-مجرد-أداة-بلاستيكية",
+    "was_notification_pushed": "true"
+}

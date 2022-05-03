@@ -1,0 +1,87 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 41021,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "تعود الصورة لأربع أخوات من مشاهير اليوتيوب في أميركا (فيسبوك)",
+    "category": "Lifestyle",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">جدة روسية تنشر صورة مع أحفادها.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-05-28 22:08:18",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5ed00c22db29167a3e374c04",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة ووجد أن الادعاء مضلل، لأن الصورة تعود لأربع أخوات أميركيات من مشاهير يوتيوب ويُعرفن باسم&nbsp;&quot;Arnold sisters&quot;، ونُشرت الصورة على صفحتهنّ في &quot;فيسبوك&quot;&nbsp;بتاريخ 21 فبراير/شباط الفائت.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"535\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FLindsayArnoldDance%2Fposts%2F1630196603786317&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت حسابات وصفحات على مواقع التواصل الاجتماعي صورة ادعّت أنها لجدة من روسيا مع أحفادها.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_2lqnj3dqk.jpg\" style=\"height:462px; width:538px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_5slgpgrj6.jpg\" style=\"height:557px; width:536px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/159069301486870638_1630196607119650_7646039847085277184_o.jpg",
+        "watermark_path": "articles/watermark-159069301486870638_1630196607119650_7646039847085277184_o.jpg"
+    },
+    "post_date": "2020-05-28T22:02:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/Lamobala.official/photos/a.2202575253355666/2653546028258584/?type=3&theater",
+            "name": "لامُبالاه",
+            "path": "published/0_1590692897_لامُبالاه.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/106055704163955/photos/a.108225307280328/193416755427849/?type=3&__xts__%5B0%5D=68.ARCYy4EO0UsSEFb3UZDvSpaM1uE5Vy0ZRQZsKO4FuGdO9KbC5JlQ8tE3tQM0PMkC9iYEXPeH6AgiJVgNY6vTomKDKIKC8NwZhO7qs7JvYpYqpiJeiNg2QOQD4XyGZH6dVC3soARQnpkRCXvzjEaK7LZCGSdIDEL8jHnVKwklvdoEITaS4vHgsBbG-bpSNVY_4HqML5YGm6i89So1kZNaWjQyvJIk31gLULct7LSjRsXAXxaCOfIrqiAqGWdasc0zghgtbTuo5AcuokK-NVrorxoHsJ2latnDTtF7MpaPqnntBn9Zt7IwMGHsF4ZqdAStpuShPwpyuTR0tCA0VcsPjI8&__tn__=-R",
+            "name": "هنا الحروش",
+            "path": "published/1_1590692897_77.jpg"
+        },
+        {
+            "link": "https://twitter.com/Dr_HalaKhatib/status/1260613175466250241",
+            "name": "هالة بشير الخطيب",
+            "path": "published/2_1590692897_هالة.jpg"
+        },
+        {
+            "link": "https://twitter.com/khaled_3bnaser/status/1239324815040880641",
+            "name": "خالد عبدالناصر",
+            "path": "published/3_1590693014_جمال.jpg"
+        },
+        {
+            "link": "https://twitter.com/Aulloul/status/1242350474969452545",
+            "name": "أيلول ",
+            "path": "published/4_1590693314_أيلول.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/LindsayArnoldDance/photos/a.130195397119786/1630196603786317/?type=3&__xts__%5B0%5D=68.ARD-CeS-R7viDOgnVnLjzf6Ftfh5qKF9LVgpQjYYh4VFjrNfmtpLBVchSAVuHHsTmQlnZlhHAZJySWppd7zPOzm9eSrh-4QT7vtaLtBx9aCMB9cc9oLCPI0dMnJi_x-ovlE0GONirUPQKCBa_eJahfXIIpXZzOjx04ppqYuUbNCPuL6W1cROIbqg-bQpoI2LX_IcxDsqGmN3t1XCed8Gb-QVgYcsFO-9rISgQK2m_XGKxq1mt4YRnWLDB6sJop32I2q2y37pJ3aaUZzd9xORH4XaIhWLcGzj9GYtxyb7pfQBrIsP6scTBkAVp3XtVL8ndsSPh33Z3YamDrE3nP97vCbUwQ&__tn__=-R",
+            "name": "Lindsay Arnold",
+            "path": "sources/0_1590692897_Lindsay Arnold.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "جدة روسية تنشر صورة مع أحفادها.. ما الحقيقة؟",
+    "updated_at": "2020-09-25 17:45:33",
+    "url_path": "/factcheck/2020/05/28/جدة-روسية-تنشر-صورة-مع-أحفادها-ما-الحقيقة"
+}

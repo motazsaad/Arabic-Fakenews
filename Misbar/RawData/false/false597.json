@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 14744,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "نفى ديواء الإفتاء التونسي الخبر (Getty)",
+    "category": "Spirituality & Religion",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">ديوان الإفتاء التونسي يحرم لعبة &quot;فري فاير&quot;.</p>\r\n",
+    "country": "TN",
+    "created_at": "2020-06-17 18:39:02",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eea3916d6e4a91bd02e45a4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الخبر وتبين أنه زائف، إذ نفى ديوان الإفتاء التونسي عبر صفحته الخاصة على موقع فيسبوك إصداره للفتوى، وقال إنّ صفحةً&nbsp;<span style=\"background-color:white\"><span style=\"color:black\">لا تنطق رسمياً باسم ديوان الإفتاء، انتحلت صفته ونشرت بياناً كاذباً. </span></span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"198\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D4036762579729377%26id%3D642700865802249&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:black\">وأكدّ عثمان بطيخ مفتي الجمهورية التونسية، لإذاعة <a href=\"https://www.jawharafm.net/ar/article/%D9%85%D9%81%D8%AA%D9%8A-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D8%B5%D9%81%D8%AD%D8%A9-%D8%A7%D9%86%D8%AA%D8%AD%D9%84%D8%AA-%D8%B5%D9%81%D8%A9-%D8%AF%D9%8A%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%A5%D9%81%D8\" style=\"color:blue; text-decoration:underline\">جوهرة أف أم المحلية</a>، أنّ ديوان الإفتاء سيتتبع القائمين على الصفحة المنتحلة قضائياً.</span></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات إخبارية وحسابات على مواقع التواصل الاجتماعي، اليوم، خبراً يدّعي أن ديوان الإفتاء التونسي حرم لعبة &quot;فري فاير&quot;. وقال في بيان نسب إليه إنه لا يجوز&nbsp;<span style=\"background-color:white\"><span style=\"color:black\">أن يستخدم المسلم هذه اللعبة المدمرة للعقل</span></span>.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:black\"><img alt=\"Capture22.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_xr23vli9c.jpg\" style=\"height:469px; width:333px\" /></span></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:black\"><img alt=\"Capture2.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_w2pa9qypv.jpg\" style=\"height:428px; width:407px\" /></span></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"Capture3.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_8o949foea.jpg\" style=\"height:478px; width:507px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 271,
+        "left": 44.3238525390625,
+        "path": "articles/1592408340GettyImages-1193885825.jpg",
+        "top": 96.83837890625,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1592408340GettyImages-1193885825.jpg",
+        "width": 482
+    },
+    "post_date": "2020-06-17T16:24:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=2998686940184592&set=pcb.2998687020184584&type=3&theater",
+            "name": "Oussama Hamraoui",
+            "path": "published/0_1592408339_94203399_2855254404527847_2990648804094509056_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/fahker.bacEco55/posts/3285995704745499",
+            "name": "Bac Éco 2020 -Fahker Économiste",
+            "path": "published/1_1592408340_69211607_2614834821861594_5290415581340631040_o.jpg"
+        },
+        {
+            "link": "https://ven.tn/2020/06/17/%d9%85%d9%81%d8%aa%d9%8a-%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1%d9%8a%d8%a9-%d9%84%d8%b9%d8%a8%d8%a9-%d8%a7%d9%84%d9%81%d8%b1%d9%8a-%d9%81%d8%a7%d9%8a%d8%b1-%d8%ad%d8%b1%d8%a7%d9%85-%d8%b4%d8%b1/?fbclid=IwAR1ctl4E4GP2NNdpJn0UGHpjDn0OXbLcJlmTDI-QxHRZOAQ6ypjYe-pdPgo",
+            "name": "ven news",
+            "path": "published/2_1592408340_3333.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=556989221640719&id=308381016501542",
+            "name": "The Moon",
+            "path": "published/3_1592408340_97994459_537287030277605_7868415378018271232_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/EtudeMathAriana/posts/2582842941988970",
+            "name": "Etude Maths Tunis",
+            "path": "published/4_1592408340_93649990_2532003530406245_7139426180821680128_n.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/642700865802249/posts/4036762579729377/",
+            "name": "ديوان الإفتاء بالجمهورية التونسية",
+            "path": "sources/0_1592408340_8.jpg"
+        },
+        {
+            "link": "https://www.jawharafm.net/ar/article/%D9%85%D9%81%D8%AA%D9%8A-%D8%A7%D9%84%D8%AC%D9%85%D9%87%D9%88%D8%B1%D9%8A%D8%A9-%D8%B5%D9%81%D8%AD%D8%A9-%D8%A7%D9%86%D8%AA%D8%AD%D9%84%D8%AA-%D8%B5%D9%81%D8%A9-%D8%AF%D9%8A%D9%88%D8%A7%D9%86-%D8%A7%D9%84%D8%A5%D9%81%D8%AA%D8%A7%D8%A1-%D8%A3%D8%B5%D8%AF%D8%B1%D8%AA-%D8%A8%D9%84%D8%A7%D8%BA-%D8%A7%D9%84%D9%80%D9%81%D8%B1%D9%8A-%D9%81%D8%A7%D9%8A%D8%B1/105/169559",
+            "name": "جوهرة أف أم",
+            "path": "sources/1_1592408340_13230064_1015075198547652_8789826246674302882_n.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "إفتاء تونس تحرم لعبة \"فري فاير\".. حقيقة الخبر",
+    "updated_at": "2020-09-25 15:41:42",
+    "url_path": "/factcheck/2020/06/17/إفتاء-تونس-تحرم-لعبة-فري-فاير--حقيقة-الخبر"
+}

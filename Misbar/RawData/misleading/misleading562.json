@@ -1,0 +1,128 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 125,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "حريق اندلع في مسجد في إندونيسيا (فيسبوك)",
+    "category": "Spirituality & Religion",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">حرق مسجد في الهند، هذا ما يفعله الهنود الآن في المساجد.</p>\r\n",
+    "country": "IN",
+    "created_at": "2020-10-01 17:43:41",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 4,
+    "id": "5f75eb1de65b72212f67a89b",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;<a href=\"https://misbar.com/\" style=\"text-decoration:none\" target=\"_blank\"><u>مسبار</u></a>&quot; من المقطع المتداول وتبين أنه مضلل، إذ يعود <a href=\"https://youtu.be/GqCgtDBGg6c\" style=\"text-decoration:none\" target=\"_blank\"><u>المقطع الأصلي</u></a> إلى حريق اندلع في مسجد بيلوبا الكبير في إندونيسيا عام 2019، أثناء العمل على <a href=\"https://regional.kompas.com/read/2019/01/29/19571161/kebakaran-landa-masjid-agung-belopa-luwu\" style=\"text-decoration:none\" target=\"_blank\"><u>ترميمه</u></a> وتجديده.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_04f0rfwwm.jpg\" style=\"height:387px; width:536px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_nhoy93ldn.jpg\" style=\"height:402px; width:554px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">اقرأ/ي أكثر:</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/07/19/%D9%87%D8%B0%D8%A7-%D8%A7%D9%84%D9%87%D9%86%D8%AF%D9%8A-%D9%84%D9%85-%D9%8A%D8%AD%D8%B1%D8%B3-%D8%B9%D8%A7%D8%A6%D9%84%D8%AA%D9%87-%D8%A3%D8%AB%D9%86%D8%A7%D8%A1-%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D8%B9%D8%A9-%D9%85%D9%86-%D8%A2%D9%83%D9%84%D9%8A-%D9%84%D8%AD%D9%88%D9%85-%D8%A7%D9%84%D8%A8%D8%B4%D8%B1\" target=\"_blank\">هذا الهندي لم يحرس عائلته أثناء المجاعة من آكلي لحوم البشر</a></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/09/16/%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D9%84%D9%8A%D8%B3%D8%AA-%D9%84%D9%81%D9%87%D8%AF-%D9%8A%D8%B2%D9%88%D8%B1-%D8%A7%D9%84%D8%A8%D9%82%D8%B1%D8%A9-%D8%A7%D9%84%D8%AA%D9%8A-%D8%A3%D8%B1%D8%B6%D8%B9%D8%AA%D9%87-%D8%A8%D8%B9%D8%AF-%D9%88%D9%81%D8%A7%D8%A9-%D8%A3%D9%85%D9%87\" target=\"_blank\">الصور ليست لفهد يزور البقرة التي أرضعته بعد وفاة أمه</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "الهند",
+        "المسلمون",
+        "إندونيسيا"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تتناقل صفحات وحسابات على مواقع التواصل الاجتماعي، حديثاً، مقطع فيديو تدعي أنه لعملية إحراق مسجد في الهند.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_bpw6nd24n.jpg\" style=\"height:776px; width:520px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_f8n1xai0l.jpg\" style=\"height:722px; width:546px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 355,
+        "left": 2.36669921875,
+        "path": "articles/1601563421حريق مسجد إندونيسيا الهند.jpg",
+        "top": 12.7333984375,
+        "totalHeight": 423,
+        "totalWidth": 635,
+        "watermark_path": "articles/watermark-1601563421حريق مسجد إندونيسيا الهند.jpg",
+        "width": 630
+    },
+    "post_date": "2020-10-01T17:37:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/hrh_el/status/1303350761796128770",
+            "name": "د.الرادار",
+            "path": "published/0_1601563797_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/shaksytmote/status/1303458211434057733",
+            "name": "شخصيات",
+            "path": "published/1_1601563797_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/groups/Secularismillusion/permalink/849464922463692",
+            "name": "Anas Nedjar",
+            "path": "published/2_1601563798_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/Quran.Chifaae/posts/125050962395812",
+            "name": "القرآن شفاء",
+            "path": "published/3_1601563910_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=728789314369410&id=100017150434943",
+            "name": "امة الله",
+            "path": "published/4_1601563911_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/yukribs/status/1303364395968409600",
+            "name": "Suhail al-Yamani",
+            "path": "published/5_1601564909_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/qCsA4JqCqTZgV7S/status/1303594955223511041",
+            "name": "رُكن الدين",
+            "path": "published/6_1601564909_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/ibrahimmadeen/status/1303380007603957765",
+            "name": "البحر المسجور",
+            "path": "published/7_1601564909_twitter.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://regional.kompas.com/read/2019/01/29/19571161/kebakaran-landa-masjid-agung-belopa-luwu",
+            "name": "KOMPAS.com",
+            "path": "sources/0_1601563420_e8a9f1dea74ddec4220afa522f4324c942d93f3f.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.youtube.com/watch?v=GqCgtDBGg6c",
+            "name": " Tribun Timur ",
+            "path": "sources/1_1601563421_tribun india masjid indonesia.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "حريق غير مفتعل في مسجد في إندونيسيا وليس الهند",
+    "updated_at": "2020-10-01 18:08:31",
+    "url_path": "/factcheck/2020/10/01/حريق-غير-مفتعل-في-مسجد-في-إندونيسيا-وليس-الهند",
+    "was_notification_pushed": "true"
+}

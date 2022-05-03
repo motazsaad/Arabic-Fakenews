@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1391,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "تعود الصور لجلسة تصوير ممثلة هندية (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صور لأول تونسية <span style=\"background-color:white\">تفتح ورشة لصيانة&nbsp;السيارات.</span></p>\r\n",
+    "country": "TN",
+    "created_at": "2020-08-19 23:16:47",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f3d88af60211806ee41ff30",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة وتبين أنها مضللة وليست لأول فتاة تونسية تفتح ورشة لتصليح السيارات. ووجد أن الصور&nbsp;الأصلية تعود للممثلة وعارضة الأزياء الغوجاراتية الهندية <span dir=\"LTR\">Nikita Soni</span> خلال جلسة تصوير لها عام 2016 في ورشة لصيانة السيارات.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">ونشرت الممثلة صورها عبر صفحتها على موقع فيسبوك وقالت إنه يمكنها أن تقوم بما يقوم به الرجال. وأوضحت أنها ستؤدي دوراً مماثلاً في فيلمها المقبل.&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وأعادت الممثلة&nbsp;الهندية نشر الصور عام 2018 مرفقة بتعليق &quot;ساعدوني&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"2.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_eih7rtamd.jpg\" style=\"height:504px; width:605px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"4.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_12ekprnys.jpg\" style=\"height:556px; width:504px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">يذكر أنه وفق تقرير <a href=\"https://www.youtube.com/watch?v=t-yEOnr-dmA\" style=\"color:blue; text-decoration:underline\">لقناة فرانس</a> 24 في تونس، فإن بثينة مشايقي تعد أول امرأة تتخصص في إصلاح ميكانيكي السيارات في تونس.<br />\r\n&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/t-yEOnr-dmA\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات وحسابات على موقع فيسبوك، حديثاً، صوراً لفتاة في مرآب لتصليح السيارات، وادعت أنها لأول تونسية تفتح ورشة لصيانة السيارات.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><img alt=\"0.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_jttejh7i4.jpg\" style=\"height:506px; width:404px\" /><br />\r\n<img alt=\"0.jpg\" src=\"https://images-prod.misbar.com/articlebody/origin_tfqx543yi.jpg\" style=\"height:570px; width:605px\" /><br />\r\n<img alt=\"118307766_353596029367499_8961697606010012217_n.jpg\" src=\"https://images-prod.misbar.com/articlebody/origin_fl1fiza3p.jpg\" style=\"height:836px; width:604px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 309,
+        "left": 45.105224609375,
+        "path": "articles/159786820736394053_1710667795721540_3662987563045486592_n.jpg",
+        "top": 89.746826171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-159786820736394053_1710667795721540_3662987563045486592_n.jpg",
+        "width": 550
+    },
+    "post_date": "2020-08-19T21:03:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/roujla.Officielle1/posts/3415011235210697",
+            "name": "رجولة ",
+            "path": "published/0_1597868206_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/3179881108904496/permalink/3344464702446135/",
+            "name": "Hedhly Aymen",
+            "path": "published/1_1597868206_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/kousay.gesmi/posts/1402732403251565",
+            "name": "أيمن سنفراة",
+            "path": "published/2_1597868206_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/PAGE.RBF/posts/3512715795434684",
+            "name": "expectations",
+            "path": "published/3_1597868207_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/realite.tn/posts/2504782893147041",
+            "name": "الواقع التونسي",
+            "path": "published/4_1597868207_67819776_2303763929710849_8279055560511324160_o.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/nikitasoniactress/timeline?lst=100051695521149%3A100003350084572%3A1597867979",
+            "name": "nikitasoniactress",
+            "path": "sources/0_1597868207_90683308_2797549700366672_1614081398832889856_n.jpg"
+        },
+        {
+            "link": "https://www.patrika.com/bollywood-news/gujarati-actress-nikita-soni-share-photoshoot-on-facebook-1387373/",
+            "name": "patrika",
+            "path": "sources/1_1597868207_unnamed.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه ليست صور أول تونسية تفتح ورشة لصيانة السيارات",
+    "updated_at": "2020-09-25 14:58:01",
+    "url_path": "/factcheck/2020/08/19/هذه-ليست-صور-أول-تونسية-تفتح-ورشة-لصيانة-السيارات"
+}

@@ -1,0 +1,87 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1613,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "نفت وكالة الأنباء الجزائرية الخبر (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"background-color:white\"><span dir=\"RTL\" lang=\"AR-SA\"><span style=\"color:black\">زيارة مرتقبة للرئيس الجزائري عبد المجيد تبون إلى المغرب في 15 من أغسطس/آب المقبل.</span></span></span></p>\r\n",
+    "country": "DZ",
+    "created_at": "2020-07-11 18:03:55",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f09d4db163be306e2116dd7",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\"><span style=\"background-color:white\"><span style=\"color:black\">تحقق &quot;مسبار&quot; من الخبر المتداول وتبين أنّه زائف، إذ لم يعلن أيّ مصدر رسمي جزائري عن زيارة مرتقبة للرئيس عبد المجيد تبون إلى المغرب في 15 أغسطس/آب المقبل.&nbsp;</span></span></span><span dir=\"RTL\" lang=\"AR-SA\"><span style=\"background-color:white\"><span style=\"color:black\">وتواصل &quot;مسبار&quot; مع وكالة الأنباء الجزائرية، التي أكدت أنها لم تنشر أي خبر بخصوص الموضوع، وكذبت ما نسب إليها من شائعات.</span></span></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\"><span style=\"background-color:white\"><span style=\"color:black\">يذكر أن آخر زيارة رسمية لرئيس جزائري إلى المغرب كانت للرئيس الراحل&nbsp;الشاذلي بن جديد في فبراير/شباط 1989.&nbsp;يعود ذلك إلى التوتر الذي ساد بين البلدين عام 1994 بعد قرار الجزائر إغلاق حدودها البرية مع المملكة المغربية، رداً على قيام الرباط بفرض تأشيرة دخول على الجزائريين من جانب واحد. ويأتي ذلك على خلفية هجوم مسلح استهدف فندقاً بمدينة مراكش يوم 24 أغسطس/آب 1994، واتهمت الرباط عناصر من أصل جزائري بالوقوف خلفه.</span></span></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">تتداول&nbsp;مواقع إخبارية وحسابات على وسائل التواصل الاجتماعي، خبراً يدّعي أن الرئيس الجزائري عبد المجيد تبون، سيقوم بزيارة رسمية إلى المغرب يوم 15 أغسطس/آب المقبل، بهدف تسوية جميع الخلافات الثنائية العالقة بين البلدين. ونقلت الصفحات نفسها الخبر عن وكالة الأنباء الجزائرية.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"background-color:white\"><img alt=\"Capture.PNG\" id=\"Image_x0020_3\" src=\"https://images-prod.misbar.com/articlebody/origin_ru1w039u4.jpg\" style=\"height:328.2pt; width:453.6pt\" /> </span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"background-color:white\"><img alt=\"0000.PNG\" id=\"Image_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/origin_wqgpvitey.jpg\" style=\"height:336.6pt; width:445.2pt\" /> </span></span><br />\r\n<span dir=\"LTR\"><span style=\"background-color:white\"><img alt=\"00.PNG\" id=\"Image_x0020_4\" src=\"https://images-prod.misbar.com/articlebody/origin_ryqrdb46a.jpg\" style=\"height:284.4pt; width:450pt\" /> </span></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/159448036110.jpg",
+        "watermark_path": "articles/watermark-159448036110.jpg"
+    },
+    "post_date": "2020-07-11T17:59:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.francemaghreb2.fr/news/officiel-le-president-algerien-en-visite-au-maroc-21424?fbclid=IwAR23okPVOZKPUFH4ccoStO8Bc32PSPo9OKh4eADl_I-JsWGZd0CsS7ogZ3Q",
+            "name": "francemaghreb2",
+            "path": "published/0_1594479972_1.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=564672747535170&set=gm.950982282018372&type=3&theater",
+            "name": "محمد حميدات وجدة",
+            "path": "published/1_1594479972_2.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ahfirbelvis/photos/a.863305573726499/3192461770810856/?type=3&theater",
+            "name": "Ahfir Bel Visa",
+            "path": "published/2_1594479972_3.jpg"
+        },
+        {
+            "link": "https://twitter.com/moufadh/status/1281661873604173825",
+            "name": "Fadhlaoui Mourad",
+            "path": "published/3_1594479972_4.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/rassad13/photos/a.103567354550572/167295704844403/?type=3&theater",
+            "name": "الراصد التونسي",
+            "path": "published/4_1594479972_5.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "http://www.aps.dz/ar/",
+            "name": "وكالة الأنباء الجزائرية.",
+            "path": "sources/0_1594479835_مصدر.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الرئيس الجزائري لن يزور المغرب الشهر المقبل",
+    "updated_at": "2020-09-25 14:48:37",
+    "url_path": "/factcheck/2020/07/11/الرئيس-الجزائري-لن-يزور-المغرب-الشهر-المقبل"
+}

@@ -1,0 +1,98 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2186,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "هذه الصورة ليست لوفاء بوديسة (انستغرام)",
+    "category": "Health",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">صورة الطبيبة الجزائرية، وفاء بوديسة، أثناء مزاولتها للعمل في استقبال مرضى&nbsp;فايروس كورونا المستجدّ (كوفيد-19).</p>\r\n",
+    "country": "DZ",
+    "created_at": "2020-05-20 18:51:49",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ec55215db29167f010fd5f3",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة المتداولة وتبين أنها مضلّلة، إذ أنها تعود إلى <span style=\"color:black\">تايلور بوينتر، طبيبة مساعدة في غرفة الطوارئ بمستشفى شيكاغو. نشرت صورتها عبر حسابها الخاص على موقع انستغرام، يوم 9 أبريل/نيسان 2020، بعد أن أتمت الأسبوع الـ31 من حملها. وقالت إنها تريد مشاركة تجربة الحوامل ودورهنّ في مواجهة فيروس كورونا (كوفيد-19).</span></p>\r\n\r\n<p style=\"text-align:center\"><img alt=\"8.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_dmxabcg9c.jpg\" style=\"height:410px; width:553px\" />&lsquo;</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت صفحات إخبارية وحسابات على مواقع التواصل الاجتماعي، صورة نسبوها&nbsp;للطبيبة الجزائرية وفاء بوديسة، التي توفيت بعد إصابتها بفايروس كورونا المستجدّ، خلال مزاولتها للعمل بأحد المستشفيات في بلادها.</p>\r\n\r\n<p style=\"text-align:center\"><img alt=\"Capture9.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_9apkfl4ze.jpg\" style=\"height:474px; width:605px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img alt=\"5.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_yy6ki6jq9.jpg\" style=\"height:587px; width:369px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img alt=\"1.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_5f7ogy5ts.jpg\" style=\"height:537px; width:501px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/15899908225179924_1143_infermiera_incinta_lavoro_coronavirus.jpg",
+        "watermark_path": "articles/watermark-15899908225179924_1143_infermiera_incinta_lavoro_coronavirus.jpg"
+    },
+    "post_date": "2020-05-20T16:21:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/Salima.souakri.unicef/photos/a.644018345672689/3804599169614575/?type=3&theater",
+            "name": "سليمة سواكري",
+            "path": "published/0_1589989908_44982031_2264001510341023_2213973976579833856_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=255537262526895",
+            "name": "AJ+ عربي",
+            "path": "published/1_1589989908_6_3.jpg"
+        },
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=10157774157492182&id=44083977181",
+            "name": "عقيل ملولي",
+            "path": "published/2_1589989908_94094384_10157683296017182_5740403741643767808_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Doctors.arabs.48/photos/a.1185825711475642/3090759830982211/?type=3&theater",
+            "name": " 48ملتقى الأطباء عرب ",
+            "path": "published/3_1589989908_26904342_1653649504693258_5907671446064848442_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/echo24.ma/photos/a.1892845727673041/2409606055997003/?type=3&theater",
+            "name": "Echo24.ma",
+            "path": "published/4_1589989908_46520390_2029394874018125_901261439245746176_o.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.instagram.com/p/B-vNz5xjsc_/?utm_source=ig_embed",
+            "name": "Taylor Poynter",
+            "path": "sources/0_1589989908_taylor-ok-bissi-1200x1200 (1).jpg"
+        },
+        {
+            "link": "https://www.fanpage.it/esteri/infermiera-incinta-in-prima-linea-contro-il-coronavirus-non-sono-uneroina-lo-faccio-per-voi/",
+            "name": "fanpage",
+            "path": "sources/1_1589989908_logo_fp_QUADRATO.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/TamronHallShow/videos/vb.324392685085012/890931777986559/?type=2&theater",
+            "name": "Tamron Hall Show",
+            "path": "sources/2_1589989908_93575927_608801509977460_4195542604143656960_o.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صورة الطبيبة الجزائرية وفاء بوديسة قبل وفاتها.. ما الحقيقة؟",
+    "updated_at": "2020-09-25 21:23:16",
+    "url_path": "/factcheck/2020/05/20/الطبيبة-الجزائرية-وفاء-بوديسة-صورة-مضللة"
+}

@@ -1,0 +1,114 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 306,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "صور قديمة لعائلات تونسية مقيمة منعت من السفر في جنوة (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صور لنقل<span style=\"background-color:white\">&nbsp;كافة المهاجرين التونسيين من جزيرة لامبيدوزا إلى جنوة ووضعهم داخل البحرية</span> <span style=\"background-color:white\">تحت حراسة مشددة.</span></p>\r\n",
+    "country": "TN",
+    "created_at": "2020-08-07 21:27:45",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f2d9d21602118073a1f6168",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\"><span style=\"background-color:white\">تحقق &quot;مسبار&quot; من الصور&nbsp;المتداولة وتبين أنّها مضللة، إذ تعود الصورة المتداولة إلى حوالي 300 عائلة تونسية في ميناء جنوة الإيطالي يوم 1 يوليو/تموز2020، مُنعت من السفر إلى تونس بسبب تجاوز&nbsp;مدة صلوحية التحاليل الخاصة بفايروس&nbsp;كورونا المستجد (كوفيد-19)، المحددة بـ72 ساعة.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:black\"><img alt=\"8.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_4ap1i2bkf.jpg\" style=\"height:434px; width:605px\" /></span></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">ووجد &quot;مسبار&quot; أن العائلات التونسية لا تقيم في إيطاليا وليست من المهاجرين في جزيرة لامبيدوزا وأنهم من المقيمين في بلجيكا وألمانيا وسويسرا.</span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات إخبارية على موقع فيسبوك، حديثاً، صوراً تدعي أنها لنقل مهاجرين تونسيين من جزيرة لامبيدوزا إلى ميناء جنوة&nbsp;تحت حراسة مشددة. ونقلت الصفحات نفسها <span style=\"background-color:white\">نقلاً عن الإعلام الإيطالي &quot;سوف يخضعون كلهم للحجر الصحي الإجباري في إنتظار موافقة السلطات التونسية لإرجاعهم إلى تونس&quot;</span><span dir=\"LTR\"><span style=\"background-color:white\">.</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:black\"><img alt=\"000.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_tlpnm7d6x.jpg\" style=\"height:559px; width:398px\" /></span></span></span><br />\r\n<span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:black\"><img alt=\"5.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_rtk31v4w0.jpg\" style=\"height:579px; width:401px\" /></span></span></span><br />\r\n<span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:black\"><img alt=\"4.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_5bip6sr4l.jpg\" style=\"height:627px; width:449px\" /></span></span></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 328,
+        "left": 16.549713134765625,
+        "path": "articles/1596824864117372914_2729299734020027_8430464827313511265_n.jpg",
+        "top": 31.746826171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-1596824864117372914_2729299734020027_8430464827313511265_n.jpg",
+        "width": 583
+    },
+    "post_date": "2020-08-07T19:13:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/701368313375346/photos/a.985269451651896/1601149430063892/?type=3&theater",
+            "name": "كل أخبار تونس هنا",
+            "path": "published/0_1596824864_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/104232761267132/photos/a.104259894597752/159600369063704/?type=3&theater",
+            "name": "Monastir news-منستير نيوز",
+            "path": "published/1_1596824864_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/MetlaouiNews/photos/a.466535123550804/1365344483669859/?type=3&theater",
+            "name": "المتلوي نيوز/Metlaoui News",
+            "path": "published/2_1596824864_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Tunisia.News.actu/photos/a.2654359631514038/2729299730686694/?type=3&theater",
+            "name": "وكالة تونس للانباء",
+            "path": "published/3_1596824864_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/t3200/photos/a.673417079372487/3150595388321298/?type=3&theater",
+            "name": "تطاوين الغالية",
+            "path": "published/4_1596824864_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Twenssa.bil.kharej/posts/3357204610969448",
+            "name": "الصفحة الرسمية التونسيون بالخارج",
+            "path": "published/5_1596824864_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=171428877772275&id=105359574379206",
+            "name": "Bradâa-mahdia/Page Officielle/",
+            "path": "published/6_1596824864_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=184586866375349&id=100179968149373",
+            "name": "Soleil de Mahdia  Shams 2",
+            "path": "published/7_1596824864_67819776_2303763929710849_8279055560511324160_o.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.mosaiquefm.net/ar/%D8%AA%D9%88%D9%86%D8%B3-%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%88%D8%B7%D9%86%D9%8A%D8%A9/763661/%D9%85%D9%8A%D9%86%D8%A7%D8%A1-%D8%AC%D9%86%D9%88%D8%A9-%D9%85%D9%86%D8%B9-%D8%AA%D9%88%D9%86%D8%B3%D9%8A%D9%8A%D9%86-%D9%85%D9%86-%D8%B5%D8%B9%D9%88%D8%AF-%D8%A7%D9%84%D8%A8%D8%A7%D8%AE%D8%B1%D8%A9-%D8%A8%D8%B3%D8%A8%D8%A8-%D8%AA%D8%AD%D8%A7%D9%84%D9%8A%D9%84-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7",
+            "name": "موزاييك أف أم",
+            "path": "sources/0_1596824864_1274174_10152003148438646_1217757254_o.jpg"
+        },
+        {
+            "link": "https://www.shemsfm.net/ar/%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1_%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%AA%D9%88%D9%86%D8%B3_%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D9%88%D8%B7%D9%86%D9%8A%D8%A9/254479/%D8%A8%D8%B3%D8%A8%D8%A8-%D8%AA%D8%AD%D8%A7%D9%84%D9%8A%D9%84-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-%D9%85%D9%86%D8%B9-%D8%B9%D8%AF%D8%AF-%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D9%88%D9%86%D8%B3%D9%8A%D9%8A%D9%86-%D9%85%D9%86-%D8%A7%D9%84%D8%B5%D8%B9%D9%88%D8%AF-%D9%81%D9%8A-%D8%A7%D9%84%D8%A8%D8%A7%D8%AE%D8%B1%D8%A9-%D8%A7%D9%84%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%AA%D8%AC%D9%87%D8%A9-%D8%A5%D9%84%D9%89-%D8%AA%D9%88%D9%86%D8%B3",
+            "name": "شمس أف أم",
+            "path": "sources/1_1596824864_67559142_2651897304831538_5398477314990276608_n.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصور ليست لنقل مهاجرين تونسيين من لامبيدوزا إلى ميناء جنوة",
+    "updated_at": "2020-09-24 17:35:54",
+    "url_path": "/factcheck/2020/08/07/هذه-الصور-ليست-لنقل-مهاجرين-تونسيين-من-لامبيدوزا-إلى-ميناء-جنوة"
+}

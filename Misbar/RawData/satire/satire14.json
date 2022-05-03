@@ -1,0 +1,114 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 261,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "القصة المتداولة عارية عن الصحة (Martyn Wilkes)",
+    "category": "Lifestyle",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">دفع هذا الزوج ثمن جلسة تصوير من أجل زوجته الحامل، وفي يوم التصوير رفضت الزوجة الحضور، فذهب مكانها.</p>\r\n",
+    "country": "",
+    "created_at": "2020-10-13 22:05:09",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 3,
+    "feedback_pos": 5,
+    "id": "5f85fa655751c1693a02ddf5",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;<a href=\"https://misbar.com/\" style=\"text-decoration:none\" target=\"_blank\"><u>مسبار</u></a>&quot; من الصور المتداولة ووجد أنها ساخرة لكن انتشرت على أنها حقيقة. إذ أن <a href=\"https://petapixel.com/2017/04/19/dad-poses-hilarious-maternity-shoot-parody-nails/\" style=\"text-decoration:none\" target=\"_blank\"><u>الصور الأصلية</u></a> عبارة عن مشروع ساخر من جلسات التصوير التي تؤديها النساء الحبالى عادة.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">أعدّ جلسة التصوير الساخرة المصوّر <a href=\"https://www.facebook.com/MartynWilkesPhotography/posts/3790364464342089\" style=\"text-decoration:none\" target=\"_blank\"><u>مارتن ويلكس</u></a>. والقصة المتداولة عارية عن الصحة.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_af2zld5ui.jpg\" style=\"height:440px; width:539px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">اقرأ/ي أيضاً:</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><a href=\"https://misbar.com/editorial/2020/10/10/%D8%AA%D9%88%D9%8A%D8%AA%D8%B1-%D9%8A%D9%88%D9%82%D9%81-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%B2%D8%A7%D8%A6%D9%81%D8%A9-%D8%B9%D9%84%D9%89-%D8%B5%D9%84%D8%A9-%D8%A8%D8%AD%D9%83%D9%88%D9%85%D8%A7%D8%AA-%D8%AE%D9%85%D8%B3-%D8%AF%D9%88%D9%84\" target=\"_blank\">تويتر يوقف حسابات زائفة على صلة بحكومات خمس دولة</a></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><a href=\"https://misbar.com/editorial/2020/10/13/%D8%A7%D8%AA%D9%87%D8%A7%D9%85%D8%A7%D8%AA-%D8%A8%D8%A7%D9%84%D8%AA%D8%B6%D9%84%D9%8A%D9%84-%D9%81%D9%8A-%D8%A5%D8%B9%D9%84%D8%A7%D9%86-%D9%8A%D8%AD%D8%AB-%D8%B9%D9%84%D9%89-%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8\" target=\"_blank\">اتهامات بالتضليل في إعلان يحثّ على إعادة انتخاب ترامب</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تتناقل صفحات وحسابات على مواقع التواصل الاجتماعي، حديثاً، صوراً لرجلٍ ادعت أنه دفع ثمن جلسة تصوير لزوجته الحامل، لكنها رفضت الحضور في موعد التصوير، مما استدعى الرجل للذهاب مكانها وعقد الجلسة.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_1kk7kbwqf.jpg\" style=\"height:684px; width:543px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_4ev6gt9v0.jpg\" style=\"height:655px; width:528px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 354,
+        "left": 2.25,
+        "path": "articles/1602615908martyn wilkes.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1602615908martyn wilkes.jpg",
+        "width": 630
+    },
+    "post_date": "2020-10-13T22:01:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/t3rfcom/posts/3077863345767337",
+            "name": "تعرف",
+            "origin": "facebook",
+            "path": "published/0_1602616833_تعرف.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/rwaqq/posts/1566601180203396",
+            "name": "رواق",
+            "origin": "facebook",
+            "path": "published/1_1602616833_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/Nablus.Agmal/posts/1508344206015692",
+            "name": "نابلس أجمل",
+            "origin": "facebook",
+            "path": "published/2_1602616833_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/HazemMezyed/status/1315948751815610374",
+            "name": "حازم مزيد #غزة",
+            "origin": "twitter",
+            "path": "published/3_1602616833_f04488c08a596841ad62bdc85d91e3b6b3fc7ca4.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/ah_ma77/status/1315741122539515904",
+            "name": "🇪🇬Marwa Rizk🇪🇬",
+            "origin": "twitter",
+            "path": "published/4_1602616833_fb8936776dc646086a74e7961d0858f55e6dec3b.jpg"
+        }
+    ],
+    "result": "satire",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://petapixel.com/2017/04/19/dad-poses-hilarious-maternity-shoot-parody-nails/",
+            "name": "PetaPixel",
+            "path": "sources/0_1602615908_02b2c0f2aaf2cfa5790ac36ef380d172c0a1f2bf.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/MartynWilkesPhotography/posts/3790364464342089",
+            "name": "Martyn Wilkes Photography",
+            "origin": "facebook",
+            "path": "sources/1_1602615908_fe60ee837a7a5f427b5e4acee8b77e0eb349740f.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذا الرجل لم يذهب لجلسة تصوير زوجته الحامل بعدما تركته",
+    "updated_at": "2020-10-13 22:23:52",
+    "url_path": "/factcheck/2020/10/13/هذا-الرجل-لم-يذهب-لجلسة-تصوير-زوجته-الحامل-بعدما-تركته",
+    "was_notification_pushed": "true"
+}

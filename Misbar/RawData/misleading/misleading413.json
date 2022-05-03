@@ -1,0 +1,157 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 200,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "الصورة لزلزال جيجي في تايوان عام 1999 (تويتر)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة من مخلفات زلزال إزمير الأخير.</p>\r\n",
+    "country": "TW",
+    "created_at": "2020-10-31 22:33:05",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 2,
+    "feedback_pos": 6,
+    "id": "5f9dbbf19ffa174dcc7ea1c2",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;<a href=\"https://misbar.com/\">مسبار</a>&quot;&nbsp;من الصورة المتداولة وتبين أنها مضللة، وليست للزلزال الذي ضرب إزمير التركية، بل لزلزال جيجي في تايوان عام 1999.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"22.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_t5jtikedx.jpg\" style=\"height:395px; width:605px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"222.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_q1qvo2yac.jpg\" style=\"height:449px; width:605px\" /></span><br />\r\n&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">اقرأ/ي أيضاً<br />\r\n<a href=\"https://misbar.com/factcheck/2020/10/31/%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9-%D9%84%D9%8A%D8%B3%D8%AA-%D9%84%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A7%D8%AA-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%88%D8%B5%D9%84%25\" style=\"color:blue; text-decoration:underline\">الصورة ليست لطائرة مساعدات &quot;إسرائيلية&quot; وصلت تركيا بعد زلزال إزمير</a></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/10/31/%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D8%AA%D8%B4%D9%8A%D9%83-%D9%88%D9%84%D9%8A%D8%B3%D8%AA-%D9%84%D9%83%D9%84%D8%A8-%D9%8A%D9%86%D9%82%D8%B0-%D8%B5%D8%A7%D8%AD%D8%A8%D9%87-%D8%B9%D9%82%D8%A8-%D8%25\" style=\"color:blue; text-decoration:underline\">الصور من التشيك وليست لكلب ينقذ صاحبه عقب زلزال إزمير في تركيا</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات إخبارية وحسابات على موقعي فيسبوك وتويتر، حديثاً صورة ادعت أنها لمخلفات الزلزال الذي ضرب إزمير مؤخراً.<br />\r\n<span dir=\"LTR\"><img alt=\"0.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_6nbg1v4r7.jpg\" style=\"height:481px; width:482px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><span dir=\"LTR\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_81vlekqny.jpg\" style=\"height:327px; width:485px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 363,
+        "left": 17.5,
+        "path": "articles/1604172784ED-Terremoto.jpg",
+        "top": 45.875,
+        "totalHeight": 423,
+        "totalWidth": 705,
+        "watermark_path": "articles/watermark-1604172784ED-Terremoto.jpg",
+        "width": 645
+    },
+    "post_date": "2020-10-31T22:40:00.000+03:00",
+    "published": [
+        {
+            "id": "5f9dbbee5a378f2a003cfe47",
+            "link": "https://twitter.com/ro94osha/status/1322566845296234496",
+            "name": "﮼أروى ⌬",
+            "origin": "twitter",
+            "path": "sources/0d3c86e2216c2283b9f1931084ca3ee74a8e69a7.jpg"
+        },
+        {
+            "id": "5f9dbbee5b41c0274f19e352",
+            "link": "https://twitter.com/Nesreen74719122/status/1322208226520276992",
+            "name": "Nesreen Al..",
+            "origin": "twitter",
+            "path": "sources/c5bc01cdc15609c004a1bf5657def26bd065df85.jpg"
+        },
+        {
+            "id": "5f9dbbef6a0b9c13dd326961",
+            "link": "https://twitter.com/astro_abdullah/status/1322216590113427457",
+            "name": "عبدالله بن تسلا",
+            "origin": "twitter",
+            "path": "sources/287c253d67df24520ca168779ba1e9440928f097.jpg"
+        },
+        {
+            "id": "5f9dbbef6f501b6eb366b1c3",
+            "link": "https://twitter.com/rrmrymr/status/1322282924805398530",
+            "name": "Maryam",
+            "origin": "twitter",
+            "path": "sources/f922e7ac6ac2ec5b57ef4f652a409a9d9ae43346.jpg"
+        },
+        {
+            "id": "5f9dbbef348a3e6db61dac7b",
+            "link": "https://twitter.com/111sss2000/status/1322213703480168449",
+            "name": "ابو رائد",
+            "origin": "twitter",
+            "path": "sources/76a807f49bcd26b03521e1718c771d1b97420274.jpg"
+        },
+        {
+            "id": "5f8f04e3d9d04b549830e2a4",
+            "link": "https://www.facebook.com/ScreenMixx/posts/2294151734068575",
+            "name": "Screen Mix",
+            "origin": "facebook",
+            "path": "sources/778828637677b0ef6f31d78f812681b54fffceb3.jpg"
+        },
+        {
+            "id": "5f9dbbef730f7f30f70b50b2",
+            "link": "https://twitter.com/msafr2002/status/1322222130298314755",
+            "name": "ضياء بن سعيد &quot; ضاوي&quot;",
+            "origin": "twitter",
+            "path": "sources/863e538069e8d839c8e03dac2c8665db465a8a45.jpg"
+        },
+        {
+            "id": "5f9dbbefdbb43e49606d8e37",
+            "link": "https://twitter.com/abuelshek44/status/1322258605236752384",
+            "name": "محمد الشيخ",
+            "origin": "twitter",
+            "path": "sources/093c656fbf18e28f772f96b3a94cc0d96699714a.jpg"
+        },
+        {
+            "id": "5f9dbbefab5294744c638c4b",
+            "link": "https://twitter.com/barga_511_roog/status/1322214106619850760",
+            "name": "بنت برقا وروق",
+            "origin": "twitter",
+            "path": "sources/cbfd3fbbb0f71fc8f95c124b3eeab0125c7c3e22.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f9dbbf0ebcec105770ce49c",
+            "link": "https://www.track2media.com/2016/01/10/safety-concerns-compliances-not-strictly-defined-for-earthquake/",
+            "name": "Track2Media",
+            "origin": "",
+            "path": "sources/9927c8debba07cff1be5ea848314d59cabfdf44c.jpg"
+        },
+        {
+            "id": "5f91aecf58d02f1cb14992d1",
+            "link": "https://www.researchgate.net/figure/Collapse-of-tall-buildings-during-the-Taiwan-earthquake-in-20181_fig1_340729776",
+            "name": "ResearchGate",
+            "origin": "",
+            "path": "sources/b284acc337c3d37f9a8862db8ab3c7965157c76d.jpg"
+        },
+        {
+            "id": "5f9dbbf0ff4c6730a1583341",
+            "link": "https://www-en.ntut.edu.tw/p/404-1006-37412.php?Lang=en",
+            "name": "www-en.ntut.edu.tw",
+            "origin": "",
+            "path": "sources/74142e7a1026529cd2bb646731bf2db92abf971d.jpg"
+        },
+        {
+            "id": "5f9dbbf009eb9442f11cf81f",
+            "link": "http://www.meteoweb.eu/foto/accadde-oggi-21-settembre-1999-un-forte-terremoto-sconvolge-taiwan/id/749686/#1",
+            "name": "MeteoWeb",
+            "origin": "",
+            "path": "sources/c48102256b4d687f88a568a452ee2fdabceed7a7.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الصورة قديمة وليست لزلزال إزمير الأخير",
+    "updated_at": "2020-11-01 17:18:05",
+    "url_path": "/factcheck/2020/10/31/الصورة-قديمة-وليست-لزلزال-إزمير-الأخير",
+    "was_notification_pushed": "true"
+}

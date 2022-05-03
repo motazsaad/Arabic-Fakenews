@@ -1,0 +1,152 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 200,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "مجرّد حملة شعبية على الإنترنت (فيسبوك)",
+    "category": "Sports",
+    "claim": "<p dir=\"rtl\">سيُطبع وجه مارادونا على العملة الأرجنتينية من فئة 10 بيزو وإلى الأبد.</p>\r\n",
+    "country": "AR",
+    "created_at": "2020-12-02 14:14:39",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 0,
+    "id": "5fc7771f37380a10b02e0832",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;<a href=\"https://misbar.com/\" style=\"text-decoration:none\" target=\"_blank\"><u>مسبار</u></a>&quot; من الخبر المتداول ووجد أنه مضلل، لأن المطالبة بطباعة وجه المتوفى&nbsp;حديثاً، مارادونا، على العملة الأرجنتينية مجرّد <a href=\"https://portaldobitcoin.uol.com.br/argentinos-promovem-campanha-por-cedula-de-10-mil-pesos-com-o-rosto-de-maradona/\" style=\"text-decoration:none\" target=\"_blank\"><u>حملة شعبية</u></a> على الإنترنت، وهي <a href=\"https://www.clarin.com/economia/billete-10-000-homenaje-maradona-pedido-redes-sociales-gobierno-busca-esquivar_0_qWQ7MkxuI.html\" style=\"text-decoration:none\" target=\"_blank\"><u>غير ملزمة</u></a>. ما يعني أن هذه العملة غير الموجودة ولم يُتخذ قرار بطباعة وجه مارادونا على عملة البيزو الأرجنتينية.</p>\r\n\r\n<p dir=\"rtl\">يُذكر أن اللاعب الأرجنتيني <a href=\"https://www.aa.com.tr/ar/%D8%A7%D9%84%D8%AA%D9%82%D8%A7%D8%B1%D9%8A%D8%B1/%D9%82%D9%84%D8%A8%D9%87-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A-%D9%88%D8%AF%D8%A7%D8%B9%D9%8B%D8%A7-%D9%85%D8%A7%D8%B1%D8%A7%D8%AF%D9%88%D9%86%D8%A7-%D8%AA%D9%82%D8%B1%D9%8A%D8%B1/2056803\" style=\"text-decoration:none\" target=\"_blank\"><u>دييغو مارادونا</u></a> توفي الأربعاء الفائت، عن عمر ناهز 60 عاماً، إثر إصابته بسكتة قلبية في منزله في مدينة تيغري الأرجنتينية، بعد أيام من خضوعه لجراحة لاستئصال ورم دموي في المخ.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_l28x35hvr.jpg\" style=\"height:583px; width:528px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">اقرأ/ي أيضاً:</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/11/27/%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%84%D9%8A%D8%B3-%D9%85%D9%86-%D8%AA%D8%B4%D9%8A%D9%8A%D8%B9-%D8%AC%D8%AB%D9%85%D8%A7%D9%86-%D9%85%D8%A7%D8%B1%D8%A7%D8%AF%D9%88%D9%86%D8%A7\" target=\"_blank\">الفيديو ليس من تشييع جثمان مارادونا</a></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/11/30/%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%82%D8%AF%D9%8A%D9%85-%D9%88%D9%84%D9%85-%D8%AA%D9%82%D8%AA%D9%84-%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D9%87%D9%8A%D8%B1-%D9%85%D9%84%D8%AA%D9%82%D8%B7-%D8%A7%D9%84%D8%B3%D9%8A%D9%84%D9%81%D9%8A-%D9%85%D8%B9-%D8%AC%D8%AB%D9%85%D8%A7%D9%86-%D9%85%D8%A7%D8%B1%D8%A7%D8%AF%D9%88%D9%86%D8%A7\" target=\"_blank\">الفيديو قديم ولم تقتل الجماهير ملتقط السيلفي مع جثمان مارادونا</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "مارادونا",
+        "الأرجنتين",
+        "رياضة"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\">تتناقل صفحات وحسابات على مواقع التواصل الاجتماعي، حديثاً، خبراً مفاده أن وجه اللاعب الأرجنتيني الراحل، مارادونا، سيُطبع على العملة الأرجنتينية من فئة 10 بيزو.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_pl8sfc3gs.jpg\" style=\"height:447px; width:529px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_zee9vckh6.jpg\" style=\"height:432px; width:523px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 52.5,
+        "path": "articles/1606907679مارادونا.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 857,
+        "watermark_path": "articles/watermark-1606907679مارادونا.jpg",
+        "width": 752
+    },
+    "post_date": "2020-12-02T13:08:00.000+03:00",
+    "published": [
+        {
+            "id": "5fc7787529e9946527493828",
+            "link": "https://www.facebook.com/DIFFRN/posts/793553567894872",
+            "name": "Different",
+            "origin": "facebook",
+            "path": "sources/85410c58e9ed4579e799a9aca049e2933341a0cb.jpg"
+        },
+        {
+            "id": "5fc778751eb18a07c00e5809",
+            "link": "https://www.facebook.com/E33RAF/posts/1830470860433258",
+            "name": "اعرف اكتر",
+            "origin": "facebook",
+            "path": "sources/0a1c183d968be3a58cb732657be1224c9675eb45.jpg"
+        },
+        {
+            "id": "5fc778765d566c1eb1081632",
+            "link": "https://www.facebook.com/ven32/posts/232970851583040",
+            "name": "فينوس - VENUS",
+            "origin": "facebook",
+            "path": "sources/283f242c7e4b0398863359a53ec6e91c58dc4889.jpg"
+        },
+        {
+            "id": "5fc7787664cf3b30d822729c",
+            "link": "https://www.facebook.com/NameerIbrahimBacha/posts/4704354882939250",
+            "name": "الجالية العربية في أمريكا مع نمير باشا",
+            "origin": "facebook",
+            "path": "sources/3c7496a55b742d23ce9edb05d43d4a26b0e68cb1.jpg"
+        },
+        {
+            "id": "5fc778763957c6231d5a4d96",
+            "link": "https://www.facebook.com/abdallaattalla85/posts/193057679033286",
+            "name": "Mind Heist",
+            "origin": "facebook",
+            "path": "sources/175f2b0de299233056b03f1572295ef94c3e40ac.jpg"
+        },
+        {
+            "id": "5fc77937e109524f546018f6",
+            "link": "https://twitter.com/Soccer_on_line/status/1333852507609632770",
+            "name": "بث مباشر للمباريات 📡",
+            "origin": "twitter",
+            "path": "sources/aa193575141dd36e49a695663a421df3a1d49003.jpg"
+        },
+        {
+            "id": "5fc779370580e67ec857b880",
+            "link": "https://twitter.com/aborami1144/status/1333766151189491712",
+            "name": "ابو رامي الملكي 💚",
+            "origin": "twitter",
+            "path": "sources/8d6108f24b4f3babec49ea6e8f59b9ca81c5754f.jpg"
+        },
+        {
+            "id": "5fc7793856ba767448141aa6",
+            "link": "https://www.facebook.com/Lazer.D.U/posts/1817593838388739",
+            "name": "فيزياء الليزر وتطبيقاته",
+            "origin": "facebook",
+            "path": "sources/4bc967db09874acd24856344d3314bfb70af2442.jpg"
+        },
+        {
+            "id": "5fc779389615bb432a78f4cb",
+            "link": "https://www.facebook.com/sawtlmohajir/posts/1243562922740339",
+            "name": "صوت المهاجر",
+            "origin": "facebook",
+            "path": "sources/0f94faacdd4cb12a1905157f03fb94a61a13667e.jpg"
+        },
+        {
+            "id": "5fc77938970d345d8415f994",
+            "link": "https://www.facebook.com/AHLYNOW112/posts/3805116079533309",
+            "name": "Ahly-Now",
+            "origin": "facebook",
+            "path": "sources/0fee5e4e9ef6eb0957d322091399d4753637d022.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fc7771f9de71072b234d516",
+            "link": "https://portaldobitcoin.uol.com.br/argentinos-promovem-campanha-por-cedula-de-10-mil-pesos-com-o-rosto-de-maradona/",
+            "name": "Portal do Bitcoin",
+            "origin": "",
+            "path": "sources/4ccdebc6a3255aab587342aceb796cb616653bf0.jpg"
+        },
+        {
+            "id": "5fc7771f7f74c4679e3f578a",
+            "link": "https://www.clarin.com/economia/billete-10-000-homenaje-maradona-pedido-redes-sociales-gobierno-busca-esquivar_0_qWQ7MkxuI.html",
+            "name": "Clarin.com",
+            "origin": "",
+            "path": "sources/0431be2ea89799e6fd219d8149b41b18b106bf61.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "حملة شعبية وليس قراراً بطباعة وجه مارادونا على العملة الأرجنتينية",
+    "updated_at": "2020-12-02 14:48:12",
+    "url_path": "/factcheck/2020/12/02/حملة-شعبية-وليس-قرارا-بطباعة-وجه-مارادونا-على-العملة-الأرجنتينية",
+    "was_notification_pushed": "true"
+}

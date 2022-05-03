@@ -1,0 +1,83 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 274,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "الفنان نفى صحة الأنباء عن مرضه (Facebook)",
+    "category": "Arts & Culture",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">الفنان أحمد عيد مصاب بغيبوبة سكر، وسط إهمال من قبل وسائل الإعلام والنقابة والجهات الرسمية.</p>\r\n",
+    "country": "EG",
+    "created_at": "2020-08-03 14:52:01",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f27fa61602118074f78f760",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">تحقّق &quot;مسبار&quot; من الخبر ليجد أنه زائف، ونفاه الفنان صاحب فيلم &quot;ليلة سقوط بغداد&quot;&nbsp;على صفحته الموثقة في موقع فيسبوك، حيث قال &quot;كلمني أكتر من صديق بسبب أخبار متداولة على السوشيال ميديا عن صحتي، الأخبار دي غير صحيحة وأنا الحمدلله بخير&quot;، مشيراً إلى كونها صفحته الوحيدة على وسائل التواصل الاجتماعي التي ينشر عليها أخباره.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_5uijz4taf.jpg\" style=\"height:268px; width:605px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p>تداولت عدة صفحات على موقعيّ فيسبوك وتويتر خلال شهر يوليو/تموز الفائت، خبراً مفاده إصابة الفنان أحمد عيد بغيبوبة سكر، ونقله إلى المستشفى، وانتقدت هذه الصفحات عدم الاهتمام به من قبل الإعلام في مصر، ومساندته في محنته على عكس ما حدث مع الفنانة رجاء الجداوي.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_e3z40xkdn.jpg\" style=\"height:629px; width:605px\" /></p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_kz87b6j1o.jpg\" style=\"height:360px; width:601px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_6h35w1sfe.jpg\" style=\"height:503px; width:605px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 241,
+        "left": 0.47222900390625,
+        "path": "articles/159645552047350913_10156684372531427_6008692043474272256_n.jpg",
+        "top": 3.0859375,
+        "totalHeight": 423,
+        "totalWidth": 423,
+        "watermark_path": "articles/watermark-159645552047350913_10156684372531427_6008692043474272256_n.jpg",
+        "width": 428
+    },
+    "post_date": "2020-08-03T13:08:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/H.Asabahi/posts/3217842224964366?__xts__[0]=68.ARCvzS_DPGFzqBiPrYTM-dI0VzCbncW_ICpFeqw2eLCuyi9ng17mvAJVhK1RZROq1dBFEAIiHxI9IncUPiZuOzzQgv767CQp132nO7Ttiz2XxeZbO7k2i_qnfmu1u8trq2jGciAS9ylZBEa_x-9cCniyG077AWLFNb0i_-z9bYoJBslyNlcxgfu7t-88Hx03_g9ISC6Zd5CDALtlrnfMQHoAmwT8Ksz93QeofdRIqSfYxlymty1DECqs_fTvTpupRn0NDizEJw-qUJttzhiX8sw-8LRrrkK3UbnlQYoRdBZ0pCtw9mJjxoBXv3AJW2YdNaMpBFMoTxDGcfYf_PKJyTNYSw&__tn__=-R",
+            "name": "هشام الصباحى. Hesham Alsabahi",
+            "path": "published/0_1596455520_190269_104849152930371_990828_n.jpg"
+        },
+        {
+            "link": "https://twitter.com/stayheremylove/status/1281210732244348932",
+            "name": "بنت اسمها ذات البديل",
+            "path": "published/1_1596455520_-JsEGyxn_400x400.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/elmansouraplus/photos/a.600742807112843/906495473204240/?type=3&theater",
+            "name": "المنصورة بلس",
+            "path": "published/2_1596455520_67082128_639061316614325_8146453869791019008_n.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/egyfilm.Ahmed.Eid/posts/10158341751641427?__xts__[0]=68.ARC0top2-snvYMNbImReY07CWiM1qHrLOobXKMJkRy17IttNEdMWq4KI1JR3JE5UY1dHMfFJ-NAyZbkeoxvnpBxTyRCbUh5z6o48Huncq2B9XnEjnil6dQDfuUVohMPxhM6YDFG8ookS82J_vHu1k4D-gJvR34KrpGLEU9nld2FJTD40NjExQRboPmxtxzrDISh4pE7MOUcT-gi0Bpo0FxzWWDxOItP-gX9auoQ3B48XAkpcMz79gZ1nRBknszVVggGHsWWGH4nm5xNyGhSiZkW17b0prTydJ7UvOZlzc_HCg0JHpsMY9jQOqUl1h5OUHFc8tIH50nNyLw&__tn__=-R",
+            "name": "أحمد عيد",
+            "path": "sources/0_1596455864_الفنان.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الفنان أحمد عيد غير مصاب بغيبوبة سكر",
+    "updated_at": "2020-09-25 21:29:06",
+    "url_path": "/factcheck/2020/08/03/الفنان-أحمد-عيد-غير-مصاب-بغيبوبة-سكر"
+}

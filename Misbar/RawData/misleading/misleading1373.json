@@ -1,0 +1,114 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 1,
+        "fb": 2,
+        "tw": 1
+    },
+    "amount_sources": 0,
+    "amount_visits": 2540,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">أعطى الرئيس التركي رجب طيب أردوغان، مهلة للنظام السوري حتى يوم الجمعة للانسحاب من كل المناطق المحيطة بنقاط المراقبة التركية.</span></p>\r\n",
+    "country": "SY",
+    "created_at": "2020-02-08 22:48:37",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 2,
+    "id": "5e3f1095d4a22959e100ef34",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">راجع &quot;مسبار&quot; كلمة الرئيس التركي الأصلية وعرض الكلمة على خبراء ترجمة من التركية إلى العربية، منهم الأستاذ محمود حج علي، ليتبيّن أنّ أردوغان قال :&quot;نأمل أن ينهي النظام انسحابه إلى خلف نقاط المراقبة التركية خلال فبراير/شباط الجاري، لأن تركيا ستضطّر لإجباره على ذلك إذا لم ينسحب في هذه الفترة الزمنية المحددة&quot;، وتوافقت هذه الترجمة مع ما نصّت عليه تغطية وكالة الأناضول وصفحة رئاسة الجمهورية التركية. إذن، الخبر المتداول غير صحيح، ولا وجود لمهلة انتهت يوم الجمعة الفائت، ولم يحدّد أردوغان &quot;نهاية&quot; شهر فبراير/شباط مهلة لقوّات الحكومة السورية.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_3l31p3hx4.jpg\" style=\"height:197px; width:435px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "تركيا",
+        "سورية",
+        "إدلب",
+        "أردوغان"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">&quot;لدى النظام السوري مهلة حتى يوم الجمعة للانسحاب من كلّ المناطق المحيطة بنقاط المراقبة التركية&quot;. بهذه الصياغة، نقلت عدّة مواقع إخبارية جزءًا من كلمةٍ ألقاها الرئيس التركي رجب طيب أردوغان في اجتماع الكتلة البرلمانية لحزب العدالة والتنمية، الذي عُقد يوم الأربعاء 5 فبراير/شباط 2020. إضافة إلى مواقع أخرى صاغت الخبر على أنه مهلة حتى &quot;نهاية&quot; شهر فبراير/شباط الحالي.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_c48hu97va.jpg\" style=\"height:185px; width:436px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_nmicstoem.jpg\" style=\"height:401px; width:427px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_88kx4o2br.jpg\" style=\"height:180px; width:425px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 343,
+        "left": 4.0333251953125,
+        "path": "articles/15811913162020-02-05-akparti-07.jpg",
+        "top": 54.23333740234375,
+        "totalHeight": 423,
+        "totalWidth": 615,
+        "width": 609
+    },
+    "post_date": "2020-02-08T21:35:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/AJABreaking/status/1224983680155815940?s=19",
+            "name": "الجزيرة عاجل",
+            "path": "published/0_1581191316_الجزيرة - عاجل - logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/820262131363591/posts/2895109847212132/",
+            "name": "عربي 21",
+            "path": "published/1_1581191316_عربي 21 - لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=483313832605860",
+            "name": "التلفزيون العربي",
+            "path": "published/2_1581191316_التلفزيون العربي - لوغو.jpg"
+        },
+        {
+            "link": "https://baladi-news.com/ar/breakingnews/35751/%D8%A8%D9%84%D8%AF%D9%8A-%D8%A3%D8%B1%D8%AF%D9%88%D8%BA%D8%A7%D9%86-%D9%86%D9%85%D9%87%D9%84-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%AD%D8%AA%D9%89-%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D8%A9-%D9%84%D9%84%D8%A7%D9%86%D8%B3%D8%AD%D8%A7%D8%A8-%D9%85%D9%86-%D9%83%D9%84-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B7%D9%82-%D8%A7%D9%84%D9%85%D8%AD%D9%8A%D8%B7%D8%A9-%D8%A8%D9%86%D9%82%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%A9-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7",
+            "name": "بلدي",
+            "path": "published/3_1581191316_بلدي - لوغو.jpg"
+        },
+        {
+            "link": "https://www.almadenahnews.com/article/805875-%D8%A3%D8%B1%D8%AF%D9%88%D8%BA%D8%A7%D9%86-%D9%86%D9%85%D9%87%D9%84-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D8%AD%D8%AA%D9%89-%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D8%A9-%D9%84%D9%84%D8%A7%D9%86%D8%B3%D8%AD%D8%A7%D8%A8-%D9%85%D9%86-%D9%83%D9%84-%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B7%D9%82-%D8%A7%D9%84%D9%85%D8%AD%D9%8A%D8%B7%D8%A9-%D8%A8%D9%86%D9%82%D8%A7%D8%B7-%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D9%82%D8%A8%D8%A9-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A%D8%A9",
+            "name": "المدينة الإخبارية",
+            "path": "published/4_1581191316_المدينة الإخبارية - لوغو.jpg"
+        },
+        {
+            "link": "https://www.lebanon24.com/news/breaking-news/671284/%D8%A3%D8%B1%D8%AF%D9%88%D8%BA%D8%A7%D9%86-%D9%86%D9%85%D9%87%D9%84-%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D8%AD%D8%AA%D9%89-%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D8%A9-%D9%84%D9%84%D8%A7%D9%86%D8%B3%D8%AD%D8%A7%D8%A8-%D9%85%D9%86",
+            "name": "لبنان 24",
+            "path": "published/5_1581191316_لبنان 24 - لوغو.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.tccb.gov.tr/ar/-/1666/116548/-askerlerimize-yapilan-her-saldiri-herhangi-bir-ikaz-yapilmaksizin-misliyle-cevaplandirilacaktir-",
+            "name": "رئاسة الجمهورية التركية",
+            "path": "sources/0_1581191315_رئاسة الجمهورية التركية - لوغو.jpg"
+        },
+        {
+            "link": "https://twitter.com/aa_arabic/status/1225360873260244992?s=19",
+            "name": "وكالة الأناضول",
+            "path": "sources/1_1581191315_وكالة الأناضول - لوغو.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=AKw3AGuNpSM",
+            "name": "كلمة الرئيس أردوغان كاملة",
+            "path": "sources/2_1581191315_YouTube-logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/TRTArabi/videos/198516707934388/",
+            "name": "TRT عربي",
+            "path": "sources/3_1581191316_TRT عربي - لوغو.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ترجمة مضلّلة حول مهلة أردوغان للنظام السوري",
+    "updated_at": "2020-09-23 12:38:50",
+    "url_path": "/factcheck/2020/02/08/ترجمة-مضللة-حول-مهلة-أردوغان-للنظام-السوري"
+}

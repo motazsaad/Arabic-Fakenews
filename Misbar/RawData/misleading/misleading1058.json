@@ -1,0 +1,97 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1648,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "المقطع الأصلي عبارة عن مقتطف من عمل موسيقي",
+    "category": "Spirituality & Religion",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">هذه كنيسة في إسبانيا يُطلق عليها كاتدرائية مسجد قرطبة. حوّل أحد الملوك المسجد إلى كنيسة، لكنّ المؤذن يأتي كل يوم لرفع الأذان حتى يومنا هذا. يُقام الأذان يوميًّا في أوقات الصلاة حتى في وقت صلاة المسيحيين لكنّ الحضور يلتزمون الصمت حتى نهاية الأذان.</span></p>\r\n",
+    "country": "ES",
+    "created_at": "2020-06-04 16:59:37",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ed8fe49db2916556026b534",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من مقطع الفيديو المتداول ووجد أنه مضلل. </span><a href=\"https://youtu.be/bFgYcdQVlto\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>المقطع الأصلي</u></span></a><span style=\"color:#000000\"> مجتزأ من عمل موسيقي يحمل عنوان &quot;الرجل المسلّح - صلاة من أجل السلام&quot;، يكون فيه الأذان جزءاً من العمل. أما المؤذن فهو الفنان البريطاني </span><a href=\"https://www.facebook.com/hassen.rasool/\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>حسن رسول</u></span></a><span style=\"color:#000000\">، الذي يمارس تلاوة القرآن والتصوير والمسرح والنحت، وغيرها من الأعمال الفنية.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">عُقد هذا الأداء الفني في مسرح جامعة إيتون الإنجليزية، بتاريخ 27 سبتمبر/أيلول 2014، في ذكرى مرور 100 سنة على الحرب العالمية الأولى.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/bFgYcdQVlto\" width=\"560\"></iframe></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "السلام",
+        "إنجلترا",
+        "قرطبة",
+        "مسجد قرطبة",
+        "كاتدرائية قرطبة"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل صفحات على مواقع التواصل الاجتماعي، منذ سنوات، مقطع فيديو تدّعي فيه أنه لشخص يُقيم الأذان يوميًّا في كاتدرائية - مسجد قرطبة في إسبانيا، حتى في أوقات صلاة المسحيين الذين يلتزمون الصمت أثناء إقامة الأذان.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/S0Szgk6K-uQ\" width=\"560\"></iframe></span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"503\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fmalnaiem%2Fvideos%2F10155269118776619%2F&amp;show_text=1&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 400,
+        "left": 38.0999755859375,
+        "path": "articles/1591279176غلاف.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 753,
+        "watermark_path": "articles/watermark-1591279176غلاف.jpg",
+        "width": 712
+    },
+    "post_date": "2020-06-04T16:52:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/malnaiem/videos/10155269118776619/",
+            "name": "ماهر صالح",
+            "path": "published/0_1591279175_ماهر.jpg"
+        },
+        {
+            "link": "https://twitter.com/NonYkhuwiter/status/1018595224703131648",
+            "name": "الخويطرية",
+            "path": "published/1_1591279175_الخويطرية.jpg"
+        },
+        {
+            "link": "https://twitter.com/abosqr2021/status/1231758469931270145",
+            "name": "يمني الحبيب",
+            "path": "published/2_1591279176_يمني.jpg"
+        },
+        {
+            "link": "https://twitter.com/Abosale02887022/status/1237225857393070080",
+            "name": "أبو صالح",
+            "path": "published/3_1591279176_أبو.jpg"
+        },
+        {
+            "link": "https://twitter.com/Araya75218557/status/1002058417748430848",
+            "name": "Araya",
+            "path": "published/4_1591279176_Araya.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://youtu.be/bFgYcdQVlto",
+            "name": "Hassen Rasool",
+            "path": "sources/0_1591279176_حسن رسول.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "رفع الأذان يوميًّا في كاتدرائية قرطبة.. فيديو مضلل",
+    "updated_at": "2020-09-25 07:55:56",
+    "url_path": "/factcheck/2020/06/04/رفع-الأذان-يوميا-في-قرطبة-فيديو-مضلل"
+}

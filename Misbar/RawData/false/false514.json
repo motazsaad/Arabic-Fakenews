@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 982,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "لعبة فيديو تم إطلاقها للمرة الأولى عام 2013 (Youtube)",
+    "category": "Gaming",
+    "claim": "<p style=\"text-align:right\">مقطع فيديو وصوراً لمنظومة دفاعية نصبتها السفارة الأميركية حديثاً في بغداد.</p>\r\n",
+    "country": "IQ",
+    "created_at": "2020-07-10 12:32:05",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f083595163be308264cc4e8",
+    "investigation": "<p dir=\"RTL\">تحقًق &quot;مسبار&quot; من الفيديو والصور ليجد أن مقطع الفيديو والصور جميعها مقصوصة من لعبة فيديو أرما3 التي هي لعبة فيديو عسكرية في العالم المفتوح، تم إطلاقها في 2013 ثم تطويرها ونشرها من جديد عام 2015 تستند إلى الواقعيّة في جفرافيا المسطحات المائية والمواقع، وتجري أحداثها جنوب المحيط الهادئ. &nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/3UVuV5WvraQ\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت حسابات شخصية وإعلامية على موقعيّ فيسبوك وتويتر في يومي الرابع والخامس من يوليو/تموز الجاري،&nbsp;مقطع فيديو وصوراً لما سمته أنها منظومة دفاعية نصبتها السفارة الأميركيّة حديثاً في بغداد، ومنشورات أخرى قال أصحابها&nbsp;إنَّ&nbsp;منظومة الدفاع الجوي الخاصة بالسفارة الأميركيّة أطلقت النار في الهواء على جسم طائر.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_qx2xaxvxr.jpg\" style=\"height:426px; width:605px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_ivw99cc8a.jpg\" style=\"height:421px; width:605px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_c60pcpash.jpg\" style=\"height:157px; width:605px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_ad8vpdw33.jpg\" style=\"height:614px; width:585px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 411,
+        "left": 27.25,
+        "path": "articles/1594373525ييييي.JPG",
+        "top": 11.671875,
+        "totalHeight": 423,
+        "totalWidth": 776,
+        "watermark_path": "articles/watermark-1594373525ييييي.JPG",
+        "width": 730
+    },
+    "post_date": "2020-07-10T09:53:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/ghaith.jamal95/videos/3055034214551511/?v=3055034214551511",
+            "name": "غيث جمال",
+            "path": "published/0_1594373524_غيث جمال.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=2341214436188235&external_log_id=1cba6385a1e59356b0f880b60f412f12&q=%D9%85%D9%86%D8%B8%D9%88%D9%85%D8%A9%20%D8%AF%D9%81%D8%A7%D8%B9%D9%8A%D8%A9%20%D9%86%D8%B5%D8%A8%D8%AA%D9%87%D8%A7%20%D8%A7%D9%84%D8%B3%D9%81%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9%20%D9%81%D9%8A%20%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF",
+            "name": "سكاي عراقية",
+            "path": "published/1_1594373524_90776821_1453156671529664_669787239139508224_o.jpg"
+        },
+        {
+            "link": "https://twitter.com/alialiahmed511/status/1279563450688122881/photo/1",
+            "name": "علي أحمد",
+            "path": "published/2_1594373524_علي احمد.jpg"
+        },
+        {
+            "link": "https://twitter.com/7mQXqmyQWCGsD77/status/1279565650265026560",
+            "name": "أبو حسن",
+            "path": "published/3_1594373524_WGSiLZHx_400x400.jpg"
+        },
+        {
+            "link": "",
+            "name": "",
+            "path": ""
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=3UVuV5WvraQ&feature=youtu.be&fbclid=IwAR2PNGl1GUGDWVCOKGa7L8emRRdfuA_PtqFyPWJ24RgcEh3JnftEnkH5Iak",
+            "name": "GaMiNG SL515",
+            "path": "sources/0_1594373524_unnamed.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه ليست منظومة دفاعية للسفارة الأميركية في بغداد",
+    "updated_at": "2020-09-25 10:49:23",
+    "url_path": "/factcheck/2020/07/10/هذه-ليست-منظومة-دفاعية-للسفارة-الأميركية-في-بغداد"
+}

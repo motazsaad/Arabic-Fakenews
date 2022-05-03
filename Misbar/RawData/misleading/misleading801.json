@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1036,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": " يتم تداول الصورة منذ فترة على مواقع التواصل الاجتماعي (تويتر)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">صورة متداولة على أنها في لبنان بعد انفجار مرفأ بيروت.</span></p>\r\n",
+    "country": "LB",
+    "created_at": "2020-08-06 14:43:02",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f2becc66021180ee110b811",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من الصورة ووجد أن الادعاء مضلل، ولا علاقة لها بأحداث لبنان الأخيرة. إذ يتم تداول <a href=\"https://twitter.com/CalobRaeJepsen/status/1282460339221618689\" style=\"color:#0563c1; text-decoration:underline\">الصورة</a> منذ فترة على مواقع التواصل الاجتماعي، في صفحات تهتم بنشر الشعر والأغاني. وأثناء البحث عن أصل الصورة المتداولة، تبين أنها معدلة ببرامج تعديل الصور، وتم إضافة الدماء وبعض المؤثرات على الصورة الأصلية، لتظهر بشكلها المتداول.<br />\r\nوالصورة في الأصل&nbsp;تعود للمصور والمصمم كالوب كاستيلون، ونشر الصورتين في حسابه على موقع تويتر بتاريخ 13 يوليو/تموز الفائت، أي قبل انفجار مرفأ بيروت بنحو ثلاثة أسابيع، والذي وقع بتاريخ 4 أغسطس/آب.</span></p>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"ltr\">Chaos just seems to follow us everywhere 💥 <a href=\"https://t.co/EkAS3SzQow\">pic.twitter.com/EkAS3SzQow</a></p>\r\n&mdash; Calop (@CalobRaeJepsen) <a href=\"https://twitter.com/CalobRaeJepsen/status/1282460339221618689?ref_src=twsrc%5Etfw\">July 12, 2020</a></blockquote>\r\n\r\n<p style=\"text-align:right\">&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات على مواقع التواصل الاجتماعي، منذ أمس 5 أغسطس/آب، صورة تُظهر شاب وفتاة&nbsp;على أيديهما دماء، وادّعى ناشرو الصورة أنها من أحداث انفجار مرفأ بيروت.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_5df8gwgwy.jpg\" style=\"height:779px; width:549px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_mq76n1gyz.jpg\" style=\"height:781px; width:560px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1596714182100.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1596714182100.jpg",
+        "width": 752
+    },
+    "post_date": "2020-08-06T14:40:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/phobia.isaacofficiel/photos/a.1910790305827755/2629969173909861/?type=3&theater",
+            "name": "StãTüt & M3âNį",
+            "path": "published/0_1596714181_StãTüt & M3âNį.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/mohamd.kaffaz/posts/998899983880854",
+            "name": "ŞíMő Æx",
+            "path": "published/1_1596714311_ŞíMő Æx.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/belFQuuh/photos/a.655837848148508/1167524153646539/?type=3&theater",
+            "name": "بالفقيه",
+            "path": "published/2_1596714311_بالفقيه.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/manar.kerkeni/posts/1463014527242712",
+            "name": "Manar Kerkeni",
+            "path": "published/3_1596714311_Manar Kerkeni.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/yassir.mouiyad.9/posts/307921133750231",
+            "name": "Yassin DM",
+            "path": "published/4_1596714311_Yassin DM.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/simo.pepero.1/posts/783157099092619",
+            "name": "Ÿá Čh Öö",
+            "path": "published/5_1596714311_Ÿá Čh Öö.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/CalobRaeJepsen/status/1282460339221618689",
+            "name": "Calop",
+            "path": "sources/0_1596714182_Calop.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لا علاقة لهذه الصورة بانفجار مرفأ بيروت",
+    "updated_at": "2020-09-25 12:57:25",
+    "url_path": "/factcheck/2020/08/06/لا-علاقة-لهذه-الصورة-بحادث-انفجار-مرفأ-بيروت"
+}

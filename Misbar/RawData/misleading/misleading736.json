@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 475,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "الصورة في مصر لعاشق يريد أن يقابل حبيبته المتزوجة (Marsd)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\"><strong>صورة لشاب حوثي ينتحل هيئة امرأة طاعنة في السن، قبضت عليه الأجهزة الأمنية في مدينة مأرب شمال شرق العاصمة اليمنية.</strong></p>\r\n",
+    "country": "YE",
+    "created_at": "2020-08-22 18:54:57",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f413fd1602118064370af9d",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الصورة ليجد أنها قديمة ومضللة؛ فالصورة تعود إلى شاب مصري يتنكر بزي نسائي &quot;حتى يتمكن من مقابلة زوجة أحد زملائه التي تربطه معها علاقة عاطفية&quot;، وقبضت عليه الأجهزة الأمنية المصرية في محافظة المنوفية بتاريخ 16 أكتوبر/&nbsp;تشرين الأول 2018.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img id=\"صورة_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/investigation_8xbhn93tm.jpg\" style=\"height:471pt; width:470.25pt\" /> </span></strong></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات وحسابات على مواقع التواصل الاجتماعي، منذ 21 أغسطس \\ آب الجاري، صورة لشاب مكبل اليدين يتنكر بملابس امرأة طاعنة في السن، ومرفق تعليق مع الصورة بأنها لأحد الحوثيين الذي ينتحل صفة امرأة، وقبضت عليه الأجهزة الأمنية في مدينة مأرب اليمنية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img id=\"صورة_x0020_2\" src=\"https://images-prod.misbar.com/articlebody/origin_0ndmn4ddq.jpg\" style=\"height:650.25pt; width:384.75pt\" /> <img id=\"صورة_x0020_3\" src=\"https://images-prod.misbar.com/articlebody/origin_quqh4gjpg.jpg\" style=\"height:237.75pt; width:470.25pt\" /> <img id=\"صورة_x0020_4\" src=\"https://images-prod.misbar.com/articlebody/origin_7jx6sdpus.jpg\" style=\"height:238.5pt; width:470.25pt\" /> </span></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 305,
+        "left": 107.280029296875,
+        "path": "articles/1598111696333455.jpg",
+        "top": 20,
+        "totalHeight": 423,
+        "totalWidth": 676,
+        "watermark_path": "articles/watermark-1598111696333455.jpg",
+        "width": 541
+    },
+    "post_date": "2020-08-22T17:34:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/bn_mgowr/status/1296881560583634947/photo/1",
+            "name": "عوض بن مجور",
+            "path": "published/0_1598111695_6_1596888660_twitter.jpg"
+        },
+        {
+            "link": " https://twitter.com/1234wjdy/status/1296579083820834816",
+            "name": "محارب اليأس التعزي",
+            "path": "published/1_1598111695_6_1596888660_twitter.jpg"
+        },
+        {
+            "link": " https://twitter.com/CLRGXuMfQotLrSn/status/1296887138768900102",
+            "name": "القحطاني",
+            "path": "published/2_1598111696_6_1596888660_twitter.jpg"
+        },
+        {
+            "link": "  https://www.facebook.com/photo.php?fbid=184134693123043&set=a.155026076033905&type=3&theater",
+            "name": "البيحاني زكرياء محمد",
+            "path": "published/3_1598111696_0_1596888660_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=134190198168050&id=100047312122162",
+            "name": "صالح منصر",
+            "path": "published/4_1598111696_0_1596888660_facebook.jpg"
+        },
+        {
+            "link": " https://www.facebook.com/photo.php?fbid=2673087106297834&set=a.1739173956355825&type=3&theater",
+            "name": "حمد حيدر",
+            "path": "published/5_1598111696_0_1596888660_facebook.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "http://www.alchourouk.com/article/%D9%85%D8%B5%D8%B1-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%B9%D8%A7%D8%B4%D9%82-%D8%A7%D9%84%D8%BA%D8%A8%D9%8A-%D8%B5%D9%88%D8%B1",
+            "name": "الشروق",
+            "path": "sources/0_1598111696_33117504_2474252365933658_4701786645521760256_n.jpg"
+        },
+        {
+            "link": "https://al-marsd.com/%d9%85%d8%b5%d8%b1-%d8%a7%d9%84%d9%82%d8%a8%d8%b6-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%b9%d8%a7%d8%b4%d9%82-%d8%a7%d9%84%d8%ba%d8%a8%d9%8a-%d8%b5%d9%88%d8%b1/",
+            "name": "المرصد",
+            "path": "sources/1_1598111696_لللقث.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الصورة قديمة وليست لشاب حوثي يتنكر بزي نسائي في اليمن",
+    "updated_at": "2020-09-25 18:23:36",
+    "url_path": "/factcheck/2020/08/22/الصورة-قديمة-وليست-لشاب-حوثي-يتنكر-بزي-نسائي-في-اليمن"
+}

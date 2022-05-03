@@ -1,0 +1,167 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 84,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "الصورة لبرج فولكارت الثنائي في إزمير التركية (فيسبوك)",
+    "category": "News",
+    "claim": "<p>صورة تُظهر برجين في ماليزيا، كتب على البرج الأول &quot;الله&quot; وعلى الثاني &quot;محمد&quot;.</p>\r\n",
+    "country": "MY",
+    "created_at": "2020-12-14 17:09:39",
+    "created_by": "5f39b5451dd585078b5d94f3",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 2,
+    "id": "5fd77223ca5e877dc63f3f83",
+    "investigation": "<p dir=\"RTL\">تحقّق &quot;<a href=\"https://misbar.com/media/videos\">مسبار</a>&quot; من الصورة المتداولة ووجد أن الادّعاء مضلل، فالصورة ليست في ماليزيا بل تعود لبرج فولكارت الثنائي بمدينة إزمير التركية، وبالبحث العكسي عن الصورة الأصلية تبيّن أنها معدلة، أضيف إليها كلمتا &quot;الله&quot; و&quot;محمد&quot;.</p>\r\n\r\n<p dir=\"RTL\">وبرج فولكارت الثنائي هو ثاني أطول برج في تركيا والخامس في أوروبا، يبلغ ارتفاعه حوالي&nbsp;200&nbsp;متر، أنشئ في مدينة إزمير في منطقة بايراقلي فوق أرض كانت مستودعات للتبغ، انتهى&nbsp;بناؤه عام 2014، وتبلغ مساحة الأرض التي بني عليها حوالي 150 ألف متر مربع، ويضم كل بناء فيه 45 طابقاً.</p>\r\n\r\n<p dir=\"RTL\"><strong><img id=\"صورة_x0020_4\" src=\"https://images-prod.misbar.com/articlebody/investigation_nwiif7ovu.jpg\" /></strong></p>\r\n\r\n<p dir=\"RTL\">اقرأ/ي أيضاً</p>\r\n\r\n<p dir=\"RTL\"><a href=\"https://misbar.com/factcheck/2020/12/12/%D9%84%D9%85-%D8%AA%D8%B9%D8%AB%D8%B1-%D8%A3%D9%85%D8%A7%D9%86%D8%A9-%D8%B9%D9%85%D8%A7%D9%86-%D8%B9%D9%84%D9%89-%D8%B0%D9%87%D8%A8-%D8%AE%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%AD%D9%81%D8%B1-%D9%88%D8%B3%D8%B7-%D8%A7%D9\">لم تعثر أمانة عمان على ذهب خلال الحفر وسط البلد بل على موقع أثري</a></p>\r\n\r\n<p dir=\"RTL\"><a href=\"https://misbar.com/factcheck/2020/12/10/%D8%B5%D9%88%D8%B1%D8%A9-%D9%83%D9%87%D9%81-%D8%A7%D9%84%D8%AB%D8%B9%D8%A8%D8%A7%D9%86-%D9%85%D9%84%D8%AA%D9%82%D8%B7%D8%A9-%D9%85%D9%86-%D9%85%D9%88%D9%82%D8%B9%D9%8A%D9%86-%D9%85%D8%AE%D8%AA%D9%84%D9%81%D9%8A%D9%86\">صورة كهف الثعبان مُلتقطة من موقعين مختلفين</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": false,
+    "is_notification_pushed": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "ماليزيا",
+        "إزمير",
+        "تركيا",
+        "برج فولكارت"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\">تتداول صفحات وحسابات على مواقع التواصل الاجتماعيّ، حديثاً ومنذ عام 2019، صورةً ادّعت أنها لأطول برجين في ماليزيا، كُتب على البرج الأول اسم &quot;الله&quot; وعلى الثاني اسم النبي محمد.</p>\r\n\r\n<p dir=\"RTL\"><strong><img id=\"صورة_x0020_2\" src=\"https://images-prod.misbar.com/articlebody/origin_mo6ug6ofc.jpg\" />&nbsp;</strong></p>\r\n\r\n<p dir=\"RTL\"><strong>&nbsp;&nbsp;<img id=\"صورة_x0020_3\" src=\"https://images-prod.misbar.com/articlebody/origin_7x77gkgno.jpg\" /></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 155,
+        "left": -0.125213623046875,
+        "path": "articles/1607954979121799534_400126254489504_8123756584181747406_n.jpg",
+        "top": 45.65869140625,
+        "totalHeight": 423,
+        "totalWidth": 278,
+        "watermark_path": "articles/watermark-1607954979121799534_400126254489504_8123756584181747406_n.jpg",
+        "width": 275
+    },
+    "post_date": "2020-12-13T17:01:00.000+03:00",
+    "published": [
+        {
+            "id": "5fabf39eacd7be676656d483",
+            "link": "https://www.facebook.com/groups/195651071833673/permalink/415719066493538/",
+            "name": "ثقف نفسك ( قصص ومعلومات )",
+            "origin": "facebook",
+            "path": "sources/9fb41797f3ab0b7b87f8775614ed7b0bdd915b9b.jpg"
+        },
+        {
+            "id": "5fabf39eacd7be676656d483",
+            "link": "https://www.facebook.com/groups/195651071833673/permalink/415719066493538/",
+            "name": "ثقف نفسك ( قصص ومعلومات )",
+            "origin": "facebook",
+            "path": "sources/9fb41797f3ab0b7b87f8775614ed7b0bdd915b9b.jpg"
+        },
+        {
+            "id": "5fd77316ca8fc5743442a188",
+            "link": "https://www.facebook.com/hatmalanbea/photos/a.419266988804836/797623887635809/?type=3",
+            "name": "خاتم الانبياء",
+            "origin": "facebook",
+            "path": "sources/2eb87b92efae90c5cbab11043517f5da2402a155.jpg"
+        },
+        {
+            "id": "5fd77316c7e8a606ce6c768c",
+            "link": "https://www.facebook.com/groups/316527509395895/permalink/374568770258435/",
+            "name": "الداعيه الشيخ محمود الحسنات",
+            "origin": "facebook",
+            "path": "sources/9fb41797f3ab0b7b87f8775614ed7b0bdd915b9b.jpg"
+        },
+        {
+            "id": "5fd7731649a7d3013703ecbe",
+            "link": "https://www.facebook.com/groups/179960069984910/permalink/268813751099541/",
+            "name": "كنوز التراث الاسلامي",
+            "origin": "facebook",
+            "path": "sources/9fb41797f3ab0b7b87f8775614ed7b0bdd915b9b.jpg"
+        },
+        {
+            "id": "5fd773160d0bf471355ccc1a",
+            "link": "https://www.facebook.com/groups/1214246905349300/permalink/3395815723859063/",
+            "name": "كيف أربي أولادي كما أتمنى",
+            "origin": "facebook",
+            "path": "sources/ce6c7301795eec895ddaccbfa72bd54a16ced3e6.jpg"
+        },
+        {
+            "id": "5fd7731786b05834cd41c7b1",
+            "link": "https://www.facebook.com/facebooocki/posts/2683625388569904",
+            "name": "فيس بوكى",
+            "origin": "facebook",
+            "path": "sources/53a7d3925bd06d754d05d50db7b6a423631114cd.jpg"
+        },
+        {
+            "id": "5fd773178286342eba386672",
+            "link": "https://www.facebook.com/groups/424572728120742/permalink/764928284085183/",
+            "name": "قصص وحكايات ومعلومات مفيده جداا",
+            "origin": "facebook",
+            "path": "sources/9fb41797f3ab0b7b87f8775614ed7b0bdd915b9b.jpg"
+        },
+        {
+            "id": "5fd7731770f5851f6a65c674",
+            "link": "https://www.facebook.com/groups/163731720948039/permalink/693630041291535/",
+            "name": "🤎 ألا بذكر الله تطمئن القلوب🤎",
+            "origin": "facebook",
+            "path": "sources/9fb41797f3ab0b7b87f8775614ed7b0bdd915b9b.jpg"
+        },
+        {
+            "id": "5fd7731729264b4250767574",
+            "link": "https://www.facebook.com/groups/intbahmonairaqi/permalink/3677540009005332/",
+            "name": "كل مايهم المرأة ❤",
+            "origin": "facebook",
+            "path": "sources/9fb41797f3ab0b7b87f8775614ed7b0bdd915b9b.jpg"
+        },
+        {
+            "id": "5fd77317a0e1ee5e1c080807",
+            "link": "https://www.facebook.com/groups/1299141363515503/permalink/2502324426530518/",
+            "name": "روائع د. وسيم يوسف - Dr.  Wasim Yusef",
+            "origin": "facebook",
+            "path": "sources/ce6c7301795eec895ddaccbfa72bd54a16ced3e6.jpg"
+        },
+        {
+            "id": "5fd77317b6b6315e0d192fef",
+            "link": "https://twitter.com/88mesa9000/status/1337648924878901248",
+            "name": "Eمan ميما",
+            "origin": "twitter",
+            "path": "sources/3c6e8ff2667a3ac859a6b79967458d8a42f62253.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fd7722370f5851f6a65c673",
+            "link": "https://3dkonut.com/folkart-towers-subatta-teslim/haberi/",
+            "name": "3dkonut.com",
+            "origin": "",
+            "path": "sources/8feb2d95d451859b76abc0904ffb5aeb9f011c47.jpg"
+        },
+        {
+            "id": "5fd77223a0e1ee5e1c080806",
+            "link": "https://www.shutterstock.com/fr/image-photo/izmir-turkey-may-01-2020-folkart-1719250201",
+            "name": "Shutterstock",
+            "origin": "",
+            "path": "sources/7b952609e9a5c9d80355cbee72a7b203afc18d0e.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الصورة معدلة وليست لبرجين في ماليزيا",
+    "updated_at": "2020-12-14 17:13:43",
+    "url_path": "/factcheck/2020/12/14/الصورة-معدلة-وليست-لبرجين-في-ماليزيا",
+    "was_notification_pushed": false
+}

@@ -1,0 +1,98 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 2,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 25888,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "caption": "الترجمة صحيحة وتعود لمسؤولين إيطاليين",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">من بينهم ماتيو سالفيني.. رسائل شكر للتونسيين من 7 مسؤولين إيطاليين (فيديو).</p>\r\n",
+    "country": "IT",
+    "created_at": "2020-05-12 16:24:17",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5ebaa381db29163e9506dae4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الخبر، ومن الترجمة المصاحبة للرسائل، وتأكد أنَّ الترجمة صحيحة وتعود لمسؤولين إيطاليين، من بينهم ماتيو سالفيني العضو الجمهوري في مجلس الشيوخ الإيطالي. كما راجع الصفحة الرسمية للقنصلية التونسية في ميلانو، ليجد أنَّ القنصلية نشرت الفيديو نفسه وأكدت على أنَّ رسائل الشكر هذه جاءت بعد إرسال تونس فريقاً طبيًّا مسانداً إلى إيطاليا. وكانت تونس أرسلت فريقاً طبيًّا إلى إيطاليا، في الحادي عشر من أبريل<span dir=\"LTR\">/</span>نيسان الفائت، لمساعدتها على مكافحة تفشى فايروس كورونا.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCONSOLATOTUNISIAMILANO%2Fvideos%2F718149935588593%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشر عدد من الصحف والحسابات على مواقع التواصل الاجتماعي، مقطع فيديو يظهر فيه عدد من المسؤولين الإيطاليين، يقدمون شكرهم لتونس حكومة وشعباً على مساندتهم للشعب الإيطالي في محنته خلال أزمة فايروس كورونا المستجد (كوفيد-19<span dir=\"LTR\">(</span>.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_8lwsz48ig.jpg\" style=\"height:461px; width:638px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_3yvb52jxc.jpg\" style=\"height:488px; width:608px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 354,
+        "left": 40.73875427246094,
+        "path": "articles/1589289856Capture5.JPG",
+        "top": 6.1865234375,
+        "totalHeight": 423,
+        "totalWidth": 750,
+        "watermark_path": "articles/watermark-1589289856Capture5.JPG",
+        "width": 630
+    },
+    "post_date": "2020-05-12T16:04:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.mosaiquefm.net/ar/%D8%AA%D9%88%D9%86%D8%B3-%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%88%D8%B7%D9%86%D9%8A%D8%A9/739045/%D9%85%D9%86-%D8%A8%D9%8A%D9%86%D9%87%D9%85-%D8%B3%D8%A7%D9%84%D9%81%D9%8A%D9%86%D9%8A-%D8%B1%D8%B3%D8%A7%D8%A6%D9%84-%D8%B4%D9%83%D8%B1-%D9%84%D9%84%D8%AA%D9%88%D9%86%D8%B3%D9%8A%D9%8A%D9%86-%D9%85%D9%86-7-%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%8A%D9%86-%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D9%8A%D9%86",
+            "name": "موزاييك اف ام",
+            "path": "published/0_1589289856_موزاييك1.jpg"
+        },
+        {
+            "link": "https://www.assarih.com/a170520-%D9%85%D9%86-%D8%A8%D9%8A%D9%86%D9%87%D9%85-%D8%B3%D8%A7%D9%84%D9%81%D9%8A%D9%86%D9%8A--7-%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%8A%D9%86-%D8%A7%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D9%8A%D9%86-%D9%8A%D9%88%D8%AC%D9%87%D9%88%D9%86-%D8%B1%D8%B3%D8%A7%D9%84%D8%A9-%D8%B4%D9%83%D8%B1-%D9%84%D9%84%D8%AA%D9%88%D9%86%D8%B3%D9%8A%D9%8A%D9%86-%D9%88%D9%87%D8%B0%D9%87-%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D9%85%D9%86%D8%AD-%D8%A7%D9%84%D8%A7%D9%82%D8%A7%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D9%87%D8%A7%D8%AC%D8%B1%D9%8A%D9%86-",
+            "name": "الصريح",
+            "path": "published/1_1589289856_الصريح1.jpg"
+        },
+        {
+            "link": "https://www.radiosabrafm.net/%D9%85%D9%86-%D8%A8%D9%8A%D9%86%D9%87%D9%85-%D8%B3%D8%A7%D9%84%D9%81%D9%8A%D9%86%D9%8A-%D8%B1%D8%B3%D8%A7%D8%A6%D9%84-%D8%B4%D9%83%D8%B1-%D9%84%D9%84%D8%AA%D9%88%D9%86%D8%B3%D9%8A%D9%8A%D9%86-%D9%85/",
+            "name": "صبرة اف ام",
+            "path": "published/2_1589289856_صبرة.JPG"
+        },
+        {
+            "link": "https://ar.tunisia-press.net/%d8%b1%d8%b3%d8%a7%d8%a6%d9%84-%d8%b4%d9%83%d8%b1-%d9%84%d9%84%d8%aa%d9%88%d9%86%d8%b3%d9%8a%d9%8a%d9%86-%d9%85%d9%86-7-%d9%85%d8%b3%d8%a4%d9%88%d9%84%d9%8a%d9%86-%d8%a5%d9%8a%d8%b7%d8%a7%d9%84%d9%8a/?utm_campaign=khaled&utm_medium=%D8%A7%D9%84%D9%8C%D8%B3%D9%8F%D9%84%D8%B7%D8%A7%D9%86%D8%A9%20%D8%AE%D9%85%D9%8A%D8%B3%D9%8E%D8%A9_405553716295135&utm_source=like",
+            "name": "Tunisia Press",
+            "path": "published/3_1589289856_Tunisia-press.JPG"
+        }
+    ],
+    "result": "true",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/CONSOLATOTUNISIAMILANO/videos/718149935588593/",
+            "name": "القنصلية العامة لتونس بميلانو",
+            "path": "sources/0_1589289856_قنصلية تونس ميلانو.jpg"
+        },
+        {
+            "link": "http://www.webdo.tn/2020/05/11/coronavirus-quand-matteo-salvini-remercie-les-tunisiens/",
+            "name": "Webdo",
+            "path": "sources/1_1589289856_webdo.JPG"
+        },
+        {
+            "link": "https://www.realites.com.tn/2020/05/matteo-salvini-fait-preuve-de-reconnaissance-envers-la-tunisie/",
+            "name": "Realities online",
+            "path": "sources/2_1589289856_realities.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "رسائل شكر للتونسيين من 7 مسؤولين إيطاليين.. خبر صحيح",
+    "updated_at": "2020-09-25 11:46:24",
+    "url_path": "/factcheck/2020/05/12/رسائل-شكر-للتونسيين-من-7-مسؤولين-إيطاليين-خبر-صحيح"
+}

@@ -1,0 +1,115 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 139,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "انتشر مقطع الفيديو عام 2009 (فيسبوك)",
+    "category": "Music",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">مقطع فيديو لفرانك سيناترا وهو يؤدي أغنية &quot;<span dir=\"LTR\" lang=\"EN-GB\">Sway</span>&quot;.</p>\r\n",
+    "country": "AT",
+    "created_at": "2020-09-30 18:18:18",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 2,
+    "id": "5f74a1baa6203a2831334879",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقّق &quot;مسبار&quot; من مقطع الفيديو المتداول وتبيّن أنّه مضلل، ويعود للفنان والممثل النمساوي ماركوس هايدر وليس للفنان فرانك سيناترا. ووجد&nbsp;أنَّ هايدر أدى الأغنية كجزء من عرض لتكريم فرانك سيناترا، دين مارتن وسامي ديفيس&nbsp;عام 2009.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">عدّل&nbsp;<span style=\"color:#1155cc\"><u><a href=\"https://m.facebook.com/lapparts.filmproduktion\" style=\"text-decoration:none\">Niki Lappas</a>&nbsp;</u></span>المقطع باللونين الأبيض والأسود، ليظهر كأنه في الستينيات، ما أحدث التباساً لدى الجماهير في علاقة بتاريخ العرض و هوية الفنان. وأضيف للفيديو مقاطع من تفاعل جمهور فرقة البيتلز عام 1964.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">يُذكر أنَّ أغنية &quot;<span dir=\"LTR\">Sway</span>&quot; مكسيكية الأصل، أداها أكثر من فنان ووزعت أكثر من مرة، وأشهر من غناها دين مارتن.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/PEy1HBHztAM\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/xIS472fgLfk\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/jenWdylTtzs\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات إخبارية وحسابات على موقعي فيسبوك وتويتر، حديثاً ومنذ سنوات، مقطع فيديو لأغنية &quot;<span dir=\"LTR\">Sway</span>&quot;، وادعت أنه للفنان فرنك سيناترا.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"458\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fahmad.alsobihi.33%2Fvideos%2F284093362424230%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe><iframe frameborder=\"0\" height=\"410\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FRaidmoter1962%2Fvideos%2F1636803813226225%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 330,
+        "left": 21,
+        "path": "articles/16014790978.jpg",
+        "top": 6,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-16014790978.jpg",
+        "width": 587
+    },
+    "post_date": "2020-09-30T15:56:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/SAYEDAGHA/status/1306188549025402880",
+            "name": "SAYED AGHA",
+            "path": "published/0_1601479096_cdeb606d2277405729841fe21c5d10e856529971.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/engineer.Monem/videos/10221744080577673",
+            "name": "Eng Monem",
+            "path": "published/1_1601479097_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/112738730096748/videos/932177763782895",
+            "name": "Everything",
+            "path": "published/2_1601479097_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/ward.fowiza.1/videos/780383879066763/",
+            "name": "Ward Fowiza",
+            "path": "published/3_1601479097_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/Tyrant_Ammar/status/1284466024520265728",
+            "name": "Tyrant Ammar",
+            "path": "published/4_1601479097_cdeb606d2277405729841fe21c5d10e856529971.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.youtube.com/watch?v=jx0llzSntd8",
+            "name": "www.youtube.com",
+            "path": "sources/0_1601479097_b9a4106558670da4ec1c0749f414d1e693436e6c.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://peoplepill.com/people/markus-haider/",
+            "name": "PeoplePill",
+            "path": "sources/1_1601479097_3804000ef4af125b35d3f56b646a5fffd4201e27.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://secondhandsongs.com/work/5802",
+            "name": "secondhandsongs.com",
+            "path": "sources/2_1601479097_91a1ba05ea2bb3431c317118fd638c74f3e5e29c.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "مقطع الفيديو ليس لفرانك سيناترا بل لماركوس هايدر",
+    "updated_at": "2020-10-01 01:19:51",
+    "url_path": "/factcheck/2020/09/30/مقطع-الفيديو-ليس-لفرانك-سيناترا-بل-لماركوس-هايدر",
+    "was_notification_pushed": "true"
+}

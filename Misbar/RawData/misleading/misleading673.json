@@ -1,0 +1,115 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2747,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "وصف الدمار الذي خلفته العاصفة حينها بأنه كارثي (تويتر)",
+    "category": "News",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-EG\">صورة أب يحمل طفله&nbsp;من فيضانات السودان.</span></p>\r\n",
+    "country": "SD",
+    "created_at": "2020-09-07 15:25:37",
+    "created_by": "5f39b5a51dd585076701cb94",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f5626c14ab717390c3b39c8",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من الصورة المتداولة وتبين أن الادعاء مضلل، وليست من فيضانات السودان الحالية. وتعود الصورة لعام 2007، وكانت في دولة هايتي، بعد أن هطلت أمطار غزيرة على مدينة سيتي سولاي، تسببت في إغراق منازل السكان، ووصف الدمار الذي خلفته العاصفة حينها بأنه كارثي.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_w07e9m69a.jpg\" style=\"height:678px; width:624px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات على مواقع التواصل الاجتماعي، حديثاً، صورة أب يحمل طفله، ادعت أنها من الفيضانات التي اجتاحت السودان مؤخراً.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_5amxcu5ri.jpg\" style=\"height:743px; width:551px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_u9pv1343d.jpg\" style=\"height:889px; width:553px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_pnuggrddf.jpg\" style=\"height:797px; width:537px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1599481537100.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1599481537100.jpg",
+        "width": 752
+    },
+    "post_date": "2020-09-07T15:23:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/mahmuthacali_ar/status/1302916935974256641",
+            "name": "محمود حج علي",
+            "path": "published/0_1599481537_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/alhussainiOS/status/1302936054266302466",
+            "name": "عثمــان الحســيني ",
+            "path": "published/1_1599481755_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/leilalouzi97/status/1302903140002467842",
+            "name": "ليلى اللوزي",
+            "path": "published/2_1599481755_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/Sama89941745/status/1302943059911507968",
+            "name": "Sama",
+            "path": "published/3_1599481755_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/j_alomrany/status/1302919641493364737",
+            "name": "جمال العمراني",
+            "path": "published/4_1599481755_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/ananalsed/status/1302866738384719872",
+            "name": "وجيه الدين",
+            "path": "published/5_1599481755_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/AhmedZi43204720/status/1302859082584522753",
+            "name": "أحمد البوهالي",
+            "path": "published/6_1599481755_twitter.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://womennewsnetwork.net/2011/08/31/haiti-father-daughter/",
+            "name": "womennewsnetwork",
+            "path": "sources/0_1599481537_مصدر.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "التقطت الصورة عام 2007 في هايتي ولا علاقة لها بفيضانات السودان",
+    "updated_at": "2020-09-25 21:22:26",
+    "url_path": "/factcheck/2020/09/07/التقطت-الصورة-عام-2007-في-هايتي-ولا-علاقة-لها-بفيضانات-السودان",
+    "was_notification_pushed": "true"
+}

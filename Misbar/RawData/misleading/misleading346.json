@@ -1,0 +1,157 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 176,
+    "author": {
+        "fullname": "مريم هواري",
+        "id": "5e299460d4a22939983a3ec5",
+        "photo": {
+            "path": "authors/1579791192_Maryam.jpg"
+        }
+    },
+    "caption": "أفادت مصادر حكومية أنّه خضع لعملية جراحية وحالته ليست خطيرة (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\">وفاة رئيس البرلمان الأرميني بعد إنزاله من السيارة والاعتداء عليه من قبل متظاهرين غاضبين.</p>\r\n",
+    "country": "AM",
+    "created_at": "2020-11-12 15:48:12",
+    "created_by": "5f39b6aa1dd585076701cb95",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 0,
+    "id": "5fad2f0c5f247922892ade70",
+    "investigation": "<p dir=\"RTL\">تحقّق &quot;مسبار&quot; من الخبر المتداول ووجد أنّه مضلّل. إذ نشرت مواقع إخبارية تفيد بأن رئيس البرلمان الأرميني لم يتوفّ بعد الاعتداء عليه، إنّما نُقل إلى المستشفى وخضع لعملية جراحية وحالته ليست خطيرة، وفق مصادر حكومية.</p>\r\n\r\n<p dir=\"RTL\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_ubutnwpp8.jpg\" /></p>\r\n\r\n<p dir=\"RTL\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_ygmfl387w.jpg\" /></p>\r\n\r\n<p dir=\"RTL\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_y0h77w23f.jpg\" /></p>\r\n\r\n<p dir=\"RTL\">اقرأ/ي أيضاً:</p>\r\n\r\n<p dir=\"RTL\"><a href=\"https://misbar.com/factcheck/2020/09/30/%D8%B2%D9%88%D8%AC%D8%A9-%D8%B1%D8%A6%D9%8A%D8%B3-%D9%88%D8%B2%D8%B1%D8%A7%D8%A1-%D8%A3%D8%B1%D9%85%D9%8A%D9%86%D9%8A%D8%A7-%D9%84%D9%85-%D8%AA%D8%B4%D8%A7%D8%B1%D9%83-%D9%81%D9%8A-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%B6%D8%AF-%D8%A3%D8%B0%D8%B1%D8%A8%D9%8A%D8%AC%D8%A7%D9%86\">زوجة رئيس وزراء أرمينيا لم تشارك في الحرب ضد أذربيجان</a></p>\r\n\r\n<p dir=\"RTL\"><a href=\"https://misbar.com/factcheck/2020/07/04/%D9%87%D8%B0%D9%87-%D9%84%D9%8A%D8%B3%D8%AA-%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B9%D8%AF%D9%84-%D9%81%D9%8A-%D8%A3%D8%B1%D9%85%D9%8A%D9%86%D9%8A%D8%A7\">هذه ليست وزيرة العدل في أرمينيا</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p>يعتذر &quot;مسبار&quot; عن نشر المقطع لما يحتوي عليه من عنف شديد.</p>\r\n\r\n<p>تداولت حسابات وصفحات على موقعي التواصل الاجتماعي فيسبوك وتويتر، مقطعاً مصوّراً ادّعى ناشروه أنّه يوثّق قتل رئيس البرلمان الأرميني، آرارات ميرزويان، بعد إنزاله من سيّارته والاعتداء عليه من قبل متظاهرين غاضبين على قرار أرمينيا سحب قوّاتها من منظقة قرة باخ.</p>\r\n\r\n<p dir=\"RTL\"><img src=\"https://images-prod.misbar.com/articlebody/origin_zqr0gte90.jpg\" /></p>\r\n\r\n<p dir=\"RTL\"><img src=\"https://images-prod.misbar.com/articlebody/origin_15j7zd1j2.jpg\" /></p>\r\n\r\n<p dir=\"RTL\"><img src=\"https://images-prod.misbar.com/articlebody/origin_jeqag8bhu.jpg\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 350,
+        "left": 8.83502197265625,
+        "path": "articles/1605185291GettyImages-1153099548.jpg",
+        "top": 16.80712890625,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1605185291GettyImages-1153099548.jpg",
+        "width": 621
+    },
+    "post_date": "2020-11-12T14:39:00.000+03:00",
+    "published": [
+        {
+            "id": "5fad0f2872cbd4046a729856",
+            "link": "https://www.facebook.com/100001708523559/posts/3508041802596069/?app=fbl&refid=12",
+            "name": "Tabet Tabet",
+            "origin": "facebook",
+            "path": "sources/fcd6afd8ed071935c72b3c24258643a92e96ae05.jpg"
+        },
+        {
+            "id": "5fad0f281607395113277936",
+            "link": "https://www.facebook.com/100001078515638/posts/3414560111923239/?app=fbl&refid=12",
+            "name": "محمد الحاج احمد",
+            "origin": "facebook",
+            "path": "sources/fcd6afd8ed071935c72b3c24258643a92e96ae05.jpg"
+        },
+        {
+            "id": "5fad0f2873534833703dd630",
+            "link": "https://www.facebook.com/103167871168372/posts/210429310442227/?app=fbl&refid=12",
+            "name": "كرمالك بلدي",
+            "origin": "facebook",
+            "path": "sources/348323c31b1376d50be8f040548f003c99dac288.jpg"
+        },
+        {
+            "id": "5fad0f283575005d2f34dced",
+            "link": "https://twitter.com/_Rockeet/status/1325975464696033281?s=19&fbclid=IwAR2hg90OLWd4y0Me6E5nnqChF5HMuO102EUAQbLnC5cOxUa5mgkgijl6YmI",
+            "name": "روكيت",
+            "origin": "twitter",
+            "path": "sources/d849b9ce1eed8e487eac7fd45860ee052fc55f4e.jpg"
+        },
+        {
+            "id": "5fad0f28a418e70a3764efbd",
+            "link": "https://twitter.com/Almosawy_Mali/status/1325991650410311680?s=19&fbclid=IwAR1SnIbwLqwSidDGVi0WuD1fA6FO_I5WSET0aMRbiXjwA_ADr_nRzCF0Wfo",
+            "name": "𝙈𝑜ℎ𝑎𝑚𝑚𝑒𝑑 𝘼𝑙𝑖 𝘼𝑙-𝙈𝑜𝑠𝑎𝑤𝑦",
+            "origin": "twitter",
+            "path": "sources/fa0136de7cdf8b3fa5dfbf23a4b1c3062ca2f72a.jpg"
+        },
+        {
+            "id": "5fad0f280cd9143d407543bd",
+            "link": "https://twitter.com/turkistantuzbah/status/1326011702001930240",
+            "name": "مرصد الأقليات المسلمة",
+            "origin": "twitter",
+            "path": "sources/3d0f03cc7ca798faeaf02ebb4859346f34ff8ee3.jpg"
+        },
+        {
+            "id": "5fad0f28cf562146ed48eaf8",
+            "link": "https://twitter.com/mhoetry/status/1326256471672320011",
+            "name": "mohamad etry",
+            "origin": "twitter",
+            "path": "sources/809e5a469b502404fc655b6c0b1b876038543181.jpg"
+        },
+        {
+            "id": "5fad0f28c7753d1587448f47",
+            "link": "https://twitter.com/casper_polizei/status/1326313821670137856?s=19",
+            "name": "◉☆ＣＡＳＰＥＲ☆◉ ",
+            "origin": "twitter",
+            "path": "sources/f789373d581fc3a1d87f7d2de64a6fcf4a2bac84.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fad0f29fa0f6961076c4edc",
+            "link": "https://www.indiatoday.in/world/story/armenian-parliament-speaker-assaulted-by-angry-protesters-over-peace-deal-undergoes-surgery-1739576-2020-11-10",
+            "name": "India Today",
+            "origin": "",
+            "path": "sources/8b950ea2ff592a65258c4a09a830b1c14777b7d1.jpg"
+        },
+        {
+            "id": "5f913aca80af35113500f289",
+            "link": "https://arabic.rt.com/videoclub/1171972-%D9%85%D8%AD%D8%AA%D8%AC%D9%88%D9%86-%D8%BA%D8%A7%D8%B6%D8%A8%D9%88%D9%86-%D9%81%D9%8A-%D8%A3%D8%B1%D9%85%D9%8A%D9%86%D9%8A%D8%A7-%D9%8A%D8%B9%D8%AA%D8%AF%D9%88%D9%86-%D8%A8%D8%A7%D9%84%D8%B6%D8%B1%D8%A8-%D8%B9%D9%84%D9%89-%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86/",
+            "name": "روسيا اليوم",
+            "origin": "",
+            "path": "sources/503885256032733240e36b9c7b4ab253a71ee546.jpg"
+        },
+        {
+            "id": "5fad0f297192995cb129b400",
+            "link": "https://tass.com/world/1221775",
+            "name": "TASS",
+            "origin": "",
+            "path": "sources/7d11840e6c7f2bc27cf0fdf084f71abd4a4c4ef1.jpg"
+        },
+        {
+            "id": "5fad0f29869bfb5a7a2a1460",
+            "link": "http://defence.az/az/news/148621/protesters-in-yerevan-attack-speaker-of-armenian-parliament-video",
+            "name": "DEFENCE.AZ",
+            "origin": "",
+            "path": "sources/daef58ef666181664f752c3e3f5dc1f9ed42f7e6.jpg"
+        },
+        {
+            "id": "5fad0f29e65e6b6a4b3714c8",
+            "link": "https://www.dailysabah.com/politics/armenian-parliament-speaker-beaten-by-angry-protesters-after-nagorno-karabakh-deal/news",
+            "name": "Daily Sabah ",
+            "origin": "",
+            "path": "sources/6bdb5c3212d01a8e7cf36043fc02ec76324b558a.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "أرمينيا تنفي وفاة رئيس برلمانها بعد اعتداء متظاهرين عليه",
+    "updated_at": "2020-11-12 15:53:13",
+    "url_path": "/factcheck/2020/11/12/أرمينيا-تنفي-وفاة-رئيس-برلمانها-بعد-اعتداء-متظاهرين-عليه",
+    "was_notification_pushed": false
+}

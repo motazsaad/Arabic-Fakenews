@@ -1,0 +1,96 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1952,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "لم يصدر هذا التصريح عن منظمة الصحة العالمية (Getty)",
+    "category": "Health",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">منظمة الصحة العالمية تصدم العالم: الكحول لا يقتل الفايروس!</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-05-19 14:49:31",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ec3c7cbdb29167e3d4aaec4",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من التصريح المتداول ووجد أنه زائف، إذ لم يصدر عن منظمة الصحة أيّ تصريح علني بالصيغة المتداولة.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">لكن يرجّح &quot;مسبار&quot; وجود سوء فهم ما، لأنّ للمنظمة تصريحات شبيهة لكنها تتحدّث عن تناول المشروبات الكحولية، أو تناول مضادات الفايروسات الكحولية، الأفعال التي لا تؤثر على فايروس كوفيد-19، ولا تقي أو تشفي منه.&nbsp;</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">أما التصريح المتداول يتحدث بصيغة عامة ويشمل ممارسات تنصح بها منظمة الصحة العالمية مثل تعقيم اليدين أو غسلها بالصابون دائماً، إضافة إلى تعقيم مختلف الأسطح بمضادات الفايروسات، الأمر الذي يؤكد زيف التصريح المتداول.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_zqpu2rg7o.jpg\" style=\"height:126px; width:590px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_l1cpe44vj.jpg\" style=\"height:168px; width:610px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_p38mcyy9c.jpg\" style=\"height:127px; width:612px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "منظمة الصحة العالمية",
+        "كورونا",
+        "فيروس كورونا",
+        "كوفيد-19"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تناقلت صفحات على مواقع التواصل الاجتماعي تصريحاً منسوباً لمنظمة الصحة العالمية تقول فيه إنّ الكحول لا يقتل فايروس كورونا المستجد (كوفيد-19).</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_6fbtrti56.jpg\" style=\"height:768px; width:530px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_da8bh1cnx.jpg\" style=\"height:486px; width:532px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 354,
+        "left": 2.16668701171875,
+        "path": "articles/1589888970GettyImages-1206555086.jpg",
+        "top": 18,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1589888970GettyImages-1206555086.jpg",
+        "width": 630
+    },
+    "post_date": "2020-05-19T14:36:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/groups/adsarabtraders/permalink/903747390107688/",
+            "name": "محمود حسن",
+            "path": "published/0_1589888970_محمود حسن.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ramy.elrashidy/posts/10157344131816404",
+            "name": "رامي الرشيدي",
+            "path": "published/1_1589888970_رامي الرشيدي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/trend.org/posts/703910360441326",
+            "name": "تريند",
+            "path": "published/2_1589888970_تريند.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/rafy.adel.sayegh/posts/10158416836910126",
+            "name": "رافي صايغ",
+            "path": "published/3_1589888970_رافي صايغ.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/nevengirgis12/posts/10163866535390601",
+            "name": "نيفين جرجس",
+            "path": "published/4_1589888970_نيفين جرجس.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters",
+            "name": "منظمة الصحة العالمية",
+            "path": "sources/0_1589888970_WHO.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "تصريح زائف منسوب لمنظمة الصحة العالمية",
+    "updated_at": "2020-09-25 04:03:13",
+    "url_path": "/factcheck/2020/05/19/تصريح-زائف-منسوب-لمنظمة-الصحة-العالمية"
+}

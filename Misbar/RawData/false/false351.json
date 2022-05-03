@@ -1,0 +1,109 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 230,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "دعا النادي الساحلي في بيانه كافة أحبائه إلى عدم الانسياق وراء الشائعات (تويتر)",
+    "category": "Sports",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">النجم الساحلي التونسي في مفاوضات متقدمة مع المدرب نبيل الكوكي</span>.</p>\r\n",
+    "country": "TN",
+    "created_at": "2020-08-22 12:21:17",
+    "created_by": "5f39b5a51dd585076701cb94",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5f40e38d60211806287d30da",
+    "investigation": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">الخبر زائف. إذ أصدر نادي النجم الساحلي بياناً نفى فيه تفاوضه مع المدرب التونسي نبيل الكوكي، المدير الفني الحالي لفريق وفاق سطيف الجزائري. وجاء في البيان &quot;يعلن النجم الساحلي أن خبر التفاوض مع المدرب نبيل الكوكي لا أساس له من الصحة، ورغم احترامنا للمدرب ولكل المدربين إلا أن توقيت ظهور الخبر يدعو إلى&nbsp;الشك في نوايا مروجيه&quot;. </span></p>\r\n\r\n<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">ودعا النادي الساحلي في بيانه كافة أحبائه إلى عدم الانسياق وراء الشائعات، مشدداً على حرص الهيئة على إعلام الجمهور بكل جديد.</span></p>\r\n\r\n<p style=\"text-align:right\"><iframe frameborder=\"0\" height=\"503\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FEtoileSportiveDuSahel%2Fposts%2F10163966782350384&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت مواقع إخبارية وحسابات وصفحات على وسائل التواصل الاجتماعي، حديثاً، خبراً مفاده أن نادي النجم الساحلي التونسي في مفاوضات متقدمة مع المدرب نبيل الكوكي</span>.</p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_jg5zbvree.jpg\" style=\"height:332px; width:523px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_jaajkbnc6.jpg\" style=\"height:694px; width:530px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_htgpqtf78.jpg\" style=\"height:374px; width:541px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1598088077D3lZbZAWsAA72GA.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1598088077D3lZbZAWsAA72GA.jpg",
+        "width": 752
+    },
+    "post_date": "2020-08-22T12:17:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.mosaiquefm.net/ar/%D8%AA%D9%88%D9%86%D8%B3-%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9-%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/783093/%D8%A7%D9%84%D9%86%D8%AC%D9%85-%D8%A7%D9%84%D8%B3%D8%A7%D8%AD%D9%84%D9%8A-%D9%81%D9%8A-%D9%85%D9%81%D8%A7%D9%88%D8%B6%D8%A7%D8%AA-%D9%85%D8%AA%D9%82%D8%AF%D9%85%D8%A9-%D9%85%D8%B9-%D9%86%D8%A8%D9%8A%D9%84-%D8%A7%D9%84%D9%83%D9%88%D9%83%D9%8A",
+            "name": "Mosaïque FM",
+            "path": "published/0_1598088346_1274174_10152003148438646_1217757254_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=3191926230875957&id=1098479513553983",
+            "name": "اهداف koora",
+            "path": "published/1_1598088346_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=3401675853227022&id=1767596859968271",
+            "name": "Virage ESS",
+            "path": "published/2_1598088346_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/VenNewsTN/posts/2791574097732657",
+            "name": "Ven",
+            "path": "published/3_1598088346_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Hammamet.FM/posts/2644851029177444",
+            "name": " Radio Hammamet FM",
+            "path": "published/4_1598088346_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=3401675853227022&id=1767596859968271",
+            "name": "Virage ESS",
+            "path": "published/5_1598088347_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/chokri.ellouzi/posts/2138545522945348",
+            "name": "Chokri Ellouzi",
+            "path": "published/6_1598088347_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/2205107939713938/permalink/2741675572723836/",
+            "name": "Kaiess Boussema",
+            "path": "published/7_1598088347_facebook.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/EtoileSportiveDuSahel/photos/a.10152713233505384/10163966782250384/?type=3&theater",
+            "name": "Etoile Sportive du Sahel",
+            "path": "sources/0_1598088347_39001743_2892292847510270_1636428482_n.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "النجم الساحلي يكذب أنباء التفاوض مع المدرب نبيل الكوكي",
+    "updated_at": "2020-09-25 06:18:56",
+    "url_path": "/factcheck/2020/08/22/النجم-الساحلي-يكذب-أنباء-التفاوض-مع-المدرب-نبيل-الكوكي"
+}

@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 7,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 15957,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الفيديو عمل فنيّ يعود لمصمّم غرافيك يُدعى جيسين كارلوس (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">بث مباشر يصوّر معجزة ظهور يد في السماء في السعودية.</p>\r\n",
+    "country": "SA",
+    "created_at": "2020-04-29 12:30:48",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ea94948db29165dbf7a1a54",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الفيديو وتأكد من زيفه ومن أنّ الادعاء محض خرافة، فمقطع الفيديو المتداول على أنه بثٌ مباشر لا يصوّر ظهور يدٍ في سماء السعودية، إنمّا هو عمل فنيّ يعود لمصمّم غرافيك يُدعى جيسين كارلوس، وقد عثر &quot;مسبار&quot; على المقطع الأصلي منشوراً على صفحته على &quot;يوتيوب&quot;.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/7C0yY8hjTDM\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات وحسابات على موقع التواصل الاجتماعي فيسبوك، بثاً مباشراً حظي بعشرات آلاف المشاهدات،&nbsp;زعمت أنّه يصوّر ظهور يد في السماء في المملكة العربية السعودية. وجاء في التعليق المرافق للبث عبارات من قبيل &quot;معجزة في السعودية ظهور يد في السماء سبحان الله&quot;.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F103374737867795%2Fvideos%2F3118547958195840%2F&amp;show_text=0&amp;width=476\" style=\"border:none;overflow:hidden\" width=\"476\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F113484490343698%2Fvideos%2F548958855821818%2F&amp;show_text=0&amp;width=473\" style=\"border:none;overflow:hidden\" width=\"473\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F587007938167604%2Fvideos%2F531171037832608%2F&amp;show_text=0&amp;width=473\" style=\"border:none;overflow:hidden\" width=\"473\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 237,
+        "left": 2.5772705078125,
+        "path": "articles/1588152647Untitled.jpg",
+        "top": 38.272216796875,
+        "totalHeight": 325,
+        "totalWidth": 432,
+        "watermark_path": "articles/watermark-1588152647Untitled.jpg",
+        "width": 421
+    },
+    "post_date": "2020-04-29T12:18:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/103374737867795/videos/3118547958195840/?v=3118547958195840&external_log_id=8c624935d8a2dffe40df6f4f875fc06c",
+            "name": "Loubna Officiel",
+            "path": "published/0_1588152646_Loubna Officiel.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/113484490343698/videos/548958855821818/?v=548958855821818&external_log_id=8c624935d8a2dffe40df6f4f875fc06c",
+            "name": "Neetu",
+            "path": "published/1_1588152646_Neetu.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ErSalmanRazi/videos/554822598761350/?v=554822598761350&external_log_id=8c624935d8a2dffe40df6f4f875fc06c",
+            "name": "ER Salman Razi",
+            "path": "published/2_1588152646_ER Salman Razi.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/587007938167604/videos/531171037832608/?v=531171037832608&external_log_id=8c624935d8a2dffe40df6f4f875fc06c",
+            "name": "مشاريع شبابية",
+            "path": "published/3_1588152647_مشاريع شبابية.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/VBuzzFeed/videos/531171041165941/?v=531171041165941&external_log_id=8c624935d8a2dffe40df6f4f875fc06c",
+            "name": "Viral Buzz Feed",
+            "path": "published/4_1588152647_Viral Buzz Feed.jpg"
+        }
+    ],
+    "result": "myth",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=7C0yY8hjTDM&feature=youtu.be&fbclid=IwAR2jX1i3hdLXjU5SoMOpNZZmXAhhRihSrLHzm8tnkyCQweJvY8dm56ZWjGI",
+            "name": "المقطع الأصلي",
+            "path": "sources/0_1588152647_YouTube-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "حقيقة معجزة اليد التي ظهرت في سماء السعودية",
+    "updated_at": "2020-09-25 13:42:29",
+    "url_path": "/factcheck/2020/04/29/حقيقة-معجزة-اليد-التي-ظهرت-في-سماء-السعودية"
+}

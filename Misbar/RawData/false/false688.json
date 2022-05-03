@@ -1,0 +1,96 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1209,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "تحقق \"مسبار\" من الخبر المتداول وتبيّن أنه زائف",
+    "category": "Spirituality & Religion",
+    "claim": "<p>وفاة المفكر الإسلامي عصام العطار</p>\r\n",
+    "country": "SY",
+    "created_at": "2020-05-25 20:56:51",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ecc06e3db29163a32360184",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الخبر المتداول، ليتبين أنه زائف، حيث نشرت الصفحة الرسمية للدكتور عصام العطار فيديو له من داخل المستشفى يوجه فيه رسالة لمتابعيه. وقال العطار: &quot;أنا الآن ما آزال في قيد الحياة، فادعوا لي بالعافية وحسن الختام، جزاكم الله خيرا وشكرا لكم&quot;.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FIssam.ElAttar1%2Fvideos%2F251526469266590%2F&amp;show_text=0&amp;width=269\" style=\"border:none;overflow:hidden\" width=\"269\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت حسابات على مواقع التواصل الاجتماعي خبراً عن وفاة المفكر الإسلامي من أصل سوري عصام العطار في أحد مشافي ألمانيا عن عمر يناهز الثالثة والتسعين عاماً.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_4a5yp7fk3.jpg\" style=\"height:319px; width:602px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_sqrpfp6dq.jpg\" style=\"height:626px; width:580px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 376,
+        "left": 4.5527191162109375,
+        "path": "articles/1590429410عصام العطار.jpg",
+        "top": 8.310791015625,
+        "totalHeight": 423,
+        "totalWidth": 676,
+        "watermark_path": "articles/watermark-1590429410عصام العطار.jpg",
+        "width": 669
+    },
+    "post_date": "2020-05-25T20:39:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/secureuser1/status/1264698497225326593",
+            "name": "Ääse ",
+            "path": "published/0_1590429410_Ääse.jpg"
+        },
+        {
+            "link": "https://twitter.com/mbaraayasin/status/1264697315933204480",
+            "name": "محمد براء ياسين",
+            "path": "published/1_1590429410_محمد براء ياسين.jpg"
+        },
+        {
+            "link": "https://twitter.com/asemfiras/status/1264688880122396673",
+            "name": "Asem AL-Sayed",
+            "path": "published/2_1590429410_Asem AL-Sayed.jpg"
+        },
+        {
+            "link": "https://twitter.com/Sha3banTolbah/status/1264683660399259649",
+            "name": "Shaban Tolbah",
+            "path": "published/3_1590429410_Shaban Tolbah.jpg"
+        },
+        {
+            "link": "https://twitter.com/103Ihssan/status/1264679478548140041",
+            "name": "Ihssan 103",
+            "path": "published/4_1590429410_Ihssan 103.jpg"
+        },
+        {
+            "link": "https://twitter.com/Salem_almuhlhl/status/1264675514545049600",
+            "name": "الزير سالم",
+            "path": "published/5_1590429410_الزير سالم.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/watch/?v=251526469266590",
+            "name": "عصام العطار Issam El-Attar",
+            "path": "sources/0_1590429410_عصام العطار Issam El-Attar.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "وفاة المفكر الإسلامي عصام العطار.. زائف",
+    "updated_at": "2020-09-25 19:59:44",
+    "url_path": "/factcheck/2020/05/25/وفاة-المفكر-الإسلامي-عصام-العطار-زائف"
+}

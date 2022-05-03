@@ -1,0 +1,123 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 1
+    },
+    "amount_sources": 0,
+    "amount_visits": 138616,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الجندي في الصورة أحد عناصر كتائب القسّام وليس جندياً إسرائيلياً ",
+    "category": "Politics",
+    "claim": "<p>صورة تُظهر إسماعيل هنية وهو يُقبّل يد جندي إسرائيلي.</p>\r\n",
+    "country": "PS",
+    "created_at": "2020-05-06 12:36:16",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5eb28510db29167ed9086b24",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة المتداولة ووجدها مضللة، فالجندي الذي يُقبّل إسماعيل هنية يده ليس إسرائيلياً، إنّما هو أحد عناصر كتائب القسّام الذراع العسكري لحركة حماس. الصورة التُقطت في شهر أبريل/نيسان عام 2015 أثناء زيارة تفقّد فيها هنيّة الحدود مع غزة برفقة عناصر من كتائب القسّام.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_zi8weswot.jpg\" style=\"height:658px; width:675px\" /></span></strong></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">يتداول مستخدمون على مواقع التواصل الاجتماعي منذ عام 2015، صورة يدعي ناشروها أنها تُظهر إسماعيل هنية رئيس المكتب السياسي لحركة حماس وهو يُقبل يد أحد جنود الاحتلال الإسرائيلي.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"449\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FMesronaalgamila%2Fposts%2F1678816032339532&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"rtl\" style=\"text-align:center\">إسماعيل هنية يقبل يد جندي صهيوني. ... سلامات للمقاومة <a href=\"https://t.co/dazReJ0tlI\">pic.twitter.com/dazReJ0tlI</a></p>\r\n&mdash; الدكتور ناصر القرشي (@aaa411971) <a href=\"https://twitter.com/aaa411971/status/792231245560311808?ref_src=twsrc%5Etfw\">October 29, 2016</a></blockquote>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"rtl\" style=\"text-align:center\">العميل الخائن صنيعة الموساد هنيه يقبل يد جندي صهيوني منتهي الذل والمهانه والوساخه . هذا مسيحرر القدس <a href=\"https://t.co/EvIBh35Zuz\">pic.twitter.com/EvIBh35Zuz</a></p>\r\n&mdash; peepoo (@ebelsayed8) <a href=\"https://twitter.com/ebelsayed8/status/780130532516630529?ref_src=twsrc%5Etfw\">September 25, 2016</a></blockquote>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 350,
+        "left": 4.23333740234375,
+        "path": "articles/1588757776view_1428177825.jpg",
+        "top": 15.2001953125,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1588757776view_1428177825.jpg",
+        "width": 622
+    },
+    "post_date": "2020-05-06T12:27:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/hbuior/status/879549028014469120?s=21",
+            "name": "Saif",
+            "path": "published/1_1588757775_Saif.jpg"
+        },
+        {
+            "link": "https://twitter.com/aaa411971/status/792231245560311808?s=21",
+            "name": "الدكتور ناصر القرشي",
+            "path": "published/2_1588757775_الدكتور ناصر القرشي.jpg"
+        },
+        {
+            "link": "https://twitter.com/abuali_uae/status/625401329553408000",
+            "name": "الوطن ",
+            "path": "published/3_1588757775_Twitter-logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/ebelsayed8/status/780130532516630529?s=21",
+            "name": "Peepoo",
+            "path": "published/4_1588757775_Peepoo.jpg"
+        },
+        {
+            "link": "https://twitter.com/Ubj8MJyQolfRQUT/status/1181951687717638146",
+            "name": "ياسمين",
+            "path": "published/5_1588757775_ياسمين.jpg"
+        },
+        {
+            "link": "https://twitter.com/emyyz_cccc/status/618075596514557952?s=21",
+            "name": "Emanyoussif",
+            "path": "published/6_1588757775_Emanyoussif.jpg"
+        },
+        {
+            "link": "https://twitter.com/Teriangle_HD/status/617417913453146112",
+            "name": "TestamenT ",
+            "path": "published/6_1588774736_TestamenT.jpg"
+        },
+        {
+            "link": "https://twitter.com/1stnasayem/status/752513063165755392?s=21",
+            "name": "هدى",
+            "path": "published/7_1588774630_هدى.jpg"
+        },
+        {
+            "link": "https://twitter.com/noot2175/status/1257367135703248902?s=21",
+            "name": "حزام بن سعود",
+            "path": "published/8_1588774630_حزام بن سعود.jpg"
+        },
+        {
+            "link": "https://twitter.com/mortadaaziz5/status/784312107823083520?s=21",
+            "name": "كشف المستور",
+            "path": "published/9_1588774630_كشف المستور-لوغو.jpg"
+        },
+        {
+            "link": "",
+            "name": "",
+            "path": ""
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.wattan.net/ar/news/128896.html",
+            "name": "وكالة وطن للأنباء",
+            "path": "sources/0_1588757776_وكالة وطن للأنباء.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل قبّل إسماعيل هنية يد جندي إسرائيلي؟",
+    "updated_at": "2020-09-25 22:05:03",
+    "url_path": "/factcheck/2020/05/06/هل-قبل-إسماعيل-هنية-يد-جندي-إسرائيلي"
+}

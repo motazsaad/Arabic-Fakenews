@@ -1,0 +1,76 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 678,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "category": "Politics",
+    "claim": "<p>مقطع فيديو يُصوّر الرئيس الكوري الشمالي كيم جونغ أون يُنفّذ عملية إعدام بحق أحد الوزراء الفاسدين.</p>\r\n",
+    "country": "KP",
+    "created_at": "2019-10-30 16:27:33",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5db98fc58d7bd961f87af586",
+    "investigation": "<p style=\"text-align:right\">هذا الفيديو مزيف، إذ تمّ تركيبه ليظهر الزعيم الكوري الشمالي كيم جونغ أون يُعدم رجلاً كان برفقته، عبر إلقائه في حفرة كشفت عنها الأرضيّة الإسمنتية فجأة. ويعود الفيديو الأصلي الذي تمّ فبركته إلى 27 نيسان/ أبريل 2018، أثناء اللقاء التاريخي الذي جمع بين الزعيم الكوري الشمالي والرئيس الكوري الجنوبي مون جاي عند الخط الفاصل بين الكوريتين.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_4bb08d1b76c68b49059115ed16df0a7d.jpg\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\">تداول عددٌ من مستخدمي وسائل التواصل الاجتماعي وعدّة حسابات على موقع يوتيوب منذ عام 2018، مقطعاً مصوّراً ادعى ناشروه أنه يُظهر الزعيم الكوري الشمالي وهو يُعدم أحد وزرائه عقاباً على ارتكابه جرائم متعلقة بالفساد.&nbsp;</p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_67f26321a693f28dcaeb9ceb6e67294c.jpg\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_f78e2f15bd94f9892c4ee0fb6be189e6.jpg\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_905cdd8ca314aab03f5284b890df2792.jpg\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 415,
+        "left": 7.6444091796875,
+        "path": "articles/1572442052صورة المادة.jpg",
+        "top": 3.881256103515625,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "width": 738
+    },
+    "post_date": "2018-11-29T16:11:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.youtube.com/watch?v=iCgJzKnt-uY",
+            "name": "AB-KOORA",
+            "path": "published/0_1572442052_AB-koora-logo.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=wBEz08ICoWY",
+            "name": "Mostajadat #",
+            "path": "published/1_1572442052_Mostajadat #-logo.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.alaraby.co.uk/politics/2018/4/27/%D8%A8%D8%AF%D8%A1-%D8%A7%D9%84%D9%82%D9%85%D8%A9-%D8%A7%D9%84%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%D9%8A%D8%A9-%D8%A8%D9%8A%D9%86-%D8%A7%D9%84%D9%83%D9%88%D8%B1%D9%8A%D8%AA%D9%8A%D9%86-%D9%88%D8%AA%D9%88%D9%82%D8%B9%D8%A7%D8%AA-%D8%A8%D9%80-%D8%A7%D8%AA%D9%81%D8%A7%D9%82-%D8%AC%D8%B1%D9%8A%D8%A1-",
+            "name": "العربي الجديد",
+            "path": "sources/0_1572442052_العربي الجديد-لوغو.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "زعيم كوريا الشمالية يُعدم وزيراً فاسداً... ما حقيقة الفيديو؟",
+    "updated_at": "2020-09-25 16:41:11",
+    "url_path": "/factcheck/2019/10/30/زعيم-كوريا-الشمالية-يعدم-وزيرا-فاسدا-ما-حقيقة-الفيديو"
+}

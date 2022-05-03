@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 1,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 12373,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "الطفل وُلد لعائلة فيتنامية (Hai Phong International Hospital)",
+    "category": "Science",
+    "claim": "<p style=\"text-align:right\">طفل وُلد يحمل أداة منع الحمل.</p>\r\n",
+    "country": "VN",
+    "created_at": "2020-07-13 12:50:14",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 2,
+    "id": "5f0c2e56163be306a50540c9",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصور والمعلومات، ليجد أنها صحيحة، فقد وُلد بالفعل الطفل ثم أمسك أداة الحمل &quot;اللولب&quot; التي نزلت معه، وهو&nbsp;لعائلة فيتنامية وُلد&nbsp;يوم 30 يونيو/حزيران الفائت، والتقط الصور الطبيب الذي ساعد الأم على الولادة، ونشرها على حساب المستشفى &nbsp;الفيتنامي Hai Phong International &nbsp;في &quot;فيسبوك&quot; وكتب &quot;إنها معجزة&quot;،&nbsp;وهو الابن الثالث للأم البالغة من العمر 34عاماً، وأوضحت لوسائل الإعلام دون ذكر اسمها،&nbsp;أنها وضعت &quot;اللولب&quot; قبل سنتين، ومع ذلك حملت بطفلها، ونشرت مختلف مواقع&nbsp;الإعلام الدولي&nbsp;القصة والصور يومي السادس والسابع من يوليو/تموز الجاري.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_hgjpeq909.jpg\" style=\"height:563px; width:541px\" /></p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_jrejq5njv.jpg\" style=\"height:507px; width:604px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/investigation_gcvia297u.jpg\" style=\"height:599px; width:605px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول حسابات على مواقع التواصل الاجتماعي، منذ العاشر من يوليو/تموز الجاري، خبراً مفاده أن طفلاً وُلد وبيده يمسك أداة منع الحمل، ونشرت هذه الحسابات مقطع فيديو لتقرير نشرته بي بي سي بالعربي ضمن برنامج &quot;ترندينغ&quot; يحمل صوراً للطفل وهو ممسك أداة منع الحمل، واسمها الطبي &quot;لولب&quot;.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_szdr2ufsf.jpg\" style=\"height:420px; width:605px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_g7sdlypym.jpg\" style=\"height:402px; width:605px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_mawj1z83p.jpg\" style=\"height:400px; width:605px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 403,
+        "left": 19.50006103515625,
+        "path": "articles/1594633813بيبيث.JPG",
+        "top": 3.75,
+        "totalHeight": 423,
+        "totalWidth": 761,
+        "watermark_path": "articles/watermark-1594633813بيبيث.JPG",
+        "width": 715
+    },
+    "post_date": "2020-07-13T11:06:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/chabdane/videos/433788750838001/",
+            "name": "Chabdane inou شبذان إينو",
+            "path": "published/0_1594633813_شبذان.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Princebibo23/videos/2434623493495746/",
+            "name": "Prince Bibo",
+            "path": "published/1_1594633813_بيبي.JPG"
+        },
+        {
+            "link": "https://www.facebook.com/watch/BBCnewsArabic/",
+            "name": " BBC News عربي",
+            "path": "published/2_1594633813_75418862_10158065794115139_4802718677625470976_o.jpg"
+        }
+    ],
+    "result": "true",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.livingandloving.co.za/birth/baby-born-holding-moms-contraceptive-device",
+            "name": "livingandloving.",
+            "path": "sources/0_1594633813_555.JPG"
+        },
+        {
+            "link": "https://www.news24.com/you/news/baby-born-holding-moms-failed-birth-control-device-20200707",
+            "name": "news24",
+            "path": "sources/1_1594633813_يييص.JPG"
+        },
+        {
+            "link": "https://www.facebook.com/dakhoaquoctehaiphong/posts/3075382929216610?__xts__[0]=68.ARCcc5aZtLpo1lxEeDmpcP0AqnB729bP32fBlWURrvD2jNp4bbk1trGPBB7huiWegfWSak1moL-1B4_NhxPhLTiC4onlx1mG4g0EJatvXlJqyi6qfJpRGSl1fLOdYSiyIqnjkOeg5eDhLyvzza9M9gGUQQwnWTZJ1Aa1zng6YXBS_ueTo4QQ8IQS1f3A4TlwjseUVrHeXTokW6Yo3hpBjuSSwmWTd6rdOVwQkgLHX8yqlu1tgfb7Xc6gzppfIucdxkz-dgXKSfl4s_9F_O_95bQhY9ShsxfstVFvL7qz3RJYlrghXP8NVMXhQhofjKBOaGnRlO2P1KYvtbUvplu_YPjWR7W694b43P8uzIZ3KXK-02Rbg95sn7RNiPfldINmTZ9CvGoF6tZCAxiM8KHsXWgd47ale3js2xdGiB464C5oK9OVVIk11L3ev-enjOjAJbK78xW65yQJPslmFSm4ds5zja_xWa7NHWfTraMaRupEX8q_pomBgwoycA&__tn__=-R",
+            "name": " Hai Phong International ",
+            "path": "sources/2_1594633813_25660303_1565594836862101_113185232802917425_n.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذا الطفل وُلد ثم أمسك أداة منع الحمل",
+    "updated_at": "2020-09-25 17:21:50",
+    "url_path": "/factcheck/2020/07/13/هذا-الطفل-ولد-يحمل-أداة-منع-الحمل"
+}

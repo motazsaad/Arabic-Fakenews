@@ -1,0 +1,128 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 5472,
+    "author": {
+        "fullname": "صباح الخطيب",
+        "id": "5edc1b38db291674e776e9a3",
+        "photo": {
+            "path": "authors/1591643228_7.jpg"
+        }
+    },
+    "caption": "تتنوّع ألوان التفاح بين الأحمر، الأخضر والأصفر (فيسبوك)",
+    "category": "Food & Beverages",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">صورٌ ومقاطعٌ مصوّرةٌ لتفاح أزرق، ينمو في الولايات المتّحدة وله طعم يشبه العسل.</p>\r\n",
+    "country": "",
+    "created_at": "2020-07-05 19:18:38",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 16,
+    "id": "5f01fd5e163be33ca40599e6",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار &quot; من الادعاء المتداول ووجد أنه زائف، فلا يوجد ما يسمّى بالتفاح الأزرق. إذ <a href=\"https://www.inspection.gc.ca/plant-varieties/plants-with-novel-traits/applicants/directive-94-08/biology-documents/malus-domestica/eng/1404417088821/1404417158789?chap=0\" style=\"color:#0563c1; text-decoration:underline\">تتنوع ألوان التفاح </a>بين الأحمر، الأخضر والأصفر بشكل موحّد أو ثنائي اللون. ويعود سبب الاختلاف إلى نسبة صبغة <a href=\"https://www.sciencedirect.com/science/article/abs/pii/S096399691400194X\" style=\"color:#0563c1; text-decoration:underline\">الكلوروفيل</a> في الغلاف الخارجي، فتكون مرتفعةً في التفاح الأخضر ومُنخفضةً في الأحمر والأصفر. وقد يستخدم المزارعين بعض أنواع <a href=\"https://www.yara.co.uk/crop-nutrition/apples/improving-apple-colouration/\" style=\"color:#0563c1; text-decoration:underline\">السماد</a> الغني بالنيتروجين، المغنيزيوم والبوتاسيوم لزيادة تركيز ألوان التفاح المختلفة وتحسين جودتها، ولا يستخدمون صبغات صناعية لتغيير اللون، كما أن أنواع <a href=\"http://www.pickyourown.org/pdfs/apples.pdf\" style=\"color:#0563c1; text-decoration:underline\">التفاح الأميركي</a> بمختلف أماكن زراعته، لا تحتوي على اللون الأزرق في أي منها.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"AR-SA\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_8nfgxnpoa.jpg\" style=\"height:295px; width:575px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_k9pqeoz17.jpg\" style=\"height:798px; width:672px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وحقيقة ما يُعرض في مقطع الفيديو، من المرجح أن يكون تفاح مطلي باللون الأزرق، إذ أنه بالإمكان رؤية علامات الطلاء على أطراف التفاحة، كما أنه يُمكن ملاحظة تفّاح وردي اللون في خلفية المقطع المصوّر، كما هو موضّح في الصورة أدناه.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_no3cxlziq.jpg\" style=\"height:406px; width:446px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول حسابات وصفحات على موقعي التواصل الاجتماعي فيسبوك وتويتر، صوراً ومقاطع فيديو يظهر فيها تفاحٍ بلونٍ أزرق، وادّعى الناشرون أن هذا النوع من التفّاح ينمو في الولايات المتّحدة الأميركية وله طعم حلو يُشبه العسل.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"AR-SA\"><span style=\"color:red\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ac5ilo2fg.jpg\" style=\"height:732px; width:477px\" /></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"AR-SA\"><span style=\"color:red\"><img src=\"https://images-prod.misbar.com/articlebody/origin_jysm4wsvz.jpg\" style=\"height:394px; width:490px\" /></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"AR-SA\"><img src=\"https://images-prod.misbar.com/articlebody/origin_vn4rqc69y.jpg\" style=\"height:664px; width:404px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 140,
+        "left": 3.340606689453125,
+        "path": "articles/1593965918main photo.jpg",
+        "top": 21.38818359375,
+        "totalHeight": 178,
+        "totalWidth": 254,
+        "watermark_path": "articles/watermark-1593965918main photo.jpg",
+        "width": 249
+    },
+    "post_date": "2020-07-05T19:09:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/lh911/status/1259555362270785537",
+            "name": "تثقف",
+            "path": "published/0_1593965916_تثقف.jpg"
+        },
+        {
+            "link": "https://twitter.com/eng_sherien/status/1244297175535927296",
+            "name": "Sherien",
+            "path": "published/1_1593965917_شيرين.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=278718750179018&id=107424140641814",
+            "name": "شي من كل شي",
+            "path": "published/2_1593965917_شي من كل شي.jpg"
+        },
+        {
+            "link": "https://twitter.com/Agriculture_esa/status/1201968947886723073",
+            "name": "الزراعة المستدامة🌳",
+            "path": "published/3_1593965917_الزراعة المستدامة.jpg"
+        },
+        {
+            "link": "https://twitter.com/atras10/status/1201794864700121088",
+            "name": "ناصر الناصر",
+            "path": "published/4_1593965917_ناصر الناصر.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=3064078100376323&id=877754785675343",
+            "name": "نوميديا الأمازيغية",
+            "path": "published/5_1593965917_نوميديا.jpg"
+        },
+        {
+            "link": "https://twitter.com/videonet_/status/1202237060884639745",
+            "name": "فيديو نت",
+            "path": "published/6_1593965917_فيديو نت.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/linatakasam/posts/4035053096569855",
+            "name": "Let's share",
+            "path": "published/7_1593965917_lets share.jpg"
+        },
+        {
+            "link": "https://twitter.com/irakan1995/status/1279060140155645955",
+            "name": "Rakan.",
+            "path": "published/8_1593965917_ركان.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.inspection.gc.ca/plant-varieties/plants-with-novel-traits/applicants/directive-94-08/biology-documents/malus-domestica/eng/1404417088821/1404417158789?chap=0",
+            "name": "وكالة فحص الأغذية الكندية",
+            "path": "sources/0_1593965917_canadian food.jpg"
+        },
+        {
+            "link": "https://www.sciencedirect.com/science/article/abs/pii/S096399691400194X",
+            "name": "Science Direct",
+            "path": "sources/1_1593965917_science direct.jpg"
+        },
+        {
+            "link": "https://www.yara.co.uk/crop-nutrition/apples/improving-apple-colouration/",
+            "name": "YARA",
+            "path": "sources/2_1593965917_yara.jpg"
+        },
+        {
+            "link": "http://www.pickyourown.org/pdfs/apples.pdf",
+            "name": "Pick Your Own Farm",
+            "path": "sources/3_1593965917_pick your own.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "التفّاح الأزرق غير موجود في الحقيقة",
+    "updated_at": "2020-09-25 21:45:17",
+    "url_path": "/factcheck/2020/07/05/التفاح-الأزرق-غير-موجود-في-الحقيقة"
+}

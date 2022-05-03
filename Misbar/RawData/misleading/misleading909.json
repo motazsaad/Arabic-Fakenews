@@ -1,0 +1,83 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 27347,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "ويتشابه شاطئ المدينتين إلى حد كبير (Steve McCurry)",
+    "category": "Travel",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">صورة لشاب مصري وفتاة إثيوبية على شاطئ الإسكندرية.</span></p>\r\n",
+    "country": "EG",
+    "created_at": "2020-07-12 22:23:06",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f0b631a163be3079e299fa7",
+    "investigation": "<p style=\"text-align:justify\">تحقَق &quot;مسبار&quot; من الصورة ليجد أنها في على شاطئ مدينة هافانا في كوبا، وهي من أعمال المصور الفوتوغرافي ستيف مكري التقطها إلى جانب عدد من الصور الأخرى للشاطئ ذاته، ولا يمكن إنكار الشبه بين شاطئ الإسكندرية وشاطئ هافانا.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_bu1no8j33.jpg\" style=\"height:245px; width:605px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول مجموعة من الحسابات على موقع تويتر، في الأسبوع الثاني من شهر يوليو/تموز الجاري، صورةً قيل أنها لشاطئ الإسكندرية في مصر، وفي الصورة شاب يعانق فتاة سمراء، وسخرت الحسابات من كونها فتاة إثيوبية في حضن شاب مصري، ما يعني حل الأزمة بين إثيوبيا ومصر.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_kendoogcl.jpg\" style=\"height:274px; width:605px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_q36an5kp6.jpg\" style=\"height:394px; width:587px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_aar37rkft.jpg\" style=\"height:363px; width:577px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 396,
+        "left": 6,
+        "path": "articles/1594581786___.JPG",
+        "top": 14.3359375,
+        "totalHeight": 423,
+        "totalWidth": 721,
+        "watermark_path": "articles/watermark-1594581786___.JPG",
+        "width": 705
+    },
+    "post_date": "2020-07-12T20:20:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/YasminaElzyat/status/1280629390297239553",
+            "name": "yaso",
+            "path": "published/0_1594581786_ععع7.jpg"
+        },
+        {
+            "link": "https://twitter.com/1911alx/status/1280111363126374401/photo/1",
+            "name": "Alxis٠٠",
+            "path": "published/1_1594581786_000.jpg"
+        },
+        {
+            "link": "https://twitter.com/sami31763321/status/1280527400665853953",
+            "name": "المشاء",
+            "path": "published/2_1594581786_المشاء.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.pinterest.fr/search/pins/?q=STEVE%20McCURRY%20cuba&rs=typed&term_meta[]=STEVE%7Ctyped&term_meta[]=McCURRY%7Ctyped&term_meta[]=cuba%7Ctyped",
+            "name": "Steve McCurry",
+            "path": "sources/0_1594581786_logo pinterest.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصورة ليست لإثيوبية في مدينة الإسكندرية",
+    "updated_at": "2020-09-25 09:18:48",
+    "url_path": "/factcheck/2020/07/12/هذه-الصورة-ليست-في-مدينة-الإسكندرية"
+}

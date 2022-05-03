@@ -1,0 +1,98 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 13302,
+    "author": {
+        "fullname": "أمين العطلة",
+        "id": "5e20299dd4a22961d73b6713",
+        "photo": {
+            "path": "authors/1579676161_Ameen.jpg"
+        }
+    },
+    "category": "Lifestyle",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">للمرة الثالثة على التوالي عبد الله بن زايد يحصل على لقب أجمل رجل في العالم العربي<span dir=\"LTR\">.</span></p>\r\n",
+    "country": "AE",
+    "created_at": "2020-02-11 19:58:20",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 2,
+    "feedback_pos": 3,
+    "id": "5e42dd2cd4a22937fc28cdb3",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">هذا الادعاء <a href=\"https://www.alyaoum24.com/1007641.html\" style=\"color:#0563c1; text-decoration:underline\">تناقلته</a> حسابات مغربية على مواقع التواصل الاجتماعي عام 2017 بسخرية، ولم يستند إلى مصدر حقيقي،&nbsp;ومؤخراً اعادت بعض الحسابات نشره&nbsp;مجدداً دون الاستناد لأي معلومة حقيقية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&quot;مسبار&quot; بحث في المواقع والحسابات الرسمية الإماراتية ولم يجد أيّ خبر يؤكد ما يتم تداوله، إضافة إلى عدم وجود أيّ مسابقة رسمية معلنة تصنف أجمل الرجال في الوطن العربي، فيما عثر &quot;مسبار&quot; على تصنيف أجراه موقع Top Best Proreview، صنف أجمل عشر رجال في العالم للعام 2020 ولم يذكر عبد الله بن زايد&nbsp;ضمنهم.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"Picture_x0020_11\" src=\"https://images-prod.misbar.com/articlebody/investigation_43t3kbxxp.jpg\" style=\"height:240pt; width:339pt\" /> </span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "عبد الله بن زايد",
+        "أجمل رجل عربي",
+        "الإمارات"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">نشر عدد من مستخدمي &quot;فيسبوك&quot; و&quot;تويتر&quot;، خبراً يفيد أن وزير الخارجية الإماراتي عبد الله بن زايد حصل على لقب &quot;أجمل رجل في العالم العربي للمرة الثالثة على التوالي&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"Picture_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/origin_iqvrzolbf.jpg\" style=\"height:340.5pt; width:273.75pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"Picture_x0020_2\" src=\"https://images-prod.misbar.com/articlebody/origin_eafoevjr2.jpg\" style=\"height:378pt; width:293.25pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"Picture_x0020_3\" src=\"https://images-prod.misbar.com/articlebody/origin_00zbeqydl.jpg\" style=\"height:350.25pt; width:284.25pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"Picture_x0020_6\" src=\"https://images-prod.misbar.com/articlebody/origin_igzkm1rds.jpg\" style=\"height:306.75pt; width:300.75pt\" /> </span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 353,
+        "left": 3.3239593505859375,
+        "path": "articles/1581440299GettyImages-1151926391.jpg",
+        "top": 17.696060180664062,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "width": 628
+    },
+    "post_date": "2020-02-11T18:36:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/Fehri.Fans/posts/2862607620472070",
+            "name": "Sami El Fehri",
+            "path": "published/0_1581440299_Sami El Fehri.jpg"
+        },
+        {
+            "link": "https://twitter.com/sabrinaammar3/status/1224984394361982976",
+            "name": "sabrina ammar",
+            "path": "published/1_1581440299_sabrina ammar.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/maadfhmna/posts/2312390045724046/",
+            "name": "لـــــيـــــبــــــيــــا معاد فهمنا شئ",
+            "path": "published/2_1581440299_لـــــيـــــبــــــيــــا معاد فهمنا شئ - logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/jonm2014/status/1225158985914966016",
+            "name": "علي جونم",
+            "path": "published/3_1581440299_علي جونم.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/palestinee48/posts/1340847916099286",
+            "name": "Ask Palestine",
+            "path": "published/4_1581440299_Ask Palestine - logo.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.topbestproreview.com/most-handsome-men/",
+            "name": "top best pro review",
+            "path": "sources/0_1581440299_top best pro review - logo.jpg"
+        },
+        {
+            "link": "https://www.alyaoum24.com/1007641.html",
+            "name": "alyaoum24",
+            "path": "sources/1_1581440299_alyaoum24 - logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "عبد الله بن زايد لم يحصل على لقب أجمل رجل في العالم العربي",
+    "updated_at": "2020-09-25 22:10:02",
+    "url_path": "/factcheck/2020/02/11/عبد-الله-بن-زايد-لم-يحصل-على-لقب-أجمل-رجل-في-العالم-العربي"
+}

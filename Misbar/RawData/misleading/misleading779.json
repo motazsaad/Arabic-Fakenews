@@ -1,0 +1,114 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 507,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "لم يصب أحد أفراد الطاقم الطبي بكورونا (تويتر)",
+    "category": "Health",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">وضع أعضاء</span>&nbsp;<span style=\"background-color:white\">الوفد الطبي الجزائري الذي تم إرساله إلى</span>&nbsp;لبنان&nbsp;<span style=\"background-color:white\">في الحجر الصحي، بعد اكتشاف إصابة أحد أفراده بفايروس كورونا المستجد (كوفيد-19).</span></p>\r\n",
+    "country": "DZ",
+    "created_at": "2020-08-12 15:28:55",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f33e0871dd585079c235472",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار من الخبر المتداول&quot; ووجد أنه مضلل، إذ لم يخضع الوفد الطبي الجزائري للحجر الصحي في لبنان بعد التأكد من إصابة أحد أعضائه بفايروس كورونا المستجدّ (كوفيد-19). وقد ظهر كامل الوفد الطبي في تقرير نشرة الأنباء الرئيسية للتلفزيون العمومي الجزائري بتاريخ 11 أغسطس/آب 2020، بعنوان &quot;الأطقم الطبية اللبنانية تثمن جهود الوفد الطبي الجزائري&quot;.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/mdyEvpIb8a0\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">كما نشرت القناة الأولى مشاهد استقبال الوفد الجزائري من قبل وزير الصحة العامة اللبناني حمد حسن، بتاريخ 8 أغسطس/آب 2020.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/erazHdPBzqQ\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">ووفق مصادر خاصة لمسبار، فإن أحد عناصر فرقة الحماية المدنية الجزائرية التي تحولت إلى لبنان، ثبت إصابته بفايروس كورونا المستجد، بعد أن كشفت الاختبارات الأولى في المطار إصابته بحمى. وهو ما اضطر الفريق إلى الالتزام بالحجر الصحي للتأكد من باقي الحالات.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">يذكر أن الجزائر أرسلت مساعدات غذائية وطبية إلى لبنان بعد حادثة انفجار مرفأ بيروت.</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات إخبارية وحسابات على موقعي تويتر وفيسبوك، حديثاً، خبراً يدّعي خضوع <span style=\"background-color:white\">أعضاء</span>&nbsp;<span style=\"background-color:white\">الوفد الطبي الجزائري الذي تم إرساله إلى</span>&nbsp;لبنان للحجر<span style=\"background-color:white\">&nbsp;الصحي، بعد اكتشاف إصابة أحدهم بفايروس كورونا المستجد (كوفيد-19). </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:#1c1e21\"><img alt=\"00.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_cjqsork3d.jpg\" style=\"height:431px; width:501px\" /></span></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"0.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_qffnwoc3a.jpg\" style=\"height:427px; width:499px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_9n4xr096d.jpg\" style=\"height:434px; width:504px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 318,
+        "left": 23.10528564453125,
+        "path": "articles/15972353345.jpg",
+        "top": 41.746826171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-15972353345.jpg",
+        "width": 565
+    },
+    "post_date": "2020-08-12T12:55:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/MohamedBouarby/status/1292983079125110784",
+            "name": "Mohamed Bouarbi",
+            "path": "published/0_1597235333_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Voix.de.biskra/posts/3094490227335118",
+            "name": "Voix de biskra  صوت بسكرة",
+            "path": "published/1_1597235334_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/dzertic24/photos/a.130691178399454/205233997611838/?type=3&theater",
+            "name": "ديزارتيك 24 Dzertic",
+            "path": "published/2_1597235334_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/akhbar48wilaya/photos/a.100573654958399/163047118711052/?type=3&theater",
+            "name": "اخبار 48 ولاية",
+            "path": "published/3_1597235334_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/PPourelle/photos/a.432075033904396/1020050698440157/?type=3&theater",
+            "name": "Pour Elle",
+            "path": "published/4_1597235334_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/205048263173220/photos/a.207912439553469/1271597296518306/?type=3&theater",
+            "name": "1.2.3 viva l'Algérie",
+            "path": "published/5_1597235334_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/pagofficiellpourlesdemandeursdemploi/photos/a.110988550348924/302236874557423/?type=3&theater",
+            "name": "أخبار عقود ما قبل التشغيل daip cta ومسابقات التوظيف 2020",
+            "path": "published/6_1597235334_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Annabaone23/photos/a.104477904253431/322094672491752/?type=3&theater",
+            "name": "Annaba One",
+            "path": "published/7_1597235334_67819776_2303763929710849_8279055560511324160_o.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=erazHdPBzqQ",
+            "name": "Dzaïr TV ",
+            "path": "sources/0_1597235334_78318164_2612848002168279_7624674059824922624_n.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=mdyEvpIb8a0",
+            "name": "المؤسسة العمومية للتلفزيون الجزائري",
+            "path": "sources/1_1597235334_82630872_2855703284467767_550396524224315392_n.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الوفد الطبي الجزائري لم يخضع للحجر الصحي في لبنان بسبب كورونا",
+    "updated_at": "2020-09-25 17:31:08",
+    "url_path": "/factcheck/2020/08/12/الوفد-الطبي-الجزائري-لم-يخضع-للحجر-الصحي-في-لبنان-بسبب-كورونا"
+}

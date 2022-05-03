@@ -1,0 +1,105 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2294,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "خبر زائف حول رفع السيسي لعدد حالات الإصابة بفايروس كورونا في مصر (Getty)",
+    "category": "Health",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">قال رئيس البنك الدّولي في إحدى المؤتمرات &quot;عندما أعلنت عن منحة 10 مليار دولار للدول التي انتشر بها فايروس كورونا، هاتفني الرئيس السّيسي وأكّد لي وجود 8000 حالة عدوى في بلاده&quot;.</p>\r\n",
+    "country": "EG",
+    "created_at": "2020-03-10 11:44:59",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e67538bd4a2291ba60103a4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الخبر المتداول ووجد أنه زائف. وبالعودة إلى الموقع الرسمي للبنك الدولي، وجد أنّ <a href=\"https://blogs.worldbank.org/ar/voices/coronavirus-covid19-highlights-need-strengthen-health-systems\" style=\"color:blue; text-decoration:underline\"><span style=\"color:#1155cc\">البنك الدولي</span></a> أعلن عن حزمة تمويل أولية تصل قيمتها إلى 12 مليار دولار لمواجهة فايروس كورونا المنتشر في أكثر من 60 دولة في العالم.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">أمّا مهاتفة السيسي لديفيد مالباس، رئيس مجموعة البنك الدولي، وإخباره بوجود 8000 حالة مصابة في مصر، فلم يجد &quot;مسبار&quot; لها أيّ أساس من الصحة بالبحث في &quot;غوغل&quot; والعودة إلى المنصات الرسمية للبنك الدولي والرئاسة المصرية. وتجدر الإشارة إلى <a href=\"http://www.facebook.com/egypt.mohp/photos/a.122315979319023/135880394629248/?type=3&amp;__xts__%5B0%5D=68.ARDRUH5_qkc0i41x-u1KESs4AGCFFi-8mCh7tbKLR8IMs7h0uf_-XJeoOoWuz6mSq0wu9xTMYB4JjwRCzp4ZcR_VkC0jlg5quXVYw9Lze0fwmE7KPbj08MHDbrHbvTZriq8iNhgtbNOiIp9jFP4q-rOw88Scdgpzv4lRS_Q16QSSIQmFJXlfdmRF9dqX-wzAtwfl7Je_GTw3o48VPTopjtkTn0hsVQkdevgRLpcX-TJ4aE0ZRutlvYU5inZ7HPQMfWeJVcXDDP3AT2xV5M8_Sz221YmzxZZuGA_bZmSEcSq2sZmx1juVU5WfD9npY4qo6tO-BJ12nfCa0Y51vxV2C84&amp;__tn__=-R\" target=\"_blank\">إعلان</a> وزارة الصحة المصرية، يوم الاثنين 9 مارس/آذار الجاري، عن ارتفاع الحالات التي كانت نتائج تحاليلها إيجابية إلى 59 حالة،&nbsp;بينهم <a href=\"https://www.facebook.com/egypt.mohp/photos/a.122315979319023/135345291349425/?type=3&amp;__xts__%5B0%5D=68.ARAWLczTtboJRMK67z_VItWQsWbD-K8lb8GHmSNX5dMR4vBUUxYWneH5k8-2PVLev1sB7zF8U2ydOL9KEHMSCmi89PgmDxbKqDafRdgo9aOygbgM0-4AEr-vU9dMbOxUc0YHvrd518kz_WQM8TqDCVsytj0Jz_7CSpC0bFi97PFn6wI-TQZ5XwrRM4FLgqxSpRykmsNLXtIC3uBD8II8cmYpJt8MD3f2S1JLa0zHFew0RzHvUTp4X6PLDyQaBcM90ovVuQxMckgpvRMQdn6wH941fofP2fxNK1pDxHUq_6FxqkS5ElhpJBbeab1XUA4F9rf9pa6YliwwzeZCwY_UVnA&amp;__tn__=-R\" style=\"color:blue; text-decoration:underline\">حالة توفيت</a> يوم الأحد، وهو سائح ألماني الجنسية يبلغ من العمر 60 عاماً.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"color:black\"><img alt=\"https://lh3.googleusercontent.com/2tTHholl4iuYejkthrQb_OoOHJxylxObw0sVuZYjSmqp4o3qDGUdzaVqQ2mF4uTcksp2nFqtlU90gYgQUk_2NN-dqAAhIxWvi8Ptjj-6TxqKgUErjmOGYEjGglRDAey3tuYoJUAm\" src=\"https://images-prod.misbar.com/articlebody/investigation_dxiufekhn.jpg\" style=\"height:315px; width:540px\" /></span></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "كورونا",
+        "مصر",
+        "السيسي",
+        "البنك الدولي"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت صفحات على مواقع التواصل الاجتماعي تصريحاً منسوباً لرئيس البنك الدولي يقول فيه &quot;عندما أعلنت عن منحة 10 مليار دولار للدول التي انتشر بها فايروس كورونا، هاتفني السيسي وأكّد لي وجود 8000 حالة مصـابة في بلاده&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"color:black\"><img alt=\"https://lh4.googleusercontent.com/KbW3ZUeKRzYVK5otXNBY7O9Py7hjLnIRK0SjvLogs8rQONg66wfZ8Ch-f2phcqTr8jOdDDX4T5auUmXRP1CPZaORzbpSctMBxfkrDpALS1pLXdL4mkbnOUJF7ch4bkAiBQSC4WoO\" src=\"https://images-prod.misbar.com/articlebody/origin_zjlckx0m6.jpg\" style=\"height:312px; width:523px\" /></span></span></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"color:black\"><img alt=\"https://lh3.googleusercontent.com/5X6oU2wXhLw6c6fBAFMHyYBA6Hl1TcoTiHnMhHaGHDdBJadMZgsBSHSMVpvYm6lNGj6LPERoMlCdZuZkGizam-QsBhUhgzvDB65UYgEiFWR6OPWZ6d26ZVVvP2GNP0jkE3OEFy3Z\" src=\"https://images-prod.misbar.com/articlebody/origin_vhim377t1.jpg\" style=\"height:394px; width:517px\" /></span></span></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"color:black\"><img alt=\"https://lh5.googleusercontent.com/trZ-owZaY3wqlpu4fVoZKegPIcOBqyueOTeSjoSy4ge--FdapUvRR0anYnfryQqHJPrTVLd9NN4MDYA7sIcxlmfDL4xfhIURB0P4MAussvLTpV3MPoJPjgWOeS94vRDAEDZCKUKu\" src=\"https://images-prod.misbar.com/articlebody/origin_ko2h0jket.jpg\" style=\"height:371px; width:514px\" /></span></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 325,
+        "left": 4.383331298828125,
+        "path": "articles/1583829899GettyImages-1183211929.jpg",
+        "top": 0.150146484375,
+        "totalHeight": 423,
+        "totalWidth": 584,
+        "width": 577
+    },
+    "post_date": "2020-03-10T10:29:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/138012473025510/photos/a.443270285833059/1500857726740971/?type=3&theater&ifg=1",
+            "name": "أحرار",
+            "path": "published/0_1583829898_أحرار-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/765520013494913/photos/a.802257003154547/2846488582064702/?type=3&__xts__%5B0%5D=68.ARB0khFkyNWioMSupFgDawGpmJ4Z0HorRrtqsWJz5UFC0K_d_FxYuS-EaV2aANSRC3MOIiA3uOaYruTpFr2zmXUNBYV9oY1agWO1lfV0YcvajDX-aDecwbvjzDXwfGr8NImxqn9nbTd1WpbemhJKDYA35vfV1GklAmNBF3KZzCPnSO6wavHY2SSkWvx1TDs0SNcRcWAI4es5eADQWaUpUCDcOgiU5gIoVyWrCQfwu0G9paDVbJC0xXInUredVTgrwP1ElbCSQ4cVUdRct1WPwlLykhDcO5VOBhJbIrJpIwdMdg5rh7kbaWjJdWqAlpuMwGoKvWyY6PGq4Ql_Bh4muryySQ&__tn__=-R",
+            "name": "الصورة المضادة إلى زوال",
+            "path": "published/1_1583829898_الثورة المضادة إلى زوال-لوغو.jpg"
+        },
+        {
+            "link": "https://safarfeed.com/6458/%d8%b9%d9%80%d8%a7%d8%ac%d9%84-%d8%b4%d8%a7%d9%87%d8%af-%d8%b1%d8%a6%d9%8a%d8%b3-%d8%a7%d9%84%d8%a8%d9%86%d9%83-%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a-%d9%8a%d8%b9%d9%84%d9%86%d9%87%d8%a7-%d8%b9/",
+            "name": "عرب لايف",
+            "path": "published/2_1583829899_عرب لايف-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/olfa.melliti.16/posts/2515193585360210",
+            "name": "شاهناز بن علي",
+            "path": "published/3_1583829899_شاهناز بن علي-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/2043010602467125/permalink/2383727685062080/",
+            "name": "رواد الساعدي",
+            "path": "published/4_1583829899_رواد الساعدي-لوغو.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://blogs.worldbank.org/ar/voices/coronavirus-covid19-highlights-need-strengthen-health-systems",
+            "name": "البنك الدولي",
+            "path": "sources/0_1583829898_world bank-logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/egypt.mohp/posts/135880424629245",
+            "name": "وزارة الصحة والسكان المصرية",
+            "path": "sources/1_1583829898_وزارة الصحة والسكان المصرية-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/egypt.mohp/posts/135345351349419",
+            "name": "وزارة الصحة والسكان المصرية",
+            "path": "sources/2_1583829898_وزارة الصحة والسكان المصرية-لوغو.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "خبر زائف حول إبلاغ السيسي للبنك الدولي بوجود 8000 إصابة بكورونا في بلاده طمعًا في 10 مليار دولار؟",
+    "title": "هل رفع السيسي أعداد المصابين بكورونا في مصر طمعاً بمليارات البنك الدولي؟",
+    "updated_at": "2020-09-23 12:37:11",
+    "url_path": "/factcheck/2020/03/10/هل-رفع-السيسي-أعداد-المصابين-بكورونا-في-مصر-طمعا-بمليارات-البنك-الدولي"
+}

@@ -1,0 +1,88 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 4144,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "ولم يعترض الأطباء مظاهرات جميع الولايات التي تطالب بكسر الحجر الصحيّ (Getty)",
+    "category": "Health",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">الأطباء بأميركا يتصدّون لمظاهرات إلغاء الحجر الصحيّ في الولايات الأميركيّة بعد تفشي وباء فايروس كورونا المستجد (كوفيد_19_).</p>\r\n",
+    "country": "US",
+    "created_at": "2020-04-25 17:27:07",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ea448bbdb29165a7c2f3f14",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الخبر والصور، ووجد أنّها صحيحة، لكنّها حدثت في مظاهرةٍ واحدةٍ فقط بولاية كولورادو، ولم يحدث الشيء ذاته في مظاهرات جميع الولايات التي طالبت بكسر الحجر الصحيّ والعودة للحياة الطبيعيّة حتى تاريخ كتابة هذا التحقق من الخبر.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">والمظاهرة الوحيدة التي اعترضها الأطباء تم تنظيمها بتاريخ 19 ابريل/ نيسان الجاري،&nbsp;وذلك حرصاُ منهم على تقليل عدد الإصابات بفايروس كورونا المستجد والتي وصلت&nbsp;في الولايات المتحدة الأميركية إلى نصف مليون إصابة وتخطت الوفيات ال50 ألفاً. وفي الصورة الأشهر لهذا التصدي امرأة تخرج نصفها العلويّ من سيارة جيب فضيّة وتوجه كلاماً لأحد الأطباء الذي يقف أمامها&nbsp;معترضاً على تحركات إرجاع رتم الحياة الطبيعيّة وكسر الحجر الصحي، وبحسب موقع سي إن إن فإن المرأة صرخت بالطبيب &quot; هنا أرض الحريّة، اذهب إلى الصين إذا كنت تريد الشيوعيّة&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_pouzpifkb.jpg\" style=\"height:420px; width:605px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_ino1l21qd.jpg\" style=\"height:375px; width:605px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت مواقعٌ إخباريّة وبعض صفحات مواقع التواصل الاجتماعيّ خبراً مفاده أنّ الكوادر الطبيّة تصدّت لمظاهرات إلغاء الحجر الصحيّ في أميركا والتي تطالب بالعودة إلى العمل، وإنهاء إغلاق المرافق العامّة؛ وذلك بسبب تدهور الظروف الاقتصاديّة وعدم قدرة الأفراد على دفع مستحقات الفواتير.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وكانت المظاهرات التي تتساوق مع دعوات الرئيس الأميركيّ دونالد ترامب للعودة إلى الحياة الطبيعيّة قد تكرّرت في عدد من الولايات الأميركيّة من ضمنها ولايات كولورادو وتكساس وفيرجينا ومينيسوتا وميتشجان.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ss0zlg8jb.jpg\" style=\"height:531px; width:605px\" /></span></p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_pqdn7bovt.jpg\" style=\"height:181px; width:605px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_r5esnltol.jpg\" style=\"height:523px; width:605px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 351,
+        "left": 3.0769500732421875,
+        "path": "articles/1587824826GettyImages-1210725344.jpg",
+        "top": 8.42529296875,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1587824826GettyImages-1210725344.jpg",
+        "width": 624
+    },
+    "post_date": "2020-04-25T14:50:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=267919580906879&id=100030665171577",
+            "name": "أبو موده العراقي",
+            "path": "published/0_1587824826_العراقي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ajmubasher/videos/365052011066587",
+            "name": "الجزيرة مباشر",
+            "path": "published/1_1587824826_الجزيرة مباشر.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/saliimyaghi/posts/3088678407854943",
+            "name": "Saleem Yaghi",
+            "path": "published/2_1587824826_saleem.jpg"
+        }
+    ],
+    "result": "commotion",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://abcnews.go.com/US/disagree-medical-professionals-counter-coronavirus-lockdown-protesters/story?id=70293830",
+            "name": "ABC news",
+            "path": "sources/0_1587824826_اي بي سي.JPG"
+        },
+        {
+            "link": "https://edition.cnn.com/2020/04/20/us/coronavirus-colorado-health-care-trnd/index.html?fbclid=IwAR1TiOS07qEYd6XxVfw-w2zA34dHZ1nw65G1O16Lg_FWLGKWsVI4aU-U5gE",
+            "name": "CNN",
+            "path": "sources/1_1587824826_DDD.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل تصدّى الأطباء بأميركا لمظاهرات إلغاء الحجر؟",
+    "updated_at": "2020-09-25 17:56:54",
+    "url_path": "/factcheck/2020/04/25/هل-تصدى-الأطباء-بأميركا-لمظاهرات-إلغاء-الحجر"
+}

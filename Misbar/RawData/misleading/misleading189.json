@@ -1,0 +1,153 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 196,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "أعلنت الهيئة السويسرية للمنتجات الطبية أنها ستدرس جميع لقاحات كوفيد-19 (Getty)",
+    "category": "Health",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">سويسرا ترفض لقاح فايروس كورونا المستجد! وتقول إن التلقيح المبكّر ليس حلاً، وإن صحة مواطنيها هي الأولوية. دولة تنتصر لمواطنيها.</p>\r\n",
+    "country": "CH",
+    "created_at": "2020-12-15 18:32:03",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 4,
+    "feedback_pos": 2,
+    "id": "5fd8d6f3d130a8783316ad44",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;<a href=\"https://misbar.com/\" style=\"text-decoration:none\" target=\"_blank\"><u>مسبار</u></a>&quot; من الخبر المتداول ووجد أنه مضلل. إذ <a href=\"https://www.swissmedic.ch/swissmedic/en/home/news/coronavirus-covid-19/zl_impfungen_keine_loesung_ch.html\" style=\"text-decoration:none\" target=\"_blank\"><u>أعلنت</u></a> الهيئة السويسرية للمنتجات الطبية أنها ستدرس بتأنٍّ جميع اللقاحات المطروحة لكوفيد-19، وأنه من غير المصرّح قانوناً للهيئة إجازة أي دواء تحت عذر حالة الطوارئ.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">تداول ناشرو المضلل رابطاً لإعلان صادر عن الهيئة بتاريخ 11 ديسمبر/كانون الأول لكن يبدو أن الترجمة كانت خاطئة أو مضللة، فلم تعلن الهيئة عن رفض لقاح شركة فايزر أو أي لقاح آخر.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">يُذكر أن لقاح شركة فايزر حاز على موافقة السلطات في <a href=\"https://economictimes.indiatimes.com/news/international/business/uk-starts-mass-coronavirus-vaccination-programme/articleshow/79620085.cms?from=mdr\" style=\"text-decoration:none\" target=\"_blank\"><u>المملكة المتحدة</u></a>، كما يمرّ في المراحل الأخيرة لدى هيئة الدواء والغذاء الأميركية قبل الموافقة على توزيعه للناس.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_ear3e5mgj.jpg\" style=\"height:342px; width:547px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "لقاح كورونا",
+        "لقاح فايزر",
+        "كوفيد-19",
+        "سويسرا"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تتناقل صفحات وحسابات على مواقع التواصل الاجتماعي، حديثاً، خبراً مفاده قرار السلطات السويسرية رفض أحد لقاحات كوفيد-19.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_1wrydgdjf.jpg\" style=\"height:691px; width:532px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_sx3nuhb9m.jpg\" style=\"height:342px; width:528px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 355,
+        "left": 2.42327880859375,
+        "path": "articles/1608046322GettyImages-1291381323.jpg",
+        "top": 15.587890625,
+        "totalHeight": 423,
+        "totalWidth": 636,
+        "watermark_path": "articles/watermark-1608046322GettyImages-1291381323.jpg",
+        "width": 631
+    },
+    "post_date": "2020-12-15T17:26:00.000+03:00",
+    "published": [
+        {
+            "id": "5fd8f8758463e741cc7a2954",
+            "link": "https://twitter.com/Ahmed_AlKhamees/status/1337404837521133569",
+            "name": "احمد الخميس",
+            "origin": "twitter",
+            "path": "sources/f26e3ad9edaa5dee5e5cf362ddb843c37fea3849.jpg"
+        },
+        {
+            "id": "5fd8f875871dd709e739ebe6",
+            "link": "https://twitter.com/QATAR_RD/status/1338099697295253504",
+            "name": "الرادع القطري",
+            "origin": "twitter",
+            "path": "sources/af46f3a5c95a0bb5e4fae91c5c4abbd419a24bae.jpg"
+        },
+        {
+            "id": "5fd8f87589129239591ad744",
+            "link": "https://twitter.com/AHMEDGUERRIDA/status/1338390043883409408",
+            "name": "ڤر يدة🌴حمد",
+            "origin": "twitter",
+            "path": "sources/58afdb5e991ba59a16ff172e3ef736f02a2b05ac.jpg"
+        },
+        {
+            "id": "5fd8f87500705264f732c304",
+            "link": "https://twitter.com/Shahen_13/status/1338453582337757191",
+            "name": "القادم أجمل",
+            "origin": "twitter",
+            "path": "sources/48e847e8dcf4427247bd31be43f79c281c1996b8.jpg"
+        },
+        {
+            "id": "5fd8f876737d2b33454f049c",
+            "link": "https://twitter.com/jxj_lp/status/1338477110588022785",
+            "name": ".المتوكل على الله ابا عبدالله",
+            "origin": "twitter",
+            "path": "sources/f018977eac10f9dff8eddf60bdf7a1b8ac8caf1d.jpg"
+        },
+        {
+            "id": "5fd8f876789cef285072beb4",
+            "link": "https://twitter.com/abn_asir/status/1337460679981273089",
+            "name": "مسحل الميزاني",
+            "origin": "twitter",
+            "path": "sources/7f454e848373abf76e74e2b4e907a1c312726d53.jpg"
+        },
+        {
+            "id": "5fd8f8761eabbe526d27a064",
+            "link": "https://twitter.com/morad4149/status/1338064528110743563",
+            "name": "M꙲O꙲R꙲A꙲D꙲",
+            "origin": "twitter",
+            "path": "sources/44a14b4cf89e46ff74a7e5bdffaf7c12e65f2a99.jpg"
+        },
+        {
+            "id": "5fd8f8774f8a9861a740fbe4",
+            "link": "https://twitter.com/somar55399/status/1337828965927571457",
+            "name": "- سامي بيراقدار.",
+            "origin": "twitter",
+            "path": "sources/6802591ca88854a4913142fa3fe43881030e9d1c.jpg"
+        },
+        {
+            "id": "5fd8f87730a1935ac873fc94",
+            "link": "https://twitter.com/lonely1933/status/1337634829253439488",
+            "name": "Hussein",
+            "origin": "twitter",
+            "path": "sources/0313520d7737e4b84319bf064ffa10d43be8d22d.jpg"
+        },
+        {
+            "id": "5fd8f8774c07c41bd21a00e4",
+            "link": "https://twitter.com/Hanayeen0/status/1337546426260320256",
+            "name": ",ًحناين💕",
+            "origin": "twitter",
+            "path": "sources/38fde739609ddce888e772d6a9d0b552fd958400.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fd8d6f20e54310e8f510454",
+            "link": "https://www.swissmedic.ch/swissmedic/en/home/news/coronavirus-covid-19/zl_impfungen_keine_loesung_ch.html",
+            "name": "Swissmedic",
+            "origin": "",
+            "path": "sources/901da2afc0a354a42f00560a50acb1294b32db82.jpg"
+        },
+        {
+            "id": "5fd8d6f2aa324711f9425c44",
+            "link": "https://economictimes.indiatimes.com/news/international/business/uk-starts-mass-coronavirus-vaccination-programme/articleshow/79620085.cms?from=mdr",
+            "name": "The Economic Times",
+            "origin": "",
+            "path": "sources/c0dec08125bf0eb74c5f62e32a8a71466135b454.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "لقاحات كورونا ما تزال قيد الدراسة في سويسرا ولم يُرفَض لقاح فايزر.",
+    "title": "لقاحات كورونا ما تزال قيد الدراسة في سويسرا",
+    "updated_at": "2020-12-15 20:55:03",
+    "url_path": "/factcheck/2020/12/15/لقاحات-كورونا-ما-تزال-قيد-الدراسة-في-سويسرا",
+    "was_notification_pushed": "true"
+}

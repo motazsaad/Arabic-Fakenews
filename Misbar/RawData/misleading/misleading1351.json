@@ -1,0 +1,97 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1529,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الفيديو منشور على يوتيوب منذ عام 2015 (Getty)",
+    "category": "Politics",
+    "claim": "<p>فيديو يُظهر استهداف الجيش المصري للإرهابيين في سيناء.</p>\r\n",
+    "country": "EG",
+    "created_at": "2020-02-26 12:22:25",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e5638d1d4a22942380eedf3",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من مقطع الفيديو، وتأكد من أنه غير صحيح، فهو لا يصور استهداف مسلحين في سيناء. إذ وجده &quot;مسبار&quot; منشوراً على موقع يوتيوب منذ عام 2015، ويُظهر تعرّض معارض للنظام السوري في محافظة حماة أثناء تصوير المقطع، لقصف مدفعي مصدره قوات النظام.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_41x7nfgft.jpg\" style=\"height:475px; width:586px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_969rvi04x.jpg\" style=\"height:570px; width:473px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات وحسابات على منصة فيسبوك، مقطع فيديو ادّعت أنّه يُظهر تعرّض مسلحين في سيناء لقصف الجيش المصري. وصاحب الفيديو منشورٌ جاء فيه &quot;من كاميرا الإرهاب.. لم يكملوا تصوير الفيديو ووجدوا أنفسهم بين نيران الجيش المصري.. سيكملون التصوير في جهنم بإذن الله.. مصر مقبرة الغزاة&quot;.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"313\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fthiaa.misr%2Fvideos%2F2586240848149233%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"313\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fyagami.shiyro.14%2Fvideos%2F127589628767551%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 362,
+        "left": 4.4041748046875,
+        "path": "articles/1582708944GettyImages-1006705338.jpg",
+        "top": 23,
+        "totalHeight": 423,
+        "totalWidth": 650,
+        "width": 643
+    },
+    "post_date": "2020-02-26T12:08:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/watch/?v=2586240848149233&external_log_id=cd243a5dfa40d85da7c7af7450551cf0&q=%D9%85%D9%86%20%D9%83%D8%A7%D9%85%D9%8A%D8%B1%D8%A7%20%D8%A7%D9%84%D8%A5%D8%B1%D9%87%D8%A7%D8%A8",
+            "name": "تحيا مصر",
+            "path": "published/0_1582708944_تحيا مصر-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/yagami.shiyro.14/videos/127589628767551/",
+            "name": "Yagami Shiyro",
+            "path": "published/1_1582708944_Facebook_logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=497040711204676",
+            "name": "Egypt’s Revolution",
+            "path": "published/2_1582708944_Egypt’s Revolution-logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=184874456110621",
+            "name": "أخبارك الآن",
+            "path": "published/3_1582708944_أخبارك الآن-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=657934634953381&id=100022105519785",
+            "name": "نوح عبد العاطي السعيطي",
+            "path": "published/4_1582708944_نوح عبد العاطي السعيطي-لوغو.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=ZNI3PvQYIFc&feature=emb_logo",
+            "name": "الفيديو الأصلي/ مصطفى أبو عرب",
+            "path": "sources/0_1582708944_الفيديو الأصلي- مصطفى أبو عرب-لوغو.jpg"
+        },
+        {
+            "link": "https://www.independent.co.uk/news/world/middle-east/islamist-rebel-fighter-dies-in-the-middle-of-a-video-after-a-bomb-strike-a6752546.html",
+            "name": "The Independent",
+            "path": "sources/1_1582708944_The Independent-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "حقيقة فيديو استهداف الجيش المصري مقاتلاً في سيناء",
+    "updated_at": "2020-09-25 09:45:20",
+    "url_path": "/factcheck/2020/02/26/حقيقة-فيديو-استهداف-الجيش-المصري-مقاتلا-في-سيناء"
+}

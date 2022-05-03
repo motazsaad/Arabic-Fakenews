@@ -1,0 +1,90 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1061,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "قناة على موقع يوتيوب اعتاد صاحبها أن يحاكي حوادث الطائرات عبرتكنولوجيا ثلاثية الأبعاد (Facebook)",
+    "category": "Technology",
+    "claim": "<p>مقطع فيديو لطائرة توفي قائدها وأصيب مساعده بالانهيار، فكادت أن تسقط لولا مضيفة في الطائرة أنقذت حياة الركاب.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-09-13 19:01:31",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 2,
+    "id": "5f5e425bfc0928402d2a3dc3",
+    "investigation": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقّق &quot;مسبار&quot; من المعلومات الواردة ولم يجد لها أي أساس من الصحة في الأخبار المتداولة عالمياً، أو داخل الولايات المتحدة الأميركية، أما مقطع الفيديو فقد وجد مقطعاً مشابهاً له ولنوع الطائرة ضمن مقاطع نشرتها&nbsp;قناة على يوتيوب تقوم بنشر محاكاة لعدد من حوادث الطائرات المتوقعة، وذلك عبر تكنولوجيا متقدمة ثلاثية الأبعاد، وقد تم نشره في الرابع من سبتمبر/أيلول&nbsp;الجاري </span><span dir=\"RTL\" lang=\"AR-JO\">تحت عنوان &quot;قائد طائرة بوينغ 777 يعاني من نوبة ذعر&quot;.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_2nz8achja.jpg\" style=\"height:396px; width:602px\" /></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/j3SSxomQt-4\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-JO\">ت</span><span dir=\"RTL\">داولت حسابات وصفحات على مواقع التواصل الاجتماعي مقطع فيديو قالت أنه يجسد أزمة مرت بها إحدى الطائرات حين توفي قائدها، وتناقلته الحسابات منذ الرابع&nbsp; من سبتمبر/أيلول الجاري، معلقة على المقطع بنص موحد &quot;</span><span dir=\"RTL\">فجأة .كابتن الطائرة توفي، فأصيب مساعد الكابتن بانهيار عصبي! وبتوجيه من برج المراقبة&nbsp;تولت إحدى&nbsp;المضيفات مهمة الهبوط!، وطمّأنت ركاب الطائرة، ثم هبطت الطائرة&nbsp;بنجاح بمطار ميامي، فجر يوم أمس&quot;</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_vtxhc0ntm.jpg\" style=\"height:619px; width:602px\" /></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"428\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F635748650387123%2Fvideos%2F315350453057139%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 338,
+        "left": 80.20001220703125,
+        "path": "articles/1600012890Capture.JPG",
+        "top": 42.300048828125,
+        "totalHeight": 423,
+        "totalWidth": 762,
+        "watermark_path": "articles/watermark-1600012890Capture.JPG",
+        "width": 602
+    },
+    "post_date": "2020-09-13T17:21:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/watch/?ref=search&v=315350453057139&external_log_id=aef3e5a4-dc10-4f7e-b00b-d4a8477fba8c&q=%D9%81%D8%AC%D8%A3%D8%A9%20%D8%AA%D9%88%D9%81%D9%8A%20%D9%83%D8%A7%D8%A8%D8%AA%D9%86%20%D8%A7%D9%84%D8%B7%D9%8A%D8%A7%D8%B1%D8%A9",
+            "name": "جمهورية العراق",
+            "path": "published/0_1600014240_قققف.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/watch/?ref=search&v=3244049898982554&external_log_id=aef3e5a4-dc10-4f7e-b00b-d4a8477fba8c&q=%D9%81%D8%AC%D8%A3%D8%A9%20%D8%AA%D9%88%D9%81%D9%8A%20%D9%83%D8%A7%D8%A8%D8%AA%D9%86%20%D8%A7%D9%84%D8%B7%D9%8A%D8%A7%D8%B1%D8%A9",
+            "name": "السماوة",
+            "path": "published/1_1600014240_قققف.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=202038457933571&id=100043822535567",
+            "name": "حسين العاقب",
+            "path": "published/2_1600014240_قققف.JPG"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.youtube.com/watch?v=j3SSxomQt-4",
+            "name": "Bopbibun",
+            "path": "sources/0_1600012890_قققق.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذا الحادث لطائرة كادت أن تسقط بعد أن توفي قائدها.. مجرد محاكاة",
+    "updated_at": "2020-09-25 17:48:11",
+    "url_path": "/factcheck/2020/09/13/هذا-الحادث-لطائرة-كادت-أن-تسقط-بعد-أن-توفي-قائدها-مجرد-محاكاة",
+    "was_notification_pushed": true
+}

@@ -1,0 +1,141 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 142,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "انتشر الفيديو في سبتمبر/أيلول الفائت (تويتر)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">مقطع فيديو لانفجار خزان نبيذ في مدينة تيموشنت الجزائرية</p>\r\n",
+    "country": "ES",
+    "created_at": "2020-10-11 17:43:06",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 7,
+    "id": "5f8319fa20fcc33abe709edb",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقق &quot;مسبار&quot; من مقطع الفيديو المتداول وتبين أنه مضلل، إذ أنه ليس في مدينة عين تيموشنت الجزائرية بل في مدينة فيلاماليا الإسبانية،&nbsp;يوم 25 سبتمبر/أيلول الفائت.</p>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"ltr\">SUCESOS | Revent&oacute;n de un dep&oacute;sito de vino de unos 50.000 litros en Bodegas VITIVINOS, de Villamalea <a href=\"https://t.co/lU5pIzZAjU\">pic.twitter.com/lU5pIzZAjU</a></p>\r\n&mdash; Radio Albacete (@RadioAlbacete) <a href=\"https://twitter.com/RadioAlbacete/status/1309430714627223553?ref_src=twsrc%5Etfw\">September 25, 2020</a></blockquote>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">وتدفق حوالي&nbsp;50 ألف لتر من المشروب الكحولي من مخزن معدني متضرر وغمر مساحة كبيرة من ساحة المصنع، وفق ما أوضحه رئيس مصنع النبيذ <a href=\"https://cadenaser.com/emisora/2020/09/28/radio_albacete/1601298557_407837.html\" style=\"color:blue; text-decoration:underline\">خوان ميغال سبريان</a>، لوسائل إعلام إسبانية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"0.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_vo66f81ix.jpg\" style=\"height:381px; width:605px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_grrvlnimu.jpg\" style=\"height:408px; width:605px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات إخبارية وحسابات على مواقع التواصل الاجتماعي، حديثاً، مقطع فيديو لانفجار خزان نبيذ، وادعت أنه في مدينة تيموشنت الجزائرية.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FMomohmaryoul16%2Fvideos%2F1099255900522714%2F&amp;show_text=0&amp;width=261\" style=\"border:none;overflow:hidden\" width=\"261\"></iframe><br />\r\n<br />\r\n<iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F2015360885364670%2Fvideos%2F810238639794307%2F&amp;show_text=0&amp;width=261\" style=\"border:none;overflow:hidden\" width=\"261\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 337,
+        "left": 6.10528564453125,
+        "path": "articles/1602427385los-hechos-sucedieron-en-espana_55_0_1045_650.jpg",
+        "top": 14,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-1602427385los-hechos-sucedieron-en-espana_55_0_1045_650.jpg",
+        "width": 599
+    },
+    "post_date": "2020-10-11T15:31:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.youtube.com/watch?v=mNWZe1TSzHw&feature=emb_title",
+            "name": "Crompos Tv",
+            "path": "published/0_1602427384_b9a4106558670da4ec1c0749f414d1e693436e6c.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.youtube.com/watch?v=M8IXW5poncg",
+            "name": "منوعات حول العالم",
+            "path": "published/1_1602427384_b9a4106558670da4ec1c0749f414d1e693436e6c.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/DZEBH/videos/260142708638332",
+            "name": "DZ RBH",
+            "path": "published/2_1602427384_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/108189137264834/videos/645009332865044",
+            "name": "خبز وماء والراس فسي السماء",
+            "path": "published/3_1602427385_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/asEgjIyThXkBmxC/status/1314282532834287619",
+            "name": "كنوك. knock",
+            "origin": "twitter",
+            "path": "published/4_1602427385_d0e9145f6942eb51aee225fcff27c306eff0bfe8.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/khenachlanvx/videos/375421273493552/",
+            "name": "IL DE 40",
+            "path": "published/5_1602427385_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/2015360885364670/videos/810238639794307",
+            "name": "Ghir jdid 2019",
+            "path": "published/6_1602427385_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/Momohmaryoul16/videos/1099255900522714",
+            "name": "Mũsïc Ràí Ghïr Jâdĩd Tamryéél Et séntîmĕntäl",
+            "path": "published/7_1602427385_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.milenio.com/virales/espana-revienta-deposito-vino-desperdician-miles-litros",
+            "name": "milenio",
+            "path": "sources/0_1602427385_e604e3a2411f4f64364044f58c7feb3e6255a15c.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://cadenaser.com/emisora/2020/09/28/radio_albacete/1601298557_407837.html",
+            "name": "Cadena SER",
+            "path": "sources/1_1602427385_75eaeade9d9739c183201f5780be3441ec5c8372.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://arabic.rt.com/world/1157483-%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A7-%D8%A7%D9%84%D9%86%D8%A8%D9%8A%D8%B0-%D8%A7%D9%84%D8%A3%D8%AD%D9%85%D8%B1-%D9%8A%D8%BA%D9%85%D8%B1-%D9%85%D8%B5%D9%86%D8%B9-%D8%AE%D9%85%D9%88%D8%B1-%D9%81%D9%8A%D8%AF%D9%8A%D9%88/",
+            "name": "RT Arabic",
+            "path": "sources/2_1602427385_ad91e5506caf344d4211010006faf4f423eaafb9.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/RadioAlbacete/status/1309430714627223553",
+            "name": "Radio Albacete",
+            "origin": "twitter",
+            "path": "sources/3_1602427385_8c88971892d1c6ac8f87a8faffcf0b110de8c9d3.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "مقطع فيديو انفجار خزان نبيذ في إسبانيا وليس في الجزائر",
+    "updated_at": "2020-10-11 17:54:08",
+    "url_path": "/factcheck/2020/10/11/مقطع-فيديو-انفجار-خزان-نبيذ-في-إسبانيا-وليس-في-الجزائر",
+    "was_notification_pushed": "true"
+}

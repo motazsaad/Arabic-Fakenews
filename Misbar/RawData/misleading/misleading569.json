@@ -1,0 +1,115 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 200,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "خلال القرن التاسع عشر، حكم القانون البريطاني بالسجن وغرامات مالية (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\"><br />\r\nفي القرن التاسع عشر، اعتبر القانون البريطاني الانتحار جريمة قتل، وحكم على كل شخص حاول الانتحار بالإعدام شنقاً<span dir=\"LTR\">.</span></p>\r\n",
+    "country": "GB",
+    "created_at": "2020-09-29 20:20:11",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 3,
+    "id": "5f736ccb8883fe13310da08b",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار من الادعاء وتبين أنه&nbsp;مضلل، إذ جرّم القانون البريطاني الانتحار، لكن لم يحكم&nbsp;بالإعدام شنقاً على كل من نجا من محاولة الانتحار.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">ووجد &quot;مسبار&quot; أن &quot;<a href=\"https://www.bbc.com/news/magazine-14374296\" style=\"color:blue; text-decoration:underline\">القتل الذاتي</a>&quot; أصبح جريمة بموجب القانون العام في إنجلترا في منتصف القرن الثالث عشر، وقبل ذلك بوقت طويل أدانته الكنيسة كخطيئة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">ويُعاقب القانون المقدمين على الانتحار بمصادرة ممتلكاتهم، وبقي&nbsp;هذا الإجراء معمولاً به حتى عام 1822، قبل أن يتم حظره، كما ألغيت مصادرة الممتلكات بسبب الانتحار في عام 1870.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وقال الدكتور رايت، وهو مؤلف مشارك في كتاب تاريخ الانتحار: وجهات نظر دولية حول تدمير الذات في العالم الحديث. إنه &quot;منذ منتصف القرن الثامن عشر إلى منتصف القرن العشرين، بدا التسامح جليًّا في المواقف العامة تجاه الانتحار، وهو ما مثل انعكاساً، لعلمنة المجتمع وظهور مهنة الطب&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وتغيرت <a href=\"https://medium.com/@alexparsons/how-suicide-became-legal-327ae26778f2\" style=\"color:blue; text-decoration:underline\">مواقف القضاة المحلفين</a> تجاه الانتحار بعد أن أعادوا إصدار الأحكام في أواخر القرن الثامن عشر وأوائل القرن التاسع عشر. في المقابل، سادت حالات تغريم أو سجن الأشخاص الذين فشلت محاولات انتحارهم.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وفي عام 1961، ألغى البرلمان تجريم الانتحار في إنجلترا وويلز، ليحول دون معاقبة من نجوا من عمليات الانتحار.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_karfgylpu.jpg\" style=\"height:464px; width:604px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات إخبارية وحسابات على موقعي فيسبوك وتويتر، حديثاً ومنذ عام 2019، خبراً يدّعي أن القانون البريطاني خلال القرن التاسع عشر، كان يعتبر الانتحار جريمة قتل، ويحكم على كل شخص يحاول تنفيذها بالإعدام شنقاً.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"00.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_1uayuui64.jpg\" style=\"height:520px; width:481px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"0.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_g6p87l67f.jpg\" style=\"height:414px; width:603px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"1.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_70vopd5bg.jpg\" style=\"height:410px; width:605px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 292,
+        "left": 7.17059326171875,
+        "path": "articles/1601400011GettyImages-654312488.jpg",
+        "top": 61.064697265625,
+        "totalHeight": 423,
+        "totalWidth": 531,
+        "watermark_path": "articles/watermark-1601400011GettyImages-654312488.jpg",
+        "width": 519
+    },
+    "post_date": "2020-09-29T18:04:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/fcb.MFT/photos/a.1432462750386636/1994979244134981/",
+            "name": "Moroccan fighters troll +18",
+            "path": "published/0_1601400010_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/greatestwd/status/1306186820942692352",
+            "name": "صورة ومعلومة",
+            "path": "published/1_1601400010_cdeb606d2277405729841fe21c5d10e856529971.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/HistoricArab/status/1270016484392292354",
+            "name": "أذينة بن وهب اللات",
+            "path": "published/2_1601400010_cdeb606d2277405729841fe21c5d10e856529971.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/History_890/status/1203782820029747205",
+            "name": "التأريخ",
+            "path": "published/3_1601400011_cdeb606d2277405729841fe21c5d10e856529971.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/1Mohaven/status/1265592411994107911",
+            "name": "كود نمشي",
+            "path": "published/4_1601400011_cdeb606d2277405729841fe21c5d10e856529971.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://medium.com/@alexparsons/how-suicide-became-legal-327ae26778f2",
+            "name": "Medium",
+            "path": "sources/0_1601400011_267639a9c28363de5f0697b1aa6adc842e6c84d7.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.bbc.com/news/magazine-14374296",
+            "name": "BBC News",
+            "path": "sources/1_1601400011_bf8f2cab08094694b6251b4e7c154cb045210542.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://oldoperatingtheatre.com/victorian-attitudes-towards-self-murder/",
+            "name": "The Old Operating Theatre",
+            "path": "sources/2_1601400011_fa6612a9505ddb6ae388982bb3ea87b08dd8b154.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "القانون البريطاني لم يحكم بإعدام من حاول الانتحار في القرن التاسع عشر",
+    "updated_at": "2020-09-29 20:35:15",
+    "url_path": "/factcheck/2020/09/29/القانون-البريطاني-لم-يحكم-بإعدام-من-حاول-الانتحار-في-القرن-التاسع-عشر",
+    "was_notification_pushed": "true"
+}

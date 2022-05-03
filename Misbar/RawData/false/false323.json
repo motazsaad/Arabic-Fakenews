@@ -1,0 +1,88 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 612,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": " يقضي إجازته بصحبة عائلته في المصيف بالساحل الشمالي لمصر (Getty)",
+    "category": "Arts & Culture",
+    "claim": "<p>وفاة الفنان عادل إمام بعد إصابته بفايروس كورونا المستجد &quot;كوفيد19&quot;.</p>\r\n",
+    "country": "EG",
+    "created_at": "2020-08-30 11:30:04",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f4b638c602118070a52e0b2",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الخبر ووجد أنه زائف، ويتكرر كل عام، إذ تنتشر إشاعة وفاته على وسائل التواصل الاجتماعي، لكن سرعان ما يتبين أنها كذب، وهو ما حدث خلال الشهر الجاري لكن الجديد بالأمر هذه المرة أنه تم إحالة سبب وفاته إلى &nbsp;إصابته بفايروس كورونا، وهو ما نفته وسائل وقنوات إعلام مصرية فنية، موضحة أنه يقضي إجازته مع عائلته في الساحل الشمالي، وكانت عائلته نفت في وقت سابق من العام الجاري الإشاعات التي انتشرت حول إصابته بالفايروس.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_bsg84ge4u.jpg\" style=\"height:353px; width:604px\" /><img src=\"https://images-prod.misbar.com/articlebody/investigation_s4z33vq7p.jpg\" style=\"height:458px; width:605px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت حسابات على موقع فيسبوك ومواقع تواصل أخرى، منذ الأسبوع الأول من شهر أغسطس/آب الجاري، خبر وفاة الممثل المصري عادل إمام بعد إصابته بفايروس كورونا المستجد، كما انتشر خبر إصابته بالفايروس في بداية شهر مارس/آذار الفائت.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_fqlsg7eo4.jpg\" style=\"height:361px; width:328px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_0lqwrvbco.jpg\" style=\"height:427px; width:336px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 353,
+        "left": 2.5555419921875,
+        "path": "articles/1598776204GettyImages-460040036.jpg",
+        "top": 21.6015625,
+        "totalHeight": 423,
+        "totalWidth": 638,
+        "watermark_path": "articles/watermark-1598776204GettyImages-460040036.jpg",
+        "width": 626
+    },
+    "post_date": "2020-08-30T09:55:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/groups/163575994492058/?post_id=933595100823473",
+            "name": "أيمن عزت",
+            "path": "published/0_1598776203_0_1596888660_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/163575994492058/?post_id=932700354246281",
+            "name": "Nada Elansry",
+            "path": "published/1_1598776204_0_1596888660_facebook.jpg"
+        },
+        {
+            "link": "https://www.pinterest.fr/j20m20e/%D8%A7%D8%B5%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D8%B2%D8%B9%D9%8A%D9%85-%D8%B9%D8%A7%D8%AF%D9%84-%D8%A7%D9%85%D8%A7%D9%85-%D8%A8%D9%81%D9%8A%D8%B1%D9%88%D8%B3-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7%D8%A7%D8%B9%D8%B1%D9%81-%D8%A7%D9%84%D8%AD%D9%82%D9%8A%D9%82%D8%A9/",
+            "name": "j20m20e",
+            "path": "published/2_1598776588_لالاا.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://arabic.sputniknews.com/mosaic/202008291046393378-%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D9%88%D9%81%D8%A7%D8%A9-%D8%A7%D9%84%D9%81%D9%86%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A-%D8%B9%D8%A7%D8%AF%D9%84-%D8%A5%D9%85%D8%A7%D9%85/",
+            "name": "sputniknews",
+            "path": "sources/0_1598776204_يسث.JPG"
+        },
+        {
+            "link": "https://www.okaz.com.sa/english/na/2039050",
+            "name": "عكاظ",
+            "path": "sources/1_1598776204_صص.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الفنان عادل إمام بصحة جيدة، ولم يصب بفايروس كورونا",
+    "updated_at": "2020-09-25 09:47:04",
+    "url_path": "/factcheck/2020/08/30/الفنان-عادل-إمام-بصحة-جيدة-ولم-يصب-بفايروس-كورونا"
+}

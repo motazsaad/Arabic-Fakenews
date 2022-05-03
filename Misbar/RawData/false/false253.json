@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 147,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "نفى المكتب الإعلامي في رئاسة الجمهورية الخبر (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">إصابة الرئيس اللبناني ميشال عون بفايروس كورونا.</span></p>\r\n",
+    "country": "LB",
+    "created_at": "2020-10-02 12:17:03",
+    "created_by": "5f39b5a51dd585076701cb94",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 0,
+    "id": "5f76f00ff69d3f757a2c8939",
+    "investigation": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">نفى&nbsp;<a href=\"http://www.presidency.gov.lb/Arabic/News/Pages/Details.aspx?nid=26200\" style=\"color:#0563c1; text-decoration:underline\">المكتب الإعلامي</a> في رئاسة الجمهورية اللبنانية الخبر المتداول عن إصابة رئيس الجمهورية ميشال عون بفايروس كورونا. وقال المكتب إن هذه الشائعات لا أساس لها من الصحة وأن عون يواصل نشاطه كالمعتاد.</span></p>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"rtl\">مكتب الاعلام في رئاسة الجمهورية: الشائعات التي يروجها البعض عن إصابة الرئيس عون بالكورونا لا اساس لها من الصحة، والرئيس بخير ويواصل نشاطه واتصالاته كالمعتاد.</p>\r\n&mdash; Lebanese Presidency (@LBpresidency) <a href=\"https://twitter.com/LBpresidency/status/1311698308503687170?ref_src=twsrc%5Etfw\">October 1, 2020</a></blockquote>\r\n\r\n<blockquote class=\"twitter-tweet\">&nbsp;</blockquote>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">اقرأ/ي أيضاً</span></p>\r\n\r\n<p style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/09/05/%D8%B5%D9%88%D8%B1-%D9%82%D8%AF%D9%8A%D9%85%D8%A9-%D8%AA%D8%AC%D9%85%D8%B9-%D9%85%D8%A7%D9%83%D8%B1%D9%88%D9%86-%D8%A8%D8%AC%D8%A8%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7%D8%B3%D9%8A%D9%84\" style=\"color:#0563c1; text-decoration:underline\">صور قديمة تجمع ماكرون بجبران باسيل</a></p>\r\n\r\n<p style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/09/26/%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9-%D9%84%D9%85%D8%B1%D9%83%D8%B2-%D8%B7%D8%A8%D9%8A-%D9%81%D9%8A-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%88%D9%84%D9%8A%D8%B3-%D9%82%D8%B5%D8%B1-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D9%84%D9%87-%D8%A8%D8%B1%D9%8A\" style=\"color:#0563c1; text-decoration:underline\">الصورة لمركز طبي في لبنان وليس قصر عبد الله بري</a></p>\r\n</blockquote>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">تداولت حسابات وصفحات على مواقع التواصل الاجتماعي، حديثاً، خبرأ مفاده إصابة الرئيس اللبناني ميشال عون بفايروس كورونا المستجد، بعد خضوعه لفحص جاءت نتيجته إيجابية.</p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_yxx0rchu0.jpg\" style=\"height:178px; width:548px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_9g8lqc2yq.jpg\" style=\"height:194px; width:551px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1601630223GettyImages-1222760289.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1601630223GettyImages-1222760289.jpg",
+        "width": 752
+    },
+    "post_date": "2020-10-02T12:14:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=174204374184943&id=107087920896589&__xts__%5B0%5D=68.ARBEDZxV3D5jw4qZMCvUc8XyLDSjCYXA49oPx7Xx98ewZF7_A1L_Ry32sbKe4ibDE309ADsQ2h8x9jSjQJOSM6_FuabSI9rt5yw2IIR_0WIpsKWalm_x49WFdwmLBSkO8AjeMYhsHBf79v04xtjYIhzBFUoCek1tMLUHebvA4BRFjR4LqHxlzRnuvcTuAiJYze2oFS1q1LvTug-d5Tx4uQyy1XL0Yuq2FvZqSwNcBWtevg08lO1XLciFJgrisajfnV2was2vr62PJmczNgj7yDKSs8WFL4DvyTega0gGotZf1rhHajd4NtXaEnmJFaSQcC4XbegivbUdFb9Ah3U&__tn__=-R",
+            "name": "المعركة التركية في ادلب",
+            "path": "published/0_1601630223_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=185785136325728&id=111569957080580&__xts__%5B0%5D=68.ARC73XoBnqFqa_-80uT31IYuXyVeFBsp9QNMFKzYiUC2Jw6kimMVilvZXBMvX06BVo8Sc0vvEcmM1V6RE8IS_R8n6V_9S0kfxOqV8BHCOmuSxzSf6ynlAFoV6600Fzg9eOVK6l77kWmKi5lGpbs2Lh4KtJns7vv5Qu3YnZR_Qn7m5laO5Hy4uzuiEg2Yh7WXVGc6OUa5M39ikk7mk0-zkuoe5CSpo3lz_oUbmtEqXp9u1qGsth_4sOsP_uhnHaxtG-niQ6NqN_bc6Kbrs53WDXBSYykkgf3Uzd7FRW8M4jlpjC2eWIVz2TQkT1-IIuwAN-M8Hn9qxuljc28s3W4&__tn__=-R",
+            "name": "اخبار ادلب وريفها",
+            "path": "published/1_1601630390_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "http://المعركة التركية في ادلب",
+            "name": "المعركة التركية في ادلب",
+            "path": "published/2_1601630390_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=338012964292209&id=106782744081900&__xts__%5B0%5D=68.ARD4xpYeFBTHvvlJCvMSOMSC9ywxfZegA_npceI_OVh5LUuqeMWbzR6EvGKgpdtvrn6ftXkIU8K79BOMM8znLm5VzwMneEJqGj3drTAcDuN2CeZXvsRLdVqrFXz1_HMt2B8RZrPJzV5HQHIHu8-5GQgkDlUNleqxH6dRrlDoT87N0IKLse9v5oW19G9DY9-00Bk7wtVJmZgxNUYk9qzlhwLX80eribfjsu3QlNdCQK0ni-fAfN-V7vcFKAwZdWB5wxHPb0uWSG4F8yaIe-sEhPXud9r2qX7PlfdZK_n_55LcMuTf40QJRvgCj9aRcCSRAMEJJhRSRkBUTvbRw9s&__tn__=-R",
+            "name": "عفرين نيوز",
+            "path": "published/3_1601630390_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=371060070937675&id=100041010547174&__xts__%5B0%5D=68.ARC6-AJtxCMCJ1Gnerj8BOWYDZV-T2kPGO5759_TcfzYTS8MdaiOHtbnxGaSsS-vtMgc8ukPBH7OVYdMnsfuLZft59ZOk9K6LAuYOYA5ITqToHXtptXGwtDzlH-EAuyQqo0qqTwEnB-V2CT-BdL6WD7Cvez8ysc-x3Kx2JSkdus2BFPMAr6LGgdb_Lu_qsYerJ7FSYdUUfcUKFuIuc-jNjmBHrnUGqbCAZIcqt5AuR3MRJHfYwiqMG6HbplRss9TN4U-9IlUBlOs0zuy2tmIaHTiJwa3AeNIhZkzdMPZG4Nj4-gdrEP4grv_GDvKkdg&__tn__=-R",
+            "name": "ابوشهاب مسكنة",
+            "path": "published/4_1601630391_facebook.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "http://www.presidency.gov.lb/Arabic/News/Pages/Details.aspx?nid=26200",
+            "name": "رئاسة الجمهورية اللبنانية",
+            "path": "sources/0_1601630223_7687281ef2c7c07639664c12c10fbc615aef3062.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "خبر إصابة الرئيس اللبناني بكورونا غير صحيح",
+    "updated_at": "2020-10-02 12:34:58",
+    "url_path": "/factcheck/2020/10/02/خبر-إصابة-الرئيس-اللبناني-بكورونا-غير-صحيح",
+    "was_notification_pushed": "true"
+}

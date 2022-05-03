@@ -1,0 +1,132 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 382,
+    "author": {
+        "fullname": "فاروق حركات",
+        "id": "5fb25f688c93e80ebf056d83",
+        "photo": {
+            "name": "1605525351_thumbnail_2.jpg",
+            "path": "authors/1605525351_thumbnail_2.jpg"
+        }
+    },
+    "caption": "الصورة انتشرت عام 2017 في جامعة طنطا المصرية (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">صورة لخطوبة طالب وطالبة أمام العلن في جامعة تيزي وزو الجزائرية، للمرة الثانية في ظرف أسبوع.</p>\r\n",
+    "country": "DZ",
+    "created_at": "2021-01-06 20:13:39",
+    "created_by": "5f39b6aa1dd585076701cb95",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 29,
+    "feedback_pos": 28,
+    "id": "5ff5efc3b0eca31a3420bae7",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقق &quot;<a href=\"https://misbar.com/factcheck/2020/11/19/%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%A7%D9%84%D8%AD%D8%B1%D8%A8%D8%A7%D8%A1-%D8%A7%D9%84%D8%AA%D9%8A-%D8%AA%D8%BA%D9%8A%D8%B1-%D9%84%D9%88%D9%86%D9%87%D8%A7-%D9%85%D8%B9%D8%AF%D9%84-%D8%B1%D9%82%D9%85%D9%8A%D8%A7\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">مسبار</a>&quot; من الادّعاء المتداول ووجد أنّه مضلّل، والصورة قديمة وليست من جامعة تيزي وزو بالجزائر، إنّما التُقطت في جامعة طنطا في مصر عام 2017، كما لم يتسنّ ل&quot;مسبار&quot; التحقق إذا ما حدثت خطوبة في جامعة تيزي وزو من الأصل.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_1ub3s11cx.jpg\" style=\"height:481px; width:605px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">اقرأ/ي أيضاً:</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/12/03/%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9-%D9%84%D9%8A%D8%B3%D8%AA-%D9%85%D9%86-%D8%AD%D9%81%D9%84-%D8%B2%D9%81%D8%A7%D9%81-%D8%A3%D8%B7%D9%88%D9%84-%D8%B1%D8%AC%D9%84-%D8%B9%D9%85%D8%A7%D9%86%D9%8A\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">الصورة ليست من حفل زفاف أطول رجل عماني</a></p>\r\n\r\n<p><a href=\"https://misbar.com/factcheck/2020/12/01/%D9%84%D8%A7%D8%B9%D8%A8-%D9%83%D9%85%D8%A7%D9%84-%D8%A3%D8%AC%D8%B3%D8%A7%D9%85-%D9%83%D8%A7%D8%B2%D8%A7%D8%AE%D8%B3%D8%AA%D8%A7%D9%86%D9%8A-%D9%8A%D8%AA%D8%B2%D9%88%D8%AC-%D9%85%D9%86-%D8%AF%D9%85%D9%8A%D8%A9-%D8%AE%D8%A8%D8%B1-%D8%B5%D8%AD%D9%8A%D8%AD\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">لاعب كمال أجسام كازاخستاني يتزوج من دمية.. خبر صحيح</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "خطوبة",
+        "جامعة تيزي وزو",
+        "جامعة طنطا"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">تتداول حسابات وصفحات على موقع التواصل الاجتماعي فيسبوك، حديثًا، صورةً ادّعى ناشروها أنها لخطوبة ثانية لطالب وطالبة، في ظرف أسبوع، في حرم جامعة تيزي وزو الجزائرية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_c0zm661em.jpg\" style=\"height:782px; width:554px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_2mfozjxbt.jpg\" style=\"height:775px; width:554px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_75lb7z3kc.jpg\" style=\"height:762px; width:556px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 316,
+        "left": 5.3714599609375,
+        "path": "articles/1609953219الصورة.jpg",
+        "top": 53.533935546875,
+        "totalHeight": 423,
+        "totalWidth": 574,
+        "watermark_path": "articles/watermark-1609953219الصورة.jpg",
+        "width": 562
+    },
+    "post_date": "2021-01-06T19:08:00.000+03:00",
+    "published": [
+        {
+            "id": "5ff5efc2e55c380916772d92",
+            "link": "https://www.facebook.com/femmesdzalg/posts/1650127635170910?__cft__[0]=AZWd3xDxcgS45GVypM3uNBz7aSG2Ta9YFJr9MyzNFFEW4216eF5plb0iK9NDaw7o1bkzYQUz5z9Pq7IhCD7Bp5zFXGXMdXHC22-B7iydQpjLpx7FFK2GPsw3oeQL0DJhccUOBYLcajOHSKIA_bOfLNIn&__tn__=%2CO%2CP-R",
+            "name": "نساء جزائريات Femmes Alg&eacute;riennes",
+            "origin": "facebook",
+            "path": "sources/65b95bc4f7642a95996061ad3ca3d3c42b06fc28.jpg"
+        },
+        {
+            "id": "5ff5efc2e0dfaa3006470716",
+            "link": "https://www.facebook.com/groups/873271039852920/permalink/1045289959317693/?__cft__[0]=AZWn6lgz2S34RVFywNzfPnpwzQxZva_TDghcDxP1AXSGRF84lb9JoKRYOpBcfYVkvEi4iep7Pfffedi7PcieiCDUl0tqJIRCxq6YHhKesMA9Wtig7MpEsC5Ro8p5QnjNDchYkoVh37eiGvv51ts4MGvR&__tn__=%2CO%2CP-R",
+            "name": "B&eacute;jaia Sois l'observateur plus 1M ����",
+            "origin": "facebook",
+            "path": "sources/fcd6afd8ed071935c72b3c24258643a92e96ae05.jpg"
+        },
+        {
+            "id": "5ff5efc27b816933db8042b1",
+            "link": "https://www.facebook.com/Etudiant.dz.2/posts/432047281583797?__cft__[0]=AZWty59ZhokdvMErL6NEBblwDr38gnLSme-yRc0tDZCC2ucjrt2xpTAqbYAFAykDk5t6IxprlCAD4sMAdPXUxGP8IKujg0hPiY0jPIj1CHDCnqCIrnHi2xesCYWzk2XyQWJtzWToI223qwaBMTXLJkF1&__tn__=%2CO%2CP-R",
+            "name": "&Eacute;tudiant Dz",
+            "origin": "facebook",
+            "path": "sources/ae8ddb56569148f8c4b208b9d45176d18f9bfb21.jpg"
+        },
+        {
+            "id": "5ff5efc2f120e630e20c7496",
+            "link": "https://www.facebook.com/Tamdaofficiel/posts/1060902491058583?__tn__=%2CO*F",
+            "name": "Campus Tamda",
+            "origin": "facebook",
+            "path": "sources/99a159d0b4afe059cd23e84303de813a84759bcf.jpg"
+        },
+        {
+            "id": "5ff5efc24a7f5a39bd27424f",
+            "link": "https://www.facebook.com/groups/1050656398456667/permalink/1499268686928767/?__tn__=%2CO*F",
+            "name": "منتدى معهد الشبه طبي ادرار",
+            "origin": "facebook",
+            "path": "sources/e28077ea7a2b1fd0f7d729e5a637bcc96fdf37e9.jpg"
+        },
+        {
+            "id": "5ff5efc234ecf95c157c7e99",
+            "link": "https://www.facebook.com/GHAni22ghani/posts/209054527542857?__tn__=%2CO*F",
+            "name": "ناس الغربة وناس البلاد dz",
+            "origin": "facebook",
+            "path": "sources/e8b5692394ca9786146a98065f9d5304678370f5.jpg"
+        },
+        {
+            "id": "5fc75f8b30c1c71ff80164b5",
+            "link": "https://www.facebook.com/groups/2828481217247434/permalink/3523838067711742/?__tn__=%2CO*F",
+            "name": "Walid Walid",
+            "origin": "facebook",
+            "path": "sources/9fb41797f3ab0b7b87f8775614ed7b0bdd915b9b.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5ff5efc3457cda3a1e2ee4bf",
+            "link": "https://masralarabia.net/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D9%85%D8%B5%D8%B1/1460266-%D9%81%D9%8A%D8%AF%D9%8A%D9%88--%D8%B7%D8%A7%D9%84%D8%A8-%D9%8A%D8%AD%D8%AA%D8%B6%D9%86-%D8%B2%D9%85%D9%8A%D9%84%D8%AA%D9%87-%D8%A8%D9%80%C2%AB%D8%AD%D8%B1%D9%85-%D8%B7%D9%86%D8%B7%D8%A7%C2%BB--%D9%88%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A9--%C2%AB%D8%B6%D8%AD%D9%8A%D8%A9-%D8%A3%D9%81%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D8%B3%D8%A8%D9%83%D9%89%C2%BB",
+            "name": "مصر العربية",
+            "origin": "",
+            "path": "sources/18c1159ac3e9f3d676dadc6e6bba1b90917cf165.jpg"
+        },
+        {
+            "id": "5ff5efc31a3c5e39d262a792",
+            "link": "https://www.youtube.com/watch?fbclid=IwAR3DlkjKtdWEaeiarwwJ6GWZICE7zNjmj4O-3q3UEbbi96ao1pmeraK5hlk&v=zZRyzdsrVw4&feature=youtu.be",
+            "name": "AlHadath Alyoum - الحدث اليوم ",
+            "origin": "youtube",
+            "path": "sources/9131732f6a4961706f2b0ec07ba33200ac747100.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الصورة ليست من خطوبة في جامعة تيزي وزو الجزائرية",
+    "updated_at": "2021-01-06 20:23:48",
+    "url_path": "/factcheck/2021/01/06/الصورة-ليست-من-خطوبة-في-جامعة-تيزي-وزو-الجزائرية",
+    "was_notification_pushed": false
+}

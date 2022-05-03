@@ -1,0 +1,108 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 2,
+        "tw": 2
+    },
+    "amount_sources": 0,
+    "amount_visits": 2151,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "الأمن التونسي يحقق مع محمد الديحاني (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;السلطات التونسية تحقّق مع الناشط السياسي الصحراوي، محمد الديحاني، بعد مراسلة من الحكومة المغربية تطلب تسليمه إليها.</p>\r\n",
+    "country": "MA",
+    "created_at": "2020-05-19 20:42:42",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ec41a92db29163edc5bbbe5",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الخبر وتبيّن أنه صحيح، إذ حققت السلطات التونسية مع محمد الديحاني، يوم 15 مايو/أيار 2020، بعد تحويله إلى وزارة الداخلية. كان ذلك إثر مقطع فيديو نشره الديحاني على موقع يوتيوب بتاريخ 9 مايو/أيار 2020، تحدث فيه عن التعذيب داخل السجون المغربية. وتواصل &quot;مسبار&quot; مع الديحاني، الذي أكّد أن السلطات التونسيّة تولت&nbsp;التحقيق معه لمدة 45 دقيقة، ثمّ أخلت&nbsp;سبيله بعد التأكد من سجلّه وتضامن&nbsp;منظمات دولية معه.</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت مواقع إخبارية وصفحات على وسائل التواصل الاجتماعي، خبرا يدّعي أن الأمن التونسي حقق مع الناشط السياسي الصحراوي والمعتقل السابق، محمد الديحاني،&nbsp;يوم 15 مايو/أيار 2020، لمنعه من ممارسة أيّ نشاط سياسيّ في البلاد. وجاء ذلك بعد طلب تسليمه من المغرب واتهمامه بالتورط في هجمات إرهابية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_j5zjgf8w9.jpg\" style=\"height:519px; width:351px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"Capture2.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_q91rgcasw.jpg\" style=\"height:513px; width:369px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/158991227696406160_133569404959939_6657953251654107136_o.jpg",
+        "watermark_path": "articles/watermark-158991227696406160_133569404959939_6657953251654107136_o.jpg"
+    },
+    "post_date": "2020-05-19T17:38:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/TheArmyRASD66/photos/a.10153098719083711/10158240103858711/?type=3&theater",
+            "name": "الجيش الالكتروني الصحراوي",
+            "path": "published/0_1589910160_4.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/futurosaharaui/photos/a.638848589495902/2926924977354907/?type=3&theater",
+            "name": "REVISTA FUTURO SAHARAUI",
+            "path": "published/1_1589910160_2.jpg"
+        },
+        {
+            "link": "http://www.saharawi.net/?p=45395&fbclid=IwAR0NGan-NnirZrOrzqb7qIQ-tl09RbSx7DDZ61oKbfvcMvP6hGVs0P42WFk",
+            "name": "الصحراوي",
+            "path": "published/2_1589910160_3.jpg"
+        },
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=3778179175556998&id=100000948577796",
+            "name": "الطاهر سيدي هابددي",
+            "path": "published/3_1589910160_1.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/sahara24ahora/photos/a.104680234531781/130584558608015/?type=3&theater",
+            "name": "sahara24",
+            "path": "published/4_1589910161_92579256_106460504353754_4869796123939700736_n.jpg"
+        },
+        {
+            "link": "http://kapitalis.com/tunisie/2020/05/16/arrestation-dun-activiste-sahraoui-en-tunisie-il-risque-detre-extrade-vers-le-maroc/",
+            "name": " موقع كابيتاليس",
+            "path": "published/5_1589910161_Kapitalis.jpg"
+        },
+        {
+            "link": "https://twitter.com/moustahibhicham/status/1261419076963971073",
+            "name": "D.G.R.S",
+            "path": "published/6_1589910161_6.jpg"
+        }
+    ],
+    "result": "true",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://freedomsupport.wordpress.com/",
+            "name": "freedomsupport",
+            "path": "sources/0_1589910161_concave.jpg"
+        },
+        {
+            "link": "https://porunsaharalibre.org/en/2020/05/16/morocco-extradition-dihani-saharawi-human-rights-activist/",
+            "name": "por un sahara libre",
+            "path": "sources/1_1589910161_12.jpg"
+        },
+        {
+            "link": "https://www.tercerainformacion.es/articulo/internacional/2020/05/19/marruecos-quiere-la-extradicion-de-mohamed-dihani-activista-de-derechos-humanos-saharaui",
+            "name": "Tercerainformacion",
+            "path": "sources/2_1589910161_téléchargement (1).jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "المغرب يطلب من تونس تسليم محمد الديحاني..خبر صحيح",
+    "updated_at": "2020-09-25 14:00:26",
+    "url_path": "/factcheck/2020/05/19/المغرب-تطلب-من-تونس-تسليم-محمد-الديحاني-خبر-صحيح"
+}

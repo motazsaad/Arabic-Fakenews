@@ -1,0 +1,71 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 1
+    },
+    "amount_sources": 0,
+    "amount_visits": 241,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">صورة اللاعب الألماني من أصول تركية مسعود أوزيل وهو يضع قدمه على علم الصين.</p>\r\n",
+    "country": "CN",
+    "created_at": "2020-01-15 16:47:28",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e1f17f0d4a229347e5553c4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">الصورة مفبركة ومركبة عبر برامج تعديل الصور ومضاف إليها العلم الصيني مع بعض التغييرات في الألوان، أما الصورة الحقيقية، فكان أوزيل نشرها على حسابه في موقع إنستاغرام للصور، وتخلو من العلم الصيني.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_9bf6e0d2a08d174ec9649ec28e76a12c.jpg\" style=\"height:496px; width:638px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">نشرت صفحة على فيسبوك تحمل اسم &quot;Sayings&quot;، صورة للاعب الألماني من أصول تركية مسعود أوزيل، وهو يضع قدمه على علم الصين، في إشارة إلى انتقاد الصين على ممارساتها ضد مسلمي الأويغور، والتي أثارت ضجة كبيرة خلال الأيام الماضية. الصورة حازت على عشرات الآلاف من الإعجابات والآلاف من إعادات النشر.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_83999e850d69dd5997f577f420dd03d1.jpg\" style=\"height:660px; width:555px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 294,
+        "left": 8.93597412109375,
+        "path": "articles/157909604871177969_2521432827937241_3602321866330322801_n.jpg",
+        "top": 46.2139892578125,
+        "totalHeight": 423,
+        "totalWidth": 530,
+        "width": 523
+    },
+    "post_date": "2019-12-29T16:35:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/Sayings.10/posts/1476091492540742?fbclid=IwAR2e-xMSku77tNFoWHtGMDyDoPUub6OHJ_PEnCl1uqpCm_JY-e4982kAt6w",
+            "name": "Sayings",
+            "path": "published/0_1579096048_sayings.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.instagram.com/p/B3UtEvKiuc-/?utm_source=ig_web_copy_link&fbclid=IwAR1CyLEhU83PuzHR-tI4z4DczvbN2qwohG8bqQRWr2YMaPNSyH758UK14lY",
+            "name": "Mesut Özil",
+            "path": "sources/0_1579096048_mesut ozil.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "مسعود أوزيل يدوس علم الصين بقدمه؟ صورة مفبركة",
+    "updated_at": "2020-09-23 12:39:55",
+    "url_path": "/factcheck/2020/01/15/مسعود-أوزيل-يدوس-علم-الصين-بقدمه-صورة-مفبركة"
+}

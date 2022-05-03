@@ -1,0 +1,109 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 740,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "نفى مُلتقط الصورة وجود شخص آخر (NLI)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">صورة التقطت في إيرلندا عام 1972 لفتاة تطلق الرصاص من بندقية خطيبها الذي أصيب في إحدى المعارك.</p>\r\n",
+    "country": "GB",
+    "created_at": "2020-09-23 11:56:38",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5f6b0dc6608505103934f574",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الادعاء المتداول ووجد أنه زائف، إذ لا يوجد دليل يدعم صحة القصة المصاحبة للصورة، كما <a href=\"https://www.snopes.com/news/2020/04/30/ira-woman-with-rifle-in-belfast/\" style=\"text-decoration:none\" target=\"_blank\"><u>نفى</u></a> كولمان دويل المصوّر الذي التقطها وجود شخص آخر أخذت منه الفتاة البندقية.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">الصورة حقيقية، وموثقة لدى <a href=\"http://catalogue.nli.ie/Record/vtls000511841?ui=standard\" style=\"text-decoration:none\" target=\"_blank\"><u>المكتبة الوطنية</u></a> الإيرلندية. التُقطت في الفترة بين 1970 - 1978، وحملت توضيحاً يقول &quot;سيدة من الجيش الجمهوري الإيرلندي تتطوع في الخدمة العسكرية&quot;.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">وفي لقاء مع موقع <a href=\"https://www.snopes.com/news/2020/04/30/ira-woman-with-rifle-in-belfast/\" style=\"text-decoration:none\" target=\"_blank\"><u>سنوبس</u></a> للتحقق من الأخبار، قال دويل إنّ القصة المصاحبة للصورة مختلقة. يرجّح بعض المؤرخين أن الصورة دعائية (بروباغندا) وليست في اشتباك عسكري حقيقي. إذ تتشابه الصورة في شكلها مع الصور الدعائية الرسمية التي كان ينشرها الجيش الجمهوري الإيرلندي في تلك الحقبة. إلا أنّ الأكيد أنّ قصة خطيبها المصاب غير حقيقية.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_4ggtcwp08.jpg\" style=\"height:529px; width:532px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">اقرأ/ي أكثر:</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/09/17/%D9%87%D8%B0%D8%A7-%D9%84%D9%8A%D8%B3-%D8%B9%D8%A7%D9%84%D9%85-%D8%A8%D8%B1%D9%8A%D8%B7%D8%A7%D9%86%D9%8A-%D9%8A%D8%B6%D8%B9-%D8%B1%D8%AC%D9%84%D9%8A%D9%87-%D8%B9%D9%84%D9%89-%D8%AC%D8%B3%D8%AF-%D8%B7%D9%81%D9%84-%D8%A5%D9%81%D8%B1%D9%8A%D9%82%D9%8A\" target=\"_blank\">هذا ليس عالماً بريطانيًّا يضع رجليه على جسد طفل إفريقي</a></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/08/27/%D8%B1%D9%83%D9%86-%D8%A7%D9%84%D8%B5%D9%84%D8%A7%D8%A9-%D9%81%D9%8A-%D9%82%D8%B7%D8%A7%D8%B1-%D8%B3%D8%B9%D9%88%D8%AF%D9%8A-%D9%88%D9%84%D9%8A%D8%B3-%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A\" target=\"_blank\">ركن الصلاة في قطار سعودي وليس إنجليزي</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "إيرلندا الشمالية",
+        "the troubles"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تتناقل صفحات وحسابات على مواقع التواصل الاجتماعي، منذ فترة، صورة تدعي أنها لفتاة إيرلندية عام 1972، تطلق الرصاص من بندقية خطيبها الذي أصيب في أحداث The Troubles في إيرلندا الشمالية.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_6arppaynv.jpg\" style=\"height:854px; width:534px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_avd35y2vd.jpg\" style=\"height:761px; width:531px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 342,
+        "left": 4.83331298828125,
+        "path": "articles/1600851397IRA-girl-troubles.jpg",
+        "top": 24.533203125,
+        "totalHeight": 423,
+        "totalWidth": 614,
+        "watermark_path": "articles/watermark-1600851397IRA-girl-troubles.jpg",
+        "width": 607
+    },
+    "post_date": "2020-09-23T11:52:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1810095112591023&id=100007716544191",
+            "name": "Mohammad Ramadan Fayed",
+            "path": "published/0_1600851591_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/peace20209/photos/a.308078365900932/948834585158637/?type=3",
+            "name": "صورة ولوحة",
+            "path": "published/1_1600851591_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/samer.alquraan.9/posts/975844129599059",
+            "name": "سامر القرعان",
+            "path": "published/2_1600851591_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=294878238460966&id=100038163761290",
+            "name": "وحيد الشناوي",
+            "path": "published/3_1600851758_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/whitegardenia.rose/posts/10208590386625413",
+            "name": "عاتكة العمري",
+            "path": "published/4_1600851758_facebook.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "http://catalogue.nli.ie/Record/vtls000511841?ui=standard",
+            "name": "National Library of Ireland ",
+            "path": "sources/0_1600851397_nli-IRA-girl-troubles.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.snopes.com/news/2020/04/30/ira-woman-with-rifle-in-belfast/",
+            "name": "Snopes ",
+            "path": "sources/1_1600851397_snopes-irish-IRA-girl.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الفتاة الإيرلندية لا تُطلق النار من بندقية خطيبها المصاب",
+    "updated_at": "2020-09-25 20:00:07",
+    "url_path": "/factcheck/2020/09/23/لم-تأخذ-هذه-الفتاة-البندقية-من-خطيبها-المصاب",
+    "was_notification_pushed": "true"
+}

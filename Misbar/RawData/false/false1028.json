@@ -1,0 +1,75 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 267,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">قال الرئيس التونسي المنتخب قيس سعيّد &quot;إذا أراد الملك سلمان الخير لأمتنا فعليه عزل ابنه المراهق&quot;.</p>\r\n",
+    "country": "TN",
+    "created_at": "2019-11-04 16:19:56",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5dc0257c8d7bd92617479505",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الخبر لا أساس له من الصحة، وبمراجعة فيديو&nbsp;الخطاب الذي ألقاه الرئيس قيس سعيّد عقب فوزه بالانتخابات، يتبيّن أنه لم يأت على ذكر ما جاء في الخبر في موقع عرب لايف على الإطلاق. وتجدر الإشارة إلى أنّ هذا الموقع حذف لاحقاً المقال الذي روّج فيه للخبر.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وانتشرت العديد من الشائعات والأخبار المضللة حول سعيّد بعد فوزه، منها أنّه أهدى فوزه بالانتخابات للرئيس المصري السابق محمد مرسي، أو قوله بأنّه لن يستقبل أيّ رئيس وصل للحكم عن طريق انقلاب عسكري.</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\">نشر موقع عرب لايف خبراً أفاد أنّ الرئيس التونسي قيس سعيّد قال في تصريحٍ له عقب فوزه في الانتخابات الرئاسية، أنّه &quot;إذا أراد الملك سلمان الخير لبلاد المسلمين وللأمة الإسلامية والعربية فعليه أن يعزل ابنه&quot;، في إشارةٍ إلى ولي العهد السعودي محمد بن سلمان. وجاء في الخبر الذي تداوله بعض روّاد وسائل التواصل الاجتماعي وموقع يوتيوب، أنّ رئيس تونس أضاف في كلمته &quot;إنّ الأمة الإسلامية والعربية تعاني ضعف شديد بسبب تدخل بعض الحكام في الدول الأخرى؛ فمثلاً أنا شخصياً عُرض علي من ولي عهد إحدى الدول الخليجية أن يعطيني شيك مفتوح من أجل رعاية حملتي الانتخابية؛ فقلت له كفى عبثاً في بلاد المسلمين&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_0df03ef78fa83faacbee5deb6db74346.jpg\" style=\"height:173px; width:651px\" /></span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_eb6dbbf8c73ab82a6142f7d9b8387bb0.jpg\" style=\"height:391px; width:409px\" /></span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_672ea01de8254a69e1d8b21504ab4858.jpg\" style=\"height:398px; width:450px\" /></span></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1574086349GettyImages-1177743010.jpg"
+    },
+    "post_date": "2019-10-20T16:14:00.000+03:00",
+    "published": [
+        {
+            "link": "https://alarab.live/archives/4274?fbclid=IwAR0D_-IkW_vF-LaWS4-ce8wY9vd30cLupM22oVBvBRLAGZTWYaUPxki_0t0",
+            "name": "عرب لايف",
+            "path": "published/0_1572873596_arab-live-logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2137090879927581&id=1567823480187660&__tn__=-R",
+            "name": "الإعلامي محمد ناصر علي",
+            "path": "published/1_1572873596_الإعلامي محمد ناصر علي- لوغو.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=PbuNXKyVwgo",
+            "name": "Ameur vlogs",
+            "path": "published/2_1572873596_Ameur volgs-logo.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=fPhJR8yQopA",
+            "name": "الجزيرة مباشر",
+            "path": "sources/0_1572873596_الجزيرة مباشر.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل دعا الرئيس التونسي الملك السعودي لعزل ولي العهد؟",
+    "updated_at": "2020-09-23 12:40:23",
+    "url_path": "/factcheck/2019/11/04/هل-دعا-الرئيس-التونسي-الملك-السعودي-لعزل-ولي-العهد"
+}

@@ -1,0 +1,104 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 1,
+        "fb": 1,
+        "tw": 2
+    },
+    "amount_sources": 0,
+    "amount_visits": 41226,
+    "author": {
+        "fullname": "خالد إسماعيل",
+        "id": "5e59256dd4a2295224257db3",
+        "photo": {
+            "name": "1582900589_صورة 2.jpg",
+            "path": "authors/1582900589_صورة 2.jpg"
+        }
+    },
+    "caption": "تحقق \"مسبار \" من المقطع المتداول والقصة المصاحبة له وتبين أنها غير صحيحة",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">الشرطة الأميركية تلقي القبض على أميركي&nbsp;من أصل سوداني ظنا منها&nbsp;أنه من مثيري&nbsp;الشغب؛&nbsp;ليتبين أنه عميل في مكتب التحقيقات الفيدرالي</p>\r\n",
+    "country": "US",
+    "created_at": "2020-06-03 20:32:03",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ed7de93db2916691241da45",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تحقق &quot;مسبار &quot; من المقطع المتداول والقصة المصاحبة له وتبين أنها غير صحيحة، إذ أنَّ المقطع المتداول ليس له علاقة بالأحداث الجارية في الولايات المتحدة الأميركية، والشخص الذي قيدته الشرطة ليس عميلاً في مكتب التحقيقات الفيدرالي</span> <span style=\"color:black\">&nbsp;بحسب&nbsp; ما&nbsp; أكدته&nbsp; إدارة شرطة&nbsp; روتشستر ، ولكن المقطع لمواطن أميركي قام بتصويره في الأول من يونيو/حزيران من العام الفائت أثناء احتجازه لفترة وجيزة للتأكد من هويته بعد الاشتباه به &nbsp;قبل أن يتم إطلاق سراحه، &nbsp;وقام &nbsp;المواطن بنشر المقطع بعد مقتل المواطن الأميركي جورج فلويد؛ ليظهر المعاناة التي تواجه أصحاب البشره السمراء</span> <span style=\"color:black\">، أما ما يخص اطلاعه على بطاقات رجال الشرطة فإنَّ القانون الأميركي يسمح بالاطلاع على هويات رجال الشرطة لمتابعتهم.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_j5nnr78ha.jpg\" style=\"height:469px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_h3ttj8b9p.jpg\" style=\"height:466px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_d17nhs7nh.jpg\" style=\"height:832px; width:588px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تداولت حسابات عبر منصات التواصل الاجتماعي مقطعاً مصوراً يُظهر رجالاً من الشرطة الأميركية يقيِّدون شخصاً من أصحاب البشرة السمراء، مع الادعاء بأنَّ الشرطة الأميركية ألقت القبض على المواطن، قبل أن يكتشفوا أنه عميل في مكتب التحقيقات الفيدرالي؛ فطلب الاطلاع على بطاقات عملهم من أجل مقاضاتهم.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FElhadath16%2Fvideos%2F705499706871665%2F&amp;show_text=0&amp;width=266\" style=\"border:none;overflow:hidden\" width=\"266\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_wv1843aq8.jpg\" style=\"height:861px; width:605px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_0x9haii1c.jpg\" style=\"height:775px; width:553px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_col65ddbo.jpg\" style=\"height:819px; width:551px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 290,
+        "left": 13.106002807617188,
+        "path": "articles/1591205522شرطي.JPG",
+        "top": 50.63623046875,
+        "totalHeight": 423,
+        "totalWidth": 541,
+        "watermark_path": "articles/watermark-1591205522شرطي.JPG",
+        "width": 515
+    },
+    "post_date": "2020-06-03T20:01:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/Elhadath16/videos/705499706871665/?v=705499706871665",
+            "name": "Dz الحدث",
+            "path": "published/0_1591205521_Dz الحدث.jpg"
+        },
+        {
+            "link": "https://twitter.com/worldtrav747/status/1267423405273473026",
+            "name": "Tai",
+            "path": "published/1_1591205521_Tai.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/215418266061670/permalink/683108292625996/",
+            "name": "اسامه الخضر",
+            "path": "published/2_1591205521_اسامه الخضر.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/615884068566987/videos/709663579575356/",
+            "name": "Tijani KIDAL",
+            "path": "published/3_1591205521_Tijani KIDAL.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/DEBcity1/videos/1120036471693452/?v=1120036471693452",
+            "name": "Draa El Bordj",
+            "path": "published/4_1591205522_Draa El Bordj.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/BLIDA360/videos/556501635239184/?v=556501635239184",
+            "name": "Blida 360",
+            "path": "published/5_1591205522_Blida 360.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.instagram.com/tv/CA03U0UngfG/?igshid=13ssdfdxrn68e",
+            "name": "thisisnike1",
+            "path": "sources/0_1591205522_thisisnike1.JPG"
+        },
+        {
+            "link": "https://www.kimt.com/content/news/Rochester-city-government-responds-to-social-media-post-of-man-detained-by-police-570931591.html?fbclid=IwAR2AswDcWZa0IPxndroaWXLFvpvflX4zt8YxXYT-XXD5X2YSXwMVg3dKkb8",
+            "name": "kimt",
+            "path": "sources/1_1591205522_kimt.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الشرطة الأميركية تلقي القبض على عميل فيدرالي.. حقيقة الفيديو",
+    "updated_at": "2020-09-25 04:01:27",
+    "url_path": "/factcheck/2020/06/03/هل-ألقت-الشرطة-الأميركية-القبض-على-عميل-بمكتب-التحقيقات-الفيدرالي-بين-المتظاهرين"
+}

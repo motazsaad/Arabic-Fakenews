@@ -1,0 +1,81 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 903,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "category": "News",
+    "claim": "<p>إضاءة أهرامات مصر بالعلم اللبناني والمصري تضامناً مع لبنان بعد موجة الحرائق.</p>\r\n",
+    "country": "EG",
+    "created_at": "2019-10-21 12:42:52",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5dad7d9cbe494b2ac63a9735",
+    "investigation": "<p>الصورة تعود لعام 2015، حين تمت إضاءة هرم خوفو بأعلام لبنان وروسيا وفرنسا، وكان ذلك تضامناً مع ضحايا حادثة الطائرة الروسية المنكوبة التي وقعت في أكتوبر/ تشرين الأول من العام 2015، وكذلك ضحايا التفجيرات فى لبنان وفرنسا.</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p>نشرت بعض المواقع وصفحات على منصات التواصل الاجتماعي، صورة لعلم لبنان وقد أسدل على الأهرامات المصرية، وذكرت في الخبر إنها إضاءة للأهرامات المصرية تضامنا مع لبنان بعد موجة الحرائق التي لحقت به أكتوبر/ تشرين الأول 2019.</p>\r\n\r\n<p><img src=\"https://images-prod.misbar.com/articlebody/origin_b00f7e06d062d4a1719573e4286600c4.jpg\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 338,
+        "left": 75.20001220703125,
+        "path": "articles/1571650971maxresdefault.jpg",
+        "top": 42.30000305175781,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "width": 602
+    },
+    "post_date": "2019-10-17T12:25:00.000+03:00",
+    "published": [
+        {
+            "link": "https://alhadeel.net/article/52214",
+            "name": "الهديل",
+            "path": "published/0_1571650971_الهديل.jpg"
+        },
+        {
+            "link": "https://alloubnania.com/Newsdet.aspx?id=386037",
+            "name": "اللبنانية",
+            "path": "published/1_1571650971_اللبنانية.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://arabic.sputniknews.com/world/201511161016375928/?utm_source=short_direct&utm_medium=short_url&utm_content=q5Tz&utm_campaign=URL_shortening",
+            "name": "سبوتنيك عربي",
+            "path": "sources/0_1571650971_سبوتنيك عربي1.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=8iAw-0yNZPw",
+            "name": "Youtube",
+            "path": "sources/1_1571650971_youtube.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل أضيئت أهرامات مصر تضامناً مع لبنان بعد موجة الحرائق؟",
+    "updated_at": "2020-09-25 15:55:01",
+    "url_path": "/factcheck/2019/10/21/هل-أضيئت-أهرامات-مصر-تضامنا-مع-لبنان-بعد-موجة-الحرائق"
+}

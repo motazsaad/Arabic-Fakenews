@@ -1,0 +1,76 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1293,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "category": "Entertainment",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صرحت وكالة ناسا أنَّ يوم العاشر من فبراير هو اليوم الوحيد الذي تستطيع أن تقف فيه مكنستك.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-02-12 17:26:04",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e440afcd4a2294ae26141e3",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من حساب ميكيلا، ووجد أنها أطلقت مزحة انطلت على الآلاف من مستخدمي موقع تويتر، وهناك كثيرون منهم اكتشفوا أنها مجرد خدعة لكنها خدعة طريفة، فنشروا فيديوهات تستجيب لـ&quot;هاشتاغ&quot; تحدي المكنسة. ومن الواضح أنّ فضول التجربة وصل إلى وكالة ناسا نفسها التي لم تنشر أي شيء على حسابها عن الأمر من قبل، لكنها قبلت تحدي عصا المكنسة ونشرت على حسابها الرسمي في موقع تويتر يوم الثلاثاء الموافق 11 فبراير/شباط الجاري، فيديو يضم كل من رائد الفضاء ألفين درو والعالمة سارة نوبل وهما يوقفان المكنسة ويصاحبه تعليق &quot;درو ونوبل يظهران أن قواعد الفيزياء من الممكن أن تعمل كل يوم وليس فقط يوم العاشر من فبراير&quot;، في إشارة إلى أن ثقل المكنسة من الأسفل يجعلها تقف.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_avlr8coon.jpg\" style=\"height:563px; width:605px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت امرأة أميركية تدعى ميكيلا في حسابها بموقع تويتر فيديو، بتاريخ العاشر من فبراير/شباط الجاري، فيديو لها وهي توقف مكنستها من دون أن تسنّدها إلى شيء، وصحبتها بعبارة &quot;حسناً، تقول ناسا اليوم هو اليوم الوحيد الذي يمكن فيه للمكنسة الوقوف وحدها بسبب قوة الجاذبية.. لم أصدق الأمر في البداية، لكن يا إلهي!&quot;.<br />\r\nوبالفعل أوقفت ميكيلا المكنسة باعتبار يوم العاشر من فبراير/شباط هو اليوم الوحيد الذي تقف به المكنسة بسبب قوة الجاذبية الأرضية التي تزداد نتيجة محاذاة الكواكب لبعضها مع اكتمال القمر في هذه الليلة.<br />\r\nوحازت تغريدتها على 300 ألف إعجاب و69 ألف إعادة نشر لتغريدتها، وثمانية مليون مشاهدة حتى هذه اللحظة، كما أن وسم &nbsp;BroomstickChallenge &nbsp;يتضمن أكثر من 70 ألف تعليقاً على الحدث ومشاركات فيديو من مختلف أنحاء العالم لمحاولات تجعل المكنسة تقف وحدها.<br />\r\n&nbsp;<br />\r\n&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"background-color:#f9f9fa\"><span style=\"color:#1f1f1f\"><img src=\"https://images-prod.misbar.com/articlebody/origin_a21iatne6.jpg\" style=\"height:906px; width:530px\" /></span></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"AR-SA\"><span style=\"background-color:#f9f9fa\"><span style=\"color:#1f1f1f\"><img src=\"https://images-prod.misbar.com/articlebody/origin_dzlw2peaj.jpg\" style=\"height:957px; width:605px\" /></span></span></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 324,
+        "left": 27.644515991210938,
+        "path": "articles/1581517564GettyImages-1058276732.jpg",
+        "top": 43.18194580078125,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "width": 577
+    },
+    "post_date": "2020-02-12T15:00:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/mikaiylaaaaa/status/1226959129157259266",
+            "name": "Mikaiylaaaaa",
+            "path": "published/0_1581517564_KKKKKK.jpg"
+        },
+        {
+            "link": "https://twitter.com/hashtag/BroomstickChallenge?src=hashtag_click",
+            "name": "#BroomstickChallenge",
+            "path": "published/1_1581517564_HHHHH.JPG"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/NASA/status/1227273760228683776",
+            "name": "NASA",
+            "path": "sources/0_1581517563_TI2qItoi_400x400.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل وقفت مكنستك يوم العاشر من فبراير؟.. إذا لم تفعل حاول اليوم أيضاً",
+    "updated_at": "2020-09-23 12:38:37",
+    "url_path": "/factcheck/2020/02/12/هل-وقفت-مكنستك-يوم-العاشر-من-فبراير-إذا-لم-تفعل-حاول-اليوم-أيضا"
+}

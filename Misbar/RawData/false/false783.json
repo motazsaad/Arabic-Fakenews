@@ -1,0 +1,109 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 2,
+        "fb": 1,
+        "tw": 2
+    },
+    "amount_sources": 0,
+    "amount_visits": 38295,
+    "author": {
+        "fullname": "أسامة سليم",
+        "id": "5e3fd276d4a229755625e693",
+        "photo": {
+            "name": "1581240950_أسامة.jpg",
+            "path": "authors/1581240950_أسامة.jpg"
+        }
+    },
+    "caption": "وصف القذافي رايس بالأميرة الأفريقية (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">وزيرة الخارجية الأميركية السابقة، كونداليزا رايس، تحدثت في مذكراتها عن الإهانة والإحراج التي شعرت بهم عندما رفض معمر القذافي مصافحتها.</p>\r\n",
+    "country": "",
+    "created_at": "2020-04-22 10:41:55",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e9ff543db29161b62540134",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:black\">تحقق &quot;مسبار&quot; من الادعاء وتأكد من زيفه، إذ وجد بأن رايس دوّنت في مذكراتها المنشورة تحت عنوان &quot;لا شرف أعلى من ذلك&quot; عام 2011، أن الرئيس الليبي أبدى إعجاباً كبيراً بها</span></span>&nbsp;<span style=\"background-color:white\"><span style=\"color:black\">ووصفها &quot;بالأميرة الأفريقية&quot;. أما المقطع المصوّر المتداول يُظهر القذافي وهو يدعو رايس للجلوس وليس رفضه مصافحتها.</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img id=\"Picture_x0020_5\" src=\"https://images-prod.misbar.com/articlebody/investigation_hb5dn1bko.jpg\" style=\"height:193.8pt; width:453.6pt\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img id=\"Picture_x0020_6\" src=\"https://images-prod.misbar.com/articlebody/investigation_0ey09tg3n.jpg\" style=\"height:517.8pt; width:430.8pt\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": false,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت حسابات&nbsp;على موقع التواصل الاجتماعي فيسبوك وموقع يوتيوب بين الأعوام 2012 و2015، تصريحاً منسوباً لوزيرة الخارجية الأميركية السابقة، كونداليزا رايس، بأنها شعرت بإهانة كبيرة عندما رفض الرئيس الليبي السابق، معمر القذافي، مصافحتها، وأنها لم تشعر بالإهانة في حياتها كلها إلا في هذا الموقف. واعتبرت رايس بحسب الخبر المتداول أن الإهانة كانت موجهة للشعب الأميركي&nbsp;بصفة عامة. وقد تداول أصحاب هذا الادعاء مقطعاً مصوراً للقاء بين رايس والقذافي.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"FR\"><img id=\"Image_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/origin_ryhmqhoa4.jpg\" style=\"height:305.4pt; width:453.6pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"FR\"><img id=\"Image_x0020_4\" src=\"https://images-prod.misbar.com/articlebody/origin_hl6hxhmt6.jpg\" style=\"height:349.8pt; width:373.8pt\" /> </span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 138,
+        "left": 2.229461669921875,
+        "path": "articles/1587541314GettyImages-82677297.jpg",
+        "top": 16.278564453125,
+        "totalHeight": 178,
+        "totalWidth": 249,
+        "watermark_path": "articles/watermark-1587541314GettyImages-82677297.jpg",
+        "width": 246
+    },
+    "post_date": "2020-04-22T10:34:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.youtube.com/watch?v=oyztuQjiNnU",
+            "name": "محمد الحطماني الصامد دائما",
+            "path": "published/0_1587541313_الصامد دائما.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=gW7aHx3athk",
+            "name": "معمر القذافي",
+            "path": "published/1_1587541313_معمر القذافي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/MuammarAlGaddafi1942/videos/910001382384891/?__xts__%5B0%5D=68.ARBXSFxz9dTY_rT-pkNdX4mVHckWqmnlqLWbF2Bo7VFgw1dJvwThKQNVffJndlKKY44Imqh5edZRce6YCuv99_IuX00IqhKQlt_4OCIRmATYcAfKWO1MlrF-kQhtLZzPxFikotFUVFy8rCdNMFscREvftsIjxnFxHOq1peltOQSwctzXQOTW4ZfATqv8up-WfCnxLlhxNuzrLhBpmDDdVKRd5mpkb0QoSG_JWPrHs2Suf8XZLocs05PH2v92QXN6ZAQ44eQ9tKKjpwfFWEtDL6Wdw0VIiu5p_hx47umh6nqlMQMuPd7qoZrOIx7SWhGQqQLc0uIvpIij&__tn__=-R",
+            "name": "أَحِبَّاءْ الشَّهِيدْ مُعَمَّرْ الْقَذَّافِي فِي الْعَالَمْ",
+            "path": "published/2_1587541313_احباء معمر القذافي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/tuu350/videos/385987051549268/?__xts__%5B0%5D=68.ARDJnJ9Xe6Pm6DroB2uIsnkf92Zvc5sBiv3zTth5gMERTR81EjLWOyX8BvToPw6zL4nMFHqD908sndH55y1gMUFCs5olgfYSaop5CuzmSY_ts9GDNFUUI3hmHrneLtxqy18DNbxZWKJ1glO6i6UIEFTcLNRP_lY6N2ZmGvf_YOKXLbp_MQ_yP6H2K4imipMWwsZZXevHUTa_BKJocjhBaPdefQYUhCrhiIp0Nj-N2xizZy4H8UAmTsRG6fH2SQrHINx2F6f-A15YujkO0DF1ZB0bp9oFLQ4YnmkrjcQPB3fSmD2KSqVBgZ5nrT3ELsau9nEjQAfEFCUN&__tn__=-R",
+            "name": "أشراف الجماهيرية العظمى",
+            "path": "published/3_1587541314_اشراف الجماعيرية العظمى.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/libya.l.y.93.6/videos/327734124064064/?__xts__%5B0%5D=68.ARCkMCVUONxWD-_Ko9HhJbeV1J9dFizggPtvGv_BLd4s2yLTUgA1AD_r4ii3i0SsD2rHE0qgMT4lOwKvStyORLX2SHaoRS1dUAEtkZKKBq_mROCu40EzKFceVnKy2-lvi3LItUPO6F9hEjUacE57fFln_f7DUDaybOfTKJuaYfvNQhSR7kI7WatHu9V46a7Rupa3-1fc3RiY5KJpc0Qyq8-Rc26xkbOynUu29C-lIAPLhW75jJtHJG9pSUMVQ9RDVCTQRekdANCW4dE_O3q3E3cES0S94NE8xuDyn8rCMPcY-ni-iWgoGqZj0Bokxy1u2BUezI9RMquX&__tn__=-R",
+            "name": "رابطة شباب ليبيا  Youth Association Libya",
+            "path": "published/4_1587541314_رابطة شباب ليبيا.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ARMY.MUAMMER/posts/671191419631465?__xts__%5B0%5D=68.ARBWQ1CmMwArR1zbEQeTsBGelLbBgR44kUMEYNjwO_1C7J_NsYEYZV-yGUv85e0s-TCLKo80QbsgOjo636LMhE3W-vGM61qUPxsK8AQ23icsZ2QC8k66MIXgQs6QAHAhOvsQWkxJyhrEgma3t5JQFm6dFsxh9XOCx1CLxHC4HSqxPgQO9YS0B2lH5qd1CZ-aRJMifzXhklhZAAT6qvVYzYoyGO6gOzIgIoaXaxJ76qmukkELdbOGCMp35-BM3EMq-cTmuNwhe6xl3rCAfZ1MDmX_z1C8s0U93NAjBFXzhBpqHRu6YuSbtEkKDc2bpDLeZngNaCEHZ16ydS-4Q_YcLFs&__tn__=-R",
+            "name": "الجيش الليبي لحماية القائد Libyan army to protect Muammar Gaddafi",
+            "path": "published/5_1587541314_الجيش الليبي لحماية.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.dw.com/ar/%D9%87%D9%84-%D9%83%D8%A7%D9%86-%D8%A7%D9%84%D9%82%D8%B0%D8%A7%D9%81%D9%8A-%D9%85%D8%BA%D8%B1%D9%85%D8%A7-%D8%A8%D9%83%D9%88%D9%86%D8%AF%D8%A7%D9%84%D9%8A%D8%B2%D8%A7-%D8%B1%D8%A7%D9%8A%D8%B3/a-15477390",
+            "name": "DW",
+            "path": "sources/0_1587541314_DW-logo.jpg"
+        },
+        {
+            "link": "https://elaph.com/Web/news/2011/10/690629.html",
+            "name": "إيلاف",
+            "path": "sources/1_1587541314_إيلاف.jpg"
+        },
+        {
+            "link": "https://www.emaratalyoum.com/politics/weekly-supplements/world-press/2011-11-02-1.434814",
+            "name": "الإمارات اليوم",
+            "path": "sources/2_1587541314_الامارات اليوم.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "كونداليزا رايس: أكبر إهانة تلقيتها كانت من القذافي.. ما حقيقة الادعاء؟",
+    "updated_at": "2020-09-25 21:14:36",
+    "url_path": "/factcheck/2020/04/22/هل-دونت-كونداليزا-رايس-في-مذكرتها-أن-أكبر-إهانة-شعرت-بها-كانت-من-معمر-القذافي"
+}

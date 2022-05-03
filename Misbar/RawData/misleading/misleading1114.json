@@ -1,0 +1,122 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1540,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "المقطع الأصلي عبارة عن أداء مسرحي (يوتيوب)",
+    "category": "Spirituality & Religion",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">رفع الأذان من كنيسة في القدس بصوت قسيس، في تحدٍّ للمحتلّ الصهيوني الذي منع الأذان في الأقصى تأكيداً على عروبة وفلسطينية القدس.</span></p>\r\n",
+    "country": "PS",
+    "created_at": "2020-05-22 21:56:49",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ec82071db291659ae67ada4",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من الخبر المتداول ووجد أنه مضلل، لأنّ المقطع الأصلي يعود إلى أداء مسرحي من قِبل الممثل الجزائري عبد الوهاب بن يوسف، جُمعت فيه الأديان الثلاثة لأهداف الدعوة إلى السلام بين الأديان، وذلك في كنيسة أميركية وبتنظيم من مؤسسة &quot;Uniting Humanity for Peace&quot;.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/6C5Dc7oz7vk\" width=\"560\"></iframe></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "الأذان",
+        "الإسلام",
+        "المسيحية",
+        "اليهودية",
+        "أميركا"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل صفحات على مواقع التواصل الاجتماعي، منذ سنوات، مقطع فيديو تدّعي أنه لقسّيس يرفع الأذان داخل كنيسة في القدس، فيما وصفته تلك الصفحات تأكيداً على عروبة وفلسطينية القدس.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/zljUwO7FuCs\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/6OsRkvagJns\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 412,
+        "left": 8.7833251953125,
+        "path": "articles/1590173808غلاف1.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 750,
+        "watermark_path": "articles/watermark-1590173808غلاف1.jpg",
+        "width": 732
+    },
+    "post_date": "2020-05-22T21:38:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/bargoty/videos/10211190776784574/",
+            "name": "Mohamad Bargoty",
+            "path": "published/0_1590173807_bargoty.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100008058556368/videos/1823822364563031/",
+            "name": "القاضي مروان الختالين",
+            "path": "published/1_1590173807_القاضي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/sami.khiyami/videos/10154679414044144/",
+            "name": "Sami Khiyami",
+            "path": "published/2_1590173807_سامي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=1346452845378812",
+            "name": "الشيخ يوسف استس",
+            "path": "published/3_1590173808_الشيخ.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=1175000195919719",
+            "name": "ريف دمشق الآن",
+            "path": "published/4_1590173808_ريف.jpg"
+        },
+        {
+            "link": "https://twitter.com/ibrahemalsharif/status/800623474720915456",
+            "name": "ابراهيم",
+            "path": "published/5_1590173808_ابراهيم.jpg"
+        },
+        {
+            "link": "https://twitter.com/ibmbader/status/799933908699623424",
+            "name": "ابراهيم بدر",
+            "path": "published/6_1590173808_ابراهيم بدر.jpg"
+        },
+        {
+            "link": "https://twitter.com/Sherihan/status/800294772460191745",
+            "name": "شيريهان",
+            "path": "published/7_1590173808_شيريهان.jpg"
+        },
+        {
+            "link": "https://twitter.com/hoosham_85/status/800018383429369856",
+            "name": "هووشام",
+            "path": "published/8_1590173808_هووشام.jpg"
+        },
+        {
+            "link": "https://twitter.com/DrWalyazeedi/status/799924791016882180",
+            "name": "قطرية وهويتي تميم",
+            "path": "published/9_1590173808_قطرية.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=6C5Dc7oz7vk&feature=emb_title",
+            "name": "المقطع الأصلي",
+            "path": "sources/0_1590173808_المصدر.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "رفع الأذان من كنيسة في القدس.. خبر مضلل",
+    "updated_at": "2020-09-25 17:38:14",
+    "url_path": "/factcheck/2020/05/22/رفع-الأذان-من-كنيسة-في-القدس-خبر-مضلل"
+}

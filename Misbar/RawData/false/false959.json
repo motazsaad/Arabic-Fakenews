@@ -1,0 +1,85 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 1,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2126,
+    "author": {
+        "fullname": "أنس سمحان",
+        "id": "5e32f3f9d4a22962ed7ff427",
+        "photo": {
+            "name": "1580397561_Untitled1.jpg",
+            "path": "authors/1580397561_Untitled1.jpg"
+        }
+    },
+    "category": "Spirituality & Religion",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">ترامب يصرّح &quot;قدّمتُ للمسيحية أكثر مما قدّم المسيح لها&quot;.</span></p>\r\n",
+    "country": "US",
+    "created_at": "2020-02-05 09:53:08",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e3a6654d4a2291bdf526a36",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">توصّل&quot;مسبار&quot; إلى الموقع الذي نشر الخبر، ووجد أولاً أنه منشور في نهاية العام الماضي، وتحديداً في 23 ديسمبر/كانون الأول عام 2019، وثانياً، عند فتح صفحة معلومات الموقع، يتّضح أنّ الموقع ليس إخباريًّا، وإنما ذو محتوى ساخر يتناول قضايا تلامس الحياة اليومية. </span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "ترمب",
+        "الولايات المتحدة الأميركية",
+        "المسيح",
+        "المسيحية"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت حسابات على مواقع التواصل الاجتماعي خبراً ظنّت أنه تصريح حقيقي للرئيس الأميركي دونالد ترامب في صحيفة &quot;المسيحية اليوم&quot;، إذ يقول فيه ترامب أنه &quot;قدَّم للمسيحية أكثر ممّا قدّمَ المسيح لها&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"EN-GB\"><img alt=\"A person wearing a suit and tie\r\n\r\nDescription automatically generated\" src=\"https://images-prod.misbar.com/articlebody/origin_79c7s695e.jpg\" style=\"height:432px; width:462px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"EN-GB\"><img alt=\"A person in a suit and tie\r\n\r\nDescription automatically generated\" src=\"https://images-prod.misbar.com/articlebody/origin_i4j0ozisi.jpg\" style=\"height:483px; width:459px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"EN-GB\"><img alt=\"A person in a suit and tie\r\n\r\nDescription automatically generated\" src=\"https://images-prod.misbar.com/articlebody/origin_ffcv1kmua.jpg\" style=\"height:431px; width:455px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 375,
+        "left": 7.2166748046875,
+        "path": "articles/1580885588Optimized-GettyImages-1074741084.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 677,
+        "width": 666
+    },
+    "post_date": "2020-02-05T08:45:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/abdelzaher2u/posts/2803680933030335",
+            "name": "مصطفى عبد الظاهر",
+            "path": "published/0_1580885588_مصطفى عبد الظاهر - لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/veteransagainstrepublicanignorance/permalink/2918383064888808/",
+            "name": "Indy Charo",
+            "path": "published/1_1580885588_Indy Charo - logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1035858913414702&id=100009718081602",
+            "name": "Gwynoro Jones",
+            "path": "published/2_1580885588_Gwynoro jones - logo.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://babylonbee.com/news/trump-i-have-done-more-for-christianity-than-jesus?fbclid=IwAR2CKtLqF9tjxSxdJI9EujFt4Ijn7DZg7dcw6nAsCkECyB3OpJJHcTFOVdQ",
+            "name": "Babylon Bee",
+            "path": "sources/0_1580885588_Babylon bee - logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "خبر زائف: ترامب يصرّح \"قدّمتُ للمسيحية أكثر ممّا قدّم المسيح لها\"",
+    "updated_at": "2020-09-25 16:39:06",
+    "url_path": "/factcheck/2020/02/05/خبر-زائف-ترامب-يصرح-قدمت-للمسيحية-أكثر-مما-قدم-المسيح-لها"
+}

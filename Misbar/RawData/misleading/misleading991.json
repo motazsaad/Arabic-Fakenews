@@ -1,0 +1,94 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 1,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 224049,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "الصور من حفل كليب (فيسبوك)",
+    "category": "Arts & Culture",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صور حفل خطوبة الفنان التونسي نور شيبة.</p>\r\n",
+    "country": "TN",
+    "created_at": "2020-06-20 21:43:53",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eee58e9163be3162d37e443",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الصور المتداولة وتبين أنّها مضللة، إذ أنّ الفنان التونسي نور شيبة لم يحتفل بخطوبته بل هي صور ترويجية لفيديو كليب صوره مؤخراً مع&nbsp;عارضة الأزياء التونسية <a href=\"https://www.instagram.com/nesrine_bosh/?hl=fr\">نسرين البوش</a>.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وتواصل &quot;مسبار&quot; مع إدارة أعمال نور شيبة، التي لم تنف فرضية أن تكون صوراً لفيديو كليب، وقالت إنّ الأمر سيكشف بداية الأسبوع المقبل، مع تواصل الحملة الترويجية للكليب.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وأكّد صحفيون متخصصون في المجال الفني لـ&quot;مسبار&quot; أنها صور من فيديو كليب جديد للفنان التونسي حول العنصرية.</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات إخبارية وحسابات على مواقع التواصل الاجتماعي، صوراً تدّعي أنها لحفل خطوبة الفنان التونسي نور شيبة، مرفقة بالمباركات والتهاني.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">ونقلت الصفحات نفسها الصور، عن الصفحة الرسمية للفنان التونسي على موقع فيسبوك.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img alt=\"2.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_u8pp50pds.jpg\" style=\"height:475px; width:469px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img alt=\"1.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_xr8z75oxr.jpg\" style=\"height:506px; width:379px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_wxso9thu4.jpg\" style=\"height:506px; width:406px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 276,
+        "left": 61.105224609375,
+        "path": "articles/1592678633104606323_1525580627623148_4940261082730527922_n.jpg",
+        "top": 73.746826171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-1592678633104606323_1525580627623148_4940261082730527922_n.jpg",
+        "width": 490
+    },
+    "post_date": "2020-06-20T17:51:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/Fehri.Fans/posts/3187152318017597",
+            "name": "Sami el fehri",
+            "path": "published/0_1592678632_93806578_3022042137861950_3661826135169171456_o.jpg"
+        },
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=1156861674672429&id=100010458217415",
+            "name": "Bochra bel haj hmida",
+            "path": "published/1_1592678975_72970896_951173371907928_1940149324465831936_n.jpg"
+        },
+        {
+            "link": " https://www.facebook.com/nour.chiba/posts/2704886859747814",
+            "name": "نور شيبة",
+            "path": "published/2_1592678975_80433007_2554311208138714_646221359176744960_o.jpg"
+        },
+        {
+            "link": "https://www.tuniscope.com/galleries/1716?fbclid=IwAR191aM4hUtDCudRFhl_byRFn9yrXTRu-v887UgcNbKrZmvrcbAZ-gBySjw",
+            "name": "Tuniscope",
+            "path": "published/3_1592678975_1.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/112379616844868/photos/a.112391930176970/263427778406717/?type=3&theater",
+            "name": "zoom le mag",
+            "path": "published/4_1592678975_82457429_153202332762596_4477055660034359296_o.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/nour.chiba/",
+            "name": "إدارة أعمال نور شيبة",
+            "path": "sources/0_1592678633_80433007_2554311208138714_646221359176744960_o.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "حفل خطوبة الفنان نور شيبة.. حقيقة الصور",
+    "updated_at": "2020-09-25 17:25:48",
+    "url_path": "/factcheck/2020/06/20/حفل-خطوبة-الفنان-نور-شيبة-حقيقة-الصور"
+}

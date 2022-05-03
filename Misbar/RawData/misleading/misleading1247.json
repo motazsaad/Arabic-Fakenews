@@ -1,0 +1,118 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1730,
+    "author": {
+        "fullname": "خالد إسماعيل",
+        "id": "5e59256dd4a2295224257db3",
+        "photo": {
+            "name": "1582900589_صورة 2.jpg",
+            "path": "authors/1582900589_صورة 2.jpg"
+        }
+    },
+    "caption": "شجار على خلفية حادث سيارة وليس على مواد غذائية (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">فوضى وإطلاق نار.. الأتراك يتقاتلون على زجاجة زيت وكيس أرز وكمامة، وشجار بسبب نقص الأغذية.</p>\r\n",
+    "country": "TR",
+    "created_at": "2020-04-14 14:37:54",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 3,
+    "id": "5e95a092db29163bbd4c6c04",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تحقق &quot;مسبار&quot; من المقطع المتداول وتبين أنّ الادعاء مضلل، لأن الفيديو مُلتقط في حيّ بيرم باشا في مدينة إسطنبول، مساء يوم الجمعة 10 أبريل/نيسان، ولكن ليس لقتال أتراك على مواد غذائية، وإنما لاشتباكات بين بعض الأفراد بسبب حادث مروري، تطوّر إلى مشادات أدّت إلى اشتباكات بين أطرف الحادث.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_mvrdofywf.jpg\" style=\"height:451px; width:602px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "تركيا",
+        "اشتباكات",
+        "شجار",
+        "مواد غذائية.كورونا تركيا",
+        "كوفيد-19"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تداولت وسائل إعلامية مثل قناة العربية وحسابات على مواقع التواصل الاجتماعي مقطع فيديو يظهر شجاراً وكرًّا وفرًّا في أحد الشوارع التركية، مع الادعاء بانتشار الفوضى والاشتباكات في تركيا بسبب نقص الأغذية، وادعى بعض ناشري الادعاء أنّ الأتراك يتقاتلون على زجاجة زيت وكيس أرز وكمامة طبية.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_vdzag9cu7.jpg\" style=\"height:617px; width:590px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_qgozv5kq8.jpg\" style=\"height:798px; width:602px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1586865307GettyImages-456807010.jpg",
+        "watermark_path": "articles/watermark-1586865307GettyImages-456807010.jpg"
+    },
+    "post_date": "2020-04-14T14:25:00.000+03:00",
+    "published": [
+        {
+            "id": "5f91b946acff353f0f24d21f",
+            "link": "https://twitter.com/ashraaf_alsaad/status/1248934036384428032",
+            "name": "أشرف السعد ",
+            "origin": "",
+            "path": "published/0_1586864272_أشرف-السعد-لوغو.jpg"
+        },
+        {
+            "id": "5f91b9469c400c18d97f98b4",
+            "link": "https://twitter.com/AlArabiya/status/1248928376762621952",
+            "name": "العربية",
+            "origin": "",
+            "path": "published/1_1586864273_العربية-لوغو.jpg"
+        },
+        {
+            "id": "5f91b94686003f7c6a56ea57",
+            "link": "https://twitter.com/HudaRAbdo/status/1248955279842123776",
+            "name": "هدى",
+            "origin": "",
+            "path": "published/2_1586864273_هدى-لوغو.jpg"
+        },
+        {
+            "id": "5f91b9465556b313ef39e7ef",
+            "link": "https://www.facebook.com/sokarbara1/videos/843405736159442/",
+            "name": "سكر بره ",
+            "origin": "",
+            "path": "published/3_1586864273_سكر-لوغو.jpg"
+        },
+        {
+            "id": "5f91b9460f4f6910a25a1089",
+            "link": "https://www.facebook.com/100031447410185/videos/224833851908194/",
+            "name": "لطفي جاد أبو جاد ",
+            "origin": "",
+            "path": "published/4_1586864273_لطفي-لوغو.jpg"
+        },
+        {
+            "id": "5f91b946fdbe851b48100612",
+            "link": "https://www.facebook.com/mubashirturkiaa/videos/vb.105207591138670/883713992091605/?type=2&theater",
+            "name": "مباشر تركيا ",
+            "origin": "",
+            "path": "published/5_1586864273_مباشر-تركيا-لوغو.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f91b946d43c437ba307fac4",
+            "link": "https://www.cnnturk.com/turkiye/bayrampasada-kuyruk-kavgasi-trafik-kazasi-kavgasi-cikti",
+            "name": "CNN T&Uuml;RK",
+            "origin": "",
+            "path": "sources/0_1586864273_CNN-TÜRK-logo.jpg"
+        },
+        {
+            "id": "5f91b946dcb43d1c034305f7",
+            "link": "https://www.internethaber.com/sosyal-medyada-ekmek-kavgasi-denildi-isin-asli-ortaya-cikti-video-galerisi-2095136.htm",
+            "name": "Internet Haber",
+            "origin": "",
+            "path": "sources/1_1586864273_Internet-Haber-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذا الفيديو ليس لقتال أتراك على مواد غذائية  ",
+    "updated_at": "2020-10-22 19:54:30",
+    "url_path": "/factcheck/2020/04/14/هذا-الفيديو-ليس-لقتال-أتراك-على-مواد-غذائية"
+}

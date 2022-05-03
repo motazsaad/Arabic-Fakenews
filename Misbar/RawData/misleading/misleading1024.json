@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1079,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "المقطع لمظاهرة خرجت عام 2012 في العاصمة دمشق (تويتر)",
+    "category": "Politics",
+    "claim": "<p>فيديو يصوّر مظاهرة &quot;طيّارة&quot; خرجت حديثاً قرب فندق الفورسيزنز في العاصمة السورية دمشق</p>\r\n",
+    "country": "SY",
+    "created_at": "2020-06-11 15:07:54",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ee21e9ad6e4a971cf6acd84",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الفيديو، ووجده قديم ولا علاقة له بالفترة الحالية. ويصوّر مظاهرة &quot;طيّارة&quot; ضد النظام السوري في العاصمة دمشق، في شهر أبريل/نيسان عام 2012. وتمّ تداول الفيديو على أنه في الفترة الحالية، بعد حدوث احتجاجات مناوئة للنظام في محافظة السويداء جنوبي سورية. وتجدر الإشارة أن مصطلح (مظاهرة طيّارة) يُستخدم في سورية للدلالة على التجمعات الاحتجاجية التي تستمر لفترة قصيرة لا تتعدا بضع دقائق.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/wMWXbpRg3zk\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشر مستخدمون على موقع التواصل الاجتماعي فيسبوك، مقطع فيديو قالوا إنّه يصور مظاهرة طيّارة مناوئة للنظام، خرجت حديثاً في قلب العاصمة السورية دمشق قرب فندق الفورسيزنز.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FMinbarAlhassakah%2Fvideos%2F2535254966725528%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Faboallethaljzraoe%2Fvideos%2F959153111204763%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fomar.jabr.saida%2Fvideos%2F2811532562309483%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 316,
+        "left": 1.28887939453125,
+        "path": "articles/1591877273AwBIqqbCMAA7W4D.jpg",
+        "top": 18,
+        "totalHeight": 423,
+        "totalWidth": 564,
+        "watermark_path": "articles/watermark-1591877273AwBIqqbCMAA7W4D.jpg",
+        "width": 561
+    },
+    "post_date": "2020-06-11T14:54:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/MinbarAlhassakah/videos/2535254966725528/",
+            "name": "منبر الحسكة",
+            "path": "published/0_1591877273_منبر الحسكة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=959153111204763",
+            "name": "الإعلامي أبو الليث الجزراوي",
+            "path": "published/1_1591877273_الإعلامي أبو الليث الجزراوي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/omar.jabr.saida/videos/2811532562309483/",
+            "name": "Omar Jabr",
+            "path": "published/2_1591877273_Omar Jabr.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=879951149140426&id=100013766472492&__xts__%5B0%5D=68.ARAS2Yms7KQh42arl4Tatyf0vuUEIBFWjdkMzumeUe0Xa6PltNkIqAoWatf1kn5sfJTe80cmsePl89F3FM9AwAyN2xH2kFJ_QEpmI4uddvJC0ErsxkjGOsZdiJ0ijm8Pv9u8lhGxIJNsRNUwrP8YZc4m9o4xY5WLPNDSs2dyneXLw6c8tyRlkj_lwVHfGp76UnCnHSaSHOK2YkEHEpr_9YBRqlIfgYPzo4KWVR_D-8Plvsr3py_H0ty_kxXWzW67FjaVBj3w5ZxfEWG7kpcQzHOtvT7uWlfBYLVfexa2_VOI0EJfKrytVZ455rl_SUmArfsYbJzZERTyMRQ&__tn__=-R",
+            "name": "محمود مصطفى حصرية",
+            "path": "published/3_1591877273_محمود مصطفى حصرية.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=712047782697073&id=100016755737311&__xts__%5B0%5D=68.ARAu9Ek-q8c_Qfbuj6GGMKGw4yvFY1ukOMfhI-eaU8iGvN-we3p8t1dtVrhPe-u2oz0yXuLAVPLDuUtePzo66v9QN1PplGBCjeeU5govTclIZwGDGmyZiFo2MYcT9jzWiSxhZyvD9mpWkqdiDanZV2nf3TmOcD8gfSEzHUnTCH35jLN0rB2HNmRtueqNdFXdLs64K6qiMxtAKHIn5JQK8sXPSqwVD3Y1voEG-g6YH_BKJBsLyTLg674DAsZ0L-iT6m2gLoT-LZRj067uroBXFlG3JI8k02BkTMcFC5BiqHlohX21lax5LKc7z6pGo4UbI4RkiNTnNbiojbY&__tn__=-R",
+            "name": "راية هدى الحق",
+            "path": "published/4_1591877273_راية هدى الحق.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=562010484507912&id=100020968954936&__xts__%5B0%5D=68.ARAKCLERvZhy8P4StBuYO2yfH4UaA9yo0be-OJTtV4Pnu7o7NHTp7_yuLJA8DUYJHGGdNjGVXtonB3qZeC8A8YxGfIxpSQi2O6csUvtWg5ZPY3x4NHVU7U3JIRBqG0aWhPlY_MOQkvsR-diuS7sksaImDHcaMJViDYEZOkWTEShl_j2NXfQDZsky1kHw0fBQgEjp2xw3UW3yCrlF4_EmyZ49GNBcPOC7o_qS1jNUX03MNeL1bbo9qLolceWUQ33MFpVhroYH1GtmZ6ekX_G-C2_jfUlJN5sYCWrRWfEhNE8qA49QWh4fhUQUWhCns5qGmE816H38nlQwthWh4oP3GjGnh2vj5WV_F5A&__tn__=-R",
+            "name": "مازن عيسا",
+            "path": "published/5_1591877273_مازن عيسى.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=wMWXbpRg3zk",
+            "name": "المقطع الأصلي",
+            "path": "sources/0_1591877273_YouTube-logo.jpg"
+        },
+        {
+            "link": "https://www.alquds.co.uk/%D9%85%D8%B8%D8%A7%D9%87%D8%B1%D8%A7%D8%AA-%D9%81%D9%8A-%D8%A7%D9%84%D8%B3%D9%88%D9%8A%D8%AF%D8%A7%D8%A1-%D9%88%D8%AF%D8%B1%D8%B9%D8%A7-%D9%84%D9%84%D9%85%D8%B7%D8%A7%D9%84%D8%A8%D8%A9-%D8%A8%D8%A5/",
+            "name": "القدس العربي",
+            "path": "sources/1_1591877273_القدس العربي1.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "مظاهرات \"طيّارة\" في قلب العاصمة دمشق.. الفيديو قديم",
+    "updated_at": "2020-09-23 12:29:53",
+    "url_path": "/factcheck/2020/06/11/مظاهرات-طيارة-في-قلب-العاصمة-دمشق-الفيديو-قديم"
+}

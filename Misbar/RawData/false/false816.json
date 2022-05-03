@@ -1,0 +1,102 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 3,
+        "fb": 1,
+        "tw": 7
+    },
+    "amount_sources": 0,
+    "amount_visits": 3204,
+    "author": {
+        "fullname": "هيثم جودية",
+        "id": "5e295291d4a2296ff0065605",
+        "photo": {
+            "name": "1579766417_هيثم .JPG",
+            "path": "authors/1579766417_هيثم .JPG"
+        }
+    },
+    "caption": "",
+    "category": "Spirituality & Religion",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">مقطع فيديو للرئيس الأمريكي دونالد ترامب وهو يقف أمام صورة للحرم المكي ويقول إنه سيطلب من حلفائه فرض رسوم عالية على دخول المسلمين إلى الحرم.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-04-02 17:23:15",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e85f553db291639b95ede53",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الادعاء زائف، إذ تحقق مسبار من صحة الفيديو المتداول وتبين أنه يعود <a href=\"https://www.mediaite.com/online/donald-trump-seriously-ended-his-abc-interview-by-talking-about-crowd-size/\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">للقاء</a> أجرته شبكة <span dir=\"LTR\">ABC News</span> الأميركية مع ترامب في تاريخ 25 يناير/كانون الثاني عام 2017 ونشره موقع <span dir=\"LTR\">Mediaite</span>. يظهر في مقطع الفيديو الرئيس الأميركي واقفاً بجانب صورة لمبنى الكونغرس (الكابيتول) وتواجد حشود كبيرة من المواطنين هناك أثناء حفل تنصيبه (في الدقيقة 1:30 من <a href=\"https://www.mediaite.com/online/donald-trump-seriously-ended-his-abc-interview-by-talking-about-crowd-size/\" target=\"_blank\">الفيديو الأصلي</a>)، وليست صورة الحرم المكّي كما يظهر في الفيديو المتداول.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وتحدّث ترامب في المقطع الأصلي عن مقدار الحب الذي تلقّاه وعبّرت عنه هذه الحشود بحضورها في ذلك اليوم.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_k503ltiow.jpg\" style=\"height:477px; width:554px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_5ijq10nyg.jpg\" style=\"height:364px; width:554px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "ترامب",
+        "مكة المكرمة",
+        "الحرم المكي",
+        "الحج والعمرة"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت صفحات على موقع التواصل الاجتماعي فيسبوك مقطع فيديو لدونالد ترامب وهو يتحدث وأمامه صورة للحرم المكّي، قائلاً بحسب الترجمة المرفقة إنّ &quot;وجود المسلمين في الحرم بهذا الشكل يكاد يزعجني ويخيفني، هذا يشكّل خطراً علينا. رسولهم يأمرهم بالعمرة والحج، وَجَبَ علينا وقف هذا، أتفهمون؟! وجبَ علينا وقف هذا! سنجعل حلفاءنا يفرضون عليهم رسوماً عالية لدخول الكعبة حتى يقلّ هذا العدد&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_3so9y8l8v.jpg\" style=\"height:626px; width:494px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_b0m3ob2zy.jpg\" style=\"height:622px; width:497px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 354,
+        "left": 3.25,
+        "path": "articles/1585837394Donald_Trump_by_Gage_Skidmore_3.jpg",
+        "top": 50.7333984375,
+        "totalHeight": 423,
+        "totalWidth": 635,
+        "watermark_path": "articles/watermark-1585837394Donald_Trump_by_Gage_Skidmore_3.jpg",
+        "width": 628
+    },
+    "post_date": "2020-04-02T17:14:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/watch/?v=573176343285276",
+            "name": "رجال من البادية",
+            "path": "published/0_1585837393_رجال-من-البداية-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/naseer.alqopasi/posts/299041911066714",
+            "name": "ناصر القبيسي",
+            "path": "published/1_1585837393_ناصر-القبيسي-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/amer.duhoke.98/posts/831699190666725",
+            "name": "الطريق إلى جنة",
+            "path": "published/2_1585837394_الطريق-إلى-الجنة-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100011246105821/videos/1053445045040356/",
+            "name": "يحيى عمر",
+            "path": "published/3_1585837394_يحيى-عمر-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=2839345046129537",
+            "name": "السويس 2050",
+            "path": "published/4_1585837394_السويس-2050-لوغو.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.mediaite.com/online/donald-trump-seriously-ended-his-abc-interview-by-talking-about-crowd-size/",
+            "name": "الفيديو الأصلي",
+            "path": "sources/0_1585837394_Mediaite-logo.jpg"
+        },
+        {
+            "link": "https://www.gettyimages.ae/detail/news-photo/walt-disney-television-via-getty-images-news-david-muir-news-photo/632687790?adppopup=true&uiloc=thumbnail_more_from_this_event_adp",
+            "name": "Getty Images",
+            "path": "sources/1_1585837394_getty-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "مقطع فيديو مفبرك يُطالب فيه ترامب بفرض رسوم عالية على الحج والعمرة",
+    "title": "ترامب يطالب بفرض رسوم عالية على الحج والعمرة.. فيديو زائف",
+    "updated_at": "2020-09-25 18:07:17",
+    "url_path": "/factcheck/2020/04/02/ترامب-يطالب-بفرض-رسوم-عالية-على-الحج-والعمرة-فيديو-زائف"
+}

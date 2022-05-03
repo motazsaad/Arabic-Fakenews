@@ -1,0 +1,89 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 216,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">الرئيس الفرنسي إيمانويل ماكرون قبل 30 سنة، يرقص مع زوجته الحالية بريجيت ترونيو.</p>\r\n",
+    "country": "FR",
+    "created_at": "2020-01-12 13:16:13",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e1af1edd4a22905d3492783",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">هذا المقطع ليس للرئيس الفرنسي إيمانويل ماكرون وزوجته، وقد بُثَّ فقط قبل ثلاث سنوات. والحقيقة أنه لمشاركة طفل ومدربته في برنامج للمواهب في عام 2016، إذ شارك الطفل &quot;جيك مونريل&quot; <a href=\"https://soyouthinkyoucandance.fandom.com/wiki/Jake_Monreal\" style=\"color:blue; text-decoration:underline\">المولود سنة</a> 2003، مع الراقصة &quot;<a href=\"https://twitter.com/jennajohnson?lang=ar\" style=\"color:blue; text-decoration:underline\">جينا جونسون</a>&quot; في برنامج &quot;<span dir=\"LTR\">So You Think You Can Dance</span>&quot; وهو برنامج أميركي للرقص يُبث عبر شبكة فوكس التلفزيونية منذ يوليو/ تموز 2005.</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "ماكرون",
+        "فرنسا",
+        "رقص",
+        "زوجة"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">انتشر في عام 2017 مقطعٌ&nbsp;على موقع يوتيوب، وكُتب عليه &quot;الرئيس الفرنسي يرقص مع زوجته الحالية&quot;، وأعيد نشر المقطع نفسه في العام 2019 على حساب لمستخدم في تويتر، وحصل على آلاف المشاهدات وإعادات التغريد.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_0b67ec091a672e1178958f9005b3ea99.jpg\" style=\"height:710px; width:551px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 235,
+        "left": 0.29998779296875,
+        "path": "articles/1578824173GettyImages-1191474445.jpg",
+        "top": 32.32501220703125,
+        "totalHeight": 423,
+        "totalWidth": 423,
+        "width": 418
+    },
+    "post_date": "2019-11-21T12:54:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.youtube.com/watch?v=Rp858GErR5E",
+            "name": "جمال الخليفة",
+            "path": "published/0_1578824173_YouTube-logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/zainijamadar/status/1196423061001703424?fbclid=IwAR3E67gRuUCX-dGcVVjyysp86CPMbnzeeeGG_w53KsSV4gumOPrrqQ3uxnU",
+            "name": "Zaini M. Jamadar",
+            "path": "published/1_1578824173_Twitter-logo.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=QwWdBSTu6x4&fbclid=IwAR2OGcVSGQgAunlOSdkp6gGpklGrTw8FiEjvyGhWXroloxdUbySGq82mb_U",
+            "name": "Jenna Johnson Fans",
+            "path": "sources/0_1578824173_YouTube-logo.jpg"
+        },
+        {
+            "link": "https://soyouthinkyoucandance.fandom.com/wiki/Jake_Monreal",
+            "name": "Fandom",
+            "path": "sources/1_1578824173_fandom.JPG"
+        },
+        {
+            "link": "https://twitter.com/jennajohnson?lang=ar",
+            "name": "Jenna Johnson",
+            "path": "sources/2_1578824173_Twitter-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذا المقطع ليس للرئيس الفرنسي وزوجته الحالية",
+    "updated_at": "2020-09-23 12:40:12",
+    "url_path": "/factcheck/2020/01/12/هذا-المقطع-ليس-للرئيس-الفرنسي-وزوجته-الحالية"
+}

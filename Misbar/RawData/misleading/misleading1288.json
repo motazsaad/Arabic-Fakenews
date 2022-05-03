@@ -1,0 +1,108 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 3,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 38522,
+    "author": {
+        "fullname": "هيثم جودية",
+        "id": "5e295291d4a2296ff0065605",
+        "photo": {
+            "name": "1579766417_هيثم .JPG",
+            "path": "authors/1579766417_هيثم .JPG"
+        }
+    },
+    "caption": "الفيديو مأخوذ من الفيلم الأميركي بانيدميك (Getty)",
+    "category": "News",
+    "claim": "<p>فيديو من إيطاليا يُظهر دفن ضحايا فايروس كورونا بشكل غير لائق.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+    "country": "IT",
+    "created_at": "2020-03-30 16:33:07",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e81f513db29164aac556454",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من المقطع المصوّر، وتأكّد من زيف الادعاء، فالفيديو مأخوذ من الفيلم الأميركي <span dir=\"LTR\">Pandemic</span>، وهو من إنتاج 2007، ويتحدث عن تفشي فايروس أنفلونزا الطيور في مدينة لوس أنجليس، ورحلة البحث عن لقاح لمكافحة الفايروس. ويظهر المشهد الذي ادعى الفيديو المتداول أنّه لدفن ضحايا كورونا في إيطاليا، بعد بداية الفيلم بساعتين و27 دقيقة.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/5FjJABezjFk\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات وحسابات على وسائل التواصل الاجتماعي وموقع يوتيوب مقطع فيديو وصفه ناشروه بـ &quot;المرعب والوحشي&quot;، يصورّ الطريقة غير اللائقة لدفن الموتى بفايروس كورونا في إيطاليا.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/uKgfirN7r6o\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/e4Zz-RCi5XY\" width=\"560\"></iframe></p>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"rtl\" style=\"text-align:center\">لا اعرف اذا كان هذا الفيديو حقيقي، و لكن يقال انه من إيطاليا .. صور مؤلمة لضحايا الكورونا كما يقولون و كيفية التعامل مع الجثث حيث ان الأهالي لا يستطيعون دفن موتاهم.. للعبرة فقط<a href=\"https://twitter.com/hashtag/%D9%88%D8%B7%D9%86%D9%83_%D8%A8%D9%8A%D8%AA%D9%83?src=hash&amp;ref_src=twsrc%5Etfw\">#وطنك_بيتك</a> <a href=\"https://t.co/20b9JLsD0F\">pic.twitter.com/20b9JLsD0F</a></p>\r\n&mdash; Ali kabalan (@aboukaba) <a href=\"https://twitter.com/aboukaba/status/1243272033171050503?ref_src=twsrc%5Etfw\">March 26, 2020</a></blockquote>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 355,
+        "left": 0.87939453125,
+        "path": "articles/1585575186GettyImages-1208071052.jpg",
+        "top": 32.80712890625,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "width": 630
+    },
+    "post_date": "2020-03-30T16:17:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/modawy_al/status/1243221926727860227",
+            "name": "مضاوي الحوطي",
+            "path": "published/0_1585575185_مضاوي الحوطي.jpg"
+        },
+        {
+            "link": "https://twitter.com/olmo4009/status/1243273727531520002",
+            "name": "مصدر مقرب ",
+            "path": "published/1_1585575185_مصدر مقرب.jpg"
+        },
+        {
+            "link": "https://twitter.com/DaffarAhmed/status/1243814716272783360",
+            "name": "Dr. Ahmed Abdulameer Daffar",
+            "path": "published/2_1585575186_Dr. Ahmed Abdulameer Daffar.jpg"
+        },
+        {
+            "link": "https://twitter.com/sayegh71/status/1243535985964650497",
+            "name": "أدب الحوار",
+            "path": "published/3_1585575186_أدب الحوار.jpg"
+        },
+        {
+            "link": "https://twitter.com/aboukaba/status/1243272033171050503",
+            "name": "Ali kabalan",
+            "path": "published/4_1585575186_Ali kabalan.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=uKgfirN7r6o&feature=youtu.be",
+            "name": "NBRAS",
+            "path": "published/5_1585575186_NBRAS.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=e4Zz-RCi5XY",
+            "name": "قناة عمر",
+            "path": "published/6_1585575186_قناة عمر.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=e4Zz-RCi5XY",
+            "name": "Pandemic",
+            "path": "sources/0_1585575185_YouTube-logo.jpg"
+        },
+        {
+            "link": "https://www.imdb.com/title/tt0802821/",
+            "name": "IMDB",
+            "path": "sources/1_1585575185_IMDB-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "كورونا إيطاليا: فيديو دفن ضحايا الفايروس غير صحيح",
+    "updated_at": "2020-09-25 21:05:57",
+    "url_path": "/factcheck/2020/03/30/كورونا-إيطاليا-فيديو-دفن-ضحايا-الفايروس-غير-صحيح"
+}

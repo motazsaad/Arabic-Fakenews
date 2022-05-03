@@ -1,0 +1,143 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 216,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "caption": "مظاهرات في برشلونة (يوتيوب)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">الشرطة النمساوية وهي تلاحق المشتبه بهم في تنفيذ هجوم فيينا.</p>\r\n",
+    "country": "AT",
+    "created_at": "2020-11-05 15:03:02",
+    "created_by": "5f39b1ee1dd5850789476b61",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 1,
+    "id": "5fa3e9f64d739b03035d40c4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقق &quot;<a href=\"https://misbar.com/\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">مسبار</a>&quot; من المقطع والادعاء الذي صاحبه، ليجد أنه مضلل، إذ إنَّ المقطع الأصلي ليس لملاحقة الشرطة النمساوية للمتورطين في الهجوم الأخير الذي وقع في فيينا، وإنما يعود لمظاهرات وقعت في برشلونة الإسبانية نهاية شهر أكتوبر<span dir=\"LTR\">/</span>تشرين الأول الفائت، اعتراضاً على الإجراءات المتبعة لمكافحة فايروس كورونا المستجد.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_y02em2l03.jpg\" style=\"height:694px; width:479px\" /></p>\r\n\r\n<p><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/CRv6VlU0OQg\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">اقرأ/ي أيضاً</p>\r\n\r\n<p><a href=\"https://misbar.com/factcheck/2020/08/29/%D8%B2%D9%88%D8%AC%D8%A9-%D9%82%D9%8A%D8%B5%D8%B1-%D8%A7%D9%84%D9%86%D9%85%D8%B3%D8%A7-%D9%84%D9%85-%D8%AA%D9%83%D9%86-%D9%85%D9%86%D9%82%D8%A8%D8%A9-%D9%88%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9-%D9%83%D8%A7%D9%86%D8%AA-%D9%81%D9%8A-%D8%AC%D9%86%D8%A7%D8%B2%D8%A9\" target=\"_blank\">زوجة قيصر النمسا لم تكن منقبة، والصورة كانت في جنازة</a></p>\r\n\r\n<p><a href=\"https://misbar.com/factcheck/2020/11/04/%D9%84%D9%85-%D8%AA%D8%B9%D9%84%D9%86-%D8%A7%D9%84%D8%B5%D8%AD%D9%8A%D9%81%D8%A9-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%B9%D9%86-%D9%85%D9%82%D8%AA%D9%84-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D9%8A%D9%86-%D9%81%D9%8A-%D9%87%D8%AC%D9%88%D9%85-%D8%A7%D9%84%D9%86%D9%85%D8%B3%D8%A7\" target=\"_blank\">لم تُعلن يديعوت أحرنوت عن مقتل إسرائيليين في هجوم النمسا</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">تداولت وسائل إعلام وحسابات على مواقع التواصل الاجتماعي، مقطع فيديو ادّعت أنه لملاحقة الشرطة النمساوية للمتورطين في الهجوم المسلح الذي وقع في فيينا في الثاني من نوفمبر/تشرين الثاني الجاري.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_en67ra3w9.jpg\" style=\"height:482px; width:685px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_tby9xe4ld.jpg\" style=\"height:727px; width:540px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 245,
+        "left": 60.97370910644531,
+        "path": "articles/1604577781قف.JPG",
+        "top": 152.854736328125,
+        "totalHeight": 423,
+        "totalWidth": 544,
+        "watermark_path": "articles/watermark-1604577781قف.JPG",
+        "width": 435
+    },
+    "post_date": "2020-11-05T14:47:00.000+03:00",
+    "published": [
+        {
+            "id": "5fa3ef4a36fe58241b4f0329",
+            "link": "https://www.youtube.com/watch?v=pGf76RUTHII",
+            "name": "BBC News عربي ",
+            "origin": "",
+            "path": "sources/08deb4841942675f24dcdd29ff063fe4e66e7d6a.jpg"
+        },
+        {
+            "id": "5fa26500579eb111ca350dad",
+            "link": "https://twitter.com/ElDjazair_Daily/status/1323395512649814017",
+            "name": "El-djazair daily",
+            "origin": "twitter",
+            "path": "sources/f96902176317bcf25a6e1ee1ef7d348029b37365.jpg"
+        },
+        {
+            "id": "5fa3e9f4276ba212144d8290",
+            "link": "https://www.facebook.com/100005275567705/videos/1494421844076987/",
+            "name": "أبو آلاء البوضيافي الوطوي",
+            "origin": "facebook",
+            "path": "sources/e28077ea7a2b1fd0f7d729e5a637bcc96fdf37e9.jpg"
+        },
+        {
+            "id": "5fa3e9f5f798a8607c5bd78c",
+            "link": "https://www.facebook.com/105396631213804/videos/741985796392208/",
+            "name": "المخابرات السورية",
+            "origin": "facebook",
+            "path": "sources/9a8d97436381c516581608c810086301b34c0bda.jpg"
+        },
+        {
+            "id": "5fa3e9f53c85a4797a66d2da",
+            "link": "https://www.facebook.com/386931542155515/videos/396977345006195/",
+            "name": "Radio Arabica",
+            "origin": "facebook",
+            "path": "sources/235fd9fdffe7289e490dd93b433d3a0a1f067129.jpg"
+        },
+        {
+            "id": "5fa3e9f5ff4c6730a158816b",
+            "link": "https://www.facebook.com/600335919981622/videos/843389603098085/",
+            "name": "هاني شاهين - المدونة",
+            "origin": "facebook",
+            "path": "sources/6e0dd07e4f729dcdde7bdf9b8e7608b96c476a58.jpg"
+        },
+        {
+            "id": "5fa3e9f4b99a5b458507c4a3",
+            "link": "https://twitter.com/zenginglobal/status/1323418223325446145",
+            "name": "Zengin Global",
+            "origin": "twitter",
+            "path": "sources/44605432ce7ce50bf27124bc541aa1ad1a8bbee0.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fa3e9f5348a3e6db61e0bb0",
+            "link": "https://twitter.com/CPU_Police/status/1323268914625785858",
+            "name": "CPU Comunidad y Polic&iacute;as Unidos",
+            "origin": "twitter",
+            "path": "sources/da231ed15bbdd807feefbe31af0b927ddc1b8d0c.jpg"
+        },
+        {
+            "id": "5f8eb18ba3818a4eb81ad3d2",
+            "link": "https://www.youtube.com/watch?v=CRv6VlU0OQg",
+            "name": "قناة يوتيوب",
+            "origin": "",
+            "path": "published/7_1603128187_72cba5bc67b31d9d753cf43c35e93c59a1b0f98d.jpg"
+        },
+        {
+            "id": "5fa3e9f4b99a5b458507c4a3",
+            "link": "https://twitter.com/zenginglobal/status/1323418223325446145",
+            "name": "Zengin Global",
+            "origin": "twitter",
+            "path": "sources/44605432ce7ce50bf27124bc541aa1ad1a8bbee0.jpg"
+        },
+        {
+            "id": "5fa3e9f5e9f3e0452a1c5543",
+            "link": "https://www.facebook.com/164268743615292/videos/790372218476198/",
+            "name": "Wanatux",
+            "origin": "facebook",
+            "path": "sources/36938688af4e22f5b01fa5bee0ec5efa8dd559f2.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الفيديو ليس لمطاردة الشرطة النمساوية لمنفذي هجوم فيينا الأخير",
+    "updated_at": "2020-11-05 16:18:23",
+    "url_path": "/factcheck/2020/11/05/الفيديو-ليس-لمطاردة-الشرطة-النمساوية-لمنفذي-هجوم-فيينا-الأخير",
+    "was_notification_pushed": "true"
+}

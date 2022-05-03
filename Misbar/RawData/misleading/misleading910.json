@@ -1,0 +1,123 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 694,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الفيديو قديم ويعود إلى عام 2016 في ولاية تكساس الأميركية (يوتيوب)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">فيديو يُصوّر غزو الغربان للولايات المتحدة الأميركية.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-07-12 18:22:34",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f0b2aba163be31cb243d822",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">مقطع الفيديو مضلل وينطوي على إثارة. فهو مضلل لأنّ &quot;مسبار&quot; تحقّق من أصله ووجد أنّه قديم ولا يعود إلى الفترة الحالية، ويصوّر أسراب من الغربان في أحد مواقف السيارات في ولاية تكساس الأميركية، وذلك في شهر ديسمبر/كانون الأول عام 2016 كما جاء في الشرح المرافق للفيديو الأصلي المنشور على يوتيوب في أبريل/نيسان من العام الجاري، ولم يتسنى لـ &quot;مسبار&quot; تحديد تاريخ التقاط الفيديو بشكل قطعي.&nbsp;وانطوى عنوان الفيديو المتداول على إثارة ومبالغة لأنّه ادّعى أنّ الولايات المتحدة تتعرض لغزو من أسراب الغربان، والحقيقة أن ظهور تلك الطيور كان في منطقة محددة ولم يشمل كلّ أنحاء البلاد. وأثناء البحث تبيّن لـ &quot;مسبار&quot; أنّ ظهور الغربان في الأماكن العامة ظاهرة تكررت في الأعوام الأخيرة في ولاية تكساس. &nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/h7Ti-O8MByY\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_ban8e14zg.jpg\" style=\"height:608px; width:621px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><img src=\"https://images-prod.misbar.com/articlebody/investigation_neeh4kekk.jpg\" style=\"height:888px; width:656px\" /></strong></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشر مستخدمون على موقع التواصل الاجتماعي فيسبوك وموقع يوتيوب، مقطع فيديو ادعوا أنّه يصوّر كيف غزت أسراب الغربان الولايات المتحدة الأميركية. وجاء في التعليق المرافق للفيديو المتداول &quot;تم غزو الولايات المتحدة من قبل طيور الغراب: لا يمكن للسيارات التحرك والناس يختبئون في السيارات والمنازل&quot;.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F100049548786947%2Fvideos%2F152473293080963%2F&amp;show_text=0&amp;width=214\" style=\"border:none;overflow:hidden\" width=\"214\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FFIESRJB%2Fvideos%2F2886064018137466%2F&amp;show_text=0&amp;width=215\" style=\"border:none;overflow:hidden\" width=\"215\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Ftami.denny.7%2Fvideos%2F10207540992026131%2F&amp;show_text=0&amp;width=267\" style=\"border:none;overflow:hidden\" width=\"267\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 394,
+        "left": 75.54443359375,
+        "path": "articles/1594567353Untitled.jpg",
+        "top": 14.300048828125,
+        "totalHeight": 423,
+        "totalWidth": 783,
+        "watermark_path": "articles/watermark-1594567353Untitled.jpg",
+        "width": 700
+    },
+    "post_date": "2020-07-12T18:06:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/story.php?story_fbid=152473449747614&id=100049548786947",
+            "name": "نزيهة المناعي",
+            "path": "published/0_1594567352_نزيهة المناعي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/FIESRJB/videos/2886064018137466/",
+            "name": "Rj Seif Dn",
+            "path": "published/1_1594567352_Rj Seif Dn.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100042699349486/videos/230978718335438/",
+            "name": "Fleur Vert",
+            "path": "published/2_1594567353_Flexywap media.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/107208304273498/videos/260982161718914/?v=260982161718914&external_log_id=66b6a73f3c3f6a88dd65223cc2925779&q=%D8%AA%D9%85%20%D8%BA%D8%B2%D9%88%20%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA%20%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9%20%D9%85%D9%86%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%B7%D9%8A%D9%88%D8%B1%20%D8%A7%D9%84%D8%BA%D8%B1%D8%A7%D8%A8%3A%20%D9%84%D8%A7%20%D9%8A%D9%85%D9%83%D9%86%20%D9%84%D9%84%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AA%D8%AD%D8%B1%D9%83%20%D9%88%D8%A7%D9%84%D9%86%D8%A7%D8%B3%20%D9%8A%D8%AE%D8%AA%D8%A8%D8%A6%D9%88%D9%86%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA%20%D9%88%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B2%D9%84.",
+            "name": "الشيفرة DZ",
+            "path": "published/3_1594567353_الشيفرة DZ.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/eradm54/videos/243706800232265/?v=243706800232265&external_log_id=66b6a73f3c3f6a88dd65223cc2925779&q=%D8%AA%D9%85%20%D8%BA%D8%B2%D9%88%20%D8%A7%D9%84%D9%88%D9%84%D8%A7%D9%8A%D8%A7%D8%AA%20%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D8%AF%D8%A9%20%D9%85%D9%86%20%D9%82%D8%A8%D9%84%20%D8%A7%D9%84%D8%B7%D9%8A%D9%88%D8%B1%20%D8%A7%D9%84%D8%BA%D8%B1%D8%A7%D8%A8%3A%20%D9%84%D8%A7%20%D9%8A%D9%85%D9%83%D9%86%20%D9%84%D9%84%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA%20%D8%A7%D9%84%D8%AA%D8%AD%D8%B1%D9%83%20%D9%88%D8%A7%D9%84%D9%86%D8%A7%D8%B3%20%D9%8A%D8%AE%D8%AA%D8%A8%D8%A6%D9%88%D9%86%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B1%D8%A7%D8%AA%20%D9%88%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B2%D9%84.",
+            "name": "صفحة الريم النوفمبرية",
+            "path": "published/4_1594567353_صفحة الريم النوفمبرية.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=N-8P3giZ6bU",
+            "name": "Hakim Lwajdi",
+            "path": "published/5_1594567353_Hakim Belouad-logo.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.thesun.co.uk/news/8547802/crows-invade-supermarket-car-park-texas/",
+            "name": "The Sun",
+            "path": "sources/0_1594567353_the sun.JPG"
+        },
+        {
+            "link": "https://www.dailymail.co.uk/news/article-6764193/Right-horror-movie-Crows-invade-Walmart-parking-lot-shoppers-watch-amazement.html",
+            "name": "Daily Mail",
+            "path": "sources/1_1594567353_Daily mail-logo.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?time_continue=38&v=h7Ti-O8MByY&feature=emb_logo",
+            "name": "المقطع الأصلي",
+            "path": "sources/2_1594567353_YouTube-logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/tami.denny.7/videos/vb.1329524479/10207540992026131/?type=2&theater",
+            "name": "Tami Denny",
+            "path": "sources/3_1594567353_Tami Denny.jpg"
+        },
+        {
+            "link": "https://abc13.com/blackbirds-walmart-viral-video-facebook/1576309/",
+            "name": "abc13",
+            "path": "sources/4_1594567353_abc13.jpg"
+        },
+        {
+            "link": "https://www.8newsnow.com/news/like-a-horror-movie-birds-invade-grocery-store-parking-lot/",
+            "name": "8News Now",
+            "path": "sources/5_1594567353_8News Now.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الفيديو قديم، والغربان لم تغزُ الولايات المتحدة",
+    "updated_at": "2020-09-23 12:26:25",
+    "url_path": "/factcheck/2020/07/12/فيديو-قديم-الغربان-لم-تغز-الولايات-المتحدة"
+}

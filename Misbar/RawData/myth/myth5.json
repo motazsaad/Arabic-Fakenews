@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 909,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "نفت البحرية الأميركية القصة (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">مقطع صوتي حقيقي من محادثة بين الأسطول البحري الأميركي السادس وبرج مراقبة بحرية إسباني.</span></p>\r\n",
+    "country": "US",
+    "created_at": "2020-06-30 15:23:40",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 0,
+    "id": "5efb2ecc163be30692697de9",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من المقطع المتداول ووجد أنه زائف، بل يمكن وصفه بالخرافة الشائعة على الإنترنت منذ التسعينات. لأنّ الحوار بين السفينة وبرج المراقبة عبارة عن نكتة قديمة تستمر بالظهور والاختفاء كلّ فترة. كما نفت البحرية الأميركية القصة عبر </span><a href=\"http://web.archive.org/web/20070703184133/http://www.navy.mil/navydata/navy_legacy.asp?id=174\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>موقعها الرسمي</u></span></a><span style=\"color:#000000\"> موضّحة أنها نكتة.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">ومن الجدير بالذكر أنّ للقصة عدّة نسخ، يكون فيها برج المراقبة أحياناً في أيرلندا، أو كندا، وغيرها.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_dstk740uz.jpg\" style=\"height:677px; width:505px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل صفحات وحسابات على مواقع التواصل الاجتماعي، منذ سنوات وحديثاً، مقطعاً صوتيًّا تدّعي أنه لمحادثة بين إحدى السفن في الأسطول البحري الأميركي وبرج مراقبة إسباني، ويطلب البرج من السفينة تغيير مسارها بمقدار 15 درجة لتجنّب الاصطدام بينهما، لكنّ السفينة الأميركية تصرّ على طلب غريب بأنّ يغيّر البرج موقعه.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"484\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Flooch.404%2Fvideos%2F1564023006975524%2F&amp;show_text=1&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"484\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fdzmb.media%2Fvideos%2F1544809372259179%2F&amp;show_text=1&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 354,
+        "left": 1.23333740234375,
+        "path": "articles/1593519819GettyImages-674462016.jpg",
+        "top": 50,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1593519819GettyImages-674462016.jpg",
+        "width": 630
+    },
+    "post_date": "2020-06-30T15:10:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/attayar.kalim/videos/1910351649182249/",
+            "name": "الطيار كليم",
+            "path": "published/0_1593519818_الطيار.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/looch.404/videos/1564023006975524/?v=1564023006975524",
+            "name": "Erreur 404 Dz",
+            "path": "published/1_1593519819_err.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/SpottedConstantine/videos/1581141018627714/",
+            "name": "Spotted Constantine",
+            "path": "published/2_1593519819_spotted.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Alljokesiq/videos/1460808567339623/",
+            "name": "طرائف العالم بعيون عراقية",
+            "path": "published/3_1593519819_طرائف.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/waleed.baleed/videos/1641503075862739/",
+            "name": "Waleed Ryad Baleed",
+            "path": "published/4_1593519819_waleed.jpg"
+        }
+    ],
+    "result": "myth",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "http://web.archive.org/web/20070703184133/http://www.navy.mil/navydata/navy_legacy.asp?id=174",
+            "name": "US Navy",
+            "path": "sources/0_1593519819_navy.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "خرافة.. محادثة بين سفينة أميركية وبرج مراقبة إسباني",
+    "updated_at": "2020-09-25 09:46:27",
+    "url_path": "/factcheck/2020/06/30/خرافة-محادثة-بين-سفينة-في-الأسطول-الأميركي-وبرج-مراقبة-إسباني"
+}

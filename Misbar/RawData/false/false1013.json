@@ -1,0 +1,91 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 950,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">مقطع فيديو للرئيس الأمريكي الأسبق باراك أوباما وهو يزيل السّتار عن صورة كبيرة للرئيس العراقي السابق صدام حسين.</p>\r\n",
+    "country": "US",
+    "created_at": "2019-12-05 16:32:06",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5de906d68d7bd92e71797864",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">مقطع الفيديو زائف، وتمّ التلاعب به عبر استبدال بورتريه للرئيس أوباما بصورة صدّام حسين. ويعود نشر مقطع الفيديو الأصلي إلى 12 فبراير/ شباط 2018، عندما قام أوباما برفع الستار عن لوحةٍ رُسمت له للفنان كيهيندي ويلي، وذلك في متحف الصور الوطني <span dir=\"LTR\">National Portrait Gallery</span>، في العاصمة الأمريكية واشنطن. ولاحظ &quot;مسبار&quot; أثناء البحث أنّ إدارة موقع التغريدات القصيرة تويتر، حذفت العديد من المقاطع المصوّرة التي تدّعي رفع الرئيس الأمريكي الأسبق الستار عن صورةٍ لصدام حسين.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_4bd21fedcf8105c060e91b1dcd53ef20.jpg\" style=\"height:319px; width:438px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشر العديد من روّاد مواقع التواصل الاجتماعي وموقع يوتيوب مقطع فيديو للرئيس الأمريكي الأسبق باراك أوباما، وهو يزيل الستار عن صورة كبيرة للرئيس العراقي السابق صدام حسين، معتبرين ذلك اعترافاً ضمنياً من الولايات المتحدة الأمريكية بخطئها باحتلال العراق عام 2003، وبادرةً من الرئيس أوباما لردّ الاعتبار للرئيس العراقي المخلوع.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_91fcd028f094954efee604bee1d0eb6d.jpg\" style=\"height:308px; width:466px\" /></span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_29559613f43cb4b8390b64c57b25fff6.jpg\" style=\"height:369px; width:389px\" /></span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_dd045d94f92aef9d0b07e3953c9c3674.jpg\" style=\"height:360px; width:383px\" /></span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 355,
+        "left": 0,
+        "path": "articles/1575552726GettyImages-1140822304.jpg",
+        "top": 16,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "width": 630
+    },
+    "post_date": "2019-09-20T16:16:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.youtube.com/watch?v=BNWbKeY283E&fbclid=IwAR2rCNFFkPImy25S185WGMrCVtXdz8PZC820obMevIGbUO51M8xnrkX-Om0",
+            "name": "قناة العرب المنوعة ",
+            "path": ""
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=yY0-Z2_6zpU",
+            "name": "شبل العرب ",
+            "path": "published/1_1575552726_unnamed.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=373569380259184",
+            "name": "Live Feed Index ",
+            "path": "published/2_1575552726_Livedsfsdf.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=508906823244421",
+            "name": "الغيل أونلاين ",
+            "path": "published/3_1575552726_الغيل أون لاين-لوغو.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=uX8muQOfzqA",
+            "name": "Smithsonian",
+            "path": "sources/0_1575552726_Smithsonian- logoo.jpg"
+        },
+        {
+            "link": "https://www.si.edu/obama-portraits",
+            "name": "Smithsonian\t",
+            "path": "sources/1_1575552726_smithsonian- logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل رفع أوباما الستار عن صورة لصدام حسين؟",
+    "updated_at": "2020-09-23 12:40:39",
+    "url_path": "/factcheck/2019/12/05/هل-رفع-أوباما-الستار-عن-صورة-لصدام-حسين"
+}

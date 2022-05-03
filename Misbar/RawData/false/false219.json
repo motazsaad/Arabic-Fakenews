@@ -1,0 +1,106 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 206,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "الصورة الأصلية لميشيل أوباما (تويتر)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">صورة لمايك، قبل أن يتغير شكله بعد عملية تغيير الجنس ليصير ميشيل أوباما.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-10-16 19:31:35",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 9,
+    "feedback_pos": 12,
+    "id": "5f89cae7ad209734d7423aa7",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة المتداولة ووجد أنها مفبركة، لأن <a href=\"https://twitter.com/BarackObama/status/1085915185146150912\" style=\"text-decoration:none\"><u>الصورة الأصلية</u></a> تُظهر ميشيل أوباما بهيئتها الاعتيادية. أما الصورة المتداولة فقد عُدّلت ليبدو وجهها أقرب إلى وجه شاب.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_w597s7alx.jpg\" style=\"height:598px; width:538px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">اقرأ/ي أيضاً:</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/10/06/%D8%B5%D9%88%D8%B1-%D9%82%D8%AF%D9%8A%D9%85%D8%A9-%D9%84%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%85%D8%B9-%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%AA%D9%87-%D9%87%D9%88%D8%A8-%D9%87%D9%8A%D9%83%D8%B3\" target=\"_blank\">صور قديمة لترامب مع مساعدته هوب هيكس</a></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/09/26/%D9%87%D8%B0%D9%87-%D8%B5%D9%88%D8%B1%D8%A9-%D8%B5%D8%AD%D9%8A%D8%AD%D8%A9-%D9%84%D8%AD%D9%88%D8%AA-%D8%A7%D9%84%D8%A8%D9%8A%D9%84%D9%88%D8%BA%D8%A7\" target=\"_blank\">هذه صورة صحيحة لحوت البيلوغا</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "أوباما"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تتناقل صفحات وحسابات على مواقع التواصل الاجتماعي، حديثاً، صورة تدعي أنها لشخص اسمه مايك، قرر القيام بعملية تغيير الجنس ليصير بعد سنوات ميشيل أوباما، زوجة الرئيس الأميركي السابق باراك أوباما.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_j3jvz2gm0.jpg\" style=\"height:722px; width:537px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_2x9jndyd3.jpg\" style=\"height:605px; width:533px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 344,
+        "left": 3.0999755859375,
+        "path": "articles/1602865894ميشيل أوباما.jpg",
+        "top": 6.433349609375,
+        "totalHeight": 423,
+        "totalWidth": 618,
+        "watermark_path": "articles/watermark-1602865894ميشيل أوباما.jpg",
+        "width": 612
+    },
+    "post_date": "2020-10-16T19:29:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/SGCXQ9mi4qWx6KR/status/1315015412732526599",
+            "name": "سبيل المؤمنين(محمد أبو هاجر)",
+            "origin": "twitter",
+            "path": "published/0_1602866204_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/Eagle1443/posts/185810659705527",
+            "name": "قناة العُقاب",
+            "origin": "facebook",
+            "path": "published/1_1602866204_d97fb1b5c3ce64e3bc22c9f6e508d55ba0f8946a.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/Tamem2h/posts/376935167014986",
+            "name": "They Yazan Osama",
+            "origin": "facebook",
+            "path": "published/2_1602866205_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=197489041776870&id=100045473267793",
+            "name": "رضا بن دقديق",
+            "path": "published/3_1602866205_d4cf08c13a4e4ce4776dca004ea523205db7ed06.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/photo?fbid=2497384427229127&set=a.1516286482005598",
+            "name": "محمد العراقي العلواني",
+            "path": "published/4_1602866205_d4cf08c13a4e4ce4776dca004ea523205db7ed06.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/BarackObama/status/1085915185146150912",
+            "name": "Barack Obama",
+            "origin": "twitter",
+            "path": "sources/0_1602865894_d76c2f7775c344aa5c3458fa18d0c86fa5f13fc5.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صورة مفبركة لميشيل أوباما تدعي أنها عابرة جنسياً",
+    "updated_at": "2020-10-16 19:38:58",
+    "url_path": "/factcheck/2020/10/16/صورة-مفبركة-لميشيل-أوباما-تدعي-أنها-عابرة-جنسيا",
+    "was_notification_pushed": "true"
+}

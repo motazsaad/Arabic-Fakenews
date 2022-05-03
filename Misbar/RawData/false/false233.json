@@ -1,0 +1,102 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 163,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "ترامب خرج بمقطع فيديو مسجل يطمئن أميركا على صحته وصحة زوجته ميلانيا(تويتر)",
+    "category": "Health",
+    "claim": "<p>الرئيس الأميركي يقول:&nbsp;<span dir=\"RTL\" lang=\"AR-JO\">&nbsp;&quot;قال الأطباء إنهم لم يروا جسداً يقتل فايروس كورونا مثل جسدي، لقد اختبروا حمضي النووي ولم يكن حمضاً نووياً، بل كانت الولايات المتحدة الأميركية&quot;</span></p>\r\n",
+    "country": "US",
+    "created_at": "2020-10-09 16:02:09",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 5,
+    "feedback_pos": 1,
+    "id": "5f805f5194db4317c60005c1",
+    "investigation": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-JO\">تحقّق &quot;مسبار&quot; من مقطع الفيديو الذي نشره الرئيس ترامب في تغريدة على حسابه في موقع تويتر بعد&nbsp;يومين من دخوله مركز والتر ريد الطبيّ العسكري الوطني، ليجد أن ما نُسب إليه حول قوة مناعة جسده وفحص الدي أن إيه، مجرد تصريحات زائفة، فطوال أربع دقائق تحدث بهم، كان يطمئن الشعب الأميركي على صحته، وصحة زوجته ميلانيا، وعلى أهمية الدواء الذي توفره حالياً المستشفيات الأميركية لمقاومة هذا الفايروس، واصفاً إياه أنه أشبه بالمعجزة، ومتحمِّساً لاستكمال حملته الانتخابية في سباق الرئاسة الأميركي.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_j2du5qecw.jpg\" style=\"height:563px; width:602px\" /></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/IvAecxleqJ8\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-JO\">تداولت </span><span dir=\"RTL\" lang=\"AR-JO\">حسابات على موقع التواصل الاجتماعي تويتر،&nbsp;منذ السادس من أكتوبر/تشرين الأول الجاري، صورةً تظهر لقطة شاشة تلفزيونية فيها صورة الرئيس الأميركيّ دونالد ترامب خلال كلمته المسجَّلة التي خرج بها في الرابع من أكتوبر/تشرين الأول، أثناء تواجده في المستشفى، وتحتها مكتوب بالإنجليزية&nbsp;على اعتبار أنه تصريح له: &quot;قال الأطباء إنهم لم يروا جسداً يقتل فايروس كورونا مثل جسدي، لقد اختبروا حمضي النووي ولم يكن حمضاً نووياً، بل كانت الولايات المتحدة الأميركيّة&quot;.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_lmjfuyizy.jpg\" style=\"height:615px; width:602px\" /></p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_0iagtmy93.jpg\" style=\"height:146px; width:602px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_3zp85mkjz.jpg\" style=\"height:278px; width:602px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1602248836ااااصص.JPG",
+        "watermark_path": "articles/watermark-1602248836ااااصص.JPG"
+    },
+    "post_date": "2020-10-09T13:39:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/alexblyat_/status/1314167047031406592",
+            "name": "alex",
+            "path": "published/0_1602249070_ق4.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/lolximenaaa/status/1314298993376075776",
+            "name": " x!mena",
+            "path": "published/1_1602249070_ق4.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/luminouskoo/status/1313968532762374146",
+            "name": "chrissy",
+            "path": "published/2_1602249070_ق4.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/MoneyMnuchins/status/1313366505439072257",
+            "name": " Mnuchins Munchies ",
+            "path": "published/3_1602249071_ق4.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/Pi314159264/status/1314234915911692289",
+            "name": " 見外不怪",
+            "path": "published/4_1602249071_ق4.JPG"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/realDonaldTrump/status/1312525833505058816",
+            "name": " Donald J. Trump",
+            "path": "sources/0_1602249071_kUuht00m_400x400.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.youtube.com/watch?v=IvAecxleqJ8&feature=emb_title",
+            "name": "صحيفة صدى الإلكترونية",
+            "path": "sources/1_1602249394_ثثصف4.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ترامب لم يقل \"الأطباء لم يروا جسداً يقتل فايروس كورونا مثل جسدي\"",
+    "updated_at": "2020-10-09 16:25:13",
+    "url_path": "/factcheck/2020/10/09/ترامب-لم-يقل-الأطباء-لم-يروا-جسدا-يقتل-فايروس-كورونا-مثل-جسدي",
+    "was_notification_pushed": true
+}

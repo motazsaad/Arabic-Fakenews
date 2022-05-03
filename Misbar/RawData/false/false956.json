@@ -1,0 +1,80 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1734,
+    "author": "",
+    "category": "Business",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">&nbsp;قرار وشيك بإلغاء نهائي لنظام الكفالة في السعودية.</span></p>\r\n",
+    "country": "SA",
+    "created_at": "2020-02-06 11:44:02",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5e3bd1d2d4a229500730d7a3",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">الخبر الذي انتشر على موقع تويتر وتناقلته بعض المواقع، من بينها</span><a href=\"https://webcache.googleusercontent.com/search?q=cache:5d_I9rMw--IJ:https://www.alarabiya.net/ar/aswaq/economy/2020/02/04/%25D8%25B5%25D8%25AD%25D9%258A%25D9%2581%25D8%25A9-%25D9%2582%25D8%25B1%25D8%25A7%25D8%25B1-%25D9%2588%25D8%25B4%25D9%258A%25D9%2583-%25D8%25A8%25D8%25A7%25D9%2584%25D8%25BA%25D8%25A7%25D8%25A1-%25D9%2586%25D9%2587%25D8%25A7%25D8%25A6%25D9%258A-%25D9%2584%25D9%2586%25D8%25B8%25D8%25A7%25D9%2585-%25D8%25A7%25D9%2584%25D9%2583%25D9%2581%25D8%25A7%25D9%2584%25D8%25A9-%25D9%2581%25D9%258A-%25D8%25A7%25D9%2584%25D8%25B3%25D8%25B9%25D9%2588%25D8%25AF%25D9%258A%25D8%25A9+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=id&amp;client=opera\" style=\"color:#0563c1; text-decoration:underline\"> <span style=\"color:#1155cc\">أسواق العربية نت</span></a><span style=\"color:black\">، عن قرب إلغاء نظام الكفيل، كذبته وزارة العمل والتنمية الاجتماعية السعودية على&nbsp; موقعها الرسمي.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">وقالت الوزارة في بيانها: &quot;إشارة إلى ما تم تداوله في وسائل الإعلام ووسائل التواصل الاجتماعي عن إلغاء الكفالة للوافدين، توضح الوزارة أنه لم يصدر عنها أي تصريح حول ذلك&quot;، وتابع البيان: &quot;الوزارة تتشارك في قراراتها التي تمس سوق العمل مع مختلف الجهات الحكومية وقطاع الأعمال، ويتم الإعلان عنها رسمياً&quot;، ودعت إلى ضرورة الحصول على المعلومات من مصادرها الرسمية.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;<img id=\"Picture_x0020_3\" src=\"https://images-prod.misbar.com/articlebody/investigation_kxx36hezi.jpg\" style=\"height:142.5pt; width:442.5pt\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">نقلت صحيفة مال الاقتصادية، ومقرها المملكة العربية السعودية، خبراً نسبته إلى مصادر خاصة، عن قرب إلغاء نظام الكفالة في السعودية، واقتصار العلاقة بين صاحب العمل والوافد على عقد العمل.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">&nbsp;وأشار الخبر المنشور في 3 فبراير/شباط الجاري إلى أن هذا التوجه يأتي في ضوء سلسلة الإصلاحات الاقتصادية التي تشهدها البلاد بعد إطلاق رؤية المملكة 2030.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img id=\"Picture_x0020_5\" src=\"https://images-prod.misbar.com/articlebody/origin_w7x8jt87a.jpg\" style=\"height:212.25pt; width:438pt\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;<img id=\"Picture_x0020_4\" src=\"https://images-prod.misbar.com/articlebody/origin_n4bi1sb00.jpg\" style=\"height:230.25pt; width:451.5pt\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"color:black\">&nbsp;&nbsp; &nbsp; (خبر الأسواق العربية قبل تعديله)</span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 279,
+        "left": 33.48460388183594,
+        "path": "articles/1580978642GettyImages-73375922.jpg",
+        "top": 72.27256774902344,
+        "totalHeight": 384,
+        "totalWidth": 562,
+        "width": 496
+    },
+    "post_date": "2020-02-06T15:31:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/KSA/status/1224377283647037441",
+            "name": "السعودية",
+            "path": "published/0_1580978641_السعودية صفحة لوغو.jpg"
+        },
+        {
+            "link": "https://www.vetogate.com/3903011/مزايا-إلغاء-نظام-الكفيل-في-السعودية",
+            "name": "فيتو",
+            "path": "published/1_1580978641_فيتو.jpg"
+        },
+        {
+            "link": "https://twitter.com/qalbadran/status/1224353698073194500",
+            "name": "قصي البدران",
+            "path": "published/2_1580978642_قصي البدران.jpg"
+        },
+        {
+            "link": "https://maaal.com/archives/20200203/135233",
+            "name": "مال الاقتصادية",
+            "path": "published/3_1580978642_صحيفة مال لوغو.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://mlsd.gov.sa/ar/news/العمل-والتنمية-الاجتماعية-لم-يصدر-عن-الوزارة-قرار-بإلغاء-الكفالة،-وجميع-قرارات-سوق-العمل-تتم",
+            "name": "وزارة العمل والتنمية الاجتماعية السعودية ",
+            "path": "sources/0_1580978641_وزارة العمل السعودية.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لا صحة لإلغاء نظام الكفالة في السعودية",
+    "updated_at": "2020-09-25 16:11:47",
+    "url_path": "/factcheck/2020/02/06/لا-صحة-لإلغاء-نظام-الكفالة-في-السعودية"
+}

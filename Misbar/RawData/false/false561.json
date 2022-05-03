@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1130,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "نقيب الفنانين العراقيين يؤكد كونه بصحة جيدة (Facebook) ",
+    "category": "Arts & Culture",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">الفنان العراقي سعدون جابر أُصيب بفايروس كورونا المستجد(كوفيد_19)</p>\r\n",
+    "country": "IQ",
+    "created_at": "2020-06-27 03:48:50",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ef69772163be30eca29f2a6",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; ووجد أن الخبر مجرد إشاعة، والصورة لا تعود إليه، فقد نفت نقابة الفنانين العراقيين على صفحتها بموقع فيسبوك قبل بضع ساعات من نشر تفنيد &quot;مسبار&quot; للخبر، <span style=\"background-color:white\"><span style=\"color:#1c1e21\">صحة مرض المطرب صاحب الأغنية المعروفة &quot;عشرين عاماً قضت&quot;، مُتابعة أن إصابة سعدون جابر بفايروس كورونا عارية عن الصحة</span></span><span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:#1c1e21\">.</span></span></span><br />\r\n<span style=\"background-color:white\"><span style=\"color:#1c1e21\">وأضافت أن نقيب الفنانين العراقيين د. جبار جودي اتصل بالفنان جابر ليطمئن عليه، ليجد أنه بصحة جيدة، وما نُشر ما هو إلا محض أوهام لاستغلال عواطف الناس ونشر الرعب، داعياً إلى التحقق من أصحاب هذه الصفحات التي تنشر هكذا إشاعات ومقاضاتهم.</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_q62vkk8g0.jpg\" style=\"height:303px; width:605px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت حسابات على موقعيّ فيسبوك وتويتر في يوميّ&nbsp;26 و27 يونيو/حزيران الجاري، خبراً مفاده إصابة الفنان العراقي الشهير سعدون جابر بفايروس كورونا المستجد، بل وصل إلى مرحلة خطرة من مراحل الإصابة به، كما نشرت بعض هذه الحسابات صورةً لرجل قالت&nbsp;بأنه الفنان جابر، وكان موصولاً إلى جهاز للتنفس في منزله.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_s9njszcp9.jpg\" style=\"height:726px; width:520px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_82d9kw53h.jpg\" style=\"height:735px; width:538px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_biogvijbj.jpg\" style=\"height:218px; width:605px\" /><span dir=\"RTL\" lang=\"AR-SA\">&nbsp;</span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 410,
+        "left": 6,
+        "path": "articles/1593218929يييق4.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 761,
+        "watermark_path": "articles/watermark-1593218929يييق4.jpg",
+        "width": 730
+    },
+    "post_date": "2020-06-26T02:49:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=667879140608882&set=a.116268572436611&type=3&theater",
+            "name": "Thikra Nejati",
+            "path": "published/0_1593218929_فايروس.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/110975537247938/photos/a.111131670565658/151120859900072/?type=3&theater",
+            "name": "فريق ناظم السيد",
+            "path": "published/1_1593218929_مؤسسة.jpg"
+        },
+        {
+            "link": "https://twitter.com/annan_80/status/1276578286282379265",
+            "name": "@annan_80",
+            "path": "published/2_1593218929_9JosHuMr_400x400.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/102758251453646/photos/a.102760704786734/133317061731098/?type=3&theater",
+            "name": "الخوة الأصيلة",
+            "path": "published/3_1593218929_الخوة.jpg"
+        },
+        {
+            "link": "https://twitter.com/no_oo51/status/1276596266256998402",
+            "name": "هيئة المشاهير",
+            "path": "published/4_1593218929_6IlOS0Uz_400x400.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/ias.org.iq/photos/a.888297241226173/3014940835228459/?type=3&theater",
+            "name": "نقابة الفنانين العراقيين ـ المركز العام",
+            "path": "sources/0_1593218929_نقالة.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الفنان سعدون جابر لم يصب بفايروس كورونا",
+    "updated_at": "2020-09-25 17:00:16",
+    "url_path": "/factcheck/2020/06/27/الفنان-سعدون-جابر-لم-يصبب-بفايروس-كورونا"
+}

@@ -1,0 +1,108 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 973,
+    "author": {
+        "fullname": "صباح الخطيب",
+        "id": "5edc1b38db291674e776e9a3",
+        "photo": {
+            "path": "authors/1591643228_7.jpg"
+        }
+    },
+    "caption": "الحكم النهائي على اللقاح ما يزال مبكراً (Getty)",
+    "category": "Health",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">منظمة الصحة العالمية تعلن رسمياً: لقاح جامعة أوكسفورد البريطانية المضاد لفايروس كورونا المستجد أثبت فعاليته.</p>\r\n",
+    "country": "GB",
+    "created_at": "2020-07-21 22:03:13",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f173bf1163be307010d40cf",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الخبر واتضح أنه انتقائي، إذ <span style=\"color:#0563c1\"><u><a href=\"https://www.statnews.com/2020/07/20/study-provides-first-glimpse-of-efficacy-of-oxford-astrazeneca-covid-19-vaccine/\" style=\"color:#0563c1; text-decoration:underline\" target=\"_blank\">أشادت منظمة الصحة العالمية</a></u></span> أمس، 20 يوليو/تموز، بالبيانات المنشورة حديثاً من قبل باحثين في جامعة أكسفورد وأسترازينيكا، بشأن لقاح محتمل ضد فايروس كوفيد-19. لكنها حذرت من أن الحكم النهائي على اللقاح ما يزال مبكراً وهناك حاجة إلى مزيد من الأدلة على فعاليته. لكن من تداولوا الخبر لم ينشروا جزئية أن اللقاح يحتاج مزيداً من الدراسة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وقال الدكتور مايك رايان، المدير التنفيذي لبرنامج الطوارئ لمنظمة الصحة العالمية، في مؤتمر صحفي في مقر المنظمة في جنيف، بعد وقت قصير من نشر البيانات في مجلة <span style=\"color:#0563c1\"><u><a href=\"https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31604-4/fulltext\" style=\"color:#0563c1; text-decoration:underline\" target=\"_blank\">The Lancet</a></u></span>، &quot;إنها أخبار سارة. في توليد استجابات الخلايا التائية وتوليد الأجسام المضادة المعادلة، هذه نتيجة إيجابية، ولكن مرة أخرى، هناك طريق طويل لنقطعه، ونحتاج الآن إلى الانتقال إلى تجارب على مستوى العالم الحقيقي&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">يُذكر أنّ <a href=\"https://www.research.ox.ac.uk/Article/2020-07-20-new-study-reveals-oxford-coronavirus-vaccine-produces-strong-immune-response\" target=\"_blank\"><span style=\"color:#0563c1\"><u>لقاح كوفيد-19</u></span></a> الذي طورته جامعة أكسفورد وشركة <span dir=\"LTR\">AstraZeneca</span> الدوائية، ولّد استجابة مناعية في دراسة أجريت على ما يقارب ألف مريض.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img id=\"صورة_x0020_5\" src=\"https://images-prod.misbar.com/articlebody/investigation_8h0g79oqx.jpg\" style=\"height:4in; width:406.8pt\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img id=\"صورة_x0020_6\" src=\"https://images-prod.misbar.com/articlebody/investigation_fdm4vooxl.jpg\" style=\"height:424.8pt; width:399.6pt\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img id=\"صورة_x0020_7\" src=\"https://images-prod.misbar.com/articlebody/investigation_h3a4uoyia.jpg\" style=\"height:343.8pt; width:404.4pt\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول حسابات على مواقع التواصل الاجتماعي، منذ 21 يوليو/تموز الجاري، خبراً يدعي أنّ منظمة الصحة العالمية أعلنت رسمياً أنّ لقاح فايروس كورنا المستجد، الذي تعمل عليه جامعة أوكسفورد البريطانية، أثبت فعاليته.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img id=\"صورة_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/origin_c0x4h4lhx.jpg\" style=\"height:378.6pt; width:406.8pt\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img id=\"صورة_x0020_3\" src=\"https://images-prod.misbar.com/articlebody/origin_33vwhhg3e.jpg\" style=\"height:265.2pt; width:408pt\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 307,
+        "left": 1.566650390625,
+        "path": "articles/1595358192GettyImages-4556142566.jpg",
+        "top": 27.9833984375,
+        "totalHeight": 423,
+        "totalWidth": 549,
+        "watermark_path": "articles/watermark-1595358192GettyImages-4556142566.jpg",
+        "width": 546
+    },
+    "post_date": "2020-07-21T21:56:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/AJELNEWS24/status/1285290548992126976",
+            "name": "خبر عاجل",
+            "path": "published/0_1595358751_خبر.jpg"
+        },
+        {
+            "link": "https://twitter.com/M_Al_Sinawi/status/1285490089037094914",
+            "name": "ماجد بن ناصر السِنٰاوي",
+            "path": "published/1_1595358751_ماجد.jpg"
+        },
+        {
+            "link": "https://twitter.com/AlwatanNews24/status/1285323851681992704",
+            "name": "أخبار الوطن",
+            "path": "published/2_1595358751_أخبارالوطن.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/alghaadye/posts/1151270128606943",
+            "name": "الغد المشرق",
+            "path": "published/3_1595358751_الغد.jpg"
+        },
+        {
+            "link": "https://twitter.com/Kuwait_Tweets/status/1285348586310569986",
+            "name": "Manaf Abdullah",
+            "path": "published/4_1595358751_مناف.jpg"
+        }
+    ],
+    "result": "selective",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.statnews.com/2020/07/20/study-provides-first-glimpse-of-efficacy-of-oxford-astrazeneca-covid-19-vaccine/",
+            "name": "Statnews",
+            "path": "sources/0_1595358192_stat.jpg"
+        },
+        {
+            "link": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31604-4/fulltext",
+            "name": "The lancet",
+            "path": "sources/1_1595358192_lancet.jpg"
+        },
+        {
+            "link": "https://www.research.ox.ac.uk/Article/2020-07-20-new-study-reveals-oxford-coronavirus-vaccine-produces-strong-immune-response",
+            "name": "Oxford",
+            "path": "sources/2_1595358192_ox.jpg"
+        },
+        {
+            "link": "https://www.cnbc.com/2020/07/20/who-applauds-oxford-coronavirus-vaccine-data-it-is-good-news.html",
+            "name": "CNBC",
+            "path": "sources/3_1595358192_cnbc.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لقاح أكسفورد لفايروس كورونا لا يزال بحاجة للمزيد من التجارب",
+    "updated_at": "2020-09-25 06:48:29",
+    "url_path": "/factcheck/2020/07/21/لقاح-أكسفورد-لفايروس-كورونا-لا-يزال-بحاجة-للمزيد-من-التجارب"
+}

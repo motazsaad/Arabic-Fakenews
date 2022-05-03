@@ -1,0 +1,108 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 539,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "لم يُذكر هذا الرقم في أي مصدر رسمي (Getty)",
+    "category": "Health",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">ألمانيا: بعد أسبوع من الدخول المدرسي، 100 مدرسة تعلن الإصابة بفايروس كورونا.</p>\r\n",
+    "country": "DE",
+    "created_at": "2020-08-25 21:16:34",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f45558260211805d426b83e",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الخبر المتداول ووجد أنه مضلل، إذ لم تنشر أي مؤسسة إعلامية رسمية في ألمانيا هذا العدد من المدارس التي سجلت حالات إصابة بكوفيد-19.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">تتراوح أعداد المدارس التي سجلت حالات في العاصمة برلين، بحسب <a href=\"https://www.cbsnews.com/news/coronavirus-school-germany-no-outbreaks/\" style=\"text-decoration:none\" target=\"_blank\"><u>عدة</u></a> <a href=\"https://apnews.com/1954010b808b81161a82a3e7ce00b2aa\" style=\"text-decoration:none\" target=\"_blank\"><u>مصادر</u></a>، بين 38 و41 مدرسة. سجلت معظمها حالة واحدة بين الطلاب أو الكادر التعليمي، دون أن تغلق أيّ منها أبوابها. في حين أُغلقت بعض المدارس في مدن أخرى احترازيًّا عندما سُجلت فيها حالات إصابة.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">وبحسب <a href=\"https://en.unesco.org/covid19/educationresponse\" style=\"text-decoration:none\" target=\"_blank\"><u>مؤشر</u></a> &quot;يونسكو&quot; لإغلاق المدارس في ظل جائحة كوفيد-19، تبقى حالة المدارس في ألمانيا مفتوحة حسب كل مدينة ومقاطعة وليست مفتوحة تماماً.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">لم يُذكر رقم 100 مدرسة في أي مصدر رسمي أو إعلامي موثوق.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_te9s1b3jn.jpg\" style=\"height:366px; width:533px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_ys69v02sr.jpg\" style=\"height:347px; width:514px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_k239d64ti.jpg\" style=\"height:292px; width:529px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تتناقل مواقع إخبارية وصفحات على مواقع التواصل الاجتماعي، حديثاً، خبراً مفاده إعلان 100 مدرسة على امتداد ألمانيا وجود حالات بين كوادرها وطلابها مصابين بفايروس كورونا المستجد.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_lia2rylom.jpg\" style=\"height:514px; width:527px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_pha2069tl.jpg\" style=\"height:382px; width:531px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 360,
+        "left": 1.20001220703125,
+        "path": "articles/1598379393GettyImages-1228010820.jpg",
+        "top": 24.11669921875,
+        "totalHeight": 423,
+        "totalWidth": 642,
+        "watermark_path": "articles/watermark-1598379393GettyImages-1228010820.jpg",
+        "width": 640
+    },
+    "post_date": "2020-08-25T21:11:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1410380186018864&id=100011406888458&__cft__",
+            "name": "Loay Fekkak",
+            "path": "published/0_1598379572_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/wwwtizpresscom/posts/1591288521050273?__tn__=%2CO*F",
+            "name": "الصفحة الرسمية تيزبريس Tizpress",
+            "path": "published/1_1598379572_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/sami.chati.7/posts/10214151956471475?__tn__=%2CO*F",
+            "name": "Sami Chati",
+            "path": "published/2_1598379572_facebook.jpg"
+        },
+        {
+            "link": "https://atlaskom.com/%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A3%D8%B3%D8%A8%D9%88%D8%B9-%D9%85%D9%86-%D8%A7%D9%84%D8%AF%D8%AE%D9%88%D9%84-%D8%A7%D9%84%D9%85%D8%AF%D8%B1%D8%B3%D9%8A%D8%8C-100/",
+            "name": "Atlaskom",
+            "path": "published/3_1598379739_أطلس.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/mohamed.asgaioual.58/posts/147362370344524",
+            "name": "Mohamed Asgaioual",
+            "path": "published/4_1598379739_facebook.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.cbsnews.com/news/coronavirus-school-germany-no-outbreaks/",
+            "name": "CBS ",
+            "path": "sources/0_1598379393_cbs.jpg"
+        },
+        {
+            "link": "https://apnews.com/1954010b808b81161a82a3e7ce00b2aa",
+            "name": "AP ",
+            "path": "sources/1_1598379393_ap.jpg"
+        },
+        {
+            "link": "https://www.dw.com/en/coronavirus-germany-measures-angela-merkel/a-54680167",
+            "name": "DW ",
+            "path": "sources/2_1598379393_dw.jpg"
+        },
+        {
+            "link": "https://en.unesco.org/covid19/educationresponse",
+            "name": "UNESCO ",
+            "path": "sources/3_1598379393_يونيسكو.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "رقم غير دقيق لأعداد المدارس التي سجلت حالات كورونا في ألمانيا",
+    "updated_at": "2020-09-25 20:52:25",
+    "url_path": "/factcheck/2020/08/25/رقم-غير-دقيق-لأعداد-المدارس-التي-سجلت-حالات-كورونا-في-ألمانيا"
+}

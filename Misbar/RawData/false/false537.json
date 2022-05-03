@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1847,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "caption": "هو جزء من إعلان لشركة كريم المتخصصة في خدمات التوصيل (يوتيوب)",
+    "category": "Entertainment",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">قذف رجل من برج إلى برج في دبي ووفاته بعد سقوطه.</p>\r\n",
+    "country": "AE",
+    "created_at": "2020-07-02 21:04:50",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5efe21c2163be306f167a3d2",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من المقطع المتداول ووجد أنَّ الادعاء زائف، إذ أنَّ الفيديو لا يعود لحادثة مقتل رجل تم قذفه باستخدام المقلاع، وإنما هو جزء من إعلان لشركة كريم المتخصصة في خدمات التوصيل. وكانت الشركة نشرت الفيديو على قناتها في موقع يوتيوب، ودوّنت ملاحظة أنَّ شخصاً لم يُصب بأذى جراء تصوير هذا الإعلان، ويظهر في نهاية المقطع الأصلي أنَّ الرجل الذي تم قذفه سقط في بركة ماء.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_o8nkdfwv6.jpg\" style=\"height:471px; width:670px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">مقطع فيديو يتم تداوله منذ عام 2016، يدعي فيه الناشرون أنه لقذف رجل من أعلى برج باستخدام المقلاع، ومن ثم سقوطه خلف برج آخر ووفاته. وأعيد نشر الفيديو مؤخراً مع وجود الادعاء نفسه.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_5y9mn01cb.jpg\" style=\"height:456px; width:661px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_vjpfeh013.jpg\" style=\"height:618px; width:546px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 368,
+        "left": 48.70001220703125,
+        "path": "articles/1593713089Capture0000.JPG",
+        "top": 29.362548828125,
+        "totalHeight": 423,
+        "totalWidth": 791,
+        "watermark_path": "articles/watermark-1593713089Capture0000.JPG",
+        "width": 654
+    },
+    "post_date": "2020-07-02T20:55:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/groups/2258455161104776/permalink/2712000065750281/",
+            "name": "Sadam Aljohari",
+            "path": "published/0_1593713088_Sadam Aljohari.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=1vb11UPRlUc&feature=youtu.be",
+            "name": "Mohmmad Mohmdko",
+            "path": "published/1_1593713088_Mohmmad Mohmdko.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=PREAPVShYWk&feature=youtu.be",
+            "name": "ALBARAW",
+            "path": "published/2_1593713088_ALBARAW.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=0X5X_l56HIQ&feature=youtu.be",
+            "name": "Saida.tv",
+            "path": "published/3_1593713088_Saida.tv.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?time_continue=14&v=6bfYJ42SwdM&feature=emb_title",
+            "name": "Mohammed ALShamrani",
+            "path": "published/4_1593713089_Mohammed ALShamrani.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=Y-uZJ97_ImE",
+            "name": "Careem",
+            "path": "sources/0_1593713089_Careem.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذا المقطع ليس لقذف رجل من برج لبرج ووفاته",
+    "updated_at": "2020-09-25 17:18:11",
+    "url_path": "/factcheck/2020/07/02/هذا-المقطع-ليس-لقذف-رجل-من-برج-لبرج-ووفاته"
+}

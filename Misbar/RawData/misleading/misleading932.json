@@ -1,0 +1,98 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 2,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2728,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "تعود الصورة إلى المعارك مع تنظيم داعش عام 2019 (مواقع التواصل الاجتماعي)",
+    "category": "Politics",
+    "claim": "<p>صورة تُظهر انفجاراً في قاعدة أميركية تقع قرب حقل نفطي في محافظة الحسكة شمال شرقي سورية.</p>\r\n",
+    "country": "SY",
+    "created_at": "2020-07-07 13:07:23",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f04495b163be307272c2604",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الصورة مضللة، فهي قديمة وعثر عليها &quot;مسبار&quot; منشورة منذ مارس/آذار 2019، وتظُهر جانباً من المعارك بين &quot;قوات سورية الديمقراطية&quot; وتنظيم داعش، في منطقة الباغوز في محافظة دير الزور.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><img src=\"https://images-prod.misbar.com/articlebody/investigation_sa4v615dz.jpg\" style=\"height:781px; width:815px\" /></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداول مستخدمون على موقع التواصل الاجتماعي فيسبوك صورة نشرتها وكالة سبوتنيك الروسية للأنباء، على أنها لانفجارات حدثت في قاعدة أميركية قرب حقل نفطي في محافظة الحسكة في سورية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_o1jhktzv7.jpg\" style=\"height:473px; width:499px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><img src=\"https://images-prod.misbar.com/articlebody/origin_cvpoqhhy0.jpg\" style=\"height:643px; width:509px\" /></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 353,
+        "left": 2.0723876953125,
+        "path": "articles/1594116443450876_157434_800_auto_jpg.jpg",
+        "top": 29.915771484375,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1594116443450876_157434_800_auto_jpg.jpg",
+        "width": 628
+    },
+    "post_date": "2020-07-07T12:57:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/sputnik.arabic/posts/3039640386091332?hc_location=ufi",
+            "name": "سبوتنيك عربي",
+            "path": "published/0_1594116442_سبوتنيك عربي1.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Tiktachtail/posts/168452117993033",
+            "name": "تك تشعل1",
+            "path": "published/1_1594116443_تك تشعل1.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/2697583043613991/permalink/3209822425723381/",
+            "name": "Nemr Mohsen",
+            "path": "published/2_1594116443_Nemr Mohsen.jpg"
+        },
+        {
+            "link": " https://www.facebook.com/permalink.php?story_fbid=658797348314854&id=100025537842043&__tn__=-R",
+            "name": "نادر سليمان",
+            "path": "published/3_1594116443_نادر سليمان.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/drsaher.alsaydahmad/posts/692523681305003?__tn__=-R",
+            "name": "Saher Alsaydahmad",
+            "path": "published/4_1594116443_Saher Alsaydahmad.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ali.sabah.5817300/posts/1403336706518557",
+            "name": "Ali Sabah",
+            "path": "published/5_1594116443_Ali Sabah.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.chinadailyhk.com/articles/35/109/183/1552358133051.html",
+            "name": "China Daily",
+            "path": "sources/0_1594116443_China Daily.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصورة ليست لانفجار قاعدة أميركية في شمال شرقي سورية",
+    "updated_at": "2020-09-25 04:16:39",
+    "url_path": "/factcheck/2020/07/07/هذه-الصورة-ليست-لانفجار-قاعدة-أميركية-في-شمال-شرقي-سورية"
+}

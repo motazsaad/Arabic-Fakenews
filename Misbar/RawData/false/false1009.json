@@ -1,0 +1,81 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_sources": 0,
+    "amount_visits": 605,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">فيديو لاستهداف حرّاس زعيم تنظيم داعش أبو بكر البغدادي بطائرات مسيّرة.</p>\r\n",
+    "country": "SY",
+    "created_at": "2019-12-12 16:35:27",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5df2421f8d7bd929b27ec4fa",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">مقطع الفيديو زائف وليس له علاقة بمقتل البغدادي؛ فهو للعبة فيديو قتالية تُدعى <span dir=\"LTR\">Game of honor</span>. وتوصل &quot;مسبار&quot; بعد البحث إلى المقطع الأصلي المنشور بتاريخ 14 أغسطس/ آب 2017 على موقع يوتيوب، والذي حصد أكثر من 27 مليون مشاهدة وحمل عنوان &quot;أجمل مهمة قنص من بين أغلب المهمات وأكثرها واقعية من لعبة ميدالية الشرف&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_019c210bc5985b3e76cdc84ae481061b.jpg\" style=\"height:442px; width:606px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداول العديد من مستخدمي مواقع التواصل الاجتماعي مقطع فيديو قالوا إنّه يصوّر استهداف طائرات أمريكية من دون طيار لحراس قائد تنظيم داعش أبو بكر البغدادي، قُبيل العملية العسكرية التي أفضت لمقتله في محافظة إدلب السوريّة في 26 أكتوبر/ تشرين الأول الفائت.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_05d9269379916394cfc7c5d4165f4a4e.jpg\" style=\"height:401px; width:555px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_2add3fb4c6439734f33701ea67894ecd.jpg\" style=\"height:420px; width:521px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_cb34ca86c031a6ceb35f385a8b103c29.jpg\" style=\"height:380px; width:422px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 314,
+        "left": 2.3836669921875,
+        "path": "articles/1576157727GettyImages-1178458069.jpg",
+        "top": 75.43453979492188,
+        "totalHeight": 423,
+        "totalWidth": 565,
+        "width": 559
+    },
+    "post_date": "2019-12-06T11:42:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.youtube.com/watch?v=-w5ymyAc72s",
+            "name": "سعودي أصيل",
+            "path": "published/0_1579445144_سعودي أصيل-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/137941886837226/videos/2461027157493017/?__xts__[0]=68.ARAriyMiw3VzbK7-zkjwAd3ss_wQx78S3IZkoZ2ZZoMt0iyFzMjaHySOXBvSr6vef2aiA0HjhALa2z4XZHVY3WBWYMWyAkUk_xJSrkJmEqNuMx9Hi2Lm1O3MWq5jIVBxmAxMJbUlxy_mM8PJjUHsjFfOIkPggyT4AlvIzJFXuf56t8AyVtg6hAyq5vNlKGEMneVM-HNnXWEAwpYjPjrueggH1lfeVBPksdAMA2RFktT-Rc3LlbVlBC1AraahrwVBU0vtEnsw-pl5zUslLNj--kEufoVUkTCuljx2fy4dqv9UN14T_dzZAq5P32FpdWuM7krW0HKLcKBVS_Addy2zRPUr0pTVustA&__tn__=-R",
+            "name": "قبائل بني عامر",
+            "path": "published/1_1579445144_قبائل بني عامر-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=469177800468030&external_log_id=277a5278faef6c935fc95b98fd44da4b&q=%D8%AD%D8%B1%D8%A7%D8%B3%20%D8%A3%D8%A8%D9%88%20%D8%A8%D9%83%D8%B1%20%D8%A7%D9%84%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF%D9%8A",
+            "name": "وكالة كلكامش برس",
+            "path": "published/2_1576157727_وكالة كلكامش-لوغو.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?time_continue=3&v=OCX6HHUaE0E&feature=emb_logo",
+            "name": "المقطع الأصلي",
+            "path": "sources/0_1576157727_YouTube-logo.jpg"
+        },
+        {
+            "link": "https://www.aljazeera.net/news/politics/2019/10/30/%D8%AA%D9%86%D8%B8%D9%8A%D9%85-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9-%D8%A3%D8%A8%D9%88-%D8%A8%D9%83%D8%B1-%D8%A7%D9%84%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D8%A7-%D8%A8%D9%86%D8%AA%D8%A7%D8%BA%D9%88%D9%86-%D9%83%D9%8A%D9%86%D9%8A%D8%AB-%D9%85%D8%A7%D9%83%D9%8A%D9%86%D8%B2%D9%8A",
+            "name": "قناة الجزيرة",
+            "path": "sources/1_1576157727_الجزيرة.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذا الفيديو ليس لاستهداف حراس البغدادي",
+    "updated_at": "2020-09-23 12:40:04",
+    "url_path": "/factcheck/2019/12/12/هذا-الفيديو-ليس-لاستهداف-حراس-البغدادي"
+}

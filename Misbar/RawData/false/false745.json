@@ -1,0 +1,110 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 189818,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "التصريح زائف ولم ينشر علناً أبداً (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">هنري كيسنجر لصحيفة ذا ديلي سكيب &quot;الحرب العالمية الثالثة قادمة والمسلمون سيتحوّلون فيها إلى رماد&quot;.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-05-08 17:07:59",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eb567bfdb29160b91750614",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من التصريح المتداول ووجد أنه زائف، إضافة إلى</span><span style=\"color:#000000\"> الاقتباسات الأخرى المتداولة <a href=\"https://www.dailysquib.co.uk/most-popular/3089-henry-kissinger-if-you-cant-hear-the-drums-of-war-you-must-be-deaf.html\" target=\"_blank\">واللقاء الصحفي</a> الذي أجرته ذا ديلي سكيب مع كيسنجر، وتبيّن أنّ الخبر في الأصل ساخر لكنه انتشر على أنه حقيقة. كما أنّ صحيفة The Daily Squib متخصّصة في كتابة ونشر الأخبار الساخرة التي لا تمت للواقع بصلة. أما بالنسبة لعبارة &quot;الحرب العالمية الثالثة قادمة والمسلمون سيتحوّلون فيها إلى رماد&quot; فلم ترد أصلاً في المقابلة التي ألّفتها الصحيفة الساخرة، ولا في أيّ تصريح علنيّ آخر ظهر فيه كيسنجر، مما يعني أنّ التصريح زائف.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">يُذكر أنّ المقابلة الساخرة نُشرت عام 2011، ومنذ ذلك الوقت، تُنشر تصريحات عديدة وردت فيها على أنها صحيحة.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_1jdiza6vc.jpg\" style=\"height:325px; width:525px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "كيسنجر",
+        "الشرق الأوسط",
+        "الحرب العالمية الثالثة"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تداولت صفحات على مواقع التواصل الاجتماعي اقتباسات من لقاء أجرته صحيفة ذا ديلي سكيب الأميركية مع وزير الخارجية الأميركي الأسبق، هنري كيسنجر، قال فيه إنّ &quot;الحرب العالمية الثالثة قادمة والمسلمون سيتحوّلون فيها إلى رماد&quot;، إضافة إلى عبارات أخرى انتشرت بشكل واسع مؤخراً.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_iepzlded2.jpg\" style=\"height:472px; width:529px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_aw3fs815g.jpg\" style=\"height:557px; width:515px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 380,
+        "left": 2.66668701171875,
+        "path": "articles/1588946877GettyImages-1201005823.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 680,
+        "watermark_path": "articles/watermark-1588946877GettyImages-1201005823.jpg",
+        "width": 675
+    },
+    "post_date": "2020-05-08T17:01:00.000+03:00",
+    "published": [
+        {
+            "link": "https://almashhadalaraby.com/news/14560?#",
+            "name": "المشهد العربي",
+            "path": "published/0_1588946876_المشهد-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/laith.shubeilat/posts/10158997720384749?__tn__=-R",
+            "name": "ليث شبيلات",
+            "path": "published/1_1588946877_ليث-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/342193102923796/videos/342212026255237/",
+            "name": "معركة الحق والباطل",
+            "path": "published/2_1588946877_معركة-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ex.lareg/posts/2518159615090981",
+            "name": "محمود عبد اللطيف",
+            "path": "published/3_1588946877_محمود-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/smabdalrhmna/posts/112641303752864",
+            "name": "هند محمد سالم",
+            "path": "published/4_1588946877_هند-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/344581335642063/permalink/2528880467212128/",
+            "name": "عماد سيف",
+            "path": "published/5_1588946877_هند-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/2291702564464659/permalink/2298834540418128/",
+            "name": "سيف دراوشة",
+            "path": "published/6_1588946877_سيف-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/1777893725756566/permalink/2573760082836589/",
+            "name": "ابوستو الجراميك",
+            "path": "published/7_1588946877_ابوستو-لوغو.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.dailysquib.co.uk/most-popular/3089-henry-kissinger-if-you-cant-hear-the-drums-of-war-you-must-be-deaf.html",
+            "name": "The Daily Squib",
+            "path": "sources/0_1588946877_squib-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "سوف يتحوّل المسلمون إلى رماد في الحرب العالمية القادمة.. تصريح زائف",
+    "updated_at": "2020-09-25 19:56:55",
+    "url_path": "/factcheck/2020/05/08/سوف-يتحول-المسلمون-إلى-رماد-في-الحرب-العالمية-القادمة-خبر-ساخر"
+}

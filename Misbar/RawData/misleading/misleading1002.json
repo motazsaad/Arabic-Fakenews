@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 3091,
+    "author": {
+        "fullname": "محمد اللكود",
+        "id": "5e27f69dd4a2294c812c1af3",
+        "photo": {
+            "path": "authors/1579694210_صورة شخصية.jpg"
+        }
+    },
+    "caption": " تعود صورة المسيرة لعام 2011 (تويتر)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR\">صورة مسيرة مؤيدة للنظام السوري في مدينة طرطوس الساحلية</span><span dir=\"RTL\" lang=\"AR-SA\">.</span></p>\r\n",
+    "country": "SY",
+    "created_at": "2020-06-17 16:12:32",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eea16c0d6e4a9039257a434",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الصورة، وتبين&nbsp;أنها مضللة وتعود إلى مسيرة مؤيدة للنظام السوري في طرطوس عام 2011. ووجدها &quot;مسبار&quot; ضمن&nbsp;مقطع الفيديو منشور على موقع يوتيوب منذ عام 2011، وتظهر فيه في الدقيقة 2 و45 ثانية.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/eZd-FK_26N0\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات وحسابات على مواقع التواصل الاجتماعي، صورة نسبتها إلى مسيرة مؤيدة للنظام السوري في مدينة طرطوس يوم 16 يونيو/حزيران الجاري، والرافضة لقانون &quot;قيصر&quot; الأميركي، الذي يفرض عقوبات اقتصادية على النظام السوري والدول والكيانات والأشخاص التي تتعامل معه.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_iw64nuwpn.jpg\" style=\"height:727px; width:601px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_s60seodki.jpg\" style=\"height:753px; width:601px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 306,
+        "left": 36.105224609375,
+        "path": "articles/15923995513.jpg",
+        "top": 61.746826171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-15923995513.jpg",
+        "width": 545
+    },
+    "post_date": "2020-06-17T13:38:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/mhmdalywns56/status/1272925541088313344",
+            "name": "محمد اليونس",
+            "path": "published/0_1592399550_AOwtqm3u_400x400.jpg"
+        },
+        {
+            "link": "https://twitter.com/Meliha_SY_/status/1272859324004646913",
+            "name": "سوريا وطني الغالي",
+            "path": "published/1_1592399550_4wmEhZQ0_400x400.jpg"
+        },
+        {
+            "link": "https://twitter.com/QamarAsadAlsham/status/1272852547351560192",
+            "name": "قمر نصرالله",
+            "path": "published/2_1592399550_VACons2D_400x400.jpg"
+        },
+        {
+            "link": "https://twitter.com/HoseinMortada/status/1272872958009266176",
+            "name": "حسين مرتضى",
+            "path": "published/3_1592399550_6gIGH-rh_400x400.jpg"
+        },
+        {
+            "link": "https://twitter.com/Rahmon83/status/1272856282228297728",
+            "name": "عمر رحمون ",
+            "path": "published/4_1592399550_gjCGpT62_400x400.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=eZd-FK_26N0&feature=youtu.be",
+            "name": "ZeinasoftNetwork",
+            "path": "sources/0_1592399551_unnamed (1).jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صورة مضللة لمسيرة مؤيدة للنظام السوري",
+    "updated_at": "2020-09-25 06:59:52",
+    "url_path": "/factcheck/2020/06/17/صورة-مضللة-لمسيرة-طرطوس-المؤيدة-للنظام-السوري"
+}

@@ -1,0 +1,109 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 3431,
+    "author": {
+        "fullname": "خالد إسماعيل",
+        "id": "5e59256dd4a2295224257db3",
+        "photo": {
+            "name": "1582900589_صورة 2.jpg",
+            "path": "authors/1582900589_صورة 2.jpg"
+        }
+    },
+    "caption": "صورة لبقرة حقيقية تم طليها بألوان النمر(Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">صيادون يعثرون على بقرة بلون النمر في غابات أستراليا.</p>\r\n",
+    "country": "",
+    "created_at": "2020-04-09 16:05:32",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e8f1d9cdb29165ef66c8e24",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الادعاء مضلل، إذ تحقق فريق &quot;مسبار&quot; من الصورة المتداولة والادعاء المصحوب لها وتبيّن بأنها صورة لبقرة حقيقية ولكن&nbsp;تم طلاؤها&nbsp;لتشبه النمور من قبل مزارعان&nbsp;أميركيان&nbsp;يدعيان كايل هاريس وجيف كاست، ولم يُعثر عليها بهذا الشكل في أستراليا.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_7pxiu1ss4.jpg\" style=\"height:601px; width:602px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_xb3s56jm1.jpg\" style=\"height:416px; width:602px\" /><img src=\"https://images-prod.misbar.com/articlebody/investigation_tslkuudeq.jpg\" style=\"height:558px; width:602px\" /><img src=\"https://images-prod.misbar.com/articlebody/investigation_yyu9n0iut.jpg\" style=\"height:745px; width:602px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": false,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت حسابات على مواقع التواصل الاجتماعي فيسبوك وتويتر بتاريخ 6 أبريل/نيسان الجاري، صورة ادعى ناشروها بأنها لبقرة بلون النمر عثر عليها صيّادون في غابات أستراليا.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_poueoq31x.jpg\" style=\"height:654px; width:492px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_10tahcz6n.jpg\" style=\"height:677px; width:506px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ol2z6ap11.jpg\" style=\"height:571px; width:591px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 146,
+        "left": 2.9685516357421875,
+        "path": "articles/1586437532GettyImages-619277816.jpg",
+        "top": 25.368896484375,
+        "totalHeight": 177,
+        "totalWidth": 265,
+        "watermark_path": "articles/watermark-1586437532GettyImages-619277816.jpg",
+        "width": 260
+    },
+    "post_date": "2020-04-09T16:02:00.000+03:00",
+    "published": [
+        {
+            "link": " https://www.facebook.com/Tiaret.New14/photos/pcb.882877268852196/882877245518865/?type=3&theater",
+            "name": "جديد تيارت-Tiaret New",
+            "path": "published/0_1586437847_تيرات.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/105398830801396/photos/pcb.217150976292847/217150516292893/?type=3&theater",
+            "name": "كل ما يخص الجزائر ",
+            "path": "published/1_1586437847_الجزائر1.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ahmednet500/posts/10219744297151548",
+            "name": "Ahmed El-Mekkawy",
+            "path": "published/2_1586437847_احمد المكاوي.jpg"
+        },
+        {
+            "link": "https://twitter.com/ReAaP79VJDhjkl/status/1247307527743774721",
+            "name": "سالم 3",
+            "path": "published/3_1586437847_سالم.jpg"
+        },
+        {
+            "link": "https://twitter.com/kmail730337440/status/1247698539049897987",
+            "name": "ساهر الليل ",
+            "path": "published/4_1586437847_ساهر الليل.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.sunnyskyz.com/blog/3036/These-Farmers-Painted-Their-Cow-And-Staged-A-Tiger-King-Photo-Shoot",
+            "name": "Sunny skyz",
+            "path": "sources/0_1586437847_sunny skyz.jpg"
+        },
+        {
+            "link": "https://www.reddit.com/r/pics/comments/ftzsa2/guys_paint_a_cow_for_tiger_king_photoshoot/",
+            "name": "reddit",
+            "path": "sources/1_1586437847_reddit.jpg"
+        },
+        {
+            "link": "https://kyssfm.com/farmers-paint-their-cow-and-have-a-tiger-king-photo-shoot/",
+            "name": "KYSS FM",
+            "path": "sources/2_1586437847_kyss fm.jpg"
+        },
+        {
+            "link": "https://twitter.com/Jim_Sheridan/status/1246003316557053953",
+            "name": "Jim Sheridan",
+            "path": "sources/3_1586437847_Jimm sheridan.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "بقرة بلون النمر في غابات أستراليا.. حقيقة الصورة",
+    "updated_at": "2020-09-25 21:39:29",
+    "url_path": "/factcheck/2020/04/09/صيادون-يعثرون-على-بقرة-بلون-النمر-في-غابات-أستراليا-حقيقة-الصورة"
+}

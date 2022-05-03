@@ -1,0 +1,102 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1877,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "الترجمة المتداولة صحيحة، لكن العناوين التي نشرت معه غير صحيحة (Getty)",
+    "category": "Politics",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">أردوغان يعترف بتفشى فايروس كورونا فى صفوف الجيش التركى.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-04-01 15:04:51",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5e848363db291665563016d3",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الفيديو المتداول، ووجد أنَّ العناوين التي نشرت معه غير دقيقة وتحمل تضليلاً وإثارة، ولم يعترف أردوغان بتفشي كورونا داخل الجيش التركي. ويعود الفيديو لمقطع مجتزأ من خطاب الرئيس التركي في 27 مارس/آذار، الذي أعلن فيه عن إجراءات عملية جديدة لمواجهة فايروس كورونا في تركيا.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وأتضح بالفعل أنَّ الترجمة على المقطع المتداول صحيحة، لكن العناوين التي نشرت على المواقع معه غير صحيحة، وتم استخدام كلمات لا تتماشى مع محتوى الحديث في الفيديو إطلاقاً. وأما عن حديث نشأت الديهي فيه العديد من الأخطاء، إذ لم يعترف أردوغان خلال كلمته بتفشي الفيروس داخل الجيش التركي، إذ قال إنَّ الجنود في الجيش، سيطبق عليهم أيضاً نفس إجراءات الحجر الصحي لمدة 14 يوماً، وسيتم استدعاؤهم وتسريحهم بطرق مضبوطة. ويذكر أنه لم يُعلن عن أيّة إصابات بفايروس كورونا، في صفوف الجيش التركي حتى الآن.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_hwu2h5hdy.jpg\" style=\"height:317px; width:578px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">انتشر على عدد من المواقع الإخبارية وقنوات تلفزيونية، وصفحات على وسائل التواصل الاجتماعي، مقطع فيديو لإحدى خطابات الرئيس التركي رجب طيب أرودغان، ويحمل شعار موقع تركيا الآن، مرفق معه عنوان &quot;أردوغان يُعلن تفشي كورونا في صفوف الجيش التركي&quot;. ويظهر المقطع المتداول الرئيس التركي، مع ترجمة لحديثه وهو يقو إنَّ الجنود في الجيش التركي سيخضعون للحجر الصحي لمدة 14 يوماً، وسيتم استدعاؤهم وتسريحهم بطريقة مضبوطة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">العديد من المواقع نشرت الفيديو، مع عناوين توضح أنَّ أردوغان اعترف بتفشي فايروس كورونا في صفوف الجيش التركي، فيما أكد الإعلامي المصري نشأت الديهي بعد عرض الفيديو عبر برنامجه على قناة <span dir=\"LTR\">&ldquo;TeN&rdquo;</span>، أنَّ كورونا تفشى وسط الجيش التركي.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_94ifruyla.jpg\" style=\"height:434px; width:413px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_0z7obezvv.jpg\" style=\"height:432px; width:468px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_e545td4ed.jpg\" style=\"height:411px; width:464px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 350,
+        "left": 6.5510406494140625,
+        "path": "articles/1585742691GettyImages-1205320548.jpg",
+        "top": 54.26171875,
+        "totalHeight": 423,
+        "totalWidth": 635,
+        "watermark_path": "articles/watermark-1585742691GettyImages-1205320548.jpg",
+        "width": 622
+    },
+    "post_date": "2020-04-01T14:41:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/turkeynownews/status/1244671479813292047",
+            "name": "تركيا الآن",
+            "path": "published/0_1585742690_تركيا-الان-تويتر.jpg"
+        },
+        {
+            "link": "https://www.youm7.com/story/2020/3/28/%D8%A3%D8%B1%D8%AF%D9%88%D8%BA%D8%A7%D9%86-%D9%8A%D8%B6%D8%B7%D8%B1-%D9%84%D9%84%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D9%81-%D8%A8%D8%AA%D9%81%D8%B4%D9%8A-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-%D9%81%D9%8A-%D8%B5%D9%81%D9%88%D9%81-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%AA%D8%B1%D9%83%D9%8A-%D9%81%D9%8A%D8%AF%D9%8A%D9%88/4692751",
+            "name": "اليوم السابع",
+            "path": "published/1_1585742690_اليوم السابع-لوغو.jpg"
+        },
+        {
+            "link": "https://www.albawabhnews.com/3955166",
+            "name": "البوابة نيوز",
+            "path": "published/2_1585742691_البوابة نيوز-لوغو.jpg"
+        },
+        {
+            "link": "https://www.falsoo.com/news/5/108993/%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-%D9%8A%D8%B6%D8%B1%D8%A8-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D9%81%D9%89-%D9%85%D9%82%D8%AA%D9%84-%D8%A3%D8%B1%D8%AF%D9%88%D8%BA%D8%A7%D9%86-%D9%8A%D8%B9%D8%AA%D8%B1%D9%81-%D8%A8%D8%AA%D9%81%D8%B4%D9%89-%D8%A7%D9%84%D9%81%D9%8A%D8%B1%D9%88%D8%B3-%D9%81%D9%89-%D8%B5%D9%81%D9%88%D9%81-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4",
+            "name": "فالصو",
+            "path": "published/3_1585742691_فالصو.JPG"
+        },
+        {
+            "link": "https://www.copts-united.com/Article.php?I=4044&A=553789",
+            "name": "الأقباط متحدون",
+            "path": "published/4_1585742691_الأقباط.JPG"
+        },
+        {
+            "link": "https://www.facebook.com/Blwar2awel2alm/videos/153685909237955/",
+            "name": "بالورقة والقلم مع نشأت الديهى",
+            "path": "published/5_1585742691_بالورقة والقلم مع نشأت الديهى.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/TRTArabi/videos/701637837247472/",
+            "name": "TRT عربي",
+            "path": "sources/0_1585742690_TRT عربي - لوغو.jpg"
+        },
+        {
+            "link": "https://www.aa.com.tr/ar/%D8%AA%D8%B1%D9%83%D9%8A%D8%A7/%D8%A3%D8%B1%D8%AF%D9%88%D8%BA%D8%A7%D9%86-%D9%8A%D8%B9%D9%84%D9%86-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%B9%D9%85%D9%84%D9%8A%D8%A9-%D9%84%D9%85%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7/1782615",
+            "name": "الأناضول",
+            "path": "sources/1_1585742690_الاناضول.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل اعترف أردوغان بتفشي كورونا داخل الجيش التركي؟",
+    "updated_at": "2020-09-23 12:35:45",
+    "url_path": "/factcheck/2020/04/01/هل-اعترف-أردوغان-بتفشي-كورونا-داخل-الجيش-التركي"
+}

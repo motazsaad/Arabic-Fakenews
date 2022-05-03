@@ -1,0 +1,118 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1577,
+    "author": {
+        "fullname": "مريم هواري",
+        "id": "5e299460d4a22939983a3ec5",
+        "photo": {
+            "path": "authors/1579791192_Maryam.jpg"
+        }
+    },
+    "caption": "منذ بداية تفشّي فايروس كورونا، رُصدت عدّة هجمات \"إرهابية\" ضد مدنيين (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">توقّف &quot;الإرهاب&quot; في أنحاء العالم بسبب انشغال الدول الغربية في مكافحة فايروس كورونا المستجد (كوفيد-19).</p>\r\n",
+    "country": "",
+    "created_at": "2020-05-24 18:58:15",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eca9997db29161fb90402d4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الادعاء زائف. فمنذ بداية تفشّي فايروس كورونا، رُصدت عدّة هجمات &quot;إرهابية&quot; ضد مدنيين، فبتاريخ 22 أبريل/نسيان الفائت، قتلت جماعة&nbsp;مسلّحة حوالي 50 مواطناً في الموزمبيق، وبتاريخ 5 أبريل/نيسان الفائت، قُتل مواطنين وجُرج خمسة في عملية طعن في فرنسا، وبتاريخ 6 مارس/آذار الفائت، أطلق أحد أعضاء تنظيم الدولة الإسلامية النار على مواطنين في باكستان وقتل حوالي 32 شخص، وبتاريخ 20 فبراير/شباط الفائت قُتل تسعة أشخاص في ألمانيا في عملية إطلاق نار من قبل شخص ينتمي لليمين المتطرّف في ألمانيا.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_n7cnr5f0f.jpg\" style=\"height:234px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_kbw1g52g5.jpg\" style=\"height:311px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_4abuf6759.jpg\" style=\"height:492px; width:625px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت عدّة صفحات على موقع التواصل الاجتماعي تويتر تغريدةً تدّعي بأن &quot;الإرهاب&quot; توقّف في أنحاء العالم بسبب انشغال الدول الغربية في مكافحة فايروس كورونا، ولاقت هذه المنشورات رواج&nbsp;واسع.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_5f026xptd.jpg\" style=\"height:298px; width:557px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_mib9yzxtb.jpg\" style=\"height:232px; width:551px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_er6k8aot5.jpg\" style=\"height:415px; width:552px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_lzfzqqjw9.jpg\" style=\"height:254px; width:561px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_fdfsp3x9d.jpg\" style=\"height:380px; width:556px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 152,
+        "left": 4.354827880859375,
+        "path": "articles/1590335894GettyImages-496720546.jpg",
+        "top": 26.14453125,
+        "totalHeight": 184,
+        "totalWidth": 276,
+        "watermark_path": "articles/watermark-1590335894GettyImages-496720546.jpg",
+        "width": 270
+    },
+    "post_date": "2020-05-24T18:50:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/amansouraja/status/1247094732486041600",
+            "name": "A Mansour أحمد منصور",
+            "path": "published/0_1590335893_احمد منصور.jpg"
+        },
+        {
+            "link": "https://twitter.com/FouadKabbara/status/1248555250237296640",
+            "name": "Dr. Fouad Kabbara",
+            "path": "published/1_1590335893_د. فؤاد.jpg"
+        },
+        {
+            "link": "https://twitter.com/JRayX8rDQhMDd86/status/1246772383291183104",
+            "name": "زهرة الاقحوان",
+            "path": "published/2_1590335893_الاقحوان.jpg"
+        },
+        {
+            "link": "https://twitter.com/MohamdNashwan/status/1246910999384543232",
+            "name": "محمد سعيد نشوان",
+            "path": "published/3_1590335894_محمد سعيد نشوان.jpg"
+        },
+        {
+            "link": "https://twitter.com/naaiiif_qtr84/status/1247615187286396930",
+            "name": "#الاسكوبلي زكريت",
+            "path": "published/4_1590335894_الاسكلوبي.jpg"
+        },
+        {
+            "link": "https://twitter.com/NaglaaHelmy14/status/1246587146418425859",
+            "name": "Nagla",
+            "path": "published/5_1590335894_نجلا.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.theguardian.com/world/2020/apr/22/islamist-group-kills-52-in-cruel-and-diabolical-mozambique-massacre",
+            "name": "The Guardian",
+            "path": "sources/0_1590335894_The Guardian-logo.jpg"
+        },
+        {
+            "link": "https://www.bbc.com/news/world-europe-52165522",
+            "name": "BBC",
+            "path": "sources/1_1590335894_BBC NEWS-logo.jpg"
+        },
+        {
+            "link": "https://www.bbc.com/news/world-europe-52165522",
+            "name": "REUTERS",
+            "path": "sources/2_1590335894_رويترز.jpg"
+        },
+        {
+            "link": "https://www.bbc.com/news/world-africa-51445070",
+            "name": "BBC",
+            "path": "sources/3_1590335894_BBC NEWS-logo.jpg"
+        },
+        {
+            "link": "https://edition.cnn.com/2020/02/19/europe/hanau-germany-shootings-intl/index.html",
+            "name": "CNN",
+            "path": "sources/4_1590335894_cnn- eng.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل توقفت الهجمات \"الإرهابية\" في أنحاء العالم بسبب فايروس كورونا؟",
+    "updated_at": "2020-09-23 12:31:43",
+    "url_path": "/factcheck/2020/05/24/هل-توقف-الإرهاب-في-أنحاء-العالم-بسبب-انشغال-الدول-الغربية-بفايروس-كورونا"
+}

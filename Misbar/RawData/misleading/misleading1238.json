@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 460598,
+    "author": {
+        "fullname": "خالد إسماعيل",
+        "id": "5e59256dd4a2295224257db3",
+        "photo": {
+            "name": "1582900589_صورة 2.jpg",
+            "path": "authors/1582900589_صورة 2.jpg"
+        }
+    },
+    "caption": "الواقعة حدثت بالفعل، إلا أنها ليس لها أي علاقة بفايروس كورونا (مواقع التواصل)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-EG\">حالة شفيت من فايروس كورونا المستجد في الأردن، أهل المصاب احتفلوا به بإطلاق الأعيرة النارية فأصابوه ليعود مرة أخرى إلى المستشفى.</span></p>\r\n",
+    "country": "JO",
+    "created_at": "2020-04-16 21:34:35",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5e98a53bdb29160b3f3826d4",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-EG\"><span style=\"color:black\">تحقق &quot;مسبار&quot; من المقطع المتداول، وتبين أنَّ الواقعة حدثت بالفعل، لكن لا علاقة لها بكوفيد-19، والقصة الأصلية هي لسجين أردني&nbsp;يُدعى ساري الوردات خرج من السجن مؤخراً، وعند وصوله إلى منزله في منطقة الرمثا شمال الأردن، احتفل أحد أقاربه بإطلاق النار&nbsp;ما أدى لإصابته بالخطأ بطلقة خلف رأسه أدت إلى مقتله.&nbsp;وقال الأمن العام الأردني، بحسب الجزيرة مباشر، إنّ الشخص الذي أصاب ساري، يُدعى أحمد الوردات، وهو أحد منتسبي سلاح الجو الملكي الأردني.</span></span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_fculc3dmf.jpg\" style=\"height:568px; width:602px\" /></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"654\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FHussailZ0775145394%2Fposts%2F2644706062485769&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-EG\"><span style=\"color:black\">تداولت صفحات على مواقع التواصل الاجتماعي، مقطعاً مصوراً ادّعت أنه لأردنيٍّ خرج من المستشفى بعد تعافيه من فايروس كورونا المستجد، ولكنه أُصيب بطلق ناريّ خلال احتفال أحد&nbsp;أقاربه&nbsp;بإطلاق الأعيرة النارية ابتهاجاً بشفائه، فعاد من جديد إلى المستشفى.</span></span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F218281271667836%2Fvideos%2F239674250421750%2F&amp;show_text=0&amp;width=261\" style=\"border:none;overflow:hidden\" width=\"261\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/158712229392683334_2644706032485772_7413120192915439616_n.jpg",
+        "watermark_path": "articles/watermark-158712229392683334_2644706032485772_7413120192915439616_n.jpg"
+    },
+    "post_date": "2020-04-16T21:30:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/218281271667836/videos/239674250421750/",
+            "name": "الصفحة الرسمية للإعلامي كريم أيت عثمان ",
+            "path": "published/0_1587062073_الصفحة الرسمية للإعلامي كريم أيت عثمان  karim aitatmane.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ammar.almalkiy/videos/10157437216703019/",
+            "name": "ammar almalkiy ",
+            "path": "published/1_1587062529_AmmAr ALmalkiy.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Monastir.noticias/videos/1939324952864722/?v=1939324952864722",
+            "name": "Monastir noticias",
+            "path": "published/2_1587062530_Monastir noticias.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Admin.Mokhabarat/videos/175052393587949/?v=175052393587949",
+            "name": "أدمين مخابرات ",
+            "path": "published/3_1587062530_أدمين مخابرات.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/alilou.gouader.9/videos/674661503362805/",
+            "name": "alilou gouader",
+            "path": "published/4_1587062530_Alilou Gouader.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "http://mubasher.aljazeera.net/news/%D9%84%D8%AD%D8%B8%D8%A9-%D9%85%D9%82%D8%AA%D9%84-%D8%A3%D8%B1%D8%AF%D9%86%D9%8A-%D8%AE%D9%84%D8%A7%D9%84-%D8%A7%D8%AD%D8%AA%D9%81%D8%A7%D9%84-%D8%A3%D9%82%D8%A7%D8%B1%D8%A8%D9%87-%D8%A8%D8%AE%D8%B1%D9%88%D8%AC%D9%87-%D9%85%D9%86-%D8%A7%D9%84%D8%B3%D8%AC%D9%86-%D9%81%D9%8A%D8%AF%D9%8A%D9%88",
+            "name": "الجزيرة مباشر ",
+            "path": "sources/0_1587062073_الجزيرة مباشر.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/HussailZ0775145394/photos/a.1951845471771835/2644706029152439/?type=3&theater",
+            "name": "تجمع شباب لواء الهاشمية ",
+            "path": "sources/1_1587062365_تجمع شباب لواء الهاشمية.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "أردنيّ أطلقوا النار ابتهاجاً بشفائه من كورونا فقتلوه.. حقيقة القصة  ",
+    "updated_at": "2020-09-25 08:43:51",
+    "url_path": "/factcheck/2020/04/16/أطلقوا-النار-ابتهاجا-بشفاءه-من-كورونا-فقتلوه-حقيقة-القصة"
+}

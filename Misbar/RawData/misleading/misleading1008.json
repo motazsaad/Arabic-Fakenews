@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1500,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الصورة لقبر المتصوف محمد بن علي العلويّ (مواقع التواصل الاجتماعي)",
+    "category": "Spirituality & Religion",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة لحجرة قبر النبي محمد (ص) من الداخل.</p>\r\n",
+    "country": "SA",
+    "created_at": "2020-06-16 15:51:55",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ee8c06bd6e4a931480453c4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الصورة ليست لقبر النبي محمد عليه السلام، إنمّا وجد &quot;مسبار&quot; بعد التحقق أنها تعود لقبر المتصوف محمد بن علي العلويّ المعروف باسم (صاحب مرباط) في سلطنة عُمان.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/cj2RRuO-TL4\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/mFTslG6c54Q\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشر مستخدمون على موقع التواصل الاجتماعي فيسبوك، صورة قالوا إنها تصوّر حجرة قبر النبي محمد (ص) من الداخل.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_1cpgh0y1q.jpg\" style=\"height:670px; width:498px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_gawkyclyl.jpg\" style=\"height:573px; width:495px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_2ozt9g0mn.jpg\" style=\"height:413px; width:496px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 311,
+        "left": 4.73333740234375,
+        "path": "articles/1592311914201812010134473447.jpg",
+        "top": 75.199951171875,
+        "totalHeight": 423,
+        "totalWidth": 564,
+        "watermark_path": "articles/watermark-1592311914201812010134473447.jpg",
+        "width": 553
+    },
+    "post_date": "2020-06-16T15:35:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/Ramadan.in.egypt0/photos/a.164153204231622/441378189842454/?type=3&theater",
+            "name": "مصر روحها في رمضان",
+            "path": "published/0_1592311913_مصر روحها في رمضان.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1474263116038172&id=459464810851346&__tn__=-R",
+            "name": "فداك أبي وأمي يا رسول الله",
+            "path": "published/1_1592311914_فداك أبي وأمي يا رسول الله.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ahmedbobasd99/photos/a.1464027527144843/2239973696216885/?type=3&__tn__=H-R",
+            "name": "طريق إلى الجنة وحب الرسول",
+            "path": "published/2_1592311914_طريق إلى الجنة وحب الرسول.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1105486262955414&id=137195646451152&__tn__=-R",
+            "name": "حسبي الله",
+            "path": "published/3_1592311914_حسبي الله.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2083663925043063&id=100001984286076",
+            "name": "أبو مازن وشادي وذياد",
+            "path": "published/4_1592311914_أبو مازن وشادي وذياد.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ahmed.eldardiry.98/posts/685045545236133?__tn__=-R",
+            "name": "Ahmed Eldardiry",
+            "path": "published/5_1592311914_Facebook_logo.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=cj2RRuO-TL4",
+            "name": "الحبيب سالم المشهور",
+            "path": "sources/0_1592311914_الحبيب سالم المشهور.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=mFTslG6c54Q",
+            "name": "العربية",
+            "path": "sources/1_1592312003_قناة العربية لوغو.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل هذه الصورة لقبر النبي محمد؟",
+    "updated_at": "2020-09-25 21:35:44",
+    "url_path": "/factcheck/2020/06/16/هل-هذه-الصورة-لقبر-النبي-محمد"
+}

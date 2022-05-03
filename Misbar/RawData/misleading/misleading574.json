@@ -1,0 +1,127 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 174,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "يعود المقطع لسيدة تُدعى ديانا لوفجوي (يوتيوب)",
+    "category": "News",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">مقطع فيديو بعنوان &quot; تفاجئ الجميع سكرات الموت&quot;.</span></p>\r\n",
+    "country": "US",
+    "created_at": "2020-09-28 16:17:34",
+    "created_by": "5f39b5a51dd585076701cb94",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 2,
+    "id": "5f71e26ee220192c4e6b142f",
+    "investigation": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من مقطع الفيديو وتبين أن الادعاء مضلل، والسيدة الظاهرة به لم تمت بشكل مفاجئ كمان هو متداول.&nbsp;ويعود المقطع لسيدة تُدعى <a href=\"https://www.dailymail.co.uk/news/article-5081423/Woman-faints-guilty-murder-plot.html?fbclid=IwAR0f73_eMPf4LF-TFOVrTrn5LZc2CfM5TxrwAcQ7Ouf2VC_qh7hU-JyVXq4\" style=\"color:#0563c1; text-decoration:underline\">ديانا لوفجوي</a>، أغمي عليها في محكمة كاليفورنيا عام 2017، بعد إدانتها في قضية قتل مقابل أجر ضد زوجها السابق. </span></p>\r\n\r\n<p><iframe frameborder=\"0\" height=\"720\" src=\"https://www.youtube.com/embed/or_MDJnmihc\" width=\"1280\"></iframe>.</p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات وصفحات على مواقع التواصل الاجتماعي، حديثاً، مقطع فيديو يُظهر&nbsp;سيدة أغمي عليها بشكل مفاجئ، وأرفق المقطع بعنوان &quot;تفاجئ الجميع سكرات الموت&quot;. </span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_d3knj8f1q.jpg\" style=\"height:479px; width:518px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_0vrtz8acc.jpg\" style=\"height:465px; width:503px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/160129905425.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-160129905425.jpg",
+        "width": 752
+    },
+    "post_date": "2020-09-28T16:15:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/114184350296965/videos/320675825691837/?v=320675825691837",
+            "name": "الحياة بطاعة الله اجمل",
+            "path": "published/0_1601299053_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/MTFislam/videos/757722425005755/?v=757722425005755",
+            "name": "الأمة العربية الاسلامية 2020  ",
+            "path": "published/1_1601299053_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/102164924712773/videos/321202399141765/?__xts__%5B0%5D=68.ARBXQFtvBZ18clQas3W4JuxR4DhEGW4L2jT_Oc8lQLDqAzQJahrQMPvx5ZDkbZBCL0En4V-D_FY5-3kH5U7F1N-YoMwPBx_bdfp5W1ejk3uxDY8JJaxHSzNFO9WZuLk0Cls8jnTZvcNV-xxxqFb_7HAb1cuq6czryW_pk__LU6zTVnNDz2TlLj16VZpellx7k8suONCDEY9ne5Hk1Pzacj6kswkzIBWIvioLLh1iDfZ3anSkLGot1L8WpPY2vf399UmPXNjCLXdgfIiyFeNeHZCUqytw6jrrO2LDQe2ccAVzr42sDfF0OL1eic5Pq1vl_CYSePNeorpRZs4LRHF4pcUE5Gi5u6MfnZA&__tn__=-R",
+            "name": "نمضي",
+            "path": "published/2_1601299219_7ada239b3c9a5c6f314bd1cf880de59f98e7dba0.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=168419341540132&id=114184350296965",
+            "name": "الحياة بطاعة الله اجمل",
+            "path": "published/3_1601299219_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/new00v/posts/1309840029353946",
+            "name": "قرأن - Quran",
+            "path": "published/4_1601299219_7ada239b3c9a5c6f314bd1cf880de59f98e7dba0.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1014104069032833&id=293793757730538",
+            "name": "Nas Ahfir Oujda",
+            "path": "published/5_1601299219_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/20nocomment/posts/1840841502746151",
+            "name": " Karem Elbrinc",
+            "path": "published/6_1601299219_7ada239b3c9a5c6f314bd1cf880de59f98e7dba0.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/Kahrif86/videos/4352349734838858/?__xts__%5B0%5D=68.ARARac_NfMG5ukB6ysHQr4xxmuImQWWkpDePnMrEKqKzExGAB7BZJDVaX8FgJikweJ5OXOQ_Q-YjrEdAtp7t2WrTj86QsavEvB9kWGIgzgRBOfAzGc8_YPLJroqqZKfcsXm_lmgSCd6wgUm8omRWzm74i2JsVNkSyarHCWHeQVXxdJ8YTqVdcJ77gT-C_UL4-mMo6XvPm8P0QkXtPComYQtg6U5h-86lLEt-dguqavQBmblY_UXJ2oJL19WYWYAP5eu7ojCh2g2X0FtWJOCn2WFV-K8NP4-ruDuqtHZbD6-Ozmz-LLL4WdWb2ZSh50YiMMjmTbQYfkspDZXtL7-KqAJ2TwPTtH53sCroz2pN&__tn__=-R",
+            "name": "خريف",
+            "path": "published/7_1601299219_7ada239b3c9a5c6f314bd1cf880de59f98e7dba0.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.dailymail.co.uk/news/article-5081423/Woman-faints-guilty-murder-plot.html?fbclid=IwAR0f73_eMPf4LF-TFOVrTrn5LZc2CfM5TxrwAcQ7Ouf2VC_qh7hU-JyVXq4",
+            "name": "Mail Online",
+            "path": "sources/0_1601299053_6f4b9c97018129126c4c18302a735f09788dbcd8.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.youtube.com/watch?v=or_MDJnmihc",
+            "name": "CBS News",
+            "path": "sources/1_1601299053_b9a4106558670da4ec1c0749f414d1e693436e6c.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لم تمت هذه السيدة بشكل مفاجئ",
+    "updated_at": "2020-09-28 16:21:43",
+    "url_path": "/factcheck/2020/09/28/لم-تمت-هذه-السيدة-بشكل-مفاجئ",
+    "was_notification_pushed": "true"
+}

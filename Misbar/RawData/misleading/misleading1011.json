@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 5555,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "caption": "المعلومات الواردة في المنشورات ليست صحيحة (مواقع التواصل الاجتماعي)",
+    "category": "Health",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">مستشفى في البرازيل تم اقتحامه من قبل بعض المواطنين وأحد النواب، من أجل معرفة حقيقة وجود عدد 5 الآف مريض مصاب بفيروس كورونا، فوجدوه فارغاً ولا يوجد ما يتم تصويره للإعلام.</p>\r\n",
+    "country": "BR",
+    "created_at": "2020-06-15 12:21:15",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ee73d8bd6e4a92cd46f2b04",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">المقطع الأصلي في البرازيل فعلاً وهو لمستشفى ميداني قام نائب برازيلي بزيارته، لكن المعلومات الواردة في المنشورات ليست صحيحة. تحقق &quot;مسبار&quot; من أصل الفيديو المنتشر، ليجد أنَّ الفيديو منتشر منذ 27 مايو<span dir=\"LTR\">/</span>أيار الفائت، ويصوِّر زيارة النائب البرازيلي فيليب بوبيل لمستشفى ميداني في ساو غونسالو بهدف الرقابة على الأداء، وكان قد أحضر معه رجال الشرطة ليتمكن من القيام بدوره الرقابي كنائب في البرلمان؛ ليتفاجأ النائب بأنَّ المستشفى غير مجهز بشكل جيد، وفيه فقط عشرة أجهزة تنفس ولا يحتوي على نظام صرف صحي أو معدات حماية.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/-UfYDg-R56s\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_wraqexj3b.jpg\" style=\"height:450px; width:668px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">أما عن الشجار والتلاسن الظاهران في الفيديو، فهما بسبب غضب النائب من منعه في البداية من دخول المستشفى، ومن ثم من وضع المستشفى الذي وصفه بالـ &quot;سيرك&quot;، وهو ما أثار حفيظة أحد العمال الذي اعتدى على النائب شفهيًّا.</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشر عدد من الحسابات على مواقع التواصل الاجتماعي خلال اليومين الفائتين، مقطع فيديو قالوا إنه لاقتحام عدد من المواطنين وأحد النواب لمستشفى في البرازيل؛&nbsp;ليجدوا أنَّ المشفى خالٍ من مرضى كورونا، في إشارة من ناشري الخبر إلى أنَّ كورونا مجرد خدعة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_gbtjjpepq.jpg\" style=\"height:703px; width:504px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_i4dbnualh.jpg\" style=\"height:635px; width:474px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 297,
+        "left": 10.070205688476562,
+        "path": "articles/1592212875Capture.JPG",
+        "top": 113.124755859375,
+        "totalHeight": 423,
+        "totalWidth": 538,
+        "watermark_path": "articles/watermark-1592212875Capture.JPG",
+        "width": 529
+    },
+    "post_date": "2020-06-15T11:52:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/houssam.zamzam/videos/10222345290676180/",
+            "name": "Houssam Zamzam",
+            "path": "published/0_1592212874_Houssam Zamzam.jpg"
+        },
+        {
+            "link": "https://twitter.com/a7m_abo2/status/1271925476173533184",
+            "name": "بواحمد",
+            "path": "published/1_1592212874_🇺🇸بواحمد.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/saeed.alibrahim/videos/3275482002482800/",
+            "name": "DrSaeed Alibrahim",
+            "path": "published/2_1592212874_DrSaeed Alibrahim.jpg"
+        },
+        {
+            "link": "https://twitter.com/GeGe1820/status/1272123062205534208",
+            "name": "Abdullah",
+            "path": "published/3_1592212875_Abdullah.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/story.php?story_fbid=3061150590636227&id=100002239471154",
+            "name": "Djouadi Houssameddine",
+            "path": "published/4_1592213120_Djouadi Houssameddine.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://diariodorio.com/deputado-do-psl-invade-hospital-de-campanha-de-sao-goncalo-veja-o-video/",
+            "name": "diariodorio",
+            "path": "sources/0_1592212875_diariodorio.JPG"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=-UfYDg-R56s",
+            "name": "Página ",
+            "path": "sources/1_1592212875_Página.jpg"
+        },
+        {
+            "link": "https://www.osaogoncalo.com.br/geral/82892/deputado-estadual-invade-hospital-de-campanha-de-sg-veja-o-video",
+            "name": "osaogoncalo",
+            "path": "sources/2_1592212875_osaogoncalo.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "اقتحموا المستشفى فلم يجدوا مرضى بكورونا.. فيديو مضلل",
+    "updated_at": "2020-09-25 18:05:33",
+    "url_path": "/factcheck/2020/06/15/اقتحموا-المستشفى-فلم-يجدوا-مرضى-بكورونا-فيديو-مضلل"
+}

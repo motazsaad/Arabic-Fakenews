@@ -1,0 +1,124 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 733,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "تاريخ الدولة العثمانية يدرس ضمن مواد التاريخ (تويتر)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">أردوغان يحذف سيرة كمال أتاتورك من المناهج الدراسية، ويستبدلها بالسيرة النبوية والتاريخ العثماني</span></p>\r\n",
+    "country": "TR",
+    "created_at": "2020-08-06 17:18:54",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f2c114e60211807184773ef",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من الادعاء المتداول عن حذف سيرة أتاتورك من المناهج الدراسية في تركيا، وتبين أنه زائف. إذ لم يصدر أي تصريح من الرئيس التركي بهذا الأمر، ولم تنشر أي وسيلة إعلامية تركية رسمية خبراً بهذا الشكل.<br />\r\nتواصل &quot;مسبار&quot; مع عدة طلاب يدرسون في تركيا، وأكدوا أن الخبر لا أساس له من الصحة، وأن تاريخ مؤسس الدولة التركية مصطفى كمال أتاتورك، لا يزال يُدرس ضمن المناهج التركية في المدارس والجامعات.<br />\r\nووجد &quot;مسبار&quot; أن تاريخ <a href=\"https://derstarih.com/9-sinif/\" style=\"color:blue; text-decoration:underline\">الدولة العثمانية</a> يُدرس ضمن مواد التاريخ في المناهج التركية من الأساس، ولم يضف حديثاً. والأمر نفسه&nbsp;في <a href=\"http://mufredat.meb.gov.tr/Dosyalar/2018120191539899-Peygamberimizin%20Hayati%20Ortaokul%20IHO%20(20.01.2015).pdf\" style=\"color:blue; text-decoration:underline\">السيرة النبوية</a> وعلوم الدين.</span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات وصفحات على مواقع التواصل الاجتماعي، حديثاً ومنذ سنوات، خبراً مفاده أن الرئيس التركي رجب طيب أردوغان، حذف سيرة مؤسس الدولة التركية الحديثة مصطفى كمال أتاتورك من المناهج الدراسية، واستبدلها بالسيرة النبوية والتاريخ العثماني.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_pmzzmesxi.jpg\" style=\"height:757px; width:464px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_pbphpfb3g.jpg\" style=\"height:762px; width:460px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_xwzlqstqy.jpg\" style=\"height:382px; width:444px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1596723534Ed8jpaRWAAUDIRZ.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1596723534Ed8jpaRWAAUDIRZ.jpg",
+        "width": 752
+    },
+    "post_date": "2020-08-06T17:16:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=184232363085324&id=100044956840631",
+            "name": "مصطفى عطا",
+            "path": "published/0_1596723533_مصطفى عطا.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100973851349224/photos/a.100999368013339/288055959307678/?type=3&theater",
+            "name": "Nora Karbouch",
+            "path": "published/1_1596723661_Nora Karbouch.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/khamis.oraby/posts/721258965086443",
+            "name": "Khamis Oraby",
+            "path": "published/2_1596723661_Khamis Oraby.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Vevo.Morocco.Officiel/photos/a.259938298217033/599842774226582/?type=3&theater",
+            "name": "ڤـيڤـو المغرب - Vévo Morocco",
+            "path": "published/3_1596723662_ڤـيڤـو المغرب - Vévo Morocco.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/aldeniya/posts/1142589042782274?__tn__=-R",
+            "name": "الضنية - Aldenniya",
+            "path": "published/4_1596723662_الضنية - Aldenniya.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=120112209783890&id=100053553341743",
+            "name": "جمال الزوبية",
+            "path": "published/5_1596723662_جمال الزوبية.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=3303348259711775&id=100001099015930",
+            "name": "Driss El Bakkari",
+            "path": "published/6_1596723662_Driss El Bakkari.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/i3lamyon/photos/a.102298031441725/155129262825268/?type=3&theater",
+            "name": "زمن الكلاب",
+            "path": "published/7_1596723662_زمن الكلاب.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "http://mufredat.meb.gov.tr/Dosyalar/2018120191539899-Peygamberimizin%20Hayati%20Ortaokul%20IHO%20(20.01.2015).pdf",
+            "name": "Milli eğitim",
+            "path": "sources/0_1596723534_Milli eğitim.jpg"
+        },
+        {
+            "link": "https://derstarih.com/9-sinif/",
+            "name": "ders tarih",
+            "path": "sources/1_1596723534_ders tarih.jpg"
+        },
+        {
+            "link": "https://akademik.adu.edu.tr/rbb/atailkeinktar/topics.asp?path=313432",
+            "name": "akademik",
+            "path": "sources/2_1596723534_akademik.jpg"
+        },
+        {
+            "link": "http://ikhal.meb.k12.tr/meb_iys_dosyalar/34/14/300422/dosyalar/2020_05/22134310_201822142542859-T.C._YnkYlap_Tarihi_ve_Ataturkculuk_dop.pdf?CHK=4cc44a544a6f7583f747da0b6fff4a0c",
+            "name": "ikhal",
+            "path": "sources/3_1596723534_ikhal.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "أردوغان لم يحذف سيرة أتاتورك من المناهج الدراسية",
+    "updated_at": "2020-09-25 05:37:25",
+    "url_path": "/factcheck/2020/08/06/أردوغان-لم-يحذف-سيرة-أتاتورك-من-المناهج-الدراسية"
+}

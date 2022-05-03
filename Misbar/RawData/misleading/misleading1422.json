@@ -1,0 +1,76 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 417,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورٌ نشرها المتحدث باسم جيش الاحتلال الإسرائيلي أفيخاي أدرعي، يدّعي أنها تُظهر أسماءً إيرانية أطلقها &quot;حزب الله&quot; على بعض شوارع لبنان.</p>\r\n",
+    "country": "LB",
+    "created_at": "2019-12-05 13:56:42",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5de8e26a8d7bd929b27ec4f5",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الصورتان مفبركتان، فبعد التحقق تأكّد &quot;مسبار&quot; أنّ الصورة التي زعم أفخاي أدرعي المتحدث باسم جيش الاحتلال الإسرائيلي أنها لشارع في لبنان يحمل اسم &quot;آية الله الخميني&quot;، هي صورة للافتة تحمل اسم &quot;جادة عهد التميمي&quot;. وبحسب جريدة الأخبار أطلق أعضاء في &quot;حركة الشعب&quot; اسم الفتاة الفلسطينية على تلك الجادة في نيسان/ أبريل 2018 ضمن حملة تهدف إلى ما وصفته بـــ &quot;إعادة هوية بيروت&quot;، فحوّلت جادة الملك سلمان بن عبد العزيز إلى جادة عهد التميمي وشارع ديغول إلى شارع جورج عبد الله، وشارع باريس إلى جادة وديع حداد، إضافة شوارع أخرى غيّرت أسماءها على المنوال نفسه.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">أمّا الصورة الأخرى المضللة فإنها أيضاً لا تُظهر شارع اسمه &quot;مير حسين موسوي&quot;، إنّما تدلّ على شارع &quot;مصطفى بدر الدين&quot; أحد قياديي &quot;حزب الله&quot;، والذي قُتل في سورية في مايو/ أيار 2016.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_fa5a94eda6ecde768c99bf9b3b0116c2.jpg\" style=\"height:500px; width:318px\" /></span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_05828b16db6c13f0f222f500be4ec843.jpg\" style=\"height:336px; width:531px\" /></span></strong></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشر أفيخاي أدرعي المتحدث باسم جيش الاحتلال الإسرائيلي على صفحته الرسمية على &quot;فيسبوك&quot; و&quot;تويتر&quot;، صورتين زعم أنهما توضّحان كيف يقوم &quot;حزب الله&quot; بتسمية شوارع في لبنان بأسماءٍ إيرانية. إحدى الصور أظهرت شارعاً سُميّ &quot;آية الله الخميني&quot;، والأخرى صوّرت لافتة تشير إلى اسم شارع &quot;مير حسين موسوي&quot;. واعتبر المتحدث باسم جيش الاحتلال إطلاق &quot;حزب الله&quot; هذه الأسماء على بعض الشوارع تهديداً إيرانياً لهوية لبنان وتقويضاً لسيادته، إذ أرفق بمنشوره وسوم #الهوية_اللبنانية_بخطر، #كلنا_للوطن، #وين_الاستقلال.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><strong><img src=\"https://images-prod.misbar.com/articlebody/origin_29ab691f7975bb6113564a272a4a6ec5.jpg\" style=\"height:539px; width:374px\" /></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 365,
+        "left": 3.9940185546875,
+        "path": "articles/1575543402GettyImages-1182113615.jpg",
+        "top": 57.8682861328125,
+        "totalHeight": 423,
+        "totalWidth": 660,
+        "width": 649
+    },
+    "post_date": "2019-11-23T13:49:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/IDFarabicAvichayAdraee/posts/2849346638449243?__tn__=-R",
+            "name": "أفيخاي أدرعي",
+            "path": "published/0_1575543402_ادرعي-لوغو.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://newspaper.annahar.com/article/863991-%D8%B4%D8%A7%D8%B1%D8%B9-%D9%85%D8%B5%D8%B7%D9%81%D9%89-%D8%A8%D8%AF%D8%B1-%D8%A7%D9%84%D8%AF%D9%8A%D9%86--%D9%88%D9%85%D8%B4%D8%A7%D8%B9%D8%B1-%D8%A7%D9%84%D8%A2%D8%AE%D8%B1%D9%8A%D9%86",
+            "name": "جريدة النهار",
+            "path": "sources/0_1575543402_جريدة النهار- لوغو.jpg"
+        },
+        {
+            "link": "https://al-akhbar.com/Culture_People/247585",
+            "name": "الأخبار اللبنانية",
+            "path": "sources/1_1575543402_الأخبار اللبنانية-لوغو.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "أسماء إيرانية لشوارع لبنانية... ما حقيقة ادعاء أفيخاي أدرعي؟",
+    "updated_at": "2020-09-23 12:40:11",
+    "url_path": "/factcheck/2019/12/05/أسماء-إيرانية-لشوارع-لبنانية-ما-حقيقة-ادعاء-أفيخاي-أدرعي"
+}

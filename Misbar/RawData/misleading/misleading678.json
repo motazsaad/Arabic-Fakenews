@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 848,
+    "author": {
+        "fullname": "حسام الوكيل",
+        "id": "5e7cb2a9d4a2297a3f1db883",
+        "photo": {
+            "name": "1585230505_1hGLjIBq_400x400.jpg",
+            "path": "authors/1585230505_1hGLjIBq_400x400.jpg"
+        }
+    },
+    "caption": "مقطع فيديو يعود إلى عام 2018 (Youtube)",
+    "category": "News",
+    "claim": "<p>مشاهد مأساوية لغرق &rdquo;جاردن سيتي&ldquo; أحد أحياء العاصمة السودانية الراقية، جراء فيضانات غير مسبوقة يشهدها لأول مرة السودان.</p>\r\n",
+    "country": "SD",
+    "created_at": "2020-09-06 18:58:30",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f550726bee02169396b2aac",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تحقّق &quot;مسبار&quot; من مقطع الفيديو، ووجد أنه مضلل، إذ يعود إلى عام 2018 نتيجة لهطول أمطار غزيرة على السودان، وتداولته وقتها حسابات سودانية ترافقه دعوات للإطاحة بالرئيس السوداني السابق عمر البشير.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/-kbwFChjxfs\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تداولت حسابات على موقعيّ التواصل الاجتماعي فيسبوك وتويتر مقطع فيديو لشوارع غارقة بمياه الفيضان بالسودان، وقالت هذه الحسابات أن مقطع&nbsp;الفيديو يعود إلى فيضان هذا العام، وأُرفقت بعض المنشورات بوسم #فيضان_السودان_2020. </span></p>\r\n\r\n<table align=\"left\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td style=\"height:0px; text-align:center; width:48px\">&nbsp;</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"text-align:center\">&nbsp;</td>\r\n\t\t\t<td style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ual9u2qsq.jpg\" style=\"height:352px; width:315px\" /></td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<table align=\"left\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td style=\"height:0px; text-align:center; width:48px\">&nbsp;</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td style=\"text-align:center\">&nbsp;</td>\r\n\t\t\t<td style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_a7gnqc2u0.jpg\" style=\"height:352px; width:369px\" /></td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F102548578189717%2Fvideos%2F3166775720084453%2F&amp;show_text=0&amp;width=261\" style=\"border:none;overflow:hidden\" width=\"261\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 408,
+        "left": -1.5,
+        "path": "articles/1599407909سسسز.JPG",
+        "top": 2.921875,
+        "totalHeight": 423,
+        "totalWidth": 761,
+        "watermark_path": "articles/watermark-1599407909سسسز.JPG",
+        "width": 724
+    },
+    "post_date": "2020-09-06T17:01:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/Sudan_tweet/status/1302276297192804361?s=20",
+            "name": "Sudan News",
+            "path": "published/0_1599407909_6_1596888660_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/Shamrr_Official/status/1302135267751419905?s=20",
+            "name": "شمارات&منبرشات",
+            "path": "published/1_1599407909_6_1596888660_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/magdi_halim/status/1302021692169113602?s=20",
+            "name": "Dr.Magdi A.Halim Al.othman",
+            "path": "published/2_1599407909_6_1596888660_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/watch/?v=3166775720084453&extid=iP2HeEs5JMPFBI2S",
+            "name": "Freedom For All",
+            "path": "published/3_1599407909_0_1596888660_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/story.php?story_fbid=10223936747427187&id=1252059282",
+            "name": "Samer Busher Ali",
+            "path": "published/4_1599407909_0_1596888660_facebook.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://youtu.be/-kbwFChjxfs",
+            "name": "Zari Sudan",
+            "path": "sources/0_1599407909_قق.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذا الفيديو ليس لفيضان السودان الأخير",
+    "updated_at": "2020-09-25 20:48:26",
+    "url_path": "/factcheck/2020/09/06/هذا-الفيديو-ليس-لفيضان-السودان-الأخير",
+    "was_notification_pushed": true
+}

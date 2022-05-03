@@ -1,0 +1,143 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 277,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "هو من عائلة تسكن مدينة اللد منذ عقود ويمتلك محلاً للنجارة (فيسبوك)",
+    "category": "News",
+    "claim": "<p><span dir=\"RTL\" lang=\"AR-SA\">&nbsp;اغتيال قائد كبير في الموساد الإسرائيلي هو فهمي الحناوي.</span></p>\r\n",
+    "country": "PS",
+    "created_at": "2020-12-06 17:44:20",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 6,
+    "feedback_pos": 4,
+    "id": "5fccee4450c58941fc439c29",
+    "investigation": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقّق &quot;<a href=\"https://misbar.com/\"><span style=\"color:#3498db\">مسبار</span></a>&quot; من الخبر ووجده مضللاً؛&nbsp;فالحناوي (55 عاماً) قُتل على أيدي مجهولين، وهو رجل عربي فلسطيني من منطقة اللد، وليس قائداً في&nbsp;الموساد،&nbsp;واعتبرت المواقع العربية المحلية في الأراضي المحتلة&nbsp;أن جريمة قتله&nbsp;رقم 100&nbsp;منذ بداية العام، إذ استهدفت عمليات إطلاق نار رجالاً&nbsp;ونساءً من المدن والأحياء العربية، دون التعرف على الفاعلين في أغلب عمليات القتل. وقال </span><span dir=\"RTL\" lang=\"AR-SA\"><span style=\"background-color:white\">عضو بلدية اللد، محمد أبو شريقي في لقاء على راديو الناس: &quot;فقدنا المغدور، إذ كان&nbsp;إنساناً مسالماً،&nbsp;أحبَّ الناس وأحبّوه</span></span>، وله منجرة في المدينة، وعنده خمسة أشقاء من عائلة بسيطة ومتواضعة&quot;، معتبراً أن المسؤول عن موجة العنف الشرطة الإسرائيلية التي لا تحارب الجريمة في الأحياء العربية. وكانت حالات القتل وإطلاق النار زادت الآونة الأخيرة، وقد وصفها الإعلام بأحداث عنف وجريمة في البلدات العربية في أراضي عام 1948.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?height=476&amp;href=https%3A%2F%2Fwww.facebook.com%2Fnasradio.fm%2Fvideos%2F1065994497195541%2F&amp;show_text=false&amp;width=476\" style=\"border:none;overflow:hidden\" width=\"476\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت حسابات وصفحات على مواقع التواصل الاجتماعي، إضافة إلى مواقع إخبارية،&nbsp;منذ 4 ديسمبر/كانون الأول الجاري، مقطع فيديو يصاحبه تعليق &quot;أنباء عن&nbsp; اغتيال قائد كبير في الموساد الإسرائيلي&nbsp;فهمي الحناوي&quot;، جنوب شرق تل أبيب على أيدي مجهولين، وقالت بعض الحسابات إن&nbsp;إيران من اغتالته رداً على اغتيال العالم النووي محسن فخري زادة.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_nuyd9408a.jpg\" style=\"height:394px; width:602px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 409,
+        "left": 16.100006103515625,
+        "path": "articles/1607265860Screenshot 2020-12-06 153020.jpg",
+        "top": 4.35009765625,
+        "totalHeight": 423,
+        "totalWidth": 867,
+        "watermark_path": "articles/watermark-1607265860Screenshot 2020-12-06 153020.jpg",
+        "width": 727
+    },
+    "post_date": "2020-12-06T15:27:00.000+03:00",
+    "published": [
+        {
+            "id": "5fccee437cd290462f506457",
+            "link": "https://www.facebook.com/watch/?ref=search&v=1055535058251912&external_log_id=7f4a43df-a860-4dab-9e4b-20ff1fe8414a&q=%D8%A3%D9%86%D8%A8%D8%A7%D8%A1%20%D8%B9%D9%86%20%D8%A7%D8%BA%D8%AA%D9%8A%D8%A7%D9%84%20%D9%82%D8%A7%D8%A6%D8%AF%20%D9%81%D9%8A%20%D8%A7%D9%84%D9%85%D9%88%D8%B3%D8%A7%D8%AF",
+            "name": "الدوار",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5fccee439f09bf4898022e1b",
+            "link": "https://www.facebook.com/100052666913165/videos/180346323730930",
+            "name": "أبو عماد",
+            "origin": "facebook",
+            "path": "sources/cbcfd3c4b36c3aebad2757a03c2aa319a53ed2a2.jpg"
+        },
+        {
+            "id": "5fccee4391ee4b0b5646f74c",
+            "link": "https://www.facebook.com/watch?ref=search&v=134588671557077&external_log_id=4a09b45e-424f-4dbb-864e-1e28343e00dd&q=%D8%A3%D9%86%D8%A8%D8%A7%D8%A1%20%D8%B9%D9%86%20%D8%A7%D8%BA%D8%AA%D9%8A%D8%A7%D9%84%20%D9%82%D8%A7%D8%A6%D8%AF%20%D9%81%D9%8A%20%D8%A7%D9%84%D9%85%D9%88%D8%B3%D8%A7%D8%AF",
+            "name": "جاي وصدك",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5fccee43a910d803df1019bd",
+            "link": "https://twitter.com/cG2MnGehZMtisKm/status/1334919216403795971",
+            "name": "ابن الشايب",
+            "origin": "twitter",
+            "path": "sources/454f8812d96fdc57a638472607c4a93cd24b7627.jpg"
+        },
+        {
+            "id": "5fccee437c54a414a95ddbb8",
+            "link": "https://twitter.com/nabil700241548/status/1334910873748582401",
+            "name": "نبيل الشعثمي",
+            "origin": "twitter",
+            "path": "sources/830688ad38ce769bd5394aaef4d0fb4c99a08c04.jpg"
+        },
+        {
+            "id": "5fccee435bf0d037fd22527a",
+            "link": "https://www.facebook.com/watch/?ref=search&v=679346652944348&external_log_id=9fdc194d-6cd4-4489-95be-5cca3e5c209b&q=%D8%A3%D9%86%D8%A8%D8%A7%D8%A1%20%D8%B9%D9%86%20%D8%A7%D8%BA%D8%AA%D9%8A%D8%A7%D9%84%20%D9%82%D8%A7%D8%A6%D8%AF%20%D9%81%D9%8A%20%D8%A7%D9%84%D9%85%D9%88%D8%B3%D8%A7%D8%AF",
+            "name": "عين الشرقية",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5fccee44330dc22c4d6ed216",
+            "link": "https://www.facebook.com/mohammed.abdlkrim/videos/10224467212415722",
+            "name": "محمد عبد الكريم",
+            "origin": "facebook",
+            "path": "sources/cbcfd3c4b36c3aebad2757a03c2aa319a53ed2a2.jpg"
+        },
+        {
+            "id": "5fccee4492d5654ba8520e31",
+            "link": "https://www.facebook.com/ali.alhassany.545/videos/222462352570724",
+            "name": "Ali Alhassany",
+            "origin": "facebook",
+            "path": "sources/cbcfd3c4b36c3aebad2757a03c2aa319a53ed2a2.jpg"
+        },
+        {
+            "id": "5fccee446db6df3683127c48",
+            "link": "https://ar.mehrnews.com/news/1909901/%D8%A7%D9%86%D8%A8%D8%A7%D8%A1-%D8%B9%D9%86-%D8%A7%D8%BA%D8%AA%D9%8A%D8%A7%D9%84-%D9%82%DB%8C%D8%A7%D8%AF%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D9%85%D9%88%D8%B3%D8%A7%D8%AF-%D9%81%D9%87%D9%85%D9%8A-%D8%A7%D9%84%D8%AD%D9%86%D8%A7%D9%88%D9%8A-%D9%81%D9%8A-%D8%AA%D9%84-%D8%A3%D8%A8%D9%8A%D8%A8",
+            "name": "Mehr News Agency",
+            "origin": "",
+            "path": "sources/59b70421b6bbfff130c36a6989b54ee3e616f99c.jpg"
+        },
+        {
+            "id": "5f919954b0e90f7ccc708018",
+            "link": "https://www.alalamtv.net/tag/3008451?t=%D8%A7%D8%BA%D8%AA%D9%8A%D8%A7%D9%84-%D9%81%D9%87%D9%85%D9%8A-%D8%A7%D9%84%D8%AD%D9%86%D8%A7%D9%88%D9%8A",
+            "name": "قناة العالم",
+            "origin": "",
+            "path": "published/0_1593439242_1.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fccee449a98a630d448752f",
+            "link": "https://www.facebook.com/nasradio.fm/posts/216810379820708",
+            "name": "Nas Radio - \\u0631\\u0627\\u062f\\u064a\\u0648 \\u0627\\u0644\\u0646\\u0627\\u0633",
+            "origin": "facebook",
+            "path": "sources/46c949d3fdd9cf11b24f2f13fecebd64d690b3ba.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "فهمي الحناوي نجار من اللد وليس قائداً في الموساد",
+    "updated_at": "2020-12-10 11:20:27",
+    "url_path": "/factcheck/2020/12/06/فهمي-الحناوي-نجار-بسيط-من-اللد-وليس-قائدا-في-الموساد",
+    "was_notification_pushed": "true"
+}

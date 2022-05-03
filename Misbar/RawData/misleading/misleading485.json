@@ -1,0 +1,96 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 181,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "كان في السابق ملكاً لجو بايدن، إلا أنه باعه قبل حوالي عشرين عاماً (تويتر)",
+    "category": "Business",
+    "claim": "<p>منزل فخم وممتد على مساحات واسعة تصل تكلفته ملايين الدولارات يعود إلى المرشح الرئاسي الأميركي الحالي جو بايدن.</p>\r\n",
+    "country": "",
+    "created_at": "2020-10-18 17:56:44",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 5,
+    "id": "5f8c57ab8d71cf78341b0fd0",
+    "investigation": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\"><span style=\"background-color:#f9f9f9\"><span style=\"color:#111111\">تحقّق &quot;مسبار&quot; من صورة المنزل، ووجد أنه&nbsp;ليس مملوكاً&nbsp;من قبل جو بايدن،&nbsp;بل</span></span><span style=\"color:#111111\">&nbsp;<span style=\"background-color:#f9f9f9\">كان العقار&nbsp;</span></span><span style=\"background-color:#f9f9f9\"><span style=\"color:#111111\">&nbsp;في السابق ملكاً له، وهو&nbsp;</span></span><span style=\"color:#111111\"><span style=\"background-color:#f9f9f9\">عبارة عن قصر سابق مكون من 5 غرف نوم، مساحته 10 آلاف قدم مربع، في منطقة غرينفيل في </span></span></span><span dir=\"RTL\" lang=\"AR-JO\"><span style=\"background-color:#f9f9f9\"><span style=\"color:#111111\">كارولانيا الجنوبية</span></span></span><span dir=\"RTL\" lang=\"AR-SA\"><span style=\"background-color:#f9f9f9\"><span style=\"color:#111111\">، .</span></span></span></p>\r\n\r\n<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\"><span style=\"background-color:#f9f9f9\"><span style=\"color:#111111\">وتذكر المواقع الأميركية أنه في عام 1974، تمكن بايدن الذي كان آنذاك عضواً&nbsp;في مجلس الشيوخ الأميركي من شراء العقار مقابل 185,000 دولار فقط لأن المنزل مهجور،&nbsp;ويحتاج إلى إصلاحات كبيرة، وبعد إصلاح المنزل والعيش فيه لمدة عقدين من الزمن، باعه بايدن في عام 1996 مقابل 1.2 مليون دولار.</span></span></span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_04vghxb5s.jpg\" style=\"height:488px; width:602px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"margin-right:48px; text-align:justify\">تداول مستخدمون على موقع التواصل الاجتماعي، تويتر، منذ 18 أكتوبر/تشرين الأول، صورةً جوية لمنزل كبير ممتد على مساحة واسعة، وعلقوا أنها تعود إلى&nbsp;المرشح الرئاسي للانتخابات الأميركية القادمة جون بايدن، وقال المستخدمون إنه يبدو منزلاً فخماً نسبة إلى أحوال بايدن الاقتصادية.</p>\r\n\r\n<p dir=\"RTL\" style=\"margin-right:48px; text-align:justify\">&nbsp;وكان أشهر من شارك الصورة، وغردها على &quot;تويتر&quot;، إريك ترامب ابن المرشح الرئاسي المنافس والرئيس الحالي دونالد ترامب، مشككاً في قدرة بايدن على شراء منزل بهذه الفخامة براتبه الشهري كسناتور في مجلس الشيوخ والذي يبلغ 174 ألف دولار أميركي في السنة، وتم إعادة تغريدته أكثر من 47 ألف مرة على موقع تويتر.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_3tjw3wfm2.jpg\" style=\"height:395px; width:602px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_11qcq549w.jpg\" style=\"height:574px; width:588px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 411,
+        "left": 11.255584716796875,
+        "path": "articles/1603033003Screenshot 2020-10-18 131956.jpg",
+        "top": 8.75,
+        "totalHeight": 423,
+        "totalWidth": 753,
+        "watermark_path": "articles/watermark-1603033003Screenshot 2020-10-18 131956.jpg",
+        "width": 732
+    },
+    "post_date": "2020-10-18T15:59:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/EricTrump/status/1317482157812613122",
+            "name": " Eric Trump",
+            "path": "published/0_1603033003_A_NzWpYr_400x400.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/gregkellyusa/status/1317826072965242880",
+            "name": "Greg Kelly",
+            "path": "published/1_1603033003_Screenshot 2020-10-16 191707.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/davereaboi/status/1317491271330635782",
+            "name": "David Reaboi",
+            "path": "published/2_1603033003_Screenshot 2020-10-16 191707.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.townandcountrymag.com/leisure/real-estate/a33809100/joe-biden-real-estate-homes/",
+            "name": "Town and country",
+            "path": "sources/0_1603035602_Screenshot 2020-10-18 173057.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://politicalcalculations.blogspot.com/2008/09/does-senator-joe-biden-have-house_10.html#.X4xfzebitPY",
+            "name": "political calculations",
+            "path": "sources/1_1603035441_Screenshot 2020-10-18 173613.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصورة ليست لمنزل جو بايدن الحالي",
+    "updated_at": "2020-10-18 18:57:46",
+    "url_path": "/factcheck/2020/10/18/هذه-الصورة-ليست-لمنزل-جو-بايدن-الحالي",
+    "was_notification_pushed": true
+}

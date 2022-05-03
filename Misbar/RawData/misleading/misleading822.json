@@ -1,0 +1,83 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1355,
+    "author": {
+        "fullname": "مريم هواري",
+        "id": "5e299460d4a22939983a3ec5",
+        "photo": {
+            "path": "authors/1579791192_Maryam.jpg"
+        }
+    },
+    "caption": "بينما لون سيّارات الأجرة في دولة الاحتلال هو أبيض (تويتر)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">امرأة عربية مسلمة تشتغل سائقة تاكسي في &quot;إسرائيل&quot;.</p>\r\n",
+    "country": "IL",
+    "created_at": "2020-08-02 12:59:00",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f268e6460211807193ac342",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الادّعاء مضلّل. إذ أن الصورة التي نشرها كوهين تظهر بها سيّارة أجرة باللون الأصفر، بينما لون سيّارات الأجرة في دولة الاحتلال هو أبيض، كما هو موضّح في الصورة أدناه، والتي حصل عليها &quot;مسبار&quot; من مصدرها الرئيسي في وكالة &quot;جيتي&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_g2byf485a.jpg\" style=\"height:328px; width:219px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">كما أنّه تناقلت صفحات &quot;إسرائيلية&quot; على وسائل التواصل الاجتماعي الصورة ذاتها، في شهر يونيو/حزيران الفائت، مُشيرين إلى أنّها تعود لسائقة تاكسي من الخليل، في الأراضي المحتلّة عام 1967، مع تعقيبٍ ساخرٍ أنّها تُشبه وزيرة المواصلات &quot;الإسرائيلية&quot; الحاليّة، ميري ريغيف.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_mvaxfs2ak.jpg\" style=\"height:667px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وتُعتبر نادية أحمد أوّل سائقة سيّارة أجرة فلسطينية، من عام 2015، ومن المرجّح أنّه تم التلاعب في الصورة الأصلية لأحمد لتُشبه وزيرة المواصلات &quot;الإسرائيلية&quot;، إذ أنّه هنالك فروقات بين صورتها المتداولة والأصلية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_qwhykibya.jpg\" style=\"height:725px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_t4nh74dv4.jpg\" style=\"height:556px; width:624px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشر الإعلامي &quot;الإسرائيلي&quot; إيدي كوهين على صفحته في موقع تويتر، تغريدةً بتاريخ 1 أغسطس/آب الجاري، صورةً لامرأةٍ تسوق سيارة أجرة، مع إشارة إلى أنها امرأة مُسلمة تعمل كسائقة تاكسي في دولة الاحتلال.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><img src=\"https://images-prod.misbar.com/articlebody/origin_9ti3osz5f.jpg\" style=\"height:604px; width:585px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 175,
+        "left": 3.077850341796875,
+        "path": "articles/1596362340main photo.jpg",
+        "top": 2.167724609375,
+        "totalHeight": 179,
+        "totalWidth": 318,
+        "watermark_path": "articles/watermark-1596362340main photo.jpg",
+        "width": 311
+    },
+    "post_date": "2020-08-02T12:54:00.000+03:00",
+    "published": [
+        {
+            "link": "\thttps://twitter.com/EdyCohen/status/1289641400967942144",
+            "name": "إيدي كوهين",
+            "path": "published/0_1596362339_edy cohen.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.aljazeera.com/news/2015/08/palestine-female-taxi-driver-big-plans-150813124001006.html",
+            "name": "Al Jazeera",
+            "path": "sources/0_1596362339_الجزيرة.jpg"
+        },
+        {
+            "link": "https://qudsn.net/post/69235/%D8%A7%D9%84%D8%AE%D8%B1%D9%88%D8%AC-%D8%B9%D9%86-%D8%A7%D9%84%D9%85%D8%A3%D9%84%D9%88%D9%81-%D9%86%D8%A7%D8%AF%D9%8A%D8%A9-%D8%A3%D9%88%D9%84-%D8%B3%D8%A7%D8%A6%D9%82%D8%A9-%D8%AA%D9%83%D8%B3%D9%8A-%D8%A8%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D9%84",
+            "name": "قدس",
+            "path": "sources/1_1596362339_قدس.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/story.php?story_fbid=10158991205362176&id=260689792175",
+            "name": "https://qudsn.net/post/69235/%D8%A7%D9%84%D8%AE%D8%B1%D9%88%D8%AC-%D8%B9%D9%86-%D8%A7%D9%84%D9%85%D8%A3%D9%84%D9%88%D9%81-%D9%86%D8%A7%D8%AF%D9%8A%D8%A9-%D8%A3%D9%88%D9%84-%D8%B3%D8%A7%D8%A6%D9%82%D8%A9-%D8%AA%D9%83%D8%B3%D9%8A-%D8%A8%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D9%84",
+            "path": "sources/2_1596362340_tweets.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه ليست سائقة تاكسي مسلمة في دولة الاحتلال",
+    "updated_at": "2020-09-25 05:38:12",
+    "url_path": "/factcheck/2020/08/02/هذه-ليست-سائقة-تاكسي-مسلمة-في-دولة-الاحتلال"
+}

@@ -1,0 +1,122 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 226,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "منحت ولاية مينيسوتا امتياز التسجيل والتصويت باليوم نفسه للناخبين (Getty)",
+    "category": "Politics",
+    "claim": "<p>عضو الكونغرس الأميركي إلهان عمر تقول إنه&nbsp;لا حاجة لتسجيل الناخب من أجل التصويت في ولاية&nbsp;مينيسوتا.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-11-04 01:31:16",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 3,
+    "feedback_pos": 2,
+    "id": "5fa1da34c2b80e074513464b",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من التغريدة، ووجد&nbsp;أنه تم تحريف كلامها في التغريدة التي نشرتها قبل ساعات قليلة، بنشر تصريح مضلل على لسانها؛ فالتغريدة&nbsp;تقول &quot;لا يجب أن تكون مسجلاً كي تصوت في مينيسوتا، لأنك تستطيع أن تسجل اليوم وتصوت أيضا&quot;، لذلك فهي فعلياً تدعو للتسجيل والتصويت في اليوم ذاته، فالولاية سمحت بهذا الامتياز للناخبين.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;وكانت عمر قد&nbsp;ردت على تغريدة الإعلامي في قناة فوكس نيوز والموالي للرئيس الأميركي المنتخب دونالد ترامب، بالقول &quot; لا أعرف أين الكذبة، نحن فخورون أنه يمكن التسجيل والتصويت معاً في مينيسوتا، لكن يبدو أن الأمر صعب الفهم على الجمهوريين&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_9mmed5sfh.jpg\" style=\"height:508px; width:586px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_djbi6t1hb.jpg\" style=\"height:498px; width:590px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت صفحات وحسابات أميركية على وسائل التواصل الاجتماعي، إضافة إلى مواقع إعلامية، في الساعات الأخيرة، خلال&nbsp;الانتخابات الأميركية التي ستصدر نتائجها في الساعات القريبة القادمة، تصريحاً لعضو الكونغرس الأميركي إلهان عمر تقول فيه &quot;لستَ بحاجة إلى التسجيل، كي تصوت في ولاية مينيسوتا&quot;، وذلك نقلاً عن تغريدة لها حملت العبارة ذاتها، وكان المذيع في قناة فوكس نيوز سين هانتي غرد بذلك، وأعاد تغريدته الآلاف &quot; ليست مزحة،&nbsp; إلهان عمر تؤكد عدم الحاجة للتسجيل كي تصوت في ولاية </span><span dir=\"RTL\" lang=\"AR-SA\">مينيسوتا</span><span dir=\"RTL\" lang=\"AR-SA\">&quot;.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ohb1dsqcu.jpg\" style=\"height:332px; width:616px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_7p1s4mup4.jpg\" style=\"height:486px; width:590px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 350,
+        "left": 0.40008544921875,
+        "path": "articles/1604442676GettyImages-1134478846.jpg",
+        "top": 8.800048828125,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1604442676GettyImages-1134478846.jpg",
+        "width": 622
+    },
+    "post_date": "2020-11-03T22:45:00.000+03:00",
+    "published": [
+        {
+            "id": "5fa1da337cd5a22bf425d591",
+            "link": "https://hannity.com/media-room/not-a-joke-ilhan-omar-tells-residents-you-dont-have-to-be-registered-to-vote-in-minnesota/?fbclid=IwAR2RfwO9tzQ9P6ZX0l7J6055DYw5mMX40OyC4sr4mQV5LTO4UJW4LdUoNy0",
+            "name": "Sean Hannity",
+            "origin": "",
+            "path": "sources/9c33f95170ab69371ff5c56b31f34ef4e40afb53.jpg"
+        },
+        {
+            "id": "5fa1da337c83c87711361680",
+            "link": "https://www.facebook.com/photo/?fbid=3595615450495303&set=basw.AbpFW4Nx45dq0wlwWxGgKJxAAw8A-XxSVyqJ35HLODfwZEUwpXFn3HVNpANK_WL8rzeL0HrYyLyFkvuRnL5vCe85ELrXe4LsQ6wbuiHHqOaT1umEE7CStqeqOVB5Jyz16lSwGVOOrpSu0JKxaf5KyLLQPpsgBvvLLxrhZ6kE8szfsNXDDVbMy7XiEZeOS-eV4uMumQ1iVcCnonWstYrQqvvIPhogK2wURkCMhGiqX5bQki88fT5_q8mX85dGz3EPHty_5zUQ-pzhuiPZrLvmQb8A&opaqueCursor=Abo5xFhsNTqZ-zEhuMH54IEyv7bMO5zGsMZgUSwMWpw2DF2cxd0Fah-4gDD4euFzav1bkvFQFTGbE8saiZPau88BI1AoRPJ-FxRP9VhA51xVCEf5hI1__lZr3iJ59I95preLQ_IMh9bsWe2Of9jjF2c32ATLuC8o1-9JAt_U6ybQxXspjpZgAao1nJ3biB02dsN1kIiQvKa99SnBvh6BCpFedqHB8vojAIrSPeiQNbASxSmKaolnXp7vE53loMRvFW13hVWzPH9g9MyaOTpA-mHtXOae0a-tWtLBmd27NQlOVVpaynD6XGr42Fv9UKv6sVH4trgzy4zfXCe6t_KAeL5regbdFCrDBhq8JY3k5zJIFaRrvmzp8SVCETMDfErwCDZm0saCWbZLQ5wliQIY4pxf8ISxdxEYVxE1vDX-GbBdOkKlSpNRq4x8j2N0v_DLh3tJT1hO-Mfns6IAcCkBxgfSGBwalFcTx4jDJlLvb2G5HgyJjah3O18zvWuEiVjnONo1CpdZ9bRFt0-CeuDXKFsMA34BQjk6MOa2txAVIhofcIhvr6ODg3ThYtrddObCh7Q",
+            "name": "David Nicoll",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5fa1da3347104e755906d690",
+            "link": "https://twitter.com/seanhannity/status/1323673086076571648?ref_src=twsrc%5Etfw",
+            "name": "Sean Hannity",
+            "origin": "twitter",
+            "path": "sources/39289283afa3397050d99ca725ebd9bc4da07c1f.jpg"
+        },
+        {
+            "id": "5fa1da337508cd5b061dbd6a",
+            "link": "https://twitter.com/gina_macina/status/1323708051665362945",
+            "name": "Gina Macina",
+            "origin": "twitter",
+            "path": "sources/edfbef25cf85a75aaba7bd1cd0fe2014bd9520cc.jpg"
+        },
+        {
+            "id": "5fa1da3382510856ba0fdfee",
+            "link": "https://twitter.com/JustPattyB/status/1323677760183697408",
+            "name": "JustPattyB",
+            "origin": "twitter",
+            "path": "sources/454f8812d96fdc57a638472607c4a93cd24b7627.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fa1da331edeb6718d693350",
+            "link": "https://twitter.com/IlhanMN/status/1323677769809670144?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1323677769809670144%7Ctwgr%5Eshare_3&ref_url=https%3A%2F%2Fwww.snopes.com%2Ffact-check%2Fomar-minnesota-register-vote%2F",
+            "name": "Ilhan Omar",
+            "origin": "twitter",
+            "path": "sources/8bc512731b34d0c8b705a0cbb7b4a75e02af2407.jpg"
+        },
+        {
+            "id": "5fa1da331edeb6718d693350",
+            "link": "https://twitter.com/IlhanMN/status/1323642888354369538?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1323642888354369538%7Ctwgr%5Eshare_3&ref_url=https%3A%2F%2Fwww.snopes.com%2Ffact-check%2Fomar-minnesota-register-vote%2F",
+            "name": "Ilhan Omar",
+            "origin": "twitter",
+            "path": "sources/8bc512731b34d0c8b705a0cbb7b4a75e02af2407.jpg"
+        },
+        {
+            "id": "5fa1da340006972e84769419",
+            "link": "https://www.sos.state.mn.us/elections-voting/register-to-vote/register-on-election-day/",
+            "name": "www.sos.state.mn.us",
+            "origin": "",
+            "path": "sources/bef2ace98f329f24b2f8d87c41fde640a835ca3c.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "إلهان عمر لم تقل إنه لا حاجة للتسجيل من أجل التصويت في ولاية مينيسوتا",
+    "updated_at": "2020-11-04 10:08:19",
+    "url_path": "/factcheck/2020/11/04/إلهان-عمر-لم-تقل-إنه-لا-حاجة-للتسجيل-من-أجل-التصويت-في-ولاية-مينيسوتا",
+    "was_notification_pushed": true
+}

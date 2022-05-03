@@ -1,0 +1,83 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1607,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "  نفت الوزارة نفسها الخبر على موقعها (Getty)",
+    "category": "Health",
+    "claim": "<p style=\"text-align:right\"><span style=\"background-color:white\"><span style=\"color:black\">.وزيرة الصحة وضعت نفسها ابتداء من يوم 20 مايو/أيار الجاري في إجراءات عزل نفسها منزلياً، نتيجة الاشتباه في إصابتها بفايروس</span></span>&nbsp;<span style=\"background-color:white\">كورونا المستجد</span><span style=\"background-color:white\"><span style=\"color:black\"> </span></span></p>\r\n",
+    "country": "EG",
+    "created_at": "2020-05-22 12:58:34",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ec7a24adb29161a5b2fe654",
+    "investigation": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقّق &quot;مسبار&quot; من الخبر، ووجد أنَّه زائف، خاصة بعد أن ظهرت الوزيرة في 21 مايو/أيار الجاري، خلال افتتاح مشروع بشائر الخير، إلى جانب الرئيس عبد الفتاح السيسي، كما نفت الوزارة نفسها الخبر على موقعها، مؤكدة كون الوزيرة غير مصابة بالفايروس. على لسان خالد مجاهد، المتحدث الرسمي لوزارة الصحة.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_uglybvz0v.jpg\" style=\"height:406px; width:574px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_xplp77y2t.jpg\" style=\"height:660px; width:605px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:black\">نشرت مواقعٌ إخبارية، وأخرى صفحات على وسائل التواصل الاجتماعي أن وزيرة الصحة وضعت نفسها ابتداء من يوم 20 مايو/أيار الجاري في إجراءات عزل نفسها منزلياً؛&nbsp;نتيجة الاشتباه في إصابتها بفايروس</span></span>&nbsp;<span style=\"background-color:white\">كورونا المستجد</span><span style=\"background-color:white\"><span style=\"color:black\"> بعد أن خالطت اثنين من العاملين في مكتبها، واللذين تبيّن لاحقاً إصابتهما بالفايروس، وتم نقلهما إلى مستشفى خاصة&nbsp;بعزل حالات المصابين بالفايروس في القاهرة</span></span><span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:black\">.</span></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_k8bqjcxqr.jpg\" style=\"height:388px; width:404px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 293,
+        "left": 66.0986328125,
+        "path": "articles/1590141514GettyImages-1163174005.jpg",
+        "top": 125.164794921875,
+        "totalHeight": 423,
+        "totalWidth": 650,
+        "watermark_path": "articles/watermark-1590141514GettyImages-1163174005.jpg",
+        "width": 520
+    },
+    "post_date": "2020-05-22T11:09:00.000+03:00",
+    "published": [
+        {
+            "link": "https://qutooof.blogspot.com/2020/05/blog-post_378.html?fbclid=IwAR33OA26mqb0FoVyW4CwfvFvYJoD8epQ2TF02ZjVfXh2Gu7ggfJPDFihu4M",
+            "name": "قطوف",
+            "path": "published/0_1590141513_photo_2019-02-20_21-03-49.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/mervat.okba/posts/2939701356077290",
+            "name": "Mervat Hassan Okba",
+            "path": "published/2_1590141513_91048696_2812012402179520_4066371501371162624_o.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "http://gate.ahram.org.eg/SiteMedia/Videos/83908/2/-%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%B3%D9%8A%D8%B3%D9%8A-%D9%8A%D9%81%D8%AA%D8%AA%D8%AD-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%A8%D8%B4%D8%A7%D8%A6%D8%B1-%D8%A7%D9%84%D8%AE%D9%8A%D8%B1--%D8%A8%D8%AD%D8%B6%D9%88%D8%B1-%D9%88%D8%B2%D9%8A%D8%B1.aspx",
+            "name": "بوابة الأهرام",
+            "path": "sources/0_1590141513_الأهرام.JPG"
+        },
+        {
+            "link": "https://www.youm7.com/story/2020/5/21/%D8%AE%D8%A7%D9%84%D8%AF-%D9%85%D8%AC%D8%A7%D9%87%D8%AF-%D9%8A%D9%86%D9%81%D9%89-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D8%A8%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-%D9%88%D9%8A%D8%A4%D9%83%D8%AF-%D8%AA%D8%A8%D8%A7%D8%B4%D8%B1-%D8%B9%D9%85%D9%84%D9%87%D8%A7/4786353",
+            "name": "اليوم السابع",
+            "path": "sources/1_1590141514_اليوم السابع.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل  عزلت وزيرة الصحة المصرية نفسها؟",
+    "updated_at": "2020-09-25 16:33:32",
+    "url_path": "/factcheck/2020/05/22/هل-أصيبت-وزيرة-الصحة-المصرية-بفايروس-كورونا"
+}

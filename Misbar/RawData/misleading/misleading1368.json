@@ -1,0 +1,88 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1565,
+    "author": {
+        "fullname": "عمار الشقيري",
+        "id": "5e3efdc5d4a22959e100ef33",
+        "photo": {
+            "name": "1581186501_صورة شخصيّة.jpg",
+            "path": "authors/1581186501_صورة شخصيّة.jpg"
+        }
+    },
+    "category": "Science",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">&quot;ناسا&quot; تنشر صورة ليليّة لنهر النيل، في يوم الذي وصل فيه تعداد سكّان مصر إلى 100 مليون.</p>\r\n",
+    "country": "EG",
+    "created_at": "2020-02-13 11:51:00",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5e450df4d4a22949557a24d3",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تبيّن لمسبار أنَّ الصورة بالفعل التقطها <a href=\"https://spaceflight.nasa.gov/gallery/images/station/crew-25/html/iss025e009858.html\" style=\"color:blue; text-decoration:underline\">أحد</a> أفراد طاقم إكسبيديشن 25 في محطّة الفضاء الدولية، لكنّها صورة منشورة منذ 28 تشرين الأول/أكتوبر 2010. ولم تلتقط في أكتوبر من العام الماضي، كما لم تنشرها ناسا الثلاثاء.<span dir=\"LTR\"> </span>وقد <a href=\"https://www.nasa.gov/multimedia/imagegallery/image_feature_1923.html\" style=\"color:blue; text-decoration:underline\">أعادت</a> ناسا نشر الصورة في عام 2011.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"AR-JO\"><img alt=\"A screenshot of a cell phone\r\n\r\nDescription automatically generated\" id=\"Picture_x0020_9\" src=\"https://images-prod.misbar.com/articlebody/investigation_p9g31toz8.jpg\" style=\"height:293.25pt; width:333.75pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"AR-SA\"><img id=\"Picture_x0020_6\" src=\"https://images-prod.misbar.com/articlebody/investigation_7mcmxqj2f.jpg\" style=\"height:186.75pt; width:334.5pt\" /> </span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "مصر",
+        "ناسا",
+        "النيل"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت وسائل إعلام عربية، بتاريخ 12 فبراير/شباط الجاري، صورة ليلية لمصر التقطها أحد روّاد الفضاء على متن محطة الفضاء الدولية. وتظهر الصورة أماكن تركّز التجمّعات السكّانية في البلاد، لا سيّما على ضفاف نهر النيل.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وأوردت وسائل الإعلام هذه أنَّ الصورة التقطها أحد أعضاء طاقم فرقة إكسبيديشن 25 في محطة الفضاء الدولية بتاريخ 28 أكتوبر/تشرين الأول 2019.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وجاء الخبر في سياق إعلان الحكومة المصرية الثلاثاء عن وصول عدد سكّان مصر إلى 100 مليون نسمة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"AR-SA\"><img alt=\"A screenshot of a cell phone\r\n\r\nDescription automatically generated\" id=\"Picture_x0020_2\" src=\"https://images-prod.misbar.com/articlebody/origin_8hy7eeckj.jpg\" style=\"height:300pt; width:344.25pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"AR-SA\"><img alt=\"A screenshot of a cell phone\r\n\r\nDescription automatically generated\" id=\"Picture_x0020_7\" src=\"https://images-prod.misbar.com/articlebody/origin_uzhx4pc9n.jpg\" style=\"height:412.5pt; width:347.25pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"AR-SA\"><img alt=\"A picture containing monitor, indoor\r\n\r\nDescription automatically generated\" id=\"Picture_x0020_8\" src=\"https://images-prod.misbar.com/articlebody/origin_f0lj5e9da.jpg\" style=\"height:312.75pt; width:343.5pt\" /> </span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/15815908011280px-Nile_River_Delta_at_Night_cropped.JPG"
+    },
+    "post_date": "2020-02-13T10:32:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.skynewsarabia.com/varieties/1320223-%D9%86%D8%A7%D8%B3%D8%A7-%D8%AA%D9%86%D8%B4%D8%B1-%D8%B5%D9%88%D8%B1%D8%A9-%D9%86%D8%A7%D8%AF%D8%B1%D8%A9-%D9%84%D9%84%D9%86%D9%8A%D9%84-%D8%A7%D9%84%D9%85%D8%B6%D9%8A%D8%A1-%D9%85%D8%B5%D8%B1",
+            "name": "سكاي نيوز عربية",
+            "path": "published/0_1581583860_سكاي نيوز عربية لوغو.jpg"
+        },
+        {
+            "link": "http://gate.ahram.org.eg/News/2370569.aspx",
+            "name": " بوابة الأهرام",
+            "path": "published/1_1581583860_بوابة الأهرام - logo.jpg"
+        },
+        {
+            "link": "http://alrai.com/article/10523537/?fbclid=IwAR1WhUfks9EWDqO01mT5TQhZj0slPRermSvQ9s7G6rHKeANY5RVgRCFPtgc",
+            "name": "جريدة الرأي",
+            "path": "published/2_1581583860_الرأي - لوغو.jpg"
+        },
+        {
+            "link": "https://www.youm7.com/story/2020/2/12/%D9%85%D8%B5%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D9%81%D8%B6%D8%A7%D8%A1-%D9%86%D8%A7%D8%B3%D8%A7-%D8%AA%D8%B9%D8%B1%D8%B6-%D8%B5%D9%88%D8%B1%D8%A9-%D9%84%D9%8A%D9%84%D9%8A%D8%A9-%D9%84%D9%84%D9%86%D9%8A%D9%84-%D8%AA%D8%B8%D9%87%D8%B1-%D9%85%D9%86%D8%A7%D8%B7%D9%82/4628191",
+            "name": "اليوم السابع",
+            "path": "published/3_1581584929_اليوم السابع-لوغو.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://spaceflight.nasa.gov/gallery/images/station/crew-25/html/iss025e009858.html",
+            "name": "الصورة الأصلية",
+            "path": "sources/0_1581583859_NASA.JPG"
+        },
+        {
+            "link": "https://www.nasa.gov/multimedia/imagegallery/image_feature_1923.html",
+            "name": "NASA",
+            "path": "sources/1_1581583859_NASA.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل نشرت \"ناسا\" الثلاثاء صورة ليلية لمصر؟",
+    "updated_at": "2020-09-25 06:59:08",
+    "url_path": "/factcheck/2020/02/13/هل-نشرت-ناسا-الثلاثاء-صورة-ليلية-لمصر"
+}

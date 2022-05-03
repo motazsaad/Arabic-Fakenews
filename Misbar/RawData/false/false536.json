@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 786,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "نفى والد اللاعب الخبر في مداخلة هاتفية على فناة الزمالك (يوتيوب)",
+    "category": "Sports",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">&nbsp;&rlm;وفاة سعد محمد لاعب نادي الزمالك&nbsp;المُصاب بمرض السرطان.</span></p>\r\n",
+    "country": "EG",
+    "created_at": "2020-07-03 10:43:04",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5efee188163be306b15ca5de",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من الخبر ووجد أنّه زائف. إذ نفى والد اللاعب محمد سعد الخبر في مداخلة هاتفية على قناة الزمالك، أمس الخميس، وقال إنّه بخير ولا صحة لما يتردّد على مواقع التواصل الاجتماعي عن وفاته. كما نشرت بعض الصفحات الرياضية مقطع فيديو لمحمد سعد،&nbsp;ينفي حقيقة الخبر.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"420\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fofficialzamalektv%2Fvideos%2F1404613793061205%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FItalianZamalkawy14%2Fvideos%2F2654254294831388%2F&amp;show_text=0&amp;width=269\" style=\"border:none;overflow:hidden\" width=\"269\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">نشرت حسابات على مواقع التواصل الاجتماعي أمس 2 يوليو/تموز، خبراً مغاده وفاة لاعب نادي الزمالك سعد محمد، المُصاب بمرض السرطان.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_lr7d2zyvt.jpg\" style=\"height:530px; width:417px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_hnbjgwgqy.jpg\" style=\"height:508px; width:414px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_cm0jsnb7l.jpg\" style=\"height:310px; width:422px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/159376454860.jpg",
+        "watermark_path": "articles/watermark-159376454860.jpg"
+    },
+    "post_date": "2020-07-03T10:40:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=745234632877675&set=a.163095147758296&type=3",
+            "name": "Hamada Hassiba",
+            "path": "published/0_1593762183_Hamada Hassiba.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=363669584605487&set=a.119320862373695&type=3",
+            "name": "Mahmoud Ramadan",
+            "path": "published/1_1593762367_Mahmoud Ramadan.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/386719875141632/permalink/903131120167169/",
+            "name": "CR IS",
+            "path": "published/2_1593762367_CR IS.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=288822958902928&id=100033256787239",
+            "name": "hmed Ana",
+            "path": "published/3_1593762367_hmed Ana.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/w.mrwan/posts/1942374912564540",
+            "name": "وليد السيد مروان",
+            "path": "published/4_1593762367_Zamalek Jeddah Fans.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1436964679845685&id=100005964996343",
+            "name": "ابراهيم المصري",
+            "path": "published/5_1593762367_ابراهيم المصري.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=983365032084134&id=100012319392589",
+            "name": "محمد كامل محمد",
+            "path": "published/6_1593762367_محمد كامل محمد.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/officialzamalektv/videos/1404613793061205/?__xts__%5B0%5D=68.ARDR6QrLmp2eal5UJV06FjIdBm0LnEgiMeEQhB5pexNyYO-vcj9GiElL30Whz5R2o1eEKqjxSOqx-YTQC3todsC1Fh5NH7IxHHv7jOiJfl4PswaqUcwddne99X7yyhMAc7dL4JSOr8XiVZ9gg4K81myQxBSZajXu2A5Py9RbDaKgNQji6bJ5S-eqPCs4dhiPI_tCVID2jcAdlCJHylur6uGO-sBORR8ZAXAHJWNta9xLR_JFVXW2UZdbmJiJCr3_avvD1rUOIzNPjfVXGOBUy2q0a9tLpNU8IvBRFXJnEnKg38CjkM3N1JdTeYM8KXwmH54jOZLwXjSLrDa-PuPJOVaPMOnpMMOj10U&__tn__=-R",
+            "name": "قناة الزمالك",
+            "path": "sources/0_1593762183_قناة الزمالك.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ItalianZamalkawy14/videos/2654254294831388/?__xts__%5B0%5D=68.ARAdc8MaW7l1y2EV4EUSdX1uvNROcpbQB4WpJ1sSq__WwcMStwmVAFPSs3UrhKoqTuThx-tIwZDm7ZO4k17y2viXL5uaWjFs2BV_6sS9fbDtWSdPHuXHYSIDNMai7P2-5UDvTYC0WIlSV3lMDzFwXP1AmgoCgnRIfL0mv_Bgz0jF-FOsGSel8kclsNtVYQUUvqnEgmRnvxPfP6NmbzY9c5aMuIAdb0FQIjCr3u41uuwhDdQq-M93i0G0x-SxZ2zT5FsINYcy_AxVeWsP7LHD1hprAsEIi0GiudiuXeO4XrN1A3FaBiWL2PaxzbXgqtTQ5iFAfLtTKAQHJuJ6EMhpla7tZKYSDocDnm-BZQ&__tn__=-R",
+            "name": "Italian Zamalkawy",
+            "path": "sources/1_1593762367_Italian Zamalkawy.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "سعد محمد لاعب الزمالك بصحة جيدة ونفى شائعة وفاته",
+    "updated_at": "2020-09-25 14:40:07",
+    "url_path": "/factcheck/2020/07/03/سعد-محمد-لاعب-الزمالك-بصحة-جيدة-ونفى-خبر-وفاته"
+}

@@ -1,0 +1,116 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 11568,
+    "author": {
+        "fullname": "أحمد بن خميس الفريقي",
+        "id": "5eb96d68db29164cdf087404",
+        "photo": {
+            "name": "1589210472_888.jpg",
+            "path": "authors/1589210472_888.jpg"
+        }
+    },
+    "caption": "تحقق \"مسبار\" من حقيقة الادعاء وتبين أنه زائف (فيسبوك)",
+    "category": "Travel",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">وزير الخارجية التونسية يؤكد فرض تأشيرة على التونسيين العائدين من الخارج قيمتها 100 يورو.</span></p>\r\n",
+    "country": "TN",
+    "created_at": "2020-05-26 22:14:48",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ecd6aa8db2916279c7cd494",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من الادعاء وتبين أنه زائف، إذ لم يصرّح وزير الخارجية التونسي، نور الدين الري، لأيّ وسيلة إعلامية حول فرض تأشيرة قدرها 100 يورو على التونسيين العائدين من الخارج، كما أنّ الوزارة نفسها لم تصدر أيّ بيان أو بلاغ للشعب التونسي في خصوص هذا الخبر المتداول.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">كما أكّد مدير الدبلوماسية العامّة والإعلام في وزارة الشؤون الخارجية، بوراوي ليمام، بتاريخ 25 مايو/أيار، بحسب إذاعة </span><a href=\"https://www.ifm.tn/ar/article/%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A/%D9%81%D8%B1%D8%B6-%D8%AA%D8%A3%D8%B4%D9%8A%D8%B1%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D9%88%D9%86%D8%B3%D9%8A%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D8%A7%D8%A6%D8%AF%D9%8A%D9%86-%D9%85%D9%86-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC-%D8%A8%D9%82%D9%8A%D9%85%D8%A9-100-%D8%A3%D9%88%D8%B1%D9%88-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%AA%D9%88%D8%B6%D8%AD/22596\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>آي أف أم</u></span></a><span style=\"color:#000000\">، ألا صحة للخبر المتداول.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_81k2bra1c.jpg\" style=\"height:850px; width:434px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "تونس",
+        "كوفيد-19",
+        "فيروس كورونا"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تداولت صفحات على مواقع التواصل الاجتماعي، ومواقع إلكترونية، خبراً ادّعت فيه أنّ وزارة الخارجية التونسية قررت فرض تأشيرة على التونسيين العائدين من الخارج مقابل الدخول إلى الأراضي التونسية قيمتها 100 يورو.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_sz04vtphn.jpg\" style=\"height:709px; width:435px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ci76sbld8.jpg\" style=\"height:784px; width:428px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_0ox08ab1d.jpg\" style=\"height:773px; width:415px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 313,
+        "left": 2.95001220703125,
+        "path": "articles/159052048797758515_3010524225660946_5148040971711152128_n.jpg",
+        "top": 89.599853515625,
+        "totalHeight": 423,
+        "totalWidth": 564,
+        "watermark_path": "articles/watermark-159052048797758515_3010524225660946_5148040971711152128_n.jpg",
+        "width": 556
+    },
+    "post_date": "2020-05-26T22:03:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/1640252456258099/posts/2664370853846249/",
+            "name": "وكالة تونس للأنباء",
+            "path": "published/0_1590520486_وكالة.jpg"
+        },
+        {
+            "link": "https://facebook.com/story.php?story_fbid=135161571487154&id=108608140809164 ",
+            "name": "Dites la vérité",
+            "path": "published/1_1590520486_dites.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/272429424135771?view=permalink&id=273866270658753",
+            "name": "Tunisino a roma ",
+            "path": "published/2_1590520486_tunisino.jpg"
+        },
+        {
+            "link": " https://www.facebook.com/105612317510752/posts/278298170242165/ ",
+            "name": "القيروان اليوم",
+            "path": "published/3_1590520486_القيروان.jpg"
+        },
+        {
+            "link": "https://www.tounesnews.net/2020/05/%d9%88%d8%b2%d9%8a%d8%b1-%d8%a7%d9%84%d8%ae%d8%a7%d8%b1%d8%ac%d9%8a%d8%a9-%d8%b3%d9%86%d9%81%d8%b1%d8%b6-%d8%aa%d8%a3%d8%b4%d9%8a%d8%b1%d8%a9-%d8%b9%d9%84%d9%89-%d8%a7%d9%84%d8%aa%d9%88%d9%86%d8%b3/",
+            "name": "تونس نيوز",
+            "path": "published/4_1590521068_تونس.jpg"
+        },
+        {
+            "link": "",
+            "name": "",
+            "path": ""
+        },
+        {
+            "link": "",
+            "name": "",
+            "path": ""
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.ifm.tn/ar/article/%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A/%D9%81%D8%B1%D8%B6-%D8%AA%D8%A3%D8%B4%D9%8A%D8%B1%D8%A9-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D8%AA%D9%88%D9%86%D8%B3%D9%8A%D9%8A%D9%86-%D8%A7%D9%84%D8%B9%D8%A7%D8%A6%D8%AF%D9%8A%D9%86-%D9%85%D9%86-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC-%D8%A8%D9%82%D9%8A%D9%85%D8%A9-100-%D8%A3%D9%88%D8%B1%D9%88-%D8%A7%D9%84%D8%AE%D8%A7%D8%B1%D8%AC%D9%8A%D8%A9-%D8%AA%D9%88%D8%B6%D8%AD/22596",
+            "name": "Radio IFM",
+            "path": "sources/0_1590520487_IFM.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Presidence.tn/",
+            "name": "صفحة رئاسة الجمهورية التونسية",
+            "path": "sources/1_1590520487_رئاسة الجمهورية.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/TunisieDiplo/",
+            "name": "الخارجية التونسية",
+            "path": "sources/2_1590520487_الخارجية.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "فرض تأشيرة دخول على التونسيين العائدين من الخارج.. خبر زائف",
+    "updated_at": "2020-09-25 06:30:52",
+    "url_path": "/factcheck/2020/05/26/فرض-تأشيرة-دخول-على-التونسيين-العائدين-من-الخارج-خبر-زائف"
+}

@@ -1,0 +1,79 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1300,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">اكتشاف مخازن كبرى لسلاح إيراني بحوزة جماعات إرهابية في سيناء.&nbsp;</span></p>\r\n",
+    "country": "EG",
+    "created_at": "2020-02-01 17:25:12",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e358a48d4a2295bd516e884",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">بعد التحقّق، تبيّن لـ&quot;مسبار&quot; أن الخبر زائف، وأن الصورة مأخوذة عن مقطع </span><a href=\"https://www.youtube.com/watch?v=5VLPvdD4zGI&amp;t=\" style=\"text-decoration:none\"><span style=\"color:#1155cc\"><u>فيديو</u></span></a><span style=\"color:#000000\"> نشرته القوات المسلحة المصرية/وزارة الدفاع تحت عنوان &quot;القوات المسلحة تثأر لشهداء سيناء&quot; في شهر يناير/كانون الثاني عام 2015، وادّعت القوّات المصرية في هذا المقطع القبض على مجموعة من عناصر جماعة إرهابية مع عتادهم.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_hl19dz9f0.jpg\" style=\"height:336px; width:379px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">نشرت العديد من </span><a href=\"https://www.youtube.com/watch?v=PJoDGXDBmFM\" style=\"text-decoration:none\"><span style=\"color:#1155cc\"><u>الوسائل</u></span></a><span style=\"color:#000000\"> </span><a href=\"https://www.youtube.com/watch?v=3Unw0-CIWbk\" style=\"text-decoration:none\"><span style=\"color:#1155cc\"><u>الإعلامية</u></span></a><span style=\"color:#000000\"> المصرية ذلك المقطع عن حساب القوات المسلّحة المصرية/وزارة الدفاع </span><a href=\"https://www.youtube.com/user/EgyptianMOD/about\" style=\"text-decoration:none\"><span style=\"color:#1155cc\"><u>السابق</u></span></a><span style=\"color:#000000\"> في موقع يوتيوب، إذ يتبيّن من تاريخ أحدث مقطع منشور أن الحساب توقّف ونُقل إلى الحساب </span><a href=\"https://www.youtube.com/channel/UC5AvwPA0ewLnAcNvCF8ZEhg/about\" style=\"text-decoration:none\"><span style=\"color:#1155cc\"><u>الجديد</u></span></a><span style=\"color:#000000\"> المنشور على </span><a href=\"https://www.mod.gov.eg/ModWebSite/DefaultAr.aspx\" style=\"text-decoration:none\"><span style=\"color:#1155cc\"><u>الموقع</u></span></a><span style=\"color:#000000\"> الرسمي للقوّات المسلحة المصرية، وكان تاريخ نشر آخر مقطع فيديو في الحساب الأول 21 مايو/أيّار من عام 2015، وتاريخ نشر أول مقطع فيديو في الحساب الجديد 30 مايو/أيّار من عام 2015.</span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "سيناء",
+        "جماعات إرهابية",
+        "إيران",
+        "مخازن سلاح"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تناقلت مجموعة من الصفحات على مواقع التواصل الاجتماعي خبراً ادّعت فيه اكتشاف القوّات المسلّحة المصرية لمخازن سلاح إيراني في حوزة جماعات إرهابية في محافظة سيناء المصرية.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_6ouegcmec.jpg\" style=\"height:510px; width:388px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ss3pjja33.jpg\" style=\"height:501px; width:383px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 354,
+        "left": 2.0999755859375,
+        "path": "articles/1580567111GettyImages-482722012.jpg",
+        "top": 18.966659545898438,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "width": 629
+    },
+    "post_date": "2020-02-01T16:18:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/Dojggo0/photos/a.112512813570340/135014131320208/?type=3&theater",
+            "name": "السياسة",
+            "path": "published/0_1580567111_السياسة - لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/rahimah55/photos/a.232484523917847/819947461838214/?type=3&theater",
+            "name": "عشاق القوات المسلحة المصرية",
+            "path": "published/1_1580567111_عشاق القوات - لوغو.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=5VLPvdD4zGI&t=",
+            "name": "وزارة الدفاع المصرية",
+            "path": "sources/0_1580567111_القوات المسلحة المصرية - لوغو.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "خبر زائف: اكتشاف مخازن سلاح إيراني بحوزة جماعات إرهابية في سيناء",
+    "updated_at": "2020-09-23 12:39:12",
+    "url_path": "/factcheck/2020/02/01/خبر-زائف-اكتشاف-مخازن-سلاح-إيراني-بحوزة-جماعات-إرهابية-في-سيناء"
+}

@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2214,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الصورة المتداولة مفبركة (مواقع التواصل الاجتماعي)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">الإيرانيون يطلقون اسم جورج فلويد على أحد الشوارع نكاية بأميركا.</p>\r\n",
+    "country": "IR",
+    "created_at": "2020-06-09 14:03:20",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5edf6c78d6e4a91a5a3644a5",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الصورة زائفة، إذ تحقق &quot;مسبار&quot; منها ووجد أنها مركبة وتمّ التلاعب بها عبر كتابة اسم جورج فلويد على اللافتة بدل من اسم &quot;بهشتى&quot;. وقد عثر &quot;مسبار&quot; على الصورة الأصلية منشورة على عدد من المواقع الإلكترونية الإيرانية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><img src=\"https://images-prod.misbar.com/articlebody/investigation_xudizpsvx.jpg\" style=\"height:761px; width:632px\" /></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><img src=\"https://images-prod.misbar.com/articlebody/investigation_tu4vqkei5.jpg\" style=\"height:586px; width:600px\" /></strong></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تنشر حسابات وصفحات على موقع التواصل الاجتماعي فيسبوك، صورة تدعي أنها تُظهر كيف أطلقت إيران على أحد شوارعها اسم جورج فلويد، وذلك نكاية بالأمريكان كما جاء في المنشور المتداول مع الصورة التي تظهر فيها لافتة الشارع.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_hj5cv58b5.jpg\" style=\"height:586px; width:495px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_cqu8xvacn.jpg\" style=\"height:490px; width:506px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><img src=\"https://images-prod.misbar.com/articlebody/origin_grbsrj1ov.jpg\" style=\"height:566px; width:499px\" /></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 328,
+        "left": 1.95220947265625,
+        "path": "articles/1591700599103261568_152990749647639_3855891490958870346_o.jpg",
+        "top": 41.50439453125,
+        "totalHeight": 423,
+        "totalWidth": 591,
+        "watermark_path": "articles/watermark-1591700599103261568_152990749647639_3855891490958870346_o.jpg",
+        "width": 583
+    },
+    "post_date": "2020-06-09T13:53:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/wethegreatiraq/photos/a.131948331751881/152990746314306/?type=3&theater",
+            "name": "تظاهرات العراق ضد الذيول",
+            "path": "published/0_1591700598_تظاهرات العراق ضد الذيول.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=1541539466030789&set=a.126962610821822&type=3",
+            "name": "حامد ضمد الحسناوي",
+            "path": "published/1_1591700598_حامد ضمد الحسناوي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=275771130147844&set=a.103141234077502&type=3&theater",
+            "name": "Qa Albraikan",
+            "path": "published/2_1591700598_Qa Albraikan.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=930729400706182&id=100013073910596",
+            "name": "Mohammed Abbas",
+            "path": "published/3_1591700598_Mohammed Abbas.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=2946596682093217&set=a.1066906406728930&type=3&theater",
+            "name": "غازي صابر",
+            "path": "published/4_1591700599_غازي صابر.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/125135832218244/photos/a.125717465493414/297790174952808/?type=3&__tn__=-R",
+            "name": "معكم من قلب الحدث",
+            "path": "published/5_1591700599_معكم من قلب الحدث.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.mojnews.com/%D8%A8%D8%AE%D8%B4-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%DB%8C-5/188697-%D9%86%D8%B5%D8%A8-%D8%AA%D8%A7%D8%A8%D9%84%D9%88%DB%8C-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%AE%DB%8C%D8%A7%D8%A8%D8%A7%D9%86-%D8%B4%D9%87%DB%8C%D8%AF-%D8%A2%DB%8C%D8%AA-%D8%A7%D9%84%D9%84%D9%87-%D8%A8%D9%87%D8%B4%D8%AA%DB%8C-%D8%A8%D8%A7-%D8%AF%D8%B3%D8%AA%D9%88%D8%B1-%D8%B4%D9%87%D8%B1%D8%AF%D8%A7%D8%B1-%D8%AA%D9%87%D8%B1%D8%A7%D9%86#gsc.tab=0",
+            "name": "خبر كزاري موج",
+            "path": "sources/0_1591700599_خبر كزاري موج.jpg"
+        },
+        {
+            "link": "https://www.tehranbarbari.com/archive/%D8%A8%D8%A7%D8%B1%D8%A8%D8%B1%DB%8C-%D8%A8%D9%87%D8%B4%D8%AA%DB%8C-88556290-021-%D8%A7%D8%AA%D9%88%D8%A8%D8%A7%D8%B1%D8%A8%D9%87%D8%B4%D8%AA%DB%8C-%D9%85%D8%A7%D8%AF%D8%B1-%D8%A8%D8%A7%D8%B1-%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86-%D8%A8%D8%A7%D8%B1.html",
+            "name": "Tehran Barbari ",
+            "path": "sources/1_1591700599_Tehran Barbari .jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "شارع في إيران باسم جورج فلويد.. حقيقة الصورة",
+    "updated_at": "2020-09-25 20:57:32",
+    "url_path": "/factcheck/2020/06/09/شارع-في-إيران-باسم-جورج-فلويد-حقيقة-الصورة"
+}

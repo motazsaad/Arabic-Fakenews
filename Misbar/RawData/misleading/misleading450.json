@@ -1,0 +1,151 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 203,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": " يأتي الاحتجاج ضمن تحركات نفذتها الطواقم الطبية الفرنسية (تويتر)",
+    "category": "Health",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة لاحتجاج الأطباء التونسيين على أوضاعهم المادية.</p>\r\n",
+    "country": "FR",
+    "created_at": "2020-10-24 18:23:12",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 2,
+    "id": "5f9446e086003f7c6a57155b",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة المتداولة ووجد أنها مضللة، تم تعديلها وتغيير الكلمات الفرنسية إلى اللهجة التونسية. وتبين أنها نشرت للمرة الأولى يوم 10 مايو/آيار الفائت، ضمن تحرك احتجاجي ضد تهميش الطواقم الطبية الفرنسية ومطالبة الحكومة بالوفاء&nbsp;بوعودها وتوفير الإمكانيات المالية والبشرية لقطاع الصحة بعد انتشار فايروس كورونا المستجد (كوفيد-19).&nbsp;وتلى التحرك إشعار للإضراب&nbsp;و<a href=\"https://www.france24.com/ar/20200630-%D9%85%D9%88%D8%B8%D9%81%D9%88-%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D8%B5%D8%AD%D9%8A-%D9%8A%D8%AA%D8%B8%D8%A7%D9%87%D8%B1%D9%88%D9%86-%D9%85%D8%AC%D8%AF%D8%AF%D8%A7-%D8%A8%D8%A8%D8%A7%D8%B1%D9%8A%D8%B3-%D9\" style=\"color:blue; text-decoration:underline\">مسيرتان</a> لموظفي القطاع الصحي في فرنسا في يونيو/حزيران الفائت.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"1.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_e6g4c58c0.jpg\" style=\"height:518px; width:605px\" /></span></p>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"ltr\">🙏😷🙏 alors l&agrave; nous pouvons vraiment comprendre leurs col&egrave;res 😪 a tout le personnel hospitalier force et courage nous sommes avec vous 🙏💞💞💞🌺 <a href=\"https://t.co/jXQ0YeKq6e\">pic.twitter.com/jXQ0YeKq6e</a></p>\r\n&mdash; Bertrand sabine (@Bertrandsabine4) <a href=\"https://twitter.com/Bertrandsabine4/status/1259398515333238784?ref_src=twsrc%5Etfw\">May 10, 2020</a></blockquote>\r\n\r\n<p><iframe frameborder=\"0\" height=\"498\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D3154536227923159%26id%3D776289682414504&amp;show_text=true&amp;width=553&amp;height=498&amp;appId\" style=\"border:none;overflow:hidden\" width=\"553\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات إخبارية وحسابات على مواقع التواصل الاجتماعي، حديثاً ومنذ شهر مايو/آيار الفائت، صورة لمجموعة من الأطباء، زعمت&nbsp;أنهم تونسيون، كتبوا لا فتات عليها &quot;المال اللي ماشي للقنوات الهابطة وزارة الصحة أولى بيه&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_zljylxkve.jpg\" style=\"height:459px; width:453px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"00.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_3fqzhcr1g.jpg\" style=\"height:481px; width:456px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"0.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_320servjf.jpg\" style=\"height:522px; width:534px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 267,
+        "left": 6.625,
+        "path": "articles/160355299296585595_3154536127923169_3365401236294598656_n.jpg",
+        "top": 6.4453125,
+        "totalHeight": 423,
+        "totalWidth": 485,
+        "watermark_path": "articles/watermark-160355299296585595_3154536127923169_3365401236294598656_n.jpg",
+        "width": 475
+    },
+    "post_date": "2020-10-24T16:02:00.000+03:00",
+    "published": [
+        {
+            "id": "5f9446dfaf309a7eb9073cd5",
+            "link": "https://m.facebook.com/Monastir.News/posts/3495368913825052?locale2=ar_AR",
+            "name": "Monastir News",
+            "origin": "facebook",
+            "path": "sources/21561dac36518ec490bb30ffd4640f6d7a51b354.jpg"
+        },
+        {
+            "id": "5f9446df84f53770ca7bbb3f",
+            "link": "https://www.facebook.com/186201764792617/photos/a.576012179144905/3362492123830216/",
+            "name": "ASSOCIATION DES INFIRMIERS DE TUNIS",
+            "origin": "facebook",
+            "path": "sources/6164c77010e12f6cbb9faeedc5a029e1bfae28df.jpg"
+        },
+        {
+            "id": "5f9446df2313437ade35fee0",
+            "link": "https://www.facebook.com/Nokat-Tunisie-62451958509/photos/10157829639153510",
+            "name": "Nokat Tunisie",
+            "origin": "facebook",
+            "path": "sources/a5353610e819349c41b347174a5584cc545d8592.jpg"
+        },
+        {
+            "id": "5f9446dfade87071ea7857bb",
+            "link": "https://www.facebook.com/matunisie01/photos/a.1266116190187298/2062039453928297/",
+            "name": "MA Tunisie",
+            "origin": "facebook",
+            "path": "sources/6b98569ceb64979abc9c9063796128649da92958.jpg"
+        },
+        {
+            "id": "5f9446dfa28d94581a2e44d6",
+            "link": "https://www.facebook.com/Union.Pages.Benguerdenne/photos/a.721418101269673/2964055713672556/",
+            "name": "إتحاد صفحات بنڨردان : كلنا بنڨردان",
+            "origin": "facebook",
+            "path": "sources/6763d3830a75bcb1880b655d7345d06b956dba59.jpg"
+        },
+        {
+            "id": "5f9446dfc3c6273a7e6d036a",
+            "link": "https://www.facebook.com/%D8%A7%D9%84%D8%B4%D8%B9%D8%A8-%D9%8A%D8%B1%D9%8A%D8%AF-%D8%A7%D9%84%D8%AA%D9%91%D8%AE%D9%81%D9%8A%D8%B6-%D9%81%D9%8A-%D8%A7%D9%84%D8%A3%D8%B3%D8%B9%D8%A7%D8%B1-178440188906559/photos/3069417513142131",
+            "name": "الشعب يريد التّخفيض في الأسعار",
+            "origin": "facebook",
+            "path": "sources/924153b5cf5147bd7a71163b4f0f15acf6fb8f77.jpg"
+        },
+        {
+            "id": "5f9446dfbbe51b10af6d314e",
+            "link": "https://www.facebook.com/Live24.Tn/posts/140699384237422",
+            "name": "Siliana Tv",
+            "origin": "facebook",
+            "path": "sources/9b81ed47c091a813027027bdc7430229311d671b.jpg"
+        },
+        {
+            "id": "5f9446dfaf309a7eb9073cd5",
+            "link": "https://m.facebook.com/story.php?story_fbid=3043474589062561&id=123824547694261",
+            "name": "Monastir News",
+            "origin": "facebook",
+            "path": "sources/21561dac36518ec490bb30ffd4640f6d7a51b354.jpg"
+        },
+        {
+            "id": "5f9446e0f3eb8a327d48674d",
+            "link": "https://www.facebook.com/Bouargoub1/photos/a.519412504844661/2933963333389554/",
+            "name": "Bou Argoub",
+            "origin": "facebook",
+            "path": "sources/2f5ae08381066c16f76e49ba1a3752d99730d36c.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f9446e09a0e325d9b0cf86a",
+            "link": "https://www.france24.com/ar/20200630-%D9%85%D9%88%D8%B8%D9%81%D9%88-%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D8%B9-%D8%A7%D9%84%D8%B5%D8%AD%D9%8A-%D9%8A%D8%AA%D8%B8%D8%A7%D9%87%D8%B1%D9%88%D9%86-%D9%85%D8%AC%D8%AF%D8%AF%D8%A7-%D8%A8%D8%A8%D8%A7%D8%B1%D9%8A%D8%B3-%D9%88%D9%85%D8%AF%D9%86-%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9-%D9%84%D9%85%D8%B7%D8%A7%D9%84%D8%A8%D8%A9-%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D9%88%D9%81%D8%A7%D8%A1-%D8%A8%D9%88%D8%B9%D9%88%D8%AF%D9%87%D8%A7",
+            "name": "France 24",
+            "origin": "",
+            "path": "sources/dd8a181a96a728e93a1b73e8d009b77e101e9d18.jpg"
+        },
+        {
+            "id": "5f9446e06c8d4f3fc6261d3e",
+            "link": "http://cgtbezons.over-blog.com/2020/06/ni-medailles-ni-applaudissements-mais-des-moyens-16-juin-tous-devant-les-hopitaux.html",
+            "name": "UNION LOCALE CGT BEZONS",
+            "origin": "",
+            "path": "sources/b8eaeabed421a5922b623a073f61f0dc558e1bbd.jpg"
+        },
+        {
+            "id": "5f9446e02dd06d2e6c20b34d",
+            "link": "https://twitter.com/Bertrandsabine4/status/1259398515333238784/photo/1",
+            "name": "Bertrand sabine",
+            "origin": "twitter",
+            "path": "sources/5b81c98d51ff4374585f5fdd83879dcbd0172ca9.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الصورة لاحتجاج موظفي الصحة الفرنسيين وليست لتونسيين",
+    "updated_at": "2020-10-24 20:18:36",
+    "url_path": "/factcheck/2020/10/24/الصورة-لاحتجاج-موظفي-الصحة-الفرنسيين-وليست-لتونسيين",
+    "was_notification_pushed": "true"
+}

@@ -1,0 +1,108 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 122,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "لا توجد التغريدة على الجدول الزمني لحساب الرئيس ترامب على موقع تويتر (وكالة جيتي)",
+    "category": "Health",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">تغريدة تعود&nbsp;إلى الرئيس الأميركيّ دونالد ترامب،&nbsp;كتب فيها &quot;دمي هو اللقاح&quot;، وذلك بعد إعلان شفائه من فايروس كورونا المستجد &quot;كوفيد_19&quot;.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-10-10 15:55:41",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 1,
+    "id": "5f81af4d3678c2297e1034ba",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقّق &quot;مسبار&quot; من التغريدة ليجد أنها مفبركة؛ فهي عبارة عن صورة منتشرة، تبدو وكأنها تغريدة من حساب الرئيس الأميركي ترامب، إلا أن التغريدة المزعومة&nbsp;لا تظهر خلال التسلسل الزمني في حساب ترامب الموثق على تويتر&nbsp;بتاريخ 5 أكتوبر/تشرين الأول 2020، كما لا تظهر في قاعدة بيانات تجمع تغريدات ترامب أو في موقع أرشيفي يخزّن تغريداته المحذوفة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;ومن المعروف أن موقع تويتر يحتفظ بنسخ عن التغريدات، خاصةً التي لاقت تفاعلاً كبيراً ومن حسابات موثقة، وإذا تم حذفها تظل التغريدة موجودة على شكل رابط في محرك البحث غوغل، إلا أنه لم يتم العثور على تغريدة مماثلة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_kmlyxc5gj.jpg\" style=\"height:312px; width:602px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/investigation_zaplqkov9.jpg\" style=\"height:491px; width:602px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت حسابات على موقع التواصل الاجتماعيّ تويتر، في الأيام الأخيرة، صورةً عن تغريدة، قالت إنّها&nbsp;تعود إلى الرئيس الأميركيّ&nbsp; كتب فيها &quot;دمي هو اللقاح&quot;، وذلك بعد إعلان شفائه من فايروس كورونا المستجد.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_evyd1gyph.jpg\" style=\"height:278px; width:601px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_lngi1fzrx.jpg\" style=\"height:386px; width:602px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_4isb414cv.jpg\" style=\"height:576px; width:602px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_euzeka5qw.jpg\" style=\"height:502px; width:602px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 354,
+        "left": 5.01275634765625,
+        "path": "articles/1602334541GettyImages-1137877403.jpg",
+        "top": 3.207275390625,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1602334541GettyImages-1137877403.jpg",
+        "width": 629
+    },
+    "post_date": "2020-10-10T14:49:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/davematt88/status/1314400288225161216/photo/1",
+            "name": "Dave Matt",
+            "path": "published/0_1602337666_ق4.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/bongo_xxx/status/1314365715118395396",
+            "name": "It's going to get ugly.",
+            "path": "published/1_1602337666_ق4.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/VoteTheRedOut/status/1314343796054740992",
+            "name": "Kevin - is Voting Biden",
+            "path": "published/2_1602337666_ق4.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/mrjohnofarrell/status/1314482367608819713/photo/1",
+            "name": " John O'Farrell",
+            "path": "published/3_1602337666_ق4.JPG"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/realdonaldtrump/status/1314639360743145474",
+            "name": "Donald Trump",
+            "path": "sources/0_1602337666_kUuht00m_400x400.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://projects.propublica.org/politwoops/user/POTUS",
+            "name": "Propublica",
+            "path": "sources/1_1602337666_ق4ق.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "http://www.trumptwitterarchive.com/",
+            "name": "Trump twitter archive",
+            "path": "sources/2_1602337666_تويتر ارشيف.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ترامب لم يغرد على حسابه في تويتر: دمي هو اللقاح",
+    "updated_at": "2020-10-10 16:49:27",
+    "url_path": "/factcheck/2020/10/10/ترامب-لم-يغرد-دمي-هو-اللقاح",
+    "was_notification_pushed": true
+}

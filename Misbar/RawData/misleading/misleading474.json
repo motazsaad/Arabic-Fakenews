@@ -1,0 +1,143 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 182,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "فيديو لغرق طفلين في مدينة الناصرية (تويتر)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">مقطع فيديو يُظهر العثور اليوم صباحاً على جثة الطفلين الذين قامت والدتهم برميهم في نهر دجلة في العراق.</p>\r\n",
+    "country": "IQ",
+    "created_at": "2020-10-20 18:17:32",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 2,
+    "id": "5f8eff8caf7bef4e504a8b02",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;<a href=\"https://misbar.com/\" style=\"text-decoration:none\" target=\"_blank\"><u>مسبار</u></a>&quot; من مقطع الفيديو المتداول ووجد أنه مضلل، لأن <a href=\"https://youtu.be/q8y_cPLjiok\" style=\"text-decoration:none\" target=\"_blank\"><u>المقطع الأصلي</u></a> قديم، نُشر على موقع يوتيوب بتاريخ 30 أغسطس/آب 2016، لانتشال جثتي طفلين غرقا في مدينة الناصرية في العراق.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/q8y_cPLjiok\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">اقرأ/ي أيضاً:</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/10/19/%D9%87%D8%B0%D9%87-%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9-%D9%84%D9%8A%D8%B3%D8%AA-%D9%84%D9%84%D8%B7%D9%81%D9%84%D9%8A%D9%86-%D8%A7%D9%84%D9%84%D8%B0%D9%8A%D9%86-%D8%A3%D9%84%D9%82%D8%AA%D9%87%D9%85%D8%A7-%D9%88%D8%A7%D9%84%D8%AF%D8%AA%D9%87%D9%85%D8%A7-%D9%81%D9%8A-%D9%86%D9%87%D8%B1-%D8%AF%D8%AC%D9%84%D8%A9\" target=\"_blank\">هذه الصورة ليست للطفلين اللذين ألقتهما والدتهما في نهر دجلة</a></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/10/17/%D8%B3%D9%81%D9%8A%D8%B1-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82-%D9%81%D9%8A-%D9%85%D9%88%D8%B1%D9%8A%D8%AA%D8%A7%D9%86%D9%8A%D8%A7-%D9%84%D9%85-%D9%8A%D9%82%D8%A7%D8%A8%D9%84-%D8%AF%D9%88%D9%82-%D9%84%D9%88%D9%83%D8%B3%D9%85%D8%A8%D9%88%D8%B1%D8%BA\" target=\"_blank\">صورة مفبركة لسفير العراق في موريتانيا مع دوق لوكسمبورغ</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تتناقل صفحات وحسابات على مواقع التواصل الاجتماعي، منذ أمس 19 أكتوبر/تشرين الأول، مقطع فيديو ادعت أنه لعملية انتشال جثتي الطفلين الذين رمتهما والدتهما في نهر دجلة في العراق.</p>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"rtl\">تم العثور على الطفلين <a href=\"https://t.co/gEuGgI9Kfg\">pic.twitter.com/gEuGgI9Kfg</a></p>\r\n&mdash; كرم البرشلوني (@kareem9o9o) <a href=\"https://twitter.com/kareem9o9o/status/1318263079587766272?ref_src=twsrc%5Etfw\">October 19, 2020</a></blockquote>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_yuwc2ilpp.jpg\" style=\"height:624px; width:534px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 13.5,
+        "path": "articles/1603207051Screenshot 2020-10-20 181346.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 779,
+        "watermark_path": "articles/watermark-1603207051Screenshot 2020-10-20 181346.jpg",
+        "width": 752
+    },
+    "post_date": "2020-10-20T18:14:00.000+03:00",
+    "published": [
+        {
+            "id": "5f8f00573926ca38e05662fb",
+            "link": "https://twitter.com/Amjad_Ibrahim25/status/1318148670408298496",
+            "name": "🇮🇶 ✪ AMJAD IBRAHIM",
+            "origin": "twitter",
+            "path": "sources/94e4fe6e41b26302d7f98371d84ed66b77addc47.jpg"
+        },
+        {
+            "id": "5f8f005779e4d847985d0c08",
+            "link": "https://twitter.com/NabhanSobhi/status/1318299935280910336",
+            "name": "Sobhi Nabhan",
+            "origin": "twitter",
+            "path": "sources/355391504c3ef456a2b801314aabae64bb16b14b.jpg"
+        },
+        {
+            "id": "5f8f005700f3d03ba442141c",
+            "link": "https://twitter.com/kareem9o9o/status/1318263079587766272",
+            "name": "كرم البرشلوني",
+            "origin": "twitter",
+            "path": "sources/1ebda335076d12a0e744ddae6168835ba3265dc7.jpg"
+        },
+        {
+            "id": "5f8f00577508437696779557",
+            "link": "https://www.facebook.com/Sohaibewiwe/videos/684204222301570/",
+            "name": "sohaib_ewiwe",
+            "origin": "facebook",
+            "path": "sources/9db23c925c0a5ac9976b675c8e869f1125508a1f.jpg"
+        },
+        {
+            "id": "5f8f005735c33729674cd48b",
+            "link": "https://www.facebook.com/hassain89/videos/1254003241632944/",
+            "name": "شخصيات خفاجية أولاد عامر",
+            "origin": "facebook",
+            "path": "sources/0089cc4d90bb9efef372f465cbdb5437bad81e1b.jpg"
+        },
+        {
+            "id": "5f8f005716c0bc23685effea",
+            "link": "https://www.facebook.com/107716081043445/videos/438203143816244/",
+            "name": "أينوره المزاجيه واطلعكم كسر",
+            "origin": "facebook",
+            "path": "sources/37a2109a3806d286e5374e2735717600e5e6bb11.jpg"
+        },
+        {
+            "id": "5f8f012b2a3b3c385d7e21e1",
+            "link": "https://www.facebook.com/1685328558221188/videos/709200423018255/",
+            "name": "حيدر العلي",
+            "origin": "facebook",
+            "path": "sources/ca9054ea015209104afa7fec529ac828c9a829f3.jpg"
+        },
+        {
+            "id": "5f8f012bc45e5d220c46f6e1",
+            "link": "https://www.facebook.com/100007201091796/videos/2669808923269118/",
+            "name": "حيدر أبو مرتضى",
+            "origin": "facebook",
+            "path": "sources/af6f8f22c296a2f707be1985c48b9d0009cfa471.jpg"
+        },
+        {
+            "id": "5f8f012bb78f6c03fc3ebad4",
+            "link": "https://www.facebook.com/120028319786095/videos/353472852538492/",
+            "name": "النصيرات",
+            "origin": "facebook",
+            "path": "sources/64687a8374b5b5ac331e1a82e9f8b73db5c7a334.jpg"
+        },
+        {
+            "id": "5f8f012b378b3564402285a9",
+            "link": "https://www.facebook.com/105044794582615/videos/471518900474220/",
+            "name": "وكالة النور الاخبارية",
+            "origin": "facebook",
+            "path": "sources/403fd98311503115a3f85edb91ef7378456b0447.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f8edfb4148b827f7d192205",
+            "link": "https://youtu.be/q8y_cPLjiok",
+            "name": "قناة يوتيوب",
+            "origin": "",
+            "path": "sources/f4e473f70061267e3fbe3df8d9498087e3cf99aa.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الفيديو قديم ولا يُظهر انتشال طفلي دجلة",
+    "updated_at": "2020-10-20 18:48:18",
+    "url_path": "/factcheck/2020/10/20/الفيديو-قديم-ولا-يظهر-انتشال-طفلي-دجلة",
+    "was_notification_pushed": false
+}

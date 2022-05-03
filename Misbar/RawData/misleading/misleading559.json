@@ -1,0 +1,115 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 134,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "الصورة ليست حديثة (تويتر)",
+    "category": "Politics",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">صورة أب وابنه وحفيده يتطوعون في الجيش الأرميني لمواجهة الجيش الأذربيجاني المدعوم من تركيا.</span></p>\r\n",
+    "country": "AM",
+    "created_at": "2020-10-02 10:31:20",
+    "created_by": "5f39b5a51dd585076701cb94",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 4,
+    "feedback_pos": 6,
+    "id": "5f76d7488afe7803bf01879a",
+    "investigation": "<p dir=\"rtl\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من الصورة وتبين أن الادعاء مضلل</span><span dir=\"RTL\" lang=\"AR-EG\">&nbsp;إذ أن الصورة المتداولة ليست حديثة، ونُشرت على مواقع و</span><span style=\"color:#0563c1\"><u><span dir=\"RTL\"><a href=\"https://twitter.com/avaruza/status/730857048200630272\" style=\"color:#0563c1; text-decoration:underline\">حسابات أرمينية</a></span></u></span><span dir=\"RTL\" lang=\"AR-EG\"> عام 2016، أي قبل اندلاع الاشتباكات الحالية بين أذربيجان وأرمينيا بنحو أربع سنوات.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_tjpnxa1ih.jpg\" style=\"height:568px; width:486px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات وصفحات على مواقع التواصل الاجتماعي، حديثاً، صورة ادعت أنها لأب وابنه وحفيده يتطوعون في الجيش الأرميني لمواجهة الجيش الأذربيجاني المدعوم من تركيا.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_s0ouneu4f.jpg\" style=\"height:541px; width:560px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_wrsopk2sv.jpg\" style=\"height:574px; width:554px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1601623880CiSGnKxWkAI0D58.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1601623880CiSGnKxWkAI0D58.jpg",
+        "width": 752
+    },
+    "post_date": "2020-10-02T10:29:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/Kasem43748116/status/1310747613164118018",
+            "name": "Kasem",
+            "path": "published/0_1601623880_cdeb606d2277405729841fe21c5d10e856529971.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/KinanaAllouchePage/posts/3340175259353015",
+            "name": " كنانة علوش",
+            "path": "published/1_1601624018_7ada239b3c9a5c6f314bd1cf880de59f98e7dba0.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2794612960827036&id=100008350772635",
+            "name": "معن إبراهيم ",
+            "path": "published/2_1601624018_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/taher.akili.1/posts/3159489127496622",
+            "name": "Taher Akili",
+            "path": "published/3_1601624018_7ada239b3c9a5c6f314bd1cf880de59f98e7dba0.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/shafi.jdeed/posts/1999061693563068?__xts__%5B0%5D=68.ARD5Lj54lmpgF41diGzKsT6zvuxLhSYAAgv46KV4emoPQzEXVFVAGtOwWppljSmrKSLbZSWQUze0VJiwZvKoLHNkjL4EANQntoP8heF1Q6y8qbtFTtitm5_ERKNpU5kKITWSMrZ0ZuwDJgXZoegqmzEFsmlvagmCBd1pXjMHCh2v9ANaH36Ed11KNjY7w1bNrU9xnktLKd1BaTIvcY7A53cJpnlDCkhkn4EcRK3xfWJQ0W4zTWtWpgEGOShaccslv6ORXfyWZAjyCr0g2gkS6kWrVeOft0sDj98cS6U-MmfV0BUfSTd0fOCEbWSYe5Z2IgIE&__tn__=-R",
+            "name": "Shafi Jdeed",
+            "path": "published/4_1601624018_7ada239b3c9a5c6f314bd1cf880de59f98e7dba0.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/khaled.maksoud.5/posts/3389505841125493?__xts__%5B0%5D=68.ARCZ3jR6RF-q0KnHaE6MtGmVYuncj0nZqcV5jaincpIsGRn8GBJv7EtRiSCu-4Q5_XLjl7QNIsfAYvLsH05tuUgmFmbp306N-VVCOUNGUPsVbfho1XAtHNrO0hv-DzN175kdA2RRGGsTTP1UQax30YZD7LK1wlu9m3sPY-7ovJUsjt6Zfctlu2VLlKmu_RKrQN3hDq4Tlj9tmPkaEv7fUk1eiS52VWhjBabv3pwFdCI8BZvaSbZ2Uyy21RZXf2Onu9w9k857SXrcW03x1iXBhKYRw7Imp1NM31_aoanB3z43uFWYR0fQ3aYU9EIYUvugLcHE&__tn__=-R",
+            "name": "Khaled Maksoud",
+            "path": "published/5_1601624018_7ada239b3c9a5c6f314bd1cf880de59f98e7dba0.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/georges.noel.90/posts/10159254825114881?__xts__%5B0%5D=68.ARDBeFyfy6_VZpbp_OEYAJd_6yjECXeto0eIZygOaoOaI-CIf4uFCH14PW_RpDALpWnOeYNw8oAX7tCw1kT_N51UzZeE1fkk1uP6ejxbaAxWKScxaq2KQOZXACj6mcVwmdjC6TG2Ft9hFa4IVRvUq-pWJBamK_JRX_tbTruJDR8plIBK_lEuJc8oTr89z3pqJ8ptb8uGGPBZG15e-bDShzCoK2hy6dn-yEycDkZUgTtvKn2cNPjXkzLH5zRMQeNy_x56A95QuxBkBypPHCHnPGFvWcPZTvR7uFmLkHgw0KACUh_cJ7MxJm8lK6PU&__tn__=-R",
+            "name": "Georges Noel",
+            "path": "published/6_1601624019_7ada239b3c9a5c6f314bd1cf880de59f98e7dba0.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/avaruza/status/730857048200630272",
+            "name": "Ruzanna_A",
+            "path": "sources/0_1601623880_cdeb606d2277405729841fe21c5d10e856529971.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه ليست عائلة تطوعت في الجيش الأرميني لمواجهة أذربيجان",
+    "updated_at": "2020-10-02 10:59:30",
+    "url_path": "/factcheck/2020/10/02/هذه-ليست-عائلة-تتطوع-في-الجيش-الأرميني-لمواجهة-أذربيجان",
+    "was_notification_pushed": true
+}

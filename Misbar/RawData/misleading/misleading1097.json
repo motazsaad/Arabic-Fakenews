@@ -1,0 +1,73 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1412,
+    "author": {
+        "fullname": "مريم هواري",
+        "id": "5e299460d4a22939983a3ec5",
+        "photo": {
+            "path": "authors/1579791192_Maryam.jpg"
+        }
+    },
+    "caption": "الأدوية تُستخدم لعلاج داء غوشيه (Getty)",
+    "category": "Health",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">دولة الاحتلال تكتشف لقاحين جديدين لمواجهة فايروس كورونا المستجد (كوفيد-19).</p>\r\n",
+    "country": "",
+    "created_at": "2020-05-28 13:05:26",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ecf8ce6db29166608773f24",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">المعلومات الواردة في التغريدة مضللة. إذ يفيد التقرير الإخباري الذي نشره كوهين أن معهد الأبحاث البيولوجية لدولة الاحتلال اكتشف نجاعة دوائين مُستخدمين لعلاج داء غوشيه، وهو مرض من أمراض الاختزان الوراثية والتي تؤثر على الطحال والكبد، في علاج المصابين بفايروس كورونا. ويذكر التقرير أنّه تم اختبار والموافقة على&nbsp;أحد الأدوية في الولايات المتّحدة. وتجدر الإشارة إلى أن الأدوية المذكورة مشتقّة من أدوية مُعتمدة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_ztuvcmml8.jpg\" style=\"height:612px; width:566px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشر الإعلامي &quot;الإسرائيلي&quot; إيدي كوهين في تغريدةٍ له بتاريخ 27 مايو/أيار الجاري تقريراً من الموقع الإخباري &quot;الإسرائيلي&quot; N12 ادّعى فيها أن دولة الاحتلال اكتشفت لقاحين جديدين ضد فايروس كورونا. وحظت تغريدة كوهين على تداولٍ واسعٍ إذ أعاد نشرها حوالي 90 مُستخدماً وأُعجب بها حوالي 470 حساب على موقع تويتر.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_uhus1g5le.jpg\" style=\"height:673px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_k4uekubfv.jpg\" style=\"height:536px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_yy2op7sno.jpg\" style=\"height:514px; width:624px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 269,
+        "left": 59.800018310546875,
+        "path": "articles/1590660326GettyImages-1217711322.jpg",
+        "top": 76.949951171875,
+        "totalHeight": 399,
+        "totalWidth": 598,
+        "watermark_path": "articles/watermark-1590660326GettyImages-1217711322.jpg",
+        "width": 478
+    },
+    "post_date": "2020-05-28T12:58:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/EdyCohen/status/1265511716856770569",
+            "name": "إيدي كوهين",
+            "path": "published/0_1590660325_ايدي كوهين.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.mako.co.il/news-military/2020_q2/Article-307df2a4d405271026.htm?utm_source=Facebook&utm_medium=NewsChannelPage&partner=NewsChannelFacebook",
+            "name": "N12",
+            "path": "sources/0_1590660325_O7M0d6kM_400x400.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "\"إسرائيل\" تكتشف لقاحين جديدين لفايروس كورونا.. مضلل",
+    "updated_at": "2020-09-25 17:29:53",
+    "url_path": "/factcheck/2020/05/28/-إسرائيل-تكتشف-لقاحين-جديدين-لفايروس-كورونا-خبر-زائف"
+}

@@ -1,0 +1,127 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 494,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "الصورة مأخوذة من مقطع فيديو نُشر في 20 يناير (يوتيوب)",
+    "category": "Politics",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">صورة من استقبال الرئيس تبون بعد عودته إلى البلاد.</span></p>\r\n",
+    "country": "DZ",
+    "created_at": "2020-12-30 11:42:07",
+    "created_by": "5f39b5a51dd585076701cb94",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 59,
+    "feedback_pos": 20,
+    "id": "5fec3d5f46c7e6303a1e35d2",
+    "investigation": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;<a href=\"https://misbar.com/factcheck?scat=health&amp;result=cat_all\" style=\"color:#0563c1; text-decoration:underline\" target=\"_blank\">مسبار</a>&quot; من الصورة المتداولة وتبين أنها قديمة والادعاء مضلل. إذ إنها مأخوذة من <a href=\"https://www.youtube.com/watch?fbclid=IwAR030WFyUoAQfxiWKf5q0_QrpbPQufSb4D5QAywDoAjXk6NedmyzR7q35Ns&amp;v=fYKSibAflEI&amp;feature=youtu.be\" style=\"color:#0563c1; text-decoration:underline\" target=\"_blank\">مقطع فيديو</a> نُشر في 20 يناير/كانون الثاني من العام الجاري، أثناء عودة الرئيس تبون إلى الجزائر&nbsp;بعد مشاركته في مؤتمر برلين حول الملف الليبي.</span></p>\r\n\r\n<p><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/fYKSibAflEI\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">وجاء انتشار الخبر المتداول بعدما عاد الرئيس عبد المجيد تبون إلى البلاد، أمس الثلاثاء، بعد رحلة علاجية في ألمانيا استمرت نحو شهرين بسبب مضاعفات إصابته بفايروس كورونا المستجد. وحسب <a href=\"https://www.youtube.com/watch?v=0BOXn9eB8WA\" style=\"color:#0563c1; text-decoration:underline\" target=\"_blank\">التلفزيون الجزائري</a>&nbsp;فقد حطت الطائرة الرئاسية في مطار بوفاريك العسكري، وكان في استقباله كبار المسؤولين في الدولة.</span></p>\r\n\r\n<p><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/0BOXn9eB8WA\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">اقرأ/ي أيضاً:</span></p>\r\n\r\n<p style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/12/28/%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9-%D9%84%D9%88%D8%B2%D9%8A%D8%B1%D8%A9-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A%D8%A9-%D8%A7%D9%84%D8%B3%D8%A7%D8%A8%D9%82%D8%A9-%D8%B2%D9%8A%D9%86%D8%A9-%D8%B9%D9%83%D8%B1-%D9%88%D9%84%D9%8A%D8%B3%D8%AA-%D9%84%D9%85%D8%AF%D8%A7%D9%85-%D9%85%D8%A7%D9%8A%D8%A7\" style=\"color:#0563c1; text-decoration:underline\" target=\"_blank\">الصورة لوزيرة الدفاع اللبنانية السابقة زينة عكر وليست لمدام مايا</a></p>\r\n\r\n<p><a href=\"https://misbar.com/factcheck/2020/12/18/%D9%84%D9%85-%D9%8A%D8%AA%D8%AD%D8%AF%D8%AB-%D8%A7%D9%84%D8%B2%D8%B9%D9%8A%D9%85-%D8%A7%D9%84%D9%83%D9%88%D8%B1%D9%8A-%D8%B9%D9%86-%D8%A7%D9%84%D8%B5%D8%AD%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D8%AF%D8%B9%D9%85%D9%87-%D9%84%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1\" style=\"color:#0563c1; text-decoration:underline\" target=\"_blank\">لم يتحدث الزعيم الكوري عن الصحراء الغربية ودعمه للجزائر</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "",
+        "استقبال الرئيس تبون",
+        "عبد المجيد تبون",
+        "عودة الرئيس الجزائري",
+        "عودة تبون"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات وصفحات على مواقع التواصل الاجتماعي، منذ أمس 29 ديسمبر/كانون الأول، صورة ادعت أنها لحظة استقبال الرئيس الجزائري عبد المجيد تبون، بعد عودته إلى البلاد من إلمانيا.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_vhl4wjez1.jpg\" style=\"height:343px; width:619px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_83i4e2sh2.jpg\" style=\"height:488px; width:623px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 422,
+        "left": 0.7901611328125,
+        "path": "articles/1609317726maxresdefault.jpg",
+        "top": 0.888916015625,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1609317726maxresdefault.jpg",
+        "width": 750
+    },
+    "post_date": "2020-12-30T11:29:00.000+03:00",
+    "published": [
+        {
+            "id": "5fec3d5e3eed0d6b8c71e00f",
+            "link": "https://www.facebook.com/ramous31000/posts/201713904966168?__cft__[0]=AZU320JIXMIx_TVWKH9euYad_GiH5Stbz0OzqDoJGglHs9RgotzaWDV7jiRi3S8mnwZaavOiC9scAUMk1--AxRzNjaL9LVELsDEMUpKabse22TA494mwq-ny_52jmWfAmcY9M7oyRaVpdNFef6TMVR6R&__tn__=%2CO%2CP-R",
+            "name": "ORAN pour toujours",
+            "origin": "facebook",
+            "path": "sources/d43b2704c52d299263876627fbbb09e340991803.jpg"
+        },
+        {
+            "id": "5fde038c236dc11c232687e9",
+            "link": "https://www.facebook.com/anbaa.aljazaiar/posts/198472345275370",
+            "name": "أنباء الجزائر",
+            "origin": "facebook",
+            "path": "sources/5a1cf8a12158ff0d812d5981b6759ae48a9de3ea.jpg"
+        },
+        {
+            "id": "5fec3d5e9e525b43101c42ca",
+            "link": "https://www.facebook.com/hamaza.ayaichia.3/posts/201624628321489",
+            "name": "Hamaza Ayaichia",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5fec3ddf0ad1ff7c7f6e10d0",
+            "link": "https://www.facebook.com/groups/581135171902237/permalink/4402195636462819/",
+            "name": "اخبار بلدية بوحاتم",
+            "origin": "facebook",
+            "path": "sources/9fb41797f3ab0b7b87f8775614ed7b0bdd915b9b.jpg"
+        },
+        {
+            "id": "5fec3de0fcc53e21e5418c24",
+            "link": "https://www.facebook.com/elmendjel/posts/1391711994494172",
+            "name": "المنجل",
+            "origin": "facebook",
+            "path": "sources/f3b32c94d59bb14818525a9b6d1f0c489a741a45.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fec3d5e6c1a4575ef1e9325",
+            "link": "https://www.youtube.com/watch?fbclid=IwAR030WFyUoAQfxiWKf5q0_QrpbPQufSb4D5QAywDoAjXk6NedmyzR7q35Ns&v=fYKSibAflEI&feature=youtu.be",
+            "name": "ELBILAD TV",
+            "origin": "youtube",
+            "path": "sources/9131732f6a4961706f2b0ec07ba33200ac747100.jpg"
+        },
+        {
+            "id": "5fe1f32f94884622e9506e47",
+            "link": "https://www.youtube.com/watch?v=0BOXn9eB8WA",
+            "name": "المؤسسة العمومية للتلفزيون الجزائري",
+            "origin": "youtube",
+            "path": "sources/511a4cf707b5a74b807b4151efe7e597f365eb2d.jpg"
+        },
+        {
+            "id": "5fb4cd87836e831f6a7d1c5e",
+            "link": "https://www.ennaharonline.com/%D9%87%D8%B0%D8%A7-%D9%85%D8%A7-%D9%82%D8%A7%D9%84%D9%87-%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%AA%D8%A8%D9%88%D9%86-%D9%84%D8%AF%D9%89-%D9%88%D8%B5%D9%88%D9%84%D9%87-%D8%A5%D9%84%D9%89-%D8%A7%D9%84/",
+            "name": "النهار أونلاين",
+            "origin": "",
+            "path": "sources/ea91497ae19496fb61a163a58883174f7582279d.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صورة قديمة وليست من استقبال الرئيس تبون بعد عودته",
+    "updated_at": "2020-12-30 11:56:43",
+    "url_path": "/factcheck/2020/12/30/صورة-قديمة-وليست-من-استقبال-الرئيس-تبون-بعد-عودته",
+    "was_notification_pushed": "true"
+}

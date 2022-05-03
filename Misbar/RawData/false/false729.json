@@ -1,0 +1,104 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 19407,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "المقال العربي الوحيد الذي احتفى بالطبيبة التونسية كان في صحيفة العرب (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">الإعلام العربي والأجنبي يشيد بدور الدكتورة نصاف بن علية في انتصار تونس على كورونا<span dir=\"LTR\" lang=\"FR\">.</span></p>\r\n",
+    "country": "TN",
+    "created_at": "2020-05-15 15:28:55",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ebe8b07db2916789b0656c4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الأخبار المتداولة وتبيّن أنها زائفة، إذ لم تنشر أيّة وسيلة إعلامية عربية خلال اليومين الفائتين أيَّ خبرٍ يشيد بنصاف بن علية<span dir=\"LTR\" lang=\"FR\">.</span> والمقال العربي الوحيد الذي احتفى بالطبيبة التونسية كان في صحيفة العرب بتاريخ 30 أبريل/نيسان الفائت، والذّي قدّم مسارها المهنيّ وتضحياتها رفقة إلهام بوطيبة، الطبيبة التي كشفت مع فريقها شيفرات كورونا. وكان المقال بعنوان &quot;قصة طبيبتين من تونس تحاربان الوباء بلا كلل&quot;، هذا ولم تنشر صحيفة ذا واشنطن بوست الأميركيّة أيّ خبرٍ عن الاحتفاء بالطبيبة التونسية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"FR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_d3qbv7n15.jpg\" style=\"height:580px; width:623px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تَتَداول مواقع إلكترونية وصفحات إخباريّة على مواقع التواصل الاجتماعيّ، أخباراً&nbsp;تدّعي أن الإعلام العربي والغربي، كصحيفة ذا واشنطن بوست، يُشيد بالدكتورة نصاف بن علية، المديرة العامة للمرصد الوطني للأمراض الجديدة والمستجدة في تونس. وجاء الاحتفاء بالدكتورة بن علية بسبب قيادتها تونس للانتصار على فايروس كورونا المستجد، الأمر الذي دفع البعض لإطلاق لقب المرأة الحديدية عليها.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_65ojaq5dd.jpg\" style=\"height:438px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_4frwdlbfd.jpg\" style=\"height:478px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_onief61x6.jpg\" style=\"height:550px; width:522px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 39.5,
+        "path": "articles/158954573496767016_3085044291534654_5219324642707111936_o.jpg",
+        "top": 0,
+        "totalHeight": 620,
+        "totalWidth": 831,
+        "watermark_path": "articles/watermark-158954573496767016_3085044291534654_5219324642707111936_o.jpg",
+        "width": 752
+    },
+    "post_date": "2020-05-15T15:15:00.000+03:00",
+    "published": [
+        {
+            "link": "https://famainfo.wordpress.com/2020/05/13/%D8%B5%D8%AD%D9%8A%D9%81%D8%A9-%D8%A7%D9%84%D9%88%D8%A7%D8%B4%D9%86%D8%B7%D9%86-%D8%A8%D9%88%D8%B3%D8%AA-%D8%A5%D9%85%D8%B1%D8%A3%D8%A9-%D8%AA%D9%88%D9%86%D8%B3%D9%8A%D8%A9",
+            "name": "فماي",
+            "path": "published/0_1589545733_11.jpg"
+        },
+        {
+            "link": "https://www.assarih.com/a170597-",
+            "name": "الصريح أون لاين",
+            "path": "published/1_1589545733_التصريح.jpg"
+        },
+        {
+            "link": "https://asslemafm.net/2020/05/12/%D9%86%D8%B5%D8%A7%D9%81-%D8%A8%D9%86-%D8%B9%D9%84%D9%8A%D8%A9-%D8%AD%D8%AF%D9%8A%D8%AB-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A-%D8%A7%D9%85%D8%B1%D8%A3/",
+            "name": "عسلامة أف أم",
+            "path": "published/2_1589545733_عسلية.jpg"
+        },
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=2512097005676844&id=1427627494123806",
+            "name": " زوم",
+            "path": "published/3_1589545733_12.jpg"
+        },
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=148827333352526&id=107415484160378",
+            "name": "التونسي نت",
+            "path": "published/4_1589545733_التونسي نت.jpg"
+        },
+        {
+            "link": "amourhttps://www.facebook.com/Kelibia.mon.Amourr/photos/a.182140108828217/1097656680609884/?type=3&__xts__%5B0%5D=68.ARAy040u5GNvSUcHvtJiXO6cu3vGy3m2z3tADYVOGcSqcGO54lo_e3TpiL4jH967hLPoZx8kRl19L9Y9RXpXcg1gcUTkShrFAs2GXx8M4bZoURwGor3kKUBb9KM43Ha-tDwSfIH_UDxSEzN1iI_C7ouf6wmZLclGeBPwWnWGWtNAe9bwkybHvXs_wCy4OabrOVutpKpycmux_O_68Y4glsCrD0ILGW5VlVXsZ2YTrvGCkLaFYENPtU38tnYQbt2vE9fFZ9bbj-94xK1q2GBWCGzhQ2lgtH6jcidfBCHhA-dNgmeHByCJQqbPkkX5eo9-oqbg6rnHH9Wm6JqRBvLBAgfGXg&__tn__=-R",
+            "name": "Kélibia mon ",
+            "path": "published/5_1589545734_Kélibia mon amour.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://alarab.co.uk/%D9%82%D8%B5%D8%A9-%D8%B7%D8%A8%D9%8A%D8%A8%D8%AA%D9%8A%D9%86-%D9%85%D9%86-%D8%AA%D9%88%D9%86%D8%B3-%D8%AA%D8%AD%D8%A7%D8%B1%D8%A8%D8%A7%D9%86-%D8%A7%D9%84%D9%88%D8%A8%D8%A7%D8%A1-%D8%A8%D9%84%D8%A7-%D9%83%D9%84%D9%84",
+            "name": "صحيفة العرب",
+            "path": "sources/0_1589545734_العرب.jpg"
+        },
+        {
+            "link": "https://www.washingtonpost.co",
+            "name": "The Washington Post",
+            "path": "sources/1_1589545734_The Washington Post.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "كورونا تونس: ما حقيقة احتفاء وسائل الإعلام بالدكتورة نصاف بن علية؟",
+    "updated_at": "2020-09-25 07:17:34",
+    "url_path": "/factcheck/2020/05/15/كورونا-تونس-ما-حقيقة-احتفاء-وسائل-الإعلام-بالدكتورة-نصاف-بن-علية"
+}

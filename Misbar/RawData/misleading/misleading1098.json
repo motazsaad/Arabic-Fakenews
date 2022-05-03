@@ -1,0 +1,108 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 2,
+        "tw": 1
+    },
+    "amount_sources": 0,
+    "amount_visits": 2158,
+    "author": {
+        "fullname": "مهيب الرفاعي",
+        "id": "5e485a82d4a2291f48646b23",
+        "photo": {
+            "name": "1581800066_20190511_191329-01_resized_20200215_093927157.jpg",
+            "path": "authors/1581800066_20190511_191329-01_resized_20200215_093927157.jpg"
+        }
+    },
+    "caption": "الصورة الأصلية للطبيب اللبناني محمد عيديبي (فيسبوك)",
+    "category": "Health",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة لطبيب سوري اعتُدي عليه بالضرب من قِبل المحجورين في أحد مراكز الحجر الصحي في دمشق.</p>\r\n",
+    "country": "SY",
+    "created_at": "2020-05-28 11:53:54",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ecf7c22db29164ab022e615",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة المتداولة، وتبين أنها ليست لطبيب سوري، وإنما للطبيب اللبناني محمد عيديبي، من مشفى تبنين الحكومي، الذي تعرض للضرب داخل حرم المشفى إثر تقديمه مشورة لم ترضِ المريض، بحسب موقع <a href=\"http://www.yasour.org/2018/ar/news/details/news-20394\" style=\"color:#0563c1; text-decoration:underline\" target=\"_blank\">يا صور</a> الإخباري، الذي نشر الصورة بتاريخ 18 أغسطس/آب 2019.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وبمراجعة موقع وزارة الصحة السورية الرسمي، وحساب المكتب الإعلامي للوزارة على مواقع التواصل الاجتماعي، لم يعثر &quot;مسبار&quot; على صورة الطبيب السوري الصحيحة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_p9ta6dbrm.jpg\" style=\"height:330px; width:625px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "سورية",
+        "كوفيد-19",
+        "كورونا",
+        "فيروس كورونا",
+        "طبيب سوري"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات وحسابات على مواقع التواصل الاجتماعي صورة ادّعت أنها لطبيب سوري تعرض للضرب من قبل نزلاء في مركز الحجر الصحي الواقع في منطقة المزة في العاصمة السورية دمشق، بعد ملاسنة تطورت إلى عراك بين الفريق الطبي و المحجورين. وبحسب التعليقات الواردة على الصورة المتداولة، فقد نُقل الطبيب إلى مشفى ابن النفيس في دمشق، حيث التُقطت له هذه الصورة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_jmqyz1o3x.jpg\" style=\"height:516px; width:497px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_hhelb1p4d.jpg\" style=\"height:350px; width:498px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 341,
+        "left": 2.33331298828125,
+        "path": "articles/1590656033غلاف.jpg",
+        "top": 23.25,
+        "totalHeight": 423,
+        "totalWidth": 610,
+        "watermark_path": "articles/watermark-1590656033غلاف.jpg",
+        "width": 605
+    },
+    "post_date": "2020-05-28T11:38:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/291544144386776/posts/1408852755989237/ ",
+            "name": "صوت وصورة من الجامعات السورية",
+            "path": "published/0_1590656032_صوت.jpg"
+        },
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=1102782036771453&id=100011190010644",
+            "name": "د. عبد الله أحمد الماشي",
+            "path": "published/1_1590656032_الماشي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=872948556520849&id=177530569395988",
+            "name": "أخبار من قلب حلب",
+            "path": "published/2_1590656032_أخبار.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/sliek.area/posts/1671424392996360",
+            "name": "الصليخ نيوز",
+            "path": "published/3_1590656032_الصليخ.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/1123452118003992/permalink/1191235237892346/",
+            "name": "سوسن قطرميز",
+            "path": "published/4_1590656032_سوسن.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "http://www.yasour.org/2018/ar/news/details/news-20394",
+            "name": "يا صور الإخباري",
+            "path": "sources/0_1590656033_يا صور.jpg"
+        },
+        {
+            "link": "http://www.moh.gov.sy/Default.aspx?tabid=56&language=ar-YE",
+            "name": "موقع وزارة الصحة السورية",
+            "path": "sources/1_1590656033_وزارة الصحة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/MinistryOfHealthSYR/",
+            "name": "وزارة الصحة السورية - فيسبوك",
+            "path": "sources/2_1590656033_وزارة الصحة.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "طبيب سوري يتعرض للضرب في مركز للحجر الصحي.. صورة مضللة",
+    "updated_at": "2020-09-25 02:41:08",
+    "url_path": "/factcheck/2020/05/28/طبيب-سوري-يتعرض-للضرب-في-مركز-للحجر-الصحي-صورة-مضللة"
+}

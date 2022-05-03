@@ -1,0 +1,102 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 425,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "الصورة الأصلية منشورة على صفحة المكتب الإعلامي لرئيس الوزراء على تويتر (تويتر)",
+    "category": "Politics",
+    "claim": "<p>رئيس مجلس الوزراء العراقي مصطفى الكاظمي يمارس عمله على ضوء الشمعة.</p>\r\n",
+    "country": "IQ",
+    "created_at": "2020-07-28 14:04:19",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f200633163be306f622e97e",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">الصورة مفبركة، إذ عثر &quot;مسبار&quot; على الصورة الأصلية منشورة على الصفحة الرسمية ل</span><span style=\"background-color:white\">لمكتب الإعلامي لرئيس</span><span style=\"background-color:white\"> الوزراء العراقي على &quot;تويتر&quot;، بتاريخ </span><span dir=\"LTR\"><span style=\"background-color:white\">26</span></span><span style=\"background-color:white\"> يوليو/تموز الجاري. هذا وكانت أن </span><span style=\"background-color:white\">أطلقت حسابات وصفحات على مواقع التواصل الاجتماعي وسم #العراق_بدون_كهرباء، للإشارة إلى انقطاع التيار الكهربائي في مناطق عديدة من البلاد.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"background-color:white\"><img id=\"صورة_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/investigation_egpodvl7l.jpg\" style=\"height:636pt; width:469.5pt\" /> </span></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">تتداول حسابات على موقعي التواصل الاجتماعي فيسبوك وتويتر، صورة لرئيس مجلس الوزراء العراقي مصطفى الكاظمي، داخل مكتبه وهو يعمل على ضوء الشموع بسبب انقطاع الكهرباء.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"background-color:white\"><img id=\"صورة_x0020_3\" src=\"https://images-prod.misbar.com/articlebody/origin_9aa3b8qiv.jpg\" style=\"height:492.75pt; width:469.5pt\" /> </span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"background-color:white\"><img id=\"صورة_x0020_2\" src=\"https://images-prod.misbar.com/articlebody/origin_97phi46dc.jpg\" style=\"height:645.75pt; width:453.75pt\" /> </span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"background-color:white\"><img id=\"Picture_x0020_5\" src=\"https://images-prod.misbar.com/articlebody/origin_bba6swcwh.jpg\" style=\"height:418.5pt; width:324.75pt\" /> </span></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1595955667Ed9p-0QWoAEq6HL.jpg",
+        "watermark_path": "articles/watermark-1595955667Ed9p-0QWoAEq6HL.jpg"
+    },
+    "post_date": "2020-07-28T13:45:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/pdciraq19/status/1287864552374202369",
+            "name": "هادي جلو مرعي",
+            "path": "published/0_1595934258_هادي جلو مرعي.jpg"
+        },
+        {
+            "link": "https://twitter.com/nMMIp1iyw5Vfv91/status/1287866171639775232",
+            "name": "باشا أعيان البصرة",
+            "path": "published/1_1595935893_باشا أعيان البصرة.jpg"
+        },
+        {
+            "link": "https://twitter.com/haider06677841/status/1287802898630443010",
+            "name": "Haider",
+            "path": "published/2_1595935893_Haider.jpg"
+        },
+        {
+            "link": "https://twitter.com/DrKMhana/status/1287817478551281665",
+            "name": "خالد مهنا",
+            "path": "published/3_1595935893_خالد مهنا.jpg"
+        },
+        {
+            "link": "https://twitter.com/Majid2010H/status/1287874736010092545",
+            "name": "Majid Al Jabri",
+            "path": "published/4_1595935893_Majid Al Jabri.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=172684167630873&id=100046678725268",
+            "name": "أنسر ابو أسياد الاسدي",
+            "path": "published/5_1595935893_أنسر أبو أسياد الأسدي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1999974586800586&id=100003641911991",
+            "name": "صفاء العائذي",
+            "path": "published/6_1595935893_صفاء العائذي.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/IraqiPMO/status/1287380332895965184",
+            "name": "المكتب الإعلامي لرئيس الوزرء العراقي",
+            "path": "sources/0_1595934258_المكتب الإعلامي لرئيس الوزراء العراقي.jpg"
+        },
+        {
+            "link": "https://www.bbc.com/arabic/trending-52743857",
+            "name": "BBC عربي",
+            "path": "sources/1_1595935893_BBC NEWS-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "رئيس الحكومة العراقية لم يمارس عمله على ضوء الشمعة",
+    "updated_at": "2020-09-25 08:49:23",
+    "url_path": "/factcheck/2020/07/28/رئيس-الحكومة-العراقية-لم-يمارس-عمله-على-ضوء-الشمعة"
+}

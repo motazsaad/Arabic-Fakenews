@@ -1,0 +1,94 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 225509,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "نفت منال العالم الخبر (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">انتقلت إلى رحمته تعالى الشيف منال العالم.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-06-12 23:23:20",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ee3e438d6e4a929633306e4",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من الخبر المتداول ووجد أنه زائف، إذ نشرت الشيف منال العالم، عبر صفحتها الرسمية على موقع فيسبوك، مقطع فيديو تنفي فيه خبر وفاتها الزائف.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"802\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FManalAlalem%2Fvideos%2F263642328235076%2F&amp;show_text=1&amp;width=267\" style=\"border:none;overflow:hidden\" width=\"267\"></iframe></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "منال العالم",
+        "مطبخ"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل صفحات على مواقع التواصل الاجتماعي، حديثاً، خبراً تدّعي فيه وفاة الشيف منال العالم.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_s2b3gi0mo.jpg\" style=\"height:641px; width:529px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_vus58y3eo.jpg\" style=\"height:229px; width:624px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_wp8uwrmzc.jpg\" style=\"height:227px; width:624px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 236,
+        "left": 0.41668701171875,
+        "path": "articles/1591993399غلاف2.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 423,
+        "watermark_path": "articles/watermark-1591993399غلاف2.jpg",
+        "width": 420
+    },
+    "post_date": "2020-06-13T09:12:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/manalal3alme/posts/1653576004792886",
+            "name": "مطبخ منال أحمد العالمي",
+            "path": "published/0_1591993399_مطبخ منال.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/fatafeata/posts/1598813473618717",
+            "name": "مطبخ فتافيت",
+            "path": "published/1_1591993399_فتافيت.jpg"
+        },
+        {
+            "link": "https://twitter.com/Manalalalem/status/567332343061692418",
+            "name": "منال العالم شريك برنامج الأغذية العالمي",
+            "path": "published/2_1591993399_شريك.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/naema.w.soluman/posts/3672985262728339",
+            "name": "Naema Waeir",
+            "path": "published/3_1591993660_naema.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=10222713323317972&id=1120763913",
+            "name": "Sara AL-mahdi",
+            "path": "published/4_1591993660_sara.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/ManalAlalem/videos/263642328235076/",
+            "name": "الصفحة الرسمية لمنال العالم",
+            "path": "sources/0_1591993399_منال.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "وفاة الشيف منال العالم.. خبر زائف",
+    "updated_at": "2020-09-25 21:10:31",
+    "url_path": "/factcheck/2020/06/12/وفاة-الشيف-منال-العالم-خبر-زائف"
+}

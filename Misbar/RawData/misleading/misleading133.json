@@ -1,0 +1,139 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 144,
+    "author": {
+        "fullname": "سامي جروان",
+        "id": "5fd0dde72e95c56328185706",
+        "photo": {
+            "name": "1607523815_FB_IMG_1607178165070.jpg",
+            "path": "authors/1607523815_FB_IMG_1607178165070.jpg"
+        }
+    },
+    "caption": "الفيديو الأصلي قديم ونُشر عام 2017 (يوتيوب)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">مقطع فيديو لعاصفة كهربائية تضيء السماء فوق غرب أستراليا.</p>\r\n",
+    "country": "AU",
+    "created_at": "2020-12-26 13:40:08",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 2,
+    "feedback_pos": 4,
+    "id": "5fe71308e5061d3a09600a3b",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;<u><a href=\"https://misbar.com/\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">مسبار</a></u>&quot; من مقطع الفيديو المتداول ووجد أنه مضلل، إذ مقطع <u><a href=\"https://www.youtube.com/watch?v=_TrDsh_zts4\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">الفيديو</a></u> الأصلي قديم ونُشر في ديسمبر/كانون أول من عام 2017، وليس حديثاً كما ادعى متداولو الخبر المضلل.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">يُذكر أن العواصف الرعدية أو الكهربائية ظاهرة طبيعية يصاحبها عادة أمطار غزيرة ورياح.</p>\r\n\r\n<p dir=\"rtl\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/_TrDsh_zts4\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"Picture_x0020_2\" src=\"https://images-prod.misbar.com/articlebody/investigation_lbxhmkmqo.jpg\" style=\"height:267pt; width:406.8pt\" /> </span></p>\r\n\r\n<p dir=\"rtl\">اقرأ/ي أيضاً:</p>\r\n\r\n<p dir=\"rtl\"><a href=\"https://misbar.com/factcheck/2020/12/14/%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D9%82%D8%AF%D9%8A%D9%85%D8%A9-%D9%88%D9%84%D9%8A%D8%B3%D8%AA-%D9%84%D8%AD%D8%B1%D8%A7%D8%A6%D9%82-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%81%D9%8A-%D8%A3%D8%B3%D8%AA%D8%B1%D8%A7%D9%84%D9%8A%D8%A7\" target=\"_blank\">الصور قديمة وليست لحرائق جديدة في أستراليا</a></p>\r\n\r\n<p dir=\"rtl\"><a href=\"https://misbar.com/factcheck/2020/11/21/%D8%B5%D9%88%D8%B1%D8%A9-%D8%B9%D9%85%D9%84-%D9%81%D9%86%D9%8A-%D9%88%D9%84%D9%8A%D8%B3%D8%AA-%D9%84%D8%AD%D9%8A%D9%88%D8%A7%D9%86-%D8%AD%D9%82%D9%8A%D9%82%D9%8A-%D9%81%D9%8A-%D8%A3%D8%B3%D8%AA%D8%B1%D8%A7%D9%84%D9%8A%D8%A7\" target=\"_blank\">صورة عمل فني وليست لحيوان حقيقي في أستراليا</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "أستراليا",
+        "عاصفة رعدية",
+        "عاصفة كهربائية"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول حسابات على مواقع التواصل الاجتماعي، بتاريخ 10 ديسمبر/كانون الأول الجاري، مقطع فيديو تدّعي أنه لعاصفة كهربائية شديدة الصواعق تظهر في غرب أستراليا.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_edjlr63la.jpg\" style=\"height:747px; width:538px\" /></span></p>\r\n\r\n<p dir=\"rtl\"><iframe frameborder=\"0\" height=\"591\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?height=476&amp;href=https%3A%2F%2Fwww.facebook.com%2F100010769956583%2Fvideos%2F1269449550090698%2F&amp;show_text=true&amp;width=476\" style=\"border:none;overflow:hidden\" width=\"476\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 31,
+        "path": "articles/1608979208Screenshot 2020-12-26 123230.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 814,
+        "watermark_path": "articles/watermark-1608979208Screenshot 2020-12-26 123230.jpg",
+        "width": 752
+    },
+    "post_date": "2020-12-26T12:36:00.000+03:00",
+    "published": [
+        {
+            "id": "5fe7143661362d27c6706e6e",
+            "link": "https://twitter.com/nature_80/status/1336712973209972740",
+            "name": "Beauty 🏝",
+            "origin": "twitter",
+            "path": "sources/c2f7a010aa118732c6d3598850b1b239570eb8d9.jpg"
+        },
+        {
+            "id": "5fe7143690359a5260382725",
+            "link": "https://twitter.com/2v_4i/status/1342039082248110082",
+            "name": "بصري",
+            "origin": "twitter",
+            "path": "sources/f04ff3d89a8087919d74d3e7d8612809a8a5fd18.jpg"
+        },
+        {
+            "id": "5fe714367956df5954663509",
+            "link": "https://twitter.com/photos_laf/status/1339691216397590529",
+            "name": "صور من العالم",
+            "origin": "twitter",
+            "path": "sources/cb7acee010e5f9e9b582c52f6be35f6e2bf73581.jpg"
+        },
+        {
+            "id": "5fe71437d07cf27d80610fc0",
+            "link": "https://twitter.com/aabutair_/status/1330253304648126466",
+            "name": "Abdelqader Abutair عبدالقادر ابوطير",
+            "origin": "twitter",
+            "path": "sources/b62da563a08ed6be417e6c5de48c70d300d29f35.jpg"
+        },
+        {
+            "id": "5fe71437df704140754e741b",
+            "link": "https://twitter.com/wonderofscience/status/1323402805328052224",
+            "name": "Wonder of Science",
+            "origin": "twitter",
+            "path": "sources/d9a13e0b33e709321d1efb742f6e65ce979adf80.jpg"
+        },
+        {
+            "id": "5fe7143798f79a170d645dd6",
+            "link": "https://twitter.com/venus47203379/status/1341748768845094913",
+            "name": "venus 🧜&zwj;♀️",
+            "origin": "twitter",
+            "path": "sources/bd8a10b1beec8b9d1dc3ee5ad1c2b82926668042.jpg"
+        },
+        {
+            "id": "5fe7143772381a3f4a3ef4f5",
+            "link": "https://twitter.com/v_shakthi/status/1337204426163904514",
+            "name": "Shakthi Vadakkepat",
+            "origin": "twitter",
+            "path": "sources/66478bde8a41680282d5cce1a63243abb38bcc40.jpg"
+        },
+        {
+            "id": "5fe7143746c7e6303a1d6722",
+            "link": "https://www.facebook.com/groups/303160550788768/permalink/385604235877732/",
+            "name": "العالم في سطور",
+            "origin": "facebook",
+            "path": "sources/9fb41797f3ab0b7b87f8775614ed7b0bdd915b9b.jpg"
+        },
+        {
+            "id": "5fe714379f2b50432a0667bd",
+            "link": "https://www.facebook.com/100010769956583/videos/1269449550090698/?_rdc=1&_rdr",
+            "name": "يوسف محمد اليمني",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fe7130841dd2e71e300453a",
+            "link": "https://www.youtube.com/watch?v=_TrDsh_zts4",
+            "name": "Geoff Green",
+            "origin": "youtube",
+            "path": "sources/522429dedb424c78ecdc377b3dd435afcdfef913.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "الفيديو الأصلي قديم ونُشر عام 2017.",
+    "title": "فيديو قديم لعاصفة كهربائية في أستراليا وليس حديثاً",
+    "updated_at": "2020-12-26 19:53:44",
+    "url_path": "/factcheck/2020/12/26/فيديو-قديم-لعاصفة-كهربائية-في-أستراليا-وليس-حديثا",
+    "was_notification_pushed": "true"
+}

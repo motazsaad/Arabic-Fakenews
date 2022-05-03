@@ -1,0 +1,97 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 2,
+        "tw": 1
+    },
+    "amount_sources": 0,
+    "amount_visits": 557,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "نفت إدارة الخدمات الصحية في مدينة بني وليد الخبر (Getty)",
+    "category": "Health",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">بلدية مدينة بني وليد في ليبيا تسجل ثماني حالات جديدة مصابة بفايروس كورونا المستجد بتاريخ 15 يوليو/تموز الجاري.</p>\r\n",
+    "country": "LY",
+    "created_at": "2020-07-16 15:20:45",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f10461d163be306e336c236",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الخبر ووجد أنه زائف، إذ نفت إدارة الخدمات الصحية في مدينة بني وليد الليبية عبر حسابها على موقع فيسبوك، الأنباء المتداولة عن تسجيل ثماني إصابات جديدة بكوفيد-19 في تاريخ 15 يوليو/تموز الجاري.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">كما تجدر الإشارة إلى أن <a href=\"https://www.worldometers.info/coronavirus/\" style=\"color:#0563c1; text-decoration:underline\" target=\"_blank\">إجمالي</a> الإصابات المسجلة في ليبيا حتى تاريخ نشر هذا التقرير بلغ 1589 إصابة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><iframe frameborder=\"0\" height=\"491\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBWHSM.LY%2Fposts%2F2628598333910449&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "كورونا",
+        "ليبيا",
+        "كوفيد-19",
+        "كوفيد",
+        "فيروس كورونا"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تناقلت حسابات وصفحات على مواقع التواصل الاجتماعي، بتاريخ 15 يوليو/تموز الجاري، خبراً مفاده أن بلدية مدينة بني وليد الليبية سجلت ثماني حالات جديدة مصابة بكوفيد-19 في ذلك اليوم.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"Picture_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/origin_2krje2pnh.jpg\" style=\"height:395.4pt; width:403.8pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"Picture_x0020_5\" src=\"https://images-prod.misbar.com/articlebody/origin_nintvag6m.jpg\" style=\"height:256.2pt; width:405.6pt\" /> </span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 354,
+        "left": 1.8499755859375,
+        "path": "articles/15949020455.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 633,
+        "watermark_path": "articles/watermark-15949020455.jpg",
+        "width": 629
+    },
+    "post_date": "2020-07-16T15:13:00.000+03:00",
+    "published": [
+        {
+            "link": "https://nabd.com/s/75038269-a9c038/%D8%B9%D8%A7%D8%AC%D9%84-%D8%A8%D9%84%D8%AF%D9%8A%D8%A9-%D8%A8%D9%86%D9%8A-%D9%88%D9%84%D9%8A%D8%AF-%D8%AA%D8%B3%D8%AC%D9%84-8-%D8%AD%D8%A7%D9%84%D8%A7%D8%AA-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9-%D9%85%D8%B5%D8%A7%D8%A8%D8%A9-%D8%A8%D9%81%D9%8A%D8%B1%D9%88%D8%B3",
+            "name": "قناة ليبيا الحدث",
+            "path": "published/0_1594902227_قناة.jpg"
+        },
+        {
+            "link": "https://twitter.com/alsaaa24/status/1283189827639418880",
+            "name": "الساعة 24",
+            "path": "published/1_1594902227_الساعة.jpg"
+        },
+        {
+            "link": "https://twitter.com/Breakinghadath/status/1283207586691584002",
+            "name": "الحدث عاجل - Breaking Alhadath",
+            "path": "published/2_1594902227_الحدث.jpg"
+        },
+        {
+            "link": "http://alwasat.ly/news/libya/289262?author=1",
+            "name": "بوابة الوسط",
+            "path": "published/3_1594902282_وسط.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/BWHSM.LY/photos/a.450306605072977/2628597960577153/?type=3&theater",
+            "name": "ادارة الخدمات الصحية بني وليد Department of Health Services Bani Walid",
+            "path": "sources/0_1594902044_إدارة.jpg"
+        },
+        {
+            "link": "https://www.worldometers.info/coronavirus/",
+            "name": "Worldometers",
+            "path": "sources/1_1594902045_worldometer.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "كورونا ليبيا: مدينة بني وليد لم تسجل أمس ثماني إصابات جديدة",
+    "updated_at": "2020-09-25 09:49:21",
+    "url_path": "/factcheck/2020/07/16/كورونا-ليبيا-مدينة-بني-وليد-لم-تسجل-أمس-ثماني-إصابات-جديدة"
+}

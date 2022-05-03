@@ -1,0 +1,122 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 320,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "الفتاة اختارت أن تتشرد لفترة وجيزة وذلك ضمن مشروع مدرسي (فيسبوك)",
+    "category": "Arts & Culture",
+    "claim": "<p>صورة لفتاة متشردة في شوارع ألمانيا.</p>\r\n",
+    "country": "DE",
+    "created_at": "2020-11-28 13:30:31",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 2,
+    "feedback_pos": 14,
+    "id": "5fc226c75d105155a30b96b7",
+    "investigation": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقّق &quot;<a href=\"https://misbar.com/\"><span style=\"color:#3498db\">مسبار</span></a>&quot; من الادعاء، ووجد أنه مضلل، فالصورة التقطت ضمن أسبوع&nbsp;المشروع المدرسي نفذته فتاة ألمانية&nbsp;تدعى كارولين دانخوف حين كانت تبلغ من العمر 15 عاماً، إذ إن الصحف كتبت عن المشروع ونشرت هذه الصورة في عام 2014. فقد اختارت أن يكون&nbsp;مشروعها المدرسي&nbsp;عن ظاهرة&nbsp;التشرد في ألمانيا، ما جعلها&nbsp;تنزل إلى الشارع لتجربة أن تعيش هناك ليوم واحد، وقد وصفت التجربة بالقول&nbsp;&quot;إن الناس ينظرون فقط ثم يمضون قدماً،&nbsp;هناك فقط امرأة واحدة سألتني إذا كنت أشعر بالبرد&quot;. وقد حاول أحد زملائها الانضمام إليها إلا أنه سرعان ما انسحب بسبب البرد الشديد والجوع.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_exhk4v5b2.jpg\" style=\"height:410px; width:602px\" /></p>\r\n\r\n<p style=\"text-align:right\">اقرأ/ي أيضاً:</p>\r\n\r\n<p style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/11/26/%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9-%D9%84%D9%8A%D8%B3%D8%AA-%D9%84%D8%B7%D9%84%D8%A7%D8%A8-%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A%D9%8A%D9%86-%D9%8A%D9%86%D8%A7%D9%85%D9%88%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D8%A7%D8%B1%D8%B9-%D8%AE%D8%A7%D8%B1%D8%AC-%D8%A7%D9%84%D8%A8%D9%84%D8%A7%D8%AF\"><span style=\"color:#3498db\">الصورة ليست لطلاب لبنانيين ينامون في الشارع خارج البلاد</span></a></p>\r\n\r\n<p style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/11/26/%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9-%D9%82%D8%AF%D9%8A%D9%85%D8%A9-%D9%88%D9%84%D9%8A%D8%B3%D8%AA-%D9%84%D8%AA%D9%88%D9%86%D8%B3%D9%8A%D9%8A%D9%86-%D9%8A%D8%AD%D9%85%D9%84%D9%88%D9%86-%D9%82%D9%88%D8%A7%D8%B1%D9%8A%D8%B1-%D8%A7%D9%84%D8%BA%D8%A7%D8%B2\"><span style=\"color:#3498db\">الصورة قديمة وليست لتونسيين يحملون قوارير الغاز</span></a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت صفحات على وسيلة&nbsp;التواصل الاجتماعي، فيسبوك،&nbsp;خلال شهر نوفمبر/تشرين الثاني الجاري، صورة لفتاة، قالت إنها مشردة في شوارع ألمانيا.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ssy9kce9c.jpg\" style=\"height:598px; width:582px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_ynu8perfz.jpg\" style=\"height:642px; width:590px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 406,
+        "left": 79.24456787109375,
+        "path": "articles/1606559430Screenshot 2020-11-28 111932.jpg",
+        "top": 5.599853515625,
+        "totalHeight": 423,
+        "totalWidth": 804,
+        "watermark_path": "articles/watermark-1606559430Screenshot 2020-11-28 111932.jpg",
+        "width": 722
+    },
+    "post_date": "2020-11-28T11:08:00.000+03:00",
+    "published": [
+        {
+            "id": "5fc226c52442ca35e22db6e4",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2817705215141663&id=100007066368231&fbclid=IwAR3IrKlzovmvxPlDxE9MvoBcTjbANBQGHIbBv_d7gSuMmC3fHoR6dhG6ohE",
+            "name": "Ř&auml;m&yacute; &AElig;ľ Q&atilde;ď&ouml;űm",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5fc226c6a6530f0f7839c79f",
+            "link": "https://www.facebook.com/photo?fbid=10158128310369620&set=basw.AboRU4jvXgwJdbY8pRUIpQV7jvqtDANfqCoqLrlSWBlEJKmB3znwD57iiQDXNqtIWyzRsJE_JyRS2gNsoE-HGG6BgQMe2SrAbu_-6xxi4frSNq3BrU8WG6vhMhBVejt2sBSBCGCaCYgnfDFH_NSgDG-Y1GTD7nsQ5xVxttzjX3Ay4OgsV7pg9YiHAhVavWilBvE3rXUIY3NdCm7CXmwoua9LQd4tOZrxIawiPrvDIDyhJVOrO2gyIwMyeQRVa_vDIdMPiYf9ufWwcwUOMRam8QqDXr5Ql4yJyakiJSzulFaWCsvwVDV6Pxrni26Vp4Ighig&opaqueCursor=Abqgp7UUV3wPHW2I-alOaYWxinVL6P9Z97-2NtpKdU0azzOewEMRR9Jh-OgkwwiT9bbnBwZ21YyQgRFRFSyP8TVgMkcuLcj_lQzPTU3WyX8k-0oEzhKonQQeYNRfzkJW55ndhOs7mHLkoVOaNKcOM2jMhiHzsSne3XhkT6yCiqb_dtanDioVIfeRJbGSMsU9UhUZQ8JmT7SEvwBWTPukmfT8Y6XqwNKn47h3fPsbo_OB6qqpyU5qlFT1pCpU9t4JDmHX9crlRsMJrYb36OoUmfz2J4JddG18hjRbXtFDqJqknHwAF21VjFLnTSugaKUjLI4Q_W4mnesKX7nIDApqw3dMCY5HOSx7obLFOJvWLhv_Hc5DaVx0mYLdAbY3JHn_UiCdd4n3ESokqZHjoIih9MMvUMHSZvjK5G8XWV2caz9J4fAsl5GQy4HkTv5bQIotSDSmcCKafWI2gU8uhW8KM1PgrUXClXnNeBS5N0MHDl_219A02shykXzJBmWb1SW4AvbU_wWPQS5NaFnMb2tPoIv7YuWi3iWF9U5n6G4FKxByuVa4zQIC5-BM0NgY0WtRqj3V1ZEefLnkvkn0E-fSfgyNFmlOQyYepAldqbj9TOGQwQQnpDyyPb0QX1GOdrsRTDVV5Hq2zZmzihqTa7abaTtG6jgfa6rao5eD9YtcPdGW0iyPkdBTMiKo6CdTXh2VF6VvQDRZSrDJJ9RZcqh_mMq51HWglwmUiT9V2g8qneBckxLtHvnPKhucFILiSJUjfX9fLlI4QZPWfPMYAYJb3AQkjtxopKNbAxvfw-ezL8WwW3w7nkdb7aOAIlW2n87BjOkNxRDHAnIMnrvgZcyIMImwG1KWN447LqyFIUwCf6TKr8gQSuO1Jrjalf6nkBMs_J5WsHXWeflf8xFD_zczxeaH7E8uE90bNrwVcYR2vNzwKeI4NCnzOxfcO6RaINbHHEjCUFADXFYqvmCEQfrIoWk3nBZADxObIJ3SbjA4JM4po5eE_w_SlNQh2mf3crMoGcNkbSTrzXwfJhM3UPlRpVDgfKvAkgMP7UopE2Vd3YikzQ",
+            "name": "Mostafa Ali",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5fc226c670c5c72c3c55dac6",
+            "link": "https://www.facebook.com/photo?fbid=750470965540712&set=basw.AbqPcUfHTwrvzPPTrcmW3EUMOnNwyh1sVlP7P7NKGAaBgli8ElE07KRmSIU7DscHOQwab2XTuZrZLTad0WOHeinz57WUsY9ccmsgfcEpVZufc9P9tZFh39rRaap31ptvgH_Glf-bNra9esPjwTTPjCJWPdBbAAX3p8m6Mjijdy-tx2VugAXGxvfiWYza5ir7O5EcImi6TasUtmBN9oQGgx_lAJtkJYVHHQ62AEt0l74cJE0zlR5ckaQRwPB14hI_5U5o9gS41rWvQVEIKM218z7VY6eks3aJ7wW3vyIUk9zoM6_N8SSzIkvaGcPK-SFFNz8&opaqueCursor=Abp3aK1L_8tP8_ku997P1BZqQnsUIc8Rhtbwppe8XYlPTBp8-eidRSZmCuFxvrLdsK3CvvqFW0LkQr9CBXPc26njE1-mm-Nn7SK5tTqtWckoQA7HitvEItaDkysz3qUdRdWkxORvvASNHpJvGT0ge4j-1PpkFbhjmBLF-ssqy0RhImwO6XHXAwzU6kiFsmXBlWLRyoa36f_oElmhu4wbRNgEPdlm-mFWQDU10x-uX3NQ6UXS8ag4jARP3Y8_e4SBV73CIby63aZyr0gHbfHOVGGcWbAfqisQqBQvbqEw9O0rA79GrMdN6DOypZPdSRWqvlr_r07orF5CoyDG2t3ErykmpZ729454qRPi5w7lgJ5FV61-SZttOHsXbqFfSOcB1QpxGGoMZ0hc2NU9GDeaGUK6_rDq08qu7UJmGyIsWgNen90Fl4ki4PkfEjzCAXFCWKH6wMXahUkvrH0utlHCVxJO826wFaLTXMIBqBtlM1JncCCvsqVrCU_Q66kOUHZdusOr6PBIJi0ocnmqObxSIw0mIYV7TERzzSZspz6eG__QCpNeN3YpnzYuNLEowdwo9HBGMD8W99WpQwkgDj4B-6-mhNDZugXnp1VDaPAa2RcoMKD7KQcyN5iV9sx2jJ3FKlsofMpH_XX810ZApytmM_U0nMqrLHlptLfubA3Pg_eHLrYtYwUZKaY2_YgjgtvSKzFfnoDNgl1GR_C12S0qox4deT_REoVhNUSOKD71rSlUj7ki-aTU5PsYaXcc1eP5k0QwHbDn2Y2CdVdpvZGtomBMEoYehDJcBmm61UbB-Vpz8kilgyC9okxO8CYaURcuBTwK_QZ8frWilZUz_7qo7-BrzIvPWlUndWeoxIHex-wZXDZxxb9mXgquB1Yd0GAPmuDWHGOcUqtrg5fp8dghka4wL0odLGaUdmsV7d6_KOUot2G2hy2BU4FZFy0mda7RluVW34f2oosIJyiyNMKRH2JOMEcaHlVoQUWdzumvN5XshGTUeKWZBgUuktqBhTzoQGTsZTle7MKgbCKS2j_7KYEO",
+            "name": "عبده الشاذلي",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5fc226c69ea70a37bc52183b",
+            "link": "https://www.facebook.com/kotamaelyoom/photos/basw.AboNmZlTgG5wNvls0832w_y2oeTCkRybWBglseQV0A5tcKe6PnB2b9y-tNPx1snlTNoWKUQT-CUmNShB1u_ChmOmZuG9F2YYJ466OZ5NOI6Rhu9mkT0PDCTmoRA_bG5apRAr8DccnwOvqu59qR7JqY9EcVRoZxnixhntBTHGmqmacc5m4ys9Rt8KuHCNoLhcku0f8cTfjldHqfgcWJ_kAXlDxxyNA0tIUC0ED_cy3Cgs-O-l6PM7aQrkB-ESJnsryNjvx720zqk9QKRPexbwJSzZ0MtPE1xEMX_XF1utZXtZFeoi-1aBk5btSVTwVQqbP5A/186360812970833/?opaqueCursor=Abr64-aDKMWJJZu4qZhPYfiJVJlbMe5upUFmggF9HYEOpU-_3XaPdJnHnj4yZCxlpD1DK-S-mBAKiwwgm9tbyi-Myn0YVDiwcTEoxEyHqI4QgJvkrYtHiM2bXBtHsEKZ5DT1zTQvHzHOwkX6QUxBda0AG9d8-8OVd_ofYkKP65igd6K2hc6DrfugrE3_0rLTABlhly1Q7FBIc8-XXGzyo81lXu0WPuCICFkBMxCGFFbmLu7LCFAYHieEbQP8qKJ4bSb-9YLwYzV4EskJiu_FjY_xZ9vyUEYWiKpOuyOqiYDLMFEL7zkc7lNZkLKdVJJmLubDfN5ZFRZGpAVWGU4ic-Zh3-392YOboqrDQGt-z95BW0BiXFhHwnM23JqqOR0S6LdHM0irdtP1j3ZVYX9qaLWU2DMM3FrJeP-IL9T01MY7blwT4aPc60bk877U4p7m4HU8TEl1FAeaHbaZ73eFic0breSPDq_8aC8htjCu-BjX76ZuvZuTf22dk9Mca-qKSAwqoTkilGziEAXU7s4x_KQIvaCD6FFoA7s243E55ohagP3FavZzkrnBY1B172U3o8VmuREhZTpwD34d42KfRZiv1o6M0rTwVJIVOjh8LXd5YfpHF_mUNzxUQD2J8ZvFgYh3PtBADN7ApZncNl_lB_7WXr0VOE1OpF97lzx3CE-xstwrE0ULht9L7NxwP4h49NK4oi0Hfi8chDopsums4Wtj7FwPJzWmijU1Kg_zbKuYOLYSz1TAyZ5PlObTJaaj0Zl9JB4Vg-SevfuHoR3dnNrMEruedtMgO41u6__P7PbWSIH5Aaz4bxJibSb5LFWv3vEZjeX_I3lrAtr4vQWlUtJT7ciszWWS70SVu68b1hiDQGM97JPgk2XSVEaoMvLqWrgI03uD9lEzqruzq44RQZSiJq-7V7KZEUHwuKTw7TbDPDceVpxNsIISmmF09_vygpuGBxABPRlbUNxk8D64asEiWxHM7KDZOXhIugNIfg-ZW9xc2ZwPGYrJVqCCLyp3Dewkt-VrG6MXqJDcou6jNIio",
+            "name": "كتامة اليوم -الصوت الحر",
+            "origin": "facebook",
+            "path": "sources/e5976a60c7c738fb9bee926f13c53d204e6d33e4.jpg"
+        },
+        {
+            "id": "5fc226c63484bf5a757fba71",
+            "link": "https://www.facebook.com/photo?fbid=3257895420986128&set=basw.AbrhWLL9NqUCYGi-5r7tUJ9UJRHPGZ9geLDWx7AcLIlyqkCoKcxPkQSLPTnQY3LfY0yIJKmwEyWRGX_e9to2vb7d_EQlizPWw9cPzte1vrbIVlXmdbN4uH8pASUxu1NRBhvpnfl0xPGLMbeiald4ZlwH0KYG_-QKajoct7Aq5aR_aBaG4vHSsZ3qqhdhuVrM6z5gI1Jptn1oqPUkvvWIEOUPSdERgKxGs-qRMM7h9T9kW3TnjaYYnjoclqmaQppxtTP7lHSEtpIGwrKhcH2-gPAsAsZFnBBGA_M-Q39T3trkOfdqz5CTmxWAd-qOWvNo91w&opaqueCursor=Abpfu3PUTznsYlDQRsOteAHie1zysLK5QGmV5-gN0ZozG3ggHk6s4orOJ-AYxbPNx1PwwMh0AuC2SxLeki9W40_WztjGq9c3FmudPdaJjOc7Gu4wBx0KvbfbeXLQmLR0qVKscUCSY0mQPs1nh4CFECtRW5nRgJ0hGEGqJfEw50fLageX0NFMoHX5ABs3HBK07qHqoPSC9H6bElR3xpSXJiYC38zhcmLz62jJiIfwDDMH6CT_3rFZ834_PmApS5HFvq1E2IBfZyqZWhKNIUg2gyNJBKGA4_R5qe1DYDlOEr0NIOxIV7vDvO2vo80Z8nbmtLjzuYTtheAI96jF4djZmb-z7ZZrFPEUjG9tromSXa0tfBGGBQsKkZBYOX__JLsSad5f_Eaxf6FMCHsmI3J3C7rVKui1YZbNq2AcRV2istmZklt7HaA0UR9nwffzj2B4GOaUAdBTyKIM5Ashuq0DD6VKpQCUDdEv3b0273XPBvcq1X_jM2QCF8pXzjMZIjN7PgiZ7o1fYIeQQ1YbVw7wl_sYles-0x8aOKF-iefOgC9UqTXrWRcXj4F1hfPCy9VXDTpb3ElWGDZTBIYSUAQwP_-YEuP1KmKe9GDUT3KDXmB5yZ8BYgKWWa1cGgbwbiSwWiU7w8nf4D1u0uWYdwF9jQtKPIpgmq-CkljBvwJatJuz-JAVf8bX0KWZtbuRszH4XCBRB4_IN3WwXG6OwYX_xavz7_DfZSqhEa_r-4KQsv76-zNBpSKfCugKt3yX0ZmASX5Uql19UKvBiCDPvhzQW3a2cPdi6kKmN83wlaFXSYyjlqAkKnqGXYd12cMgG1IqCDQDK_eVyVzebxt8LKlbLw2gDNCqjU2l8CQ3N_XlJhmM7OQDE0B4R00dQFtuWTCO2ARqE4mYBj9hKt7aevtTbAhRhyokXnZaJMvC6Iy1g15BPCZtR37yh-T96cEuqRppC067T_uRH7_Z6srTbwprPMn0Zql2BjzrkvPPjURvZzfdLV-D4eW8dGiJ8n0RzEPcTME",
+            "name": "Mahmoud Al Sayed",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5fc226c6b03dd0124314944c",
+            "link": "https://www.facebook.com/photo?fbid=962927174208933&set=basw.AbravJSFPJhHnOJLZMc8_0KwMnjM1LhhwGd2hw_E0kW_W4sI4thpUb_lxsj0lt9cKczR5dXzEWIt9ilq_C13VUVb2KrB8MH5Q2VkKmDs-WGvl0FlNteW3Iq7XGJaCaFqlAFUVFQQU2DD5Rv43Jtg1jTt1U2l4TEALxPUIAVy2XpQ79COm4f5t0J3vuwqhQnsdPvBJxodbbxPRNXGUrs3bNUORQndppEJbcS_BY-6EB4GfrgWck230tQyWEgmw1du6aeuNmX3uKg3QeTZ1Y4yuko9QssRsP4Xv2vEZ8osgi6pwIrcMYLm6LQgNUhNlhoz7DI&opaqueCursor=Abqu0Lgvt9dVzoWX6mYiq9zPAcN_6-nY45hGdZFe-hCLmMDxOzsRyWtoMwP6qUImg9FiDDoEcJr_4b6JFgcCPpipNSbaCQmRBHqgnDQyU6_Hc1_IAH5T--7CHfJnKfW6ZoK_tOIQiKevIKiylBnriZ7XLSG3uQHryQdnCfW6DSsdRhYmosvO3L9GeHa7QHn3ujE6ze1CWUY23T0EkAjEu7zKn_NiW3MgiXU3t8fhaz3MPvD8GYsU5T6W7VqlgAlalaEOBnMe_vUQUSnARUTkhoG-N2ibOoIHJMGyGHOFrg8B5wnMrcJQq-uTJGsg7tQaEzgeOyIG8Y6nbdUrOQFdu4lvvQzjnntFdNWgTVPg3fGIZr9jiKhGIk5fdwwYDGrKXyxR0UKSjaSVV-QYlsQto0T48s0Rj3dq_rHxF9EntI7quz5hk7Cu_1J5ecnby20KF1K3t9a7RaoZZEUSD07UZpNpj-E4lZNHiy6XvX-95slorIuMj6TY3ICFr0hUOZ3XE8w9orYee9pT-Ol4miDhtlEI1JMkmA3EyxMX3sFchg8KPxYl4QLl8G-C_RiZX-QRfUXI0pKvu01CHAgUqvTX276hBCIxtvujfeuKXRubUBcN-SNlzXLXhuQ-LxyjxkG2BJ5ZF_pv3pPzNCYWYAn9izz3U_vVM9EUTBEEJVwfji1NhUTTkxZY_0fqqGz5TEzkr5A-TsyWPedPxg_otXUi9cuxtmPer7Xe5cOqXfkDRbpfDQSumFY3Bx-hYUvz8XJOIyfH7_mjF8prz0VF9jN1OieSo8uEWFYtWcsLYaKz8BhFdpNhux5DL_IrzjOmwLtzx75f5wnsx8E8QYM1bNGPw1pNxqLWbHzfBCL6rkcKvdtMvoq-Yyq2-im6_lUgp1eg0R8mheplfTwytRmiQwJ60hRGhjDogxkEraD5D3uTzBytfaKTo_7Jo1scvpxJgth_sEXu1kJI0xg0nIMPfLhr6NdUk6tWAUF8MjgWLtwSwoCDFg",
+            "name": "المنتصر بالله",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5fc226c65a804211ab2e2a0e",
+            "link": "https://www.facebook.com/photo?fbid=2876076389272010&set=basw.AbpEYcOlkVJJTZUH6F8mCa4_wStH4dOuBMkVS789gmXLb4W59oIkB0PSWju2zlabiYsvZdI-vKc2mBxfB42zXbz1s5FzK_i4wXtbajnkdocEE9JqVd31yK-WEWGaXJq1qZB0UlaWGGb0e0YGw0eVFfTIC9RQvvvi6T42RlcpXzwIh5-TCQye20L1SUQW-Oxz1Ti4QHDFN4Hy40PVXOmEV5WP670hG4Fr9UuJPD5KAJ-F5_1ld1pradqHxV5PSBn3djEMFJlk6jVquDzLYyZUItGQSQ0xheudoCz1535I4X0X0tAsVJ_WtssvnWnqpYQL_1I&opaqueCursor=AbqjuW-SkyhQnvVknTFROPPM-VmIhbUCxyCLs5fCbzlMb_v9GpQPlpAP-AyaprZrb3K_HK3cewC5nRFjXIN2GzIamStwPUpv9QFXA2ASA_KP0cpK8eJo5Ap7J0iGHCF68XWHfguiD1mPSXIK7mZWA2VJs9WoyVj6EiwccqpEQF65yhWBLFAzyjrzScPm2AmZcnWpdwbGyDOwQAuPcCvpWTkwSWOje4Fq5Xr30MUBGWMi5MNDKayUqXIz2FNli3BGfUzEzPmZgZvo7ftNCVHaqFHlpvjtgzzTpdo2XAsJitUwPje77usIOiH9JsnuV3Yia1I9XK1TsIoJ1GMn_6fZi1o-rIKR6sUZ61fVF3x8rvNpcoA27xpn7LSrDWAq1nfyRUWO5WQ99oCrtU0V9mebPq7tDd-usJikWVKAy6b3ubYvOQiA07EscfHGhwjb7gOsCzMsCAhZG4slLZ_055dZyqNMDGLO83XXZtNQQzYJ3uVztFM7ypr5SdxLls6p47q38vAqV8ctjyvbaE-6S4xLeTL5m9chYbOC75c28RJi3xcNVWZcPPr6CH4r58T1FlZPFntvtnpZhU6ESH5W_JWLoX717G_pqlIp6QxDNcFNGh2ep-g1v3Nt9J_qw5BtEPanShM5UBqGuAU4PLBN3CSwq-g9bnld0A6TCXpnL1U26_49srEH0QGnlmBa0iTjn1174_lqCbPRBfKELdSoNhq_h0VffAA3JHKOCdNiHR73H03nsDuCYO8XBlKz0nP5rz9YUsVvDC9OhEPURJBlWTL3csiAsab2YasRRqkbKUY2pTgaudYv9agqZ5YXI7MEQuXVOm58A8GFrPwlXl7reaMlxkymSndR5WP1wZqksgSWADWG5of7ElX0grQ3-Zui9bjIPf8I8JR82PHAvQoGw_K3xUbX8P5BvDLqr6Mhi3ZLCj-fZM1CzRxRyd-VhF7FfZ66orc1M6p0GC5BULtqKa114uQoZ9EFX51ARnYIkeIBTByNhg",
+            "name": "العمدة مفتاح",
+            "origin": "facebook",
+            "path": "sources/d41b5641225c2c719800eee56d3ea73d439ca1c7.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fc226c687497c790b6e4b63",
+            "link": "https://www.shz.de/lokales/sylter-rundschau/obdachlos-auf-sylt-aber-nur-fuer-ein-paar-stunden-id6112781.html?fbclid=IwAR2VYHEfZ56DoVdp9a8PIAOk4l0v1cywFzWPpxVLitCj0C5kRwKCIxG_tkY",
+            "name": "shz",
+            "origin": "",
+            "path": "sources/d67001fead1c823402cb3d0489c04adb1352470b.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الفتاة ليست مشردة في شوارع ألمانيا",
+    "updated_at": "2020-11-28 14:22:08",
+    "url_path": "/factcheck/2020/11/28/هذه-الفتاة-ليست-مشردة-في-شوارع-ألمانيا",
+    "was_notification_pushed": true
+}

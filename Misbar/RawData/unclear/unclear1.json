@@ -1,0 +1,139 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 4052,
+    "author": {
+        "fullname": "أحمد بن خميس الفريقي",
+        "id": "5eb96d68db29164cdf087404",
+        "photo": {
+            "name": "1589210472_888.jpg",
+            "path": "authors/1589210472_888.jpg"
+        }
+    },
+    "caption": "وزيرة التعليم العالي نفت الأخبار المتداولة (Getty)",
+    "category": "News",
+    "claim": "<p>دولة السودان تقرر استئناف الدراسة الجامعية رغم أزمة فايروس كورونا المستجد (كوفيد-19) في البلاد.</p>\r\n",
+    "country": "",
+    "created_at": "2020-06-01 20:07:30",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ed535d2db291678333be5e6",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تحقق &quot;مسبار&quot; من حقيقة الادعاء وتبين أنه زائف. إذ لم تصدر أي جهة رسمية بياناً أو خبراً يتعلق بعودة الدراسة في المدارس والجامعات السودانية. ونفت وزيرة التعليم العالي والبحث العلمي السودانية، انتصار صغيرون، في حسابها على موقع تويتر بتاريخ 30 مايو/أيار الفائت، الأخبار المتداولة عن استئناف الدراسة في جامعات السودان.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_5r2vcg33m.jpg\" style=\"height:429px; width:599px\" /><img src=\"https://images-prod.misbar.com/articlebody/investigation_u6aj2hr7z.jpg\" style=\"height:425px; width:605px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;</p>\r\n\r\n<table align=\"left\">\r\n\t<tbody>\r\n\t\t<tr>\r\n\t\t\t<td style=\"height:0px; width:6px\">&nbsp;</td>\r\n\t\t</tr>\r\n\t\t<tr>\r\n\t\t\t<td>&nbsp;</td>\r\n\t\t\t<td><img src=\"https://images-prod.misbar.com/articlebody/investigation_uzzg3cjps.jpg\" style=\"height:981px; width:700px\" /></td>\r\n\t\t</tr>\r\n\t</tbody>\r\n</table>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تداولت عدّة مواقع ألكترونية وصفحات على موقعي&nbsp;التواصل الاجتماعي فيسبوك وتويتر، خبراً يُفيد بتحديد موعد استئناف الدراسة في عدّة جامعات في البلاد. وقد نشرت جامعة السودان للعلوم والتكنولوجيا بياناً على موقعها الإلكتروني بتاريخ 29 مارس/آذار الفائت، يُعلم باستئناف الدراسة في تاريخ 31 مايو/أيار الفائت.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_h4ycsfyd4.jpg\" style=\"height:413px; width:437px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_nu4w5m7ce.jpg\" style=\"height:843px; width:502px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_sa69ihm66.jpg\" style=\"height:263px; width:602px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_pnsjav825.jpg\" style=\"height:852px; width:392px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_9z986hg4r.jpg\" style=\"height:297px; width:605px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_a4bwhuiqf.jpg\" style=\"height:627px; width:605px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_wc47lnt9b.jpg\" style=\"height:386px; width:605px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 155,
+        "left": 3.2950439453125,
+        "path": "articles/1591031249GettyImages-1216515063.jpg",
+        "top": 25.7763671875,
+        "totalHeight": 186,
+        "totalWidth": 280,
+        "watermark_path": "articles/watermark-1591031249GettyImages-1216515063.jpg",
+        "width": 275
+    },
+    "post_date": "2020-06-02T07:55:00.000+03:00",
+    "published": [
+        {
+            "link": "https://facebook.com/alhdybh/photos/a.294353497267971/2793910763978886/?type=3",
+            "name": "عناوين وأعمدة الصحف السودانية ",
+            "path": "published/0_1591031248_عناوين واعمدة الصحف.jpg"
+        },
+        {
+            "link": "https://twitter.com/hash_sudan/status/1244304508852846594?s=19",
+            "name": "هـ ا شـ تـ اق الـ سـ و د ا ن",
+            "path": "published/1_1591031248_هاشتاق السودان.jpg"
+        },
+        {
+            "link": "https://twitter.com/a7ases_sudania/status/1264486759729180673",
+            "name": "احاسيس سودانية ",
+            "path": "published/2_1591031248_احاسيس سودانية.jpg"
+        },
+        {
+            "link": "https://twitter.com/alicewith98/status/1264265118143176706?s=19",
+            "name": "yusra",
+            "path": "published/3_1591031248_يسرى.jpg"
+        },
+        {
+            "link": "https://twitter.com/9lsaaAmir/status/1264295450972229640?s=19",
+            "name": "Ghost",
+            "path": "published/4_1591031248_غوست.jpg"
+        },
+        {
+            "link": " النيزك   https://twitter.com/RiadOsman6/status/1266627727236489217?s=19  Erik  https://twitter.com/Erikk_8/status/1264273994498420736?s=19     Eyes news ",
+            "name": "النيزك",
+            "path": "published/5_1591031248_النيزك.jpg"
+        },
+        {
+            "link": "https://twitter.com/Erikk_8/status/1264273994498420736?s=19",
+            "name": "Erik",
+            "path": "published/6_1591031248_اريك.jpg"
+        },
+        {
+            "link": "http://www.eyes-news.net/2020/03/29/جامعة-السودان-تستأنف-الدراسة-نهاية-م/",
+            "name": "Eyes news ",
+            "path": "published/7_1591031248_eyes news.jpg"
+        },
+        {
+            "link": "https://facebook.com/story.php?story_fbid=1102445270124720&id=100010777722215",
+            "name": "Afra Elhussein",
+            "path": "published/8_1591031248_جامعة السودان.jpg"
+        },
+        {
+            "link": "http://www.sustech.edu/ar/news/detail/2020/03/29/6139-%D8%A7%D8%B3%D8%AA%D8%A6%D9%86%D8%A7%D9%81-%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9-%D8%A8%D8%A7%D9%84%D8%AC%D8%A7%D9%85%D8%B9%D8%A9-%D9%81%D9%8A-%D9%A3%D9%A1-%D9%85%D8%A7%D9%8A%D9%88-%D9%A2%D9%A0%D9%A2%D9%A0%D9%85",
+            "name": "جامعة السودان للعلوم والتكنولوجيا",
+            "path": "published/9_1591031248_جامعة السودان للعلوم.jpg"
+        },
+        {
+            "link": "https://twitter.com/hash_sudan/status/1239226971919470594?s=19",
+            "name": "هـ ا شـ تـ اق الـ سـ و د ا ن",
+            "path": "published/10_1591031249_هاشتاق السودان.jpg"
+        },
+        {
+            "link": "https://twitter.com/AbdallahAlyamni/status/1261734182524465153?s=19",
+            "name": "Abdallah",
+            "path": "published/11_1591031249_Abdallah.jpg"
+        }
+    ],
+    "result": "unclear",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/ProfIntisar/status/1266561015480815617?s=19",
+            "name": "Intisar Soghayroun",
+            "path": "sources/0_1591031249_انتصار صغيرون.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/mohe.sd/posts/2913768038701490",
+            "name": "وزارة التعليم العالي والبحث العلمي - السودان",
+            "path": "sources/1_1591031249_وزارة التعليم العالي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/CCES.SUST/posts/291490998916955",
+            "name": "اللجنة التنسيقية لطلاب الهندسة - جامعة السودان ",
+            "path": "sources/2_1591031249_اللجنة التنسيقية.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لم تحدد السودان موعد استئناف الدراسة الجامعية ",
+    "updated_at": "2020-09-25 19:31:13",
+    "url_path": "/factcheck/2020/06/01/لم-تحدد-السودان-موعد-استئناف-الدراسة-الجامعية"
+}

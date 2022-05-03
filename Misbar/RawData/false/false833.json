@@ -1,0 +1,106 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 28332,
+    "author": {
+        "fullname": "خالد إسماعيل",
+        "id": "5e59256dd4a2295224257db3",
+        "photo": {
+            "name": "1582900589_صورة 2.jpg",
+            "path": "authors/1582900589_صورة 2.jpg"
+        }
+    },
+    "caption": "خبر مضلل حول إرسال المغرب مساعدات إلى إيطاليا (مواقع التواصل الاجتماعي)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">بأمر من ملك المغرب، إرسال طائرة مساعدات للمدن الإيطالية المتضررة من فايروس كورونا.</p>\r\n",
+    "country": "MA",
+    "created_at": "2020-03-27 20:45:16",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e7e3bacd4a2297e516ecfb3",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تحقق &quot;مسبار&quot; من الصور والخبر المتداول، وتبيّن أنه زائف، إذ لم تنشر أيّ جهة رسمية مغربية أو أي وسيلة إعلامية موثوقة الخبر المزعوم، واقتصر الخبر على منصات التواصل الاجتماعي فقط. أما الصور المتداولة مع الخبر فهي قديمة وتعود لتاريخ 2 مارس/آذار عام 2011، عندما أرسلت المغرب ثلاث طائرات محمّلة بالمساعدات وفرق طبية من مدينة سلا المغربية إلى جربة في تونس لإنقاذ لاجئين على الحدود التونسية الليبية.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">ويجدر بالذكر أنّ المواقف التضامنية المغربية تجاه إيطاليا اقتصرت على الدعم المعنوي، مثل مبادرة سفير المملكة المغربية في بولندا، عبد الرحيم عثمون، الذي توجه للقاء سفير الدولة الإيطالية في وارسو، ليعبّر له عن تضامن المغرب مع إيطاليا في مواجهتها خطر كوفيد-19.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_r6oyhfzh2.jpg\" style=\"height:529px; width:602px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_mp3zvczfd.jpg\" style=\"height:725px; width:602px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "إيطاليا",
+        "المغرب",
+        "كورونا المغرب",
+        "كورونا إيطاليا"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تداولت حسابات صوراً لطائرة عسكرية مغربية محمّلة بمواد إغاثية، مع الادعاء بأنها تحمل مساعدات إنسانية للمدن الإيطالية المتضرّرة بكوفيد-19، وذلك بأمرٍ من ملك المغرب، محمد السادس. انقسم ناشرو الصور حول الخبر، بين من أثنى عليه، وبين من انتقد ذلك لأن الشعب المغربي يعاني معيشيًّا وهو الأولى بالمساعدات.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_kjuetjv4b.jpg\" style=\"height:590px; width:462px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 354,
+        "left": 3.08331298828125,
+        "path": "articles/15853311161.jpg",
+        "top": 0.64990234375,
+        "totalHeight": 423,
+        "totalWidth": 635,
+        "width": 629
+    },
+    "post_date": "2020-03-27T20:34:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/groups/211807503518633/permalink/218973662802017/",
+            "name": "عبد الكريم نفيدي",
+            "path": "published/0_1585331115_عبدالكريم-نفيدي-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/553936392059592/permalink/656056301847600/",
+            "name": "Amine Zouhair",
+            "path": "published/1_1585331115_Amine-Zouhair_logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/238138399962835/permalink/898458957264106/",
+            "name": "هشام الماحي",
+            "path": "published/2_1585331115_هشام-الماحي-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/1868379266814427/permalink/2568888483430165/",
+            "name": "hassan Oub",
+            "path": "published/3_1585331115_hassan-oub-logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/hanona_maroc/status/1242472546068361217",
+            "name": "Nutella",
+            "path": "published/4_1585331115_Nutella-logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/FouadVb3/status/1242540481936064519",
+            "name": "Fouad Taghzouti",
+            "path": "published/5_1585331115_fouad-taghzouti-logo.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.yabiladi.com/articles/details/4779/maroc-envoie-l-aide-humanitaire-refugies.html",
+            "name": "يا بلادي",
+            "path": "sources/0_1585331115_Yabiladi_logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/ItalyinPoland/status/1242080742110367749",
+            "name": "السفارة الإيطالية في بولندا",
+            "path": "sources/1_1585331115_السفارة-الإيطالية-لوغو.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "كورونا المغرب: لم يرسل المغرب طائرة مساعدات إنسانية لإيطاليا",
+    "updated_at": "2020-09-25 21:28:11",
+    "url_path": "/factcheck/2020/03/27/كورونا-المغرب-لم-يرسل-المغرب-طائرة-مساعدات-إنسانية-لإيطاليا"
+}

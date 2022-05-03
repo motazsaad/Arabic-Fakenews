@@ -1,0 +1,82 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 742,
+    "author": {
+        "fullname": "صباح الخطيب",
+        "id": "5edc1b38db291674e776e9a3",
+        "photo": {
+            "path": "authors/1591643228_7.jpg"
+        }
+    },
+    "caption": "نفى تصريحه ذلك على حسابه الشخصي في موقع انستغرام (Instagram)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:left\">الصحفي التركي ايمره اكتشاي يُهاجم العرب بقوله: &quot; العرب بالنسبة لنا كالأبقار الذين يتم حلبهم، ينتقدون دولتنا ثم يشترون مسلسلاتنا بأعلى الأسعار وتتصدر المشاهدات في بلادهم&quot;.</p>\r\n",
+    "country": "TR",
+    "created_at": "2020-07-26 11:05:00",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f1d392c163be306a7686c1e",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق&quot;مسبار&quot; من الخبر واتضح أنه زائف، إذ أن الصحفي التركي <a href=\"https://www.instagram.com/stories/emrahakcaay/2360977285894543832/\" style=\"color:#0563c1; text-decoration:underline\">إيمره اكتشاي</a>، لم يصرح بذلك بعد التحقق من المقالات التي كتبها مؤخراً، وهو صحافي متخصص في السياحة والفن، كما نفى الخبر عبر حسابه الشخصي في &quot;ستوري&quot; على موقع انستغرام، وقال &quot;مرحبا جميعاً، أعتقد أنكم خالطتم بيني وبين شخصاً آخر لأنني لم أصرح بشيء كهذا.. لا أ علم من اختلق تصريحات على لساني، لكن لا تخدعوا مجتمعكم بأكاذيب كهذه&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">إيمره اكتشاي مراسل مجلة في صحيفة &quot;<a href=\"https://www.milliyet.com.tr/yazarlar/emrah-akcaay/?page=1\" style=\"color:#0563c1; text-decoration:underline\">مليات</a>&quot; التركية, خريج من كلية الحقوق في جامعة مرمرة التركية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"صورة_x0020_10\" src=\"https://images-prod.misbar.com/articlebody/investigation_k8sf68dcr.jpg\" style=\"height:520.5pt; width:331.5pt\" /> </span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول مواقع إخبارية وحسابات على مواقع التواصل الاجتماعي منذ 24يوليو/تموز، تصريحاً منسوباً إلى الصحفي التركي إيمره اكتشاي، يقول فيه &quot;العرب بالنسبة لنا كالأبقار الذين يتم حلبهم، ينتقدون دولتنا ثم يشترون مسلسلاتنا بأعلى الأسعار وتتصدر المشاهدات في بلادهم<span dir=\"RTL\" lang=\"AR-SA\">&quot;.</span></p>\r\n\r\n<p style=\"text-align:center\"><img id=\"صورة_x0020_2\" src=\"https://images-prod.misbar.com/articlebody/origin_2n0vixwp1.jpg\" style=\"height:259.5pt; width:381pt\" /></p>\r\n\r\n<p style=\"text-align:center\"><img id=\"صورة_x0020_9\" src=\"https://images-prod.misbar.com/articlebody/origin_kg1s2rbob.jpg\" style=\"height:381.75pt; width:357pt\" /></p>\r\n\r\n<p style=\"text-align:center\"><img id=\"صورة_x0020_8\" src=\"https://images-prod.misbar.com/articlebody/origin_awbd7y10z.jpg\" style=\"height:291pt; width:405pt\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1595754354Screenshot - 2020-07-26T115919.380.jpg",
+        "watermark_path": "articles/watermark-1595754354Screenshot - 2020-07-26T115919.380.jpg"
+    },
+    "post_date": "2020-07-26T09:37:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/TurkeyAffairs/status/1286760325979820032",
+            "name": "شؤون تركية",
+            "path": "published/0_1595750699_شؤون تركية.jpg"
+        },
+        {
+            "link": "https://twitter.com/foochia/status/1286943189463707648",
+            "name": "فوشيا",
+            "path": "published/1_1595750699_فوشيا.jpg"
+        },
+        {
+            "link": "https://www.turkeyalaan.net/2020/07/25/%D8%B5%D8%AD%D9%81%D9%8A-%D8%AA%D8%B1%D9%83%D9%8A-%D9%8A%D9%87%D8%A7%D8%AC%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8-%D9%88%D9%8A%D8%B5%D9%81%D9%87%D9%85-%D8%A8%D8%A7%D9%84%D8%A3%D8%A8%D9%82%D8%A7%D8%B1/",
+            "name": "تركيا الآن",
+            "path": "published/2_1595750699_تركيا الان.JPG"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.instagram.com/stories/emrahakcaay/2360977285894543832/",
+            "name": " إيمره اكتشاي",
+            "path": "sources/0_1595750699_اميري.JPG"
+        },
+        {
+            "link": "https://www.milliyet.com.tr/yazarlar/emrah-akcaay/?page=1",
+            "name": "milliyet",
+            "path": "sources/1_1595750699_مييلي.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لم يقل الصحافي التركي إيمره اكتشاي \"ينتقدون دولتنا ثم يشترون مسلسلاتنا بأعلى الأسعار\"",
+    "updated_at": "2020-09-25 13:30:44",
+    "url_path": "/factcheck/2020/07/26/لم-يقل-الصحافي-التركي-إيمره-اكتشاي-العرب-ينتقدونا-ثم-يشترون-مسلسلاتنا"
+}

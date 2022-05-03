@@ -1,0 +1,102 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1230,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الفيديو مصوّر في القدس العام الماضي (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">فيديو يصوّر اضطهاد المسلمين في الهند.</p>\r\n",
+    "country": "IN",
+    "created_at": "2020-03-03 15:18:02",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e5e4afad4a2296584466c44",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الفيديو مضلل، فهو مركّب من مقطعين، ووجد &quot;مسبار&quot; أنّ جزأه الأول منشور على &quot;يوتيوب&quot; منذ شهر يوليو/ تموز عام 2019، ويصوّر اعتداء جنود الاحتلال الإسرائيلي على المصلين في أحد أحياء القدس، كما جاء في النص المرافق لمقطع الفيديو.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/LdpyIG11HUs\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">انتشر على موقع التواصل الاجتماعي &quot;فيسبوك&quot;، مقطع فيديو ادعى ناشروه أنّه يُظهر الاضطهاد الذي يتعرض له المسلمين في الهند. ويصوّر المقطع في بدايته مجموعة من المصلين تُلقى بينهم قنبلة مسيلة للدموع، في إشارة إلى العنف الذي يتعرض له المسلمون بسبب تأدية شعائرهم الدينية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_1xbjbt2sq.jpg\" style=\"height:484px; width:660px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_dnthx7v0n.jpg\" style=\"height:363px; width:682px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_o6h9ylfc5.jpg\" style=\"height:493px; width:668px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 352,
+        "left": 5.2127685546875,
+        "path": "articles/1583237882GettyImages-1204734090.jpg",
+        "top": 17.80712890625,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "width": 626
+    },
+    "post_date": "2020-03-03T15:09:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/morceli.nourddine/videos/10157207092853460/",
+            "name": "Morceli Noureddine",
+            "path": "published/0_1583237882_Morceli Noureddine-logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/hfdhgtfeuyguy/videos/3829375370435757/",
+            "name": "هاني أبو الفتوح السناني",
+            "path": "published/1_1583237882_هاني أبو الفتوح السناني-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?ref=search&v=190373265625867&external_log_id=ccbd9346f2a7cd52d1a80e661c1d5676&q=%D9%85%D8%AD%D9%86%D8%A9%20%D8%A7%D9%84%D9%85%D8%B3%D9%84%D9%85%D9%8A%D9%86%20%D9%81%D9%8A%20%D8%A7%D9%84%D9%87%D9%86%D8%AF",
+            "name": "أرض الكرامة",
+            "path": "published/2_1583237882_أرض الكرامة-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?ref=search&v=184961026257296&external_log_id=ccbd9346f2a7cd52d1a80e661c1d5676&q=%D9%85%D8%AD%D9%86%D8%A9%20%D8%A7%D9%84%D9%85%D8%B3%D9%84%D9%85%D9%8A%D9%86%20%D9%81%D9%8A%20%D8%A7%D9%84%D9%87%D9%86%D8%AF",
+            "name": "هدهد سليمان",
+            "path": "published/3_1583237882_هدهد سليمان-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100035481650577/videos/217372819455438/",
+            "name": "أخبار وجريدة الصانية",
+            "path": "published/4_1583237882_أخبار وجريدة الصانية-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=262796604703804&external_log_id=60fb26805aa26c679fef36b73daa859c&q=%D9%85%D8%AD%D9%86%D8%A9%20%D8%A7%D9%84%D9%85%D8%B3%D9%84%D9%85%D9%8A%D9%86%20%D9%81%D9%8A%20%D8%A7%D9%84%D9%87%D9%86%D8%AF",
+            "name": "الوتر السابع",
+            "path": "published/5_1583237882_الوتر السابع-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=2516084931977492&external_log_id=63157c895bcea0fb9a3cbe86e428a160&q=%D9%85%D8%AD%D9%86%D8%A9%20%D8%A7%D9%84%D9%85%D8%B3%D9%84%D9%85%D9%8A%D9%86%20%D9%81%D9%8A%20%D8%A7%D9%84%D9%87%D9%86%D8%AF",
+            "name": "شبكة بسمات",
+            "path": "published/6_1583237882_شبكة بسمات-لوغو.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=LdpyIG11HUs&feature=emb_logo",
+            "name": "وكالة خطوة الإخبارية",
+            "path": "sources/0_1583237881_وكالة خطوة الإخبارية-لوغو.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل يصوّر هذا الفيديو اضطهاد المسلمين في الهند؟",
+    "updated_at": "2020-09-25 12:50:38",
+    "url_path": "/factcheck/2020/03/03/هل-يصور-هذا-الفيديو-اضطهاد-المسلمين-في-الهند"
+}

@@ -1,0 +1,94 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 2,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 67711,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "الصورة الأصلية عبارة عن عمل فني (فيسبوك)",
+    "category": "Travel",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">صورة لجبل السيدة النائمة في ولاية ألاسكا الأميركية.</span></p>\r\n",
+    "country": "US",
+    "created_at": "2020-05-13 15:44:29",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5ebbebaddb29163e7f6dee96",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من الصورة المتداولة ووجد أنها مضللة، لأنّ الصورة الأصلية عبارة عن <a href=\"https://www.inprnt.com/gallery/jm.bihorel/winter-sleep/canvas/\" target=\"_blank\">عمل فني</a> للفنان Jean-Michel Bihorel تحت عنوان Winter Sleep، ولا علاقة للصورة بأي مكان حول العالم.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_8y5h7xe5c.jpg\" style=\"height:323px; width:545px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "جغرافيا",
+        "أميركا"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تناقلت صفحات على مواقع التواصل الاجتماعي صورة ادّعت أنها لجبل في ولاية ألاسكا الأميركية يُدعى جبل السيدة النائمة، وتشبه ملامح الجبل الظاهر في الصورة ملامح سيّدة نائمة.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"594\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FGlobelinformation%2Fposts%2F2924932514227703&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"592\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ffadybasta2020%2Fposts%2F1926463690822385&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 231,
+        "left": 7.8499755859375,
+        "path": "articles/1589373868غلاف.jpg",
+        "top": 82.316650390625,
+        "totalHeight": 423,
+        "totalWidth": 423,
+        "watermark_path": "articles/watermark-1589373868غلاف.jpg",
+        "width": 411
+    },
+    "post_date": "2020-05-13T15:36:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/1030167937037513/posts/2924932514227703/",
+            "name": "معلوماتيون",
+            "path": "published/0_1589373868_معلوماتيون.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/fadybasta2020/posts/1926463690822385",
+            "name": "لغة الجسد",
+            "path": "published/1_1589373868_لغة الجسد.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/naturetopic/permalink/2419111251712536/",
+            "name": "ادميرال فوزح",
+            "path": "published/2_1589373868_ادميرال.jpg"
+        },
+        {
+            "link": "https://twitter.com/fokaha36/status/1259491616278142976",
+            "name": "الكريمي",
+            "path": "published/3_1589373868_الكريمي.jpg"
+        },
+        {
+            "link": "https://twitter.com/Elm3lmElharam/status/1260257192818638848",
+            "name": "المعلم الهرم",
+            "path": "published/4_1589373868_المعلم الهرم.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.inprnt.com/gallery/jm.bihorel/winter-sleep/canvas/",
+            "name": "INPRNT",
+            "path": "sources/0_1589373868_INPRNT.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لا وجود لجبل اسمه السيدة النائمة",
+    "updated_at": "2020-09-25 19:27:24",
+    "url_path": "/factcheck/2020/05/13/لا-وجود-لجبل-اسمه-السيدة-النائمة"
+}

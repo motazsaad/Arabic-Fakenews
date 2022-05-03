@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1571,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "الصورة الأصلية تعود لجسر في ماليزيا (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">التصميم النهائي للجسر الذي سيربط جزيرة أرواد ومدينة طرطوس في سورية. سوف يُفتتح عام 2023.</span></p>\r\n",
+    "country": "SY",
+    "created_at": "2020-05-21 16:42:02",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ec6852adb29163a4e4def34",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من الصورة المتداولة وتبيّن أنّ الخبر مضلل، لأنّ </span><a href=\"http://penangbridge.com.my/project/penang-bridge-birds-eye-view-seasia/\" style=\"text-decoration:none\"><span style=\"color:#1155cc\"><u>الصورة الأصلية</u></span></a><span style=\"color:#000000\"> تعود لجسر Penang في ماليزيا، ولا علاقة للصورة بأيّ جسر في سورية.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_qko9u6rqm.jpg\" style=\"height:743px; width:594px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل صفحات على مواقع التواصل الاجتماعي، منذ سنوات، صورة تدّعي أنها لجسر سوف يربط بين جزيرة أرواد ومدينة طرطوس في سورية، الذي سوف يُفتتح عام 2023.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"639\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FMallsMarketsDamas%2Fposts%2F2512427095534968&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"614\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Flattakiahere%2Fposts%2F2541429649410400&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 189,
+        "left": 0.75,
+        "path": "articles/1590068521غلاف.jpg",
+        "top": 135.36669921875,
+        "totalHeight": 423,
+        "totalWidth": 338,
+        "watermark_path": "articles/watermark-1590068521غلاف.jpg",
+        "width": 337
+    },
+    "post_date": "2020-05-21T16:37:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=140288854039398&id=103704367697847",
+            "name": "دمشق أون لاين",
+            "path": "published/0_1590068520_دمشق أون لاين.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=736556626817773&id=414347702372002",
+            "name": "نبض درعا",
+            "path": "published/1_1590068520_نبض درعا.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2727953693929845&id=1810402889018268",
+            "name": "يوميات قذيفة هاون في دمشق",
+            "path": "published/2_1590068520_يوميات.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/MallsMarketsDamas/posts/2512427095534968",
+            "name": "أسواق ومولات دمشق",
+            "path": "published/3_1590068520_أسواق.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/lattakiahere/posts/2541429649410400",
+            "name": "هنا اللاذقية",
+            "path": "published/4_1590068521_هنا اللاذقية.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "http://penangbridge.com.my/project/penang-bridge-birds-eye-view-seasia/#",
+            "name": "Penang Bridge",
+            "path": "sources/0_1590068521_لوغو.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذا الجسر ليس في سورية وإنما ماليزيا",
+    "updated_at": "2020-09-25 15:44:17",
+    "url_path": "/factcheck/2020/05/21/هذا-الجسر-ليس-في-سورية-وإنما-ماليزيا"
+}

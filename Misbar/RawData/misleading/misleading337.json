@@ -1,0 +1,143 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 343,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "الصور من العام الفائت بحسب منشورات والدها (فيسبوك)",
+    "category": "Health",
+    "claim": "<p>الطفلة رغد عاشور من قطاع غزة أو العراق أو ليبيا تقبل والدها قبل الدخول إلى عملية قلب مفتوح، ليكون الوداع الأخير.</p>\r\n",
+    "country": "PS",
+    "created_at": "2020-11-13 19:34:52",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 9,
+    "id": "5faeb5acc75ae96e863364b5",
+    "investigation": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-JO\">تحقّق &quot;<a href=\"https://misbar.com/\"><span style=\"color:#3498db\">مسبار</span></a>&quot; من الخبر ووجده مضللاً،&nbsp;إذ إنّ&nbsp;الطفلة رغدة بالفعل توفيت خلال عملية قلب مفتوح بعد أن ودعت والدها، ولكن هذا حدث العام الفائت في مدينة العلمين داخل محافظة مرسى مطروح المصرية، فهي ليست عراقية أو ليبية أو من قطاع غزة بل مصرية، كما أن الواقعة لم تحدث&nbsp;خلال نوفمبر/تشرين الثاني الجاري.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_02qbdieu8.jpg\" style=\"height:309px; width:602px\" /></p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_o340v483v.jpg\" style=\"height:529px; width:598px\" /></p>\r\n\r\n<p style=\"text-align:right\">اقرأ/ي أيضاً:</p>\r\n\r\n<p style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/10/30/%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9-%D9%85%D9%81%D8%A8%D8%B1%D9%83%D8%A9-%D9%88%D9%84%D9%8A%D8%B3%D8%AA-%D9%85%D9%86-%D9%85%D8%B3%D9%84%D8%B3%D9%84-%D8%A7%D9%84%D9%83%D8%A7%D8%A8%D8%AA%D9%86-%D9%85%D8%A7%D8%AC%D8%AF-%D9%88%D9%84%D9%85-%D9%8A%D9%81%D9%82%D8%AF-%D9%82%D8%AF%D9%85%D9%8A%D9%87\"><span style=\"color:#3498db\">الصورة مفبركة وليست من مسلسل الكابتن ماجد</span></a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-JO\">تداولت حسابات وصفحات على مواقع التواصل الاجتماعي بكثافة خلال الساعات الأخيرة، خبراً مفاده أن الطفلة رغد عاشور تودع والدها قبل دخولها غرفة عمليات القلب المفتوح حيث توفيت هناك، ومرفق الخبر بعدة صور للطفلة&nbsp; ووالدها. وقالت حسابات&nbsp;إنها من قطاع غزة، وحسابات أخرى قالت إنها من ليبيا أو العراق.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_7dbsyvw3j.jpg\" style=\"height:422px; width:602px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_7ma4yjna4.jpg\" style=\"height:620px; width:582px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_z8wb6en57.jpg\" style=\"height:244px; width:602px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_prplcw3ts.jpg\" style=\"height:202px; width:602px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_pbhf4xrf2.jpg\" style=\"height:570px; width:590px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 338,
+        "left": 37.899993896484375,
+        "path": "articles/1605285292125215102_835797517179685_7868801167108868015_n (1).jpg",
+        "top": 7.099853515625,
+        "totalHeight": 423,
+        "totalWidth": 799,
+        "watermark_path": "articles/watermark-1605285292125215102_835797517179685_7868801167108868015_n (1).jpg",
+        "width": 602
+    },
+    "post_date": "2020-11-13T17:22:00.000+03:00",
+    "published": [
+        {
+            "id": "5fa2bbe49892d12f6c02d05f",
+            "link": "https://www.facebook.com/ShufatCampState/posts/3396929387092723",
+            "name": "دولة مخيم شعفاط",
+            "origin": "facebook",
+            "path": "sources/4fc08bedc348d3ac4a67b9b54899421d1d1f7ca8.jpg"
+        },
+        {
+            "id": "5faeb5abd829ae7232022a64",
+            "link": "https://www.facebook.com/muhanad.aburia/posts/3350050938457187",
+            "name": "صفحة السائقيين المقدسيين العموميين",
+            "origin": "facebook",
+            "path": "sources/1a9841652fc00e7042a54d1853856c8cf1a2acf7.jpg"
+        },
+        {
+            "id": "5faeb5ab141d6b19b40f00db",
+            "link": "https://www.facebook.com/baghdad.taxyat/posts/835797550513015",
+            "name": "Tax Baghdad",
+            "origin": "facebook",
+            "path": "sources/5091aba9724b3cdffefc4de2ea4112048edd2565.jpg"
+        },
+        {
+            "id": "5faeb5ac33dd973bbe2a3008",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2885788545080539&id=100009482649275",
+            "name": "Facebook",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5faeb5accb69b361614e0157",
+            "link": "https://twitter.com/arbeqq/status/1327155055934525440",
+            "name": "عربي الجداوي.",
+            "origin": "twitter",
+            "path": "sources/493b99a55c5cfc98147f9e20617801def14487a9.jpg"
+        },
+        {
+            "id": "5faeb5acabefa7441669da58",
+            "link": "https://twitter.com/Shen7alkYaLiby/status/1326962212230078479",
+            "name": "شن حالك يا ليبي",
+            "origin": "twitter",
+            "path": "sources/4b87a91e3ed25046e51d7faca9fc565ee21cd3cb.jpg"
+        },
+        {
+            "id": "5faec5f1b7a88e132907f13e",
+            "link": "https://twitter.com/Assma111993/status/1326967470666735616",
+            "name": "اسماء الطرابلسي 🖤🏹🎶🎼🎸💃",
+            "origin": "twitter",
+            "path": "sources/e64bcad7a8eb6e910d9441fa2c72a57ebb3cf432.jpg"
+        },
+        {
+            "id": "5faec5f2944f292e9440b782",
+            "link": "https://twitter.com/elsayed343m/status/1326994519133450246",
+            "name": "السكلانس",
+            "origin": "twitter",
+            "path": "sources/998d91ef631f3805e9ed0a9c690345a29fbe76a4.jpg"
+        },
+        {
+            "id": "5faec5f2fa059c55be5e7521",
+            "link": "https://twitter.com/SALWAN08869514/status/1327181925249933312",
+            "name": "SALWAN",
+            "origin": "twitter",
+            "path": "sources/b0546b91392e573e037642eede64d607aa5fd451.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5faeb5ac65972b3dca49a8d0",
+            "link": "https://twitter.com/AJA_Egypt/status/1212059591569227778",
+            "name": "الجزيرة مصر",
+            "origin": "twitter",
+            "path": "sources/1814c0d0f0123a6a7a3ed71463b21d91d0e35034.jpg"
+        },
+        {
+            "id": "5faeb5ac73fb5d0aa11e9467",
+            "link": "https://www.facebook.com/photo.php?fbid=1290411987813248&set=pb.100005333765353.-2207520000..&type=3",
+            "name": "Facebook",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صور الطفلة رغد عاشور صاحبة عملية القلب المفتوح ليست جديدة",
+    "updated_at": "2020-11-13 20:46:22",
+    "url_path": "/factcheck/2020/11/13/صور-الطفلة-رغد-عاشور-صاحبة-عملية-القلب-المفتوح-ليست-جديدة",
+    "was_notification_pushed": true
+}

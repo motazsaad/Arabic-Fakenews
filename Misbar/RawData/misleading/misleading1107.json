@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 2
+    },
+    "amount_sources": 0,
+    "amount_visits": 82888,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الصورة لاستعراض للتسلية وليس لتنفيذ حكم بالإعدام (مواقع التواصل الاجتماعي)",
+    "category": "Spirituality & Religion",
+    "claim": "<p>فيديو يُظهر تنفيذ حكم الإعدام حرقاً بحق أشخاص قتلوا بقرةً في الهند.</p>\r\n",
+    "country": "IN",
+    "created_at": "2020-05-26 11:45:49",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5eccd73ddb29165f3e739a34",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الادعاء غير صحيح، إذ تحقّق &quot;مسبار&quot; من الفيديو المتداول، وتأكد من أنّه لا يصوّر تنفيذ حكمٍ بالإعدام حرقاً، إنمّا يُظهر استعراضاً ترفيهياً لأشخاص يتحررون من القيود ويخرجون من الأقفاص وسط النيران.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"420\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FTrucTiepClipNong%2Fvideos%2F292437898021762%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشر مستخدمون على موقعي فيسبوك ويوتيوب، مقطع فيديو قالوا إنّه يصوّر تنفيذ حكم الإعدام حرقاً بحق أشخاص قتلوا بقرة في الهند، وذلك بسبب الخصوصية التي تمثلها البقرة في الديانة الهندوسية. وجاء في التعليق المرافق للفيديو المتداول &quot;شاهد حكم بالإعدام بالحرق بالنار بسبب قتل بقرة في الهند الحمد لله على نعمة الإسلام&quot;.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"554\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Falrassam.mohammad%2Fvideos%2F2899229306861739%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"554\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F100175251704285%2Fvideos%2F651398948777572%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/U9V3eXeTL0o\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 291,
+        "left": 0.0706787109375,
+        "path": "articles/1590482748صورة المادة.jpg",
+        "top": 75.133544921875,
+        "totalHeight": 423,
+        "totalWidth": 517,
+        "watermark_path": "articles/watermark-1590482748صورة المادة.jpg",
+        "width": 517
+    },
+    "post_date": "2020-05-26T11:30:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/alrassam.mohammad/videos/2899229306861739/?hc_location=ufi",
+            "name": "محمد الرسام",
+            "path": "published/0_1590482747_محمد الرسام.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=U9V3eXeTL0o",
+            "name": "أبو ليث",
+            "path": "published/1_1590482747_أبو ليث.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=bRaaf0tGUWs&t=3s",
+            "name": "قناة الأنيق جمال العليوي",
+            "path": "published/2_1590482747_قناة الأنيق جمال العليوي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100175251704285/videos/651398948777572/",
+            "name": "سراج المعرفة",
+            "path": "published/3_1590482748_سراج المعرفة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/508532942863152/videos/244855746605902/",
+            "name": "خيال متوهج",
+            "path": "published/4_1590482748_خيال متوهج.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100337081698434/videos/950135472108826/",
+            "name": "منوعات حول العالم",
+            "path": "published/5_1590482748_منوعات حول العالم.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/aboleth0/videos/563821804539492/",
+            "name": "أبو ليث",
+            "path": "published/6_1590482748_أبو ليث.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/TrucTiepClipNong/videos/vb.209054236634423/292437898021762/?type=2&theater",
+            "name": "المقطع الأصلي",
+            "path": "sources/0_1590482748_Facebook_logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الهند: الإعدام حرقاً لأشخاص قتلوا بقرة.. ما قصة الفيديو؟",
+    "updated_at": "2020-09-25 16:26:07",
+    "url_path": "/factcheck/2020/05/26/الهند-الإعدام-حرقا-لأشخاص-قتلوا-بقرة-ما-قصة-الفيديو"
+}

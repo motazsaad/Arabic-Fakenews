@@ -1,0 +1,98 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 869,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الصورة لسيارات تضررت بفعل حريق في ولاية أريزونا عام 2018 (تويتر)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة تُظهر كيف ذابت أجزاء من السيارات بسبب ارتفاع درجات الحرارة، وقد تعدّدت البلدان العربية التي نُسبت إليها الصورة.</p>\r\n",
+    "country": "IQ",
+    "created_at": "2020-07-30 14:15:22",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f22abca163be3085b659e51",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الصورة مضللة، إذ بعد التحقق تبيّن لـ &quot;مسبار&quot; أنها تعود لسيارات تضرّرت من حريقٍ نشب في ولاية أريزونا الأميركية في يونيو/حزيران 2018.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_bfygl1wps.jpg\" style=\"height:398px; width:607px\" /></span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/VVAg5k9Ar9c\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">يتداول مستخدمون على مواقع التواصل الاجتماعي منذ عام 2019، صورة تُظهر ذوبان أجزاء من السيارات بسبب ارتفاع درجات الحرارة، وادعى بعض الناشرين أنها التُقطت في الكويت في حين قال آخرون أنها من السعودية، وقد نُشرت حديثاً على أنها من العراق.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_e2uryzair.jpg\" style=\"height:498px; width:496px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ueijn3fxr.jpg\" style=\"height:443px; width:493px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_sagrt89sy.jpg\" style=\"height:479px; width:513px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 313,
+        "left": 5.3625946044921875,
+        "path": "articles/1596107722التحقق.jpg",
+        "top": 7.48193359375,
+        "totalHeight": 423,
+        "totalWidth": 566,
+        "watermark_path": "articles/watermark-1596107722التحقق.jpg",
+        "width": 558
+    },
+    "post_date": "2020-07-30T14:04:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=839638806567308&set=a.107010666496796&type=3",
+            "name": "سيد صباح ",
+            "path": "published/0_1596107721_سيد صباح.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=467023250777844&set=a.135951180551721&type=3&theater",
+            "name": "العفيدلي أبو عمّار",
+            "path": "published/1_1596107721_العفيدلي أبو عمار.jpg"
+        },
+        {
+            "link": "https://twitter.com/saksivarnan/status/1139817057929707520?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1139817057929707520%7Ctwgr%5E&ref_url=https%3A%2F%2Fwww.viralistas.com%2Fla-foto-viral-de-los-autos-derretidos-no-corresponde-a-la-ola-de-calor-en-kuwait%2F",
+            "name": "Saksi",
+            "path": "published/2_1596107721_Saksi.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/shueshboeljaw/posts/865685720479805",
+            "name": "شو اشبو الجو",
+            "path": "published/3_1596107721_شو اشبو الجو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ayman.swaida/posts/2282153998539466?__tn__=-R",
+            "name": "Ayman Al Marei",
+            "path": "published/4_1596107721_Ayman Al Marei.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1589401007859413&id=100003685862201",
+            "name": "Abdullh A Bazen",
+            "path": "published/5_1596107721_Abdullh A Bazen.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?time_continue=38&v=VVAg5k9Ar9c&feature=emb_logo",
+            "name": "News4",
+            "path": "sources/0_1596107722_News4.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصورة ليست لسيارات تذوب من الحر في دولة عربية",
+    "updated_at": "2020-09-25 11:23:58",
+    "url_path": "/factcheck/2020/07/30/هذه-الصورة-ليست-لسيارات-تذوب-من-الحر-في-دولة-عربية"
+}

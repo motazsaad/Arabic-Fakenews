@@ -1,0 +1,104 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 671,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "الصورة تعود لتاريخ 22 مايو/أيار الفائت (تويتر)",
+    "category": "Health",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">مصر ترسل شاحنات تحمل&nbsp;مستلزمات طبية في طريقها إلى قطاع غزة.</span></p>\r\n",
+    "country": "PS",
+    "created_at": "2020-08-28 18:49:22",
+    "created_by": "5f39b5a51dd585076701cb94",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f4927826021180695016d21",
+    "investigation": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من الصور المتداولة على أنها حديثة، وتبين أنها <a href=\"https://www.elwatannews.com/news/details/4785140?t=push\" style=\"color:#0563c1; text-decoration:underline\">قديمة</a> وتعود لتاريخ 22 مايو/أيار الفائت، وكانت لشحنات تحمل مساعدات طبية مقدمة من الهلال الأحمر المصري إلى جمعية الهلال الأحمر الفلسطيني.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_7pjco1ydc.jpg\" style=\"height:447px; width:624px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات على مواقع التواصل الاجتماعي، منذ تاريخ 26 أغسطس/آب الجاري، صور ادعت أنها لمساعدات طبية مصرية في طريقها إلى قطاع غزة.&nbsp;وجاء انتشار الخبر، بعد تزايد أعداد الإصابات بفايروس كورونا المستجد في قطاع غزة&nbsp;مؤحراً.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_vz3oshh86.jpg\" style=\"height:450px; width:491px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ndiuq0hi3.jpg\" style=\"height:512px; width:483px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_9e77yoh0b.jpg\" style=\"height:423px; width:492px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1598629762EgcWFn1WkAE5Um5.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1598629762EgcWFn1WkAE5Um5.jpg",
+        "width": 752
+    },
+    "post_date": "2020-08-28T18:45:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/M__bestawy/status/1299031305703895040",
+            "name": "Mohamed elbestawy",
+            "path": "published/0_1598629761_twitter.jpg"
+        },
+        {
+            "link": "https://twitter.com/ZiziTeby3/status/1298733274211266561",
+            "name": "مصرية وافتخر",
+            "path": "published/1_1598630076_twitter.jpg"
+        },
+        {
+            "link": "https://twitter.com/al_derdsawi/status/1298539050039640064",
+            "name": "برهومز",
+            "path": "published/2_1598630076_twitter.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/349519215754822/permalink/621956158511125/",
+            "name": "Ahmed Zourob",
+            "path": "published/3_1598630076_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ahmad.abn.sami99/posts/163903058604381",
+            "name": " Gaza بوست",
+            "path": "published/4_1598630076_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Sheja3eyaa/posts/751552075626995",
+            "name": "حي الشجاعية بوابة غزة الشرقية 2",
+            "path": "published/5_1598630076_facebook.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.elwatannews.com/news/details/4785140?t=push",
+            "name": "الوطن",
+            "path": "sources/0_1598629762_الوطن.jpg"
+        },
+        {
+            "link": "https://elbaladtv.net/%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84-%d8%a7%d9%84%d8%a3%d8%ad%d9%85%d8%b1-%d9%8a%d8%b3%d9%8a%d8%b1-%d9%82%d8%a7%d9%81%d9%84%d8%a9-%d9%85%d8%b3%d8%a7%d8%b9%d8%af%d8%a7%d8%aa-%d8%b7%d8%a8%d9%8a%d9%87/",
+            "name": "صدى البلد",
+            "path": "sources/1_1598629876_صدى البلد.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "كورونا غزة: صور المساعدات الطبية المصرية قديمة",
+    "updated_at": "2020-09-25 18:54:19",
+    "url_path": "/factcheck/2020/08/28/كورونا-غزة-صور-المساعدات-الطبية-المصرية-قديمة"
+}

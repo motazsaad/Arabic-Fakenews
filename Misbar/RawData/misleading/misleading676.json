@@ -1,0 +1,97 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2248,
+    "author": {
+        "fullname": "محمد الخالدي",
+        "id": "5ef9dcff163be306aa5d2826",
+        "photo": {
+            "name": "1593433343_48252779_2179011148784786_3755534693705973760_o.jpg",
+            "path": "authors/1593433343_48252779_2179011148784786_3755534693705973760_o.jpg"
+        }
+    },
+    "caption": "المقطع تم تصويره بالكرك في الأردن خلال أمر إغلاق محال تجارية (Roya Tv)",
+    "category": "Health",
+    "claim": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">اعتداء المواطنين على سيارات الشرطة والإسعاف،&nbsp;شمال قطاع غزة، خلال رفضهم حظر التجوال بسبب انتشار وباء فايروس&nbsp;كورونا المستجد.</span><br />\r\n<br />\r\n&nbsp;</p>\r\n",
+    "country": "PS",
+    "created_at": "2020-09-06 20:08:25",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f551789728f384f0d3d36cd",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من مقطع الفيديو ليجد أنه مضلل؛ إذ تبين أنّ أحداثه وقعت في أول شهر سبتمبر/أيلول الجاري،&nbsp;بمحافظة الكرك في الأردن،&nbsp;حين جاءت الشرطة لتنفيذ أمر إغلاق&nbsp;محال تجارية، وكانت مديرية الأمن العام الأردنية على حسابها الرسمي في موقع فيسبوك أكدت كونها تمكنت من إلقاء القبض على عدد ممن اعتدوا على رجال الأمن خلال تواجدهم في حملة أمنية لتنفيذ أمر إغلاق محال تجارية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;وكثير من الحسابات التي نشرت المقطع على أنه في قطاع غزة سرعان ما تراجعت عن الأمر وحذفته.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_0ij1fblmg.jpg\" style=\"height:356px; width:602px\" /><img src=\"https://images-prod.misbar.com/articlebody/investigation_gk1jyk4hb.jpg\" style=\"height:347px; width:602px\" /><img src=\"https://images-prod.misbar.com/articlebody/investigation_law5d5ku0.jpg\" style=\"height:466px; width:602px\" /></span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fjordannewscom%2Fvideos%2F956650608132005%2F&amp;show_text=0&amp;width=261\" style=\"border:none;overflow:hidden\" width=\"261\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">نشرت حسابات على مواقع التواصل الاجتماعي، بتاريخ 3 سبتمبر/ أيلول الجاري، مقطع فيديو ادّعت فيه أنّ مجموعةً من المواطنين، قاموا بإلقاء الحجارة والتعدي على سيارات الإسعاف والشرطة الفلسطينية شمال قطاع غزة، وذلك خلال فرض حظر التجوال؛&nbsp;بسبب انتشار فايروس كورونا&nbsp;&nbsp;المستجد.</span></p>\r\n\r\n<p style=\"text-align:center\"><br />\r\n<br />\r\n<img src=\"https://images-prod.misbar.com/articlebody/origin_ery0wnl98.jpg\" style=\"height:529px; width:513px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_x9cboaisc.jpg\" style=\"height:514px; width:402px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 409,
+        "left": 18.5,
+        "path": "articles/1599412105كرك.JPG",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 761,
+        "watermark_path": "articles/watermark-1599412105كرك.JPG",
+        "width": 726
+    },
+    "post_date": "2020-09-06T18:33:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/100003239563168/videos/3155633007887987/",
+            "name": "السقا يحيى",
+            "path": "published/0_1599412104_0_1596888660_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/100054944738629/videos/104853304689494/",
+            "name": "منير أبو جلهوم",
+            "path": "published/1_1599412104_0_1596888660_facebook.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/Royatv/videos/1551487025053600",
+            "name": "رؤيا",
+            "path": "sources/0_1599412105_رؤيا.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/policejo/posts/3282972215102215",
+            "name": "مديرية الأمن العام",
+            "path": "sources/1_1599412105_100866138_3011907388875367_5818037732240261120_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/watch/?v=956650608132005&extid=KgusHju7lvJ2dgD2",
+            "name": "أخبار الأردن",
+            "path": "sources/2_1599412105_أخبار الاردن.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "فيديو إلقاء الحجارة على سيارات الشرطة والإسعاف ليس في قطاع غزة",
+    "updated_at": "2020-09-25 14:48:03",
+    "url_path": "/factcheck/2020/09/06/هذا-الفيديو-ليس-في-قطاع-غزة-خلال-أزمة-فايروس-كورونا",
+    "was_notification_pushed": true
+}

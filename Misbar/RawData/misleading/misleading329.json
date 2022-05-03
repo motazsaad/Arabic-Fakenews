@@ -1,0 +1,115 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 222,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "دمية من الفراء والأسلاك والبلاستيك (فيسبوك)",
+    "category": "Arts & Culture",
+    "claim": "<p>حيوان غريب مفترس يظهر في محافظة المثنى بالعراق،&nbsp;يسمى الشيبه يستطيع أن يأكل 10 رجال معاً.</p>\r\n",
+    "country": "IQ",
+    "created_at": "2020-11-15 20:19:30",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 5,
+    "id": "5fb16322d95ef81d4f4284d3",
+    "investigation": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-JO\">تحقّق &quot;<a href=\"https://misbar.com/\"><span style=\"color:#3498db\">مسبار</span></a>&quot; من الصور، ليجد أنه دمية بالأساس للفنانة آنيا بوز، وقد عرضت عدة صور له ومميزات اقتنائه، موضحة إنه مصنوع من البلاستيك والفراء والأسلاك، كما نشرت صورة لها مع عدة نسخ من ذات الدمية، وأطلقت عليها اسم &quot;حراس الغرفة&quot;.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_pe1j228rq.jpg\" style=\"height:475px; width:602px\" /></p>\r\n\r\n<p style=\"text-align:right\">اقرأ/ي أيضا:</p>\r\n\r\n<p style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/06/26/%D9%87%D8%B0%D9%87-%D9%84%D9%8A%D8%B3%D8%AA-%D8%AD%D8%A8%D8%A9-%D8%B7%D9%85%D8%A7%D8%B7%D9%85-%D8%B9%D9%84%D9%89-%D8%B4%D9%83%D9%84-%D9%88%D8%AC%D9%87-%D8%A5%D9%86%D8%B3%D8%A7%D9%86-5ef63e6b0a70d\"><span style=\"color:#3498db\">هذه ليست حبة طماطم على شكل وجه إنسان</span></a></p>\r\n\r\n<p style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/07/22/%D9%85%D8%AC%D8%B1%D8%AF-%D8%AF%D9%85%D9%8A%D8%A9-%D9%88%D9%84%D9%8A%D8%B3%D8%AA-%D9%86%D9%88%D8%B9%D8%A7-%D8%AC%D8%AF%D9%8A%D8%AF%D8%A7-%D9%85%D9%86-%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D8%A8\"><span style=\"color:#3498db\">مجرد دمية وليس نوعاً جديداً من العقارب</span></a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت حسابات، وصفحات على مواقع التواصل الاجتماعي، حديثاً، صوراً لحيوان غريب الشكل، وقالت الحسابات &quot;عاجل ظهور حيوان مفترس غريب الشكل، يسمى الشيبه&nbsp;في محافظة المثنى ناحية السوير، والآن الأهالي يبحثون عنه في أطراف المدينة حاملين أسلحتهم، خوفاً على أطفالهم. ملاحظة هذا الحيوان يستطيع أكل 10 رجال في وقت واحد مشاركتك دليل تعاونك تابع الصفحة أول بأول&quot;، في حين شاركت&nbsp;صفحات أخرى صورته&nbsp;متعجبة من جماله وغرابته.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_9hskojtkh.jpg\" style=\"height:205px; width:602px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_flgkpmbuj.jpg\" style=\"height:510px; width:582px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 399,
+        "left": 3.766754150390625,
+        "path": "articles/1605460770Screenshot 2020-11-15 170543.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 799,
+        "watermark_path": "articles/watermark-1605460770Screenshot 2020-11-15 170543.jpg",
+        "width": 710
+    },
+    "post_date": "2020-11-15T16:53:00.000+03:00",
+    "published": [
+        {
+            "id": "5fb163213862ec691518a224",
+            "link": "https://www.facebook.com/Addhfssjji/posts/2722446761417220",
+            "name": "الخوة النظيفة",
+            "origin": "facebook",
+            "path": "sources/7644024717066cf4c2f08f6f38c61f291ac8103a.jpg"
+        },
+        {
+            "id": "5fb1632116f4ab4bd067c1fa",
+            "link": "https://ifunny.co/picture/y-ygag-beautiful-gryfaun-when-did-god-release-this-one-RQB9pp7f7",
+            "name": "iFunny",
+            "origin": "",
+            "path": "sources/8eb64d318970615e9feeaaacd5aadfc4dda929d6.jpg"
+        },
+        {
+            "id": "5fb16321626c8451b05af069",
+            "link": "https://www.reddit.com/r/HelluvaBoss/comments/f8k8d1/for_those_wondering_real_life_stolas/",
+            "name": "reddit",
+            "origin": "",
+            "path": "sources/e2684d050bc9049de37ec7f12539a51bdafab49c.jpg"
+        },
+        {
+            "id": "5fb1632256869f1e9840bd88",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1014377402364448&id=180023932466470",
+            "name": "Hayao Miyazaki ",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5fb16322abefa744166a1b45",
+            "link": "https://twitter.com/karaboriley/status/1250116219342118914?lang=en",
+            "name": "Karabo",
+            "origin": "twitter",
+            "path": "sources/3013ea02eda48b7d19cad5b6f0d19095db0d07d1.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fb1632265972b3dca49f969",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2739218839462042&id=773416672708945",
+            "name": "Anya Boz",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5fb1632201b65f6d5f2f0c68",
+            "link": "https://www.patreon.com/anyaboz?fbclid=IwAR2B_6d-vHcKtb4Potx8D0fTYpZQlEWEY0jn5goBSin4eGSLunXaeYWz04U",
+            "name": "Patreon",
+            "origin": "",
+            "path": "sources/735fa6eb1f1c4c05831a1308abe39cab70e82b89.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذا ليس حيواناً غريباً مفترساً، بل دمية من الفراء",
+    "updated_at": "2020-11-15 20:30:16",
+    "url_path": "/factcheck/2020/11/15/هذا-ليس-حيوانا-غريبا-مفترسا-بل-دمية-من-الفراء",
+    "was_notification_pushed": true
+}

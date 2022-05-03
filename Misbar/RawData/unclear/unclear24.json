@@ -1,0 +1,95 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2355,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "category": "Health",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">&nbsp;&quot;كورونا&quot; يصل سورية ويقتل فتاتين في ريف حلب.</p>\r\n",
+    "country": "SY",
+    "created_at": "2020-01-28 14:15:22",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e3017cad4a229399e0f5483",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">نفى وزير الصحة في الحكومة السورية المؤقتة، التابعة للمعارضة السورية، الدكتور مرام الشيخ مصطفى في تصريح له، في تسجيل صوتي حصل &quot;مسبار &quot; على نسخة منه، صحة الأخبار المتعلقة بوفاة شقيقتين نتيجة الإصابة بفايروس كورونا، وقال أنّ إحدى الشقيقتين فقط توفيت بينما الثانية مازالت على قيد الحياة، ورجح أن يكون سبب الوفاة هو الإصابة بفايروس الإنفلونزا الموسمية وليس كورونا. وأضاف &quot; لم يتم التحقق حتى الآن من نوع الفيروس بشكل مخبري وننتظر الحصول على نتائج فحص العينات&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وهكذا فإنّ الصحف والمواقع التي تداولت الخبر، أعطته عنواناً يجزم بأن سبب الوفاة هو الإصابة بفايروس كورونا وأن الفيروس وصل الى سورية، في الوقت الذي لم يتم فيه التأكد من نوع الفايروس الذي أصاب الفتاتين.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">ولم تصدر نتائج الفحص المخبري للعينات المشكوك بإصابتها بفايروس كورونا حتى الآن، وهذا يجعل الخبر الذي نشرته بعض الصحف والمواقع العربية مشكوكاً في صحته.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وتجدر الإشارة أنّ وسائل الإعلام التي نشرت الخبر نسبته إلى مصدر لم تذكر اسمه، قالت إنّه أدلى بتصريحات للوكالة الألمانية للأنباء <span dir=\"LTR\">dpa</span>، إلّا أن &quot;مسبار&quot; لم يعثر على تلك التصريحات في أيٍّ من الأخبار المنشورة على موقع الوكالة.</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت عدة صحف ومواقع إلكترونية عربية، منها صحيفتي الإمارات اليوم والبيان الإماراتية في 26 و27 يناير/ كانون الثاني من العام الجاري خبراً جاء فيه: &quot;أفاد مصدر طبي سوري السبت 25 يناير بوفاة فتاتين في محافظة حلب بعد الاشتباه بإصابتهما بفيروس كورونا الجديد&quot;. وأشار الخبر إلى أن هناك عدداً من الحالات التي دخلت العناية المركزة في مستشفيات الشمال السوري، الأمر الذي استوجب تدخل وزارة الصحة التركية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وزعم الخبر أنّ مصدراً طبياً في مستشفى الراعي شمال شرقي مدينة حلب قال &quot;توفيت أول أمس فتاة ظهرت عليها أعراض اختناق تنفسي حاد، كما توفيت أختها الصغرى اليوم، حيث يشتبه بأنهما مصابتان بفايروس كورونا&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_2tqbd5101.jpg\" style=\"height:477px; width:361px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_f1tgzcktl.jpg\" style=\"height:393px; width:376px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1580210968GettyImages-626210658.jpg"
+    },
+    "post_date": "2020-01-28T14:08:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.albayan.ae/one-world/arabs/2020-01-26-1.3761219",
+            "name": "صحيفة البيان",
+            "path": "published/0_1580210122_صحيفة البيان-لوغو.jpg"
+        },
+        {
+            "link": "https://www.emaratalyoum.com/politics/international/2020-01-26-1.1300242",
+            "name": "الإمارات اليوم",
+            "path": "published/1_1580210122_الإمارات اليوم لوغو.jpg"
+        },
+        {
+            "link": "https://www.elwatannews.com/news/details/4543068",
+            "name": "موقع الوطن ",
+            "path": "published/2_1580210122_ألوان الوطن.jpg"
+        },
+        {
+            "link": "https://www.lebanon24.com/news/health/668189/%D8%AD%D8%A7%D9%84%D8%AA%D8%A7-%D9%88%D9%81%D8%A7%D8%A9-%D9%88%D9%87%D9%84-%D9%88%D8%B5%D9%84-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-%D8%A5%D9%84%D9%89-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7%D8%9F",
+            "name": "لبنان 24",
+            "path": "published/3_1580210122_لبنان 24.JPG"
+        },
+        {
+            "link": "https://canadianarabs.ca/%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9/%D9%85%D8%B5%D8%A7%D8%AF%D8%B1-%D8%B9%D9%86-%D9%88%D9%81%D8%A7%D8%A9-%D8%AD%D8%A7%D9%84%D8%AA%D9%8A%D9%86-%D9%81%D9%8A-%D8%AD%D9%84%D8%A8-%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D8%A7/",
+            "name": "عرب كندا ",
+            "path": "published/4_1580210122_عرب كندا-لوغو.jpg"
+        }
+    ],
+    "result": "unclear",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.rozana.fm/ar/%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/1/%D9%85%D8%AD%D8%AA%D9%88%D9%89/39090/%22%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D9%85%D8%A4%D9%82%D8%AA%D8%A9%22:-%D9%84%D8%A7-%D9%88%D8%AC%D9%88%D8%AF-%D9%84%D9%81%D9%8A%D8%B1%D9%88%D8%B3-%22%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7%22-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A/2020-01-26",
+            "name": "راديو روزنة",
+            "path": "sources/0_1580210121_راديو روزنا-لوغو.jpg"
+        },
+        {
+            "link": "https://enabbaladi.net/archives/358262",
+            "name": "عنب بلدي",
+            "path": "sources/1_1580210122_عنب بلدي-لوغو.jpg"
+        },
+        {
+            "link": "https://www.dpa.com/ar/",
+            "name": "dpa",
+            "path": "sources/2_1580210122_dpa-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ما صحة خبر وفاة فتاتين بفايروس كورونا في شمال سورية؟",
+    "updated_at": "2020-09-25 18:46:33",
+    "url_path": "/factcheck/2020/01/28/ما-صحة-خبر-وفاة-فتاتين-بفايروس-كورونا-في-شمال-سورية"
+}

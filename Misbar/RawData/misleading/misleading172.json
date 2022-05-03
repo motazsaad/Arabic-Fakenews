@@ -1,0 +1,118 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 265,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "الصورة من العراق عام 2017 (فيسبوك)",
+    "category": "News",
+    "claim": "<p>القبض على شبكة دعارة في إحدى قرى تدمر السورية.</p>\r\n",
+    "country": "SY",
+    "created_at": "2020-12-18 16:51:29",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 19,
+    "feedback_pos": 15,
+    "id": "5fdcb3e1feb1de4bc2290893",
+    "investigation": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقّق &quot;<a href=\"https://misbar.com/\" target=\"_blank\"><span style=\"color:#3498db\">مسبار</span></a>&quot; من الصورة ووجد أن التعليقات المرفقة لها مضللة، فالصورة انتشرت على مواقع إخبارية عراقية عام 2017، حين أعلنت شرطة أربيل اعتقال شبكة دعارة في عنكاوة مؤلفة من 11 شخصاً كانوا يديرون ويعملون في الشبكة تحت غطاء العمل في المقاهي والفنادق.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_p8q3xxx8i.jpg\" style=\"height:317px; width:602px\" /></p>\r\n\r\n<p style=\"text-align:right\">اقرأ/ي أيضا:</p>\r\n\r\n<p style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/06/09/%D8%AA%D9%88%D9%86%D8%B3-160-%D8%AD%D8%A7%D9%84%D8%A9-%D8%B9%D8%AF%D9%88%D9%89-%D8%A8%D8%A7%D9%84%D8%A5%D9%8A%D8%AF%D8%B2-%D8%AE%D9%84%D8%A7%D9%84-%D8%A7%D9%84%D8%AD%D8%AC%D8%B1-%D8%A7%D9%84%D8%B5%D8%AD%D9%8A-%D8%AE%D8%A8%D8%B1-%D9%85%D8%B6%D9%84%D9%84\" target=\"_blank\"><span style=\"color:#3498db\">تونس: 160 حالة عدوى بالإيدز خلال الحجر الصحي.. خبر مضلل</span></a></p>\r\n\r\n<p style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/11/11/%D8%B5%D9%88%D8%B1-%D8%AA%D9%85%D8%AB%D9%8A%D9%84%D9%8A%D8%A9-%D9%84%D9%85%D8%B9%D8%B0%D8%A8%D9%8A%D9%86-%D9%85%D9%86-%D8%A3%D8%AA%D8%A8%D8%A7%D8%B9-%D9%81%D8%A7%D9%84%D9%88%D9%86-%D9%81%D9%8A-%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D9%88%D9%84%D9%8A%D8%B3%D8%AA-%D9%84%D9%85%D8%B3%D9%84%D9%85%D8%A7%D8%AA\" target=\"_blank\"><span style=\"color:#3498db\">صور تمثيلية لمعذبات من أتباع فالون في الصين وليست لمسلمات</span></a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "",
+        "تدمر",
+        "سورية",
+        "العراق"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت حسابات وصفحات على موقع التواصل الاجتماعي فيسبوك، في اليومين الأخيرين، صورة قالت إنها لشبكة دعارة قبضت عليها الشرطة في إحدى قرى مدينة تدمر بسورية.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_d12cd4c6x.jpg\" style=\"height:163px; width:602px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_cbfz7rm3q.jpg\" style=\"height:202px; width:602px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 391,
+        "left": 3.10003662109375,
+        "path": "articles/1608299489Screenshot 2020-12-18 142138.jpg",
+        "top": 3.3251953125,
+        "totalHeight": 423,
+        "totalWidth": 705,
+        "watermark_path": "articles/watermark-1608299489Screenshot 2020-12-18 142138.jpg",
+        "width": 695
+    },
+    "post_date": "2020-12-18T14:17:00.000+03:00",
+    "published": [
+        {
+            "id": "5fdcb3e0a47a7b30057e7843",
+            "link": "https://www.facebook.com/775395289265080/photos/basw.Abo4S9p2W96SbiuBrCmQo_iO7KBki_QfJQ7tWLYQzpy8-4tPP9xzAEmTJibZ6BGVhLVjRFMjF8kwQSyI44J5fURD8FNmlEw1M0rWtxK4B9X3MNryZoOKZDsGkTL6IvqK9XTdbtuGIk526uAXSztEra3xCRS7-G0U5gTlAkBRfiOkYdY_8xWxK-dUX_obVPf3quJnG6YiRQ31HE0CP2YPKlMzcL8gQdcXw_9FacRN2Nt4EMtgn_A0AbB8TtXkO2khA_M/1951127945025136/?opaqueCursor=AbrfP1IsOF455R9TpH-CXlDr4Cyk-iDJJvtOh-V7xuAFmXtAzpm63d3B6hJb7bpSEC_lKGe0ceW-Zzz4cIZGBSmrNqmqsn-UAJesFobrlPF8IiZjdePqBfir9z3PPzkhWaaG0HoQwS51BOt3UYYxQMlVScdxr4GkWHM9iSbZ9w_egW-ctuqS_3slZ7oQuVSV-2bCGdOHkqY6673vgpM-T3UsAkuTIfFtYdVtpDC06DYwPgHg2a8EqNZjNA8RApioJtTCSNjYS6Y2i2MYA2YxO7u2sJnDzKYoAshy2_yjcNFasnS0f0oDEgDXRApGhXMhjBAltVRRok3PBm6HNmmNZ2BgfeLAJff83_7XYj03x_M_7anUJ_d0zmfFMfNBNO7XNNp3xa5hlTZX10M8IdZORlWVp5ZlKpEuWM4WC5kLKDhKemRJmwWMV7GyLCYfuAByjaZedljDTK_BEh5lXwg5n8vKm_pUMcMp4oXQRQmoJR3M-CwOsniw9f4PV786SbBgkrt6wYNDfc4SSklJeCqWLpjteaiBKYJURNdi4pp4RDCxRuonTXAvqGqyh2jis7CBWQiKYlqmmZK6y9c_tt2GYGkVrllfuBqlI2T32sSJY2DvwLTXhRgkN8SneRTiadPGrxsMjgZApMWuvg4oixPqnzF9SM_w0gyf_Y2RujTq5QlXnWJtl9_jJZMzWDctmGZS6GE40Yt7R1cO3XKti3w6-WBEYYBGMmnlnhoaDt-I0Y75-_oLGkrwi1qu-oHSOkrHeUE",
+            "name": "بكرا . احلى",
+            "origin": "facebook",
+            "path": "sources/e4db03741f00749f1f9c8e33416e6421d276b757.jpg"
+        },
+        {
+            "id": "5fdcb3e0acdee87ab86df998",
+            "link": "https://www.facebook.com/photo/?fbid=2890984697804910&set=basw.AbqejfHhhpyXfw5lL8dcRKMvB1s4TXkMHW_htdXt-jHO4z5P7IMXNWaiEDjx40lxR5uSefBBip_Or1TOBujeMKq7PIANxB95baekj19EAM3Mtjfh4Rmf4LadVHzO6ISGRTjGQIjreZiuHKTQxsfLz3AInjlkGDllCzbjdmr1j0CFuZELUlvMWP_5qKBBVIJ-jHQNmPjQlVCXeb0RcXicnuK8MRR5u1-nMlpq_1ElQNmP-4HGpyQ8-pm5nkKUbH7kkSc&opaqueCursor=AbqZ2wu7OhGLBS5LBuTBimuzjs8ppt_-Stzt-Po0EMxlfs4pWOd2yEgkaA0kfLkglwJYmVm9ENJdA_e2D1hZV6G6UC6Ns8M1u1HVomkCWLrpq0ZOT8ADETFNyoNJEpenUpJBoCwQsoe96A789whquecZLluwm-yWp9PS-xM9zS1ZQf2SLbmWBBQD07kYbA3W9vK5d84ZcjbcSqlMeQn7-ilJT_fnE3cGtFhZQUecxUxpNn9p8zIUMnSv0YLYSrabwvvFrLm38TwCCZSdJhUUonAF4cMboMcQa8Q_L2WFqDCF_3TLIZ6pFu1-9hvng5RqP7NRV8-Z2kdz6_Um80gCZSV1rkFLelyECwMYsWe2nbQ-6y_8rE1ZQu9XxYm25SQp8EiD_nrbR40gQ8lIXzZjnW8C9PDlaSOM-ko_f4nTE-wT8fSb9TJUEg79HdkDckrhb21uRpC1AwzdjRA2e0Sg5oBJ_68bTM1zJiRlivnLH-XsuC-rZBehus0iZq-E4vX9TH3zJv9E8Ys4J03RQ1MIJJYA2iPychQfiPTZyB8eYmtQJMhQMQuAOQvKVfxKusBiLRlAka4Tf85YX_v766Q0X8JEdwOrrV6rCTBtKBLFoqR6YDc2yCI0SUILcC3c5GwaPSi6lZ2s7PAX9ZhaqFw9MKE61SfssKK_C-BXkJfkSZXK83XdL8jUQGm8gO4qxdJNu5PFU6EGkVLuB9iF0DQuaOj7xtY4SBH-8ILoOKOQiyg7LQ",
+            "name": "Jamal F Ghanem",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5fdcb3e0bd1df429d336900a",
+            "link": "https://www.facebook.com/ashiqatha.farahalt.ya.klu.aleumr.mylife/photos/basw.AbqAF_TEO6H3CmQFKDK8wuemTuxeViuqdQBOsjHKL2otQCVvMO9NCdqeZf6RcqRG112I5kNNs-g5xhB50jpvp2FvZf9nZSKtw8huI3zvBAFssf3UXQL8f9e_RGte92tSJpACOLUXczJJusWob7Msl_88NwX3UtFzwH5GmuoCH0wKkt46aN2Za-EZAsgTKst_hlIq8vaobKP-BdxGtJK_FgsizNXDzDiei4to5FBuuXU8Qxd7ZyfiMn-yOhYGlYLwABQ/756670255267558/?opaqueCursor=Aboy4Wk0NLtTuTpaZBgTaccwFTTTo9gNqZj6hx_6g--t79cXL9_8bthZIUFkxbF7PQPLmocdI0aSoZDZP1qZj3EohVk727XsYelCdJFCUHvQwjQo_FycQ6D6rIymcfnBlNT6dQyjXrH6A5gXJBkJEhDaVPJOQx1upuNNp1TD1Wao_kl5MAa7R0APMqenMkFZly3ncvjO7fqI2l45yWibojZYPBG721gZHxrappLlal0ScLoinYReWzYT-KZx2rCFQ2yTqsMxV_PkspLPzMj-WSwzcNoQzQXvXhOqTJ_mhLNHep1OyU9tu6tQBmasqvwUuvb2pnCNpscVtJqb823gpCPBnL66fygYgRwbfrbYM5IHDlIyD-4lcjaaZgIuA6sG8_AnGuM7N-RIlQUWjc19t6ZHvlsCalqyrBck6QPqzl_pWPMlVs8Zzs3g2fphROxfqkzpwgprmC-aQy4I9b6LYr6-T61IMcyhZtrW82pxGH5DCxVCxKyEuDetrdeh-zoa7UZXC5_xHRY5qThxkaCKopc4ZTtceQQY-pm0G_9HrJN2_fdoX5zJznVubgMIriFFoVm-gj04q3x_DAhGJlhZv_dciDMB4d8yplNqFEtoJedHgoZctjcACfO_WIXin6AT8-yuchnitvfH6RoU4u0kssSkhBz0E7mx8cqhOaCcZOvfWWYuLXlP8Xno1FnqhNGzkharsRJsIxVqpQ1GwesLKemc",
+            "name": "عشقتها فرحلت يا كل العمر My Life",
+            "origin": "facebook",
+            "path": "sources/0b2935dc1e9ec7e86334abfa7a15499131a68fb4.jpg"
+        },
+        {
+            "id": "5fdcb3e05710772a4403fc9c",
+            "link": "https://www.facebook.com/221204488612224/photos/basw.AbrrQiTOcfVr42LXlv1xDwel5eJwNHUIbzXxQRiRMyApdghMAQhEPl3OWMV1n5jVSbuqlUmt_QPiRhsMttqgGrvHmzhjh8qRjm4_aRiCw-H1ahxPgULY_920ID15vwUEYyC3IIH4Z6Dcwhae87Hks617neeFs1AOdUpM77fk5FRLoajxK28ELiuAoW8jAxatTqdbIkBKmaApzXwuWGmrBzRwOcQgaTN5JVKRr6xYVQzbcLJJzlPStzzZ7zmGx61JfKg/817346445664689/?opaqueCursor=AbrtfbbrlNBotjRiz2lj7EyFUTY6-GsIJsMbPnSIR1ZjtbF7ztqGYyhAaAY4ByKscOs9KFRwGxuBi0xEvAlYQKfEEwIHFBK6hp2jUFvk4j4HClRrBInJJP8yA8Gng47g3GL-iRVu1RhQydXwF6EJth-O_eZlIiao9_uYzksNnRUC1x7WVTjILSIdCy77MjTVF-1l5A8aIncHHCPLfK89IR-IMgsY3sh7_sqjHGHiCrU0nFMPWZzS_ybF0X3xshXqc2NAcDdF8hi8D1D24fxzfi1CrK__TCbiMefUrQq2P-8UZIQ5N6BQuOqbC0x7KFq-J11LBkS0Zd3RZuwFozrdV-u-LsagTsjo8usR6DT1T0I3gXBeuPzuxBO1b5_FOgKWL4Kd0yCA6M-7CqPglnhYkWICZ5GwNOQZGcArrVI6lQMQ0KwO0nbn-uVfdk-XE173Uly1CDd_BQmsLzhqpIEXgF0rW9yNjLUJkUuEejQSeWPUSMk1kplGzXIX_rf4gKxu9oX4eV5zn-EzVjhwv1C3RI-hlFNWH53k9OcZ9j8V6IcD2weE2TvaWlL0luAwKpE4O3mG6qQwG8IFQ8uVK0aXlBKakEkiXVT4-w0H6GqbVRSOOOkVxKdxaKViy7AxdvsSD7nUvqPjlowwe0pM85KyGy-5LS0V7VjapeF0olkzA3y-anNfaYjZqjCSvxGB-3uBuo4",
+            "name": "سلوفان",
+            "origin": "facebook",
+            "path": "sources/f5976b7de716c42608ab98129aa4183eab08ea9a.jpg"
+        },
+        {
+            "id": "5fdcb3e163008762ad2ae19e",
+            "link": "https://www.facebook.com/SalimLawOffice/photos/basw.AboNT1xktBZfcZqseVxcek7-04F0He3w3E-8_gMviyOWYX9B0WplwKSUp28P8G85SLZtH5zFBboc68nRhEF5Wh6WlN6SSVV93ue4daLXD2GEsP1gvF8dzKsVvNeL45vxgwaGv5IxMkDnKKdoW24Ihi-3rAN-DTsws8n7seaMtdDRQ3RMXAR53BK03WXN4cB1EDwT529AFjynygtVmt5GPcyw1waxj_M19d43zu_fMs9G1KM9fnWJ-7dkC4BeBor1Pns/239023790977422/?opaqueCursor=AbrtDLuaOmEE9S54ZB6SnEHqWnwEB1x8OuvDCvtMGYtr8TMV3ddi2d9PKW-1V9ZlCUz4VbuBu4iyjWzaDNRC6w_13JptO3E77KYf-qqwdtS9kjx329FsIsx931RuJlgucABVQCYCYbW8hC7GdqjGDFewqGKcDXYRPuIG7ViOC4N8Upw5QBkg1DVvv2Hl_jADnoM4ZTdEqIrjBkdhz_90fZWzDG1MvHX1yXSvqqoksu_wboZxugCNPW-6dJz1nD676rPUKAL72oYzIR4jWgacUWb1Z2b03IvgjK0CbezhXcZVPsO5cWgg3YKgUwr7nYz1oYVubc64Tq_HyVI48pFxnrQA2PvUyKOKWKWAWr7TkYBghI7cGxxD2OzY8CmVVtF3BvVsL5HVzP2oRBDyduGnBQE5kPtGukZbLpxscBe20riYAmKvZtJx0lEi3cPPuZKlSpPJ-FeEl2R9-6mqVtjP8PSzzWdVmkq6b1JaKvSJ8NFiJu4dNfjPbUXWslYnddEv-Sp4wDUU-lcxB5USswIFHHKXSio4EpVSUzBy8QzHkHvHDRj38nNEkh-zn7oANKl-zqIRex3sMnadBC4RFgoroHiriuB4zWhMjHMOvEWY5GnFqk8l3rBXilHF-L5WcaK0HMFuJK5wE0aFz6WfRRuRW2IeZnmKIDiCx7iDMoSwfu-6muFZLo8fIjIqBJfAB2aaWpo",
+            "name": "المحامي أنس بهجت سليم",
+            "origin": "facebook",
+            "path": "sources/8d641b62b16af22ad96afd0646df02d6cffa1de2.jpg"
+        },
+        {
+            "id": "5fdcb6d688af093e6d23ee64",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=3620960157942292&id=411101375594869",
+            "name": "كشكول",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fa6ad9c5fce0157db5594a0",
+            "link": "https://www.rudaw.net/arabic/kurdistan/180720172",
+            "name": "www.rudaw.net",
+            "origin": "",
+            "path": "sources/76821f45292804a661258ea26132d5a9474fdda1.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصورة ليست في تدمر السورية بل في العراق",
+    "updated_at": "2020-12-18 19:54:49",
+    "url_path": "/factcheck/2020/12/18/هذه-الصورة-ليست-في-تدمر-بسورية-بل-في-العراق",
+    "was_notification_pushed": true
+}

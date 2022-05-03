@@ -1,0 +1,98 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 14297,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "الصورة قديمة تعود إلى يونيو 2008 (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة لرئيس النظام السوري بشار الأسد وهو يبحث عن علاج لفايروس كورونا المستجد.</p>\r\n",
+    "country": "SY",
+    "created_at": "2020-04-13 15:18:07",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e94587fdb291678b32c6a85",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الادعاء ووجد أنه غير صحيح، إذ إن الصورة المتداولة قديمة وتعود إلى حزيران/يونيو 2008، والتُقطت أثناء زيارة بشار الأسد لمستشفىً للعيون في مطار حلب الدولي. المستشفى كان عبارة عن طائرة مجهزة بمعدات طبية، وتتبع منظمة أوربس الخيرية، التي تتخذ من الولايات المتحدة الأميركية مقراً رئيسياً لها.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_it4t4w0by.jpg\" style=\"height:267px; width:554px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت حسابات وصفحات على وسائل التواصل الاجتماعي صورة لرئيس النظام السوري بشار الأسد، ادّعت أنها تصوّره وهو يجري بحثاً لاكتشاف علاج لفايروس كورونا، وذلل قبل أن ينتشر بين أفراد الشعب السوري، وجاء في المنشور المرافق للصورة أنّ بشار الأسد توصّل إلى نتائج هامة سيفاجئ بها العالم بأسره.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"513\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D2958040560885165%26id%3D1703519809670586&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"532\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ffarek.garamana%2Fposts%2F2687112511507526&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"513\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FAlkaboNews%2Fposts%2F1225356751000268&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 353,
+        "left": 1.87939453125,
+        "path": "articles/1586780285GettyImages-1208078285.jpg",
+        "top": 69.6142578125,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1586780285GettyImages-1208078285.jpg",
+        "width": 628
+    },
+    "post_date": "2020-04-13T14:58:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/1703519809670586/photos/a.1703523079670259/2958040494218505/?type=3&theater",
+            "name": "طقس دمشق لحظة بلحظة",
+            "path": "published/0_1586780285_طقس دمشق لحظة بلحظة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=145418260326751&set=pcb.1492626757572705&type=3&theater&ifg=1",
+            "name": "لؤي السويلم",
+            "path": "published/1_1586780285_لؤي سويلم.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/farek.garamana/posts/2687112511507526",
+            "name": "شبكة دمشق عاجل",
+            "path": "published/2_1586780285_شبكة دمشق عاجل.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/AlkaboNews/photos/a.232056040330349/1225356624333614/?type=3&theater",
+            "name": "شبكة أخبار اللاذقية جبلة القرداحة قبو العوامية",
+            "path": "published/3_1586780285_شبكة أخبار اللاذقية جبلة القرداحة قبو العوامية.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/111421890471655/photos/a.111459107134600/126284002318777/?type=3&theater",
+            "name": "ميكسات سوريا",
+            "path": "published/4_1586780285_ميكسات سوريا.jpg"
+        },
+        {
+            "link": "https://twitter.com/d8aOX7K1sQlqRfZ/status/1247883002220183552",
+            "name": "شمس",
+            "path": "published/5_1586780285_شمس.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "http://esyria.sy/sites/code/index.php?site=aleppo&p=stories&category=news&filename=200806261315011",
+            "name": "ESyria",
+            "path": "sources/0_1586780285_ESyria.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "بشار الأسد يبحث عن علاج لفايروس كورونا.. حقيقة الصورة",
+    "updated_at": "2020-09-25 22:01:22",
+    "url_path": "/factcheck/2020/04/13/بشار-الأسد-يبحث-عن-علاج-لفايروس-كورونا-حقيقة-الصورة"
+}

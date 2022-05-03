@@ -1,0 +1,121 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1055,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "تداول الإعلام الجزائري الخبر منذ 6 سبتمبر/أيلول (أيلول)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">اختفاء 30 ألف قنطار من القمح في محافظتي باجة و سليانة في تونس، وانتهى البحث إلى أن الحمام أكل المحصول.</span></p>\r\n",
+    "country": "TN",
+    "created_at": "2020-09-23 16:14:02",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 6,
+    "id": "5f6b4a1af5d5f717af304d54",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الادعاء وتبين أنه مضلل، إذ تداولت وسائل إعلام جزائرية خبر اختفاء 30 ألف قنطار من الحبوب في منطقة بلخير في محافظة قالمة وليس في تونس.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">وذكرت أنه بعد حوالي ثلاثة أشهر من التحقيقات المتواصلة، بخصوص اختفاء كميات من القمح اللين والقمح الصلب من مخازن التعاونية الفلاحية للحبوب والبقول الجافة في بلدية بلخير في قالمة، كشفت فرقة الأبحاث التابعة للدرك الوطني في المحافظة، عن وجود تلاعب وخروقات في نقل القمح، وأثبتت وجود نقص يقدر بحوالي 30 ألف قنطار. </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">ووفق البيان الذي نشرته المواقع الجزائرية مازالت الأبحاث جارية، ولم تذكر أن الحمام هو من أكل المحصول.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">وتواصل &quot;مسبار&quot; مع المدير العام لديوان الحبوب في تونس، توفيق السعيدي، الذي نفى الخبر وقال إنّه لا أساس له من الصحة. وأكد أن وسائل إعلام جزائرية نشرت الخبر ونسبته مواقع تونسية إلى ديوان الحبوب دون تثبت.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:black\"><img alt=\"11.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_12mkgb7gp.jpg\" style=\"height:460px; width:605px\" /></span></span></span></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات وحسابات على موقعي فيسبوك وتويتر، حديثاً، خبراً يدّعي اختفاء 30 ألف قنطار من القمح في محافظتي باجة والكاف في تونس. وذكرت الصفحات ذاتها أن التحقيقات أفضت بعد ثلاثة أشهر إلى أن الحمام أكل المحصول.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"00.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_5587p3rd6.jpg\" style=\"height:417px; width:602px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_i833zice4.jpg\" style=\"height:467px; width:500px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"0.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_ebha8qf78.jpg\" style=\"height:423px; width:561px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 314,
+        "left": 47.105224609375,
+        "path": "articles/1600866841استراد-القمح.jpg",
+        "top": 14.746826171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-1600866841استراد-القمح.jpg",
+        "width": 559
+    },
+    "post_date": "2020-09-23T13:52:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/groups/380155119250815/",
+            "name": "Rafaa Yahyaoui",
+            "path": "published/0_1600866840_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/MayAgrebi/status/1306583093583765504",
+            "name": "mariem agrebi",
+            "path": "published/1_1600866840_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/habet1987/status/1306579058940145666",
+            "name": "Hassen Bettaieb",
+            "path": "published/2_1600866840_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/concourstechnologue2013/photos/a.904942929658766/1717463628406688/",
+            "name": "Concours Technologue",
+            "path": "published/3_1600866840_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/espoir_dz1/status/1307645393048608768",
+            "name": "GⲈⲚⲦLⲈⲘⲀⲚ DŽ",
+            "path": "published/4_1600866840_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/MohamedHnid/status/1306204093120221185",
+            "name": "محمد هنيد",
+            "path": "published/5_1600866840_101195326_747056042707733_6451845424750788608_o.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://fibladi.com/news/%D8%A7%D9%83%D8%AA%D8%B4%D8%A7%D9%81-%D8%AB%D8%BA%D8%B1%D8%A9-%D8%A8%D8%A7%D8%B2%D9%8A%D8%AF-%D9%85%D9%86-30-%D8%A7%D9%84%D9%81-%D9%82%D9%86%D8%B7%D8%A7%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D9%82%D9%85-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1/",
+            "name": "fibladi",
+            "path": "sources/0_1600866841_téléchargement.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "http://essalamonline.com/%D8%A7%D9%83%D8%AA%D8%B4%D8%A7%D9%81-%D8%A7%D8%AE%D8%AA%D9%81%D8%A7%D8%A1-%D8%A3%D9%83%D8%AB%D8%B1-%D9%85%D9%86-30-%D8%A3%D9%84%D9%81-%D9%82%D9%86%D8%B7%D8%A7%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D9%82/",
+            "name": "السلام أون لاين",
+            "path": "sources/1_1600866841_4.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/www.oc.agrinet.tn",
+            "name": "ديوان الحبوب",
+            "path": "sources/2_1600866841_24231933_1984251698517240_4976412160117115393_n.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "قصة اختفاء 30 ألف قنطار من القمح في الجزائر وليست في تونس",
+    "updated_at": "2020-09-25 21:48:48",
+    "url_path": "/factcheck/2020/09/23/قصة-اختفاء-30-قنطارا-من-القمح-في-الجزائر-وليست-في-تونس",
+    "was_notification_pushed": "true"
+}

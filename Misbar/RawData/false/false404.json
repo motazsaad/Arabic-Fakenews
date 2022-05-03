@@ -1,0 +1,108 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 474,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "التغريدة مفبركة (تويتر)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">نانسي عجرم توجه رسالة شكر للشعب اليمني بعد تضامنه مع لبنان وتدعوهم إلى الاهتمام ببلدهم.</p>\r\n",
+    "country": "LB",
+    "created_at": "2020-08-07 22:10:21",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f2da71d602118076b0d544f",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق مسبار من المنشور ووجد أنه مفبرك، إذ أن الفنانة نانسي عجرم لم تنشر هذه الرسالة عبر&nbsp;حساباتها الرسمية على مواقع التواصل الاجتماعي،&nbsp;وبالتدقيق في طريقة صياغة المنشور&nbsp;اتضح أنه مفبرك.</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول حسابات وصفحات على مواقع التواصل الاجتماعي، منذ 6 أغسطس \\ آب الجاري، صورة ادعوا أنها منشوراً نشرته الفنانة اللبنانية نانسي عجرم على حسابها الخاص بموقع فيسبوك، شكرت من خلاله الشعب اليمني لتضامنه مع لبنان عقب انفجار مرفأ بيروت، ودعتهم إلى الاهتمام باليمن &quot;لأن ذلك سيكون أفضل لليمن وللبنان&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><span style=\"color:red\"><img alt=\"00.PNG\" id=\"Image_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/origin_akxog7843.jpg\" style=\"height:420.75pt; width:402.75pt\" /> </span></span></strong><br />\r\n<strong><span dir=\"LTR\"><span style=\"color:red\"><img alt=\"Capture.PNG\" id=\"Image_x0020_2\" src=\"https://images-prod.misbar.com/articlebody/origin_6m532bhzi.jpg\" style=\"height:333pt; width:374.25pt\" /> </span></span></strong><br />\r\n<strong><span dir=\"LTR\"><span style=\"color:red\"><img alt=\"0.PNG\" id=\"Image_x0020_5\" src=\"https://images-prod.misbar.com/articlebody/origin_pdewixlq2.jpg\" style=\"height:263.25pt; width:376.5pt\" /> </span></span></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 317,
+        "left": 6.549713134765625,
+        "path": "articles/1596827421Eej2F34WoAA7MzR.jpg",
+        "top": 14.903076171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-1596827421Eej2F34WoAA7MzR.jpg",
+        "width": 564
+    },
+    "post_date": "2020-08-07T19:51:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/Mtr_shb/status/1291516743056326658/photo/1",
+            "name": "سحابة الصحراء",
+            "path": "published/0_1596827420_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/talal.naji.14/posts/369170327398351",
+            "name": "طلال ناجي",
+            "path": "published/1_1596827420_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=164514221794916&id=100047090179533",
+            "name": "رمزي السريحي",
+            "path": "published/2_1596827420_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=3607487402614505&id=100000598421429",
+            "name": "عبد الله أحمد الفضلي",
+            "path": "published/3_1596827421_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": " https://www.facebook.com/permalink.php?story_fbid=727340354509387&id=100017002863359",
+            "name": "مفرمت الفوانيس",
+            "path": "published/4_1596827421_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": " https://www.facebook.com/permalink.php?story_fbid=189035115978872&id=100046171539581",
+            "name": "اسام عبده خالد",
+            "path": "published/5_1596827421_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://twitter.com/8usiOXhKQVJRSAo/status/1291763494740729858",
+            "name": "أبو الليث المصرعي",
+            "path": "published/6_1596827421_101195326_747056042707733_6451845424750788608_o.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/NancyAjram/",
+            "name": "حساب نانسي عجرم على فيسبوك",
+            "path": "sources/0_1596827421_KiHBuwbA_400x400 (1).jpg"
+        },
+        {
+            "link": "https://twitter.com/NancyAjram",
+            "name": "حساب نانسي عجرم على تويتر",
+            "path": "sources/1_1596827421_KiHBuwbA_400x400 (1).jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لم تطلب نانسي عجرم من اليمنيين الاهتمام ببلدهم عوضاً عن لبنان",
+    "updated_at": "2020-09-25 16:40:02",
+    "url_path": "/factcheck/2020/08/07/لم-تطلب-نانسي-عجرم-من-اليمنيين-الاهتمام-ببلدهم-عوضا-عن-لبنان"
+}

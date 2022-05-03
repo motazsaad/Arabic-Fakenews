@@ -1,0 +1,107 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 3125,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": " أعُلنت تلك الإجراءات العقابية من قبل إدارة العاصمة موسكو (الرئاسة الروسية)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">قال الرئيس الروسي فلاديمير بوتين في بيان رئاسي لمواطنيه لديكم الاختيار بين الحجر الصحي لمدة أسبوعين أو السجن خمس سنوات... انتهى نص البيان.</span></p>\r\n",
+    "country": "RU",
+    "created_at": "2020-03-21 19:37:29",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e7642c9d4a22925b16942f3",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تحرى &quot;مسبار&quot; الخبر فوجد أن عقوبة عدم الامتثال للحجر الصحي صحيحة، لكن الادعاء المتداول ينطوي على إثارة. إذ أنّ تلك الإجراءات العقابية أعُلنت من قبل إدارة العاصمة موسكو في الأسبوع الأول من مارس/آذار الجاري، ووجد &quot;مسبار&quot; نص تلك القرارات على <a href=\"https://www.mos.ru/en/city/projects/covid-19/\" style=\"color:blue; text-decoration:underline\">موقع إدارة العاصمة</a> موسكو كما نشرها موقع <a href=\"https://arabic.rt.com/russia/1092116-%D9%85%D9%88%D8%B3%D9%83%D9%88-%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83-%D9%86%D8%B8%D8%A7%D9%85-%D8%B9%D8%B2%D9%84-%D9%81%D9%8A%D8%B1%D9%88%D8%B3-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-%D9%8A%D8%B9%D8%A7%D9%82%D8%A8-%D8%B3%D8%AC%D9%86-5-%D8%B3%D9%86%D9%88%D8%A7%D8%AA/\" style=\"color:blue; text-decoration:underline\">روسيا اليوم</a> باللغة العربية.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_pbaclnnhk.jpg\" style=\"height:192px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">وطلبت إدارة العاصمة موسكو من جميع المسافرين القادمين عبر عدة دول حول العالم، تطبيق نظام عزل النفس الخاص (الحجر الصحي الطوعي) لمدة أسبوعين، ووفقاً للمنشور الخاص بالقرارات على موقع إدارة العاصمة،&nbsp;</span>فإن رفض الامتثال للحجر الصحي الطوعي يُحمِّل صاحبه عواقب جنائية ويمثّل انتهاكاً للقانون الجنائي للاتحاد الروسي الذي يعاقب كلّ من يخالف ذلك بفترة سجن قد&nbsp;تصل إلى خمس سنوات<span style=\"color:black\">. وبالرغم من وجود قرارات بمعاقبة رافضي الامتثال للحجر الطوعي إلا أن الرئيس الروسي فلاديمير بوتين&nbsp;لم يصدر <a href=\"http://en.kremlin.ru/events/president/news/63001\" style=\"color:blue; text-decoration:underline\">تصريحاً رسمياً</a> بالقرارات ولم يتحدث بلغة تهديد مع المواطنين، كما حاول البعض تصوير الأمر، إضافة لذلك فإن الحجر الصحي لا ينطبق على جميع المواطنين ولكنه يخص فقط المسافرين القادمين من دول ينتشر فيها فايروس كورونا المستجد (كوفيد-19).</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_c16jnz2lz.jpg\" style=\"height:151px; width:625px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تداول بعض مستخدمي مواقع التواصل الاجتماعي خبراً مفاده أن الرئيس الروسي فلاديمير بوتين أعلن في بيان رسمي أن المواطنين في روسيا أمام خيارين إما البقاء في الحجر الصحي لمدة 15 يوماً، أو السجن خمس سنوات لمن يخالف إجراءات الحجر الصحي. ويأتي هذا البيان المتداول في إطار خطة مواجهة روسيا الاتحادية لمنع انتشار فايروس كورونا المستجد (كوفيد-19).</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_l13a8vd9v.jpg\" style=\"height:456px; width:511px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_v7auitsuc.jpg\" style=\"height:120px; width:479px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 277,
+        "left": 33.48612976074219,
+        "path": "articles/1584808649ETUy22cXkAAFMip.jpg",
+        "top": 73.3984375,
+        "totalHeight": 384,
+        "totalWidth": 558,
+        "width": 491
+    },
+    "post_date": "2020-03-21T18:37:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/shixbolbol/photos/a.125829211314082/622993791597619/?type=3&theater",
+            "name": "Hotels Society",
+            "path": "published/0_1584809828_hotels-soceity-logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/AsmaaKhila74/status/1241073847941632012?s=20",
+            "name": "أسماء",
+            "path": "published/1_1584809828_أسماء-لوغو.jpg"
+        },
+        {
+            "link": "https://twitter.com/husseinshoboksh/status/1241051032052019201?s=20",
+            "name": "حسين شبكشي",
+            "path": "published/2_1584809828_حسين-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/t3rfcom/photos/a.1540751222811898/2891636247723382/?type=3&theater",
+            "name": "تعرف",
+            "path": "published/3_1584809828_تعرف-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ahmed.badreden/posts/2819354541482944",
+            "name": "أحمد بدر",
+            "path": "published/4_1584809828_أحمد-بدر-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Hadfna.News/photos/a.634274393330972/2883050498453339/?type=3&theater",
+            "name": "شبكة هدفنا الإخبارية",
+            "path": "published/5_1584809829_هدفنا-لوغو.jpg"
+        }
+    ],
+    "result": "commotion",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.mos.ru/en/city/projects/covid-19/",
+            "name": "الموقع الرسمي لعمدة موسكو",
+            "path": "sources/0_1584809828_موسكو-لوغو.jpg"
+        },
+        {
+            "link": "https://arabic.rt.com/russia/1092116-%D9%85%D9%88%D8%B3%D9%83%D9%88-%D8%A7%D9%86%D8%AA%D9%87%D8%A7%D9%83-%D9%86%D8%B8%D8%A7%D9%85-%D8%B9%D8%B2%D9%84-%D9%81%D9%8A%D8%B1%D9%88%D8%B3-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-%D9%8A%D8%B9%D8%A7%D9%82%D8%A8-%D8%B3%D8%AC%D9%86-5-%D8%B3%D9%86%D9%88%D8%A7%D8%AA/",
+            "name": "روسيا اليوم",
+            "path": "sources/1_1584809828_rt-logo.jpg"
+        },
+        {
+            "link": "http://en.kremlin.ru/",
+            "name": "President of Russia",
+            "path": "sources/2_1584808886_President of Russia.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "بوتين \"الحجر الصحي أسبوعين أو السجن 5 سنوات\".. حقيقة الخبر",
+    "updated_at": "2020-09-25 10:31:23",
+    "url_path": "/factcheck/2020/03/21/بوتين-الحجر-الصحي-أسبوعين-أو-السجن-5-سنوات--حقيقة-الخبر"
+}

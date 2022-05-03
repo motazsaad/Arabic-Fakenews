@@ -1,0 +1,98 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1271,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "خريطة وبائية لانتشار الفايروس في الضفة الغربية بما فيها القدس، وغزة (Palestinian Ministry of Health)",
+    "category": "Health",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">وزارة الصحة الفلسطينية تنشر خريطة مجتزأة لفلسطين بما يتناسب مع مستحقات صفقة القرن.</span></p>\r\n",
+    "country": "PS",
+    "created_at": "2020-05-30 16:01:55",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ed25943db291620130d08f6",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:#1c1e21\">تحقّق &quot;مسبار&quot; من الخبر ووجد أن هناك تضليلاً في تفسير الخارطة، فقد أوضح مدير دائرة الإعلام بوزارة الصحة الفلسطينية، محمد العواودة في صفحته على موقع فيسبوك قائلاً &quot;بخصوص اللوحة الظاهرة في الصورة، وما يُشاع حول أنها خريطة فلسطين مجتزأة، فإننا نود الإشارة إلى أن هذه خريطة وبائية لانتشار الفايروس في الضفة الغربية بما فيها القدس، وقطاع غزة، وليست خريطة تاريخية أو سياسية، حيث تشير إلى عدد الإصابات في كل محافظة..&nbsp;وأي تأويل لها خارج هذا السياق غير صحيح&quot;.</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:#1c1e21\">وقال العواودة في تصريح خاص لـ&quot;مسبار&quot;&nbsp;أن &quot;الخريطة توضح أماكن توزيع الإصابات داخل محافظات الضفة الغربية والقدس وقطاع غزة، وبالتأكيد لن تظهر القدس في خريطة صفقة القرن&quot;، مبيناً&nbsp;</span></span><span style=\"background-color:white\"><span style=\"color:#1c1e21\">أن اللوحة متواجدة دائماً&nbsp;بمكتب الوزيرة، ولم يتم وضعها خصيصاً لهذا اللقاء، بل ظهرت في أكثر من صورة لأكثر من حدث واجتماع.</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"background-color:white\"><span dir=\"LTR\"><span style=\"color:#1c1e21\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_80ccahcrc.jpg\" style=\"height:574px; width:514px\" /></span></span></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت حساباتٌ على موقعيّ فيسبوك وتويتر، بتاريخ 27 مايو/أيار الجاري، صورةً لوزيرة الصحة الفلسطينية د,مي كيلة&nbsp;في مكتبها&nbsp;بالوزارة خلال اجتماعها مع مدير مكتب الصحة العالمية في فلسطين حيرالد روكنشواب، وفي الخلفية لوحة لخريطة دون توضيح طبيعتها، ما جعل بعض من مستخدمي وسائل التواصل الاجتماعي مهاجمة الوزارة والعاملين فيها، باعتبار أنهم يستخدمون خريطة مجتزأة لفلسطين تتناسب مع متطلبات صفقة القرن.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"background-color:white\"><img src=\"https://images-prod.misbar.com/articlebody/origin_0yup7w9xu.jpg\" style=\"height:657px; width:492px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_s2ai3tw55.jpg\" style=\"height:681px; width:475px\" />&nbsp;&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_94z96gr35.jpg\" style=\"height:686px; width:594px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_491rfor8r.jpg\" style=\"height:689px; width:564px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_qesjdo2m3.jpg\" style=\"height:675px; width:579px\" />&nbsp;</span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 313,
+        "left": 5.416748046875,
+        "path": "articles/159084371499136726_1637372249752817_1499438576989896704_o.jpg",
+        "top": 36.015625,
+        "totalHeight": 423,
+        "totalWidth": 564,
+        "watermark_path": "articles/watermark-159084371499136726_1637372249752817_1499438576989896704_o.jpg",
+        "width": 555
+    },
+    "post_date": "2020-05-30T13:34:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/alhag20/photos/a.107096301007007/120123733037597/?type=3&theater",
+            "name": "الحج مش هيك",
+            "path": "published/0_1590843714_97246861_107043527678951_2145902223861743616_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ahmed.alkhairy/posts/10158520942622292",
+            "name": "Ahmed Alkhairy",
+            "path": "published/1_1590843714_احمد الكيري.JPG"
+        },
+        {
+            "link": "https://twitter.com/MahmoudZiad98/status/1265757164259479552",
+            "name": "محمود زياد عليوة",
+            "path": "published/2_1590843714_RKKZunFH_400x400.jpg"
+        },
+        {
+            "link": "https://twitter.com/wSeemsalem/status/1265743704255606784",
+            "name": " Waseem salem",
+            "path": "published/3_1590843714_z12UIcze_400x400.jpg"
+        },
+        {
+            "link": "https://twitter.com/tayeb__randa/status/1265743166285795331",
+            "name": " Randa Tayeb",
+            "path": "published/4_1590843714_IcO9nDYZ_400x400.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=1637372246419484&set=a.369153489908039&type=3&theater",
+            "name": "Mohammed Alawawda",
+            "path": "sources/0_1590843714_49195141_1201731509983562_5734611793561518080_o.jpg"
+        },
+        {
+            "link": "http://site.moh.ps/",
+            "name": "وزارة الصحة الفلسطينية",
+            "path": "sources/1_1590845023_وزارة صحة.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه ليست خريطة لفلسطين، بل لأماكن توزيع مصابي كورونا ",
+    "updated_at": "2020-09-25 17:30:53",
+    "url_path": "/factcheck/2020/05/30/هذه-ليست-خريطة-فلسطين-التاريخية-بل-أماكن-مصابي-كورونا"
+}

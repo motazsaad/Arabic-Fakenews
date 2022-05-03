@@ -1,0 +1,124 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 3729,
+    "author": {
+        "fullname": "خالد إسماعيل",
+        "id": "5e59256dd4a2295224257db3",
+        "photo": {
+            "name": "1582900589_صورة 2.jpg",
+            "path": "authors/1582900589_صورة 2.jpg"
+        }
+    },
+    "caption": "الصورة من فيلم يُحاكي اغتيال جون كينيدي (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\"><span style=\"background-color:white\"><span style=\"color:black\">صورة جاكلين كينيدي، زوجة الرئيس الأميركي الراحل جون كينيدي، وهي تحاول القفز من السيارة بعد اغتياله.</span></span></p>\r\n",
+    "country": "",
+    "created_at": "2020-05-10 22:17:02",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eb8532edb291639704cb644",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تحقّق &quot;مسبار&quot; من الصورة والإدعاء المُرفق لها وتبين بأنهما زائفين. إذ أنّ الصورة المتداولة تعود لمشاهد فيلم يحاكي اغتيال كينيدي بعنوان </span><span dir=\"LTR\"><span style=\"color:black\">&ldquo;The Trial of Lee Harvey&rdquo;</span></span><span style=\"color:black\"> والذي أنتج في عام 1977. فالمرأة التي تظهر في الصورة هي الممثلة كريستين روز التي مثّلت دور جاكلين كينيدي.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">أما بخصوص القصّة الحقيقية للمشهد، فوفق شهادة العميل السري كلينت هيلوتفسير، قفزت جاكلين كينيدي نحو مؤخرة السيارة من أجل الوصول إلى أشلاء من جمجمة الرئيس كينيدي.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_lg8tv7ro1.jpg\" style=\"height:520px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_goctqepex.jpg\" style=\"height:477px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_rd6wimr12.jpg\" style=\"height:573px; width:623px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": false,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تتداول حسابات وصفحات بين فترة وأخرى، عبر موقعيّ التواصل الاجتماعي فيسبوك وتويتر،&nbsp;صورةً&nbsp;لسيدة تقفز من إحدى السيارات المكشوفة بينما يجلس بداخلها رجل ملقى على مقاعدها. وادّعى الناشرون على أن الصورة تعود لجاكلين كينيدي، زوجة الرئيس الاميركي الراحل الذي تم اغتياله بالرصاص عام 1963.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_clp2yr9p6.jpg\" style=\"height:838px; width:552px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_x2v5dx9u4.jpg\" style=\"height:648px; width:552px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_0in3l57la.jpg\" style=\"height:849px; width:497px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_0xk8n7v37.jpg\" style=\"height:634px; width:571px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 141,
+        "left": 3.5531005859375,
+        "path": "articles/1589138221GettyImages-515169812.jpg",
+        "top": 34.07958984375,
+        "totalHeight": 188,
+        "totalWidth": 254,
+        "watermark_path": "articles/watermark-1589138221GettyImages-515169812.jpg",
+        "width": 250
+    },
+    "post_date": "2020-05-11T10:08:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=614590759129391&set=gm.661556678114491&type=3&theater&ifg=1",
+            "name": "عمر الأسود ",
+            "path": "published/0_1589138220_عمر الأسود.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ahkamfilhayat/photos/a.881564798583003/3722965054442949/?type=3&theater",
+            "name": "أحكام جميلة في الحياة",
+            "path": "published/1_1589138220_احكام جميلة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/109994260443390/photos/a.111047713671378/226995152076633/?type=3&theater",
+            "name": "اَلْمٌتَمَرِدْ",
+            "path": "published/2_1589138220_المتمرد.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=518138915735370&set=p.518138915735370&type=1&theater",
+            "name": "‎Amine Líder‎",
+            "path": "published/3_1589138220_amine lider.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=2858132794294014&set=gm.1675442932627124&type=3&theater&ifg=1",
+            "name": "Mohamed khalil Khalil Abdalkalik",
+            "path": "published/4_1589138221_khalil khalil.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=545766106349502&set=p.545766106349502&type=1&theater",
+            "name": "يامن حمدان",
+            "path": "published/5_1589138221_يامن حمدان.jpg"
+        },
+        {
+            "link": "https://twitter.com/SumayaRashidi/status/1211478494057766912",
+            "name": "آلراشديةٰ••",
+            "path": "published/6_1589138221_الراشدية.jpg"
+        },
+        {
+            "link": "http://www.soutalomma.com/Article/716215/%D9%81%D9%89-%D8%B0%D9%83%D8%B1%D9%89-%D8%A7%D8%BA%D8%AA%D9%8A%D8%A7%D9%84%D9%87-%D8%A3%D9%8A%D9%86-%D8%B0%D9%87%D8%A8%D8%AA-%D8%B2%D9%88%D8%AC%D8%A9-%D8%AC%D9%88%D9%86-%D9%83%D9%8A%D9%86%D9%8A%D8%AF%D9%89",
+            "name": "صوت الأمة",
+            "path": "published/7_1589138221_صوت الأمة.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.upi.com/News_Photos/view/upi/4007c694941af06bda6f0f721d0ec8a2/John-F-Kennedy-Assassination-Reenactment-in-Houston-TX/",
+            "name": "UPI",
+            "path": "sources/0_1589138221_UPI.jpg"
+        },
+        {
+            "link": "https://www.imdb.com/title/tt0076841/?ref_=ttfc_fc_tt",
+            "name": "IMDB",
+            "path": "sources/1_1589138221_IMDB.jpg"
+        },
+        {
+            "link": "https://www.ranker.com/list/events-directly-after-jfk-slaying/philgibbons",
+            "name": "Ranker",
+            "path": "sources/2_1589138221_ranker.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=vzYwCmDDSLA",
+            "name": "Valuetainment",
+            "path": "sources/3_1589138221_Valuetainment.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصورة لحظة اغتيال جون كيندي.. لكنها تمثيل من فيلم",
+    "updated_at": "2020-09-25 15:49:06",
+    "url_path": "/factcheck/2020/05/10/هذه-الصورة-ليست-لزوجة-الرئيس-الاميركي-السابق-جون-كينيدي"
+}

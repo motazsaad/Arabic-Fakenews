@@ -1,0 +1,108 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 417,
+    "author": {
+        "fullname": "مريم هواري",
+        "id": "5e299460d4a22939983a3ec5",
+        "photo": {
+            "path": "authors/1579791192_Maryam.jpg"
+        }
+    },
+    "caption": "هنالك 5 إصابات بكورونا في غزّة حتى الآن (Getty)",
+    "category": "Health",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">ذكرت القناة 12 &quot;الإسرائيلية&quot; أن في قطاع غزّة يُديرون أزمة كورونا بشكل أفضل من &quot;إسرائيل&quot;.</p>\r\n",
+    "country": "IL",
+    "created_at": "2020-07-20 13:44:40",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f157598163be306493b697e",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الادّعاء زائف. فبالعودة إلى النشرات الإخبارية والتقارير الصحفيّة لقناة 12 &quot;الإسرائيلية&quot; لم يجد &quot;مسبار&quot; الادّعاء المتداول. وقد أعلنت وزارة الصحّة الفلسطينية بتاريخ 20 يوليو/تموز الجاري، تسجيل حالتي إصابة جديدتين بفايروس كورونا في قطاع غزّة، ممّا رفع عدد الإصابات إلى خمسة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وتجدر الإشارة إلى أنّه <a href=\"http://www.alaraby.co.uk/%D8%A5%D8%BA%D9%84%D8%A7%D9%82-50-%D9%85%D8%B5%D9%86%D8%B9%D8%A7%D9%8B-%D9%81%D9%8A-%D8%BA%D8%B2%D8%A9-%D9%85%D9%86%D8%B0-%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9-%D8%A3%D8%B2%D9%85%D8%A9-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7\"><span style=\"color:#e74c3c\">اُغلق </span></a>قرابة 50 مصنعاً وتسريح أربعة آلاف عامل في قطاع غزّة منذ بداية أزمة كورونا.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_6e2ykk3is.jpg\" style=\"height:770px; width:558px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">تداولت مواقع إخبارية فلسطينية خبراً بتاريخ 18 يوليو/تموز الجاري، أن قناة 12 الإخبارية &quot;الإسرائيلية&quot; ذكرت بتقريرٍ لها أن مسؤولي الصحّة في قطاع غزّة يُديرون أزمة تفشّي فايروس كورونا المستجد بشكلٍ أفضل من حكومة رئيس وزراء دولة الاحتلال، بنيامين نتنياهو. وادّعى&nbsp;أحد المواقع أن التصريح منقول عن الصحفي &quot;الإسرائيلي&quot; في القناة 12، نير دفوري.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_664p0vetv.jpg\" style=\"height:762px; width:474px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_uub0o0g4y.jpg\" style=\"height:569px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_f5228vz3a.jpg\" style=\"height:671px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ysegbrgud.jpg\" style=\"height:555px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_jtu3g4wtk.jpg\" style=\"height:864px; width:593px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 142,
+        "left": 2.930023193359375,
+        "path": "articles/1595241879GettyImages-1227680639.jpg",
+        "top": 26.36328125,
+        "totalHeight": 172,
+        "totalWidth": 258,
+        "watermark_path": "articles/watermark-1595241879GettyImages-1227680639.jpg",
+        "width": 254
+    },
+    "post_date": "2020-07-20T13:38:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.alwatanvoice.com/arabic/news/2020/07/18/1353440.html",
+            "name": "دنيا الوطن",
+            "path": "published/0_1595241878_دنيا الوطن.jpg"
+        },
+        {
+            "link": "https://shms.ps/post/102898/%D9%82%D9%86%D8%A7%D8%A9-%D8%B9%D8%A8%D8%B1%D9%8A%D8%A9-%D8%BA%D8%B2%D8%A9-%D8%AA-%D8%AF%D9%8A%D8%B1-%D8%A3%D8%B2%D9%85%D8%A9-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-%D8%A3%D9%81%D8%B6%D9%84-%D9%85%D9%86-%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88",
+            "name": "وكالة شمس نيوز",
+            "path": "published/1_1595241879_شمس نيوز.jpg"
+        },
+        {
+            "link": "https://www.sadanews.ps/news/63976.html",
+            "name": "صدى نيوز",
+            "path": "published/2_1595241879_صدى نيوز.jpg"
+        },
+        {
+            "link": "https://nn.ps/news/israil/2020/07/18/319691/",
+            "name": "النجاح الإخباري",
+            "path": "published/3_1595241879_النجاح الاخباري.jpg"
+        },
+        {
+            "link": "https://palsawa.com/post/268909/%D9%82%D9%86%D8%A7%D8%A9-%D8%B9%D8%A8%D8%B1%D9%8A%D8%A9-%D8%BA%D8%B2%D8%A9-%D8%AA%D8%AF%D9%8A%D8%B1-%D8%A3%D8%B2%D9%85%D8%A9-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-%D8%A3%D9%81%D8%B6%D9%84-%D9%85%D9%86-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84",
+            "name": "وكالة سوا الإخبارية",
+            "path": "published/4_1595241879_وكالة سوا.jpg"
+        },
+        {
+            "link": "https://future-news.net/13279/%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%BA%D8%B2%D8%A9-%D8%A3/",
+            "name": "فيوتشر نيوز",
+            "path": "published/5_1595241879_فيوتشر نيوز.jpg"
+        },
+        {
+            "link": "https://samanews.ps/ar/post/425007/%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9-12-%D8%BA%D8%B2%D8%A9-%D8%AA%D8%AF%D9%8A%D8%B1-%D8%A7%D8%B2%D9%85%D8%A9-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-%D8%A8%D8%B4%D9%83%D9%84-%D8%A7%D9%81%D8%B6%D9%84-%D9%85%D9%86-%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D9%86%D8%AA%D9%86%D9%8A%D8%A7%D9%87%D9%88",
+            "name": "سما الإخبارية",
+            "path": "published/6_1595241879_سما.jpg"
+        },
+        {
+            "link": "https://aeine.news/2020/07/18/%D8%B5%D8%AD%D9%81%D9%8A-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%BA%D8%B2%D8%A9-%D8%AA%D9%8F%D8%AF%D9%8A%D8%B1-%D8%A3%D8%AD%D8%AF%D8%A7%D8%AB-%D9%81%D9%8A%D8%B1%D9%88%D8%B3-%D9%83%D9%88/",
+            "name": "عين",
+            "path": "published/7_1595241879_عين.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/mohps/posts/2987107114748480",
+            "name": "وزارة الصحّة الفلسطينية",
+            "path": "sources/0_1595241879_وزارة الصحة الفلسطينية.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "إعلام الاحتلال لم يذكُر أن غزة تُدير أزمة كورونا أفضل من \"إسرائيل\"",
+    "updated_at": "2020-09-25 06:48:06",
+    "url_path": "/factcheck/2020/07/20/إعلام-الاحتلال-لم-يذكر-أن-غزة-تدير-أزمة-كورونا-أفضل-من-إسرائيل"
+}

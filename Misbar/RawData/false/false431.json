@@ -1,0 +1,109 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 5869,
+    "author": {
+        "fullname": "خالد إسماعيل",
+        "id": "5e59256dd4a2295224257db3",
+        "photo": {
+            "name": "1582900589_صورة 2.jpg",
+            "path": "authors/1582900589_صورة 2.jpg"
+        }
+    },
+    "caption": " مصدر الفيديو سيول وفيضان وادي شرس في محافظة حجة اليمنية (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\"><span style=\"background-color:white\"><span style=\"color:black\">مقطع فيديو لغرق ثلاث قرى إثيوبية بالقرب من سد النهضة بسبب سوء الأحوال الجوية.</span></span></p>\r\n",
+    "country": "ET",
+    "created_at": "2020-07-31 16:03:53",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f2416b940466e071f4d30d4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\"><span style=\"color:black\">تحقق &quot;مسبار&quot; من المقطع المتداول والادعاء المصاحب له وتبين أنه زائف، فبالبحث عن أصل المقطع تبين أنه لا علاقة له بإثيوبيا، إذ أن مصدره سيول وفيضان وادي شرس في محافظة حجة اليمنية في أبريل/نيسان من عام 2016، وبالبحث عن أي أخبار تتعلق بحدوث فيضانات مؤخراً أدت لتضرر قرى إثيوبية لم نجد أي خبر من أي وسيلة إعلامية رسمية.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/Asbj_y2wH4c\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_8abo63b4u.jpg\" style=\"height:602px; width:624px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\"><span style=\"color:black\">تداولت حسابات وصفحات عبر مواقع التواصل الاجتماعي مقطعاً مصوراً يظهر فيضاناً شديداُ ومياهاً منحدرة جارفة، مدّعين أنه فيضان حدث بسبب سوء الأحوال الجويّة أغرق ثلاث قرى إثيوبية بالقرب من سد النهضة مؤخراً. </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_y6a9x7p7c.jpg\" style=\"height:523px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_t11rd7gne.jpg\" style=\"height:522px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_57xgpyjj5.jpg\" style=\"height:608px; width:624px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 148,
+        "left": 2.79669189453125,
+        "path": "articles/1596200633GettyImages-1192325440.jpg",
+        "top": 27.74072265625,
+        "totalHeight": 179,
+        "totalWidth": 268,
+        "watermark_path": "articles/watermark-1596200633GettyImages-1192325440.jpg",
+        "width": 262
+    },
+    "post_date": "2020-07-31T15:55:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/Egypt.News.313.2030/videos/635766104016492",
+            "name": "جمهورية مصر العربية العظمي",
+            "path": "published/0_1596200632_جمهورية مصر العربية.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/AhmedElthan20/videos/3186768638071445",
+            "name": "أحمد الطحان",
+            "path": "published/1_1596200632_احمد الطحان.jpg"
+        },
+        {
+            "link": "https://twitter.com/FatimaS07269762/status/1288715973814628352",
+            "name": "Fatma Saad",
+            "path": "published/2_1596200632_فاطمة سعد.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Sot.Elghalaba/videos/150060130069265",
+            "name": "صوت الغلابه ",
+            "path": "published/3_1596200632_صوت الغلابة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/106112044439898/videos/1011131272674508",
+            "name": "عاش الجيش المصري ",
+            "path": "published/4_1596200632_عاش الجيش المصري.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/oomarsolima/videos/806591199875848",
+            "name": "الصفحة الرسمية للواء عمر سليمان البديله ",
+            "path": "published/5_1596200632_سليمان البديلة.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.khabaragency.info/video3134.html",
+            "name": "وكالة خبر ",
+            "path": "sources/0_1596200632_خبر.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=Asbj_y2wH4c",
+            "name": "وكالة خبر اليمنية ",
+            "path": "sources/1_1596200633_وكالة خبر اليمينية.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=pOTljDNyXU8",
+            "name": " علي قيس القيسي",
+            "path": "sources/2_1596200633_علي قيس.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لم تغرق ثلاث قرى إثيوبية بالقرب من سد النهضة",
+    "updated_at": "2020-09-25 20:00:22",
+    "url_path": "/factcheck/2020/07/31/لم-تغرق-ثلاث-قرى-إثيوبية-بالقرب-من-سد-النهضة"
+}

@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1537,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الصورة تُظهر ملصق ترويجي لفيلم إسرائيلي من انتاج عام 2015 (Getty)",
+    "category": "Politics",
+    "claim": "<p>صورة تُظهر افتتاح سفارة إيران في &quot;إسرائيل&quot;، تحت مسمّى جمعية الصداقة الإيرانية الإسرائيلية.</p>\r\n",
+    "country": "IR",
+    "created_at": "2020-05-19 12:12:45",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ec3a30ddb291611aa6bcca4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة، وتأكد من عدم صحة الادعاء، فالصورة هي لملصق ترويجي لفيلم إسرائيلي من انتاج عام 2015 اسمه (الفلافل النوويّة)، وهو فيلم كوميدي تناول خطر اندلاع صراع عسكري نووي بين إيران ودولة الاحتلال. وتجدر الإشارة أنّ الصورة المضللة متداولة منذ عام 2015، وأعاد مستخدمون نشرها على وسائل التواصل الاجتماعي في شهر مايو/أيار الجاري.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><img src=\"https://images-prod.misbar.com/articlebody/investigation_w6f7y8erk.jpg\" style=\"height:812px; width:818px\" /></strong></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشر مستخدمون على موقع التواصل الاجتماعي فيسبوك، صورةً قالوا إنها تُظهر الاستعدادات لافتتاح السفارة الإيرانية في تل أبيب عاصمة دولة الاحتلال الإسرائيلي. الصورة تُظهر ملصقاً على أحد المباني لعلمي إيران وإسرائيل. &nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ja5s9xxy7.jpg\" style=\"height:745px; width:496px\" /></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"645\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D2370965339806629%26id%3D100006795573758&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"595\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmanhej%2Fposts%2F906529719415980&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 365,
+        "left": 0.888885498046875,
+        "path": "articles/1589879564GettyImages-485420752.jpg",
+        "top": 30,
+        "totalHeight": 423,
+        "totalWidth": 650,
+        "watermark_path": "articles/watermark-1589879564GettyImages-485420752.jpg",
+        "width": 649
+    },
+    "post_date": "2020-05-19T12:00:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/groups/2196047457140305/permalink/2999592656785777/",
+            "name": "Abdulrahman Algaradi",
+            "path": "published/0_1589879563_Abdulrahman Algaradi.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=949953722128643&id=100013420713270",
+            "name": "أحرار وزان",
+            "path": "published/1_1589879563_أحرار وزان.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/selaimane.guennouni.1/posts/2599533686987867",
+            "name": "منبر المظلومين",
+            "path": "published/2_1589879563_منبر المظلومين.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/284998865627610/permalink/630677727726387/",
+            "name": "خالد أبو نونة",
+            "path": "published/4_1589879563_خالد أبو نونة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/manhej/photos/a.616025341799754/906529719415980/?type=3&theater",
+            "name": "الردود القوية على الخوارج الغوية",
+            "path": "published/5_1589879564_الردود القوية على الخوارج الغوية.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=2370965309806632&set=a.1407387056164467&type=3&theater",
+            "name": "Waleed Alsallaq",
+            "path": "published/7_1589879564_Waleed Alsallaq.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.alarabiya.net/ar/last-page/2015/08/28/-%D8%A7%D9%84%D9%81%D9%84%D8%A7%D9%81%D9%84-%D8%A7%D9%84%D9%86%D9%88%D9%88%D9%8A-%D9%88%D8%B1%D8%A7%D8%A1-%D8%B3%D9%81%D8%A7%D8%B1%D8%A9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%A8%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84.html",
+            "name": "العربية",
+            "path": "sources/0_1589879564_العربية لوغو.jpg"
+        },
+        {
+            "link": "https://www.mc-doualiya.com/articles/20150828-%D9%81%D9%8A%D9%84%D9%85-%D9%83%D9%88%D9%85%D9%8A%D8%AF%D9%8A-%D8%A3%D8%AA%D9%88%D9%85%D9%8A%D9%83-%D9%81%D9%84%D8%A7%D9%81%D9%84-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D9%86%D8%AA%D9%8A%D9%86%D9%8A%D8%A7%D9%87%D9%88",
+            "name": "مونت كارلو الدولية",
+            "path": "sources/1_1589879564_مونت كارلو الدولية Monte Carlo Doualiya - logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "افتتاح السفارة الإيرانية في \"إسرائيل\".. ما قصة الصورة؟",
+    "updated_at": "2020-09-25 20:25:00",
+    "url_path": "/factcheck/2020/05/19/افتتاح-السفارة-الإيرانية-في-إسرائيل--ما-قصة-الصورة"
+}

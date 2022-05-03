@@ -1,0 +1,104 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 550,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "الفيديو هزلي مفبرك (يوتيوب)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">نائب مغربي يغني داخل البرلمان على بابي واقف قمرين.</p>\r\n",
+    "country": "MA",
+    "created_at": "2020-07-22 18:36:04",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 2,
+    "id": "5f185ce4163be306536fbbc7",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من مقطع الفيديو ووجد أنه مفبرك، نشر لأول مرة عام 2013، عبر حساب ساخر على موقع يوتيوب يعرف بـ &quot;<span dir=\"LTR\">URANUS-Media</span>&quot;. وكتب عليه &quot;فيديو هزلي مركب، يعكس صورة تقريبية لما وصل إليه حال النقاش السياسي داخل قبة البرلمان المغربي&quot;. واقتطعت المشاهد المضمنة في الفيديو من جلسة في البرلمان مع حكومة عبد الإله بن كيران.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/Ek3EBNhlTq8\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وقد عُرف عن الحساب فبركته لمقاطع الفيديو في المغرب بغرض السخرية في مختلف المجالات.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/dfxT_yTG8tI\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات وحسابات على مواقع التواصل الاجتماعي، مؤخراً ومنذ سنوات، فيديو لنائب يغني بدلاً من إلقاء كلمته أمام رئيس الحكومة عبد الإله بن كيران ووزرائه داخل البرلمان. وأرفق الفيديو بتعليقات البعض منها ساخر.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"00.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_7gob25orz.jpg\" style=\"height:416px; width:519px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"0.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_80caga1io.jpg\" style=\"height:431px; width:500px\" /></span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/eUMvfYuR2Nk\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 279,
+        "left": 61.8399658203125,
+        "path": "articles/1595432164000.jpg",
+        "top": 71.909912109375,
+        "totalHeight": 423,
+        "totalWidth": 620,
+        "watermark_path": "articles/watermark-1595432164000.jpg",
+        "width": 496
+    },
+    "post_date": "2020-07-22T15:53:00.000+03:00",
+    "published": [
+        {
+            "link": " https://www.facebook.com/beduino.rosso.7/videos/1623495014535927/UzpfSTExMTI1Mzg3NTU1OTEyNToxODQ4NTIwMDk1MTY1ODE5/",
+            "name": "Michal Adawi",
+            "path": "published/0_1595432163_30729689_2052691058282985_816908796948381696_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/sawsen.benchewech/videos/971669346619177/?q=%D9%86%D8%A7%D8%A6%D8%A8%20%D9%85%D8%BA%D8%B1%D8%A8%D9%8A&epa=SEARCH_BOX",
+            "name": "Ahlem Zewari Ben Chewech",
+            "path": "published/1_1595432163_107601420_978799499239495_5084106299345818828_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/wissal.ali.9/videos/2877195255743002/",
+            "name": "Wissal Ali Chraiti",
+            "path": "published/2_1595432163_107854058_2865322260263635_3124857553282245112_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/taoufik.achour.50/videos/1122992661434596/",
+            "name": "Taoufik Achour",
+            "path": "published/3_1595432163_107719584_1113366332397229_1396275508570815930_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/177670472292872/permalink/2636480003078561/",
+            "name": "معلومات ثقافية وتاريخية ✅⁦",
+            "path": "published/4_1595432164_82081841_2594363990796010_2231119086593507328_n.jpg"
+        },
+        {
+            "link": "https://twitter.com/mustafalhadithi/status/909816509559689218",
+            "name": "مصطفى الحديثي",
+            "path": "published/5_1595432164_u7opN6tN_400x400.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=Ek3EBNhlTq8",
+            "name": "URANUS-Media",
+            "path": "sources/0_1595432164_22.jpg"
+        },
+        {
+            "link": "http://annahar24.com/1438.html",
+            "name": "النهار 24",
+            "path": "sources/1_1595432164_unnamed.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "فيديو مفبرك: لم يغنّ نائب مغربي داخل البرلمان",
+    "updated_at": "2020-09-25 13:25:35",
+    "url_path": "/factcheck/2020/07/22/فيديو-مفبرك-لم-يغن-نائب-مغربي-داخل-البرلمان"
+}

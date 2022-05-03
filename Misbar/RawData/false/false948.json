@@ -1,0 +1,80 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2134,
+    "author": {
+        "fullname": "أحمد عابدين",
+        "id": "5e41832bd4a229020941b183",
+        "photo": {
+            "name": "1581351723_احمد.jpg",
+            "path": "authors/1581351723_احمد.jpg"
+        }
+    },
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">مليونير هندي يعمل في تنظيف الحرم المكيّ ستة أشهر كل عام دون مقابل.</p>\r\n",
+    "country": "SA",
+    "created_at": "2020-02-10 21:26:18",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e41a04ad4a22924d74cc014",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">القصة زائفة، وهي متداولة منذ قرابة أربع سنوات. وتأكد &quot;مسبار&quot; من أنّ الصورة فعلاً تعود لرجل يعمل ضمن فريق تنظيف الحرم المكي، واسمه &quot;محمد أسلم&quot;، ولكنه ليس مليونيراً، إذ أكّد الرجل في مقطع فيديو منشور على &quot;يويتوب&quot; منذ عام 2016، أنّه لا يملك فنادقاً لا في الهند ولا في غيرها، وأنّه يعمل مع الشركة المسؤولة عن نظافة الحرم المكي منذ 25 عاماً.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"Picture_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/investigation_ta5ixl6ws.jpg\" style=\"height:272.25pt; width:419.25pt\" /> </span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداول بعض مستخدمي وسائل التواصل الاجتماعي ومواقع إخبارية، صورة رجل عجوز ادعوا أنه مليونير هندي يملك سلسلة فنادق في الهند. المليونير المزعوم يقيم في المملكة العربية السعودية ستة أشهر كل عام، يعمل خلالها في تنظيف الحرم المكي ضمن شركة متخصصة بهذا الشأن.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"Picture_x0020_5\" src=\"https://images-prod.misbar.com/articlebody/origin_nfhsrjpnc.jpg\" style=\"height:444.75pt; width:255pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"Picture_x0020_2\" src=\"https://images-prod.misbar.com/articlebody/origin_0olcpr737.jpg\" style=\"height:430.5pt; width:257.25pt\" /> </span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 352,
+        "left": 2.377685546875,
+        "path": "articles/1581359178GettyImages-1161465223.jpg",
+        "top": 5.4311981201171875,
+        "totalHeight": 423,
+        "totalWidth": 631,
+        "width": 626
+    },
+    "post_date": "2020-02-10T21:18:00.000+03:00",
+    "published": [
+        {
+            "link": "https://thecoverage.my/news/saudi-man-offered-money-to-cleaner-not-knowing-he-is-actually",
+            "name": "The coverage Malaysia",
+            "path": "published/0_1581359178_The Coverage Malysia-logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/998398170327025/permalink/1464496113717226/ ",
+            "name": "قل أستغفر الله",
+            "path": "published/1_1581359178_قل أستغفر الله-لوغو.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/MediaMasrTv/posts/1336468049699973",
+            "name": "Media Masr",
+            "path": "published/2_1581359178_Media Masr-logo.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=vnZogXG_g10",
+            "name": "سامح بن عطية",
+            "path": "sources/0_1581359178_سامح بن عطية-لوغو.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "مليونير هندي ينظف الحرم المكي 6 أشهر كل عام... قصة زائفة",
+    "updated_at": "2020-09-24 17:31:23",
+    "url_path": "/factcheck/2020/02/10/مليونير-هندي-ينظف-الحرم-المكي-6-أشهر-كل-عام-قصة-زائفة"
+}

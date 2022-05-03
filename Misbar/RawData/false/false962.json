@@ -1,0 +1,80 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 663,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة طفل مجهول لا يتجاوز الخامسة من عمره، تجول مواقع عربية على وسائل التواصل الاجتماعي، وفي كل مرة حدث وعنوان جديد.</p>\r\n",
+    "country": "LY",
+    "created_at": "2020-02-03 17:59:31",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e383553d4a229738568e54a",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تتبع &quot;مسبار&quot; المواقع والمنشورات التي تناولت صورة الطفل، وأغلبها يذكر أنه تم العثور عليه في القمامة مقيداً في شارع المطار، إلا أنَّ &quot;مسبار&quot; لم يستطع التأكد من مصدر الصورة الأول، وكيف انتشرت على الرغم من كون أقدم نشر لها عام 2016، وذلك بسبب إعادة نشرها المتكرر في السنوات الأخيرة عشرات المرات، أما أحدث تاريخ نشر لها فكان في&nbsp; نهاية يناير/كانون الثاني&nbsp;من العام الجاري على شبكة أخبار حلب والريف، وفي كل مرة تنتشر الصورة يكون بغرض جذب متابعين وتعاطف وهذا ما يحدث فعلاً. أما بالنسبة لكون هذا الطفل هو ابن الأكاديمي الليبي حامد الماجري، والصورة من حادثة مقتله أمام ابنه، فهذا ليس صحيحاً بل يظهر طفل آخر في الفيديو الذي صدر حول حادثة القتل في فبراير/شباط من العام 2019.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_cpklif5yr.jpg\" style=\"float:right; height:591px; width:605px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">جالت صورة طفل صغير بين المغرب وتونس وسوهاج في مصر، وسوريا وليبيا خلال فترة قصيرة، وذلك بعدما&nbsp;نسب ناشرون على وسائل التواصل الاجتماعي الصورة إلى طفل تم العثور عليه مقيداً في حاوية القمامة بصفاقس في تونس، ومرة في حاوية القمامة في المغرب، وحيناً في القمامة بسوريا وهذه المرة &quot;مُكتف اليدين والقدمين&quot;، وصورة أخرى تقول أنه تم العثور عليه في محافظة سوهاج بمصر، كذلك تم نسب الصورة إلى حدث آخر في ليبيا إذ قيل إنهم وجدوه في سيارة والده الذي قُتل على الطريق الصحراوي.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ohmmk6sa9.jpg\" style=\"height:352px; width:604px\" /></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><img src=\"https://images-prod.misbar.com/articlebody/origin_fe0ohvywx.jpg\" style=\"height:325px; width:605px\" /></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><img src=\"https://images-prod.misbar.com/articlebody/origin_xn4kz25uz.jpg\" style=\"height:266px; width:605px\" /></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><img src=\"https://images-prod.misbar.com/articlebody/origin_uskaad97x.jpg\" style=\"height:306px; width:605px\" /></p>\r\n\r\n<p>&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1580809903favebook.jpg"
+    },
+    "post_date": "2020-02-03T15:03:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/906647659696824/photos/a.994922754202647/1096227700738818/?type=3&theater",
+            "name": "تونس الغد",
+            "path": "published/0_1580741970_طفل44.jpg"
+        },
+        {
+            "link": "https://khabarlibya.com/2019/02/23/%D9%85%D9%82%D8%AA%D9%84-%D8%A7%D9%84%D8%AF%D9%83%D8%AA%D9%88%D8%B1-%D8%AD%D8%A7%D9%85%D8%AF-%D9%85%D8%B9%D9%8A%D9%88%D9%81-%D8%A7%D9%84%D9%85%D8%A7%D8%AC%D8%B1%D9%8A-%D8%A3%D9%85%D8%A7%D9%85-%D8%B7/",
+            "name": "ليبيا الاخباري",
+            "path": "published/1_1580741970_11طفل.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/274330436314026/photos/a.274332319647171/824887397924991/?type=3&theater",
+            "name": "شبكة أخبار حلب والريف",
+            "path": "published/2_1580741970_طفل2.jpg"
+        },
+        {
+            "link": "http://bouyafarcity.com/%D9%87%D8%B0%D8%A7-%D9%84%D9%8A%D8%B3-%D8%B7%D9%81%D9%84-%D8%B3%D9%88%D8%B1%D9%8A-%D8%A7%D9%88-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A-%D8%A7%D9%88-%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A-%D8%A7%D9%86%D9%87/?fbclid=IwAR0n7u9WtZ9vJr-9oG1TuW0_blvBV5dgMJOMO6K-9aUIvVhmBpRc-Mgb3s4",
+            "name": "bouyafarcity",
+            "path": "published/3_1580741970_طفل55.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/sebha.tooa/videos/2271461036447847/?__xts__[0]=68.ARAumgDBsnTxOgbbA5HS_G6i0AKYK7-BQHQtriZr7g_H4aQLNCBiLHA_AuJWoaLirL0hcanAlSO1Npv71_pGVQhJlIVi4gNqQAydCj6OxZzMZ-PDlkljOflbm-fvV3kPQA_6VtxN77OAB_xVrXQqSiZ4CauD-4dTQacpGqX1K5YgBaknvYl0izsXNSygAtmbDrSvLoME4zijadjC0Hqz-kUC0ubV7Y_n4kPUlKH9go_uP7jyVgEwemnp2r5mIw0dN_pUY6ZvIO5Vu77B0OPjvXNEGnQc9iHznXODNRSbG_qGEcaf7jWUkTo8mdc8iskTUwhwUNt-x4w1qSOYvdj41AUtYEQ5Dmn_2b39TQ&__tn__=H-R",
+            "name": "قناة سبها توا",
+            "path": "sources/0_1580741969_قناةقناتة.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صورة طفل يتم نسبها إلى أحداث مختلفة في وسائل التواصل الاجتماعي",
+    "updated_at": "2020-09-25 11:41:09",
+    "url_path": "/factcheck/2020/02/03/صورة-طفل-يتم-نسبها-إلى-أحداث-مختلفة-في-وسائل-التواصل-الاجتماعي"
+}

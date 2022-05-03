@@ -1,0 +1,110 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1434,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "الفيديو الأصلي يُظهر أحد المعاقين في الحرم المكّي (يوتيوب)",
+    "category": "Spirituality & Religion",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">توفي أثناء طوافه حول الكعبة، فحملوه وهو ميّت لكي يقبّل الحجر الأسود.</span></p>\r\n",
+    "country": "SA",
+    "created_at": "2020-06-13 00:39:12",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ee3f600d6e4a912d65ecb83",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من المقطع المتداول ووجد أنه مضلّل، لأنّ مقطع الفيديو الأصلي يُظهر أحد المعاقين في الحرم المكّي وهو يقبّل الحجر الأسود بمساعدة مجموعة من الناس حوله، بحسب </span><a href=\"https://www.makkahnews.net/5101916.html\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>صحيفة مكة الإلكترونية</u></span></a><span style=\"color:#000000\">.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/iJblAVe0nYg\" width=\"560\"></iframe></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "مكة",
+        "الكعبة المشرفة",
+        "الحجر الأسود"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل صفحات على مواقع التواصل الاجتماعي، منذ سنوات، مقطع فيديو تدّعي أنه يُظهر شخصاً توفّي أثناء طوافه حول الكعبة دون أن يقبّل الحجر الأسود، فتبرّع الناس في الحرم لحمله وهو ميّت ودفعه نحو الحجر الأسود حتى يقبّله.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"635\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F112190726830245%2Fvideos%2F247568659649146%2F&amp;show_text=1&amp;width=433\" style=\"border:none;overflow:hidden\" width=\"433\"></iframe></span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"636\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F100022972370780%2Fvideos%2F230389401070137%2F&amp;show_text=1&amp;width=432\" style=\"border:none;overflow:hidden\" width=\"432\"></iframe></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 359,
+        "left": 2,
+        "path": "articles/1591997952GettyImages-130308105.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 642,
+        "watermark_path": "articles/watermark-1591997952GettyImages-130308105.jpg",
+        "width": 638
+    },
+    "post_date": "2020-06-13T12:23:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/mudhakiratmiru/status/1005813062165762053",
+            "name": "مذكرات ميرو",
+            "path": "published/0_1591997951_مذكرات.jpg"
+        },
+        {
+            "link": "https://twitter.com/parlementkw/status/1005599939022344193",
+            "name": "نراقبكم",
+            "path": "published/1_1591997951_نراقب.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/631450026926337/permalink/2342765995794723/",
+            "name": "حسني السيدمبارك",
+            "path": "published/2_1591997951_حسني.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/112190726830245/videos/247568659649146/",
+            "name": "ترند مصر",
+            "path": "published/3_1591997951_ترند.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100022972370780/videos/230389401070137/",
+            "name": "محمد قناوي ياسين الجعفري",
+            "path": "published/4_1591997951_قناوي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100003326727550/videos/1693529290767945/",
+            "name": "ابومشعل بن العماني النموري",
+            "path": "published/5_1591997951_أبو مشعل.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/mnartalbalyana/videos/1758160387607735/?v=1758160387607735",
+            "name": "منارة البلينا",
+            "path": "published/6_1591997951_منارة.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://youtu.be/iJblAVe0nYg",
+            "name": "مقطع الفيديو الأصلي",
+            "path": "sources/0_1591997951_صحيفة مكة.jpg"
+        },
+        {
+            "link": "https://www.makkahnews.net/5101916.html",
+            "name": "صحيفة مكة الإلكترونية",
+            "path": "sources/1_1591997951_صحيفة مكة.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "توفي أثناء طوافه حول الكعبة دون أن يقبّل الحجر الأسود.. ادعاء مضلّل",
+    "updated_at": "2020-09-25 17:47:41",
+    "url_path": "/factcheck/2020/06/13/توفي-أثناء-طوافه-حول-الكعبة-دون-أن-يقبل-الحجر-الأسود-ادعاء-مضلل"
+}

@@ -1,0 +1,129 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 728,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "الصور المتداولة تعود لعام 2018 (فيسبوك)",
+    "category": "News",
+    "claim": "<p>الجزائر تطبع عملة&nbsp;معدنية عليها صورة قبة&nbsp;الصخرة وكلمة &quot;القدس لنا&quot;.</p>\r\n",
+    "country": "DZ",
+    "created_at": "2020-08-21 12:10:32",
+    "created_by": "5f39b5a51dd585076701cb94",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f3f8f8860211806e45473be",
+    "investigation": "<p dir=\"rtl\">تحقق &quot;مسبار&quot; من&nbsp;الادعاء المتداول وتبين أنه زائف، ولا أساس له من الصحة ولا يوجد أي عملات معدنية في الجزائر بهذا الشكل. وحقيقة الصور المتداولة تعود لعام 2018، لشكل تخيلي صممه شاب جزائري يُدعى عبد الرازق بوهيدا، ونشر صور التصميم على حسابه في موقع فيسبوك، وقال إنه من أجل فلسطين والقدس.&nbsp;</p>\r\n\r\n<p style=\"text-align:right\"><iframe frameborder=\"0\" height=\"734\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FAbderrezak.Bouhedda%2Fposts%2F467868716949011&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تتداول حسابات وصفحات على مواقع التواصل الاجتماعي، حديثاً ومنذ عام 2018، صور تُظهر عملة معدنية&nbsp;من فئة 500 دينار وعليها صورة قبة الصخرة وعبارة &quot;القدس لنا&quot;. وادعى ناشرو الصورة أنها لعملة معدنية طبعها البنك المركزي في الجزائر.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><img src=\"https://images-prod.misbar.com/articlebody/origin_uhe0e0k3f.jpg\" /></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><img src=\"https://images-prod.misbar.com/articlebody/origin_qjm0mc0qn.jpg\" /></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><img src=\"https://images-prod.misbar.com/articlebody/origin_2fn603fll.jpg\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/159800103126904822_467887593613790_7178678039639492036_n.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-159800103126904822_467887593613790_7178678039639492036_n.jpg",
+        "width": 752
+    },
+    "post_date": "2020-08-21T12:07:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/groups/214000862949272/permalink/246922442990447/?__tn__=-R",
+            "name": "Kmal Boira",
+            "path": "published/0_1598001031_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/665441557221800/permalink/985464155219537/?__tn__=-R",
+            "name": "جلال ابو وديع هواري",
+            "path": "published/1_1598001198_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/1st.silence/posts/806680869528712",
+            "name": "جلال ابو وديع هواري",
+            "path": "published/1_1598001198_facebook.jpg"
+        },
+        {
+            "link": "https://twitter.com/mohmdtala46/status/969271967407919104",
+            "name": "محمد",
+            "path": "published/3_1598001198_twitter.jpg"
+        },
+        {
+            "link": "https://twitter.com/fatehorg/status/969092513435979777",
+            "name": "فتح ",
+            "path": "published/4_1598001198_twitter.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/OranLogic/posts/1872706352752877",
+            "name": "Oran Logic",
+            "path": "published/5_1598001393_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=485819525220540&id=116055028863660",
+            "name": "توات الوسطى",
+            "path": "published/6_1598001476_facebook.jpg"
+        },
+        {
+            "link": "https://twitter.com/mounir_1985/status/1044668182240399361",
+            "name": "Mounir_CA",
+            "path": "published/7_1598001393_twitter.jpg"
+        },
+        {
+            "link": "https://twitter.com/mayan19945/status/982705270236352512",
+            "name": "LoletaLOLo ",
+            "path": "published/8_1598001393_twitter.jpg"
+        },
+        {
+            "link": "https://twitter.com/nihad665/status/969997146857656320",
+            "name": "nihadahmad",
+            "path": "published/9_1598001393_twitter.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1705751026213173&id=437144763073812",
+            "name": "الأوراس الكبير BATNA",
+            "path": "published/10_1598001456_facebook.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/Abderrezak.Bouhedda/posts/467868716949011?fbclid=IwAR2fhSmgkFNiJafMxESdsX6XgimJ5cusQxZ1uiG1RlRQ8a0k8x-JQSLjKUU",
+            "name": "حساب المصمم على فيسبوك ",
+            "path": "sources/0_1598001198_عبدالرازق.jpg"
+        },
+        {
+            "link": "https://www.instagram.com/p/BeGquv9l_Wu/?fbclid=IwAR0q0L_RMTTLzOMwdk05Xph5ERY0pLSHxo_RaoZa1mofZHvsBmPglBEAvWk&fbclid=IwAR2JHFfe1yiceEPcpN9AGKSsfoKSTL_13-QMxWFakuUPu3xSHgGXN8Mlspg",
+            "name": "حساب المصمم على انستغرام",
+            "path": "sources/1_1598001199_عبدالرازق.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الجزائر لم تطبع عملة معدنية عليها صورة قبة الصخرة",
+    "updated_at": "2020-09-25 21:03:10",
+    "url_path": "/factcheck/2020/08/21/الجزائر-لم-تطبع-عملة-معدنية-عليها-صورة-قبة-الصخرة-5f3f8f8771608"
+}

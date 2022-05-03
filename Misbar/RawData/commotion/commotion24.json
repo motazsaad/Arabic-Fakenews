@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 275,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "مجرّد مجسّم لفأر (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">اكتشاف فأر عملاق في أنفاق الصرف الصحي في المكسيك.</p>\r\n",
+    "country": "MX",
+    "created_at": "2020-09-25 17:06:19",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 2,
+    "feedback_pos": 5,
+    "id": "5f6df95b77400d3097537170",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;<a href=\"https://misbar.com/\" style=\"text-decoration:none\" target=\"_blank\"><u>مسبار</u></a>&quot; من الخبر المتداول ووجد فيه إثارة ومحاولة لاستمالة مشاعر الجمهور، لأنّ ما اكتُشف في إحدى شبكات الصرف الصحي في المكسيك هو <a href=\"https://iheartintelligence.com/mexico-city-workers-find-giant-rat-prop-while-cleaning-drains-following-heavy-rainfalls/\" style=\"text-decoration:none\" target=\"_blank\"><u>مجرّد مجسّم</u></a> لفأر وليس فأراً حقيقيًّا.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">لكنّ المواقع الإخبارية التي نشرت الخبر أرفقته بعنوان مثير ومضلل، يختلف عن الخبر الحقيقي.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_khwlqltet.jpg\" style=\"height:513px; width:566px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">اقرأ/ي أكثر:</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/05/17/%D8%B5%D8%AE%D8%B1%D8%A9-%D8%B9%D9%84%D9%89-%D8%B4%D9%83%D9%84-%D8%A5%D9%86%D8%B3%D8%A7%D9%86-%D9%81%D9%8A-%D9%82%D8%A7%D8%B9-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1-%D9%85%D8%A7-%D9%82%D8%B5%D8%AA%D9%87%D8%A7\" target=\"_blank\">صخرة على شكل إنسان في قاع البحر.. ما قصتها؟</a></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/08/12/%D9%86%D8%A7%D8%AF%D9%8A-%D8%AF%D8%B1%D8%AC%D8%A9-%D8%AB%D8%A7%D9%84%D8%AB%D8%A9-%D9%85%D9%83%D8%B3%D9%8A%D9%83%D9%8A-%D9%8A%D8%B9%D9%84%D9%86-%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%82%D8%AF-%D9%85%D8%B9-%D9%83%D8%B1%D9%8A%D8%B3%D8%AA%D9%8A%D8%A7%D9%86%D9%88-%D8%A8%D8%B4%D9%83%D9%84-%D8%B3%D8%A7%D8%AE%D8%B1\" target=\"_blank\">نادي درجة ثالثة مكسيكي يعلن التعاقد مع كريستيانو بشكل ساخر</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "المكسيك",
+        "فأر عملاق"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تتناقل مواقع إخبارية، وصفحات وحسابات على مواقع التواصل الاجتماعي، حديثاً، صورة تدعي أنها لفأر عملاق اكتُشف في أنفاق الصرف الصحي في المكسيك.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_hkdlj3f18.jpg\" style=\"height:525px; width:539px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_9x6lxwgts.jpg\" style=\"height:517px; width:533px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 356,
+        "left": 1.48333740234375,
+        "path": "articles/1601042778giant rat prop.jpg",
+        "top": 45.466796875,
+        "totalHeight": 423,
+        "totalWidth": 636,
+        "watermark_path": "articles/watermark-1601042778giant rat prop.jpg",
+        "width": 633
+    },
+    "post_date": "2020-09-25T17:02:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.youm7.com/story/2020/9/24/%D8%A7%D9%83%D8%AA%D8%B4%D8%A7%D9%81-%D9%81%D8%A3%D8%B1-%D8%B9%D9%85%D9%84%D8%A7%D9%82-%D9%81%D9%89-%D8%A3%D9%86%D9%81%D8%A7%D9%82-%D8%B5%D8%B1%D9%81-%D8%B5%D8%AD%D9%89-%D8%A8%D8%A7%D9%84%D9%85%D9%83%D8%B3%D9%8A%D9%83-%D8%A7%D8%B9%D8%B1%D9%81-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/4991737",
+            "name": "اليوم السابع",
+            "path": "published/0_1601043051_اليوم السابع.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "http://www.sportmsr.com/2020/09/24/%D8%A3%D9%83%D8%A8%D8%B1-%D8%AC%D8%B1%D8%B0-%D8%B9%D9%85%D9%84%D8%A7%D9%82-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D9%88%D8%AC%D8%AF-%D9%81%D9%8A-%D9%85%D8%B5%D9%81%D8%A7%D8%A9-%D8%A7%D9%84/",
+            "name": "سبورت مصر",
+            "path": "published/1_1601043051_sportmasr.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=190272095984993&id=104254887920048",
+            "name": "Holland dz",
+            "path": "published/2_1601043115_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://newsformy.com/news-255356.html",
+            "name": "نيوز فور مي",
+            "path": "published/3_1601043382_8768d1a20d69c66384260ff03c325b82ef06ab87.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://mangish.net/%d8%a7%d9%83%d8%aa%d8%b4%d8%a7%d9%81-%d9%81%d8%a3%d8%b1-%d8%b9%d9%85%d9%84%d8%a7%d9%82-%d9%81%d9%89-%d8%a3%d9%86%d9%81%d8%a7%d9%82-%d8%b5%d8%b1%d9%81-%d8%b5%d8%ad%d9%89-%d8%a8%d8%a7%d9%84%d9%85%d9%83/",
+            "name": "مانكيش نت",
+            "path": "published/4_1601043382_c1b9236cdcf0fbcda376abae30bd93e501ae9281.jpg"
+        }
+    ],
+    "result": "commotion",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://iheartintelligence.com/mexico-city-workers-find-giant-rat-prop-while-cleaning-drains-following-heavy-rainfalls/",
+            "name": "I Heart Intelligence",
+            "path": "sources/0_1601042778_ca7f2615bf35332f436bd09eb802f91b1a0cc065.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "مجرّد مجسّم وليس فأراً حقيقياً",
+    "updated_at": "2020-09-25 22:15:04",
+    "url_path": "/factcheck/2020/09/25/مجرد-مجسم-وليس-فأرا-حقيقيا",
+    "was_notification_pushed": "true"
+}

@@ -1,0 +1,108 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 159,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "متهم بجرائم قتل في عدة مقاطعات أميركية خلال سبعينات وثمانينات القرن الماضي (فيسبوك)",
+    "category": "News",
+    "claim": "<p>صورة لمتهم دار&nbsp;بينه وبين القاضي الحوار التالي: ا<span style=\"background-color:white\"><span style=\"color:#050505\">لقاضي: أنت </span><span style=\"color:#050505\">متهم بقضية سبٌّ وقذف، لأنك شبهت بعض السياسيين بالعاهرات، المتهم:</span> <span style=\"color:#050505\">من رفع الدعوى،&nbsp;السياسيون أم العاهرات؟.</span></span></p>\r\n",
+    "country": "US",
+    "created_at": "2020-10-23 19:23:44",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 4,
+    "id": "5f9303909d516c3ebb08a6d5",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الصورة، ووجد أنها تعود إلى جوزيف دي أنجلو (73عاماً) حين كان يُحاكم على سلسلة من جرائم القتل والاغتصاب والسرقة التي ارتكبها في سبعينات وثمانينات القرن الماضي، كما لديه عدة ألقاب منها مغتصب المنطقة الشرقية، وسفاح جولدن ستايت كيلر، فقد جاب عدة مقاطعات بهدف ارتكاب جرائمه، وتم توجيه التهم إليه&nbsp;عام 2018 بناء على أدلة&nbsp;الحمض النوويّ، ولم يكن لمحاكمته علاقة بالسياسة وحرية التعبير أو قضايا السب والقذف، فالتعليق المصاحب للصورة مضلل، ولم يعترف أنجلو بالتهم الموجه إليه من عمليات قتل وخطف وسطو، حتى&nbsp;أغسطس/آب من العام الجاري.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"AR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_ji12c9vqi.jpg\" style=\"height:286px; width:602px\" /></span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_0gpwovleb.jpg\" style=\"height:470px; width:602px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:black\">تداولت حسابات وصفحات على موقع التواصل الاجتماعي، فيسبوك، خلال العامين الماضي والجاري، صورةً لمتهم خلف القضبان، بالزي البرتقالي الخاص بالسجناء في أميركا، وتصاحبها عبارة</span> <span style=\"color:#050505\">&quot; </span><span style=\"color:#050505\">القاضي: أنت </span><span style=\"color:#050505\">متهم بقضية سبٌّ&nbsp;وقذف، لأنك شبهت بعض السياسيين بالعاهرات، المتهم:</span> <span style=\"color:#050505\">من رفع الدعوى،&nbsp;السياسيون أم العاهرات؟ &quot;.</span></span></p>\r\n\r\n<p style=\"text-align:center\">jj<img src=\"https://images-prod.misbar.com/articlebody/origin_e0v50ynm6.jpg\" style=\"height:426px; width:498px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ogyzohkzf.jpg\" style=\"height:580px; width:590px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_zkwwl42m9.jpg\" style=\"height:574px; width:594px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 369,
+        "left": 16.8385009765625,
+        "path": "articles/1603470224Screenshot 2020-10-23 172017.jpg",
+        "top": 11.559326171875,
+        "totalHeight": 423,
+        "totalWidth": 682,
+        "watermark_path": "articles/watermark-1603470224Screenshot 2020-10-23 172017.jpg",
+        "width": 655
+    },
+    "post_date": "2020-10-23T17:27:00.000+03:00",
+    "published": [
+        {
+            "id": "5f930390fbef021cdc6c81c9",
+            "link": "https://www.facebook.com/groups/2227935594099768/permalink/2875673855992602",
+            "name": "كلابووووش",
+            "origin": "facebook",
+            "path": "sources/5bfe4505f0d897cf8eadb4d078ea86f5bd10e8d5.jpg"
+        },
+        {
+            "id": "5f93039014e79834dd66051a",
+            "link": "https://www.facebook.com/mix.zaki.rbh/posts/1587303914732822",
+            "name": "Mix",
+            "origin": "facebook",
+            "path": "sources/98cfd42955657395d0054dfd8b7b13871abb5c87.jpg"
+        },
+        {
+            "id": "5f93039001b7e87d0f2f0842",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=157490032561825&id=108868120757350",
+            "name": "Facebook",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5f930390b0e90f7ccc7090ed",
+            "link": "https://www.facebook.com/ryan.hamad.96/posts/267071727518918",
+            "name": "Ryan Hamad",
+            "origin": "facebook",
+            "path": "sources/44202cde3832cc4809aba26f0197ca546ba7fda5.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f930390acff353f0f24d296",
+            "link": "https://eu.vcstar.com/story/news/2018/06/01/dna-tissue-trash-led-arrest-golden-state-killer-suspect/665559002/",
+            "name": "Ventura County Star",
+            "origin": "",
+            "path": "sources/332636eeda640bedd2763b9463ebe275b1f63a57.jpg"
+        },
+        {
+            "id": "5f8dddc9675718689f7f08d6",
+            "link": "https://www.nytimes.com/2018/06/27/science/dna-family-trees-cold-cases.html",
+            "name": "www.nytimes.com",
+            "origin": "",
+            "path": "sources/6ef182af576c3d3ef5751d0e996d7e926f9d91f8.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصورة لقاتل متسلسل وليس متهماً بقضية سب وقذف",
+    "updated_at": "2020-10-23 22:43:13",
+    "url_path": "/factcheck/2020/10/23/هذه-الصورة-لقاتل-متسلسل-وليس-لمتهم-على-خلفية-حرية-التعبير",
+    "was_notification_pushed": "true"
+}

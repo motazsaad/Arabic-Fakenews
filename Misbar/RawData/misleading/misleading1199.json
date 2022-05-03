@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 19658,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "نُشر عبر موقع فيسبوك على صفحة داعية إسلامي ماليزي (فيسبوك) ",
+    "category": "Spirituality & Religion",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">أول صينية تدخل الإسلام بعد فايروس كورونا المستجد.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-04-30 21:27:38",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 0,
+    "id": "5eab189adb291672a7282c55",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"rtl\" lang=\"ar\">تحقق &quot;مسبار&quot; من مقطع الفيديو المتداول ووجد أنه مضلل، إذ نُشر&nbsp;عبر&nbsp;موقع فيسبوك على&nbsp;صفحة داعية إسلامي ماليزي يُدعى <a href=\"https://www.facebook.com/ebitlewofficialpage/videos/540633616716307/?v=540633616716307\" style=\"color:#0563c1; text-decoration:underline\">Ebit Lew</a>، في 25 نوفبر/تشرين الثاني عام 2019، قبل انتشار فايروس كورونا المستجد في الصين والذي بدأ في شهر ديسمبر/كانون الأول من نفس العام. ويظهر في الفيديو الأصلي فتاة صينية تُدعى ليز وهي تُعلن إسلامها خلال محاضرة للداعية في أحد&nbsp;مساجد ماليزيا.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Febitlewofficialpage%2Fvideos%2F540633616716307%2F&amp;show_text=0&amp;width=476\" style=\"border:none;overflow:hidden\" width=\"476\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"rtl\" lang=\"ar\">تداولت صفحات وحسابات على مواقع التواصل خلال شهر أبريل/نيسان الجاري، مقطع فيديو يظهر فتاة تنطق الشهادتين، وادعت أنّ الفتاة هي أول صينية دخلت الإسلام بعد فايروس كورونا المستجد.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"308\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fahmed.telsady.7%2Fvideos%2F662910604252289%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe><iframe frameborder=\"0\" height=\"308\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fmezwed21590120%2Fvideos%2F155112995923888%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe><iframe frameborder=\"0\" height=\"305\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F100009985597459%2Fvideos%2F1216075138735328%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 18.5,
+        "path": "articles/158827125877.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 789,
+        "watermark_path": "articles/watermark-158827125877.jpg",
+        "width": 752
+    },
+    "post_date": "2020-04-30T21:25:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/ahmed.telsady.7/videos/662910604252289/",
+            "name": "Ahmed T Elsady",
+            "path": "published/0_1588271257_8.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100010330029134/videos/1185525778468412/",
+            "name": "حسام غالي",
+            "path": "published/1_1588271785_حسام غالي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/mezwed21590120/posts/226413632105740",
+            "name": "mohamed cheouich",
+            "path": "published/2_1588271785_89.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1216075278735314&id=100009985597459",
+            "name": "Mohamed Adel",
+            "path": "published/3_1588271785_Mohamed Adel.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/LoveAllh6.7/posts/116301426713646",
+            "name": "محمد رسول الله",
+            "path": "published/4_1588271785_محمد رسول الله.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/775632279557541/permalink/944288566025244/",
+            "name": "Rawan Nage",
+            "path": "published/5_1588271785_Rawan Nage.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/ebitlewofficialpage/videos/540633616716307/?v=540633616716307",
+            "name": "Ebit Lew",
+            "path": "sources/0_1588271258_7.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "أول فتاة صينية تدخل الإسلام بعد كورونا.. حقيقة الفيديو",
+    "updated_at": "2020-09-25 14:10:11",
+    "url_path": "/factcheck/2020/04/30/أول-صينية-تدخل-الإسلام-بعد-كورونا-حقيقة-الفيديو-5eab1899ebe9c"
+}

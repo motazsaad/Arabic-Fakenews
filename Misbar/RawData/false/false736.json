@@ -1,0 +1,107 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2129,
+    "author": {
+        "fullname": "خالد إسماعيل",
+        "id": "5e59256dd4a2295224257db3",
+        "photo": {
+            "name": "1582900589_صورة 2.jpg",
+            "path": "authors/1582900589_صورة 2.jpg"
+        }
+    },
+    "caption": "الصورة ليست صورة مسجد كما ادعت المنشورات المتداولة",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><strong><span style=\"color:black\">من أجمل بيوت الله على الأرض.. هذا المسجد في إندونيسيا &nbsp;</span></strong></span></p>\r\n",
+    "country": "AE",
+    "created_at": "2020-05-12 12:33:10",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eba6d56db29167e0e668dc4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><strong><span style=\"color:black\">تحقق &quot;مسبار&quot; من الصورة المتداولة والادعاء المصاحب لها، وتبين أنه غير صحيح، إذ&nbsp;أنَّ الصورة ليست صورة مسجد&nbsp;كما ادعت المنشورات المتداولة، كما أنها ليست في دولة إندونيسيا، وإنما هي&nbsp; لأحد تصميمات الأبراج السكنية والتجارية&nbsp;في مدينة دبي الرياضية&nbsp;في إمارة دبي&nbsp; والمعروف ببرج الشطرنج،</span></strong><strong><span style=\"color:black\">&nbsp;وهو مستوحى من الملك والملكة&nbsp;يقفان بجانب بعضهما البعض على لوح الشطرنج. ويحتضن البرجان بعضهما البعض.</span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_q0auktebh.jpg\" style=\"height:595px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_q2psnr4vn.jpg\" style=\"height:826px; width:594px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_cwvyerelt.jpg\" style=\"height:423px; width:612px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_tvecl07wq.jpg\" style=\"height:524px; width:624px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><strong>تتداول حسابات وصفحات على&nbsp;منصتي تويتر وفيسبوك كل فترة صورة لأحد المباني&nbsp;المضيئة والشاهقة الارتفاع، مع الادعاء أنَّ الصورة&nbsp;لأجمل&nbsp; المساجد في العالم، وأنَّ هذا المسجد موجود في دولة إندونيسيا، وتحظى الصورة في كل مرة&nbsp;بانتشار وتفاعل كبيرين. </strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_oz8ktoqu2.jpg\" style=\"height:794px; width:450px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_z6wr84bd7.jpg\" style=\"height:789px; width:447px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_3ffnufgid.jpg\" style=\"height:769px; width:455px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_r5wdg7upn.jpg\" style=\"height:864px; width:502px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_6x3owgvc7.jpg\" style=\"height:864px; width:497px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_yrtohh097.jpg\" style=\"height:804px; width:446px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_fgk9v8dgp.jpg\" style=\"height:738px; width:554px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 171,
+        "left": 2.0970916748046875,
+        "path": "articles/158927598984651920_1113051869029982_3203772730658783232_n.jpg",
+        "top": 245.075439453125,
+        "totalHeight": 423,
+        "totalWidth": 310,
+        "watermark_path": "articles/watermark-158927598984651920_1113051869029982_3203772730658783232_n.jpg",
+        "width": 303
+    },
+    "post_date": "2020-05-12T11:57:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=2682436691884691&set=gm.1091921951207562&type=3&theater",
+            "name": "حسن محمود سلمان",
+            "path": "published/0_1589275988_حسن محمود سلمان.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=118654186490452&set=p.118654186490452&type=1&theater",
+            "name": "يوسف جمال مقالده",
+            "path": "published/1_1589275988_يوسف جمال مقالده.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/109066814023019/photos/a.109067404022960/113943730201994/?type=3&theater",
+            "name": "¶Hello¶",
+            "path": "published/2_1589275988_¶Hello¶.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=2731688080247256&set=p.2731688080247256&type=1&theater",
+            "name": "Mohmed Oloma",
+            "path": "published/3_1589275988_Mohmed Oloma.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/AYMA44/photos/p.1113051865696649/1113051865696649/?type=1&theater",
+            "name": "عجائب وغرائب وطرائف حول العالم",
+            "path": "published/4_1589275988_عجائب وغرائب وطرائف حول العالم.jpg"
+        },
+        {
+            "link": "https://twitter.com/KN1sPnBzNwBYqct/status/1228726286308212739",
+            "name": "روحي للأقصى فدى ",
+            "path": "published/5_1589275989_روحي للأقصى فدى.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://archibase.co/blog/view/6515.html",
+            "name": "archibase",
+            "path": "sources/0_1589275989_archibase.JPG"
+        },
+        {
+            "link": "https://www.providentestate.com/ar/dubai-real-estate-projects/dubai-sports-city/chess-tower-1296.html",
+            "name": "provident",
+            "path": "sources/1_1589275989_provident.JPG"
+        },
+        {
+            "link": "http://george-christie.com/portfolio/royal-pair-chess-city-dubai/",
+            "name": "George Christie ",
+            "path": "sources/2_1589275989_george-christie.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصورة ليست لأحد أجمل مساجد العالم ",
+    "updated_at": "2020-09-25 20:16:10",
+    "url_path": "/factcheck/2020/05/12/هذه-الصورة-ليست-لأحد-أجمل-مساجد-العالم"
+}

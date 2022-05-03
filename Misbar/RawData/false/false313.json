@@ -1,0 +1,101 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 763,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "مصادر قريبة إليه قالت أنه في منزله بحالة صحية مستقرة (Getty)",
+    "category": "News",
+    "claim": "<p>وفاة المشير طنطاوي، وزير الدفاع المصري الأسبق، بعد معاناة مع المرض.</p>\r\n",
+    "country": "EG",
+    "created_at": "2020-09-01 23:02:21",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f4ea8cdbd96764b2379d108",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الخبر ليجد أنه إشاعة انتشرت خلال اليومين الأخيرين على وسائل التواصل، فقد نفت مصادر قريبة إلى المشير خبر وفاته لوسائل إعلام مصرية، موضحة أن ما جاء على مواقع التواصل الاجتماعي عارٍ عن الصحة، كما لفتت إلى كونه في منزله وحالته الصحية مستقرة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وكان طنطاوي&nbsp;تولى رئاسة مصر بصفته رئيس المجلس الأعلى للقوات المسلحة بعد تنحي الرئيس السابق حسني مبارك في 11 فبراير/شباط 2011، وأُحيل للتقاعد بقرار رئاسي من الرئيس المصري السابق محمد مرسي&nbsp;في&nbsp;12 أغسطس/آب&nbsp;2012.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_kjrnky21l.jpg\" style=\"height:263px; width:605px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": false,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;تداولت مواقع التواصل الاجتماعي في يومي 31 أغسطس/آب المنصرم والأول من سبتمبر/أيلول الجاري، خبراً مفاده وفاة المشير محمد حسين طنطاوي، وزير الدفاع المصري السابق. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_50tybdwbl.jpg\" style=\"height:588px; width:479px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_8o8m9r79k.jpg\" style=\"height:582px; width:452px\" />&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 355,
+        "left": 3.8333740234375,
+        "path": "articles/1598990540GettyImages-150212231.jpg",
+        "top": 13.0859375,
+        "totalHeight": 423,
+        "totalWidth": 640,
+        "watermark_path": "articles/watermark-1598990540GettyImages-150212231.jpg",
+        "width": 631
+    },
+    "post_date": "2020-09-01T21:32:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/MrkzQtwrmhafztAlghrbyt/posts/3474046972657843",
+            "name": "مركز قطور محافظة الغربية ",
+            "path": "published/0_1598990540_0_1596888660_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/Smile2019.Official/posts/3445483802139563",
+            "name": "ابتسامة",
+            "path": "published/1_1598990540_0_1596888660_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/Eagle74aSC/status/1300582998811738112",
+            "name": " Eagles ",
+            "path": "published/2_1598990540_6_1596888660_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/masrywepas/status/1300562119528714241",
+            "name": "r_ mosa",
+            "path": "published/3_1598990540_6_1596888660_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/34mang/photos/a.498064330650591/1028146934308992/?type=3&theater",
+            "name": "المنصورة اليوم",
+            "path": "published/4_1598990540_0_1596888660_facebook.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.shorouknews.com/news/view.aspx?cdate=01092020&id=927b4b77-7c6c-45dd-8843-442c1cc5a916",
+            "name": "الشروق",
+            "path": "sources/0_1598990540_يييبفغغ.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "المشير طنطاوي حالته الصحية مستقرة، ولا أنباء عن وفاته",
+    "updated_at": "2020-09-25 17:29:59",
+    "url_path": "/factcheck/2020/09/01/المشير-طنطاوي-حالته-الصحية-مستقرة-ولا-أنباء-عن-وفاته"
+}

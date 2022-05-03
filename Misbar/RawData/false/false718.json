@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 4116,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "caption": "الصورة تعود لمقطع تمثيلي منشور على موقع يوتيوب ",
+    "category": "Politics",
+    "claim": "<p>بعد تأخر وصول الامدادات لهم، مقاتل يمني يعطي طعام الإفطار لجنود سعوديين.</p>\r\n",
+    "country": "",
+    "created_at": "2020-05-18 11:57:11",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ec24de7db29163bc24e87e5",
+    "investigation": "<p>من خلال البحث عن الصورة، تبين أنها تعود لمقطع فيديو تمثيلي منشور على موقع يوتيوب في العاشر من مايو/أيار الجاري، على قناة تحمل اسم (قناة أبو علي) وتحتوي على عدد من المقاطع التمثيلية.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_nfr1rk3v8.jpg\" style=\"height:434px; width:624px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p>نشرت بعض الحسابات على موقعي فيسبوك وتويتر، صورةً ادعت أنها لمقاتل يمني يقدم طعام الإفطار لجنود سعوديين صائمين.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ycp82oxgn.jpg\" style=\"height:456px; width:545px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_a25tnnfh1.jpg\" style=\"height:350px; width:624px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 232,
+        "left": 6.2285614013671875,
+        "path": "articles/158979223197089825_253053355808871_4350358132006846464_n.jpg",
+        "top": 24.704833984375,
+        "totalHeight": 423,
+        "totalWidth": 426,
+        "watermark_path": "articles/watermark-158979223197089825_253053355808871_4350358132006846464_n.jpg",
+        "width": 413
+    },
+    "post_date": "2020-05-18T11:38:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=105305801192549&set=basw.AbrTRO8l4KGkrXdlB2n4rmu7sNj104N7TDcxQ3dtrQe1D7WAZSHy9HpH94mSYGj1nkp-JcWECUjLXPj-5uwHWh1ArfZ-eWz1jND9wU_vnAGXi_acmzfjB_WXCqceGSNAYHLaOE7c9WFgK-v7Ce5xVvreefUzHrIwjVe04nHNyc8O_NhhANnxu6ecJh7pXhoreeP-incPvV9xJ1sVZSJd-b1LYIKjHLwCYC5hAKv_4xm-bjrkt0d78atZrEQalkM5zxRzFV83aMMcWnMQmL1FkwMsnwLMEApZOElaGMcM35papdl2KULSHhor2xmJkCGGCH0q7k8yrOvdIs-p2ziDyf7Xu6lOt2vleIjVPYIIlaJBICC0D7LLjD-KgjZ3hVsV2LzQijQXdt_41ty_vzGYyiXu5_xhandFASCAa-8UpCsiCA.3578932872123256.846039032572664.946309372083039.105305801192549.1761012847562567.203815036322498&type=1&opaqueCursor=AbqEiuT_ZQBKiZQhx3nuNtgPZsoWs5_5ZM-egTXUcpQgKlGUTXVYXJvX_VHQkCPCeyolJYspi5Q6nqikREQUqU5CZdHJLtk9n-V6n18yrpFpc7uFfbl5bWrO-aMN2xuzODS_A14d3OSDea6AFUidDQTBUuoHLIAvKAJXiQVEnRTDqSWSdjgCHSqptpySXWTRInL87dXtcY6wOI3V9YAoBLf7bR5uv5RcsXbw1eP2TG1GgZ2DrusCvEGJ-gVd7JJBTXQURylw54PfOk2OZRO9iCH2QZB4SwNcVrH7XDP11C3VifKBeC5zTEjQxSukCsZd0R40QFnzxL1c68ma5zpGAlrsYrdA2NcLMKxqXxdUKPoVOk3dFO0w7fLmoubSYJGYG9eN15HYTK2eIk3e0IVCM3-PIX2_aNBJm9s9TW93g5p0IjajZFRhjP4NgXWIW22K-zuYbvLi2r0Eaf1i4NTJN01AfUKPYPWxXtSVU1tUzgktwzSUArA00EqdF9PH6h7qzaNoFLi_HuVmkqPFGXBKFJ_4LCUQQBONmRuS3jY1zL2nPvbIY8GteMRX8aMobBLwvhPF4YXogmE-5FZZofIh3Vksj1m9pKNzT_7GYnM1k4HoqekYP-H8vs7i92DI090yzFgni7jbalTiAGOu0U4UyAtqsTUdqca70YYS8qzCRWwRCg&theater",
+            "name": "هيثم القرارعه",
+            "path": "published/0_1589792230_هيثم القرارعه.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1571468049694793&id=100004948384391",
+            "name": "محمد الشمري",
+            "path": "published/1_1589792230_محمد الشمري.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=860497874427134&set=a.124790057997923&type=3&theater",
+            "name": "نوال الشريف",
+            "path": "published/2_1589792230_نوال الشريف.JPG"
+        },
+        {
+            "link": "https://twitter.com/AZ2002A/status/1261643251255312384",
+            "name": "راية سيدتي",
+            "path": "published/3_1589792230_راية سيدتي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=740899953317244&set=a.129056494501596&type=3&theater",
+            "name": "جودي الحجي",
+            "path": "published/4_1589792230_جودي الجدي.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=whv_aGtr6SE&list=RDwhv_aGtr6SE&index=1",
+            "name": "قناة أبو علي",
+            "path": "sources/0_1589792230_قناة ابو علي.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "مقاتل يمني يعطي طعام الإفطار لجنود سعوديين.. حقيقة الصورة",
+    "updated_at": "2020-09-25 16:34:12",
+    "url_path": "/factcheck/2020/05/18/مقاتل-يمني-يعطي-طعام-الإفطار-لجنود-سعوديين-حقيقة-الصورة"
+}

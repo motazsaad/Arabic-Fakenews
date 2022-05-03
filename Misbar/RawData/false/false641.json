@@ -1,0 +1,88 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 2,
+        "fb": 2,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 174581,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "  من سلسلة دراما كوميدي عرضتها شبكة نتفليكس بعنوان غير قابل للكسر كيمي شميت (haley strong)",
+    "category": "News",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">صورة لترامب يخرجه أحد القادة العسكريين من مخبأ سري، بعد وصول المظاهرات إلى البيت الأبيض.</span></p>\r\n",
+    "country": "US",
+    "created_at": "2020-06-08 11:34:09",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eddf801d6e4a9038634e5c4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الصورة ووجد أنها مفبركة، فهي مشهد يعود إلى سلسلة دراما كوميدي عرضتها شبكة نتفليكس بعنوان &quot;غير قابل للكسر كيمي شميت&quot; تم إنتاجها عام 2015.</p>\r\n\r\n<h1 dir=\"RTL\" style=\"text-align:center\"><span style=\"background-color:white\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_h6ago7bgh.jpg\" style=\"height:344px; width:605px\" /></span></h1>\r\n\r\n<h1 dir=\"RTL\" style=\"text-align:center\"><span style=\"background-color:white\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_cr641samm.jpg\" style=\"height:367px; width:605px\" /></span></h1>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت حسابات عربية وأجنبية منذ الأول من يونيو/حزيران الجاري، على موقعيّ فيسبوك وتويتر، صورةً لترامب وهو يخرج من قبو تحت الأرض، وعلقت هذه الحسابات أن ترامب يخرج من مخبأ سري بعد وصول المظاهرات إلى البيت الأبيض في واشنطن العاصمة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_hj0nw6wxy.jpg\" style=\"height:541px; width:505px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_0qbbbckn8.jpg\" style=\"height:703px; width:577px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_vi1w736t0.jpg\" style=\"height:485px; width:537px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 403,
+        "left": 37.25,
+        "path": "articles/1591605248تةاة.jpg",
+        "top": 9.71875,
+        "totalHeight": 423,
+        "totalWidth": 761,
+        "watermark_path": "articles/watermark-1591605248تةاة.jpg",
+        "width": 716
+    },
+    "post_date": "2020-06-08T09:05:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/groups/585449305408197/permalink/595300917756369/",
+            "name": "Saber Maged",
+            "path": "published/0_1591605248_صابر.jpg"
+        },
+        {
+            "link": "https://twitter.com/GlenDukes/status/1269411714686226432",
+            "name": "Glen Dukes",
+            "path": "published/1_1591605523_جلن ترامب.jpg"
+        },
+        {
+            "link": "https://www.trendsmap.com/twitter/tweet/1267488767142555648",
+            "name": "Benjamin Siemon",
+            "path": "published/2_1591605523_بنجامين ترامب.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://haleystrong.wordpress.com/2015/03/15/unbreakable-kimmy-schmidt/?fbclid=IwAR388Vz-N0a1R22M7lfi_jN35-44hgzvFM8PqmSVQ8sOcPfeVXOci6YLNMM",
+            "name": "haley strong",
+            "path": "sources/0_1591605248_هالي سترونج.JPG"
+        },
+        {
+            "link": "https://www.artofthetitle.com/title/unbreakable-kimmy-schmidt/",
+            "name": "art of the title",
+            "path": "sources/1_1591605248_ارت.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ترامب يخرج من مخبئه السري.. صورة مفبركة",
+    "updated_at": "2020-09-25 08:56:23",
+    "url_path": "/factcheck/2020/06/08/ترامب-يخرج-من-مخبئه-السري-صورة-مفبركة"
+}

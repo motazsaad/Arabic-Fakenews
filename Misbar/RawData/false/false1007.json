@@ -1,0 +1,83 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 460,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "category": "Sports",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">صورة للاعب التركي مسعود أوزيل برفقة طفل صيني مسلم، تضامنًا مع مسلمي الإيغور.</p>\r\n",
+    "country": "CN",
+    "created_at": "2020-01-05 10:43:49",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e1193b5d4a22961f90d6c54",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">الصورة قديمة وتعود لعام 2017، وهي ملتقطة من مباراة ودية جمعت فريقي تشيلسي وآرسنال الإنجليزيين، في العاصمة الصينية بكين وتفوق فيها تشيلسي بثلاثة أهداف مقابل لا شيء. وكان نجم كرة القدم مسعود أوزيل نشر الصورة على حسابه على موقع فيسبوك في تموز/ يوليو 2017.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_a4b55568325d43b0f32e60bf5e656d33.jpg\" style=\"height:543px; width:590px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "اوزيل",
+        "مسعود",
+        "صين",
+        "ايغول"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">بعد تصاعد الحديث عن نجم فريق آرسنال لكرة القدم، اللاعب التركي مسعود أوزيل، انتشرت عدة أخبار عنه، منها هذا الخبر الذي كان عبارة عن صورة لمسعود أوزيل مع طفل صيني، وقد كُتب عليها أنها لطفل صيني مسلم، وأنَّ ذلك كان تضامناً من اللاعب التركي مع مسلمي الإيغور الذين يتعرضون للاضطهاد في الصين.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_c2bc5ac65fa650d3bf324a9828917a63.jpg\" style=\"height:675px; width:562px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1579446093Mesut_Özil_at_Baku_before_2019_UEFA_Europe_League_Final.jpg"
+    },
+    "post_date": "2019-12-29T00:00:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/tounesalyoum.officiel/posts/3999316003427727",
+            "name": "تونس اليوم",
+            "path": "published/0_1578210229_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=848818342217809&id=100012689523536&fbclid=IwAR0CjJY2693jend8g315ewtu5cviqLfHQfO3emIBso05CJIn2iqFhva1HfQ",
+            "name": "خالد الحامدي",
+            "path": "published/1_1578210229_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Alsh.syasy/photos/a.1073956876106194/1461234647378413/?type=3&theater",
+            "name": "ألش سياسي",
+            "path": "published/2_1578210229_facebook.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.dailymail.co.uk/sport/football/article-4720284/Arsenal-0-3-Chelsea-RESULT-live-action-China.html",
+            "name": "Dailymail",
+            "path": "sources/0_1578210229_Daily mail-logo.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=a8K5bgxC3VU&feature=youtu.be&fbclid=IwAR1N6xmOUIp1rnv6aXmGLzHY4rIP2fsnR3bxQE8_atKXbpXdQf4jhijjcmo",
+            "name": "Arsenal Youtube Channel",
+            "path": "sources/1_1578210229_YouTube-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صورة لمسعود أوزيل برفقة طفل صيني من أصل مسلم",
+    "updated_at": "2020-09-23 12:39:56",
+    "url_path": "/factcheck/2020/01/05/صورة-لمسعود-أوزيل-برفقة-طفل-صيني-من-أصل-مسلم"
+}

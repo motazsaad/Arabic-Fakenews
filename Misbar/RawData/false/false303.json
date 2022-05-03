@@ -1,0 +1,109 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 7889,
+    "author": {
+        "fullname": "محمد الخالدي",
+        "id": "5ef9dcff163be306aa5d2826",
+        "photo": {
+            "name": "1593433343_48252779_2179011148784786_3755534693705973760_o.jpg",
+            "path": "authors/1593433343_48252779_2179011148784786_3755534693705973760_o.jpg"
+        }
+    },
+    "caption": "الكمامة القماشية ليست خطراً، لكنها بحاجة إلى عناية مستمرة (Getty)",
+    "category": "Health",
+    "claim": "<p>الكمامة المصنوعة من قماش قد تنقل فايروس كورونا المستجد&quot;كوفيد19&quot;بسبب الرطوبة ويجب استبدالها فوراً بالطبية.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-09-05 02:50:46",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f52d2d676782b518d19aba4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الخبر ووجده مُضللاً، إذ تبين من خلال موقع منظمة الصحة العالمية أنّ ارتداء أفراد مجتمع للكمامة القماشية ليس خطأً أو كارثةً، بل يُعد كبديل عن الكمامة الطبية في حال عدم توفرها.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وعند ارتداء أي منها يجب العناية بها عبر الالتزام بعدة إرشادات بعضها خاص بالكمامة القماشية وتوجيهات أخرى تنطبق على جميع أنواع الكمامات، وذلك حتى تتمكن هذه الكمامة من حماية مُستخدمها من عدوى الفايروس؛ فيجب عند ارتدائها، أولاً أنّ يبتعد صاحبها مسافة متر واحد على الأقل عن الآخرين، ثم عليه أن ينظفها باستمرار، كما من المهم تحاشي لمس الوجه وقت ارتدائها، ويجب المحافظة على أن لا تكون رطبة أو فضفاضة، بعد الانتهاء منها يجب وضعها بكيس بلاستيكي طالما لم تتسخ أو أصابتها الرطوبة وإذا كانت كذلك فيجب غسلها، وكل مرة يضطر صاحبها إلى لمسها يجب أن يعقم يديه قبل ذلك.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_kikrjwq23.jpg\" style=\"height:365px; width:602px\" /><img src=\"https://images-prod.misbar.com/articlebody/investigation_ajtyxufv9.jpg\" style=\"height:326px; width:602px\" /></span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_c1wm5xfv1.jpg\" style=\"height:851px; width:602px\" /></p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_tjx8q61ur.jpg\" style=\"height:600px; width:424px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت حسابات على مواقع التواصل الاجتماعي خلال شهريّ يوليو/ تموز وأغسطس/ آب الفائتين، معلومات ذات طابع طبي، ادعت خلالها أن استخدام الكمامة المصنوعة من قماش غير الطبية في ظل وباء فايروس كورونا المستجد، هو أمر كارثي وخاطئ تماماً، فهي تمتص الرطوبة وقد تسبب نقل الفايروس.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_nsv4jm28b.jpg\" style=\"height:189px; width:602px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_jg9ekqj6b.jpg\" style=\"height:261px; width:448px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_fru638mqv.jpg\" style=\"height:561px; width:461px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_86pfj45zn.jpg\" style=\"height:230px; width:496px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_tp14r4aph.jpg\" style=\"height:448px; width:452px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1599265145GettyImages-1254905742.jpg",
+        "watermark_path": "articles/watermark-1599265145GettyImages-1254905742.jpg"
+    },
+    "post_date": "2020-09-05T01:12:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/groups/GazaCommercialMarket/?post_id=3620497504683045",
+            "name": "ايمن مطر",
+            "path": "published/0_1599264083_0_1596888660_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/m7mad.alnajar/posts/3468385823211942",
+            "name": "محمد النح",
+            "path": "published/1_1599264083_0_1596888660_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/Enaiaco/posts/1290993897910385",
+            "name": "Enaia co",
+            "path": "published/2_1599264083_0_1596888660_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/kerkukmycity/posts/2418050478497450",
+            "name": "كركوك مدينتي",
+            "path": "published/3_1599263446_0_1596888660_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1639239039572137&id=100004581695751",
+            "name": "استبرق الشمري",
+            "path": "published/4_1599263446_0_1596888660_facebook.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": " https://www.who.int/ar/emergencies/diseases/novel-coronavirus-2019/advice-for- public/when-and-how-to-use-masks",
+            "name": "منظمة الصحة العالمية",
+            "path": "sources/0_1599264083_قاط.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": " https://www.who.int/ar/news-room/q-a-detail/q-a-on-covid-19-and-masks",
+            "name": "منظمة الصحة العالمية",
+            "path": "sources/0_1599264083_قاط.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://apps.who.int/iris/bitstream/handle/10665/332293/WHO-2019-nCov-IPC_Masks-2020.4-ara.pdf",
+            "name": "منظمة الصحة العالمية",
+            "path": "sources/0_1599264083_قاط.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الكمامة القماشية ليست كارثة وخطراً على الصحة",
+    "updated_at": "2020-09-25 16:40:11",
+    "url_path": "/factcheck/2020/09/05/الكمامة-القماشية-ليست-كارثة-وخطرا-على-الصحة",
+    "was_notification_pushed": true
+}

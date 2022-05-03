@@ -1,0 +1,131 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 7633,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": " تعود المنحوتة لفنان هندي يُدعى سودارسان باتنيك (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">فتاةٌ نحتت على أحد شواطئ الهند وجه صدام حسين في الرمال.</p>\r\n",
+    "country": "IN",
+    "created_at": "2020-07-27 15:28:49",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f1ec881163be3064a74c8ad",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الادعاء، ووجد أنّ الصورة بالفعل هي لمنحوتة للرئيس العراقي الأسبق صدام حسين على شواطئ مدينة بوري في الهند. المنحوتة تعود إلى ديسمبر/ كانون الأول عام 2006، وقد نحتها فنّان هندي يُدعى سودارسان باتنيك <span dir=\"LTR\">Sudarsan Pattnaik</span>، تضامناً مع الرئيس العراقي الأسبق الذي أُعدم بتاريخ 30 ديسمبر 2006.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_49bt9dcys.jpg\" style=\"height:594px; width:679px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_uugkfodlz.jpg\" style=\"height:564px; width:754px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">يُعيد مستخدمون على موقع التواصل الاجتماعي فيسبوك منذ عام 2019، نشر صورة تُظهر منحوتة لوجه الرئيس العراقي الأسبق صدام حسين، زاعمين أنّ فتاةً هندية نحتت وجه صدام حسين في الرمال على أحد شواطئ الهند، ثمّ نشرت صورة المنحوتة على &quot;فيسبوك&quot; لترى كم شخصاً سيطلب الرحمّة للرئيس العراقي الأسبق.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_12kw6umkg.jpg\" style=\"height:716px; width:563px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_embnqc56v.jpg\" style=\"height:435px; width:794px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_4r9r7b4gi.jpg\" style=\"height:488px; width:700px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 338,
+        "left": 3.8994140625,
+        "path": "articles/1595852929GettyImages-72903870.jpg",
+        "top": 2,
+        "totalHeight": 423,
+        "totalWidth": 606,
+        "watermark_path": "articles/watermark-1595852929GettyImages-72903870.jpg",
+        "width": 600
+    },
+    "post_date": "2020-07-27T15:13:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/groups/816385718488409/permalink/2937335826393377/?__tn__=H-R",
+            "name": "أبو عامر الحمود",
+            "path": "published/0_1595852928_أبو عامر الحمود.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=620402802122198&set=a.131535481008935&type=3",
+            "name": "Awatef Fts",
+            "path": "published/1_1595852928_Awatef Fts.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2547063698874235&id=100007118880959&__tn__=-",
+            "name": "وليد أحمد العزاني",
+            "path": "published/2_1595852928_وليد أحمد العزاني.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/almourabbi.tn/photos/a.380552862682050/647328426004491/?type=3&theater",
+            "name": "مُربٍ وأفتخر",
+            "path": "published/3_1595852928_مُربٍ وأفتخر.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/mustafa.edrees.52/posts/2497460833697055",
+            "name": "Mustafa Edrees",
+            "path": "published/4_1595852928_Mustafa Edrees.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/7blackness/photos/a.2163816947265003/2308076952839001/?type=3&__xts__%5B0%5D=68.ARDPGTaVfMngzYwbfZFiRqxxOjxMwunZUPREOb6JJLDfQat-melmHue9FcdShaDdqyVw0yaRQwlrpOjsLj6rNz9rO8tbFWWaWE9G5k0Gue6sYAdaJ0MEtsarovwSnP8hQcgwXEBMs87wROHw5SCo45VxaRS0dwvfTuAbJ7Hx9Io-NvpwgRY4X-MEZa1gQXFkoRKnKi-mO1bKl37n_lm8z74TUDmVbW_wwe-UHFH1jwh752McgqhJaS6yyYWKYthIS6rnGeQwp5eTS4sqRUXoJSrJZ0HfL49oeM9jwTAcBRbFozgeTqCEWnW8r_DeOce_5RkCC8wgrxFjstxvMfGBBFdwNQ&__tn__=H-R",
+            "name": "سواد",
+            "path": "published/5_1595852928_سواد.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=3020237648048658&set=a.397709146968201&type=3&theater",
+            "name": "بوكه طلحاوي ياني بوكه",
+            "path": "published/6_1595852929_بوكه طلحاوي ياني بوكه.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/1961697660514186/permalink/3051574134859861/?__tn__=H-R",
+            "name": "Yasser Mohammad",
+            "path": "published/7_1595852929_Yasser Mohammad.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/salalm.bador/posts/2276630529114812",
+            "name": "سعيد بدور",
+            "path": "published/8_1595852929_سعيد بدور.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.telegraph.co.uk/news/picturegalleries/howaboutthat/6309340/Sand-sculptures-by-Sudarsan-Pattnaik-from-India.html?image=13",
+            "name": "The Telegraph",
+            "path": "sources/0_1595852929_2cjxINlJ_400x400.jpg"
+        },
+        {
+            "link": "https://www.dw.com/en/a-just-death-for-a-dictator/a-2295110",
+            "name": "DW",
+            "path": "sources/1_1595852929_DW-logo.jpg"
+        },
+        {
+            "link": "https://foreignpolicy.com/2006/12/29/friday-photo-saddams-indian-beachhead/",
+            "name": "Foreign Policy",
+            "path": "sources/2_1595852929_foreign policy.jpg"
+        },
+        {
+            "link": "https://www.gettyimages.ae/detail/news-photo/indian-tourists-look-at-a-sand-sculpture-of-ousted-iraqi-news-photo/72903870?adppopup=true",
+            "name": "Getty Images",
+            "path": "sources/3_1595852929_getty images-logo.jpg"
+        },
+        {
+            "link": "https://www.cbsnews.com/pictures/the-worlds-reaction/3/",
+            "name": "CBS News",
+            "path": "sources/4_1595852929_CBS news.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "وجه صدام حسين في الرمال، لم تنحته فتاةٌ هندية",
+    "updated_at": "2020-09-25 18:21:04",
+    "url_path": "/factcheck/2020/07/27/وجه-صدام-حسين-في-الرمال-لم-تنحته-فتاة-هندية"
+}

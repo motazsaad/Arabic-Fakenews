@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 428,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "الاسم والملامح يختلفان عن بعضهما البعض (Facebook)",
+    "category": "News",
+    "claim": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">جورج فلويد يظهر في برنامج القاضية جودي الذي عُرض عام 2010 بتهمة سرقة سيارة، وضرب&nbsp;صاحبتها.</span></p>\r\n",
+    "country": "US",
+    "created_at": "2020-07-18 16:48:21",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f12fda5163be306b81fad43",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من المنشورات ليجد أنها مضللة، فالفتى الذي ظهر في البرنامج الذي بثته قناة CBS عام 2010 كان عمره وقتها 17 عاماً بحسب البرنامج وتقارير إعلامية انتشرت عن الحادثة عام 2009، في حين أن جورج فلويد الذي قُتل هذا العام وكان عمره 46 عاماً كان عمره وقتها 27 عاماً، إذ لا يمكن أن يكون الشخص ذاته إضافة إلى اختلاف الاسم والملامح، فجورج الذي يظهر في الفيديو اسمه George Floyd IV، بينما كان الاسم الكامل للرجل الذي قتلته الشرطة في 2020 هو George Perry Floyd</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وفي سجلات الاتهام بحق جورج فلويد المقتول خلال احتجاز الشرطة له،&nbsp;والتي انتشرت على الانترنت، لا يوجد اتهامات تتعلق بسرقة السيارات. وقد اعتقل بتهم مختلفة في الماضي تتعلق بحيازة مخدرات وسرقة مسلحة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_ew4c0vgfr.jpg\" style=\"height:431px; width:604px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/investigation_n9igtcqw7.jpg\" style=\"height:527px; width:605px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت حسابات أجنبية على موقعيّ التواصل الاجتماعي فيسبوك وتويتر خبراً وفيديو، مفاده أن جورج فلويد الأميركي من أصل أفريقي الذي مات تحت ركبة شرطي أميركي أبيض في نهاية مايو/أيار الفائت، ظهر في&nbsp; برنامج القاضية جودي عام 2010 حين ارتكب جريمة سرقة سيارة وضرب صاحبتها، وقد رد على القاضية وقتها أنه كان يشعر البرد ولا يريد العودة للمنزل، وحظي الفيديو في واحد من المنشورات التي بدأت بالانتشار منذ 14 يوليو/ تموز الجاري على مواقع التواصل، بما يزيد عن 34 ألف مشاركة.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_16jv319z8.jpg\" style=\"height:411px; width:596px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_z8y5e5nzr.jpg\" style=\"height:228px; width:583px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_tp86jo5ib.jpg\" style=\"height:413px; width:605px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_5yrnc2wen.jpg\" style=\"height:325px; width:605px\" /></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"308\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FCourtroomCrazy%2Fvideos%2F2591313717864145%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 415,
+        "left": 15.961181640625,
+        "path": "articles/1595080101جورج1.JPG",
+        "top": 6.25,
+        "totalHeight": 423,
+        "totalWidth": 804,
+        "watermark_path": "articles/watermark-1595080101جورج1.JPG",
+        "width": 739
+    },
+    "post_date": "2020-07-18T14:37:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/HeddRoxx/status/1283814003475611648",
+            "name": "Randy Hedrick",
+            "path": "published/0_1595080100_راندي.jpg"
+        },
+        {
+            "link": "https://twitter.com/fudanshi15/status/1283069598133366786",
+            "name": " fudanshi",
+            "path": "published/1_1595080101_aL4T6jcs_400x400.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/LetsTakeAmericaBackNow/videos/723489868436013/",
+            "name": " Make America Healthy, Safe, and Prosperous Again",
+            "path": "published/2_1595080101_اميركا.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/CourtroomCrazy/videos/2591313717864145/?v=2591313717864145",
+            "name": " Courtroom Crazy",
+            "path": "published/3_1595080101_كارتون.JPG"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.snopes.com/news/2020/06/12/george-floyd-criminal-record/",
+            "name": "snopes",
+            "path": "sources/0_1595080101_سنوبز.JPG"
+        },
+        {
+            "link": "https://www.nbcchicago.com/news/local/cop-carjacker/1867562/",
+            "name": "nbc chicag",
+            "path": "sources/1_1595080101_شيكاجو.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذا الفتى هو جورج فلويد آخر ظهر في برنامج القاضية جودي",
+    "updated_at": "2020-09-25 07:20:49",
+    "url_path": "/factcheck/2020/07/18/هذا-الفتى-هو-جورج-فلويد-آخر-ظهر-في-برنامج-القاضية-جودي"
+}

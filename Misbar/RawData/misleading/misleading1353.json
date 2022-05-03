@@ -1,0 +1,91 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1251,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "الصورة منشورة على مواقع روسية منذ آذار/ مارس 2019 (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة لرتل عسكري تركي دمّرته قوات النظام السوري.</p>\r\n",
+    "country": "",
+    "created_at": "2020-02-25 12:22:40",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e54e760d4a229248a270e33",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الصورة غير صحيحة، فهي ليست لرتل عسكري تركي مدمر في الشمال السوري، إنمّا وجدها &quot;مسبار&quot; منشورة منذ شهر مارس/آذار 2019، على مواقع وحسابات روسيّة، تدعي أنها لعربات عسكرية أميركية دُمّرت بسبب انفجار لغم أرضي، ولم يتمكن &quot;مسبار&quot; من التحقق من صدق هذا الادعاء، إلّا كون الصورة قديمة، فهي بالتأكيد ليست لرتل عسكري تركي دمرته قوات النظام.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_64xre3jcy.jpg\" style=\"height:417px; width:522px\" /></span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_7almc8t38.jpg\" style=\"height:479px; width:524px\" /></span></strong></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت حسابات وصفحات على موقع التواصل الاجتماعي فيسبوك منذ 24 فبراير/شباط من العام الجاري، صورة زعم ناشروها أنها لرتل عسكري تركي دمّره جيش النظام السوري، وجاء في المنشور المصاحب للصورة &quot;تدمير رتل كامل للمحتل العثماني من قبل أبطال الفرقة 25&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_fj9kzmbch.jpg\" style=\"height:404px; width:455px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_scydfwe6a.jpg\" style=\"height:376px; width:456px\" /></span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_al3lndukn.jpg\" style=\"height:520px; width:428px\" /></span></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1582628502ssd.jpg"
+    },
+    "post_date": "2020-02-25T12:12:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/REEMASADRNN/photos/a.115969969773094/197386154964808/?type=3&theater",
+            "name": "الإعلامية ريم مسعود",
+            "path": "published/0_1582622560_الإعلامية ريم مسعود-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2546467042348030&id=100009542776423",
+            "name": "ناصر هيبة",
+            "path": "published/1_1582622560_ناصر هيبة-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/238279430427453/photos/a.238395833749146/510667803188613/?type=3&theater",
+            "name": "الحسكة مضحك غويران",
+            "path": "published/2_1582622560_الحسكة مضحك غويران-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Alanismailahmed/photos/a.101739084575928/182550039828165/?type=3&theater",
+            "name": "تريسبي",
+            "path": "published/3_1582622560_تريسبي-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/eyeonhasaka/photos/a.991322674251258/2993492660700906/?type=3&__xts__%5B0%5D=68.ARCMVlNrk6rYFEk2B9tMmb1-YPlVluHsuRNJy9WzS1Knri_fJsHU9RT7TFydBA8p0gWnLou6kuedosH-p0uKrLK8NYuT-ZXVXdgnLqu7IXFqA61ndVc5AOXIF12q5hWi90KfTAWyQJ0SULBQdttHtiesFXEpVS19c-jlCnjl0-eWfILPC1_4kfPxcH__-2_YTyVUqY7n0w_w0C7thBouNK1I3ptT7Te8f6K5UoCG75o850ILdvtuLKDAYxWhBnK_jxJU1m5V9Fa6bkeOAbHJjRELQ1QpvLG0l01uoJWuWVOv8pyz&__tn__=-R",
+            "name": "عين على الحسكة",
+            "path": "published/4_1582622560_عين على الحسكة-لوغو.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://yuripasholok.livejournal.com/11622864.html",
+            "name": "Live Journal",
+            "path": "sources/0_1582622559_Live Journal-logo.jpg"
+        },
+        {
+            "link": "https://sibnarkomat.livejournal.com/27241836.html",
+            "name": "Sibnarkomat",
+            "path": "sources/1_1582622559_Sibnarkomat-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "قوات النظام السوري تدمر رتلاً عسكرياً تركياً.. حقيقة الصورة",
+    "updated_at": "2020-09-23 12:38:01",
+    "url_path": "/factcheck/2020/02/25/قوات-النظام-السوري-تدمر-رتلا-عسكريا-تركيا-حقيقة-الصورة"
+}

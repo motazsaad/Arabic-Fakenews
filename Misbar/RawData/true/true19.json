@@ -1,0 +1,108 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1384,
+    "author": {
+        "fullname": "مريم هواري",
+        "id": "5e299460d4a22939983a3ec5",
+        "photo": {
+            "path": "authors/1579791192_Maryam.jpg"
+        }
+    },
+    "caption": "هبطت الطائرة &amp;quot;الإسرائيلية&amp;quot; في الإمارات بتاريخ 31 أغسطس/آب الجاري.",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">بحسب صحيفة &quot;إسرائيلية&quot;، لم توافق السعودية على تحليق أول طائرة متّجهة من &quot;تل أبيب&quot; للإمارات في مجالها الجوي.</p>\r\n",
+    "country": "SA",
+    "created_at": "2020-08-31 16:10:10",
+    "created_by": "5f39b6aa1dd585076701cb95",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5f4cf6b260211806577fe10e",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقّق &quot;مسبار&quot; من المنشورات المتداولة ووجد أنّها صحيحة، وقد نُشرت قبل موافقة السلطات السعودية على مرور طائرة شركة إلعال &quot;الإسرائيلية&quot; في مجالها الجوّي، والّتي نقلت على متنها وفداً أميركياً و&quot;اسرائيلياً&quot; إلى الإمارات العربية المتّحدة، لكنّها حصلت لاحقاً على موافقة السعودية وهبطت الطائرة بتاريخ 31 أغسطس/آب الجاري في مطار أبو ظبي، وفق المسار الموضّح أدناه:</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><strong>مسار الطائرة المتوقّع بحسب <a href=\"https://twitter.com/igudhatayasim/status/1300059910105903104\" style=\"color:blue; text-decoration:underline\">جمعية الطيارين &quot;الإسرائيليين</a>، قبل الحصول&nbsp;على موافقة السعودية.</strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_a5d4q0l0v.jpg\" style=\"height:820px; width:493px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><strong>مسار الطائرة &quot;الإسرائيلية&quot; الرسمي.</strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_4rnykubow.jpg\" style=\"height:550px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">وتجدر&nbsp;الإشارة إلى أن&nbsp;&quot;جيروزاليم بوست&quot;، قد حذفت التقرير الّذي استند عليه الخبر المتداول، ونشرت مكانه <a href=\"https://www.jpost.com/israel-news/israel-uae-flight-planned-to-enter-saudi-arabia-airspace-640481?fbclid=IwAR3gfYTmXTyAAOPwTH1r8QzXbmnX7KTwS2L7S940lz29CNoa77ODTop29Zo\">تقريراً </a>يُفيد عبور الطائرة &quot;الإسرائيلية&quot;، المجال الجوّي السعودي.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_uipb1s8f8.jpg\" style=\"height:440px; width:566px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_hrxj85at4.jpg\" style=\"height:622px; width:624px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">تداولت صفحات وحسابات على موقعي التواصل الاجتماعي فيسبوك وتويتر، بتاريخ 30 أغسطس/آب الجاري، خبرًا استند على تقريراً لصحيفة جيروزاليم بوست، مفاده&nbsp;عدم موافقة المملكة العربية السعودية على تحليق الطائرة &quot;الإسرائيلية&quot; المتّجهة من &quot;تل أبيب&quot; إلى مطار أبو ظبي في الإمارات العربية المتّحدة، في مجالها الجوي، وذلك عملاً بمقاطعة &quot;إسرائيل&quot; وعدم السماح للطيران المتّجه من وإلى دولة الاحتلال.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_s6e2d5rqz.jpg\" style=\"height:396px; width:591px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_obumhfmu9.jpg\" style=\"height:726px; width:369px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_bchmbm7ow.jpg\" style=\"height:154px; width:557px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 354,
+        "left": 7.21710205078125,
+        "path": "articles/1598879409GettyImages-1228282889.jpg",
+        "top": 3.31591796875,
+        "totalHeight": 423,
+        "totalWidth": 655,
+        "watermark_path": "articles/watermark-1598879409GettyImages-1228282889.jpg",
+        "width": 630
+    },
+    "post_date": "2020-08-31T16:02:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/Diplomat_00/status/1300101273052565504",
+            "name": "Diplomat",
+            "path": "published/0_1598879409_Twitter-logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/_AAN90/status/1300283032742563840",
+            "name": "الوزير المرافق",
+            "path": "published/1_1598879409_Twitter-logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Sa1udi/posts/161939448878271",
+            "name": "السعودية أولاً Saudi Arabia first",
+            "path": "published/2_1598879409_Facebook_logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/sondos.so/posts/3501859313187217",
+            "name": "Sondos M Kassem",
+            "path": "published/3_1598879409_Facebook_logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/algerdefence/posts/3356771111028204",
+            "name": "دفاعا عن الجزائر الحبيبة",
+            "path": "published/4_1598879409_Facebook_logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/docshayji/status/1300096077958459392",
+            "name": "عبدالله الشايجي",
+            "path": "published/5_1598880511_Twitter-logo.jpg"
+        }
+    ],
+    "result": "true",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://ar.flightaware.com/live/flight/ELY971/history/20200831/0826Z/LLBG",
+            "name": "Flight Aware",
+            "path": "sources/0_1598879409_flight aware.jpg"
+        },
+        {
+            "link": "https://twitter.com/igudhatayasim/status/1300059910105903104",
+            "name": "جمعية الطيارين ",
+            "path": ""
+        },
+        {
+            "link": "https://arabic.cnn.com/middle-east/article/2020/08/31/first-israeli-commercial-flight-abu-dhabi-fly-through-saudi-arabia-airspace",
+            "name": "CNN بالعربية",
+            "path": "sources/2_1598879409_CNN العربية.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "وافقت السعودية على عبور الطائرة \"الإسرائيلية\" مجالها الجوي",
+    "updated_at": "2020-09-25 20:12:04",
+    "url_path": "/factcheck/2020/08/31/وافقت-السعودية-على-عبور-الطائرة-الإسرائيلية-مجالها-الجوي"
+}

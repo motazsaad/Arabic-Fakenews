@@ -1,0 +1,98 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 555,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "صور قديمة وتمت فبركتها عبر تغيير العبارات المكتوبة على اللافتات (Facebook)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\"><strong>صور لفتيات لبنانيات بمظاهرات وهن&nbsp;يرفعن لافتات كتبن&nbsp;عليها عبارات تستنجد بشباب مدينة الرمادي العراقية لإنقاذ لبنان.</strong></p>\r\n",
+    "country": "LB",
+    "created_at": "2020-08-11 16:29:22",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f329d321dd58507b410d85a",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><strong>تحقّق &quot;مسبار&quot; ووجد أن الصور قديمة ومفبركة؛&nbsp;إذ أن مُفبرك الصور استبدل عبارة &quot;</strong><strong>tfeh</strong><strong> عليكن&quot; المكتوبة على اللافتة في واحدة من&nbsp;الصور&nbsp;الأصلية، بعبارة &quot;وين ابن الرمادي يفزع لبيروت&quot;، وتعود هذه الصورة إلى مظاهرة خرجت بتاريخ 7 مارس \\ آذار عام 2016، ضد سياسة الحكومة اللبنانية وفشلها في نقل النفايات المتراكمة بالشوارع.</strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><img id=\"صورة_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/investigation_1pc1vxj4o.jpg\" style=\"height:122.25pt; width:347.25pt\" /> </strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><strong>وفي الصورة الأخرى استبدل المفبرك العبارة التي تطالب باستقالة وزير الخارجية اللبنانية السابق جبران باسيل، بوسم (لبنان_للعراق)، وسؤال، &quot;وينهم أهل الرمادي من صبايا بيروت؟&quot;، وتعود الصورة إلى عام 2019 في الاحتجاجات التي خرجت معترضة على سياسات الحكومة اللبنانية وباسيل.</strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><img id=\"صورة_x0020_2\" src=\"https://images-prod.misbar.com/articlebody/investigation_pthjgrjmx.jpg\" style=\"height:350.25pt; width:470.25pt\" /> </strong></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><strong>تتداول صفحات وحسابات على مواقع التواصل الاجتماعي، منذ 8 أغسطس \\ آب الجاري، صوراً تم نسبها إلى فتيات يتظاهرن أمام المجلس النيابي في بيروت ويرفعن لافتات، كتبن عليها شعارات تستنجد بأبناء مدينة الرمادي العراقية من أجل إنقاذ لبنان.</strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><img id=\"صورة_x0020_3\" src=\"https://images-prod.misbar.com/articlebody/origin_fkcm2gt7n.jpg\" style=\"height:650.25pt; width:393pt\" /> <img id=\"صورة_x0020_4\" src=\"https://images-prod.misbar.com/articlebody/origin_d7vmi1e7w.jpg\" style=\"height:650.25pt; width:366.75pt\" /> <img id=\"صورة_x0020_5\" src=\"https://images-prod.misbar.com/articlebody/origin_nn33z5hf4.jpg\" style=\"height:650.25pt; width:392.25pt\" /> </strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 391,
+        "left": 7.5,
+        "path": "articles/1597152562ثث33.JPG",
+        "top": 23.0859375,
+        "totalHeight": 423,
+        "totalWidth": 709,
+        "watermark_path": "articles/watermark-1597152562ثث33.JPG",
+        "width": 695
+    },
+    "post_date": "2020-08-11T14:40:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/nXU0Dt0U3yRs0a5/status/1292854455113850885/photo/3",
+            "name": "مغرد الوطن",
+            "path": "published/0_1597152561_6_1596888660_twitter.jpg"
+        },
+        {
+            "link": "https://twitter.com/OWf7tgW15hvA1Ze/status/1292482450363424770",
+            "name": "منذر العنزي",
+            "path": "published/1_1597152562_6_1596888660_twitter.jpg"
+        },
+        {
+            "link": "https://www.instagram.com/p/CDrTQxcB7VW/?igshid=1bstbum80z8m",
+            "name": "shabab_show",
+            "path": "published/2_1597152562_ab6eff595bb1.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/390116921663809/permalink/585383805470452/?__tn__=-R",
+            "name": "أمير العشاق",
+            "path": "published/3_1597152562_0_1596888660_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/627778154654427/permalink/816747242424183/?__tn__=-R",
+            "name": "jhad",
+            "path": "published/4_1597152562_0_1596888660_facebook.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.barlamane.com/%d8%ab%d9%8f%d9%88%d8%b1%d9%8a-%d8%a3%d9%8f%d8%ad%d8%a8%d9%83-%d8%a3%d9%86-%d8%aa%d8%ab%d9%8f%d9%88%d8%b1%d9%8a-%d8%a3%d8%ac%d9%85%d9%84-%d8%b5%d9%88%d8%b1-%d8%a7%d9%84%d9%86%d8%b3%d8%a7%d8%a1/?__cf_chl_jschl_tk__=e44ae4cc815696558dfaae1c295ad77208c23715-1597151114-0-Ac4BhigWMWH7jrGvgLZnhdVYjxRMXLMKx5S5ZQ-MWJNDwf11xIbTLICau5dWywmwXDnnWIqVuQGt6nTkwn5h6OHMpQvpmjnTJEYYS4yzM4PTaDoQYNag-fLZDpk-_pRFO46MROeum2RbNFpXRjh3XdCySI3j-cFrTLihwnlf2q75s3l5o54T_C4BQnheYkwiwb1yAvjZZzOuSOJQIq6VWMlgTUOI2MqqCmDALe8iofeHgze6WiWUKqxVwRLTRaZnbT1G70BbBlO5krbCvyufzHURURYb5xHOxZTSbYGNvodZR9wU5U75bKju8ChCpvOQ_7zR4nOlXvrHIPPOPQZ40O8Hoyp2fqwJGdV6JL3i3dq_-S46SpKF_0c5iFjpONAat-UuugwgMIoMYqVZ_PZvPxXBrGtzY3dkQYyPeTLkJEIWN4pWqNmxLbdNXZ0XWOT6RsqfwvIDb0fLK-yRYbDOXEXANLJHYjwgHLEg4utaoRHSZ5elygie0cvis_ap3eiPlaQrBzZwi59SHzcO_QeuWJ0xKtrYfXjmCS4yepnbujLjjs-ySOyyYRRSeCz6OdmvcJCwPjymFJGWuegpra3j1yo",
+            "name": "البرلمان",
+            "path": "sources/0_1597152562_بلالات.JPG"
+        },
+        {
+            "link": "https://twitter.com/AbboudWilliam2/status/1185960548514615296",
+            "name": "Abboud William",
+            "path": "sources/1_1597152562_6_1596888660_twitter.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصور في مظاهرات بلبنان إلا أنها قديمة ومفبركة",
+    "updated_at": "2020-09-25 21:38:34",
+    "url_path": "/factcheck/2020/08/11/هذه-الصور-في-مظاهرات-بلبنان-إلا-أنها-قديمة-ومفبركة"
+}

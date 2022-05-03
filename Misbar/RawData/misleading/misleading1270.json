@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1859,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الصورة المتداولة ليست لأجهزة تنفس مصنوعة في سورية (Getty)",
+    "category": "Health",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة لأجهزة التنفس التي صنعها&nbsp;أطباء سوريون في مدينة حلب لمواجهة فايروس كورونا.</p>\r\n",
+    "country": "SY",
+    "created_at": "2020-04-07 11:42:38",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e8c3cfedb29163dbc60d454",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">فحص &quot;مسبار&quot; الصورة، وتأكّد من عدم صحتها، فهي لم تُلتقط لأجهزة تنفس في مدينة حلب السورية، إنمّا وجدها &quot;مسبار&quot; منشورة على أحد المتاجر الإلكترونية على الإنترنت وليس لها علاقة بسورية على الإطلاق. وتجدر الإشارة أنّ السلطات الصحية التابعة للنظام&nbsp;السوري لم تُعلن حتى اللحظة عن صناعة أجهزة التنفس محلياً.&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">بعد نشر هذا المقال في 7 أبريل/ نيسان من العام الجاري، وردت أنباء تفيد أنّ مجموعة من الأطباء والمهندسين في الشمال السوري التي تسيطر عليه المعارضة، وتحديداً في مدينة الباب، تمكنوا من تصنيع أول جهاز تنفس محلياً. وقال أحمد الجبيلي المشرف على المشروع في تصريح لتلفزيون سوريا&nbsp;&nbsp;&quot;جهاز التنفّس الصناعي يعتمد على أدوات متاحة ويسهل الحصول عليها في المنطقة، وتتراوح كلفته بين 100 و120 دولاراً أمريكياً&quot;.&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_sg68j71wg.jpg\" style=\"height:297px; width:658px\" /></span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_q83ca9dqz.jpg\" style=\"height:330px; width:644px\" /></span></strong></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت صفحات وحسابات على موقع فيسبوك، صورة تُظهر أجهزة تنفسٍ قال ناشروها إنها من صناعة أطباءٍ في مدينة حلب، هؤلاء الأطباء بدؤوا بصنع هذه الأجهزة لمواجهة تهديد انتشار فايروس كورونا (كوفيد-19). وأرفق معظم الناشرين الصورة مصحوبة بتعليق &quot;حلب الإنسانية.. حلب العقول الخيّرة. صناعة المنفسة لأول مرة في سوريا بأيدي حلبية&quot;.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"516\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D2895138177201367%26id%3D639714612743746&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"548\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fafeef.obaid.9%2Fposts%2F3214179435288376&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 348,
+        "left": 4.3238525390625,
+        "path": "articles/1586248958GettyImages-1207647798.jpg",
+        "top": 2,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1586248958GettyImages-1207647798.jpg",
+        "width": 619
+    },
+    "post_date": "2020-04-07T11:18:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/groups/1021466307866340/permalink/3152586118087671/?__tn__=-R",
+            "name": "أخبار حلب عاجل",
+            "path": "published/0_1586248956_أخبار حلب عاجل.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/639714612743746/photos/a.674097425972131/2895138140534704/?type=3&theater",
+            "name": "الساحل الآن",
+            "path": "published/1_1586248956_الساحل الآن.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/880625682376056/permalink/885984525173505/?__tn__=-R",
+            "name": "يوميات سوري بالحجر الصحي",
+            "path": "published/2_1586248956_يوميات سوري بالحجر الصحي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=3214179401955046&set=a.272240359482313&type=3",
+            "name": "Afeef Obaid",
+            "path": "published/3_1586248956_Afeef Obaid.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Tsweqtion/photos/a.559772404551927/757151328147366/?type=3&__tn__=H-R",
+            "name": "تسويقشن",
+            "path": "published/4_1586248957_تسويقشن.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.alibaba.com/product-detail/Lightweight-reusable-clear-breathing-mask-hospital_60760852851.html",
+            "name": "Alibaba",
+            "path": "sources/0_1586249483_Alibaba.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/MinistryOfHealthSYR/?__tn__=%2Cd%2CP-R&eid=ARBGISfag66gFRINQR0ONofjjlhHf0sNmnjkyNQPsmKNVdmAY5aBvtMTWtMA_-C6cu7B2uL9T1uaU_GP",
+            "name": "وزارة الصحة السورية ",
+            "path": "sources/1_1586248957_وزارة الصحة السورية.jpg"
+        },
+        {
+            "link": "https://www.syria.tv/%D8%A7%D9%84%D8%A8%D8%A7%D8%A8-%D8%A3%D9%88%D9%84-%D8%AC%D9%87%D8%A7%D8%B2-%D8%AA%D9%86%D9%81%D9%91%D8%B3-%D8%B5%D9%86%D8%A7%D8%B9%D9%8A-%D9%85%D8%AD%D9%84%D9%8A-%D9%81%D9%8A-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D9%81%D9%8A%D8%AF%D9%8A%D9%88?fbclid=IwAR0ynhZtCu7z8YGPTQ9C7bT9DmsTS77jJ5XrdVegefiE8K8f51LhxJjvvyE",
+            "name": "تلفزيون سوريا",
+            "path": "sources/2_1586526920_تلفزيون سوريا.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "أطباء سورية يصنعون أجهزة التنفس.. حقيقة الصورة",
+    "updated_at": "2020-09-25 18:03:33",
+    "url_path": "/factcheck/2020/04/07/كورونا-سورية-هل-بدأ-الأطباء-بصناعة-أجهزة-التنفس"
+}

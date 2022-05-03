@@ -1,0 +1,98 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 1,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1662,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "المقطع الأصلي يُظهر مُقرئاً بوسنيًّا وليس مطرباً (يوتيوب)",
+    "category": "Spirituality & Religion",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">الشاب الأميركي مايكل الذي عرضت عليه شركة ميوزك ماستر 30 مليون دولار ليُصدر لها ألبوماً واحداً بعد اعتزاله الغناء ودخوله الإسلام لكنه رفض. استمعوا إلى جمال صوته وهو يؤمّ المسلمين في أحد مساجد أميركا.</span></p>\r\n",
+    "country": "US",
+    "created_at": "2020-06-27 17:40:15",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ef75a4f163be306a608e266",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من مقطع الفيديو المتداول ووجد أنه مضلل، لأنّ </span><a href=\"https://youtu.be/m4eDtZtuxzw\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>المقطع الأصلي</u></span></a><span style=\"color:#000000\"> يُظهر المُقرئ البوسني </span><a href=\"https://www.facebook.com/pg/fatihseferagic/about/?ref=page_internal\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>Fatih Seferagic</u></span></a><span style=\"color:#000000\"> المقيم في الولايات المتحدة الأميركية، وهو يقرأ جزءاً من سورة النساء، عام 2012.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">وبحسب السيرة الذاتية المذكورة في صفحة Fatih Seferagic، فإنه لم يعمل يوماً في مجال الغناء أصلاً.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/m4eDtZtuxzw\" width=\"560\"></iframe></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل صفحات وحسابات على مواقع التواصل الاجتماعي، منذ سنوات ومؤخراً، مقطع فيديو تدّعي أنه لمغنٍّ أميركي اسمه مايكل، أثناء قراءته للقرآن في أحد مساجد أميركا. كما ادّعى ناشرو الخبر أنّ شركة اسمها ميوزك ماستر عرضت على مايكل ثلاثين مليون دولار مقابل أن يُصدر لها ألبوماً واحداً بعد أن اعتزل الغناء واعتنق الإسلام لكنه رفض.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"606\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fjalel.berrak%2Fvideos%2F800919620357874%2F&amp;show_text=1&amp;width=476\" style=\"border:none;overflow:hidden\" width=\"476\"></iframe></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_5p3herfqp.jpg\" style=\"height:704px; width:527px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 381,
+        "left": 60.0999755859375,
+        "path": "articles/1593268814غلاف.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 797,
+        "watermark_path": "articles/watermark-1593268814غلاف.jpg",
+        "width": 677
+    },
+    "post_date": "2020-06-27T17:32:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/nasser_2030m/status/1248772911860797440",
+            "name": "اسلــوب راقــي",
+            "path": "published/0_1593268813_أسلوب.jpg"
+        },
+        {
+            "link": "https://twitter.com/Hozaifa_MoH/status/1202657291788574720",
+            "name": "كن محسناً فيما بقى",
+            "path": "published/1_1593268814_كن.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/jalel.berrak/posts/800925590357277",
+            "name": "Ja Lel Barak",
+            "path": "published/2_1593268814_ja lel.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=711402769354163&id=100014533399221",
+            "name": "الكاتب مسعد خليفة",
+            "path": "published/3_1593268814_الكاتب.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/1086104891583072/permalink/1222156514644575/",
+            "name": "زياد يونس",
+            "path": "published/4_1593268814_زياد.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://youtu.be/m4eDtZtuxzw",
+            "name": "TheQuranicChannel",
+            "path": "sources/0_1593268814_the.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/pg/fatihseferagic/about/?ref=page_internal",
+            "name": "Fatih Seferagic",
+            "path": "sources/1_1593268814_fatih.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الفيديو ليس لمطرب اعتزل الغناء واعتنق الإسلام",
+    "updated_at": "2020-09-25 06:29:55",
+    "url_path": "/factcheck/2020/06/27/الفيديو-ليس-لمطرب-اعتزل-الغناء-واعتنق-الإسلام"
+}

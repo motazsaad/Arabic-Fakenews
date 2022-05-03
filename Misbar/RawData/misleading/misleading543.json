@@ -1,0 +1,109 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 309,
+    "author": {
+        "fullname": "خالد إسماعيل",
+        "id": "5e59256dd4a2295224257db3",
+        "photo": {
+            "name": "1582900589_صورة 2.jpg",
+            "path": "authors/1582900589_صورة 2.jpg"
+        }
+    },
+    "caption": "الخبر غير صحيح، فالتعديلات الأخيرة لم تشمل امتيازات ممنوحة لأعضاء البرلمان (وكالة جيتي)",
+    "category": "News",
+    "claim": "<p>&nbsp;</p>\r\n\r\n<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-EG\"><span style=\"color:black\">السيسي يصادق على لائحة مجلس النواب المصري الجديدة والتي تتضمن إلغاء الامتيازات التي تُمنح لأعضاء البرلمان قبل الانتخابات الجديدة المقررة في نوفمبر/تشرين ثاتي القادم.</span></span><strong> </strong></p>\r\n",
+    "country": "EG",
+    "created_at": "2020-10-05 15:51:22",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 3,
+    "id": "5f7b16ca3d477d11590c0ee9",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تحقَّق &quot;مسبار&quot; من الخبر المتداول وتبيّن أنه غير صحيح، إذ لم تنشر أية&nbsp;وسيلة&nbsp;إعلامية مصرية رئيسية، أخباراً عن تعديلات جديدة في لائحة البرلمان المصري، كما لم يتم إلغاء أيّ&nbsp;امتيازات للأعضاء.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">&nbsp;أما المستشار مجدى العجاتى فلا يشغل الآن منصب وزير الشؤون النيابية؛ وقد ترك هذا المنصب منذ عام 2017 ويتولى &nbsp;العجاتي الآن منصب نائب رئيس مجلس الدولة، ومن يتولى منصب وزير الشؤون النيابية هو المستشار علاء الدين فؤاد.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">&nbsp;ووجد &quot;مسبار&quot; أن آخر تعديلات تم إقرارها على اللائحة الداخلية لمجلس النواب كانت في أبريل/نيسان عام 2016، وذلك بعد إقرارها من البرلمان وتصديق السيسي آنذاك عليها، ولم تشمل وقتها&nbsp;إلغاء امتيازات النواب وصلاحيتهم. </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><u><span dir=\"LTR\" lang=\"AR-SA\"><span style=\"color:blue\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_5ebm1j3pt.jpg\" style=\"height:485px; width:578px\" /></span></span></u></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><strong>&nbsp;</strong><strong><u><span style=\"color:blue\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_wb5khzkwz.jpg\" style=\"height:642px; width:592px\" /></span></u></strong></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\"><span style=\"color:black\">تداولت حسابات وصفحات عبر منصات التواصل الاجتماعي منذ العشرين من سبتمبر/أيلول المنصرم، خبراً عن تصديق الرئيس المصريّ عبد الفتاح السيسي، مؤخراً،&nbsp;&nbsp;اللائحة الداخلية الجديدة للبرلمان المصريّ التي تقدم بها مجدي العجاتي وزير الشؤون القانونيّة والتي تقضي بإلغاء الامتيازات التي قد يحصل عليها نواب البرلمان في هيئاتهم الحكومية.</span></span></p>\r\n\r\n<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\"><span style=\"color:black\">كما صادق على إلغاء الاستثناءات في الحصول على فرص عمل لهم ولأبنائهم أو من يوصون عليهم في الكليات العسكرية والشرطة، بالإضافة لإقرار عقوبات على من يثبت سوء استغلاله لحصانته البرلمانيّة.</span></span></p>\r\n\r\n<p style=\"text-align:justify\"><img src=\"https://images-prod.misbar.com/articlebody/origin_fziazt73x.jpg\" style=\"height:408px; width:602px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_pplol3twb.jpg\" style=\"height:659px; width:444px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_zatbfksw2.jpg\" style=\"height:680px; width:502px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 339,
+        "left": 17.70001220703125,
+        "path": "articles/1601902281GettyImages-134201800.jpg",
+        "top": 13.60009765625,
+        "totalHeight": 423,
+        "totalWidth": 635,
+        "watermark_path": "articles/watermark-1601902281GettyImages-134201800.jpg",
+        "width": 603
+    },
+    "post_date": "2020-10-05T14:12:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/photo?fbid=3552667491464880&set=a.659262727472052",
+            "name": "Mohamed Attya Ellyan",
+            "path": "published/0_1601902281_قققف.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/photo?fbid=1761472217336817&set=a.356725194478200",
+            "name": "عصام سنوسي",
+            "path": "published/1_1601902281_قققف.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/photo/?fbid=3504380409623286&set=gm.1746707652172386",
+            "name": "الموزع حسين بغدادى ",
+            "path": "published/2_1601902281_قققف.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/FatimaS07269762/status/1308118012885639172",
+            "name": " Fatma Saad",
+            "path": "published/3_1601902281_ق4.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/photo/?fbid=10214470215788382&set=basw.Abqff5E1VVW5I-_CrMn9FXew1b5Sah1GH-A9mvJmMxrOuJEez_VUB6SEedVN0Z-IZXcbA9alscgaW-KZ1S10B0GLs1auETPPfeKoJSV2k-MVHd8fjdR0Bo98qp8U57Ts-64D47286lpG3DU63w_bTiC54ditA_1i1NO8JSdvq0iLG0flFsgcqBezr0u6EVij5RSIzLB9f_tgWxs3AV6xr709NtOYK5tkt7DLY_iG6KmYy_oV0_5nwLLbaC9raaLJ0fapvQXRJwbCkGVabe1W656YXl6qbf5CELRd4nMkrksiIgYpsN1nD5p-DYwTA5jSPefWXQJfwinMM7IAU7EpsTL5X4U-foBJcfLbGsc-22-5HS-x9hgYuJSLhvCVX53WaaWSFyolgeFDtMNQimIQicPGpX1g85j8OkaTrocPn8U90GJIFRzbopWXxOLg5OIpGoVE-w13_crI9n7CyW-x2OOr24TQbn4APx65XUHDD7qIaJu3uAeriavPxh8zV0WLnpTBBexb-LjLcQf6WtHUp5zuC3yISoV67lgu-qo053wzE53fQQcFMJMEEPb5UNAbO1E&opaqueCursor=AboHkKE-YgMyDpLQ-Sslffw70ew4ve9v-LONE4HIJiOuH5M00Q2AzH3dM_r2V7UYQwg8XWT9fbbic0gPRg2i9fVInyDZggjhFORTmoiPUpX7BYu_xGzacpBdRtLmqg3_NkIlJuxBoquD91w2dsGTuV6HUOqz9YERL0qRIWmZSQeWKD2DdzCliWUiEHohtwKFXXqukhm_aiRHKOZtll2TcYVEN_rrj323xuBkFBuXGlo9Hy_676BKYcAePLio38-iGhA_YHuzuWs0ihN6dXya2Rjj4HP-1mg-CbDmkDSZ_rqPiMqKGgogaTvk1deF0v3O3Zvod_AmFjzo4ICv9gOGbAL2GdAWZzQ7R7eGOjijKRhUgToyT5AbskKhxRH6_aFCjGs1CV9IqeMxHiGI1JSMOfrJOmEWhYlRzWC8A6TYqW7ZE0d4cBdNddTXCCi5UJliUAIkfgyQg5cqmJ5Z7jigk-PO_Rb3KumV3YZpIFa6WqPnxT03zcdcDIJ70HPdlwuNIuvmFNUaUkVyDS6Z9kYuJVIl9N85-byKcXzGHBAiFzg3kiZLKjj_yrK8J1hjhUs7F5419Xkb1Os7LEGeXLzzxQqOiOHVohKEPAZ6kggEykNoDtLX0vyYvQrsJMyeqaoUgVAiL3SxxZ9Qu4vD8q5ZxkE4J5YYI-0VWaJn9MICMN0038pm69M0pSESBy0oZgn1CJlg_aJeqyxY0pjOMYgcxR6P7CeDF8hJ4PWN9saufN-xVznY-2xtVxUvFTcWulU4AEinOW2EJPwtMrk-Qr4KUT1u0xdmB1bkxSOW80dVDVILUdwFy-XZhc-BYzSZu7FxjyhvD8RcBY61MBPAw5PeQVOr2E6LXQJ9Lpd3r-z0HTbTIslA04ki5VTmX_0WBUKYp-Jrm4xWgeC_vpM9BziUy4QOc0JxSHYQ_Xkdo2VSl3_pOOeyBreo4Ll8aIrSBbb67KJoP2WHhktz_Qq9KnYuqtBavAKG9kPxmGNylY9LKWzt5Q",
+            "name": "Ayman Hamouda",
+            "path": "published/4_1601902281_قققف.JPG"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.shorouknews.com/news/view.aspx?cdate=22122019&id=0a817d90-0647-4816-8f06-d53a3c679236",
+            "name": "الشروق",
+            "path": "sources/0_1601902281_6678.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.youm7.com/story/2016/4/19/%D9%86%D9%86%D8%B4%D8%B1-%D9%86%D8%B5-%D8%A7%D9%84%D9%84%D8%A7%D8%A6%D8%AD%D8%A9-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D9%84%D9%84%D8%A8%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D8%A8%D8%B9%D8%AF-%D8%AA%D8%B5%D8%AF%D9%8A%D9%82-%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D9%88%D9%86%D8%B4%D8%B1%D9%87%D8%A7-%D8%A8%D8%A7%D9%84%D8%AC%D8%B1%D9%8A%D8%AF%D8%A9/2682106",
+            "name": "اليوم السابع",
+            "path": "sources/1_1601902281_اليوم السابع.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "السيسي لم يلغِ امتيازات أعضاء البرلمان قبل الانتخابات المقبلة",
+    "updated_at": "2020-10-05 16:08:35",
+    "url_path": "/factcheck/2020/10/05/السيسي-لم-يلغ-امتيازات-أعضاء-البرلمان-القادم-قبل-الانتخابات-المقبلة",
+    "was_notification_pushed": true
+}

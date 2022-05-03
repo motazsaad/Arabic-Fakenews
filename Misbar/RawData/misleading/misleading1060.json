@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1853,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "تعود الصورة للممثل البريطاني أندرو لينكولن (تويتر)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">السلطات المصرية تلقي القبض على الإرهابي&nbsp;سيف شحيبر صبيحة.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-06-04 15:32:30",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ed8e9dedb291638515ddbe5",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة ووجد أن الادعاء مضلل، إذ أنها تعود للممثل البريطاني أندرو لينكولن، ومأخوذة له من مسلسل &quot;<span dir=\"LTR\">The Walking Dead</span>&quot;. وهو مسلسل رعب ودراما تلفزيوني أميركي، مبني على سلسلة قصص مصورة بنفس العنوان، ولعب أندرو لينكولن دور بطل المسلسل.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"532\" src=\"https://www.youtube.com/embed/ZfU56fThVFE\" width=\"946\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت حسابات وصفحات على موقع فيسبوك، صورة مرفقة بخبر&nbsp;مفاده أنّ السلطات المصرية ألقت&nbsp;القبض على&nbsp;الشخص الظاهر في الصورة، ويُدعى سيف شحيبر صبيحة، وبعد استجوابه اعترف بأنه ممول من أميركا لزعزعة الاستقرار المصري وتشويه الدين الإسلامي. </span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_at37gize9.jpg\" style=\"height:442px; width:453px\" /><br />\r\n<br />\r\n<img src=\"https://images-prod.misbar.com/articlebody/origin_lvdd1hu3f.jpg\" style=\"height:472px; width:467px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/15912739494f2b3e3b-2b7c-4b6f-832a-1dc503df3424.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-15912739494f2b3e3b-2b7c-4b6f-832a-1dc503df3424.jpg",
+        "width": 752
+    },
+    "post_date": "2020-06-04T15:29:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/Dojggo/photos/a.820519688116094/1556404271194295/?type=3&theater",
+            "name": "السياسية",
+            "path": "published/0_1591274059_السياسة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/nagwan.farg/posts/1152067315126235",
+            "name": "Nagwan Farg",
+            "path": "published/1_1591274059_Nagwan Farg.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/egypttodayt/photos/a.111653256919371/252915639459798/?type=3&theater",
+            "name": "slymnhmdyzhrn",
+            "path": "published/2_1591274059_slymnhmdyzhrn.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/1550784161725532/permalink/1885954168208528/",
+            "name": "ميرنا شاكر",
+            "path": "published/3_1591274059_ميرنا شاكر.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/2576704709315095/permalink/2645413955777503/?__tn__=-R",
+            "name": "عرفه بكر",
+            "path": "published/4_1591274059_عرفه بكر.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=ZfU56fThVFE",
+            "name": "NothingButBlade",
+            "path": "sources/0_1591273949_NothingButBlade.jpg"
+        },
+        {
+            "link": "https://cinepop.com.br/the-walking-dead-revista-pode-ter-revelado-o-destino-de-rick-spoilers-190035/",
+            "name": "CinePOP",
+            "path": "sources/1_1591273949_CinePOP.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "مصر تلقي القبض على عميل أميركي.. حقيقة الصورة",
+    "updated_at": "2020-09-24 12:04:41",
+    "url_path": "/factcheck/2020/06/04/السلطات-المصرية-تلقي-القبض-على-عميل-أميركي-حقيقة-الصورة"
+}

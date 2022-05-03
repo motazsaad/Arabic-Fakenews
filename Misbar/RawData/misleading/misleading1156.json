@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1925,
+    "author": {
+        "fullname": "أحمد بن خميس الفريقي",
+        "id": "5eb96d68db29164cdf087404",
+        "photo": {
+            "name": "1589210472_888.jpg",
+            "path": "authors/1589210472_888.jpg"
+        }
+    },
+    "caption": "صورة الطفل في مصر وليست تونس (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">العثور على رضيع حديث الولادة ملقى في بحر قليبية التابع للجمهورية التونسية.</p>\r\n",
+    "country": "TN",
+    "created_at": "2020-05-11 17:58:40",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eb96820db291611df498d64",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة&nbsp;وتبين أنها مضللة، وبمراجعة المواقع الرسمية تأكد أن هذه الحادثة لم تقع في تونس، بل كانت في مصر بتاريخ<span dir=\"LTR\"> 21 </span>أبريل/نيسان الفائت، في محافظة الشرقية شمال القاهرة. وكان الرضيع الذي عثر عليه يبلغ من العمر يومان فقط.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_a7sujnltb.jpg\" style=\"height:366px; width:551px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات على مواقع التواصل الاجتماعي في تونس، صور&nbsp;طفل حديث الولادة مع خبر&nbsp;يفيد بالعثور عليه في كيس بلاستيكي&nbsp;على سواحل قليبية في تونس.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_lhmjha1uu.jpg\" style=\"height:581px; width:440px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_r7js073o4.jpg\" style=\"height:719px; width:450px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/158920928411.jpg",
+        "watermark_path": "articles/watermark-158920928411.jpg"
+    },
+    "post_date": "2020-05-11T17:53:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/souassi.tn/posts/2803939279674737",
+            "name": "السواسي",
+            "path": "published/0_1589209118_السواسي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2805164456249356&id=1783282218437590",
+            "name": "الامن درع للوطن يحميه ايام المحن",
+            "path": "published/1_1589209118_888.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=153825566145234&id=102669281260863",
+            "name": "طلايع توزر  commandos tozeur",
+            "path": "published/2_1589209118_طلايع توزر.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Tunis.2019.com.tn/posts/546242996035823?__xts__%5B0%5D=68.ARBVEtkxuHNpjzsE3hJDcGjHTqqBXrQRStxXfyrBUHMKk0BIn1qiwDGNUVfHHktDPuzhae2gaFO9Q425Fc2YmaQtMNFbr8DDF7QBhgh86mJXfXDiCrgbZ5BwPtt3w1qZk1vFuXaLfRn6ky2nZQp7srkhCVNCVd-oAo0WKP3ABV9PgmWup8BVZbW7WHgNeOe-P6SNY5BglTHMZjpxKS-rO7TX6v1-CifNzKNlFDtWu8-ncrkf_JPtkLsIEaI-EOus4WBUBBnG0qPljHPnrMOrxl5AFn-RPpWp79Q0BYFET_Rcv7zHVHP-fky0KYR0K4XkSN9gwsuDEOO7C4iqqa2oExE&__tn__=-R",
+            "name": " لحظة بلحظة",
+            "path": "published/3_1589209118_فضائح تونس لحظة بلحظة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/mosaique.TN/posts/2656740664604887?__xts__%5B0%5D=68.ARAPCz_z91DFrUj582P9P32-RNiXa-MPdh9-zCMvmUvCtoCnt5JSHiwTGKKer-DVsRMZqcGraqiGfQVtOha4G5cZMs-c60xlHMtEPSwOxTa7lTFH4O34OgEisfe-VWQ-UGwzSsPj2XeIJ3WSHl7JaW40MKoxucaNFUfKpUVlACR8E9H6Zn-KUCutvzqSdinWROkDc7hRtZTuPJ5ZUW_ggFl5urLS1tPCss12dKLDuq0O9Lm5hNIu4ihEY6Em2hURIIv09BimHNljwLPZETxbJTGOX9ZDv7jRbhsGRDxfgydeTJz5lmJ-DBuuzUGKWZQq2ytiK4wju47VYbVxunZ4CliZvadW&__tn__=-R",
+            "name": "Mosaique News-موزاييك نيوز",
+            "path": "published/4_1589209118_Mosaique News-موزاييك نيوز.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.google.com/amp/s/m.youm7.com/amp/2020/4/21/%25D8%25A3%25D9%2584%25D9%2582%25D8%25AA%25D9%2587-%25D9%2588%25D8%25A7%25D9%2584%25D8%25AF%25D8%25AA%25D9%2587-%25D8%25A8%25D9%2583%25D9%258A%25D8%25B3-%25D8%25B2%25D8%25A8%25D8%25A7%25D9%2584%25D8%25A9-%25D8%25A3%25D9%2587%25D8%25A7%25D9%2584%25D9%2589-%25D9%2585%25D9%2586%25D9%258A%25D8%25A7-%25D8%25A7%25D9%2584%25D9%2582%25D9%2585%25D8%25AD-%25D8%25A8%25D8%25A7%25D9%2584%25D8%25B4%25D8%25B1%25D9%2582%25D9%258A%25D8%25A9-%25D9%258A%25D8%25B9%25D8%25AB%25D8%25B1%25D9%2588%25D9%2586-%25D8%25B9%25D9%2584%25D9%2589/4735755",
+            "name": "اليوم السابع",
+            "path": "sources/0_1589209118_اليوم السابع.jpg"
+        },
+        {
+            "link": "https://www.awanmasr.com/%D8%A3%D9%86%D9%82%D8%B0%D8%AA%D9%87-%D8%B2%D8%AC%D8%A7%D8%AC%D8%A9-%D9%81%D8%A7%D8%B1%D8%BA%D8%A9-%D8%A7%D9%84%D8%B9%D8%AB%D9%88%D8%B1-%D8%B9%D9%84%D9%89-%D8%B7%D9%81%D9%84-%D8%B1%D8%B6%D9%8A%D8%B9/",
+            "name": "أوان مصر",
+            "path": "sources/1_1589209119_Capture.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ما قصة الرضيع الذي عثر عليه في تونس ملقى في البحر؟",
+    "updated_at": "2020-09-25 17:49:11",
+    "url_path": "/factcheck/2020/05/11/ما-قصة-الرضيع-الذي-عثر-عليه-في-تونس-ملقى-بالبحر"
+}

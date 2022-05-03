@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 1,
+        "fb": 1,
+        "tw": 3
+    },
+    "amount_sources": 0,
+    "amount_visits": 7208,
+    "author": {
+        "fullname": "حمزة حسن",
+        "id": "5e318864d4a2294d2d7209c4",
+        "photo": {
+            "name": "1580304484_hamza-hasan.jpg",
+            "path": "authors/1580304484_hamza-hasan.jpg"
+        }
+    },
+    "caption": "الصورة التقطت عام 1958 في صحراء جزائرية (Pinterest)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\"><span style=\"color:black\">جندي يحمل حمارًا في حقل ألغام كي لا يدوس على أحدها ويتسبب في موت من حوله.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-04-01 14:03:02",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 0,
+    "id": "5e8474e6db291627c155b564",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تحقق &quot;مسبار&quot; من أصل الصورة، ووجد بأنه على عكس القصّة المتداولة عن حمل</span> <span style=\"color:black\">الجندي للحمار خوفاً من الألغام، التُقطت الصورة عام 1958 في فترة الاستعمار الفرنسي للجزائر، وتعود لجندي في أحد فيالق الجيش الفرنسي كان قد وجد الحمار مُنهكاً ووحيدًا في صحراءٍ جزائرية، إذ حمله ولاحقاً تم علاجه وإطلاق اسم &quot;بامبي&quot; عليه، وقد كرّمت <a href=\"http://oran3.free.fr/SBA%20MEKERRA/TOTALITE%20SBA%20MEKERRA/www.mekerra.fr/images/legion-giraud/anon-bambi.jpg\">الجمعية الملكية لمنع القسوة على الحيوانات</a> الفيلق على عملهم.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"color:black\"><img id=\"صورة_x0020_11\" src=\"https://images-prod.misbar.com/articlebody/investigation_6y5i6bs60.jpg\" style=\"height:629.4pt; width:468pt\" /> </span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"AR-SA\"><span style=\"color:black\"><img id=\"صورة_x0020_17\" src=\"https://images-prod.misbar.com/articlebody/investigation_jm6f2mebz.jpg\" style=\"height:418.8pt; width:468pt\" /> </span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img id=\"Picture_x0020_5\" src=\"https://images-prod.misbar.com/articlebody/investigation_kjgrbmikl.jpg\" style=\"height:624pt; width:429pt\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img id=\"Picture_x0020_4\" src=\"https://images-prod.misbar.com/articlebody/investigation_o02y36ju2.jpg\" style=\"height:234.6pt; width:499.2pt\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": false,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\"><span style=\"color:black\">تداولت مؤخراً حسابات على مواقع التواصل الاجتماعي صورةً لجندي يحمل حمارًا على ظهره، مدّعين أن الجندي يحمل الحمار ليس حبًّا فيه أو عطفًا عليه، بل كي لا يدوس على أحد الألغام ويتسبب في موته وموت الجنود حوله. </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><span style=\"color:black\">وقد استخدم الناشرون هذه الصورة لينتقدوا من هم غير ملتزمين بإجراءات بالحجر المنزلي والتباعد الاجتماعي لمواجهة فايروس كورونا.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img id=\"Picture_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/origin_6us7jkny8.jpg\" style=\"height:549.6pt; width:415.8pt\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img id=\"Picture_x0020_2\" src=\"https://images-prod.misbar.com/articlebody/origin_b1jl6xzoi.jpg\" style=\"height:487.8pt; width:416.4pt\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img id=\"Picture_x0020_3\" src=\"https://images-prod.misbar.com/articlebody/origin_zor8v9t4s.jpg\" style=\"height:464.4pt; width:419.4pt\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 368,
+        "left": 2.01983642578125,
+        "path": "articles/1585738982solider carrying donkey1.jpg",
+        "top": 50.211181640625,
+        "totalHeight": 423,
+        "totalWidth": 660,
+        "width": 654
+    },
+    "post_date": "2020-04-01T13:53:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/adashtimp/status/1242558842489253888?s=20",
+            "name": "النائب x د. عبدالحميد عباس دشتي",
+            "path": "published/0_1585738982_النائب x د. عبدالحميد عباس دشتي.jpg"
+        },
+        {
+            "link": "https://twitter.com/i3avari/status/1242623575753973760?s=20",
+            "name": "Anas",
+            "path": "published/1_1585738982_Anas.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/857621900951629/photos/a.857806660933153/2743726025674531/?type=3&theater ",
+            "name": "شبكة جنين الإخبارية",
+            "path": "published/2_1585738982_شبكة جنين.jpg"
+        },
+        {
+            "link": "https://twitter.com/wahab_salam/status/1242473969594163204?s=20",
+            "name": "WAHHAB-HKJ",
+            "path": "published/3_1585738982_WAHHAB LOGO.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=200868974665300&set=a.104449384307260&type=3&theater",
+            "name": "Nermin Mahmoud",
+            "path": "published/4_1585738982_Nermin Mahmoud.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "http://foreignlegion.info/history/13dble/",
+            "name": " FOREIGN LEGION INFO",
+            "path": "sources/0_1585738981_FOREIGN LEGION INFO.jpg"
+        },
+        {
+            "link": "https://zoelagatta.blog/2018/11/06/bambi-la-guerra-e-il-cuore/?fbclid=IwAR3SGutEMxCc0R5tD18Kc4VSaNQgxQOjsnr3K388IQKpb-nnx0O49SoT098",
+            "name": "Zoelagatta",
+            "path": "sources/1_1585738981_Zoelagatta.jpg"
+        },
+        {
+            "link": "https://books.google.com.eg/books?id=98QHTcdoKksC&printsec=frontcover&hl=ar#v=onepage&q&f=false",
+            "name": "Histoires de l'Histoire de la légion",
+            "path": "sources/2_1585750500_book logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "جندي يحمل حمارًا فوق ظهره في حقل ألغام.. حقيقة الصورة",
+    "updated_at": "2020-09-25 20:59:16",
+    "url_path": "/factcheck/2020/04/01/جندي-يحمل-حمارا-فوق-ظهره-في-حقل-ألغام-حقيقة-الصورة"
+}

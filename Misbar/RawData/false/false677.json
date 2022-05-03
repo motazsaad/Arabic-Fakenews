@@ -1,0 +1,118 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 4684,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "واستطاع \"مسبار\" أن يحدد بعض التلاعبات في التغريدة \"تويتر\"",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تغريدة لأبو تريكة يسخر فيها من مسلسل الاختيار.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-05-28 19:01:25",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ecfe055db2916044163c7c5",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">التغريدة مفبركة. راجع &quot;مسبار&quot; <a href=\"https://twitter.com/trikaofficial\" style=\"color:blue; text-decoration:underline\">الحساب</a> الخاص بمحمد أبو تريكة، ولم يجد التغريدة المتداولة. وكان آخر ما كتبه تريكة حتى هذه اللحظة، تغريدة في 23 مايو/أيار الجاري، يُودع فيها شهر رمضان، ويهنئ&nbsp;الأمة الإسلامية بعيد الفطر المبارك.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_qxbion8y2.jpg\" style=\"height:289px; width:623px\" /></span><br />\r\n&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">واستطاع &quot;مسبار&quot; أن يكشف&nbsp;بعض التلاعبات التي تمت في التغريدة المفبركة، منها المسافة الكبيرة بين اسم الحساب واسم المستخدم، إذ تكون المسافة بين الاسمين أقل من ذلك. ووجد اختلافاً آخر في اسم المستخدم &quot;<span dir=\"LTR\">trikaofficial</span>&quot;، ونلاحظ في التغريدة المفبركة الكلمة مكتوبة بشكل خطأ قليلاً، وحرف الـ&quot;<span dir=\"LTR\">I</span>&quot; بعد حرف الـ&quot;<span dir=\"LTR\">F</span>&quot; كُتب دون نقطة فوق الحرف، على عكس الحساب الرسمي.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_d3kgpwxkn.jpg\" style=\"height:346px; width:622px\" />&nbsp;<br />\r\n&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-EG\">نشرت</span><span dir=\"RTL\" lang=\"AR-SA\"> حسابات على مواقع التواصل الاجتماعي، تغريدة&nbsp;نسبوها للحساب الرسمي للاعب المصري ونجم النادي الأهلي الأسبق&nbsp;محمد أبو تريكة، وادعّت الحسابات أن أبو تريكة يسخر من الجملة الشهيرة في مسلسل الاختيار &quot;على العهد يا رجالة&quot;.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_skzgicdvy.jpg\" style=\"height:458px; width:623px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_zc7xlq5iz.jpg\" style=\"height:478px; width:562px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_yuz1l43ux.jpg\" style=\"height:432px; width:569px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1590682995c5c51b8b-8239-4bc2-a016-76561bbadaa8.jpg",
+        "watermark_path": "articles/watermark-1590682995c5c51b8b-8239-4bc2-a016-76561bbadaa8.jpg"
+    },
+    "post_date": "2020-05-28T18:55:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/nahedhelmy52/status/1265751748645453826?s=21",
+            "name": "عاشقة مصر",
+            "path": "published/0_1590681684_عاشقة مصر.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2332535520387629&id=100008936114000",
+            "name": "شاعر القهاوى احمد المنياوى",
+            "path": "published/1_1590682198_شاعر القهاوى احمد المنياوى.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/258553944989014/permalink/669625377215200/",
+            "name": "Alaa Almadani",
+            "path": "published/2_1590682198_Alaa Almadani.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2372242923068592&id=100008487224381",
+            "name": "محمود عبدالمنعم عبدالعزيز",
+            "path": "published/3_1590682198_محمود عبدالمنعم عبدالعزيز.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ahmedsamy.saed/posts/10156943448175689",
+            "name": "Ahmed El Malah",
+            "path": "published/4_1590682199_Ahmed El Malah.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=594428504525725&id=385413532093891",
+            "name": "سامح المصري",
+            "path": "published/5_1590682199_سامح.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/176839793500870/permalink/191216485396534/",
+            "name": "Enas Helmy",
+            "path": "published/6_1590682199_Enas Helmy.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/emadfathelbab/posts/10220478147617304",
+            "name": "Emad Fath Elbab",
+            "path": "published/7_1590682199_Emad Fath Elbab.jpg"
+        },
+        {
+            "link": "https://twitter.com/HamdyMahran4/status/1265984378112540673",
+            "name": "Hamdy Mahran",
+            "path": "published/8_1590682199_Hamdy Mahran.jpg"
+        },
+        {
+            "link": "https://twitter.com/Malik_Adel11/status/1265701599533506561",
+            "name": "مالك عادل",
+            "path": "published/9_1590682200_مالك عادل.jpg"
+        },
+        {
+            "link": "https://twitter.com/77967239846c433/status/1265689755192360960",
+            "name": "عاشق مصر",
+            "path": "published/10_1590682200_عاشق مصر.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/trikaofficial",
+            "name": "محمد أبوتريكة",
+            "path": "sources/0_1590681684_محمد أبوتريكة.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "أبو تريكة يسخر من مسلسل الاختيار على تويتر.. تغريدة مفبركة",
+    "updated_at": "2020-09-25 18:13:04",
+    "url_path": "/factcheck/2020/05/28/أبو-تريكة-يسخر-من-مسلسل-الإختيار-على-تويتر-تغريدة-مفبركة"
+}

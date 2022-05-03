@@ -1,0 +1,96 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1724,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">قصة رواها بيل غيتس عندما سُئل &quot;هل هناك شخص أغنى منك في العالم؟&quot;، تتحدث عن بائع جرائد أعطى غيتس صحيفة مرتين مجاناً عندما لم يكن يملك&nbsp;المال لشرائها، ثمّ التقاه بعد 19 عاماً حينما أصبح الأغنى في العالم، ليشعر غيتس بعد اللقاء أنّ ذاك البائع هو الشخص الوحيد في العالم الأغنى منه.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-02-03 15:16:55",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e380f37d4a22959e64273f8",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">بعد التحقق لم يعثر &quot;مسبار&quot; على أي مقابلة لــ بيل غيتس يروي فيها هذه القصة. وتجدر الإشارة أنّ القصة لم تنشرها مصادر إعلامية مشهورة وذات صدقية، إنّما اقتصر تداولها على وسائل التواصل الاجتماعي والمدونات وبعض المواقع الإلكترونية.</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت عشرات الصفحات والحسابات العربية والأجنبية على مواقع التواصل الاجتماعي وعلى &quot;يوتيوب&quot;، قصة نالت عشرات آلاف المشاركات، ادعىّ ناشروها أنّ بيل غيتس رواها عندما سُئل مرةً حين كان أغنى شخص في العالم &quot;هل يوجد شخص أغنى منك في العالم؟&quot;. خلاصة القصة أنّ غيتس كان في مطار نيويورك بعد تخرجه من الجامعة بفترة وجيزة، وأراد شراء نسخة من إحدى الصحف، إلّا أنّه لم يجد نقوداً في جيبه، فأصّر بائع الجرائد أن يأخذ نسخة مجاناً. بعد ثلاثة أشهر تكررت الحادثة نفسها في المطار ذاته، وأصرّ الفتى الذي يبيع الجرائد أن يعطي غيتس صحيفة من دون مقابل.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">بعد 19 عاماً وعندما أصبح مالك مدير شركة مايكروسوفت أغنى رجل في العالم، قرّر البحث عن بائع الجرائد وفعلاً وجده والتقى به في مكتبه، فقد أراد أن يردّ له الجميل بعد مرور كل تلك السنوات. عندئذٍ قال البائع لـ غيتس &quot;لا يمكن لك أن تعوضني&quot;. دُهش غيتس من إجابة الرجل، وسأله لماذا لا أستطيع تعويضك، ليجيب البائع: &quot;الفرق بيني وبينك أنني أعطيتك وأنا في أوج فقري، وأنت تريد أن تعوضني وأنت في أوج غناك&quot;. وختم بيل غيتس قصته بالقول: &quot;لم أشعر يوماً بأنّ ثمة من هو أغنى مني سوى ذاك البائع&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_w01bhhoop.jpg\" style=\"height:446px; width:635px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_75qdqd299.jpg\" style=\"height:760px; width:448px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_namo51pfg.jpg\" style=\"height:320px; width:591px\" /></span></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 344,
+        "left": 1.9119873046875,
+        "path": "articles/1580732215GettyImages-499413620.jpg",
+        "top": 7,
+        "totalHeight": 423,
+        "totalWidth": 617,
+        "width": 612
+    },
+    "post_date": "2020-02-03T15:03:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/watch/?v=1426332210860045",
+            "name": "كواكب ألمانيا",
+            "path": "published/0_1580732214_كواكب ألمانيا-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=2960408227360273",
+            "name": "صفحة جيع- القدس",
+            "path": "published/1_1580732214_صفحة جيع القدس-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=2493461087639065",
+            "name": "Engineering Challenges DZ",
+            "path": "published/2_1580732214_Engineering Challenges-logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=2693252940753501",
+            "name": "أخبار عرب ألمانيا",
+            "path": "published/3_1580732215_أخبار عرب ألمانيا-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/qwertyuiop197611/posts/140868559818626/",
+            "name": "قصص وكلام العظماء",
+            "path": "published/4_1580732215_قصص وكلام العظماء-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/story.php?story_fbid=2333585913363895&id=166183793437462",
+            "name": "Candle Light",
+            "path": "published/5_1580732215_Candle light-logo.jpg"
+        }
+    ],
+    "result": "unclear",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/BillGates",
+            "name": "Bill Gates",
+            "path": "sources/0_1580732214_Bill Gates-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ما قصة بيل غيتس وبائع الجرائد؟",
+    "updated_at": "2020-09-25 19:16:50",
+    "url_path": "/factcheck/2020/02/03/ما-قصة-بيل-غيتس-وبائع-الجرائد"
+}

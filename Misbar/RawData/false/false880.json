@@ -1,0 +1,102 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1605,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "caption": "المقطع لا يعود للرئيس العراقي الأسبق، إذ تم إسقاط الصوت عليه بواسطة شخص آخر (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">صدام حسين يتحدث عن فايروس كورونا</p>\r\n",
+    "country": "",
+    "created_at": "2020-03-08 17:35:53",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e6502c9d4a22917805f52f5",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">المقطع مفبرك، ولا يعود للرئيس العراقي الأسبق، إذ تم إسقاط الصوت عليه بواسطة شخص آخر. أما <a href=\"https://www.youtube.com/watch?v=VCpyGXstIa4\" style=\"color:blue; text-decoration:underline\">المقطع الأصلي</a> فهو منشور على يوتيوب منذ عام 2016 على قناة باسم (قناة صدام حسين).</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/VCpyGXstIa4\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">كما قامت رغد صدام حسين، بنشر <a href=\"https://twitter.com/RghadSaddam?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1236566334231764992&amp;ref_url=https%3A%2F%2Fwww.ennaharonline.com%2F%25d9%2581%25d9%258a%25d8%25af%25d9%258a%25d9%2588-%25d9%2585%25d8%25aa%25d8%25af%25d8%25a7%25d9%2588%25d9%2584-%25d9%2584%25d8%25b5%25d8%25af%25d8%25a7%25d9%2585-%25d8%25ad%25d8%25b3%25d9%258a%25d9%2586-%25d9%258a%25d8%25aa%25d8%25ad%25d8%25af%25d8%25ab-%25d9%2581%25d9%258a%25d9%2587-%25d8%25b9%25d9%2586-%25d9%2583%25d9%2588%2F\" style=\"color:blue; text-decoration:underline\">تغريدة</a> حول الموضوع على حسابها في موقع تويتر، قالت فيها إنَّ الفيديو مفبرك، والصوت مركب لشخص آخر يقلد صوت الرئيس الشهيد صدام حسين. مبيّنة أنه سبق ونشر هذا الشخص نفسه أكثر من فيديو يقلد صوت والدها.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_h9lsd74fg.jpg\" style=\"height:650px; width:536px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">نشرت بعض الحسابات على مواقع التواصل الاجتماعي، مقطعاً ذكرت فيه إنه للرئيس العراقي الأسبق صدام حسين يتحدث عن فايروس كورونا.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"420\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F100014763131252%2Fvideos%2F819113175257446%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"420\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbasliksiiz1%2Fvideos%2F2688459481375549%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 371,
+        "left": 2.2171173095703125,
+        "path": "articles/1583678153GettyImages-72298146.jpg",
+        "top": 15.658935546875,
+        "totalHeight": 423,
+        "totalWidth": 665,
+        "width": 660
+    },
+    "post_date": "2020-03-08T17:18:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/100014763131252/videos/819113175257446/",
+            "name": "أم محمد قلي",
+            "path": "published/0_1583678153_ام-محمد.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100010544557772/videos/1085936325101176/",
+            "name": "هفال سريشكي",
+            "path": "published/1_1583678153_هفال سريشكي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/basliksiiz1/videos/2688459481375549/",
+            "name": "Mohammed Ratib",
+            "path": "published/2_1583678153_Mohammed Ratib.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=cUMbHRaol_k&feature=youtu.be&fbclid=IwAR06zT-SB5zXxMOztoFqeetrYgQJjLpy-KpHbD9PjyxvJ9jgJBHF3D9SYUI",
+            "name": "أحلى عالم",
+            "path": "published/3_1583678153_احلى-عالم.JPG"
+        },
+        {
+            "link": "https://twitter.com/wrt97/status/1236382845347794945",
+            "name": "يَمَنٌ وشَامُ",
+            "path": "published/4_1583678153_يمن-وشام.jpg"
+        },
+        {
+            "link": "https://twitter.com/amrelhady4000/status/1236582906711232512",
+            "name": "عمرو عبد الهادي",
+            "path": "published/5_1583678153_عمرو-عبد-الهادي.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/RghadSaddam/status/1236566334231764992?s=20",
+            "name": "رغد صدام حسين",
+            "path": "sources/0_1583678153_رغد-صدام-حسين.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=VCpyGXstIa4",
+            "name": "قناة صدام حسين - Saddam Hussein channel",
+            "path": "sources/1_1583678153_قناة-صدام-حسين.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "فيديو مفبرك للرئيس العراقي الأسبق صدام حسين يتحدث عن كورونا",
+    "updated_at": "2020-09-25 21:14:20",
+    "url_path": "/factcheck/2020/03/08/فيديو-مفبرك-للرئيس-العراقي-الأسبق-صدام-حسين-يتحدث-عن-كورونا"
+}

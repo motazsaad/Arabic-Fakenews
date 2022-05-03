@@ -1,0 +1,151 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 114,
+    "author": {
+        "fullname": "خالد إسماعيل",
+        "id": "5e59256dd4a2295224257db3",
+        "photo": {
+            "name": "1582900589_صورة 2.jpg",
+            "path": "authors/1582900589_صورة 2.jpg"
+        }
+    },
+    "caption": "الصورة غلاف لعمل مسرحي كوميدي عرض في أميركا عام 2015 (تويتر)",
+    "category": "Arts & Culture",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة لوجهين مرسومين&nbsp;بمسحوق الغسيل، أهداها فنان لزوجته.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-10-20 18:25:05",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 6,
+    "id": "5f8f015100f3d03ba442141d",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة وتبين أنها مضللة، ولا تعود لرسام سكب مسحوق الغسيل وشكّل منه&nbsp;وجهين هدية لزوجته،&nbsp;إذ أنها لغلاف عرض مسرحي كوميدي بعنوان &quot; <span dir=\"LTR\" lang=\"EN-GB\">Washer dryer</span>&quot; بطولة &quot;نانديتا شينوي&quot; و&quot;جوني وو&quot;، عرض ما بين عامي 2015 و 2016 في المسرح الأميركي &quot;Beckett Theater Row&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_dwgp1u29o.jpg\" style=\"height:473px; width:603px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_o4xdbia77.jpg\" style=\"height:632px; width:602px\" /></span><strong>&nbsp;</strong></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت حسابات وصفحات على مواقع&nbsp;التواصل الاجتماعي، حديثاً، صورة لوجهين يُظهران رجلاً وامرأة رُسما&nbsp;بمسحوق غسيل، وأرفقت بتعليق &quot;بعد أن أسقط زوجي مسحوق الغسيل كنت غاضبة عند رؤية المنظر من بعيد، إلا أني ذهلت حين اقتربت، عندما تتزوجي رساماً&quot;<span dir=\"LTR\" lang=\"EN-GB\">.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_o1wgpul22.jpg\" style=\"height:770px; width:503px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_1tq9qs78f.jpg\" style=\"height:768px; width:543px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_as2wup5n0.jpg\" style=\"height:768px; width:545px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 329,
+        "left": 7.771209716796875,
+        "path": "articles/1603207505120997829_3094944260732700_9026861107206669271_n.jpg",
+        "top": 54.933837890625,
+        "totalHeight": 423,
+        "totalWidth": 598,
+        "watermark_path": "articles/watermark-1603207505120997829_3094944260732700_9026861107206669271_n.jpg",
+        "width": 584
+    },
+    "post_date": "2020-10-20T15:53:00.000+03:00",
+    "published": [
+        {
+            "id": "5f8f01512c99c972a2040d58",
+            "link": "https://www.facebook.com/Wondersthe.W0rld/photos/a.1423404001240992/2792913417623370",
+            "name": "غرائب وعجائب",
+            "origin": "facebook",
+            "path": "sources/0aa9e9fa9d0cae87c51a0c01c5678cd464d9961b.jpg"
+        },
+        {
+            "id": "5f8f04e2bef47b55d25c0fbc",
+            "link": "https://www.facebook.com/PassionBookshots1/photos/a.2211474182413050/3094944254066034/",
+            "name": "شَغفْ",
+            "origin": "facebook",
+            "path": "sources/c8b0f5b6936e4d519499543db12dbeab8712f08a.jpg"
+        },
+        {
+            "id": "5f8f04e29c10aa5f1d5e5bb2",
+            "link": "https://www.facebook.com/malamtrh/photos/a.777874795575673/4016760871687033/",
+            "name": "مالم تره من قبل ",
+            "origin": "facebook",
+            "path": "sources/f769bcce52ab181851601ca740132546dd782c79.jpg"
+        },
+        {
+            "id": "5f8f04e2656e997f4561b749",
+            "link": "https://www.facebook.com/PSBLLUE/photos/a.1665799923632575/2798271657052057",
+            "name": "ازرق ",
+            "origin": "facebook",
+            "path": "sources/f044c205df0f17ed20d0b5c27b54599a6b3b5b79.jpg"
+        },
+        {
+            "id": "5f8f04e3382e253b150b869c",
+            "link": "https://www.facebook.com/SocietyCherophopia/photos/a.661690950600498/2977543775681859",
+            "name": "شيزوفرينيا",
+            "origin": "facebook",
+            "path": "sources/1c62c1c5175316adb1790d3646e5d42a8f71a81f.jpg"
+        },
+        {
+            "id": "5f8f04e37508437696779558",
+            "link": "https://www.facebook.com/Bordjokhrisssaad10/posts/658031478174072",
+            "name": "الفقر و السعادة",
+            "origin": "facebook",
+            "path": "sources/4a48f49d09d0f77af593823abc8d75542b780a8e.jpg"
+        },
+        {
+            "id": "5f8f04e3d9d04b549830e2a4",
+            "link": "https://www.facebook.com/ScreenMixx/posts/2231706076979808",
+            "name": "Screen Mix",
+            "origin": "facebook",
+            "path": "sources/778828637677b0ef6f31d78f812681b54fffceb3.jpg"
+        },
+        {
+            "id": "5f8f04e38731e97a9f20a418",
+            "link": "https://www.facebook.com/Baghdad24/posts/1293412127657306",
+            "name": "من بغداد+",
+            "origin": "facebook",
+            "path": "sources/2715c3d0feea98d5cd87361239dca890c1ed9b78.jpg"
+        },
+        {
+            "id": "5f8f04e3aecdd9096524506d",
+            "link": "https://www.facebook.com/nekoten2016/posts/1422122364807360",
+            "name": "نيكوتين-Nekoten",
+            "origin": "facebook",
+            "path": "sources/7cb979d46951a30f3bb01b4c40291f73195828d8.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f8dddc9675718689f7f08d6",
+            "link": "https://www.nytimes.com/2016/02/05/theater/review-in-washer-dryer-a-marriage-goes-through-the-spin-cycle.html",
+            "name": "www.nytimes.com",
+            "origin": "",
+            "path": "sources/6ef182af576c3d3ef5751d0e996d7e926f9d91f8.jpg"
+        },
+        {
+            "id": "5f8f0151ec65d01767568c58",
+            "link": "http://www.nanditashenoy.com/news/tag/Johnny+Wu",
+            "name": "Nandita shenoy",
+            "origin": "",
+            "path": "sources/0a106009fdd28122ac710cf424c16fddf6ffe2c3.jpg"
+        },
+        {
+            "id": "5f8f0151d218a6229648d6cb",
+            "link": "https://www.abouttheartists.com/productions/88936-washer-slash-dryer-at-samuel-beckett-theatre-2016",
+            "name": "abouttheartists",
+            "origin": "",
+            "path": "sources/fcc13575cd2168d9d3f2bf01d019a1d3e3431519.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الصورة ليست لفنان رسمها بمسحوق الغسيل وأهداها لزوجته",
+    "updated_at": "2020-10-20 22:01:08",
+    "url_path": "/factcheck/2020/10/20/الصورة-ليست-لفنان-رسمها-بمسحوق-الغسيل-وأهداها-لزوجته",
+    "was_notification_pushed": "true"
+}

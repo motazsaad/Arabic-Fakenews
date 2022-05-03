@@ -1,0 +1,98 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 16421,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "الصورة مأخوذة من مقطع فيديو قديم (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">الجيش المصري يُلقي القبض على &quot;ذبّاح داعش&quot;، الذي كان يقتل كل من يتعاون مع الجيش في مصر.</span></p>\r\n",
+    "country": "EG",
+    "created_at": "2020-06-12 16:54:00",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ee388f8d6e4a906360c9884",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من الصورة المتداولة ووجد أنها مضلّلة، لأنّ الصورة الأصلية ملتقطة من </span><a href=\"https://www.facebook.com/Peshmerge.barzani.kurdistan/videos/746166768777317/\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>مقطع فيديو</u></span></a><span style=\"color:#000000\"> نُشر عام 2014، وادّعى ناشره أنه يُظهر القبض على صدام ضرغام، إحدى قيادات داعش في العراق. لم يستطع &quot;مسبار&quot; التوصّل إلى دليل يُثبت أصل المقطع الحقيقي، لكنّ المؤكد أنه قديم ولا يُظهر اعتقال شخص حديثاً في مصر.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تجدر الإشارة إلى أنّ الصورة ومقطع الفيديو ارتبطا بالعديد من الأخبار سابقاً، مثل </span><a href=\"https://tunisie-telegraph.com/2016/06/01/%D9%84%D9%8A%D8%A8%D9%8A%D8%A7-%D8%A7%D9%84%D9%82%D8%A8%D8%B6-%D8%B9%D9%84%D9%89-%D9%82%D9%8A%D8%A7%D8%AF%D9%8A-%D8%AA%D9%88%D9%86%D8%B3%D9%8A-%D9%81%D9%8A-%D8%AA%D9%86%D8%B8%D9%8A%D9%85-%D8%AF-27851\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>القبض على قيادي تونسي</u></span></a><span style=\"color:#000000\"> في تنظيم داعش داخل ليبيا، </span><a href=\"https://www.shasha.ps/news/258779.html\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>والقبض</u></span></a><span style=\"color:#000000\"> على داعشيّ في سورية، وغيرها.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_t9h59j85d.jpg\" style=\"height:459px; width:624px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "ليبيا",
+        "تونس",
+        "سورية",
+        "داعش",
+        "العراق",
+        "صدام ضرغام"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل صفحات على مواقع التواصل الاجتماعي، حديثاً، صورة تدّعي أنها تُظهر اعتقال الجيش المصري لشخص يُدعى صدام ضرغام، والملقّب بـ&quot;ذبّاح داعش&quot;، لأنه يقتل كلّ فرد يتعاون مع الجيش المصري أو يُدلي بمعلومات عن الجماعات المسلّحة في مصر.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_qtdc71slm.jpg\" style=\"height:192px; width:624px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ry6cpdh1i.jpg\" style=\"height:179px; width:624px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 143,
+        "path": "articles/1591970039غلاف.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 1038,
+        "watermark_path": "articles/watermark-1591970039غلاف.jpg",
+        "width": 752
+    },
+    "post_date": "2020-06-12T16:39:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/WaleedYaseenAb1/status/1271046810673561600",
+            "name": "وليد ياسين",
+            "path": "published/0_1591970038_وليد ياسين.jpg"
+        },
+        {
+            "link": "https://twitter.com/3AZMTO777/status/1269922389107838980",
+            "name": "عظمتو",
+            "path": "published/1_1591970039_عظمتو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2637770216499812&id=100008005786986",
+            "name": "Mahmoud Elsamady",
+            "path": "published/2_1591970039_محمود.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=355022148810419&set=a.120373232275313&type=3",
+            "name": "هبة الشريف",
+            "path": "published/3_1591970039_هبة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1217290868618204&id=100010119073314",
+            "name": "Nour Kanwy Kanwy",
+            "path": "published/4_1591970039_نور.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/Peshmerge.barzani.kurdistan/videos/746166768777317/",
+            "name": "مقطع الفيديو القديم",
+            "path": "sources/0_1591970039_المقطع القديم.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": " اعتقال \"ذبّاح داعش\" في مصر.. فيديو قديم",
+    "updated_at": "2020-09-25 17:36:32",
+    "url_path": "/factcheck/2020/06/12/اعتقال-ذباح-داعش-في-مصر-فيديو-قديم"
+}

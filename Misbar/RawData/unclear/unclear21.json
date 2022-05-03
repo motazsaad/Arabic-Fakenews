@@ -1,0 +1,88 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1893,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "category": "Travel",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تعلن إسبانيا عن حاجتها إلى 9 ملايين مهاجر جديد من أجل توفير حاجتها من اليد العاملة.</span></p>\r\n",
+    "country": "ES",
+    "created_at": "2020-02-04 13:53:27",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e394d27d4a2293e514e1ae6",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">لم تستند المواقع والصفحات التي تناقلت الخبر إلى أيِّ مصدر يؤكده. ولا يوجد أيُّ إعلان رسميٍّ على </span><a href=\"http://www.mitramiss.gob.es/es/sec_emi/index.htm\" style=\"text-decoration:none\"><span style=\"color:#1155cc\"><u>موقع</u></span></a><span style=\"color:#000000\"> وزارة العمل والهجرة والضمان الاجتماعي بصدد فتح باب الهجرة على النحو المذكور في الخبر. وتبيّن لـ&quot;مسبار&quot; أن الخبر الأصلي في الإسبانية يعود لجريدة لا رازون، إذ اقتبست الجريدة تصريحاً ادّعت أنه للوزير إسكريفا، ويقدّر فيه حاجة إسبانيا من الأيدي العاملة في العقود الثلاثة القادمة بتسعة ملايين مهاجر، لكن دون أن تقدّم الجريدة دليلاً أو تسجيلاً صوتيًّا أو مرئيًّا.</span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "هجرة",
+        "إسبانيا",
+        "سفر"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تناقلت صفحات على مواقع التواصل الاجتماعي، ومواقع مختصّة بإعلانات التوظيف، خبراً ادّعت فيه إعلان الحكومة الإسبانية على لسان وزير العمل والهجرة والضمان الاجتماعي، خوسيه لويس إسكريفا، حاجتها إلى تسعة ملايين مهاجراً جديداً لتغطية احتياجات البلد من الأيدي العاملة.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_c5pxjaag3.jpg\" style=\"height:352px; width:400px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_pjmy52hzq.jpg\" style=\"height:324px; width:397px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_q7ugz6fl3.jpg\" style=\"height:397px; width:397px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 351,
+        "left": 3.98333740234375,
+        "path": "articles/1580813607GettyImages-1178843617.jpg",
+        "top": 5.116668701171875,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "width": 624
+    },
+    "post_date": "2020-02-04T12:47:00.000+03:00",
+    "published": [
+        {
+            "link": "http://alwadifa-club.com/index.php?news=32803&fbclid=IwAR2FHcJnJ-L6TOGOzGAU2C5XdQ_cfEm838V_1FqSXEdzhLfgOnsuup1zR2E",
+            "name": "الوظيفة كلوب",
+            "path": "published/0_1580813607_الوظيفة كلوب - لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/bghytnkhdem/photos/a.2418287165112289/2492616997679305/?type=3&theater",
+            "name": "هاشتاغ المغرب",
+            "path": "published/1_1580815418_هاشتاغ المغرب - لوغو.jpg"
+        },
+        {
+            "link": "http://www.toutaumaroc.com/emploi/espagne-souhaite-accueillir-des-migrants/",
+            "name": "Toutaumaroc",
+            "path": "published/2_1580813607_toutaumaroc - logo.jpg"
+        }
+    ],
+    "result": "unclear",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.larazon.es/economia/20200116/odf4hic6ybgxna3d32t3jehbqe.html",
+            "name": "La Razon",
+            "path": "sources/0_1580820521_logo_la razon.jpg"
+        },
+        {
+            "link": "http://www.mitramiss.gob.es/es/sec_emi/index.htm",
+            "name": "وزارة العمل والهجرة والضمان الاجتماعي الإسبانية",
+            "path": "sources/1_1580813607_وزارة العمل الإسبانية - لوغو.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لا دليل على إعلان إسبانيا استعدادها لاستقبال عدد كبير من المهاجرين",
+    "updated_at": "2020-09-25 21:30:44",
+    "url_path": "/factcheck/2020/02/04/لا-دليل-على-إعلان-إسبانيا-استعدادها-لاستقبال-عدد-كبير-من-المهاجرين"
+}

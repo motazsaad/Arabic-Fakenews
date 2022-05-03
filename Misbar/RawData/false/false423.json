@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1763,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "الصورة مفبركة من خلال برنامج لتعديل الصور (تويتر)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة تظهر وزير الدفاع التركي خلوصي أكار يقف إلى جانب ابنته عائشة بعد أن أتمت حفظ القرآن الكريم.</p>\r\n",
+    "country": "TR",
+    "created_at": "2020-08-03 17:23:30",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f281de160211807416be300",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة ووجدها أنها مفبركة، إذ أن مزور الصورة قد ركبها على برنامج لتعديل الصور، وهذا يبدو واضحاً من خلال تأمل أرجل خلوصي أكار والطفلة التي تقف بجانبه لأن لوناً أبيض يحيط بهما في حين أن السجادة التي يقفان عليها حمراء اللون.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وبحسب <a href=\"https://medium.com/dogrula-org/foto%C4%9Fraftaki-ki%C5%9Finin-hulusi-akar%C4%B1n-k%C4%B1z%C4%B1-oldu%C4%9Fu-i%CC%87ddias%C4%B1-c6d7d48d70de\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">مقالة</a> تحليلية على موقع <span dir=\"LTR\">medium</span> بنسخته التركية، فإن أكار لديه طفل وابنة تدعى سيرا، وهي طبيبة توليد تخرجت من جامعة هاسيتيب ويبلغ عمرها أكثر من 30 عاماً، الأمر الذي ينفي الادعاء بأن الفتاة الظاهرة في الصورة المتداولة ابنة وزير الدفاع التركي.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وسبق أن تداول مستخدمون أتراك على وسائل التواصل الاجتماعي تلك الصورة في عام 2018، وادعوا أيضاً أن أكار نشر الصورة تلك مع ابنته، إلا أن المستشار الرئاسي اسماعيل سيسور <a href=\"https://twitter.com/icesur/status/1024769883924516864\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">قال</a> إن خلوصي لا يملك حسابات على مواقع التواصل الاجتماعي<span dir=\"LTR\">.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img id=\"صورة_x0020_3\" src=\"https://images-prod.misbar.com/articlebody/investigation_n5wrf60es.jpg\" style=\"height:477.6pt; width:400.8pt\" /></p>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"ltr\"><code>Sevgili twitter kullanıcıları, Milli Savunma Bakanımız Sayın Hulusi Akar&#39;ın herhangi bir twitter hesabı bulunmamaktadır. Ortaya &ccedil;ıkan b&uuml;t&uuml;n twitter hesapları sahtedir. L&uuml;tfen itibar etmeyiniz.</code></p>\r\n<code>&mdash; ismail cesur (@icesur) <a href=\"https://twitter.com/icesur/status/1024769883924516864?ref_src=twsrc%5Etfw\">August 1, 2018</a></code></blockquote>\r\n\r\n<p>&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات وحسابات على مواقع التواصل الاجتماعي، حديثاً، صورة تجمع وزير الدفاع التركي خلوصي أكار مع طفلة ادعى ناشرو الخبر أنها ابنته عائشة بعد أن أتمت حفظ القرآن.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img id=\"صورة_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/origin_bustql7gc.jpg\" style=\"height:577.2pt; width:400.8pt\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img id=\"صورة_x0020_2\" src=\"https://images-prod.misbar.com/articlebody/origin_627m4it03.jpg\" style=\"height:700.8pt; width:403.2pt\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 198,
+        "left": 2.9666748046875,
+        "path": "articles/1596464609غلاف.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 356,
+        "watermark_path": "articles/watermark-1596464609غلاف.jpg",
+        "width": 352
+    },
+    "post_date": "2020-08-03T17:17:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/dr_wasfy/status/1290011569707823105",
+            "name": "د.وصفي عاشور أبو زيد",
+            "path": "published/0_1596464883_وصفي.jpg"
+        },
+        {
+            "link": "https://twitter.com/saadabd1993/status/1289958385803128832",
+            "name": "سعد التركماني ",
+            "path": "published/1_1596464883_سعد.jpg"
+        },
+        {
+            "link": "https://twitter.com/Nesrine41276086/status/1290145648373665793",
+            "name": "Nesrine_DZ",
+            "path": "published/2_1596464883_نسرين.jpg"
+        },
+        {
+            "link": "https://twitter.com/MElGizawi/status/1290033025594429440",
+            "name": "M. El-Gizawi",
+            "path": "published/3_1596465037_م.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://medium.com/dogrula-org/foto%C4%9Fraftaki-ki%C5%9Finin-hulusi-akar%C4%B1n-k%C4%B1z%C4%B1-oldu%C4%9Fu-i%CC%87ddias%C4%B1-c6d7d48d70de",
+            "name": "medium ",
+            "path": "sources/0_1596464609_mediuam.jpg"
+        },
+        {
+            "link": "https://twitter.com/icesur/status/1024769883924516864",
+            "name": "ismail cesur",
+            "path": "sources/1_1596464609_اسماعيل.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الطفلة التي تظهر مع وزير الدفاع التركي ليست ابنته",
+    "updated_at": "2020-09-25 19:07:55",
+    "url_path": "/factcheck/2020/08/03/الطفلة-التي-تظهر-مع-وزير-الدفاع-التركي-ليست-ابنته"
+}

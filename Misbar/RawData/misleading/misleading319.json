@@ -1,0 +1,143 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 332,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "جلسة تصوير للمطربة سيليا (انستغرام)",
+    "category": "Arts & Culture",
+    "claim": "<p><span dir=\"RTL\" lang=\"AR-SA\">عادة أردنية قديمة، لايزال البعض يعمل بها، فحين تتأخر الفتاة عن الزواج في موسم الزيتون يجعلونها تستلقي على حبات الزيتون، وتدور حولها والدتها قائلة يارب بعدد حبات الزيتون يجيها عريس مزيون.</span></p>\r\n",
+    "country": "JO",
+    "created_at": "2020-11-17 19:03:46",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 5,
+    "id": "5fb3f462a42bc86d536035db",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;<a href=\"https://misbar.com/\"><span style=\"color:#3498db\">مسبار</span></a>&quot; من الصور والتعليق، ووجدها&nbsp;مضللة، فبعد البحث لم يعثر&nbsp;&quot;مسبار&quot; ما يؤكد وجود&nbsp;عادة مشابهة&nbsp;لما يذكره الادعاء بالأردن، كما أن الصور خلال جلسة تصوير في سبتمبر/أيلول الفائت،&nbsp;للمغنية&nbsp;سيليا&nbsp;بالزي الجزائري التقليدي بين حبات الزيتون.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_dsdkzh6st.jpg\" style=\"height:698px; width:601px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_zaggnhxab.jpg\" style=\"height:824px; width:601px\" /></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p style=\"text-align:right\"><span style=\"color:#3498db\">اقرأ/ي أيضا</span>:</p>\r\n\r\n<p style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/08/02/%D8%A7%D9%84%D8%B4%D9%8A%D9%81-%D8%A8%D9%88%D8%B1%D8%A7%D9%83-%D9%84%D9%86-%D9%8A%D8%AA%D8%B2%D9%88%D8%AC-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A%D8%A9-%D9%85%D9%86%D8%A7%D9%84-%D8%AD%D8%AF%D9%84%D9%8A\"><span style=\"color:#3498db\">الشيف بوراك لن يتزوج الجزائرية منال حدلي</span></a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت صفحات وحسابات على مواقع التواصل الاجتماعي، خلال شهر نوفمبر/تشرين الثاني الجاري، صوراً لفتاة بين حبات الزيتون، ومرفق بها تعليق مفاده &quot;عادة أردنية قديمة، لايزال البعض يعمل بها، فحين تتأخر البنت عن الزواج في موسم الزيتون يجعلونها تستلقي على حبات الزيتون، وتدور حولها والدتها قائلة يارب بعدد حبات الزيتون يجيها عريس مزيون&quot;.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_lapl20igx.jpg\" style=\"height:239px; width:601px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_rzogwtjvz.jpg\" style=\"height:81px; width:602px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_9eiaf63qn.jpg\" style=\"height:461px; width:594px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 419,
+        "left": 30.599945068359375,
+        "path": "articles/1605629025Screenshot 2020-11-17 170152.jpg",
+        "top": 0.449951171875,
+        "totalHeight": 423,
+        "totalWidth": 794,
+        "watermark_path": "articles/watermark-1605629025Screenshot 2020-11-17 170152.jpg",
+        "width": 746
+    },
+    "post_date": "2020-11-17T16:41:00.000+03:00",
+    "published": [
+        {
+            "id": "5f9c60f5a046907f910dda37",
+            "link": "https://m.facebook.com/story/graphql_permalink/?graphql_id=UzpfSTIyMzE4MjEzMTM4MjM5NzoxMjcxODU0OTgzMTgxNzY4",
+            "name": "Facebook",
+            "origin": "",
+            "path": "sources/c10d5f7b0ce33792c407b0f16c95eb8f0153db97.jpg"
+        },
+        {
+            "id": "5fb3f460c75ae96e8633fcf2",
+            "link": "https://twitter.com/CherifRandaa/status/1326861310173306880/photo/1",
+            "name": "Randa Cherif",
+            "origin": "twitter",
+            "path": "sources/3680ad30f02d13387c751aa8d8afa6ed5f843ac4.jpg"
+        },
+        {
+            "id": "5fb3f46082e0281a9b059cce",
+            "link": "https://twitter.com/_0_aw/status/1326265560536145921",
+            "name": "عـلــــي الجنــابــــــي",
+            "origin": "twitter",
+            "path": "sources/7a671c00c9836ac9865c6398c348d960214c8726.jpg"
+        },
+        {
+            "id": "5fb3f46133dd973bbe2aa7de",
+            "link": "https://twitter.com/kharab_hudii/status/1326289545550245895",
+            "name": "خرب حضي 😂",
+            "origin": "twitter",
+            "path": "sources/8415ab040e817a3fe6782f30ca2b250380ef2d24.jpg"
+        },
+        {
+            "id": "5fb3f4617192995cb12a8073",
+            "link": "https://twitter.com/92oman22/status/1326205384726605824",
+            "name": "بن يعروف",
+            "origin": "twitter",
+            "path": "sources/91b61533cc59fea166af55d1bd30cabfd1bd2c74.jpg"
+        },
+        {
+            "id": "5fb3f461c668044352304e3f",
+            "link": "https://twitter.com/alibinshf92/status/1327289081781497857",
+            "name": "عَلـــــــــــــــــ ي",
+            "origin": "twitter",
+            "path": "sources/a0684db87163555ba865eab06d86fa52e5c17303.jpg"
+        },
+        {
+            "id": "5fb3f4616cc96b34491bf779",
+            "link": "https://twitter.com/mahirmahir123/status/1327247291221204994",
+            "name": "Maher Alamiry",
+            "origin": "twitter",
+            "path": "sources/e736947fc074e3bf053cfb81935c70e82c86d158.jpg"
+        },
+        {
+            "id": "5fb3f4614d961c4fff6be8eb",
+            "link": "https://twitter.com/ValeenAml/status/1326101696674717696",
+            "name": "نرمين الشاوي ⚖️👩🏼&zwj;💼⚖️",
+            "origin": "twitter",
+            "path": "sources/74032a286911a6445bd19a086092f236f12202ad.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f8edc10b764df2b6f025363",
+            "link": "https://www.instagram.com/p/CFcC8IbDkS4/?igshid=8ytrlprc8wf3",
+            "name": "Peter Brand&atilde;o",
+            "origin": "",
+            "path": "sources/855c232348646c64a0c7271d4cfee16b859db10c.jpg"
+        },
+        {
+            "id": "5f8edc10b764df2b6f025363",
+            "link": "https://www.instagram.com/p/CFfT2CZDHQs/?igshid=1j3f3fz9nsnff",
+            "name": "Peter Brand&atilde;o",
+            "origin": "",
+            "path": "sources/855c232348646c64a0c7271d4cfee16b859db10c.jpg"
+        },
+        {
+            "id": "5fb3fc4a5e9dea0c6b5fc23f",
+            "link": "https://www.ammonnews.net/index.php?page=article&id=339805",
+            "name": "وكالة عمون الاخبارية",
+            "origin": "",
+            "path": "sources/5ffd82107f19a76d09bf6f76024b83182f292b0a.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه ليست عادة أردنية بل جلسة تصوير للمغنية سيليا في الجزائر",
+    "updated_at": "2020-11-17 19:37:30",
+    "url_path": "/factcheck/2020/11/17/هذه-ليست-عادة-أردنية-بل-جلسة-تصوير-للمطربة-سيليا-في-الجزائر",
+    "was_notification_pushed": true
+}

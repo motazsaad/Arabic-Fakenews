@@ -1,0 +1,109 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 274483,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": " نُشرت الصورة في سبتمبر 2015 على مواقع سورية (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">الجيش المصري يُلقي القبض على رجلين&nbsp;</span>يرتديان<span dir=\"RTL\" lang=\"AR-SA\">&nbsp;زياً نسائياً في محافظة سيناء.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-05-16 21:22:21",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ec02f5ddb2916142102fb65",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة ووجد أنها قديمة والادعاء مضلل، إذ نُشرت في سبتمبر/أيلول عام 2015 في مواقع سورية قالت إنها لعنصرين من نظام <a href=\"https://eldorar.org/node/86033\">بشار الأسد</a>، قُبض عليهما داخل مطار أبو الظهور العسكري شمال سورية، كما نُشرت في مواقع أخرى على أنها لعناصر من <a href=\"https://ar.abna24.com/news/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82/%D9%82%D9%8A%D8%A7%D8%AF%D8%A7%D8%AA-%D8%AF%D8%A7%D8%B9%D8%B4-%D8%A8%D8%A7%D9%84%D9%85%D9%88%D8%B5%D9%84-%D9%87%D8%B1%D8%A8%D8%AA-%D9%81%D9%8A-%D9%85%D9%84%D8%A7%D8%A8%D8%B3-%D9%86%D8%B3%D8%A7%D8%A1-%D8%AD%D9%88%D8%A7%D9%85%D9%84_840070.html\">تنظيم الدولة</a> قُبض عليهم في الموصل. ولم يتسن لـ&quot;مسبار&quot; التأكد من حقيقة الصورة، لكن تاريخ نشرها القديم ينفي صحة الادعاء المتداول لها حالياً.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_kyf69mjsm.jpg\" style=\"height:493px; width:624px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_7muzt4x5n.jpg\" style=\"height:550px; width:624px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت صفحاتٌ على موقع فيسبوك منذ 14 مايو/أيار الجاري، صورةً ادعت أنَّها لرجلين&nbsp;كانا <span style=\"background-color:white\"><span style=\"color:black\">متنكرين في &quot;ملابس نسائية&quot;،</span></span>&nbsp;قبض عليهما&nbsp;الجيش المصري في محافظة سيناء.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_5fxvdwm60.jpg\" style=\"height:510px; width:456px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_d9b9imqqt.jpg\" style=\"height:542px; width:468px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 12.5,
+        "path": "articles/158965334197970542_237492264189683_5663485803699896320_n.jpg",
+        "top": 0,
+        "totalHeight": 563,
+        "totalWidth": 777,
+        "watermark_path": "articles/watermark-158965334197970542_237492264189683_5663485803699896320_n.jpg",
+        "width": 752
+    },
+    "post_date": "2020-05-16T21:18:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=1186558521699238&set=a.147587318929702&type=3&theater",
+            "name": "خالد النحاس",
+            "path": "published/0_1589653340_خالد النحاس.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/1064682227070789/photos/a.1112986082240403/1324259764446366/?type=3&theater",
+            "name": "عايزين نفهم",
+            "path": "published/1_1589653456_عايزين نفهم.jpg"
+        },
+        {
+            "link": "https://twitter.com/aKsB6BgC43w77GH/status/1261180312316522497",
+            "name": "محمد مالك",
+            "path": "published/2_1589653456_محمد مالك.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/mohamed.elmukhtar.7/posts/10156986288475825",
+            "name": "محمد المختار",
+            "path": "published/3_1589653456_محمد المختار.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/yousefgmcy/posts/3368620069833886",
+            "name": "السيد كونه رمضان رمضان",
+            "path": "published/4_1589653456_السيد كونه رمضان رمضان.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=10159986476042942&set=a.10155494505507942&type=3&theater",
+            "name": "القہٰ۫ﹻﹻٱٱئہٰ۫ﹻﮂۗ مہۣۗﹷٰﹷٰﹷٰﹷٰحمٰٰ۫ہٰٰۣۗ۫ﹻ۬ﹻﹻ۬ﹻﮂ آلمہٰٰۣۗ۫ﹻصہۗﹻﹻڕێ",
+            "path": "published/5_1589653456_القہٰ۫ﹻﹻٱٱئہٰ۫ﹻﮂۗ مہۣۗﹷٰﹷٰﹷٰﹷٰحمٰٰ۫ہٰٰۣۗ۫ﹻ۬ﹻﹻ۬ﹻﮂ آلمہٰٰۣۗ۫ﹻصہۗﹻﹻڕێ.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://eldorar.org/node/86033",
+            "name": "الدرر  الشامية",
+            "path": "sources/0_1589653340_شامية.jpg"
+        },
+        {
+            "link": "https://twitter.com/sharefsarmada/status/643438537216552960",
+            "name": "شريف سرمد",
+            "path": "sources/1_1589653340_شريف سرمد.jpg"
+        },
+        {
+            "link": "https://ar.abna24.com/news/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82/%D9%82%D9%8A%D8%A7%D8%AF%D8%A7%D8%AA-%D8%AF%D8%A7%D8%B9%D8%B4-%D8%A8%D8%A7%D9%84%D9%85%D9%88%D8%B5%D9%84-%D9%87%D8%B1%D8%A8%D8%AA-%D9%81%D9%8A-%D9%85%D9%84%D8%A7%D8%A8%D8%B3-%D9%86%D8%B3%D8%A7%D8%A1-%D8%AD%D9%88%D8%A7%D9%85%D9%84_840070.html",
+            "name": "النبأ",
+            "path": "sources/2_1589660483_النبأ.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "القبض على رجلين يرتديان ملابس نسائية في سيناء.. حقيقة الصورة",
+    "updated_at": "2020-09-25 04:37:27",
+    "url_path": "/factcheck/2020/05/16/القبض-على-رجلين-يرتديان-ملابس-نساء-في-سيناء-حقيقة-الصورة"
+}

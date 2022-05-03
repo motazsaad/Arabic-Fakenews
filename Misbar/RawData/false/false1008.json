@@ -1,0 +1,116 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_sources": 0,
+    "amount_visits": 345,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "category": "Spirituality & Religion",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">وصف البابا فرانسيس الاحتفال بعيد الميلاد بــ &quot;الجاهلية&quot;، واعتبره حكاية خرافية لا وجود لها في الإنجيل.</p>\r\n",
+    "country": "IT",
+    "created_at": "2019-12-31 12:52:03",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e0b1a43d4a2294e136e6034",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الخبر زائف، إذ راجع &quot;مسبار&quot; كلمة البابا فرانسيس في عيد القديس ستيفانو الذي يُحتفل به في 26 ديسمبر/ كانون الثاني من كل عام، ولم يجد أساساً للتصريحات المنسوبة له.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">ووجد &quot;مسبار&quot; أثناء بحثه عن مصدر الخبر، أنّ موقع &quot;اليوم السابع&quot; كان قد نشره في 26 ديسمبر/ كانون الأول عام 2013، ليتم تداوله وإعادة نشر تفاصيله حرفياً منذ ذلك الحين عشرات المرات كل عام خلال فترة الاحتفال بعيد الميلاد ورأس السنة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت العديد من المواقع الالكترونية، خبراً تداولته حسابات وصفحات على منصات التواصل الاجتماعي، فحواه أنّ البابا فرانسيس، بابا الفاتيكان، انتقد الاحتفال بعيد الميلاد واصفاً إياه بالجاهلية وبأنّه يصور حكاية خرافية لا وجود لها في الإنجيل. وأفاد الخبر أنّ تصريحات البابا جاءت خلال كلمته في صلاة التبشير الملائكي في عيد القديس ستيفانو الشهيد الأول.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_a3714371f65fc4848a527e3857ebef13.jpg\" style=\"height:509px; width:336px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_6b93c88d58e8aecf36d73424332f3399.jpg\" style=\"height:628px; width:420px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 357,
+        "left": 5.40179443359375,
+        "path": "articles/1577785923GettyImages-1190719144-min.jpg",
+        "top": 57.03851318359375,
+        "totalHeight": 423,
+        "totalWidth": 646,
+        "width": 634
+    },
+    "post_date": "2019-12-27T12:48:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.youtube.com/watch?v=wQw_7GOtFuM",
+            "name": "فكرة",
+            "path": "published/0_1577785923_فكرة-لوغو.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=wQw_7GOtFuM",
+            "name": "بنزرت أف أم",
+            "path": "published/1_1577787989_بنزرت اف ام-لوغو.jpg"
+        },
+        {
+            "link": "https://www.analkhabar.com/72899/",
+            "name": "أنا الخبر",
+            "path": "published/2_1577788443_أنا الخبر-لوغو.jpg"
+        },
+        {
+            "link": "https://www.almasryalyoum.com/news/details/366372",
+            "name": "المصري اليوم",
+            "path": "published/3_1577788443_المصري اليوم لوغو.jpg"
+        },
+        {
+            "link": "http://www.diwane.net/?p=10384",
+            "name": "الديوان",
+            "path": "published/4_1577788443_الديوان-لوغو.jpg"
+        },
+        {
+            "link": "https://almnatiq.net/517142/",
+            "name": "المناطق",
+            "path": "published/5_1577886925_المناطق.JPG"
+        },
+        {
+            "link": "https://sahifa24.ma/8886.html",
+            "name": "صحيفة 24",
+            "path": "published/6_1577788443_صحيفة 24-لوغو.jpg"
+        },
+        {
+            "link": "https://www.youm7.com/story/2013/12/26/%D8%A8%D8%A7%D8%A8%D8%A7-%D8%A7%D9%84%D9%81%D8%A7%D8%AA%D9%8A%D9%83%D8%A7%D9%86-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%81%D8%A7%D9%84-%D8%A8%D8%B9%D9%8A%D8%AF-%D8%A7%D9%84%D9%85%D9%8A%D9%84%D8%A7%D8%AF-%D8%AC%D8%A7%D9%87%D9%84%D9%8A%D8%A9-%D9%88%D9%84%D8%A7-%D9%88%D8%AC%D9%88%D8%AF-%D9%84%D9%87-%D8%A8%D8%A7%D9%84%D8%A5%D9%86%D8%AC%D9%8A%D9%84/1418959",
+            "name": "اليوم السابع",
+            "path": "published/7_1577872952_اليوم السابع-لوغو.jpg"
+        },
+        {
+            "link": "https://alwafd.news/%D8%B9%D8%A7%D9%84%D9%85%D9%80%D9%8A/597302-%D8%A8%D8%A7%D8%A8%D8%A7-%D8%A7%D9%84%D9%81%D8%A7%D8%AA%D9%8A%D9%83%D8%A7%D9%86-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%81%D8%A7%D9%84-%D8%A8%D8%A3%D8%B9%D9%8A%D8%A7%D8%AF-%D8%A7%D9%84%D9%85%D9%8A%D9%84%D8%A7%D8%AF-%D8%AC%D8%A7%D9%87%D9%84%D9%8A%D8%A9",
+            "name": "الوفد",
+            "path": "published/8_1577872952_الوفد-لوغو.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=0elRQ1Z1pnU",
+            "name": "كلمة البابا فرانسيس في عيد القديس ستيفانو",
+            "path": "sources/0_1577785923_YouTube-logo.jpg"
+        },
+        {
+            "link": "https://www.vaticannews.va/en/pope/news/2019-12/pope-francis-angelus-feast-st-stephen.html",
+            "name": "Vatican News",
+            "path": "sources/1_1577788805_vatican news-logo.jpg"
+        },
+        {
+            "link": "https://www.vaticannews.va/en/pope-francis/angelus/2019-12/pope-francis-angelus-29-december-2019.html",
+            "name": "Vatican News",
+            "path": "sources/2_1577788859_vatican news-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الاحتفال بعيد الميلاد جاهلية... ما حقيقة التصريح المنسوب لبابا الفاتيكان؟",
+    "updated_at": "2020-09-23 12:39:56",
+    "url_path": "/factcheck/2019/12/31/الاحتفال-بعيد-الميلاد-جاهلية-ما-حقيقة-التصريح-المنسوب-لبابا-الفاتيكان"
+}

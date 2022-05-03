@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1764,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "الصورة الأصلية تُظهر تصميماً متخيّلاً (فيسبوك)",
+    "category": "Arts & Culture",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">صورة لتحفة معمارية في الفلبين.</p>\r\n",
+    "country": "PH",
+    "created_at": "2020-08-15 13:38:05",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 7,
+    "id": "5f37bb0d1dd585093e00ba66",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة المتداولة ووجد أنها مضللة، لأن <a href=\"http://vincent.callebaut.org/object/200207_rainbowtree/rainbowtree/projects\" style=\"text-decoration:none\" target=\"_blank\"><u>الصورة الأصلية</u></a> تُظهر تصميماً متخيّلاً لمبنى صديق للبيئة في الفلبين، لكنه ليس موجوداً على أرض الواقع في هولندا أو الفلبين أو غيرها.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_kc2eo5rgz.jpg\" style=\"height:413px; width:550px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_4uav9icbb.jpg\" style=\"height:471px; width:564px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تتناقل صفحات على مواقع التواصل الاجتماعي، حديثاً، صورة تدعي أنها لمبنى في الفلبين، وادعى آخرون أنّ الصورة تُظهر مبنى كلية الهندسة الزراعية في جامعات هولندا وبلدان أخرى.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_uywc5j64z.jpg\" style=\"height:735px; width:532px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_npn3k7obn.jpg\" style=\"height:380px; width:531px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 336,
+        "left": 0.23333740234375,
+        "path": "articles/159748788545596945_image10115.jpg",
+        "top": 36.949951171875,
+        "totalHeight": 423,
+        "totalWidth": 598,
+        "watermark_path": "articles/watermark-159748788545596945_image10115.jpg",
+        "width": 598
+    },
+    "post_date": "2020-08-15T13:34:00.000+03:00",
+    "published": [
+        {
+            "link": "https://web.facebook.com/permalink.php?story_fbid=176726140672922&id=104254887920048",
+            "name": "Hollanda dz",
+            "path": "published/0_1597488609_holl.jpg"
+        },
+        {
+            "link": "https://twitter.com/ayagalawadi1/status/1293877976510140417",
+            "name": "رياض العوادي",
+            "path": "published/1_1597488609_رياض.jpg"
+        },
+        {
+            "link": "https://twitter.com/ammar_aldhabi/status/1294350443896877064",
+            "name": "عمار إبن الظبي",
+            "path": "published/2_1597488609_عمار.jpg"
+        },
+        {
+            "link": "https://twitter.com/MedEmine6/status/1294401439356325892",
+            "name": "Med Emine",
+            "path": "published/3_1597488609_ميد.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "http://vincent.callebaut.org/object/200207_rainbowtree/rainbowtree/projects",
+            "name": "Vincent Callebaut Architectures ",
+            "path": "sources/0_1597487884_vincent.jpg"
+        },
+        {
+            "link": "https://www.amazingarchitecture.com/post/the-rainbow-tree-in-cebu-city-philippines-by-vincent-callebaut-architectures",
+            "name": "Amazing Architecture ",
+            "path": "sources/1_1597487884_amazing.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصورة ليست لمبنى في الفلبين أو هولندا",
+    "updated_at": "2020-09-25 06:03:07",
+    "url_path": "/factcheck/2020/08/15/هذه-الصورة-ليست-لمبنى-في-الفلبين-أو-هولندا"
+}

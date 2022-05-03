@@ -1,0 +1,102 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 272,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "جميعها تعود إلى تواريخ قديمة (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">هل هذه الصورة وهذا اللقاء يدل على رئيس يحذر جبران باسيل من عقوبات، أم أنه لقاء احترام وتقدير؟</p>\r\n",
+    "country": "LB",
+    "created_at": "2020-09-05 10:40:07",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f5340d75f8d632f2c0c5689",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصور المتداولة ووجد أنها مضللة، إذ تعود جميعها إلى تواريخ قديمة ولا علاقة لها بزيارات ماكرون الأخيرة إلى لبنان بعد انفجار مرفأ بيروت.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">الصورة الأولى نُشرت على <a href=\"https://www.facebook.com/GebranBassil/posts/1753232198066684\" style=\"text-decoration:none\" target=\"_blank\"><u>صفحة</u></a> جبران باسيل على موقع فيسبوك عام 2018، خلال مؤتمر سيدر الذي عُقد في العاصمة الفرنسية باريس. أما الصورة الثانية فقد نُشرت أيضاً في عام <a href=\"http://nna-leb.gov.lb/en/show-news/96130/nna-leb.gov.lb/nna-leb.gov.lb/fr\" style=\"text-decoration:none\" target=\"_blank\"><u>2018</u></a>، خلال اجتماع آخر جمع الرئيس اللبناني ميشيل عون مع ماكرون وباسيل.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_mvu006lg4.jpg\" style=\"height:496px; width:540px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_5bvjoybec.jpg\" style=\"height:393px; width:539px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تتناقل صفحات وحسابات على مواقع التواصل الاجتماعي، حديثاً، صوراً تدعي أنها للقاء جمع السياسي اللبناني جبران باسيل مع الرئيس الفرنسي إيمانويل ماكرون. وتساءل ناشرو الصورة عن الاحترام المتبادل الظاهر في تلك الصور، والذي لا يدلّ على <a href=\"https://www.dw.com/en/frances-macron-warns-lebanons-politicians/av-54782028\" style=\"text-decoration:none\" target=\"_blank\"><u>التحذير</u></a> الذي صرّح به ماكرون لسياسيي لبنان حول ضرورة إجراء إصلاحات في البلاد.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ic3hioknn.jpg\" style=\"height:717px; width:533px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_8qyick6gq.jpg\" style=\"height:619px; width:524px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 382,
+        "left": 2.08331298828125,
+        "path": "articles/1599291607Basil-macron.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 684,
+        "watermark_path": "articles/watermark-1599291607Basil-macron.jpg",
+        "width": 680
+    },
+    "post_date": "2020-09-05T10:36:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/sfeirsamir/status/1300717070196318209",
+            "name": "SAMIR SFEIR",
+            "path": "published/0_1599291772_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/Sweety43602289/status/1301164430521257986",
+            "name": "Sweety",
+            "path": "published/1_1599291772_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/Ri30792852/status/1300760983745564673",
+            "name": "Ri",
+            "path": "published/2_1599291772_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/AntounGrg/status/1300738452837851136",
+            "name": "أنطون جرجي",
+            "path": "published/3_1599291772_twitter.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/GebranBassil/posts/1753232198066684",
+            "name": "جبران باسيل ",
+            "path": "sources/0_1599291607_Bassil.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "http://nna-leb.gov.lb/en/show-news/96130/nna-leb.gov.lb/nna-leb.gov.lb/fr",
+            "name": "NNA ",
+            "path": "sources/1_1599291607_NNA.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صور قديمة تجمع ماكرون بجبران باسيل",
+    "updated_at": "2020-09-25 09:33:36",
+    "url_path": "/factcheck/2020/09/05/صور-قديمة-تجمع-ماكرون-بجبران-باسيل",
+    "was_notification_pushed": "true"
+}

@@ -1,0 +1,102 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2803,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الفيديو منشور على يوتيوب منذ عام 2014 (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">فيديو يُظهر إطلاق نار كثيف في حفل زفاف بعير وناقة في السعودية.</p>\r\n",
+    "country": "SA",
+    "created_at": "2020-03-11 11:13:57",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e689dc5d4a2291a8210ca03",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الفيديو&nbsp;ليس لزفاف بعير وناقة، إذ عثر عليه &quot;مسبار&quot; منشوراً على &quot;يوتيوب&quot; منذ عام 2014، مع تعليقات تفيد بأنّه حفل استقبال عشائري في السعودية. &nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/r9bLIeKtm68\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات وحسابات على منصة فيسبوك، مقطع فيديو حاز عشرات آلاف المشاهدات، ادّعت أنّه يُظهر إطلاق نار كثيف في حفل زفاف ناقة وبعير في السعودية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_e5s2p85d5.jpg\" style=\"height:338px; width:704px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_1b6p3u665.jpg\" style=\"height:363px; width:693px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_2nrla7qp5.jpg\" style=\"height:610px; width:388px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 345,
+        "left": 11.2454833984375,
+        "path": "articles/1583914436GettyImages-1192401877.jpg",
+        "top": 36.38818359375,
+        "totalHeight": 423,
+        "totalWidth": 636,
+        "width": 614
+    },
+    "post_date": "2020-03-11T11:06:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/100007323603722/videos/2515881548665941/?hc_location=ufi&comment_id=Y29tbWVudDoyMjczODQ0MDE5Njg0OTRfMjI3Mzg1OTExOTY4MzQz",
+            "name": "شوقي طفيان",
+            "path": "published/0_1583914436_شوقي طفيان.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100038557876424/videos/186330525995542/",
+            "name": "عبد الله خليل يوسف",
+            "path": "published/1_1583914436_عبد الله خليل يوسف.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=231884641275011",
+            "name": "العراق إلى أين",
+            "path": "published/2_1583914436_العراق إلى أين.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/mustafa.qadhijubran/videos/1204817823189754/?hc_location=ufi&comment_id=Y29tbWVudDoyMjczODQ0MDE5Njg0OTRfMjI3Mzg1OTExOTY4MzQz",
+            "name": "مصطفى قاضي جبران",
+            "path": "published/3_1583914436_مصطفى قاضي جبران.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=202609860951634&external_log_id=be5797ee46d31b29aa91fcd107860a32&q=%D8%B2%D9%81%D8%A7%D9%81%20%D8%A8%D8%B9%D9%8A%D8%B1%20%D8%B9%D9%84%D9%89%20%D9%86%D8%A7%D9%82%D8%A9",
+            "name": "جوك كوزال",
+            "path": "published/4_1583914436_جوك كوزال-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?ref=search&v=2760426057328539&external_log_id=000504a83618aaea34ea1e1e5c3e45c0&q=%D8%B2%D9%81%D8%A7%D9%81%20%D8%A8%D8%B9%D9%8A%D8%B1%20%D8%B9%D9%84%D9%89%20%D9%86%D8%A7%D9%82%D8%A9",
+            "name": "محبين بالله",
+            "path": "published/5_1583914436_محبين بالله-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?ref=search&v=747358702458923&external_log_id=000504a83618aaea34ea1e1e5c3e45c0&q=%D8%B2%D9%81%D8%A7%D9%81%20%D8%A8%D8%B9%D9%8A%D8%B1%20%D8%B9%D9%84%D9%89%20%D9%86%D8%A7%D9%82%D8%A9",
+            "name": "حوران TV",
+            "path": "published/6_1583914436_حوران TV.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=r9bLIeKtm68&feature=youtu.be&fbclid=IwAR2BOiPjCh5qM9quO4y3b8mYLGp1j_GBDb7No7QhgIw2JWdpJYcXxiT_nCc",
+            "name": "الفيديو الأصلي",
+            "path": "sources/0_1583914435_YouTube-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "إطلاق نار في حفل زفاف بعير وناقة في السعودية.. ما صحة الفيديو؟",
+    "updated_at": "2020-09-25 16:14:14",
+    "url_path": "/factcheck/2020/03/11/إطلاق-نار-في-حفل-زفاف-بعير-وناقة-في-السعودية-ما-صحة-الفيديو"
+}

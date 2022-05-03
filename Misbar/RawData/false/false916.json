@@ -1,0 +1,76 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2290,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "caption": "كريستيانو رونالدو (إنستغرام)",
+    "category": "Sports",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">نجم نادي يوفنتوس كريستيانو رونالدو يأكل أرجل الدجاج.</p>\r\n",
+    "country": "",
+    "created_at": "2020-02-23 17:27:28",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e528bd0d4a22904750465c3",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">الصورة مفبركة، إذ أنَّ الصورة الأصلية منشورة على حساب رونالدو الموثق في موقع إنستغرام منذ سبتمبر/أيلول 2016، وتحتوي على طعام آخر مختلف كليًّا.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_s2xw157ik.jpg\" style=\"height:919px; width:552px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">نشرت بعض الحسابات على موقع فيسبوك، صورة للنجم البرتغالي كريستيانو رونالدو وأمامه طبق من الطعام، يظهر فيه أرجل دجاج.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_3x9kqtsb2.jpg\" style=\"height:672px; width:468px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_qfm0n4egr.jpg\" style=\"height:668px; width:460px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1582551759wwww.jpg"
+    },
+    "post_date": "2020-02-23T15:16:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/mt3zhnakMGZIN/posts/2810599489006190/",
+            "name": "متع ذهنك",
+            "path": "published/0_1582468048_متع-ذهنك.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/KhaledElKordy7/posts/2585178278405460?fbclid=IwAR0eNkrOqRbGYFS_Z0Fn-kbqUPPS7ntL34UwHZVRycVb7TB0j_N7X6VbmfA",
+            "name": "خالد الكردي",
+            "path": "published/1_1582468048_خالد-الكردي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/1783684631912434/photos/a.1784099108537653/2785969841683903/?type=3&__tn__=-R&fbclid=IwAR3CKQltQ5dBzu-IFe0b2nKwIMua8h8y4QBgId3AdFvWWM12wwqnitF_6iI",
+            "name": "صفحة باسم محمد حسني مبارك",
+            "path": "published/2_1582468048_حسني-مبار.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/1783684631912434/photos/a.1784099108537653/2785969841683903/?type=3&__tn__=-R&fbclid=IwAR3CKQltQ5dBzu-IFe0b2nKwIMua8h8y4QBgId3AdFvWWM12wwqnitF_6iI",
+            "name": "Cristiano Ronaldo on Instagram",
+            "path": "sources/0_1582468047_رونالدو.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صورة مفبركة لطعام كريستيانو رونالدو",
+    "updated_at": "2020-09-25 14:32:55",
+    "url_path": "/factcheck/2020/02/23/صورة-مفبركة-لطعام-كريستيانو-رونالدو"
+}

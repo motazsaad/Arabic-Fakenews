@@ -1,0 +1,115 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 8117,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": " الأمن تمكن من إلقاء القبض على شخصين يعملان بالإتجار في المواد المخدرة (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">صورة لشخصين قبض عليهما الأمن المصري وبحوزتهما 3&nbsp;مليون جنيه، لتوزيعهم على اللجان الإخوانية لنشر الكذب ومقاطع فيديو&nbsp;مفبركة.</span></p>\r\n",
+    "country": "EG",
+    "created_at": "2020-09-10 15:19:35",
+    "created_by": "5f39b5a51dd585076701cb94",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 2,
+    "id": "5f5a19d770dc3e46b75167df",
+    "investigation": "<p dir=\"rtl\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من الصورة وتبين أن الادعاء مضلل.&nbsp;فهي حسب&nbsp;وزارة الداخلية المصرية لشخصين يعملان بالإتجار في المواد المخدرة، في منطقة الهرم،&nbsp;تم ضبطهما حال استقلالهما سيارة ملاكى وبحوزتهما مبلغ 2 مليون و100 ألف جنيه مصري. ونشرت الصفحة الرسمية للوزارة الصورة بتاريخ 8 سبتمبر/أيلول الجاري.</span><br />\r\n<img src=\"https://images-prod.misbar.com/articlebody/investigation_05gj4jdsf.jpg\" style=\"height:864px; width:620px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات وصفحات على مواقع التواصل الاجتماعي، حديثاً، صورة ادعت أنها لشخصين قبض عليهما الأمن المصري وبحوزتهما&nbsp;3 مليون جنيه مصري، لتوزيعهم على اللجان الإخوانية، لنشر الكذب ومقاطع&nbsp;فيديو مفبركة وانتحال صفة شخصيات ضباط على موقع فيسبوك.</span><br />\r\n<img src=\"https://images-prod.misbar.com/articlebody/origin_q4wy1cep7.jpg\" style=\"height:732px; width:556px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_hhaglwz56.jpg\" style=\"height:640px; width:554px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ymgu8k1vs.jpg\" style=\"height:807px; width:550px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1599740375119056658_3321274907958437_5219704631197379033_n.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1599740375119056658_3321274907958437_5219704631197379033_n.jpg",
+        "width": 752
+    },
+    "post_date": "2020-09-10T15:15:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/GzalhcomforConstruction/photos/a.1123396431079640/3321274904625104/?type=3&__xts__%5B0%5D=68.ARDnO1fgImqsAwfUxt71LpfOtI56S1kuXSUYIXwIT8RsqwGdY2bEr9nRxd_souFwaXHHR0oK6QgD-X7EK5jRwK9BxF5ugugsVHSkOkbr6JL4Q7LQjEh31jyUgbJe_wvErLAe0euArXpDXhN1wZLuFG27Vsnz3Db22G0WQR1BTtOc_i5P_Y7LKtxhmr6iwcTmNKca44V1um12D0jU1alsz0wJgFNEEVIGGDNPYteR67I4Lc8lRpLnaLPyQ2i5R6nzbfBbM6HYgBYl55avJ0ZnDFZ9Tl_ILvw9YIjXkMRtT1LjMb2nA69NbpKEvflKa69BgCqMItYY2cV8oDpPUnBgQQsLrQ&__tn__=-R",
+            "name": "Abogzalh",
+            "path": "published/0_1599740536_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=337717404087464&id=100035476212211",
+            "name": "عزه سالم",
+            "path": "published/1_1599740536_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/groups/503377473428752/permalink/1080655045700989/",
+            "name": "حمد الشرقاوي",
+            "path": "published/2_1599740536_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/groups/1461826627241005/permalink/3317456041678045/?__xts__%5B0%5D=68.ARDyOpSE8HOCQaK5N6_elnonILYGiR3JllLU0P1vaCcq7Zzfz2R85VYj0Ufogm4oH3XD7xSjE5cHFZRoPI-ccS1sbKsUF9dl0vGqq8Vl5R_FySZ4mwvlSAtNYj9-7hqpDeZW34NcOWiOZre55fb1S4KGXYDCpzRaggvXoz89AaZBYIkqna06Fm-ulL3H3s7KYtwpjCS_Qmp0wshtjLjyfDDAOt2vRQh-Uo-ODAPh3baJ48UV7dAWkpouF6jGsj3qEJnvgtKdGAKo7tw1pVlIKXG9flJmbC4kAyQ&__tn__=-R",
+            "name": "محمد على ",
+            "path": "published/3_1599740536_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/photo.php?fbid=176513517261404&set=a.103257391253684&type=3&__xts__%5B0%5D=68.ARDyOpSE8HOCQaK5N6_elnonILYGiR3JllLU0P1vaCcq7Zzfz2R85VYj0Ufogm4oH3XD7xSjE5cHFZRoPI-ccS1sbKsUF9dl0vGqq8Vl5R_FySZ4mwvlSAtNYj9-7hqpDeZW34NcOWiOZre55fb1S4KGXYDCpzRaggvXoz89AaZBYIkqna06Fm-ulL3H3s7KYtwpjCS_Qmp0wshtjLjyfDDAOt2vRQh-Uo-ODAPh3baJ48UV7dAWkpouF6jGsj3qEJnvgtKdGAKo7tw1pVlIKXG9flJmbC4kAyQ&__tn__=H-R",
+            "name": "جمال ابوهيبة",
+            "path": "published/4_1599740536_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/groups/633360627248938/permalink/714570435794623/",
+            "name": "Mai Ahmed",
+            "path": "published/5_1599740536_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/groups/600359466764175/permalink/1999336993533075/?__xts__%5B0%5D=68.ARCnOQnf-jXRUEmYfk1e-Dv9tRkInFMASZCT703moCBYkUiFR0_MUGAoQWCMVhQW3NW95DBoQHiDKKmlwQKrf-OXbzBWF7H-SH7erlfVrntcojJmJlz5YX-OPcuQ9p2VKn6aB0I5i7KisVzO22xCUqFzispvSGfPRTzkH_-qRQbPdYAhlwOTmy9WQ2goIDZQLNaA5qpmeVsUwvKaF87DC28PyRlRik4eeJT3huXcBJh4AY_Rz3-GqlNg1kEHtgN-_pWVfL72i2DSuXYiJQot_Y2Dstxkp-ud2hD7h3e2oXDTwdk8fERIXQ&__tn__=H-R",
+            "name": "احمد حسين",
+            "path": "published/6_1599740536_facebook.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://m.facebook.com/MoiEgy/photos/a.181676241876047/3341596789217294/?type=3&source=54",
+            "name": "الصفحة الرسمية لوزارة الداخلية",
+            "path": "sources/0_1599740375_الداخلية.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الصورة ليست لشخصين قبض عليهما الأمن المصري بسبب نشر أخبار زائفة",
+    "updated_at": "2020-09-25 17:54:31",
+    "url_path": "/factcheck/2020/09/10/الصورة-ليست-لشخصين-قبض-عليهما-الأمن-المصري-بسبب-نشر-أخبار-زائفة",
+    "was_notification_pushed": "true"
+}

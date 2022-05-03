@@ -1,0 +1,102 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2009,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "تزامن نشر المقطع مع عملية \"غصن الزيتون\" العسكرية (Getty).",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">فيديو منتشر على أنه عملية استهداف مقر اجتماع للنظام السوري</p>\r\n",
+    "country": "SY",
+    "created_at": "2020-03-02 13:09:52",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e5cdb70d4a2292acd4707a3",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تبين لـ &quot;مسبار&quot; بعد التحقق من صحة الفيديو بأنه قديم نشرته مواقع تركية منذ سنتين، في 2018، على أنه لكيفية استعداد الجنود الأتراك حين يكلفون بمهمة مستعجلة لعملية عسكرية وتزامن نشر هذا الفيديو من قبل مواقع تركية مع العملية العسكرية &quot;غصن الزيتون&quot; التي قامت بها الحكومة التركية في سورية، وتحديداً عفرين في ريف حلب، وتجدر الإشارة الى أنَّ المواقع التركية تستخدم خلال هذه العملية صوراً من الفيديو لكنها توضح بأنها صوراً تعبيرية فقط.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"صورة_x0020_7\" src=\"https://images-prod.misbar.com/articlebody/investigation_6bvbsv7zf.jpg\" style=\"height:636pt; width:414.75pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"صورة_x0020_8\" src=\"https://images-prod.misbar.com/articlebody/investigation_1k6gzz8wf.jpg\" style=\"height:567.75pt; width:414.75pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\">مقطع الفيديو الأصلي</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/0TZsbL6s3Ys\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت بعض الصفحات على موقع فيسبوك، منها ترك بوست ووكالة الفرات للأنباء بتاريخ 29 فبراير/شباط والأول من مارس/آذار من العام الجاري، فيديو مصور على أنه للحظة انطلاق طائرة &quot;<span dir=\"LTR\">F-16</span>&quot; تركية واستهدافها لمقر اجتماع عسكريين من النظام السوري في حلب ضمن العملية العسكرية الأخيرة التي تسمى &quot;درع الربيع&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وحاز الفيديو على تفاعل كبير من مستخدمي صفحات التواصل الاجتماعي وتداوله عددٌ من الناشطين السوريين.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;<span dir=\"LTR\"><img id=\"صورة_x0020_5\" src=\"https://images-prod.misbar.com/articlebody/origin_6ioqz28jt.jpg\" style=\"height:526.5pt; width:414.75pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"صورة_x0020_6\" src=\"https://images-prod.misbar.com/articlebody/origin_ienr1m6dy.jpg\" style=\"height:486pt; width:414.75pt\" /> </span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 351,
+        "left": 3.6999664306640625,
+        "path": "articles/1583143792GettyImages-1174518148.jpg",
+        "top": 20.555908203125,
+        "totalHeight": 423,
+        "totalWidth": 635,
+        "width": 623
+    },
+    "post_date": "2020-03-02T12:37:00.000+03:00",
+    "published": [
+        {
+            "link": "Turkmenii https://www.facebook.com/100362704893362/videos/1329738443902932/",
+            "name": "Turkmenii ",
+            "path": "published/0_1583143791_turkmenii.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Turk0Post/videos/3018166678228400/",
+            "name": "ترك بوست",
+            "path": "published/1_1583143791_ترك-بوست.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=514123419493726",
+            "name": "وكالة الفرات للأنباء",
+            "path": "published/2_1583143792_وكالة-الفرات.jpg"
+        },
+        {
+            "link": " https://www.facebook.com/watch/?v=283694722606258",
+            "name": "الرقة أهلنا",
+            "path": "published/3_1583143792_الرقة-اهلنا.jpg"
+        },
+        {
+            "link": " https://www.facebook.com/kashkol2011/videos/812695455896341/",
+            "name": "كشكول",
+            "path": "published/4_1583143792_كشكول.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=0TZsbL6s3Ys&ab_channel=enBursaTV",
+            "name": "En Bursa TV",
+            "path": "sources/0_1583143791_enBursa.JPG"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=QLggu5SzauY&ab_channel=TRTHaber",
+            "name": "TRT Haber",
+            "path": "sources/1_1583143791_trt-haber.JPG"
+        },
+        {
+            "link": "https://www.milliyet.com.tr/gundem/genelkurmay-gokyuzunun-celik-kanatlarini-paylasti-2614945",
+            "name": "Milliyet",
+            "path": "sources/2_1583143791_milliyet.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "فيديو منتشر على أنه عملية استهداف مقر اجتماع للنظام السوري",
+    "updated_at": "2020-09-23 12:37:40",
+    "url_path": "/factcheck/2020/03/02/فيديو-منتشر-على-أنه-عملية-استهداف-مقر-اجتماع-للنظام-السوري"
+}

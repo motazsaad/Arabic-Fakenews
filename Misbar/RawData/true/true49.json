@@ -1,0 +1,107 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2306,
+    "author": {
+        "fullname": "خالد إسماعيل",
+        "id": "5e59256dd4a2295224257db3",
+        "photo": {
+            "name": "1582900589_صورة 2.jpg",
+            "path": "authors/1582900589_صورة 2.jpg"
+        }
+    },
+    "caption": "اقترح ترامب فعلاً حقن مصابي كوفيد-19 بالمعقّمات (Getty)",
+    "category": "Health",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">ترامب يقترح حقن مرضى فايروس كورونا المستجد بمواد التعقيم المنزلية لشفائهم من المرض.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-04-24 20:56:22",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ea32846db291604f67cf084",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الخبر المتداول وتبيّن أنه صحيح، إذ اقترح ترامب، خلال مؤتمر صحفي عقده في البيت الأبيض مساء الخميس 23 أبريل/نيسان، إجراء أبحاث حول إمكانية علاج فايروس كوفيد-19 عن طريق حقن المعقّمات في أجسام المرضى. وتعرّض الرئيس الأميركي <a href=\"https://www.bbc.com/news/world-us-canada-52407177\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">لانتقادات</a> من الأوساط الطبية بعد اقتراحه، إذ حذّرَ أطبّاءٌ من عواقب تنفيذه، وقالوا إنّ المعقّمات، خصوصاً معقّمات الأسطح، الذي يشكّل الكلور جزءاً أساسيًّا من تركيبها، تعتبر سامة وخطيرة، محذّرين من أن الفكرة قد تتسبب في وفاة الكثيرين نتيجة التسمم.<strong>&nbsp; </strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/Yo6KSIhc58A\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "كورونا أميركا",
+        "كوفيد-19",
+        "دونالد ترامب",
+        "فيروس كورونا"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت حسابات وصفحات على مواقع التواصل الاجتماعي خبراً مفاده أنّ الرئيس الأميركي دونالد ترامب اقترح حقن المصابين بفايروس كوفيد-19 بالمعقّمات المنزلية لتنظيف الرئتين لديهم. وقال ناشرو الخبر إن اقتراح ترامب قوبل بغضب وسخرية كبيرة في الأوساط الطبية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_6knh1drfi.jpg\" style=\"height:550px; width:547px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_1er8djebq.jpg\" style=\"height:511px; width:542px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 331,
+        "left": 0.183349609375,
+        "path": "articles/1587750982GettyImages-1220661742.jpg",
+        "top": 28,
+        "totalHeight": 423,
+        "totalWidth": 589,
+        "watermark_path": "articles/watermark-1587750982GettyImages-1220661742.jpg",
+        "width": 589
+    },
+    "post_date": "2020-04-24T20:50:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/Echoarabi/photos/a.1372393636227010/1965628710236830/?type=3&theater",
+            "name": "Echo عربي ",
+            "path": "published/0_1587750981_عربي-لوغو.jpg"
+        },
+        {
+            "link": "https://twitter.com/RassdNewsN/status/1253649166917656582",
+            "name": "شبكة رصد ",
+            "path": "published/1_1587750981_رصد-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/579251728806978/videos/3721126184624405/?eid=ARBc-gwjarsWR8lCcJuOPJUrgDCFhfl1FCRiSoggmu17m3JqxbE4N7XJAHBCLI1qHrjfqlFAQxg888C4",
+            "name": "الدكتور أسعد علي",
+            "path": "published/2_1587750981_دكتور-أسعد-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/rakfiannaba/photos/a.900661973397626/1936319926498487/?type=3&theater",
+            "name": "راك في عنابة",
+            "path": "published/3_1587750981_راك-في-عنابة-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ehabmes/videos/10216912114936459/",
+            "name": "إيهاب مسلم",
+            "path": "published/4_1587750981_إيهاب-مسلم-لوغو.jpg"
+        },
+        {
+            "link": "https://twitter.com/QqbXdbV3anGRMWr/status/1253653370453331969",
+            "name": "حنظله ",
+            "path": "published/5_1587750981_حنظله-لوغو.jpg"
+        }
+    ],
+    "result": "true",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.bbc.com/news/world-us-canada-52407177",
+            "name": "BBC",
+            "path": "sources/0_1587750981_bbc-logo.jpg"
+        },
+        {
+            "link": "https://www.dw.com/ar/%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D9%8A%D9%82%D8%AA%D8%B1%D8%AD-%D8%AD%D9%82%D9%86-%D9%85%D8%B1%D8%B6%D9%89-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-%D8%A8%D8%A7%D9%84%D9%85%D8%B7%D9%87%D8%B1%D8%A7%D8%AA-%D9%88%D8%AE%D8%A8%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D9%8A%D8%B3%D8%AA%D9%86%D9%83%D8%B1%D9%88%D9%86/a-53230038",
+            "name": "DW",
+            "path": "sources/1_1587750982_dw-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "الخبر صحيح.",
+    "title": "كورونا أميركا: ترمب يقترح حقن المصابين بالمعقمات.. خبر صحيح ",
+    "updated_at": "2020-09-23 12:34:09",
+    "url_path": "/factcheck/2020/04/24/كورونا-أميركا-ترمب-يقترح-حقن-المصابين-بالمعقمات-خبر-صحيح"
+}

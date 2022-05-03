@@ -1,0 +1,96 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 7061,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "المقطع الأصلي لحفرة عميقة في كندا (يوتيوب)",
+    "category": "Spirituality & Religion",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">مقطع فيديو يُظهر بئر زمزم من الداخل.</span></p>\r\n",
+    "country": "SA",
+    "created_at": "2020-05-13 17:42:42",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ebc0762db2916472d3853e4",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من مقطع الفيديو المتداول ووجد أنه مضلّل، لأنَّ المقطع الأصلي يُظهر عملية فحص لحفرة عميقة تقع في مقاطعة أونتاريو الكندية، ولا علاقة للأمر ببئر زمزم.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/QQLr-aXmq5s\" width=\"560\"></iframe></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "كندا",
+        "بئر زمزم",
+        "السعودية",
+        "الحج"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تناقلت صفحات على مواقع التواصل الاجتماعي مقطع فيديو ادّعت أنه يُظهر بئر زمزم من الداخل. حظي المقطع بتفاعل شديد على مرّ السنوات، لأنه يدخل في دورة من الظهور والاختفاء كلّ فترة.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"502\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F177716985998776%2Fvideos%2F409867123191645%2F&amp;show_text=1&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"519\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F100008380694438%2Fvideos%2F2636204360002228%2F&amp;show_text=1&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 312,
+        "left": 1.70001220703125,
+        "path": "articles/1589380961غلاف.jpg",
+        "top": 25,
+        "totalHeight": 423,
+        "totalWidth": 558,
+        "watermark_path": "articles/watermark-1589380961غلاف.jpg",
+        "width": 555
+    },
+    "post_date": "2020-05-13T17:39:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/177716985998776/videos/409867123191645/",
+            "name": "دير عطية المحبة",
+            "path": "published/0_1589380960_دير ع.jpg"
+        },
+        {
+            "link": "https://twitter.com/xssaax123/status/925940073744556032",
+            "name": "أم ناصر",
+            "path": "published/1_1589380960_أم ناصر.jpg"
+        },
+        {
+            "link": "https://twitter.com/OmAdel000/status/926497502140010497",
+            "name": "أم عادل",
+            "path": "published/2_1589380960_أم عادل.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100008380694438/videos/2636204360002228/",
+            "name": "صلاح أصيل",
+            "path": "published/3_1589380960_صلاح أصيل.jpg"
+        },
+        {
+            "link": "https://twitter.com/AAMULIM137/status/1184854042775830534",
+            "name": "عبد اللطيف آل ملحم",
+            "path": "published/4_1589380960_عبداللطيف.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=QQLr-aXmq5s",
+            "name": "Minewise Technology",
+            "path": "sources/0_1589380960_minewise.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "بئر زمزم من الداخل.. فيديو مضلل",
+    "updated_at": "2020-09-25 17:45:36",
+    "url_path": "/factcheck/2020/05/13/بئر-زمزم-من-الداخل-فيديو-مضلل"
+}

@@ -1,0 +1,88 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2362,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "شخصية الدمية تم تصميمها عام 2016 (Deviant art)",
+    "category": "Arts & Culture",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">صورة منتشرة لأنثى الثعلب الروسي.</span></p>\r\n",
+    "country": "RU",
+    "created_at": "2020-08-24 00:28:17",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 3,
+    "id": "5f42df7160211806f2535fff",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الصورة ليجد أنها معروضة على عدة مواقع مخصصة لبيع الألعاب التي يصممها فنانون&nbsp;بشكل مبتكر للحيوانات، ومنها موقع <a href=\"https://www.deviantart.com/flicker-dolls\" title=\"Flicker-Dolls\"><span style=\"color:#3498db\"><span dir=\"LTR\">Flicker-Dolls</span></span></a> وهذه اللعبة اسمها بحسب الموقع&nbsp;Hiroki. وكتب مصممها في التعريف بها &quot; الذيل رقيق، وعلى الرقبة قلادة على شكل صليب، ويمكن للدمية أن تتخذ أوضاع مختلفة، وتم تصميمها في 2016&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_e6p25bftx.jpg\" style=\"height:354px; width:605px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت عدة حسابات على موقعيّ التواصل الاجتماعي تويتر وفيسبوك، صورةً لثعلب أبيض تحت مسمى &quot;أنثى الثعلب الروسي&quot; منذ يوليو/تموز للعام 2019 حتى أغسطس/ آب الجاري، وقد لاقت الصورة&nbsp;رواجاً بين مستخدمي&nbsp;وسائل التواصل الاجتماعي بسبب تميز شكل الثعلب.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_0f3eaf7ci.jpg\" style=\"height:213px; width:605px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_1fhfz7dnu.jpg\" style=\"height:422px; width:594px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_iso5mb6xl.jpg\" style=\"height:410px; width:598px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 406,
+        "left": 2.25,
+        "path": "articles/1598218096أنصى.JPG",
+        "top": 1.8359375,
+        "totalHeight": 423,
+        "totalWidth": 761,
+        "watermark_path": "articles/watermark-1598218096أنصى.JPG",
+        "width": 723
+    },
+    "post_date": "2020-08-23T22:52:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/kifah.malaeb.3/posts/2919481711620595",
+            "name": "Rana Farid Ibrahim",
+            "path": "published/0_1598218096_0_1596888660_facebook.jpg"
+        },
+        {
+            "link": "https://twitter.com/sobhy_mwafey/status/1291415686116409345",
+            "name": "Sobhy Mwafey",
+            "path": "published/1_1598218096_6_1596888660_twitter.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=119563833012941&id=100048779752139",
+            "name": "Diamond Gold",
+            "path": "published/2_1598218096_0_1596888660_facebook.jpg"
+        },
+        {
+            "link": "https://twitter.com/11Ram9/status/1148283008111300614",
+            "name": "جازان الفل",
+            "path": "published/3_1598218096_6_1596888660_twitter.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.deviantart.com/flicker-dolls/art/Hiroki-605900407",
+            "name": "Deviant art",
+            "path": "sources/0_1598218096_داف.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه ليست صورة أنثى الثعلب الروسي",
+    "updated_at": "2020-09-25 15:11:14",
+    "url_path": "/factcheck/2020/08/24/هذه-ليست-صورة-أنثى-الثعلب-الروسي"
+}

@@ -1,0 +1,96 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1949,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "نفى تايسون أنه سيمنح من يتزوج ابنته ميكي عشرة ملايين دولار (Getty)",
+    "category": "News",
+    "claim": "<p style=\"text-align:right\">تايسون ينوي أن يمنح من يتزوج ابنته ميكي عشرة ملايين دولار.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-03-01 17:56:29",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e5bcd1dd4a22961c01bec16",
+    "investigation": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من الخبر الذي سرعان ما انتشر على وسائل التواصل الاجتماعي في العالم العربي، كنوع من السخرية والتصديق التام لمجرد أن الموقع أجنبي وباللغة الإنجليزية، ووجد أن موقع مارفي بوست ذاته ينفي الخبر على لسان تايسون بعد نشره بيومين وتحديداً في الثامن والعشرين من فبراير/ شباط المنصرم.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وقال الموقع أنَّ تايسون تواصل معهم من خلال شخص يدعي أنه يتحدث بالنيابة عنه لدحض التقرير، مضيفاً هذا الشخص الذي يُدعى جراي جراي &quot;يمكنني أن أؤكد لكم أن المقال خاطئ، ومزيف، كما لا يوجد أصل لهذه القصة، بل هو تشهير بتايسون وابنته&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وعلى الرغم من أن الموقع نشر هذا التصريح، إلا أنه لم يعمل على إزالة المقال الأصلي، بل احتفظ به مع الإشارة خلاله إلى تصريح تايسون بالنفي.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_7yjlaa7ob.jpg\" style=\"height:389px; width:681px\" /></span></p>\r\n\r\n<p style=\"text-align:right\">&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشر موقع &quot;مارفي بوست&quot; خبراً في السادس والعشرين من فبراير/شباط المنصرم، مفاده أن مايك تايسون بطل العالم السابق في الملاكمة ينوي أن يمنح من يتزوج ابنته ميكي تايسون (30 عاماً) عشرة ملايين دولار.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;ولم يبح الموقع عن مصدر المعلومة، لكنه استمر في سرد المعلومات عن ابنة تايسون في عبارات توحي بالعنصرية حين أضاف &quot;بشرتها معتمة، وجسمها كبير جداًً، وتزن 150 كجم، تماماً&nbsp;كأنها النسخة النسائية من تايسون.. بعد مشاهدة صور ابنة تايسون، يمكنك أيضًا أن تفهم سبب رد فعل مستخدمي الإنترنت&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_tpocnzdt9.jpg\" style=\"height:351px; width:605px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_846mkptt3.jpg\" style=\"height:393px; width:605px\" /></span></p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_molqb862q.jpg\" style=\"height:604px; width:514px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1583077390Untitled-1-Recovered.jpg"
+    },
+    "post_date": "2020-03-01T15:27:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.maravipost.com/mike-tyson-gives-out-us10millions-to-any-man-to-marry-his-daughter/",
+            "name": "maravipost",
+            "path": "published/0_1583077791_Marvipost-logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/sharekquds/photos/a.122695967807847/2799935193417231/?type=3&theater",
+            "name": "شارك القدس",
+            "path": "published/1_1583074589_شبكة القدس.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=215080383223864&set=a.108647537200483&type=3&theater",
+            "name": "أبوسامي نعيم",
+            "path": "published/2_1583074589_نعيم.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/mattabat0/posts/2877581102302997",
+            "name": "مطبات",
+            "path": "published/3_1583075761_مطبات.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=10157919705986760&set=a.10150743438061760&type=3&theater",
+            "name": "أيمن العالول",
+            "path": "published/4_1583075761_ايمن.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.maravipost.com/mike-tyson-refutes-reporting-about-giving-daughter-away-for-10-million/",
+            "name": "maravipost",
+            "path": "sources/0_1583077720_Marvipost-logo.jpg"
+        },
+        {
+            "link": "https://guardian.ng/life/mike-tyson-debunks-news-about-giving-daughter-out-for-10-million/",
+            "name": "The Guardian Nigeria",
+            "path": "sources/1_1583077720_The Guardian Nigeria-logo.jpg"
+        },
+        {
+            "link": "https://checkyourfact.com/2020/02/26/fact-check-mike-tyson-10-million-marry-daughter/",
+            "name": "checkyourfact",
+            "path": "sources/2_1583077791_Check Your Fact-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "مايك تايسون ينفي بحثه عن زوج لابنته مقابل عشرة ملايين دولار",
+    "updated_at": "2020-09-23 12:37:44",
+    "url_path": "/factcheck/2020/03/01/مايك-تايسون-ينفي-بحثه-عن-زوج-لابنته-مقابل-عشرة-ملايين-دولار"
+}

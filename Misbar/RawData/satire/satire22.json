@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2949,
+    "author": {
+        "fullname": "رشيد عفيف",
+        "id": "5ec4e956db291667784c4bc4",
+        "photo": {
+            "name": "1589963094_رشيد صورة.jpg",
+            "path": "authors/1589963094_رشيد صورة.jpg"
+        }
+    },
+    "caption": "المقطع الأصلي جزء من برنامج فرنسي ساخر (Getty)",
+    "category": "Gaming",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">مدمن على لعبة ببجي يقتل أفراد أسرته في فرنسا بعد أن قطعت عنه الخادمة شبكة الإنترنت.</p>\r\n",
+    "country": "FR",
+    "created_at": "2020-07-16 10:52:24",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f100738163be306cf3ebd64",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من مقطع الفيديو المتداول ووجد أنه ساخر لكنه انتشر بوصفه حقيقة.<a href=\"https://youtu.be/B_GPScKH_7U?t=5\" style=\"color:blue; text-decoration:underline\" target=\"_blank\"> المقطع الأصلي</a> جزء من برنامج فرنسي ساخر يبث على قناة كنال بلوس تحت عنوان <span dir=\"LTR\" lang=\"FR\">Groland</span>. ونُشر هذا المقطع تحت عنوان &quot;قتل مستحق&quot; بتاريخ 8 يونيو<span dir=\"LTR\" lang=\"FR\">/</span>حزيران الماضي. ويقدم هذا البرنامج الذي انطلق بثه في سبتيمبر/أيلول عام 1993 تمثيليات ساخرة بأسلوب مستفز وصادم أحياناً. ويعدّ هذا البرنامج من أكثر البرامج الساخرة متابعة في التلفزيون الفرنسي.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/B_GPScKH_7U\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات وحسابات على مواقع التواصل الاجتماعي، حديثاً، مقطع فيديو يدّعي وقوع جريمة قتل ارتكبها مدمن على لعبة ببجي في فرنسا. وانتشر المقطع رفقة تفاصيل عن الجريمة التي ارتُكبت بسبب انقطاع شبكة الإنترنت عن الابن الذي انتابته نوبة غضب ليقتل كل أفراد أسرته، ثم عاد للعب في انتظار الشرطة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_9a6wn4919.jpg\" style=\"height:597px; width:535px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><iframe frameborder=\"0\" height=\"488\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F239387229404716%2Fvideos%2F312690216776481%2F&amp;show_text=1&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 354,
+        "left": 2.16668701171875,
+        "path": "articles/1594885943GettyImages-1152494327.jpg",
+        "top": 68.800048828125,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1594885943GettyImages-1152494327.jpg",
+        "width": 630
+    },
+    "post_date": "2020-07-16T10:47:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/watch/?v=312690216776481",
+            "name": "الدكتور مصطفى أبوسعد",
+            "path": "published/0_1594886961_مصطفى.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=975934716153535",
+            "name": "الدكتور أيمن البدارين",
+            "path": "published/1_1594886961_ايمن.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=309664217069621",
+            "name": "ديوان أصدقاء المغرب",
+            "path": "published/2_1594886961_ديوان.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=728124184685251",
+            "name": "هنا يافة الناصرة",
+            "path": "published/3_1594887023_هنا.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=279376876484792",
+            "name": "مركز العقل الجميل",
+            "path": "published/4_1594887023_مركز.jpg"
+        }
+    ],
+    "result": "satire",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.canalplus.com/divertissement/groland-le-zapoi/h/7399720_50001",
+            "name": "Canal+",
+            "path": "sources/0_1594887086_canal.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=B_GPScKH_7U&t=5s",
+            "name": "Groland Le Zapoï",
+            "path": "sources/1_1594885943_groland.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "مجرد فيديو تمثيلي.. مدمن ببجي قتل أسرته",
+    "updated_at": "2020-09-25 22:10:23",
+    "url_path": "/factcheck/2020/07/16/مدمن-ببجي-الذي-قتل-أسرته-مجرد-شخصية-متخيلة-في-مقطع-تمثيلي-ساخر"
+}

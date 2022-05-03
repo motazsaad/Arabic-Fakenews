@@ -1,0 +1,109 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 71641,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "القبيلة تحنط جميع سكانها وتحتفظ بجثثهم (تويتر)",
+    "category": "Lifestyle",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">قبيلة في أدغال أفريقيا تحتفظ بجثة زعيمها الميت اعتقاداً من أهلها أنه قادرٌ على أن يحكمهم.</p>\r\n",
+    "country": "PG",
+    "created_at": "2020-07-06 19:06:01",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f034be9163be307441a6260",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الادعاء مضلل، إذ أنّ <a href=\"https://www.parismatch.com/Actu/International/Visa-pour-l-image-le-secret-de-la-momie-1045255\" style=\"color:blue; text-decoration:underline\">شعب كوكوكوكو</a> الأصلي في جزيرة بابوا في غينيا الجديدة، لا يعتقدون أنّ زعيمهم الميت قادر على أن يحكمهم، بل هم محتفظون بعادات أسلافهم في تحنيط موتاهم واستعادة جثثهم باستمرار بعد حرقها، ويأخذون منهم النصح إذا حلت بهم لعنة. ويقوم أفراد القبيلة بتحنيط الجثث وترميمها، حتى تبدو بقايا أسلافهم دائماً كأنها في أول أيام وفاتهم.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"88.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_7wnpy7kdn.jpg\" style=\"height:373px; width:605px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">قرية أنغا، التي تأويهم، تقع على ارتفاع حوالي 1500 متر فوق مستوى سطح البحر، اكتشفتها عالمة الأنثروبولوجيا البريطانية <a href=\"https://www.periodismodeviajes.org/2016/12/01/informaci%C3%B3n-los-kukukuku-de-nueva-guinea-los-guerreros-que-restauran-sus-momias/\" style=\"color:blue; text-decoration:underline\">بياتريس بلاكوود</a>، التي فوجئت برؤية الموتى محنطين وطريقة المحافظة عليهم. ووجدت أنّ أقدم المومياوات في القبيلة تبلغ من العمر 100 عام.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">تعود طقوس جنازتهم إلى الاعتقاد بأن الأرض كانت مأهولة بأرواح شرسة تغذت على دم الجثث المدفونة. ويتم وضع <a href=\"https://www.2tout2rien.fr/les-momies-fumees-de-la-tribu-anga/\" style=\"color:blue; text-decoration:underline\">المحاربين الميتين</a>&nbsp;على المنحدرات حتى يتمكنوا دائماً من مراقبة قبيلة أنغا.<br />\r\nيذكر أن غينيا الجديدة حظرت عام 1975 تحنيط الجثث، وشاع دفن الجثث في القبيلة عوض حرقها والاحتفاظ بها.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/v-kk1V4wgrk\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات إخبارية وحسابات على مواقع التواصل الاجتماعي، صورة تدعي أنها لقبيلة أفريقية تحتفظ بجثة زعيمها ظناً منها أنه يستطيع حكمها بعد تحنيطه.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_lyl7m30d3.jpg\" style=\"height:469px; width:334px\" /><br />\r\n<img alt=\"2.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_95mra2b9y.jpg\" style=\"height:446px; width:465px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"1.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_64lrgfq9h.jpg\" style=\"height:343px; width:482px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"3.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_muny2hvcf.jpg\" style=\"height:465px; width:451px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 342,
+        "left": -5,
+        "path": "articles/1594051561tribus_ancestrales.jpg",
+        "top": 21,
+        "totalHeight": 423,
+        "totalWidth": 620,
+        "watermark_path": "articles/watermark-1594051561tribus_ancestrales.jpg",
+        "width": 608
+    },
+    "post_date": "2020-07-06T16:45:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/776873605823751/photos/a.787370038107441/1136791396498635/?type=3&theater",
+            "name": "شباب الجم",
+            "path": "published/0_1594051559_20031933_798942003616911_9139182015702977575_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=3353934484659214&set=a.2336589443060395&type=3&theater",
+            "name": "Ala Bengagi",
+            "path": "published/1_1594051559_58430213_2401376933248312_3616242332996730880_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/icimedea/photos/a.328166690670884/1168547519966126/?type=1&theater",
+            "name": "هنا المدية ",
+            "path": "published/2_1594051559_44535065_1175740345913510_6579276760825724928_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/181222132488155/photos/a.181235549153480/206965706580464/?type=1&theater",
+            "name": "عُيُونْ مَدِينُة العٓلْمَةُ",
+            "path": "published/3_1594051560_79245805_490099151600450_5171141208499552256_n.jpg"
+        },
+        {
+            "link": "https://twitter.com/Massaoudi16/status/1088561973619552258",
+            "name": "massaoudi Abdelghali",
+            "path": "published/4_1594051560_sfLCjgzA_400x400.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Immigrants.dz/photos/a.468332719983485/1053363161480435/?type=3&theater",
+            "name": "المهاجرون",
+            "path": "published/5_1594051560_12339432_560963424053747_8001395516264173815_o.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.parismatch.com/Actu/International/Visa-pour-l-image-le-secret-de-la-momie-1045255",
+            "name": "paris match",
+            "path": "sources/0_1594051560_1.jpg"
+        },
+        {
+            "link": "https://www.2tout2rien.fr/les-momies-fumees-de-la-tribu-anga/",
+            "name": "2tout2rien.fr",
+            "path": "sources/1_1594051560_222.jpg"
+        },
+        {
+            "link": "https://www.quo.es/ciencia/a7573/tribus-ancestrales/",
+            "name": "QUO",
+            "path": "sources/2_1594051561_999999.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "القبيلة لا تحتفظ بجثة زعيمها فقط بل بجثث جميع أمواتها",
+    "updated_at": "2020-09-25 08:01:36",
+    "url_path": "/factcheck/2020/07/06/القبيلة-لا-تحتفظ-بجثة-زعيمها-فقط-بل-بجثث-جميع-أمواتها"
+}

@@ -1,0 +1,101 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 5736,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "أوصلت الشرطة البيتزا بعدما تعرّض السائق لحادث سير (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">طفلة كندية عمرها ستّ سنوات، عادت أمها من العمل مجهدة ونسيتْ تحضير الطعام ثم نامت. جاعت البنت فاتصلت بالشرطة وقالت لهم إنها جائعة، فسألوها عن وجبتها المفضلة؟ طلبت الفتاة البيتزا وأحضرتها الشرطة بالفعل.</span></p>\r\n",
+    "country": "CA",
+    "created_at": "2020-05-07 12:40:26",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5eb3d78adb29166b1303ade4",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من الصورة المتداولة ووجد أنها مضللة، إذ تعود إلى عام 2014 وتوثّق قصة حصلت مع عائلة في مدينة بورتلاند الكندية طلبت البيتزا من أحد المطاعم، لكنّ السائق المسؤول عن التوصيل تعرّض لحادث سير، فما كان من بعض الشرطة الذين هرعوا إلى مكان الحادث إلا أن يوصلوا البيتزا إلى تلك العائلة بعد الانتهاء من عملهم.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_va88iw94f.jpg\" style=\"height:499px; width:584px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "كندا",
+        "الشرطة",
+        "الشرطة الكندية",
+        "البيتزا"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تداولت صفحات على مواقع التواصل الاجتماعي خبراً مفاده أنّ الشرطة الكندية حضّرت البيتزا لطفلة تبلغ من العمر ست سنوات، لم تستطع أمها تحضير الطعام لها بسبب الإجهاد الذي تشعر به جرّاء عملها.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_rxa4vw3pg.jpg\" style=\"height:661px; width:565px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_k5bgxupkh.jpg\" style=\"height:727px; width:567px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1588844425غلاف.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1588844425غلاف.jpg",
+        "width": 752
+    },
+    "post_date": "2020-05-07T12:34:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/groups/2127967897228596/permalink/3946391888719512/",
+            "name": "صور اللاذقية",
+            "path": "published/0_1588844424_صور-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/sahnayanews/posts/2487771217998005/",
+            "name": "شبكة أخبار صحنايا",
+            "path": "published/1_1588844424_شبكة-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/tartous.pic2/posts/3234742923262451",
+            "name": "صوت وصورة من طرطوس",
+            "path": "published/2_1588844424_صوت-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/damascuscityONE/posts/1106166666386556",
+            "name": "دليلك في دمشق",
+            "path": "published/3_1588844424_دليلك-لوغو.jpg"
+        },
+        {
+            "link": "https://twitter.com/_queenmay/status/1215081814605299712",
+            "name": "May",
+            "path": "published/4_1588844425_may-logo.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.cbsnews.com/news/police-deliver-pizza-after-delivery-man-crashes/",
+            "name": "CBS News",
+            "path": "sources/0_1588844425_cbs-logo.jpg"
+        },
+        {
+            "link": "https://abcnews.go.com/GMA/police-officers-finish-pizza-delivery-driver-accident/story?id=25706049",
+            "name": "abc News",
+            "path": "sources/1_1588844425_abc-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "أوصلت الشرطة البيتزا بعدما تعرّض السائق لحادث سير.",
+    "title": "الشرطة الكندية تُحضر البيتزا لطفلة جائعة.. صورة مضللة",
+    "updated_at": "2020-09-25 14:00:10",
+    "url_path": "/factcheck/2020/05/07/الشرطة-الكندية-تحضر-البيتزا-لطفلة-جائعة-صورة-مضللة"
+}

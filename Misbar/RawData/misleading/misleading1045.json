@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 8891,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "من أبلغ الشرطة أحد الموظفين ممن يعملون  في المتجر (Facebook)",
+    "category": "News",
+    "claim": "<p style=\"text-align:right\">الفلسطيني محمود أبو ميالة هو صاحب متجر المواد الغذائية الذي أبلغ الشرطة عن الأميركي جورج فلويد بعد أن أعطاه ورقة مالية مزورة.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-06-06 23:07:38",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5edbf78adb29164c18316906",
+    "investigation": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقّق &quot;مسبار&quot; من الخبر ليجد أنَّه مضلل، فقد أوضح محمود أبو ميالة في عدد من المقابلات التي أجراها مع قنوات عالمية، أنَّه لم يكن حينها متواجداً في متجره، ومن أبلغ الشرطة أحد الموظفين ممن يعملون&nbsp;&nbsp;فيه.</span></p>\r\n\r\n<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">وأضاف أن فلويد دخل ليشتري فأعطى الموظف ورقة مالية، ليكتشف أنها مزورة فأعادها إليه، وخرج فلويد مع صديقة، وعاد بورقة أخرى واشترى بها، لكن بمجرد خروجه اكتشف الموظف كونها أيضاً مزورة فاتصل بالشرطة.</span></p>\r\n\r\n<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">وأضاف أبو ميالة &quot;أعتقد أن جورج لم يكن يعلم كونها مزورة، بل صديقه أراد أن يمررها فـأعطاها له&quot;.</span></p>\r\n\r\n<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">وعلى الرغم من أن بعض&nbsp;المنشورات السابقة تشارك مقاطع الفيديو التي يوضح خلالها أبو ميالة هذه المعلومات، إلا أن التعليقات التي صاحبتها أصرت كونه من بلغ عن فلويد، وأن فلسطينياً من الخليل سبب كل هذه المظاهرات.</span></p>\r\n\r\n<p style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/FAFe6xUAwvw\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت حساباتٌ على مواقع التواصل الاجتماعي، فيسبوك وتويتر ويوتيوب منذ نهاية مايو/أيار المنصرم، خبراً مفاده أن من أبلغ الشرطة عن الأميركي من أصل أفريقي&nbsp;جورج فلويد، ما أدى إلى مقتله خنقاً تحت ركبة ضابط أميركي أبيض، فلسطينياً من الخليل يُدعى محمود أبو ميالة،؛ فهو صاحب متجر المواد الغذائية الذي دفع فيه فلويد العشرين دولاراً المزورة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_udr8alppm.jpg\" style=\"height:468px; width:475px\" /></p>\r\n\r\n<p style=\"text-align:center\">&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_j18ev0vco.jpg\" style=\"height:459px; width:605px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_9fo3xdc0g.jpg\" style=\"height:492px; width:587px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_iy3k3fvfb.jpg\" style=\"height:177px; width:585px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 408,
+        "left": 21,
+        "path": "articles/1591474058محمود.JPG",
+        "top": 4.3359375,
+        "totalHeight": 423,
+        "totalWidth": 761,
+        "watermark_path": "articles/watermark-1591474058محمود.JPG",
+        "width": 724
+    },
+    "post_date": "2020-06-06T21:14:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/aysarzaki/videos/10164235172795179/",
+            "name": "aysar zaki",
+            "path": "published/0_1591474057_ايسار.jpg"
+        },
+        {
+            "link": "https://twitter.com/fahadleb/status/1266873770775646209",
+            "name": "fahadleb",
+            "path": "published/1_1591474057_فهد.jpg"
+        },
+        {
+            "link": "https://twitter.com/M1998HM/status/1267179626272632833",
+            "name": "ابوفتحي",
+            "path": "published/2_1591474057_ابو فتحي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=268972074512912&external_log_id=1169a7b6ff545fca0abd700b6cceba3e&q=%D8%B5%D8%A7%D8%AD%D8%A8%20%D8%A7%D9%84%D9%85%D8%AD%D9%84%20%D8%AE%D9%84%D9%8A%D9%84%D9%8A",
+            "name": "Flint Beit Sahour  ",
+            "path": "published/3_1591474057_فلينت.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/channel/UCry2gCVdntv6r661sKUiKXw",
+            "name": " WCCO - CBS Minnesota",
+            "path": "sources/0_1591474599_بببببب.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=686838971886109&external_log_id=6afeb37f515ceb4249a6cad19c5fb6e1&q=%D8%B5%D8%A7%D8%AD%D8%A8%20%D8%A7%D9%84%D9%85%D8%AD%D9%84%20%D8%AE%D9%84%D9%8A%D9%84%D9%8A",
+            "name": "DW عربية",
+            "path": "sources/1_1591474058_21150293_1681610241862823_2504832717451027556_n.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذا الرجل ليس من أبلغ الشرطة عن الأميركي جورج فلويد",
+    "updated_at": "2020-09-24 06:42:10",
+    "url_path": "/factcheck/2020/06/06/هذا-الرجل-ليس-هو-من-أبلغ-الشرطة-عن-الأميركي-جورج-فلويد"
+}

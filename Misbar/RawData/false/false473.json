@@ -1,0 +1,88 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2973,
+    "author": {
+        "fullname": "هيثم جودية",
+        "id": "5e295291d4a2296ff0065605",
+        "photo": {
+            "name": "1579766417_هيثم .JPG",
+            "path": "authors/1579766417_هيثم .JPG"
+        }
+    },
+    "caption": " أول نشر للصورة كان عام 2016 (Ppseeds)",
+    "category": "Entertainment",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">صورة لأكبر بطيخة في سورية مصدرها ريف القصير بمحافظة حمص.</p>\r\n",
+    "country": "SY",
+    "created_at": "2020-07-19 03:40:26",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f13967a163be307e120dfff",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; ووجد أن الادعاء زائف؛ فالصورة تم العثور عليها بموقع تايلندي متخصص لبيع بذور كافة المزروعات، وكان الهدف من نشر الصورة في الموقع هو الإعلان عن أحد أنواع البذور الأميركية لبطيخ يدعى<span dir=\"LTR\" lang=\"EN-US\">&quot;Carolina Giant Watermelon&quot;</span>(بطيخ كارولينا العملاق)، كما نُشرت الصورة لأول مرة في مايو/ أيار عام 2016 بحسب محرك البحث جوجل.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_rhjrom3wf.jpg\" style=\"height:415px; width:554px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_6itcroum0.jpg\" style=\"height:451px; width:554px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات على مواقع التواصل الاجتماعي منذ 16 يوليو/تموز، صورةً يرافقها تعليق بأنها أكبر بطيخة في سورية مزروعة في ريف القصير بمحافظة حمص.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_8rr217dmu.jpg\" style=\"height:295px; width:553px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_y8kpyizus.jpg\" style=\"height:294px; width:554px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_mxxlkqnui.jpg\" style=\"height:287px; width:554px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_eweg4920i.jpg\" style=\"height:295px; width:554px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1595119961ققق.JPG",
+        "watermark_path": "articles/watermark-1595119961ققق.JPG"
+    },
+    "post_date": "2020-07-19T01:04:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/tourism.in.syria2/posts/3133605713382988",
+            "name": "السياحة في سورية",
+            "path": "published/0_1595119225_السياحة في سورية.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/mhamad.sy.55555/posts/336245594440094",
+            "name": "عسكري",
+            "path": "published/1_1595119225_عسكري.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/1648550515422299/?post_id=2712203822390291",
+            "name": "سوريا دليل الهندسة",
+            "path": "published/2_1595119225_سوريا دليل.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1223322351338266&id=893564797647358",
+            "name": "هوا سوريا",
+            "path": "published/3_1595119225_هواسوريا.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=319444956093427&id=114673536570571",
+            "name": "البراعم",
+            "path": "published/4_1595119225_البراعم.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.ppseeds.com/product/74/%E0%B9%81%E0%B8%95%E0%B8%87%E0%B9%82%E0%B8%A1%E0%B8%A2%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C%E0%B9%81%E0%B8%84%E0%B9%82%E0%B8%A3%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%88%E0%B8%B2-carolina-giant-watermelon",
+            "name": "ppseeds",
+            "path": "sources/0_1595119225_ثثث.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه البطيخة ليست في سورية",
+    "updated_at": "2020-09-25 08:07:17",
+    "url_path": "/factcheck/2020/07/19/هذه-البطيخة-ليست-في-سورية"
+}

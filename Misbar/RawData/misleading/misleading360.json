@@ -1,0 +1,158 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 265,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "الصورة لجو بايدن مع الممثل الغاني دون ليتل (انستغرام)",
+    "category": "Politics",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">جو بايدن ينحني أمام طفل من جنوب السودان.</span></p>\r\n",
+    "country": "US",
+    "created_at": "2020-11-09 15:29:17",
+    "created_by": "5f39b5a51dd585076701cb94",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 3,
+    "id": "5fa9361da5be3a0d334cb00d",
+    "investigation": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;<a href=\"https://misbar.com/\">مسبار</a>&quot; من الصورة وتبين أن الادعاء مضلل، وليست لطفل من جنوب السودان. إذ إنّ الصورة لجو بايدن مع الممثل الغاني الصغير، دون ليتل، ونشرها ليتل بتاريخ 17 سبتمبر/أيلول الفائت، في <a href=\"https://www.instagram.com/p/CFPqzZUpMMX/?utm_source=ig_embed\" style=\"color:#0563c1; text-decoration:underline\">حسابه</a> على موقع انستغرام مرفقة بتعليق &quot;التقيت بالمرشح الرئاسي الأميركي جو بايدن&quot;. وكذلك نشرها <a href=\"https://www.instagram.com/p/CFKYTOnhvtJ/?utm_source=ig_embed\" style=\"color:#0563c1; text-decoration:underline\">جو بايدن</a> في حسابه تحت تعليق &quot;أطفالنا هم تذكير دائم لماذا أنا في هذه المعركة&quot;.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_av957glsw.jpg\" style=\"height:354px; width:624px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_6oi84v3kb.jpg\" style=\"height:357px; width:624px\" /></p>\r\n\r\n<p style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">&nbsp;اقرأ أيضاً:</span></p>\r\n\r\n<p style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/11/08/%D9%87%D8%B0%D9%87-%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9-%D9%84%D8%A7-%D8%AA%D8%B8%D9%87%D8%B1-%D8%AC%D9%88-%D8%A8%D8%A7%D9%8A%D8%AF%D9%86-%D9%85%D8%B9-%D8%B2%D9%88%D8%AC%D8%AA%D9%87\" style=\"color:#0563c1; text-decoration:underline\">هذه الصورة لا تُظهر جو بايدن مع زوجته</a></p>\r\n\r\n<p style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/11/06/%D8%B5%D9%88%D8%B1%D8%A9-%D8%AC%D9%88-%D8%A8%D8%A7%D9%8A%D8%AF%D9%86-%D9%84%D8%A7-%D8%AA%D8%AC%D9%85%D8%B9%D9%87-%D9%85%D8%B9-%D9%85%D9%86%D8%AF%D9%88%D8%A8-%D9%84%D9%84%D8%AE%D8%A7%D9%85%D9%86%D8%A6%D9%8A\" style=\"color:#0563c1; text-decoration:underline\">صورة جو بايدن لا تجمعه مع مندوب للخامنئي</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات وصفحات على مواقع التواصل الاجتماعي، حديثاً، صورة ادعت أنها للرئيس الأميركي الجديد جو بايدن وهو ينحني أمام طفل من جنوب السودان.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ikywbyfag.jpg\" style=\"height:511px; width:488px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_hlhy2niyc.jpg\" style=\"height:509px; width:490px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 4.57763671875e-05,
+        "path": "articles/1604924957200.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1604924957200.jpg",
+        "width": 752
+    },
+    "post_date": "2020-11-09T15:27:00.000+03:00",
+    "published": [
+        {
+            "id": "5fa9361d4cf6694fa51d2841",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2771794956480679&id=100009506044542",
+            "name": "Abo Salem",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5fa9371b7094af356f253686",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=121240749770825&id=102349168326650",
+            "name": "الاعلامي عبدالاله محمد",
+            "origin": "facebook",
+            "path": "sources/93f9de391a020a75555fa2717698a41a40d7d3ec.jpg"
+        },
+        {
+            "id": "5fa9371b15f9d44190814f32",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=157780466022950&id=100526841748313",
+            "name": "هاشم بدر ",
+            "origin": "facebook",
+            "path": "sources/93f9de391a020a75555fa2717698a41a40d7d3ec.jpg"
+        },
+        {
+            "id": "5fa9371b579eb111ca35a6c1",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2713542755524089&id=100006051736392",
+            "name": " ﺳﻴﻒ ﺍﺑﻮﺍﻟﻄﻴﺐ",
+            "origin": "facebook",
+            "path": "sources/93f9de391a020a75555fa2717698a41a40d7d3ec.jpg"
+        },
+        {
+            "id": "5fa9371c0ba16034651e3970",
+            "link": "https://www.facebook.com/streetSudanese/posts/674175133493305",
+            "name": "الشارع السوداني",
+            "origin": "facebook",
+            "path": "sources/e4fd8a3e09acad5bf25175604531599b32412e3b.jpg"
+        },
+        {
+            "id": "5fa937dd37d5735e3a574e63",
+            "link": "https://www.facebook.com/makefikir/posts/3473443499437887",
+            "name": "Maky Book",
+            "origin": "facebook",
+            "path": "sources/75728502b0284d6d52e667545dd9d57ecfb7f045.jpg"
+        },
+        {
+            "id": "5fa9371b15f9d44190814f32",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=157780466022950&id=100526841748313",
+            "name": "هاشم بدر ",
+            "origin": "facebook",
+            "path": "sources/93f9de391a020a75555fa2717698a41a40d7d3ec.jpg"
+        },
+        {
+            "id": "5fa937dd9a77a22ced38dda1",
+            "link": "https://www.facebook.com/mosa.mo.1422/posts/369522017827296",
+            "name": "Mosa Mo",
+            "origin": "facebook",
+            "path": "sources/75728502b0284d6d52e667545dd9d57ecfb7f045.jpg"
+        },
+        {
+            "id": "5fa937dda276124c7a358fad",
+            "link": "https://www.facebook.com/hasaballa.hassan/posts/809066919658609",
+            "name": " Hassan Hasaballa Mahamoud",
+            "origin": "facebook",
+            "path": "sources/75728502b0284d6d52e667545dd9d57ecfb7f045.jpg"
+        },
+        {
+            "id": "5fa9371b579eb111ca35a6c1",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2713542755524089&id=100006051736392",
+            "name": " ﺳﻴﻒ ﺍﺑﻮﺍﻟﻄﻴﺐ",
+            "origin": "facebook",
+            "path": "sources/93f9de391a020a75555fa2717698a41a40d7d3ec.jpg"
+        },
+        {
+            "id": "5fa937dd601ae6309012ae25",
+            "link": "https://www.facebook.com/abdelmagid.magdi/posts/1055877074826186",
+            "name": " AbdElmagid Magd",
+            "origin": "facebook",
+            "path": "sources/75728502b0284d6d52e667545dd9d57ecfb7f045.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f8edc10b764df2b6f025363",
+            "link": "https://www.instagram.com/p/CFPqzZUpMMX/?utm_source=ig_embed",
+            "name": "Peter Brand&atilde;o",
+            "origin": "",
+            "path": "sources/855c232348646c64a0c7271d4cfee16b859db10c.jpg"
+        },
+        {
+            "id": "5f8edc10b764df2b6f025363",
+            "link": "https://www.instagram.com/p/CFKYTOnhvtJ/?utm_source=ig_embed",
+            "name": "Peter Brand&atilde;o",
+            "origin": "",
+            "path": "sources/855c232348646c64a0c7271d4cfee16b859db10c.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الصورة ليست لجو بايدن مع طفل من جنوب السودان",
+    "updated_at": "2020-11-09 15:40:23",
+    "url_path": "/factcheck/2020/11/09/الصورة-ليست-لجو-بايدن-مع-طفل-من-جنوب-السودان",
+    "was_notification_pushed": "true"
+}

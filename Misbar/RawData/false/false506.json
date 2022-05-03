@@ -1,0 +1,112 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 11697,
+    "author": {
+        "fullname": "صباح الخطيب",
+        "id": "5edc1b38db291674e776e9a3",
+        "photo": {
+            "path": "authors/1591643228_7.jpg"
+        }
+    },
+    "caption": "أوضحت شركة دلتا إيرلاينز الأميركية حقيقة الخبر (يوتيوب)",
+    "category": "Travel",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">هبوط اضطراريّ لطائرة ركاب أميركية اصطدمت بجسم لم يحدده الخبراء.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-07-11 12:40:10",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f0988fa163be307807dd1e8",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الخبر واتضح أنّ الادعاء زائف. على الرغم من أنّه بالفعل اضطرت طائرة تابعة لشركة دلتا إيرلاينز الأميركية للقيام بهبوط اضطراريّ في مطار جون كينيدي الدولي في نيويورك، يوم 6 يوليو/تموز الجاري، لكن ليس بسبب جسم غريب كما متداول في المنشورات، بل بسبب برد كبير ناجم عن عواصف شديدة&nbsp;استهدفت أجزاء من منطقتي وسط المحيط الأطلسي وثلاث ولايات أميركية، حسب صحيفة <span style=\"color:#0563c1\"><u><a href=\"https://www.washingtonpost.com/weather/2020/07/08/delta-flight-hail/?fbclid=IwAR0QKOLVojYM-hN-pfL4jeqf7Cfi8_95LJpTRu0atm5wOc_23gmpe_bMjo0\" style=\"color:#0563c1; text-decoration:underline\">واشنطن بوست</a></u></span>.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">ونقلاً عن <span style=\"color:#0563c1\"><u><a href=\"https://abc7ny.com/delta-flight-diverted-after-hail-damages-nose/6303574/\" style=\"color:#0563c1; text-decoration:underline\">قناة ABC7</a></u></span> الأميركية، أوضحت شركة دلتا إيرلاينز، أن البرد سبب أضراراً في الجزء الأمامي من الطائرة، مما أجبر الطائرة أثناء رحلتها الجوية على الهبوط. وقال المتحدث باسم الشركة إنهم عثروا على علامات تلف أخرى خلال التفتيش، على أجنحة وذيل الطائرة، وأنّه سيتم عزلها من الخدمة لعدّة أيام.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_wp7pk5ifm.jpg\" style=\"height:466px; width:526px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_y4nptzetf.jpg\" style=\"height:405px; width:516px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات وصفحات على مواقع التواصل الاجتماعي منذ </span><span dir=\"RTL\" lang=\"AR-SA\">8 يوليو/تموز الجاري, صورتين ادّعت أنهما لهبوط اضطراريّ لطائرة ركاب أميركية اصطدمت بجسم لم يحدده الخبراء. </span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_fhvq5smd3.jpg\" style=\"height:598px; width:504px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_7j3o1xb3m.jpg\" style=\"height:589px; width:491px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_y0q8jxxtg.jpg\" style=\"height:462px; width:487px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/159446121630.jpg",
+        "watermark_path": "articles/watermark-159446121630.jpg"
+    },
+    "post_date": "2020-07-11T12:37:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/rakfiannaba/posts/2021222054674940",
+            "name": "راك في عنابة ",
+            "path": "published/0_1594460410_RAK FI annaba راك في  عنابة la casa.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/algeriaa.news.officiel/posts/178218507049142",
+            "name": "الجزائر نيوز ",
+            "path": "published/1_1594460583_الجزائر نيوز Algeria News.jpg"
+        },
+        {
+            "link": "https://twitter.com/hoosham_85/status/1280645247761072128",
+            "name": "هوووشام",
+            "path": "published/2_1594460583_هوووشام.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/827368507745114/?post_id=907127003102597",
+            "name": "AmIn Ar",
+            "path": "published/3_1594460583_AmIn Ar.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/NassDZR/posts/195547281911343",
+            "name": "ناس دزاير NDZ",
+            "path": "published/4_1594460583_ناس دزاير NDZ.jpg"
+        },
+        {
+            "link": "https://twitter.com/zHHpugEpTRIk2Di/status/1280931814064996352",
+            "name": "عبد الناصر",
+            "path": "published/5_1594460583_عبد الناصر.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/zoubir.kds/posts/2842830572494407",
+            "name": "Zoubir kds",
+            "path": "published/6_1594460583_Zoubir kds.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/bouchegoufnews/posts/1623133267857962",
+            "name": "Bouchegouf News",
+            "path": "published/7_1594460583_Bouchegouf News.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ManberDZ/posts/2719033791716007",
+            "name": "منبر سكان الجزائر",
+            "path": "published/8_1594460583_منبر سكان الجزائر.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://abc7ny.com/delta-flight-diverted-after-hail-damages-nose/6303574/",
+            "name": "abc7",
+            "path": "sources/0_1594460410_abc7.jpg"
+        },
+        {
+            "link": "https://www.washingtonpost.com/weather/2020/07/08/delta-flight-hail/?fbclid=IwAR0QKOLVojYM-hN-pfL4jeqf7Cfi8_95LJpTRu0atm5wOc_23gmpe_bMjo0",
+            "name": "The Washington Post",
+            "path": "sources/1_1594460583_The Washington Post.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هبوط اضطراري لطائرة أميركية، لكن ليس بسبب اصطدامها بجسم غريب",
+    "updated_at": "2020-09-25 18:35:38",
+    "url_path": "/factcheck/2020/07/11/هبوط-اضطراري-لطائرة-أميركية-لكن-ليس-بسبب-اصطدمها-بجسم-غريب"
+}

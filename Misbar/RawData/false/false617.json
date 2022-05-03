@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1975,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "الصورة الأصلية تعود لعبد الباسط الساروت (تويتر)",
+    "category": "Politics",
+    "claim": "<div class=\"article-card-body\">\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">مقتل القيادي يحيى طعيمان من أبناء مأرب في وادي سلى.</span></p>\r\n</div>\r\n",
+    "country": "YE",
+    "created_at": "2020-06-12 18:49:58",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ee3a426d6e4a903137d6634",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من الادعاء المتداول ووجد أنه زائف، لأنّ الصورة الأصلية تعود للسوري </span><a href=\"https://www.gettyimages.ae/detail/news-photo/this-picture-taken-on-march-15-shows-the-late-syrian-rebel-news-photo/1148498942?adppopup=true\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>عبد الباسط الساورت</u></span></a><span style=\"color:#000000\">، الذي </span><a href=\"https://www.bbc.com/news/world-middle-east-48568808\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>توفي</u></span></a><span style=\"color:#000000\"> العام الفائت في المعارك الدائرة شمال سورية. ولا علاقة لمن يُدعى يحيى طعيمان بالصورة المتداولة.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">كما بحث &quot;مسبار&quot; عن اسم يحيى طعيمان ولم يجد معلومة واضحة عنه أو صورة موثّقة له. </span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_o86fkkx89.jpg\" style=\"height:474px; width:508px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "اليمن",
+        "مأرب",
+        "وادي سلى",
+        "يحيى طعيمان",
+        "عبد الباسط الساروت",
+        "الثورة السورية"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل صفحات على مواقع التواصل الاجتماعي، حديثاً، صورة تدّعي أنها لقيادي في الجيش اليمني يُدعى يحيى طعيمان، قُتل في منطقة وادي سلى في محافظة أبين جنوب اليمن.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"464\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D295239008535513%26id%3D109579697101446&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_vbjqxnnx1.jpg\" style=\"height:599px; width:533px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 361,
+        "left": 0.5333251953125,
+        "path": "articles/1591976997غلاف.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 643,
+        "watermark_path": "articles/watermark-1591976997غلاف.jpg",
+        "width": 642
+    },
+    "post_date": "2020-06-12T18:42:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=295239008535513&id=109579697101446",
+            "name": "المقاومة الجنوبية",
+            "path": "published/0_1591976996_المقاومة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=2361469490828556&set=a.1374930739482441&type=3",
+            "name": "نصر ابو مهند",
+            "path": "published/1_1591976997_نصر.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=3294001833972086&set=a.671533072885655&type=3",
+            "name": "محمد الفقيه",
+            "path": "published/2_1591976997_محمد.jpg"
+        },
+        {
+            "link": "https://twitter.com/KhalfanAlkaabi5/status/1270782860694257666",
+            "name": "خلفان الكعبي",
+            "path": "published/3_1591976997_خلفان.jpg"
+        },
+        {
+            "link": "https://twitter.com/aldaleey/status/1270825500768907267",
+            "name": "saad aldaleey",
+            "path": "published/4_1591976997_saad.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.gettyimages.ae/detail/news-photo/this-picture-taken-on-march-15-shows-the-late-syrian-rebel-news-photo/1148498942?adppopup=true",
+            "name": "Getty Images",
+            "path": "sources/0_1591976997_getty.jpg"
+        },
+        {
+            "link": "https://www.bbc.com/news/world-middle-east-48568808",
+            "name": "BBC",
+            "path": "sources/1_1591976997_bbc.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه صورة عبد الباسط الساروت وليس يحيى طعيمان",
+    "updated_at": "2020-09-25 15:35:44",
+    "url_path": "/factcheck/2020/06/12/هذه-الصورة-ليست-للمدعو-يحيى-طعيمان"
+}

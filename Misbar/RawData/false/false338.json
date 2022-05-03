@@ -1,0 +1,83 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1227,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "نفت مديرية الأمن العام الخبر (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">إعلان تجنيد صادر عن مديرية الأمن العام الأردنية.</p>\r\n",
+    "country": "JO",
+    "created_at": "2020-08-25 16:48:26",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f4516aa60211806cc089623",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الإعلان المتداول ووجد أنه زائف، إذ نشرت مديرية الدرك التابعة لقوات الأمن العام الأردنية، <a href=\"https://twitter.com/DarakJo/status/1298214687750926345/photo/1\" style=\"text-decoration:none\" target=\"_blank\"><u>تغريدة</u></a> في حسابها على موقع تويتر، تنفي فيها الإعلان المتداول ووصفته بالمفبرك.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">ومن الجدير بالذكر أن &quot;مسبار&quot; عثر على نسخة مطابقة للإعلان نشرته <a href=\"https://www.facebook.com/policejo/photos/a.409587305774068/872401276159333\" style=\"text-decoration:none\" target=\"_blank\"><u>صفحة</u></a> الأمن العام على فيسبوك عام 2015.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_w3taettj5.jpg\" style=\"height:656px; width:533px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تتناقل صفحات على مواقع التواصل الاجتماعي، ومجموعات على تطبيق واتساب، إعلان تجنيد ادعت أنه صادر عن مديرية الأمن العام الأردنية، أعلن فيه عن حاجتها لتجنيد عدد من الأفراد.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_e1sfxz4av.jpg\" style=\"height:771px; width:529px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 191,
+        "left": 0.1500244140625,
+        "path": "articles/1598363305غلاف.jpg",
+        "top": 75.2333984375,
+        "totalHeight": 423,
+        "totalWidth": 339,
+        "watermark_path": "articles/watermark-1598363305غلاف.jpg",
+        "width": 339
+    },
+    "post_date": "2020-08-25T16:44:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/SAL5SAL/posts/164607865205735",
+            "name": "قرية سال",
+            "path": "published/0_1598363484_facebook.jpg"
+        },
+        {
+            "link": "https://www.whatsapp.com/?lang=en",
+            "name": "مجموعات واتساب",
+            "path": "published/1_1598363852_واتس.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/DarakJo/status/1298214687750926345",
+            "name": "قوات الدرك الأردنية ",
+            "path": "sources/0_1598363305_الدرك.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/policejo/photos/a.409587305774068/872401276159333",
+            "name": "مديرية الأمن العام ",
+            "path": "sources/1_1598363305_الأمن العام.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "إعلان تجنيد زائف منسوب للأمن العام الأردني",
+    "updated_at": "2020-09-25 20:29:00",
+    "url_path": "/factcheck/2020/08/25/إعلان-تجنيد-زائف-منسوب-للأمن-العام-الأردني"
+}

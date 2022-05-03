@@ -1,0 +1,109 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 1
+    },
+    "amount_sources": 0,
+    "amount_visits": 4454,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "مقطع الفيديو قديم ويعود لعام 2014 (تويتر)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">حفل زفاف لشابين مثليين خلال رمضان في تركيا.</p>\r\n",
+    "country": "TR",
+    "created_at": "2020-05-15 13:45:22",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ebe72c2db29160e3b370814",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"rtl\" lang=\"ar\">تحقق &quot;مسبار&quot; من مقطع الفيديو ووجد أنه قديم ولا علاقة له بالوقت الحالي، إذ يعود&nbsp;لعام 2014. وقالت <a href=\"https://t24.com.tr/haber/turkiyenin-ilk-escinsel-dugunu-istanbulda-gerceklesti,271726\">وسائل إعلام</a> تركية حينها إن شابين مثليين أقاموا حفل زفافهما على مركب في مدينة إسطنبول، على الرغم من&nbsp;أن تركيا تحظر زواج المثليين ولا تعترف بهم.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"rtl\" lang=\"ar\">يذكر أن تركيا منعت&nbsp;<span style=\"color:blue\"><u><a href=\"https://www.hurriyet.com.tr/galeri-corona-virusu-nedeniyle-nereler-kapatilacak-dugunler-iptal-mi-edildi-iste-faaliyetleri-durdurulan-mekanlar-41470287/1\" style=\"color:blue; text-decoration:underline\">حفلات الزفاف</a></u></span> مؤقتاً&nbsp;ضمن الإجراءات التي اتخذتها الدولة في مكافحة فايروس كورونا المستجد.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span dir=\"rtl\" lang=\"ar\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_klnezuhqf.jpg\" style=\"height:506px; width:624px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت حسابات على مواقع التواصل الاجتماعي مقطع مصور يُظهر حفل زفاف لشابين مثليين، ادّعت أنه&nbsp;أُقيم في تركيا خلال شهر رمضان المبارك الجاري، وفي ظل تفشي فايروس كورونا المستجد.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_5m5ip10wa.jpg\" style=\"height:358px; width:486px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_boo2kcf9p.jpg\" style=\"height:381px; width:470px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_om1tjc3jp.jpg\" style=\"height:514px; width:434px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 24.699951171875,
+        "path": "articles/1589539521101.jpg",
+        "top": 0,
+        "totalHeight": 512,
+        "totalWidth": 819,
+        "watermark_path": "articles/watermark-1589539521101.jpg",
+        "width": 752
+    },
+    "post_date": "2020-05-15T15:45:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/Mimi27399668/status/1260292926346838018",
+            "name": "Mimi",
+            "path": "published/0_1589539521_Mimi.jpg"
+        },
+        {
+            "link": "https://twitter.com/HassanA07136936/status/1260394850186334208",
+            "name": "Hassan Abdullah",
+            "path": "published/1_1589539521_Hassan Abdullah.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=238207490949679&id=100042812903493",
+            "name": "محمد حامد",
+            "path": "published/2_1589539521_محمد حامد.jpg"
+        },
+        {
+            "link": "https://twitter.com/5147M/status/1258939156794875904",
+            "name": "الناصر",
+            "path": "published/3_1589539521_7777.jpg"
+        },
+        {
+            "link": "https://twitter.com/Ghazi_Alqublan/status/1260593064466436097",
+            "name": "غازي ولد الجازي",
+            "path": "published/4_1589539521_غازي ولد الجازي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2518871728212966&id=504219773011515",
+            "name": "المجلس الأعلى للجيش العربي",
+            "path": "published/5_1589539521_78.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ahmed.mokhtaratefmahmoud/posts/10157283321066931",
+            "name": "Ahmed Mokhtar",
+            "path": "published/6_1589539521_Ahmed Mokhtar.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=mVPftwadTVs",
+            "name": "Etkinlik Fotoğrafçısı ",
+            "path": "sources/0_1589539521_21.jpg"
+        },
+        {
+            "link": "https://t24.com.tr/haber/turkiyenin-ilk-escinsel-dugunu-istanbulda-gerceklesti,271726",
+            "name": "T34",
+            "path": "sources/1_1589539521_22.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "في تركيا، فيديو مضلل لزفاف مثليّين في رمضان",
+    "updated_at": "2020-09-25 05:06:31",
+    "url_path": "/factcheck/2020/05/15/حفل-زفاف-لمثليين-في-نهار-رمضان-في-تركيا-حقيقة-الفيديو"
+}

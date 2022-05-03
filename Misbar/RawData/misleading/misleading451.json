@@ -1,0 +1,136 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 259,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "الصورة انتشرت بادعاء آخر في شهر أبريل/ نيسيان الفائت (فيسبوك)",
+    "category": "Science",
+    "claim": "<p>سقوط مفاجئ للطيور من سماء روما، وموتها ظاهرة غريبة حيرت العلماء، يبدو أن الكوكب اقترب من نهايته.</p>\r\n",
+    "country": "IT",
+    "created_at": "2020-10-24 17:19:55",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 2,
+    "feedback_pos": 12,
+    "id": "5f94380b5556b313ef3a0e81",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:center\">تحقّق &quot;مسبار&quot; من الصورة ووجد أنها تعود إلى الرابع من فبراير/شباط الفائت، بعد سقوط شجرة في منطقة فيالي ديل بوليكلينيكو، داخل روما، ما أدى إلى موت&nbsp;عدد من الطيور التي كانت تعلوها بسبب قوة الرياح في ذلك اليوم، وكانت ذات الصورة انتشرت في أبريل/نيسان الفائت تحت ادعاء &quot;كورونا غاز وعدوى.. هذا ما وقع الليلة في شوارع روما؛ آلاف الطيور ملقاة في كل مكان&quot;، على اعتبار أنها مصابة بفايروس كورونا، وهو ما <a href=\"https://misbar.com/factcheck/2020/04/07/%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A7-%D8%A2%D9%84%D8%A7%D9%81-%D8%A7%D9%84%D8%B7%D9%8A%D9%88%D8%B1-%D8%A7%D9%84%D9%85%D9%8A%D8%AA%D8%A9-%D9%85%D9%84%D9%82%D8%A7%D8%A9-%D9%81%D9%8A-%D8%B4%D9%88%D8%A7%D8%B1%D8%B9-%D8%B1%D9%88%D9%85%D8%A7-%D8%AE%D8%A8%D8%B1-%D9%85%D8%B6%D9%84%D9%84\"><span style=\"color:#3498db\">أثبت</span></a> &quot;مسبار&quot; أنه محض إشاعة، وكانت الشرطة يومها أوقفت سير السيارات، وأنقذت ما تبقى من الطيور.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_mjjg6k563.jpg\" style=\"height:361px; width:602px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-JO\">تداولت حسابات وصفحات على موقع التواصل الاجتماعي فيسبوك، في 14 أكتوبر/تشرين الأول الجاري، صورةً لعشرات الطيور الميتة بعد سقوطها في الشارع، وقالت الحسابات &quot;سقوط مفاجئ للطيور من سماء روما، وموتها ظاهرة غريبة حيرت العلماء، يبدو أن الكوكب اقترب من نهايته&quot;.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ym4ru4ihq.jpg\" style=\"height:198px; width:602px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_2ar0jxnhf.jpg\" style=\"height:267px; width:601px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 414,
+        "left": 2.88800048828125,
+        "path": "articles/1603549194121202037_801064160682073_3189792111006987693_n.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 795,
+        "watermark_path": "articles/watermark-1603549194121202037_801064160682073_3189792111006987693_n.jpg",
+        "width": 735
+    },
+    "post_date": "2020-10-24T15:19:00.000+03:00",
+    "published": [
+        {
+            "id": "5f9438096091bd68346f4cb1",
+            "link": "https://www.facebook.com/dalilktv/posts/377062020371682",
+            "name": "دليلك",
+            "origin": "facebook",
+            "path": "sources/937f4b501f644d67808be3ba886ff5f9fd4882b5.jpg"
+        },
+        {
+            "id": "5f943809e2663c71ad095d3c",
+            "link": "https://www.facebook.com/wahh.pag/posts/801064184015404",
+            "name": "وه",
+            "origin": "facebook",
+            "path": "sources/a9a1b72fb59e5cf328ab510d04a86ca776f52d76.jpg"
+        },
+        {
+            "id": "5f94380976458f3aa447677a",
+            "link": "https://www.facebook.com/photo?fbid=3226421270817426&set=basw.Abpu6LxDVTO342Sh_bguW9wi4xX2ZrIQTjVw184vL-h0GsnaLE84BhI6jGrY6Zmf50Ev67Jl8jZUl4hEpd2IpzYYeAdeYoFUXIOmpIEgd7h_ygELiiUwVBWeZJEt08MaznAWY-QvHzifSSm5mhoiuifEwvYLHvP5iSWH8rHAp8Mckcr1emexz5KGzQKDMXnCXtwZWaAWHX3Ro2_k5xyB5oc-4IR6RuIS7tYN8QIa0GR4TAjpUERNsdvfbeMEbuLyljG7GOZ7falg2PbZkXfmcEzO8KwWpOvBuUkS17qgm-iE0hnDbYzoVELivhNVODpDZ30jyx5tvsOEouGgyCFvBxwRhYyeJVuYAFeLAhJ0AEP5XmVnm0TouURZ6A716dtiOd2QdJ-7k1Nq9SxX4cm3i_p-qsshLviqid-vgVvxtlocG7Ts79huKO3MIu7yESpikhowGgERAdY3ZzbBECkqhCzK9sSXv5wfl07-B3Ok6XARSHVdLPQIphMhdpWNAgfWbhzofCOn127a6DuXfYbOIM0WmMjuGuI6136UT7NdqGwpKA&opaqueCursor=AbqOn2qigvdU_aPWwz2PT372v2VrXiyTb6ftjLrdxLxoAVLd3xFTVhVEWKuruFoQhrRre2tKuIbs1l5b9qtRdg1NwChWG26dp3qHPHcqO6_-k2H-fMbeW6p7DIQRfNim-6zNodOeYoG9J1N8vKkHvzksqbd6mFA9c4uBdDEzLq7wp2v0unj3Xg0l8x8bphp5clxDvOez3OPZgr2lxTAyLUZx96berbn_0jbCIBGVELo0bCjVc79xJxzRqWjV0F9DxlK_utejjAkIxUjrH0spTeKD1NyED2vn4q7W8fY2kLZVOjT_GQsuTVJvDZPs-XI5HVfxfHWmOHlWEBbPCPUvc8zN6tsjR6OzS_Y2FQSHofMfWIrv4hSIW1eiGOXQgWycVd6FPLMLOMJSr2TYPmSjODUAlpikPbnmVXlZeh3WsL_LlFtwSP9OGa9gPsmovNAFCQxDf75h7XIWBYIRDvrEDy7fclcdgeM4dYwSUwIbP7FXOYhawaG2527DW-TaIHecmUjYoCQ7_QRi-GE7YbVedK7G6A7j8ogXWQe_qiL-ie7AYofrbiMp58LP3qrQ1x_Hwybt02yci27NrMAC5n1o1RlrhBOs3lzVpfBCyOQ5yHY-xBaeIhlNgmvgD9HX6RKKMw-ubjXwGVM9RLulv0Orjc3p-WZ4tyl7UfAqWVyX1SxZG5YQF4TiT8CjKy6C8SCguK7JjV2Lr2FpyvleawFpIZ-4QWcAQfDxwhKvP_B2gPL4ju_nW5R1mgX4oGZ3LsKDGLiXYWJldB_d_MhB15wiM2CsbPIZ4rxdlWQ-U3FhCXMUzzYPOiykkzxEz0t8Wj8JwcrJOSMEszHwfQg89ApCqiXxKl-ktQZS4kDuX4U5c-ZvtaxtqZP5ZGERRI3TZZNQCFgLJ6mm6o4CwfUN4yy2Apf5_vVIDQjNWCdfT7v0eQpAQ6VingEhzQO51_5dJMg49cBv-yjPk0jxzN_wBd8UAoC4JxjLQpQ5EuZ2VFT7I7K1H1PttgEES0cG6-ZQchy9B0yE1ATKSSoJuTE4gUMiARgNAy9K7iIadV1w31k60r3tAQ",
+            "name": "Muhammed Anwar",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5f94380939dc546a3a4e8287",
+            "link": "https://www.facebook.com/photo?fbid=1059702954501264&set=basw.Abr1-jTfbef47SxbKfzx_MynYK_ZDvgyvo3tBlbQi7PhL-xurWewTWtJ4RJ7K0OgzHGpQEMGE2wd_ehNt37PWLl2VRJ-ApeJD-jsmM7a-DBFP-ZagdPNvbKSvvZEQrm4YoCaak17B5O7w6pvHz01fERxfjb7FtRCHohMHY88wI_MgnRw17SBWq08t0t0aYwCMIpfKur1WnY3XAVlOiKQ_Do754fCEmEipAPrqR-AZoc7pHjqA82MXQOs2WlsM_hXajWns8zR1-xtU0vDEfacTIDH3jjOn-h8LlnHWEUOXbm0fAxrXtxg8LCoh6ia1aEM4xKnmcHvKwblbq50yOnk6eEdW6Bkei0qUzOcz3gB_twB6vG3QzzEm2QOnykGlfB2GV3hb1Em1jerZ8lZ8HfQMkhA6mzcRJKxvbyiUIQ0msT1Q0cvTRTyKXnPU_RYDj2GzQSMOeT62qqH4LQQlaEDv6e_6kfkPCnIIr3GCdqu_Bp5PtjL2avCHZGM8ZJX6t5SjwOo8uQUV1VjmPTN06GF7iQr8xMP3YCpR2QFKYQlZAKHSg&opaqueCursor=AbrXDNIObTK3PtyB-BxFVubV8bkRs01aGsAtp1eMFrf0QsNclc9Sw0k1k9eyvqwqvW-ACUQCgy24bmucIgCxiBklpvgzgiZlsKGXqieYlG88_WUw1vQsaFSJujAmHn7TET8XTt1p6IeEqjdxUUupdBYUH1_YS1xKz7QIzO-wqMDZ5zZd38b2p2dsPd7CN1OHVq2f5VBb04ZzXFlRpB4Rmbpjo9VglImEBw3xwPnryia0B-JqhH1NcEhd1ihRsJvBGfqBS616Yusls-m4GOq9975lVtTeWx4BFaZQYn4VSYw8faoDpFSc3R7idpP9ax6soOFKcy8Iwxj2mhuVm2KTfiRUXRtlntW_pkXcL7Fe1KUNJjVagWXDbDLWandHgipN0iP-yR_7J7BvFU-HVwU3oix6WBVwsojaewUJa1hr6pF8JItcwFkN4KDoQOyDqeR7l2-Zc-MmNA_hxsGiMI7yYxXPyRsw7eJggWv2O-6ffhhUspJzfoFgopsuZxQ6r4vjz35SFSYnl--UktEt-ET1LjLPGHvmGMp9pkPuqGogwzFWLiX8d2tkRqy3_9d3usw5MGNhNswbaGsSi4g2i-7wbbg2R3sVBUlbey6vIbEZFNv-HHaCkrAXQZAMxTBUhMdeJdQ6cUCv6hCZ-Nc6tnS5v8ILlzWjJEJ_c--uQ6mh3ug9q5HzebatCeS_YUWE6l0tcwkraR8oM-JN4c3erGnVPotatc5COYLIXauu_6MPbtmSxGl4S8Z-H5_vqrOxu-meCqP7rmAVnqeIjL7F_78Y41m2pCy1tqewbEvJZZxiKY84iOoi9jP5F16YgduiLRgiAb2ig0Vb9HvD7DRpE2iwYArkwS32Bw1ORdpyuy3RKqKUFkdYvPmnsFbyOmCcEZWk56wCjRCIF3x_ykdwA3GXoH-U_6bh4zhPOurNcaxBNGqylMufMs56kcNBQRjT2Avt-QxplTL6Co63eWAOW8eBpWQP3vQBIe-zCwRw_bcuhEYbAA",
+            "name": "Habiba Osama",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5f94380a6957e03e7561c5c6",
+            "link": "https://www.facebook.com/100584535078554/photos/basw.Abq06Kj63rXyVRjK1el66PgAsyq_Tj8G6iaK4V7gwnWlzsFWo0u_ukHwkPFKhxuhy-rVjVO-6iYIAeIVCDuzp4tgS1VedH4DIpZ9JDZFrYAOTBV1xIVhBOrApSbHY8M0nVMnRqwH-IPUGt5eGc6A_QvL6JkTgRGBANWDt6OOVmMb2LwEELkvH6dVeYPF5AfE0BxdAsRHvTJv0YIQpavD2L4i18okbdMXqaI0Emm8B5llBydNyUlqDS3M3cVpnF0337xwNjvrAAcAnijMoOxa5OyTd8UAS_99JJJy8ZN1sXBp_VgHOJhX-A1cDwP8D-tvjSUMM6KKIxvAiJmEQzkHoX2bPCyfcT5EcoWRftUu3IRSa6HSJ4pUNQ4oQqxmVuhiBz9cKYUAru-frCglTtWSpB4TGgQvD_E9wLOX-G020ZLH9-WI9VA40f9pYNsw_P1aKzVjLw2be6FHpU48BEkUyBpNANK8SRokUwtEfje9CvKzd8cKn6FUM67-mh7-BG0UT0snBn_PdWvd_QxDTOTkA9rIIKxj3bblv9DKB8jDaZ8m0-TJothKU0FOR2AYqkf2kXI/148065913663749/?opaqueCursor=Abq0xieVussdgbqWNmo0PT0jiKOB66Cq7OlNSgnoWdNZFm7kPSs5ldRHGeIyHNjpI84dbgr42WW3pU8Ryt3kACxfy1EzTVH7d8iw67T8ICy05L2Qr1PRd9GJoi55e5Jx5J8rW8iF0p8Wkj5axzdqCM4JRqUjDG6cOdZm7D6EyziAWhI_Tkz1_T7ZvxcqZoypK8RO6uQ1s25hhtHDKnILCVlsTtpbrJezqH0DoprZpYTJLf7bekndSvQR408iRLlV4GpdSw__XYuavZ2nxof0V87pW1QbVi-rlcEBDN9GcH43846GmPVR1mljZfa8NseTIRpyYvQP_5xt_pIfL4bzgTZwxLzOkDbQdMVGJcAa2k5wPGDWGvbakjdsehmX6_Q-m2NnR6_0iCL7O8Ss6GY4ZRwgMnl9gTMzgVDRGLel2fwmjmDOjD_HUN8XIDIATbn9NQ1Exzcwj8sw47GY5c0OdtN0QpfjvV9nTn01zGcMxOr17CW-tM70r_nDr_2cn3bgh8p--AdY21I1ycqf2VXD19YWMLWBx84c1iPP-O9qXpM5hSPhi7R0hT2yp_W1zh3IGXXWs_zH7gbYnyLrrG-b81hWVvzJn848WOnOc6au61kWzaGEkxpIoGZF8XuikzdBrdMTs-NjPit34qcoWH-Sc4YWOKJblOjDwn20VIVT8GLetA",
+            "name": "Art World",
+            "origin": "facebook",
+            "path": "sources/85a9876f3cc475ef510ede1fda7b8a78804ac708.jpg"
+        },
+        {
+            "id": "5f94380acf354d6bda375d02",
+            "link": "https://www.facebook.com/107727834016775/photos/basw.AbpR9NdMXYd91M15lbjoBNF-HkZinObz445C9Qp9hUcmGTbBrKNyu-FooahQRqwaXZ1Nu5Kxp8cEthinzo0XFeNFJqEeDzq_ydWS0Yb8dhawf-CP7s7gKHS-IIFA2bKB9MIDlHpr_yQvqgJabOfjl9dtr-VDMIr2CzKUb3QWGS0KG7tA45auiSOvXVSIdGQntIAFIKxHvLfTRP-df2azVDS8ZMWwvLOyc4UPxAxyMlxSIWxEqUNe8CMj3a7R52RVIIC28YD3BAUHZGlsMF_jmHln7WIWkeodCFkhDvr7p8lSrKF3BWd0AMYnC8E_3cLfcPSnr_-BRDcDYsv-4mxDwqis52HWmSl_c5KGqhSVXFA0-q9eJWTeP65bAuWcbwJ6heLuLdm3bxpDoGSOGAOYLPGr7jT_BMEx_nngoRBaSKfMgIxNMT-0TguWjIx8zqoM5Uol4CBq7osLdxW-djT_dJWLBFtJD8MNsZ5UKTn_NzdRU8s_mNUh02Hv9IaZ8gPd5oZIaUYpPTaKy_9d4U-8Htw3LINS2BbLBFaiWy7h4fftDIGE7jb_h4rGscWpl0D2zNI/232767548179469/?opaqueCursor=Abp1KrosOYVh_dGQb9YSVswSfierXqS9-q9vMP67ELOIKcdLXfTh_9FBTjLzYzuvkSsBkfGZ-g1hor5Kcj_kyaPssrWF2_pO74GwPzL8_Zx1LqKobjAgZyDQE3BBgeMLbG90-e9Nsu9awn1MHTFPsVZU7kTZeDyq1Hj79O-hs8DpfYBoIseC_D3W6JxYONLJd8lvAcuXsDtJ2976jyPOk-OF7pkQwuY0BG8eq6t3MburmESrsKlVyg_00580HDLqlb30mjcPcESDMu4-UlhuWQ272HQhbw_G92VL7u5Ckf6OGc1uMq5UrmpYcpj-oFs3BEh9zc6JGKZ7Bo1VTCRkeq5HFOS-Z-rJJVgwdfGQspyA-kHwX90M3gL3zehxl0wrQfK-83Ed4-4L-1mY1WYhkl1r71_3heL7GbHsmGeqk4R7YgJTdzoUWWEnCWd9mYLkjTmLxn8mlIPJH09IMTQw1OucFC0CVxq7WgCGUEHQYtI9xImc76qO2nO96VRNMSI8rGbAGWZK3oUciXQflhHKzLo1gqvHM4Vp5Hpb3EXwtrCsk4VnubNbLXR-NK9VuPCLbUbi9t8qsK3Ktg5n3MnnxeTJ2mclSTbtt1gTFS5Kq18genDhC14fd7fdDp05hExDMJ4rGGJ8zTZtHHKD8yLDpXpy",
+            "name": "شباب الخير أم البواقي Dz",
+            "origin": "facebook",
+            "path": "sources/46cd4b8d9ea668f6752a245b2b5b02a30cd89f4c.jpg"
+        },
+        {
+            "id": "5f94380adcb43d1c03431113",
+            "link": "https://www.facebook.com/zekryat.6/photos/basw.Abo99rbRr9NOb7ghjIG9OQjIV9Gu1bHD9Ayu-nsSPfw2N-A2RPU-ud0mvJZyhQsaHFd1E4ci-ktumT9KxTk5OeigrKOcArd9e_yUvRXCqjRgH_zjc_Y-pVCryo8nbvGsd3871J-ZaHfr6Wbv2FlUADPo29PiNsCk_ykP1vXxsg8Oorm3JN2dpjp8yW8zdzwvs-VnRsovxKRn8Y-Uhfc7weJqRFPsRlEyny5eEJLHSnHC2sG_6O7xDa57USP2HshGYAHEklCIpqnMMFjjNk27tvQ7ZBJGYcoTXS68PnirFLI4nkxEtV9HE0myOsXNEeGhKBsPcUdDL_ToxKCSCe27KATk_j8WR1sXQlTXCxHqE-pOQchqpvLiesIEzlUS_YANYxe-c4WW654_BZQ7GuvK2LP2_umJ2LBMXilqLBSB1mS4XmAFEY39mAlB3v8rGj0qMsWilXYWbz0cGlkh4xdI2nDwuBI5yTVJXsUo6sSdxyeCt0pIAu8i6vEfjpJ0iA9or0JCqEq3Ev1tkY8NBBOMgYUptHY6Di39JqhcDpyYoM1k1yBaXmpRY_rTcBVMhBRxaDI/3935438936484574/?opaqueCursor=Abr8Eja0E6ELjiSS-6jxHvQhXSwXUlLuq3YxSwmyzWbmahxBAmy3i5ldPEr1oBuaQuUp3ZElNxA7DJRQL6DPIVocK-h2yUgAqTXgEer_hMN3F9lcuCVWemQGU2Amoq_GeMfAECyxSEwJHEowDeDG9RN28KS5fcQRmrYoljtJy-EghkwTbtcO6rwsICVcGIELSwGSV9FJnVFNF-7L-6AMw3ZTy_ZyPJAxO8Ac9pG0c84D5w3NFj1qIhSKdJYq1OVTbdnFcV4WqEfv0Dwn1kT-WskWL0MxymW9gumWvQAI6-CNwW46ZXeXXLB6a1r4b_mSGRXSf6hJEUAIF2NNmjerCcH4388XMyET7nNh3qUw3CbBlQoUboqTXsmBsjxSW-Fl16pCNn2Vh74FbobDvZ4JMuEgUBSbPX1Bt8pzl8_E86V5NilVib_JHI8TVUWMudmfe4Jvrfo7A6kq0v3MNzbGkgiIMslHSipAXdQ6KQbOG8RvjmP_Tdn436ElBa-scJODPp3dCC5i3XX2seilmdWUGm0vyOS1t-hbaUv9FoIXBrLtRjYZMkJ6vCTg9rP5wOQPiprLYu-HN832c4wAo2cdG3oAbUcXLXhstugJAFSWsgSQjm7DgYDX1B30N4WlZY1s5BjUce68zu2zSqUsHEHcOtHFFq-mPJW4CpP7AveP1CdWcTOmCOmEJA4waUKAAfd3r00",
+            "name": "Memories +",
+            "origin": "facebook",
+            "path": "sources/2377217bce6333c2a5d5cecdf9192b7e4d30475d.jpg"
+        },
+        {
+            "id": "5f94380ac5dd2b6f7304c5c0",
+            "link": "https://www.facebook.com/asrbtj/photos/bc.Abqmi38RKeZ2lPKllaCt3A-Vc0kGvopWiAXBa9LlVVRraWoN9AwR4ILRNQXNVDm0hQBoqkO9AiiScItSLGgFYEFcpYKebnGkdVULdjsIkvxd5ebyPKslW2A9ljuT6aI6nzClhtUHlPlF-HPmHLDoHw2wcIsvdKx_ngJJXAotspKK0HyqIVTga7tJw5uzOV8bONmXWXsXtnz4xGC53WiV-cI2OTVNEm8TmlwCchZf0U5ymd_jJUcCvo5V2kZQBvfVpRWA2QT_q9zvxeaN9TByqvrJcs3R1K3XX4JOqcW4qHewFMF_JDCA02Tfl8QFcdZZPKRrZCPl-AtqG4pBEL5MJM9a6YCQ1gxchHIL51nR-qgtq-QK8Gi6jVw04ULO1TphdfT7RRNIUCaYxFg3N9weacCGGkSZQjKg2HCZpFHq_z3RJObT0qAPrlRrw_cufYCFUh_89zqOtTIOtGLZ8VXlubNTcFaw6Jngsuo4e5PI9sWeNJxF-OoEwuJM_hKocNMFQCvP3NYTOp9rf4R9E7USc5xlDsEWx-k6J5HF-X6Qsmq6bw/966624193824776/?opaqueCursor=Abpw4uZ80YKqcxPa-JAySgFgF59jljf4wHKodOv3E5TlTwmOWRVwwP_aBGfCJ0BrCAQ8Ad5WXqktwq9pvD6VmnSVHKwycES6ZCeK3eeCsjM7pVpogKv_pYqLl1gCGtpqi3lTdnQPcVPgHtzqay4InxCq7qCq86UxxsuF626ncfFb4wvBqY-u3BiTAuw4-JeDB9vK6TDlt2Kq1xqSXvsvS8-wZLdAQ29l59vWSM-SmafHBoSSn78Rnz_M08mRvlv0m_aIfsP_XkBGN8m3WjmPA61PNQm98G0L7AOaEgl0Cifv7m60NYRYeuQINX1Sig8_Asnqbu7PM2aoMfYFN2_ongjzwurMyHczFmcj3fqnNF-dy9iuUmTJMv9sEKdS0zTgKfD34Nii29lektLxnAY6JVsOv46mCB0r5VX4Tgdj_F7iLQtIQRItecWImhs34OXhp1MYZU2D4wgHs9zQhBoC7oXSDozAekonCtSsWCgCyCNAFzt8XhQHBdR7yjD1PJ8cTQ-PseKyI_TYeB84KXK0GWuF",
+            "name": "فكها وعشها",
+            "origin": "facebook",
+            "path": "sources/febc90426527a9da420e2063ff87a5e3d97f723f.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f94380a26013018495be3ea",
+            "link": "https://www.leggo.it/italia/roma/roma_albero_umberto_ospedale_uccelli_morti_ultime_notizie_foto-5028939.html?fbclid=IwAR31hl0pEFYi0_1QWvX9l8awm3kJFXJmOZGQxNyKbTypWkT_H2cifSz2CLc",
+            "name": "www.leggo.it",
+            "origin": "",
+            "path": "sources/d659446be6cd5f923d6ffea4ca2556968c75a688.jpg"
+        },
+        {
+            "id": "5f94380a9de3835ae64d371e",
+            "link": "https://www.adnkronos.com/fatti/cronaca/2020/02/04/albero-caduto-roma-decine-uccelli-morti-sull-asfalto_V8om6xRaaA4LbTI1LTO2ZM.html?refresh_ce",
+            "name": "www.adnkronos.com",
+            "origin": "",
+            "path": "sources/afa65f09407f730ccde04beaf2c4131a9123259a.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الطيور لم تقع من سماء روما لسبب غريب",
+    "updated_at": "2020-10-24 17:38:17",
+    "url_path": "/factcheck/2020/10/24/هذه-الطيور-لم-تقع-من-سماء-روما-لسبب-غريب",
+    "was_notification_pushed": true
+}

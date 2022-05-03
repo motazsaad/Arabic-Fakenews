@@ -1,0 +1,94 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 457,
+    "author": {
+        "fullname": "جهاد جمال",
+        "id": "5f2149e9163be3072c377619",
+        "photo": {
+            "name": "1596017128_50.jpg",
+            "path": "authors/1596017128_50.jpg"
+        }
+    },
+    "caption": "نفت ابنة أخ الممثل فايز قزق إصابته بالفايروس (يوتيوب)",
+    "category": "Arts & Culture",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">إصابة الفنان السوري فايز قزق بفايروس كورونا.</p>\r\n",
+    "country": "SY",
+    "created_at": "2020-07-29 12:58:35",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f21484b163be308360c0d4d",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الخبر، ووجد أنه زائف، إذ نفت الفنانة لوريس قزق ابنة شقيق فايز قزق على حسابها على &quot;فيسبوك&quot; صحّة خبر إصابة عمّها بالفايروس، إذ قالت &quot;للأسف لمّا المفروض نوقف جنب بعض بهيك أزمة منلاقي أنو في ناس عم تتسلى بأخبار الفنانين حتى تروّج لصفحتها.. الحمدلله الأستاذ فايز بخير وبصحة جيّدة ومافي أساس للخبر المذكور.&quot;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"صورة_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/investigation_3zuqjmnid.jpg\" style=\"height:697.5pt; width:402pt\" /> </span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">تداولت عدة حسابات وصفحات على مواقع التواصل الاجتماعي، خبر إصابة الفنان السوري فايز قزق بفايروس كورونا.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img id=\"صورة_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/origin_3a6m9337n.jpg\" style=\"height:552.75pt; width:415.5pt\" /> </span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img id=\"صورة_x0020_2\" src=\"https://images-prod.misbar.com/articlebody/origin_b4zmrvfi2.jpg\" style=\"height:697.5pt; width:410.25pt\" /> </span></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 412,
+        "left": 78.71122741699219,
+        "path": "articles/15960167151.jpg",
+        "top": 3.4111328125,
+        "totalHeight": 423,
+        "totalWidth": 812,
+        "watermark_path": "articles/watermark-15960167151.jpg",
+        "width": 732
+    },
+    "post_date": "2020-07-29T16:40:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/groups/1959017107716483?view=permalink&id=2710133909271462",
+            "name": "نور سلمان",
+            "path": "published/0_1596016715_نور سلمان.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/story.php?story_fbid=3166251186776348&id=181436335257863",
+            "name": "أفكار محظورة",
+            "path": "published/1_1596016715_أفكار محظورة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/story.php?story_fbid=1657424001106732&id=850495785132895",
+            "name": "طرطوس يا روح",
+            "path": "published/2_1596017507_طرطوس يا روح.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/story.php?story_fbid=157031042642952&id=107319204280803",
+            "name": "سوى حنعمرها",
+            "path": "published/3_1596017507_سوى حنعمرها.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/story.php?story_fbid=603118433723536&id=158832788152105",
+            "name": "وصل صوتك",
+            "path": ""
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/story.php?story_fbid=3136301393116100&id=100002088116479",
+            "name": "Loris M Kazak",
+            "path": "sources/0_1596030791_Loris M Kazak.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الممثل السوري فايز قزق لم يُصب بفايروس كورونا",
+    "updated_at": "2020-09-25 21:27:49",
+    "url_path": "/factcheck/2020/07/29/الممثل-السوري-فايز-قزق-لم-يصب-بفايروس-كورونا"
+}

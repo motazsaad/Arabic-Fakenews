@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 23277,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "الصور عبارة عن تصاميم متخيّلة للكمين (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">أحمد المنسي يظهر في كمين البرث في محافظة سيناء من جديد بعد ترميمه.</span></p>\r\n",
+    "country": "EG",
+    "created_at": "2020-07-02 12:14:24",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5efda570163be33a340f3984",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من الصور المتداولة ووجد أنها مضلّلة، لأنّها في الأصل عبارة عن </span><a href=\"https://www.behance.net/gallery/99602235/the-epic-of-parth-by-oz\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>تصاميم متخيّلة</u></span></a><span style=\"color:#000000\"> للكمين، أعدّها حساب على موقع Behance يحمل اسم </span><a href=\"https://www.behance.net/ozdesigngallery\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>OZ design gallery</u></span></a><span style=\"color:#000000\">، والمخصص لعرض فنّ التصميم الداخلي.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">إذن، الصور المتداولة ليست حقيقية، ولا علاقة لها بكمين البرث في محافظة سيناء المصرية، وإنما مجرّد تصميم متخيّل للموقع.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_fhy7xh31z.jpg\" style=\"height:491px; width:533px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_x4xqs2z0n.jpg\" style=\"height:339px; width:624px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل صفحات وحسابات على مواقع التواصل الاجتماعي، حديثاً، صوراً تدّعي أنها التُقطت في كمين البرث، أحد معاقل الكتيبة 103 صاعقة للجيش المصري في محافظة سيناء. وتُظهر الصورة رسماً داخل جدران الكمين لضحايا الجيش المصري في هجوم كمين البرث عام 2017 من قِبل تنظيم داعش، من ضمنهم أحمد المنسي.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_uknd5tun2.jpg\" style=\"height:490px; width:521px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_u39sbp748.jpg\" style=\"height:585px; width:526px\" /></span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"650\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2F7hrbia%2Fposts%2F177275043759062&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 257,
+        "left": 1.58331298828125,
+        "path": "articles/1593681264فيسبوك.jpg",
+        "top": 62.0166015625,
+        "totalHeight": 423,
+        "totalWidth": 460,
+        "watermark_path": "articles/watermark-1593681264فيسبوك.jpg",
+        "width": 457
+    },
+    "post_date": "2020-07-02T12:02:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/nourelmasry55/status/1278004975193522176",
+            "name": "NOUR EL MASRY",
+            "path": "published/0_1593681262_nour.jpg"
+        },
+        {
+            "link": "https://twitter.com/vd1g0RmopacwGQE/status/1278009071430500356",
+            "name": "مصري و اسمي روبرت",
+            "path": "published/1_1593681263_مصري.jpg"
+        },
+        {
+            "link": "https://twitter.com/Drinkcoffee77/status/1277985940275937287",
+            "name": "hA⁦mAdA⁦⁦⁦",
+            "path": "published/2_1593681263_حمادة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/7hrbia/posts/177275043759062?__tn__=-R",
+            "name": "Egypt Police",
+            "path": "published/3_1593681263_الشرطة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ahmed.maansy/posts/144198133947858",
+            "name": "Ahmed Mansy الشهيد احمد منسي",
+            "path": "published/4_1593681263_الشهيد.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.behance.net/ozdesigngallery",
+            "name": "OZ design gallery",
+            "path": "sources/0_1593681264_oz.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صورة غير حقيقية لأحمد المنسي ورفاقه على جدران كمين البرث",
+    "updated_at": "2020-09-25 20:30:59",
+    "url_path": "/factcheck/2020/07/02/تصميم-متخيل-لكمين-البرث-ينتشر-باعتباره-حقيقيا"
+}

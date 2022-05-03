@@ -1,0 +1,91 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 406,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "الصورة معدلة ببرنامج الفوتوشوب (Twitter)",
+    "category": "News",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SY\">صورة تظهر تدريبات عسكرية مشتركة بين القوات البحرية المصرية والفرنسية في نطاق البحر الأبيض المتوسط.</span></p>\r\n",
+    "country": "EG",
+    "created_at": "2020-07-26 15:27:04",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f1d7698163be306f341a183",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><strong>تحقّق &quot;مسبار&quot; ليجد أن الخبر صحيح، إلا أن الصورة مفبركة؛ فقد جرى تعديلها على برنامج الفوتوشوب إذ تم وضع صورة السفينة الحربية المصرية بجانب السفينة التي تحمل العلم الفرنسي في الصورة الأصلية، وهذا يظهر من حدود تلامس السفينة المصرية مع مياه البحر. وعثر &quot;مسبار&quot; على الصورة الأصلية منشورة منذ سبتمبر/أيلول </strong><strong><span dir=\"LTR\" lang=\"EN-US\">2013</span></strong><strong>، ويظهر فيها هبوط طائرة هليكوبتر تابعة للبحرية الأميركية على سطح سفينة عسكرية تابعة للبحرية الفرنسية.</strong></p>\r\n\r\n<p style=\"text-align:center\"><strong><img id=\"صورة_x0020_4\" src=\"https://images-prod.misbar.com/articlebody/investigation_siw70v4we.jpg\" style=\"height:156.75pt; width:470.25pt\" /> </strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><strong>وتأتي </strong><a href=\"https://middle-east-online.com/%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8%D8%A7%D8%AA-%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9-%D9%81%D9%8A-%D9%85%D9%8A%D8%A7%D9%87-%D8%A7%D9%84%D9%85%D8%AA%D9%88%D8%B3%D8%B7\" style=\"color:#0563c1; text-decoration:underline\"><strong>التدريبات</strong></a><strong> على وقع توتر حاصل في منطقة البحر المتوسط، في ظل استمرار التدخل العسكري التركي في ليبيا، ما أثار قلق مصر وفرنسا بشأن أمن المنطقة.</strong></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:justify\"><strong><span dir=\"RTL\" lang=\"AR-SY\">نشر المتحدث العسكري في الجيش المصري على موقع تويتر في الساعات الأخيرة، صورةً قال أنها من تدريبات بحرية عسكرية مشتركة للقوات المصرية الفرنسية في البحر الأبيض المتوسط، وتمت إعادة التغريد أكثر من ألف مرة.</span></strong></p>\r\n\r\n<p style=\"text-align:center\"><strong><img id=\"صورة_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/origin_53kt3o3v5.jpg\" style=\"height:390.75pt; width:423.75pt\" /> <img id=\"صورة_x0020_2\" src=\"https://images-prod.misbar.com/articlebody/origin_h69c3263i.jpg\" style=\"height:432.75pt; width:470.25pt\" /> </strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 393,
+        "left": 4.75,
+        "path": "articles/1595766423صورة.jpg",
+        "top": 17.8515625,
+        "totalHeight": 423,
+        "totalWidth": 706,
+        "watermark_path": "articles/watermark-1595766423صورة.jpg",
+        "width": 699
+    },
+    "post_date": "2020-07-26T14:05:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/EgyArmySpox/status/1287055646274342913?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1287055646274342913%7Ctwgr%5E&ref_url=https%3A%2F%2Fpublish.twitter.com%2F%3Fquery%3Dhttps3A2F2Ftwitter.com2FEgyArmySpox2Fstatus2F1287055646274342913widget%3DTweet",
+            "name": "المتحدث العسكري",
+            "path": "published/0_1595766423_-iklbG9p_400x400.jpg"
+        },
+        {
+            "link": "https://twitter.com/HanaaKanawy/status/1287084854622990337",
+            "name": "Hanaa Kanawy",
+            "path": "published/1_1595766423_wHXWnmNI_400x400.jpg"
+        },
+        {
+            "link": "https://twitter.com/f3131972z/status/1287056455116496897/photo/1",
+            "name": "اكاكوس",
+            "path": "published/2_1595766423_w3xqXTEW_400x400.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.alamy.com/stock-photo-a-us-navy-sh-60r-seahawk-helicopter-lands-on-the-flight-deck-of-the-137777010.html?irclickid=3viWEpQ%3AdxyOUD00WlXSvXJOUkiWWuSRES5rWw0&irgwc=1&utm_source=77643&utm_campaign=Shop%20Royalty%20Free%20at%20Alamy&utm_medium=impact",
+            "name": "alamy",
+            "path": "sources/0_1595766423_ييي.JPG"
+        },
+        {
+            "link": "https://middle-east-online.com/%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8%D8%A7%D8%AA-%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-%D9%81%D8%B1%D9%86%D8%B3%D9%8A%D8%A9-%D9%81%D9%8A-%D9%85%D9%8A%D8%A7%D9%87-%D8%A7%D9%84%D9%85%D8%AA%D9%88%D8%B3%D8%B7",
+            "name": "ميدل إيست أون لاين",
+            "path": "sources/1_1595766423_ميدل.JPG"
+        },
+        {
+            "link": "https://www.yeclo.com/exercices-militaires-egypte-france-en-mer-mediterranee/",
+            "name": "yeclo",
+            "path": "sources/2_1595766423_صصص.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصورة ليست تدريباً عسكرياً مشتركاً للقوات المصرية الفرنسية في البحر المتوسط",
+    "updated_at": "2020-09-24 06:14:55",
+    "url_path": "/factcheck/2020/07/26/هذه-الصورة-ليست-تدريبا-عسكريا-مشتركا-للقوات-المصرية-الفرنسية-في-البحر-المتوسط"
+}

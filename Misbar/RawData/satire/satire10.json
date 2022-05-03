@@ -1,0 +1,101 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 716,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "caption": "تداول الصفحة للفيديو كان بهدف السخرية (يوتيوب)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">لحظة هروب البوليساريو من الجيش المغربي</p>\r\n",
+    "country": "MA",
+    "created_at": "2020-11-15 20:20:37",
+    "created_by": "5f39b1ee1dd5850789476b61",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 29,
+    "feedback_pos": 29,
+    "id": "5fb163652b9f3570c622cd11",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقق &quot;<a href=\"https://misbar.com/\" target=\"_blank\">مسبار</a>&quot; من المقطع، ووجد أنه تم تداوله على صفحة تحمل اسم &quot;تحراش كحل&quot;، وكان تداول الصفحة للفيديو&nbsp;بهدف السخرية، لكن بعض المستخدمين تداولوه على أنه لهروب البوليساريو من الجيش. المقطع الأصلي نُشر على موقع يوتيوب منذ شباط<span dir=\"LTR\">/</span>فبراير الفائت لأعمال شغب لجماهير نادي الجيش الملكي ونادي الرجاء البيضاوي في المغرب.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_fqy80q43q.jpg\" style=\"height:424px; width:623px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">اقرأ/ي أيضاً</p>\r\n\r\n<p><a href=\"https://misbar.com/factcheck/2020/11/15/%D9%87%D8%B0%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D9%82%D8%B7%D8%B9%D8%A7%D9%86-%D9%84%D9%8A%D8%B3%D8%A7-%D9%84%D8%AA%D8%B3%D8%A7%D9%82%D8%B7-%D8%A7%D9%84%D8%AD%D8%AC%D8%A7%D8%B1%D8%A9-%D9%81%D9%8A-%D9%81%D8%B1%D9%86%D8%B3%D8%A7\" target=\"_blank\">هذان المقطعان ليسا لتساقط الحجارة في فرنسا</a></p>\r\n\r\n<p><a href=\"https://misbar.com/factcheck/2020/11/14/%D9%87%D8%B0%D8%A7-%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%A8%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D9%88%D9%84%D9%8A%D8%B3-%D9%84%D9%85%D9%84%D8%A7%D8%AD%D9%82%D8%A9-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%D9%8A-%D9%84%D8%AC%D8%A8%D9%87%D8%A9-%D8%A7%D9%84%D8%A8%D9%88%D9%84%D9%8A%D8%B3%D8%A7%D8%B1%D9%88\" target=\"_blank\">هذا الفيديو بالجزائر وليس لملاحقة الجيش المغربي لجبهة البوليساريو</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">نشرت بعض الحسابات على موقع التواصل الاجتماعي فيسبوك، بتاريخ 13 من نوفمبر/كانون الثاني الجاري، مقطع فيديو قالت إنه لهروب عناصر جبهة البوليساريو من الجيش المغربي.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ef6aikmpy.jpg\" style=\"height:475px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_idmz180lw.jpg\" style=\"height:433px; width:502px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_u19wdaebs.jpg\" style=\"height:425px; width:592px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 403,
+        "left": 32.70001220703125,
+        "path": "articles/1605460836678678678.JPG",
+        "top": 12.60009765625,
+        "totalHeight": 423,
+        "totalWidth": 779,
+        "watermark_path": "articles/watermark-1605460836678678678.JPG",
+        "width": 716
+    },
+    "post_date": "2020-11-15T20:12:00.000+03:00",
+    "published": [
+        {
+            "id": "5fb1636456869f1e9840bd89",
+            "link": "https://www.facebook.com/1296773433709865/videos/2430827990546189/",
+            "name": "AsFar تحراش كحل",
+            "origin": "facebook",
+            "path": "sources/b114f863260c0c98b871b0b0642f924415b2f33c.jpg"
+        },
+        {
+            "id": "5fb1636416f4ab4bd067c1fb",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=127480329155002&id=107533464483022",
+            "name": "محتوي تفرج وتمتع+",
+            "origin": "facebook",
+            "path": "sources/d41b5641225c2c719800eee56d3ea73d439ca1c7.jpg"
+        },
+        {
+            "id": "5fb16364190c705a963b1c91",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=376370696965584&id=100037779699950",
+            "name": "عبدالاله الخراز",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        }
+    ],
+    "result": "satire",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f8eb18ba3818a4eb81ad3d2",
+            "link": "https://www.youtube.com/watch?v=l25vfqgaDig",
+            "name": "قناة يوتيوب",
+            "origin": "",
+            "path": "published/7_1603128187_72cba5bc67b31d9d753cf43c35e93c59a1b0f98d.jpg"
+        },
+        {
+            "id": "5f8eb18ba3818a4eb81ad3d2",
+            "link": "https://www.youtube.com/watch?v=XzZMvzHl3JU",
+            "name": "قناة يوتيوب",
+            "origin": "",
+            "path": "published/7_1603128187_72cba5bc67b31d9d753cf43c35e93c59a1b0f98d.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذا المقطع ليس لهروب البوليساريو من الجيش المغربي",
+    "updated_at": "2020-11-15 20:27:03",
+    "url_path": "/factcheck/2020/11/15/هذا-المقطع-ليس-لهروب-البوليساريو-من-الجيش-المغربي",
+    "was_notification_pushed": true
+}

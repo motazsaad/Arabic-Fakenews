@@ -1,0 +1,98 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 36822,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الصورة لإحدى الواحات في البيرو (Getty)",
+    "category": "Travel",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة لقرية تُدعى الواتة بولاية بشار في الجزائر.</p>\r\n",
+    "country": "DZ",
+    "created_at": "2020-05-03 17:41:38",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5eaed822db29165ab623e2c4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة، وتأكّد من عدم صحتها، فهي لا تصوّر قرية جزائرية، إنما هي لقطة لواحة <span dir=\"LTR\">Huacachina</span> في البيرو.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_zc06yipwl.jpg\" style=\"height:413px; width:743px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت حسابات وصفحات على موقع التواصل الاجتماعي فيسبوك، صورة زعمت أنها تصوّر قرية اسمها الواتة في ولاية بشار في الجزائر.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"594\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fvive.dizad%2Fposts%2F2696263590652274&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"594\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FAlgerien.Algeriennes.54%2Fposts%2F129684348676092&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_g1euxuhs5.jpg\" style=\"height:829px; width:537px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 295,
+        "left": 1.50634765625,
+        "path": "articles/1588516898GettyImages-460328512.jpg",
+        "top": 107.84716796875,
+        "totalHeight": 423,
+        "totalWidth": 528,
+        "watermark_path": "articles/watermark-1588516898GettyImages-460328512.jpg",
+        "width": 525
+    },
+    "post_date": "2020-05-03T17:28:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/vive.dizad/photos/a.1432733053672007/2696263520652281/?type=3&theater",
+            "name": "1.2.3 viva Lalgerie",
+            "path": "published/0_1588516897_1.2.3 viva Lalgerie.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/massi.40.dz/posts/1393331380851306?hc_location=ufi",
+            "name": "لقطة اليوم",
+            "path": "published/1_1588516897_لقطة اليوم.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Algerien.Algeriennes.54/photos/a.101404308170763/129684298676097/?type=3&theater",
+            "name": "Algerien et Algeriennes",
+            "path": "published/2_1588516897_Algerien et Algeriennes.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ALGIRIEPLUS/posts/565160600784847?hc_location=ufi",
+            "name": "ALG+",
+            "path": "published/3_1588517196_Facebook_logo.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.pinterest.ru/pin/498703358736084814/visual-search/",
+            "name": "Pinterest",
+            "path": "sources/0_1588516897_Pinterest.jpg"
+        },
+        {
+            "link": "https://www.peruhop.com/passes/full-day-tour-from-lima/",
+            "name": "Peru Hop",
+            "path": "sources/1_1588516897_Peru Hop.jpg"
+        },
+        {
+            "link": "https://www.google.com/search?q=Huacachina+Oasis&sxsrf=ALeKk02CMNraIvJumPQUYW2TrKyPVmkIFQ:1588515634042&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjz6Njw8ZfpAhXUShUIHZP2B4wQ_AUoAXoECBcQAw&biw=1920&bih=920",
+            "name": "Google",
+            "path": "sources/2_1588516898_Google.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل حقاً هذه الصورة لقرية جزائرية؟",
+    "updated_at": "2020-09-24 18:43:14",
+    "url_path": "/factcheck/2020/05/03/هل-هذه-الصورة-لقرية-جزائرية"
+}

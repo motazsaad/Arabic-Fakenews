@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 375,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "تلقى الملك عدة اتصالات من رؤساء وملوك عرب في اليومين الفائتين (Getty)",
+    "category": "Health",
+    "claim": "<p>وفاة خادم الحرمين وملك السعودية بسبب فايروس كورونا المستجد.</p>\r\n",
+    "country": "SA",
+    "created_at": "2020-07-21 15:48:27",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f16e41b163be3065237cac5",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الخبر ليجد أنها مجرد إشاعات، عارية عن الصحة، فقد غردت وكالة الأنباء السعودية الرسمية واس، بأن خادم الحرمين سلمان بن عبد العزيز دخل <span style=\"background-color:white\"><span style=\"color:#14171a\">مستشفى الملك فيصل التخصصي بالرياض لإجراء بعض الفحوصات جراء وجود التهاب في المرارة</span></span><span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:#14171a\">.</span></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:#14171a\">كما تداوم واس منذ يومين على نشر أخبار خادم الحرمين والمكالمات التي يتلقاها من الملوك والرؤساء للإطمئنان على صحته.</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:#14171a\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_srv9m72kd.jpg\" style=\"height:725px; width:600px\" /></span></span></span>&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت حسابات على مواقع التواصل الاجتماعي منذ 20 يوليو/تموز الجاري، خبراً مفاده وفاة الملك سلمان بن عبد العزيز؛ بسبب فايروس كورونا، وأنباء عن حدوث إنقلاب على الحكم من قبل أفراد في العائلة، وحسابات أخرى قالت أن الديوان الملكي السعودي أعلن وفاته صباح العشرين من يوليو/تموز الجاري.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_a6gpswkju.jpg\" style=\"height:401px; width:605px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_i0di8gvpi.jpg\" style=\"height:370px; width:586px\" />&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_rjyidsh0f.jpg\" style=\"height:271px; width:605px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_endgpmh4r.jpg\" style=\"height:395px; width:605px\" />&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_qd188r5eb.jpg\" style=\"height:696px; width:576px\" />&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 348,
+        "left": 2.5,
+        "path": "articles/1595335707GettyImages-1127120852.jpg",
+        "top": 6.8359375,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1595335707GettyImages-1127120852.jpg",
+        "width": 618
+    },
+    "post_date": "2020-07-21T13:04:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/KingYozersif/status/1285135725361532929",
+            "name": "King Yozersef",
+            "path": "published/0_1595337007_AYtjosxz_400x400.jpg"
+        },
+        {
+            "link": "https://twitter.com/abdelhegazy/status/1285450983351279616",
+            "name": "Abdel Fattah Hegazy",
+            "path": "published/1_1595337007_8UKVN7PO_400x400.jpg"
+        },
+        {
+            "link": " https://twitter.com/halmosacat/status/1285325400139280391",
+            "name": "بهائي راغب شراب",
+            "path": "published/2_1595337007_wmRlLIfm_400x400.jpg"
+        },
+        {
+            "link": " https://www.youtube.com/watch?v=2PTP99bclSs&feature=youtu.be",
+            "name": "قناة مكملين",
+            "path": "published/3_1595337007_ييثث.jpg"
+        },
+        {
+            "link": "https://twitter.com/ts1ni/status/1285356409891282945",
+            "name": "تسنيم",
+            "path": "published/4_1595337007_تسنيم.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.spa.gov.sa/newsheadlines.php?lang=ar#page=45",
+            "name": "واس",
+            "path": "sources/0_1595337007_9vRqF_-__400x400.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "خبر زائف حول وفاة الملك سلمان بن عبد العزيز",
+    "updated_at": "2020-09-25 05:28:12",
+    "url_path": "/factcheck/2020/07/21/الملك-سلمان-بن-عبد-العزيز-لم-تعلن-وفاته"
+}

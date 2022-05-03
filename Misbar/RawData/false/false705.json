@@ -1,0 +1,94 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 6637,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": " نفى المعهد الوطني للرصد الجوي الخبر (Getty)",
+    "category": "Science",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">المعهد الوطنيّ للرصد&nbsp;الجويّ يُعلن أن تونس ستشهد، خلال صيف 2020، تقلّبات مناخية غير متوقعة ودرجات حرارة عالية، وسيؤدي ذلك إلى&nbsp;انتشار البعوض وظهور الأوبئة في البلاد.</p>\r\n",
+    "country": "TN",
+    "created_at": "2020-05-21 18:40:23",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ec6a0e7db29161962074a73",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق&quot;مسبار&quot; من الخبر ووجد أنه زائف، إذ لم يصرح المعهد الوطني للرصد الجويّ إلى أيّ وسيلة إعلامية محلية، بأنّ هناك تقلبات غريبة في تونس، كما لم ينشر بلاغاً حول الموضوع. وقد تواصل &quot;مسبار&quot; مع بلال اليحياوي، المهندس الأول في المعهد، الذي نفى الخبر واعتبر أنه مجرد إشاعة تبنتها مواقع إخبارية دون تحقّق.</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات إخبارية وحسابات على مواقع التواصل الاجتماعي خبراً منسوباً إلى المعهد الوطني للرصد الجويّ التونسيّ، يدّعي أن تونس ستشهد تقلبات مناخية غريبة خلال الصيف المقبل، ستتسبب في ارتفاعٍ غير متوقعٍ لدرجات الحرارة. وسيؤدي ذلك إلى انتشار البعوض والحشرات وظهور الأوبئة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"Capture5.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_bt9e0jgmk.jpg\" style=\"height:501px; width:500px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_4ovv31jkm.jpg\" style=\"height:558px; width:377px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"Capture2.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_c3bo5fzju.jpg\" style=\"height:531px; width:491px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 346,
+        "left": 11.40533447265625,
+        "path": "articles/1590075623GettyImages-1213386534.jpg",
+        "top": 51.38427734375,
+        "totalHeight": 423,
+        "totalWidth": 649,
+        "watermark_path": "articles/watermark-1590075623GettyImages-1213386534.jpg",
+        "width": 616
+    },
+    "post_date": "2020-05-21T16:25:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/search/top/?q=%D8%AA%D9%82%D9%84%D8%A8%D8%A7%D8%AA%20%D9%85%D9%86%D8%A7%D8%AE%D9%8A%D8%A9%20&epa=SEARCH_BOX",
+            "name": "عسلامة تونس",
+            "path": "published/0_1590075622_2.jpg"
+        },
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=3157270614334010&id=567436099984154",
+            "name": "T.n media",
+            "path": "published/1_1590075622_5.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/1573497072667366/posts/3587662484584138/",
+            "name": "الصريح أون لاين",
+            "path": "published/2_1590075622_1 (1).jpg"
+        },
+        {
+            "link": "https://www.facebook.com/1088737114498745/posts/3065186433520460/",
+            "name": "Sami El Fehri officiel",
+            "path": "published/3_1590075623_3.jpg"
+        },
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=284547792945773&id=121574575909763",
+            "name": "yassmine fm",
+            "path": "published/4_1590075623_4.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.meteo.tn/ar/changement-climatique",
+            "name": "المعهد الوطني للرصد الجويّ التونسيّ",
+            "path": "sources/0_1590075623_6.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صيف تونس: تقلّبات مناخية وانتشار للأوبئة.. خبر زائف",
+    "updated_at": "2020-09-25 00:28:36",
+    "url_path": "/factcheck/2020/05/21/صيف-تونس-تقلبات-مناخية-غريبة-ستتسبب-في-ظهور-أوبئة-خبر-زائف"
+}

@@ -1,0 +1,108 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 356612,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "هذه القصة من تأليف موقع ساخر (فيسبوك)",
+    "category": "Lifestyle",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">هذه صورة كاثرين بريدج، صاحبة الرقم القياسي العالمي بولادة 17 طفل مرة واحدة.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-06-18 12:45:59",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 0,
+    "id": "5eeb37d7d6e4a903d66d5dc4",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من الصور المتداولة ووجد أنها زائفة، إذ عُدّل بعضها باستخدام برامج تعديل الصور، وبعضها الآخر يخصّ أشخاصاً آخرين.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">إجمالاً، وردت قصة السيدة التي </span><a href=\"https://worldnewsdailyreport.com/usa-mother-gives-birth-to-17-babies-at-once/\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>أنجبت 17 طفلاً</u></span></a><span style=\"color:#000000\"> مرة واحدة في موقع World News Daily Report للأخبار الساخرة، غير الحقيقية.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">أما الصورة الأولى من اليمين هي للطبيب </span><a href=\"http://www.robertmbiter.com/\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>Robert M. Biter</u></span></a><span style=\"color:#000000\">، الذي يضع نفس الصورة المتداولة عبر موقعه الخاص. مما يعني أنّ الصورة ليست لزوج المدعوة كاثرين بريدج.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_7yrsnx7c8.jpg\" style=\"height:293px; width:624px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">والصورة الثانية على اليسار فهي </span><a href=\"https://www.deviantart.com/shadowguy24/art/Pregnant-belly-48-555223166?fbclid=IwAR251Y4y7H1bh2wIxJ8vTMy69eKWR3y-MP5JIQBvCk0Z5hdibTAM4y04BOY\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>لسيدة</u></span></a><span style=\"color:#000000\"> غير معروفة وهي حامل في شهور متقدّمة، لكنّ الصورة المتداولة تعرّضت للتعديل وتكبير حجم البطن.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">وأخيراً، الصورة الثالثة هي </span><a href=\"http://www.hoaxorfact.com/pranks/mother-gives-birth-to-17-babies-at-once-in-usa-hoax.html\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>صورة مفبركة</u></span></a><span style=\"color:#000000\">، تحتوي على طفل واحد لكن كُرّر وجوده داخل الصورة عدة مرّات.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_uzl1739fz.jpg\" style=\"height:259px; width:624px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "سيدة أنجبت 17 طفلاً"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل صفحات على مواقع التواصل الاجتماعي، منذ شهور، صوراً تدّعي أنها لسيدة اسمها كاثرين بريدج، حاصلة على الرقم القياسي بعدد الأطفال التي أنجبتهم في ولادة واحدة. كما تُظهر الصور الأطفال جميعهم، وعددهم 17، إضافة إلى زوج كاثرين.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_wh2bjnou6.jpg\" style=\"height:746px; width:544px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_i0icdddpy.jpg\" style=\"height:735px; width:529px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 351,
+        "left": 4.8499755859375,
+        "path": "articles/1592473559BabyInfestation.jpg",
+        "top": 31,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1592473559BabyInfestation.jpg",
+        "width": 624
+    },
+    "post_date": "2020-06-18T12:37:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/VisitDotGuide/posts/544327822852286",
+            "name": "TraveLab",
+            "path": "published/0_1592473558_travel.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/hebawy544/posts/1502831519867974",
+            "name": "مجلة عالم حواء",
+            "path": "published/1_1592473558_مجلة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2559238347698652&id=100008375342200",
+            "name": "مها محمد سالم",
+            "path": "published/2_1592473558_مها.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/soha.esmael.18/posts/632362740914969",
+            "name": "Soha Esmael",
+            "path": "published/3_1592473558_سها.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=913519705717054&id=320423935026637",
+            "name": "دردشيات",
+            "path": "published/4_1592473558_دردشيات.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://worldnewsdailyreport.com/usa-mother-gives-birth-to-17-babies-at-once/",
+            "name": "World News Daily Report",
+            "path": "sources/0_1592473558_world.jpg"
+        },
+        {
+            "link": "http://www.robertmbiter.com/",
+            "name": "Robert M. Biter",
+            "path": "sources/1_1592473559_روبرت.jpg"
+        },
+        {
+            "link": "https://www.deviantart.com/shadowguy24/art/Pregnant-belly-48-555223166?fbclid=IwAR251Y4y7H1bh2wIxJ8vTMy69eKWR3y-MP5JIQBvCk0Z5hdibTAM4y04BOY",
+            "name": "Devian Art",
+            "path": "sources/2_1592473559_devian.jpg"
+        },
+        {
+            "link": "http://www.hoaxorfact.com/pranks/mother-gives-birth-to-17-babies-at-once-in-usa-hoax.html",
+            "name": "Hoax or Fact",
+            "path": "sources/3_1592473559_hoax.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "سيدة أنجبت 17 طفلاً.. قصة زائفة",
+    "updated_at": "2020-09-25 20:44:26",
+    "url_path": "/factcheck/2020/06/18/سيدة-أنجبت-17-طفلا-قصة-زائفة"
+}

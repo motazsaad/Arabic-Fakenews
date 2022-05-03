@@ -1,0 +1,114 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 1,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 76651,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": " الفيديو لحضور الرئيس التركي لاحتفال تقليدي لشرب الشاي في اليابان (يوتيوب)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">أردوغان يركع لبوذا في اليابان ويشرب الماء المقدس.</span></p>\r\n",
+    "country": "TR",
+    "created_at": "2020-07-01 19:12:11",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5efcb5db163be30659381559",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من مقطع الفيديو وتبين أنّ الادعاء مضلل، لأنّه في الأصل كان لحضور الرئيس التركي رجب طيب أردوغان برفقة زوجته، في احتفال تقليدي لشرب الشاي أثناء زيارتهما لجامعة موكوجاوا للنساء في اليابان.&nbsp;وتظهر&nbsp;معهما في الفيديو إحدى مسؤولي الجامعة وهي تشرح لهما طقوس تناول الشاي الياياني.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وكانت هذه <a href=\"https://www.trthaber.com/haber/dunya/cumhurbaskani-erdogan-japonyada-cay-seremonisine-katildi-421011.html\" style=\"color:#0563c1; text-decoration:underline\">الزيارة</a> في يونيو/حزيران 2019، أثناء تواجد الرئيس التركي في اليابان لحضور قمّة قادة مجموعة الدول العشرين.</p>\r\n\r\n<p><iframe frameborder=\"0\" height=\"720\" src=\"https://www.youtube.com/embed/h1Ud-eDoOAs\" width=\"1280\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات على مواقع التواصل الاجتماعي مؤخراً ومنذ </span><span dir=\"RTL\" lang=\"AR-EG\">شهور</span><span dir=\"RTL\" lang=\"AR-SA\">، مقطع فيديو للرئيس التركي أردغان، وادّعت أنه يركع للإله بوذا في اليابان ويشرب الماء المقدس.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_rtw7kplv9.jpg\" style=\"height:354px; width:438px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ola7qs1m2.jpg\" style=\"height:346px; width:438px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_6by7gf6i4.jpg\" style=\"height:445px; width:422px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/159361993014.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-159361993014.jpg",
+        "width": 752
+    },
+    "post_date": "2020-07-01T19:06:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/bendiaf.salem/videos/2557073924422100/",
+            "name": "سالم بن ضياف",
+            "path": "published/0_1593619930_سالم بن ضياف.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/mahmoud.alhomsi.3950/posts/132289745156727",
+            "name": "Mahmoud Alhomsi",
+            "path": "published/1_1593620168_Mahmoud Alhomsi.jpg"
+        },
+        {
+            "link": "https://twitter.com/alrad3dz1/status/1228988004523487233",
+            "name": "الردع الجزائري",
+            "path": "published/2_1593620168_الردع الجزائري {الـ ـعـ اتـ ـب }.jpg"
+        },
+        {
+            "link": "https://twitter.com/alaatib/status/1261092496366600193",
+            "name": "سـ ـ عـ ـد الـ شـ ـلـ ـ يـ ـل",
+            "path": "published/3_1593620168_سـ ـ عـ ـد الـ شـ ـلـ ـ يـ ـل.jpg"
+        },
+        {
+            "link": "https://twitter.com/walidba53317966/status/1255136574955589633",
+            "name": "walidbarca",
+            "path": "published/4_1593620168_walidbarca.jpg"
+        },
+        {
+            "link": "https://twitter.com/ABOSOLT26239434/status/1229030806884057088",
+            "name": "ABO SOLTAN",
+            "path": "published/5_1593620168_ABO SOLTAN.jpg"
+        },
+        {
+            "link": "https://twitter.com/Zaid_Alayoubi/status/1250493950273753092",
+            "name": "المستشار زيد الايوبي",
+            "path": "published/6_1593620168_المستشار زيد الايوبي.jpg"
+        },
+        {
+            "link": "https://twitter.com/shoil383/status/1258558722269421568",
+            "name": "علي",
+            "path": "published/7_1593620168_علي.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.trthaber.com/haber/dunya/cumhurbaskani-erdogan-japonyada-cay-seremonisine-katildi-421011.html",
+            "name": "Trt haber",
+            "path": "sources/0_1593619930_trthaber.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=h1Ud-eDoOAs",
+            "name": "Türkiye Gazetesi",
+            "path": "sources/1_1593620168_Türkiye Gazetesi.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لم يكن أردوغان يركع لبوذا في هذا الفيديو.. حقيقة القصة",
+    "updated_at": "2020-09-25 21:36:16",
+    "url_path": "/factcheck/2020/07/01/لم-يكن-أردوغان-يركع-لبوذا-في-هذا-الفيديو-حقيقة-القصة"
+}

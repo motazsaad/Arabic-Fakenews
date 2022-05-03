@@ -1,0 +1,76 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 293,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة للضرر الذي أصاب جسر البوسفور بعد الهزة الأرضية.</p>\r\n",
+    "country": "TR",
+    "created_at": "2019-12-09 15:13:12",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5dee3a588d7bd90bc27db0db",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من أنّ ما ظهر في الصورة وأشار إليه بعض روّاد مواقع التواصل الاجتماعي على أنّه ضررٌ أصاب جسر البوسفور نتيجة الهزة الأرضية، ما هو إلّا لأعمالِ صيانةٍ تجري للجسر الواصل بين الجزأين الآسيوي والأوروبي لمدينة إستانبول. وتعليقاً على انتشار الصورة قال والي المدينة في تصريحاتٍ صحفية &quot;إنّ الصور المتداولة لجسر البوسفور لا علاقة لها بالزلزال الذي ضرب الولاية، وتعود إلى أعمال صيانةٍ للجسر&quot;. ويجدر التنبيه إلى إنّ الصورة التي تشير إلى انهيار مئذنة مسجد حجي أحمد توكومينز في منطقة أفجلار، صحيحة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وأعلنت وكالة الكوارث والطوارئ التركية (أفاد)، أنّ هزةً أرضية ضربت ولاية إستانبول وولايات مجاورة لها يوم الخميس 26 سبتمبر 2019، وبلغت قوتها 5.8 على مقياس ريختر، وكان مركزها في بحر مرمرة قبالة منطقة سيليفري.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"_x0000_i1025\" src=\"https://images-prod.misbar.com/articlebody/investigation_95c8ed5d553ae467507d8e18420e0158.jpg\" style=\"height:347.25pt; width:285pt\" /> </span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">انتشرت بين عددٍ من مستخدمي وسائل التواصل الاجتماعي وعلى بعض المواقع الالكترونية، عقب الهزة الأرضية التي ضربت مدينة إستانبول يوم الخميس 26 سبتمبر/ أيلول <span dir=\"LTR\">2019</span>، صورةٌ لجسر البوسفور ادّعى ناشروها أنّها تُظهر الأضرار التي لحقت به نتيجة الزلزال الذي ضرب المدينة التركية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img id=\"Picture_x0020_3\" src=\"https://images-prod.misbar.com/articlebody/origin_d1e00a6ddb5dc3aa96336a088b09f578.jpg\" style=\"height:276.75pt; width:244.5pt\" /> </span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img id=\"Picture_x0020_4\" src=\"https://images-prod.misbar.com/articlebody/origin_f15b7335a219209a26199c8fd394e893.jpg\" style=\"height:225.75pt; width:296.25pt\" /> </span></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 421,
+        "left": 23.20001220703125,
+        "path": "articles/1575893592GettyImages-1151559942.jpg",
+        "top": 1.3000030517578125,
+        "totalHeight": 423,
+        "totalWidth": 796,
+        "width": 748
+    },
+    "post_date": "2019-09-30T15:08:00.000+03:00",
+    "published": [
+        {
+            "link": "http://alahadnews.net/index.php/permalink/181437.html",
+            "name": "وكالة العهد نيوز ",
+            "path": "published/0_1575893592_وكالة العهد نيوز لوغو.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://m-haberturk-com.cdn.ampproject.org/v/s/m.haberturk.com/son-dakika-depremin-ardindan-15-temmuz-sehitler-koprusu-nde-korkutan-goruntu-haberler-2525678-amp?usqp=mq331AQCKAE%3D&fbclid=IwAR0ZXttLR7pyQYynXtk3aEzZTrSP3o-90TzI4as7SEMX9bMIIL2Ci81sPgQ&_js_v=0.1#aoh=15695091276227&referrer=https://www.google.com&_tf=From%20%251$s&ampshare=https://www.haberturk.com/son-dakika-depremin-ardindan-15-temmuz-sehitler-koprusu-nde-korkutan-goruntu-haberler-2525678",
+            "name": "HABER TURK",
+            "path": "sources/0_1575893592_Haber logo.jpg"
+        },
+        {
+            "link": "https://tr.agency/news-60177",
+            "name": "TR وكالة أنباء تركيا",
+            "path": "sources/1_1575893592_وكالة أنباء تركيا-لوغو.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل أضرّت الهزة الأرضية في إستانبول بجسر البوسفور؟",
+    "updated_at": "2020-09-23 12:40:36",
+    "url_path": "/factcheck/2019/12/09/هل-أضرت-الهزة-الأرضية-في-إستانبول-بجسر-البوسفور"
+}

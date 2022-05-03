@@ -1,0 +1,121 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 7251,
+    "author": {
+        "fullname": "خالد إسماعيل",
+        "id": "5e59256dd4a2295224257db3",
+        "photo": {
+            "name": "1582900589_صورة 2.jpg",
+            "path": "authors/1582900589_صورة 2.jpg"
+        }
+    },
+    "caption": "الصور أثناء تفقد مشروعات للطرق والكباري في مصر الجديدة 2019 (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">&quot;صور للرئيس المصري عبد الفتاح السيسي وهو يتفقد أحد المشروعات في يوم 20 سبتمبر، السيسي الوحيد اللي نزل يوم الثورة&quot;.</p>\r\n",
+    "country": "EG",
+    "created_at": "2020-09-21 15:06:28",
+    "created_by": "5f39b5a51dd585076701cb94",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 1,
+    "id": "5f689744862a1419334463b5",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقق &quot;مسبار&quot; من الصور المتداولة والادعاء المصاحب لهما وتبين أنه مضلل. إذ أن الصورتين ليستا من تفقد الرئيس المصري لمشروعات، أمس الأحد، إنما تعودان لتاريخ 8 نوفمبر/تشرين الثاني عام 2019، أثناء تفقد السيسي مشروعات الطرق والكباري في منطقة مصر الجديدة في العاصمة المصرية القاهرة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><strong><span dir=\"LTR\"><span style=\"color:#0563c1\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_2wyau7rjh.jpg\" style=\"height:616px; width:602px\" /></span></span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><strong><span dir=\"LTR\"><span style=\"color:#0563c1\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_4uuuohbjs.jpg\" style=\"height:847px; width:602px\" /></span></span></strong></p>\r\n\r\n<p style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_ug4xn2y92.jpg\" style=\"height:575px; width:602px\" /></span></strong></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\"><span style=\"color:#0d0d0d\">تداولت حسابات وصفحات على مواقع التواصل الاجتماعي، صورتين للرئيس المصري عبد الفتاح السيسي في زيارة ميدانية يحيط به بعض الأشخاص، مع ادعاء أنه&nbsp;تم التقاطهما أمس 20 سبتمبر/أيلول، في اليوم الذي دعا&nbsp;فيه المقاول والفنان المصري محمد علي لتظاهرات مطالبة برحيل السيسي، وأنه نزل إلى الشارع رغم دعوات التظاهر.</span></span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_89na5y3hi.jpg\" style=\"height:431px; width:554px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_7r1q5xr3x.jpg\" style=\"height:449px; width:547px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_9p2q3zuu6.jpg\" style=\"height:788px; width:555px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1600689987100.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1600689987100.jpg",
+        "width": 752
+    },
+    "post_date": "2020-09-21T15:01:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/photo/?fbid=3894957067186155&set=a.722360654445828",
+            "name": "Omar hashish",
+            "path": "published/0_1600689987_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/photo?fbid=1434495553407427&set=gm.1089495808150246",
+            "name": "عمرو مصطفى",
+            "path": "published/1_1600690117_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/photo/?fbid=796041731222682&set=pcb.1624305687742742",
+            "name": "صوفيا السيد ",
+            "path": "published/2_1600690117_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/photo?fbid=167663995035499&set=gm.631786080857001",
+            "name": "awatef mohammed",
+            "path": "published/3_1600690117_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/photo?fbid=663996984321024&set=gm.772528243319865",
+            "name": "أبو محمود الشقي ",
+            "path": "published/4_1600690117_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/photo/?fbid=656303958619762&set=a.105401803709983",
+            "name": "عماد مدين ",
+            "path": "published/5_1600690117_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/photo?fbid=928457094315395&set=a.159904587837320",
+            "name": "الكاتب مسعد خليفة ",
+            "path": "published/6_1600690117_facebook.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.almasryalyoum.com/news/details/1441565",
+            "name": "المصري اليوم ",
+            "path": "sources/0_1600689987_المصري اليوم.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://tinyurl.com/y4bg27wx",
+            "name": "إكسترا نيوز ",
+            "path": "sources/1_1600689987_إكسترا نيوز.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصور ليست للسيسي أثناء تفقده مشروعات جديدة في 20 سبتمبر",
+    "updated_at": "2020-09-25 22:03:06",
+    "url_path": "/factcheck/2020/09/21/هذه-الصور-ليست-للسيسي-أثناء-تفقده-مشروعات-جديدة-في-20-سبتمبر",
+    "was_notification_pushed": "true"
+}

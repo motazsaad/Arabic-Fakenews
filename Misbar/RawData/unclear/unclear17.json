@@ -1,0 +1,112 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 1,
+        "fb": 2,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2207,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "وسائل إعلام نشرت خبر إعدام عشماوي ثمّ حذفته (Getty)",
+    "category": "Politics",
+    "claim": "<p>السلطات المصرية نفذت حكم الإعدام بحق الضابط السابق بالجيش المصري هشام عشماوي.</p>\r\n",
+    "country": "EG",
+    "created_at": "2020-02-24 17:54:11",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e53e393d4a2293e9f56fe14",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">تابع &quot;مسبار&quot; الخبر، واتضّح أنّه مشكوك في صحته. إذ بعد تداول عدّة وسائل إعلام خبر إعدام عشماوي، نفى رئيس هيئة الدفاع عن عشماوي، المحامي خالد المصري عبر حسابه الرسمي على &quot;فيسبوك&quot; أن تكون السلطات المصرية قد أبلغت أهل عشماوي بخبر تنفيذ حكم الإعدام، فقال &quot;لم يتم إبلاغ أهل هشام عشماوي بقرار تنفيذ حكم الإعدام نهائياً من أي جهة رسمية وكل ما تم نشره في وسائل الإعلام مصدره موقع العربية نت ولا نعرف من أين استقت هذه المعلومة، والملفت أنّ جميع المواقع الإخبارية ووسائل الإعلام التي نقلت عنها الخبر بدأت في حذفه&quot;.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_jsjnq7hf1.jpg\" style=\"height:150px; width:513px\" /></p>\r\n\r\n<p style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">لاحقاً، حذفت الخبر عدّة مواقع على رأسها موقع &quot;العربية نت&quot;، الذي نشر خبراً آخر أفاد فيه بأنّ حكم إعدام عشماوي لم يُنفذ بعد. كما ذكر موقع الجزيرة نت أنّ مصادر أمنية مصرية نفت صحة الأنباء المتداولة عن تنفيذ حكم إعدام هشام عشماوي. في حين أفادت وكالة رويترز للأنباء أنّ ثلاثة مصادر أمنية مصرية قالت أنّ حكم الإعدام قد تم تنفيذه بحق عشماوي. وبذلك فإن تضارب المعلومات والأنباء الواردة حول تنفيذ حكم الإعدام يجعل الخبر مشكوكاً في صحته.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_xec0syi7i.jpg\" style=\"height:240px; width:379px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\">نشر موقع &quot;العربية نت&quot; والعديد من وسائل الإعلام، وصفحات على مواقع التواصل الاجتماعي في 24 فبراير/شباط الجاري، خبراً أفاد أنّ السلطات المصرية نفّذت حكم الإعدام بحق الضابط السابق في الجيش المصري هشام عشماوي.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_83ef3kluc.jpg\" style=\"height:118px; width:562px\" /></p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_f37oiszlg.jpg\" style=\"height:239px; width:560px\" /></p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_1niw2tsyy.jpg\" style=\"height:510px; width:367px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_wi42ak0hh.jpg\" style=\"height:602px; width:407px\" /></p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_5o31gwrfr.jpg\" style=\"height:337px; width:391px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1582556644fhgfhgh.jpg"
+    },
+    "post_date": "2020-02-24T17:43:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.alarabiya.net/",
+            "name": "العربية نت",
+            "path": "published/0_1582556051_العربية نت-لوغو.jpg"
+        },
+        {
+            "link": "https://www.skynewsarabia.com/middle-east/1323301-%D9%85%D8%B5%D8%B1-%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D8%A7%D9%95%D8%B9%D8%AF%D8%A7%D9%85-%D8%A8%D8%A7%D9%84%D8%A7%D9%95%D8%B1%D9%87%D8%A7%D8%A8%D9%8A-%D9%87%D8%B4%D8%A7%D9%85-%D8%B9%D8%B4%D9%85%D8%A7%D9%88%D9%8A",
+            "name": "سكاي نيوز عربية",
+            "path": "published/1_1582556051_سكاي نيوز عربية لوغو.jpg"
+        },
+        {
+            "link": "https://twitter.com/Vetogate/status/1231863732977926145",
+            "name": "بوابة فيتو",
+            "path": "published/2_1582556051_بوابة فيتو.jpg"
+        },
+        {
+            "link": "https://twitter.com/TahrirNews/status/1231863836464074768",
+            "name": "التحرير الإخباري",
+            "path": "published/3_1582556051_التحرير الإخباري-لوغو.jpg"
+        },
+        {
+            "link": "https://twitter.com/AJA_Egypt/status/1231858992198160385",
+            "name": "الجزيرة مصر",
+            "path": "published/4_1582556051_الجزيرة مصر-لوغو.jpg"
+        },
+        {
+            "link": "https://twitter.com/alwafdportal/status/1231885452233379844",
+            "name": "بوابة الوفد",
+            "path": "published/5_1582556051_بوابة الوفد-لوغو.jpg"
+        }
+    ],
+    "result": "unclear",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/khaled.elmmasry/posts/3196323087065280",
+            "name": "خالد المصري",
+            "path": "sources/0_1582556050_خالد المصري-لوغو.jpg"
+        },
+        {
+            "link": "https://www.alarabiya.net/ar/arab-and-world/egypt/2020/02/24/%D8%AA%D9%86%D9%81%D9%8A%D8%B0-%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D8%A7%D8%B9%D8%AF%D8%A7%D9%85-%D9%81%D9%8A-%D9%87%D8%B4%D8%A7%D9%85-%D8%B9%D8%B4%D9%85%D8%A7%D9%88%D9%8A-%D8%A3%D8%AE%D8%B7%D8%B1-%D8%A7%D8%B1%D9%87%D8%A7%D8%A8%D9%8A-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1.html",
+            "name": "العربية نت",
+            "path": "sources/1_1582556050_العربية نت-لوغو.jpg"
+        },
+        {
+            "link": "https://www.aljazeera.net/news/politics/2020/2/24/%D9%85%D8%B5%D8%A7%D8%AF%D8%B1-%D8%A3%D9%85%D9%86%D9%8A%D8%A9-%D9%85%D8%B5%D8%B1-%D8%AA%D9%86%D9%81%D8%B0-%D8%AD%D9%83%D9%85-%D8%A7%D9%84%D8%A5%D8%B9%D8%AF%D8%A7%D9%85-%D8%A8%D8%AD%D9%82-%D9%87%D8%B4%D8%A7%D9%85-%D8%B9%D8%B4%D9%85%D8%A7%D9%88%D9%8A",
+            "name": "الجزيرة نت",
+            "path": "sources/2_1582556050_الجزيرة.jpg"
+        },
+        {
+            "link": "https://www.alaraby.co.uk/politics/2020/2/24/%D9%85%D8%B5%D8%B1-%D8%AA%D8%B6%D8%A7%D8%B1%D8%A8-%D8%A3%D9%86%D8%A8%D8%A7%D8%A1-%D8%A5%D8%B9%D8%AF%D8%A7%D9%85-%D9%87%D8%B4%D8%A7%D9%85-%D8%B9%D8%B4%D9%85%D8%A7%D9%88%D9%8A-%D8%AA%D8%AB%D9%8A%D8%B1-%D8%A7%D9%84%D8%B4%D9%83%D9%88%D9%83",
+            "name": "العربي الجديد",
+            "path": "sources/3_1582556051_العربي الجديد-لوغو.jpg"
+        },
+        {
+            "link": "https://ara.reuters.com/article/topNews/idARAKCN20I0TQ",
+            "name": "رويترز",
+            "path": "sources/4_1582560770_Reuters-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل أعدمت السلطات المصرية هشام عشماوي؟",
+    "updated_at": "2020-09-23 12:38:01",
+    "url_path": "/factcheck/2020/02/24/هل-أعدمت-السلطات-المصرية-هشام-عشماوي"
+}

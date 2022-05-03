@@ -1,0 +1,144 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 225,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "السيدة من جنوب شرق تركيا (trthaber)",
+    "category": "Health",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">صور سيدة عراقية تبلغ من العمر 120 سنة شُفيت من فايروس كورونا.</span></p>\r\n",
+    "country": "TR",
+    "created_at": "2020-11-02 20:49:05",
+    "created_by": "5f39b5a51dd585076701cb94",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 3,
+    "id": "5fa046915fce0157db55462e",
+    "investigation": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من الصور المتداولة&nbsp;وتبين أن الادعاء يحتوي على تضليل، لأنها لسيدة تركية تُدعى مينيكا إنكو، تبلغ من العمر 120 سنة، وليست عراقية.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">وتعيش مينيكا في جنوب شرق تركيا، في قرية أورتاباغ الواقعة في منطقة أولوديري شرناق. ونجحت في التغلب على فايروس كورونا، بعد 15 يوماً من إصابتها، قضتها في مستشفى شرناق. حسب <a href=\"https://www.trthaber.com/foto-galeri/sirnakta-120-yasindaki-kadin-koronavirusu-yendi/29966/sayfa-1.html\" style=\"color:#0563c1; text-decoration:underline\">مواقع تركية</a>.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_b0rmarwuy.jpg\" style=\"height:404px; width:624px\" /></p>\r\n\r\n<p style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">اقرأ أيضاً:</span></p>\r\n\r\n<p style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/09/28/%D9%84%D9%85-%D8%AA%D9%85%D8%AA-%D9%87%D8%B0%D9%87-%D8%A7%D9%84%D8%B3%D9%8A%D8%AF%D8%A9-%D8%A8%D8%B4%D9%83%D9%84-%D9%85%D9%81%D8%A7%D8%AC%D8%A6\" style=\"color:#0563c1; text-decoration:underline\">لم تمت هذه السيدة بشكل مفاجئ</a></p>\r\n\r\n<p style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/05/22/%D8%B4%D9%81%D8%A7%D8%A1-%D8%A3%D9%83%D8%A8%D8%B1-%D8%A7%D9%85%D8%B1%D8%A3%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D9%85%D9%86-%D9%81%D8%A7%D9%8A%D8%B1%D9%88%D8%B3-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-%D8%AE%D8%A8%D8%B1-%D8%B5%D8%AD%D9%8A%D8%AD\" style=\"color:#0563c1; text-decoration:underline\">شفاء أكبر امرأة في العالم من فايروس كورونا.. خبر صحيح</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات وصفحات على مواقع التواصل الاجتماعي، حديثاً، صور ادعت أنها لسيدة من العراق تبلغ من العمر 120 سنة، شُفيت من فايروس كورونا المستجد في أحد مستشفيات تركيا.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_rm9gfjrif.jpg\" style=\"height:713px; width:546px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_r4sq32522.jpg\" style=\"height:525px; width:552px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_5zmhf4xjf.jpg\" style=\"height:743px; width:586px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/16043393441432584.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-16043393441432584.jpg",
+        "width": 752
+    },
+    "post_date": "2020-11-02T20:25:00.000+03:00",
+    "published": [
+        {
+            "id": "5fa04690a4f6977cae0a797b",
+            "link": "https://twitter.com/iraqbrother/status/1322123005162651648",
+            "name": "الخوة العراقية",
+            "origin": "twitter",
+            "path": "sources/bcd394da5c391c9be56311e8906e17e15cba7bd0.jpg"
+        },
+        {
+            "id": "5fa0485bab5294744c63d262",
+            "link": "https://twitter.com/hasum_ahmad/status/1322129507818590209",
+            "name": "حسام أحمد",
+            "origin": "twitter",
+            "path": "sources/23892cf197611f7d4f1694ca3d2468e2657079fb.jpg"
+        },
+        {
+            "id": "5fa0485bba8347599d641864",
+            "link": "https://twitter.com/iraq_questi00ns/status/1322280086180159489",
+            "name": "أســئــلـة عـراقـــيــة",
+            "origin": "twitter",
+            "path": "sources/c6df715949803f5073357b620f51589ed65bc4b7.jpg"
+        },
+        {
+            "id": "5fa0485b5b41c0274f19e357",
+            "link": "https://twitter.com/wait__hart/status/1322504198118756353",
+            "name": "أمـــانـــــــي",
+            "origin": "twitter",
+            "path": "sources/b7987b3cc098665a979f8432c993281ad36aee4b.jpg"
+        },
+        {
+            "id": "5fa0485bff4c6730a1585fa4",
+            "link": "https://twitter.com/AlMasarAloula/status/1322120082747699202",
+            "name": "قناة المسار الأولى",
+            "origin": "twitter",
+            "path": "sources/500425810b490a9e7ccd938d4f86e19f6e6cb7de.jpg"
+        },
+        {
+            "id": "5fa0485b60e37b108611fd2e",
+            "link": "https://www.facebook.com/Beautiful.Afar/posts/186909499593033?__tn__=-R",
+            "name": "تلعفر نحو الاجمل",
+            "origin": "facebook",
+            "path": "sources/ac7a4db39c90bf7a9106b703399d581e4b4fa6a0.jpg"
+        },
+        {
+            "id": "5fa0485b15f9d4419080a120",
+            "link": "https://www.facebook.com/groups/1856504924679615/permalink/2670353496628083/",
+            "name": "منتدي السامق الشامخ وادي البلاد",
+            "origin": "facebook",
+            "path": "sources/ce6c7301795eec895ddaccbfa72bd54a16ced3e6.jpg"
+        },
+        {
+            "id": "5fa0485c4d739b03035cde4d",
+            "link": "https://www.facebook.com/HashtagAnbariOfficial/posts/212998483618779",
+            "name": "هاشتاك أنباري",
+            "origin": "facebook",
+            "path": "sources/d2334340826e371b06eb32c346027b9b6105c8da.jpg"
+        },
+        {
+            "id": "5fa0485b60e37b108611fd2e",
+            "link": "https://www.facebook.com/Beautiful.Afar/posts/186909499593033",
+            "name": "تلعفر نحو الاجمل",
+            "origin": "facebook",
+            "path": "sources/ac7a4db39c90bf7a9106b703399d581e4b4fa6a0.jpg"
+        },
+        {
+            "id": "5fa0485c1edeb6718d690718",
+            "link": "https://www.facebook.com/Jqlmlbh/posts/396377115071732",
+            "name": "جقلمبه",
+            "origin": "facebook",
+            "path": "sources/23979288a8be134cdd831978dfb3c6fc7d1a0150.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f9a9d0573532424a15ad58f",
+            "link": "https://www.trthaber.com/foto-galeri/sirnakta-120-yasindaki-kadin-koronavirusu-yendi/29966/sayfa-1.html",
+            "name": "www.trthaber.com",
+            "origin": "",
+            "path": "sources/d2e4c3bd50593ceca5f72a2b2d7b6a7b9e72c5b2.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الصور لمسنة تركية شُفيت من كورونا وليست عراقية",
+    "updated_at": "2020-11-02 23:05:05",
+    "url_path": "/factcheck/2020/11/02/الصور-لمسنة-تركية-شفيت-من-كورونا-وليست-عراقية",
+    "was_notification_pushed": "true"
+}

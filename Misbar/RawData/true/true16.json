@@ -1,0 +1,114 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 163,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "caption": "تحقق \"مسبار\" من الخبر ووجد أنَّه صحيح (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">بسبب ما يمر به دونالد ترامب حاليًا، تويتر سيقوم بحذف أي تغريدة تتمنى الموت للرئيس الأمريكي مع إغلاق حساب صاحب التغريدة.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-10-06 13:33:09",
+    "created_by": "5f39b1ee1dd5850789476b61",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 6,
+    "id": "5f7c47e55581ef406e351739",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الخبر ووجد أنَّه صحيح، إذ قام موقع تويتر بنشر مقالة حول الموضوع في مجلة <span dir=\"LTR\">Vice</span>، وأعاد تغريدها على الحساب الرسمي لفريق التواصل في موقع تويتر.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_zq3kgsiiw.jpg\" style=\"height:239px; width:537px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وجاء في المقالة أنَّ الموقع لا يسمح للمستخدمين بأن يأملوا علنًا في وفاة ترامب على المنصة، وأنَّ التغريدات التي تقوم بذلك &quot;يجب إزالتها&quot; وأنه قد يتم وضع الحسابات التي تنشر هذه التغريدات في وضع &quot;القراءة فقط&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">اقرأ/ي أيضاً</p>\r\n\r\n<p><a href=\"https://misbar.com/factcheck/2020/10/06/%D9%87%D8%A4%D9%84%D8%A7%D8%A1-%D9%84%D8%A7-%D9%8A%D8%B5%D9%84%D9%88%D9%86-%D9%85%D9%86-%D8%A3%D8%AC%D9%84-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%A8%D9%84-%D9%84%D9%85%D8%B2%D8%A7%D8%B1%D8%B9%D9%8A-%D8%AC%D9%86%D9%88%D8%A8-%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7\">هؤلاء لا يصلّون من أجل ترامب، بل لمزارعي جنوب إفريقيا</a></p>\r\n\r\n<p><a href=\"https://misbar.com/factcheck/2020/10/05/%D8%A8%D8%A7%D8%B1%D9%88%D9%86-%D8%A7%D8%A8%D9%86-%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%BA%D9%8A%D8%B1-%D9%85%D8%B5%D8%A7%D8%A8-%D8%A8%D9%81%D8%A7%D9%8A%D8%B1%D9%88%D8%B3-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7\">بارون ابن الرئيس ترامب غير مصاب بفايروس كورونا</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت بعض الحسابات على موقعي التواصل الاجتماعي فيسبوك وتويتر، تغريدة قالت فيها إنَّ موقع تويتر قرر حذف أي تغريدة تتمنى الموت للرئيس الأميركي دونالد ترامب عقب إصابته بفايروس كورونا (كوفيد-19).</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_884dc158d.jpg\" style=\"height:676px; width:545px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_dr1j1rxva.jpg\" style=\"height:515px; width:566px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 350,
+        "left": 5.5460662841796875,
+        "path": "articles/1601980389GettyImages-858384956 (1).jpg",
+        "top": 11.029296875,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1601980389GettyImages-858384956 (1).jpg",
+        "width": 623
+    },
+    "post_date": "2020-10-06T13:24:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/ScreenMix/status/1312244051035516928",
+            "name": "Screen Mix",
+            "path": "published/0_1601980388_Screen mix logo.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/Cairo24news/posts/898937483971384",
+            "name": "القاهرة 24 ",
+            "path": "published/1_1601980388_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/behindzascene/status/1312263531111350273",
+            "name": "Behind The Scene",
+            "path": "published/2_1601980389_cdeb606d2277405729841fe21c5d10e856529971.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/2DayNewss/status/1312345113314680833",
+            "name": "2day News",
+            "path": "published/3_1601980389_cdeb606d2277405729841fe21c5d10e856529971.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/Trendnews/status/1312332963774947328",
+            "name": "ترند",
+            "path": "published/4_1601980389_cdeb606d2277405729841fe21c5d10e856529971.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/Omsara_75/status/1312363173916422145",
+            "name": "Omsara..",
+            "path": "published/5_1601980389_cdeb606d2277405729841fe21c5d10e856529971.jpg"
+        }
+    ],
+    "result": "true",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.vice.com/en/article/y3zynw/twitter-says-you-cannot-tweet-that-you-hope-trump-dies-from-covid",
+            "name": "Vice.com",
+            "path": "sources/0_1601980389_391f583ff31c28a8538fdf8287749086aadb4e36.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/TwitterComms/status/1312167835783708672",
+            "name": "Twitter communications",
+            "path": "sources/1_1601980389_cdeb606d2277405729841fe21c5d10e856529971.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "موقع تويتر سيحذف التغريدات التي تتمنى الموت لترامب",
+    "updated_at": "2020-10-07 16:25:03",
+    "url_path": "/factcheck/2020/10/06/موقع-تويتر-سيحذف-التغريدات-التي-تتمنى-الموت-لترامب",
+    "was_notification_pushed": true
+}

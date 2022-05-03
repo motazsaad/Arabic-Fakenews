@@ -1,0 +1,115 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 983,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "الصورة من حملة لمناهضة زواج القاصرات في لبنان (يوتيوب)",
+    "category": "News",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">صورة </span><span dir=\"RTL\" lang=\"AR-EG\">شيخ يتزوج من فتاة قاصر.</span></p>\r\n",
+    "country": "IQ",
+    "created_at": "2020-10-03 14:37:49",
+    "created_by": "5f39b5a51dd585076701cb94",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 16,
+    "feedback_pos": 71,
+    "id": "5f78628d81df41188527fb72",
+    "investigation": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من الصورة وتبين أن الادعاء مضلل، وليست لشيخ يتزوج من فتاة قاصر. إذ أن الصورة مأخوذة من حملة أطلقتها جمعية &quot;كفى&quot; الأهلية، عام 2015، لمناهضة زواج القاصرات في لبنان. </span></p>\r\n\r\n<p><iframe frameborder=\"0\" height=\"720\" src=\"https://www.youtube.com/embed/6c_Zy-QdVnY\" width=\"1280\"></iframe></p>\r\n\r\n<p style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">اقرأ/ي أيضاً</span></p>\r\n\r\n<p style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/05/05/%D8%B1%D8%AC%D9%84-%D8%AE%D9%85%D8%B3%D9%8A%D9%86%D9%8A-%D9%8A%D8%AA%D8%B2%D9%88%D8%AC-%D9%81%D8%AA%D8%A7%D8%A9-%D9%82%D8%A7%D8%B5%D8%B1-%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%AA%D8%AF%D8%A7%D9%88%D9%84%D8%A9\" style=\"color:#0563c1; text-decoration:underline\">رجل خمسيني يتزوج فتاة قاصر.. قصة زائفة</a></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/07/02/%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9-%D9%84%D9%8A%D8%B3%D8%AA-%D9%84%D8%B9%D8%B5%D8%A7%D8%A8%D8%A9-%D8%AD%D8%A7%D9%88%D9%84%D8%AA-%D8%A7%D8%AE%D8%AA%D8%B7%D8%A7%D9%81-%D9%82%D8%A7%D8%B5%D8%B1-%D9%81%D9%8A-%D9%81%D8%A7%D8%B3\" style=\"color:#0563c1; text-decoration:underline\">الصورة ليست لعصابة حاولت اختطاف فتاة في فاس</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات على مواقع التواصل الاجتماعي، حديثاً ومنذ أشهر، صورة ادعت أنها لشيخ كبير يتزوح من طفلة قاصر في مدينة النجف العراقية.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_an2k7wotx.jpg\" style=\"height:528px; width:610px\" /></p>\r\n\r\n<p style=\"text-align:right\"><iframe frameborder=\"0\" height=\"399\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D130158204990034%26id%3D100039875643957&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/16017250697854.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-16017250697854.jpg",
+        "width": 752
+    },
+    "post_date": "2020-10-03T14:32:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=130158204990034&id=100039875643957&hc_location=ufi",
+            "name": "كلان الجلبي",
+            "path": "published/0_1601725068_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/riyadh.mirza.7/posts/1443389335862114?hc_location=ufi",
+            "name": "Riyadh Aziz Mirza",
+            "path": "published/1_1601725068_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=637341573644801&id=100021068934142&hc_location=ufi",
+            "name": "اﻻعلامية أبتسام السعدي",
+            "path": "published/2_1601725068_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/salah.alhusainy.1/posts/869482443458213",
+            "name": "Salah Alhusainy",
+            "path": "published/3_1601725068_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/aljuboury/posts/10157932257603795",
+            "name": "Raad Salman",
+            "path": "published/4_1601725069_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=639716423399323&id=100020829126267",
+            "name": " ‏محمود العزاوي",
+            "path": "published/5_1601725069_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/jalal.nazal.988/posts/184355899363820",
+            "name": " Jalal Nazal",
+            "path": "published/6_1601725069_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.youtube.com/watch?v=6c_Zy-QdVnY&t=49s",
+            "name": " سكاي نيوز عربية",
+            "path": "sources/0_1601725069_b9a4106558670da4ec1c0749f414d1e693436e6c.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الصورة ليست لشيخ يتزوج من فتاة قاصر",
+    "updated_at": "2020-10-03 15:05:27",
+    "url_path": "/factcheck/2020/10/03/الصورة-ليست-لشيخ-يتزوج-من-فتاة-قاصر",
+    "was_notification_pushed": "true"
+}

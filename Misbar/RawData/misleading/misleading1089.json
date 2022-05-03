@@ -1,0 +1,96 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2131,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "الصور الأصلية لحادثة اقتحام خنزير برّي لأحد المساجد في ماليزيا (فيسبوك)",
+    "category": "Spirituality & Religion",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">الهنود وضعوا خنزيراً في المسجد حتى يدنّسوه، حسبنا الله ونعم الوكيل.</span></p>\r\n",
+    "country": "IN",
+    "created_at": "2020-05-30 17:05:27",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ed26827db291620130d08f7",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من الصور المتداولة ووجد أنها مضلّلة، لأن الصور الأصلية تُظهر حادثة </span><a href=\"https://malaysiagazette.com/en/2018/03/07/pig-charged-mosque/\" style=\"text-decoration:none\"><span style=\"color:#1155cc\"><u>اقتحام</u></span></a><span style=\"color:#000000\"> خنزير برّي لأحد المساجد في ماليزيا عام 2018. مما يعني أن الحدث عَرَضي، وأنّ الحادثة لم تقع في الهند.&nbsp;</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_f7q7bsral.jpg\" style=\"height:665px; width:526px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "مسجد",
+        "الهند",
+        "خنزير",
+        "ماليزيا"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل صفحات على مواقع التواصل الاجتماعي صورة تدّعي أنها لخنزير وضعه الهنود داخل أحد المساجد بهدف تدنيسه.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_gayl5sl5r.jpg\" style=\"height:659px; width:525px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_isvo2jg8z.jpg\" style=\"height:686px; width:533px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 309,
+        "left": 7.51666259765625,
+        "path": "articles/1590847526غلاف.jpg",
+        "top": 29.599853515625,
+        "totalHeight": 423,
+        "totalWidth": 564,
+        "watermark_path": "articles/watermark-1590847526غلاف.jpg",
+        "width": 549
+    },
+    "post_date": "2020-05-30T16:53:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/703665323028688/photos/a.704331209628766/2859183790810153/?type=3&theater",
+            "name": "محمد حسان",
+            "path": "published/0_1590847525_محمد حسان.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=631123324121319&id=389732618260392",
+            "name": "استغفر الله العظيم",
+            "path": "published/1_1590847525_استغفر.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/1683951228553765/permalink/2674505199498358/?__tn__=-R",
+            "name": "دار الشاعر للنشر",
+            "path": "published/2_1590847525_دار.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=2748567292096552&set=a.1435405316746096&type=3",
+            "name": "أحمد صبري",
+            "path": "published/3_1590847525_أحمد.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=257606088951791&id=100041072040748",
+            "name": "الجوهر الصادق",
+            "path": "published/4_1590847526_الجوهر.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://malaysiagazette.com/en/2018/03/07/pig-charged-mosque/",
+            "name": "Malaysia Gazette",
+            "path": "sources/0_1590847526_gazzette.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هنود وضعوا خنزيراً داخل مسجد.. خبر مضلل",
+    "updated_at": "2020-09-25 16:03:42",
+    "url_path": "/factcheck/2020/05/30/هنود-وضعوا-خنزيرا-داخل-مسجد-خبر-مضلل"
+}

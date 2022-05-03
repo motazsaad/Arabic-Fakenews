@@ -1,0 +1,157 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 189,
+    "author": {
+        "fullname": "مريم هواري",
+        "id": "5e299460d4a22939983a3ec5",
+        "photo": {
+            "path": "authors/1579791192_Maryam.jpg"
+        }
+    },
+    "caption": "أعلنت السلطات عن مقتل أربعة أشخاص (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">صحيفة يديعوت أحرونوت&nbsp;تُعلن عن مقتل ثمانية شخصيات إسرائيلية كانوا في مؤتمر في النمسا.</p>\r\n",
+    "country": "AT",
+    "created_at": "2020-11-04 17:34:13",
+    "created_by": "5f39b6aa1dd585076701cb95",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5fa2bbe5a4f6977cae0ab593",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقّق &quot;<a href=\"https://misbar.com/factcheck/2020/10/12/%D9%87%D8%B0%D9%87-%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9-%D9%84%D9%8A%D8%B3%D8%AA-%D9%85%D9%86-%D8%AD%D8%B1%D8%A7%D8%A6%D9%82-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%A3%D8%AE%D9%8A%D8%B1%D8%A9\" style=\"color:blue; text-decoration:underline\">مسبار</a>&quot; من الخبر المتداول ووجد أنّه زائف. إذ لم تُعلن صحيفة يديعوت أحرونوت عن الادّعاء المتداول، كما أعلنت السلطات النمساوية عن مقتل أربعة أشخاص وإصابة 23 جراء الهجوم المسلّح في العاصمة النمساوية، فيينا، في 2 نوفمبر/تشرين الثاني الجاري.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">ويُذكر أنّ موقع بي بي سي أعلن أنّ الضحايا الأربعة هم طالب ألماني يبلغ من العمر 24 عاماً، وشاب عمره 21 عاماً&nbsp;من مقدونيا الشمالية، ورجل نمساوي عمره 39 عاماً، وامرأة نمساوية عمرها 44 عاماً، وليس بينهم أي إسرائيلي.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_44wyq46be.jpg\" style=\"height:745px; width:555px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_6ywookz1e.jpg\" style=\"height:550px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_sxg3ae3mz.jpg\" style=\"height:799px; width:490px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">اقرأ/ي أيضاً:</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/09/23/%D9%84%D9%85-%D9%8A%D8%B9%D9%84%D9%86-%D8%A7%D9%84%D8%A5%D8%B9%D9%84%D8%A7%D9%85-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%B9%D9%86-%D8%A7%D8%B3%D8%AA%D8%B1%D8%AC%D8%A7%D8%B9-%D8%AC%D9%85%D9%8A%D8%B9-%D8%A7%D9%84%D8%AD%D9%88%D8%A7%D8%AC%D8%B2-%D9%81%D9%8A-%D8%A7%D9%84%D8%B6%D9%81%D8%A9-%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9\" style=\"color:blue; text-decoration:underline\">لم يُعلن الإعلام &quot;الإسرائيلي&quot; عن إعادة نشر جميع الحواجز في الضفّة الغربية</a></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/07/23/%D8%A7%D9%84%D8%AD%D9%83%D9%88%D9%85%D8%A9-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D9%84%D9%86-%D8%AA%D8%B9%D8%B7%D9%8A-7500-%D8%B4%D9%8A%D9%83%D9%84-%D9%84%D9%83%D9%84-%D8%B9%D8%A7%D8%B7%D9%84-%D8%B9%D9%86-%D8%A7%D9%84%D8%B9%D9%85%D9%84\" style=\"color:blue; text-decoration:underline\">الحكومة &quot;الإسرائيلية&quot; لن تُعطي 7500 &quot;شيكل&quot; لكل عاطل عن العمل</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">تداولت صفحات وحسابات على موقعي التواصل الاجتماعي، فيسبوك وتويتر، منذ 2 نوفمبر/تشرين الثاني الجاري، خبراً نُسب للصحيفة الإسرائيلية يديعوت أحرونوت، مفاده مقتل ثمانية شخصيّات إسرائيلية كانوا في مؤتمر، خلال الهجوم الذي وقع في النمسا بتاريخ 2 نوفمبر/تشرين الثاني الجاري.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_4aj09lo6y.jpg\" style=\"height:333px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_4jaukp3ie.jpg\" style=\"height:154px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_k0bu9h1lh.jpg\" style=\"height:533px; width:624px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 350,
+        "left": 2.26458740234375,
+        "path": "articles/1604500452GettyImages-1283589319.jpg",
+        "top": 37.2236328125,
+        "totalHeight": 423,
+        "totalWidth": 632,
+        "watermark_path": "articles/watermark-1604500452GettyImages-1283589319.jpg",
+        "width": 623
+    },
+    "post_date": "2020-11-04T16:24:00.000+03:00",
+    "published": [
+        {
+            "id": "5fa267f14852581a717991dc",
+            "link": "https://twitter.com/fatimaalwahsh/status/1323375270481563649",
+            "name": "الدكتورة فاطمة الوحش #القدس،،هي #الوعي",
+            "origin": "twitter",
+            "path": "sources/48c11799c78d7446d0a4ac80fec9f916ae9db567.jpg"
+        },
+        {
+            "id": "5fa2bbe3f7b31c3f34780840",
+            "link": "https://twitter.com/ali_moussawii/status/1323482064507854848",
+            "name": "ali moussawi",
+            "origin": "twitter",
+            "path": "sources/4854005f9520855ac74e5cefe21e8bc7b532b517.jpg"
+        },
+        {
+            "id": "5fa2bbe34e75693407729874",
+            "link": "https://twitter.com/mustafakamilm/status/1323377152830672897",
+            "name": "#مصطفى_كامل",
+            "origin": "twitter",
+            "path": "sources/8c8936c366414659e4ded7d88a05614b5487b3f0.jpg"
+        },
+        {
+            "id": "5fa2bbe360e37b10861247ca",
+            "link": "https://twitter.com/drImadEddin/status/1323379599473074180",
+            "name": "عماد الدين الجبوري",
+            "origin": "twitter",
+            "path": "sources/f5a035d155a85c0cc6764b9b1fb5eea497df3199.jpg"
+        },
+        {
+            "id": "5fa2bbe32898234365016ce9",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=912384462501321&id=100011893278029",
+            "name": "عاطف النعيمي",
+            "origin": "facebook",
+            "path": "sources/e96b3e01c9d9d9791c748ff97ce2804aefd97541.jpg"
+        },
+        {
+            "id": "5fa2bbe3346ae127664c91bf",
+            "link": "https://www.facebook.com/AnasDugheim/posts/679648179613687",
+            "name": "أنس الدغيم",
+            "origin": "facebook",
+            "path": "sources/19f1e30f9eaac8d57d245045c4f2cd5836b500a2.jpg"
+        },
+        {
+            "id": "5fa2bbe49892d12f6c02d05f",
+            "link": "https://www.facebook.com/ShufatCampState/posts/3368783003240695",
+            "name": "دولة مخيم شعفاط",
+            "origin": "facebook",
+            "path": "sources/4fc08bedc348d3ac4a67b9b54899421d1d1f7ca8.jpg"
+        },
+        {
+            "id": "5fa2bbe4e58bb561125a53c7",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=825620981532085&id=100022525717604",
+            "name": "Aziza Kettaoui",
+            "origin": "facebook",
+            "path": "sources/01650b2291b3cb730222d8c2fa6ec37ad91674c1.jpg"
+        },
+        {
+            "id": "5fa2bbe40d3aad1ab004d9ca",
+            "link": "https://www.facebook.com/groups/983661108752604/permalink/1115793978872649/",
+            "name": "عاجل الان فلسطين",
+            "origin": "facebook",
+            "path": "sources/5bfe4505f0d897cf8eadb4d078ea86f5bd10e8d5.jpg"
+        },
+        {
+            "id": "5fa2bbe43453126ed37d2773",
+            "link": "https://www.facebook.com/dr.ahmedafarag/posts/10159339215004410",
+            "name": "Ahmed Abdelfattah Farag",
+            "origin": "facebook",
+            "path": "sources/7acbe40c8d35429ea1ecf0c5282b8f4e8ecf36b3.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f91b84585c9fb2f0d4b500a",
+            "link": "https://www.bbc.com/news/world-europe-54810906",
+            "name": "BBC ",
+            "origin": "",
+            "path": "sources/1_1589372500_BBC NEWS-logo.jpg"
+        },
+        {
+            "id": "5fa2bbe447104e755906f7b6",
+            "link": "https://www.ynetnews.com/article/ByjCQwAdw#autoplay",
+            "name": "ynetnews",
+            "origin": "",
+            "path": "sources/503fac764549014d42a1f3693c06eb02fe9fbf8b.jpg"
+        },
+        {
+            "id": "5f8eb18c79e4d847985d0c07",
+            "link": "https://www.aljazeera.net/news/politics/2020/11/3/%D8%A7%D8%A7-223",
+            "name": "الجزيرة نت",
+            "origin": "",
+            "path": "sources/0_1603096521_Screenshot 2020-10-19 101519.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لم تُعلن يديعوت أحرنوت عن مقتل إسرائيليين في هجوم النمسا",
+    "updated_at": "2020-11-05 10:50:41",
+    "url_path": "/factcheck/2020/11/04/لم-تعلن-الصحيفة-الإسرائيلية-عن-مقتل-إسرائيليين-في-هجوم-النمسا",
+    "was_notification_pushed": false
+}

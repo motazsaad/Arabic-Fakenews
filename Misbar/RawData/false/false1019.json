@@ -1,0 +1,95 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 273,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">شركة نقل مغربية تمنع بيع تذاكر الحافلات للمهاجرين الأفارقة المقيمين في المغرب بصورة غير قانونية.</p>\r\n",
+    "country": "MA",
+    "created_at": "2019-12-01 16:27:23",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5de3bfbb8d7bd92c9c51c2f7",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">أصدرت شركة النقل المغربية <span dir=\"LTR\">CMT</span> يوم الأربعاء 30 أكتوبر/ تشرين الأول بياناً، نشرته على حسابها الرسمي على &quot;فيسبوك&quot; أكّدت فيه أنّ المذكرة المنشورة على شبكات التواصل الاجتماعي &quot;ليست وثيقة صادرة عن الشركة&quot;، وأنّ الإدارة العامة للشركة لم تُصدر أي إعلان أو بلاغ متعلّق بالموضوع.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">بذلك يتبيّن حسب الشركة التي تأسست عام 1919؛ أنّ ما نشرته بعض المواقع وتناقله عددٌ من مستخدمي مواقع التواصل الاجتماعي، حول منع الشركة المغربية للمهاجرين الأفارقة الموجودين في المغرب الذين لا يملكون بطاقات إقامة من استخدام الحافلات التابعة للشركة، هو مجرّد شائعة لا أساس لها من الصحة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_5a4886a07793adbef66b18819109924f.jpg\" style=\"height:493px; width:389px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت بعض المواقع الالكترونية المغربية خبراً تفاعل معه مستخدمون كُثر على مواقع التواصل الاجتماعي، فحواه أنّ الشركة المغربية للنقل والإرساليات &quot;ستيام&quot; <span dir=\"LTR\">CTM</span>، أصدرت قراراً بمنع المهاجرين الأفارقة المقيمين في المغرب بصورة غير شرعية من الحصول على تذاكر سفر تمكّنهم من التّنقل على متن الحافلات التابعة للشركة. &nbsp;ولاقى القرار ردود فعلٍ مستهجنة من العديد من روّاد وسائل التواصل الذين اعتبروه قراراً عنصرياً. وعبّر بعضهم بالقول أنّه من غير المقبول أن تخص الشركة في قرارها &quot;الأفارقة&quot; دون تحديد من هم بالضبط ولا سيّما أنّ المغرب دولة أفريقية. وجاء في بيان الشركة أنّه &quot;خلال المراقبة، سيقوم المكلّفون بالتحقق من أوراق هؤلاء المهاجرين، ومنع من يقيم منهم بصورة غير قانونية من ركوب حافلات شركة ستيام&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><br />\r\n<span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_9d1d9a2507b49d712dba1f540aa10714.jpg\" style=\"height:572px; width:332px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_3523c3bdae4d025abc32b9cfb8ac2e50.jpg\" style=\"height:471px; width:344px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_de2d8280dfd510f298e566301e023a88.jpg\" style=\"height:457px; width:407px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1579432417منع الأفارقة من صعود الحافلات في المغرب.jpg"
+    },
+    "post_date": "2019-11-05T16:17:00.000+03:00",
+    "published": [
+        {
+            "link": "https://al3omk.com/470195.html",
+            "name": "العمق المغربي",
+            "path": "published/0_1575206843_العمق المغربي-لوغو.jpg"
+        },
+        {
+            "link": "https://ar.lesiteinfo.com/maroc/286687.html",
+            "name": "Le site  بالعربية",
+            "path": "published/1_1575206843_Le site بالعربية- لوغو.jpg"
+        },
+        {
+            "link": "http://attaric.com/?p=30768",
+            "name": "الطريق",
+            "path": "published/2_1575206843_الطريق-لوغو.jpg"
+        },
+        {
+            "link": "https://www.maghress.com/chtoukapress/165303",
+            "name": "مغرس",
+            "path": "published/3_1575206843_مغرس-لوغو.jpg"
+        },
+        {
+            "link": "https://www.chtoukapress.com/165303.html",
+            "name": "اشتوكة برس",
+            "path": "published/4_1575206843_اشتوكة برس-لوغو.jpg"
+        },
+        {
+            "link": "https://www.achkayen.com/164708.html",
+            "name": "آشكاين",
+            "path": "published/5_1575206843_آشكاين-لوغو.jpg"
+        },
+        {
+            "link": "https://dabapress.com/38518/",
+            "name": "دابا برس",
+            "path": "published/6_1575206843_دابا برس-لوغو.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/ctmmorocco/photos/a.127902397380434/1168441776659819/?type=3&theater",
+            "name": "CMT",
+            "path": "sources/0_1575206843_CTM-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ما حقيقة منع المهاجرين الأفارقة من ركوب الحافلات في المغرب؟",
+    "updated_at": "2020-09-23 12:40:18",
+    "url_path": "/factcheck/2019/12/01/ما-حقيقة-منع-المهاجرين-الأفارقة-من-ركوب-الحافلات-في-المغرب"
+}

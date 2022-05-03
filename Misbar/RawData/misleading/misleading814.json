@@ -1,0 +1,88 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 959,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "التزم الجميع بقواعد محاربة فايروس كورونا المستجد (تويتر)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">شخصيات سياسية ديمقراطية، ورؤساء أميركا الثلاثة السابقين لم يلتزموا بقواعد محاربة&nbsp; فايروس كورونا المستجد (كوفيد-19) خلال جنازة عضو الكونغرس الديمقراطي جون لويس.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-08-04 16:56:50",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f29692240466e071445113b",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الأخبار، ليجد أنها مضللة، فالبث المباشر من الجنازة، والصور التي نشرتها الصحافة العالمية؛ تثبت أن الجميع التزم بقواعد محاربة فايروس كورونا المستجد، سواءً مسافات التباعد الاجتماعي أو ارتداء الأقنعة، ولم يقم الرؤساء الثلاثة بخلعها إلا حين ألقوا خطابات وداعية، كذلك تصرفت شخصيات أخرى كبعض أفراد من عائلة جون لويس حين تحدثوا إلى الحضور.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><br />\r\n<iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/8P3X9AiN8E4\" width=\"560\"></iframe><br />\r\n&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_lt5czumc9.jpg\" style=\"height:319px; width:604px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت حسابات أميركية على موقع تويتر خلال شهر أغسطس/ آب الجاري، انتقادات لشخصيات سياسية من الحزب الديمقراطي الأميركي، إضافة إلى الرؤساء الثلاثة السابقين جورج بوش، وبيل كلينتون، وباراك أوباما، إذ لم يلتزموا بالحفاظ على التباعد الاجتماعي، كذلك لم يرتدوا الأقنعة الطبية خلال حضورهم جنازة أحد زعماء حركة الحقوق المدنية، الأميركي من أصل أفريقي جون لويس، وعضو الكونغرس عن ولاية جورجيا في نهاية يوليو/تموز الفائت.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_p8ix5deg9.jpg\" style=\"height:352px; width:585px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_mhfxbjdh1.jpg\" style=\"height:472px; width:605px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_5wzpca8ak.jpg\" style=\"height:123px; width:562px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_z0xu7mjee.jpg\" style=\"height:465px; width:592px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 320,
+        "left": 32.105255126953125,
+        "path": "articles/1596549409tu1M1G-B.jpg",
+        "top": 34.746826171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-1596549409tu1M1G-B.jpg",
+        "width": 570
+    },
+    "post_date": "2020-08-04T14:13:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/LadyRedWave/status/1290304688009568256",
+            "name": "Lady De’Plorable",
+            "path": "published/0_1596549409_18m6RWls_400x400 (1).jpg"
+        },
+        {
+            "link": "https://twitter.com/faroutmadman/status/1289221934572396544",
+            "name": "Jon",
+            "path": "published/1_1596549409_aCMoJWxp_400x400.jpg"
+        },
+        {
+            "link": "https://twitter.com/SSMTwitEgg/status/1290014341635301376",
+            "name": "",
+            "path": ""
+        },
+        {
+            "link": "https://twitter.com/charliekirk11/status/1290374779724161024",
+            "name": "Charlie Kirk",
+            "path": "published/3_1596549409_ODX2AmEZ_400x400.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=8P3X9AiN8E4&feature=emb_title",
+            "name": "C-SPAN ",
+            "path": "sources/0_1596549409_unnamed.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "أوباما وبوش وكلينتون حضروا جنازة جون لويس بالأقنعة الطبية",
+    "updated_at": "2020-09-25 19:58:48",
+    "url_path": "/factcheck/2020/08/04/أوباما-وبوش-وكلينتون-حضروا-جنازة-جون-لويس-بالأقنعة-الطبية"
+}

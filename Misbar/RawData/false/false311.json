@@ -1,0 +1,132 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1019,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "نفى صديقه الخبر ونشر صورة معه على مواقع التواصل الاجتماعي (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">وفاة سفيان بكيري <span style=\"background-color:white\">صاحب مقولة &quot;يتنحاو ڤاع</span>&quot; في الجزائر.</p>\r\n",
+    "country": "DZ",
+    "created_at": "2020-09-02 16:02:33",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f4f97e93372697f57001f28",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">تحقق &quot;مسبار&quot; من الخبر المتداول وتبين أنه زائف ولا أساس له من الصحة، وأنّ بعض الصفحات نقلته دون التثبت منه، كما لم ينشره أي مصدر إعلامي جزائري.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"background-color:white\">ووجد &quot;مسبار&quot; أنّ أحد أصدقائه ويُدعى </span><a href=\"https://www.facebook.com/mohamed.smallah.35/posts/796762147758512\" style=\"color:blue; text-decoration:underline\">Mohamed Smallah</a>، نفى الخبر عبر حسابه الخاص على موقع فيسبوك، وعلق في صورة جمعته به &quot;<span style=\"background-color:white\">خبر وفاة سفيان يتنحاو ڨاع خبر كادب</span> <span style=\"background-color:white\">حسبنا الله ونعم الوكيل</span>&quot;.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"502\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fphoto.php%3Ffbid%3D796762087758518%26set%3Da.161672024600864%26type%3D3&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"background-color:white\">ونشر مقطع فيديو يرد فيه على صفحة &quot;طاكسي وهران&quot; على موقع فيسبوك، التي نشرت الخبر، مؤكداً أنّ سفيان البكيري بألف خير.</span></span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fmohamed.smallah.35%2Fvideos%2F796695271098533%2F&amp;show_text=0&amp;width=353\" style=\"border:none;overflow:hidden\" width=\"353\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": false,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات إخبارية وحسابات على موقع &quot;فيسبوك&quot; منذ 31 أغسطس/آب الفائت، خبراً يدّعي وفاة سفيان بكيري <span style=\"background-color:white\">صاحب مقولة &quot;يتنحاو ڤاع</span>&quot; في الجزائر.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:#050505\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_8yb7iy37z.jpg\" style=\"height:442px; width:452px\" /></span></span></span><br />\r\n<span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:#050505\"><img alt=\"1.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_7epak0tbg.jpg\" style=\"height:453px; width:504px\" /></span></span></span><br />\r\n<span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:#050505\"><img alt=\"0.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_yg0q67tc0.jpg\" style=\"height:458px; width:450px\" /></span></span></span><br />\r\n<span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:#050505\"><img alt=\"00.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_xpkwd1urm.jpg\" style=\"height:386px; width:455px\" /></span></span></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 310,
+        "left": 4.10528564453125,
+        "path": "articles/1599051753118686126_592608031413404_2571337681947859166_n.jpg",
+        "top": 22.746826171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-1599051753118686126_592608031413404_2571337681947859166_n.jpg",
+        "width": 551
+    },
+    "post_date": "2020-09-02T13:49:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/1472462436202530/photos/a.1812264315555672/3198692443579512/",
+            "name": "Iladis",
+            "path": "published/0_1599051751_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/fateh.kawa18/posts/3254962647928497",
+            "name": "Fateh Touizi",
+            "path": "published/1_1599051752_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/100967448302253/photos/a.100976684967996/168249321574065/",
+            "name": "طاكسي وهران",
+            "path": "published/2_1599051752_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/groups/1941695476078356/?post_id=2664138767167353",
+            "name": "أخبار ولاية شلف من قلب الحدث( هامالك اخ ✋✋✋✋",
+            "path": "published/3_1599051752_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/groups/554899761605640/?post_id=1088936071535337",
+            "name": "Ķa L Eď",
+            "path": "published/4_1599051752_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/100365195051271/photos/a.100465688374555/157585575995899/",
+            "name": "Il & elle de 40",
+            "path": "published/5_1599051752_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/photo?fbid=10164682715280144&set=a.10155139457450144",
+            "name": "Enzo Nasser",
+            "path": "published/6_1599051752_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/chihaninews/photos/a.339870433333212/625667828086803",
+            "name": "Chihani News- شيحاني نيوز",
+            "path": "published/7_1599051752_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/ELTAREF36/photos/a.1373044186108496/3297482986997930/",
+            "name": "صوت ولاية الطارف",
+            "path": "published/8_1599051752_67819776_2303763929710849_8279055560511324160_o.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/khalil.torino.735",
+            "name": "khalil.torino",
+            "path": "sources/0_1599051753_55554481_571984203286349_4835915145576185856_n.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/mohamed.smallah.35/timeline?lst=100051695521149%3A100022742021348%3A1599050740",
+            "name": "mohamed.smallah",
+            "path": "sources/1_1599051753_118587469_793955514705842_4143905886319892058_n.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "خبر وفاة سفيان صاحب شعار \"يتنحاو قاع\" غير صحيح",
+    "updated_at": "2020-09-25 14:12:09",
+    "url_path": "/factcheck/2020/09/02/خبر-وفاة-سفيان-صاحب-شعار-يتنحاو-قاع-غير-صحيح"
+}

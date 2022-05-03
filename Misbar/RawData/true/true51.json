@@ -1,0 +1,101 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 1,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 15756,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "الخبر صحيح، لكن قد تكون الحالة مؤقتة (مواقع التواصل الاجتماعي)",
+    "category": "Health",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">طبيبان صينيان يستيقظان بعد أسابيع من الغيبوبة وقد تحوّل لون بشرتهما إلى الأسود بسبب فايروس كورونا المستجد.</span></p>\r\n",
+    "country": "CN",
+    "created_at": "2020-04-22 15:02:23",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5ea0324fdb29167c877cb933",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من الخبر ووجد أنه صحيح. اقتبست العديد من المواقع الإخبارية الخبر عن قناة CCTV الصينية دون الإشارة إلى رابط مباشر، وبعض المواقع الأخرى أشارت إلى </span><a href=\"https://youtu.be/3ctq9ulLvXY?t=565\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>مقطع فيديو</u></span></a><span style=\"color:#000000\"> على قناة BTV الصينية يُظهر الطبيبين Yi وHu أثناء تلقّيهما العلاج في إحدى مستشفيات مدينة ووهان الصينية. لكنّ هذا المقطع، بحسب مترجمين عن اللغة الصينية تواصل معهم &quot;مسبار&quot;، لا يتطرّق إلى موضوع تغيّر بشرة الطبيبين، وإنما يعرض جهود الكوادر الطبية الصينية لعلاج كافة المرضى المصابين بكوفيد-19، ومحاولاتهم للتخفيف عنهم.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/3ctq9ulLvXY?start=565\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">لكن اتّضح صدق الخبر عندما عثر &quot;مسبار&quot; على مقابلة مع الطبيب Yi عبر </span><a href=\"http://tv.cctv.com/2020/04/21/VIDEAfkxtuARg07NZrsuc20G200421.shtml?spm=C53156045404.PKXC0xLPAnP9.0.0\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>قناة CCTV</u></span></a><span style=\"color:#000000\">، يتحدّث فيها عن تغيّر لون بشرته أثناء تلقّيه علاج فايروس كورونا المستجدّ، وأشار الطبيب إلى أنّ حالته تتّجه إلى التحسّن، كما تعود بشرته شيئاً فشيئاً إلى لونها الطبيعي بعد تلقّيه العلاج اللازم.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">أما بالنسبة لاحتمالية تغيّر لون الجلد، وبحسب أطباء تواصل معهم &quot;مسبار&quot;، فإن فايروس كورونا المستجد قد يؤدي إلى تلف في عمل بعض الأعضاء، منها الكبد، التي قد تؤدي بعض الأعطال فيها إلى تغير في لون البشرة تختلف حدّته وشكله من شخص إلى آخر. وبالنسبة للطبيب الذي ظهر في مقابلة CCTV، فقد تحدّث عن تحسّن حالته، الأمر الذي يمكن حدوثه إذا عولج الخلل الحاصل في الكبد. لكنّ هذا كله غير مؤكد في حالة الطبيبين لعدم اطلاع &quot;مسبار&quot; على حالتيهما بما يكفي للحكم.</span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "كورونا الصين",
+        "فيروس كورونا",
+        "كوفيد-19",
+        "الصين"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تناقلت مواقع إخبارية وصفحات على مواقع التواصل الاجتماعي خبراً عن تغيّر لون بشرة طبيبين في مدينة ووهان الصينية بعد إصابتهما بفايروس كوفيد-19.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_c1ifa45nu.jpg\" style=\"height:410px; width:517px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_qoqf2n2gj.jpg\" style=\"height:685px; width:491px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 2.5,
+        "path": "articles/1587556942غلاف.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 757,
+        "watermark_path": "articles/watermark-1587556942غلاف.jpg",
+        "width": 752
+    },
+    "post_date": "2020-04-22T14:57:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/khalidyatnet/status/1252578033808130048",
+            "name": "خالد التمامي",
+            "path": "published/0_1587556941_خالد-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/elhidhabtv19/posts/117158893288258?__tn__=-R",
+            "name": "الهضاب TV",
+            "path": "published/1_1587556941_الهضاب-لوغو.jpg"
+        },
+        {
+            "link": "https://aawsat.com/home/article/2245096/%D8%B7%D8%A8%D9%8A%D8%A8%D8%A7%D9%86-%D8%B5%D9%8A%D9%86%D9%8A%D8%A7%D9%86-%D8%A3%D8%B5%D9%8A%D8%A8%D8%A7-%D8%A8%D9%80%C2%AB%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7%C2%BB-%D8%AA%D8%AA%D8%AD%D9%88%D9%84-%D8%A8%D8%B4%D8%B1%D8%AA%D9%87%D9%85%D8%A7-%D8%A5%D9%84%D9%89-%D8%B3%D9%88%D8%AF%D8%A7%D8%A1",
+            "name": "الشرق الأوسط",
+            "path": "published/2_1587556941_الشرق-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Wasat.tv/posts/2935353033213074",
+            "name": "WTV",
+            "path": "published/3_1587556942_WTV-logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=667335870692404",
+            "name": "مجلة ميم",
+            "path": "published/4_1587556942_ميم-لوغو.jpg"
+        }
+    ],
+    "result": "true",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=3ctq9ulLvXY",
+            "name": "BTV",
+            "path": "sources/0_1587556942_1_BTV_logo_a.jpg"
+        },
+        {
+            "link": "http://tv.cctv.com/2020/04/21/VIDEAfkxtuARg07NZrsuc20G200421.shtml?spm=C53156045404.PKXC0xLPAnP9.0.0",
+            "name": "CCTV",
+            "path": "sources/1_1587556942_CCTV-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "الخبر صحيح",
+    "title": "كورونا الصين: تغيّر بشرة طبيبين إلى اللون الداكن.. خبر صحيح",
+    "updated_at": "2020-09-25 06:08:45",
+    "url_path": "/factcheck/2020/04/22/كورونا-الصين-تغير-بشرة-طبيبين-إلى-اللون-الداكن-خبر-صحيح"
+}

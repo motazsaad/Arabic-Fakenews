@@ -1,0 +1,127 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 145,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "نشرت الصورة في أبريل/نيسان الفائت (تويتر)",
+    "category": "Health",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة من محافظة باجة التونسية، أثناء دفن ضحايا فايروس كورونا المستجد (كوفيد-19).</p>\r\n",
+    "country": "TN",
+    "created_at": "2020-10-06 17:00:18",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 2,
+    "feedback_pos": 4,
+    "id": "5f7c78721fc2c66c98249531",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة المتداولة وتبين أنها مضللة، وليست في محافظة باجة التونسية، بل تعود لدفن توابيت في مقبرة جماعية في&nbsp;جزيرة هارت في مدينة نيويورك الأميركية، لمتوفين بفايروس كورونا المستجد (كوفيد-19).</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">واضطرت الفرق إلى دفنهم في المقبرة المخصصة لفاقدي السند العائلي ولغير القادرين على تكاليف الدفن&nbsp;بسبب الرقم القياسي لعدد الوفيات بفايروس كورونا في أبريل/نيسان الفائت.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">التقط جون منشيلو صور الدفن ونشرتها وكالة أسوشيتد برس يوم 9 أبريل/نيسان الفائت.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وتحقق &quot;مسبار&quot; من الخبر المرافق للصورة ووجد أنه صحيح، إذ قال محسن معز الميلي محافظ مدينة باجة يوم 2 أكتوبر/تشرين الأول الجاري، فى تصريح <a href=\"http://news.tunisiatv.tn/%D8%A8%D8%A7%D8%AC%D8%A9-%D9%86%D9%88%D8%A7%D8%AC%D9%87-%D8%B5%D8%B9%D9%88%D8%A8%D8%A7%D8%AA-%D9%83%D8%A8%D9%8A%D8%B1%D8%A9-%D9%81%D9%89-%D8%AA%D9%88%D9%81%D9%8A%D8%B1-%D9%88%D8%B3%D8%A7%D8%A6%D9%84-%D8%AF%D9%81%D9%86-%D8%B6%D8%AD%25\" style=\"color:blue; text-decoration:underline\">لوكالة تونس إفريقيا للأنباء</a> عقب اجتماع لجنة مجابهة الكوارث بالجهة، إنّ المحافظة تواجه صعوبات كبيرة في توفير وسائل دفن ضحايا فايروس كورونا المستجد، أمام تسارع نسق انتشاره في الجهة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"02.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_qvxlatxr3.jpg\" style=\"height:443px; width:605px\" /></span><br />\r\n<br />\r\n<iframe frameborder=\"0\" height=\"500\" src=\"https://www.bbc.com/news/av/embed/p0896082/52241221\" width=\"400\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات إخبارية وحسابات على موقع فيسبوك، حديثاً، صورة ادعت أنها لدفن ضحايا فايروس كورونا المستجد (كوفيد-19) في محافظة باجة التونسية. ونقل المستخدمون الصورة عن قناة التاسعة التونسية، التي كانت أول من نشرها مرفقة بخبر &quot;باجة: صعوبات كبيرة في دفن ضحايا كوفيد-19&quot;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_nk9lr7iys.jpg\" style=\"height:548px; width:407px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"0.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_9zm3rt6k9.jpg\" style=\"height:524px; width:552px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 321,
+        "left": 34.105255126953125,
+        "path": "articles/1601992817p08960hj.jpg",
+        "top": 37.746826171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-1601992817p08960hj.jpg",
+        "width": 570
+    },
+    "post_date": "2020-10-06T14:31:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/photo?fbid=3442811725837922&set=a.113125835473211",
+            "name": "Samir Elwafi",
+            "path": "published/0_1601992817_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/photo?fbid=165156815222222&set=gm.1449112932144507",
+            "name": "Lynda Sana Trabelsi",
+            "path": "published/1_1601993425_7ada239b3c9a5c6f314bd1cf880de59f98e7dba0.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/AttessiaTV/photos/a.369518449908580/1821145404745870/",
+            "name": "Attessia TV قناة التاسعة",
+            "path": "published/2_1601993426_7ada239b3c9a5c6f314bd1cf880de59f98e7dba0.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/faouzi.benabedalah/posts/996924767455570",
+            "name": "Bên Äbędåläh Ghânëm",
+            "path": "published/3_1601993426_7ada239b3c9a5c6f314bd1cf880de59f98e7dba0.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=458622715085456&id=134543110826753",
+            "name": "جديدة الشبابية",
+            "path": "published/4_1601993481_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/mehrez.belhedi/posts/10219205118824166",
+            "name": "Mehrez Belhedi",
+            "path": "published/5_1601993481_7ada239b3c9a5c6f314bd1cf880de59f98e7dba0.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.abc.net.au/news/2020-04-10/new-york-state-posts-record-coronavirus-death-rise-covid-19/12140380",
+            "name": "abc.net",
+            "path": "sources/0_1601992817_79132ac27236d749d421ed958aac33126f476926.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.bbc.com/news/world-us-canada-52241221",
+            "name": "BBC News",
+            "path": "sources/1_1601992817_bf8f2cab08094694b6251b4e7c154cb045210542.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.latimes.com/politics/story/2020-05-27/us-coronavirus-death-toll-passes-100000-mark",
+            "name": "Los Angeles Times",
+            "path": "sources/2_1601992817_2fcfdef3c4d9c40ae82631e28e8c3d281764d9e1.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "http://news.tunisiatv.tn/%D8%A8%D8%A7%D8%AC%D8%A9-%D9%86%D9%88%D8%A7%D8%AC%D9%87-%D8%B5%D8%B9%D9%88%D8%A8%D8%A7%D8%AA-%D9%83%D8%A8%D9%8A%D8%B1%D8%A9-%D9%81%D9%89-%D8%AA%D9%88%D9%81%D9%8A%D8%B1-%D9%88%D8%B3%D8%A7%D8%A6%D9%84-%D8%AF%D9%81%D9%86-%D8%B6%D8%AD%D8%A7%D9%8A%D8%A7-%D8%A7%D9%84%D9%83%D9%88%D9%81%D9%8A%D8%AF-19-%D9%88%D9%85%D8%AC%D8%A7%D8%A8%D9%87%D8%A9-%D8%A7%D9%84%D9%88%D8%A8%D8%A7%D8%A1-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D9%87%D8%A9/2020/10/%D8%AC%D9%87%D8%A7%D8%AA#.X3xzFWhKjIU",
+            "name": "التلفزة التونسية",
+            "path": "sources/3_1601993296_15515577cac5f6c8184fd8bcecfdd08c15075c41.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الصورة لمقبرة جماعية في نيويورك وليست لضحايا كورونا في باجة التونسية",
+    "updated_at": "2020-10-08 20:16:21",
+    "url_path": "/factcheck/2020/10/06/الصورة-لمقبرة-جماعية-في-نيويورك-وليست-لضحايا-كورونا-في-باجة-التونسية",
+    "was_notification_pushed": "true"
+}

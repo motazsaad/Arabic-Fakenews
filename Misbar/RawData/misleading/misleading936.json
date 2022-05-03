@@ -1,0 +1,118 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 49071,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الشخص الذي يظهر في الفيديو كان يكسر واجهة متجر وليس مسجداً (مواقع التواصل الاجتماعي)",
+    "category": "Spirituality & Religion",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">فيديو يُظهر متطرفاً كسر واجهة مسجد فصدمته سيارة وهو يقطع الشارع.</p>\r\n",
+    "country": "PL",
+    "created_at": "2020-07-06 16:22:07",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 0,
+    "id": "5f03257f163be33a39606e58",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الفيديو ووجده مضللاً، فالشخص الذي تعرّض لحادث السيارة لم يكن يكسر واجهة مسجد، إنّما واجهة متجر مراهنات في مدينة لوبلينك البولندية، وقد عثر &quot;مسبار&quot; على المقطع الأصلي منشوراً على يوتيوب منذ سبتمبر/أيلول عام 2017.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/IRGEpm1AXRM\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_vq3axfb7u.jpg\" style=\"height:581px; width:681px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">يُعيد مستخدمون على موقع التواصل الاجتماعي فيسبوك وموقع يوتيوب نشر مقطع فيديو، يزعمون أنّه يصوّر رجلاً متطرفاً كان يكسر واجهة مسجد فصدمته سيارة بينما كان يقطع الشارع، وجاء الفيديو المتداول على أكثر الحسابات مصحوباً بتعليق &quot;متطرف يكسر واجهة مسجد.. سبحان الله جاءه الرد الفوري&quot;. &nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_bd4p5y7dg.jpg\" style=\"height:489px; width:490px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><img src=\"https://images-prod.misbar.com/articlebody/origin_nvg24rwgp.jpg\" style=\"height:595px; width:493px\" /></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><img src=\"https://images-prod.misbar.com/articlebody/origin_4evwmmq4u.jpg\" style=\"height:472px; width:481px\" /></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_piw0khiym.jpg\" style=\"height:550px; width:712px\" /></span></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 412,
+        "left": 2.79608154296875,
+        "path": "articles/1594041726Annotation 2020-07-06 153221.jpg",
+        "top": 4,
+        "totalHeight": 423,
+        "totalWidth": 740,
+        "watermark_path": "articles/watermark-1594041726Annotation 2020-07-06 153221.jpg",
+        "width": 732
+    },
+    "post_date": "2020-07-06T16:02:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/100010054896181/videos/1222925628052589/",
+            "name": "المتحابون في الله",
+            "path": "published/0_1594041724_المتحابون في الله.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/assii.iiero/posts/542786363334608",
+            "name": "Yas Sino Assiero",
+            "path": "published/1_1594041724_Yas Sino Assiero.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=131882068429423&id=106187377665559&__tn__=K-R",
+            "name": "Génération dorée",
+            "path": "published/2_1594041724_Génération dorée.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/wleedoscardvd/videos/3115449605188416/",
+            "name": "وليد صلاح الدين",
+            "path": "published/3_1594041725_Facebook_logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/alouli.soltani/videos/2598821497054519/",
+            "name": "عبد المنعم سلطاني",
+            "path": "published/4_1594041725_عبد المنعم سلطاني.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/1930350487037392/permalink/3738560062883083/?__tn__=-R",
+            "name": "أم جهاد أبو الفتوح",
+            "path": "published/5_1594041725_أم جهاد أبو الفتوح.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100011475773558/videos/1134780216914493/",
+            "name": "Munir Abdalaziz",
+            "path": "published/6_1594041725_Munir Abdalaziz.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=PtYDV-ohXuA",
+            "name": "Ahmed Meshtawy",
+            "path": "published/7_1594041725_Ahmed Meshtawy.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/758196481058064/videos/682866755809959/",
+            "name": "طبرية 42",
+            "path": "published/8_1594041726_Facebook_logo.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=IRGEpm1AXRM&feature=emb_logo",
+            "name": "المقطع الأصلي",
+            "path": "sources/0_1594041726_YouTube-logo.jpg"
+        },
+        {
+            "link": "https://www.fakt.pl/wydarzenia/polska/slask/lubliniec-wandal-wybil-szybe-w-lokalu-a-pozniej-wpadl-pod-samochod/5zel1je",
+            "name": "Fakt24",
+            "path": "sources/1_1594041726_Fakt24.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذا الرجل لم يكسر واجهة مسجد فصدمته سيارة",
+    "updated_at": "2020-09-25 13:53:15",
+    "url_path": "/factcheck/2020/07/06/هذا-الرجل-لم-يكسر-واجهة-مسجد-فصدمته-سيارة"
+}

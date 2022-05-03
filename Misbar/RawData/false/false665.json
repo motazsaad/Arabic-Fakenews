@@ -1,0 +1,118 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 4085,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "الفايروسات لا تعيش خارج الكائنات الحية (Getty)",
+    "category": "Health",
+    "claim": "<p>دواء الباراسيتامول متداول في الصيدليات يحوي فايروس قاتل، يموت الشخص بعد تناوله بخمسة أيام.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-06-01 00:06:10",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ed41c42db291677fb6d0034",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الخبر ووجد أنه يحوي معلومات مزيفة وكاذبة، فبحسب أبحاث وتقارير علمية الفايروسات لا تعيش خارج الكائنات الحية، وبالتالي استحالة أن تكون داخل حبة دواء، ولا يبقى الفايروس خارج أي كائن حي&nbsp;أكثر من 15 دقيقة بحسب المصادر العلمية ذاتها.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">ودواء الباراسيتامول بحسب تعريفه في موقع الدواء العالمي هو (أسيتامينوفين) مسكن للألم ومخفض للحمى، ويستخدم لعلاج العديد من الحالات مثل الصداع وآلام العضلات والتهاب المفاصل وآلام الظهر وآلام الأسنان ونزلات البرد والحمى. وكان موقع فيسبوك وضع على بعض هذه المنشورات إشارة&nbsp;بكونها معلومات مزيفة.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_h4e8cq75b.jpg\" style=\"height:228px; width:605px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_086jamxd8.jpg\" style=\"height:582px; width:1263px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/investigation_ucywd0s3u.jpg\" style=\"height:556px; width:479px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/investigation_8d4ocsgrv.jpg\" style=\"height:309px; width:605px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول صفحاتٌ على موقعيّ التواصل الاجتماعي فيسبوك، وتويتر منذ عام 2016 خبراً تحذيرياً مفاده أنه يوجد دواء متداول في الصيدليات اسمه </span><span dir=\"RTL\" lang=\"AR-SA\">الباراسيتامول </span><span dir=\"RTL\" lang=\"AR-SA\">يحوي فايروس قاتل، يموت الشخص بعد تناوله بخمسة أيام، وعاد هذا التحذير ليظهر على مواقع التواصل الاجتماعي في &nbsp;2017 و2018 و2019 .</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_s7rqw2rtu.jpg\" style=\"height:217px; width:492px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_ndgz6fxzz.jpg\" style=\"height:524px; width:602px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_jbwkls0qi.jpg\" style=\"height:536px; width:587px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_y4i1pie4a.jpg\" style=\"height:687px; width:580px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 353,
+        "left": 4.75,
+        "path": "articles/1590959169GettyImages-1219916726 (1).jpg",
+        "top": 61.8359375,
+        "totalHeight": 423,
+        "totalWidth": 636,
+        "watermark_path": "articles/watermark-1590959169GettyImages-1219916726 (1).jpg",
+        "width": 626
+    },
+    "post_date": "2020-05-31T21:23:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/ennaharonline/status/798597222866751488",
+            "name": "النهار",
+            "path": "published/0_1590959169_النهار.jpg"
+        },
+        {
+            "link": "https://twitter.com/SabqpressAlg/status/798617230581923840",
+            "name": "سبق برس",
+            "path": "published/1_1590959169_سبق.jpg"
+        },
+        {
+            "link": "https://twitter.com/ennaharonline/status/798643003090960384",
+            "name": "مهدي الفضلي",
+            "path": "published/2_1590959169_مهدي الفضلي.jpg"
+        },
+        {
+            "link": "https://twitter.com/aboo_khled1/status/932568717216624640",
+            "name": "ابوخالدالشمري",
+            "path": "published/3_1590959169_ابوخالد.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/alhadathmss/posts/1547572615310293",
+            "name": "القنطيرة الحدث",
+            "path": "published/4_1590959169_القنيطرة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=156877801698484&id=143862852999979",
+            "name": "معكرونة ليبيا",
+            "path": "published/5_1590959169_معكرونة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/takyahrg3/photos/p.1329755200539410/1329755200539410/?type=1&theater",
+            "name": "تك يحرق كل شيء",
+            "path": "published/6_1590959169_تك يخرق.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/455102807865796/posts/2648780465164675/?d=nhttps%3A%2F%2Fwww.facebook.com%2F455102807865796%2Fposts%2F2648780465164675%2F%3Fd%3Dn",
+            "name": "بوابة ولاية معسكر",
+            "path": "published/7_1590959169_بوابة ولاية.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "http://jamaicahospital.org/newsletter/how-long-can-viruses-live-outside-the-body/",
+            "name": "health-beat",
+            "path": "sources/0_1590959169_صصصصص.JPG"
+        },
+        {
+            "link": "https://www.nytimes.com/2020/04/17/well/live/coronavirus-contagion-spead-clothes-shoes-hair-newspaper-packages-mail-infectious.html?campaign_id=9&emc=edit_NN_p_20200420&instance_id=17786&nl=morning-briefing&regi_id=95275081&section=topNews&segment_id=25550&te=1&user_id=1cce7baa9a97b1605e75a5e5d9b6d596",
+            "name": "nytimes",
+            "path": "sources/1_1590959169_التقاط.JPG"
+        },
+        {
+            "link": "https://www.drugs.com/paracetamol.html",
+            "name": "drugs",
+            "path": "sources/2_1590959169_دراج.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "دواء الباراسيتامول لا يوجد به فايروس قاتل",
+    "updated_at": "2020-09-25 19:54:38",
+    "url_path": "/factcheck/2020/06/01/دواء-الباراسيتامول-لا-يوجد-به-فايروس-قاتل"
+}

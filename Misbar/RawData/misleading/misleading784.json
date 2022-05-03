@@ -1,0 +1,119 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2437,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "تعود الصورة لاجتماع القادة الأوروبيين في بروكسل يوم 20 يوليو/تموز الفائت (تويتر)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\">صورة للرئيس الفرنسي إيمانويل ماكرون خلال زيارته إلى لبنان.</p>\r\n",
+    "country": "FR",
+    "created_at": "2020-08-10 19:41:57",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f3178d51dd585093f55a295",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">تحقق &quot;مسبار&quot; من الصورة المتداولة وتبين أنها مضللة، إذ يعود تاريخ نشرها إلى 20 يوليو/ تموز من العام الجاري، في اجتماع </span>&nbsp;قادة دول الاتّحاد الأوروبي الـ27 في بروكسل، حول الميزانية وخطة النهوض الاقتصادي لمرحلة ما بعد فايروس كورونا المستجدّ (كوفيد-19).</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"color:black\"><img alt=\"000.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_x39ih9k1u.jpg\" style=\"height:415px; width:528px\" /></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">والتقطت الصورة لماكرون أثناء مغادرته للمجلس الأوروبي صباحاً، بعد محادثات ليلية &quot;ماراثونية&quot; له مع باقي القادة الأوروبيين وانزعاجه من الدول المتحفظة تجاه خطة الإنعاش وعدم الاتفاق حولها، ما دفعه إلى ضرب الطاولة بيديه.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:#1c1e21\"><img alt=\"1.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_8onbpnze0.jpg\" style=\"height:434px; width:605px\" /></span></span></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول حسابات على موقعي فيسبوك وتويتر، صورة للرئيس الفرنسي إيمانويل ماكرون، تدّعي أنها التقطت له خلال زيارته إلى لبنان بعد انفجار مرفأ بيروت. وأرفقت الصورة بتعليق &quot;<span style=\"background-color:white\">هذه اللقطة التي تكشف ملامح عن حقيقة فرنسا&quot;.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:#1c1e21\"><img alt=\"00.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_f72apz7xa.jpg\" style=\"height:542px; width:479px\" /></span></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:#1c1e21\"><img alt=\"2.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_pkak9c8kq.jpg\" style=\"height:503px; width:478px\" /></span></span></span><br />\r\n<span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:#1c1e21\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_k626kk7ly.jpg\" style=\"height:546px; width:542px\" /></span></span></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 333,
+        "left": 9.10528564453125,
+        "path": "articles/1597077716117199109_199715344824466_4943677866268218241_n.jpg",
+        "top": 45.746826171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-1597077716117199109_199715344824466_4943677866268218241_n.jpg",
+        "width": 592
+    },
+    "post_date": "2020-08-11T05:27:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/Bachir__8/status/1291686198973476865",
+            "name": "بشيــــــــــــــــر",
+            "path": "published/0_1597077716_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=199715368157797&id=104118784384123",
+            "name": "Karim dz",
+            "path": "published/1_1597077716_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "link": "https://twitter.com/zHHpugEpTRIk2Di/status/1292076513618206722",
+            "name": "عبد الناصر",
+            "path": "published/2_1597077716_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "link": "https://twitter.com/TARIK___AMRANI/status/1292077353292697602",
+            "name": "⁩طارق⁦ ",
+            "path": "published/3_1597077716_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "link": "https://twitter.com/AllahGodLord/status/1292216279978344452",
+            "name": "The_Truth ﷲ ﷻ",
+            "path": "published/4_1597077716_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "link": "https://twitter.com/naynadeemnaysh/status/1292601670711545858",
+            "name": "عجوز سبعينية",
+            "path": "published/5_1597077716_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "link": "https://twitter.com/salim84970566/status/1291790518293233664",
+            "name": "salim",
+            "path": "published/6_1597077716_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "link": "https://twitter.com/gUrd0bkRniTSMt2/status/1291695073491660801",
+            "name": "شرفي احمد الشاوي حساب جديد",
+            "path": "published/7_1597077716_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "link": "https://twitter.com/NsoumerD/status/1292106980367138823",
+            "name": "Nsoumer Dz",
+            "path": "published/8_1597077716_101195326_747056042707733_6451845424750788608_o.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.parismatch.com/Actu/International/A-Bruxelles-l-interminable-sommet-1694988",
+            "name": "parismatch",
+            "path": "sources/0_1597077716_téléchargement.jpg"
+        },
+        {
+            "link": "https://www.rts.ch/info/monde/11479529-macron-sort-de-ses-gonds-face-au-blocage-du-plan-de-relance-de-lue.html",
+            "name": "rts.ch",
+            "path": "sources/1_1597077716_unnamed.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صورة الرئيس الفرنسي إيمانويل ماكرون ليست في لبنان",
+    "updated_at": "2020-09-25 20:29:59",
+    "url_path": "/factcheck/2020/08/10/صورة-الرئيس-الفرنسي-إيمانويل-ماكرون-ليست-في-لبنان"
+}

@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1207,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "المقطع قديم ومنشور على يوتيوب منذ عام 2013 (يوتيوب)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">فيديو يصوّر إحدى حوامات الجيش المصري وهي تفضّ تجمّع الناس على أحد الشواطئ للحد من انتشار كورونا.</p>\r\n",
+    "country": "EG",
+    "created_at": "2020-04-21 11:30:52",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e9eaf3cdb29162fd122bf33",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الفيديو، وتأكّد من زيف الادعاء، فالمقطع قديم ومنشور على &quot;يوتيوب&quot; منذ يوليو/تموز&nbsp;2013. وأفاد التعليق المرافق للمقطع الأصلي أنّه التُقط على شواطئ الإسكندرية ويصوّر تحية طيّار الحوامة للناس على الشاطئ بطريقة خاصة.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/qecU1B4jjSA\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت صفحات وحسابات مصرية على موقع التواصل الاجتماعي فيسبوك، مقطع فيديو قالت إنّه يصوّر استخدام الجيش المصري للحوامات لتفريق الناس المتجمعين على الشواطئ، وذلك في إطار تطبيق الإجراءات التي فرضتها الحكومة المصرية للحد من تفشي فايروس كورونا (كوفيد-19). ورافق الفيديو المتداول عبارة ساخرة تقول &quot;المرة دي بالهوليكبتر.. المرة الجاية بالصواريخ&quot;.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"305\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FGalleryalsa3da%2Fvideos%2F259274875474523%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"313\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F1960791864246351%2Fvideos%2F644893419683419%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"308\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fahmed.s.saad.9%2Fvideos%2F10223113086998468%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 421,
+        "left": 39.04443359375,
+        "path": "articles/1587457852Untitled.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 838,
+        "watermark_path": "articles/watermark-1587457852Untitled.jpg",
+        "width": 748
+    },
+    "post_date": "2020-04-21T11:23:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/1960791864246351/videos/644893419683419/",
+            "name": "سائقين مصر",
+            "path": "published/0_1587457851_سائقين مصر.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Galleryalsa3da/videos/259274875474523/",
+            "name": "الصفحة الرسمية لجاليري السعادة دمياط",
+            "path": "published/1_1587457851_الصفحة الرسمية لجاليري السعادة دمياط.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/Future9LanguageSchool/permalink/1266596683546281/",
+            "name": "إجلال حسني",
+            "path": "published/2_1587457851_Facebook_logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/235566776783307/permalink/1189271038079538/",
+            "name": "أحمد المغربي المغربي",
+            "path": "published/3_1587457851_أحمد المغربي المغربي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ahmed.s.saad.9/videos/10223113086998468/",
+            "name": "Ahmed Sobhy",
+            "path": "published/4_1587457851_Ahmef Sobhy.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/692425497522829/permalink/2759523060813052/",
+            "name": "Ahmed Khairy",
+            "path": "published/5_1587457851_Facebook_logo.jpg"
+        },
+        {
+            "link": "",
+            "name": "",
+            "path": ""
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=qecU1B4jjSA&feature=emb_logo",
+            "name": "المقطع الأصلي",
+            "path": "sources/0_1587457852_YouTube-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "كورونا مصر: الجيش يُفرّق الناس على الشواطئ بالحوامات.. حقيقة الفيديو",
+    "updated_at": "2020-09-25 11:49:56",
+    "url_path": "/factcheck/2020/04/21/كورونا-مصر-الجيش-يفرق-الناس-على-الشواطئ-بالحوامات-حقيقة-الفيديو"
+}

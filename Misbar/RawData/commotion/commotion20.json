@@ -1,0 +1,102 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 165,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "قرر الترشح لكنه اكتشف أنه تأخر في اتخاذ الخطوة (صدى البلد)",
+    "category": "Arts & Culture",
+    "claim": "<p>المطرب إيهاب توفيق يترشح إلى مجلس النواب المصري.</p>\r\n",
+    "country": "",
+    "created_at": "2020-10-01 00:42:26",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 0,
+    "id": "5f74fbc276818b309754dfff",
+    "investigation": "<p style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:black\"><span dir=\"RTL\">تحقّق &quot;مسبار&quot; من الخبر، ليجد أنّه مكتوبٌ بأسلوبٍ يهدف إلى الإثارة، عبر تغييب المعلومة، فقد أكّد المطرب إيهاب توفيق على صفحته الرسميّة في &quot;فيسبوك&quot;، بتاريخ&nbsp;27 سبتمبر/أيلول الجاري، أنّه بالفعل أراد الترشّح إلى مجلس<span dir=\"RTL\" lang=\"AR-JO\"> </span>النواب، لكن تأخّره في القرار واتخاذ تلك الخطوة، مثَّل عائقاً لاستكمال الأوراق اللازمة، فقد كان يوم 26 سبتمبر/أيلول الجاري آخر يوم للتقديم. متابعاً &quot; </span><span dir=\"RTL\">نظراً لضيق الوقت وعدم استكمال المستندات اللازمة، فلم يتم الترشّح&quot;</span></span></span></p>\r\n\r\n<p style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:black\"><span dir=\"RTL\">ونبّه بالقول حول الصورة التي انتشرت له خلال تقديم الأوراق &quot; الشخص الذي قام بتصويرها ما هو إلّا شخصٌ حراميّ وسارق لأنّه تسبّب في نشر خبرٍ لم يكن صحيحاً على أكمل وجه و دون موافقتي مع العلم أنّي طلبت منه عدم تصويري أكثر من مرة&quot;.&nbsp;</span>&nbsp;</span></span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_bz7n1lgq9.jpg\" style=\"height:421px; width:602px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:black\">قالت مواقع إعلاميّة وحسابات على مواقع التواصل الاجتماعيّ، خلال الأيام القليلة الفائتة إنّ المطرب إيهاب توفيق يخوض للمرة الأولى تجربة الترشح للانتخابات البرلمانيّة، وذلك عن دائرة الجمالية، حيث تقدم بأوراقه إلى الهيئة الوطنيّة للانتخابات في مصر.</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"background-color:white\"><span dir=\"LTR\" lang=\"EN-US\" style=\"color:black\"><img src=\"https://images-prod.misbar.com/articlebody/origin_5lmmcm1pa.jpg\" style=\"height:474px; width:602px\" /></span>&nbsp;<span dir=\"LTR\" lang=\"EN-US\" style=\"color:black\"><img src=\"https://images-prod.misbar.com/articlebody/origin_32kghv85i.jpg\" style=\"height:483px; width:602px\" /></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"background-color:white\"><span dir=\"LTR\" lang=\"EN-US\" style=\"color:black\"><img src=\"https://images-prod.misbar.com/articlebody/origin_bhsapy269.jpg\" style=\"height:427px; width:602px\" /></span></span></p>\r\n\r\n<p style=\"text-align:right\">&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 338,
+        "left": 19.39996337890625,
+        "path": "articles/1601502146444666.JPG",
+        "top": 2.300048828125,
+        "totalHeight": 423,
+        "totalWidth": 762,
+        "watermark_path": "articles/watermark-1601502146444666.JPG",
+        "width": 602
+    },
+    "post_date": "2020-09-30T22:45:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.alayam.com/alayam/last-page/873695/News.html?fbclid=IwAR0f6v97FDKX6CpEHZggxMJ5R7FNUXXZIVidBxyGSFafsQuwdPUutomJNrI",
+            "name": "الأيام",
+            "path": "published/0_1601502146_logo.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.elwatannews.com/news/details/4989173?fbclid=IwAR2U2xbphwjkqswdfrKV7BNc3LUkRdGRJAY3RsW6c_FGCzTnT09r16l_F0Q",
+            "name": "الوطن",
+            "path": "published/1_1601502146_elwatan.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.elbalad.news/4508975?fbclid=IwAR13I0Ug2izxLvNLoBBW83uSC-Ll6Qs4cPgD1RVodxM9t2nC1jnTmxI-Alc",
+            "name": "صدى البلد",
+            "path": "published/2_1601502146_rrrr.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/photo/?fbid=3357523021006628&set=basw.AbpTFSTTPJG4-bQH_HYx9P7DlZSklk_WP1ve2E19o2CE8TCkignlK5v1zJki6v_TcFw6YV8WO75ONGOXuUdVhMc-wA0YrPaYhIFZtSWXSlywkk7xM-ePu8jUSSk4B59bm8j778p4rus9du19dJC0k1JY2XY8jxvCksSnIgsmlkfKCT1bKThCGYbBRa8ykGgB2MVqz0YFVhA643yyZZmEGljA7EZiZ2rmQB3_XQcopfSMpG0xSHeN46Ri1tk69MyuFIJEV7CM8VZEldJq-QARn0Na7jLL1Lled8F6x_U4EQvkIPt7zLpXhHsmfDCwgBka-IE&opaqueCursor=AbpW-XyFx-funZ-JmXxTWHPFaYR9c9YSmzynHmrsZsgo9Z1unsR0TlVxCfgQSYU6k-RPe0S2IGIx-sracTlVPT9rUmmmj8TuC9zqnlynAd7tUR1P-Yne80gIuoFLpGr-8mx5WpFpJTE_arOk6E5l8MBh9mzd2m2W3WcoWGRGmMUUlvZfTvITi-qJv6fvmHnLYYC_OJOiwusZBIZ8lCZICf0fM88m8B4ON7lxOaYuVa0S5kJRfiEEkN2H9qSx9U2xGXpR_iYEoUoUkrtgmy0vumwl5O-N5nHNGR2w10fId21hqmahNxOk_sN6Eu-MoJkNbXMmtQGMv2zf7vL3pJ6P7Z4IVWemEx6FQoODMxe7Htraa7sYmirIrKyi6mXB2wUfXnTiMyJOwkiAo7eXYuJ0GzqHW3YSKCzPMoGLSsgnnjPU_RgvInMpTi-qkTm-Tk3xwHxN2Yn1mFskC7iCpzXGXgGJ3a_eyA3eGZhaleCqw7Nx40HFla-a2N3cAMNOJOQZKUzkYoWmnD-o3cQardAK1XbeBTbKcW198XxGfraqAkBCZG0BwLg6CNJRwDuFv4t66bnEuOcXBnPYYkpPwQ-SwEhb_NRafV6L5v_E6rpkXNivwaqKfEhZ5KQ-i9fAF8JBVGxcnTv_FcuadABc1LBQbr9s3YSp_ny7kxxQIAiZdUHTzOt_eK6siO2Bl6HuLbT82WZj64gc6yR6mMBpFLQWeDQHAqU3lT38U0N5FLM4cE6L14PQFftS4gyurHqf_jqLWZOydJRJ_Whherjk--p2XFctAL9CwfTJ6J8viR8Ccm1ixd5rE1eCNLZUe94md3MIwOMJK_Vy25TFmzBgrcoxE7FO0M1l3kSiJmMHRuC-CqwD1WUfVVXFdtU7NDiOKEcVGE2NlD8P_82Jb23naqlUrfR5zvvZPJTqUk3mValCT04UVbOka77xQADh_mC1IPwL6Qc83NQPk8ohon7d6V2DSYO5",
+            "name": "Ahmed Bayomi",
+            "path": "published/3_1601502146_قققف.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/photo/?fbid=10220068718882706&set=basw.Abq9XzA7Vgsi5aHMsFXBomPzSbqunGdMLB49oxKvYJFxyt8qiEbSjd1grXAzg8GW01qcofTIEUmQSLdDhdzO4mrvfyFzk_sHLamRyjTXUf166JJler-baYbco1zrqYWMHzKboZm1sMCn5xArNHKFt_5pXclvjePtYoDExTluDo5jXBM-_0wml3BIamwGEn49IHvcjCxZ-9uf_J0wKDC7xWUyKMML0DTo3VTHtRxWrnt86nO0CvfDMnE_s8_gkYQM7geRNUZ3sYWt1_l0LOZjUdSu3_uCXwrg7r4LDouLcZbkXfjiCgIlLWtvX4o7qltBOl4&opaqueCursor=AbojY5WnRS4GhkwFAZaVj2XGli7jujzJbhYbtXy-9EGtFFvOSIxDRJ44T22qAuhqKJDVfxD_uw2_cwRhHosrI0auCGjdCJIiai4dQ-8bHk7EATADJGuWtC06QxeL9Ot0fFty2SUw1xKopUDi4-nkHssaoozwCOqZJnpOcSxSMNKC6DnTmnB6o4RBj3u2tkbarD9F2wRN8Bgzk5g3tiTzdMPgSxpADXG4zNG13k6s84_FADya9851QngXCV6aXAz7OQxr11BjjnelHBmdf9KjKkAkIjQjtjHclmwvI-cCpurWgrQMIz1PH3_8aQ5dqEXQvp8V1Sw3d-edu1_iOR8o6BeV_qg-vYATmdoZAGFRGYFe5qwtHWrzSypWXPLY1Pqehj-Iw8mnzuVAhjxwgoFT3JSvtxRbCf6JKPlVPtWqaLIEVZhkJyH0eVRTIT4fHLO8gzbYRkh1h2Vb-pNckGOv07TyQxdM-Pq4NlcmwTG6-EnsPV2q7_UOatBhhP1iV5gUy2cTgXoLvdvXsLUidhdXCpvAHrNQjt_JIvWs2HgrcnHYbxETjx6OPMAv6B9n2sRHuu7vComfGomrdyLVHcZKNArLzBerFSXn2osmmv-vzt1UXZ98Xa8FJoqKIOkcql63rAJJpjZtk8x2vmTtgtQkHFdAMNenO_bLHEe-LirmIXO4IGi5EFKrLrpeu_xgn94xXy1-teefzsF7465l3g5PV-5eqNtUpi98-4yijUP2yFwJz0mzR6ePrUfWcFbR_eLrOcvIWM0CNgDRcde90ib2UWcgw5nkJTCnjFQKhTn_4D7tPS6krXN0Ov94gOvNFI_IUltEnUkJ0tA1MVUdztGbfJVhGOoNWPj5l9I7Cxv5IWfbVlHuothzqhWm_fAPhFv8Mnhol3WvtEAEurBJOGmS9G4p-6PEbFhkpf9t0GrgMXSNVL8ffJz_VWSB1ixTAkAlZh0bGJSlrIt_aYcpjhHP-kHaTHet1Se-AxtiQczi4z9K5WNtIHOpdWZZQ7b2jseeTWQ",
+            "name": "Ahmed AlTohamy",
+            "path": "published/4_1601502146_قققف.JPG"
+        }
+    ],
+    "result": "commotion",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/EhabTawfikSinger/posts/2628009724126825?fbclid=IwAR2AtL_nn_J7trhOPiIbqn6Px9itvhVrDxqpd5O0nAGejSImJFHvDIhHgOQ",
+            "name": "Ehab Tawfik",
+            "path": "sources/0_1601502146_49898218_2159626560965146_4862408002801500160_n.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "المطرب إيهاب توفيق لم يترشح إلى مجلس النواب المصريّ بل حاول فقط",
+    "updated_at": "2020-10-01 00:50:04",
+    "url_path": "/factcheck/2020/10/01/المطرب-إيهاب-توفيق-لم-يترشح-إلى-مجلس-النواب-المصري-بل-حاول-فقط",
+    "was_notification_pushed": true
+}

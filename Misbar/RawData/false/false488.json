@@ -1,0 +1,118 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 6741,
+    "author": {
+        "fullname": "صباح الخطيب",
+        "id": "5edc1b38db291674e776e9a3",
+        "photo": {
+            "path": "authors/1591643228_7.jpg"
+        }
+    },
+    "caption": "لم يصرح رئيس الأركان الجزائري بذلك (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">رئيس أركان الجيش الجزائري: &quot;إذا دخلت مصر في حرب مع تركيا سنكون مع مصر ولن نقف موقف المتفرج&quot;</span></p>\r\n",
+    "country": "DZ",
+    "created_at": "2020-07-15 17:37:29",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f0f14a9163be306b72a8335",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من التصريح واتضح أنه زائف، إذ لم يدل&nbsp;رئيس أركان الجيش الجزائري سعيد شنقريحة، بأي تصريح مشابه في آخر </span><a href=\"http://www.aps.dz/ar/recherche?searchword=اللواء%20شنقريحة&amp;searchphrase=all\" style=\"color:#0563c1; text-decoration:underline\">بيان</a>&nbsp;<span dir=\"RTL\" lang=\"AR-SA\">صدر له بتاريخ 13يوليو/تموز الجاري، خلال مراسم حفل التنصيب الرسمي للواء عمر تلمساني، قائداً للناحية العسكرية الرابعة في مدينة ورقلة.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">وتزامناً مع الأزمة الليبية، شدّدت </span><span style=\"color:#0563c1\"><u><span dir=\"RTL\" lang=\"EN-US\"><a href=\"https://www.aa.com.tr/ar/الدول-العربية/الجزائر-وروسيا-تشددان-على-ضرورة-حل-أزمة-ليبيا-سياسياً/1909153\" style=\"color:#0563c1; text-decoration:underline\">الجزائر</a></span></u></span><span dir=\"RTL\" lang=\"AR-SA\"> على ضرورة الحل السياسي، عبر تكثيف التشاور لضمان وحدة التراب الليبي والسيادة الوطنية. وجاء ذلك في اتصال هاتفي للرئيس الجزائري عبدالمجيد تبون، مع نظيره الروسي فلاديمير بوتين، نقلا عن رئاسة الجمهورية الجزائرية.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"774\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fhass.mdn%2Fposts%2F1369244943269938&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"496\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FAlgerianPresidency%2Fposts%2F163729138543313&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات وصفحات على مواقع التواصل الاجتماعي، اليوم 15يوليو/تموز، تصريحا</span><span dir=\"RTL\" lang=\"AR-MA\">ً </span><span dir=\"RTL\" lang=\"AR-SA\">منسوباً لرئيس أركان الجيش الجزائري، <span style=\"background-color:white\"><span style=\"color:#212529\">سعيد شنقريحة، يقول فيه &quot;</span></span>إذا دخلت مصر في حرب مع تركيا سنكون مع مصر ولن نقف في موقف المتفرج&quot;.</span></p>\r\n\r\n<p style=\"text-align:center\"><img id=\"صورة_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/origin_3fexynu53.jpg\" style=\"height:403.5pt; width:381pt\" /></p>\r\n\r\n<p style=\"text-align:center\"><img id=\"Picture_x0020_2\" src=\"https://images-prod.misbar.com/articlebody/origin_qxjf4zixu.jpg\" style=\"height:459.75pt; width:411pt\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 331,
+        "left": 8.10528564453125,
+        "path": "articles/1594823848106579893_1221644271504768_2053147306004506915_n.jpg",
+        "top": 6.746826171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-1594823848106579893_1221644271504768_2053147306004506915_n.jpg",
+        "width": 588
+    },
+    "post_date": "2020-07-15T15:10:00.000+03:00",
+    "published": [
+        {
+            "link": "\thttps://twitter.com/1xoOCAUDZCG9Rii/status/1283159309778591744",
+            "name": "ابو تركي",
+            "path": "published/0_1594823847_brfGJsl8_400x400.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/236617250908001/?post_id=289969638906095",
+            "name": "Hassan Hassanein",
+            "path": "published/1_1594823847_53287843_605667123190648_614554810116472832_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/236617250908001/?post_id=290069938896065",
+            "name": "عبدالرحمن محسب",
+            "path": "published/2_1594823848_106908657_279671486591375_3169743959294722173_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=757638411654868&id=461362997949079",
+            "name": "غنوة وطن",
+            "path": "published/3_1594823848_94618562_703074447111265_2135082952135016448_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=719377398633217&id=100016828895219",
+            "name": "احمد محمد علي",
+            "path": "published/4_1594823848_71339999_521918781712414_4719144266222272512_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Daraalwatanlibya/posts/138109481265181",
+            "name": "درع الوطن",
+            "path": "published/5_1594823848_100798574_101958931546903_2456652926022582272_n.jpg"
+        },
+        {
+            "link": "https://twitter.com/w1mULLkJSOJN5Hr/status/1283167946056105986",
+            "name": "عمرو♣️",
+            "path": "published/6_1594823848_xRu79bSh_400x400.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/122872019103085/photos/a.122885375768416/331834374873514/?type=3&theater",
+            "name": "القوة الغاشمة",
+            "path": "published/7_1594823848_99010946_285410702849215_2120000375611195392_n.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "http://www.aps.dz/ar/algerie/89554-2020-07-13-16-16-27",
+            "name": "وكالة الأنباء الجزائرية",
+            "path": "sources/0_1594823848_aps 1.JPG"
+        },
+        {
+            "link": "https://www.facebook.com/AlgerianPresidency/photos/a.117086803207547/163722328543994/?type=3&__xts__%5B0%5D=68.ARDou51FttNPKhIMmxGwpNoufu7wNIV8ovEN6J69traMIqMkN7BYmHA8AEXN2JPtmS-ud4jWYdYKtl0zNJQX_j13BsitG7f0Ux2A8sjrycSEoTPlvH9oM2v6H5YVehVQZVdGaYCu-Y7byVTOCm6HmHgKMIFHJztmgPE37fOeV9Kvfrat8SLpe5pvdHPZjVtGekX1L_mzVGuVPRouAxXcG0Lao9xVuMoLKFkKvIB9nxk-PfG5Q-eHWbf1I1ElAFqowO-Sbl3k-jWQRrdTWhQxWETo2lEoE51fcRYDiuY89RL5u9UuSl_cYhV2jwUEkvwku0uNp7S7SVIwTE_p3gWk4Jk&__tn__=-R",
+            "name": "رئاسة الجمهورية الجزائرية",
+            "path": "sources/1_1594823848_89775163_122561042660123_7688229663021203456_n.jpg"
+        },
+        {
+            "link": "https://www.aa.com.tr/ar/الدول-العربية/الجزائر-وروسيا-تشددان-على-ضرورة-حل-أزمة-ليبيا-سياسياً/1909153",
+            "name": "وكالة الأناضول",
+            "path": "sources/2_1594823848_unnamed.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "تصريح زائف لرئيس أركان الجيش الجزائري عن الحرب في ليبيا",
+    "updated_at": "2020-09-25 21:25:01",
+    "url_path": "/factcheck/2020/07/15/تصريح-زائف-لرئيس-أركان-الجيش-الجزائري-عن-الحرب-في-ليبيا"
+}

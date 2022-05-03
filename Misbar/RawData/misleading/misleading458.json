@@ -1,0 +1,143 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 248,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "توفيت بداية هذا العام (Getty)",
+    "category": "Health",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">&rlm;توفيت اليوم أكبر جراحة في العالم، الدكتورة آلا ليفوشكينا، عن عمر ناهز 92 عاماً.</p>\r\n",
+    "country": "RU",
+    "created_at": "2020-10-23 17:54:05",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 1,
+    "id": "5f92ee8dade87071ea785725",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;</span><a href=\"https://misbar.com/\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>مسبار</u></span></a><span style=\"color:#000000\">&quot; من الادعاء المتداول ووجد أنه مضلل، لأن صاحبة الصورة الطبيبة آلا ليفوشكينا </span><a href=\"https://www.tellerreport.com/news/2020-01-24---the-oldest-surgeon-of-russia-alla-levushkina-died-.SJ4gMkHd-8.html\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>توفيت</u></span></a><span style=\"color:#000000\"> بداية هذا العام، بتاريخ 23 يناير/كانون الثاني وليس حديثاً.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">استمرت الطبيبة الروسية بالعمل حتى وفاتها بداية هذا العام عن عمر ناهز 92 عاماً.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_l59bmrg4v.jpg\" style=\"height:514px; width:530px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">اقرأ/ي أيضاً:</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/08/01/%D8%AA%D8%B5%D8%B1%D9%8A%D8%AD-%D9%85%D9%81%D8%A8%D8%B1%D9%83-%D9%84%D9%88%D8%B2%D9%8A%D8%B1-%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A-%D8%AD%D9%88%D9%84-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7\" target=\"_blank\">تصريح مفبرك لوزير الصحة الروسي</a></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/08/24/%D9%87%D8%B0%D9%87-%D9%84%D9%8A%D8%B3%D8%AA-%D8%B5%D9%88%D8%B1%D8%A9-%D8%A3%D9%86%D8%AB%D9%89-%D8%A7%D9%84%D8%AB%D8%B9%D9%84%D8%A8-%D8%A7%D9%84%D8%B1%D9%88%D8%B3%D9%8A\" target=\"_blank\">هذه ليست صورة أنثى الثعلب الروسي</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تتناقل صفحات وحسابات على مواقع التواصل الاجتماعي، اليوم 23 أكتوبر/تشرين الأول، خبراً مفاده وفاة الطبيبة المعمّرة آلا ليفوشكينا عن عمر ناهز 92 عاماً.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_vekx8nl11.jpg\" style=\"height:681px; width:534px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_srsfhzvzx.jpg\" style=\"height:634px; width:535px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 354,
+        "left": 2.566650390625,
+        "path": "articles/1603464844GettyImages-633259060.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 635,
+        "watermark_path": "articles/watermark-1603464844GettyImages-633259060.jpg",
+        "width": 630
+    },
+    "post_date": "2020-10-23T17:49:00.000+03:00",
+    "published": [
+        {
+            "id": "5f92ef0505b6d749c4066718",
+            "link": "https://twitter.com/Albanderi_ss/status/1319575273143259137",
+            "name": "د. البندري سعود صاهود 🇰🇼",
+            "origin": "twitter",
+            "path": "sources/baef5018349405edfd6e139b46c37e6747164641.jpg"
+        },
+        {
+            "id": "5f92ef0526013018495b987b",
+            "link": "https://twitter.com/s_ja91/status/1319640617186693121",
+            "name": "s, ᴀʙʙᴀᴅɪ 🤍",
+            "origin": "twitter",
+            "path": "sources/23059e184ca47649098ab45de428f7fb87867c4d.jpg"
+        },
+        {
+            "id": "5f92ef061dd9e743a93ec7bb",
+            "link": "https://twitter.com/Saooliy/status/1319575837012877313",
+            "name": "الوفاء طبعي 🇦🇸",
+            "origin": "twitter",
+            "path": "sources/7a0e88610ca8082609e3319ef348c756fcf8a86e.jpg"
+        },
+        {
+            "id": "5f92ef062dd06d2e6c208bf3",
+            "link": "https://twitter.com/yahya9_5/status/1319588612896362496",
+            "name": "يحيى الهاشمي 🇴🇲",
+            "origin": "twitter",
+            "path": "sources/4e3051378079edfbeb67b1cb40f5a378a653978f.jpg"
+        },
+        {
+            "id": "5f92ef06ade87071ea785726",
+            "link": "https://twitter.com/munira_dr/status/1319614192861794305",
+            "name": "Dr.munira الدكتوره",
+            "origin": "twitter",
+            "path": "sources/4c500397eeb3900cd0f6a627793ed1cd239437c2.jpg"
+        },
+        {
+            "id": "5f92f0091aeff460263c7075",
+            "link": "https://twitter.com/Saeid26528583/status/1319613836744445959",
+            "name": "Saeid",
+            "origin": "twitter",
+            "path": "sources/66edad21e88f307ac8da7515656fbfa9b70dc3f7.jpg"
+        },
+        {
+            "id": "5f92f009fdbe851b4810061a",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=198552658490270&id=104254887920048",
+            "name": "Hollanda dz",
+            "origin": "facebook",
+            "path": "sources/af6f8f22c296a2f707be1985c48b9d0009cfa471.jpg"
+        },
+        {
+            "id": "5f92f009986b866c066e7442",
+            "link": "https://www.facebook.com/adm.kreid/posts/3711892038855541",
+            "name": "علي عمار كريد",
+            "origin": "",
+            "path": "sources/75728502b0284d6d52e667545dd9d57ecfb7f045.jpg"
+        },
+        {
+            "id": "5f92ef06ade87071ea785726",
+            "link": "https://twitter.com/munira_dr/status/1319614192861794305",
+            "name": "Dr.munira الدكتوره",
+            "origin": "twitter",
+            "path": "sources/4c500397eeb3900cd0f6a627793ed1cd239437c2.jpg"
+        },
+        {
+            "id": "5f92f00994c5e92e534cf181",
+            "link": "https://twitter.com/langhuxxx/status/1319636009148125186",
+            "name": "غصون",
+            "origin": "twitter",
+            "path": "sources/2dc4f45b88ebf89da26d5d37bec4d09946d674b0.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f92ee8c26013018495b987a",
+            "link": "https://www.tellerreport.com/news/2020-01-24---the-oldest-surgeon-of-russia-alla-levushkina-died-.SJ4gMkHd-8.html",
+            "name": "www.tellerreport.com",
+            "origin": "",
+            "path": "sources/332b5ca23cbc169fbc6d2503605d1336d656ea51.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "توفيت الطبيبة آلا ليفوشكينا بداية العام وليس اليوم",
+    "updated_at": "2020-10-23 18:03:27",
+    "url_path": "/factcheck/2020/10/23/توفيت-الطبيبة-آلا-ليفوشكينا-بداية-العام-وليس-اليوم",
+    "was_notification_pushed": "true"
+}

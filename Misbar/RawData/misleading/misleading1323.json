@@ -1,0 +1,95 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2480,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "لم ترسل الحكومة الألمانية هذا الفيديو القديم لرعاياها (مواقع التواصل الاجتماعي)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\">مقطع فيديو أرسلته الحكومة الألمانية إلى مواطنيها، عن كيفية انتشار فايروس كورونا سريعاً.</p>\r\n",
+    "country": "DE",
+    "created_at": "2020-03-14 14:10:06",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e6cbb8ed4a229469e1acd43",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الادعاء ووجد أنه مضلل. مقطع الفيديو قديم نُشر عام 2010 من قبل مؤسسة مستشفيات بيرمينغهام الجامعية عبر منصّاتها الالكترونية، قبل انتشار فايروس كورونا المستجد (كوفيد-19)، تحت عنوان &quot;كيفية السيطرة على العدوى&quot;. ويُظهر الفيديو، وفق وصف الجامعة، سهولة انتشار العدوى المكتسبة من المستشفيات مثل أمراض <span dir=\"LTR\">MRSA</span> و<span dir=\"LTR\">Clostridium difficile</span>، ولكنّ هذا لا يتعارض مع كيفية انتقال فايروس كورونا المستجد. وتواصل &quot;مسبار&quot; مع بعض المقيمين في ألمانيا الذين أكّدوا بدورهم عدم تلقّيهم هذا الفيديو من قبل أي جهة حكومية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img id=\"صورة_x0020_8\" src=\"https://images-prod.misbar.com/articlebody/investigation_s4r8gwalb.jpg\" style=\"height:697.2pt; width:402pt\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "فايروس كورونا",
+        "ألمانيا",
+        "المملكة المتحدة",
+        "صحة"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت صفحات على مواقع التواصل الاجتماعي، منذ 6 مارس/آذار من العام الجاري، مقطع فيديو ادّعت أنّ الحكومة الألمانية أرسلته لرعاياها. ويهدف المقطع للتعريف بكيفية انتقال فايروس كورونا المستجد (كوفيد-19) سريعاً. حظي مقطع الفيديو بمئات الآلاف من المشاركات على مواقع التواصل الاجتماعي.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img id=\"صورة_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/origin_hn3j7of9y.jpg\" style=\"height:459pt; width:373.2pt\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img id=\"Picture_x0020_2\" src=\"https://images-prod.misbar.com/articlebody/origin_gvfce8bed.jpg\" style=\"height:373.2pt; width:370.8pt\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img id=\"Picture_x0020_3\" src=\"https://images-prod.misbar.com/articlebody/origin_ltgj78xk4.jpg\" style=\"height:390pt; width:368.4pt\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 321,
+        "left": 2.63330078125,
+        "path": "articles/1584184206غلاف.jpg",
+        "top": 19.983154296875,
+        "totalHeight": 423,
+        "totalWidth": 576,
+        "width": 571
+    },
+    "post_date": "2020-03-14T13:02:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/IMTBank/videos/621836445267052/?v=621836445267052",
+            "name": "المصرف الدولي الإسلامي",
+            "path": "published/0_1584184206_المصرف الدولي الإسلامي-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/319213621839386/videos/2949199868471004/",
+            "name": "بوابة الصعيد",
+            "path": "published/1_1584184206_بوابة الصعيد-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/1994pe/videos/2502397883353820/",
+            "name": "بنت بغداد",
+            "path": "published/2_1584184206_بنت بغداد-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watchparty/3254599417937854/?entry_source=PERMALINK&hash=ASsuqlRiRcx_pw33rclLgACA71BhweIdsGBPPqDHdeHGJg",
+            "name": "علاء سليم",
+            "path": "published/3_1584184206_علاء سليم-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/1876341082599065/permalink/2777663089133522/",
+            "name": "حسن صباح",
+            "path": "published/4_1584184206_حسن صباح-لوغو.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=_o9SxDFPUiA&feature=youtu.be",
+            "name": "University Hospitals Birmingham",
+            "path": "sources/0_1584184206_University Hospitals-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "لم ترسل الحكومة الألمانية هذا الفيديو القديم لرعاياها",
+    "title": "فيديو الحكومة الألمانية لرعاياها حول كورونا.. خبر مضلل",
+    "updated_at": "2020-09-23 12:36:57",
+    "url_path": "/factcheck/2020/03/14/فيديو-الحكومة-الألمانية-لرعاياها-حول-كورونا-خبر-مضلل"
+}

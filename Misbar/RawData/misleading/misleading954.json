@@ -1,0 +1,102 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 5570,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "كُسّرت الألواح الشمسية لعدم تقاضي العاملين عليها أجورهم (يوتيوب)",
+    "category": "Spirituality & Religion",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">مقطع فيديو لتكسير الألواح الشمسية بعد فتوى دينية بإهانتها لآلهة الشمس.</span></p>\r\n",
+    "country": "IN",
+    "created_at": "2020-07-01 16:56:31",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5efc960f163be3065c48348a",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من المقطع المتداول ووجد أنه مضلل، لأنّ </span><a href=\"https://youtu.be/6bnx21eTh2E\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>المقطع الأصلي</u></span></a><span style=\"color:#000000\"> يُظهر تدمير ألواح توليد الطاقة من الشمس في الهند من قِبل بعض العاملين عليها بسبب عدم تلقّيهم أجورهم، وفقاً لمدوّنة </span><a href=\"http://www.climatesamurai.com/videos/watch-solar-panels-at-100-mw-solar-plant-in-maharashtra-vandalized-due-to-non-payment-of-wages/\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>Climate Samurai</u></span></a><span style=\"color:#000000\"> المهتمة بالمناخ.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">نشرت المدونة المقطع بتاريخ 15 فبراير/شباط 2018، ووقعت الحادثة في ولاية مهاراشترا الهندية.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/6bnx21eTh2E\" width=\"560\"></iframe></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "الهند",
+        "ألواح شمسية",
+        "طاقة شمسية",
+        "آلهة الشمس",
+        "عالم هندوسي"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل صفحات وحسابات على مواقع التواصل الاجتماعي، منذ شهور، مقطع فيديو تدّعي أنه يُظهر مجموعة من الهنود وهم يحطّمون ألواح توليد الطاقة من الشمس بعد فتوى دينية صدرت في الهند تفيد بإهانة هذه الألواح لآلهة الشمس، وفقاً للمعتقدات الدينية هناك.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/aKCqLPgiVnQ\" width=\"560\"></iframe></span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/IpfXe7s7LKk\" width=\"560\"></iframe></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 12,
+        "path": "articles/1593611790Annotation 2020-07-01 164425.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 776,
+        "watermark_path": "articles/watermark-1593611790Annotation 2020-07-01 164425.jpg",
+        "width": 752
+    },
+    "post_date": "2020-07-01T16:48:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2454274428190323&id=100008233688498",
+            "name": "ربوع نزار",
+            "path": "published/0_1593611789_ربوع.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/1442045165920962/videos/1484614534997358/",
+            "name": "تشغيل مضخات الري الطاقة الشمسية عالم الطاقة",
+            "path": "published/1_1593611789_تشغيل.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/elmilia123dz/videos/2233187283401954/",
+            "name": "الميلية",
+            "path": "published/2_1593611790_الميلية.jpg"
+        },
+        {
+            "link": "https://youtu.be/aKCqLPgiVnQ",
+            "name": " تماسيح العرب",
+            "path": "published/3_1593611790_تماسيح.jpg"
+        },
+        {
+            "link": "https://youtu.be/IpfXe7s7LKk",
+            "name": " منوعات يمنية",
+            "path": "published/4_1593611790_منوعات.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://youtu.be/6bnx21eTh2E",
+            "name": "Climate Samurai",
+            "path": "sources/0_1593611790_climate.jpg"
+        },
+        {
+            "link": "http://www.climatesamurai.com/videos/watch-solar-panels-at-100-mw-solar-plant-in-maharashtra-vandalized-due-to-non-payment-of-wages/",
+            "name": "Climate Samurai",
+            "path": "sources/1_1593611790_climate.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لم يكسّروا هذه الألواح الشمسية في الهند بسبب فتوى دينية",
+    "updated_at": "2020-09-25 12:52:48",
+    "url_path": "/factcheck/2020/07/01/لم-يكسروا-هذه-الألواح-الشمسية-في-الهند-بسبب-فتوى-دينية"
+}

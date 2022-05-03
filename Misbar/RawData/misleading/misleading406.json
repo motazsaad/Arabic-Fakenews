@@ -1,0 +1,112 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 352,
+    "author": {
+        "fullname": "أمين العطلة",
+        "id": "5e20299dd4a22961d73b6713",
+        "photo": {
+            "path": "authors/1579676161_Ameen.jpg"
+        }
+    },
+    "caption": "تم اختيار الدول بشكل انتقائي (Our World in Data)",
+    "category": "Health",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">الأردن في المرتبة الثانية بعد بريطانيا بنسبة إصابات كورونا لكل مليون شخص.</p>\r\n",
+    "country": "JO",
+    "created_at": "2020-11-02 13:15:12",
+    "created_by": "5f4a6d1e602118062e53594f",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 3,
+    "feedback_pos": 12,
+    "id": "5f9fdc30322274345772a28b",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;<a href=\"https://misbar.com/\" style=\"color:blue; text-decoration:underline\" target=\"_blank\"><span style=\"color:#1155cc\">مسبار</span></a>&quot; من الجداول والرسوم المتداولة ووجد أنها مضللة، وبالعودة لموقع <a href=\"https://ourworldindata.org/coronavirus\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">ourworldindata</a> وجد &quot;مسبار&quot; أنّ اختيار الدول الظاهرة في الجداول تم بطريقة انتقائية ليظهر الأردن في المرتبة الثانية عالمياً، وذلك من خلال ميّزة يقدمها الموقع لمقارنة أعداد الإصابات بين دول يمكن للمستخدم اختيارها كما يرغب، ولكن عند اختيار جميع دول العالم وجد &quot;مسبار&quot; أنّ الأردن في المركز 19 عالمياً خلال الفترة من 24 إلى 30 اكتوبر/تشرين الأول 2020، وبلغ عدد الإصابات لكل مليون شخص 323.5 اصابة، فيما جاءت بريطانيا في المركز 16، بينما احتلت إمارة اندورا المركز الأول.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"EN\"><img id=\"Picture_x0020_9\" src=\"https://images-prod.misbar.com/articlebody/investigation_712nf6ge0.jpg\" style=\"height:271.5pt; width:468pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وعند تحديد الفترة بين 31 ديسمبر/كانون الأول 2019 وحتى 1 نوفمبر/تشرين الثاني 2020 يبقى الأردن في المرتبة 19 عالمياُ بعدد الإصابات لكل مليون شخص.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"EN\"><img id=\"Picture_x0020_10\" src=\"https://images-prod.misbar.com/articlebody/investigation_715oq27j4.jpg\" style=\"height:273pt; width:468pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\">اقرأ/ي أيضاً:</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/10/17/%D9%84%D9%85-%D8%AA%D9%86%D8%AE%D9%81%D8%B6-%D9%86%D8%B3%D8%A8%D8%A9-%D9%86%D9%82%D8%B5-%D8%A7%D9%84%D8%AA%D8%BA%D8%B0%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86-%D8%A5%D9%84%D9%89-%D8%A7%D9%84%D9%86%D8%B5%D9%81\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">لم تنخفض نسبة نقص التغذية في الأردن إلى النصف</a></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/11/01/%D9%84%D9%85-%D9%8A%D8%B8%D9%87%D8%B1-%D8%B7%D8%B1%D8%B2%D8%A7%D9%86-%D9%81%D9%8A-%D8%A3%D8%AD%D8%B1%D8%A7%D8%B4-%D8%B9%D8%AC%D9%84%D9%88%D9%86-%D8%A7%D9%84%D8%A3%D8%B1%D8%AF%D9%86%D9%8A%D8%A9\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">لم يظهر &quot;طرزان&quot; في أحراش عجلون الأردنية</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "الأردن",
+        "اصابات كورونا",
+        "تفشي الوباء",
+        "كورونا"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت مواقع إخبارية وصفحات وحسابات على مواقع التواصل الاجتماعي، منذ 1 نوفمبر/تشرين الثاني الجاري، صورتين لرسمين بيانيين يظهران ترتيب دول العالم وفقاً لعدد الإصابات بفايروس كورونا المستجد لكل مليون شخص في الدولة، وتُظهر الجداول أن الأردن احتل المركز الثاني حول العالم بعد بريطانيا التي احتلت المركز الأول.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img id=\"Picture_x0020_3\" src=\"https://images-prod.misbar.com/articlebody/origin_bibfpfy7z.jpg\" style=\"height:378.75pt; width:269.25pt\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"EN\"><img id=\"Picture_x0020_7\" src=\"https://images-prod.misbar.com/articlebody/origin_ttgeytg3x.jpg\" style=\"height:273.75pt; width:315.75pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"EN\"><img id=\"Picture_x0020_8\" src=\"https://images-prod.misbar.com/articlebody/origin_tw5kjzj1s.jpg\" style=\"height:342.75pt; width:255pt\" /> </span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1604318384GettyImages-1228293534.jpg",
+        "watermark_path": "articles/watermark-1604318384GettyImages-1228293534.jpg"
+    },
+    "post_date": "2020-11-02T12:06:00.000+03:00",
+    "published": [
+        {
+            "id": "5f9fdc2f9b3eeb551229359f",
+            "link": "https://alordoon.com/news/archives/132776",
+            "name": "الاردن اليوم",
+            "origin": "",
+            "path": "sources/eeb284ad312b846b1d4f717dbee52c094ff80f51.jpg"
+        },
+        {
+            "id": "5f9fdc2f4852581a717908f9",
+            "link": "https://twitter.com/WalidMaani/status/1322566522334777346",
+            "name": "Walid Maani",
+            "origin": "twitter",
+            "path": "sources/8063276cc8ae6029759202738fd3e70927d9d34d.jpg"
+        },
+        {
+            "id": "5f9fdc2fc2a0957b7872d0f6",
+            "link": "https://www.facebook.com/kawaderalseha/photos/rpp.511390505559880/3776905189008379/?type=3&theater",
+            "name": "ملتقىٰ الكوادر الصحيه",
+            "origin": "facebook",
+            "path": "sources/3f4c5540400fc14395c0b8311a6913c768339239.jpg"
+        },
+        {
+            "id": "5f9fdc2f3c85a4797a669178",
+            "link": "https://www.facebook.com/irbid.Governorat/photos/a.1218242808354603/1840022352843309/?type=3&theater",
+            "name": "محافظة إربد - İrbid Governorate",
+            "origin": "facebook",
+            "path": "sources/dc2d8e28cc65464d189b9b9b0b51fc9f4490147f.jpg"
+        },
+        {
+            "id": "5f9fdc2fc314a64670105f1e",
+            "link": "https://www.facebook.com/photo.php?fbid=10220420637958873&set=a.4757075117664&type=3&theater",
+            "name": "Heba Abbadi",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5f9fdc2f4f64b5008a1dbc88",
+            "link": "https://www.facebook.com/baytyafa/photos/pb.171888966198603.-2207520000../3482242781829855/?type=3&theater",
+            "name": "بيت يافا",
+            "origin": "facebook",
+            "path": "sources/55163390764b99d2585bf1d2cc8a67cfab00250a.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f9fdc30e9f3e0452a1bf54f",
+            "link": "https://ourworldindata.org/coronavirus",
+            "name": "Our World in Data",
+            "origin": "",
+            "path": "sources/2fe58ac43568b6ced4995e2fa59cf06aada42ece.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الأردن ليس الثاني عالمياً بنسبة إصابات كورونا لكل مليون شخص",
+    "updated_at": "2020-11-02 14:59:45",
+    "url_path": "/factcheck/2020/11/02/الأردن-ليس-الثاني-عالميا-بنسبة-إصابات-كورونا-لكل-مليون-شخص",
+    "was_notification_pushed": "true"
+}

@@ -1,0 +1,71 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1170,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "صورة احتراق المسجد ملتقطة في كشمير منذ عام 2012 (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة تُظهر حرق مسجد في العاصمة الهندية دلهي.</p>\r\n",
+    "country": "IN",
+    "created_at": "2020-03-01 16:01:12",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e5bb218d4a2292dff4b3714",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الصورة غير صحيحة، إذ تحقق &quot;مسبار&quot; أنّها ليست لأحداث العنف الديني التي جرت حديثاً بين هندوس ومسلمين في الهند، فهي تعود إلى عام 2012، وتصوّر مسجداً يحترق في إقليم كشمير بعد تفجيره في عملية إرهابية. كما لم تنشر أيٌّ من وسائل الإعلام خبر حدوث هجوم إرهابي منفرد ذهب ضحيته 27 مسلماً.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وكانت العاصمة الهندية دلهي قد شهدت أحداث عنفٍ ديني بين مسلمين وهندوس أودت بحياة قرابة 39 شخصاً، وذلك بعد إقرار ما بات يُعرف بقانون الجنسية، والذي يسمح بتجنيس الذين دخلوا الهند بشكل غير قانوني، من غير المسلمين من بنغلادش وباكستان وأفغانستان.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_diohw3pc7.jpg\" style=\"height:519px; width:456px\" /></span></strong></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت صفحة حقائق مدهشة على &quot;فيسبوك&quot; يوم 29 فبراير/شباط من العام الجاري، مجموعة صورٍ أرفقتها بخبر حدوث هجوم إرهابي استهدف مسلمين في الهند وأودى بحياة 27 شخصاً، من بينها صورة لمسجدٍ يحترق، في إشارة إلى المواجهات الدامية التي حصلت حديثاً بين مسلمين وهندوس في العاصمة الهندية دلهي. وجاء في المنشور الذي شاركه الآلاف على موقع فيسبوك &quot;حين يكون الضحايا مسلمين.. فلا ضجيج إعلامي ولا دموع تُذرف. 27 شهيداً في هجوم إرهابي على المسلمين في دلهي الهند وحرق للمساجد!! شيّر ليعلم المسلمين ما يحدث لإخوانهم هناك&quot;. &shy;&shy;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_40ck1xgjx.jpg\" style=\"height:512px; width:378px\" /></span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_rua5mzskp.jpg\" style=\"height:313px; width:628px\" /></span></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1583078114سيسيي.jpg"
+    },
+    "post_date": "2020-03-01T15:52:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/haqaaq/posts/2711430082422176?__xts__[0]=68.ARDVcE0WOHymPWctBboZu5UeenQheZjjjzwielxAhfgN60XSSQOGEl8_9h6tfho7X3V6YymBX5WtWX5jDr9FSysWYmOKwzdd536IfOfc6M7qqzRUnf0fe7BdiqOYWQVSEslntKlsn_Grh6fa1xMf-JkARkcr7NZq5uPj1UArCyM-AOlD1RT-97dq-3FwT0mVU8RX_QV7eH-nEOgMQ1QJ6faI7aBSFsHYIvFC9sozJHqqE5sWdtreLqlmg1-p2Bd_ZMjGh0YworUyzz-1x0JigKitRfCwdMzewW2WW29XWYXLRdCvscr5Tv1O1yf38uzcv1yCmaHWu2UvQ-lB5J0o8Z9g-cIv&__tn__=-R",
+            "name": "حقائق مدهشة",
+            "path": "published/0_1583067671_حقائق مدهشة-لوغو.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.fountainink.in/reportage/kashmir-from-sufi-to-salafi",
+            "name": "Fountainink",
+            "path": "sources/0_1583067671_Fountainink-logo.jpg"
+        },
+        {
+            "link": "https://www.bbc.com/arabic/world-51657742",
+            "name": "BBC عربي",
+            "path": "sources/1_1583067671_BBC NEWS-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "إحراق مسجد في الهند خلال موجة العنف الأخيرة.. حقيقة الصورة",
+    "updated_at": "2020-09-25 20:46:26",
+    "url_path": "/factcheck/2020/03/01/إحراق-مسجد-في-الهند-خلال-موجة-العنف-الأخيرة-حقيقة-الصورة"
+}

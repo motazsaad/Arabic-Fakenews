@@ -1,0 +1,89 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 569,
+    "author": {
+        "fullname": "رشيد عفيف",
+        "id": "5ec4e956db291667784c4bc4",
+        "photo": {
+            "name": "1589963094_رشيد صورة.jpg",
+            "path": "authors/1589963094_رشيد صورة.jpg"
+        }
+    },
+    "caption": " اُلتقطت الصورة عام 2018 في المسجد الكبير بالعاصمة موسكو (Facebook)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">أبناء أمير قطر تميم بن حمد يؤدون صلاة الجمعة في مسجد آيا صوفيا.</p>\r\n",
+    "country": "TR",
+    "created_at": "2020-07-26 12:10:57",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f1d48a1163be307d044be5f",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الصورة، ووجد أنها قديمة؛ فقد اُلتقطت بتاريخ 15 يونيو/حزيران للعام 2018 بالمسجد الكبير في العاصمة موسكو بمناسبة صلاة عيد الفطر. كما تبين أن الأطفال الذين ظهروا في الصورة، ليسوا أبناء الأمير تميم بن حمد، وإنما هم أطفال شقيقيّه حيث أدوا صلاة العيد في موسكو بصحبة جدهم الشيخ حمد بن خليفة آل ثاني، وقد استبدلت صدى البلد الرابط ذاته بخبر آخر بعدما حذفت الخبر والصورة القائلين&nbsp;بأنهم أبناء أمير قطر.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_djju1jmfy.jpg\" style=\"height:557px; width:605px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_yrqnoon9x.jpg\" style=\"height:199px; width:605px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت حسابات على موقع التواصل الاجتماعي فيسبوك، إضافة إلى مواقع إخبارية في اليومين الفائتيّن، صورةً لأطفال يؤدون الصلاة في أحد المساجد، ويرافقها تعليق مفاده أنهم أبناء أمير قطر تميم بن حمد إذ يؤدون صلاة الجمعة في مسجد آيا صوفيا في مدينة اسطنبول.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ci2pz2kr7.jpg\" style=\"height:740px; width:605px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_u2eu128v0.jpg\" style=\"height:586px; width:605px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 410,
+        "left": 21,
+        "path": "articles/1595754656التقاط.JPG",
+        "top": 3.078125,
+        "totalHeight": 423,
+        "totalWidth": 761,
+        "watermark_path": "articles/watermark-1595754656التقاط.JPG",
+        "width": 729
+    },
+    "post_date": "2020-07-26T10:42:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/rofasaleh.alkanm/posts/3071670219549249",
+            "name": "ابوعبدالرحمن غانم",
+            "path": "published/0_1595754656_ابو عبد الرخنت.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ahmed.kotp.129142/posts/338017673883107",
+            "name": "أحمد شهاب الدين",
+            "path": "published/1_1595754656_احمد شهاب الدين.jpg"
+        },
+        {
+            "link": "https://elbalad.news/4421248",
+            "name": "صدى البلد",
+            "path": "published/2_1595754656_صدى البلد.JPG"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.alamy.com/moscow-russia-15th-june-2018-moscow-russia-june-15-2018-muslims-during-celebrations-of-eid-al-fitr-a-holiday-that-marks-the-end-of-ramadan-at-the-moscow-cathedral-mosque-alexander-ryumintass-credit-itar-tass-news-agencyalamy-live-news-image208105032.html?irclickid=WWsWu6Q5MxyORRK0M-0V7wD0UkiWUu2UJSOjyc0&irgwc=1&utm_source=77643&utm_campaign=Shop%20Royalty%20Free%20at%20Alamy&utm_medium=impact",
+            "name": "alamy",
+            "path": "sources/0_1595754856_ييي.JPG"
+        },
+        {
+            "link": "https://twitter.com/ALThani_M/status/1008032721598402561",
+            "name": "مريم آل ثاني",
+            "path": "sources/1_1595754656_mRAukQMi_400x400.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هؤلاء الأطفال ليسوا أبناء أمير قطر كما أنه ليس مسجد آيا صوفيا",
+    "updated_at": "2020-09-25 18:19:26",
+    "url_path": "/factcheck/2020/07/26/هؤلاء-الأطفال-ليسوا-أبناء-أمير-قطر-كما-أنه-ليس-مسجد-آيا-صوفيا"
+}

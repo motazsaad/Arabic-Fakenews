@@ -1,0 +1,81 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 476,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "category": "News",
+    "claim": "<p>حصولُ طفلٍ يمنيّ على ثلاث جنسيات بعد ولادته على متن طائرة كانت متجهة من مدينة جدّة السعودية إلى الولايات المتحدة.</p>\r\n",
+    "country": "YE",
+    "created_at": "2019-10-21 15:20:27",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5dada28bbe494b6ee455eca4",
+    "investigation": "<p style=\"text-align:right\">في حقيقة الأمر إنّ الصورة المتداولة هي لطفلةٍ ولدتْ على متن الخطوط الجوية السعودية عام 2016، الطائرة كانت متّجهة من جدّة إلى نيويورك، واضطرت لتغيير مسارها والهبوط بمطار &quot;هيثرو&quot; في لندن بعد حالة الولادة الطارئة لإحدى الراكبات. هذا ولم تحصل الطفلة على جنسيّة أخرى، واكتفتْ شركة الطيران السعودية بإهداءِ تذاكر سفرٍ مجانية لمرة واحدة للطفلة ولعائلتها.</p>\r\n\r\n<p style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_1c66ac4b2056874299f54e12d5264ed7.jpg\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p>تناقلتْ بعض المواقع الالكترونية والعديد من مستخدمي وسائل التواصل الاجتماعي، خبَر حصولِ الطفل اليمني يحيى مراد على ثلاث جنسيات هي البريطانية والأيرلندية والأمريكية. وذلك بعد ولادته على متن طائرةٍ تابعةٍ للخطوط الجوية السعودية كانت متجهةً من مدينة جدّة إلى مدينة نيويورك، وقرّرت شركة الطيران بهذه المناسبة أن تكون كافة رحلات &quot;المولود المحظوظ&quot; مجانيّةً على متن خطوطها مدى الحياة.&nbsp;</p>\r\n\r\n<p>وأفاد الخبر أنّه عند تحليق الطائرة فوق شمال المملكة المتحدة، بدأت عملية ولادة الطفل اليمني، ليأخذ جنسيات الدول الثلاث التي مرّت الطائرة في أجوائها أثناء الولادة، وهي إنكلترا وأيرلندا الشمالية والولايات المتحدة.</p>\r\n\r\n<p>وأعادت حديثاً بعض الصفحات نشر صورة الرضيع وهو بين أيدي مجموعةٍ من مضيفات الطيران، وأرجعتها إلى عام 2000. الطفل حسب هذه الصفحات مغربيّ الجنسيّة، وقد وُلد على متن طائرةٍ تابعةٍ للخطوط الجويّة الإمارتية كانت في طريقها إلى نيويورك بعدما أقلعت من مطار محمد الخامس في الدار البيضاء. وتمّ كذلك إرفاق الخبر بصورةٍ للطفل الذي كبُر وأصبح شاباً يتمتّع بالجنسية البريطانية والأيرلندية والأمريكية! بالطبع، لم يغفل الخبر عن ذِكر جائزة السفر المجانية التي حصل عليها الطفل المغربي على متن الخطوط الجوية الإمارتية طوال حياته!</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><img src=\"https://images-prod.misbar.com/articlebody/origin_3a852ae18c2800a80683aa6310956f86.jpg\" /></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><img src=\"https://images-prod.misbar.com/articlebody/origin_e3144512332744a4c2abfe0aa148453e.jpg\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 408,
+        "left": 13.1444091796875,
+        "path": "articles/1571660427صورة المادة.jpg",
+        "top": 3,
+        "totalHeight": 423,
+        "totalWidth": 753,
+        "width": 725
+    },
+    "post_date": "2019-09-15T14:49:00.000+03:00",
+    "published": [
+        {
+            "link": "http://yemen-now.com/news2235223.html",
+            "name": "اليمن العربي",
+            "path": "published/0_1571660427_اليمن العربي-لوغو.jpg"
+        },
+        {
+            "link": "https://www.sayidaty.net/node/687356/%D8%A3%D8%B3%D8%B1%D8%A9-%D9%88%D9%85%D8%AC%D8%AA%D9%85%D8%B9/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A3%D8%B3%D8%B1%D8%A9-%D9%88%D9%85%D8%AC%D8%AA%D9%85%D8%B9/%D8%B7%D9%81%D9%84-%D9%8A%D9%85%D9%86%D9%8A-%D9%8A%D8%AD%D8%B5%D9%84-%D8%B9%D9%84%D9%89-%D8%AC%D9%86%D8%B3%D9%8A%D8%A7%D8%AA-3-%D8%AF%D9%88%D9%84-%D9%84%D8%AD%D8%B8%D8%A9-%D9%88%D9%84%D8%A7%D8%AF%D8%AA%D9%87#photo/1",
+            "name": "سيدتي",
+            "path": "published/1_1571660427_سيدتي-لوغو.jpg"
+        },
+        {
+            "link": "https://almashhadalan.com/news4928.html",
+            "name": "المشهد الآن",
+            "path": "published/2_1571660427_المشهد الآن -لوغو.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?time_continue=110&v=mtv1i5FmfLY",
+            "name": "قناة العربية",
+            "path": "sources/0_1571660427_العربية لوغو.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ما حقيقة حصول طفلٍ يمنيّ على ثلاث جنسيّات؟",
+    "updated_at": "2020-09-23 12:40:41",
+    "url_path": "/factcheck/2019/10/21/ما-حقيقة-حصول-طفل-يمني-على-ثلاث-جنسيات"
+}

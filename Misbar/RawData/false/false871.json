@@ -1,0 +1,100 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1936,
+    "author": {
+        "fullname": "أسامة سليم",
+        "id": "5e3fd276d4a229755625e693",
+        "photo": {
+            "name": "1581240950_أسامة.jpg",
+            "path": "authors/1581240950_أسامة.jpg"
+        }
+    },
+    "caption": "خبر زائف عن نزع وزير التربية صورة الحبيب بورقيبة من الوزارة (وزارة التربية)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">وزير التربية محمد الحامدي ينزع صورة الحبيب بورقيبة من الوزارة.</p>\r\n",
+    "country": "TN",
+    "created_at": "2020-03-11 12:44:47",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e68b30fd4a2294c5a425553",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:black\">تحقق &quot;مسبار&quot; من الخبر، ووجده زائفاً، إذ استقبل وزير التربية محمد الحامدي أمس، 9 مارس/آذار، المدير العام للمنظمة العربية للتربية والثقافة والعلوم بقاعة الاجتماعات في وزارة التربية، ونجد أن صورة الحبيب بورقيبة ما زالت موجودة. كما كذّب الحامدي الخبر بقوله &quot;</span></span><span style=\"color:#1c1e21\">من مهامي كوزير تربية أن أعمل على مصالحة الأجيال الجديدة مع تاريخ بلادهم وزعمائها وبورقيبة واحد من أهم هؤلاء الزعماء.. لا تصدّقوا ما يروّج من أكاذيب بشأن نزع صورته من مكتب الوزير&quot;.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img alt=\"L’image contient peut-être : 7 personnes, personnes assises et intérieur\" src=\"https://images-prod.misbar.com/articlebody/investigation_u02g6urhh.jpg\" style=\"height:362px; width:532px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"FR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_2fkbjpwou.jpg\" style=\"height:196px; width:531px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "تونس",
+        "الحبيب بورقيبة",
+        "الغنوشي"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تناقلت صفحاتٌ وحسابات على موقع فيسبوك خلال الأيام القليلة الماضية، خبراً مفاده أنّ محمد الحامدي، وزير التربية التونسي، نزع صورة الحبيب بورقيبة، أول رئيس للجمهورية التونسية، من قاعة الاجتماعات في وزارة التربية والتعليم.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_bf6fk5pm1.jpg\" style=\"height:485px; width:504px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"FR\"><span style=\"background-color:white\"><span style=\"color:black\"><img src=\"https://images-prod.misbar.com/articlebody/origin_r6wrzp7df.jpg\" style=\"height:449px; width:500px\" /></span></span></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 344,
+        "left": 7.5333251953125,
+        "path": "articles/158391988788278841_2925574267479903_8345100363543609344_o.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 621,
+        "width": 612
+    },
+    "post_date": "2020-03-11T11:38:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=655929908543504&id=100023795011069",
+            "name": "ريحانة الجبل",
+            "path": "published/0_1583919886_ريحانة الجبل-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/chevalierTN2019/posts/558790838074243",
+            "name": "Les protecteurs Du Parti Destourien Libre",
+            "path": "published/1_1583919886_الحزب الدستوري الحر-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/mounir.mlaouhia.7/posts/869389620200299",
+            "name": "Mounir Mlaouhia",
+            "path": "published/2_1583919886_Mounir Mlaouhia-logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/mohamedhabib.jaouadi/posts/10213159195492825",
+            "name": "محمد حبيب",
+            "path": "published/3_1583919886_محمد حبيب-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/awatefmhadhebi/posts/3139979766012096",
+            "name": "عواطف بن طاهر",
+            "path": "published/4_1583919886_عواطف بن طاهر-لوغو.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/Ministere.education.Tunisie/posts/2925575264146470?__xts__%5B0%5D=68.ARD7zM9fXHD7SZGdor6BiDoNsfR8F2jt1B6tGmtExXrnSYyBtbKSzspj1Jg5DLFO_MMdZbYaRcVHE6wTi4oHEZSqyIvIyUBnk--S4yXZS4LkMebZffaSTOTK4ktsNHnvFS9FnN4idycs60GiPt_a8mbmyezvUKA6tSU9oGkNdzffOuA7gEXk2WdJYu0fMQYdKYz3yooaQQ2xGWSkt39V3IFx2nNVMY-ZD_jmo3QAkuDQKoazzaBKPgFxigKXfQEUJcCOoEQO5y-a8JFKC7jKq-lx-_x2XPdmSYLLLVkRtGbfvnbHGxX7-ffaUlARf0mLSHjMkhdMkoxuf3Arzlbf9UFldA&__tn__=-R",
+            "name": "وزارة التربية التونسية",
+            "path": "sources/0_1583919886_وزارة التربية-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/mohammed.elhamdi.9/posts/3061241980660173",
+            "name": "محمد الحامدي",
+            "path": "sources/1_1583919886_محمد الحامدي-لوغو.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "خبر زائف عن نزع وزير التربية التونسي صورة الحبيب بورقيبة من الوزارة",
+    "title": "هل نزع وزير التربية التونسي صورة الحبيب بورقيبة؟",
+    "updated_at": "2020-09-25 02:02:26",
+    "url_path": "/factcheck/2020/03/11/هل-نزع-وزير-التربية-التونسي-صورة-الحبيب-بورقيبة"
+}

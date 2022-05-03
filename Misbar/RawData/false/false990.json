@@ -1,0 +1,101 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1957,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">البيت الأبيض ينشر صورة للمسيح يحتضن ترامب.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-01-21 18:11:36",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e2714a8d4a2296bed5724c4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق مسبار من الصورة ووجد أن مصدرها ليس البيت الأبيض، فلم يتم نشرها على حسابه في موقع الفيسبوك كما غرد البعض، لكنها انتشرت للمرة الأولى في يناير/ كانون الثاني من العام 2017 على أحد المنتديات المتدينة المسيحية<span style=\"background-color:white\"><span style=\"color:black\">، ولاقت رواجاً </span></span>كبيراًفي منتصف إبريل/ نيسان من العام نفسه حين نشرها حساب غير موثق، لـ&quot;تيفاني ترامب&quot;،<span style=\"background-color:white\"><span style=\"color:black\">وأثارت جدلاً واسعاً بالأوساط&nbsp;الأم</span></span><span style=\"background-color:white\"><span style=\"color:black\">ي</span></span><span style=\"background-color:white\"><span style=\"color:black\">ركية</span></span>، وهذا ما أكده أيضاً <span style=\"background-color:white\">موقع<span style=\"color:black\"> &quot;</span></span><a href=\"https://www.buzzfeednews.com/article/janelytvynenko/you-should-probably-stop-sharing-that-donald-trump-and\" style=\"color:blue; text-decoration:underline\"><span dir=\"LTR\"><span style=\"background-color:white\">buzzfeednews</span></span></a><span style=\"background-color:white\"><span style=\"color:black\">&quot;، في تقرير نشره في 17 إبريل/ نيسان العام 2017.</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_bc4cea40e23ed56938f57fb10ce03f2e.jpg\" style=\"height:415px; width:560px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_d3c2fee8e405ae86bef5d9d440c06e00.jpg\" style=\"height:911px; width:562px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": false,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">في الوقت الذي نشر فيه <a href=\"http://farsi.khamenei.ir/photo-album?id=44560\" style=\"color:blue; text-decoration:underline\">موقع</a> المرشد الأعلى بإيران، علي خامنئي، صورة لرسم تُظهر ما وصف بـ&quot;حضن الإمام الحسين لقاسم سليماني&quot; بعد مقتله بغارة أمريكية قرب مطار بغداد، فجر الجمعة الماضية، تداول نشطاء على مواقع التواصل الاجتماعي، صورة لرسم بالوضعية ذاتها، حيث المسيح يحتضن ترامب في تعليق يكاد يكون موحداً أنَّ الصورة جاءت ردا من البيت الأبيض على صورة سليماني.</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 403,
+        "left": 17.20281982421875,
+        "path": "articles/1579619496ترامب.jpg",
+        "top": 6.4578399658203125,
+        "totalHeight": 423,
+        "totalWidth": 751,
+        "width": 717
+    },
+    "post_date": "2020-01-06T15:59:00.000+03:00",
+    "published": [
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=2595124843897876&id=100002011585092",
+            "name": "حسن جمال",
+            "path": "published/0_1579619496_حسن جمل.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/osama.warda/posts/10217193696447136",
+            "name": "أسامة وردة",
+            "path": "published/1_1579619496_أسامة وردة.jpg"
+        },
+        {
+            "link": "https://twitter.com/Ali_Albukhaiti/status/1213739001443692544?s=20",
+            "name": "علي البخيتي",
+            "path": "published/2_1579630690_علي البخيتي.jpg"
+        },
+        {
+            "link": "https://twitter.com/binhowgan/status/1213560920267513856?s=20",
+            "name": "محمد بن حوقان المالكي",
+            "path": "published/3_1579630690_محمد بن حوقان.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/kareem.elbehirey/posts/10218903454630461",
+            "name": "كريم البحيري",
+            "path": "published/4_1579630690_كريم البحيري.jpg"
+        },
+        {
+            "link": "https://twitter.com/drfalyahya/status/1213525366784090112?s=20",
+            "name": "فهد اليحيا",
+            "path": "published/5_1579630690_فهداليحيا.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.buzzfeednews.com/article/janelytvynenko/you-should-probably-stop-sharing-that-donald-trump-and",
+            "name": " Buzzfeed News",
+            "path": "sources/0_1579619496_باز فيد.jpg"
+        },
+        {
+            "link": "https://arabic.cnn.com/middle-east/article/2020/01/05/trump-jesus-pic-sulimani-imam-hussain-social-reactions?fbclid=IwAR0F15b5cQmHWjk9scMDfYCCvlzqUe_Mn8rsWr8lhlGR2j6Km2hLnY4xGX8",
+            "name": "Arabic CNN",
+            "path": "sources/1_1579619496_th.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "بعد نشر رسمٍ لسليماني في حضن الحسين، من أين جاء رسم ترامب في حضن المسيح؟",
+    "updated_at": "2020-09-25 18:30:28",
+    "url_path": "/factcheck/2020/01/21/بعد-نشر-رسم-لسليماني-في-حضن-الحسين-من-أين-جاء-رسم-ترامب-في-حضن-المسيح"
+}

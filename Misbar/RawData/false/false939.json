@@ -1,0 +1,82 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 82977,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "category": "Health",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">الوضع خطير في الصين: يطلقون النار على المرضى في الشوارع.</span></p>\r\n",
+    "country": "CN",
+    "created_at": "2020-02-13 16:02:27",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e4548e3d4a22950d71dff13",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تبيّن لـ&quot;مسبار&quot; بعد التحقّق أنّ مقطع الفيديو يتكوّن من ثلاثة مقاطع مختلفة. يصوّر المشهد الأول في المقطع الأول الذي يستمرّ منذ البداية حتى الدقيقة (0:14)، ثلاثة أفراد من الشرطة الصينية يقفون بالقرب من سيّاراتهم، ومن ثم يبدأ المشهد الثاني الذي يصوّر، بين الدقيقتين (0:15) و(0:21)، أولئك الثلاثة وهم يمشون في إحدى الشوارع.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_7n8zg0vnn.jpg\" style=\"height:602px; width:440px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\">(كلمة جينغ تشا 警察، وتعني الشرطة)</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">بعد ذلك، يبدأ مقطع الفيديو الثاني، بين الدقيقتين (0:22) و(0:33)، لأناس مستلقين يبدو أنهم يتلقّون العلاج، لكن لا تبدو عليهم علامات الفزع من صوت العيارات النارية الذي يبدو أنه رُكّب على المقطع المتداول. أما المقطع الثالث، الذي يمتدّ بين الدقيقة (0:34) إلى نهاية المقطع المتداول، يصوّر رجلاً ممدّداً على الأرض، إثر حادث رجّح &quot;مسبار&quot; أنه تعرّض له، بناءً على آثار الحطام على الرصيف، والدرّاجة الملقاة بجانب الرجل، كما يظهر في المقطع المتداول.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_qhyyh4iwj.jpg\" style=\"height:381px; width:442px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">في النهاية، اتّضح لـ&quot;مسبار&quot; أن مقطع الفيديو مركّب من عدّة مقاطع لا علاقة بينها، وأنّ الرجل الممدّد على الأرض متأثر بحادث دراجة، ولا صحّة للادعاء القائل بقتل المصابين بفايروس كورونا.</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "فايروس كورونا",
+        "الصين"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تناقلت مجموعة من الصفحات على مواقع التواصل الاجتماعي مقطع فيديو يُظهر مجموعة من الأشخاص الذين يحملون السلاح، ثم أُناساً مستلقين على الأرض، ومن ثم جثّة يحوطها مجموعة من الأشخاص. ويدّعي ناشرو هذا المقطع أنه يوثّق عملية قتل المصابين بفايروس كورونا في الصين، وقتل من يحاولون عصيان الإجراءات الصحية المفروضة على مدينة ووهان الصينية.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_4feed3ffg.jpg\" style=\"height:624px; width:433px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_4af0jrs6x.jpg\" style=\"height:534px; width:434px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_xjqnk17mj.jpg\" style=\"height:628px; width:438px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 353,
+        "left": 2.883331298828125,
+        "path": "articles/1581598947GettyImages-1199933700.jpg",
+        "top": 27.800003051757812,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "width": 628
+    },
+    "post_date": "2020-02-13T14:57:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/BeholdIsrael/status/1227570288071716864",
+            "name": "Amir Tsarfati",
+            "path": "published/0_1581598947_Amir Tsarfati-logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/raedelottol/videos/2545665652382694/",
+            "name": "رائد العطل",
+            "path": "published/1_1581598947_رائد العطل - لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100040788906396/videos/189901649046131/",
+            "name": "عبد الرحمن أبو راشد",
+            "path": "published/2_1581598947_عبد الرحمن أبو راشد - لوغو.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.latestly.com/social-viral/fact-check/video-claiming-chinese-police-killing-coronavirus-infected-patients-is-fake-know-the-truth-about-this-viral-clip-1535521.html",
+            "name": "Latestly",
+            "path": "sources/0_1581598946_Latestly-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "مقطع فيديو مزيّف يصوّر قتل المصابين بفايروس كورونا",
+    "updated_at": "2020-09-25 08:17:09",
+    "url_path": "/factcheck/2020/02/13/مقطع-فيديو-مزيف-يصور-قتل-المصابين-بفايروس-كورونا"
+}

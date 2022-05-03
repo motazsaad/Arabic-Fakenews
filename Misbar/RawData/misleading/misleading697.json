@@ -1,0 +1,101 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 5945,
+    "author": {
+        "fullname": "أمين العطلة",
+        "id": "5e20299dd4a22961d73b6713",
+        "photo": {
+            "path": "authors/1579676161_Ameen.jpg"
+        }
+    },
+    "caption": "عمل فني نفذه فنان يدعى Jack Wingmaker (فيسبوك)",
+    "category": "Arts & Culture",
+    "claim": "<p>صورة&nbsp;فراشة على هيئة إنسان.</p>\r\n",
+    "country": "",
+    "created_at": "2020-09-02 18:33:43",
+    "created_by": "5f39b5a51dd585076701cb94",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f4fbb57879f5021fd134414",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">الإدعاء مضلل، إذ تحقق &quot;مسبار&quot; من الصورة المتداولة ووجد أنها عمل فني نفذه فنان يدعى&nbsp;<span dir=\"LTR\">Jack Wingmaker</span> مختص بتصميم هذه التحف وعرضها للبيع، وكان قد نشر الصورة على صفحته الخاصة بأعماله الفنية في 16 تموز/يوليو الفائت رفقة مجموعة من الأعمال الفنية الأخرى.</p>\r\n\r\n<p style=\"text-align:right\"><iframe frameborder=\"0\" height=\"502\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmagicwithinfantasy%2Fphotos%2Fa.854285097960994%2F3228913970498083%2F%3Ftype%3D3&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"background-color:white\"><span dir=\"LTR\"><span style=\"color:black\"><img id=\"Picture_x0020_10\" src=\"https://images-prod.misbar.com/articlebody/investigation_x1b2xhwip.jpg\" style=\"height:307.8pt; width:241.2pt\" /> </span></span></span></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": false,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تداولت حسابات على مواقع التواصل الإجتماعي صورة تظهر فراشة على هيئة إنسان، وأرفق ناشرو الصورة تعليقات من قبيل &quot;</span><span style=\"color:black\">وما يعلم جنود ربك إلا هو&quot;، &quot;سبحان الله&quot;، وغيرها من التعليقات التي توحي بأن الصورة حقيقية.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"color:black\"><img id=\"Picture_x0020_6\" src=\"https://images-prod.misbar.com/articlebody/origin_eiesrag00.jpg\" style=\"height:211.8pt; width:318pt\" />&nbsp;</span></span><span dir=\"LTR\"><span style=\"color:black\"><img id=\"Picture_x0020_7\" src=\"https://images-prod.misbar.com/articlebody/origin_wq7q03xth.jpg\" style=\"height:373.2pt; width:292.2pt\" /> </span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"color:black\"><img id=\"Picture_x0020_9\" src=\"https://images-prod.misbar.com/articlebody/origin_vw1jeu2a1.jpg\" style=\"height:388.8pt; width:289.2pt\" /> </span></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1599060822200.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1599060822200.jpg",
+        "width": 752
+    },
+    "post_date": "2020-09-02T18:25:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/photo.php?fbid=2386105165024806&set=gm.758189371629209&type=3&theater&ifg=1",
+            "name": "‏Mustapha Mu Hw",
+            "path": "published/0_1599060822_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=210583283741087&id=100043682501573",
+            "name": "عبدالرحمن حبة",
+            "path": "published/1_1599061001_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=622241648432067&id=100019387120413",
+            "name": "علي الكروشي",
+            "path": "published/2_1599060962_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://vk.com/id479632454?w=wall479632454_406",
+            "name": "محمد يوسف",
+            "path": "published/3_1599060962_facebook.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/magicwithinfantasy/photos/a.854285097960994/3228913970498083/?type=3&theater",
+            "name": "Magic Within",
+            "path": "sources/0_1599060822_10000.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/profile.php?id=100007521664836",
+            "name": "Jack Wingmaker Overwijn",
+            "path": "sources/1_1599061155_10000.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الصورة ليست لفراشة على هيئة إنسان",
+    "updated_at": "2020-09-25 19:19:32",
+    "url_path": "/factcheck/2020/09/02/الصورة-ليست-لفراشة-على-هيئة-إنسان"
+}

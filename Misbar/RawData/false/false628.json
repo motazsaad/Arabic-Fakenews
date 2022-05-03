@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 3179,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "لم تصنف الصحة العالمية تونس أفضل دولة أفريقية تعاملت مع كورونا (Getty)",
+    "category": "Health",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">منظمة الصحة العالمية تعتبر تونس أفضل دولة أفريقية نجحت في التعامل مع فايروس كورونا المستجد (كوفيد-19).</p>\r\n",
+    "country": "TN",
+    "created_at": "2020-06-10 19:41:48",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ee10d4cd6e4a915472ae515",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الادعاء زائف، إذ لم تصنف منظمة الصحة العالمية تونس أفضل دولة تعاملت مع فايروس كورونا (كوفيد-19)، كما لم تنشر أي قائمة للدول التي تعاملت مع الفايروس.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">ولم يصرح ممثل منظمة الصحة العالمية في تونس &quot;<span style=\"background-color:white\"><span style=\"color:#222222\">ايف سوتايرون</span></span><span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:#222222\">&quot;</span></span></span><strong>،</strong> بأن تونس أفضل دولة أفريقية في التعامل مع الفايروس.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">كما لم&nbsp;ينشر مكتب منظمة الصحة العالمية الخبر في أيّة وسيلة إعلامية محلية أو عبر حساباته الرسمية على مواقع التواصل الاجتماعي.</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات إخبارية على مواقع التواصل الاجتماعي، خبراً يدّعي أن منظمة الصحة العالمية اعتبرت تونس أفضل دولة أفريقية نجحت في التعامل مع&nbsp;فايروس كورونا (كوفيد-19).</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"Capture1.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_q3ynr4py8.jpg\" style=\"height:480px; width:507px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"Capture2.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_qskyn91sf.jpg\" style=\"height:477px; width:496px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 340,
+        "left": 5.2127685546875,
+        "path": "articles/1591807306GettyImages-1217774295.jpg",
+        "top": 32.80712890625,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1591807306GettyImages-1217774295.jpg",
+        "width": 604
+    },
+    "post_date": "2020-06-10T17:24:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/Djemmel24/photos/a.411748249682768/649578982566359/?type=3&theater",
+            "name": "جمال 24",
+            "path": "published/0_1591807306_65872556_411743543016572_770268072043872256_n.jpg"
+        },
+        {
+            "link": "https://www.asslematunisie.net/2020/06/healthworldorgtunisie.html?fbclid=IwAR3oiPq92JAe1aPk-h6uEFWRVBMZZ2f-fMbS0w-7mh5wROKedYblRmWXp8o",
+            "name": "asslema tunisie",
+            "path": "published/1_1591807306_2.jpg"
+        },
+        {
+            "link": "https://asslemafm.net/2020/06/09/%D9%85%D9%86%D8%B8%D9%85%D8%A9-%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9-%D8%AA%D9%88%D9%86%D8%B3-%D8%A3%D9%81%D8%B6%D9%84-%D8%AF%D9%88%D9%84%D8%A9-%D8%A5%D9%81/?fbclid=IwAR0ugpehz08uY5JhCi7Xqy9Q7VXX33Pu3tht0rYff5acVJakN93Ql9sfacM",
+            "name": "asslema fm",
+            "path": "published/2_1591807306_3.jpg"
+        },
+        {
+            "link": "http://radioscoop.tn/%D9%85%D9%86%D8%B8%D9%85%D8%A9-%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9-%D8%AA%D9%88%D9%86%D8%B3-%D8%A3%D9%81%D8%B6%D9%84-%D8%AF%D9%88%D9%84%D8%A9-%D8%A5%D9%81/",
+            "name": "radioscoop",
+            "path": "published/3_1591807306_4.jpg"
+        },
+        {
+            "link": "https://annaharnews.tn/2020/06/09/%D8%A7%D9%84%D8%B5%D8%AD%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9-%D8%AA%D9%88%D9%86%D8%B3-%D8%A7%D9%81%D8%B6%D9%84-%D8%AF%D9%88%D9%84%D8%A9-%D8%A7%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A9/",
+            "name": "annaharnews",
+            "path": "published/4_1591807306_cropped-20645233_429613690772869_4267631619977465471_o.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "http://origin.who.int/mediacentre/news/en/",
+            "name": "منظمة الصحة العالمية",
+            "path": "sources/0_1591807306_rCndiVHY_400x400.jpg"
+        },
+        {
+            "link": "https://twitter.com/OmsTunisie",
+            "name": "منظمة الصحة مكتب تونس",
+            "path": "sources/1_1591807306_0DWUOg4d_400x400.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "تونس أفضل دولة أفريقية نجحت في التعامل مع كورونا..حقيقة الخبر",
+    "updated_at": "2020-09-25 13:21:59",
+    "url_path": "/factcheck/2020/06/10/تونس-أفضل-دولة-إفريقية-نجحت-في-التعامل-مع-كورونا-حقيقة-الخبر"
+}

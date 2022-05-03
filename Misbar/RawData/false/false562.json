@@ -1,0 +1,83 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 921,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "عادة لا ترد على التغريدات المزيفة، لكنها ردت هذه المرة (Getty)",
+    "category": "Business",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">تغريدة منتشرة للنائبة الأميركية في مجلس الشيوخ ألكسندريا أوكاسيو-كورتيز حول أهمية الإبقاء على الشركات مغلقة إلى أن تمر الانتخابات الأميركية.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-06-27 00:13:56",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ef66514163be3068033e276",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من التغريدة ليجد أنها غير صحيحة، فهي ليست موجودة على حساب النائبة الموثق في &quot;تويتر&quot;، ولم تتم مشاركتها عشرين ألف مرة كما كتب حساب يُدعى صاحبه سكوت شيني، ويبدو أنه ذاته أول من روج للتغريدة الكاذبة في 20 يونيو/ حزيران الجاري؛ فهي عبارة عن صورة لشاشة التقطت لهذه التغريدة لكنها صورة مفبركة، وبالتالي لم تقم النائبة بحذفها كما ادّعت هذه الحسابات التي أعادت نشر الصورة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:black\">ومن المعروف أنَّ &quot;تويتر&quot; يحتفظ بنسخ عن التغريدات، خاصةً تلك التي لاقت تفاعلاً كبيراً ومن حسابات موثقة، وإذا تم حذفها تظل التغريدة موجودة على شكل رابط في محرك البحث غوغل، إلا أنه لم يتم العثور على تغريدة مماثلة نشرتها ألكسندريا</span></span><span style=\"background-color:white\"><span style=\"color:black\">.</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:black\">كما كتبت ألكسندريا على حسابها في &quot;تويتر&quot;، في 23 يونيو/حزيران الجاري، أنه عادة لا ترد على التغريدات المزيفة، لأن تصحيحها ينتشر بشكل كبير، مستدركة &quot;لكن هذه التغريدة &quot;المحذوفة&quot; التي يقول الناس أنني قلتها، هي مفبركة بالفوتوشوب، ويتداولها الجمهوريون&quot;.</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"background-color:white\"><span style=\"color:black\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_yqyosl6xb.jpg\" style=\"height:601px; width:605px\" /></span></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت حسابات لمستخدمين أجانب على موقع تويتر منذ 20 يونيو/حزيران، تغريدةً للنائبة في الكونغرس الأميركي ألكسندريا أوكاسيو-كورتيز حول أهمية الإبقاء على الشركات مغلقة إلى أن تمر الانتخابات الأميركية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;&nbsp;قائلة في تغريدة على حسابها في موقع تويتر &quot;من الضروري أن يَثبت المحافظون على القيود المفروضة على الشركات والأعمال إلى ما بعد الانتخابات الأميركية في نوفمبر/تشرين الثاني لأن الإنتعاش الاقتصادي سيساعد على إعادة انتخاب ترامب&quot;.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_21ipjexqq.jpg\" style=\"height:424px; width:595px\" />&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_diuiyqq7x.jpg\" style=\"height:413px; width:591px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_c1mjaf99w.jpg\" style=\"height:286px; width:602px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 336,
+        "left": 20,
+        "path": "articles/1593206035GettyImages-1209892301.jpg",
+        "top": 18.0859375,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1593206035GettyImages-1209892301.jpg",
+        "width": 599
+    },
+    "post_date": "2020-06-26T21:05:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/JenkinsRLynn/status/1275581696168075265",
+            "name": "Rachel Jenkins",
+            "path": "published/0_1593206035_راشيل.jpg"
+        },
+        {
+            "link": "https://twitter.com/TomHarpointner/status/1275514011052900361",
+            "name": " Thomas Harpointner",
+            "path": "published/1_1593206035_ثوماس.jpg"
+        },
+        {
+            "link": "https://twitter.com/reedmom54/status/1275547198793670657",
+            "name": "Patriotmom",
+            "path": "published/2_1593206035_8WeTWiLW_400x400.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/AOC/status/1275528986114887681",
+            "name": " Alexandria Ocasio-Cortez",
+            "path": "sources/0_1593206035_الكس.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ألكسندريا أوكاسيو لم تغرد بضرورة إغلاق الشركات إلى ما بعد الانتخابات الأميركية",
+    "updated_at": "2020-09-25 13:49:52",
+    "url_path": "/factcheck/2020/06/27/ألكسندريا-أوكاسيو-لم-تغرد-بضرورة-إغلاق-الشركات-إلى-ما-بعد-الانتخابات-الأميركية"
+}

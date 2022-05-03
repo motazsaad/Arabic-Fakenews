@@ -1,0 +1,136 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 412,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "الكلمة المطبوعة على زي الشرطة بالإسبانية وليس الفرنسية (فيسبوك)",
+    "category": "News",
+    "claim": "<p>الشرطة الفرنسية تسرق محلاً لبيع الهواتف المحمولة في باريس خلال مظاهرات أصحاب السترات الصفراء.</p>\r\n",
+    "country": "FR",
+    "created_at": "2020-12-07 01:38:38",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 4,
+    "feedback_pos": 4,
+    "id": "5fcd5d6ebf167951ae2ccce6",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من المقطع، ووجد أن التعليق عليه مضلل، فالمقطع للشرطة المكسيكية عام 2017، وليس للشرطة الفرنسية، وعلق الإعلام المكسيكي أن ذلك حدث خلال مظاهرات احتجاج لترهيب المجتمع المحلي، ويظهر ذلك جلياً من اللغة المحكية في الفيديو، كذلك من تهجئة كلمة بوليس المطبوعة على ظهر الزي الرسمي لأفراد الشرطة، فهي Policia بالإسبانية وليست&nbsp;police بالفرنسية.</p>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"ltr\">&iquest;Se acuerdan de los polic&iacute;as que aprovecharon el operativo de Plaza Meave para llevarse cosas? Ya son investigados. <a href=\"https://t.co/45Mg9hRl9b\">pic.twitter.com/45Mg9hRl9b</a></p>\r\n&mdash; Azteca Noticias (@AztecaNoticias) <a href=\"https://twitter.com/AztecaNoticias/status/946904952810680320?ref_src=twsrc%5Etfw\">December 30, 2017</a></blockquote>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_wuubpjjor.jpg\" style=\"height:522px; width:602px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">&nbsp;&nbsp;تداولت حسابات على مواقع التواصل الاجتماعي، حديثاً، مقطع فيديو يظهر الشرطة تسرق هواتف محمولة من أحد المحال، وعلقت عليها أنها الشرطة الفرنسية سرقت محلاً للهواتف النقالة في العاصمة الفرنسية، باريس، خلال احتجاج أصحاب السترات الصفراء.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?height=476&amp;href=https%3A%2F%2Fwww.facebook.com%2Fgazetaerepluss%2Fvideos%2F700677963916857%2F&amp;show_text=false&amp;width=476\" style=\"border:none;overflow:hidden\" width=\"476\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_4o0y8etsw.jpg\" style=\"height:290px; width:602px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_yx0rieojm.jpg\" style=\"height:561px; width:585px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 294,
+        "left": 2.42218017578125,
+        "path": "articles/1607294317=صص.jpg",
+        "top": 5.60009765625,
+        "totalHeight": 423,
+        "totalWidth": 528,
+        "watermark_path": "articles/watermark-1607294317=صص.jpg",
+        "width": 523
+    },
+    "post_date": "2020-12-06T22:46:00.000+03:00",
+    "published": [
+        {
+            "id": "5fcd5d6d9b7d5232f32639e6",
+            "link": "https://www.facebook.com/gazetaerepluss/videos/700677963916857",
+            "name": "Gazeta e Re Plus",
+            "origin": "facebook",
+            "path": "sources/0d14c20ce49953d2f926c772bba4ef7cb8e0fe47.jpg"
+        },
+        {
+            "id": "5fcd5d6d57b5d73d523e2713",
+            "link": "https://www.facebook.com/hejobir1/posts/3576264142427818",
+            "name": "Hej o Bir",
+            "origin": "facebook",
+            "path": "sources/1bdddc03adee9c300a74acca2f098d9f6d993ef6.jpg"
+        },
+        {
+            "id": "5f8eb18ba3818a4eb81ad3d2",
+            "link": "https://www.youtube.com/watch?v=c2psFdS0F-I",
+            "name": "قناة يوتيوب",
+            "origin": "",
+            "path": "published/7_1603128187_72cba5bc67b31d9d753cf43c35e93c59a1b0f98d.jpg"
+        },
+        {
+            "id": "5fcd5d6d041e046df624d7f8",
+            "link": "https://www.facebook.com/albaniaviral/videos/844302492999715",
+            "name": "Albania Viral",
+            "origin": "facebook",
+            "path": "sources/5f5ff1c2bcaaf26c830cf34ab5090fe8cedc963e.jpg"
+        },
+        {
+            "id": "5fcd5d6d6a5b3414ad09c95e",
+            "link": "https://www.facebook.com/lipjanitv/videos/374314690325972",
+            "name": "Lipjani Tv",
+            "origin": "facebook",
+            "path": "sources/dc46aa0d54ee50de1d34c03047d10cf4b2638e23.jpg"
+        },
+        {
+            "id": "5fcd5d6d868ac20abf136ca5",
+            "link": "https://www.facebook.com/317393628383494/videos/831404894348643",
+            "name": "&middot;٠&bull;&bull;ღ Urt&euml;sia Islame ღ&bull;&bull;٠&middot;",
+            "origin": "facebook",
+            "path": "sources/959295d9ba55a14e456239ecdc2310ba1026fedd.jpg"
+        },
+        {
+            "id": "5fcd5d6d661fca35654a0f86",
+            "link": "https://twitter.com/Ahmed65593751/status/1335652693499580417",
+            "name": "Ahmed",
+            "origin": "twitter",
+            "path": "sources/0a103bb841a02466f1f78021507e5652a32aba96.jpg"
+        },
+        {
+            "id": "5fcd5d6d581e802e2b654795",
+            "link": "https://www.facebook.com/100005660748436/videos/1511628722369138",
+            "name": "دحمان طيب لطفي",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fcd5d6dca5e877dc63dbc23",
+            "link": "https://konkret24.tvn24.pl/swiat,109/czy-francuscy-policjanci-pladrowali-sklep,898148.html",
+            "name": "konkret24.tvn24.pl",
+            "origin": "",
+            "path": "sources/e98c3ff621ccba38979b98f4a17eb24f0fe8be77.jpg"
+        },
+        {
+            "id": "5fcd5d6d0966db0e82287add",
+            "link": "https://twitter.com/AztecaNoticias/status/946904952810680320?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E946904952810680320%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fkonkret24.tvn24.pl%2Fswiat109%2Fczy-francuscy-policjanci-pladrowali-sklep898148.html",
+            "name": "Azteca Noticias",
+            "origin": "twitter",
+            "path": "sources/2251763905319ca7c5dac7f8cb8e481f4e786736.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "مقطع فيديو للشرطة المكسيكية تسرق الهواتف المحمولة، وليس للفرنسية",
+    "updated_at": "2020-12-07 09:37:00",
+    "url_path": "/factcheck/2020/12/07/مقطع-فيديو-للشرطة-المكسيكية-تسرق-الهواتف-المحمولة-وليس-للفرنسية",
+    "was_notification_pushed": true
+}

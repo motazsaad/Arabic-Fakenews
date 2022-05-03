@@ -1,0 +1,101 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 216,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "caption": "ليس للمقطع المتداول علاقة بالأحداث الجارية حاليًّا",
+    "category": "Spirituality & Religion",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\"><span style=\"background-color:white\"><span style=\"color:#1c1e21\">إفريقيا تنتفض لنصرة رسول الله.</span></span></p>\r\n",
+    "country": "",
+    "created_at": "2020-10-26 19:36:10",
+    "created_by": "5f39b1ee1dd5850789476b61",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 14,
+    "id": "5f96fafa2313437ade3658d2",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقق &quot;مسبار&quot; من مقطع الفيديو ووجد أنه قديم، إذ يعود إلى فعاليات إحياء مولد الشيخ إنياس في نيجيريا عام 2016. وليس للمقطع المتداول علاقة بالأحداث الجارية حاليًّا، كما أنَّ الصوت الذي يُسمع في المقطع المتداول تم إسقاطه على المقطع وهو غير موجود في <a href=\"https://www.youtube.com/watch?v=6e-hPQQpZ-A\" style=\"color:blue; text-decoration:underline\">الفيديو الأصلي</a>.</p>\r\n\r\n<p><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/6e-hPQQpZ-A\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">تداولت بعض الحسابات على موقع فيسبوك منذ أمس، الأحد، مقطع فيديو ادعت أنه لإفريقيين منتفضين لنصرة الرسول محمد، في إشارة إلى التصريحات التي ألقى بها الرئيس الفرنسي إيمانويل ماكرون وأثارت جدلاً واسعاً في الأيام الأخيرة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_au6351sn0.jpg\" style=\"height:545px; width:623px\" />&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_oskv4iqfj.jpg\" style=\"height:497px; width:624px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 373,
+        "left": 22.307113647460938,
+        "path": "articles/16037301695785678.JPG",
+        "top": 30.1171875,
+        "totalHeight": 423,
+        "totalWidth": 692,
+        "watermark_path": "articles/watermark-16037301695785678.JPG",
+        "width": 663
+    },
+    "post_date": "2020-10-26T19:25:00.000+03:00",
+    "published": [
+        {
+            "id": "5f96faf92dd06d2e6c215018",
+            "link": "https://www.facebook.com/100001041154150/posts/3680393255338677/?app=fbl",
+            "name": "محما أبو مازن",
+            "origin": "facebook",
+            "path": "sources/e28077ea7a2b1fd0f7d729e5a637bcc96fdf37e9.jpg"
+        },
+        {
+            "id": "5f96faf93e96c900cf7024c0",
+            "link": "https://www.facebook.com/100004282446858/posts/1818187731667291/?app=fbl",
+            "name": "عبدالكريم الحميري",
+            "origin": "",
+            "path": "sources/fcd6afd8ed071935c72b3c24258643a92e96ae05.jpg"
+        },
+        {
+            "id": "5f96faf9125d114d3c29bbf5",
+            "link": "https://www.facebook.com/profile.php?id=100053741677096",
+            "name": "هيفاء الإمارات",
+            "origin": "facebook",
+            "path": "sources/fcd6afd8ed071935c72b3c24258643a92e96ae05.jpg"
+        },
+        {
+            "id": "5f96faf92a6e68373f0fe809",
+            "link": "https://www.facebook.com/100015742146047/videos/888527078348689/",
+            "name": "ابو رامز الاهدل",
+            "origin": "facebook",
+            "path": "sources/fcd6afd8ed071935c72b3c24258643a92e96ae05.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f8eb18ba3818a4eb81ad3d2",
+            "link": "https://www.youtube.com/watch?v=6e-hPQQpZ-A",
+            "name": "قناة يوتيوب",
+            "origin": "",
+            "path": "published/7_1603128187_72cba5bc67b31d9d753cf43c35e93c59a1b0f98d.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذا المقطع ليس لإفريقيين انتفضوا بفعل تصريحات ماكرون",
+    "updated_at": "2020-10-26 19:39:23",
+    "url_path": "/factcheck/2020/10/26/هذا-المقطع-ليس-لإفريقيين-انتفضوا-بفعل-تصريحات-ماكرون",
+    "was_notification_pushed": "true"
+}

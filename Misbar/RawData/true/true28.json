@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 4647,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "يضطر الأهالي لهذه الطريقة بسبب ارتفاع أجرة سيارة النقل (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">نقل الجثث إلى المقابر على دراجات نارية في جمهورية الكونغو.</p>\r\n",
+    "country": "",
+    "created_at": "2020-07-05 14:05:07",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f01b3e3163be33abc5225d6",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الادعاء صحيح، إذ يلجأ سكان المناطق الريفية، شرق جمهورية الكونغو الديمقراطية، الذين يرغبون في دفن جثث أمواتهم في منازلهم، إلى نقل الجثث من أو إلى المشرحة على الدراجات النارية. وتضطر بعض العائلات الفقيرة إلى تبني هذه الطريقة لأنها لا تملك المال لاستئجار سيارة نقل.</p>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"ltr\">Sur cette moto, le cadavre d&#39;un jeune gar&ccedil;on tu&eacute; &agrave; Misisi. Suite au manque de moyen de transport ad&eacute;quat, le motocycliste s&#39;est d&eacute;brouill&eacute; de sa fa&ccedil;on afin que le corps arrive le corps du jeune homme &agrave; Bukavu. Un vote utile le 23/12/2018. <a href=\"https://t.co/dYKMFoX0Zm\">pic.twitter.com/dYKMFoX0Zm</a></p>\r\n&mdash; Egide Kitumaini (@EgideKitumaini) <a href=\"https://twitter.com/EgideKitumaini/status/1070496014392545282?ref_src=twsrc%5Etfw\">December 6, 2018</a></blockquote>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">يُلف<span style=\"color:#222222\">&nbsp;<a href=\"https://samarew.com/rd-congo-les-cadavres-transportes-a-moto-dans-certaines-zones-rurales-photos/\" style=\"color:blue; text-decoration:underline\">جسد الميت ببطانية،</a> مدعومة من كلا الجانبين بأغصان الأشجار المتصلة بالدراجة النارية </span>وتستغرق عملية النقل قرابة اليوم أحيانا، وعلى مسافة تقدر بمئات الكيلومترات.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">بعض سائقي الدراجات يضعون الملح على الجثث لمنع تدفق السوائل والدماء بسبب الهزات في الطريق. وتدر هذه المهمة <a href=\"https://arts243.skyrock.com/3043500953-Sud-Kivu-Des-taxis-motos-servent-de-corbillards.html\" style=\"color:blue; text-decoration:underline\">أموالاً على السائقين</a> الذين ترتفع أجرتهم اليومية في نقل الموتى إلى حوالي 400 دولار، مقابل 35 دولار في عمليات النقل العادية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"00.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_vg6j7diip.jpg\" style=\"height:585px; width:590px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات إخبارية وحسابات على مواقع التواصل الاجتماعي، منذ 2 يوليو/تموز 2020، خبراً يدّعي نقل جثث الموتى في بعض المناطق في الكونغو على دراجة نارية، بسبب ارتفاع أجور النقل في سيارات الموتى.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"5.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_qr8ifb8qm.jpg\" style=\"height:558px; width:399px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_9clb39a4j.jpg\" style=\"height:512px; width:480px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"8.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_1hobuodi5.jpg\" style=\"height:521px; width:400px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 324,
+        "left": 12.839996337890625,
+        "path": "articles/1593947107cadavre-congo-transportés-en-motos-660x420.jpg",
+        "top": 6.191162109375,
+        "totalHeight": 423,
+        "totalWidth": 620,
+        "watermark_path": "articles/watermark-1593947107cadavre-congo-transportés-en-motos-660x420.jpg",
+        "width": 575
+    },
+    "post_date": "2020-07-05T11:48:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/Photo1story/photos/a.549700905129484/2627222444043976/?type=3&theater",
+            "name": "Photo story",
+            "path": "published/0_1593947106_72940882_2083255121774047_5284760075779440640_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/MansouraCity.Official/posts/3469124893120407",
+            "name": "Mansoura",
+            "path": "published/1_1593947106_95708701_3297445490288349_458077752679989248_n.jpg"
+        },
+        {
+            "link": "https://twitter.com/sufian19952/status/1278659111916273666",
+            "name": "سفيان",
+            "path": "published/2_1593947106_8NxNCg72_400x400.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=2720185514891034&set=gm.705474730029307&type=3&theater",
+            "name": "Hesham Khalifa",
+            "path": "published/3_1593947107_26198435_2030094667233459_2665748599535564180_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=986784411739991&set=pcb.3052457971456565&type=3&theater",
+            "name": "أبو أحمد",
+            "path": "published/4_1593947107_13331086_133708317047609_1613395250055797886_n.jpg"
+        }
+    ],
+    "result": "true",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://gnadoemagazine.com/on-transporte-des-cadavres-a-moto-dans-certaines-zones-rurales-au-congo-rdc/",
+            "name": "gnadoe magazine",
+            "path": "sources/0_1593947107_D9wJv4YM_400x400.jpg"
+        },
+        {
+            "link": "http://groupearcenciel.over-blog.com/2015/10/walikale-des-motos-comme-corbillards-ont-la-cote-pour-le-transport-des-morts.html",
+            "name": "groupearcenciel.over",
+            "path": "sources/1_1593947107_8.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "في مناطق شرق الكونغو تنقل الجثث على دراجات نارية",
+    "updated_at": "2020-09-25 03:38:14",
+    "url_path": "/factcheck/2020/07/05/في-مناطق-شرق-الكونغو-تنقل-الجثث-على-دراجات-نارية"
+}

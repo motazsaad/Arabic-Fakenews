@@ -1,0 +1,90 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 7459,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "عدد الإصابات الذي أعلنته وزارة الصحة بلغ 44 إصابة (Getty)",
+    "category": "Health",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">وزارة الصحة اللبنانية: تسجيل 173 إصابة جديدة بفايروس كورونا المستجد في لبنان بتاريخ 9 يوليو/تموز 2020.</span></p>\r\n",
+    "country": "LB",
+    "created_at": "2020-07-10 19:53:20",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f089d00163be30676331628",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من الخبر المتداول ووجد أنه زائف، إذ أعلنت وزارة الصحة العامة اللبنانية أنّ عدد الإصابات المحلية الجديدة بكوفيد-19، المسجلة بتاريخ 9 يوليو/تموز الجاري، بلغ 44 إصابة، أما الوفادة 22 إصابة.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">ومن الجدير بالذكر، أنّ <a href=\"https://www.facebook.com/mophleb/posts/2365330970443227\" target=\"_blank\">إجمالي</a> الإصابات المسجّلة بكوفيد-19 في لبنان حتى تاريخ 10 يوليو/تموز 2020، بلغ 1440 إصابة.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"620\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmophleb%2Fposts%2F2364487577194233&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "لبنان",
+        "كورونا",
+        "فيروس كورونا",
+        "كوفيد-19"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تناقلت صفحات وحسابات على مواقع التواصل الاجتماعي، بتاريخ 9 يوليو/تموز الجاري، خبراً مفاده إعلان وزارة الصحة اللبنانية عن تسجيل 173 إصابة جديدة بفايروس كورونا المستجد في ذلك اليوم.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_qlrvj654q.jpg\" style=\"height:338px; width:534px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_6mm7thj5b.jpg\" style=\"height:229px; width:534px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1594411113GettyImages-12237218166.jpg",
+        "watermark_path": "articles/watermark-1594411113GettyImages-12237218166.jpg"
+    },
+    "post_date": "2020-07-10T19:48:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/salmanonline/status/1281185322165043203",
+            "name": "Salman Andary",
+            "path": "published/0_1594400721_سلمان.jpg"
+        },
+        {
+            "link": "https://twitter.com/danasafar33/status/1281193338402725888",
+            "name": "danasafar33",
+            "path": "published/1_1594400721_دانة.jpg"
+        },
+        {
+            "link": "https://twitter.com/hasanmohsen21/status/1281183406290804737",
+            "name": "Hasan Mohsen",
+            "path": "published/2_1594400721_حست.jpg"
+        },
+        {
+            "link": "https://twitter.com/mahmoudkishkish/status/1281186365233823744",
+            "name": "Mahmoudkl",
+            "path": "published/3_1594400721_محمود.jpg"
+        },
+        {
+            "link": "https://twitter.com/Tonighost2/status/1281186683656929280",
+            "name": "Tonighost",
+            "path": "published/4_1594400721_توني.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/mophleb/posts/2364487577194233",
+            "name": "وزارة الصحة العامة اللبنانية",
+            "path": "sources/0_1594399999_الصحة.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "كورونا لبنان: الصحة لم تسجل 173 إصابة جديدة يوم 9 يوليو",
+    "updated_at": "2020-09-23 12:26:44",
+    "url_path": "/factcheck/2020/07/10/كورونا-لبنان-الصحة-لم-تسجل-173-إصابة-جديدة-يوم-9-يوليو"
+}

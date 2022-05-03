@@ -1,0 +1,120 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 153,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "الصورة في البرازيل عام 2004  (انستغرام)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">&quot;هذه الصورة ليست في فلسطين المحتلة بل هي في مصر المحتلة من قبل العسكر&quot;.</p>\r\n",
+    "country": "EG",
+    "created_at": "2020-09-27 19:58:23",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 4,
+    "id": "5f70c4af8517ec4d3d404032",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة ليجدها مضللة؛ فالصورة تعود إلى طفل يدعى <span dir=\"LTR\" lang=\"EN-US\">Zoinho</span> وهو يحاول مواجهة الحرس المدني المتروبوليتاني (<span dir=\"LTR\" lang=\"EN-US\">GCM</span>) أثناء محاولتهم إغلاق محلات الباعة الذين يعملون دون ترخيص في مدينة ساو باولو بالبرازيل عام 2004.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">والجدير ذكره أن الصورة حصلت على جائزة &quot;<span dir=\"LTR\" lang=\"EN-US\">ESOO</span>&quot; للصحافة، وتعود إلى المصور <span dir=\"LTR\" lang=\"EN-US\">Evandro Monteiro</span>.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\" lang=\"AR-SY\"><img id=\"صورة_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/investigation_0vx5gb35n.jpg\" style=\"height:361.8pt; width:470.4pt\" /> <img id=\"صورة_x0020_2\" src=\"https://images-prod.misbar.com/articlebody/investigation_odpyrsp3g.jpg\" style=\"height:229.8pt; width:470.4pt\" /> </span></strong></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول حسابات على موقع التواصل الاجتماعي تويتر، منذ 26 سبتمبر/أيلول الجاري، صورةً لطفل يقف وسط شارع منتزعاً كنزته، نافخاً صدره في تحدٍ لعناصر قوات الأمن الذين يقفون أمامه، وقال ناشرو الصورة إنّها &quot;لطفل بطل من مصر المحتلة&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\" lang=\"AR-SY\"><img id=\"صورة_x0020_3\" src=\"https://images-prod.misbar.com/articlebody/origin_3xkejd0u3.jpg\" style=\"height:649.2pt; width:470.4pt\" /> <img id=\"صورة_x0020_4\" src=\"https://images-prod.misbar.com/articlebody/origin_l0up3ndx4.jpg\" style=\"height:531pt; width:470.4pt\" /> <img id=\"صورة_x0020_5\" src=\"https://images-prod.misbar.com/articlebody/origin_b5jf3buog.jpg\" style=\"height:600.6pt; width:470.4pt\" /></span></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 275,
+        "left": 4.29998779296875,
+        "path": "articles/160122590299.JPG",
+        "top": 5.275146484375,
+        "totalHeight": 423,
+        "totalWidth": 501,
+        "watermark_path": "articles/watermark-160122590299.JPG",
+        "width": 490
+    },
+    "post_date": "2020-09-27T18:31:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": " https://twitter.com/LionKin59252140/status/1309839402789552132",
+            "name": "Lion king",
+            "path": "published/0_1601225901_ق4.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/RD_Syria/status/1309945350346739713?s=19",
+            "name": "الرادع السوري الحر ",
+            "path": "published/1_1601225901_ق4.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/HishammAbdullah/status/1309613951899045893?s=19",
+            "name": "Hesham Abdalla - هشام عبدالله",
+            "path": "published/2_1601225901_ق4.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/boualembenchab2/status/1309768674090332160",
+            "name": "Eşkıya Dünyaya Hükümdar olmaz",
+            "path": "published/3_1601225902_ق4.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/Fadl200966Memo/status/1309616041941753857",
+            "name": "Memo Fadl",
+            "path": "published/4_1601225902_ق4.JPG"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/2064342237127280/photos/a.2078298485731655/2329144633980371/?type=3&theater",
+            "name": "Rap, soul black",
+            "path": "sources/0_1601225902_38391854_2259050230989812_918439332744790016_n.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.instagram.com/p/BrI5Mh9nKUK/?utm_source=ig_share_sheet&igshid=pboyohztq0gj",
+            "name": "imagens.historia",
+            "path": "sources/1_1601225902_ممم.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.flickr.com/photos/dignaimagem/5097646043/",
+            "name": "Digna Imagem",
+            "path": "sources/2_1601225902_لالا.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://jhameia.tumblr.com/post/9316367757/strugglingtobeheard-thesavagesalad",
+            "name": "jhameia.tumblr",
+            "path": "sources/3_1601225902_avatar_33e4e5c85a36_64.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": " الطفل الذي يتحدى قوات الأمن في البرازيل وليس بمصر",
+    "updated_at": "2020-09-28 12:44:17",
+    "url_path": "/factcheck/2020/09/27/هذا-الطفل-الذي-يتحدى-قوات-الأمن-في-البرازيل-وليس-بمصر",
+    "was_notification_pushed": true
+}

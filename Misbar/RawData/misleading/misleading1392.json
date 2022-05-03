@@ -1,0 +1,86 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 1,
+        "fb": 1,
+        "tw": 1
+    },
+    "amount_sources": 0,
+    "amount_visits": 1443,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "category": "Spirituality & Religion",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:#1d2129\">الصين تحرق القرآن والكتب الدينية والسجادات وكل ما يتعلق بالإسلام في تركستان الشرقية.</span></span></p>\r\n",
+    "country": "CN",
+    "created_at": "2020-01-27 16:39:07",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e2ee7fbd4a2294ddf3c1b73",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الصور غير صحيحة. إذ وجد &quot;مسبار&quot; أنّ الصورة الأولى التي يظهر فيها مجموعة أشخاص، ترجع إلى يناير/ كانون الثاني عام 2014، وتُصوّر إتلاف مطبوعات غير قانونية في مقاطعة شينغيانغ الصينية. في حين إنّ الصورتين الأخريين من عام 2016، عندما أتلفت السفارة السعودية في المغرب مجموعة نسخ من القرآن الكريم، إضافة إلى عدد من الكتب الدينية كانت الأمطار قد بلّلتها.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_16fa6b5cb4c9fd6a23af6af3d3e8a11f.jpg\" style=\"height:440px; width:410px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">شارك آلاف المستخدمين على موقع التواصل الاجتماعي فيسبوك، ثلاث صور قالوا إنها تُظهر حرق السلطات الصينية لنسخ من المصحف الشريف في تركستان الشرقية. وجاء في المنشور المتداول &quot;عندما أُحرق القرآن في أوروبا قامت الدنيا وعرف الجميع، أما في تركستان الشرقية يحرق آلاف من القرآن ولا أحد يهتم للأسف&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_812c5bd5182b776d044fd031807b22ec.jpg\" style=\"height:474px; width:342px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_08723958b306ccb23e6af60b9483b505.jpg\" style=\"height:466px; width:352px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 355,
+        "left": 0.4349365234375,
+        "path": "articles/1580132347GettyImages-1190079102.jpg",
+        "top": 55,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "width": 632
+    },
+    "post_date": "2020-01-27T16:30:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/sdfghj51/posts/2510965969151528",
+            "name": "أبو عيسى الخادم",
+            "path": "published/0_1580132346_أبو عيسى الخادم-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=176250703451819&id=100032006704366",
+            "name": "زيد علي علي الجسار",
+            "path": "published/1_1580132347_زيد علي الجسار-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/112904720237041/photos/a.112909173569929/113582896835890/?type=3&theater",
+            "name": "أبواب متفرقة",
+            "path": "published/2_1580132347_أبواب متفرقة-لوغو.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "http://xj.people.com.cn/n/2014/0111/c188524-20363387.html",
+            "name": "People",
+            "path": "sources/0_1580132346_people-logo.jpg"
+        },
+        {
+            "link": "https://ifpnews.com/qurans-put-garbage-saudi-embassy-morocco-cause-fury",
+            "name": "IFP News",
+            "path": "sources/1_1580132346_IFP news-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الصين تحرق المصاحف في تركستان الشرقية... ما حقيقة الصور المتداولة؟",
+    "updated_at": "2020-09-24 22:17:24",
+    "url_path": "/factcheck/2020/01/27/الصين-تحرق-المصاحف-في-تركستان-الشرقية-ما-حقيقة-الصور-المتداولة"
+}

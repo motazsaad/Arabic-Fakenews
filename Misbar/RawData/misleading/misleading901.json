@@ -1,0 +1,109 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2110,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "الخط المستخدم في الكلام على الدرع يسمى خط الثُلُث (فيسبوك)",
+    "category": "Spirituality & Religion",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">هذا درع الرسول عليه الصلاة والسلام.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-07-14 17:25:41",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 3,
+    "id": "5f0dc065163be306b0754f66",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; وتبين أنّ الادعاء مضلل، لأن موقع <span style=\"color:#0563c1\"><u><a href=\"https://www.pinterest.es/pin/549861435745370598/\" style=\"color:#0563c1; text-decoration:underline\">pinterest</a></u></span> المتخصص في حفظ الصور، نشر الصورة عام 2016، وقال إنها تعود لدرع محارب في عهد الدولة العثمانية. وبالفحص أكثر حول الصورة وجد &quot;مسبار&quot; أنّ الخط المستخدم في الكلام المكتوب على الدرع، يسمى&nbsp;<a href=\"https://ar.wikipedia.org/wiki/%D8%AE%D8%B7_%D8%A7%D9%84%D8%AB%D9%84%D8%AB\" style=\"color:#0563c1; text-decoration:underline\">خط</a> الثُلُث، وهو نوع من الخطوط العربية، ظهر لأول مرة في القرن الرابع الهجري، أي بعد <a href=\"https://www.islamweb.net/ar/fatwa/19239/%D9%88%D9%81%D8%A7%D8%A9-%D8%A7%D9%84%D9%86%D8%A8%D9%8A-%D8%B5%D9%84%D9%89-%D8%A7%D9%84%D9%84%D9%87-%D8%B9%D9%84%D9%8A%D9%87-%D9%88%D8%B3%D9%84%D9%85\" style=\"color:#0563c1; text-decoration:underline\">وفاة</a> النبي محمد بسنوات. والذي توفي في الثاني عشر من ربيع الأول من السنة الحادية عشرة للهجرة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_t4ukxkfjv.jpg\" style=\"height:298px; width:623px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وجد &quot;مسبار&quot; أيضاً بعض التصميمات الفنية لفترة العثمانيين، نشرها مصمم تركي على موقع <a href=\"https://www.artstation.com/artwork/kbOWz\" style=\"color:#0563c1; text-decoration:underline\">artstation</a> للصور، ويظهر فيها درع قريب جداً في الشكل من صورة الدرع المتداول.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_63oy04aad.jpg\" style=\"height:546px; width:624px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">يتداول مستخدمون لمواقع التواصل الاجتماعي حديثاً ومنذ سنوات، صورة مرفق معها تعليق يقول &quot;هذا درع الرسول عليه الصلاة والسلام&quot;.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_uc36xfmbh.jpg\" style=\"height:642px; width:462px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_my6am8zsr.jpg\" style=\"height:594px; width:452px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ldtu2cr0t.jpg\" style=\"height:592px; width:469px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/159473674185.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-159473674185.jpg",
+        "width": 752
+    },
+    "post_date": "2020-07-14T17:21:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/groups/650611681688861/permalink/3018545548228784/",
+            "name": "صالح بن عبدالله",
+            "path": "published/0_1594736740_صالح بن عبدالله.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/nessaelgana/photos/a.920092751355615/3617620604936136/?type=3&theater",
+            "name": "نساء الجنة",
+            "path": "published/1_1594737819_نساء الجنة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/mo7amedhasan0/posts/131117838643333",
+            "name": "محمد حسان",
+            "path": "published/2_1594736866_محمد حسان.jpg"
+        },
+        {
+            "link": "https://twitter.com/snaae123/status/1276576356856467457",
+            "name": "احساس مصريه",
+            "path": "published/3_1594736866_احساس مصريه.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Amier.Mohamed2020/photos/a.183605439252779/395555144724473/?type=3&theater",
+            "name": "احباب الرسول",
+            "path": "published/4_1594736866_احباب الرسول.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.pinterest.es/pin/549861435745370598/",
+            "name": "pinterest",
+            "path": "sources/0_1594736741_pinterest.jpg"
+        },
+        {
+            "link": "https://www.islamweb.net/ar/fatwa/19239/%D9%88%D9%81%D8%A7%D8%A9-%D8%A7%D9%84%D9%86%D8%A8%D9%8A-%D8%B5%D9%84%D9%89-%D8%A7%D9%84%D9%84%D9%87-%D8%B9%D9%84%D9%8A%D9%87-%D9%88%D8%B3%D9%84%D9%85",
+            "name": "إسلام ويب ",
+            "path": "sources/1_1594736941_اسلام.jpg"
+        },
+        {
+            "link": "https://ar.wikipedia.org/wiki/%D8%AE%D8%B7_%D8%A7%D9%84%D8%AB%D9%84%D8%AB",
+            "name": "ويكيبيديا ",
+            "path": "sources/2_1594736941_ويك.jpg"
+        },
+        {
+            "link": "https://www.artstation.com/artwork/kbOWz",
+            "name": "artstation",
+            "path": "sources/3_1594736941_artstation.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "الصورة ليست لدرع النبي محمد.. حقيقة القصة",
+    "title": "الصورة ليست لدرع النبي محمد.. حقيقة القصة",
+    "updated_at": "2020-09-25 21:43:00",
+    "url_path": "/factcheck/2020/07/14/الصورة-ليست-لدرع-النبي-محمد-حقيقة-القصة"
+}

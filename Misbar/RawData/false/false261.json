@@ -1,0 +1,127 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 191,
+    "author": {
+        "fullname": "محمد الخالدي",
+        "id": "5ef9dcff163be306aa5d2826",
+        "photo": {
+            "name": "1593433343_48252779_2179011148784786_3755534693705973760_o.jpg",
+            "path": "authors/1593433343_48252779_2179011148784786_3755534693705973760_o.jpg"
+        }
+    },
+    "caption": "الجيش المصري استهدف مركب لثلاثة أشقاء يعملون صيادين في بحر غزة (صفا نيوز)",
+    "category": "News",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">الجيش المصري تمكن من استهداف زورق يتبع تنظيم&nbsp;بيت المقدس بعد اجتيازه الحدود البحرية المصرية.</span></p>\r\n",
+    "country": "PS",
+    "created_at": "2020-09-27 11:57:47",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 12,
+    "feedback_pos": 26,
+    "id": "5f70540b3a378922bc3f11b2",
+    "investigation": "<p style=\"text-align:center\"><span dir=\"RTL\" lang=\"AR-SA\">تحقّق &quot;مسبار&quot; من الخبر، ووجده مُضلل، إذ تبين أنّ الجيش المصري قد استهدف قارب صيد فلسطيني، فجر يوم الجمعة، الموافق 25 سبتمبر/أيلول الجاري، وعلى متنه ثلاثة أشقاء في عرض بحر رفح جنوب قطاع غزة، ما أدى إلى مقتل اثنين منهم وهما حسن ومحمود زعزوع، أما شقيقهم الثالث ياسر لا يزال لدى السلطات المصرية يتلقى العلاج، بحسب وزارة الداخلية بغزة. </span></p>\r\n\r\n<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">وقالت والدة الصيادين الثلاثة&nbsp;لقنوات&nbsp; محلية &quot;راحوا عشان لقمة العيش، وحسن كان يجهز لحفل زفافه، ضل ياسر&nbsp;هاتوا لي ياسر أبرد فيه نار قلبي&quot;.</span><br />\r\n<span dir=\"RTL\" lang=\"AR-SA\">وأعلن نقيب الصيادين الفلسطينيين نزار عياش، عن إغلاق بحر غزة لمدة يومين، حداداً على الشقيقين.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_tn55bkfmh.jpg\" style=\"height:131px; width:624px\" /><img src=\"https://images-prod.misbar.com/articlebody/investigation_oprkne5dy.jpg\" style=\"height:314px; width:624px\" /></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"313\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FGazaplus0%2Fvideos%2F3603193406397493%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت حسابات على موقع التواصل الاجتماعي فيسبوك، بتاريخ 25 سبتمبر/ أيلول الجاري، خبراً ادعت فيه أنّ الجيش المصري تمكن من استهداف زورق يتبع تنظيم&nbsp;بيت المقدس بعد اجتيازه الحدود البحرية المصرية، ما أدى إلى مقتل اثنين منهم واعتقال ثالث، مؤكدة بأنّ الجيش المصري سيواصل واجبه المقدس في الدفاع عن أرض الوطن.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_k7rq3p8rk.jpg\" style=\"height:245px; width:624px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_5pqak4jft.jpg\" style=\"height:248px; width:623px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 352,
+        "left": 2.79998779296875,
+        "path": "articles/1601197066N4sik.png",
+        "top": 9.574951171875,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1601197066N4sik.png",
+        "width": 626
+    },
+    "post_date": "2020-09-27T10:27:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/leflash.leflashfr/posts/3911353565546505",
+            "name": "Omar Hashish",
+            "path": "published/0_1601197065_قققف.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/photo?fbid=1230114434001856&set=gm.635481600487449",
+            "name": "Nahla Zaki",
+            "path": "published/1_1601197065_قققف.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=105458161320222&id=100055681149633",
+            "name": "عاطف بندق",
+            "path": "published/2_1601197066_قققف.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/bero.elmasry.351/posts/159735262465508",
+            "name": "Bero Elmasry",
+            "path": "published/3_1601197066_قققف.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/groups/481675875270913/permalink/3096540857117722/",
+            "name": "Nahed Fouad",
+            "path": "published/4_1601197066_قققف.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/groups/422625365280281/permalink/631429181066564/",
+            "name": "عمر المصري",
+            "path": "published/5_1601197066_قققف.JPG"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/moigovps/posts/5196432920382856",
+            "name": "وزارة الداخلية بغزة",
+            "path": "sources/0_1601198069_15895746_1794211873938328_5234353298581072846_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.alwatanvoice.com/arabic/news/2020/09/26/1370347.html",
+            "name": "دنيا الوطن",
+            "path": "sources/1_1601198069_444.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://hamas.ps/ar/post/12524",
+            "name": "حركة حماس",
+            "path": "sources/2_1601198069_ففف.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://jehad.ps/post/1297",
+            "name": "حركة الجهاد الإسلامي",
+            "path": "sources/3_1601200703_جهاد.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صيادون من غزة استهدفتهم نيران الجيش المصري وليسوا عناصر في تنظيم بيت المقدس",
+    "updated_at": "2020-09-27 13:07:12",
+    "url_path": "/factcheck/2020/09/27/الجيش-المصري-قتل-صيادين-في-بحر-غزة-ليس-لهم-علاقة-بتنظيم-بيت-المقدس",
+    "was_notification_pushed": true
+}

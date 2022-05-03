@@ -1,0 +1,108 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 9144,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": " الطفلة تسير على خطى والدتها الأميركية في النجومية(Instagram)",
+    "category": "Arts & Culture",
+    "claim": "<p>الطفلة شمس ذات الملامح المختلطة، لأب سوداني وأم سويسرية.</p>\r\n",
+    "country": "",
+    "created_at": "2020-09-06 13:19:48",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 1,
+    "id": "5f54b7c42759800d9e1df61d",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من المعلومات الواردة في المنشورات السابقة، ووجد أنها غير صحيحة؛&nbsp;فالطفلة لأبوين أميركيّين، إذ أن والدها من أصل أفريقي، ووالدتها هي الأميركية كيت سالزانو وهي نجمة انستغرام شهيرة شقراء، وابنتها التي هي كايا روز تسير على الدرب ذاته؛ فقد شاركت منذ ولادتها بمئات الإعلانات التجارية لـعلامات شهيرة تصمم ملابس وأحذية وذلك لجمالها المميز والمختلط حيث تجمع بين الشعر الأشقر لكن المجعد والبشرة السمراء لكن بعينين خضراوين.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">ويبدو أن ملامح الطفلة المختلطة حيّرت كثير من وسائل الإعلام العالمية؛ فقد نشرت مواقع بولندية وروسية أن الطفلة هي ابنة لاعب الكرة الأميركية الشهير ميشيل بينت، إلا أن الأخير متزوج سيدة أميركية من أصل أفريقي وأطفالهما غير مختلطي الملامح، كما أن صورته تختلف عن صورة والد كايا.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_4haahi3or.jpg\" style=\"height:398px; width:605px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/investigation_oc7z1rfsa.jpg\" style=\"height:533px; width:605px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/investigation_gsixt2c6h.jpg\" style=\"height:398px; width:605px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت حسابات على وسائل التواصل الاجتماعي منذ أغسطس/آب المنصرم حتى اللحظة، صورة لطفلة شقراء بشعر مجعد، قائلة أن أم الطفلة سويسرية والأب سوداني، وأحياناً يكتبون اسمها كايا وأحياناً أخرى شمس.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_bgi066296.jpg\" style=\"height:647px; width:593px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_kxhelm5tf.jpg\" style=\"height:389px; width:605px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_rugyccnya.jpg\" style=\"height:397px; width:582px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_p8v132ml6.jpg\" style=\"height:449px; width:605px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1599395982Screen Shot 2020-09-06 at 3.30.07 PM.jpg",
+        "watermark_path": "articles/watermark-1599395982Screen Shot 2020-09-06 at 3.30.07 PM.jpg"
+    },
+    "post_date": "2020-09-06T12:15:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/nafad21/status/1299337048273362952",
+            "name": "عبار",
+            "path": "published/0_1599391771_6_1596888660_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/AmeeraAdelMDH1/status/1299023975297802241",
+            "name": " Mereet dola",
+            "path": "published/1_1599391771_6_1596888660_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/RadioNisaa/posts/10157517136523483",
+            "name": "RadioNisaa",
+            "path": "published/2_1599391771_0_1596888660_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://wiesz.io/ta-dziewczynka-to-prawdziwy-cud-jest-po-prostu-piekna/",
+            "name": "wiesz",
+            "path": "published/3_1599391771_ثثثثث.JPG"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://trendingcelebsnow.com/katie-salzano-net-worth/",
+            "name": "trending celebs now",
+            "path": "sources/0_1599391771_ص.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.instagram.com/explore/tags/kaiarose/",
+            "name": " Kaia Rose",
+            "path": "sources/1_1599391771_روز.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.instagram.com/katie.and.kaia/",
+            "name": "katie.and.kaia",
+            "path": "sources/2_1599391771_ب.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.sbnation.com/2017/1/7/14198726/michael-bennett-kicker-shoulder-pads-seahawks",
+            "name": "sbnation",
+            "path": "sources/3_1599391772_ddd.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الطفلة اسمها كايا ووالدها ليس سودانياً",
+    "updated_at": "2020-09-25 22:06:43",
+    "url_path": "/factcheck/2020/09/06/هذه-الطفلة-اسمها-كايا-ووالدها-ليس-سودانيا",
+    "was_notification_pushed": true
+}

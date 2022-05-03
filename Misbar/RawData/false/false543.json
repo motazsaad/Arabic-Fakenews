@@ -1,0 +1,112 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 2,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 15634,
+    "author": {
+        "fullname": "أمين العطلة",
+        "id": "5e20299dd4a22961d73b6713",
+        "photo": {
+            "path": "authors/1579676161_Ameen.jpg"
+        }
+    },
+    "caption": "الحكومة الإثيوبية أعلنت أنّ برنامج تعبئة السد سيتم حسب الزمن المحدد له (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">هبوط أرض سد النهضة 30 سم.</p>\r\n",
+    "country": "ET",
+    "created_at": "2020-06-30 14:24:00",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5efb20d0163be306d92d6127",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الخبر المتداول زائف، إذ تحقق &quot;مسبار&quot; من المواقع الرسمية ولم يجد له ذكر في إيٍّ منها، كما أن اّخر التصريحات للمسؤولين الإثيوبيين تفيد بأن برنامج تعبئة السد سيتم حسب الزمن المحدد له<span dir=\"LTR\">.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وكانت الحكومة الإثيوبية أعلنت في بيان صحفي في 27 حزيران/يونيو الجاري، عقب قمة مصغرة لرؤساء الدول الأعضاء بهيئة مكتب رئاسة الاتحاد الأفريقي، &quot;أنّ برنامج تعبئة السد سيتم حسب الزمن المحدد له خلال أسبوعين&quot;، ما يؤكد عدم وجود خلل في السد كما ذكر ناشرو الادعاء.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"Picture_x0020_9\" src=\"https://images-prod.misbar.com/articlebody/investigation_bbw8gfb44.jpg\" style=\"height:572.25pt; width:441.75pt\" /> </span></p>\r\n\r\n<p><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/iq1ZizhFtA0\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "إثيوبيا",
+        "سد النهضة",
+        "مصر",
+        "زائف",
+        "مفبرك"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">نشرت حسابات على مواقع التواصل الإجتماعي ومواقع إخبارية خبراً عاجلاً يفيد بأنّ سند النهضة هبط بمقدار 30 سم، وجاء في الخبر الذي حظي باّلاف المشاركات &quot;</span><span style=\"color:black\">&rlm;مبروك لأثيوبيا هبوط أرض السد 30&nbsp;سم، عرفتوا ليه عوزينا نضربه علشان ندفع ٦ مليار دولار تعويض لان السد به عيوب كثيرة&quot;.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"color:black\"><img id=\"Picture_x0020_5\" src=\"https://images-prod.misbar.com/articlebody/origin_zvu6w7eln.jpg\" style=\"height:226.5pt; width:268.5pt\" /> </span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"color:black\"><img id=\"Picture_x0020_6\" src=\"https://images-prod.misbar.com/articlebody/origin_bnaag6zjl.jpg\" style=\"height:189pt; width:326.25pt\" /> </span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"color:black\"><img id=\"Picture_x0020_7\" src=\"https://images-prod.misbar.com/articlebody/origin_nohjwqyfi.jpg\" style=\"height:212.25pt; width:315.75pt\" /> </span></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 353,
+        "left": 2.0892791748046875,
+        "path": "articles/1593516239GettyImages-1192325369.jpg",
+        "top": 55.473876953125,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1593516239GettyImages-1192325369.jpg",
+        "width": 628
+    },
+    "post_date": "2020-06-30T14:01:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/113561260300382/photos/a.114425710213937/151103499879491/?type=3&theater",
+            "name": "كلنا فداكي يامصر",
+            "path": "published/0_1593516238_كلنا فداكي يامصر.jpg"
+        },
+        {
+            "link": "https://twitter.com/Mohamed54624766/status/1276098727124635648",
+            "name": "Mohamed elbestawy",
+            "path": "published/1_1593516238_Mohamed elbestawy.jpg"
+        },
+        {
+            "link": "https://twitter.com/amal_yousef9/status/1275166278228025345",
+            "name": "Emma I",
+            "path": "published/2_1593516238_Emma I.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1186191575063754&id=699209987095251",
+            "name": "أحداث وأخبار الأقصر",
+            "path": "published/3_1593516239_أحداث وأخبار الأقصر.jpg"
+        },
+        {
+            "link": "https://akhbarel3alam.com/%D8%B9%D8%A7%D8%A7%D8%A7%D8%A7%D8%A7%D8%A7%D8%A7%D8%A7%D8%A7%D8%A7%D8%A7%D8%A7%D8%AC%D9%84-%D9%88%D8%A7%D9%84%D9%84%D9%87-%E2%80%8F%D9%85%D8%A8%D8%B1%D9%88%D9%83-%D9%84%D8%A3%D8%AB%D9%8A%D9%88%D8%A8/",
+            "name": "جريدة أخبار العالم",
+            "path": "published/4_1593516239_جريدة اخبار العالم.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/PMEthiopia/status/1276772158564380672/photo/1",
+            "name": "Office of the Prime Minister - Ethiopia",
+            "path": "sources/0_1593516239_Office of the Prime Minister - Ethiopia.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/seleshibekele.awulachew/posts/3077328649010320",
+            "name": "وزير الري الإثيوبي",
+            "path": "sources/1_1593516239_وزير الري الإثيوبي.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=iq1ZizhFtA0",
+            "name": "الجزيرة",
+            "path": "sources/2_1593516239_الجزيرة.jpg"
+        },
+        {
+            "link": "https://www.bbc.com/arabic/middleeast-52636817",
+            "name": "BBC",
+            "path": "sources/3_1593516239_BBC NEWS-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "مواقع إخبارية وحسابات مصرية تداولت الخبر من أسبوع",
+    "title": "سد النهضة لم يهبط 30 سنتيمتراً",
+    "updated_at": "2020-09-25 22:14:37",
+    "url_path": "/factcheck/2020/06/30/سد-النهضة-لم-يهبط-30-سم"
+}

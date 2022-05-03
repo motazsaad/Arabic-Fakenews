@@ -1,0 +1,144 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 300,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "الصورة قديمة ومتداولة منذ سنوات (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">انفجار لغم أرضي في سيارة جنود مغاربة في منطقة&nbsp;السمارة.</span></p>\r\n",
+    "country": "MA",
+    "created_at": "2020-12-06 12:07:04",
+    "created_by": "5f39b5a51dd585076701cb94",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 23,
+    "feedback_pos": 29,
+    "id": "5fcc9f389785104c5807d4d6",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;<a href=\"https://misbar.com/tags/%D8%A7%D9%84%D8%B5%D8%AD%D8%B1%D8%A7%D8%A1%20%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9\" style=\"color:#0563c1; text-decoration:underline\" target=\"_blank\">مسبار</a>&quot; من الصورة المتداولة وتبين أن الادعاء مضلل، وليست لانفجار لغم في عربة جنود&nbsp;مغربية. ولم يتسن لمسبار التعرف على أصل الصورة، لكن وجد أنها قديمة ومتداولة منذ سنوات مع أخبار ومواضيع تتعلق بانفجارات في أكثر من دولة.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_csd6gz83t.jpg\" style=\"height:323px; width:624px\" /></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">وجاء انتشار الصورة المتداولة تزامناً مع توترات عسكرية تشهدها منطقة الصحراء الغربية، بين الجيش المغربي وقوات جبهة البوليساريو، منذ 13 نوفمبر/نشرين الأول الفائت، عقب&nbsp;قيام القوات المسلحة المغربية ببناء جدار أمني عند معبر الكركرات الحدودي.&nbsp;الأمر الذي اعتبرته قوات الجبهة خرقاً لوقف إطلاق النار المتفق عليه والذي استمر لثلاثة عقود.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">اقرأ/ي أيضاً:</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><a href=\"https://misbar.com/tags/%D8%A7%D9%84%D8%B5%D8%AD%D8%B1%D8%A7%D8%A1%20%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9\" style=\"color:#0563c1; text-decoration:underline\">شائعات عن الصحراء الغربية</a></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/12/03/%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9-%D9%84%D9%8A%D8%B3%D8%AA-%D9%84%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84-%D8%B3%D9%8A%D8%AF%D8%A9-%D9%87%D8%A7%D8%AC%D9%85%D8%AA-%D9%85%D8%B8%D8%A7%D9%87%D8%B1%D8%A9-%D8%B5%D8%AD%D8%B1%D8%A7%D9%88%D9%8A%D8%A9-%D9%81%D9%8A-%D8%A8%D9%84%D8%AC%D9%8A%D9%83%D8%A7\" style=\"color:#0563c1; text-decoration:underline\">الصورة ليست لاعتقال سيدة هاجمت مظاهرة صحراوية في بلجيكا</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات وصفحات على&nbsp;مواقع التواصل الاجتماعي، حديثاً، صورة ادعت أنها لحظة انفجار لغم أرضي في عربة جنود مغربية ناحية&nbsp;منطقة السمارة، جنوب المغرب. </span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_cy1dipcgx.jpg\" style=\"height:560px; width:624px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ako9rm0pu.jpg\" style=\"height:546px; width:624px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1607245624unnamed.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1607245624unnamed.jpg",
+        "width": 752
+    },
+    "post_date": "2020-12-06T12:01:00.000+03:00",
+    "published": [
+        {
+            "id": "5fb689862cce12026b5e337e",
+            "link": "https://www.facebook.com/achwaqaaFsahara/photos/a.2237021293219578/2815585052029863/",
+            "name": "أش واقع فالصحراء ؟",
+            "origin": "facebook",
+            "path": "sources/9fed3d3d14fef3646051d22860d7b24d55ccefa3.jpg"
+        },
+        {
+            "id": "5fcca012f1ac026ea72b0e3c",
+            "link": "https://www.facebook.com/alie.abbou/posts/383662879730195",
+            "name": "Alie Abbou",
+            "origin": "facebook",
+            "path": "sources/770085f06aadef856dfae7f25fca090afbd79e11.jpg"
+        },
+        {
+            "id": "5fcca012ca95d87fad29c8ba",
+            "link": "https://www.facebook.com/abderrahim.bouaaza.7/posts/168731321650168?__tn__=%2CO%2CP-R",
+            "name": "Abderrahim",
+            "origin": "facebook",
+            "path": "sources/770085f06aadef856dfae7f25fca090afbd79e11.jpg"
+        },
+        {
+            "id": "5fcca01321e55d46fe7c986a",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=803278493859627&id=100025324512703&__tn__=%2CO%2CP-R",
+            "name": "افديك بروحي يا وطني",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        },
+        {
+            "id": "5fcca0138dacd44955109d77",
+            "link": "https://www.facebook.com/aziki.aziz/posts/739727649973331?__tn__=%2CO%2CP-R",
+            "name": "Aziki Azi",
+            "origin": "facebook",
+            "path": "sources/770085f06aadef856dfae7f25fca090afbd79e11.jpg"
+        },
+        {
+            "id": "5fcca0139a98a630d448752e",
+            "link": "https://www.facebook.com/brahimalal.braik/posts/698603251078318?__tn__=%2CO%2CP-R",
+            "name": "Hassan Hari   &middot; ",
+            "origin": "facebook",
+            "path": "sources/770085f06aadef856dfae7f25fca090afbd79e11.jpg"
+        },
+        {
+            "id": "5fcca0139b7d5232f32639e4",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=211042813737111&id=100044941811013",
+            "name": "أشطاري فالعيون",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fcc9f37e98d294cb41f1609",
+            "link": "https://www.spsrasd.info/news/en/articles/2016/10/06/4515.html",
+            "name": "www.spsrasd.info",
+            "origin": "",
+            "path": "sources/493c841859baeff48487e6235b430ab25ef5303e.jpg"
+        },
+        {
+            "id": "5fcc9f3837efc833551ba984",
+            "link": "https://en.irna.ir/news/81853939/Two-civilians-injured-in-two-landmine-explosions-in-western-Iran",
+            "name": "IRNA English",
+            "origin": "",
+            "path": "sources/727d2d3dfa4be4f42b4e02e134b744c4441abd47.jpg"
+        },
+        {
+            "id": "5fcc9f38569ae455381df15b",
+            "link": "https://www.aljarida.com/ext/articles/print/1468389304778974900/",
+            "name": "www.aljarida.com",
+            "origin": "",
+            "path": "sources/72c795037875c88c5510d0f1473afc847251d73f.jpg"
+        },
+        {
+            "id": "5fcc9f385bf0d037fd225278",
+            "link": "https://ar.le360.ma/societe/156515",
+            "name": "www.le360.ma",
+            "origin": "",
+            "path": "sources/be3847b2de3875fa5394a61718bb07193c751ba9.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الصورة ليست لانفجار لغم في عربة جنود مغربية",
+    "updated_at": "2020-12-06 13:34:52",
+    "url_path": "/factcheck/2020/12/06/الصورة-ليست-لانفجار-لغم-في-عربة-جنود-مغربية",
+    "was_notification_pushed": "true"
+}

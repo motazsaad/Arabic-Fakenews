@@ -1,0 +1,118 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 1,
+        "fb": 1,
+        "tw": 1
+    },
+    "amount_sources": 0,
+    "amount_visits": 22389,
+    "author": {
+        "fullname": "حمزة حسن",
+        "id": "5e318864d4a2294d2d7209c4",
+        "photo": {
+            "name": "1580304484_hamza-hasan.jpg",
+            "path": "authors/1580304484_hamza-hasan.jpg"
+        }
+    },
+    "caption": "أعلن توم هانكس إصابته وزوجته بفايروس كورونا المستجد (Tom Hanks)",
+    "category": "Arts & Culture",
+    "claim": "<p style=\"text-align:justify\">الطاقم الطبي المسؤول عن الحجر الصحي يهدي نجم هوليوود توم هانكس كرة ويلسون الشهيرة التي ظهرت في فيلم Cast Away.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-03-13 13:46:54",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e6b649ed4a229050f4965e3",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">عقب إعلان نجم هوليوود</span> <span dir=\"LTR\" lang=\"AR-SA\"><span style=\"color:black\"><a href=\"http://www.facebook.com/TomHanks/photos/a.130476361320/10157667871581321/?type=3&amp;theater\" style=\"color:blue; text-decoration:underline\">توم هانكس</a></span></span><span style=\"color:black\">، في 12 مارس/آذار الجاري، إصابته وزوجته بفايروس كورونا المستجد (كوفيد-19)، رصد &quot;مسبار&quot; انتشار صورة زائفة لهانكس يحمل كرة &quot;ويلسون&quot; الشهيرة، التي ادعى البعض أنه حصل عليها كهدية من الطاقم الطبي في الحجر الصحي في </span>أستراليا<span style=\"color:black\">، حيث بدأ الممثل وزوجته فترة العزل للعلاج من فايروس كورونا.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">حلل &quot;مسبار&quot; الصورة المتداولة، ووجد تلاعُباً ما حدث فيها، إذ تعود الصورة الأصلية لمقطع فيديو قديم نُشر في فبراير/شباط 2015، أثناء حضور هانكس مباراة هوكي لفريق نيويورك رينجرز، وتم إلقاء كرة طائرة تشبه كرة ويلسون للممثل </span>الأميركي<span style=\"color:black\">. وتم التلاعب بالصورة عن طريق تعديل خلفية الصورة الأصلية، وحذف جمهور الهوكي ووضع صورة أخرى لغرفة طبية في أحد المستشفيات بدلاً منه.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"AR-SA\"><span style=\"color:black\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_ca2zaf4rw.jpg\" style=\"height:496px; width:476px\" /></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_56r0map07.jpg\" style=\"height:379px; width:580px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تداول بعض مستخدمي مواقع التواصل الاجتماعي صورة للممثل </span>الأميركي <span style=\"color:black\">توم هانكس، يحمل كرة ويلسون&nbsp;الشهيرة من فيلمه </span><span dir=\"LTR\"><span style=\"color:black\">Cast Away</span></span><span style=\"color:#000000\">، وهو الفيلم الذي نال عنه هانكس جائزة الأوسكار أحسن ممثل&nbsp;عام 2001.&nbsp;</span><span style=\"color:black\">ووفقاً للصورة&nbsp;المتداولة يظهر هانكس مع الكرة داخل غرفة ومن خلفه أجهزة وسرير طبي. وقال متداولو الصورة إن نجم هوليوود حصل على كرة ويلسون كهدية من الطاقم الطبي المسؤول عن الحجر الصحي للمصابين بفايروس كورونا المستجد في أستراليا.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"AR-SA\"><img src=\"https://images-prod.misbar.com/articlebody/origin_a1ytoiulb.jpg\" style=\"height:437px; width:345px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"AR-SA\"><img src=\"https://images-prod.misbar.com/articlebody/origin_k524sxsic.jpg\" style=\"height:532px; width:416px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 321,
+        "left": 52.57341003417969,
+        "path": "articles/15840964143432.jpg",
+        "top": 49.64892578125,
+        "totalHeight": 384,
+        "totalWidth": 650,
+        "width": 571
+    },
+    "post_date": "2020-03-13T17:33:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/sarah_aly70/status/1238050861387059201?s=20",
+            "name": "Σάρα",
+            "path": "published/0_1584098916_Σάρα.jpg"
+        },
+        {
+            "link": "https://twitter.com/queenof_pink1/status/1238088502899879936?s=20",
+            "name": "عالم وردي",
+            "path": "published/1_1584098916_عالم وردي.jpg"
+        },
+        {
+            "link": "https://twitter.com/Alyoum24/status/1238089669784584192?s=20",
+            "name": "اليوم 24",
+            "path": "published/2_1584098916_اليوم 24.jpg"
+        },
+        {
+            "link": "https://twitter.com/Again28565230/status/1238046329223426053?s=20",
+            "name": "Bavarian Knight",
+            "path": "published/3_1584098916_Bavarian Knight.jpg"
+        },
+        {
+            "link": "https://twitter.com/alwafdportal/status/1238100123613384704?s=20",
+            "name": " بوابة الوفد",
+            "path": "published/4_1584098916_بوابة الوفد.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/CinemaBox.Official/photos/a.983319975081757/2886894331390969/?type=3&theater",
+            "name": "Cinema Box",
+            "path": "published/5_1584098916_Cinema Box.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Spider.Reviews/photos/a.1783829851853415/2656386247931100/?type=3&theater",
+            "name": "SpideR ReVieWs & NeWs",
+            "path": "published/6_1584098916_SpideR ReVieWs & NeWs.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.instagram.com/p/yupptgvdPM/?utm_source=ig_embed&utm_campaign=embed_video_watch_again",
+            "name": "NY Rangers",
+            "path": "sources/0_1584098916_nyrangers.jpg"
+        },
+        {
+            "link": "https://ftw.usatoday.com/2015/02/tom-hanks-reunited-with-wilson-the-volleyball-at-a-rangers-game",
+            "name": "USA Today",
+            "path": "sources/1_1584098916_USA Today.jpg"
+        },
+        {
+            "link": "https://abcnews.go.com/Entertainment/watch-tom-hanks-reunite-wilson-cast/story?id=28775943",
+            "name": "abc News",
+            "path": "sources/2_1584098916_ABC News.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/TomHanks/photos/a.130476361320/10157667871581321/?type=3&theater",
+            "name": "Tom Hanks",
+            "path": "sources/3_1584098916_Tom Hanks.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "بعد إصابته بـ\"كورونا\".. هل حصل توم هانكس على كرة ويلسون في الحجر الصحي؟",
+    "updated_at": "2020-09-25 20:22:54",
+    "url_path": "/factcheck/2020/03/13/بعد-إصابته-بـ-كورونا--هل-حصل-توم-هانكس-على-كرة-ويلسون-في-الحجر-الصحي"
+}

@@ -1,0 +1,102 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 1
+    },
+    "amount_sources": 0,
+    "amount_visits": 3381,
+    "author": {
+        "fullname": "حسام الوكيل",
+        "id": "5e7cb2a9d4a2297a3f1db883",
+        "photo": {
+            "name": "1585230505_1hGLjIBq_400x400.jpg",
+            "path": "authors/1585230505_1hGLjIBq_400x400.jpg"
+        }
+    },
+    "caption": "قلّصت روسيا صادراتها ولم تلغيها بشكلٍ تام (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\"><span style=\"color:black\">روسيا توقف تصدير القمح بسبب أزمة فايروس كورونا المستجد (كوفيد&ndash;<span dir=\"LTR\">19</span>).</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-03-30 17:23:04",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e8200c8db2916742e2fe4c6",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">الادعاء مضلل، إذ تناولت عدة صحف ووكالات دولية تقارير حول إجراءات روسية بشأن توفير مخزون احتياطي من المنتجات الغذائية لسد الاحتياج الداخلي خلال الأشهر الثلاث المقبلة والتي يبدأ بعدها الموسم الجديد لجني القمح، وذلك ضمن خطة مواجهة فايروس كورونا، وقد كشفت الصحف أن روسيا بصدد اتخاذ قرار بتقليص حجم الصادرات في الثلاث أشهر المقبلة وليس إيقافها.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">وأشارت صحيفة ديلي ميل البريطانية في تقريرٍ نشرته بتاريخ <span dir=\"LTR\">25</span> مارس/آذار الجاري إلى أن روسيا أوقفت صادرات الحبوب المصنعة مثل الحنطة السوداء الجاهزة والأرز ورقائق الشوفان منذ 20 مارس/آذار الجاري لمدة عشرة أيام، ولم يشمل القرار صادرات الحبوب التقليدية، بما في ذلك القمح، إذ تُعتبر روسيا أكبر مصدر للقمح في العالم.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">ونشر موقع وكالة رويترز بتاريخ <span dir=\"LTR\">27</span> مارس/آذار الجاري مقترحًا تقدمت به وزارة الزراعة الروسية للحد من صادرات الحبوب، ومن ضمنها القمح، إلى سبعة ملايين طن في الفترة من أبريل/نيسان إلى يونيو/حزيران المقبلين، استجابةً لطلب الحكومة الروسية.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">فيما نقل موقع <span dir=\"LTR\" lang=\"AR-SA\">K</span><span dir=\"LTR\">xan</span> الأميركي، تقريرًا بتاريخ <span dir=\"LTR\">29</span> مارس/آذار الجاري تصريحًا لوزير الزراعة الروسي دميتري باتروشيف، أكد من خلاله أن وزارة الزراعة تعمل على الانتقال إلى الموسم الجديد لحصاد القمح بمخزون لا يقل عن 17.5 مليون طن لضمان الأمن الغذائي لروسيا وللحفاظ على الإمدادات اللازمة داخل الدولة للأشهر الثلاثة المتبقية من الموسم، لذا فإن حجم الصادرات من الحبوب الأساسية يجب ألا تزيد عن سبعة ملايين طن، وهو ما ينفي الأنباء المتداولة حول قرار روسي بوقف تصدير القمح بشكلٍ كلي.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"color:black\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_b9pgg4lo1.jpg\" style=\"height:707px; width:607px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"color:black\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_p3gl0vmvz.jpg\" style=\"height:730px; width:642px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"color:black\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_ji4eslis7.jpg\" style=\"height:842px; width:642px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": false,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تداول عددٌ من مستخدمي مواقع التواصل الاجتماعي فيسبوك وتويتر في الأيام الأخيرة أنباء حول قرار روسيا بوقف تصدير القمح نظراً لأزمة فايروس كورونا، وقد أشاروا إلى أن القرار سيؤثر بشكل بالغ على مصر، إذ نسبة كبيرة من مخزون القمح لديها يتم استيراده&nbsp;من روسيا.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"color:black\"><img src=\"https://images-prod.misbar.com/articlebody/origin_1e79x0of6.jpg\" style=\"height:358px; width:642px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"color:black\"><img src=\"https://images-prod.misbar.com/articlebody/origin_lk4dcgs90.jpg\" style=\"height:474px; width:642px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"color:black\"><img src=\"https://images-prod.misbar.com/articlebody/origin_2fubi3wbt.jpg\" style=\"height:798px; width:552px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1585578335GettyImages-1171375309.jpg"
+    },
+    "post_date": "2020-03-30T17:14:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/dC00R/status/1243837244454174721?s=20",
+            "name": "الْدْڪْتْوْرْةْ",
+            "path": "published/0_1585578183_الدكتورة لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2840702359370959&id=371013389673214",
+            "name": "اقرأ هنا",
+            "path": "published/1_1585578183_اقرأ هنا.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/dalal.hanafy/posts/10221241373845617",
+            "name": "Dalal Hassan",
+            "path": "published/2_1585578184_dalal hassan logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/3m4710/status/1243898760276606979?s=20",
+            "name": "ادهم اباظة",
+            "path": "published/3_1585578184_ادهم اباظة.jpg"
+        },
+        {
+            "link": "https://twitter.com/Elsyedabdlglil5/status/1243236542761644037?s=20",
+            "name": "Elsyedabdlglil@",
+            "path": "published/4_1585578184_Elsyedabdlglil@.jpg"
+        },
+        {
+            "link": "https://twitter.com/cikopaty2020/status/1243918517117779969?s=20",
+            "name": "Mostafa Ghoneim",
+            "path": "published/5_1585578184_mostafa ghoneim logo.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.dailymail.co.uk/news/article-8152023/Countries-begin-stop-exporting-FOOD-coronavirus-sparks-supply-fears-nations.html ",
+            "name": "Mail Online",
+            "path": "sources/0_1585579212_daily mail online logo official.jpg"
+        },
+        {
+            "link": "https://www.reuters.com/article/health-coronavirus-russia-grain/update-1-russia-proposes-grain-export-quota-in-response-to-coronavirus-idUSL8N2BK4L2 ",
+            "name": "Reuters",
+            "path": "sources/1_1585578183_Reuters-logo.jpg"
+        },
+        {
+            "link": "https://www.kxan36news.com/why-the-ministry-of-agriculture-imposes-quotas-on-grain-exports",
+            "name": "Kxan ",
+            "path": "sources/2_1585579212_Kxan.jpg logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل أوقفت روسيا تصدير القمح بسبب تفشي فايروس كورونا؟",
+    "updated_at": "2020-09-25 09:23:18",
+    "url_path": "/factcheck/2020/03/30/هل-أوقفت-روسيا-تصدير-القمح-بسبب-تفشي-فايروس-كورونا"
+}

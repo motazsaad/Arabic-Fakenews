@@ -1,0 +1,117 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2565,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "caption": "الصحيفة حذفت الخبر فيما بعد عن موقعها وعن جميع شبكات التواصل الاجتماعي (Getty)",
+    "category": "Sports",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">نجم فريق يوفنتوس، البرتغالي كريستيانو رونالدو بصدد تحويل الفندق الخاص به إلى مستشفى لرعاية مرضى كورونا.</p>\r\n",
+    "country": "",
+    "created_at": "2020-03-17 15:16:28",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e70bf9cd4a22970fa46b1a3",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الخبر غير صحيح، ولم يتم تحويل فندق رونالدو إلى مستشفى لعلاج مرضى فايروس كورونا المستجد. وكان موقع نادي يوفينتوس الإيطالي، نشر خبراً في الخامس عشر من آذار<span dir=\"LTR\">/</span>مارس الجاري منسوباً لصحيفة ماركا الإسبانية، قال فيه إن الأخيرة ادعت أنَّ رونالدو سيحول الفندق الخاص به والذي يحمل اسم CR7&nbsp;إلى مستشفى، إلا أنَّ الصحيفة حذفت الخبر فيما بعد عن موقعها وعن جميع شبكات التواصل الاجتماعي. وكانت قناة <span dir=\"LTR\">Rtlnieuws</span> الهولندية نشرت تقريراً قالت فيها إنها تواصلت مع متحدث باسم الفندق في لشبونة، والذي أكد أنَّ الفندق لن يتم تحويله إلى مستشفى.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_vlxzdssld.jpg\" style=\"height:414px; width:697px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_c5ogjrh17.jpg\" style=\"height:487px; width:651px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تناقلت وسائل الإعلام وعدد من مستخدمي مواقع التواصل الاجتماعي، خبراً عن تحويل الفندق الخاص بنجم نادي يوفينتوس كريستيانو رونالدو إلى مستشفى لعلاج مصابي كورونا، وانتشر الخبر على عدد من المواقع العربية والعالمية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_3gvlzi8j3.jpg\" style=\"height:491px; width:592px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_www0u90io.jpg\" style=\"height:744px; width:601px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_9xlsgnc7i.jpg\" style=\"height:375px; width:626px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_qds552tm7.jpg\" style=\"height:501px; width:619px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_v8ts7we4d.jpg\" style=\"height:530px; width:631px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 351,
+        "left": 5.6420440673828125,
+        "path": "articles/1584447387GettyImages-1203723127 (1).jpg",
+        "top": 31.534423828125,
+        "totalHeight": 423,
+        "totalWidth": 635,
+        "width": 624
+    },
+    "post_date": "2020-03-17T15:07:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.marca.com",
+            "name": "Marca",
+            "path": "published/0_1584448376_marca.JPG"
+        },
+        {
+            "link": "https://www.youm7.com/story/2020/3/15/%D8%B1%D9%88%D9%86%D8%A7%D9%84%D8%AF%D9%88-%D9%8A%D8%AD%D9%88%D9%84-%D9%81%D9%86%D8%A7%D8%AF%D9%82%D9%87-%D8%A5%D9%84%D9%89-%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%8A%D8%A7%D8%AA-%D9%84%D8%B9%D9%84%D8%A7%D8%AC-%D9%85%D8%B5%D8%A7%D8%A8%D9%89-%D9%81%D9%8A%D8%B1%D9%88%D8%B3-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-%D9%85%D8%AC%D8%A7%D9%86%D8%A7/4671781",
+            "name": "اليوم السابع",
+            "path": "published/1_1584448376_اليوم السابع-لوغو.jpg"
+        },
+        {
+            "link": "https://www.indiatoday.in/sports/football/story/cristiano-ronaldo-hotels-hospitals-covid19-coronavirus-outbreak-free-marca-1655727-2020-03-15",
+            "name": "India today",
+            "path": "published/2_1584448376_india.JPG"
+        },
+        {
+            "link": "https://www.aljarida.com/articles/1584281314280689100/",
+            "name": "الجريدة",
+            "path": "published/3_1584448376_الجريدة.JPG"
+        },
+        {
+            "link": "https://www.coinspeaker.com/cristiano-ronaldo-coronavirus-hospitals/",
+            "name": "Coinspeaker",
+            "path": "published/4_1584448376_coin.JPG"
+        },
+        {
+            "link": "https://www.arabnn.net/Section_248/%D8%B1%D9%8A%D8%A7%D8%B6%D8%A9/%D8%B1%D9%88%D9%86%D8%A7%D9%84%D8%AF-%D9%8A%D8%AD%D9%88%D9%84-%D8%B3%D9%84%D8%B3%D9%84%D8%A9-%D8%A7%D9%84%D9%81%D9%86%D8%A7%D8%AF%D9%82-%D8%A7%D9%84%D9%85%D9%85%D9%84%D9%88%D9%83%D8%A9-%D9%84%D9%87-%D8%A8%D8%A7%D9%84%D8%A8%D8%B1%D8%AA%D8%BA%D8%A7%D9%84-%D8%A5%D9%84%D9%89-%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%8A%D8%A7%D8%AA-%D9%84%D8%B9%D9%84%D8%A7%D8%AC-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7_46706",
+            "name": "الشبكة العربية",
+            "path": "published/5_1584448377_الشبكة العربية.jpg"
+        },
+        {
+            "link": "https://twitter.com/adriandelmonte/status/1238998492019929088?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1238998492019929088&ref_url=https%3A%2F%2Fwww.republicworld.com%2Fsports-news%2Ffootball-news%2Fcristiano-ronaldos-hotel-calls-transforming-into-hospital-story-fake.html",
+            "name": "Adriano Del Monte",
+            "path": "published/6_1584448377_Adrian- DelMonte.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.rtlnieuws.nl/sport/voetbal/artikel/5057096/hotel-van-ronaldo-reageert-we-zijn-een-hotel-geen-hospitaal",
+            "name": "Rtlnieuws",
+            "path": "sources/0_1584448376_rtl.JPG"
+        },
+        {
+            "link": "https://www.insider.com/coronavirus-cristiano-ronaldo-hotel-denies-it-will-become-hospital-2020-3",
+            "name": "INSIDER",
+            "path": "sources/1_1584448376_insider.JPG"
+        },
+        {
+            "link": "https://www.juvefc.com/ronaldo-will-transform-hotels-to-help-fight-coronavirus/",
+            "name": "juvefc.com",
+            "path": "sources/2_1584448376_يوفنتوس.jpg"
+        },
+        {
+            "link": "https://www.vtbl.nl/nieuws/artikel/5057096/hotel-van-ronaldo-reageert-we-zijn-een-hotel-geen-hospitaal",
+            "name": "VTBL",
+            "path": "sources/3_1584448376_VTBL.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ادعاءات عن تحويل فندق كريستيانو رونالدو إلى مستشفى لعلاج مصابي كورونا",
+    "updated_at": "2020-09-23 12:36:42",
+    "url_path": "/factcheck/2020/03/17/ادعاءات-عن-تحويل-فندق-كريستيانو-رونالدو-إلى-مستشفى-لعلاج-مصابي-كورونا"
+}

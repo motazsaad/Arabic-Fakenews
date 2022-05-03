@@ -1,0 +1,83 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 4188,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": " المغرب عندما يُقرر إرسال مساعدات إلى بلد يرسلها عبر طائرة تابعة للخطوط الملكية المغربية (Getty)",
+    "category": "Health",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\"><span style=\"background-color:white\"><span style=\"color:#1d2129\">المملكة المغربيّة ترسل شحنة كبيرة من المساعدات الطبيّة إلى الجزائر لمواجهة جائحة فايروس كورونا المستجد (كوفيد_19)</span></span></p>\r\n",
+    "country": "DZ",
+    "created_at": "2020-05-10 14:26:02",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eb7e4cadb2916287b43cdc4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:#191919\">تحقّق &quot;مسبار&quot; من الخبر، ولم يجد سوى نفياً على لسان مصدر حكومي بالمغرب في تصريح إلى وكالة الأنباء المغربية &quot;هسبريس&quot;، مؤكداً بأن بلده لم ترسل طائرة من المساعدات الطبية إلى الجزائر، ومضيفاً أن ما تم هو عملية بيع وشراء وليس إرسال مساعدات طبية.</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:#191919\">وذكرت الوكالة أن طائرة تابعة للخطوط الجوية الجزائرية قامت بعملية شحن انطلاقاً من مطار محمد الخامس الدولي بالدار البيضاء، في حين أن المغرب عندما يُقرر إرسال مساعدات إلى بلد معين يرسلها عبر طائرة تابعة للخطوط الملكية المغربية</span><span dir=\"LTR\"><span style=\"color:#191919\">.</span></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:#191919\">هذا وكانت المغرب أعلنت في وقت سابق تحقيق الاكتفاء الذاتي في منتجات الأقنعة الطبية والمطهرات.</span></span></p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_rn9cw4elj.jpg\" style=\"height:432px; width:605px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:#1d2129\">تداولت صفحاتٌ على موقع فيسبوك منذ الثامن من مايو/ أيار الجاري، خبراً مفاده أن المملكة المغربيّة، أرسلت&nbsp;شحنةً كبيرة من المساعدات الطبية إلى الجزائر لمواجهة جائحة فايروس كورونا المستجد، وذلك بعد أن قامت طائرات جزائرية بالهبوط في مطار محمد السادس بالدار البيضاء، والتزود بالمساعدات الطبية.</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><img src=\"https://images-prod.misbar.com/articlebody/origin_kqje5i6sb.jpg\" style=\"height:478px; width:605px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_bnyit8pks.jpg\" style=\"height:477px; width:605px\" />&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p><img src=\"https://images-prod.misbar.com/articlebody/origin_v19ld2e3k.jpg\" style=\"height:498px; width:605px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 343,
+        "left": 26,
+        "path": "articles/1589109962GettyImages-1210249912.jpg",
+        "top": 23.33984375,
+        "totalHeight": 423,
+        "totalWidth": 641,
+        "watermark_path": "articles/watermark-1589109962GettyImages-1210249912.jpg",
+        "width": 609
+    },
+    "post_date": "2020-05-10T12:34:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/mehdi.meriem.52/posts/882429968940132",
+            "name": "Mehdi Sultana",
+            "path": "published/0_1589109961_مغرب.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=123609625993733&id=109947494026613&__xts__[0]=68.ARBWVT47-xPsydTi5g11pIv_hiiDbq_jW37TTeMCYlxiMcLDVkxEsSMV5Y1_jeRYtBGVqPBAOAIFNAAmurtIUmolRQQ2lDlOJYUZ9YVBbdqSgoCMlSfcXQYn5nlZPANtkaB0Fto18MWicxFRtuqTvdjnf5Ssu7lULedGa0NazNmaSSgoB2Z2xEEqdgQF_ASzPhBpT0WGii87ribUHWHCqT6Pp_DwWdo5Am2Cktv36rHGhzRKGgCnNI-G9lDkpWVYJYk62LTUFimK4lTGbLqa8MYVvHqvbeIVJht95LEwbJwfindB_Z3M4meYNiVDmfj1W5OwYPpC2svfXwWpXv98O_4&__tn__=-R",
+            "name": "من يَكِنُّ الحب لجلالة الملك محمد ",
+            "path": "published/1_1589109962_السادس المغرب.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=137040827932065&id=108670634102418&__xts__[0]=68.ARCa28nh5g31zTFItV2dcncjgldkJteZuvYyeCbqRH8eW7KYpCdgvVqlLm7RVKVC4Lb4JJAVqoYve1jFI7cyeFMVTJ97Z5Ym8B2I--iKlEHcrUh-i1mpC-lLGO915-8P3SpolMCVNLFxU_xANgSS0YizVqmdqM4MNOdwZReNvl24t8lmX6ecRaLBSvfLIUGFkki2XJWCQNWnKdHuHjF_-maHpk0tAoHArmXeG-Q54OMW0sh8Q9H1QfUaotq91bnDfdgD90UhErP_PAjBpZ7UQiT32duro-KxYB0Ca29e0GsGPgDd_TkhsXlBimKuFaDMPIJl45ziSMenzdR8Kx8LDr4&__tn__=-R",
+            "name": "الاوفياء لصاحب جلالة الملك محمد السادس نصره الله",
+            "path": "published/2_1589109962_90657168_108670934102388_8872000740894179328_n.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.hespress.com/societe/470563.html",
+            "name": "هسبريس",
+            "path": "sources/0_1589110883_هسبرس.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل أرسلت المغرب مساعدات طبيّة إلى الجزائر؟",
+    "updated_at": "2020-09-25 02:36:47",
+    "url_path": "/factcheck/2020/05/10/هل-أرسلت-المغرب-مساعدات-طبية-إلى-الجزائر"
+}

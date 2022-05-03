@@ -1,0 +1,129 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2398,
+    "author": {
+        "fullname": "مجد أبو عامر ",
+        "id": "5e4a4c9fd4a2290a9511fab3",
+        "photo": {
+            "name": "1581927583_التقاطتتت.JPG",
+            "path": "authors/1581927583_التقاطتتت.JPG"
+        }
+    },
+    "caption": "الصورة هي لوحة رقمية نشرها المتحف الفلسطيني في الولايات المتحدة الأميركية (Facebook)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">لوحة </span><span style=\"color:black\">لجورج فلويد على جدار الفصل العنصري في فلسطين.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-06-05 20:38:36",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eda831cdb2916058a61ade4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:black\">تحقّق &quot;مسبار&quot; من الصورة ووجد أن الفنان الفلسطيني وليد أيوب، بالفعل قد رسمَ لوحةً تُعبّر عن التضامن الفلسطيني مع قضية جورج فلويد، إلّا أن الصورة المتداولة مُضلّلة، فهي عبارة عن لوحة رقمية نشرها المتحف الفلسطيني في الولايات المتحدة الأميركية، وقد تم التلاعب بها وإضافتها على صورة لجدار الفصل العنصري.</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"background-color:white\"><span dir=\"LTR\" lang=\"EN-GB\"><span style=\"color:black\"><img id=\"Picture_x0020_5\" src=\"https://images-prod.misbar.com/articlebody/investigation_b8145nfw5.jpg\" style=\"height:517.2pt; width:343.2pt\" /> </span></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"background-color:white\"><span dir=\"LTR\" lang=\"EN-GB\" style=\"color:black\"><img id=\"Picture_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/investigation_ql00ykmuy.jpg\" style=\"height:244.8pt; width:422.4pt\" /> </span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:black\">وتجدر الإشارة إلى أنه تم </span><a href=\"https://www.instagram.com/p/CBIXxB3FfnC/\"><span style=\"color:#e74c3c\">رسم </span></a><span style=\"color:black\">جورج فلويد على جدار الفصل العُنصري في مدينة بيت لحم </span><span style=\"color:black\">بتاريخ 7 يونيو/حزيران الجاري.</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"background-color:white\"><span dir=\"LTR\" lang=\"EN-GB\" style=\"color:black\"><img id=\"Picture_x0020_2\" src=\"https://images-prod.misbar.com/articlebody/investigation_naxd1xbvj.jpg\" style=\"height:194.4pt; width:451.2pt\" /> </span></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:black\">تداولت عدّة صفحات عبر مواقع التواصل الاجتماعي صورةً للوحةٍ للمواطن الأميركي جورج فلويد، مرسومةً على جدار الفصل العنصري في مدينة بيت لحم في فلسطين، من قبل الفنان وليد أيوب.</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"background-color:white\"><strong><span dir=\"LTR\" lang=\"EN-GB\"><span style=\"color:black\"><img alt=\"A screen shot of a social media post\r\n\r\nDescription automatically generated\" id=\"Picture_x0020_7\" src=\"https://images-prod.misbar.com/articlebody/origin_irerkjo8y.jpg\" style=\"height:511.8pt; width:451.2pt\" /> <img alt=\"A screenshot of a cell phone\r\n\r\nDescription automatically generated\" id=\"Picture_x0020_8\" src=\"https://images-prod.misbar.com/articlebody/origin_xaeb9lufh.jpg\" style=\"height:437.4pt; width:451.2pt\" /> <img alt=\"A screenshot of a cell phone\r\n\r\nDescription automatically generated\" id=\"Picture_x0020_9\" src=\"https://images-prod.misbar.com/articlebody/origin_wmoi5yker.jpg\" style=\"height:453.6pt; width:451.2pt\" /> <img alt=\"A screenshot of a cell phone\r\n\r\nDescription automatically generated\" id=\"Picture_x0020_10\" src=\"https://images-prod.misbar.com/articlebody/origin_mo9q3ek6b.jpg\" style=\"height:541.8pt; width:402pt\" /> </span></span></strong></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 142,
+        "left": 3.798248291015625,
+        "path": "articles/1591378715facebook photo1.jpg",
+        "top": 26.42529296875,
+        "totalHeight": 172,
+        "totalWidth": 259,
+        "watermark_path": "articles/watermark-1591378715facebook photo1.jpg",
+        "width": 254
+    },
+    "post_date": "2020-06-05T20:31:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/mimijy_/status/1267609973338537984",
+            "name": "mimi",
+            "path": "published/0_1591378713_mimi.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=557049971635524&set=a.102466813760511&type=3&theater",
+            "name": "Khawla Ilian",
+            "path": "published/1_1591378713_khawla.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=10222518579334110&set=a.10202124199447359&type=3&theater",
+            "name": "Walid Zaher",
+            "path": "published/2_1591378714_walid zaher.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/relaxitsonlyart/photos/a.347019812068425/2513689005401484/?type=3&theater",
+            "name": "relax it's only art",
+            "path": "published/3_1591378714_relax its only art.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=10158625584362664&set=a.10150537226352664&type=3&theater",
+            "name": "Iyad Afalqa",
+            "path": "published/4_1591378714_iyad aflaqa.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/MPPDC/photos/a.473696869462181/1674472999384556/?type=3&theater",
+            "name": "Museum of the Palestinian People",
+            "path": "published/5_1591378714_museum of the.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=10158462764446449&set=a.10150388426701449&type=3",
+            "name": "Rula Al-Sadi",
+            "path": "published/6_1591378714_rula al sadi.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2541620869436268&id=100007651394893",
+            "name": "Khalil Salah",
+            "path": "published/7_1591378714_khalil salah.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=3292583234106364&set=a.580364605328254&type=3&theater",
+            "name": "Samoha Ahmeed",
+            "path": "published/8_1591378714_samoha.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/PalestineMuseum.US/photos/a.132412804028008/624793984789885/?type=3",
+            "name": "Palestine Museum US",
+            "path": "sources/0_1591378714_palestine museum.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=2689183101368975&set=a.1436803226606975&type=3&theater",
+            "name": "Taoufiq Tahani",
+            "path": "sources/1_1591378714_taofiq tahani.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo/?fbid=10157340525286313&set=a.390089746312",
+            "name": "Walid Ayyoub",
+            "path": "sources/2_1591378715_walid ayoub.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/elias.halabi.58/posts/1730940637046191",
+            "name": "Elias Halabi",
+            "path": "sources/3_1591378715_elias halabi.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "جورج فلويد على جدار الفصل العنصري في فلسطين.. صورة مضللة",
+    "updated_at": "2020-09-25 18:07:56",
+    "url_path": "/factcheck/2020/06/05/جورج-فلويد-على-جدار-الفصل-العنصري-في-فلسطين-صورة-مضللة"
+}

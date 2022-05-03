@@ -1,0 +1,119 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1438,
+    "author": {
+        "fullname": "خالد إسماعيل",
+        "id": "5e59256dd4a2295224257db3",
+        "photo": {
+            "name": "1582900589_صورة 2.jpg",
+            "path": "authors/1582900589_صورة 2.jpg"
+        }
+    },
+    "caption": "تحقق \"مسبار\" من المقطع المتداول ووجد أنه صحيح لكن الادعاء المصاحب له زائف (Getty) ",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-EG\">عاجل: حريق مهول في برج ترامب في نيويورك. </span></p>\r\n",
+    "country": "",
+    "created_at": "2020-05-09 15:23:29",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eb6a0c1db29167ab119da64",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\"><span style=\"color:black\">تحقق &quot;مسبار&quot; من المقطع&nbsp;المتداول ووجد أنه صحيح لكن الادعاء المصاحب له زائف، إذ نُشر المقطع في 8 أبريل/نيسان عام 2018، أثناء نشوب حريق في برج ترامب في مدينة نيويورك، عندما اشتعلت النيران في الطابق الخمسين للمبنى. وما حدث هو إعادة بث مقطع فيديو للواقعة القديمة في بث مباشر مع كلمة عاجل، لتوحي أن الواقعة حدثت بالفعل الآن. وهي ظاهرة منتشرة رصدناها في الفترة الأخيرة، إذ&nbsp;تلجأ بعض الصفحات والحسابات مؤخراً لعرض مشاهد من أحداث قديمة مثل الحرائق والتسونامي والأعاصير في بث مباشر لخداع المتابعين بهدف تحقيق الانتشار. </span></span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"506\" src=\"https://www.youtube.com/embed/1bhiKfXgeRk\" width=\"900\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\"><span style=\"color:black\">تداولت حسابات وصفحات عبر موقعي فيسبوك ويوتيوب مقطع فيديو&nbsp;يُظهر حريقاً في أحد الأبراج العالية، مع ادعاء بحدوث حريق في برج ترامب في مدينة نيويورك الأميركية. وشاركت الصفحات المقطع في بث مباشر على فيسبوك.</span></span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_f0nmsy25b.jpg\" style=\"height:559px; width:624px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_8d0rj0w7b.jpg\" style=\"height:734px; width:552px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_31eo5huui.jpg\" style=\"height:433px; width:624px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_rv3atv0hx.jpg\" style=\"height:458px; width:624px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 7.5,
+        "path": "articles/1589027007GettyImages-943153936.jpg",
+        "top": 0,
+        "totalHeight": 512,
+        "totalWidth": 767,
+        "watermark_path": "articles/watermark-1589027007GettyImages-943153936.jpg",
+        "width": 752
+    },
+    "post_date": "2020-05-09T15:18:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/108382320870916/videos/236525184341906/",
+            "name": "حول العالم ",
+            "path": "published/0_1589027007_نشر عن ذلك 1.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/101315928208211/videos/176846380227499/?v=176846380227499&external_log_id=1f1f6e48dbc83421d16038034c68770b",
+            "name": "منوعات بالعربي ",
+            "path": "published/1_1589027007_نشر عن ذلك 2.jpg"
+        },
+        {
+            "link": "https://nextlb.com/around-the-world/40846",
+            "name": "next lb",
+            "path": "published/2_1589027472_نشر عن ذلك 3.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=884336775413468&id=557276161452866",
+            "name": "Spotted la Tour T.Ouzou",
+            "path": "published/3_1589027472_نشر عن ذلك 4.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/akhbar3alamya/videos/634111847174131/?v=634111847174131&external_log_id=2ba8956b985b27d1de4f3343badb4abd",
+            "name": "اخبار عالمية ",
+            "path": "published/4_1589027472_نشر عن ذلك 5.jpg"
+        },
+        {
+            "link": "https://tinyurl.com/ybtq59tj",
+            "name": "عازف الحزن عمر العزاوي",
+            "path": "published/5_1589027472_نشر عن ذلك 6.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1080715785633432&id=100010850627106",
+            "name": "عبد الناصر محمد ",
+            "path": "published/6_1589027472_نشر عن ذلك 7.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=XjHWMdRDDHI",
+            "name": "MO7A OFFICIEL",
+            "path": "published/7_1589027472_نشر عن ذلك 8.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2615562485349038&id=100006859368899",
+            "name": "الكوح عزيز ",
+            "path": "published/8_1589027472_نشر عن ذلك 9.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.bbc.com/arabic/world-43688558",
+            "name": "BBC",
+            "path": "sources/0_1589027007_1.jpg"
+        },
+        {
+            "link": "https://www.aa.com.tr/ar/%D8%AF%D9%88%D9%84%D9%8A/%D9%85%D8%B5%D8%B1%D8%B9-%D8%B4%D8%AE%D8%B5-%D8%AC%D8%B1%D8%A7%D8%A1-%D8%AD%D8%B1%D9%8A%D9%82-%D9%81%D9%8A-%D8%A8%D8%B1%D8%AC-%D8%AA%D8%B1%D8%A7%D9%85%D8%A8-%D8%A8%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83/1111660",
+            "name": "الأناضول ",
+            "path": "sources/1_1589027007_مصدر 2.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "فيديو حريق برج ترامب صحيح لكنه قديم ",
+    "updated_at": "2020-09-23 12:33:04",
+    "url_path": "/factcheck/2020/05/09/فيديو-حريق-برج-ترامب-صحيح-ولكنه-قديم"
+}

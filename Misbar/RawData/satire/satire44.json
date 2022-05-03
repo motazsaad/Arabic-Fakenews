@@ -1,0 +1,82 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 212952,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">المغرب تقرّر الإخصاء الجراحي للمغتصبين وإنهاء حياتهم الجنسية.</span></p>\r\n",
+    "country": "MA",
+    "created_at": "2020-02-07 19:28:52",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e3d9044d4a2293d82407084",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تبيّن لـ&quot;مسبار&quot; بعد التحقّق أنَّ أصل الخبر يعود إلى </span><a href=\"https://m.hespress.com/societe/386575.html\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>مقالة</u></span></a><span style=\"color:#000000\"> نُشرت لأول مرة على موقع جريدة هسبريس بتاريخ 1 أبريل/نيسان عام 2018، وهو الموعد السنوي لتقليد &quot;كذبة أبريل/نيسان&quot;، إذ اختَرَعت المقالة خبراً مفاده أنَّ الحكومة المغربية أقرّت قانوناً ينصّ على إخصاء المغتصبين، لكن الفقرة الأخيرة في المقالة ذكرت أنَّ الخبر كاذب.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_fr2mor9td.jpg\" style=\"height:58px; width:473px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "الاغتصاب",
+        "المغرب"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تناقلت مجموعة من الصفحات على مواقع التواصل الاجتماعي خبراً ادّعت فيه أنّ الحكومة المغربية أقرّت قانوناً تنصّ بنوده على الإخصاء الجراحي عقوبةً للمغتصبين، أو حقنهم بمركّب كيميائيٍّ يقضي على رغباتهم الجنسيّة.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_mhaokrenb.jpg\" style=\"height:437px; width:430px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_cumsejop2.jpg\" style=\"height:401px; width:432px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_r72u76kri.jpg\" style=\"height:439px; width:433px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 353,
+        "left": 3.1500244140625,
+        "path": "articles/1581092932GettyImages-108227015.jpg",
+        "top": 3,
+        "totalHeight": 423,
+        "totalWidth": 635,
+        "width": 627
+    },
+    "post_date": "2020-02-07T18:24:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/RadioNisaa/posts/10156911310083483",
+            "name": "Radio Nisaa",
+            "path": "published/0_1581092931_Radio Nisaa - لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/tounesna.news.officiel/posts/201441517916901",
+            "name": "تونسنا للأخبار",
+            "path": "published/1_1581092931_تونسنا للأخبار - لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Tuniflix/posts/659238304818763",
+            "name": "Tuniflix",
+            "path": "published/2_1581092932_Tuniflix - لوغو.jpg"
+        }
+    ],
+    "result": "satire",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.hespress.com/societe/386575.html",
+            "name": "جريدة هسبريس",
+            "path": "sources/0_1581092931_هسبريس - لوغو.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "كذبة إخصاء المغتصب في المغرب تعود من جديد",
+    "updated_at": "2020-09-25 06:41:46",
+    "url_path": "/factcheck/2020/02/07/كذبة-إخصاء-المغتصب-في-المغرب-تعود-من-جديد"
+}

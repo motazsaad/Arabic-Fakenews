@@ -1,0 +1,114 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 468,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "يعد الزيدي أول تونسي كفيف يتحصل على شهادة الدكتوراه عام 2019 (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">وليد الزيدي أول مرشح كفيف لمنصب وزاري حاصل على شهادة الدكتوراه في تاريخ تونس، والثاني عربيًّا بعد طه حسين.</p>\r\n",
+    "country": "TN",
+    "created_at": "2020-08-25 12:35:06",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f44db4a60211806cc089622",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الخبر المتداول، وتبين أنه صحيح، إذ يُعدّ وليد الزيدي أول كفيف تونسي يُرشح لمنصب وزاري في البلاد، وهو أول كفيف حاصل على درجة دكتوراه من كلية الآداب <span style=\"background-color:white\">والفنون والإنسانيات</span> في منوبة.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fmosaiquefm%2Fvideos%2F352802889055249%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">ووجد &quot;مسبار&quot; أنّ أول وزير عربي تقلد منصباً وزاريًّا هو الكاتب طه حسين، الذي ترأس وزارة المعارف (التربية والعليم حالياً) عام 1950 في حكومة النحاس باشا، حتى إقالتها عام 1952.</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول مواقع إخبارية وصفحات وحسابات على وسائل التواصل الاجتماعي، حديثاً، خبراً مفاده أن رئيس الحكومة التونسية المكلف، هشام المشيشي، رشح وليد الزيدي لمنصب وزير للثقافة في البلاد. ونقلت الصفحات نفسها أن الزيدي هو أول كفيف في تونس يُرشح لهذا المنصب والثاني في العالم العربي بعد طه حسين.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"2.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_yeq1j9858.jpg\" style=\"height:562px; width:433px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"0.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_vgaqxkbdp.jpg\" style=\"height:376px; width:476px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"1.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_shsxmf1iz.jpg\" style=\"height:357px; width:481px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_31n3v7su4.jpg\" style=\"height:358px; width:477px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 335,
+        "left": 11.327484130859375,
+        "path": "articles/1598348105IMGBN17144walid.jpg",
+        "top": 26.746826171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-1598348105IMGBN17144walid.jpg",
+        "width": 595
+    },
+    "post_date": "2020-08-25T10:13:00.000+03:00",
+    "published": [
+        {
+            "link": " https://twitter.com/DebicheJ/status/1298042784012808194",
+            "name": "joujou⁦",
+            "path": "published/0_1598348104_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "link": "https://twitter.com/salah_sayer/status/1298137232939913216",
+            "name": "صلاح الساير",
+            "path": "published/1_1598348104_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "link": "https://twitter.com/MnMnMn80/status/1298170925020479488",
+            "name": "Ms. M ",
+            "path": "published/2_1598348104_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "link": "https://twitter.com/RAFRAFI_MED/status/1298058450946215941",
+            "name": "محمد الرفرافي: بَيْتُوتِي",
+            "path": "published/3_1598348104_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "link": "https://twitter.com/Paix_humanite/status/1298146489169059840",
+            "name": "Peace_humanity",
+            "path": "published/4_1598348104_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "link": "https://twitter.com/AsmaBenJeddouu/status/1298175299297959936",
+            "name": "Asma Ben Jeddou",
+            "path": "published/5_1598348104_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "link": "https://twitter.com/atefbenamor4/status/1298042863721349120",
+            "name": "atef ben amor",
+            "path": "published/6_1598348105_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Tounes.Meskina/photos/a.231075896986819/3240110166083362/?type=3&theater",
+            "name": "مسكينة تونس",
+            "path": "published/7_1598348105_67819776_2303763929710849_8279055560511324160_o.jpg"
+        }
+    ],
+    "result": "true",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.mosaiquefm.net/ar/%D8%AA%D9%88%D9%86%D8%B3-%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D9%88%D8%B7%D9%86%D9%8A%D8%A9/785457/%D8%A3-%D9%82-%D8%AA-%D8%B1%D8%AD-%D9%84%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D9%88%D9%84%D9%8A%D8%AF-%D8%A7%D9%84%D8%B2%D9%8A%D8%AF%D9%8A-%D8%A3%D9%88-%D9%84-%D9%88%D8%B2%D9%8A%D8%B1-%D9%83%D9%81%D9%8A%D9%81-%D9%81%D9%8A-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D8%AA%D9%88%D9%86%D8%B3",
+            "name": "mosaiquefm",
+            "path": "sources/0_1598348105_711ndGOmWIL.jpg"
+        },
+        {
+            "link": "https://www.almasryalyoum.com/news/details/1438200",
+            "name": "المصري اليوم",
+            "path": "sources/1_1598348105_logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "وليد الزيدي: أول مرشح كفيف لمنصب وزاري في تاريخ تونس والثاني عربيًّا",
+    "updated_at": "2020-09-25 11:33:24",
+    "url_path": "/factcheck/2020/08/25/وليد-الزيدي-أول-مرشح-كفيف-لمنصب-وزاري-في-تاريخ-تونس-والثاني-عربيا"
+}

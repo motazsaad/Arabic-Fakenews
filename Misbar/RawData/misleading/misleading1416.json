@@ -1,0 +1,86 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 1,
+        "fb": 1,
+        "tw": 1
+    },
+    "amount_sources": 0,
+    "amount_visits": 206,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة تُظهر إعدام 125 موظفاً فاسداً في الصين.</p>\r\n",
+    "country": "CN",
+    "created_at": "2019-12-12 15:31:11",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5df2330f8d7bd90304046954",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">وجد &quot;مسبار&quot; أنّ الصورة المتداولة منذ بداية 2018، تعود إلى نيسان/ أبريل 2004 في مدينة ونتشو شرقيّ الصين، والتقطت لمجموعةٍ سجناء أثناء جلسةٍ عامةٍ أسفر عنها إصدار حكم الإعدام بحق 11 متّهماً. وندّدت منظمة العفو الدولية وقتئذٍ بتنفيذ هذه الأحكام ودعت إلى إيقاف عقوبة الإعدام في الصين.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_3e5b4a83aa4d52e6db30965cd4f23986.jpg\" style=\"height:408px; width:346px\" /></span></strong></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت العديد من الصفحات على مواقع التواصل الاجتماعي صورة تداولها مئات المستخدمين، قالت إنّها لعملية إعدامٍ نفذتها السلطات الصينيّة بحق 125 موظفاً أُدينوا بارتكاب جرائم متعلقة بالفساد.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_eca99eefb008b707459c33ae1843b694.jpg\" style=\"height:429px; width:248px\" /></span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_6f0601cc0fb17fb213390703ef4e5d4e.jpg\" style=\"height:276px; width:417px\" /></span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ce37b4756d61d248dfd3c77de6865f3c.jpg\" style=\"height:285px; width:241px\" /></span></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 358,
+        "left": 1.5806884765625,
+        "path": "articles/1576153871F2239FEE-99DF-4162-A17F-F78621E93145-min.jpg",
+        "top": 25,
+        "totalHeight": 423,
+        "totalWidth": 642,
+        "width": 637
+    },
+    "post_date": "2019-06-15T15:18:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/AlhayahAlaan/photos/a.518850818232756/1695839883867171/?type=3&theater",
+            "name": "الحياة الآن ",
+            "path": "published/0_1579444774_الحياة الآن-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Rawae3.aladab.alseasy/photos/a.551361608296041/1696365903795600/?type=3&theater",
+            "name": "روائع الأدب السياسي ",
+            "path": "published/1_1579444774_روائع الأدب السياسي لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/AqwalKebbor.ma/photos/a.1835595326677991/2209032419334278/?type=3&theater",
+            "name": "أقوال كبور التاريخية ",
+            "path": "published/2_1579444774_أقوال كبور التاريخية لوغو.jpg"
+        },
+        {
+            "link": "http://www.almadarnews.org/index.php?page=article&id=38655",
+            "name": "وكالة المدار ",
+            "path": "published/3_1576153871_وكالة المدار لوغو.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "http://www.afpforum.com/AFPForum/Search/ViewMedia.aspx?mui=3&hid=A70F1565DCBC2C9EC39C430865D080466B36398049D4DC8DFF0F801A5FBCF4770D7CE75E77B33753&cck=a1aff2",
+            "name": "AFP",
+            "path": "sources/0_1576153871_logo AFP-j.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "إعدام 125 موظفاً فاسداً في الصين... ما حقيقة الصورة؟",
+    "updated_at": "2020-09-23 12:40:43",
+    "url_path": "/factcheck/2019/12/12/إعدام-125-موظفا-فاسدا-في-الصين-ما-حقيقة-الصورة"
+}

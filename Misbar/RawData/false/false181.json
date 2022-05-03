@@ -1,0 +1,137 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 360,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "نفت الوزارتان الخبر (Getty)",
+    "category": "News",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">أنباء عن غلق المدارس والجامعات منتصف الشهر الجاري في مصر.</span></p>\r\n",
+    "country": "EG",
+    "created_at": "2020-11-04 14:22:35",
+    "created_by": "5f39b5a51dd585076701cb94",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 1,
+    "id": "5fa28efbba8347599d64654a",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">الخبر زائف. إذ نفت وزارتي التربية والتعليم والتعليم</span>&nbsp;العالي الخبر المتداول، وأكدت الوزارتان أنه لم تصدر&nbsp;أي قرارات بهذا الشأن، وأوضحتا أن الدراسة منتظمة ومستمرة في كافة المدارس والجامعات بشكل طبيعي.</p>\r\n\r\n<p><iframe frameborder=\"0\" height=\"593\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FEgyptianCabinet%2Fposts%2F1769560533222304&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n\r\n<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">اقرأ أيضاً:</span></p>\r\n\r\n<p style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/11/03/%D8%A7%D9%84%D8%A3%D8%B2%D9%87%D8%B1-%D9%84%D9%85-%D9%8A%D9%81%D8%B1%D8%B6-%D8%B9%D9%84%D9%89-%D8%B7%D9%84%D8%A7%D8%A8%D9%87-%D8%A7%D8%B1%D8%AA%D8%AF%D8%A7%D8%A1-%D8%A7%D9%84%D8%B2%D9%8A-%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A\" style=\"color:#0563c1; text-decoration:underline\">الأزهر لم يفرض على طلابه ارتداء الزي الرسمي</a></p>\r\n\r\n<p style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/10/23/%D8%B3%D9%8A%D8%AF%D8%A9-%D8%B1%D9%88%D8%B9%D8%AA-%D8%B7%D9%84%D8%A7%D8%A8-%D9%85%D8%AF%D8%B1%D8%B3%D8%A9-%D9%81%D9%8A-%D9%85%D8%B5%D8%B1-%D9%82%D8%A8%D9%84-%D8%B3%D9%86%D9%88%D8%A7%D8%AA-%D9%88%D9%84%D9%8A%D8%B3-%D8%A3%D9%85%D8%B3\" style=\"color:#0563c1; text-decoration:underline\">سيّدة روّعت طلاب مدرسة في مصر قبل سنوات</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت حسابات وصفحات على مواقع التواصل الاجتماعي في مصر، منذ الأول من شهر نوفمبر/تشرين الثاني الجاري، خبراً مفاده احتمالية غلق المدارس والجامعات منتصف الشهر الجاري، بسبب تفشي فايروس كورونا المستجد.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_yu6hk66iq.jpg\" style=\"height:717px; width:554px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_fo5up5d3g.jpg\" style=\"height:181px; width:549px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_owfc5wpmu.jpg\" style=\"height:188px; width:554px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 4.57763671875e-05,
+        "path": "articles/1604488954GettyImages-1221589209.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1604488954GettyImages-1221589209.jpg",
+        "width": 752
+    },
+    "post_date": "2020-11-04T14:19:00.000+03:00",
+    "published": [
+        {
+            "id": "5fa28efa222be331384be0e9",
+            "link": "https://www.facebook.com/elmogaznews/posts/1427264630795080",
+            "name": "جريدة الموجز ",
+            "origin": "facebook",
+            "path": "sources/a72bcda80a8501e7e64f4c9b1dce1896bca18f2c.jpg"
+        },
+        {
+            "id": "5fa291044f64b5008a1dc8cb",
+            "link": "https://www.facebook.com/Tarbiaaaa/posts/788842818349213?__xts__%5B0%5D=68.ARA4OAQnYKMICbLUkw-v3ml-ZRLXkH8KsfC9PrZsO9TAHL1ejmq52QK1NS5Akso9CnTpoMjMB74_2BP3YgpH3RnH-RW5w3B-DYvZRCk1FnMkXDau_AI7wWXTP1kipquTaVZS0HRBKaRruyMh05m09g9j1RlNCzbZz6wFn-UxQk-JAe7-muQo_Bo20gTqoXb0vJJbU57s793QR1W_MolWANnFFkJM99ppV5IEcGhR0rMUXWH9GsLUwwp4NNnX2TjkUnihZJ8wjdrnlojkurzf-OjRUFFMORGjltVq6MlXPxJWrvayACdNFClCGdfz--yTspzjGbOgljPYzJIZSWU&__tn__=-R",
+            "name": "Tarbia sarcasm society",
+            "origin": "facebook",
+            "path": "sources/4891c0b22dbcccf10a134796a4dddfb026dd6563.jpg"
+        },
+        {
+            "id": "5fa291057094af356f24edcb",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=196548515184319&id=100790588093446&__xts__%5B0%5D=68.ARCxs5PixKuJLk-Sy0NSpF1GHoObEFPOznf7e6baIK__JoKicQuJekmjIAeCvEZ__EXayMc7AvRI8PkBcmteiKJ86yTZbqNxZgDNKqX76L1PyvVoXXxoyzW0SDV1NtyfXEI0IVJNhzG0cMCz-FjMIqc3noAF0Ho2R50fA9D47C4rr2W5KbxqxRhlPsblGzVyx_kv-Ma_-bofDMfA1UwlSL7f1xvM_uXNmvAWPxXSLMSM5sllE8urLGcTYbkKUgA3QkKRKySbRUWd66sLYppVoUXdgIx8bVIEpHJmC5wr8-_05ilJCCdmPKlMt45HAGzD97w1vTh043DlBgIBKxE&__tn__=-R",
+            "name": "كلية تربية",
+            "origin": "facebook",
+            "path": "sources/93f9de391a020a75555fa2717698a41a40d7d3ec.jpg"
+        },
+        {
+            "id": "5fa2910582510856ba0fdfef",
+            "link": "https://www.facebook.com/groups/214522235413259/permalink/1556220127910123/",
+            "name": "اخبار البرلس",
+            "origin": "facebook",
+            "path": "sources/4e48031dd5b45936bf0ed36a5ba086b20a6931e8.jpg"
+        },
+        {
+            "id": "5fa291057cd5a22bf425d593",
+            "link": "https://www.facebook.com/reem.elghazaly.3/posts/1235779546821869?__xts__%5B0%5D=68.ARA9nie8A3KIgcRHlWnqs5n2uaktsW_2fToMADUttsCbbCS-_y9mQzuVqq81Y0bLkvB_82s-XePGQJarPx26g05gxOOLhKnJlPjAewDDdCHRb5PMrVXQLgu5qMQVezZr1flnC-o_7oQ02PcCnTGGNfkhFTGTykNah1AQRmlse1sYn4Zc5MMFGUWIpaEOxKhp8Yc9e-Jh4eKLVtUJ8yDpcDT0gySd6REythlElzPDsDYcQrLdifC2NtghioOLRdE2ywWbBzGZFZ_Vq1UaGEoqyQs9url4jbG0ju7XRD3hcLM7gL6eUJUHJYu7sCeMCGQ&__tn__=-R",
+            "name": "Reem Elghazaly",
+            "origin": "facebook",
+            "path": "sources/75728502b0284d6d52e667545dd9d57ecfb7f045.jpg"
+        },
+        {
+            "id": "5fa2910524b41b4ad37cbf74",
+            "link": "https://www.facebook.com/israa.tolba.58/posts/179032423840917?__xts__%5B0%5D=68.ARC2UkBsSqFMi4oFEUn9m3JMKmXxYysnYofYisxxofJgQLBibUnponRlF7D9GL9X6bgqtwPyvfj1hicsjWhcjCbwiMg-GO3LNDBHTMGKnwOUrfibLpdZoWHaujyUq6HVHlMWzzYcdKlS5KSp3qFWR-YQVwy5Xv4t7H58O87OfLtMqFk2bCCz3GK1lzQRRA_7oJR1Rn_RTTozDd-BUa14QePUrz9qnP3xSIuv1CNw1vcoZkvVGzxiIyGVciuzsr85N-sK8aTzEjBc8T0878t9ENNhWuZc2ykbWqxCgfYLHKy8DYO4VFsq-AfY71F3XxI&__tn__=-R",
+            "name": "Israa Tolba",
+            "origin": "facebook",
+            "path": "sources/770085f06aadef856dfae7f25fca090afbd79e11.jpg"
+        },
+        {
+            "id": "5fa291059bea9e403a6fe1ad",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2402798760029029&id=100008967856888&__xts__%5B0%5D=68.ARDxxl4ciBNexaVpb9PzWtDmcDffQOyVUudcyQDGqFEyBTrNNM6QtEikvq1a8SPBTt4fcvNTJ5kdQkPwsTPYcl3pc-2jA4B3-gxFdPz8PjhIWd9QHcREGY05W5waOeSp7lFqaeGx0kKCLmhCmSbWWUgamDeovOb1V3XRgd_aMGefcWqWAY7xESPnhO5Na8dbykIrvADSsnpJo7fEVy1c9C-NsANJKIMVhJukKA3s2Nl59SpEnD2dhTLdzGtSKPmu4M1hlkdXRbOIckWLBoUm5rnMP5N5aPrnFCYDZFNH9k3wYSKMKrXJ4SB18ePFQjQ&__tn__=-R",
+            "name": "Mona Ahmed",
+            "origin": "facebook",
+            "path": "sources/93f9de391a020a75555fa2717698a41a40d7d3ec.jpg"
+        },
+        {
+            "id": "5fa29105f7091a7ce320e09f",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1263045594049690&id=100010327843402&__xts__%5B0%5D=68.ARAOAzvIE5RtNW5Trg49Q1KYbKqbfCZsjqUNXhtQuMwk4UJ_Mdxv4Frssb8BMZLCzaPeLJTAXdGaLhHsShgDtXcGCPIh4p5q4im5fvcP2lNxoSlZJzdzu2c3XAIO1zFLGbwy_7G3uykW1SHVM6DCwwh45L5APlLAYm56zqcnDtVz1wB3N7V2DeEtbsE7xCnMqtYMC6BbPu3Ai6aa5sVkmudYGCiAq4ArP0upRagyhhHuj_ys8BM1VnS3-zZm1QxnUqIl3GDNQlRqyT_RSWwbqs2Z7WS7RfOtDbGp4nn4n3gKzEDD6xzRCzFOohJfLDE&__tn__=-R",
+            "name": "Safaa Ebrahim",
+            "origin": "facebook",
+            "path": "sources/93f9de391a020a75555fa2717698a41a40d7d3ec.jpg"
+        },
+        {
+            "id": "5fa291054dbee147cf1878ea",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=3008440556050225&id=100006529305932&__xts__%5B0%5D=68.ARDESIMuU1tIKuMV6zR5FgyOYFxTUWlEqCr4yCwdk762STZRiOWPR0HlMPpmVRXHfhIVO2cekuSmi-g6-MHjH-lbgLsiJ3O_dVW0nMBJmTT00qSwYB5DqMmLo_GvE7xMU3LCLSjIHyLX3TEtebg7Ny7fY8iDAWUNDb9Y4qdbuRMxeTMX-0kNyhvb2EyaKS-u03yr0R6BLwmIHS5zOZtVZ6Arey2f6k43zHb8SwMNfSsbyC0wO--FiZ7FVEo2PiTwu9VY9223ySDGUUnkr1i-zVY1hFSSqsK9B7iGjNh6gaR3eiOOD08GxKRQAsxGg5Y&__tn__=-R",
+            "name": " Abdallah Mohamed",
+            "origin": "facebook",
+            "path": "sources/49e651cf11de0ddd2515fb2ea201674bb3603455.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fa28efa059ab971b23c649e",
+            "link": "https://www.facebook.com/EgyptianCabinet/photos/a.825570437621323/1769559033222454/?type=3&__xts__%5B0%5D=68.ARB93-9Vt2of7q9HWBxAPJYqO1_vLsX3BpJvyMSCO02KaHPS6N0Bd_rQMM3EPbPmK_Hy2GyRJ5uLSRW4xr-CXU1rbCyrmMIoKd1iFx4io7satQ8Pvgq-RzMV7ufSbYJUEsa3Tc0RM8jBKFEJR3AhtbWNzxD818_1cc9rmySyPJPVHxgXSK-HWg8EUECrCykSvkgHf8Pp_-_ZnCvn62b4idJv9ZtbWkck7tPC0HQbX3SVk6ImuCpZBRhlSxaTVcKwihYHAqVEsH5AVilYpMIo5awVWSDiN-Bh1i0W78Pe9RcL4N8b2e7xEXvfY4PsPvs9J0iYgVM6Mnx9QNBFH_pleE9HbA&__tn__=-R",
+            "name": "رئاسة مجلس الوزراء المصري",
+            "origin": "facebook",
+            "path": "sources/5649925c5e5b0ab8d6b70e402708bd6f6561dad2.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لن تُغلق المدارس والجامعات منتصف الشهر الجاري في مصر",
+    "updated_at": "2020-11-04 14:38:55",
+    "url_path": "/factcheck/2020/11/04/لن-تغلق-المدارس-والجامعات-منتصف-الشهر-الجاري-في-مصر",
+    "was_notification_pushed": "true"
+}

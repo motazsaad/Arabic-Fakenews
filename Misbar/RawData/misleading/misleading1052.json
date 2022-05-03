@@ -1,0 +1,102 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 3513,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "الصورة المتداولة تعود لعملية تجميد سيدة صينية (فيسبوك)",
+    "category": "Science",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">أعلن مستشفى Care الياباني إذابة الجليدة عن مريضة جُمّدت عام 1979، وهي عراقية الجنسية أُصيبت بالتهاب الكبد الوبائي C، وجُمّدت لحين اكتشاف علاج للمرض.</span></p>\r\n",
+    "country": "JP",
+    "created_at": "2020-06-05 22:17:09",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eda9a35db29160586470db5",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من الخبر والصور المتداولة ووجد أنها مضللّة. معظم تفاصيل الخبر المتداول زائفة، ما عدا الصورة المتداولة التي تعود فعلاً لعملية تجميد سيدة صينية بعد وفاتها بساعات، عام 2017.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">لا يوجد مستشفى في اليابان يحمل اسم Care، كما </span><a href=\"https://www.who.int/ar/news-room/fact-sheets/detail/hepatitis-c\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>توصّل العلماء</u></span></a><span style=\"color:#000000\"> إلى مضادات لفايروس C تساعد في علاج المرضى المصابين به. ولا يوجد خبر منشور في أي موقع أخبار أو وكالة أنباء حول تجميد مريضة عراقية.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">في حين أنّ الصورة المتداولة لدى معظم من تداولوا الخبر المزعوم تعود لطاقم طبي في مؤسسة Shandong Yinfeng لبحوث وعلوم الحياة. وفي عام 2017، عملت هذه المؤسسة على </span><a href=\"https://www.scmp.com/news/china/society/article/2106762/husband-chinas-first-cryogenics-subject-keeps-his-love-and-hope\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>تجميد</u></span></a><span style=\"color:#000000\"> جسد Zhan Wenlian، صينية مصابة بسرطان الرئة، بعد وفاتها، لحفظ جسدها وأجهزتها من العطب.&nbsp;</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">وتُحفَظ الأجساد بالتجميد على أمل تطوّر التكنولوجيا والعلم في المستقبل، وإيجاد علاجات لأمراض مثل سرطان الرئة وغيرها.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_kd7g0aw4v.jpg\" style=\"height:446px; width:529px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "فايرس سي",
+        "مصر",
+        "اليابان",
+        "التهاب الكبد الوبائي",
+        "التهاب الكبد c"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل صفحات على مواقع التواصل الاجتماعي صورةً مرفقة مع خبر يقول إنّ مستشفى Care الياباني قرّر إذابة الجليد عن مريضة عراقية مصابة بالتهاب الكبد الوبائي C، جُمّدت عام 1979 إلى حين اكتشاف علاج لمرضها.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"574\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D155356669364257%26id%3D104731274426797&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"675\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fali.aboshalby.9%2Fposts%2F2640428612857206&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 354,
+        "left": 2.5999755859375,
+        "path": "articles/1591384628غلاف.JPG",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 635,
+        "watermark_path": "articles/watermark-1591384628غلاف.JPG",
+        "width": 630
+    },
+    "post_date": "2020-06-05T22:14:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/104731274426797/posts/155356669364257/?d=n",
+            "name": "فشة خلق طرطوسية 2",
+            "path": "published/0_1591384976_فشة.jpg"
+        },
+        {
+            "link": "https://twitter.com/ySAINTLRNT/status/1013010168597090305",
+            "name": "عثمان",
+            "path": "published/1_1591384977_عثمان.jpg"
+        },
+        {
+            "link": "https://twitter.com/Besbasa28/status/1252427730089422849",
+            "name": "بسمة رضوان",
+            "path": "published/2_1591384977_بسمة.jpg"
+        },
+        {
+            "link": "https://twitter.com/jlecola/status/1050861288241459200",
+            "name": "Come Closer",
+            "path": "published/3_1591384977_come.jpg"
+        },
+        {
+            "link": "https://twitter.com/y3_y5/status/1014492366529495040",
+            "name": "يوسف البلوي",
+            "path": "published/4_1591384977_يوسف.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.who.int/ar/news-room/fact-sheets/detail/hepatitis-c",
+            "name": "منظمة الصحة العالمية",
+            "path": "sources/0_1591384628_WHO.jpg"
+        },
+        {
+            "link": "https://www.scmp.com/news/china/society/article/2106762/husband-chinas-first-cryogenics-subject-keeps-his-love-and-hope",
+            "name": "South China Morning Post",
+            "path": "sources/1_1591384628_SCMP.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "إذابة الجليد عن أول سيّدة جُمّدت بالنيتروجين عام 1979.. خبر مضلل",
+    "updated_at": "2020-09-25 19:12:09",
+    "url_path": "/factcheck/2020/06/05/إذابة-الجليد-عن-أول-سيدة-جمدت-بالنيتروجين-عام-1979-خبر-مضلل"
+}

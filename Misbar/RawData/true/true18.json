@@ -1,0 +1,114 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 156,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "الحوت لا يحوي جسمه على زعنفة ظهرية  (Facebook)",
+    "category": "Science",
+    "claim": "<p>صورة لحوت تحت مياه البحر يبدو مثل الإنسان.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-09-26 16:56:20",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 2,
+    "feedback_pos": 29,
+    "id": "5f6f4884c5feb84e294aefaa",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"background-color:white\"><span style=\"color:#2c2f34\">تحقّق &quot;مسبار&quot; من الصورة ووجدها صحيحة، فهذا حوت البيلوغا واسمه يعني البطيخ،&nbsp;والسبب كبر رأسه التي لها ملمس البالون، وهو يعيش غالباً في</span></span>&nbsp;<span style=\"background-color:white\"><span style=\"color:#2c2f34\">المحيط المتجمد الشمالي،&nbsp;والسواحل حول أمريكا الشمالية وروسيا وغرينلاند، وسبب بروز جسمه بهذا الشكل أنه لا يملك زعنفة على ظهره ما يجعله يعتمد على جذعه بشكل كامل.</span></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"background-color:white\"><span style=\"color:#2c2f34\">كما توصل العلماء في الولايات المتحدة الى اكتشاف قبل عدة سنوات يشير الى أن هذا النوع من الحيتان الذي يشبه الدلافين،</span></span><span style=\"background-color:white\">&nbsp;</span><span style=\"background-color:white\"><span style=\"color:#2c2f34\">يصدر أصواتا وثيقة الشبه بصوت الانسان</span></span><span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:#2c2f34\">.</span></span></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"background-color:white\"><span style=\"color:#2c2f34\">ويصل طول&nbsp;الحوت&nbsp;ما بين 4 إلى 6 أمتار،&nbsp;ووزنه يتراوح بين 907 إلى 1361 كيلوجراماً، ويتناسب تكوين الحوت مع الظروف البيئية والمناخية التي يعيش فيها وذلك مع وجود طبقة سميكة من الدهون مع عدم وجود الزعنفة الظهرية مثل باقي أنواع الحيتان، ويستخدم الزعانف الأمامية مثل المجدا</span></span><span style=\"background-color:white\"><span style=\"color:#2c2f34\">ف.&nbsp;</span></span></span><span style=\"background-color:white\"><span style=\"background-color:white\"><span style=\"color:#2c2f34\">ويوضح الفيديو أدناه، كيف يتحرك الحوت ويظهر جسمه محدد المعالم بسبب اعتماده على جذعه.</span></span></span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fanimaltopchannel%2Fvideos%2F1145035169010956%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول مواقع التواصل الاجتماعي منذ عام 2018 حتى سبتمبر/أيلول الجاري، صورة لحوت يشبه جسمه الإنسان، وله ساقين، وشبّهته بعض المنشورات بحورية البحر، كما أضافت أخرى أن&nbsp;صوته&nbsp;يشبه صوت البشر أيضاً.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_49ik948y4.jpg\" style=\"height:355px; width:602px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_45ak0lxj8.jpg\" style=\"height:702px; width:602px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 398,
+        "left": 1.35546875,
+        "path": "articles/1601128579حوت.JPG",
+        "top": 7.89990234375,
+        "totalHeight": 423,
+        "totalWidth": 762,
+        "watermark_path": "articles/watermark-1601128579حوت.JPG",
+        "width": 709
+    },
+    "post_date": "2020-09-26T14:56:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/Omar298/posts/3643473459017513",
+            "name": "Omar Jeff",
+            "path": "published/0_1601128579_قققف.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/monisbukhari/posts/10158136728104017",
+            "name": "Monis Bukhari ",
+            "path": "published/1_1601128579_قققف.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/photo?fbid=770738030410257&set=basw.AbrtY_Uh0BbKA6qqErZ2YJqz5DcwFf_XETt6gKMtDKyXwoIOxHBe33o32PBM9lky-QqTBtUzpUCTIMkuW4hoxuRos-mnHqu7y_al-1TdqHWNFhjY6Os5UEYBxiVvSRGwaxAaHHm-2XUZz1JhOCziTGJaa6_5xDdTuEtqtzo0IJcng7hUHLpBFLVSraaERal8n3_h3GmXym0qgh9z6yflScah&opaqueCursor=Abqq3Jm7-TR_RUsoyw6HE5vb0htHgqdgg9KfnO6-M1av9qgXYCKg0wvxQ-PKesZ5-8RA_LNJyd2u7rQh8MJ8NTqZ9OgWufPswSaJi7gkFnA8IcbvtMgX8oAJQjYmTuk7P5jMkKj-pa7nasOXKaErv2bxwYLt_rO33pBSUpL3Zs7oXT605mrVUe2nmz2InpPCSw9eUTAFwgV2RvVb1Ckut377Fs3sT3zDVbG_Ba0et5xDDdbda6mdzmqjiBq4Q5bGvHeFTMCxCkPWcV7GITXQ0jbChnMHGGfMfczvUAIw9cjlEIkvc0YOoU1lrs0Un7yjPSROTK_a93AaiL4l9ujPbsI1ZfI1DMeHhhjsVoGjkn9Kt1F7fWuWR4PIIxRQnyAHnPc7-2XCdp1aG9Xboj3ExM9iIch8UDT6rZpTqsfLsDFFDG1FMr0r7gbCNY6BIbaPiJwHqtLLimGfaDiAdSL2kdnLfiPfhrUrPZNDdZXlaWWn-eGqoA-soO9EAzMkSchGtN6wHOHifmGz5kc3IqePxLEYq5gCKNfIo3zB99_i1FUbRccQKF8US7w3fNY2NVZFdcZ_MrwV7zLinepQ4wZQXD2Rpdn-kJT_U2abIDPVPkRQZV5_AYVsoKHqFD2_vZKkZ7DVdYJLpkyO7ixKKkvr9ql8dLU2l7rLctv4HZHT8xoEghebsju7wNaWh6IN8W8rJyCvzWW6gLTCs3AhpENetDWhRBNgHOykMxKo0DMRJp1CV97XeHtaSCSZ5VKE70wnbvEcw92PQhrYTOLONqPRuK79E5-wV-o9s_mzRSCvTDrgIwLTVcddH14b9Kl3xBSgCqCaiyXyr8MesUFsPdoqcsb9qgo-S3p9L48KhY9qC1oaUqIDPmKnyTOFpHDqx5T1_Kb7upVA8-mOqTOoBil8JC7fOP8LHBCnCC_Kt74AWIV_UplerNuuAZXOacmAsv03s53rnwKsHWf6ofPLY38Qo9uw",
+            "name": "سهم سهم",
+            "path": "published/2_1601128579_قققف.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/238576316608160/photos/a.238580546607737/490502018082254",
+            "name": "عجائب وغرائب الدنيا",
+            "path": "published/3_1601128579_قققف.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/AzizOfArabia/status/980095880605978625",
+            "name": "عزيز",
+            "path": "published/4_1601129105_ق4.JPG"
+        }
+    ],
+    "result": "true",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.bbc.com/arabic/scienceandtech/2012/10/121023_whale_humanlikesound_beluga",
+            "name": "BBC",
+            "path": "sources/0_1601128579_54.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.aromaticglance.com/%d8%ad%d9%88%d8%aa-%d8%a7%d9%84%d8%a8%d9%8a%d9%84%d9%88%d8%ba%d8%a7/",
+            "name": "Aromaticglance",
+            "path": "sources/1_1601128579_555.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/watch/?ref=search&v=1145035169010956&external_log_id=69019485-9d47-4ab8-9367-218d0387570f&q=%D8%AD%D9%88%D8%AA%20%D8%A7%D9%84%D8%A8%D9%8A%D9%84%D9%88%D8%BA%D8%A7%20%D9%8A%D8%B4%D8%A8%D9%87%20%D8%AC%D8%B3%D9%85%D9%87%20%D9%85%D9%86%20%D8%A7%D9%84%D8%A3%D8%B3%D9%81%D9%84",
+            "name": "Animal Channel",
+            "path": "sources/2_1601128579_48270417_2155483368102491_8050667199917981696_o.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه صورة صحيحة لحوت البيلوغا",
+    "updated_at": "2020-09-26 17:05:05",
+    "url_path": "/factcheck/2020/09/26/هذه-صورة-صحيحة-لحوت-البيلوغا",
+    "was_notification_pushed": true
+}

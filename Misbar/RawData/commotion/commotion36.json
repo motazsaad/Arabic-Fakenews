@@ -1,0 +1,97 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 3220,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "لم يقل ترامب هذه العبارة بهذا الشكل (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">ترامب: في حال أوقفنا فحوصات كوفيد-19، سيقلّل ذلك من الحالات المعلنة، وهكذا سيختفي الفايروس تماماً.</span></p>\r\n",
+    "country": "US",
+    "created_at": "2020-06-17 10:27:20",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ee9c5d8d6e4a952d54abf93",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من التصريح المنسوب لدونالد ترامب، ووجد أنه يحتوي على إضافة وإثارة. فبحسب مبعوث وكالة رويترز للبيت الأبيض، الصحفي </span><a href=\"https://twitter.com/jeffmason1/status/1272601404780285954\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>Jeff Mason</u></span></a><span style=\"color:#000000\">، فقد قال ترامب في أحد الاجتماعات إنّ أعداد الإصابات اليومية بفايروس كورونا المستجد ستقلّ أو تصل إلى صفر، إذا توقّفت الولايات المتحدة عن إجراء فحوصات كوفيد-19.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">وبحسب مبعوث رويترز، فلم يقل ترامب عبارة &quot;وهكذا الفايروس سيختفي تماماً&quot;، الأمر الذي ينطوي على إثارة مارستها العديد من الصفحات التي روّجت للتصريح المزعوم. كما أنّ إيقاف الفحوصات لا يعني بأي شكل كان اختفاء كوفيد-19.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_s5poc5z2s.jpg\" style=\"height:577px; width:487px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "إثارة",
+        "ترامب",
+        "الولايات المتحدة الأميركية",
+        "فيروس كورونا",
+        "كوفيد-19"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل صفحات على مواقع التواصل الاجتماعي، حديثاً، تصريحاً منسوباً لرئيس الولايات المتّحدة دونالد ترامب يقول فيه &quot;في حال أوقفنا فحوصات كوفيد-19، سيقلّل ذلك من الحالات المعلنة يوميًّا، وهكذا سيختفي الفايروس تماماً&quot;.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_9rujgjoht.jpg\" style=\"height:531px; width:528px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_6cibqtj36.jpg\" style=\"height:589px; width:525px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 354,
+        "left": 3.2166748046875,
+        "path": "articles/1592378838GettyImages-1250069513.jpg",
+        "top": 6.716552734375,
+        "totalHeight": 423,
+        "totalWidth": 635,
+        "watermark_path": "articles/watermark-1592378838GettyImages-1250069513.jpg",
+        "width": 629
+    },
+    "post_date": "2020-06-17T10:15:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/ScreenMixx/posts/2131976590286091",
+            "name": "Screen Mix",
+            "path": "published/0_1592378837_سكرين.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/313sun/photos/a.1204058962949748/3213175342038090/?type=3&__tn__=-R",
+            "name": "شمسٌ خلف سحاب",
+            "path": "published/1_1592378837_شمس.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Icosium62/posts/299838328073160",
+            "name": "إيكوزيوم",
+            "path": "published/2_1592378838_إيكو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Technologysd1/posts/642895859635278",
+            "name": "تكنولوجي",
+            "path": "published/3_1592378838_تكنولوجي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=3054120994656542&id=100001760155912",
+            "name": "Nafaa Salah Dine",
+            "path": "published/4_1592378838_nafaa.jpg"
+        }
+    ],
+    "result": "commotion",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/jeffmason1/status/1272601404780285954",
+            "name": "Jeff Mason",
+            "path": "sources/0_1592378838_jeff.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ترامب: إيقاف فحوصات كورونا سيُخفي الفايروس تماماً.. خبر إثارة",
+    "updated_at": "2020-09-25 11:19:40",
+    "url_path": "/factcheck/2020/06/17/ترامب-إيقاف-فحوصات-كورونا-سيخفي-الفايروس-تماما-خبر-إثارة"
+}

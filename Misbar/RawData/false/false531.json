@@ -1,0 +1,98 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1499,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "تمت فبركة الفيديو بخاصية التزييف العميق   (Youtube) ",
+    "category": "News",
+    "claim": "<p>رجل من أصل أفريقي ينطح دونالد ترامب.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-07-04 11:30:23",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f003e1f163be33c98173a06",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من مقطع الفيديو، ووجد أنَّه تم فبركته عبر خاصية &quot;الديب فيك&quot; أي التزييف العميق، بإدخال رجل من أصل أفريقي يركض في الفيديو الأصلي ثم يقوم بنطح ترامب، ويعرض &quot;مسبار&quot; مصادر في التحقق لعدة نسخ من الفيديو الأصلي الذي لا يحتوي على أي ضرب أو نطح لترامب، بل يظهر وهو يتابع جولته مع المرأة ذاتها التي تستقبله منذ ترجله من الحافلة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وكان هذا الفيديو تم تصويره عام 2005 لكن تم تسريبه عام 2016 لأول مرة من قبل صحيفة الواشنطن بوست، <span style=\"color:black\">قبل يومين من مناظرة أساسية في عملية الانتخابات الأميركية </span>بين هيلاري كلينتون&nbsp;<span style=\"color:black\">والمرشح الجمهوري وقتها دونالد ترامب، وكان يدلي فيه بكلام بذيء ومهين عن النساء، أرغمه على تقديم اعتذارات كثيرة، وكان حينها يتحدث إلى مقدم برامج تلفزيونية، ولايعرف أن هناك تسجيل صوتي لحديثه.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">أما الرجل الذي فبرك الفيديو فهو ذاته الذي يظهر فيه ناطحاً ترامب برأسه، </span>ثم ساخراً ومتوعداً في حال نجح في الانتخابات كما يظهر في تتمة الفيديو المفبرك وهو الجزء الذي لا يظهر في المقطع المتداول.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_gjhaps1kh.jpg\" style=\"height:389px; width:605px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/investigation_w7mm8iays.jpg\" style=\"height:374px; width:604px\" /></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/Vg2wFjlVXss\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول حسابات على مواقع التواصل الاجتماعي، يوتيوب، وتويتر، وفيسبوك، منذ عام 2016 حتى الآن، مقطع فيديو لرجل من أصل أفريقي يقوم بضرب ترامب برأسه، والأغلبية نشرت المقطع تحت عنوان &quot;نطح ترامب&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_4quvsksvu.jpg\" style=\"height:465px; width:605px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_9kvdlgbkn.jpg\" style=\"height:423px; width:604px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_t5xonjvm3.jpg\" style=\"height:354px; width:605px\" />&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 411,
+        "left": 12.25,
+        "path": "articles/1593851422ترامب صورة.JPG",
+        "top": 6.25,
+        "totalHeight": 423,
+        "totalWidth": 761,
+        "watermark_path": "articles/watermark-1593851422ترامب صورة.JPG",
+        "width": 733
+    },
+    "post_date": "2020-07-04T09:41:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/100014157396100/videos/113656599116253/?q=%D9%86%D8%B7%D8%AD%20%D8%AA%D8%B1%D8%A7%D9%85%D8%A8%20&epa=SEARCH_BOX",
+            "name": "خالد أكرم",
+            "path": "published/0_1593851422_خالج أكرم ترامب.JPG"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=zYta-wzB7TI",
+            "name": " قناة العراقية الاخبارية",
+            "path": "published/1_1593851422_القناة العراقية ترامب.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100013526620146/videos/365496730577878/UzpfSTEwMDAwNTQ2MzQ4NDQyMzo2OTM2MjY3OTQxNjI3NjQ/?q=%D9%86%D8%B7%D8%AD%20%D8%AA%D8%B1%D8%A7%D9%85%D8%A8&epa=SEARCH_BOX",
+            "name": "Hosam F Hejazi",
+            "path": "published/2_1593851422_حسام ترامب.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ali.amri.391/videos/1226570890732255/",
+            "name": "علي مبارك",
+            "path": "published/3_1593851422_علي العمريمبار.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=NcZcTnykYbw",
+            "name": " Adrian Grummt",
+            "path": "sources/0_1593851422_ادينا ترامب.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=Vg2wFjlVXss",
+            "name": "أيهم ابن سوريا",
+            "path": "sources/1_1593851422_أيهم ترامب.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=FSC8Q-kR44o",
+            "name": "CNN",
+            "path": "sources/2_1593851422_NN.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "فيديو مفبرك لضرب دونالد ترامب",
+    "updated_at": "2020-09-25 17:02:14",
+    "url_path": "/factcheck/2020/07/04/فيديو-مفبرك-لنطح-ترامب"
+}

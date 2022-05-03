@@ -1,0 +1,104 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1869,
+    "author": {
+        "fullname": "هيثم جودية",
+        "id": "5e295291d4a2296ff0065605",
+        "photo": {
+            "name": "1579766417_هيثم .JPG",
+            "path": "authors/1579766417_هيثم .JPG"
+        }
+    },
+    "caption": "صور أسراب الجراد ليست في سورية (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">الجراد يفتك بالمحاصيل الزراعية في منطقة الغاب السورية.</p>\r\n",
+    "country": "SY",
+    "created_at": "2020-06-23 20:27:34",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ef23b86163be37b333c1b53",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الخبر ووجد أنه زائف، إذ لم تعلن السلطات السورية رسميًّا عن تعرض منطقة الغاب في حماه لغزو الجراد. كما تبين أنّ الصورتين المرافقتين للادعاء ليستا لمنطقة الغاب، فقد نشرت إحداها في مارس/آذار الفائت في منطقة السماوة العراقية، فيما نُشرت الصورة الثانية ضمن مادة علمية،&nbsp;في أوائل عام 2009، حول استخدام الحركة البراونية (نسبة للعالم الفيزيائي <span style=\"background-color:white\"><span style=\"color:#222222\">روبرت براون)</span></span> لمعرفة كيفية تجمع الطيور.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_4lvxuxhrx.jpg\" style=\"height:318px; width:553px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_epb3hwqmk.jpg\" style=\"height:440px; width:553px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">يُشار إلى أن سورية لم تتعرض لغزو أسراب جراد مؤثر على المزروعات والغطاء النباتي منذ عام 1964.</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات إخبارية على موقع التواصل الاجتماعي فيسبوك، خبراً يدّعي أنّ الجراد فتك بمحصول التبغ وبقية&nbsp;المحاصيل الزراعية في سهل الغاب بريف حماه السورية، مهدداً حياة&nbsp;الفلاح في المنطقة. وأرفق الخبر بصورتين لأسراب الجراد.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_wdcj91u5n.jpg\" style=\"height:523px; width:407px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_guz08w6zp.jpg\" style=\"height:525px; width:403px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_i8c06zljk.jpg\" style=\"height:527px; width:407px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 322,
+        "left": 20.21636962890625,
+        "path": "articles/159293325389615166_2717574088358828_1525420118358622208_n.jpg",
+        "top": 73.746826171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-159293325389615166_2717574088358828_1525420118358622208_n.jpg",
+        "width": 572
+    },
+    "post_date": "2020-06-23T17:52:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/shbakt.ahbar.alzhra.alibo/posts/143391867333332",
+            "name": "شبكة أخبار حي الزهراء بحلب",
+            "path": "published/0_1592933252_101630656_136859007986618_2233850024368799744_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=3122387591175631&id=2074031822677885",
+            "name": "عاجل دمشق الآن",
+            "path": "published/1_1592933252_51632695_2074033406011060_2946355107018571776_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Humanities1d/posts/2959754860803698",
+            "name": "شؤون شباب – حمص",
+            "path": "published/2_1592933252_94040611_2811610602284792_7582251138833973248_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=4074093645994063&id=2348272688576176",
+            "name": "كلشي عالمكشوف",
+            "path": "published/3_1592933253_102917638_4013578078712287_8876509638588322911_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/khabreyahTartoseah/posts/2525789067524214",
+            "name": "طرطوس الخبرية",
+            "path": "published/4_1592933253_467772_200629346706876_770920982_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/bwp.white.black/posts/3167554659967707",
+            "name": "ابيض واسود",
+            "path": "published/5_1592933253_58461826_2255964297793419_8742697658071646208_n.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/AliraqNet.Net/photos/a.616024801847111/2717574078358829/?type=3&theater",
+            "name": " Aliraq Net العراقن ت",
+            "path": "sources/0_1592933253_86699230_2662628587186712_6251097979025883136_n.jpg"
+        },
+        {
+            "link": "https://phys.org/news/2009-01-scientists-brownian-motion-explore-birds.html?fbclid=IwAR2e6u2vBDgv6rBdZ4JRaz3z4jKG_ZBLhYvu_n-HRus-5qg6WqngR1XZwX0",
+            "name": "phys.org",
+            "path": "sources/1_1592933253_1.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الجراد لم يفتك بالمحاصيل الزراعية في سورية",
+    "updated_at": "2020-09-25 09:45:58",
+    "url_path": "/factcheck/2020/06/23/الجراد-يفتك-بالمحاصيل-الزراعية-في-منطقة-الغاب-السورية-ادعاء-زائف"
+}

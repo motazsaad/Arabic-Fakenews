@@ -1,0 +1,95 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 738,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "يظهر في المقطع نبع غير ثابت التدفّق (Getty)",
+    "category": "Science",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">نبع ماء في الصين لا يخرج الماء منه إلا بتلاوة القرآن.</span></p>\r\n",
+    "country": "CN",
+    "created_at": "2020-07-09 17:10:26",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 1,
+    "id": "5f072552163be3075c356276",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من مقطع الفيديو ووجد أنه مضلل، بسبب عدم وجود علاقة بين قراءة القرآن وتدفق المياه.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">ما يظهر في المقطع هو أحد أنواع الينابيع غير ثابتة التدفّق (rhythmic spring)، التي يتدفق فيها الماء لمدة معينة ثم يتوقف لمدة معينة أخرى، ليعاود التدفق مرة أخرى.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">لم يستطع &quot;مسبار&quot; العثور على المصدر الأصلي للمقطع المتداول أو مكان وزمان تصويره، لكنّ المؤكد هو ألا علاقة بين تلاوة القرآن وتدفق المياه.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">وهنا مثال على الينابيع غير ثابتة التدق في الولايات المتحدة الأميركية.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/5tlAeU-LhnA?start=72\" width=\"560\"></iframe></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "الصين",
+        "القرآن الكريم",
+        "نبع ماء"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل صفحات وحسابات على مواقع التواصل الاجتماعي، منذ سنوات، مقطع فيديو لشخص يقرأ القرآن عند نبع ماء في منطقة ما، ويدّعي ناشرو الخبر أنّ الماء لا يتدفق من النبع إلا عند قراءة القرآن.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"407\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F100015531767259%2Fvideos%2F300346560493067%2F&amp;show_text=1&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_b9xsli9f7.jpg\" style=\"height:443px; width:530px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 354,
+        "left": 2.16668701171875,
+        "path": "articles/1594303826GettyImages-1225936544.jpg",
+        "top": 68.7999267578125,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1594303826GettyImages-1225936544.jpg",
+        "width": 630
+    },
+    "post_date": "2020-07-09T17:07:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/esslamiat/videos/132935244049020/",
+            "name": "إسلاميات",
+            "path": "published/0_1594304613_22309052_120353091973902_408903204424603492_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100011549773013/videos/430093144052341/",
+            "name": "محمد سليمان",
+            "path": "published/1_1594304613_محمج.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100012456887469/videos/506776736414218/",
+            "name": "ابو حسين حسين",
+            "path": "published/2_1594304613_ابوحسين.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/1437958653133456/videos/753126611773826/",
+            "name": "ابو سيف التميمي",
+            "path": "published/3_1594304614_ابوسيف.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100015531767259/videos/300346560493067/",
+            "name": "محارب للصخراء للصخراء",
+            "path": "published/4_1594304614_محارب.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://youtu.be/5tlAeU-LhnA?t=72",
+            "name": "Wesley Aston",
+            "path": "sources/0_1594303826_wesley.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لا علاقة لتلاوة القرآن بتدفق الماء من نبع في الصين",
+    "updated_at": "2020-09-25 18:11:11",
+    "url_path": "/factcheck/2020/07/09/لا-علاقة-لتلاوة-القرآن-بتدفق-الماء-من-نبع-في-الصين"
+}

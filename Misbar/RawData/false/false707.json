@@ -1,0 +1,119 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 3110,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "لم تُعلن شبكة نتفلكس عن عرضها للمسلسل (تويتر)",
+    "category": "Arts & Culture",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">النهاية أول مسلسل عربي سيُعرض على شبكة نتفلكس، ومترجم لعدة لغات.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-05-21 15:20:54",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5ec67226db291619287db793",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من الخبر المتداول ووجد أنه زائف، إذ لم تُعلن شبكة &quot;نتفلكس&quot; عن عرضها للمسلسل، كما لم تنشر شركة &quot;سينرجى&quot; المنتجة له أيّ أخبار تفيد بذلك. وراجع &quot;مسبار&quot; حساب&nbsp;بطل المسلسل الفنان يوسف الشريف ووجد أنه لم يصرّح بأيّ شيء يمت بصلة لهذا الخبر. والجدير بالذكر أن حقوق المسلسل على&nbsp;الإنترنت مملوكة لشبكة &quot;واتش&quot; المصرية، وهي منصة قريبة من نتفلكس وتعتبر منافسة لها. </span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">ويذكر أن شبكة نتفلكس سبق وعرضت العديد من الأعمال الدرامية العربية على منصتها، وأنتجت عدة مسلسلات أخرى.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">النهاية هو مسلسل خيال علمي مصري، تدور أحداثه في سنة 2120، حيث يحاول مهندس التصدي للتكنولوجيا التي أصابت العالم بعد مرور قرابة&nbsp;50 عاماً&nbsp;من الآن، وتنبأ بزوال إسرائيل وتحرير فلسطين بعد تفكك الولايات المتحدة، وأثار الجدل في عدة قضايا. </span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت حسابات وصفحات على مواقع التواصل الاجتماعي، خبراً يفيد بأن شبكة نتفلكس ستقوم بعرض مسلسل النهاية للفنان يوسف الشريف عبر منصتها، وأنه سيكون أول مسلسل عربي يُعرض عبر المنصة&nbsp;ومترجم&nbsp;لعدة لغات.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_sprlez7n4.jpg\" style=\"height:596px; width:478px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_wrgj0wjni.jpg\" style=\"height:683px; width:485px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 4.0556640625,
+        "path": "articles/1590063653323c08ad-71e3-4e18-bd4a-9e5bd751d5a1.jpg",
+        "top": 0,
+        "totalHeight": 465,
+        "totalWidth": 775,
+        "watermark_path": "articles/watermark-1590063653323c08ad-71e3-4e18-bd4a-9e5bd751d5a1.jpg",
+        "width": 752
+    },
+    "post_date": "2020-05-21T15:07:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/ElSherif.Lovers1/photos/a.261537660865076/1151054261913407/?type=3&theater",
+            "name": "Youssef El Sherif Lovers",
+            "path": "published/0_1590063653_Youssef El Sherif Lovers.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Cinema.Cafe.7/photos/a.448661078657196/1311722659017696/?type=3&theater",
+            "name": "Cinema Café",
+            "path": "published/1_1590063831_Cinema Café.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/BOStat.COMEdIa1/photos/a.336311117017404/568845717097275/?type=3&theater",
+            "name": "S a y i n g",
+            "path": "published/2_1590063831_S a y i n g.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/the.end.sereis2020/posts/1548435775331914",
+            "name": "مسلسل النهاية 2020",
+            "path": "published/3_1590063831_مسلسل النهاية 2020.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100010910829907/posts/1107914546248896/?d=n",
+            "name": "Walaa Ahmed",
+            "path": "published/4_1590063831_Walaa Ahmed.jpg"
+        },
+        {
+            "link": "https://twitter.com/faresas99729408/status/1262749909028966402?s=12",
+            "name": "Faresvic",
+            "path": "published/5_1590063831_Faresvic.jpg"
+        },
+        {
+            "link": "https://twitter.com/3laa_elsony/status/1262733539876929536?s=12",
+            "name": "3laa_elsony",
+            "path": "published/6_1590063832_3laa_elsony.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2556249551307181&id=100007664821952",
+            "name": "حماده نادى",
+            "path": "published/7_1590063832_حماده نادى.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/SynergyTamer",
+            "name": "Synergy",
+            "path": "sources/0_1590063653_Synergy.jpg"
+        },
+        {
+            "link": "https://twitter.com/ElSherif",
+            "name": "Youssef el sherif",
+            "path": "sources/1_1590063832_Youssef el sherif.jpg"
+        },
+        {
+            "link": "https://twitter.com/netflix",
+            "name": "Netflix",
+            "path": "sources/2_1590063832_Netflix.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل ستعرض شبكة \"نتفلكس\" مسلسل النهاية عبر منصتها؟",
+    "updated_at": "2020-09-25 11:50:06",
+    "url_path": "/factcheck/2020/05/21/هل-ستعرض-شبكة-نتفلكس-مسلسل-النهاية-عبر-منصتها"
+}

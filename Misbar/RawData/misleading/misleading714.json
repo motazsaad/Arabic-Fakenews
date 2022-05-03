@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1164,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "الصورة الأصلية تُظهر فندق (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">صورة السجن الانفرادي في السويد.. لا يعرفون أن هذه هي حياتنا الطبيعية.</p>\r\n",
+    "country": "SE",
+    "created_at": "2020-08-28 19:28:20",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f4930a460211806f71ad9b1",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة المتداولة ووجد أنها مضللة، لأن <a href=\"https://www.cbc.ca/news/world/these-boutique-hotels-let-you-stay-in-unique-surroundings-1.4027601\" style=\"text-decoration:none\" target=\"_blank\"><u>الصورة الأصلية</u></a> تُظهر فندق Alcatraz في السويد، الذي كان سجناً في السابق وتحوّل إلى فندق.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_ylueafu3k.jpg\" style=\"height:501px; width:539px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تتناقل صفحات على مواقع التواصل الاجتماعي، حديثاً، صورة تدعي أنها تُظهر السجون الانفرادية في السويد.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_n7iy602j9.jpg\" style=\"height:534px; width:542px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_3tczch544.jpg\" style=\"height:445px; width:527px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 354,
+        "left": 1.9666748046875,
+        "path": "articles/1598632100alcatraz-hotel.jpg",
+        "top": 42.800048828125,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1598632100alcatraz-hotel.jpg",
+        "width": 630
+    },
+    "post_date": "2020-08-28T19:20:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/robama.maybe/posts/1500983666726576",
+            "name": "ربما ;",
+            "path": "published/0_1598632266_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/day645/posts/598215087384558",
+            "name": "Today's",
+            "path": "published/1_1598632266_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/lnnermind/permalink/789191004963844/",
+            "name": "Mohammed Almerie",
+            "path": "published/2_1598632267_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Hasheshet.Qalbi/posts/2395993380665415",
+            "name": "حشيشة قلبي :$",
+            "path": "published/3_1598632343_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/fadwa892/posts/1506567372851416",
+            "name": "كلمات امرأة مجهولة",
+            "path": "published/4_1598632343_facebook.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.cbc.ca/news/world/these-boutique-hotels-let-you-stay-in-unique-surroundings-1.4027601",
+            "name": "CBC Canada ",
+            "path": "sources/0_1598632100_cbc.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ليست سجناً في السويد وإنما مجرد غرفة في فندق",
+    "updated_at": "2020-09-25 17:34:51",
+    "url_path": "/factcheck/2020/08/28/ليست-سجنا-في-السويد-وإنما-مجرد-غرفة-في-فندق"
+}

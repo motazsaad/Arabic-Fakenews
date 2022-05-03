@@ -1,0 +1,128 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 124,
+    "author": {
+        "fullname": "سامي جروان",
+        "id": "5fd0dde72e95c56328185706",
+        "photo": {
+            "name": "1607523815_FB_IMG_1607178165070.jpg",
+            "path": "authors/1607523815_FB_IMG_1607178165070.jpg"
+        }
+    },
+    "caption": "مقطع الفيديو قديم ونشر لأول مرة عام 2019 (يوتيوب)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">اشتباكات بين القوات السودانية وقوات ومليشيات إثيوبية في منطقة الفشقة شرق السودان.</p>\r\n",
+    "country": "SD",
+    "created_at": "2020-12-22 11:18:34",
+    "created_by": "5f9fab38bddeec3fc23209e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 1,
+    "id": "5fe1abda8aa2696107382d6c",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقق &quot;<a href=\"https://misbar.com/\" style=\"color:blue; text-decoration:underline\">مسبار</a>&quot;من المقطع المتداول ووجد أنه مضلل، فمن خلال تقطيعه إلى صور واستخدام البحث العكسي عنها، تبين أنه <a href=\"https://www.youtube.com/watch?fbclid=IwAR1mUnzFWlYdYX7zSPKXY5180rPbkB9eEzDTsGA0u13X-bRsP2KaAOCIORE&amp;v=lth6QMjnoWM&amp;feature=youtu.be\" style=\"color:blue; text-decoration:underline\">قديم</a> ونُشِر لأول مرة على &quot;يوتيوب&quot; في 13 أغسطس/آب عام 2019، بعنوان &quot;معركة القوات الأوكرانية بالمدافع الرشاشة الثقيلة في منطقة دونباس شرق أوكرانيا&quot;.</p>\r\n\r\n<p style=\"text-align:right\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/lth6QMjnoWM\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">ويأتي هذا الادعاء عقب إرسال القوات المسلحة السودانية تعزيزات عسكرية كبيرة إلى الشريط الحدودي مع إثيوبيا، بعد أيام من <a href=\"https://arabic.cnn.com/middle-east/article/2020/12/17/sudan-al-burhan-inspects-borders-after-an-ethiopian-ambush-abiy-ahmed-egypt\" style=\"color:blue; text-decoration:underline\">كمين</a> نصبته ميليشيا إثيوبية قتل خلاله عسكريون سودانيون.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">اقرأ/ي أيضاً:</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/12/21/%D9%84%D9%85-%D8%AA%D8%BA%D9%8A%D8%B1-%D9%85%D8%B5%D8%B1-%D9%84%D9%84%D8%B7%D9%8A%D8%B1%D8%A7%D9%86-%D8%B1%D8%AD%D9%84%D8%A7%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B4%D8%B1%D8%A9-%D9%85%D9%86-%D9%84%D9%86%D8%AF%D9%86-%D8%AD%D8%AA%D9%89-%D8%A7%D9%84%D9%84%D8%AD%D8%B8%D8%A9-%D9%84%D8%AA%D9%87%D8%A8%D8%B7-%D9%82%D8%A8%D9%84%D9%87%D8%A7-%D9%81%D9%8A-%D8%A7%D9%84%D8%AE%D8%B1%D8%B7%D9%88%D9%85\" target=\"_blank\"><span style=\"color:#3498db\">طيران مصر لم يقر هبوط الطائرات القادمة من لندن في الخرطوم</span></a></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/12/17/%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9-%D9%84%D9%87%D8%AC%D9%88%D9%85-%D9%81%D9%8A-%D8%A7%D9%84%D9%8A%D9%85%D9%86-%D9%88%D9%84%D9%8A%D8%B3-%D9%84%D9%83%D9%85%D9%8A%D9%86-%D8%AA%D8%B9%D8%B1%D8%B6%D8%AA-%D9%84%D9%87-%D8%A7%D9%84%D9%82%D9%88%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A%D8%A9\" target=\"_blank\"><span style=\"color:#3498db\">الصورة لهجوم في اليمن وليست لكمين تعرضت له القوات السودانية</span></a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "الفشقة",
+        "السودان",
+        "إثيوبيا",
+        "مواجهات",
+        "اشتباكات",
+        "عسكرية"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">تداولت صفحات وحسابات على مواقع التواصل الاجتماعي حديثاً، مقطع فيديو ادعت أنه لمواجهات عسكرية بين القوات السودانية وقوات ومليشيات إثيوبية في منطقة الفشقة شرق السودان على الحدود المشتركة بين البلدين.</p>\r\n\r\n<p dir=\"rtl\"><iframe frameborder=\"0\" height=\"429\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fweb.facebook.com%2F103479981200943%2Fvideos%2F728781978035833%2F&amp;show_text=true&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"rtl\"><iframe frameborder=\"0\" height=\"429\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fweb.facebook.com%2F100015291880944%2Fvideos%2F1057408508112202%2F&amp;show_text=true&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 421,
+        "left": 3.20001220703125,
+        "path": "articles/1608625113سار.PNG",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1608625113سار.PNG",
+        "width": 749
+    },
+    "post_date": "2020-12-22T09:53:00.000+03:00",
+    "published": [
+        {
+            "id": "5fe1ad2fd33ca82c89332ae6",
+            "link": "https://www.facebook.com/103479981200943/posts/251612536387686/?app=fbl",
+            "name": "أنصار القوات المسلحة - السودانية",
+            "origin": "facebook",
+            "path": "sources/01e2df2b18b601d9f2ebb411a2668d0c1306c318.jpg"
+        },
+        {
+            "id": "5fe1ad2f8aa2696107382d6d",
+            "link": "https://www.facebook.com/100042180133925/posts/409640903785244/?app=fbl",
+            "name": "Salah Awad Shareef",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        },
+        {
+            "id": "5fe1ad2f030bb01570030f8e",
+            "link": "https://www.facebook.com/100015291880944/posts/1057408528112200/?app=fbl",
+            "name": "مجتبي عثمان",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        },
+        {
+            "id": "5fe1ad2fcd68a84bc41228ef",
+            "link": "https://twitter.com/proudSud/status/1340694308140298240?s=19&fbclid=IwAR0S18stu0J53mm5zjzcr_py7J_hfMNtzD7iJvkxuOSOznawkD7cGf6W-pI",
+            "name": "برود سودانيز",
+            "origin": "twitter",
+            "path": "sources/5496105c4144c9bc3a6110253867b3e72c2e9902.jpg"
+        },
+        {
+            "id": "5fe1ad2f96e23a39d252c7e4",
+            "link": "https://twitter.com/almogwary199/status/1340736643263848452?s=19&fbclid=IwAR0dvn6DyidMh1eyHQrIwPDktcW09369Eg32OOAIqM3gU_IhF7eJxM0GCKs",
+            "name": "&alpha;ℓ-м&sigma;g&omega;&alpha;яу🇸🇩🇸🇦 ♚",
+            "origin": "twitter",
+            "path": "sources/76e0931fd256ea8acb44b8b4e3b89ed4da006322.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fd89e24bd1df429d3369009",
+            "link": "https://arabic.cnn.com/middle-east/article/2020/12/17/sudan-al-burhan-inspects-borders-after-an-ethiopian-ambush-abiy-ahmed-egypt",
+            "name": "CNN",
+            "origin": "",
+            "path": "sources/a55c3c13b3fde3b7e2d73865a8257d9185579567.jpg"
+        },
+        {
+            "id": "5f8edfb4148b827f7d192205",
+            "link": "https://youtu.be/lth6QMjnoWM",
+            "name": "قناة يوتيوب",
+            "origin": "",
+            "path": "sources/f4e473f70061267e3fbe3df8d9498087e3cf99aa.jpg"
+        },
+        {
+            "id": "5f91ba496091bd68346f4227",
+            "link": "https://www.aa.com.tr/ar/%D8%A3%D9%81%D8%B1%D9%8A%D9%82%D9%8A%D8%A7/%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D8%AA%D8%B9%D8%B2%D9%8A%D8%B2%D8%A7%D8%AA-%D8%B9%D8%B3%D9%83%D8%B1%D9%8A%D8%A9-%D9%83%D8%A8%D9%8A%D8%B1%D8%A9-%D8%AA%D8%B5%D9%84-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF-%D9%85%D8%B9-%D8%A5%D8%AB%D9%8A%D9%88%D8%A8%D9%8A%D8%A7-/2082518",
+            "name": "وكالة الأناضول",
+            "origin": "",
+            "path": "sources/1_1590257645_2.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الفيديو ليس لاشتباكات حديثة في منطقة الفشقة شرق السودان",
+    "updated_at": "2020-12-22 11:32:47",
+    "url_path": "/factcheck/2020/12/22/الفيديو-ليس-لاشتباكات-حديثة-في-منطقة-الفشقة-شرق-السودان",
+    "was_notification_pushed": "true"
+}

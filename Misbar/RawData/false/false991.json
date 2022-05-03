@@ -1,0 +1,106 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 1,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1134,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">فيديو للمسجد النبوي&nbsp;وهو مغطى بالثلوج.</p>\r\n",
+    "country": "IR",
+    "created_at": "2020-01-20 19:05:24",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e25cfc4d4a229629038df04",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الفيديو غير صحيح، فالمدينة المنورة لم تشهد هطولاً للثلوج خلال هذا الشهر، والمقطع مصوّر في مسجد الإمام علي بن موسى الرضا في مدينة مشهد الإيرانية.</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداول مستخدمون على وسائل التواصل الاجتماعي، مقطع فيديو لاقى رواجاً على موقع يوتيوب، ادعوا أنّه يُظهر الثلوج وهي تغطي المسجد النبوي في المدينة المنورة يوم الأحد 12 يناير/ كانون الثاني من العام الجاري.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_2f71719e0af08f6ef229798ea2fa07f6.jpg\" style=\"height:378px; width:443px\" /></span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_2cfaa24360b4bd9f3a507250e4056fd2.jpg\" style=\"height:331px; width:454px\" /></span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_f28620d9f4ecd18ed2797ffd503d8cd8.jpg\" style=\"height:372px; width:402px\" /></span></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 362,
+        "left": 4.0602874755859375,
+        "path": "articles/1579536324GettyImages-1161703869.jpg",
+        "top": 42.3387451171875,
+        "totalHeight": 423,
+        "totalWidth": 653,
+        "width": 643
+    },
+    "post_date": "2020-01-20T18:39:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.youtube.com/watch?v=4WcrPJ7J2FI",
+            "name": "كان زمان نمبر ون",
+            "path": "published/0_1579536323_كان زمان-لوغو.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=wCOxSErFF7k",
+            "name": "Wael 21",
+            "path": "published/1_1579536324_wael 21-logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=565939120652493&external_log_id=27489a4549171420152891b8017311a0&q=%D8%AA%D9%84%D8%AC%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%AD%D8%B1%D9%85%20%D8%A7%D9%84%D9%84%D9%87%D9%85%20%D8%A8%D8%A7%D8%B1%D9%83",
+            "name": "العقول الراقية",
+            "path": "published/2_1579536324_العقول الراقية-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=471672253524882",
+            "name": "saracast",
+            "path": "published/3_1579536324_saracast-logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=482570245628713",
+            "name": "الصلاة مفتاح الجنة",
+            "path": "published/4_1579536324_الصلاة مفتاح الجنة-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=1434656140046126",
+            "name": "أنباء أكتوبر",
+            "path": "published/5_1579536324_أنباء أكتوبر-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=3026822033994776",
+            "name": "الخبر الآن",
+            "path": "published/6_1579536324_الخبر الآن-لوغو.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.yjc.ir/fa/news/5983661/%D8%AD%D8%A7%D9%84-%D9%88-%D9%87%D9%88%D8%A7%DB%8C-%D8%A8%D8%B1%D9%81%DB%8C-%D8%AF%D8%B1-%D8%AD%D8%B1%D9%85-%D8%A7%D9%85%D8%A7%D9%85-%D8%B1%D8%B6%D8%A7-%D8%B9-%D9%81%DB%8C%D9%84%D9%85-%D9%88-%D8%AA%D8%B5%D8%A7%D9%88%DB%8C%D8%B1",
+            "name": "باشكاه خبرنكاران جوان",
+            "path": "sources/0_1579536323_المصدر-لوغو.jpg"
+        },
+        {
+            "link": "https://twitter.com/pmemediacen?lang=ar",
+            "name": "الهيئة العامة للأرصاد وحماية البيئة",
+            "path": "sources/1_1579536323_الأرصاد السعودية-لوغو.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "فيديو للثلوج تغطي المسجد النبوي... ما حقيقته؟",
+    "updated_at": "2020-09-25 10:51:44",
+    "url_path": "/factcheck/2020/01/20/فيديو-للثلوج-تغطي-المسجد-النبوي-ما-حقيقته"
+}

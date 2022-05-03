@@ -1,0 +1,104 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1995,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "الصفحات التي نشرت الخبر لا علاقة لها بأبو هشيمة (فيسبوك)",
+    "category": "Business",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">أحمد أبو هشيمة يقدم منحة مالية بقيمة 30 مليون جنيه للشعب العربي وخاصةً شعب مصر، بمناسبة مرور عشرين عاماً على&nbsp;تأسيس شركاته.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-06-20 11:10:17",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5eedc469d6e4a96c4f4085e3",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من الخبر ووجد أنه زائف، لأن الصفحات التي نشرته لا علاقة لها بأحمد أبو هشيمة. كما نشر أبو هشيمة في&nbsp;صفحته الرسمية على موقع فيسبوك يوم 14 يونيو/حزيران، وهو يوم انتشار الشائعة،&nbsp;منشوراً يحذر فيه من الصفحات التي تحمل اسمه، مؤكداً أن صفحاته الرسمية الموثقة هي المصدر الوحيد لأي&nbsp;أخبار تخصه. </span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"676\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FAhmedAbouHashima%2Fposts%2F2528225397277422&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">وبحث &quot;مسبار&quot; عن تاريخ بداية مجموعة شركات أبو هشيمة، وتبين أنّ أول استثمار لرجل الأعمال المصري بدأ في عام 2002، إذ امتلك&nbsp;10% من مصنع <a href=\"https://www.almaal.org/the-success-story-of-businessman-ahmed-abu-hashima\" style=\"color:#0563c1; text-decoration:underline\">الحديد</a> الذي كان يعمل به. وأكد أبو هشيمة&nbsp;في أكثر من لقاء له أن بدايته الحقيقية التي استطاع تحقيق فيها نجاحات كبيرة، بدأت في&nbsp;عام 2011 عقب ثورة 25 يناير. أي لم يمر عشرون عاماً في كل الأحوال على تأسيس شركاته كما ادّعت المنشورات المتداولة.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"720\" src=\"https://www.youtube.com/embed/Mu_H1VUGfuM\" width=\"1280\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">نشرت صفحتان على موقع فيسبوك باسم صدقات أبو هشيمة ومجموعات أبو هشيمة، بتاريخ 14 و15 يونيو/ حزيران الجاري، منشوراً&nbsp;يدعي أنّ رجل الأعمال المصري أحمد أبو هشيمة يقدم منحة مالية بقيمة 30 مليون جنيه للشعب العربي وخاصةً شعب مصر، بمناسبة مرور عشرين عاماً علي تأسيس مجموعة شركاته.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"551\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D111357667283836%26id%3D111357080617228&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_cej5xn5pe.jpg\" style=\"height:574px; width:466px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 8,
+        "path": "articles/159264061511754811_669556083144372_8815747068648643160_o.jpg",
+        "top": 0,
+        "totalHeight": 512,
+        "totalWidth": 768,
+        "watermark_path": "articles/watermark-159264061511754811_669556083144372_8815747068648643160_o.jpg",
+        "width": 752
+    },
+    "post_date": "2020-06-20T11:07:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/111357080617228/photos/a.111357660617170/111357633950506/?type=3&__xts__%5B0%5D=68.ARAWzzpc4pNY7EGUDD9wt5LPX2JZaceyDELGaUwLfBH0GcIvu4RE0Owhit3ZpYN4D79yfTd0h-qJ7I7G5cvtdf7qurVOB9D4jwOzk3o-mh4Ny62DAyzpm57rncOtLu15w9EhJao-9WfxAcNMPtYmWj67KH8PpIU2wCjtayPMxSMhxDQsH7_Cs8PK5thUnCjfLnxVrR9DxmW0heROaSXf6IWsZEW1h_75dvDMDZq4fWC9MdLXWRL1POqB2jmLw3YNJt0ghaThfHaXdoDQPdTJgI-hhuHntjK_DCwBai951Chd_FlS64rLVcacVv5bZCa3BYzS2Lquuyfz9xNBjwQY-A4&__tn__=-R",
+            "name": "صدقات ابو هشيمه",
+            "path": "published/0_1592640615_صدقات ابو هشيمه.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/109326827488858/photos/a.109370987484442/109370964151111/?type=3&__xts__%5B0%5D=68.ARDWzzR9LuT1sgvN-S_ju0HXM8x2GMQDm1Jm7d6q9ZEGu1RMaUvaoWY5XClEqwABzWy22bHLGAHTmkyjaAXZgzAOxhbs2BozJR8vK6woJPU3mqhlbSQd6nsz1u1JneaywKde5VEgx_PG4OZWVz7qSB92_p0sDgtkb5PLB87X8H_tRh5FhN_Qaua-GZa_lOCD0ZrOQtE7Qg6gd9uwRUhRVu0ufLVhXNpUClvLPk43ACIV1_DIC3kS4kQsT3ZLaVP03c5XOO1oJQmoro57EX6GAj3JDMQYfJoBXJNqaZPqCIEHiNMiwI928-41bSEECoemUvPl55NC39syjjUkW2fF9BM&__tn__=-R",
+            "name": "مجموعات ابو هشيمه",
+            "path": "published/1_1592640870_مجموعات ابو هشيمه.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=168035788043467&id=100545461459167",
+            "name": "Sa",
+            "path": "published/2_1592640871_Sa.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/672929849896369/permalink/875340152988670/?__xts__%5B0%5D=68.ARDK6kUWINl-v7gJ7gWytb8_CSLzWQ4vUxONxv4zXmSSsJT53g2m4kNSOliVyQFzEoi_7NYf2OBm3M7ZmJpa6gL3N3-vevk8lk7-m5xMfYCN9D3A8icYrqxUNuIXnDdUaDy1pmqcqabFIwrYYK7Vh-FmW_6uAsXFaKLigJ5OZr7oJmaolCGvG9aSou44ZGMW_oVNbH4AaBmEXNx08DMFtqytggbhOc-9inU9wLw0yutXx1Pk59J36DgaOLRybqeJEEDY9fYTwN6_Sy9pLbffgAxy0AOQ0d6A7E30usk0yY1mPIGkyIb5zokquX7biwwuOG0&__tn__=-R",
+            "name": "عبدالله علي",
+            "path": "published/3_1592640871_104293239_152100543065910_4306386174899889898_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Alakhbar.Alyoum24/photos/a.1120822271616017/1146446652386912/?type=3&__xts__%5B0%5D=68.ARB1q2hRvQyVXGR_XSj7NkkCGYyH0Xc-EvhNMAJAzlmLHHxro4gXG3v9PM-oSBkhMSLisj4-A0jjaqCyB5xmN1rNY4U4KREQOrIJUTndckbLUOA8hYiiCEnLKY68cRxcsjlLBJUuCNecNtfvYnSbQzpugXg1iuHo5--1uDAf2g1TWq_V5lyISBCfpc-XGWd0kcDGdPJ7rLDKIf7kqWaCZZ_KjUtBppTshPxfnf8IkoN_NxARcCs6mSoKTlDP3Vxby0YxWCL0ixo_FHWZIq-Vjrrcs9Dblm8O8XRhYQYUBgxW_MHC0HEcwaMPCWM3avFswNrR4qn9fO2Wddu4vvJkETjvzQ&__tn__=-R",
+            "name": "جريدة الأخبار اليوم 24",
+            "path": "published/4_1592640871_جريدة الأخبار اليوم 24.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/AhmedAbouHashima/photos/a.354263541340296/2528224443944184/?type=3&__xts__%5B0%5D=68.ARDWIQ1rMqqgrEiKXb0aRnwmkoKNphBs82L50cZ80u7CdzeBiD4WqXHdI5IxdIK5ZiZY5Ag23b1W8WrsX1vtqRif8kEZtzK48eLGnWCejrKF6nOPs16CnZJnoRc2s8RaNSkA_uzp0FEdHqEMeyjWDJaRLaW43544Ea70lH8z6Q8dyP4DXKZpL2ZRQWTz5u2-XzCRztGJmAGEiPsxNnFaJZiOXH5jyPPMwZlnIkNIGUoazXFbfbN1vC-VtVgxVWfRmv-r3MDmyvDijB3UjKFVcLcUDu1fFf1uh-YrSDSb4935Ehn5HuHM1BlMZlP4OTO0ltRVhsxtlNmQ5D-1gNYBlyYW2g&__tn__=-R",
+            "name": "Ahmed Abou Hashima",
+            "path": "sources/0_1592640615_Ahmed Abou Hashima.jpg"
+        },
+        {
+            "link": "https://www.almaal.org/the-success-story-of-businessman-ahmed-abu-hashima",
+            "name": "صناع المال",
+            "path": "sources/1_1592640917_صناع المال.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=Mu_H1VUGfuM",
+            "name": "CNN Arabic ",
+            "path": "sources/2_1592640917_CNNArabic.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "أبو هشيمة يقدم 30 مليون جنيه للشعب المصري.. خبر زائف",
+    "updated_at": "2020-09-25 18:38:44",
+    "url_path": "/factcheck/2020/06/20/أبو-هشيمة-يقدم-30-مليون-جنيه-للشعب-المصري-خبر-زائف"
+}

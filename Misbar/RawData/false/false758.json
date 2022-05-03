@@ -1,0 +1,109 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 4685,
+    "author": {
+        "fullname": "هيثم جودية",
+        "id": "5e295291d4a2296ff0065605",
+        "photo": {
+            "name": "1579766417_هيثم .JPG",
+            "path": "authors/1579766417_هيثم .JPG"
+        }
+    },
+    "caption": "قضية الطفل زاكاري أُثيرت عام 2009 (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">طفلٌ أميركي يبلغ من العمر 13 عاماً يمثل أمام القضاء لقيامه بتهكير حساب أحد البنوك وتحويل مليارات الدولارات إلى حسابه الشخصي.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-05-04 11:26:02",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eafd19adb29167c461193c4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق&nbsp;&quot;مسبار&quot;&nbsp;من الصورة، ووجد أن سياقها&nbsp;غير صحيح إذ تبين أن الصورة هي للطفل الأميركي زاكاري نيجل، نُشرت في حزيران عام 2009 أثناء مثوله أمام المحكمة بعد&nbsp;قتل والده جايس نيجل في منزلهما في كالدويل بولاية أيداهو؛ بسبب التحرش الجنسي.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_uibdwcr13.jpg\" style=\"height:601px; width:483px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_2j5z95o62.jpg\" style=\"height:400px; width:554px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحاتٌ على مواقع التواصل الاجتماعي، خلال الأسبوع الأخير من ابريل/ نيسان المنصرم، صورةً قالت أنها تعود إلى طفل أميركي يبلغ من العمر 13 عاماً استطاع تهكير حساب بنك في بلاده، وتحويل الأموال إلى حسابه الشخصي.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">ولفتت بعض الصفحات إلى أن قيمة الأموال المحولة وصلت إلى 300 مليار دولار.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_8qp9m0qgw.jpg\" style=\"height:304px; width:554px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_w93kn23mw.jpg\" style=\"height:300px; width:554px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_p36qansjn.jpg\" style=\"height:300px; width:554px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_y7xi2r0x7.jpg\" style=\"height:266px; width:554px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ygn5mgwul.jpg\" style=\"height:284px; width:554px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_5kh5o2pc5.jpg\" style=\"height:282px; width:554px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 371,
+        "left": -0.3670654296875,
+        "path": "articles/1588580761GettyImages-72440335.jpg",
+        "top": 51.3369140625,
+        "totalHeight": 423,
+        "totalWidth": 660,
+        "watermark_path": "articles/watermark-1588580761GettyImages-72440335.jpg",
+        "width": 661
+    },
+    "post_date": "2020-05-04T09:44:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=636762097192163&set=a.133417394193305&type=3&theater",
+            "name": "أمجد الدكيم",
+            "path": "published/0_1588580760_أمجد الدكيم.jpg"
+        },
+        {
+            "link": "https://twitter.com/_bks2828/status/1255589704692641800",
+            "name": "بـنـدر بـن خـالـد",
+            "path": "published/1_1588580760_بندر بن خالد.jpg"
+        },
+        {
+            "link": "https://twitter.com/aziz_1384/status/1255594896515268610",
+            "name": "عبدالعزيز السلطان",
+            "path": "published/2_1588580760_عبد العزيز السلطان.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/TTuuz/photos/a.2040941899494308/2565209237067569/?type=3&theater",
+            "name": "أخبار طوز",
+            "path": "published/3_1588580760_اخبارطوز.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/LibyaZain/photos/a.637138593088779/1903720983097194/?type=3&theater",
+            "name": "ليبيا زين",
+            "path": "published/4_1588580760_ليبيا زين.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=2897093873708792&set=a.112632608821613&type=3&theater",
+            "name": "Bahaa F AL Rousan",
+            "path": "published/5_1588580760_بهاء.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.cbsnews.com/news/14-year-old-charged-with-killing-father-sparks-a-protest-movement/",
+            "name": "cbs news",
+            "path": "sources/0_1588580761_و سي بي.JPG"
+        },
+        {
+            "link": "https://www.dailymail.co.uk/news/article-1186283/In-chains-14-year-old-boy-accused-killing-abusive-father-single-shot-head.html",
+            "name": "daily mail",
+            "path": "sources/1_1588580761_ديلي ميل اون.jpg"
+        },
+        {
+            "link": "https://idahonews.com/news/local/zachary-neagle-speaks-nearly-nine-years",
+            "name": "idahonews",
+            "path": "sources/2_1588580761_ايدو.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "طفلٌ يسرق مليارات الدولارات ويحولها إلى حسابه.. خبر زائف",
+    "updated_at": "2020-09-25 09:53:10",
+    "url_path": "/factcheck/2020/05/04/طفل-يسرق-مليارات-الدولارات-ويحولها-إلى-حسابه-خبر-زائف"
+}

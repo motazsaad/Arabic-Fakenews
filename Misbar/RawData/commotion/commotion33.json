@@ -1,0 +1,98 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1906,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "سجّلت أدرار أعلى درجة حرارة في العالم في ذلك التاريخ فقط (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">سجلت ولاية أدرار الجزائرية أعلى درجة حرارة على وجه الأرض إذ بلغت 48 درجة مئوية.</span></p>\r\n",
+    "country": "DZ",
+    "created_at": "2020-07-02 15:02:34",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5efdccda163be31ecb296406",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من الخبر ووجد أنّ العنوان يهدف للإثارة وجذب القرّاء، علاوة على أنه غير دقيق. وفقاً لموقع El Dorado Weather، حازت ولاية أدرار بالفعل على أعلى درجة حرارة في العالم بتاريخ 1 يوليو/تموز 2020 فقط، وليس أعلى درجة حرارة سجّلها العالم في المطلق.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">سُجّلت أعلى درجة حرارة في العالم عام 1913، في ولاية كاليفورنيا الأميركية، وبلغت </span><a href=\"https://journals.ametsoc.org/bams/article/94/2/199/60223/World-Meteorological-Organization-Assessment-of\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>56.7</u></span></a><span style=\"color:#000000\"> درجة مئوية، وذلك في دراسة للجمعية الأميركية للمترولوجيا (علم القياس) صحّحت الاعتقاد الخاطئ بأنّ أعلى درجة حرارة سُجّلت في العالم كانت في ليبيا وبلغت 58 درجة مئوية.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_kjtxviilz.jpg\" style=\"height:356px; width:542px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_ey9xp8qai.jpg\" style=\"height:329px; width:526px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل مواقع إخبارية وصفحات على مواقع التواصل الاجتماعي، حديثاً، خبراً تدّعي فيه أنّ ولاية أدرار في الجزائر سجّلت أعلى درجة حرارة على وجه الأرض، وبلغت 48 درجة مئوية.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_cf6pyvjlv.jpg\" style=\"height:446px; width:527px\" /></span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/ql0rjocyuRM\" width=\"560\"></iframe></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 355,
+        "left": 2.7833251953125,
+        "path": "articles/1593691354GettyImages-567921083.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 636,
+        "watermark_path": "articles/watermark-1593691354GettyImages-567921083.jpg",
+        "width": 630
+    },
+    "post_date": "2020-07-02T14:59:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.nessma.tv/ar/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D8%A9/actu/%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1-%D9%88%D9%84%D8%A7%D9%8A%D8%A9-%D8%A3%D8%AF%D8%B1%D8%A7%D8%B1-%D8%AA%D8%B3%D8%AC%D9%84-%D8%A3%D8%B9%D9%84%D9%89-%D8%AF%D8%B1%D8%AC%D8%A9-%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D9%81%D9%8A-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/230724",
+            "name": "نسمة",
+            "path": "published/0_1593691550_نسمة.jpg"
+        },
+        {
+            "link": "https://youtu.be/ql0rjocyuRM",
+            "name": "العالم 24",
+            "path": "published/1_1593691550_العالم 24.jpg"
+        },
+        {
+            "link": "https://www.gomhuriaonline.com/%D9%88%D9%84%D8%A7%D9%8A%D8%A9%20%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A%D8%A9%20%D8%AA%D8%B3%D8%AC%D9%84%20%C2%A0%D8%A3%D8%B9%D9%84%D9%89%20%D8%AF%D8%B1%D8%AC%D8%A9%20%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85/650297.html?utm_campaign=nabdapp.com&utm_medium=referral&utm_source=nabdapp.com&ocid=Nabd_App",
+            "name": "الجمهورية اون لاين",
+            "path": "published/2_1593691551_الجمهورية.jpg"
+        },
+        {
+            "link": "https://www.elitihadonline.com/%D9%88%D9%84%D8%A7%D9%8A%D8%A9-%D8%A3%D8%AF%D8%B1%D8%A7%D8%B1-%D8%AA%D8%B3%D8%AC%D9%84-%D8%A3%D8%B9%D9%84%D9%89-%D8%AF%D8%B1%D8%AC%D8%A9-%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D8%B9%D9%84%D9%89-%D9%88%D8%AC/",
+            "name": "الاتحاد الجزائرية",
+            "path": "published/3_1593691551_الاتحاد.jpg"
+        },
+        {
+            "link": "https://www.ennaharonline.com/%D9%88%D9%84%D8%A7%D9%8A%D8%A9-%D8%A3%D8%AF%D8%B1%D8%A7%D8%B1-%D8%AA%D8%B3%D8%AC%D9%84-%D8%A3%D8%B9%D9%84%D9%89-%D8%AF%D8%B1%D8%AC%D8%A9-%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9-%D8%B9%D9%84%D9%89-%D9%88%D8%AC/",
+            "name": "النهار",
+            "path": "published/4_1593691551_النهار.jpg"
+        }
+    ],
+    "result": "commotion",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.eldoradoweather.com/climate/world-extremes/world-temp-rainfall-extremes.php",
+            "name": "El Dorado Weather",
+            "path": "sources/0_1593691354_Annotation 2020-07-02 143235.jpg"
+        },
+        {
+            "link": "https://journals.ametsoc.org/bams/article/94/2/199/60223/World-Meteorological-Organization-Assessment-of",
+            "name": "American Meteorology Society",
+            "path": "sources/1_1593691354_d4BddgLj_400x400.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لم تسجل ولاية أدرار في الجزائر أعلى درجة حرارة على وجه الأرض",
+    "updated_at": "2020-09-25 09:02:15",
+    "url_path": "/factcheck/2020/07/02/لم-تسجل-ولاية-أدرار-في-الجزائر-أعلى-درجة-حرارة-على-وجه-الأرض"
+}

@@ -1,0 +1,101 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1740,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">فيديو يُظهر فيضاناً حصل بعد انهيار سد في تركيا.</p>\r\n",
+    "country": "JP",
+    "created_at": "2020-02-13 14:39:33",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e453575d4a2296b5747d324",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; أنّ الادعاء زائف، فمقطع الفيديو ليس لفيضانات في تركيا، وعثر على المقطع الأصلي منشوراً على &quot;يوتيوب&quot; منذ مارس/ آذار&nbsp;2011، وهو يُظهر جانباً من &quot;تسونامي&quot; التي ضربت اليابان عقب حدوث هزة أرضية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_z3lc6m5ji.jpg\" style=\"height:359px; width:494px\" /></span></strong></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداول مستخدمون على موقعي التواصل الاجتماعي فيسبوك&nbsp;وتويتر&nbsp;وعلى موقع يوتيوب، مقطع فيديو لفيضانات في تركيا زعموا أنها حدثت بعد انهيار أحد السدود.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_p6aii1ypg.jpg\" style=\"height:323px; width:438px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_th3v2iyq6.jpg\" style=\"height:339px; width:357px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_53srx4cc1.jpg\" style=\"height:306px; width:396px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 355,
+        "left": 1.451904296875,
+        "path": "articles/1581593972GettyImages-1175987660.jpg",
+        "top": 52.59794616699219,
+        "totalHeight": 423,
+        "totalWidth": 635,
+        "width": 632
+    },
+    "post_date": "2020-02-13T14:33:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/watch/?ref=search&v=897184527351362&external_log_id=ef22c6d4d4d6778d75599af1c5253e95&q=%D8%A7%D9%86%D9%83%D8%B3%D8%A7%D8%B1%20%D8%B3%D8%AF%20%D9%81%D9%8A%20%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
+            "name": "مدينة عمان ",
+            "path": "published/0_1581593972_مدينة عمان-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100040788906396/videos/187455749290721/UzpfSTEwMDAwMjIxOTc3NDE3MDoyNzU4NjA4MjE0MjIzMTQ0/",
+            "name": "عبد الرحمن أبو راشد",
+            "path": "published/1_1581593972_عبد الرحمن أبو راشد-لوغو.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=7zUpgV4xEyI",
+            "name": "جولة حول العالم",
+            "path": "published/2_1581593972_جولة حول العالم-لوغو.jpg"
+        },
+        {
+            "link": "https://twitter.com/AliGhazel6/status/1226454483623981056",
+            "name": "عماد نقابة الحسابات الجديدة",
+            "path": "published/3_1581593972_عماد نقابة الحسابات الجديدة-لوغو.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=XztzD04s_eA&feature=youtu.be",
+            "name": "اكتشف العالم بنفسك",
+            "path": "published/4_1581599976_اكتشف العالم بنفسك-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=190058368743275&external_log_id=2596b5c44b5680d5aa8d3bfc0a997855&q=%D8%A7%D9%86%D9%87%D9%8A%D8%A7%D8%B1%20%D8%B3%D8%AF%20%D9%81%D9%8A%20%D8%AA%D8%B1%D9%83%D9%8A%D8%A7",
+            "name": "الجيل الذهبي",
+            "path": "published/5_1581600296_الجيل الذهبي-لوغو.jpg"
+        },
+        {
+            "link": "https://publish.twitter.com/?query=https%3A%2F%2Ftwitter.com%2FGQSvcC01cRnbXVE%2Fstatus%2F1226798687487250433&widget=Tweet",
+            "name": "جزيرة راك",
+            "path": "published/6_1581600444_جزيرة راك-لوغو.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=6fhAnkqcRXQ&list=PLxQy5zQcmc57Ok-cLnPSo4j1VHV0BJYrF&index=1421",
+            "name": "BBC NEWS عربي",
+            "path": "sources/0_1581593972_BBC NEWS-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "فيديو متداول على أنه لانهيار سد في تركيا",
+    "updated_at": "2020-09-25 11:21:15",
+    "url_path": "/factcheck/2020/02/13/فيديو-متداول-على-أنه-لانهيار-سد-في-تركيا"
+}

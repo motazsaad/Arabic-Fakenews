@@ -1,0 +1,121 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1387,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "التقطت الصورة عام 2017 (تويتر)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"margin-left:1px; margin-right:1px; text-align:justify\">&quot;الأستاذ بيتر ماكال معلم في إحدي المدارس الابتدائية بجنوب السودان. بعد أن جهز درسه لتلاميذ الصف الأول، وجدهم يغطون في نوم عميق. التلاميذ كانوا عائدين من تناول طعام الفطور.&quot;</p>\r\n",
+    "country": "NG",
+    "created_at": "2020-09-20 13:34:42",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5f67304219c995316a752149",
+    "investigation": "<p dir=\"RTL\" style=\"margin-left:1px; margin-right:1px; text-align:justify\">&nbsp;تحقق &quot;مسبار&quot; من الصور المتداولة وتبين أنها مضللة وقديمة، إذ التقطت الصور عام 2017 في مدرسة ابتدائية في قرية مانشا، التي تقع في منطقة إدو الحكومية المحلية بولاية كوارا&nbsp; في نيجيريا.</p>\r\n\r\n<p dir=\"RTL\" style=\"margin-left:1px; margin-right:1px; text-align:justify\">يدرس التلاميذ في القرية تحت شجرة وليس لديهم مكان للنوم إلا على الرمال عندما يحتاجون إلى استراحة.</p>\r\n\r\n<p dir=\"RTL\" style=\"margin-left:1px; margin-right:1px; text-align:center\"><span dir=\"LTR\"><span style=\"color:#14171a\"><img alt=\"11.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_nedmv3ymi.jpg\" style=\"height:394px; width:604px\" /></span></span><br />\r\n<span dir=\"LTR\"><span style=\"color:#14171a\"><img alt=\"22.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_h6xok73za.jpg\" style=\"height:593px; width:593px\" /></span></span></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"margin-left:1px; margin-right:1px; text-align:justify\">تتداول صفحات إخبارية وحسابات على موقعي فيسبوك وتويتر حديثاً ومنذ عام 2019، صوراً تدّعي أنها لأستاذ يدعى بيتر ماكال، يدرس في إحدى المدارس الابتدائية في جنوب السودان.&nbsp;جهز درسه لتلاميذ الصف الأول، فوجدهم يغطون في نوم عميق، بعد تناول طعام الفطور.</p>\r\n\r\n<p dir=\"RTL\" style=\"margin-left:1px; margin-right:1px; text-align:center\"><span dir=\"LTR\"><span style=\"color:#14171a\"><img alt=\"0.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_475nmp95a.jpg\" style=\"height:404px; width:539px\" /></span></span><br />\r\n<span dir=\"LTR\"><span style=\"color:#14171a\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_wvnw01otv.jpg\" style=\"height:452px; width:543px\" /></span></span><br />\r\n<span dir=\"LTR\"><span style=\"color:#14171a\"><img alt=\"00.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_pjiwchtgj.jpg\" style=\"height:257px; width:605px\" /></span></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 331,
+        "left": 12.10528564453125,
+        "path": "articles/16005980811.jpg",
+        "top": 60.746826171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-16005980811.jpg",
+        "width": 589
+    },
+    "post_date": "2020-09-20T11:18:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/ssuuddaannee/photos/a.1468125086563856/3468767209832957/",
+            "name": "غرائب الصور والفيديو",
+            "path": "published/0_1600598080_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/FadoulWad/status/1306671330176241665",
+            "name": "Wad Eltom Fadoul",
+            "path": "published/1_1600598081_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/osmanabuzaid/status/1306583468554489857",
+            "name": "عثمان أبو زيد",
+            "path": "published/2_1600598081_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/104570754657677/photos/a.105703414544411/161997232248362/",
+            "name": "السودان والمدنية",
+            "path": "published/3_1600598081_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/106320634125530/photos/a.106480934109500/335946497829608/",
+            "name": "غرائب الفيديو",
+            "path": "published/4_1600598081_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/photo?fbid=1301756983316866&set=a.175409462618296",
+            "name": "Hiba A. Mustafa",
+            "path": "published/5_1600598081_67819776_2303763929710849_8279055560511324160_o.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.gistmania.com/talk/topic,346111.0.html",
+            "name": "Gistmania",
+            "path": ""
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "http://sandraspicy.blogspot.com/2017/10/viral-photo-of-primary-school-children.html",
+            "name": "Sandra Spicy",
+            "path": ""
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.nigerianewspaper.com.ng/2017/10/photo-of-under-tree-primary-school-in.html",
+            "name": "Nigeria Newspaper ",
+            "path": ""
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصورة في نيجيريا وليست في السودان",
+    "updated_at": "2020-09-25 21:58:15",
+    "url_path": "/factcheck/2020/09/20/هذه-الصورة-في-نيجيريا-وليست-في-السودان",
+    "was_notification_pushed": "true"
+}

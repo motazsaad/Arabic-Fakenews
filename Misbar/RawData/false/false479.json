@@ -1,0 +1,98 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2536,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "تصاميم المطار قيد التوسعة مختلفة (Getty)",
+    "category": "Travel",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">صورة لمطار دبي الجديد في الإمارات، وهو قيد الإنجاز.</span></p>\r\n",
+    "country": "AE",
+    "created_at": "2020-07-17 17:49:21",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f11ba71163be306d45b1395",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من الصورة المتداولة ووجد أنها زائفة، إذ أنها غير منشورة في أي موقع إماراتي رسمي ويبدو أنها مجرد تصميم متخيّل.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">وبالاطلاع على موقع مطارات دبي، وهي شركة تدير مطار دبي الدولي ومطار آل مكتوم الدولي. المطار الثاني قيد التطوير والتوسعة حاليًّا، لكنّ </span><a href=\"https://www.airport-technology.com/projects/al-maktoum-international-airport-expansion-dubai/\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>التصاميم</u></span></a><span style=\"color:#000000\"> المنشورة له لا علاقة لها بالصورة المتداولة، مما يؤكد زيفها.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_csm2xbjb9.jpg\" style=\"height:338px; width:578px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_t71fvyrfx.jpg\" style=\"height:267px; width:582px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل صفحات وحسابات على مواقع التواصل الاجتماعي، حديثاً، صورة تدّعي أنها لمطار دبي الجديد في الإمارات، وهو قيد الإنشاء حاليًّا.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_fobjrf9p5.jpg\" style=\"height:765px; width:538px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_mpcoa01p3.jpg\" style=\"height:758px; width:563px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 352,
+        "left": 3.76666259765625,
+        "path": "articles/1594997361GettyImages-1128291600.jpg",
+        "top": 32.800048828125,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1594997361GettyImages-1128291600.jpg",
+        "width": 626
+    },
+    "post_date": "2020-07-17T17:47:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=167271228285080&id=104254887920048",
+            "name": "Hollanda dz",
+            "path": "published/0_1594997720_هولندا.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/meteoalgerie50/posts/159920042289450",
+            "name": "طقس الجزائر météo Algérie",
+            "path": "published/1_1594997720_طقس.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/TSTTIPSA/photos/a.340988256324433/971492796607306/?type=3&__tn__=H-R",
+            "name": "Tout sur Tipasa كل شيء عن تيبازة",
+            "path": "published/2_1594997720_كل شيء.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Akhbarnassainmlila/posts/1627094957465618",
+            "name": "اخبار ناس عين مليلة",
+            "path": "published/3_1594997803_اخبار.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/241973700039083/permalink/588490642054052/?__tn__=H-R",
+            "name": "Djàllël Mïlænøvîtçh",
+            "path": "published/4_1594997804_جيل.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.dubaiairports.ae/ar/corporate/about-us/dwc-dubai-world-central",
+            "name": "مطارات دبي",
+            "path": "sources/0_1594997361_مطارات.jpg"
+        },
+        {
+            "link": "رhttps://www.airport-technology.com/projects/al-maktoum-international-airport-expansion-dubai/",
+            "name": "Airport Technology",
+            "path": "sources/1_1594997361_air.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصورة ليست لمطار قيد الإنشاء في دبي",
+    "updated_at": "2020-09-25 20:36:12",
+    "url_path": "/factcheck/2020/07/17/هذه-الصورة-ليست-لمطار-قيد-الإنشاء-في-دبي"
+}

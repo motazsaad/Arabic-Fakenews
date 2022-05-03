@@ -1,0 +1,127 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 107,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "الصورة تُظهر احتجاجات وقعت بعد مقتل جورج فلويد (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\">صورة لاقتحام مبنى الكونغرس في العاصمة واشنطن، موقعة الجمل بدأت في أميركا.</p>\r\n",
+    "country": "US",
+    "created_at": "2021-01-07 22:28:18",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 5,
+    "id": "5ff760d2c7fdc656af353b1c",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;<a href=\"https://misbar.com/\" style=\"text-decoration:none\" target=\"_blank\"><u>مسبار</u></a>&quot; من الصورة المتداولة ووجد أنها مضللة، لأن <a href=\"https://houston.culturemap.com/news/city-life/06-03-20-george-floyd-march-houston-downtown-discovery-green-city-hall-bun-b-trae-truth-art-acevedo-joel-osteen/#slide=1\" style=\"text-decoration:none\" target=\"_blank\"><u>الصورة الأصلية</u></a> منشورة على موقع كالتشر ماب (culture map) بتاريخ 3 يونيو/حزيران سنة 2020، وتُظهر احتجاجات وقعت بعد مقتل جورج فلويد على يد الشرطة الأميركية.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">الجدير بالذكر أن الولايات المتحدة الأميركية <a href=\"https://arabic.cnn.com/world/article/2021/01/07/trump-supporters-storm-congress\" style=\"text-decoration:none\" target=\"_blank\"><u>شهدت</u></a> احتجاجات لمؤيّدي الرئيس الأميركي ترامب، بتاريخ 6 يناير/كانون الثاني الجاري، في العاصمة واشنطن، وكان المحتجّون قد اقتحموا مبنى الكونغرس لعرقلة جلسة المصادقة على فوز الرئيس المنتخب جو بايدن في الانتخابات الأميركية.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_plp04x5lu.jpg\" style=\"height:441px; width:527px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">اقرأ/ي أيضاً:</p>\r\n\r\n<p dir=\"rtl\"><a href=\"https://misbar.com/factcheck/2021/01/07/%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9-%D9%84%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A9-%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8-%D9%81%D9%8A-%D8%A5%D8%B3%D8%A8%D8%A7%D9%86%D9%8A%D8%A7-%D8%B9%D8%A7%D9%85-1981-%D9%88%D9%84%D9%8A%D8%B3%D8%AA-%D9%84%D8%A7%D9%82%D8%AA%D8%AD%D8%A7%D9%85-%D8%A7%D9%84%D9%83%D9%88%D9%86%D8%BA%D8%B1%D8%B3-%D8%B9%D8%A7%D9%85-1814\" target=\"_blank\">الصورة لمحاولة انقلاب في إسبانيا عام 1981 وليست لاقتحام الكونغرس عام 1814</a></p>\r\n\r\n<p dir=\"rtl\"><a href=\"https://misbar.com/factcheck/2021/01/07/%D8%B5%D9%88%D8%B1%D8%A9-%D8%A3%D9%88%D8%A8%D8%A7%D9%85%D8%A7-%D9%88%D9%87%D9%88-%D9%8A%D8%A8%D9%83%D9%8A-%D9%82%D8%AF%D9%8A%D9%85%D8%A9-%D9%88%D9%84%D9%8A%D8%B3%D8%AA-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%82%D8%AA%D8%AD%D8%A7%D9%85-%D8%A7%D9%84%D9%83%D9%88%D9%86%D8%BA%D8%B1%D8%B3\" target=\"_blank\">صورة أوباما وهو يبكي قديمة وليست بعد اقتحام الكونغرس</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "جورج فلويد",
+        "اقتحام الكونغرس",
+        "ترامب",
+        "أميركا"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [
+        "دونالد ترامب"
+    ],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تتداول حسابات وصفحات على مواقع التواصل الاجتماعي، حديثًا، صورة تدعي أنها تُظهر مجموعة من الأشخاص يعتلون أحصنة أثناء اقتحام أنصار الرئيس الأميركي دونالد ترامب مبنى الكونغرس في واشنطن، متبوعةً&nbsp;بتعليق يقول &quot;موقعة الجمل بدأت في أميركا&quot;.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_hws3ciqvq.jpg\" style=\"height:677px; width:533px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_b84lwju1w.jpg\" style=\"height:520px; width:545px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 315,
+        "left": 1.64447021484375,
+        "path": "articles/1610047697موقعة الجمل.jpg",
+        "top": 23,
+        "totalHeight": 423,
+        "totalWidth": 564,
+        "watermark_path": "articles/watermark-1610047697موقعة الجمل.jpg",
+        "width": 561
+    },
+    "post_date": "2021-01-07T21:02:00.000+03:00",
+    "published": [
+        {
+            "id": "5ff762d18ddc09227305a421",
+            "link": "https://www.facebook.com/postfor4you/posts/173750147873446",
+            "name": "Post for you",
+            "origin": "facebook",
+            "path": "sources/749c1bc949cffc680f19330425575cea6bc51a44.jpg"
+        },
+        {
+            "id": "5ff762d134ecf95c157c7e9c",
+            "link": "https://www.facebook.com/MrkzQtwrmhafztAlghrbyt/posts/3842392072489996",
+            "name": "مركز قطور ,محافظة الغربية",
+            "origin": "facebook",
+            "path": "sources/414ec3a27443674a5b5dc0928e3e2a70ffb5a978.jpg"
+        },
+        {
+            "id": "5ff762d13a0d4413225ab84c",
+            "link": "https://www.facebook.com/groups/174078437365930/permalink/308701137236992/",
+            "name": "&lrm;بوستات مسروقة - Stolen Posts&lrm;",
+            "origin": "facebook",
+            "path": "sources/ce6c7301795eec895ddaccbfa72bd54a16ced3e6.jpg"
+        },
+        {
+            "id": "5ff762d12e0c863bcf1bd38f",
+            "link": "https://www.facebook.com/biano1122/posts/100853911979989",
+            "name": "00:15",
+            "origin": "facebook",
+            "path": "sources/734182fc38ad5e70a377cacf4185e688f0200197.jpg"
+        },
+        {
+            "id": "5ff762d1ee963d61083864d5",
+            "link": "https://www.facebook.com/prof.hdb/posts/10224523953274245",
+            "name": "Prof Hdb",
+            "origin": "facebook",
+            "path": "sources/a87f2679356c5a8a7eeb46472e30167d18c3a494.jpg"
+        },
+        {
+            "id": "5ff762d297c5f36a0071f0b3",
+            "link": "https://www.facebook.com/eng.abdallh123/posts/3596286063790982",
+            "name": "Eng Abdallh123",
+            "origin": "facebook",
+            "path": "sources/a87f2679356c5a8a7eeb46472e30167d18c3a494.jpg"
+        },
+        {
+            "id": "5ff762d214269325fb311d05",
+            "link": "https://www.facebook.com/Tantamahala/posts/186894949800150",
+            "name": "طنطا اليوم tanta today",
+            "origin": "facebook",
+            "path": "sources/493db8ce2d647699be8953fa54e6feb45ac68377.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5ff760d13307e20be753852f",
+            "link": "https://houston.culturemap.com/news/city-life/06-03-20-george-floyd-march-houston-downtown-discovery-green-city-hall-bun-b-trae-truth-art-acevedo-joel-osteen/#slide=1",
+            "name": "CultureMap Houston",
+            "origin": "",
+            "path": "sources/9a3ae1061dcf86b1813d8b0d67f9f72a09d045c0.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "الصورة تُظهر احتجاجات وقعت بعد مقتل جورج فلويد.",
+    "title": "صورة قديمة ولا تُظهر موقعة جمل في أميركا",
+    "updated_at": "2021-01-07 22:48:12",
+    "url_path": "/factcheck/2021/01/07/صورة-قديمة-ولا-تظهر-موقعة-جمل-في-أميركا",
+    "was_notification_pushed": "true"
+}

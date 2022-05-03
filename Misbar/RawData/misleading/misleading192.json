@@ -1,0 +1,113 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 143,
+    "author": {
+        "fullname": "غسان صبري أبو العدوس ",
+        "id": "5f89eda383b54d712558f5be",
+        "photo": {
+            "name": "1602874787_75424768_2436899999915730_5229651547972960256_n.jpg",
+            "path": "authors/1602874787_75424768_2436899999915730_5229651547972960256_n.jpg"
+        }
+    },
+    "caption": "عثرت على موقع أثري وليس ذهباَ (مواقع التواصل الاجتماعي)",
+    "category": "News",
+    "claim": "<p>أمانة عمان الكبرى تعثر على قطع وسبائك من الذهب خلال الحفر وسط البلد بعمان.</p>\r\n",
+    "country": "JO",
+    "created_at": "2020-12-15 11:31:12",
+    "created_by": "5f39b5451dd585078b5d94f3",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 1,
+    "id": "5fd874503b5e7328f56680c4",
+    "investigation": "<p dir=\"RTL\"><strong>تحقّق &quot;مسبار&quot; من الصور والخبر المتداول، وتبين بأن جميعها&nbsp;مضللة إذ&nbsp;لا تعود تلك الصور إلى الموقع المشار إليه ضمن المشروع الذي تنفذه أمانة عمان الكبرى؛ والحقيقة أنه تم العثور&nbsp;على موقع أثري اكتشف&nbsp;أثناء الحفر، وتم التنسيق مع وزارة السياحة والآثار الأردنية وإبلاغها من قبل الأمانة، ولم يكن هناك ذهب في ذلك الموقع&nbsp;الأثري.&nbsp;&nbsp;وأوضحت ذلك وزارة السياحة والآثار الأردنية&nbsp;خلال صفحتها الرسمية، كما نفى أمين عمان يوسف الشواربة&nbsp; العثور على أي قطع ذهبية.</strong></p>\r\n\r\n<p dir=\"RTL\"><strong>أما الصور المتداولة فهي لكنز من القطع النقدية تم العثور عليه قبالة سواحل فلوريدا الأميركية&nbsp;في حطام سفينة أسبانية غرقت في القرن الثامن عشر، وعثر عليه&nbsp;صائدو الكنوز. وصور أخرى لمغارة رومانية تم اكتشافها في منطقة صور باهر بالقدس.</strong></p>\r\n\r\n<p dir=\"RTL\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_sial6hrae.jpg\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": false,
+    "is_notification_pushed": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "الأردن",
+        "عمّان",
+        "ذهب",
+        "يوسف الشواربة",
+        "موقع أثري"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<h4 dir=\"rtl\"><span style=\"background-color:#ffffff\">تداو&nbsp;لت صفحات وحسابات على مواقع التواصل الاجتماعي،&nbsp;منذ 10 ديسمبر/كانون الأول الجاري،&nbsp;صوراً لتماثيل وسبائك ذهبية، ادّعت أنه تم العثور عليها خلال حفريات تقوم&nbsp;بها أمانة عمان الكبرى ضمن مشروع توسعة العبّارات الصندوقية؛ تجهيزاً لفصل الشتاء.</span></h4>\r\n\r\n<h2><img src=\"https://images-prod.misbar.com/articlebody/origin_uwy5j783p.jpg\" /></h2>\r\n\r\n<h2><img src=\"https://images-prod.misbar.com/articlebody/origin_5scufbx2q.jpg\" /></h2>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 177,
+        "left": 1.29339599609375,
+        "path": "articles/1608021070385405_6_1607721172.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 317,
+        "watermark_path": "articles/watermark-1608021070385405_6_1607721172.jpg",
+        "width": 315
+    },
+    "post_date": "2020-12-12T11:18:00.000+03:00",
+    "published": [
+        {
+            "id": "5fd87448c117197da30bdb24",
+            "link": "https://www.facebook.com/Wadi.Al.Sear/posts/1492265490966004",
+            "name": "وادي السيــــــــــر",
+            "origin": "facebook",
+            "path": "sources/e3c4de02fe7fe21d8342d85ad00a8612184c2272.jpg"
+        },
+        {
+            "id": "5fd8744a5928af62793fb0f4",
+            "link": "https://www.facebook.com/muhammad.abuaziz/posts/10159151347422235",
+            "name": "Muhammad Abu Aziz",
+            "origin": "facebook",
+            "path": "sources/b9931da924bb92be4604649eb625de4c4a461b6b.jpg"
+        },
+        {
+            "id": "5fd8744b36726077e02517d4",
+            "link": "https://www.facebook.com/335522006656008/posts/1349406778600854/?d=n",
+            "name": "Facebook",
+            "origin": "facebook",
+            "path": "sources/d41b5641225c2c719800eee56d3ea73d439ca1c7.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fd8744c11104b178d1c01a4",
+            "link": "https://jfranews.com.jo/article/294821",
+            "name": "جفرا نيوز",
+            "origin": "",
+            "path": "sources/b6ca379e44834bd315e3fcec731277b3893c845d.jpg"
+        },
+        {
+            "id": "5fd8744c1e034355612a9424",
+            "link": "https://jo24.net/article/385405?fbclid=IwAR0tEZnxnBcjreTDOzAXKxQLyxkEC7j5dM2G9IeW1SwBCcoIlrJwb31WOls",
+            "name": " الأردن 24",
+            "origin": "",
+            "path": "sources/2c632de3c69dfad957af6bea0877742d2c3345d0.jpg"
+        },
+        {
+            "id": "5fd8744d81ec28070e59cb14",
+            "link": "https://www.metmuseum.org/art/collection/search/465184?searchField=All&sortBy=Relevance&ft=Ostrogothic&offset=0&rpp=20&pos=20",
+            "name": "www.metmuseum.org",
+            "origin": "",
+            "path": "sources/ab7b69f642ed41749328d72ef510154a21e4e1fa.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لم تعثر أمانة عمان على ذهب خلال الحفر وسط البلد بل على موقع أثري",
+    "updated_at": "2020-12-15 12:09:37",
+    "url_path": "/factcheck/2020/12/15/لم-تعثر-أمانة-عمان-على-ذهب-خلال-الحفر-وسط-البلد-بل-على-موقع-أثري",
+    "was_notification_pushed": false
+}

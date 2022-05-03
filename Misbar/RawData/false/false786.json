@@ -1,0 +1,104 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 10556,
+    "author": {
+        "fullname": "هيثم جودية",
+        "id": "5e295291d4a2296ff0065605",
+        "photo": {
+            "name": "1579766417_هيثم .JPG",
+            "path": "authors/1579766417_هيثم .JPG"
+        }
+    },
+    "caption": " بعض المنشورات استخدمت البث المباشر للإيحاء وكأن الكويكب سيصطدم الآن بالأرض (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">مقطع فيديو يرصد كويكب ضخم يقترب من اصطدام مباشر بالأرض ما يعني تدمير البشرية.</p>\r\n",
+    "country": "PE",
+    "created_at": "2020-04-20 11:57:27",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e9d63f7db291612db3b0304",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من مقطع الفيديو، ليجد أن الادعاء غير صحيح فقد تبين أنه مقطع قديم، تم تصويره في يونيو/ حزيران من العام 2012 من قبل أحد الأشخاص خلال رحلته البرية إلى مدينة جولياكا في البيرو.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">كما قام موقع فيسبوك بإيقاف بعض المنشورات التي استخدمت البث المباشر للإيحاء وكأن الكويكب سيصطدم الآن بالأرض، وكانت هذه المنشورات جذبت عشرات الآلاف من المتابعين.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_ot93bhe4l.jpg\" style=\"height:535px; width:554px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_nf8fbuizl.jpg\" style=\"height:524px; width:554px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحاتٌ على مواقع التواصل الاجتماعي منذ 15 ابريل/ نيسان الجاري، مقطع فيديو قالت إنّه يرصد كويكب ضخم يقترب من الأرض، وجميع منشورات هذه الصفحات أكّدت قرب اصطدام هذا الكويكب بالأرض ما يعني تدمير البشريّة، وبعضها طبّق خاصية البث المباشر لإضفاء نوع من أجواء الترهيب على الحدث.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_4kbq094sx.jpg\" style=\"height:383px; width:554px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_uq4di7qod.jpg\" style=\"height:402px; width:553px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_p4afol4jc.jpg\" style=\"height:276px; width:698px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_8cas0rsc0.jpg\" style=\"height:507px; width:664px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_6kwa0buzq.jpg\" style=\"height:311px; width:553px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_30ye9hbuj.jpg\" style=\"height:418px; width:553px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 311,
+        "left": 19.111251831054688,
+        "path": "articles/1587373046GettyImages-1136351876.jpg",
+        "top": 44.2880859375,
+        "totalHeight": 423,
+        "totalWidth": 587,
+        "watermark_path": "articles/watermark-1587373046GettyImages-1136351876.jpg",
+        "width": 553
+    },
+    "post_date": "2020-04-20T10:06:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/mo555555555555555tttty/videos/921502388296292/",
+            "name": "Mostafa Assl",
+            "path": "published/0_1587373044_مصطفى.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Mahalla.News2/videos/983721458691312/",
+            "name": "شبكة أخبار المحله اليوم",
+            "path": "published/1_1587373045_المحلة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/anbaaalwatan1/videos/224790158796480/",
+            "name": "جريدة أنباء الوطن الان",
+            "path": "published/2_1587373045_انباء وطن.JPG"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=703725163730732",
+            "name": " In Syria",
+            "path": "published/3_1587373045_ان سوريا.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=rreqIeUFarU",
+            "name": "Life's Good",
+            "path": "published/4_1587373045_unnamed.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/1653948151499313/photos/a.1664935470400581/2792560424304741/?type=3&theater",
+            "name": "فساتين",
+            "path": "published/5_1587373045_فساتين.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=DlciJ58s-qg&fbclid=IwAR3Cwy4nVfTcEbgmpg-EyawKcR0nB6-VoWHdU5tn4cj5Yqh8CF7ZHOvGKcA",
+            "name": "Edgar Q. Hancco",
+            "path": "sources/0_1587373045_ببببب.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=O3gYkGmvvxk&fbclid=IwAR3z7MQlMOU5eyD-wfn9VSfnlx4DUag299eXXu_Wh-GtP09cq0pDnyquSlY",
+            "name": "Noumen Proyect",
+            "path": "sources/1_1587373046_unnamed (1).jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "اصطدام كويكب بالأرض وتدمير البشرية.. خبر زائف",
+    "updated_at": "2020-09-25 16:29:49",
+    "url_path": "/factcheck/2020/04/20/اصطدام-كويكب-بالأرض-وتدمير-البشرية-خبر-زائف"
+}

@@ -1,0 +1,88 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 541,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "اعترفت إليسا أن الحساب الذي أعادت التغريد منه خاطئ إلا أنها أصرت على الرأي الذي قاله (Twitter)",
+    "category": "News",
+    "claim": "<p>وزيرة المهحرين د.عادة شريم، تدعو الشعب اللبناني إلى تقدير تضحيات الوزراء والحكومة وإليسا تعيد التغريدة منتقدة.</p>\r\n",
+    "country": "LB",
+    "created_at": "2020-08-23 10:21:17",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f4218ed60211806ed311f5f",
+    "investigation": "<p style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من التغريدة ووجد أنها مفبركة من حساب مزيف، وكان هذا الحساب يدعي أنه للوزيرة غادة شريم، قبل أن يصبح للنائب في البرلمان اللبناني ماريون عبود، ليحمل صورته واسمه على التغريدة ذاتها، ثم قام تويتر بحذف الحساب المفبرك، وبقيت إعادة تغريد الفنانة إليسا في &quot;التايم لاين&quot; من دون التغريدة المفبركة، والتي علقت إليسا فوقها &quot; أرجوك لا تقولي المزيد غادة&quot;، في إشارة إلى تمني الأخيرة أن يقدر الشعب اللبناني تضحيات الحكومة، ما دفع&nbsp;الوزيرة من حسابها الموثق إلى تنبيه الفنانة&nbsp;إليسا بتغريدة، وبالفعل شاركت إليسا&nbsp;هذا التنبيه لكنها أصرت&nbsp;رأيها السياسي بأن التغريدة المفبركة غير بعيدة عن أجواء الحكومة اللبنانية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">كما نفى حساب&nbsp;النائب ماريون عبود الحقيقي&nbsp;التغريد&nbsp;من أي حسابات أخرى، مؤكداً كونها حسابات مفبركة، وهذا ما فعلته الوزيرة غادة أيضاً في تغريدة خاطبت فيها الجماهير اللبنانية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وتستمر حالة السجال في لبنان على مواقع التواصل الاجتماعي على اثر ما اعتبره الشعب اللبناني تقصير حكومته&nbsp;عقب حادثة انفجار مرفأ بيروت..</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_embvqui7l.jpg\" style=\"height:235px; width:605px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_zc8d6epg7.jpg\" style=\"height:291px; width:605px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_196rl16g5.jpg\" style=\"height:153px; width:593px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/investigation_tupjiweq6.jpg\" style=\"height:167px; width:617px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/investigation_zvska1gyj.jpg\" style=\"height:274px; width:601px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/investigation_fo7kz4qbv.jpg\" style=\"height:314px; width:605px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">انتقدت عشرات الحسابات في موقع &quot;تويتر&quot;، كما أعادت تغريد، منذ العشرين&nbsp;من أغسطس/آب الجاري، ومنهم الفنانة اللبنانية إليسا، تغريدةً لوزيرة المهجرين اللبنانية غادة شريم، قالت فيها &quot; انشالله الشعب اللبناني يقدر التضحيات للي عملناها بالحكومة وما يحكم علينا بمجرد انو الوقت ما اسعفنا لمزيد من الاصلاحات&quot;.</span></p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_dy1rffhgh.jpg\" style=\"height:490px; width:605px\" /></p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 408,
+        "left": 18.5,
+        "path": "articles/1598167277ييثثص.JPG",
+        "top": 5.5859375,
+        "totalHeight": 423,
+        "totalWidth": 761,
+        "watermark_path": "articles/watermark-1598167277ييثثص.JPG",
+        "width": 724
+    },
+    "post_date": "2020-08-23T08:57:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/elissakh/status/1296713689551253504",
+            "name": "إليسا",
+            "path": "published/0_1598167277_dPv51ICx_400x400.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/drmarioaoun1?lang=en",
+            "name": "د.ماريون عبود",
+            "path": "sources/0_1598167277_GEOSRooO_400x400.jpg"
+        },
+        {
+            "link": "https://twitter.com/chreimghada/status/1296709805793521664",
+            "name": "د.عادة شريم",
+            "path": "sources/1_1598167277_mBPG7h59_400x400.jpg"
+        },
+        {
+            "link": "https://twitter.com/ChreimGhadaa/status/1296556467227590659",
+            "name": "الحساب المزيف",
+            "path": "sources/2_1598168258_6_1596888660_twitter.jpg"
+        },
+        {
+            "link": "https://twitter.com/elissakh/status/1296774523556106240",
+            "name": "إليسا",
+            "path": "sources/3_1598167277_dPv51ICx_400x400.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الفنانة إليسا تعيد التغريد من حساب مزيف للوزيرة اللبنانية غادة شريم",
+    "updated_at": "2020-09-25 09:39:34",
+    "url_path": "/factcheck/2020/08/23/الفنانة-إليسا-تعيد-التغريد-من-حساب-مزيف-للوزيرة-اللبنانية-غادة-شريم"
+}

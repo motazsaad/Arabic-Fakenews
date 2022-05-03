@@ -1,0 +1,109 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1689,
+    "author": {
+        "fullname": "رشيد عفيف",
+        "id": "5ec4e956db291667784c4bc4",
+        "photo": {
+            "name": "1589963094_رشيد صورة.jpg",
+            "path": "authors/1589963094_رشيد صورة.jpg"
+        }
+    },
+    "caption": "أصول والد نيمار برازيلية (Getty)",
+    "category": "Sports",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">أصول&nbsp;لاعب كرة القدم نيمار أمازيغية جزائرية، من قرية أولاد حارث، واسمه الأصلي جعفر.</p>\r\n",
+    "country": "DZ",
+    "created_at": "2020-07-18 17:44:21",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5f130ac5163be306be79cce6",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الخبر المتداول ووجد أنه زائف. إذ انتشرت هذه الشائعة لأول مرّة عام 2010 عندما قام أحد مشجّعي المنتخب الجزائري بتعديل المعلومات المتعلقة بنيمار على موقع ويكيبيديا، ذكر فيها أن أصول والده جزائرية، وصدّقت بعض الصحف الجزائرية حينها هذه المعلومة وبدأت تتحدث عن قرب استدعاء نيمار للمنتخب الوطني. وقد نشرت &quot;فرانس فوتبول&quot; تقريراً ساخراً عن الشائعة بتاريخ 11 أغسطس/آب عام 2017. وتؤكد جميع المعطيات المتوفرة عن سيرة والد نيمار، أنه وُلد في البرازيل عام 1965، واسمه الكامل Neymar da Silva Santos Senior.</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات على موقع التواصل الاجتماعي فيسبوك، حديثاً، خبراً مفاده أن أصول والد لاعب كرة القدم الشهير، نيمار، أمازيغية من قرية أولاد حارث في الجزائر، وأضاف الخبر أن المخابرات البرازيلية أخفت هذه المعلومة حتى لا تستفيد الجزائر من موهبته. وذكر الخبر أن الاسم الحقيقي لوالد نيمار هو جعفر داسيلفا، وينادونه جيفرن في البرازيل، ووالده اسمه قاسم داسيلفا وينادونه قاسيميرو.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_jgmc3y1kw.jpg\" style=\"height:618px; width:605px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_c30zv6pya.jpg\" style=\"height:644px; width:423px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 131,
+        "left": 2.24639892578125,
+        "path": "articles/1595083460GettyImages-507982774.jpg",
+        "top": 9.063232421875,
+        "totalHeight": 172,
+        "totalWidth": 237,
+        "watermark_path": "articles/watermark-1595083460GettyImages-507982774.jpg",
+        "width": 233
+    },
+    "post_date": "2020-07-18T17:36:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/Amzigh.Algerie.France/posts/732337457562134",
+            "name": "المنظمة الأمازيغية",
+            "path": "published/0_1595083460_المنظمة الامازيغية.jpg"
+        },
+        {
+            "link": "https://facebook.com/story.php?story_fbid=286680279342995&id=112638306747194",
+            "name": "الأخرار مميز",
+            "path": "published/1_1595083460_الاخرار ميمز.jpg"
+        },
+        {
+            "link": "https://facebook.com/story.php?story_fbid=1074875096248644&id=682925568776934",
+            "name": "شوارع الجزائر",
+            "path": "published/2_1595083460_شوارع الجزائر.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=153879019638977&id=101184921575054",
+            "name": "كومندوس القطط.4.",
+            "path": "published/3_1595083460_كومندوس القطط.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/maryoual.habibathe/posts/1152245868476165",
+            "name": "SLimane Bakhouche",
+            "path": "published/4_1595083460_slimane.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/hakim.magra/posts/3136260253097279",
+            "name": "Ouadah Achour",
+            "path": "published/5_1595083460_ashour.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.alquds.co.uk/%D9%8A%D9%88%D9%85-%D8%A3%D8%B5%D8%A8%D8%AD-%D9%86%D9%8A%D9%85%D8%A7%D8%B1-%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A%D8%A7/",
+            "name": "القدس العربي",
+            "path": "sources/0_1595083460_القدس العربي1.jpg"
+        },
+        {
+            "link": "https://www.francefootball.fr/news/Le-jour-ou-neymar-est-devenu-algerien/640140",
+            "name": "France Football",
+            "path": "sources/1_1595083460_france football.jpg"
+        },
+        {
+            "link": "https://neymar-football.net/pere/",
+            "name": "Neymar Jr.",
+            "path": "sources/2_1595083460_neymar Jr..jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "والد نيمار أصله برازيلي، وليس من أصول جزائرية",
+    "updated_at": "2020-09-25 20:18:43",
+    "url_path": "/factcheck/2020/07/18/والد-نيمار-أصله-برازيلي-وليس-من-أصول-جزائرية"
+}

@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 16538,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": " أثبتت الدراسات العلمية أن رمسيس الثاني ليس ذاته فرعون (Twitter)",
+    "category": "Science",
+    "claim": "<p>صورة لفرعون الطاغية الذي ذكر في القرآن بعد إعادة تشكيل ملامحه.</p>\r\n",
+    "country": "EG",
+    "created_at": "2020-08-23 12:04:08",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 1,
+    "id": "5f42310860211806e646bf52",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الصور ليجد أنها مضللة، فصورة المومياء تعود إلى رمسيس الثاني وليس مومياء&nbsp;فرعون الطاغية، كما لم تنشر هذه الصور التي تعيد تشكيل وجه المومياء في أية مجلة علمية محكمة، بل لا يوجد لها أثر في المواقع العلمية، وعلى الدوام توجد مبادرات ومحاولات كثير من الفنانين على مر السنوات في إعادة تخيل وتشكيل وجه رمسيس الثاني كما تبدو في الصور والفيديوهات المرفقة هنا.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">ومن المهم الإشارة إلى أن بعض الآراء تعتقد أن رمسيس الثاني هو فرعون الذي ذُكر في القرآن ومات في البحر، وتسميه الكتب العلمية فرعون الخروج، إلا أنه بعد متابعة &quot;مسبار&quot; للجدل العلمي والديني حول الأمر،&nbsp;وجد عديد من&nbsp; الآراء المتخصصة تنفي ذلك، معتمدة على فحوصات أجرتها باريس على مومياء رمسيس الثاني، أكدت نتائجها&nbsp;أنه لم يمت غرقاً ما ينفي الرأي القائل بتطابق الشخصيتين تاريخياً.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_pib5t0zgr.jpg\" style=\"height:502px; width:605px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/investigation_fv46uzawa.jpg\" style=\"height:246px; width:605px\" /></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/JLQ9ax7dIFE\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول حسابات كثيرة على موقعّي التواصل الاجتماعي فيسبوك وتويتر، منذ عشرين أغسطس/آب الجاري، صوراً لما وصفته أنه إعادة تشكيل وجه فرعون بتقنية ثلاثية الأبعاد، ومنشورات أخرى قالت أنها صوره بعد تعديلها بالماسح الضوئي، كما علقت بعض المنشورات بآيات قرآنية على الصور، وأبدت دهشتها أمام مراحل تشكل وجه فرعون، والتي اعتمدت على صورة منتشرة لمومياء مصرية قديمة.<img src=\"https://images-prod.misbar.com/articlebody/origin_4g70e57a1.jpg\" style=\"height:621px; width:596px\" /> <img src=\"https://images-prod.misbar.com/articlebody/origin_obdhhdtx6.jpg\" style=\"height:542px; width:596px\" />&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 406,
+        "left": 33.449951171875,
+        "path": "articles/1598173447مومؤ.JPG",
+        "top": 3.75,
+        "totalHeight": 423,
+        "totalWidth": 761,
+        "watermark_path": "articles/watermark-1598173447مومؤ.JPG",
+        "width": 721
+    },
+    "post_date": "2020-08-23T10:44:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=170676467884509&id=101190621499761",
+            "name": "العالم بنظرة العاقل",
+            "path": "published/0_1598173447_0_1596888660_facebook.jpg"
+        },
+        {
+            "link": "https://twitter.com/madridestaa/status/1296954064685629440",
+            "name": "‏﮼عبدالعزيز،عبدالله،الحميدي،",
+            "path": "published/1_1598173447_6_1596888660_twitter.jpg"
+        },
+        {
+            "link": "https://twitter.com/M_Zml/status/1297260795332571138",
+            "name": " مسلم الزامل",
+            "path": "published/2_1598173447_6_1596888660_twitter.jpg"
+        },
+        {
+            "link": "https://twitter.com/sultanalomanii/status/1297155788335648775",
+            "name": "سلطان العماني",
+            "path": "published/3_1598173447_6_1596888660_twitter.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.tripsinegypt.com/valley-of-the-kings/",
+            "name": "tripsinegypt",
+            "path": "sources/0_1598173447_ففف.JPG"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=JLQ9ax7dIFE",
+            "name": "JudeMaris",
+            "path": "sources/1_1598173447_سسسسسسس.jpg"
+        },
+        {
+            "link": "https://www.sasapost.com/ramsis-and-exodus/",
+            "name": "sasapost",
+            "path": "sources/2_1598173447_يييييصصصييسي.JPG"
+        },
+        {
+            "link": "https://historicaleve.com/all-facts-about-ramses-the-great/",
+            "name": "historicaleve",
+            "path": "sources/3_1598173447_تاريخخ.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه صورة مومياء رمسيس الثاني وليس فرعون الطاغية",
+    "updated_at": "2020-09-25 22:14:25",
+    "url_path": "/factcheck/2020/08/23/هذه-صورة-مومياء-رمسيس-الثاني-وليس-فرعون-الطاغية"
+}

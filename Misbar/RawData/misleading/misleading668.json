@@ -1,0 +1,133 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1272,
+    "author": {
+        "fullname": "محمود غزيل",
+        "id": "5ea83263db291659bf4bf4c4",
+        "photo": {
+            "name": "1588081251_IMG-20180505-WA0040.jpg",
+            "path": "authors/1588081251_IMG-20180505-WA0040.jpg"
+        }
+    },
+    "caption": "الصورة تعود لمهاجرين أفارقة قبالة سواحل ليبيا عام 2014 (Massimo Sestini-Polaris)",
+    "category": "Travel",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">صورة لعبّارة تحمل مهاجرين غير شرعيين من مدينة طرابلس ومنطقة الميناء شمال لبنان.</p>\r\n",
+    "country": "LB",
+    "created_at": "2020-09-07 19:45:41",
+    "created_by": "5f39b5451dd585078b5d94f3",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f5663b5d0fe90533d550244",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقق &quot;مسبار&quot; من الصورة المتداولة، وتبيّن أنها مضللة ولا علاقة لها بلبنان. فهي تعود إلى عام 2014 قبالة السواحل الليبية وتصوّر مجموعة مهاجرين يحاولون الوصول إلى أوروبا. &nbsp;وتجدر الإشارة أنّ الصورة اختيرت لتكون من بين أفضل 10 صور فوتوغرافية في عام 2014، وكانت قد حازت أيضاً على جائزة &quot;<span dir=\"LTR\">World Press Photo Award</span>&quot; عام 2015. &nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_ln3rg6x6r.jpg\" style=\"height:355px; width:666px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">تداولت حسابات على مواقع التواصل الاجتماعي، صورة قالت إنها لعبّارة تحمل شباناً لبنانيين يحاولون الهجرة خارج البلاد بسبب الظروف الصعبة التي يعيشها لبنان.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_sydeweppe.jpg\" style=\"height:602px; width:501px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ku8veshl1.jpg\" style=\"height:493px; width:531px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 355,
+        "left": 1.7125396728515625,
+        "path": "articles/1599497141italy-migrants-refugees-asylum-seekers-1.jpg",
+        "top": 44.102783203125,
+        "totalHeight": 423,
+        "totalWidth": 635,
+        "watermark_path": "articles/watermark-1599497141italy-migrants-refugees-asylum-seekers-1.jpg",
+        "width": 632
+    },
+    "post_date": "2020-09-08T07:35:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/DrHassanMoraib/status/1302581486776913922",
+            "name": "حسن مرعب",
+            "path": "published/0_1599497140_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/Mashhourhousni/status/1302623389123842048",
+            "name": "مشهور الحصني",
+            "path": "published/1_1599497140_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=175120127511780&id=100050413814951",
+            "name": "Abou Omar",
+            "path": "published/2_1599497140_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/groups/213376582618104/permalink/669261683696256/",
+            "name": "Ahmad Cheikh Al Najjarin",
+            "path": "published/3_1599497140_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": " https://twitter.com/ahmadzakaria199/status/1302554024550563840",
+            "name": "Ahmad Zakaria",
+            "path": "published/4_1599500870_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/ziadalmassri/status/1302564299148271617",
+            "name": "ziadalmassri",
+            "path": "published/5_1599500870_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/xv37euVu9OGf4bj/status/1302681205473771522",
+            "name": "لبنان اولأ واخيرأ..ابوسمير ",
+            "path": "published/6_1599500870_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/bental2arz/status/1302576717677158403",
+            "name": "bent lebnane",
+            "path": "published/7_1599500870_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/yanachahine/status/1302543236163080192 ",
+            "name": "yana chahine",
+            "path": "published/8_1599500870_twitter.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://time.com/4063972/refugee-crisis-massimo-sestini/",
+            "name": " Time",
+            "path": "sources/0_1599497141_Time.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.almodon.com/society/2020/9/7/%D9%85%D9%88%D8%B3%D9%85-%D8%A7%D9%84%D9%87%D8%AC%D8%B1%D8%A9-%D9%85%D9%86-%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84-%D9%82%D9%88%D8%A7%D8%B1%D8%A8-%D8%A7%D9%84%D9%85%D9%88%D8%AA-%D8%A8%D9%8A%D9%86-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D9%88%D9%82%D8%A8%D8%B1%D8%B5 ",
+            "name": "المدن ",
+            "path": "sources/1_1599497141_المدن.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الصورة ليست للبنانين قرروا الهجرة خارج البلاد",
+    "updated_at": "2020-09-25 14:00:18",
+    "url_path": "/factcheck/2020/09/07/الصورة-ليست-للبنانين-قرروا-الهجرة-خارج-البلاد",
+    "was_notification_pushed": "true"
+}

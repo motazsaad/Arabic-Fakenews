@@ -1,0 +1,87 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 452,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "شخصيات تم تصميمها لألعاب الفيديو نشرتها صفحات على أنها حقيقية (Concept art world)",
+    "category": "Gaming",
+    "claim": "<p>صور لما تبدو عليه هيئة الشرطي الأميركي في عهد الرئيس الأميركي دونالد ترامب.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-07-28 19:05:37",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f204cd1163be307e86074bf",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة ليجد أنها تصميم إلكتروني بواسطة &nbsp;مصمم ألعاب الفيديو مايكل أندرو ناش، صممه عام 2016 تقريباً، وأعاد مشاركة الصورة عام 2019 على حسابه في موقع انستغرام، وقد سخر من استخدام الصور التي يصممها لشخصيات إلكترونية بهذا الشكل السياسي، وكتب على صفحته على موقع فيسبوك &quot; من الرائع رؤية المعنى الكامن وراء عملي يخرج بطرق مختلفة&quot;، وكانت كثير من الحسابات نشرت صور أبطال خارقين تم تصميمها إلكترونياً على أنها حقيقية، وكان تعليقهم حول رفض عسكرة البوليس في بلدهم.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_n5l95hwnk.jpg\" style=\"height:565px; width:605px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_4g7t3q0r4.jpg\" style=\"height:429px; width:605px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_1dg8mgdts.jpg\" style=\"height:374px; width:605px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات أجنبية على موقع تويتر، منذ 26 يوليو/تموز الجاري، صوراً لما تبدو عليه هيئة الشرطة الأميركي في عصر ترامب، ويصاحبها تعليقاً &quot;إنها أميركا ترامب&quot;، ومنشورات أخرى كتبت &quot;هذا ما قال له بوتين أن يفعله&quot;، وقد وصلت إعادة التغريد بعضها إلى أكثر من خمسة آلاف مرة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;وتأتي هذه المنشورات بعد إعلان الرئيس الأميركي قبل خمسة أيام إرسال مئات <span style=\"background-color:white\"><span style=\"color:black\">من القوات الفيدرالية إلى المدن الأميركية لمكافحة الجرائم المتزايدة، على الرغم من المعارضة القوية من جانب مسؤولين منتخبين محليين لأنهم يعتبرون ذلك انتهاكاً للدستور.</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_adltui6eq.jpg\" style=\"height:402px; width:602px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_13hsqloco.jpg\" style=\"height:600px; width:593px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_4csalfbjs.jpg\" style=\"height:387px; width:605px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1596006302Ed8GCq3WkAACLEG.jpg",
+        "watermark_path": "articles/watermark-1596006302Ed8GCq3WkAACLEG.jpg"
+    },
+    "post_date": "2020-07-28T17:22:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/CheriJacobus/status/1287211998871203840",
+            "name": "Cheri Jacobus",
+            "path": "published/0_1595952336_شيي.jpg"
+        },
+        {
+            "link": "https://twitter.com/cl8_10/status/1287754663190765570",
+            "name": "Clayton",
+            "path": "published/1_1595952336_كلاستو.jpg"
+        },
+        {
+            "link": "https://twitter.com/5ega5aturn5tan/status/1287761497259679744",
+            "name": "Sega Respecter ",
+            "path": "published/2_1595952336_سيجا.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "http://conceptartworld.com/artists/mike-andrew-nash/",
+            "name": "conceptartworld",
+            "path": "sources/0_1595952337_ققق.JPG"
+        },
+        {
+            "link": "https://www.facebook.com/mike.nash.330/posts/10160521028994554",
+            "name": "Michael Andrew Nash",
+            "path": "sources/1_1595952337_مايكل.jpg"
+        },
+        {
+            "link": "https://www.instagram.com/p/B5JLdhsD9ZG/",
+            "name": "Michael Andrew Nash",
+            "path": "sources/2_1595952337_مايكل.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه ليست هيئة الشرطي الأميركي في عهد ترامب",
+    "updated_at": "2020-09-25 08:49:13",
+    "url_path": "/factcheck/2020/07/28/هذه-ليست-هيئة-الشرطي-الأميركي-في-عهد-ترامب"
+}

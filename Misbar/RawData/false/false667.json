@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1748,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "نفت الصحة العالمية إحداثها فحص أون لاين (Getty)",
+    "category": "Health",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">منظمة الصحة العالمية تُحدث اختبارات أون لاين، للكشف عن حالات فايروس كورونا المستجدّ (كوفيد-19) في مصر.</p>\r\n",
+    "country": "EG",
+    "created_at": "2020-05-31 19:52:14",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ed3e0bedb29163eae2258e4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الخبر وتبين أنه زائف، إذ لم تُعلن منظّمة الصحة العالمية عن إحداثها أيّ أداةٍ لتشخيص حالات فايروس كورونا أون لاين في مصر. ونفت المنظمة في بيان لها، ما تداوله نشطاء على مواقع التواصل الاجتماعيّ، داعيةً المواطنين إلى أخذ المعلومة من مصدرها الرسميّ.</p>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"rtl\">تنفي منظمة الصحة العالمية ما تدوال على وسائل التواصل الاجتماعي عن إنشائها لأداة لتشخيص الحالة أونلاين، وتهيب بالمواطنين بأن يوثقوا المعلومات من مصادرها الرسمية. <a href=\"https://t.co/9R86Gvt6BP\">pic.twitter.com/9R86Gvt6BP</a></p>\r\n&mdash; WHO Egypt (@WHOEgypt) <a href=\"https://twitter.com/WHOEgypt/status/1266324977382555650?ref_src=twsrc%5Etfw\">May 29, 2020</a></blockquote>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت حسابات على مواقع التواصل الاجتماعيّ، خبراً يدّعي أنّ منظمة الصحة العالمية أحدثت موقعاً لتشخيص حالات فايروس كورنا المستجدّ،&nbsp;أون لاين.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_l0e1yxrjv.jpg\" style=\"height:485px; width:600px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"Capture3.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_r7pdcezb8.jpg\" style=\"height:499px; width:601px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"Capture2.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_ozueph5qu.jpg\" style=\"height:442px; width:598px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 344,
+        "left": 14.66668701171875,
+        "path": "articles/1590943933GettyImages-1212461594.jpg",
+        "top": 64,
+        "totalHeight": 423,
+        "totalWidth": 638,
+        "watermark_path": "articles/watermark-1590943933GettyImages-1212461594.jpg",
+        "width": 612
+    },
+    "post_date": "2020-05-31T17:37:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/1tshAhmed/status/1265970326363570178 ",
+            "name": "ألــــتشً",
+            "path": "published/0_1590943933_qZCdxfwe_400x400.jpg"
+        },
+        {
+            "link": "https://twitter.com/R_7aamd/status/1266259061533626370",
+            "name": "ENG.hmad",
+            "path": "published/1_1590943933_AJRGllxs_400x400.jpg"
+        },
+        {
+            "link": "https://twitter.com/RoOoba_ba979413/status/1266091377885974528",
+            "name": "♡ Rēحab Maحmøud ♡",
+            "path": "published/2_1590943933_5A7T-D_p_400x400.jpg"
+        },
+        {
+            "link": "https://twitter.com/Healer81/status/1265947224858669056",
+            "name": "imanagain",
+            "path": "published/3_1590943933_ima.jpg"
+        },
+        {
+            "link": "https://twitter.com/viv34__/status/1265909092205420544",
+            "name": "فـاطّـمـه ",
+            "path": "published/4_1590943933_فاطمة.jpg"
+        },
+        {
+            "link": "https://corona.faceiraq.org/checker",
+            "name": "فحص فايروس كورونا",
+            "path": "published/5_1590943933_1.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/WHOEgypt/status/1266324977382555650",
+            "name": "منظمة الصحة العالمية مصر",
+            "path": "sources/0_1590943933_M6Zxpgk8_400x400.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "اختبارات كورونا أون لاين في مصر.. خبر زائف",
+    "updated_at": "2020-09-25 17:30:25",
+    "url_path": "/factcheck/2020/05/31/اختبارات-كورونا-أون-لاين-في-مصر-خبر-زائف"
+}

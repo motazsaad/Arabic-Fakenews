@@ -1,0 +1,121 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1521,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الصورة مأخوذة من مشهد تمثيلي يحاكي حادثة إعدام خالد الأسعد (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة تُظهر عالم الآثار السوري خالد الأسعد قُبيل إعدامه من قِبل عناصر تنظيم داعش عام 2015.</p>\r\n",
+    "country": "SY",
+    "created_at": "2020-08-04 12:05:50",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f2924ee40466e072a74419b",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الصورة مضللة، فهي ليست لـ خالد الأسعد المدير السابق لهيئة الآثار والمتاحف في مدينة تدمر السورية، الذي أعدمه تنظيم داعش عام 2015. إنّما هي للممثل السوري محمد فليفلة الذي أدّى دور خالد الأسعد في فيلم من إنتاج عام 2019 اسمه &quot;دمّ النخيل&quot;، والصورة مأخوذة من مشهد تمثيلي لإعدام عالم الآثار السوري. &nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_0lkzp7nur.jpg\" style=\"height:908px; width:691px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_xxymibqtn.jpg\" style=\"height:523px; width:705px\" /></span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/20CzxfwDhaM\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/Exbj3HQKYTk\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات وحسابات على موقع التواصل الاجتماعي فيسبوك، صورة قالت إنّها لعالم الآثار السوري خالد الأسعد، وخلفه عناصر ينتمون لتنظيم داعش يستعدون لتنفيذ حكم الإعدام بحقّه عام 2015.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_8gxa9q060.jpg\" style=\"height:539px; width:490px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_t14l1obqc.jpg\" style=\"height:513px; width:496px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_dhvncxaye.jpg\" style=\"height:327px; width:697px\" /></span></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 353,
+        "left": 5.0167083740234375,
+        "path": "articles/1596531949116116754_598127704225412_8266674585812375294_n.jpg",
+        "top": 25.5556640625,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1596531949116116754_598127704225412_8266674585812375294_n.jpg",
+        "width": 629
+    },
+    "post_date": "2020-08-04T11:51:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/groups/144890238903405/permalink/3438125249579871/?__tn__=H-R",
+            "name": "نزار خليف",
+            "path": "published/0_1596531949_نزار خليف.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/274843226725675/photos/a.274848186725179/586622782214383/?type=3&__tn__=-R",
+            "name": "صفحة أخبار الغزلانية",
+            "path": "published/1_1596531949_صفحة أخبار الغزلانية.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=141584707591063&id=106413727774828&__tn__=-R",
+            "name": "أخبار الجبة",
+            "path": "published/2_1596531949_أخبار الجبة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/altalmarket/permalink/3176462489114487/?__tn__=-R",
+            "name": "Hasan Habashei",
+            "path": "published/3_1596531949_Hasan Habashei.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/market.syria.altal/photos/a.148828735821980/598127700892079/?type=3&theater",
+            "name": "السوق الإلكتروني",
+            "path": "published/4_1596531949_السوق الإلكتروني.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=760729584698874&set=a.124404861664686&type=3&theater",
+            "name": "Abou L Ezz Rifai",
+            "path": "published/5_1596531949_Abou L Ezz Rifai.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/mokhtar.louati.9/posts/10222660814659019?__tn__=-R",
+            "name": "Mokhtar Louati",
+            "path": "published/6_1596531949_Mokhtar Louati.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=3177283338974284&set=a.354298451272801&type=3&theater",
+            "name": "Adel Karoui",
+            "path": "published/7_1596531949_Adel Karoui.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/PDLSupporters/permalink/612994412973837/?__tn__=-R",
+            "name": "Mouelhi Ahmed",
+            "path": "published/8_1596531949_Mouelhi Ahmed.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://alarab.co.uk/%D8%A7%D9%84%D9%85%D9%84%D9%83%D8%A9-%D8%B2%D9%86%D9%88%D8%A8%D9%8A%D8%A7-%D9%88%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%A2%D8%AB%D8%A7%D8%B1-%D8%A7%D9%84%D8%B5%D8%B1%D9%8A%D8%B9-%D8%AE%D8%A7%D9%84%D8%AF-%D8%A7%D9%84%D8%A3%D8%B3%D8%B9%D8%AF-%D9%81%D9%8A-%D9%81%D9%8A%D9%84%D9%85-%D8%B3%D9%88%D8%B1%D9%8A",
+            "name": "العرب",
+            "path": "sources/0_1596531949_العرب.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?time_continue=47&v=20CzxfwDhaM&feature=emb_logo\t",
+            "name": "طرطوس اليوم",
+            "path": "sources/1_1596531949_طرطوس اليوم.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=Exbj3HQKYTk",
+            "name": "Euro News",
+            "path": "sources/2_1596531949_Euro News.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه ليست صورة عالم الآثار السوري الذي أعدمه داعش",
+    "updated_at": "2020-09-25 21:39:56",
+    "url_path": "/factcheck/2020/08/04/هذه-ليست-صورة-عالم-الآثار-السوري-الذي-أعدمه-داعش"
+}

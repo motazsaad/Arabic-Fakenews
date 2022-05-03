@@ -1,0 +1,113 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 230,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "نُشرت للمرة الأولى في مارس/آذار (تويتر)",
+    "category": "News",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">صورة من حرائق سورية الأخيرة.</span></p>\r\n",
+    "country": "SY",
+    "created_at": "2020-10-12 15:00:24",
+    "created_by": "5f39b5a51dd585076701cb94",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 3,
+    "id": "5f84455857030e5bb31e0174",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من الصورة وتبين أن الادعاء مضلل. إذ أن الصورة نُشرت <a href=\"https://twitter.com/MujtahidKURD/status/1238223786379444230\" style=\"color:#0563c1; text-decoration:underline\">للمرة الأولى</a> في شهر مارس/آذار من العام الجاري، على أنها في مدينة عفرين السورية. ما يؤكد أنها ليست من الحرائق الأخيرة.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_vc81quuaz.jpg\" style=\"height:382px; width:526px\" /></p>\r\n\r\n<p style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">اقرأ/ي أيضاً:</span></p>\r\n\r\n<p style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/10/11/%D9%87%D8%A7%D8%AA%D8%A7%D9%86-%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%AA%D8%A7%D9%86-%D9%84%D9%86%D9%81%D9%88%D9%82-%D8%A7%D9%84%D8%AD%D9%8A%D9%88%D8%A7%D9%86%D8%A7%D8%AA-%D9%84%D9%8A%D8%B3-%D9%84%D9%87%D9%85%D8%A7-%D8%B9%D9%84%D8%A7%D9%82%D8%A9-%D8%A8%D8%AD%D8%B1%D8%A7%D8%A6%D9%82-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9\" style=\"color:#0563c1; text-decoration:underline\">هاتان الصورتان ليس لهما علاقة بحرائق سورية</a></p>\r\n\r\n<p style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/09/09/%D9%87%D8%B0%D9%87-%D8%A7%D9%84%D8%A3%D8%BA%D9%86%D8%A7%D9%85-%D9%84%D9%85-%D8%AA%D9%86%D9%81%D9%82-%D8%A8%D8%B3%D8%A8%D8%A8-%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%A6%D9%82-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9\" style=\"color:#0563c1; text-decoration:underline\">هذه الأغنام لم تنفق بسبب الحرائق في سورية</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات على مواقع التواصل الاجتماعي، حديثاً، صورة </span><span dir=\"RTL\" lang=\"AR-EG\">على</span><span dir=\"RTL\" lang=\"AR-SA\"> أنها بعد الحرائق التي وقعت في سورية مؤخراً.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_f7srrvs9m.jpg\" style=\"height:874px; width:540px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_krct2sz0o.jpg\" style=\"height:847px; width:546px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1602504023100.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1602504023100.jpg",
+        "width": 752
+    },
+    "post_date": "2020-10-12T14:55:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/photo.php?fbid=10221618119815608&set=a.1786297530518&type=3",
+            "name": "Malek Wannous",
+            "path": "published/0_1602504023_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/SyriannCoast/photos/a.1468967029982897/3063008777245373/?type=3&__xts__%5B0%5D=68.ARDwrqDYFTRWi2v2h8Dvxj5NGBu2r8oeNmMAxrSvF6A7n1-X1i4yOfxpjF3-JdO2PV7gu28XfPGJc3yRnxIGgvruQdBXy7LCU0qxkfwehAZBdMlCP1pxb38_qDl-rygVhQrHMmJ4QjY8gzEDojLL_n89KUWIEJ_tPznQXB1bVd29uZyXEa2DENcJUd5QSSgYFONG1YCL1OmHOL4M5dNE5qhM-nBEmckodPS_KU0K_fVZftbAA0w_QPDemXeWIXSPixdlAGJHVWqCICkzJzHBKOssOeZirImc0XAspuOh4lmeQ9wu2wc&__tn__=-R",
+            "name": "الساحل السوري",
+            "path": "published/1_1602504610_7ada239b3c9a5c6f314bd1cf880de59f98e7dba0.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/halah.tajjour/posts/828885701186499?__xts__%5B0%5D=68.ARAGcLsfzu3RqX_VHyRVxyL2zDIcOKcnhAT51d91ekI4ULpgeYZ4tvPjiddbbf8_rfO-TK7YY16OmCTRGOokg_UsB_FvJEX7AaXD8UcGvbSTdcfFblAhNxGgIUtd1mQrP7xsycFQT3_GRd9mjTR5nRcNoqwlrc1QgQfzUvlD3azORg3aaE_XP6CV8Pq0GRXn9JqgUzIGekwG2PJ9O-_1guMoGZKRtq6IkRDcd4TDOSTshYCGgxP-kjDr3Y5LiyIqkooMzqC9YZSo75uCyCpeIZ0L7NfbrJnCeLqLtZs8fMkoAaq8vs41qmLS-kry6w7QzjtvJA&__tn__=-R",
+            "name": " Halah Tajjour",
+            "origin": "facebook",
+            "path": "published/2_1602504610_caaa637eaf1b5031ca87653db4e4b47d9a431327.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=964179860769842&id=100015335112993&__xts__%5B0%5D=68.ARDBeQt1TX1uvt5uP0YmZ2Hg7Fq4WS4H2txsOOlGRcqf0xFVJ75i5aZcRgAW1LKdw2VKbCH77dQi2bQbMqaXNn7pPmMDJwkpRTdyfhbacVA-vuSPYasUhwJK5hpLKRq6bVFhocRj0s8sK8xaEnpCPKj4mg06gWVpGWYLXC2q1a05KJyIFvymHdAEP2E7MFp3-aFaCtfXZV5vTp7vPwSKf6C5Tg4PU0X953l45hVJ3LNuWIBowYq4Q0BSWZNX59W3cH3fjf1CxzvSrSLOXhbLEu9jFdozibaB0Sdrcb6B0KkXFS4u6Zh7JMeRCD5MxTLPByOIPw&__tn__=-R",
+            "name": "Adeeb Solman",
+            "path": "published/3_1602504610_7ada239b3c9a5c6f314bd1cf880de59f98e7dba0.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/sho.sh.73113/posts/439155427055845?__xts__%5B0%5D=68.ARDGAMtkLF9LRax3AY990UrzSS2yAZpYR400qITrgF8lIU9EcgzTKgOo5VQZMyFOw_Ur_1_kQPvbNM2hT3gmPyLMjIoS48h2dQS0paunS6GderJfFWfFj92C4udkgg1lZQVwHkcDWM4Lw8aLLqubN28yI15Wb_cf_OmzbaueBcil0Xa52J7ZtmoEMAWPjy4RVQfPpTyn24jBo5I96r6EldAVR89YBb7-tfjB-a64fvk0rMuRArkrLU9zXSVgtMm05xgkqEmcA8sj2-FXdJeCB0-k26Ql_nPBtlMuYBB87LlysXTRkCviVVZ0XQK3iwhKRp2RVA&__tn__=-R",
+            "name": "Al Narjes",
+            "origin": "facebook",
+            "path": "published/4_1602504610_82d988a831104f108fddbf16adf850e0eed8d317.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/naseem.sabooh.3/posts/369179484203105?__xts__%5B0%5D=68.ARAWkZtDluuYjzQVZr_xzZKTJMkryYvOR5Spkv-8yJD-u8jwAZrDNpHac0z_cqfEj7lQ4lhDOQ1nQ5rwgRoedqBrBK_0xhr9qBglRqMwwaDbJcjicLeJhyPBH0qvdnFtUB7CKtTzuEX0brOePNgqzBvvY3YYhE4Ov9M4fhS24M4ID5lwOFUwl-VpKwhNyAQu_jlCzV-Io_lVMngTAa6SYytu2CuJiq-Tv7Fr-UmQozr7vZczIKXg2iWM-V7FTarheRPJw5fBf5vbMlZRKjEfgRhns7gEu5IEAsinIwgcCNZzmOV_wiCQHVUsf2DEs8EybrKecw&__tn__=-R",
+            "name": " Naseem Sabooh",
+            "origin": "facebook",
+            "path": "published/5_1602504610_1611bf449252494768843bd3267a0aa7e40585fb.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/MujtahidKURD/status/1238223786379444230",
+            "name": "مجتهد كوردستان",
+            "origin": "twitter",
+            "path": "sources/0_1602504023_19fddd895a18e14b83804e0f47ec8b6d426cf50d.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصورة ليست من حرائق سورية الأخيرة",
+    "updated_at": "2020-10-12 15:22:08",
+    "url_path": "/factcheck/2020/10/12/هذه-الصورة-ليست-من-حرائق-سورية-الأخيرة",
+    "was_notification_pushed": "true"
+}

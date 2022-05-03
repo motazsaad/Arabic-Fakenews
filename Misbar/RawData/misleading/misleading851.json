@@ -1,0 +1,109 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 864,
+    "author": {
+        "fullname": "رشيد عفيف",
+        "id": "5ec4e956db291667784c4bc4",
+        "photo": {
+            "name": "1589963094_رشيد صورة.jpg",
+            "path": "authors/1589963094_رشيد صورة.jpg"
+        }
+    },
+    "caption": "حفل التخرّج من مدرسة في مدينة ترافنيك (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">صور من حفل تخرج 4000 آلاف طالب وطالبة في عاصمة البوسنة والهرسك، سراييفو، أتموا حفظ القرآن ويقومون بمسيرة رمزية نحو المسجد الكبير.</p>\r\n",
+    "country": "BA",
+    "created_at": "2020-07-26 17:33:17",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f1d942d163be31acc7346a4",
+    "investigation": "<p style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الخبر المتداول ووجد أنه مضلّل. فمدرسة التشي إبراهيم باشا ليست في مدينة سراييفو، إنما تقع في مدينة ترافنيك الواقعة على بعد قرابة 91 كم من العاصمة سراييفو، كما أن الصور المتداولة تعود لموكب خريجي وخريجات الدفعة 253، بتاريخ 12 يوليو/حزيران الفائت، والذي لا يتعدى عددهم 101 طالب.</p>\r\n\r\n<p style=\"text-align:justify\">كما توصل تحقيق &quot;مسبار&quot; إلى أن عدد حفظة القرآن الكريم في مدرسة التشي إبراهيم باشا لم يتجاوز العشرات منذ 1994 وحتّى عام 2012، بحسب ما صرح به الدكتور أحمد عادلوفيتش، أحد الأساتذة بالمؤسسة في مقابلة سابقة نشرها موقع وزارة الأوقاف والشؤون الإسلامية الكويتية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_rjbw7uznn.jpg\" style=\"height:773px; width:490px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_af1uwg1yo.jpg\" style=\"height:678px; width:605px\" /></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"background-color:white\"><span style=\"color:black\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_dnpu510p4.jpg\" style=\"height:635px; width:605px\" /></span></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">تداولت صفحات وحسابات على موقع التواصل الاجتماعي فيسبوك حديثا، صوراً ادّعى ناشروها أنها من حفل تخرج أربعة آلاف طالب وطالبة من مدرسة إبراهيم التشي باشا الثانوية الإسلامية، من عاصمة البوسنة والهرسك، سراييفو، وذلك بعد إتمامهم حفظ القرآن الكريم كاملاً، وأضاف الناشرون أن الخرّيجين والخريجات يمشون في مسيرة رمزية من المدرسة حتى المسجد الكبير في سراييفو، وذلك بعد 25 عاماً من فشل حرب الإبادة الغربية ضد مسلمي البوسنة والهرسك.<img src=\"https://images-prod.misbar.com/articlebody/origin_p2690ywmp.jpg\" style=\"height:857px; width:605px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_439anttmp.jpg\" style=\"height:674px; width:605px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 147,
+        "left": 1.28521728515625,
+        "path": "articles/1595773996main photo.jpg",
+        "top": 25.33984375,
+        "totalHeight": 177,
+        "totalWidth": 265,
+        "watermark_path": "articles/watermark-1595773996main photo.jpg",
+        "width": 262
+    },
+    "post_date": "2020-07-26T17:27:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/ahmedmansouraja/posts/3299642443391300",
+            "name": "Ahmed Mansour ",
+            "path": "published/0_1595773996_ahmed mansour.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ghazwantaher.abdulaziz/posts/2603049446623933",
+            "name": "Ghazwan Dhaher",
+            "path": "published/1_1595773996_ghazwan daher.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/sadam.tahmi.1/posts/164718985164219",
+            "name": "Sadam Tahmi ",
+            "path": "published/2_1595773996_Sadam tahmi.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Moroccansnomad/posts/1186976694983308",
+            "name": "مغاربة الصين‎‎",
+            "path": "published/3_1595773996_مغاربة الصين.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/medresa.edu.ba/posts/3137974009598031",
+            "name": "Elči Ibrahim-pašina medresa u Travniku - Zvanična Facebook stranica",
+            "path": "sources/0_1595773996_elci ibrahim.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/medresa.edu.ba/photos/a.3137580442970721/3137580986304000/",
+            "name": "Elči Ibrahim-pašina medresa u Travniku - Zvanična Facebook stranica",
+            "path": "sources/0_1595773996_elci ibrahim.jpg"
+        },
+        {
+            "link": "http://islam.gov.kw/Pages/ar/MeetingDetails.aspx?meetId=101",
+            "name": "وزارة الأوقاف والشؤون الإسلامية – دولة الكويت",
+            "path": "sources/2_1595773996_وزارة الاوقاف والشؤون الاسلامية.jpg"
+        },
+        {
+            "link": "http://miruhbosne.com/?p=60698",
+            "name": "Miruh Bosne",
+            "path": "sources/3_1595773996_miruh busni.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=rgPAJAV_Yj8&feature=youtu.be",
+            "name": "Emarati Media",
+            "path": "sources/4_1595781212_Emarati Media.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صورة الطلاب البوسنيين ليست في سراييفو، وعددهم لا يتعدى 101",
+    "updated_at": "2020-09-25 07:45:49",
+    "url_path": "/factcheck/2020/07/26/صورة-الطلاب-البوسنيين-ليست-في-سراييفو-وعددهم-لا-يتعدى-101"
+}

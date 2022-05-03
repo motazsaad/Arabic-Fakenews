@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1872,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "نفى عامر خان حقيقة القصة عبر حسابه الرسمي على موقع تويتر (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">عامر خان يوزع مساعدات مالية داخل أكياس دقيق.</span></p>\r\n",
+    "country": "IN",
+    "created_at": "2020-05-04 14:16:18",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eaff982db29165a7965c785",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من الخبر المتداول ووجد&nbsp;أنّ الادعاء زائف، إذ نفى الفنان الهندي عامر خان حقيقة القصة عبر&nbsp;حسابه الرسمي على موقع تويتر، اليوم 4 مايو/آيار. وقال إنه ليس الشخص الذي وضع المال في أكياس القمح، ولا علاقة له بالقصة.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_29h1kn36o.jpg\" style=\"height:210px; width:516px\" /></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">يذكر&nbsp;أنّ &quot;مسبار&quot; قد نشر <a href=\"https://www.misbar.com/factcheck/2020/04/29/%D9%87%D9%84-%D9%82%D8%A7%D9%85-%D8%B9%D8%A7%D9%85%D8%B1-%D8%AE%D8%A7%D9%86-%D8%A8%D8%AA%D9%88%D8%B2%D9%8A%D8%B9-%D8%A7%D9%84%D8%A3%D9%85%D9%88%D8%A7%D9%84-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D8%A7%D8%AC%D9%8A%D9%86-%D9%81%D9%8A-%D8%A3%D9%83%D9%8A%D8%A7%D8%B3-%D8%A7%D9%84%D8%AF%D9%82%D9%8A%D9%82\" style=\"color:#0563c1; text-decoration:underline\">تقريراً</a>&nbsp;سابقاً&nbsp;حول القصة&nbsp;في 29 أبريل الفائت بعد تداولها على نطاقٍ واسعٍ، وشكك &quot;مسبار&quot; في صحتها&nbsp;قبل نفي عامر خان.</span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"rtl\" lang=\"ar\">تداولت صفحاتٌ على مواقع التواصل الاجتماعي، خلال الأسبوع الأخير من شهر أبريل/نيسان المنصرم، صورة أكياس دقيق وفي داخلها مبلغ من المال، مع ادعاء عن قيام الفنان الهندي عامر خان بتوزيع مساعدات مالية على المحتاجين في بلاده&nbsp;بهذه الطريقة&nbsp;في ظل انتشار فايروس كورونا المستجد، حتى تكون المساعدات من نصيب المحتاجين فقط.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"470\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fwaseem.alotybi%2Fposts%2F10163770128965227&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"470\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fhsoo.iraqi%2Fposts%2F2939796562752611&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1588591275EW3pEc3XYAMVF1_.jpg",
+        "watermark_path": "articles/watermark-1588591275EW3pEc3XYAMVF1_.jpg"
+    },
+    "post_date": "2020-05-04T14:14:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/waseem.alotybi/posts/10163770128965227",
+            "name": "وسيم العتيبي",
+            "path": "published/0_1588590977_وسيم العتيبي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/hsoo.iraqi/posts/2939796562752611",
+            "name": "روائع",
+            "path": "published/1_1588591396_روائع.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/basata.el7ya/posts/1094013520971642",
+            "name": "بالبساطة الحياة أحلى",
+            "path": "published/2_1588591396_بالبساطة الحياة أحلى.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/yakahtwla3/posts/1411476335698866",
+            "name": "ياكش تولع",
+            "path": "published/3_1588591396_ياكش تولع.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=543270502979139&id=125351491437711",
+            "name": "Siyahkadife",
+            "path": "published/4_1588591396_Siyahkadife.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/aamir_khan/status/1257165603678240768",
+            "name": "Aamir Khan",
+            "path": "sources/0_1588590978_Aamir Khan.jpg"
+        },
+        {
+            "link": "https://www.misbar.com/factcheck/2020/04/29/%D9%87%D9%84-%D9%82%D8%A7%D9%85-%D8%B9%D8%A7%D9%85%D8%B1-%D8%AE%D8%A7%D9%86-%D8%A8%D8%AA%D9%88%D8%B2%D9%8A%D8%B9-%D8%A7%D9%84%D8%A3%D9%85%D9%88%D8%A7%D9%84-%D8%B9%D9%84%D9%89-%D8%A7%D9%84%D9%85%D8%AD%D8%AA%D8%A7%D8%AC%D9%8A%D9%86-%D9%81%D9%8A-%D8%A3%D9%83%D9%8A%D8%A7%D8%B3-%D8%A7%D9%84%D8%AF%D9%82%D9%8A%D9%82",
+            "name": "Misbar - مسبار",
+            "path": "sources/1_1588591229_nAr_MEzg_400x400.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "عامر خان ينفي توزيعه مساعدات مالية داخل أكياس الدقيق",
+    "updated_at": "2020-09-25 17:58:30",
+    "url_path": "/factcheck/2020/05/04/عامر-خان-ينفي-توزيعه-مساعدات-مالية-داخل-أكياس-الدقيق"
+}

@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 13996,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "أوضحت وسائل إعلامية إسبانية كتالونية حقيقة الخبر (Getty)",
+    "category": "Sports",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">ليونيل ميسي يُفكر في مُغادرة نادي برشلونة.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-06-08 16:04:24",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ede3758d6e4a901b1085314",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من الخبر وتبين أنه زائف، إذ أوضحت وسائل إعلامية إسبانية <a href=\"https://www.marca.com/en/football/barcelona/2020/06/01/5ed53479268e3e6b358b45da.html\" style=\"color:#0563c1; text-decoration:underline\">كتالونية</a> حقيقة الخبر بعد التواصل مع بعض الدوائر القريبة من ليونيل ميسي، وقالت إنه كان لديه خيار مُغادرة برشلونة مجاناً&nbsp;هذا الصّيف، حسب بند&nbsp;المُغادرة المذكور في&nbsp;<a href=\"https://en.as.com/en/2020/06/01/football/1591025607_409582.html\" style=\"color:#0563c1; text-decoration:underline\">العقد</a> بينه والنادي.&nbsp;لكنّه&nbsp;لم يُفكر في&nbsp;الرّحيل وسيبقى في الفريق الكتالوني لموسم آخر على الأقل.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_q9phkua7j.jpg\" style=\"height:298px; width:623px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول مواقع إلكترونية&nbsp;وصفحات على مواقع التواصل الاجتماعي، منذ الأول من شهر يونيو/حزيران الجاري، خبراً&nbsp;يدّعي أن اللاعب الأرجنتيني ليونيل ميسي يُفكر في الرّحيل&nbsp;عن نادي برشلونة الإسباني نهاية الموسم الحاليّ.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_q5uttsdeg.jpg\" style=\"height:530px; width:564px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_2aqy4plmk.jpg\" style=\"height:534px; width:574px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_84mzo8w7f.jpg\" style=\"height:686px; width:574px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 7.5,
+        "path": "articles/1591621463GettyImages-1211637445.jpg",
+        "top": 0,
+        "totalHeight": 512,
+        "totalWidth": 767,
+        "watermark_path": "articles/watermark-1591621463GettyImages-1211637445.jpg",
+        "width": 752
+    },
+    "post_date": "2020-06-08T16:01:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.mbc.news/n/2020/05/%D9%85%D9%81%D8%A7%D8%AC%D8%A3%D8%A9-%D9%85%D9%8A%D8%B3%D9%8A-%D9%8A%D9%81%D9%83%D8%B1-%D9%81%D9%8A-%D9%85%D8%BA%D8%A7%D8%AF%D8%B1%D8%A9-%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9-%D8%A8%D9%86.html",
+            "name": "mbc.news",
+            "path": "published/0_1591621462_mbc.news.jpg"
+        },
+        {
+            "link": "https://www.foot-news.tn/%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9-%D9%85%D9%8A%D8%B3%D9%8A-%D9%85%D8%B3%D8%AA%D8%B9%D8%AF-%D9%84%D8%A5%D9%81%D8%B3%D8%A7%D8%AF-%D9%83%D9%84-%D8%B4%D9%8A%D8%A1%D8%9F/?fbclid=IwAR17IhSIJ9sNBXtvfxASk8A1UxAqx4n27guaPUXiAnHzuKJJwRmVXCPEW9Y",
+            "name": "فوت نيوز",
+            "path": "published/1_1591621589_فوت نيوز.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Foot.news.official.page/photos/a.1425011097552137/2889118854474680/?type=3&__xts__%5B0%5D=68.ARC0vfHns-0zxPR2BFjtzlU4DpLN7iq0DPK5bF2gI_ITjAaHJATDi8f0fId1_jucfzeWt2XnGvtFGvx0tbBrvO1WXg33k1XjoKVINzQKrvdPrX7tmbHxTG6BjeCK689DbijfDDGSHk4hfIsbm02ru9_r2o3j12Bp7LRoJlwwaGphE87wn0R9PtRK549Ln4OIR351hKmYKsP2LPlMLHurloAm7vC9kLRN_AyHPYVt4K5oOizcgRFkzvwrvGThryn1iElYvynwi0n3oE01gC607ZG_aF6br3YlSmZUd582VP9e0s50zkNJZ546So18kwzy5FObl3DTcZ6p2OybKgKN0L_oCQ&__tn__=-R",
+            "name": "موقع كورة اونلاين",
+            "path": "published/2_1591621589_موقع كورة اونلاين.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/341933826660407/permalink/655007618686358/",
+            "name": "الدوري المصرى مصرى",
+            "path": "published/3_1591621589_الدوري المصرى مصرى.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/chid4668/photos/a.500037357211309/649174635630913/?type=3&__xts__%5B0%5D=68.ARDfOA_rAyPtTE6qJ0QOJx_YVQl5jBcxRD4nFJrjGIf20pCzsvaqoKcSW0LA1Jbd_mHgCvOj9oDGuVZ0NqSAid1eE2tuvb5gnnODtH6iyBMPKzWp5tdj0bMyLb2J7BcmbtvhX6weu4uBEVAAQMmhNK7QXSOjQONh1Y_osHPi-DOJm2H5q4oYtNv0HZRvH30ACDZTppeeqs25a_hpvbEyO0sLpWUsL2Zsxyub0E8JGDiHGvPoqqurisyWJ-o_2zsAdgxu8lYmbZjtPRFy5Nx241dKNIvqmOMj3AgoJEY6eXBTrmRzmTmxC9_vV7yQTPpVgY_gkWSEnX7J8KQIK6_X8Iw&__tn__=-R",
+            "name": "Tv aghroud",
+            "path": "published/4_1591621589_Tv aghroud.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.marca.com/en/football/barcelona/2020/06/01/5ed53479268e3e6b358b45da.html",
+            "name": "Marca",
+            "path": "sources/0_1591621463_Marca.jpg"
+        },
+        {
+            "link": "https://en.as.com/en/2020/06/01/football/1591025607_409582.html",
+            "name": "AS",
+            "path": "sources/1_1591621463_AS.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ميسي يفكر في مغادرة برشلونة.. حقيقة الخبر",
+    "updated_at": "2020-09-25 12:17:23",
+    "url_path": "/factcheck/2020/06/08/ميسي-يفكر-في-مغادرة-برشلونة-حقيقة-الخبر"
+}

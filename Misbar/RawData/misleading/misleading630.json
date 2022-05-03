@@ -1,0 +1,91 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 10539,
+    "author": {
+        "fullname": "خالد إسماعيل",
+        "id": "5e59256dd4a2295224257db3",
+        "photo": {
+            "name": "1582900589_صورة 2.jpg",
+            "path": "authors/1582900589_صورة 2.jpg"
+        }
+    },
+    "caption": "الصورة لعصابة ألقي القبض عليهم في 2018 (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة لعناصر من جماعة الإخوان المسلمين في مصر بعد أن ألقت السلطات المصرية القبض عليهم لتورطهم في تشكيل لجان إلكترونية مزيفة لنشر الفوضى والشائعات.</p>\r\n",
+    "country": "EG",
+    "created_at": "2020-09-16 10:33:07",
+    "created_by": "5f39b5451dd585078b5d94f3",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f61bfb371ac9d3f7737cce5",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة المتداولة والقصة المصاحبة لها وتبين أنها مضللة. الصورة ليست لعناصر من جماعة الإخوان المسلمين، ولكنها لعصابة تخصصت في سرقة الهواتف النقالة في منطقة الزيتون في القاهرة، وقد أُلقي القبض عليهم في ديسمبر/كانون الأول من عام 2017. وقد أبرزت مواقع إخبارية مصرية مثل <span style=\"color:blue\"><u><a href=\"https://www.elwatannews.com/news/details/3849849\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">الوطن</a></u></span> <span style=\"color:blue\"><u><a href=\"https://tinyurl.com/y2fe3kuk\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">وأخبارك</a></u></span> وغيرها الصورة في سياق خبر القبض على التشكيل العصابي آنذاك، ما ينفي أن تكون الصورة لعناصر تحريضية أو من الإخوان المسلمين أُلقي القبض عليها مؤخراً في مصر.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><img src=\"https://images-prod.misbar.com/articlebody/investigation_2uouyh5kc.jpg\" style=\"height:546px; width:546px\" /></strong></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول حسابات وصفحات على مواقع التواصل الاجتماعي صورة تظهر أشخاصاً أمامهم مجموعة من الهواتف مع الادعاء بأنهم من جماعة الإخوان المسلمين الذين أُلقي القبض عليهم بعد أن ثَبُتَ عملهم كلجان إلكترونية مزيفة على مواقع التواصل الاجتماعي، تهدف لنشر الشائعات والفوضى في مصر.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><img src=\"https://images-prod.misbar.com/articlebody/origin_yjioppzy8.jpg\" style=\"height:688px; width:541px\" /></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><img src=\"https://images-prod.misbar.com/articlebody/origin_oljcctgoo.jpg\" style=\"height:692px; width:537px\" /></strong></p>\r\n\r\n<p style=\"text-align:right\">&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/160024192235329180-v2_xlarge.jpg",
+        "watermark_path": "articles/watermark-160024192235329180-v2_xlarge.jpg"
+    },
+    "post_date": "2020-09-16T10:22:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/photo/?fbid=1192018504530072&set=gm.787806412049209",
+            "name": "محمد الصعيدي ",
+            "path": "published/0_1600242053_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/photo?fbid=104714161381728&set=gm.1021600764942294",
+            "name": "عصام السيد ",
+            "path": "published/1_1600242053_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/photo/?fbid=3310089985739539&set=gm.768082830431073",
+            "name": "HODA SHAKRAN",
+            "path": "published/2_1600242053_facebook.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.elwatannews.com/news/details/3849849",
+            "name": "الوطن ",
+            "path": "sources/0_1600242054_مصدر 1.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://tinyurl.com/y2fe3kuk",
+            "name": "أخبارك ",
+            "path": "sources/1_1600242054_مصدر 2.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصورة ليست لعناصر من الإخوان المسلمين قبض عليهم في مصر",
+    "updated_at": "2020-09-25 21:47:04",
+    "url_path": "/factcheck/2020/09/16/هذه-الصورة-ليست-لعناصر-من-الإخوان-المسلمين-قبض-عليهم-في-مصر",
+    "was_notification_pushed": true
+}

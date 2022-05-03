@@ -1,0 +1,94 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 1,
+        "fb": 2,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 225677,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": " مقطع الفيديو لبرنامج The President Show (يوتيوب)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"rtl\" lang=\"ar\">ترامب بعد انهيار الاقتصاد الأميركي.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-04-25 12:17:25",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 1,
+    "id": "5ea40025db29164822113284",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span dir=\"rtl\" lang=\"ar\">تحقق &quot;مسبار&quot; من مقطع الفيديو ووجد أنه مضلل، إذ يعود لبرنامج The President Show الساخر الذي يقدمه&nbsp;الكاتب والممثل الكوميدي الأميركي <span style=\"color:#0563c1\"><u><a href=\"https://en.wikipedia.org/wiki/Anthony_Atamanuik\" style=\"color:#0563c1; text-decoration:underline\">أنثوني أتامانويك</a></u></span>، المعروف بتقليد شخصية الرئيس الأميركي ترامب. والمقطع&nbsp;المتداول مُجتزأ&nbsp;من حلقة البرنامج التي نُشرت في 21 يوليو/تموز 2017 بعنوان &quot;<span style=\"color:#0563c1\"><u><a href=\"https://www.youtube.com/watch?v=AkTmtPW-rro&amp;feature=youtu.be&amp;fbclid=IwAR0p5H36QwLKNj50gmLIhPgzg9-t1RUtx9d4Rmfz0HYT8SikYBOVjdkwWKU\" style=\"color:#0563c1; text-decoration:underline\">الرئيس يحطم كل شيء</a></u></span>&quot;.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><iframe frameborder=\"0\" height=\"506\" src=\"https://www.youtube.com/embed/AkTmtPW-rro\" width=\"900\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"rtl\" lang=\"ar\">نشر عدد من مستخدمي مواقع التواصل الاجتماعي مقطع فيديو ادّعت أنه للرئيس الأميركي دونالد ترامب وهو يُحطم كل شيء أمامه، مدعين أنّ ذلك جرّاء انهيار الاقتصاد الأميركي. كما نُشر نفس المقطع منذ سنتين بعنوان &quot;ترامب يُصاب بالجنون والغضب في مكتبه&quot;.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"313\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FHassan12237%2Fvideos%2F944122452706058%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F100012282121915%2Fvideos%2F407896202963114%2F&amp;show_text=0&amp;width=476\" style=\"border:none;overflow:hidden\" width=\"476\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 11.8636474609375,
+        "path": "articles/15878062449.jpg",
+        "top": 0,
+        "totalHeight": 512,
+        "totalWidth": 799,
+        "watermark_path": "articles/watermark-15878062449.jpg",
+        "width": 752
+    },
+    "post_date": "2020-04-25T12:13:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/Hassan12237/videos/944122452706058/?v=944122452706058",
+            "name": "علي المنصوري",
+            "path": "published/0_1587806244_عشاق الشاعر علي المنصوري.jpg"
+        },
+        {
+            "link": "https://twitter.com/nja_iq/status/1253490244860743682",
+            "name": "ليث العسكري",
+            "path": "published/1_1587806574_ليث العسكري.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=8CBtGOjws2M",
+            "name": "قناتكم منوعات",
+            "path": "published/2_1587806575_قناتكم منوعات.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100012282121915/videos/407896202963114/",
+            "name": "أبوعبدالله ابو عبدالله",
+            "path": "published/3_1587806575_أبوعبدالله ابو عبدالله.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100003615952993/videos/1130751737055347/",
+            "name": "محمد عبدالحميد آل سالم",
+            "path": "published/4_1587806575_محمدعبدالحميد آل سالم.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=AkTmtPW-rro&feature=youtu.be&fbclid=IwAR0p5H36QwLKNj50gmLIhPgzg9-t1RUtx9d4Rmfz0HYT8SikYBOVjdkwWKU",
+            "name": "Comedy Central UK ",
+            "path": "sources/0_1587806244_Comedy Central UK.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ترامب يحطم كل شيء بعد انهيار الاقتصاد الأميركي.. حقيقة الفيديو",
+    "updated_at": "2020-09-24 19:47:29",
+    "url_path": "/factcheck/2020/04/25/ترامب-يحطم-كل-شيء-بعد-انهيار-الاقتصاد-الأميركي-حقيقة-الفيديو"
+}

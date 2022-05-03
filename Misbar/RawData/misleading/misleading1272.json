@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 1,
+        "fb": 6,
+        "tw": 3
+    },
+    "amount_sources": 0,
+    "amount_visits": 13759,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": " المقطع المصور قديم وليس في الصين (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">مقطع فيديو لزلزال يضرب الصين ويدمر جُزءاً كبيراً</span><span dir=\"RTL\" lang=\"AR-SA\"> منها بعد&nbsp;الانتهاء من كورونا.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-04-06 15:02:55",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e8b1a6fdb291652a05dd7e4",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقّق &quot;مسبار&quot; من مقطع الفيديو المتداول ووجد أنّه مضلّل، إذ تبين&nbsp;</span>أنّ<span dir=\"RTL\" lang=\"AR-SA\"> المقطع المصور قديم&nbsp;ولا علاقة له بالوقت الحالي،&nbsp;وليس في دولة الصين، ونشر في شهر أبريل/نيسان من عام 2015، لحظة وقوع الزلزال المدمر في جمهورية نيبال</span> وجبال الهيمالايا. الذي راح ضحيته قرابة 3617 شخصاً وأدى إلى إصابة نحو 6500 آخرين.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_kxf5ouyx9.jpg\" style=\"height:362px; width:543px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت صفحات على موقع فيس بوك منذ أمس 5 أبريل/نيسان، مقطع فيديو&nbsp;يظهر لحظة وقوع&nbsp;زلزال كبير، ادعى ناشرو المقطع أنّه في الصين </span><span dir=\"RTL\" lang=\"AR-EG\">وألحق أضرار كبيرة</span><span dir=\"RTL\" lang=\"AR-SA\">، عقب الانتهاء من تفشي فايروس كورونا هُناك.</span></p>\r\n\r\n<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">وحقق الفيديو انتشاراً واسعاً على المنصات، وحاز على ملايين المشاهدات في أقل من أربعةٍ وعشرين&nbsp;ساعة.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_x88kp8ub5.jpg\" style=\"height:358px; width:406px\" /></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_srdas0j7q.jpg\" style=\"height:428px; width:412px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1586174974GettyImages-1150450604.jpg",
+        "watermark_path": "articles/watermark-1586174974GettyImages-1150450604.jpg"
+    },
+    "post_date": "2020-04-06T14:54:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/min.satih.malyun6/videos/245058163341195/?__xts__[0]=68.ARBTzX3JslEvRNODgx1k1E9J5BSy5Hp3efzhLxeX0tQHtC45D5fpt6QXHm1OFjaVTA451f7XIGcaTjTi9y-84eeJUry63YNZyhiYJL4p1TPKrdUwAtHTlLX-w4hHit5t6-772ubCzM5UcJO2r9Z6QsvslM-DFbty40nm7SdLqdJZmUyknG69fWMTjS32ekpjVlVXvveySel16PPu3r62Y352K-SZNEdpmbthzI930cSZ_si5kujfebp3vfpTQJbnenKwbs0UidJNXUI4C_U7fxdvS8NzvJbuyAQVNIJTLpKc_5byn7aDLOCN975YdX-wVRNHVVuiUYRm2f-ZzpKOiPXmcBZYSwj1amxx2g&__tn__=-R",
+            "name": "من سته مليون اخترتك",
+            "path": "published/0_1586174573_1.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ihatemyl/videos/245055003341511/",
+            "name": "Mohamed Salah5",
+            "path": "published/1_1586174573_2.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100409888295644/videos/1611612285664362/?__tn__=%2CdkC-R&eid=ARAgPn-R9uSTZSl3VbAVt7IMGwUOrRNU6oi2J14D1IGbQwNtgGjOLsYVvLHH6AuKflHQAZ6YGwAYEJlT&hc_ref=ARTBt7G08vgHinvZhpa5-l-bHmZqBI4xDkX_x0fcL9OsPbhVMJWosVOkZ_Ld2fBRCUY&fref=tag",
+            "name": "MC Zamika/Abanoub",
+            "path": "published/2_1586174574_3.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/TamerSuwairki2020/videos/915804708857747/",
+            "name": "00:00:01",
+            "path": "published/3_1586174574_4.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/107781190862424/videos/682742192535139/?v=682742192535139&external_log_id=277496a5a82907ce270f4a2dbe15a95a&q=%D8%B2%D9%84%D8%B2%D8%A7%D9%84%20%D9%8A%D8%B6%D8%B1%D8%A8%20%D8%A7%D9%84%D8%B5%D9%8A%D9%86",
+            "name": "منوعات حول العالم",
+            "path": "published/4_1586174574_5.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=-kinP0yMwrM",
+            "name": "BBC News ",
+            "path": "sources/0_1586174574_Xq8-sAa4_400x400.jpg"
+        },
+        {
+            "link": "https://www.bbc.com/arabic/worldnews/2015/04/150427_nepal_earthquake_death_toll",
+            "name": "BBC News عربي",
+            "path": "sources/1_1586174574_Xq8-sAa4_400x400.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "زلزال يضرب الصين بعد الانتهاء من كورونا.. فيديو مضلل",
+    "updated_at": "2020-09-25 04:34:38",
+    "url_path": "/factcheck/2020/04/06/زلزال-يضرب-الصين-بعد-الانتهاء-من-كورونا-فيديو-مضلل"
+}

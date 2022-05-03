@@ -1,0 +1,80 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 19307,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "caption": "الصورة للرئيس البرازيلي جايير بولسونارو (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\"><span style=\"background-color:white\"><span style=\"color:#1c1e21\">شاهد كمية الحزن لوزير الصحة الإيطالي بعد وفاة ٧٩٣ إيطالي اليوم</span></span></p>\r\n",
+    "country": "",
+    "created_at": "2020-03-23 17:28:19",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e78c783d4a2296253430063",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الصورة ليست لوزير الصحة الإيطالي، وإنما تعود للرئيس البرازيلي جايير&nbsp;ميسياس بولسونارو، وهو الرئيس الثامن والثلاثين للبرازيل، ويشغل المنصب منذ الأول من يناير<span dir=\"LTR\">/</span>كانون الثاني من العام 2019. والصورة تعود لخطاب ألقاه الرئيس البرازيلي في عيد الشكر نهاية العام الفائت، وكان سبب بكاؤه متعلق باقترابه من الموت وبابنته البالغة من العمر 7 سنوات، وأنه لا يريد تركها يتيمة وهي في هذا العمر.</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت صفحة العراق يجمعنا على موقع فيسبوك، صورةً قالت إنها لوزير الصحة الإيطالي متأثراً وحزيناً لوفاة عدد كبير من الإيطاليين جراء إصابتهم بفايروس كورونا المستجد (كوفيد 19).</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_v6ubmc6b1.jpg\" style=\"height:641px; width:546px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 353,
+        "left": 1.0965728759765625,
+        "path": "articles/1584973699GettyImages-1207789817.jpg",
+        "top": 41.53466796875,
+        "totalHeight": 423,
+        "totalWidth": 635,
+        "width": 627
+    },
+    "post_date": "2020-03-23T17:23:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/109750407094118/photos/a.109787280423764/233551084714049/?type=3&theater",
+            "name": "العراق يجمعنا",
+            "path": "published/0_1584973699_العراق-يجمعنا.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=bV1MkjFzZe8&feature=youtu.be&fbclid=IwAR2JXgVEZfTpmSeYLVJibHBzDVxw0DD6Qd87DB0zXILOgenVCyZUKX1TVNE",
+            "name": "Folha Política ",
+            "path": "sources/0_1584973699_Folha Política.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=EDhKt69ezos",
+            "name": "DD News",
+            "path": "sources/1_1584973699_dd-news.jpg"
+        },
+        {
+            "link": "https://www.theguardian.com/world/jair-bolsonaro",
+            "name": "The Guardian",
+            "path": "sources/2_1584973699_The Guardian-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصورة ليست لوزير الصحة الإيطالي يبكي ضحايا كورونا",
+    "updated_at": "2020-09-25 04:16:01",
+    "url_path": "/factcheck/2020/03/23/هذه-الصورة-ليست-لوزير-الصحة-الإيطالي-يبكي-ضحايا-كورونا"
+}

@@ -1,0 +1,122 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 4058,
+    "author": {
+        "fullname": "أنس سمحان",
+        "id": "5e32f3f9d4a22962ed7ff427",
+        "photo": {
+            "name": "1580397561_Untitled1.jpg",
+            "path": "authors/1580397561_Untitled1.jpg"
+        }
+    },
+    "caption": "  هذا الفايروس لا ينتقل عن طريق الهواء بل من الفئران المصابة إلى البشر (Getty)",
+    "category": "Health",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">فايروس جديد ينتشر في الصّين ويصيب البشر من خلال الهواء، وذلك بعد وفاة رجل مصاب في حافلة، والحجر على بقيّة الركاب.</p>\r\n",
+    "country": "CN",
+    "created_at": "2020-03-24 21:10:41",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e7a4d21d4a2292d9019dbc3",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من المعلومات المتداولة، ووجد في&nbsp; صحيفة <span dir=\"LTR\" lang=\"EN-US\">China&rsquo;s Global Times</span> خبراً مفاده وفاة رجل بعد إصابته بفايروس هانتا وهو في طريق عودته إلى مدينته يوم الإثنين الموافق 23 مارس/آذار الجاري، وتم فحص كلّ الأشخاص وعددهم 32 شخصاً ممن كانوا على متن الحافلة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وتأكّد &quot;مسبار&quot; من المعلومات الصحيَّة المتوفّرة حول فايروس هانتا، وجميعها تؤكّد أنَّ هذا الفايروس لا ينتقل عن طريق الهواء بل من الفئران المصابة إلى البشر إمَّا بملامستها أو الاحتكاك بفضلاتها أو التعامل معها، وليس له علاقة بسلالة فايروس كورونا .</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">كما أنَّ مستخدمي وسائل التواصل الاجتماعيّ يُسمُّونه فايروس جديد ولكن ّالأمر ليس كذلك، فبحسب المركز الوطنيّ لمعلومات التكنولوجيا الحيوية في الولايات المتحدة (<span dir=\"LTR\" lang=\"EN-US\">NCBI</span>) نشر&nbsp;أنَّ فايروس هانتا يشمل أكثر من 21 نوعاً.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وفي عام 1978، تم عزل العامل المسبّب للحُمّى الدمويّة في القوارض الصغيرة المصابة بالقرب من نهر هانتان في كوريا الجنوبيّة، ومن هنا تمت تسميته باسم<span dir=\"LTR\" lang=\"EN-US\">Hantaan&nbsp;</span>، نسبة إلى اسم نهر<span dir=\"LTR\" lang=\"EN-US\">Hantan</span>.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">ويعود هذا الاكتشاف الأوليّ إلى الأساليب العلميّة التي بدأت بعد الحرب الكوريّة (1951-1953)، والتي تم خلالها الإبلاغ عن أكثر من 3000 حالةٍ من الحمّى النزفيّة بين قوات الأمم المتحدة وقتها.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وفي عام 1993 تُوفّي شابٌ وخطيبته نتيجة فايروس هانتا في الجنوب الغربيّ الأمريكيّ، ونُقل الشاب&nbsp;إلى مستشفى في نيومكسيكو لكنّه مات بسبب فشلٍ حادٍ في الجهاز التنفسيّ في غضون ساعات.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">ومن الأمراض التي يسبّبها هذا النوع من الفيروسات إلى الإنسان،&nbsp;متلازمة فايروس هانتا للرئة (<span dir=\"LTR\" lang=\"EN-US\">HPS</span>)، والحمّى النزفيّة مع متلازمة كلويّة (<span dir=\"LTR\" lang=\"EN-US\">HRFS</span>)، في حين قال د. عامر شيخوني مدير تحرير موقع صحتك&nbsp; في تصريح لـموقع مسبار &quot;لا ينتقل هذا الفايروس إلا عن طريق التعرض لإفرازات نوع معين من الجرذان ولا ينتقل في الهواء، كذلك لا ينتقل بين البشر&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_de6teq21l.jpg\" style=\"height:309px; width:576px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_x9koa9xi8.jpg\" style=\"height:445px; width:576px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحاتٌ عديدةٌ في 24 مارس/آذار الجاري، خبراً مفاده أنَّ رجلاً سقط ميّتاً في حافلةٍ في الصين، ووُضع 32 آخر، في الحجر الصحيّ من قبل الحكومة الصينيّة، بعد اكتشاف إصابته بفايروس هانتا، ما جعل مستخدمي&nbsp;وسائل التواصل الاجتماعيّ يعيشون حالةً من الذُّعر في وقتٍ يكافح فيه العالم جائحة وباء كورونا المستجد &quot;كوفيد19&quot;، والذي كان قد بدأ في الصين أيضاً، وتجاوزت الإصابات به الـ 300 ألفاً من حول العالم، ولم تتم السيطرة عليه بعد.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_vnndlel6t.jpg\" style=\"height:504px; width:423px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_9f104zbpt.jpg\" style=\"height:492px; width:433px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_c1n1gfdks.jpg\" style=\"height:395px; width:576px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1585138713GettyImages-1212346608.jpg"
+    },
+    "post_date": "2020-03-24T18:14:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/groups/676998209092205/permalink/1811923062266375/",
+            "name": "Marwan Ghalib",
+            "path": "published/0_1585073440_مالك.JPG"
+        },
+        {
+            "link": "https://www.facebook.com/Algerians.dz.48/posts/891087777987711?__xts__%5B0%5D=68.ARDhDXvJuWbysCDFG3Bvcm-9eGd5wb3d_0UxM0RIjoy6AbPuUzXCHlejblLCgM2n7GD9hRaMBBqm1_C1s14jINzWv1syfY6O5YQUvg166VYCwJvtcwf_lfQ08TjLdhXTNDvf3SVV9S1AZ89BAwA-C24-kxREN3T0ZkMnxa3J3jidAa3157K_J-4tpZ7C66raEREqG-zuvru4Re1Kub7BdVsr0GU7XYU-uQXWpERk8sTQCTKVf9cFle_cEan6BQmN2rfKKL1q1TxATLUOpm0lbxedIMvNjbN6E6UfmiFlrtWp4e2-GTatDkmGFfC5bBQ0hwhwLtPNojDdNtROj4hShYs&__tn__=-R",
+            "name": "جزائريون",
+            "path": "published/1_1585073440_80567293_825247991238357_1266154323046301696_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=196733255086392&set=a.102207674538951&type=3",
+            "name": "نبض للتمريض المنزلي",
+            "path": "published/2_1585073440_نبض.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/105548637753297/photos/a.105556081085886/110659623908865/?type=3&__xts__[0]=68.ARD6o6pMOE8yHidHNDw6Z4iLz3eXIBM5jb_Jyd5vobZ_2pws1v1Y5KyCeMOt4GCvM4O67-E9JGyoM5NnYltGjL2pBNnVIvvo_SbaMSpWxz8fqoMk8AFMeRVvqvpIGPAfwDoUcfDTWrUWKa0EwIzIXrkgk1MMg4OrCJBWBPftpJndP9W4HU-KwOwB3w4mHYqtqVfx9S4iITWeAJ2aAbL9S0h6Jk3wbYruNj-GG3hH8bnByCZtvd88sFbJsjDcNMdXEnqmsJyGI-BX4cI1ImjlISU6BvbdzafjSAPMetYiyiYZy64XjfuSUwhHWnp_Kr30IlQmDzJ_WM151uhbgEgE3GQ",
+            "name": "يوميات بالعربي",
+            "path": "published/3_1585073440_يوميات.jpg"
+        },
+        {
+            "link": "https://metrosaga.com/new-covid-19-like-virus-emerged-in-china-man-dies-after-testing-positive-for-hantavirus/?fbclid=IwAR2eDMAV6fY-DOUa2oBnjKmxqJq-UzRM5oQBrCahFuOZqTMDTr5VgHvWnJM",
+            "name": "metrosaga",
+            "path": "published/4_1585073440_التقاط.JPG"
+        },
+        {
+            "link": "https://www.facebook.com/aseel.shawish.52/posts/674525253293306",
+            "name": "Aseel Abushawish",
+            "path": "published/5_1585077961_46501664_364089211003580_5659627389764763648_n.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.ecdc.europa.eu/en/hantavirus-infection/facts",
+            "name": "Ecdc",
+            "path": "sources/0_1585073439_التقاطببب.JPG"
+        },
+        {
+            "link": "https://www.firstpost.com/health/man-dies-from-hantavirus-in-china-all-you-need-to-know-about-the-virus-and-how-it-spreads-8184521.html",
+            "name": "Firstpost",
+            "path": "sources/1_1585073439_التقاطييييي.JPG"
+        },
+        {
+            "link": "https://earthdata.nasa.gov/learn/sensing-our-planet/hantavirus-risk-maps",
+            "name": "Nasa",
+            "path": "sources/2_1585073440_ناسا.JPG"
+        },
+        {
+            "link": "https://www.indiatoday.in/science/story/hantavirus-man-dead-china-symptoms-coronavirus-yunnan-shandong-1659186-2020-03-24",
+            "name": "Indiatoday",
+            "path": "sources/3_1585073440_التقاطيي.JPG"
+        },
+        {
+            "link": "https://timesofindia.indiatimes.com/world/china/hantavirus-kills-a-man-in-china-people-frantic-on-social-media/articleshow/74796023.cms?from=mdr",
+            "name": "Times of India",
+            "path": "sources/4_1585073440_هندي ايم.jpg"
+        },
+        {
+            "link": "https://www.who.int/csr/don/04-January-2019-hantavirus-panama/en/",
+            "name": "WHO",
+            "path": "sources/5_1585073440_سارين.JPG"
+        },
+        {
+            "link": "https://www.sehatok.com/",
+            "name": "صحتك",
+            "path": "sources/6_1585077509_التقاطههههه.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "فايروس جديد ينتشر في الصين ويقتل رجلاً.. ما الحقيقة؟",
+    "updated_at": "2020-09-25 16:25:54",
+    "url_path": "/factcheck/2020/03/24/فايروس-جديد-ينتشر-في-الصين-ويقتل-رجلا-ما-الحقيقة"
+}

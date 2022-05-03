@@ -1,0 +1,123 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 334,
+    "author": {
+        "fullname": "محمد الخالدي",
+        "id": "5ef9dcff163be306aa5d2826",
+        "photo": {
+            "name": "1593433343_48252779_2179011148784786_3755534693705973760_o.jpg",
+            "path": "authors/1593433343_48252779_2179011148784786_3755534693705973760_o.jpg"
+        }
+    },
+    "caption": "أجريت تعديلات على الصورة التي نُشرت قبل وفاته (فيسبوك)",
+    "category": "Spirituality & Religion",
+    "claim": "<p>صورة الشيخ الباكستاني خادم حسين الرضوي بعد وفاته.</p>\r\n",
+    "country": "PK",
+    "created_at": "2020-11-29 19:29:52",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 6,
+    "feedback_pos": 18,
+    "id": "5fc3cc805f1eff31207f4d8a",
+    "investigation": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقّق &quot;<a href=\"https://misbar.com/\"><span style=\"color:#3498db\">مسبار</span></a>&quot; من الادعاء ووجده مضللاً، إذ تبين أنّ الصورة قديمة، نشرتها إحدى المنصات عام 2019، وجرى تعديل على الصورة بواسطة برنامج تعديل الصور.</span></p>\r\n\r\n<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">وتوفي رضوي مؤسس الحركة الإسلامية &quot;لبيك باكستان&quot; التي تتمتع بتأثير كبير، في أحد مشافي لاهور، بتاريخ 19 نوفمبر/ تشرين الثاني الجاري،&nbsp;عن عمر يناهز (54 عاماً) بعد إصابته بحمى وصعوبات في التنفس، ولم تعرف أسباب وفاته.</span></p>\r\n\r\n<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">ويقف الشيخ إلى حد كبير وراء الاحتجاجات الحادة المناهضة للفرنسيين التي هزت باكستان، منذ سبتمبر/أيلول الماضي، بعد إعادة نشر مجلة &quot;شارلي إيبدو&quot; الأسبوعية الساخرة رسوماً&nbsp;كاريكاتيرية مسيئة للنبي محمد، والتي أفضت إلى اتفاق مع الحكومة الباكستانية على طرد السفير الفرنسي بعد إصدار تشريع برلماني بذلك خلال شهرين أو ثلاثة.</span><br />\r\n<br />\r\n<img src=\"https://images-prod.misbar.com/articlebody/investigation_r9h8gv6m7.jpg\" style=\"height:502px; width:554px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:center\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت حسابات على مواقع التواصل الاجتماعي، بتاريخ 20 نوفمبر/تشرين الثاني الجاري، صورةً قالت إنها&nbsp;للشيخ الباكستاني خادم حسين الرضوي بعد وفاته.</span><br />\r\n<br />\r\n<img src=\"https://images-prod.misbar.com/articlebody/origin_smd3q1158.jpg\" style=\"height:266px; width:554px\" /></p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_rjgm59er3.jpg\" style=\"height:262px; width:554px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_bhobcnd2n.jpg\" style=\"height:267px; width:554px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 246,
+        "left": -6,
+        "path": "articles/1606667392126803073_4115185651828122_1689220251417035281_n.jpg",
+        "top": 23.199951171875,
+        "totalHeight": 423,
+        "totalWidth": 434,
+        "watermark_path": "articles/watermark-1606667392126803073_4115185651828122_1689220251417035281_n.jpg",
+        "width": 436
+    },
+    "post_date": "2020-11-29T17:01:00.000+03:00",
+    "published": [
+        {
+            "id": "5fc3cc80fc474a729e732c66",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=422135595833021&id=104588324254418",
+            "name": "كوردستان قلب الحدث صوت الشعب الكوردي",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5fc3cc8037380a10b02d9590",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=3844148598948977&id=107296375967570",
+            "name": "الشيخ ابواسحاق الحوينى",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5fc3cc8018cd926d41738350",
+            "link": "https://www.facebook.com/100039990196487/videos/384539486222388/",
+            "name": "محمد مدثر",
+            "origin": "facebook",
+            "path": "sources/cbcfd3c4b36c3aebad2757a03c2aa319a53ed2a2.jpg"
+        },
+        {
+            "id": "5f97021a1b02307a6052eff4",
+            "link": "https://www.facebook.com/way2allah/posts/10158597064341226",
+            "name": "من كان آخر كلامه لا إله إلا الله دخل الجنة",
+            "origin": "facebook",
+            "path": "sources/b9931da924bb92be4604649eb625de4c4a461b6b.jpg"
+        },
+        {
+            "id": "5fc3cc7f99228e0ffd693ece",
+            "link": "https://www.facebook.com/Ali.AlQaradaghi/posts/4115185691828118",
+            "name": "Dr. Ali Al Qaradaghi (\\u062f. \\u0639\\u0644\\u064a \\u0627\\u0644\\u0642\\u0631\\u0647 \\u062f\\u0627\\u063a\\u064a)",
+            "origin": "facebook",
+            "path": "sources/155e201b52359cfeb6d7fb80e39732089681ee7d.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fc3cc80b03dd012431512aa",
+            "link": "https://picsart.com/i/image-allama-304686914239201",
+            "name": "PicsArt",
+            "origin": "",
+            "path": "sources/fa31dc2ff30422143cef3e02021c3a6d29d67f27.jpg"
+        },
+        {
+            "id": "5f91baf8c71c4f5bf8176297",
+            "link": "https://mubasher.aljazeera.net/news/2020/11/21/%D8%A8%D8%A7%D9%83%D8%B3%D8%AA%D8%A7%D9%86-%D8%AD%D8%B4%D9%88%D8%AF-%D9%83%D8%A8%D9%8A%D8%B1%D8%A9-%D9%84%D8%AA%D8%B4%D9%8A%D9%8A%D8%B9-%D8%B1%D8%AC%D9%84-%D9%8A%D9%82%D9%81-%D9%88%D8%B1%D8%A7%D8%A1",
+            "name": "الجزيرة",
+            "origin": "",
+            "path": "published/1_1598272768_aljazeera.jpg"
+        },
+        {
+            "id": "5f8eb18c79e4d847985d0c07",
+            "link": "https://www.aljazeera.net/news/politics/2020/11/17/%D8%A5%D9%86%D9%87%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D8%B5%D8%A7%D9%85-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%B7%D8%B1%D8%AF-%D8%A7%D9%84%D8%B3%D9%81%D9%8A%D8%B1",
+            "name": "الجزيرة نت",
+            "origin": "",
+            "path": "sources/0_1603096521_Screenshot 2020-10-19 101519.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصورة ليست للشيخ الباكستاني خادم الرضوي بعد وفاته",
+    "updated_at": "2020-11-29 19:41:09",
+    "url_path": "/factcheck/2020/11/29/هذه-الصورة-ليست-للشيخ-الباكستاني-خادم-الرضوي-بعد-وفاته",
+    "was_notification_pushed": true
+}

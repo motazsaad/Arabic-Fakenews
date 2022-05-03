@@ -1,0 +1,151 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 351,
+    "author": {
+        "fullname": "محمد منصور",
+        "id": "5fb23d186f2b3d250d7af928",
+        "photo": {
+            "name": "1605516568_220.jpg",
+            "path": "authors/1605516568_220.jpg"
+        }
+    },
+    "caption": "خلع  هذا النائب ملابسه احتجاجاً على قانون خصخصة قطاع الطاقة (يوتيوب)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">نائب في البرلمان المكسيكي يخلع ملابسه ويخاطبهم: شعرتم بالخجل عندما رأيتموني عارياً هكذا ولم تشعروا&nbsp;بالخجل من شعبكم عندما جعلتموه عارياً جائعاً بائساً.</p>\r\n",
+    "country": "MX",
+    "created_at": "2020-12-03 17:26:25",
+    "created_by": "5f9fab38bddeec3fc23209e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 8,
+    "feedback_pos": 7,
+    "id": "5fc8f591f836160f4002f4b4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقق &quot;<a href=\"https://misbar.com/qna\" style=\"color:#0563c1; text-decoration:underline\">مسبار</a>&quot; من الصورة والادعاء المتداولين، ووجد أن الادعاء مضلل، إذ إن الصورة تعود لنائب مكسيكي يدعى أنتونيو غارسيا كونيجو، من الحزب الثوري الديمقراطي، خلال جلسة في البرلمان المكسيكي عقدت في ديسمبر/كانون الأول عام 2013، حيث خلع ملابسه للاحتجاج على تمرير قانون يسمح بخصخصة قطاع الطاقة وفتحه أمام الاستثمار الأجنبي، وقال إن&nbsp;&quot;المكسيك تدفع أعلى معدل استهلاك للطاقة في العالم، وأنتم النواب تتخلون عملياً عن كل شيء لدينا.. هذا مخجل&quot;.</p>\r\n\r\n<p dir=\"rtl\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/soEn2okp04o?start=112\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">ويذكر أن الحكومة المكسيكية آنذاك طرحت مشروع قانون يسمح للشركات الخاصة والاستثمارات الأجنبية المشاركة في البحث والتنقيب عن الغاز والنفط، الأمر الذي كان محظوراً بموجب الدستور المكسيكي.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">اقرأ/ي أيضاً</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/09/25/%D9%85%D8%AC%D8%B1%D8%AF-%D9%85%D8%AC%D8%B3%D9%85-%D9%88%D9%84%D9%8A%D8%B3-%D9%81%D8%A3%D8%B1%D8%A7-%D8%AD%D9%82%D9%8A%D9%82%D9%8A%D8%A7\" style=\"color:#0563c1; text-decoration:underline\">مجرّد مجسّم وليس فأراً حقيقياً</a></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><a href=\"الصورة%20ليست%20لابن%20يحاول%20إنقاذ%20أمه%20المصابة%20بكورونا%20في%20مصر\" style=\"color:#0563c1; text-decoration:underline\">الصورة ليست لابن يحاول إنقاذ أمه المصابة بكورونا في مصر</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات وحسابات على مواقع التواصل الاجتماعي، منذ أوائل أكتوبر/تشرين الأول الفائت، صورةً ادعت أنها لنائب مكسيكي يخلع ملابسه خلال إحدى جلسات البرلمان، ويخاطب النواب، قائلاً &quot;شعرتم بالخجل عندما رأيتموني عارياً؟&nbsp;ولم تشعروا بالخجل من شعبكم عندما جعلتموه عارياً جائعاً بائساً؟&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><img src=\"https://images-prod.misbar.com/articlebody/origin_hmfy8uz5k.jpg\" style=\"height:778px; width:551px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><img src=\"https://images-prod.misbar.com/articlebody/origin_cdvvkaxc5.jpg\" style=\"height:770px; width:552px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 2.20001220703125,
+        "path": "articles/1607005583نمر.PNG",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1607005583نمر.PNG",
+        "width": 752
+    },
+    "post_date": "2020-12-03T16:06:00.000+03:00",
+    "published": [
+        {
+            "id": "5fc8fb66ac02752c900947ce",
+            "link": "https://www.facebook.com/husseinsadeqalsaad/posts/2701518273496822",
+            "name": "Hussein alsaady",
+            "origin": "facebook",
+            "path": "sources/9a1f26370eed10115fe5715f8955995c8d091ae9.jpg"
+        },
+        {
+            "id": "5fc8fb66b76ca2426c336b1c",
+            "link": "https://www.facebook.com/groups/487610798804086/permalink/694976064734224/",
+            "name": "رواتب موظفين دولة فلسطين والترقيات الصفحة الرسمية.",
+            "origin": "facebook",
+            "path": "sources/9fb41797f3ab0b7b87f8775614ed7b0bdd915b9b.jpg"
+        },
+        {
+            "id": "5fc8fb66a1fe6e5dc5087543",
+            "link": "https://www.facebook.com/alrasheednetcom/posts/3147781602011311",
+            "name": "جريدة الرشيد",
+            "origin": "facebook",
+            "path": "sources/3424160fcd86eeaaf80c9b3abf8cfbe06b233e84.jpg"
+        },
+        {
+            "id": "5fc8fb663555654532751913",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=3406989616061790&id=473792112714903",
+            "name": "ضيعتنا فلسقو",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        },
+        {
+            "id": "5fc8fb661966c761566a8ea3",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=584269532362852&id=117717995684677",
+            "name": "تكريت الحدث",
+            "origin": "facebook",
+            "path": "sources/a87f2679356c5a8a7eeb46472e30167d18c3a494.jpg"
+        },
+        {
+            "id": "5fc8fb66b63448207119ee17",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=932906273902729&id=564281030765257",
+            "name": "ليببيا وإن طال النضال",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        },
+        {
+            "id": "5fc8fb664a316a4132725ed2",
+            "link": "https://www.facebook.com/groups/2405070149589303/permalink/3369691739793801/",
+            "name": "🇹🇳أحباء و مناصري قيس سعيد🇹🇳",
+            "origin": "facebook",
+            "path": "sources/9fb41797f3ab0b7b87f8775614ed7b0bdd915b9b.jpg"
+        },
+        {
+            "id": "5fc8fb67a9883a30ff18dc33",
+            "link": "https://www.facebook.com/groups/395566621373402/permalink/694497374813657/",
+            "name": "الحدث الإقتصادي السوري(Syrian Economic Event)",
+            "origin": "facebook",
+            "path": "sources/9fb41797f3ab0b7b87f8775614ed7b0bdd915b9b.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f8edfb4148b827f7d192205",
+            "link": "https://youtu.be/soEn2okp04o",
+            "name": "قناة يوتيوب",
+            "origin": "",
+            "path": "sources/f4e473f70061267e3fbe3df8d9498087e3cf99aa.jpg"
+        },
+        {
+            "id": "5f91b84585c9fb2f0d4b500a",
+            "link": "https://www.bbc.com/news/av/world-latin-america-25365314",
+            "name": "BBC ",
+            "origin": "",
+            "path": "sources/1_1589372500_BBC NEWS-logo.jpg"
+        },
+        {
+            "id": "5fc8f58fd33a084fa235919f",
+            "link": "https://www.kevid.com.ng/2013/12/going-nuts-mexican-lawmaker-strips-to.html",
+            "name": "KEVID NEWS (Formerly Kevin Djakpor Blog) - Nigeria News Today, Breaking News &amp; Opinion",
+            "origin": "",
+            "path": "sources/3d1f63125838f67a4c54781d24031844713f6743.jpg"
+        },
+        {
+            "id": "5fc8f58f03dbb2047f7d96fb",
+            "link": "https://www.redpepper.co.ug/2013/12/mexican-congressman-strips-during-privatization-bill-debate/",
+            "name": "Red Pepper Uganda",
+            "origin": "",
+            "path": "sources/72a050a560f0aee99af9d24f961cda1543ee0954.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لم يخلع النائب المكسيكي ملابسه للاحتجاج على تعري الشعب وجوعه",
+    "updated_at": "2020-12-03 17:52:28",
+    "url_path": "/factcheck/2020/12/03/لم-يخلع-النائب-المكسيكي-ملابسه-للاحتجاج-على-تعري-الشعب-وجوعه",
+    "was_notification_pushed": "true"
+}

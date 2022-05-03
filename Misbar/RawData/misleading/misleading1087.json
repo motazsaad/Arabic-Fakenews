@@ -1,0 +1,114 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 3326,
+    "author": {
+        "fullname": "رشيد عفيف",
+        "id": "5ec4e956db291667784c4bc4",
+        "photo": {
+            "name": "1589963094_رشيد صورة.jpg",
+            "path": "authors/1589963094_رشيد صورة.jpg"
+        }
+    },
+    "caption": "اندلع الحريق في ورشة خشب عام 2017 وانتقل للمبنى",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">انفجار مبنى بالكامل في مدينة سلا المغربية، بسبب شاحن هاتف.</p>\r\n",
+    "country": "MA",
+    "created_at": "2020-05-30 21:27:19",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ed2a587db2916580e135bb4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من مقطع الفيديو ووجد أنه مضلّل، إذ يعود الانفجار إلى يوم 17 مارس/آذار 2017، يوثّق&nbsp;احتراق مبنى من ثلاث طوابق وانهياره في مدينة سلا المغربية. واتّضح أن شاحن الهاتف لم يكن&nbsp;سبب الحريق، إذ&nbsp;أنه&nbsp;اندلع بداية في ورشة للخشب كانت مجاورة&nbsp;للمبنى،&nbsp;وبسبب احتوائها على موادٍ قابلة للاشتعال، انتقل الحريق إلى المبنى، ليؤدّي&nbsp;إلى&nbsp;انفجاره ووفاة أحد عناصر الحماية المدنية وأحد السكان المتطوعين.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/lcqXJ2M3GTY\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات وحسابات على مواقع التواصل الاجتماعي، منذ 28 مايو/أيار الجاري، مقطع فيديو لانفجار مبنى وانهياره، بعد أن نشبّ فيه حريق. وأُرفق الفيديو بتعليق يدّعي أن المبنى يقع في مدينة سلا المغربية تسبب شاحن هاتف في انفجاره.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_5z4g3s1nz.jpg\" style=\"height:282px; width:244px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_eqjzb4fis.jpg\" style=\"height:444px; width:250px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_d4a6ko7do.jpg\" style=\"height:357px; width:309px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 326,
+        "left": 4.10528564453125,
+        "path": "articles/15908632384.jpg",
+        "top": 60.746826171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-15908632384.jpg",
+        "width": 579
+    },
+    "post_date": "2020-05-30T18:19:00.000+03:00",
+    "published": [
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=130574421953746&id=105443684466820",
+            "name": "Gaa naarfou",
+            "path": "published/0_1590863237_1.jpg"
+        },
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=116765006715867&id=109513197441048",
+            "name": "Maroc news 24",
+            "path": "published/1_1590863237_100478055_109516364107398_8812759526836011008_n.jpg"
+        },
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=1048991982169126&id=729352027466458",
+            "name": "شياضمة tv",
+            "path": "published/2_1590863237_55802432_729356540799340_6579446253120126976_n.jpg"
+        },
+        {
+            "link": "https://m.facebook.com/story.php?story_fbid=1008762586207027&id=100012198850950",
+            "name": "Youssef Bensalah",
+            "path": "published/3_1590863237_90836356_959515204465099_4742486434223489024_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/114016610295260/videos/730459004358435/?__tn__=%2Cd%3C-R&eid=ARDwLvArRZYaATrFfUbYx0r7-9yPdHd5X9B_Qud-Ab7vUoVfaQOfysPmUKGtfbwR-rTHEU0-5i1rXS3v",
+            "name": "Abdenbi kamili",
+            "path": "published/4_1590863237_95252088_114020863628168_1002804121209667584_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/khalifa.wldbochaib/videos/1108601252858036/?fref=search&__tn__=%2Cd%2CP-R&eid=ARBxettiw7IL9M-IXip2R7GxCO183zTojAHYQuHrwDtACgVmyiG4V84TDT08g7II7Z5YbKYl1vbjEa6z",
+            "name": "Abdo Bkm",
+            "path": "published/5_1590863237_65377034_846314072420090_6534491878404915200_n.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=lcqXJ2M3GTY",
+            "name": "نشرة القناة الثانية",
+            "path": "sources/0_1590863237_3.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=BeR_l1Y9gmg",
+            "name": "اليوم 24",
+            "path": "sources/1_1590863238_unnamed.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=VrkoqcJ9ixA",
+            "name": "هسبريس",
+            "path": "sources/2_1590863238_hespress_797036247.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=XvDBnaOuSj8",
+            "name": "M24TV",
+            "path": "sources/3_1590863238_unnamed (1).jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "انفجار مبنى في المغرب بسبب شاحن هاتف..فيديو مضلّل",
+    "updated_at": "2020-09-25 10:40:43",
+    "url_path": "/factcheck/2020/05/30/انفجار-مبنى-في-المغرب-بسبب-شاحن-للهاتف-فيديو-مضلل"
+}

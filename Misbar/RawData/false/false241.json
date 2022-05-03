@@ -1,0 +1,96 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 150,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": " الصورة الأصلية تم نشرها في مايو/أيار من العام الفائت، قبل إعلان إصابة ترامب بالفايروس (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p>قناة سي إن إن، رفعت علم الصين؛&nbsp;حزناً على شفاء الرئيس الأميركيّ دونالد ترامب، أو نكست علمها الذي هو علم الصين في الأصل؛&nbsp;لأن ترامب شُفي من الفايروس.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-10-06 23:00:41",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 6,
+    "id": "5f7ccce9ce5b6d4f50434490",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقّق &quot;مسبار&quot; من الصورة المتداولة ليجد أنّها مفبركة، إذ أن شبكة <span dir=\"LTR\" lang=\"EN-US\">CNN</span> العالميّة نشرت الصورة الأصلية التي تعود إلى واجهة مقرها في جورجيا بالولايات المتحدة الأميركيّة، وذلك على حساب القناة بموقع فيسبوك في 7 مايو<span dir=\"LTR\" lang=\"EN-US\">/</span>أيار عام 2019، ولم يكن علم الصين ظاهراً فيها، إذ أضاف المزور العلم عبر برامج تعديل.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">كما أن المقارنة بين تاريخ نشر الصورة الأصلية، وتاريخ إعلان دونالد ترامب عن إصابته بفايروس كورونا في الثاني من أكتوبر/تشرين الأول الجاري، يفنّد الشائعة المتداولة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><span dir=\"LTR\"><img id=\"صورة_x0020_3\" src=\"https://images-prod.misbar.com/articlebody/investigation_uq30v1vgo.jpg\" style=\"height:220.5pt; width:470.25pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">ويأتي تداول الصورة بعد توتر العلاقة بين ترامب والقناة، إذ سبق أن هاجم الرئيس الأميركي شبكة الـ<span dir=\"LTR\"> CNN</span> خلال حملته الانتخابية وفي خضم جائحة فايروس كورونا.</p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول حسابات عربية وأجنبية على مواقع التواصل الاجتماعيّ، منذ 5 أكتوبر<span dir=\"LTR\" lang=\"EN-US\">/</span>تشرين الأول الجاري، صورةً تظهر علم الصين مرفوعاً أمام مقر قناة <span dir=\"LTR\" lang=\"EN-US\">CNN</span> الأميركية، إذ قالت إن إدارة القناة رفعت العلم؛ حزناً على شفاء الرئيس الأميركيّ دونالد ترامب، ومنشورات أخرى قالت أنها نكّست علمها الذي هو علم الصين في الأصل؛ لأن ترامب شُفي من الفايروس.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"صورة_x0020_4\" src=\"https://images-prod.misbar.com/articlebody/origin_4h11outp1.jpg\" style=\"height:650.25pt; width:361.5pt\" /> <img id=\"صورة_x0020_5\" src=\"https://images-prod.misbar.com/articlebody/origin_753dfqgnx.jpg\" style=\"height:198.75pt; width:470.25pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"صورة_x0020_6\" src=\"https://images-prod.misbar.com/articlebody/origin_t13mmq1yw.jpg\" style=\"height:270.75pt; width:470.25pt\" /> </span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/160201545559919624_1210242132482442_2547803131454947328_o.jpg",
+        "watermark_path": "articles/watermark-160201545559919624_1210242132482442_2547803131454947328_o.jpg"
+    },
+    "post_date": "2020-10-07T09:40:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/amhfarraj/status/1313140664264200193",
+            "name": "Dr. Ahmad Alfarraj أحمد الفراج",
+            "path": "published/0_1602014440_6_1596888660_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/groups/2270070719913647/permalink/2616319511955431/",
+            "name": "Lolo Omar",
+            "path": "published/1_1602014440_0_1596888660_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/groups/494220120958686/permalink/1217382318642459/",
+            "name": "علي العلياني",
+            "path": "published/2_1602014440_0_1596888660_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/Denlesks/status/1312889822143410177",
+            "name": "Denlesks",
+            "path": "published/3_1602014440_6_1596888660_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/dailycallout/status/1312934783018622978",
+            "name": "David Croom ",
+            "path": "published/4_1602014440_6_1596888660_twitter.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/CNNstudiotours/photos/a.595374683969193/1210242125815776/?type=3 viator https://www.viator.com/tours/Atlanta/CNN-Atlanta-Studio-Tour/d784-6199CNNSTUDIO",
+            "name": "CNN Studio Tours",
+            "path": "sources/0_1602014712_22853115_847003478806311_3076075006322465790_n.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "قناة سي إن إن لم ترفع علم الصين أمام مقرها حزناً على شفاء ترامب",
+    "updated_at": "2020-10-07 17:51:23",
+    "url_path": "/factcheck/2020/10/06/قناة-سي-إن-إن-لم-ترفع-علم-الصين-أمام-مقرها-حزنا-على-شفاء-ترامب",
+    "was_notification_pushed": true
+}

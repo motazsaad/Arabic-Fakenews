@@ -1,0 +1,118 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 2,
+        "fb": 5,
+        "tw": 2
+    },
+    "amount_sources": 0,
+    "amount_visits": 695496,
+    "author": {
+        "fullname": "حمزة حسن",
+        "id": "5e318864d4a2294d2d7209c4",
+        "photo": {
+            "name": "1580304484_hamza-hasan.jpg",
+            "path": "authors/1580304484_hamza-hasan.jpg"
+        }
+    },
+    "caption": "الصورة ليست لفايروس كورونا إنما هي لقطة مكبرة لوجه حشرة السوس (Getty)",
+    "category": "Science",
+    "claim": "<p>صورة لفايروس كورونا المستجد (كوفيد-19) تحت المجهر بعد تكبيره 2600 مرة.</p>\r\n",
+    "country": "IQ",
+    "created_at": "2020-03-12 12:18:52",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e69fe7cd4a229436a6928f3",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">الصورة ليست لفايروس كورونا، إذ تحقق &quot;مسبار&quot; منها ووجد أنها صورة مكبرة لوجه حشرة السوس، وهي من فصيلة السوسينات وتتبع رتبة الخنافس. والجدير بالذكر أن الفايروسات لا تظهر بهذا الشكل عندها رؤيتها تحت المجهر.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"AR-SA\"><span style=\"color:black\"><img id=\"Picture_x0020_7\" src=\"https://images-prod.misbar.com/articlebody/investigation_hcr1i7zwa.jpg\" style=\"height:351.75pt; width:312pt\" /> </span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"AR-SA\"><span style=\"color:black\"><img id=\"Picture_x0020_8\" src=\"https://images-prod.misbar.com/articlebody/investigation_zm1ivekxt.jpg\" style=\"height:300pt; width:328.5pt\" /> </span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"color:black\">فايروس كورونا المستجد (</span>U.S. National Institutes of Health/AP)</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تداول مستخدمون لمواقع التواصل الاجتماعي صورة زعموا أنها لفايروس كورونا المستجد (كوفيد-19) بعد تكبيره 2600 مرة، ويبدو من المنشور المتداول أنّ الصورة مأخوذة من إحدى القنوات العراقية.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"AR-SA\"><span style=\"color:black\"><img id=\"صورة_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/origin_5pjsvxx0b.jpg\" style=\"height:422.25pt; width:346.5pt\" /></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"AR-SA\"><span style=\"color:black\"><img id=\"صورة_x0020_2\" src=\"https://images-prod.misbar.com/articlebody/origin_kdgchuja9.jpg\" style=\"height:443.25pt; width:342.75pt\" /> </span></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 286,
+        "left": 34.82383728027344,
+        "path": "articles/1584004732GettyImages-635827264.jpg",
+        "top": 68.80712890625,
+        "totalHeight": 384,
+        "totalWidth": 577,
+        "width": 508
+    },
+    "post_date": "2020-03-12T12:45:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/alalamalhur/photos/a.1462305917425093/2632328497089490/?type=3&theater",
+            "name": "الاعلام الحر",
+            "path": "published/0_1584005825_الاعلام الحر.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=204076147615332&id=105217324167882",
+            "name": "الشارع الانباري",
+            "path": "published/1_1584005825_الشارع الانباري.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=509757733247847&id=342944536595835",
+            "name": "Raja ساركازم",
+            "path": "published/2_1584005825_Raja ساركازم.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=215426463178043&id=107377800649577",
+            "name": "العالم _ بعيون ليبية",
+            "path": "published/3_1584005825_العالم _ بعيون ليبية.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Citysalt1/posts/704287630107974",
+            "name": "الصفحه الرسميه لمدينة السلط",
+            "path": "published/4_1584005825_الصفحه الرسميه لمدينة السلط.jpg"
+        },
+        {
+            "link": "https://twitter.com/Rana40752360/status/1236012346843320326",
+            "name": "R.A",
+            "path": "published/5_1584005825_R.A TWITTER.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/34bordj/posts/557968784807748",
+            "name": "Nas Lbordj",
+            "path": "published/6_1584005825_Nas Lbordj.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.nature.com/articles/d41586-020-00660-x",
+            "name": "Nature",
+            "path": "sources/0_1584005825_Nature.jpg"
+        },
+        {
+            "link": "https://www.npr.org/2020/02/13/805837103/images-what-new-coronavirus-looks-like-under-the-microscope ",
+            "name": "NPR",
+            "path": "sources/1_1584005825_npr.jpg"
+        },
+        {
+            "link": "https://4tololo.ru/content/21623#menu-extra",
+            "name": "Умкра",
+            "path": "sources/2_1584005825_Умкра.jpg"
+        },
+        {
+            "link": "https://twitter.com/helios_en/status/1232370288995766273",
+            "name": "HELIOS",
+            "path": "sources/3_1584005825_HELIOS.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "فايروس كورونا المستجد بعد تكبيره 2600 مرة.. صورة زائفة",
+    "updated_at": "2020-09-25 21:17:42",
+    "url_path": "/factcheck/2020/03/12/فايروس-كورونا-المستجد-بعد-تكبيره-2600-مرة-صورة-زائفة"
+}

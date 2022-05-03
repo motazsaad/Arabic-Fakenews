@@ -1,0 +1,104 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1454,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "نفت الإذاعة الجزائرية نقلها للخبر (Getty)",
+    "category": "Health",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">تمديد الحجر الصحي&nbsp;وتشديده في عدة محافظات جزائرية، لمواجهة فايروس كورونا (كوفيد-19).</p>\r\n",
+    "country": "DZ",
+    "created_at": "2020-06-27 19:15:36",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ef770a8163be306711ae287",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الادعاء زائف، إذ لم تعلن الحكومة الجزائرية عن إمكانية تمديد الحجر الصحي في بعض المحافظات للتوقي من فايروس كورونا المستجدّ (كوفيد-19). كما نفت الإذاعة الجزائرية في بيان لها عبر صفحتها الرسمية على فيسبوك، نشرها خبراً عن تمديد الحجر الصحي وتشديده في محافظات سطيف، بسكرة، المسيلة، الجلفة، باتنة، البليدة والجزائر العاصمة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وأكدت <span style=\"background-color:white\">الإذاعة أنّها تذيع الأخبار والمعلومات والبيانات الرسمية الصادرة عن السلطات العمومية في خصوص الإجراءات المتعلقة بفايروس كورونا (كوفيد-19)، دون غيرها.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"441\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fradioalgerie.ar%2Fposts%2F3030664660315757&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">يذكر أنّ آخر تمديد للحجر الصحي أعلن عنه في البلاد يوم 29 مايو/أيار الفائت، إلى غاية السبت 23 يونيو/حزيران الجاري.</span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات إخبارية وحسابات على مواقع التواصل الاجتماعي، بتاريخ 27 يونيو/حزيران 2020، خبراً&nbsp;يدّعي أن الجزائر تتجه نحو تمديد الحجر الصحي وتشديده في عدة محافظات لمواجهة فايروس كورونا المستجدّ.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وذكرت بعض الصفحات أنها نقلت الخبر عن الإذاعة الوطنية الجزائرية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_bc2282nsu.jpg\" style=\"height:452px; width:504px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"2.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_r5kbqkqo6.jpg\" style=\"height:477px; width:453px\" /></span><br />\r\n<br />\r\n<span dir=\"LTR\"><img alt=\"1.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_kt7ijhze9.jpg\" style=\"height:451px; width:502px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 335,
+        "left": 7.10162353515625,
+        "path": "articles/1593274535GettyImages-1218390671.jpg",
+        "top": 63.80712890625,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1593274535GettyImages-1218390671.jpg",
+        "width": 596
+    },
+    "post_date": "2020-06-27T16:46:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/meteoalgerie50/posts/153931272888327",
+            "name": " طقس الجزائر météo Algérie",
+            "path": "published/0_1593274535_94643374_132541705027284_9035594271377326080_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Constantine2015/posts/3067895956627490",
+            "name": "Constantine Today  قسنطينة اليوم",
+            "path": "published/1_1593274535_15590194_1202653699818401_4076764804174932551_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/algeriaa.news.officiel/posts/174182997452693",
+            "name": "الجزائر نيوز Algeria News",
+            "path": "published/2_1593274535_83195538_164706268400366_2607198393105121280_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/131101901083598/permalink/668552817338501/",
+            "name": "Ennahar TV النهار",
+            "path": "published/3_1593274535_unnamed.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/nouvelleseulmanews/posts/1085109815216252",
+            "name": "أخبار العلمة News",
+            "path": "published/4_1593274535_78827369_922691091458126_1196044964828545024_n.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/radioalgerie.ar/photos/a.603792466336334/3030664360315787/?type=3&theater",
+            "name": "الإذاعة الجزائرية",
+            "path": "sources/0_1593274535_80319855_2609460522436175_892971490939502592_n.jpg"
+        },
+        {
+            "link": "http://www.aps.dz/ar/algerie/87626-2020-05-28-18-28-21",
+            "name": "وكالة الأنباء الجزائرية",
+            "path": "sources/1_1593274535_2019-12-1712_52_54.042922-aps1.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=fLpveFia548",
+            "name": "قناة النهار الجزائريّة",
+            "path": "sources/2_1593274535_unnamed.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الجزائر لم تعلن عن تمديد الحجر الصحي في عدة محافظات",
+    "updated_at": "2020-09-25 21:45:56",
+    "url_path": "/factcheck/2020/06/27/الجزائر-لم-تعلن-عن-تمديد-الحجر-الصحي-في-عدة-محافظات"
+}

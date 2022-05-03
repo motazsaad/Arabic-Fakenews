@@ -1,0 +1,102 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 317,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "صممه فنان ومخرج ونشره على منصة تيك توك (correio)",
+    "category": "Technology",
+    "claim": "<p>ظهور كائن غريب يقطع الشارع أمام السيارات ويمر من بين الأشجار.</p>\r\n",
+    "country": "BR",
+    "created_at": "2020-10-12 11:18:08",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5f841140a2fec0190c1f4ce1",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقّق &quot;مسبار&quot; من المقطع ليجد أنه متداول أيضاً في البرازيل منذ الأسبوع الأول من شهر سبتمبر/أيلول الفائت، ونشرته قنوات على&nbsp;موقع يوتيوب على أساس أن الكائن الغريب يتمشى في شوارع مدينة Ilh&eacute;us البرازيلية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;في حين قالت المواقع الإعلامية هناك أنه مزيف، وتم تصميمه بالحاسوب من&nbsp;قبل&nbsp;مخرج متخصص في الخدع السينمائية، وهذا ما يؤكده حسابه&nbsp;على منصة تيك توك باسم Shortestblockbusters،&nbsp;فالمقطع الذي شاهده أكثر من 2 مليون شخص، إضافة إلى مقاطع أخرى للكائن ذاته بدأ الحساب بنشرها منذ منتصف أغسطس/آب الفائت، ليست إلا&nbsp;خدعاً تم تصميمها عبر&nbsp;أدوات رقمية،&nbsp;ويوضح الحساب&nbsp;في التعريف الخاص به أنه مخرج متخصص في صناعة الأفلام القصيرة.</p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_8r56rgywv.jpg\" style=\"height:382px; width:602px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_blt1sqhu4.jpg\" style=\"height:444px; width:553px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت حسابات عربية وأجنبية على مواقع التواصل الاجتماعي، خلال شهري سبتمبر/أيلول الفائت، وأكتوبر/ تشرين الأول الجاري، مقطع فيديو، لما يبدو أنه كائن غريب يقطع الشارع وسط السيارات، ثم يمر عبر حديقة، وصوت لهاث واضح مصاحب للمقطع، وكتبت الحسابات &quot;ظهور مخلوق مرعب على كوكب الأرض لم يسبق له مثيل&quot;.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_x7jcxi19h.jpg\" style=\"height:568px; width:580px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_p4yfx1r56.jpg\" style=\"height:307px; width:602px\" /></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/pA3uJIds9Nw\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 382,
+        "left": -1.93341064453125,
+        "path": "articles/1602490687csm_criatura_monstro_alien_ilheus_teixeira_de_freitas_boatos_whatsapp_4ebb38ca8a.jpg",
+        "top": 0.800048828125,
+        "totalHeight": 423,
+        "totalWidth": 680,
+        "watermark_path": "articles/watermark-1602490687csm_criatura_monstro_alien_ilheus_teixeira_de_freitas_boatos_whatsapp_4ebb38ca8a.jpg",
+        "width": 680
+    },
+    "post_date": "2020-10-12T09:11:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/larabi.souiri/videos/799230024212978",
+            "name": "Elarabi Essaouiri",
+            "path": "published/0_1602490687_قققف.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/a2821955/videos/10158183550437663",
+            "name": " Alaa Ali Nasr",
+            "path": "published/1_1602490687_قققف.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/abiad_nimeiry/status/1310568963907125254",
+            "name": " Nimeiry Abiad",
+            "path": "published/2_1602490687_ق4.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.youtube.com/watch?v=pA3uJIds9Nw",
+            "name": "r p s videos",
+            "path": "published/3_1602490687_unnamed.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.correio24horas.com.br/noticia/nid/boato-sobre-criatura-circulando-em-ruas-no-sul-da-bahia-viraliza-veja-video/",
+            "name": "correio24",
+            "path": "sources/0_1602490687_Screenshot 2020-10-12 100431.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.tiktok.com/@shortestblockbusters",
+            "name": "shortestblockbusters",
+            "path": "sources/1_1602490687_941a26fde50205f51a35dce1d05e04ab_c5_300x300.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذا ليس كائناً غريباً بل خدعة صممها مخرج وفنان",
+    "updated_at": "2020-10-12 14:42:54",
+    "url_path": "/factcheck/2020/10/12/هذا-ليس-كائنا-غريبا-بل-خدعة-صممها-مخرج-وفنان",
+    "was_notification_pushed": true
+}

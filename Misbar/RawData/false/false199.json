@@ -1,0 +1,150 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 675,
+    "author": {
+        "fullname": "مريم هواري",
+        "id": "5e299460d4a22939983a3ec5",
+        "photo": {
+            "path": "authors/1579791192_Maryam.jpg"
+        }
+    },
+    "caption": "لم تنشر التصريحات على أي منصة ذات صدقية (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">وزير الخارجية الفنلندي قال: &quot;ما عدت أفهم شيئاً. عندما نسخر من السود نسمّي ذلك عنصرية، وعندما نسخر من اليهود نسمّي ذلك معاداة للسامية، وعندما نسخر من النساء نسمّي ذلك تحيّزاً جنسياً، وعندما نسخر من المسلمين.. نسمّي ذلك حرية تعبير.&quot;</p>\r\n",
+    "country": "FI",
+    "created_at": "2020-10-26 20:06:35",
+    "created_by": "5f39b6aa1dd585076701cb95",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 35,
+    "id": "5f97021b4740d701c20b8af4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقّق &quot;مسبار&quot; من المنشورات المتداولة ووجد أنّها زائفة. إذ بحث &quot;مسبار&quot; عن&nbsp;التصريحات المتداولة ولم يجدها&nbsp;في المنصّات الإعلامية الخاصة بالحكومة الفنلندية أو المنصّات الإعلامية&nbsp;الموثوقة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">وتجدر الإشارة إلى أنّ بعض الصفحات على مواقع التواصل الاجتماعي&nbsp;نسبت التصريح لوزير الخارجية الفنلندي الأسبق، إركي <span style=\"background-color:white\"><span style=\"color:#202122\">تيوميويا، ونشرتها&nbsp;</span></span>في 2015 و2019، ولم يتسنّ&nbsp;لمسبار التأكد من صحّتها والجزم بحقيقتها.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_51x8l81ss.jpg\" style=\"height:785px; width:559px\" /><img src=\"https://images-prod.misbar.com/articlebody/investigation_nc78xq1la.jpg\" style=\"height:564px; width:559px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": false,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">تتداول صفحات وحسابات على موقعي التواصل الاجتماعي، فيسبوك وتويتر، وتطبيق واتساب،&nbsp;تصريحاً مُرفقاً بصورة وزير الخارجية الفنلندي، بيكا هافيستو، منذ تاريخ 25 أكتوبر/تشرين الأول الجاري، يقول فيه: &quot;لم أعد أفهم أي شيء، عندما نسخر من السود نسمي ذلك عنصرية، وعندما نسخر من اليهود نسمي ذلك معاداة السامية، وعندما نسخر من النساء نسمي ذلك تحيّزاً جنسياً، وعندما نسخر من المسلمين نسمّي ذلك حريّة تعبير&quot;، واعتبر بعض الناشرون أنّ هذه التصريحات جاءت كرد على تصريحات ماكرون حول الإسلام مؤخّراً.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ultyiprf3.jpg\" style=\"height:829px; width:493px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_odkbk8cza.jpg\" style=\"height:710px; width:489px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_8jp9fkvg7.jpg\" style=\"height:762px; width:552px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_l7wm88rvo.jpg\" style=\"height:419px; width:559px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_xi3m18eif.jpg\" style=\"height:612px; width:549px\" /></p>\r\n\r\n<p>&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 353,
+        "left": 5.0126953125,
+        "path": "articles/1603731995GettyImages-1228631727.jpg",
+        "top": 1.607421875,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1603731995GettyImages-1228631727.jpg",
+        "width": 627
+    },
+    "post_date": "2020-10-26T18:48:00.000+03:00",
+    "published": [
+        {
+            "id": "5f97021a9a8b8d53135a9d94",
+            "link": "https://twitter.com/AhlamMostghanmi/status/1320118436454977536",
+            "name": "أحلام مستغانمي",
+            "origin": "twitter",
+            "path": "sources/d09a2335b3dbc497a43c96512c6d2f57abcc4b51.jpg"
+        },
+        {
+            "id": "5f97021ad9f20d42ef045144",
+            "link": "https://twitter.com/salahalhashem/status/1320402598579609600",
+            "name": "salah alhashem  صلاح الهاشم. مواطن",
+            "origin": "twitter",
+            "path": "sources/9a2213d081b5ef4994a1ebee9282323c7436ff71.jpg"
+        },
+        {
+            "id": "5f97021acd641f443736a2b4",
+            "link": "https://www.facebook.com/ahmed.alzawiti/posts/10158289627551028",
+            "name": "Ahmed Alzawiti",
+            "origin": "",
+            "path": "sources/b9931da924bb92be4604649eb625de4c4a461b6b.jpg"
+        },
+        {
+            "id": "5f97021aa4c27255153716d4",
+            "link": "https://www.facebook.com/Amerstaifi.finland/posts/155628242900857",
+            "name": "الغربة وحنين الوطن Dz",
+            "origin": "facebook",
+            "path": "sources/b9931da924bb92be4604649eb625de4c4a461b6b.jpg"
+        },
+        {
+            "id": "5f97021aa38eab2eb73d4594",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=193949665641849&id=107849630918520",
+            "name": "فصاحة العرب",
+            "origin": "facebook",
+            "path": "sources/d41b5641225c2c719800eee56d3ea73d439ca1c7.jpg"
+        },
+        {
+            "id": "5f97021aadb9d9069517c8fe",
+            "link": "https://www.facebook.com/elhamma.mezyana/posts/2910161015923779",
+            "name": "الحامة المزيانة",
+            "origin": "facebook",
+            "path": "sources/b9931da924bb92be4604649eb625de4c4a461b6b.jpg"
+        },
+        {
+            "id": "5f97021a1b02307a6052eff4",
+            "link": "https://www.facebook.com/way2allah/posts/10158515377871226",
+            "name": "من كان آخر كلامه لا إله إلا الله دخل الجنة",
+            "origin": "facebook",
+            "path": "sources/b9931da924bb92be4604649eb625de4c4a461b6b.jpg"
+        },
+        {
+            "id": "5f97021b27587e4655204414",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=388387382293726&id=100033674020965",
+            "name": "عبد الرزاق السرحي",
+            "origin": "facebook",
+            "path": "sources/d41b5641225c2c719800eee56d3ea73d439ca1c7.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f97021b64dbce4a2d412990",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=799384216801857&id=132163086857310",
+            "name": "UAM 93",
+            "origin": "facebook",
+            "path": "sources/d41b5641225c2c719800eee56d3ea73d439ca1c7.jpg"
+        },
+        {
+            "id": "5f97021b585f54539179cc74",
+            "link": "https://www.facebook.com/story.php?story_fbid=2320403168048635&id=1900442920044664",
+            "name": "Islam-port.com-2",
+            "origin": "facebook",
+            "path": "sources/d41b5641225c2c719800eee56d3ea73d439ca1c7.jpg"
+        },
+        {
+            "id": "5f970cb421d02d6c0102f464",
+            "link": "https://twitter.com/Haavisto",
+            "name": "Pekka Haavisto",
+            "origin": "twitter",
+            "path": "sources/8afe021fd52baa7ec61a225949d91080998fc347.jpg"
+        },
+        {
+            "id": "5f970cb432290c66e6310984",
+            "link": "https://um.fi/frontpage",
+            "name": "Ministry of Foreign Affairs in Finland",
+            "origin": "",
+            "path": "sources/e9517b1d4e9e4f8bc0c3ea9b77d50970d2520abf.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "التصريحات حول الإسلام ليست لوزير الخارجية الفنلندي الحالي",
+    "updated_at": "2020-10-27 15:34:34",
+    "url_path": "/factcheck/2020/10/26/التصريحات-حول-الإسلام-ليست-لوزير-الخارجية-الفنلندي-الحالي",
+    "was_notification_pushed": true
+}

@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 642,
+    "author": {
+        "fullname": "هيثم جودية",
+        "id": "5e295291d4a2296ff0065605",
+        "photo": {
+            "name": "1579766417_هيثم .JPG",
+            "path": "authors/1579766417_هيثم .JPG"
+        }
+    },
+    "caption": "الصورة من حرائق غابات أستراليا العام الفائت ولا علاقة لها بسورية (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">صورة لقطيع من الأغنام التي نفقت بسبب الحرائق المندلعة في بعض مناطق سورية.</p>\r\n",
+    "country": "SY",
+    "created_at": "2020-09-09 15:41:15",
+    "created_by": "5f39b5451dd585078b5d94f3",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f58cd6b1537034e57559d04",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقق &quot;مسبار&quot; من الصورة المتداولة ووجد أنها مضللة، فهي ليست من سورية، إنّما التُقطت في أيلول/سبتمبر عام 2019، لحيوانات نفقت جرّاء حرائق الغابات التي اندلعت في أستراليا واستمرّت لعدّة أشهر.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_qgotyvoww.jpg\" style=\"height:601px; width:554px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">تداولت صفحات وحسابات على موقع التواصل الاجتماعي فيسبوك، صورة قطيع من الأغنام كان قد نفق بسبب الحرائق التي اندلعت في سورية في الآونة الأخيرة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_oydum9f32.jpg\" style=\"height:461px; width:515px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_kx81n6d6p.jpg\" style=\"height:456px; width:559px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 420,
+        "left": 43.433349609375,
+        "path": "articles/1599655274ovejas-muertas.jpg",
+        "top": 2.300048828125,
+        "totalHeight": 423,
+        "totalWidth": 819,
+        "watermark_path": "articles/watermark-1599655274ovejas-muertas.jpg",
+        "width": 746
+    },
+    "post_date": "2020-09-09T15:26:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/profile.php?id=100009975068594&fref=gs&__tn__=%2Cdm-R-R&eid=ARDDesndCpUlK6WrXpYCwUD2DuYW6kqDDZlO3a51q-0FMA4UZi42W1w39hrePLZqegQ1C-1bfYXY7Zuf&dti=275839293076871&hc_location=group",
+            "name": "Gani Bushra",
+            "path": "published/0_1599655274_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/nnnaaa12345/posts/338190290952650",
+            "name": "حكايات من ريف مصياف البديلة",
+            "path": "published/1_1599655274_حكايات من ريف مصياف البديل.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=177413977227920&id=101982381437747",
+            "name": "كورونا سورية",
+            "path": "published/2_1599655274_كورونا سورية.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=124464612714546&id=103446198149721",
+            "name": "أخبار دير الزور",
+            "path": "published/3_1599655274_أخبار دير الزور.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/groups/1004077669794197/permalink/1418433541691939/",
+            "name": "Saz Kirkuky",
+            "path": "published/4_1599655274_facebook.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://losagronegocios.com.uy/en/ganaderia/terribles-testimonios-de-ganaderos-en-australia-los-animales-explotan/",
+            "name": "Losagronegocios ",
+            "path": "sources/0_1599655274_ن.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الأغنام لم تنفق بسبب الحرائق في سورية",
+    "updated_at": "2020-09-25 11:36:19",
+    "url_path": "/factcheck/2020/09/09/هذه-الأغنام-لم-تنفق-بسبب-الحرائق-في-سورية",
+    "was_notification_pushed": "true"
+}

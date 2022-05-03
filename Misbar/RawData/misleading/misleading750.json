@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 489,
+    "author": {
+        "fullname": "صباح الخطيب",
+        "id": "5edc1b38db291674e776e9a3",
+        "photo": {
+            "path": "authors/1591643228_7.jpg"
+        }
+    },
+    "caption": "مقطع الفيديو موجود على موقع يوتيوب منذ عام 2018 (Getty)",
+    "category": "News",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\"><span style=\"background-color:white\"><span style=\"color:#1c1e21\">أبراج الكويت تتزين بالعلم الفلسطيني لتأكيد موقف الكويت الرافض لفكرة التطبيع مع الكيان الصهيوني، واتفاق الإمارات مع دولة الاحتلال.</span></span></span></p>\r\n",
+    "country": "KW",
+    "created_at": "2020-08-19 06:18:43",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f3c9a13602118071240af93",
+    "investigation": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\"><span style=\"color:black\">تحقّق &quot; مسبار&quot; من مقطع الفيديو، ليجد أنه قديم، إذ تم نشره بواسطة قناة فرقه بلادي دبكه فلسطينية على موقع يوتيوب، بتاريخ 28 يناير/كانون الثاني من العام 2018.</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"صورة_x0020_13\" src=\"https://images-prod.misbar.com/articlebody/investigation_rsxcj0wwk.jpg\" style=\"height:483pt; width:468pt\" /> </span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/bqFugsjgi0Q\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\"><span style=\"color:black\">تتداول حسابات على مواقع التواصل الاجتماعي منذ 16 أغسطس/آب، مقطع فيديو يظهر أبراج الكويت الثلاثة، مضاءةً بالعلم الفلسطيني،&nbsp; وعلق بعضها أن الحدث جاء رداً على اتفاق التطبيع بين الإمارات ودولة الاحتلال.</span></span></p>\r\n\r\n<p style=\"text-align:center\"><strong><span style=\"color:#f73832\"><img id=\"Image_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/origin_fz5k0dggl.jpg\" style=\"height:501pt; width:446.25pt\" /> </span></strong></p>\r\n\r\n<p style=\"text-align:center\"><img id=\"صورة_x0020_9\" src=\"https://images-prod.misbar.com/articlebody/origin_osviivgxg.jpg\" style=\"height:519.75pt; width:399.75pt\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 406,
+        "left": 32.199951171875,
+        "path": "articles/1597807123اااقق.JPG",
+        "top": 12.5,
+        "totalHeight": 423,
+        "totalWidth": 761,
+        "watermark_path": "articles/watermark-1597807123اااقق.JPG",
+        "width": 723
+    },
+    "post_date": "2020-08-19T04:57:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/sammy52716440/status/1295064686694739968",
+            "name": "أمير حسان",
+            "path": "published/0_1597807572_6_1596888660_twitter.jpg"
+        },
+        {
+            "link": "https://twitter.com/loveyemen1990/status/1295113702258204674",
+            "name": "يمني قومي عربي وحدوي",
+            "path": "published/1_1597807572_6_1596888660_twitter.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=1435497546660768&extid=8AcKNakLJR81GETJ",
+            "name": "الحج مش هيك",
+            "path": "published/2_1597807122_0_1596888660_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Kuwaiti.friendship/videos/vb.100010547047564/1208573289504228/?type=2&video_source=user_video_tab",
+            "name": "صحبة كويتية",
+            "path": "published/3_1597807123_0_1596888660_facebook.jpg"
+        },
+        {
+            "link": "https://twitter.com/KUWTIYA/status/1295408440060325891",
+            "name": "كويتية أصيلة",
+            "path": "published/4_1597807123_6_1596888660_twitter.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=bqFugsjgi0Q",
+            "name": "فرقة بلادي دبكة فلسطينية",
+            "path": "sources/0_1597807123_88885.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذا الفيديو لأبراج الكويت مضاءة بالعلم الفلسطيني، لكنه قديم",
+    "updated_at": "2020-09-25 15:46:44",
+    "url_path": "/factcheck/2020/08/19/هذا-الفيديو-لأبراج-الكويت-مضاءة-بالعلم-الفلسطيني-لكنه-قديم"
+}

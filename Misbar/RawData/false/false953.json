@@ -1,0 +1,84 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1024,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">صورة لوزيرة السياحة الإسرائيلية</p>\r\n",
+    "country": "GE",
+    "created_at": "2020-02-09 11:12:58",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e3fbf0ad4a2294f54621e23",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">الصورة ليست لوزيرة السياحة الإسرائيلية، وليست لوزيرة الشباب والرياضة التركية، بل تعود للبرلمانية الجورجية <span dir=\"LTR\">ENDZELA MACHAVARIANI</span>، وقد التقطت هذه الصورة أثناء إحدى الفعاليات المتعلقة بمنظمة تحمل اسم أوقفوا الفساد.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">أما الأقدام في الصورة فهي مفبركة، وجرى تكبير حجمها باستخدام برامج تعديل الصور &quot;مرفق الصورة الأصلية&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_1ycmb3q75.jpg\" style=\"height:594px; width:536px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">وعن وزير السياحة الإسرائيلي الحالي، فهو ياريف ليفين جدعون من حزب الليكود ويشغل المنصب عام 2015، فيما يشغل محمد قصَّاب أوغلو منصب وزير الشباب والرياضة في تركيا.</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">نشرت بعض الصفحات على موقع التواصل الاجتماعي فيسبوك، صورة ادعت أنها لوزيرة السياحة الإسرائيلية، فيما ذكرت إحداها أنَّ الصورة تعود لوزيرة الشباب والرياضة التركية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_d4yo30zfx.jpg\" style=\"height:418px; width:624px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 252,
+        "left": 3.0086517333984375,
+        "path": "articles/1581235978هذه الصورة ليست لوزيرة السياحة الإسرائيلية.jpg",
+        "top": 49.254913330078125,
+        "totalHeight": 423,
+        "totalWidth": 454,
+        "width": 449
+    },
+    "post_date": "2020-02-09T10:59:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/Tunisiian.And.Wonders/posts/2147208848836258/",
+            "name": "التونسي وعجائبه",
+            "path": "published/0_1581235977_التونسي-وعجائبه.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/147367935940274/photos/a.147368982606836/437136526963412/?type=3&theater",
+            "name": "فشة خلق طرطوسية",
+            "path": "published/1_1581235977_فشة-خلق.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://tr.agency/news-62038",
+            "name": "وكالة أنباء تركيا",
+            "path": "sources/0_1581235977_وكالة-أنباء-تركيا.JPG"
+        },
+        {
+            "link": "https://www.chemiparlamenti.ge/en/parliamentarian/endzela-machavariani?fbclid=IwAR1kbT7f6LQuEKgFtm1zoTKbXVecR9KSzpuKoW2thbz0AXGjTAlKJ90lWNo",
+            "name": "chemiparlamenti.ge",
+            "path": "sources/1_1581235977_البرلمان-الجورجي.JPG"
+        },
+        {
+            "link": "https://img.forum.ge/attach/post-29-1526038540.jpg?fbclid=IwAR3wg_Iry8-UySG8gSIxn28OPOY0LB3FyfCwEeq2thIooPgY0ykD9KGyaMY",
+            "name": "الصورة الأصلية",
+            "path": "sources/2_1581235977_top-ge.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصورة ليست لوزيرة السياحة الإسرائيلية",
+    "updated_at": "2020-09-25 12:15:26",
+    "url_path": "/factcheck/2020/02/09/هذه-الصورة-ليست-لوزيرة-السياحة-الإسرائيلية"
+}

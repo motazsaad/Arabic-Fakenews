@@ -1,0 +1,141 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 169,
+    "author": {
+        "fullname": "سامي جروان",
+        "id": "5fd0dde72e95c56328185706",
+        "photo": {
+            "name": "1607523815_FB_IMG_1607178165070.jpg",
+            "path": "authors/1607523815_FB_IMG_1607178165070.jpg"
+        }
+    },
+    "caption": "الهدف هو حماية أجسام الركاب (Getty)",
+    "category": "Travel",
+    "claim": "<p>عندما تقلع الطائرة و تبدأ المضيفة في شرح قواعد السلامة، تطلب من الركاب حال حدوث مطبات هوائيه قوية بالانخفاض ووضع الرأس بين الركبتين للحفاظ على الأسنان ليتمكن الطبيب الشرعي من التعرف على الجثة بعد سقوط الطائرة واحتراق المسافرين.</p>\r\n",
+    "country": "",
+    "created_at": "2021-01-04 20:28:33",
+    "created_by": "5fd2853a330dc22c4d6ef42c",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5ff350417a4542160e392dac",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:right\">تحقق &quot;<a href=\"https://misbar.com/\" style=\"text-decoration:none\" target=\"_blank\"><u>مسبار</u></a>&quot; من الخبر المتداول ووجد أنه&nbsp;زائف وتداولته بعض الحسابات بطريقة ساخرة، إذ أنَّ الهدف الرئيسي لوضع الرأس بين الركبتين&nbsp;إن تعرضت الطائرة لأيّ&nbsp;طارئ هو حماية أجسام الركاب كاملةً وليس الحفاظ على الأسنان للتعرف على هويات الركاب لاحقاً كما يدعي ناشرو الخبر.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:right\">وبحسب <a href=\"https://www.aljazeera.net/encyclopedia/encyclopedia-healthmedicine/2014/3/13/%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D9%88%D8%A7%D8%B1%D8%A6-%D9%84%D9%84%D9%85%D8%B3%D8%A7%D9%81%D8%B1%D9%8A%D9%86-%D8%B9%D9%86%D8%AF-%D8%AA%D8%AD%D8%B7%25\" style=\"text-decoration:none\" target=\"_blank\"><u>إجراءات الطوارئ للمسافرين</u></a>، فإنَّ التعليمات تفيد بأنَّ على الركاب في حالة حدوث طارئ&nbsp;تحضير أنفسهم للاصطدام بأخذ وضعية تحمي الجسم، وذلك إما باتكاء اليدين على ظهر الكرسي الأمامي وثني الجسم إلى الأمام، أو بضم البطن إلى الأرجل ووضع الوجه إلى لأسفل.</p>\r\n\r\n<p><img alt=\"10.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_yaw5sh521.jpg\" style=\"height:571px; width:602px\" /></p>\r\n\r\n<p><img alt=\"C:\\Users\\admin\\Desktop\\Misbar\\اجراءات السلامة\\11.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_iwotmwg9p.jpg\" style=\"height:330px; width:607px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": false,
+    "is_notification_pushed": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "'سقوط",
+        "الطائرة",
+        "سبب",
+        "ايدي",
+        "أرجل"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p>تتداول حسابات على مواقع التواصل الاجتماعي منذ 13 ديسمبر/كانون الأول الفائت، خبراً يفيد بأنَّ مضيفات الطيران يطلبن من المسافرين، خلال تقديم إرشادات السلامة، وضع رؤوسهم بين ركبتيهم في حال تعرضت الطائرة إلى مطبات هوائية. وبحسب ناشري الادعاء الذين افترضوا أنَّ الركاب سيحترقون حال سقوط الطائرة، فإنَّ المضيفة تطلب ذلك الإجراء للحفاظ على أسنان الركاب سليمةً؛ ليتمكن الطب الشرعي من تحديد هوية الجثث لاحقاً.</p>\r\n\r\n<p><span style=\"color:#000000\"><img alt=\"2.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_8dt2gxupl.jpg\" style=\"height:875px; width:590px\" /></span></p>\r\n\r\n<p><span style=\"color:#000000\"><img alt=\"1.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_81cldrkab.jpg\" style=\"height:745px; width:568px\" /></span></p>\r\n\r\n<p><span style=\"color:#000000\"><img alt=\"9.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_a5r6qq838.jpg\" style=\"height:624px; width:516px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 316,
+        "left": 27.65789794921875,
+        "path": "articles/16097813131609779577GettyImages-1174874432.jpg",
+        "top": 68.5341796875,
+        "totalHeight": 318,
+        "totalWidth": 565,
+        "watermark_path": "articles/watermark-16097813131609779577GettyImages-1174874432.jpg",
+        "width": 561
+    },
+    "post_date": "2021-01-05T10:21:00.000+03:00",
+    "published": [
+        {
+            "id": "5ff35041cac486673e16ad0f",
+            "link": "https://web.facebook.com/275286075934619/posts/2211808335615707/?_rdc=1&_rdr",
+            "name": "Mix",
+            "origin": "facebook",
+            "path": "sources/5c81cfc98e881ad50865b296dc844c95ac3885b2.jpg"
+        },
+        {
+            "id": "5ff34486ae4569412b0121e0",
+            "link": "https://web.facebook.com/groups/1313020889063095/permalink/1319127095119141/",
+            "name": "Effect - أثر",
+            "origin": "facebook",
+            "path": "sources/5bfe4505f0d897cf8eadb4d078ea86f5bd10e8d5.jpg"
+        },
+        {
+            "id": "5ff3448657cc33679106a5e0",
+            "link": "https://web.facebook.com/Afaqteam/posts/3380680325375620",
+            "name": "Afaqteam",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5ff34487714d1c14ef73761b",
+            "link": "https://twitter.com/MohmdAlex74/status/1339301046938693633",
+            "name": "Mohmd Abo Taleb&reg;️🇪🇬",
+            "origin": "twitter",
+            "path": "sources/a203bb250faee7b8408b41e643a7276984aa1533.jpg"
+        },
+        {
+            "id": "5ff34486aa28651e7b128f6a",
+            "link": "https://www.facebook.com/hereyouare0/posts/2276442925813074",
+            "name": "Hereyouare0",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f8eb18c79e4d847985d0c07",
+            "link": "https://www.aljazeera.net/encyclopedia/encyclopedia-healthmedicine/2014/3/13/%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B7%D9%88%D8%A7%D8%B1%D8%A6-%D9%84%D9%84%D9%85%D8%B3%D8%A7%D9%81%D8%B1%D9%8A%D9%86-%D8%B9%D9%86%D8%AF-%D8%AA%D8%AD%D8%B7%D9%85#:~:text=%D8%A5%D8%B0%D8%A7%20%D9%83%D8%A7%D9%86%20%D9%87%D9%86%D8%A7%D9%83%20%D9%86%D8%A7%D8%B1%20%D8%A3%D9%88,%D9%84%D8%A7%20%D8%AA%D8%B1%D8%AC%D8%B9%20%D8%A5%D9%84%D9%89%20%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9%20%D8%AA%D8%AD%D8%AA%D8%B1%D9%82",
+            "name": "الجزيرة نت",
+            "origin": "",
+            "path": "sources/0_1603096521_Screenshot 2020-10-19 101519.jpg"
+        },
+        {
+            "id": "5f93da59c0bb4c124f4028b6",
+            "link": "https://www.telegraph.co.uk/travel/news/Does-the-brace-position-save-lives/",
+            "name": "The Telegraph",
+            "origin": "",
+            "path": "sources/416b111aca9c717971d9cd789ad0e3caf8f702b8.jpg"
+        },
+        {
+            "id": "5ff41540c026c756ed4a0e68",
+            "link": "https://www.smartertravel.com/how-to-survive-a-plane-crash/",
+            "name": "SmarterTravel",
+            "origin": "",
+            "path": "sources/414148e716be7005e9a2c16d55fdccdcaded7692.jpg"
+        },
+        {
+            "id": "5f91bb38a28d94581a2e3465",
+            "link": "https://www.thesun.co.uk/travel/5991015/brace-position-plane-crash-lock-fingers/#:~:text=THE%20brace%20position%20is%20one,until%20it%20reaches%20the%20ground.&text=Passengers%20are%20supposed%20to%20put,the%20back%20of%20the%20skull.",
+            "name": "THE SUN",
+            "origin": "",
+            "path": "published/11_1590067399_the sun.JPG"
+        },
+        {
+            "id": "5f91b84585c9fb2f0d4b500a",
+            "link": "https://www.bbc.com/news/av/uk-england-leicestershire-25527538",
+            "name": "BBC ",
+            "origin": "",
+            "path": "sources/1_1589372500_BBC NEWS-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "وضع الحماية في حال سقوط الطائرة ليس لحفظ الأسنان فقط",
+    "updated_at": "2021-01-05 10:31:24",
+    "url_path": "/factcheck/2021/01/04/وضع-الحماية-في-حال-سقوط-الطائرة-ليس-لحفظ-الأسنان-فقط-5ff35040d124a",
+    "was_notification_pushed": false
+}

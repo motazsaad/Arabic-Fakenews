@@ -1,0 +1,97 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1876,
+    "author": {
+        "fullname": "مريم هواري",
+        "id": "5e299460d4a22939983a3ec5",
+        "photo": {
+            "path": "authors/1579791192_Maryam.jpg"
+        }
+    },
+    "caption": "مركز الأبحاث غير رسمي ومشكوك به (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">&quot;إسرائيل&quot; حصلت على المرتبة الأولى في ترتيب أكثر الدول أماناً من ناحية صحية في التعامل مع فايروس كورونا.</p>\r\n",
+    "country": "",
+    "created_at": "2020-04-15 20:27:17",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e9743f5db291678d6523944",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الخبر مشكوك فيه، إذ نشر الموقع الإسرائيلي الإخباري واينت بتاريخ 13 أبريل/نيسان الجاري تصريحاً لأحد الباحثين الإسرائيليين والذي أشار إلى أن مصدر المعلومات ومركز الأبحاث مشكوك به، إذ أنه غير رسمي مثل معهد أكاديمي أو مركز أبحاث معروف عالمياً إنما عبارةً عن صندوق استثماري صغير يحتوي على عشرة موظّفين.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وممّا يزيد الشك حول نتائج التقرير المتداول هي معطيات مركز الأبحاث الإسرائيلي للسياسات الاجتماعية &quot;تاوب&quot; في تقريرٍ نشره عام 2019، عرض من خلاله حالة جهاز الصحة الإسرائيلي مقارنةً بعدّة دول مشابهة بحسب معايير منظمة التعاون الاقتصادي والتنمية (OECD). فبحسب التقرير&nbsp;عدد الأسرة في المشافي والإنفاق الحكومي على جهاز الصحّة منخفضين ومستوى اكتظاظ وأوقات انتظار مرتفعين، نسبةً لمعدّل الOECD.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_e5ybo8te8.jpg\" style=\"height:442px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_lj0yjhlyy.jpg\" style=\"height:273px; width:623px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_ezhrwtb1n.jpg\" style=\"height:240px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_6x9gi8hon.jpg\" style=\"height:772px; width:624px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت بعض المواقع وصفحات على مواقع التواصل الاجتماعي إحصائيةً نشرها مركز الأبحاث Deep Knowledge Group، والتي نشرت ترتيباً عن أكثر الدول أماناً من ناحية صحية واقتصادية في التعامل مع فايروس كورونا. واحتلّت &quot;إسرائيل&quot; المرتبة الأولى بحسب هذا الترتيب.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_m0qnodmbv.jpg\" style=\"height:424px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_to03nd9rf.jpg\" style=\"height:864px; width:482px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_mnqusamqx.jpg\" style=\"height:703px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_p2wk5hcb6.jpg\" style=\"height:379px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_zt22fr8l6.jpg\" style=\"height:841px; width:563px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_p6lses47g.jpg\" style=\"height:732px; width:593px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1587024770GettyImages-1207653288.jpg",
+        "watermark_path": "articles/watermark-1587024770GettyImages-1207653288.jpg"
+    },
+    "post_date": "2020-04-16T11:13:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.dkv.global/covid-19-health-safety",
+            "name": "DEEP KNOWLEDGE GROUP",
+            "path": "published/0_1586971635_deep knowledge group.jpg"
+        },
+        {
+            "link": "https://twitter.com/netanyahu/status/1249347792801234946 ",
+            "name": "Benjamin Netanyahu",
+            "path": "published/1_1586971635_BENJAMIN NETANYAHU.jpg"
+        },
+        {
+            "link": "https://www.dw.com/ar/%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-%D8%A7%D9%84%D8%A3%D9%83%D8%AB%D8%B1-%D8%A3%D9%85%D9%86%D8%A7%D9%8B-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D9%88%D8%AA%D9%84%D9%8A%D9%87%D8%A7-%D8%A3%D9%84%D9%85%D8%A7%D9%86%D9%8A%D8%A7/a-53129548",
+            "name": "DW",
+            "path": "published/2_1586971635_DW-logo.jpg"
+        },
+        {
+            "link": "https://www.israelhayom.co.il/article/747443",
+            "name": " Israel Hayom",
+            "path": "published/3_1586971635_Israel hayom hebrew.jpg"
+        },
+        {
+            "link": "https://twitter.com/naoufer/status/1250377311767212032",
+            "name": "Naoufer",
+            "path": "published/4_1586971896_naoufur.jpg"
+        }
+    ],
+    "result": "unclear",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.ynet.co.il/articles/0,7340,L-5713366,00.html",
+            "name": "Ynet",
+            "path": "sources/0_1586971635_Ynet logo.jpg"
+        },
+        {
+            "link": "https://www.maariv.co.il/news/health/Article-702222",
+            "name": "Maariv Online",
+            "path": "sources/1_1587024769_Maariv Icon.jpg"
+        },
+        {
+            "link": "http://taubcenter.org.il/he/pon-2019-heb/?gotopage=67",
+            "name": "Taub Center",
+            "path": "sources/2_1587024770_taub center.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "\"إسرائيل\" الأكثر أماناً في التعامل مع فايروس كورونا.. حقيقة الخبر",
+    "updated_at": "2020-09-25 11:26:04",
+    "url_path": "/factcheck/2020/04/15/إسرائيل-الأكثر-أمانا-في-التعامل-مع-فايروس-كورونا-حقيقة-الخبر"
+}

@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2219,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الفيديو منشور على يوتيوب منذ عام 2015 (Getty)",
+    "category": "Politics",
+    "claim": "<p><span dir=\"RTL\" lang=\"AR-QA\">فيديو يصوّر قصفاً مدفعياً خلال المعارك الحالية في جنوب اليمن.&nbsp;</span></p>\r\n",
+    "country": "YE",
+    "created_at": "2020-05-18 15:24:48",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ec27e90db291635064a5945",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الفيديو مضلل، إذ بعد التحقق وجد &quot;مسبار&quot; المقطع الأصلي منشوراً على &quot;يوتيوب&quot; منذ عام 2015، وهو ليس من اليمن إنّما من العراق. ويصوّر راجمة صواريخ تابعة لقوات البشمركة العراقية وهي تقصف مواقع لتنظيم داعش كما جاء في التعليق المرافق للفيديو الأصلي، ولم يتمكن &quot;مسبار&quot; من التأكد من صحة هذه المعلومات، إلّا أنه بكل تأكيد ليس من اليمن.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/jwir2dhfEXE\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت حسابات على موقعي التواصل الاجتماعي فيسبوك وتويتر مقطع فيديو، ادّعت أنّه يُظهر قصفاً مدفعياً في منطقة شقرة في محافظة أبين جنوب اليمن. وجاء في التعليق المرافق للفيديو المتداول &quot;معركة اجتثاث الإرهاب لحظة الرد على الجماعات الإرهابية في شقرة&quot;.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"313\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnaser.alesayi%2Fvideos%2F2862795247108422%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"313\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fmaqdah%2Fvideos%2F2976583799100910%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"rtl\" style=\"text-align:center\"><a href=\"https://twitter.com/hashtag/%D9%85%D8%B9%D8%B1%D9%83%D9%87_%D8%A7%D8%AC%D8%AA%D8%AB%D8%A7%D8%AB_%D8%A7%D9%84%D8%A7%D8%B1%D9%87%D8%A7%D8%A8?src=hash&amp;ref_src=twsrc%5Etfw\">#معركه_اجتثاث_الارهاب</a> لحظة الرد على قذائف الجماعات الإرهابية في <a href=\"https://twitter.com/hashtag/%D8%B4%D9%82%D8%B1%D9%87?src=hash&amp;ref_src=twsrc%5Etfw\">#شقره</a> <a href=\"https://t.co/8U0oWsSRGL\">pic.twitter.com/8U0oWsSRGL</a></p>\r\n&mdash; جمال بن عطّاف (@Ben_ataf) <a href=\"https://twitter.com/Ben_ataf/status/1259745359011643392?ref_src=twsrc%5Etfw\">May 11, 2020</a></blockquote>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 390,
+        "left": 1.90264892578125,
+        "path": "articles/1589804687GettyImages-1213060251.jpg",
+        "top": 22.307861328125,
+        "totalHeight": 423,
+        "totalWidth": 698,
+        "watermark_path": "articles/watermark-1589804687GettyImages-1213060251.jpg",
+        "width": 693
+    },
+    "post_date": "2020-05-18T15:17:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/naser.alesayi/videos/2862795247108422/",
+            "name": "نصر محمد العيسائي",
+            "path": "published/0_1589804686_نصر محمد العيسائي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/maqdah/videos/2976583799100910/",
+            "name": "أبو مراد مقدح",
+            "path": "published/1_1589804686_أبو مراد مقدح.jpg"
+        },
+        {
+            "link": "https://twitter.com/Ben_ataf/status/1259745359011643392?fbclid=IwAR16omJ4IhO5C9Px067b5XDB47J2uN-lgxFPpPr4zmoXJKevtoNGf6wuRmQ",
+            "name": "جمال بن عطّاف",
+            "path": "published/2_1589804686_جمال بن عطاف.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100004096987129/videos/2262245503921994/",
+            "name": "محمد عسكر اليافعي",
+            "path": "published/3_1589804687_محمد عسكر اليافعي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2824066221022337&id=100002569593712&hc_location=ufi",
+            "name": "المحمدي أبو محمد السعدي",
+            "path": "published/4_1589804687_المحمدي أبو محمد السعدي.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=jwir2dhfEXE&feature=youtu.be&fbclid=IwAR2R9fLfl9HQelsl5J0mNKFcc6s8YjJyPki_eltNm1h7cv7k_RSoWDElA98",
+            "name": "المقطع الأصلي",
+            "path": "sources/0_1589804687_YouTube-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "فيديو القصف المدفعي.. هل حقاً من اليمن؟",
+    "updated_at": "2020-09-25 12:41:03",
+    "url_path": "/factcheck/2020/05/18/فيديو-القصف-المدفعي-هل-حقا-من-اليمن"
+}

@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 392,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "نفت حركة الشعب التصريح (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">تصريح الأمين العام لحركة الشعب في تونس، زهير المغزاوي، بأن صلاة الجمعة في آيا صوفيا هو يوم أسود في حياته.</p>\r\n",
+    "country": "TN",
+    "created_at": "2020-07-29 16:44:50",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f217d52163be30717305893",
+    "investigation": "<p dir=\"rtl\">الادعاء زائف، إذ لم يصرح زهير المغزاوي بالحزن والألم بعد تحويل آيا صوفيا إلى مسجد، كما نفت حركة الشعب عبر حسابها الرسمي على فيسبوك التصريح المنسوب لأمينها العام وقالت إنه &quot;لم ينطق يوما بموقف حول الكاتدرائية (الكنيسة)، المتحف، المسجد الجامع &quot;آيا صوفيا&quot; التركي&quot;.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"490\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FEchaab.Tunisie%2Fposts%2F3254356901274323&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe>&nbsp;</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات وحسابات تونسية على مواقع التواصل الاجتماعي، مؤخراً، تصريحاً منسوباً للأمين العام لحركة الشعب، زهير المغزاوي، يقول فيه إن &quot;صلاة الجمعة في آيا صوفيا يوم أسود في حياتي&quot;.</p>\r\n\r\n<p><span style=\"color:black\"><img id=\"Image_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/origin_5df3ashkz.jpg\" style=\"height:276.6pt; width:280.8pt\" /> </span><br />\r\n<span style=\"color:black\"><img id=\"Image_x0020_2\" src=\"https://images-prod.misbar.com/articlebody/origin_j2pehtq4a.jpg\" style=\"height:254.4pt; width:280.8pt\" /> </span><br />\r\n&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1596030289111202585_325666075472849_2624078220988340371_n.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1596030289111202585_325666075472849_2624078220988340371_n.jpg",
+        "width": 752
+    },
+    "post_date": "2020-07-29T16:41:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/nhibbik.yatounisnews/photos/a.115484179824374/325666072139516/?type=3&theater",
+            "name": "نحبك يا تونس الإخبارية",
+            "path": "published/0_1596030289_4.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/345891125434386/posts/3213712308652239/",
+            "name": "Chalbou9",
+            "path": "published/1_1596030644_processed.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/aljazera.msaken/photos/a.1991312300970666/2855621571206397/?type=3&theater",
+            "name": "الجزيرة مساكن",
+            "path": "published/2_1596030532_2.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/JwHsymr/photos/a.861101293987798/3113816418716263/?type=3&theater",
+            "name": "جو حسي عمر",
+            "path": "published/3_1596030532_3.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/278184479758710/photos/a.278185366425288/600321644211657/?type=3&theater",
+            "name": "حركة شباب تونس بجنيف سويسرا",
+            "path": "published/4_1596030532_3.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=3633165133366838&set=a.101972519819468&type=3&theater",
+            "name": "Kais Bin Naji Chakchouk",
+            "path": "published/5_1596030532_processed.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/Echaab.Tunisie/posts/3254356901274323",
+            "name": "حركة الشعب",
+            "path": "sources/0_1596030289_5.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لم يصرح زهير المغزاوي أن صلاة الجمعة في آيا صوفيا يوم أسود في حياته",
+    "updated_at": "2020-09-25 10:39:41",
+    "url_path": "/factcheck/2020/07/29/لم-يصرح-زهير-المغزاوي-أن-صلاة-الجمعة-في-آيا-صوفيا-يوم-أسود-في-حياته"
+}

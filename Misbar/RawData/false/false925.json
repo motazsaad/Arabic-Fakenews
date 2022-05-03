@@ -1,0 +1,117 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1223,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "معبر حدودي بين العراق وإيران (Getty Images)",
+    "category": "Health",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">وزارة الصحة العراقية تطالب بإغلاق الحدود مع إيران خوفاً من انتشار فايروس كورونا.</p>\r\n",
+    "country": "IQ",
+    "created_at": "2020-02-20 14:18:09",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e4e6af1d4a22971ec282ad3",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الخبر غير صحيح، إذ لم يعثر &quot;مسبار&quot; عليه منشوراً في أي وسيلة إعلام عراقية رسمية بما فيها موقع وزارة الصحة العراقية. ونقلت وكالة الأنباء العراقية (واع) على موقعها الإلكتروني اليوم 20 فبراير/ شباط، عن مدير المنافذ الحدودية عمر الوائلي قوله: <span style=\"background-color:white\"><span style=\"color:black\">&quot;إدارة المنافذ وجهت جميع المراكز الصحية العاملة في المنافذ مع إيران بضرورة تفعيل وتدقيق فحص وإجراء اللازم مع المسافرين والبضائع في المحاجر الصحية والبيطرية العاملة بالمنافذ الحدودية</span></span><span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:black\">&quot;</span></span></span><span style=\"background-color:white\"><span style=\"color:black\">. </span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:black\">بعد البحث تأكد &quot;مسبار&quot; أنّ أساس الخبر يعود إلى اقتراح قدمه عباس التميمي مدير صحة البصرة في حديث لراديو المربد، مفاده إغلاق المنافذ الحدودية مؤقتاً مع إيران بعد تسجيل حالتي الوفاة بالفايروس في قم. إلّا أنّ ذلك لا يعني طلباً رسمياً من وزارة الصحة بإغلاق الحدود.</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:black\">هذا وانتشر خلال الساعات الأخير على موقع تويتر وسم (#_أغلقوا_الحدود_مع_إيران)، في إشارة إلى التخوف من انتقال فايروس كورونا إلى العراق عبر إيران، التي شخّصت عدّة إصابات بفايروس كورونا على أراضيها.</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_mr1papepl.jpg\" style=\"height:455px; width:423px\" /></span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_qqb47bs1f.jpg\" style=\"height:373px; width:442px\" /></span></strong></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت مواقع إلكترونية وصفحات وحسابات على مواقع التواصل الاجتماعي، خبراً يُفيد أنَ وزارة الصحة العراقية طالب بإغلاق الحدود مع إيران خوفاً من انتشار فايروس كورونا. وذلك بعد وفاة شخصين في مدينة قم الإيرانية جراء إصابتهما بفايروس كورونا.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_mis8xiitr.jpg\" style=\"height:833px; width:433px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_uha0p4m6n.jpg\" style=\"height:625px; width:430px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_9hfzqu8y6.jpg\" style=\"height:513px; width:452px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_r30hh57xc.jpg\" style=\"height:710px; width:443px\" /></span></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 353,
+        "left": 3.768310546875,
+        "path": "articles/1582197488GettyImages-1173096185.jpg",
+        "top": 22.80712890625,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "width": 628
+    },
+    "post_date": "2020-02-20T14:05:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.alhadath.net/News.html",
+            "name": "العربية الحدث",
+            "path": "published/0_1582197488_العربية الحدث-لوغو.jpg"
+        },
+        {
+            "link": "https://twitter.com/shukrntw/status/1230433321164955654",
+            "name": "أخبار العراق العاجلة",
+            "path": "published/1_1582197488_أخبار العراق العاجلة-لوغو.jpg"
+        },
+        {
+            "link": "https://www.vdlnews.com/news/4379",
+            "name": "VL News",
+            "path": "published/2_1582197488_Vl News.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/517790988582430/photos/a.969386800089511/1051129941915196/?type=3&__tn__=-R",
+            "name": "المراسل الصحفي العراقي",
+            "path": "published/3_1582197488_المراسل الصحفي العراقي-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/200154257420616/photos/a.202121690557206/656335541802483/?type=3&theater",
+            "name": "أحداث ميسان",
+            "path": "published/4_1582197488_أحداث ميسان-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/baghdad01news/photos/a.108034510725574/133837951478563/?type=3&theater",
+            "name": "بنت بغداد العراق",
+            "path": "published/5_1582197488_بنت بغداد العراقية-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/kainmnv/photos/a.112491213509862/177529433672706/?type=3&theater",
+            "name": "ناشط وطني",
+            "path": "published/6_1582197488_ناشط وطني-لوغو.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "http://www.ina.iq/102542/%D8%A7%D9%84%D9%85%D9%86%D8%A7%D9%81%D8%B0-%D8%AA%D9%83%D8%B4%D9%81-%D9%84%D9%88%D8%A7%D8%B9-%D8%B9%D9%86-%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA%D9%87%D8%A7-%D8%A7%D9%84%D8%AD%D8%AF%D9%88%D8%AF%D9%8A%D8%A9-%D9%85%D8%B9-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86",
+            "name": "وكالة الأنباء العراقية",
+            "path": "sources/0_1582197487_وكالة الأنباء العراق-لوغو.jpg"
+        },
+        {
+            "link": "https://moh.gov.iq/",
+            "name": "وزارة الصحة العراقية",
+            "path": "sources/1_1582197488_وزارة الصحة العراقية.jpg"
+        },
+        {
+            "link": "https://www.bbc.com/arabic/middleeast-51567616",
+            "name": "BBC عربي",
+            "path": "sources/2_1582197488_BBC NEWS-logo.jpg"
+        },
+        {
+            "link": "https://www.almirbad.com/detail/43727",
+            "name": "المربد",
+            "path": "sources/3_1582206885_المربد-لوغو.png"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل طالبت وزارة الصحة العراقية بإغلاق الحدود مع إيران بسبب كورونا؟",
+    "updated_at": "2020-09-23 12:38:14",
+    "url_path": "/factcheck/2020/02/20/هل-طالبت-وزارة-الصحة-العراقية-بإغلاق-الحدود-مع-إيران-بسبب-كورونا"
+}

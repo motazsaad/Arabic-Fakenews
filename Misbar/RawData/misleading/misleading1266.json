@@ -1,0 +1,113 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 2,
+        "fb": 1,
+        "tw": 1
+    },
+    "amount_sources": 0,
+    "amount_visits": 144556,
+    "author": {
+        "fullname": "مريم هواري",
+        "id": "5e299460d4a22939983a3ec5",
+        "photo": {
+            "path": "authors/1579791192_Maryam.jpg"
+        }
+    },
+    "caption": "ستوفّر اليابان عقار &quot;أفيغان&quot; مجاناً لعشرين دولة (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">حصلت دولة الاحتلال الإسرائيلي على دواء تجريبي لمعالجة فايروس كورونا من اليابان عن طريق عملية سريّة.</p>\r\n",
+    "country": "",
+    "created_at": "2020-04-08 14:46:01",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5e8db979db291643927ee5f4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الخبر مضلّل، إذ تلقّت اليابان طلبات من ثلاثين دولة مختلفة لتزويدها بعقار &quot;أفيغان&quot;، وقد أعربت الحكومة اليابانية عن نيّتها توسيع البحث السريري لهذا العقار مع الدول المهتمّة بذلك وعن نيّتها بتوفير هذا العقار مجاناً لعشرين دولة في ظل تعاونها مع الأمم المتّحدة. إذ أن دولة الاحتلال الإسرائيلي ليست استثناءً في استيراد واستخدام هذا الدواء وسيتم استخدامه في عدّة دول بالتعاون مع الحومة اليابانية كالسعودية<span style=\"background-color:white\"><span style=\"color:#333333\">، بلغاريا، جمهورية التشيك، إندونيسيا</span></span> وغيرها<span style=\"background-color:white\"><span style=\"color:#333333\">.</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:#333333\">وتجدر الإشارة إلى أنه بحسب الجهات الطبية في الصين فإن عقار &quot;أفيغان&quot; كان فعالا بعلاج فايروس كورونا وخاصّةً لدى المصابين الذين يعانون من أعراض خفيفة.</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_1j6ansi27.jpg\" style=\"height:384px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_a28c7i9np.jpg\" style=\"height:583px; width:624px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": false,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداول حساب &quot;إسرائيل بالعربية&quot; على موقع تويتر إضافةً&nbsp;لمواقع إسرائيلية وعربية أخرى خبراً عن حصول دولة الاحتلال على عقار تجريبي من اليابان لمعالجة المصابين بفايروس كورونا يسمّى &quot;أفيغان&quot; عن طريق عمليّة سريّة. وادّعى الإعلام الإسرائيلي بأنها من بين الدول الأولى التي ستحصل على هذا الدواء بعد تواصل مكثّف بين وزارتي الصحّة والخارجية الإسرائيلية مع السفارة والحكومة اليابانية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_1oo7xsj4u.jpg\" style=\"height:766px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_pe51417k9.jpg\" style=\"height:681px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_mltjeqhvk.jpg\" style=\"height:698px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_2eusrhgk8.jpg\" style=\"height:613px; width:624px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1586347156GettyImages-457639810.jpg",
+        "watermark_path": "articles/watermark-1586347156GettyImages-457639810.jpg"
+    },
+    "post_date": "2020-04-08T14:27:00.000+03:00",
+    "published": [
+        {
+            "id": "5f9568ae7656214efe121e62",
+            "link": "https://twitter.com/IsraelArabic/status/1247188771289907211",
+            "name": "إسرائيل بالعربية",
+            "origin": "",
+            "path": "published/0_1586346360_اسرائيل بالعربية لوغو.jpg"
+        },
+        {
+            "id": "5f9568aec2444e563c7cc025",
+            "link": "https://www.globes.co.il/news/article.aspx?did=1001324767",
+            "name": "Globes",
+            "origin": "",
+            "path": "published/1_1586346360_globes.jpg"
+        },
+        {
+            "id": "5f9568ae0d127352f75f4b0b",
+            "link": "https://www.maariv.co.il/corona/corona-israel/Article-758674",
+            "name": "Maariv",
+            "origin": "",
+            "path": "published/2_1586346360_maariv.jpg"
+        },
+        {
+            "id": "5f9568ae12d571020e37047a",
+            "link": "https://www.jpost.com/israel-news/israel-among-first-to-try-experimental-japanese-coronavirus-drug-623794",
+            "name": "THE JERUSALEM POST",
+            "origin": "",
+            "path": "published/3_1586346360_the jerusalem post.jpg"
+        },
+        {
+            "id": "5f9568ae84f53770ca7c17b9",
+            "link": "https://twitter.com/aa_arabic/status/1247392408230215680",
+            "name": "ANADOLU AGENCY (AR",
+            "origin": "",
+            "path": "published/4_1586346360_AA.jpg"
+        },
+        {
+            "id": "5f9568ae7934ca025960f8e8",
+            "link": "https://twitter.com/AlHadath/status/1247513298142203905",
+            "name": "العربية الحدث",
+            "origin": "",
+            "path": "published/5_1586346360_العربية الحدث-لوغو.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f9568afc5dd2b6f7304f5bf",
+            "link": "https://www.japantimes.co.jp/news/2020/04/07/national/science-health/coronavirus-japan-avigan-20-nations-free/#.Xo2odMgzZPY",
+            "name": "the japan times ",
+            "origin": "",
+            "path": "sources/0_1586346361_thejapantimes.jpg"
+        },
+        {
+            "id": "5f9568afa79c7b05a70ea00a",
+            "link": "https://nippontimes.net/%d8%aa%d9%88%d9%81%d9%8a%d8%b1-%d8%a2%d9%81%d9%8a%d8%ba%d8%a7%d9%86-%d9%85%d8%ac%d8%a7%d9%86%d8%a7%d9%8b-%d9%84%d9%8020-%d8%af%d9%88%d9%84%d8%a9/",
+            "name": "مجلة اليابان",
+            "origin": "",
+            "path": "sources/1_1586346361_مجلة اليابان.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل حصلت دولة الاحتلال على علاج كورونا بعملية سرية؟",
+    "updated_at": "2020-10-25 14:59:43",
+    "url_path": "/factcheck/2020/04/08/هل-حصل-الكيان-الصهيوني-على-علاج-كورونا-بعملية-سرية"
+}

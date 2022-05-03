@@ -1,0 +1,114 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2387,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "لم يصرح أردوغان بهذا الكلام (تويتر)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">أردوغان: نجحنا في صنع عبيد لنا في الدول العربية يدافعون عن سياستنا.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-06-04 18:06:04",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 2,
+    "feedback_pos": 0,
+    "id": "5ed90ddcdb291620d60d22b4",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من التصريح ووجد أنه زائف، إذ لم يصرّح الرئيس التركي أردوغان بهذا الكلام مُطلقاً، ولا بأيّة تصرّيحات مشابهة. كما أن التصميم المنتشر للجزيرة مصر مفبرك ولم تنشره الصفحة على الإطلاق.</span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت حسابات وصفحات على مواقع التواصل الاجتماعي خلال الأيام الجارية ومنذ سنوات، تصريحاً نسبوه للرئيس التركي رجب طيب أردوغان يقول &quot;أردوغان: نجحنا في صنع عبيد لنا في الدول العربية يدافعون عن سياستنا وثقافتنا ضد أبناء بلادهم&quot;. ويتم تداول التصرّيح على أنه نُشر على&nbsp;صفحة الجزيرة مصر وصفحات أخرى.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_2pcpoa0hh.jpg\" style=\"height:619px; width:491px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_1ykyy4bba.jpg\" style=\"height:599px; width:490px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 25,
+        "path": "articles/1591283163EZg_wgKXsAMsHSy.jpg",
+        "top": 0,
+        "totalHeight": 563,
+        "totalWidth": 802,
+        "watermark_path": "articles/watermark-1591283163EZg_wgKXsAMsHSy.jpg",
+        "width": 752
+    },
+    "post_date": "2020-06-04T18:02:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/FatmaHusan666/status/1268524969887137792",
+            "name": "فاطمه حسان",
+            "path": "published/0_1591283162_فاطمه حسان.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Tunisie.Avant.Tout/posts/2256000921153249",
+            "name": "مصلحة تونس فوق الجميع",
+            "path": "published/1_1591283348_مصلحة تونس فوق الجميع.jpg"
+        },
+        {
+            "link": "https://twitter.com/weliano_alex/status/1123342248844959747",
+            "name": "walaa ahmed ali",
+            "path": "published/2_1591283349_walaa ahmed ali.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/mahmoud.ezzat.771/posts/3014442125251739",
+            "name": "Mahmoud Ezzat",
+            "path": "published/3_1591283349_Mahmoud Ezzat.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/amelie.mohamed.946/posts/716447385793319",
+            "name": "Amelie Mohamed",
+            "path": "published/4_1591283349_Amelie Mohamed.jpg"
+        },
+        {
+            "link": "https://twitter.com/esaa85632/status/1156757144357810177",
+            "name": "عيسى الزهراني",
+            "path": "published/5_1591283349_عيسى الزهراني.jpg"
+        },
+        {
+            "link": "https://twitter.com/M55alatawi/status/1156802544603205632",
+            "name": "إلزم بيتك",
+            "path": "published/6_1591283349_إلزم بيتك.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/mohamedali.achour.77/posts/137040664435088",
+            "name": "Mohamed Ali Achour",
+            "path": "published/7_1591283349_Mohamed Ali Achour.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/AJA.Egypt/",
+            "name": "الجزيرة مصر",
+            "path": "sources/0_1591283162_الجزيرة مصر.jpg"
+        },
+        {
+            "link": "https://twitter.com/RTErdogan",
+            "name": "Recep Tayyip Erdoğan",
+            "path": "sources/1_1591283163_Recep Tayyip Erdoğan.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "نجحنا في صنع عبيد عرب يدافعون عنا.. هل صرّح أردوغان بذلك؟",
+    "updated_at": "2020-09-25 16:57:16",
+    "url_path": "/factcheck/2020/06/04/نجحنا-في-صنع-عبيد-عرب-لنا--هل-صرح-أردوغان-بذلك"
+}

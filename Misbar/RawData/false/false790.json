@@ -1,0 +1,107 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1776,
+    "author": {
+        "fullname": "هيثم جودية",
+        "id": "5e295291d4a2296ff0065605",
+        "photo": {
+            "name": "1579766417_هيثم .JPG",
+            "path": "authors/1579766417_هيثم .JPG"
+        }
+    },
+    "caption": "الادعاء زائف لأن مقطع الفيديو الأصلي قديم (Getty)",
+    "category": "Spirituality & Religion",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">مقطع فيديو لرئيس وزراء الهند نارندرا مودي يعترف فيه بأن جائحة فايروس كورونا المستجد ما هي إلا &quot;جند من جنود الله&quot;، ويعترف بأنه أخطأ في الاعتداء على المسلمين في بلاده.</p>\r\n",
+    "country": "IN",
+    "created_at": "2020-04-17 17:55:00",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e99c344db2916335c6b8f06",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الادعاء زائف، إذ تحقق &quot;مسبار&quot; من صحة مقطع الفيديو وتبين أنه جزء من كلمة لمودي في المنتدى الصوفي العالمي في مارس/آذار عام 2016 يمتدح بها الدين الإسلامي، ولم يتحدث عن فايروس كورونا المستجد ولم يتضمن الفيديو أي اعتذار كما ادّعى ناشرو الخبر الزائف.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/eaSjbPbOJcI\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "كوفيد-19",
+        "كورونا الهند",
+        "فايروس كورونا",
+        "الهند"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات على مواقع التواصل الاجتماعي مقطع فيديو ادّعت أنه لرئيس الوزراء الهندي، نارندرا مودي، مرفقاً مع تعليق يقول &quot;هذا هو رئيس الهند (من الهندوس) الذي أمر الهندوسيين بهدم مساجد المسلمين وطردهم.. واليوم بعد أن ظهر هذا الوباء للعالم (كوفيد-19)، وعدم السيطرة عليه اعترف أنّ هذا الوباء &quot;جند من جنود الله&quot; وأنه &quot;اخطأ في اعتدائه&quot; على المسلمين&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><iframe frameborder=\"0\" height=\"608\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Femna.amri.33%2Fvideos%2F1375532552639945%2F&amp;show_text=1&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 318,
+        "left": -0.48333740234375,
+        "path": "articles/1587135299GettyImages-1171484431.jpg",
+        "top": 20.60009765625,
+        "totalHeight": 423,
+        "totalWidth": 564,
+        "watermark_path": "articles/watermark-1587135299GettyImages-1171484431.jpg",
+        "width": 565
+    },
+    "post_date": "2020-04-04T17:46:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/emna.amri.33/videos/1375532552639945/",
+            "name": "آمنة عمري",
+            "path": "published/0_1587135298_آمنة-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100037431106875/videos/212959703295065/",
+            "name": "أبو رحيم محمد الشربيني",
+            "path": "published/1_1587135299_أبورحيم-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100027455677302/videos/534705844121267/",
+            "name": "شمووخ صنعانية",
+            "path": "published/2_1587135299_شموخ-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/moustafa.mahmoud.102/videos/10159433824953709/",
+            "name": "مصطفى محمود",
+            "path": "published/3_1587135299_مصطفى-محمود-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/artaa.arta1/videos/2947896171961610/",
+            "name": "سهيلة شاهين",
+            "path": "published/4_1587135299_سهيلة-لوغو.jpg"
+        },
+        {
+            "link": "https://twitter.com/LordOfZahran/status/1244350677511438336",
+            "name": "محمد الزهراني",
+            "path": "published/5_1587135299_محمد-لوغو.jpg"
+        },
+        {
+            "link": "https://twitter.com/Houssam84476762/status/1245021957730504715",
+            "name": "الحسام",
+            "path": "published/6_1587135299_الحسام-لوغو.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/user/ndtv",
+            "name": "NDTV",
+            "path": "sources/0_1587135299_NDTV-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "كورونا الهند: اعتذار رئيس الوزراء للمسلمين.. خبر زائف  ",
+    "updated_at": "2020-09-25 12:51:32",
+    "url_path": "/factcheck/2020/04/17/كورونا-الهند-اعتذار-رئيس-الوزراء-للمسلمين-بعد-ظهور-الفايروس-خبر-زائف"
+}

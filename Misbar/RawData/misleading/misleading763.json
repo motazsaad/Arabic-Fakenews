@@ -1,0 +1,98 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 839,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "الصورة مضللة (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">صورة لوزيرة الدولة الإيرانية لشؤون الإسلام بدون حجاب.</p>\r\n",
+    "country": "IR",
+    "created_at": "2020-08-16 13:45:26",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f390e461dd585078f5b5fe1",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصور المتداولة ووجد أنها مضللة، إذ لا وجود لوزارة الشؤون الإسلامية في إيران، وإنما توجد وزارة للثقافة والتوجيه الإسلامي، وزيرها الحالي هو <a href=\"http://sokhan.farhang.gov.ir/Pages/Home.aspx?ReturnUrl=%2f\" style=\"text-decoration:none\" target=\"_blank\"><u>عباس صالحي</u></a>.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">أما صاحبة الصورة على اليمين فهي <a href=\"https://namagard.com/photo-bio-elmira-khamachy-tabriz/\" style=\"text-decoration:none\" target=\"_blank\"><u>ألميرا خاماجي</u></a>، عضو المجلس الإسلامي عن مدينة تبريز في انتخابات عام 2016. ولم يتسن لـ&quot;مسبار&quot; التأكد من صاحبة الصورة على اليسار، لكن المؤكد ألا علاقة للأمر بما يُسمى &quot;وزارة الدولة لشؤون الإسلام&quot;.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_mwjh3sdsk.jpg\" style=\"height:292px; width:534px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_p75d9fppp.jpg\" style=\"height:284px; width:546px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تتناقل صفحات على مواقع التواصل الاجتماعي، حديثاً، صورة تدعي أنها لوزيرة الدولة الإيرانية لشؤون الإسلام، تظهر فيها دون ارتداء حجاب.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_g0a2kfq8p.jpg\" style=\"height:645px; width:535px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_1ex0migxr.jpg\" style=\"height:695px; width:532px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 239,
+        "left": 3.3499755859375,
+        "path": "articles/1597574725غلاف.jpg",
+        "top": 69.38330078125,
+        "totalHeight": 423,
+        "totalWidth": 432,
+        "watermark_path": "articles/watermark-1597574725غلاف.jpg",
+        "width": 425
+    },
+    "post_date": "2020-08-16T13:41:00.000+03:00",
+    "published": [
+        {
+            "link": "https://web.facebook.com/permalink.php?story_fbid=158593489106096&id=100048663378211",
+            "name": "نورا فوزي",
+            "path": "published/0_1597575021_نورا.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/alifabaa/photos/a.464224440271190/1342677699092522/?type=3",
+            "name": "مجلة الف باء",
+            "path": "published/1_1597575021_مجلة.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/permalink.php?story_fbid=2778108245801225&id=100008062301250",
+            "name": "Nabil Ahmed",
+            "path": "published/2_1597575021_نبيل.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/hzbelgiel/posts/995701960537475",
+            "name": "محمد الشهابى‎ ",
+            "path": "published/3_1597575022_محمد.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/permalink.php?story_fbid=750470652452492&id=100024686912971",
+            "name": "علي احمد القيسي",
+            "path": "published/4_1597575022_علي.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "http://sokhan.farhang.gov.ir/Pages/Home.aspx?ReturnUrl=%2f",
+            "name": "وزير الثقافة والتوجيه الإسلامي ",
+            "path": "sources/0_1597574725_وزارة.jpg"
+        },
+        {
+            "link": "https://namagard.com/photo-bio-elmira-khamachy-tabriz/",
+            "name": "نماكَرد ",
+            "path": "sources/1_1597574725_نما.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لا وجود لوزارة الدولة لشؤون الإسلام في إيران",
+    "updated_at": "2020-09-25 16:46:11",
+    "url_path": "/factcheck/2020/08/16/لا-وجود-لوزارة-الدولة-لشؤون-الإسلام-في-إيران"
+}

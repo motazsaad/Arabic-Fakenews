@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 10967,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الفيديو التُقط في القدس عام 2017 (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">فيديو يُظهر الصدامات التي حصلت بين الشرطة واليهود في نيويورك، بعد منع جنازةٍ خوفاً من انتشار عدوى كورونا.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-04-13 18:43:24",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e94889cdb29162eeb194354",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من مقطع الفيديو، وتأكد من أنه غير صحيح، فهو لم يُلتقط في نيويورك إنّما في القدس، ويعود إلى عام 2017 عندما فرّقت الشرطة الإسرائيلية متظاهرين ينتمون إلى جماعة يهودية متشددة، كانوا قد تجمعوا احتجاجاً على اعتقال أحد أعضاء جماعتهم.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/rgX7afDClQ8\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">نشر مستخدمون على موقع التواصل الاجتماعي فيسبوك، مقطع فيديو زعموا أنّه يصوّر الشرطة الأميركية في مدينة نيويورك، وهي تفرّق جمهرةً تنتمي إلى &quot;الطائفة اليهودية&quot;. وحصلت المواجهات بين الطرفين عقب منع قوات الشرطة لليهود في المدينة من تشييع أحد أبنائهم، في ظل قرار حظر التجمعات، الذي اتخذ من ضمن الإجراءات الوقائية لمنع المزيد من تفشي فايروس كورونا.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"420\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F111489470452449%2Fvideos%2F208371247275230%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"313\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F111105507141016%2Fvideos%2F2531776940470416%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fmoneer.saffaqqa%2Fvideos%2F212083716748059%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 298,
+        "left": 7.09381103515625,
+        "path": "articles/1586792603GettyImages-483759485.jpg",
+        "top": 4.510986328125,
+        "totalHeight": 318,
+        "totalWidth": 546,
+        "watermark_path": "articles/watermark-1586792603GettyImages-483759485.jpg",
+        "width": 530
+    },
+    "post_date": "2020-04-13T18:30:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/111489470452449/videos/208371247275230/?v=208371247275230&external_log_id=806545e2a7f8d5a4669365cb77898cfc&q=%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D9%81%D8%A9%20%D8%A7%D9%84%D9%8A%D9%87%D9%88%D8%AF%D9%8A%D8%A9%20%D8%AC%D9%86%D8%A7%D8%B2%D8%A9%20%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83",
+            "name": "كورونا ",
+            "path": "published/0_1586792603_كورونا.jpg"
+        },
+        {
+            "link": " https://www.facebook.com/111105507141016/videos/2531776940470416/?v=2531776940470416&external_log_id=806545e2a7f8d5a4669365cb77898cfc&q=%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D9%81%D8%A9%20%D8%A7%D9%84%D9%8A%D9%87%D9%88%D8%AF%D9%8A%D8%A9%20%D8%AC%D9%86%D8%A7%D8%B2%D8%A9%20%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83",
+            "name": "أنصار المرجعية",
+            "path": "published/1_1586792603_أنصار المرجعية.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/moneer.saffaqqa/videos/212083716748059/?v=212083716748059&external_log_id=806545e2a7f8d5a4669365cb77898cfc&q=%D8%A7%D9%84%D8%B7%D8%A7%D8%A6%D9%81%D8%A9%20%D8%A7%D9%84%D9%8A%D9%87%D9%88%D8%AF%D9%8A%D8%A9%20%D8%AC%D9%86%D8%A7%D8%B2%D8%A9%20%D9%86%D9%8A%D9%88%D9%8A%D9%88%D8%B1%D9%83",
+            "name": "طولكرم بلدنا",
+            "path": "published/2_1586792603_طولكرم بلدنا.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/pauseVideoz/videos/1840975586044934/?v=1840975586044934",
+            "name": "Pause Videos",
+            "path": "published/3_1586792603_Pause Videos.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100009577201604/videos/2551807508481798/",
+            "name": "وردة الربيع",
+            "path": "published/4_1586792603_وردة الربيع.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/2115331535231823/videos/246042629918398/",
+            "name": "برلماني فقير",
+            "path": "published/5_1586792603_برلماني فقير.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=rgX7afDClQ8&feature=youtu.be&fbclid=IwAR1VURt8KQsQbU8hrkM_Y-4ljHsV3pf2-nihWQVOzVjAcwB35p__aP_uBy4",
+            "name": "الفيديو الأصلي",
+            "path": "sources/0_1586792603_YouTube-logo.jpg"
+        },
+        {
+            "link": "https://www.haaretz.com/israel-news/.premium-haredim-hit-with-weapon-developed-against-palestinians-and-it-stinks-1.5628103",
+            "name": "Haaretz",
+            "path": "sources/1_1586792603_Haaretz.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "كورونا أميركا: مواجهات بين اليهود والشرطة.. ما أصل الفيديو؟",
+    "updated_at": "2020-09-25 14:22:59",
+    "url_path": "/factcheck/2020/04/13/كورونا-أميركا-مواجهات-بين-اليهود-والشرطة-ما-أصل-الفيديو"
+}

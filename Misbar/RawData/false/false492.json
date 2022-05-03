@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1429,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "لم يتطرّق الأمير بالحديث عن صدّام في المقابلة (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">أمير الكويت صباح الأحمد في لقاء معه أول أمس، قال &quot;أنا بكيت على إعدام أمريكا للرئيس صدام حسين&quot;.</span></p>\r\n",
+    "country": "KW",
+    "created_at": "2020-07-14 21:41:57",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 1,
+    "id": "5f0dfc75163be340ae3e7926",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من الخبر المتداول ووجد أنه زائف. بحث &quot;مسبار&quot; عن المقابلات التي أجراها الأمير صباح الأحمد، ووجد </span><a href=\"https://youtu.be/6yGiklh7pHY\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>مقابلة</u></span></a><span style=\"color:#000000\"> واحدة فقط منشورة على منصة يوتيوب عام 2016، لم يتطرّق فيها بالحديث أبداً عن الرئيس العراقي الأسبق صدام حسين.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">ومن الجدير بالذكر، أنّ الأمير الصباح تحدّث في المقابلة عن معاناة أطفال العراق وتعاطفه معهم.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/6yGiklh7pHY\" width=\"560\"></iframe></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل صفحات وحسابات على مواقع التواصل الاجتماعي، منذ سنوات، خبراً مفاده أن أمير دولة الكويت الحالي، صباح الأحمد، قال في مقابلة حديثة له &quot;أنا بكيت على إعدام أمريكا للرئيس صدام حسين&quot;.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"736\" scrolling=\"no\" src=\"https://web.facebook.com/plugins/post.php?href=https%3A%2F%2Fweb.facebook.com%2Fpermalink.php%3Fstory_fbid%3D165490498034478%26id%3D100037205857399&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"735\" scrolling=\"no\" src=\"https://web.facebook.com/plugins/post.php?href=https%3A%2F%2Fweb.facebook.com%2Fpermalink.php%3Fstory_fbid%3D987492164968627%26id%3D100011235573743&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 348,
+        "left": 3.36669921875,
+        "path": "articles/15947521173.jpg",
+        "top": 4,
+        "totalHeight": 423,
+        "totalWidth": 626,
+        "watermark_path": "articles/watermark-15947521173.jpg",
+        "width": 619
+    },
+    "post_date": "2020-07-14T21:39:00.000+03:00",
+    "published": [
+        {
+            "link": "https://web.facebook.com/permalink.php?story_fbid=165490498034478&id=100037205857399",
+            "name": "الليث ابن الوليدي",
+            "path": "published/0_1594753390_الليث.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/najepress/posts/120798259407103?__tn__=-R",
+            "name": "موقع ناجي العلي الإخباري",
+            "path": "published/1_1594753390_موقع.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/mhm774003213/posts/2565116826889756",
+            "name": "ابوعلي محمدعلي الحيمي",
+            "path": "published/2_1594753390_ابوعلي.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/permalink.php?story_fbid=987492164968627&id=100011235573743",
+            "name": "سمر الخولاني",
+            "path": "published/3_1594753460_سمر.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/permalink.php?story_fbid=595884240959246&id=100016130251709",
+            "name": "شكرى صافى",
+            "path": "published/4_1594753461_شكري.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://youtu.be/6yGiklh7pHY",
+            "name": "Mohammed AL Saadi",
+            "path": "sources/0_1594752117_محمد.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لم يصرّح أمير الكويت قائلاً \"أنا بكيت على إعدام صدام\"",
+    "updated_at": "2020-09-25 19:00:02",
+    "url_path": "/factcheck/2020/07/14/لم-يصرح-أمير-الكويت-قائلا-أنا-بكيت-على-إعدام-صدام"
+}

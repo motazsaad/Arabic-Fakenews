@@ -1,0 +1,97 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1296,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "الصورة الأصلية التُقطت عقب قصف تركي في عفرين (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">صورة من مخيم قاح لرجلٍ يحمل طفلاً مجروحاً.</span></p>\r\n",
+    "country": "SY",
+    "created_at": "2020-06-11 11:27:45",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ee1eb01d6e4a938ff4e9465",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من الصورة المتداولة ووجد أنها مضلّلة، لأنّ </span><a href=\"https://www.syriahr.com/en/?p=137118&amp;fbclid=IwAR1mwn2b2RwilVZJAaKm22zxFod4uVHKe4E8h48l4eKom5cJ-HL5ZGoBGUQ&amp;__cf_chl_jschl_tk__=b22fd36cb2c56f92785b6913ccf7721f592b6339-1591861938-0-ASKVGRNWLCcRBsd9cv1f_YyeLHHrCPGEMwzKa8zoZNbZyaRCpHte0_peHUmcVCdnOejxs53lZlZQTr81i8M_p-WSnuZBuju3etcVrycamoLIxooV5dkl6k6C1ftSaC8EypaCKjip2y3EI4HM4X2Aa9D1xL7s_xixt9apZvt0IVNaRp3rHL-Qfokpplx96Jrzh2hWPLYpd2Rlo-XWliIdT1CpxiZ80-5v0LdHD6orlrQAuHQoQAsS9v8y7rkd2c-UNFDfTxA1VtwmeANMNmx5Mr8YPWp-7wxzrPC1b2n4aOmxJbIUvgvqCEqsAhL48f1tS6rMO9KfbxFUPcaqPM9FNRlSeyE16PM2ZLdinzCGdVwD_kStN_8Y-E9eABBmEdUdwg\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>الصورة الأصلية</u></span></a><span style=\"color:#000000\"> التُقطت عام 2019، عقب قصف تركي لمناطق تحت سيطرة القوات الكردية في مدينة عفرين الواقعة في محافظة حلب السورية.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_4galv2xwj.jpg\" style=\"height:329px; width:624px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "سورية",
+        "مخيم قاح",
+        "روسيا",
+        "النظام السوري",
+        "اللاجئين السوريين"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل صفحات على مواقع التواصل الاجتماعي، منذ سنوات، صورة تدّعي أنها من مخيم قاح، لرجلٍ يحمل طفلاً مجروحاً بسبب قصف النظام السوري للمنطقة. يقع مخيم قاح على الحدود السورية التركية، ويتبع محافظة إدلب.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_vohai6ndq.jpg\" style=\"height:215px; width:552px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_0fv23lxpk.jpg\" style=\"height:650px; width:533px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 157,
+        "left": 1.5333251953125,
+        "path": "articles/1591864064غلاف.jpg",
+        "top": 2.0498046875,
+        "totalHeight": 423,
+        "totalWidth": 282,
+        "watermark_path": "articles/watermark-1591864064غلاف.jpg",
+        "width": 279
+    },
+    "post_date": "2020-06-11T11:16:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/gv1vZBg1FSeEreP/status/1197259596123058182",
+            "name": "ابن الشام",
+            "path": "published/0_1591864064_ابن الشام.jpg"
+        },
+        {
+            "link": "https://twitter.com/ShekoufehP/status/1183082362583879680",
+            "name": "Shekoufeh",
+            "path": "published/1_1591864064_shek.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=120028502778247&id=100679558046475",
+            "name": "أخبار مخيم اطمة",
+            "path": "published/2_1591864064_أخبار.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2525859661072155&id=100009444382464",
+            "name": "أحمد مهدي القاطوف",
+            "path": "published/3_1591864064_أحمد.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/1471955569548833/permalink/2624309694313409/?__xts__[0]=68.ARAtDGvREGeA_YPB3oXC9zk-E9ChdtCjyAmgp39lubQkfV6OCk35CRhpWpmTVJvcc7m2-ymLUHLDK3BVKbQikDcJpWquV0vYtnaZp9qrp1g4aq4kJOJHVlfEztM5mQztNWl4zYyme6R8SyJ8Bk0kHfZN7w1tcj9D7sjeLOUR38Kx6JsXztYpETwEaSmwCVPyfBvd-b2TgF_d4MqwMH72Cka3te1uHhQ6CbXFGQzdtD9SWZ7RGytsur15gvG7orz31gw5ZhTAoCHi1PYyhnbEvKLL5JF2CUulhFnAWs9PS1ejB-54HOHBZaHXXiNq1QqVBDA&__tn__=-R",
+            "name": "أبو محمد",
+            "path": "published/4_1591864419_أبو محمد.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.syriahr.com/en/?p=137118&fbclid=IwAR1mwn2b2RwilVZJAaKm22zxFod4uVHKe4E8h48l4eKom5cJ-HL5ZGoBGUQ&__cf_chl_jschl_tk__=b22fd36cb2c56f92785b6913ccf7721f592b6339-1591861938-0-ASKVGRNWLCcRBsd9cv1f_YyeLHHrCPGEMwzKa8zoZNbZyaRCpHte0_peHUmcVCdnOejxs53lZlZQTr81i8M_p-WSnuZBuju3etcVrycamoLIxooV5dkl6k6C1ftSaC8EypaCKjip2y3EI4HM4X2Aa9D1xL7s_xixt9apZvt0IVNaRp3rHL-Qfokpplx96Jrzh2hWPLYpd2Rlo-XWliIdT1CpxiZ80-5v0LdHD6orlrQAuHQoQAsS9v8y7rkd2c-UNFDfTxA1VtwmeANMNmx5Mr8YPWp-7wxzrPC1b2n4aOmxJbIUvgvqCEqsAhL48f1tS6rMO9KfbxFUPcaqPM9FNRlSeyE16PM2ZLdinzCGdVwD_kStN_8Y-E9eABBmEdUdwg",
+            "name": "المرصد السوري لحقوق الإنسان",
+            "path": "sources/0_1591864064_المرصد.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صورة متداولة بعد قصف مخيم قاح السوري.. ما قصتها؟",
+    "updated_at": "2020-09-25 11:13:02",
+    "url_path": "/factcheck/2020/06/11/هل-هذه-الصورة-من-مخيم-قاح-السوري-بعد-قصفه"
+}

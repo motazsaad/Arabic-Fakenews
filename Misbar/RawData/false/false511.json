@@ -1,0 +1,96 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 7129,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "نفت قوى الأمن الداخلي اللبنانية حدوث الجريمة (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">جريمة قتل بحق سبعة شبان سوريين في العاصمة اللبنانية بيروت، يعيشون في شقة واحدة وُجدوا مكبّلي الأيدي ومقطوعي الرؤوس.</span></p>\r\n",
+    "country": "LB",
+    "created_at": "2020-07-10 17:38:24",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f087d60163be306754d4027",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من الخبر المتداول ووجد أنه زائف، إذ نفت قوى الأمن الداخلي اللبنانية، العثور على جثث سبعة شبّان سوررين قضوا داخل شقة في العاصمة بيروت.</span></p>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"rtl\">تنفي <a href=\"https://twitter.com/hashtag/%D9%82%D9%88%D9%89_%D8%A7%D9%84%D8%A3%D9%85%D9%86?src=hash&amp;ref_src=twsrc%5Etfw\">#قوى_الأمن</a> الخبر المتداول حول العثور على 7 قتلى من الجنسية السورية داخل شقة في <a href=\"https://twitter.com/hashtag/%D8%A8%D9%8A%D8%B1%D9%88%D8%AA?src=hash&amp;ref_src=twsrc%5Etfw\">#بيروت</a>، مقطوعي الرؤوس، وقد تعرضوا للسرقة.<br />\r\nنتمنى على المواطنين الكرام عدم الأخذ بهذه الأخبار وعدم التسرع بنشرها قبل التاكد من صحتها. <a href=\"https://t.co/MbwSbpJZ07\">pic.twitter.com/MbwSbpJZ07</a></p>\r\n&mdash; قوى الامن الداخلي (@LebISF) <a href=\"https://twitter.com/LebISF/status/1281560381488533504?ref_src=twsrc%5Etfw\">July 10, 2020</a></blockquote>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "لبنان",
+        "سوريا",
+        "قوى الأمن الداخلي",
+        "مقتل سوريين"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل صفحات وحسابات على مواقع التواصل الاجتماعي، حديثاً، خبراً مفاده مقتل سبعة شبان سوريين في العاصمة اللبنانية بيروت، وُجدوا مكبّلي الأيدي ومقطوعي الرؤوس.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ywtbvikad.jpg\" style=\"height:224px; width:529px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_6uzehv9n0.jpg\" style=\"height:227px; width:534px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_kwos7x8x6.jpg\" style=\"height:222px; width:532px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 354,
+        "left": 2.13330078125,
+        "path": "articles/1594391902GettyImages-1207932437.jpg",
+        "top": 39.16650390625,
+        "totalHeight": 423,
+        "totalWidth": 633,
+        "watermark_path": "articles/watermark-1594391902GettyImages-1207932437.jpg",
+        "width": 629
+    },
+    "post_date": "2020-07-10T17:35:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=321078132634711&id=104747757601084&__",
+            "name": "معكم من طرطوس",
+            "path": "published/0_1594392685_معكم.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=156865799260597&id=111421890471655",
+            "name": "ميكسات سوريا - Syrian mixat",
+            "path": "published/1_1594392685_مكسات.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1375870162605533&id=650433831815840",
+            "name": "شبكة أخبار صافيتا لحظة بلحظة",
+            "path": "published/2_1594392685_شبكة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Tartouscity1/posts/183706043168240",
+            "name": "طرطوس سيتي Tartous City",
+            "path": "published/3_1594392685_طرطوس.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Syrianpeoplee/posts/161732685408887",
+            "name": "Syrian People",
+            "path": "published/4_1594392685_ناس.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/LebISF/status/1281560381488533504",
+            "name": "قوى الأمن الداخلي",
+            "path": "sources/0_1594391902_قوى.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لم تحصل جريمة قتل بحق سبعة شبّان سوريين في لبنان",
+    "updated_at": "2020-09-25 20:09:59",
+    "url_path": "/factcheck/2020/07/10/لم-تحصل-جريمة-قتل-بحق-سبعة-شبان-سوريين-في-لبنان"
+}

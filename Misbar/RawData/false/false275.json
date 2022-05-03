@@ -1,0 +1,109 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 793,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": " إشبيلية سيدفع لنادي برشلونة 1.5 مليون يورو (Getty)",
+    "category": "Sports",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\"><span dir=\"LTR\">87 </span>&nbsp;يورو ثمن انتقال راكيتيتش إلي إشبيلية.</p>\r\n",
+    "country": "ES",
+    "created_at": "2020-09-17 15:52:17",
+    "created_by": "5f39b5a51dd585076701cb94",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f635c0114332355894f8ef0",
+    "investigation": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من الخبر المتداول ووجد أنه زائف&nbsp;وليس صحيح. بعد الرجوع إلى <a href=\"https://www.fcbarcelona.com/en/news/1798820/agreement-with-sevilla-for-transfer-of-ivan-rakitic\" style=\"color:#0563c1; text-decoration:underline\">الموقع الرسمي</a> لنادي برشلونة، تبين أن النادي أعلن عن تفاصيل الصفقة بتاريخ 1 سبتمبر/أيلول الجاري، وقد توصل برشلونة وإشبيلية إلى اتفاق بشأن انتقال إيفان راكيتيتش، وأن إشبيلية سيدفع لنادي برشلونة 1.5 مليون يورو، بالإضافة إلى 9 ملايين كمتغيرات مستقبلية.</span></p>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"ltr\">🚨 LATEST NEWS | Agreement with Sevilla for the transfer of <a href=\"https://twitter.com/ivanrakitic?ref_src=twsrc%5Etfw\">@IvanRakitic</a></p>\r\n&mdash; FC Barcelona (@FCBarcelona) <a href=\"https://twitter.com/FCBarcelona/status/1300774005360730112?ref_src=twsrc%5Etfw\">September 1, 2020</a></blockquote>\r\n\r\n<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">وأعلن <a href=\"https://www.alaraby.co.uk/%D8%B1%D8%B3%D9%85%D9%8A%D8%A7%D9%8B%D8%A5%D8%B4%D8%A8%D9%8A%D9%84%D9%8A%D8%A9-%D9%8A%D8%B9%D9%84%D9%86-%D8%B9%D9%88%D8%AF%D8%A9-%D8%B1%D8%A7%D9%83%D9%8A%D8%AA%D9%8A%D8%AA%D8%B4-%D9%85%D9%86-%D8%A8%D8%B1%D8%B4%D9%84%D9%88%D9%86%D8%A9\" style=\"color:#0563c1; text-decoration:underline\">نادي إشبيلية</a> الإسباني عن عودة لاعب راكيتيتش إلى صفوفه بتاريخ 1 سبتمبر/أيلول الجاري، بعدما وقع على عقد مع النادي الأندلسي حتى عام 2024، وهو الذي سبق ولعب في صفوفه ثلاثة مواسم قبل الانتقال لبرشلونة.</span></p>\r\n\r\n<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">ويخوض راكيتيتش مع فريقه حالياً المباريات الودية تحضيراً للموسم الجديد وآخرها أمام فريق ليفانتي، وقاده فريقه للفوز بنتيجة 3-2.</span></p>\r\n\r\n<p><iframe frameborder=\"0\" height=\"720\" src=\"https://www.youtube.com/embed/_ucAMB5Ehb0\" width=\"1280\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات على مواقع التواصل الاجتماعي، حديثاً، خبراً مفاده أن صفقة انتقال لاعب كرة القدم الكرواتي إيفان راكيتيتش، من نادي برشلونة إلى نادي إشبيلة، كلفت 87 يورو فقط.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_xbxbltmmt.jpg\" style=\"height:567px; width:457px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_z4d97cto9.jpg\" style=\"height:509px; width:457px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1600347136GettyImages-1228550636.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1600347136GettyImages-1228550636.jpg",
+        "width": 752
+    },
+    "post_date": "2020-09-17T15:49:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/Barcelonaa.Army/photos/a.1846690968771138/3246778348762386/?type=3&__xts__%5B0%5D=68.ARD8U2gTCFUC9NJO_XMjl3u_ovbQ8ilxmd61CHO0EeVxhjS0W1wm5Lz78UqRyjG31dYpAby_ANEhiIfZbl4k0c_4w7XRc-EbnJSryvgnpGa7f4FxDoXcUi60wPmv45M9FqKJH7d_HyXKIEIhNsbjc31BxD8sV66IoleqeUA3SuZ1rn4hOxJexbGeG94L88bxXEXuElgErWn6U-8msGxLwQ7dmGigIxcpwXhQCna9hab1ti0oEzMM8pnL81G9KHeFg3aSJDjMnN8rbOfLeKROvxju45Rshb0A0F1qTHl6vAjMugT51R9GDbPm0_K3Pqw5wQ_0s1Bfd0yGElTLw_AXbeYB__7O&__tn__=-R",
+            "name": "Barca Barca",
+            "path": "published/0_1600347318_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/BAEGYPT1/photos/a.269782210577956/637665580456282/?type=3&__xts__%5B0%5D=68.ARBnbfnTlCaoj80MQp6mxZbAS15ypuZcJo8xl7kBUx_u5gwOgbu_uwxjcx1m3jcQsLokfT3EdX-t_5mkNR82gtA5LkmH4iGq81cwWG7O7QXu28hmbmimsr98sFxvW_r0oaZZ2bDpD-U0F0zDhGve3J-h2rvMVC-QqXwRRJd_NbMViGYybTk_5CyN1HmcGfnZZqf_ofJlKgR0yHLvGpUofJoG_Ax28WzCXRTlZwGhf8Vk5qseD-fvEq3LituJ2Uxk53BdXc2tNDJb4XCawZg2VELYsiqaWVrCTaPq-MycTAMvDH_zrByV3NZBGq6ivIvzQNp9Mdv1JWbnaO4_zeB076g&__tn__=-R",
+            "name": "Barcelona Army",
+            "path": "published/1_1600347754_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/photo.php?fbid=3221481841239019&set=a.551647838222446&type=3",
+            "name": "Omar A. Mohamed",
+            "path": "published/2_1600347754_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/groups/647081629176374/permalink/780100642541138/?__xts__%5B0%5D=68.ARCrSLk6_F7ryrDNnAR2IuBJJIuFth1tpTONEEQz6cV03PA_3T4Q8yrtg5YXCTIKiFvQ4HdeZ2L5xruAnknFJPrMJ724Dq9y_1IAG4VF4fCSEqScFGdLQLDZsDwqJW13yD2_T_z6h4v8W5ttmJoRQ4we-vR_HzaLbpa7jcWh1dasFNQVHe7zI0WW4yATJl-wtAsGlYeOdgpGy3IBkJzkcMqQVcd1sdQ0jORi2dnEhElftIArXa7nrQt61FjunC0rAtH0hpjVcODuUltju0z89aDjdeHRH-gh&__tn__=-R",
+            "name": "‏وسام مام مهدي",
+            "path": "published/3_1600347754_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/BarcaNewsBDARIJA/posts/1139163103131225",
+            "name": "Barça News",
+            "path": "published/4_1600347754_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/zizo.mahmoed.16/posts/122663602877544",
+            "name": "Zizo Mahmoed",
+            "path": "published/5_1600347754_facebook.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.fcbarcelona.com/en/news/1798820/agreement-with-sevilla-for-transfer-of-ivan-rakitic",
+            "name": "fcbarcelona",
+            "path": "sources/0_1600347136_fcbarcelona.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لم تكلف صفقة انتقال راكيتيتش إلى إشبيلية 87 يورو فقط",
+    "updated_at": "2020-09-25 21:55:52",
+    "url_path": "/factcheck/2020/09/17/لم-تكلف-صفقة-انتقال-راكيتيتش-إلى-إشبيلية-87-يورو-فقط",
+    "was_notification_pushed": "true"
+}

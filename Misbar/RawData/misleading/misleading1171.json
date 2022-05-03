@@ -1,0 +1,119 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 2,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 4572,
+    "author": {
+        "fullname": "خالد إسماعيل",
+        "id": "5e59256dd4a2295224257db3",
+        "photo": {
+            "name": "1582900589_صورة 2.jpg",
+            "path": "authors/1582900589_صورة 2.jpg"
+        }
+    },
+    "caption": " الصورة خلال احتجاجات للمهاجرين من باكستان والمغرب في مقدونيا (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">رجل سوري يطعم ابنه قطعة من الخبز ويبكي بسبب قلة الطعام، والابن يمسح دموع أبيه.</p>\r\n",
+    "country": "SY",
+    "created_at": "2020-05-08 22:50:38",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eb5b80edb29165c0442fa66",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصور المتداولة وتبيّن أنها مضللة، فالصورة تعود لشهر نوفمبر/تشرين الثاني عام 2015، وتُظهر طفلاً يواسي والده خلال احتجاجات للمهاجرين من باكستان والمغرب في مقدونيا. أما سبب بكاء الرجل فيرجّح أن يكون لفشله في عبور الحدود بين مقدونيا واليونان، بعد أن بدأت مقدونيا آنذاك باقتصار المرور من حدودها على اللاجئين من سوريا والعراق وأفغانستان فقط، في إطار خطة بدأتها آنذاك دول مثل مقدونيا وصربيا وكرواتيا لتقليل عدد طالبي اللجوء الذين يتدفقون إلى الاتحاد الأوروبي.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">كما يُذكر أنّ الصورة تدخل في دورة من الظهور والاختفاء منذ عام 2017 تصاحبها ادّعاءات مضللة مختلفة.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_yjodi304z.jpg\" style=\"height:606px; width:594px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_rj9rvvvt9.jpg\" style=\"height:584px; width:547px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "المغرب",
+        "الباكستان",
+        "المهاجرون",
+        "المهاجرين",
+        "اليونان",
+        "مقدونيا"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات على مواقع التواصل الاجتماعي صورتين لرجل يبكي وبجانبه طفل بينما يمسك الرجل بقطعة من الخبز ويبكي، مع الادعاء بأنّ الرجل الظاهر في الصور سوريّ وسبب بكائه شحّ الطعام.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_vtzel3gzf.jpg\" style=\"height:724px; width:499px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_6ow37i9yg.jpg\" style=\"height:682px; width:513px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 120,
+        "path": "articles/1588967438Annotation 2020-05-08 224153.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 876,
+        "watermark_path": "articles/watermark-1588967438Annotation 2020-05-08 224153.jpg",
+        "width": 752
+    },
+    "post_date": "2020-05-08T22:42:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=1187458071609132&set=p.1187458071609132&type=1&theater",
+            "name": "Ahmed Alhassany‎",
+            "path": "published/0_1588967437_نشر عن ذلك 1.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/108401404016083/photos/a.120181749504715/143197880536435/?type=3&theater",
+            "name": "القدس سلوان ",
+            "path": "published/1_1588967437_نشر عن  ذلك 2.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/NessAgareb/photos/a.944707178982445/2646846168768529/?type=1&theater",
+            "name": "ناس عقارب",
+            "path": "published/2_1588967437_نشر عن ذلك 3.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=519081755626190&set=gm.1343890029282199&type=3&theater&ifg=1",
+            "name": "ابو خليل البجاري‎",
+            "path": "published/3_1588967437_نشر عن ذلك 4.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/BouteilleDZ/photos/a.1979648609012249/2382176245426148/?type=3&theater",
+            "name": "Bouteille ",
+            "path": ""
+        },
+        {
+            "link": "https://www.latest.facebook.com/MazGnaofficial/photos/a.577444879346746/807391929685372/?type=3&theater",
+            "name": "MazGna",
+            "path": "published/5_1588967437_نشر عن ذلك 6.jpg"
+        },
+        {
+            "link": "https://twitter.com/KN1sPnBzNwBYqct/status/1216083006739361793",
+            "name": "روحي للأقصى فدى ",
+            "path": "published/6_1588967437_نشر عن ذلك 7.jpg"
+        },
+        {
+            "link": "https://twitter.com/70_660ali/status/1214103743387643904",
+            "name": "علي زكريا",
+            "path": "published/7_1588967437_نشر عن ذلك 8.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.neweurope.eu/article/un-agencies-worry-with-adoption-of-border-restrictions-in-balkans/",
+            "name": "New Europe",
+            "path": "sources/0_1588967437_ne.jpg"
+        },
+        {
+            "link": "https://www.iol.co.za/news/world/macedonia-struggles-to-police-migrants-1956590",
+            "name": "IOL",
+            "path": "sources/1_1588967437_مصدر 2.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": " الصور خلال احتجاجات للمهاجرين من باكستان والمغرب في مقدونيا.",
+    "title": "هذه الصور ليست لسوري يبكي أمام طفله لشحّ الطعام",
+    "updated_at": "2020-09-25 15:41:43",
+    "url_path": "/factcheck/2020/05/08/هذه-الصورة-ليست-لسوري-يبكي-أمام-طفله-لشح-الطعام"
+}

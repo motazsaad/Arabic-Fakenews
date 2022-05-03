@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 6760,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "الصورة الأصلية قديمة (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">زلزال ولاية ميلة في الجزائر يكشف عن مزرعة وآثار رومانية في باطن الأرض.</p>\r\n",
+    "country": "DZ",
+    "created_at": "2020-08-15 15:59:16",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 0,
+    "id": "5f37dc241dd5850768140ee0",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة المتداولة وتبين أنها مضللة، لأن <a href=\"https://sawtsetif.com/v/3553/\" style=\"text-decoration:none\" target=\"_blank\"><u>الصورة الأصلية</u></a> قديمة تعود إلى عام 2018. وقع زلزال ولاية ميلة الجزائرية بتاريخ 7 أغسطس/آب الجاري، أما الصور فهي منشورة في عدة مواقع إلكترونية منذ عام 2018. تدّعي تلك المواقع أن الصورة تُظهر آثاراً اكتشفها بالصدفة فلاح في ولاية سطيف الجزائرية، لكن لم يتسنّ لـ&quot;مسبار&quot; التأكد من حقيقة الخبر. أما ما هو مؤكد فإن هذه الصورة المتداولة حديثاً لا علاقة لها بزلزال ميلة.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_z5wz519qg.jpg\" style=\"height:488px; width:531px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_kh2gbxe2n.jpg\" style=\"height:444px; width:542px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تتناقل صفحات على مواقع التواصل الاجتماعي، حديثاً، صورة تدعي أنها تُظهر آثاراً رومانية كشف عنها <a href=\"https://www.aljazeera.net/news/2020/8/8/%D8%B2%D9%84%D8%B2%D8%A7%D9%84\" style=\"text-decoration:none\" target=\"_blank\"><u>زلزال ولاية ميلة</u></a> في الجزائر، بعد أن كانت مدفونة في باطن الأرض.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_gft1f4bfh.jpg\" style=\"height:403px; width:534px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_s87byfewh.jpg\" style=\"height:847px; width:532px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 177,
+        "left": 1.38330078125,
+        "path": "articles/1597496355غلاف.jpg",
+        "top": 140.11669921875,
+        "totalHeight": 423,
+        "totalWidth": 317,
+        "watermark_path": "articles/watermark-1597496355غلاف.jpg",
+        "width": 314
+    },
+    "post_date": "2020-08-15T15:56:00.000+03:00",
+    "published": [
+        {
+            "link": "https://web.facebook.com/permalink.php?story_fbid=162618985428875&id=100050423235058",
+            "name": "Ouled Arbi Vidéo",
+            "path": "published/0_1597496730_اولاد.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/permalink.php?story_fbid=174350167599159&id=100050725310482",
+            "name": "خليل خليل",
+            "path": "published/1_1597496730_خليل.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/groups/439782956598487/permalink/733494560560657/?__tn__=-R",
+            "name": "كن داعيا",
+            "path": "published/2_1597496731_كن.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/groups/896957973732598/permalink/3318546054907099/",
+            "name": "Naouri Miloud",
+            "path": "published/3_1597496731_نوري.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/mileuv/posts/3032265413535640",
+            "name": "mila one",
+            "path": "published/4_1597496731_ميلا.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://sawtsetif.com/v/3553/",
+            "name": "صوت صطيف ",
+            "path": "sources/0_1597496355_صوت.jpg"
+        },
+        {
+            "link": "https://www.ennaharonline.com/%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9-%D8%A7%D9%84%D8%B9%D8%AB%D9%88%D8%B1-%D8%B9%D9%84%D9%89-%D8%A2%D8%AB%D8%A7%D8%B1-%D8%AA%D8%B9%D9%88%D8%AF-%D9%84%D9%84%D8%AD%D9%82%D8%A8%D8%A9-%D8%A7%D9%84/",
+            "name": "النهار الجزائرية",
+            "path": "sources/1_1597496355_النهار.jpg"
+        },
+        {
+            "link": "https://www.hawadithdz.com/%D8%B3%D8%B7%D9%8A%D9%81-%D8%A7%D9%84%D8%B9%D8%AB%D9%88%D8%B1-%D8%B9%D9%84%D9%89-%D8%A2%D8%AB%D8%A7%D8%B1-%D8%AA%D8%B9%D9%88%D8%AF-%D9%84%D9%84%D8%AD%D9%82%D8%A8%D8%A9-%D8%A7%D9%84%D8%B1%D9%88%D9%85/#",
+            "name": "حوادث DZ",
+            "path": "sources/2_1597496355_حوادث.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الآثار لم تُكتشَف بسبب زلزال ميلة في الجزائر",
+    "updated_at": "2020-09-25 20:24:17",
+    "url_path": "/factcheck/2020/08/15/هذه-الآثار-لم-تكتشف-بسبب-زلزال-ميلة-في-الجزائر"
+}

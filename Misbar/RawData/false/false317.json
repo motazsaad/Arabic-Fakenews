@@ -1,0 +1,108 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 8825,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "لم يكتشف الطبيب الليبي علاجاً من سم النحل (فيسبوك)",
+    "category": "Health",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">مُنظمة الصحّة العالمية&nbsp;تستدعي الدكتور أسعد العرفي من مدينة سلوق شرق بنغازي في ليبيا، حول علاج فايروس كورونا المستجد (كوفيد-19)، الذي اكتشفه بمحض الصدفة.</span></p>\r\n",
+    "country": "LY",
+    "created_at": "2020-09-01 12:56:26",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 2,
+    "id": "5f4e1acaa398e138e12e18e4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الخبر المتداول وتبين أنه زائف، إذ لم تدع منظمة الصحة العالمية الليبي أسعد العرفي بعد اكتشافه علاجاً للفايروس بمحض الصدفة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وبحث &quot;مسبار&quot; عن قصة اكتشاف الطبيب الليبي للدواء ووجد أنها مضللة، وأن الطبيب الليبي<span style=\"background-color:white\">&nbsp;ليس مكتشفه بل نصحه به بعض الأطباء.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">واعتمد الطبيب على دراسة صينية حول فعالية سم النحل في علاج فايروس كورونا المستجد، واتضح أن <a href=\"https://misbar.com/factcheck/2020/06/07/%D9%85%D8%B5%D8%B1%D9%8A-%D9%8A%D9%83%D8%AA%D8%B4%D9%81-%D9%84%D9%82%D8%A7%D8%AD-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-%D9%85%D9%86-%D8%B3%D9%85-%D8%A7%D9%84%D9%86%D8%AD%D9%84-%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D8%A7%D9%25\" style=\"color:blue; text-decoration:underline\">الدراسة</a> لم تجزم في فعالية السم، واقترحت تجربته على الحيوانات أولاً.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">ولم يذكر الطبيب الليبي أيّ اتصال له مع منظمة الصحة العالمية، كما لم تؤكد المنظمة على دور سم النحل في علاج فايروس كورونا المستجدّ.</span></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": false,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">تتداول صفحات إخبارية وحسابات على موقع فيسبوك، حديثاً، خبراً مفاده أن مُنظمة الصحّة العالمية&nbsp;دعت الدكتور أسعد العرفي من مدينة سلوق شرق بنغازي في ليبيا، حول علاج فايروس كورونا المستجد الذي اكتشفه بمحض الصدفة.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_9geklop2q.jpg\" style=\"height:273px; width:605px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"1.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_cr6ri533e.jpg\" style=\"height:319px; width:605px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"0.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_d8iq761vf.jpg\" style=\"height:289px; width:605px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 332,
+        "left": 11.10528564453125,
+        "path": "articles/1598954186118599921_936715440144298_181010701375460690_n.jpg",
+        "top": 57.746826171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-1598954186118599921_936715440144298_181010701375460690_n.jpg",
+        "width": 591
+    },
+    "post_date": "2020-09-01T10:38:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/libyan.tmoh/photos/a.1700251530282506/2404209159886736",
+            "name": "طُموحآت شاب ليبي",
+            "path": "published/0_1598954185_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/107970797401589/photos/a.112118706986798/215226243342710/",
+            "name": "سيدات ليبيا",
+            "path": "published/1_1598954185_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/kalamlibye/photos/a.325999684549213/936715436810965/",
+            "name": "كلام ليبي",
+            "path": "published/2_1598954185_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/elkeeeeeeza/photos/a.102580428011845/172938717642682/ ",
+            "name": "عاجل بنغازي الأصلية",
+            "path": "published/3_1598954185_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/110769000753749/photos/a.110785974085385/111740803989902/",
+            "name": "صدي صوت الوطن",
+            "path": "published/4_1598954186_67819776_2303763929710849_8279055560511324160_o.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D8%B3%D8%B9%D8%AF-%D8%A7%D8%B2%D8%A8%D9%8A%D8%B7%D8%A9-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A%D8%A9-107196624154023/?ref=page_internal",
+            "name": "قناة اسعد ازبيطة الاجتماعية",
+            "path": "sources/0_1598954186_94815188_158457565694595_7938373613516750848_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://misbar.com/factcheck/2020/06/07/%D9%85%D8%B5%D8%B1%D9%8A-%D9%8A%D9%83%D8%AA%D8%B4%D9%81-%D9%84%D9%82%D8%A7%D8%AD-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-%D9%85%D9%86-%D8%B3%D9%85-%D8%A7%D9%84%D9%86%D8%AD%D9%84-%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D8%A7%D9%84%D9%82%D8%B5%D8%A9",
+            "name": "misbar",
+            "path": "sources/1_1598954186_misbar.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الصحة العالمية لم تستدع طبيباً ليبيًّا اكتشف دواءً لكورونا من سم النحل",
+    "updated_at": "2020-09-25 22:11:40",
+    "url_path": "/factcheck/2020/09/01/الصحة-العالمية-لم-تستدع-طبيبا-ليبيا-اكتشف-دواء-لكورونا-من-سم-النحل"
+}

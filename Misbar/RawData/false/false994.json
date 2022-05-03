@@ -1,0 +1,75 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 2,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 677,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "category": "Arts & Culture",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">استبدال نانسي عجرم في برنامج <span dir=\"LTR\">the voice kids</span> بالفنانة نسرين طافش، بعد دفع قيمة شرط العقد الجزائي لمجموعة <span dir=\"LTR\">MBC</span> البالغ 200 ألف دولار، بسبب حضور نانسي لجلسات استماع وشهادة ومحاكم متعلقة بقضيتها الأخيرة هي وزوجها.</p>\r\n",
+    "country": "LB",
+    "created_at": "2020-01-19 15:06:06",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e24462ed4a22930d71f6ba3",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">الخبر غير صحيح، إذ نفت الفنانة نسرين طافش عبر حسابها على &quot;تويتر&quot; صحة ما تم تداوله، كما أكدت أنه لم يتم استبدال نانسي عجرم وتعيينها بديلةً لها في برنامج <span dir=\"LTR\">&ldquo;The voice kids&rdquo;</span>.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_32a6b206c2c14051fb72361fab465e9d.jpg\" style=\"height:354px; width:539px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "نسرين",
+        "طافش",
+        "نانسي",
+        "عجرم",
+        "ذا",
+        "فويس"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_e718546cb4e316ac0aadd0032e512815.jpg\" style=\"height:781px; width:550px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">انتشرت هذه الإشاعة على صفحة تحمل اسم أسواق سورية &ndash; عروض وأسعار، كما انتشرت على إحدى القنوات على موقع يوتيوب، وتفاعل آلاف المستخدمين مع هذا المنشور، خصوصاً وأنَّ الفنانة اللبنانية نانسي عجرم يتم الحديث عنها بكثرة منذ مطلع العام الجاري، وذلك عقب الحادثة التي جرت في منزلها والتي حصدت تفاعلاً كبيراً على منصات التفاعل.</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1579444322GettyImages-914044840.jpg"
+    },
+    "post_date": "2020-01-13T14:53:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/Damascusmarketsdealsandrates/posts/2475453299436730?hc_location=ufi",
+            "name": "أسواق سورية",
+            "path": "published/0_1579435566_facebook.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=JZllACS2J0c",
+            "name": "شاهد واستمتع",
+            "path": "published/1_1579435566_شاهد واستمتع.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/NESREENTAFESH/status/1216401066029473792?fbclid=IwAR3j3q7M7zHxr-fPF2kfOPIJKd3M2RrH3wWfDku6sfWVVKQw8CuA2opLQVM",
+            "name": "نسرين طافش",
+            "path": "sources/0_1579435566_نسرين طافش.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "استبدال نانسي عجرم بنسرين طافش في برنامج ذا فويس كيدز.. إليكم الحقيقة",
+    "updated_at": "2020-09-23 12:39:48",
+    "url_path": "/factcheck/2020/01/19/استبدال-نانسي-عجرم-بنسرين-طافش-في-برنامج-ذا-فويس-كيدز-إليكم-الحقيقة"
+}

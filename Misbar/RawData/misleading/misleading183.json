@@ -1,0 +1,154 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 238,
+    "author": {
+        "fullname": "محمود غزيل",
+        "id": "5ea83263db291659bf4bf4c4",
+        "photo": {
+            "name": "1588081251_IMG-20180505-WA0040.jpg",
+            "path": "authors/1588081251_IMG-20180505-WA0040.jpg"
+        }
+    },
+    "caption": "الفيديو لصاعقة ضربت اليونان عام 2019 (يوتيوب)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">مقطع فيديو لصاعقة ضربت لبنان حديثاً.</p>\r\n",
+    "country": "LB",
+    "created_at": "2020-12-16 19:45:17",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 2,
+    "feedback_pos": 4,
+    "id": "5fda399d7145b678ef7ea6e5",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;<a href=\"https://misbar.com/\" style=\"color:#0563c1; text-decoration:underline\" target=\"_blank\">مسبار</a>&quot; من مقطع الفيديو المتداول ووجد أنه قديم ومضلل، وليس&nbsp;لصاعقة ضربت لبنان حديثاً، ويعود إلى عاصفة ضربت مدينة ثيسالونيكي اليونانية في يوليو/تموز عام 2019.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">يُذكر أن منطقة شرق المتوسط تشهد منخفضاً جويًّا ماطراً رافقته رياح قوية وتوقعات بتحرك العاصفة المتوسطية &quot;إلاينا&quot; جنوباً نحو سواحل لبنان اليوم الأربعاء.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/wBEzGQOjXYU\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">اقرأ/ي أيضاً<br />\r\n<a href=\"https://misbar.com/factcheck/2020/12/14/%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%84%D8%A3%D8%B3%D8%AF-%D9%8A%D8%AA%D8%AC%D9%88%D9%84-%D9%81%D9%8A-%D9%82%D8%B1%D9%8A%D8%A9-%D9%87%D9%86%D8%AF%D9%8A%D8%A9-%D9%88%D9%84%D9%8A%D8%B3-%D9%81%D9%8A-%D9%83%D8%B1%D9%83%D9%25\" style=\"color:#0563c1; text-decoration:underline\" target=\"_blank\">فيديو لأسد يتجول في قرية هندية وليس في كركوك</a></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/12/14/%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D8%A7%D9%84%D8%AC%D8%B3%D9%85-%D8%A7%D9%84%D8%BA%D8%B1%D9%8A%D8%A8-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D9%88%D9%85%D8%B6-%D9%81%D9%88%D9%82-%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D9%89-%D9%82%D8%25A\" style=\"color:#0563c1; text-decoration:underline\" target=\"_blank\">فيديو الجسم الغريب الذي يومض فوق الأقصى.. قد</a>يم</p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "عاصفة رعدية",
+        "شرق البحر الأبيض المتوسط",
+        "اليونان",
+        "لبنان"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\">تناقلت حسابات على مواقع التواصل الاجتماعي، حديثاً، مقطع فيديو يظهر صاعقة، زعمت أنها ضربت منطقة المتن شمالي العاصمة اللبنانية بيروت، وادعت صفحات أخرى أنه التقط في حي فرحات داخل مخيم للاجئين الفلسطينيين في منطقة شاتيلا جنوبي بيروت.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?height=476&amp;href=https%3A%2F%2Fwww.facebook.com%2Fsaidanews%2Fvideos%2F388150755846680%2F&amp;show_text=false&amp;width=375\" style=\"border:none;overflow:hidden\" width=\"375\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?height=476&amp;href=https%3A%2F%2Fwww.facebook.com%2FRadioMa3akOfficial%2Fvideos%2F437191984350784%2F&amp;show_text=false&amp;width=476\" style=\"border:none;overflow:hidden\" width=\"476\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 368,
+        "left": 62.9488525390625,
+        "path": "articles/160813711677.jpg",
+        "top": 9.28369140625,
+        "totalHeight": 423,
+        "totalWidth": 748,
+        "watermark_path": "articles/watermark-160813711677.jpg",
+        "width": 654
+    },
+    "post_date": "2020-12-16T17:29:00.000+03:00",
+    "published": [
+        {
+            "id": "5fda399c105689558a1c6815",
+            "link": "https://www.facebook.com/watch/?v=388150755846680",
+            "name": "Saida Online",
+            "origin": "facebook",
+            "path": "sources/d41b5641225c2c719800eee56d3ea73d439ca1c7.jpg"
+        },
+        {
+            "id": "5fda3c4fba4715647a7b96fa",
+            "link": "https://www.instagram.com/p/CIzjl2jHHxy/",
+            "name": "WhatsUpLebanon",
+            "origin": "",
+            "path": "sources/4c3f5c9403de43e3bd42ee37eca79a55e35ab8ca.jpg"
+        },
+        {
+            "id": "5fda3c5044537441e17db3e4",
+            "link": "https://www.instagram.com/p/CIzxtdaHZS9/",
+            "name": "Hajj Wissam",
+            "origin": "",
+            "path": "sources/4c3f5c9403de43e3bd42ee37eca79a55e35ab8ca.jpg"
+        },
+        {
+            "id": "5fda3c507adcf53ceb537326",
+            "link": "https://www.facebook.com/watch/?v=437191984350784",
+            "name": "Radio Ma3ak - راديو معاك",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        },
+        {
+            "id": "5fda3c50108cb4268e00ab69",
+            "link": "https://twitter.com/robshehadie/status/1338731120410599426",
+            "name": "Rob Shehadie",
+            "origin": "twitter",
+            "path": "sources/22bf0862c18db817124869cfb67d5e83ab5dbd6d.jpg"
+        },
+        {
+            "id": "5fda3c5006adf3103a7fc4c8",
+            "link": "https://www.facebook.com/isho.abu/videos/214351180045448/",
+            "name": "Isho Abu",
+            "origin": "facebook",
+            "path": "sources/1636503784ce56ae2bc317668a8ec92ce3d95c03.jpg"
+        },
+        {
+            "id": "5fbbc6a9cccfe6658927077e",
+            "link": "https://fb.watch/2pTMpwthLI/",
+            "name": "ⵜⵓⵙⵙⵏⴰ توسنا",
+            "origin": "",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5fda3c50657327772a146179",
+            "link": "https://twitter.com/AlHadeelMag/status/1339223085501861889",
+            "name": "Al-Hadeel- الهديل ",
+            "origin": "twitter",
+            "path": "sources/3f08e754b0e6d2b763091e0eaa991fce7793ac99.jpg"
+        },
+        {
+            "id": "5fda3c506a3ea876f11b6785",
+            "link": "https://twitter.com/Sarazaidnour/status/1339228178997530627",
+            "name": "Sarazaidnour",
+            "origin": "twitter",
+            "path": "sources/3f08e754b0e6d2b763091e0eaa991fce7793ac99.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fda399cf7aeca04ab78c195",
+            "link": "https://www.youtube.com/watch?app=desktop&v=wBEzGQOjXYU",
+            "name": "www.youtube.com",
+            "origin": "",
+            "path": "sources/c77a482a58ddcd217799a270a2a99c7543edce4d.jpg"
+        },
+        {
+            "id": "5fda3c513b6777333314a2c9",
+            "link": "https://m.facebook.com/watch/?v=487519398665903",
+            "name": "rtenews",
+            "origin": "",
+            "path": "sources/c10d5f7b0ce33792c407b0f16c95eb8f0153db97.jpg"
+        },
+        {
+            "id": "5fda41a4ef8aa7034e249f11",
+            "link": "https://www.arabiaweather.com/content/%D8%A7%D9%84%D8%B9%D8%A7%D8%B5%D9%81%D8%A9-%D8%A7%D9%84%D9%85%D8%AA%D9%88%D8%B3%D8%B7%D9%8A%D8%A9-%D8%A5%D9%84%D9%8A%D9%86%D8%A7-%D8%AA%D8%AA%D8%B4%D9%83%D9%84-%D9%82%D8%A8%D8%A7%D9%84%D8%A9-%D8%B3%D9%88%D8%A7%D8%AD%D9%84-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%AA%D8%AA%D8%AD%D8%B1%D9%83-%D8%AC%D9%86%D9%88%D8%A8%D8%A7%D9%8B-%D9%86%D8%AD%D9%88-%D9%84%D8%A8%D9%86%D8%A7%D9%86",
+            "name": "طقس العرب",
+            "origin": "",
+            "path": "sources/92385de15e9ecac892ae8cf7b14791abb9908583.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الفيديو قديم لصاعقة في اليونان وليست في لبنان",
+    "updated_at": "2020-12-16 20:29:26",
+    "url_path": "/factcheck/2020/12/16/الفيديو-قديم-لصاعقة-في-اليونان-وليست-في-لبنان",
+    "was_notification_pushed": "true"
+}

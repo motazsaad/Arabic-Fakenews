@@ -1,0 +1,104 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2041,
+    "author": {
+        "fullname": "رشيد عفيف",
+        "id": "5ec4e956db291667784c4bc4",
+        "photo": {
+            "name": "1589963094_رشيد صورة.jpg",
+            "path": "authors/1589963094_رشيد صورة.jpg"
+        }
+    },
+    "caption": "تم تعديل الصورة وإضافة القلادة (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة لبريجيت ماكرون، زوجة الرئيس الفرنسي، وهي ترتدي قلادة أمازيغية.<br />\r\n&nbsp;</p>\r\n",
+    "country": "DZ",
+    "created_at": "2020-07-20 10:43:46",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 0,
+    "id": "5f154b32163be306884cef16",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة ووجد أنّها مفبركة، إذ تم تعديلها وإضافة القلادة المذكورة إليها. وتعود <a href=\"https://www.gettyimages.com/detail/news-photo/miss-emmanuel-macron-attends-the-louis-vuitton-show-as-part-news-photo/514479368?adppopup=true\" style=\"color:blue; text-decoration:underline\">الصورة</a> الأصلية إلى تاريخ 9 مارس<span dir=\"LTR\" lang=\"FR\">/</span>آذار 2016، والتُقطت على هامش حضور بريجيت ماكرون لعرض تصميمات &quot;لويس فويتون&quot; في أسبوع الموضة في باريس.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_l7bria948.jpg\" style=\"height:305px; width:605px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت حسابات&nbsp;وصفحات على موقع التواصل الاجتماعي فيسبوك، حديثاً، صورة لبريجيت ماكرون، زوجة الرئيس الفرنسي، وهي ترتدي قلادة تحمل حرف &quot;<span dir=\"LTR\" lang=\"FR\">z</span>&quot; بالأمازيغية، حسب التعليق المرافق للصورة. وادّعى الناشرون أنّ بريجيت ماكرون ظهرت بهذه القلادة في حفل أقيم بالشانزيليزيه، بمناسبة العيد الوطني لفرنسا، معتبرين أنّ ذلك يؤكد الأصول الأمازيغية للسيدة الأولى في فرنسا.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ke7t6ayz9.jpg\" style=\"height:1065px; width:605px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_5n8ivgret.jpg\" style=\"height:1088px; width:605px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/159523102610.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-159523102610.jpg",
+        "width": 752
+    },
+    "post_date": "2020-07-20T10:41:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=173913454144649&id=110652473804081",
+            "name": "غرفة التحقيق",
+            "path": "published/0_1595231026_غرفة التحقيق.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Amzigh.Algerie.France/posts/733157970813416",
+            "name": "المنظمة الأمازيغية",
+            "path": "published/1_1595231154_المنظمة الأمازيغية.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/107732590965732/posts/135372101535114/",
+            "name": "بلاد لعجب Dzـ2",
+            "path": "published/2_1595231154_بلاد لعجب Dzـ2.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=185524216330195&id=100046178526537",
+            "name": "منبر توسنينة‎‎",
+            "path": ""
+        },
+        {
+            "link": "https://www.facebook.com/CulturArtkabyle2968/posts/157987812469206",
+            "name": "Réseau Art Et Culture Kabyle",
+            "path": "published/4_1595231154_Réseau Art Et Culture Kabyle.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Beinencentre/posts/3851723554842847",
+            "name": "Chafik Bouhabila",
+            "path": "published/5_1595231154_Chafik Bouhabila.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=876510352842110&id=100014494595851",
+            "name": "ابويسير محمد الأمين",
+            "path": "published/6_1595231154_ابويسير محمد الأمين.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.gettyimages.com/detail/news-photo/miss-emmanuel-macron-attends-the-louis-vuitton-show-as-part-news-photo/514479368?adppopup=true",
+            "name": "Getty Images",
+            "path": "sources/0_1595231026_Getty Images.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "بريجيت ماكرون لم تظهر بقلادة أمازيغية في هذه الصورة",
+    "updated_at": "2020-09-25 13:12:25",
+    "url_path": "/factcheck/2020/07/20/بريجيت-ماكرون-لم-تظهر-بقلادة-أمازيغية-في-هذه-الصورة"
+}

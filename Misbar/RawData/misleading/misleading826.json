@@ -1,0 +1,98 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2788,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "زارت الفتاتان البيت الأبيض عام 2016 (تويتر)",
+    "category": "Health",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">فتاتان سافرتا إلى أميركا، بعد خسارة والديهما في الحرب السورية. كما استطاعتا تعلّم اللغة الإنجليزية خلال شهرين. بعدها، درستا علم الكيمياء واخترعتا دارة سلفرونس، وهي مادة كيميائية تساعد على القضاء على سرطان الثدي. وبسبب هذا الإنجاز، لاحقتهما التغطية الإعلامية حتى استضافهن أوباما في البيت الأبيض.</span></p>\r\n",
+    "country": "SY",
+    "created_at": "2020-08-01 18:35:09",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f258bad60211807347b82c6",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من الادعاء المتداول ووجد أنه زائف. زارت الفتاتان السوريتان رهف وهبة رحوان البيت الأبيض عام 2016، بدعوة من </span><a href=\"https://youtu.be/onkpm3JRxgI\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>أوباما</u></span></a><span style=\"color:#000000\">، بصفتهما فتاتين لاجئتين ومثالاً يُحتذى به في الإصرار على الحياة والنجاة لكل الشعب السوري. إذ عند وصولهما إلى أميركا عام 2016 سجلتا في معهد للغة الإنجليزية وعملتا في عدة أماكن لكي تجمعا المال للدراسة الجامعية.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تخرجت رهف مؤخراً من كلية </span><a href=\"https://www.ocean.edu/\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>Ocean County</u></span></a><span style=\"color:#000000\">. وهذه الكلية تقدّم مساقات ومداخل أولية حول تخصصات مختارة، مما ينفي إمكانية أن تخترع رهف دواءً لسرطان الثدي. كما أن ذلك سيكون حدثاً علميًّا كبيراً تغطيه جميع الوسائل الإعلام العالمية، الأمر الذي لم يحصل.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"729\" scrolling=\"no\" src=\"https://web.facebook.com/plugins/video.php?href=https%3A%2F%2Fweb.facebook.com%2Frahaf.rahwan%2Fvideos%2F525777410961851%2F&amp;show_text=1&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل صفحات على مواقع التواصل الاجتماعي، منذ سنوات، صورة لفتاتين مع الرئيس الأميركي السابق باراك أوباما. مع الادعاء بأنهن استطاعتا اختراع مادة كيميائية تساهم في القضاء على سرطان الثدي.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ameyol3pl.jpg\" style=\"height:783px; width:536px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_8yh25g4hs.jpg\" style=\"height:552px; width:532px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 237,
+        "left": 2.4666748046875,
+        "path": "articles/1596296109غلاف.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 424,
+        "watermark_path": "articles/watermark-1596296109غلاف.jpg",
+        "width": 421
+    },
+    "post_date": "2020-08-01T18:29:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/habebalgale99/status/759463528193556484",
+            "name": "حبيب",
+            "path": "published/0_1596296293_حبيب.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/shams.alhalawani/posts/1151784871550000",
+            "name": "Shams Alhalawani",
+            "path": "published/1_1596296293_شمس.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/Aleppo.In.Hearts/photos/a.271643309617291/1026051357509812/?type=3",
+            "name": "على راسي الحلبية",
+            "path": "published/2_1596296293_على.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/permalink.php?story_fbid=535700323293828&id=337629006434295",
+            "name": "سياسيه اجتماعيه",
+            "path": "published/3_1596296416_سياسه.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/permalink.php?story_fbid=1842327109378462&id=100008035722775",
+            "name": "سيد محمد الموالي",
+            "path": "published/4_1596296416_سيد.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://web.facebook.com/rahaf.rahwan/videos/525777410961851/",
+            "name": "Rahaf Rahwan",
+            "path": "sources/0_1596296109_رهف.jpg"
+        },
+        {
+            "link": "https://youtu.be/onkpm3JRxgI",
+            "name": "Hozaifa Aljavash",
+            "path": "sources/1_1596296109_حذيفة.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هاتان الفتاتان لم تخترعا دواء لسرطان الثدي",
+    "updated_at": "2020-09-25 08:19:16",
+    "url_path": "/factcheck/2020/08/01/هاتان-الفتاتان-لم-تخترعا-دواء-لسرطان-الثدي"
+}

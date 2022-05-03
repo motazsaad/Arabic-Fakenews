@@ -1,0 +1,123 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 455,
+    "author": {
+        "fullname": "مريم هواري",
+        "id": "5e299460d4a22939983a3ec5",
+        "photo": {
+            "path": "authors/1579791192_Maryam.jpg"
+        }
+    },
+    "caption": "طائرة أميركية من طراز F-15 اعترضت طائرة الركّاب الإيرانية (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">مقاتلات &quot;إسرائيلية&quot; اعترضت وضايقت طائرة ركّاب إيرانية في طريقها إلى لبنان.</p>\r\n",
+    "country": "IR",
+    "created_at": "2020-07-24 13:50:32",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f1abcf8163be307f3573f6b",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الخبر المتداول ووجد أنّه مضلل. إذ أنّه تم اعتراض طائرة الركّاب الإيرانية&nbsp;من قبل مُقاتلة أميركية وليس &quot;اسرائيلية&quot;، ولم تكُن الواقعة في لبنان بل في الأجواء السورية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وأعلنت القيادة المركزية الأميركية بتاريخ 23 يوليو/حزيران الجاري، أنّ طائرة أميركية من طراز F-15 اعترضت طائرة الركّاب الإيرانية في الأجواء السورية فوق قاعدة التنف العسكرية الأميركية، للتأكد من هويّتها،&nbsp;<a href=\"https://www.aljazeera.net/news/2020/7/23/%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9\"><span style=\"color:#e74c3c\">ووفقاً</span></a> لوكالة&nbsp;هيئة الإذاعة والتلفزيون الإيرانية للأنباء، فإن طائرتين مقاتلتين أميركيتين&nbsp;اقتربتا من طائرة ركاب إيرانية في المجال الجوي السوري، وأفادت الوكالة أنّ قائد طائرة الركاب اتصل بالطيارين لتحذيرهما للحفاظ على مسافة آمنة، وأن الطيارين عرّفا نفسيهما بأنهما أميركيان.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_075wm71xp.jpg\" style=\"height:512px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_rccjzajpd.jpg\" style=\"height:822px; width:624px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_a56i3qct8.jpg\" style=\"height:834px; width:624px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات إعلامية وحسابات على موقع التواصل الاجتماعي تويتر، خبراً بتاريخ 23 يوليو/تموز الجاري، مفاده أن طائرة حربية &quot;إسرائيلية&quot; اعترضت طائرة ركّاب إيرانية تابعة لشركة Mahan Air كانت متّجهة لمطار العاصمة اللبنانية، بيروت.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_cpxvdrz47.jpg\" style=\"height:307px; width:593px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_db1i8ca4w.jpg\" style=\"height:426px; width:498px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_lopcwgw1j.jpg\" style=\"height:218px; width:494px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_23w9wc4my.jpg\" style=\"height:810px; width:490px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 154,
+        "left": 2.82305908203125,
+        "path": "articles/1595587832GettyImages-1254324167.jpg",
+        "top": 4.243408203125,
+        "totalHeight": 174,
+        "totalWidth": 299,
+        "watermark_path": "articles/watermark-1595587832GettyImages-1254324167.jpg",
+        "width": 274
+    },
+    "post_date": "2020-07-24T13:44:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/MohamadAhwaze/status/1286373006709858305",
+            "name": "M.Majed محمد مجيد",
+            "path": "published/0_1595587830_محمد مجيد.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/105892180806441/videos/288354048944707",
+            "name": "Al Hadath Iraq الحدث العراقي",
+            "path": "published/1_1595587831_alhadath alairaqi.jpg"
+        },
+        {
+            "link": "https://www.lebanonfiles.com/articles/video/%D8%B7%D8%A7%D8%A6%D8%B1%D8%A7%D8%AA-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9-%D8%AA%D8%B9%D8%AA%D8%B1%D8%B6-%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9-%D9%85%D8%A7%D9%87%D8%A7%D9%86-%D8%A7%D9%84/\t",
+            "name": "LEBANON FILES",
+            "path": "published/2_1595587831_ليبانون فايلز.jpg"
+        },
+        {
+            "link": "https://twitter.com/YazbekWehbe/status/1286376923686490113",
+            "name": "Yazbek Wehbe",
+            "path": "published/3_1595587831_yazbek wehbe.jpg"
+        },
+        {
+            "link": "https://twitter.com/tareklebanon1/status/1286391640572203009",
+            "name": "طارق الخطاب -أبوزينب Tarek AZ",
+            "path": "published/4_1595587831_طارق الخطاب.jpg"
+        },
+        {
+            "link": "https://twitter.com/atras10/status/1286390678868627457",
+            "name": "ناصر الناصر",
+            "path": "published/5_1595587831_ناصر الناصر.jpg"
+        },
+        {
+            "link": "https://twitter.com/miskalakhbar/status/1286388196755025921",
+            "name": "مسك",
+            "path": "published/6_1595587831_مسك.jpg"
+        },
+        {
+            "link": "https://twitter.com/hadery_m/status/1286387332522835968",
+            "name": "Saif Alhaderyسيف الحاضري",
+            "path": "published/7_1595587831_سيف الحاضري.jpg"
+        },
+        {
+            "link": "https://twitter.com/Fatima_Eid9/status/1286390037316345859",
+            "name": "Fatima Eid",
+            "path": "published/8_1595587831_fatima eid.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.centcom.mil/MEDIA/STATEMENTS/Statements-View/Article/2286567/us-central-command-statement-on-a-visual-inspection-of-a-mahan-air-passenger-ai/utm_source/hootsuite/",
+            "name": "U.S. Central Command",
+            "path": "sources/0_1595587831_US central command.jpg"
+        },
+        {
+            "link": "https://www.aljazeera.net/news/2020/7/23/%D8%B7%D8%A7%D8%A6%D8%B1%D8%A9",
+            "name": "الجزيرة",
+            "path": "sources/1_1595587831_الجزيرة.jpg"
+        },
+        {
+            "link": "https://www.bbc.com/arabic/middleeast-53521276",
+            "name": "BBC عربي",
+            "path": "sources/2_1595587832_بي بي سي عربي- لوغو.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "طائرة حربية أميركية اعترضت طائرة الركاب الإيرانية، وليست طائرة \"إسرائيلية\"",
+    "updated_at": "2020-09-25 10:52:58",
+    "url_path": "/factcheck/2020/07/24/طائرة-حربية-أميركية-اعترضت-طائرة-الركاب-الإيرانية-وليست-طائرة-إسرائيلية"
+}

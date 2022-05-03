@@ -1,0 +1,80 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 1,
+        "fb": 2,
+        "tw": 3
+    },
+    "amount_sources": 0,
+    "amount_visits": 1798,
+    "author": {
+        "fullname": "حسام الهندي",
+        "id": "5e25c80bd4a229629038df03",
+        "photo": {
+            "path": "authors/1579542323_حسام الهندي.jpg"
+        }
+    },
+    "category": "Sports",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">الإعلامي المصري وحارس مرمى الأهلي الأسبق أحمد شوبير يعترف بممارسة النادي الأهلي ضغوطاً على الاتحاد الأفريقي لكرة القدم (الكاف) لاستبعاد</span>&nbsp;<span style=\"background-color:white\"><span style=\"color:#333333\">الحكم </span></span><span style=\"color:black\">الغامبي</span><span style=\"background-color:white\"><span style=\"color:#333333\"> بكاري غاساما</span></span><span style=\"color:black\">، وتعيين الحكم المغربي رضوان جيد، لإدارة مباراة الأهلي المصري والهلال السوداني.&nbsp;</span></p>\r\n",
+    "country": "SD",
+    "created_at": "2020-01-30 13:14:41",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e32ac91d4a229760a0dc6e7",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">صورة التغريدة التي انتشرت على نطاق واسع، يوم 27 يناير/كانون الثاني الجاري، كانت دون أي رابط على موقع تويتر، ولم يكن لها أي أثر في صفحة شوبير الرسمية على تويتر، ونفى الإعلامي المصري صحة التغريدة، محذراً من تداولها، كما كذّب أيضاً صحة محادثة مسربة من تطبيق </span>واتساب<span style=\"color:black\"> بينه وبين خالد مرتجى، عضو مجلس إدارة النادي الأهلي، بشأن حكام مباراة الأهلي والهلال أيضاً.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">وقال على صفحته في موقع تويتر يوم 28 يناير: &quot;قررتُ اتخاذ جميع الإجراءات القانونية ضد كل هؤلاء الخارجين عن القانون والأخلاق مروّجي الفتن والشائعات&quot;.&nbsp;</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img id=\"Picture_x0020_2\" src=\"https://images-prod.misbar.com/articlebody/investigation_0kgkcxvr2.jpg\" style=\"height:199.5pt; width:404.25pt\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تداولت صفحات رياضية وبعض مستخدمي مواقع التواصل الاجتماعي صورة من تغريدة للحساب الشخصي للإعلامي المصري وحارس مرمى النادي الأهلي الأسبق، أحمد شوبير، أرسل خلالها التحية، لإدارة الأهلي لضغطها من أجل تعيين المغربي رضوان جيد لمباراة الهلال، وتابع: &quot;حكم جيد ومعروف لينا&quot;.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">&nbsp;ومن المقرر أن يلتقي نادي الهلال السوداني نظيره الأهلي المصري، يوم السبت المقبل، في الجولة السادسة لدور المجموعات بدوري أبطال أفريقيا.&nbsp;</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;<img id=\"Picture_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/origin_b5mbt09dl.jpg\" style=\"height:256.5pt; width:442.5pt\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1580379723GettyImages-913318882.jpg"
+    },
+    "post_date": "2020-01-30T17:00:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/HILAL.ALSODAN/photos/a.506552522753777/2811970475545292/?type=3&theater",
+            "name": "الهلال السوداني ",
+            "path": "published/0_1580379281_نادي الهلال السوداني.jpg"
+        },
+        {
+            "link": "https://twitter.com/ashrafelgendy1/status/1221870051311194112",
+            "name": "أشرف الجندي",
+            "path": "published/1_1580379281_ashrafelgendy.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Mo2men.5attab/posts/2741159312632361?__xts__[0]=68.ARAWewS6dtwtVCtgtYkgzovE69wF70d3j229lj3pGTxeKGPtE4QesRahxkH0v3W6cYuQhYOZEUi3xYcd5A16N4pjVGBkwc4bClnNEij8oTdbhlvGAlUnBKa86CGewL7NWIJBAk4pYyOMxsyGkRBcV7f_z4btLW2IsCGL5N0UQ4Tgpfd0qOPsmyVqsutZ3CxG9A-bXyU-sy2AYye37dnZGBahOzGeJ_--mPSY_isQM8y_lNZnD5EkQtotK_97vmwnHcMQMjRBYfVr_3nmpzqcY1wGxBAcCSFrC76ymEwTzUtuSASw5APn4-UUTqdoA5v8oBXT&__tn__=-R",
+            "name": "Mo'men M. Khattab",
+            "path": "published/2_1580379281_Mo'men M. Khattab.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/ShobierOfficial/status/1221891448209125376",
+            "name": "أحمد شوبير ",
+            "path": "sources/0_1580379280_أحمد شوبير.jpg"
+        },
+        {
+            "link": "https://www.masrawy.com/sports/sports_news/details/2020/1/28/1713789/شوبير-يتوعد-أصحاب-التغريدة-المزيفة-من-هذا-الشيطان-الذي-يريد-سيناريو?fbclid=IwAR1pDCFQNUvljTO9SPhQM-WrqAN46tSvklxzq4anOQhQYEe-m1o22wrCXcc",
+            "name": "موقع مصراوي",
+            "path": "sources/1_1580379281_موقع مصراوي.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل اعترف \"شوبير\" بضغط الأهلي على \"الكاف\" لاستبدال حكم المباراة مع الهلال؟",
+    "updated_at": "2020-09-24 08:34:59",
+    "url_path": "/factcheck/2020/01/30/هل-اعترف-شوبير-بضغط-الأهلي-على-الكاف-لاستبدال-حكم-المباراة-مع-الهلال"
+}

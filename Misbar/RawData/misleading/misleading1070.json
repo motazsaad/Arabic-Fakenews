@@ -1,0 +1,88 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1294,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "فقد أطلقت الشرطة النرويجية النار وقتلت شخصين في الفترة من 2002 إلى 2014 (Getty)",
+    "category": "News",
+    "claim": "<p style=\"text-align:right\">.مرت 10 سنوات منذ أن أطلقت قوات الأمن النار على شخص ما</p>\r\n",
+    "country": "NO",
+    "created_at": "2020-06-02 20:35:35",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ed68de7db29165b262f8704",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق&nbsp;&quot;مسبار&quot; من المعلومات في التقرير ليجد أنها مضللة، فقد أطلقت الشرطة النرويجية النار وقتلت&nbsp;شخصين&nbsp;في الفترة من 2002 إلى 2014، وأُصيب 18 شخصاً برصاص الشرطة، كما أنه في السنة العادية يوجد&nbsp;ما بين&nbsp; 42 إلى 75 شكوى إلى مديرية الشرطة؛ هددت فيها الشرطة باستخدام الأعيرة النارية، وذلك بحسب الصحف النرويجية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وبعد نشر تقرير النييوزويك في يناير/ كانون ثاني من العام 2015، قتلت الشرطة في سبتمبر/أيلول من العام نفسه رجلاً من المهاجرين في منطقة ي أوتستاد في هدمارك بعد أن أصاب شرطياً بجروح خطيرة، كما أطلقت النار على إمرأة في غرينلاند بمدينة أوسلو، وعلى الرغم من وجود حالات إطلاق نار إلا أنه مقارنة بعدد القتلى الذين ترديهم رصاصات الشرطة الأميركية تبقى الشرطة النرويجية أقل استخداماً للعنف.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_0xfth65um.jpg\" style=\"height:313px; width:605px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">أعاد مستخدمون أجانب خلال الساعات الأخيرة، تغريد تقريراً لمجلة نييوزويك الأميركية على مواقع التواصل الاجتماعي صدر عام 2015، قالت فيه أن الشرطة في النرويج نادراً ما تستخدم أسلحتها.&nbsp;فقد مرت عشر سنوات منذ أن أطلقت قوات الأمن النار على شخص ما .</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وأوضحت أن المثال الأكثر وضوحاً هو عندما فتح &quot;الإرهابي&quot; أندرس بريفيك النار في عام 2011 وقتل 77 شخصاً&nbsp;في أوتويا وأوسلو، مضيفاً التقرير أنه في العام 2014 سحب الضُباط أسلحتهم 42 مرة، لكنهم أطلقوا طلقتين فقط أثناء الخدمة. ولم يصب أحد في أي من تلك الحالات.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وقارنت المجلة بين حال الشرطة النرويجية، وضباط الشرطة في الولايات المتحدة فقد قتلوا أكثر من 600 شخص في عام واحد،&nbsp;موضحة أنه يواجه مسؤولو إنفاذ القانون في الولايات المتحدة تهديدات أكبر بالعنف أثناء الخدمة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_e4xtk9f4m.jpg\" style=\"height:474px; width:596px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_n050d976a.jpg\" style=\"height:483px; width:601px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ejjwm8dh0.jpg\" style=\"height:258px; width:605px\" /></p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_yf7yfx49q.jpg\" style=\"height:198px; width:604px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 349,
+        "left": 5,
+        "path": "articles/1591119334GettyImages-1160677127.jpg",
+        "top": 13.0859375,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1591119334GettyImages-1160677127.jpg",
+        "width": 620
+    },
+    "post_date": "2020-06-02T17:53:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.newsweek.com/police-norway-havent-killed-anyone-nearly-10-years-359074?fbclid=IwAR3PUXUOtB70QshXztPUJHnJKF56wyJ-JuSvHEwl9VjaA4YK1IxqfX7AM8M",
+            "name": "newsweek",
+            "path": "published/0_1591119333_نييوزك.JPG"
+        },
+        {
+            "link": "https://in.pinterest.com/amp/pin/111464159504294843/",
+            "name": "pinterest",
+            "path": "published/1_1591119333_بال.JPG"
+        },
+        {
+            "link": "https://twitter.com/TisDoney/status/1267853714716573698",
+            "name": "@TisDoney",
+            "path": "published/2_1591119333_لي لي.jpg"
+        },
+        {
+            "link": "https://twitter.com/amberscorah/status/1267821915424485383",
+            "name": " @amberscorah",
+            "path": "published/3_1591119334_نونو.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.nrk.no/norge/sjelden-at-politiet-dreper-1.12573830?fbclid=IwAR2OcvB_YQujL3rWXdGUaHcknUQrqRbR4KFFJrNveGh4OsG9YL5EGJ7EiNA",
+            "name": "norge/sjelden",
+            "path": "sources/0_1591119334_نرويجي.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الشرطة النرويجية لم تقتل أحداً منذ 10 سنوات.. خبر مضلل",
+    "updated_at": "2020-09-25 12:19:28",
+    "url_path": "/factcheck/2020/06/02/هل-الشرطة-النرويجية-لم-تقتل-أحدا-منذ-10-سنوات"
+}

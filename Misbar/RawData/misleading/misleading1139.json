@@ -1,0 +1,108 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2705,
+    "author": {
+        "fullname": "مروى عبدالرزاق ",
+        "id": "5eb55e16db29161deb4b3924",
+        "photo": {
+            "path": "authors/1589212394_pp.jpg"
+        }
+    },
+    "caption": "الفيديو قديم ويعود إلى 26 نوفمبرعام 2018 (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">حرائق وانقلاب في قطر.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-05-14 22:10:33",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5ebd97a9db29166f795c07c5",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من مقطع الفيديو المتداول وتبين أنه قديم ويعود إلى تاريخ 26 نوفمبر/تشرين الثاني عام 2018، لحظة نشوب حريق بالقرب من جزيرة اللؤلؤة في الدوحة، ولا علاقة له بالوقت الحالي.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"506\" src=\"https://www.youtube.com/embed/4Eqoq5y5H30\" width=\"900\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">نشرت بعض الحسابات على موقع التواصل الاجتماعي تويتر منذ 13 مايو/أيار الجاري، مقطع فيديو مع ادعاء أنه لحريق كثيف في العاصمة القطرية الدوحة وسط أنباء عن عملية انقلاب للمرة الثانية.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_tm4gthp81.jpg\" style=\"height:564px; width:466px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_q5w7m6pgz.jpg\" style=\"height:477px; width:444px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 8,
+        "path": "articles/1589483432GettyImages-904612210.jpg",
+        "top": 0,
+        "totalHeight": 512,
+        "totalWidth": 768,
+        "watermark_path": "articles/watermark-1589483432GettyImages-904612210.jpg",
+        "width": 752
+    },
+    "post_date": "2020-05-14T22:04:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/khalifa1996_Q/status/1260693208524341248",
+            "name": "خليفة الغفراني المري",
+            "path": "published/0_1589483432_خليفة الغفراني المري.jpg"
+        },
+        {
+            "link": "https://twitter.com/amjadt25/status/1260685969856049156?s=21",
+            "name": "Amjad Taha",
+            "path": "published/1_1589483432_Amjad Taha.jpg"
+        },
+        {
+            "link": "https://twitter.com/kuwarimud/status/1260703071874809862",
+            "name": "محمد الكواري",
+            "path": "published/2_1589483432_محمد الكواري.jpg"
+        },
+        {
+            "link": "https://twitter.com/MErKrjfajs/status/1260689366432743431",
+            "name": "Mousa Al-Faifi",
+            "path": "published/3_1589483574_Mousa Al-Faifi.jpg"
+        },
+        {
+            "link": "https://twitter.com/Norashanar/status/1260708932147912706",
+            "name": "نورة شنار",
+            "path": "published/4_1589483574_نورة شنار.jpg"
+        },
+        {
+            "link": "https://twitter.com/x3rea/status/1260931220768124928",
+            "name": "3rea",
+            "path": "published/5_1589483574_3rea.jpg"
+        },
+        {
+            "link": "https://twitter.com/ibnalmadinh/status/1260693270113509376",
+            "name": "ابن المدينة",
+            "path": "published/6_1589483574_محمد احمد.jpg"
+        },
+        {
+            "link": "https://twitter.com/KS6AS/status/1260728334536900608",
+            "name": "علي المالكي",
+            "path": "published/7_1589483574_علي المالكي.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=4Eqoq5y5H30",
+            "name": "الفيديو الأصلي",
+            "path": "sources/0_1589483432_yt_1200-vflhSIVnY.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "حرائق وانقلاب في قطر للمرة الثانية.. حقيقة الفيديو",
+    "updated_at": "2020-09-25 17:31:27",
+    "url_path": "/factcheck/2020/05/14/حريق-وانقلاب-في-قطر-حقيقة-الفيديو"
+}

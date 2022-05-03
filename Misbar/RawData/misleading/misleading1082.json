@@ -1,0 +1,111 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2905,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الصورة لمحتجين ضد إجراءات الحجر الصحي (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة تُظهر مؤيدي ترامب أمام البيت الأبيض في العاصمة واشنطن.</p>\r\n",
+    "country": "US",
+    "created_at": "2020-05-31 20:56:50",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ed3efe2db29165c416d6016",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة، وتأكّد أنها قديمة ولم تُلتقط بعد اندلاع الاحتجاجات الأخيرة في ولاية مينيسوتا، علاوة على أنها ليست من أمام البيت الأبيض. فالصورة التُقطت في منتصف شهر أبريل/نيسان من العام الجاري، وتُظهر مجموعة من المحتجين على فرض إجراءات الحجر الصحي، أمام مبنى الكابيتول في ولاية ميشيغان.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_vxoiz6o3q.jpg\" style=\"height:853px; width:741px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_zup8sr09w.jpg\" style=\"height:659px; width:900px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداول مستخدمون على موقعي التواصل الاجتماعي فيسبوك وتويتر، صورة لمجموعة من مؤيدي الرئيس الأميركي دونالد ترامب، احتشدوا أمام البيت الأبيض بعد اندلاع الاحتجاجات الأخيرة في ولاية مينيسوتا. ونُشرت الصورة برفقة تعليق ساخر يقول &quot;شبيحة ترامب من أمام البيت الأبيض: ترامب هو صمّام الأمان&quot;.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"613\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FLebanese.LifeStyle%2Fposts%2F1731743793658133&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"594\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ffawj.el.pijama%2Fposts%2F163682405136178&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"632\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D270001717697035%26id%3D105279944169214&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 354,
+        "left": 0.99053955078125,
+        "path": "articles/1590947810GettyImages-1210050182.jpg",
+        "top": 11,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1590947810GettyImages-1210050182.jpg",
+        "width": 630
+    },
+    "post_date": "2020-05-31T20:45:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=2904279346355609&set=a.420906901359545&type=3&theater",
+            "name": "Mohamad Melhem",
+            "path": "published/0_1590947809_Mohamad Melhem.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Lebanese.LifeStyle/photos/a.145655782266950/1731743766991469/?type=3&theater",
+            "name": "Lebanese Life Style",
+            "path": "published/1_1590947809_Lebanese Life Style.jpg"
+        },
+        {
+            "link": "https://twitter.com/Alimsheik03022/status/1266400561475342342",
+            "name": "Ali Msheik",
+            "path": "published/2_1590947809_Ali Msheik.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/fawj.el.pijama/photos/a.101011141403305/163682381802847/?type=3&theater",
+            "name": "فوج الباجيما ",
+            "path": "published/3_1590947809_فوج الباجيما.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/469946173943990/permalink/564162684522338/",
+            "name": "Baghera RideBoss",
+            "path": "published/4_1590947809_Baghera RideBoss.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=2964249783640334&set=a.611007708964565&type=3&theater",
+            "name": "Osama Fetyan",
+            "path": "published/5_1590947809_Osama Fetyan.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/105279944169214/photos/a.105305654166643/270001684363705/?type=3&theater",
+            "name": "Lebanon Dream",
+            "path": "published/6_1590947809_Lebanon Dream.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=906674836461029&set=a.326261887835663&type=3&theater",
+            "name": "Ali Alkhansa",
+            "path": "published/7_1590947809_Ali Alkhansa.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.vox.com/2020/5/10/21252583/coronavirus-lockdown-protests-media-trump",
+            "name": "VOX",
+            "path": "sources/0_1590947809_VOX.jpg"
+        },
+        {
+            "link": "https://www.gettyimages.ae/detail/news-photo/people-take-part-in-a-protest-for-michiganders-against-news-photo/1210050182?adppopup=true",
+            "name": "Getty Images",
+            "path": "sources/1_1590947810_gettyimages icon.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "\"شبيحة\" ترامب أمام البيت الأبيض.. ما حقيقة الصورة؟",
+    "updated_at": "2020-09-25 10:48:33",
+    "url_path": "/factcheck/2020/05/31/-شبيحة-ترامب-أمام-البيت-الأبيض-ما-حقيقة-الصورة"
+}

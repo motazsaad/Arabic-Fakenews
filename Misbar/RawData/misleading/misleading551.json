@@ -1,0 +1,109 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 134,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "تعود الصورة لشركة هواتف خاصة (فيسبوك)",
+    "category": "Technology",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">صورة من محافظة سوسة التونسية لشاب يعرض الزواج على حبيبته عبر لوحة إشهارية</span></p>\r\n",
+    "country": "TN",
+    "created_at": "2020-10-03 17:24:15",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 3,
+    "id": "5f78898f3108494974394cfe",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة ووجد&nbsp;أنها مضللة ومتداولة بشكل ساخر، ولا تعود لشاب تونسي يطلب الزواج من حبيبته عبر لوحة إشهارية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وتبين أنها لوحة إشهارية ترويجية لشركة مختصة في بيع الهواتف الجوالة، <a href=\"https://www.facebook.com/Borgi.Phones/?__tn__=-UC*F\" style=\"color:blue; text-decoration:underline\"><span dir=\"LTR\">Borgi Phones</span></a>&nbsp;في مدينة حمام سوسة الساحلية، تعتمد على هاشتاغ <a href=\"https://www.facebook.com/hashtag/iziganbidou?__eep__=6&amp;__tn__=*NK*F\" style=\"color:blue; text-decoration:underline\"><strong><span dir=\"LTR\">#iziganbidou</span></strong></a> في منشوراتها.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وتواصل &quot;مسبار&quot; مع <a href=\"https://www.facebook.com/Borgi.Phones\" style=\"color:blue; text-decoration:underline\">حسني البرجي</a> صاحب الشركة، وأكد أنه من قام بوضع اللوحة المتداولة، كشكل من أشكال التسويق. وقال إن اختياره لاسم مريم كان مدروساً، بعد أن بحث عن أكثر الأسماء شهرة وتداولاً في تونس، ليساعد على نجاح فكرته.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"609\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FBorgi.Phones%2Fposts%2F3429577417103623&amp;show_text=true&amp;width=553&amp;height=609&amp;appId\" style=\"border:none;overflow:hidden\" width=\"553\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات وحسابات على موقعي فيسبوك وتويتر، صورة تدّعي أنها لشاب تونسي يطلب الزواج من حبيبته عبر لوحة إشهارية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_ixd1uqq0z.jpg\" style=\"height:322px; width:605px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"0.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_qyg9624ms.jpg\" style=\"height:389px; width:601px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 339,
+        "left": 3.10528564453125,
+        "path": "articles/1601735055120277100_3429577320436966_4367106713370039215_n.jpg",
+        "top": 45.746826171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-1601735055120277100_3429577320436966_4367106713370039215_n.jpg",
+        "width": 603
+    },
+    "post_date": "2020-10-03T15:07:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/tyorjan/status/1312148256705507329/photo/1",
+            "name": "⁩سارا نصراوي",
+            "path": "published/0_1601735054_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/GarabNadai/status/1309933964342239232",
+            "name": "Nadai Garab",
+            "path": "published/1_1601735054_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/photo?fbid=328902201523388&set=gm.346083566665862",
+            "name": "Melek Ømrį",
+            "path": "published/2_1601735054_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/OuedmelizToday/photos/a.396655560907330/778475316058684/",
+            "name": "وادي مليز24",
+            "path": "published/3_1601735055_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/photo?fbid=1679151182234228&set=a.326011340881559",
+            "name": "Fedi Seddiki",
+            "path": "published/4_1601735055_67819776_2303763929710849_8279055560511324160_o.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.jawharafm.net/ar/article/%D9%86%D8%AD%D8%A8%D9%83-%D9%8A%D8%A7-%D9%85%D8%B1%D9%8A%D9%85..-%D9%84%D9%88%D8%AD%D8%A9-%D9%85%D8%AB%D9%8A%D8%B1%D8%A9-%D9%84%D9%84%D8%AC%D8%AF%D9%84-%D9%82%D8%B1%D8%A8-%D9%85%D8%B1%D9%83%D8%B2-%D8%A3%D9%85%D9%86-%D9%81%D9%8A-%D8%AD%D9%85%D8%A7%D9%85-%D8%B3%D9%88%D8%B3%D8%A9-/105/176910",
+            "name": "JawharaFM",
+            "path": "sources/0_1601735055_881b3f8758a48053ec7742ac76c424fcf54675d0.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/Borgi.Phones/photos/a.965537983507591/3429577313770300",
+            "name": "Borgi Phones",
+            "path": "sources/1_1601735055_15585123_1265474176847302_1354948186835077527_o.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الصورة للافتة ترويجية وليست لتونسي طلب الزواج من حبيبته",
+    "updated_at": "2020-10-08 20:50:04",
+    "url_path": "/factcheck/2020/10/03/الصورة-للافتة-ترويجية-وليست-لتونسي-طلب-الزواج-من-حبيبته",
+    "was_notification_pushed": "true"
+}

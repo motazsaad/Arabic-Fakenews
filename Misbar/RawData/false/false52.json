@@ -1,0 +1,134 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 153,
+    "author": {
+        "fullname": "خالد إسماعيل",
+        "id": "5e59256dd4a2295224257db3",
+        "photo": {
+            "name": "1582900589_صورة 2.jpg",
+            "path": "authors/1582900589_صورة 2.jpg"
+        }
+    },
+    "caption": "رئيس النادي دفع قيمة صفقة مارادونا بالكامل (Getty)",
+    "category": "Sports",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">نادي نابولي الإيطالي سدّد قيمة صفقة شراء نجم كرة القدم دييغو مارادونا وقدرها سبعة ملايين جنيه إسترليني بواسطة اكتتاب شعبي بعد رفض عمدة المدينة دعم النادي مادياً.</p>\r\n",
+    "country": "IT",
+    "created_at": "2020-12-23 14:52:25",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5fe32f793b0d21290f7ebc9b",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;<a href=\"https://misbar.com/\" target=\"_blank\">مسبار</a>&quot; من الادعاء المتداول <span style=\"background-color:white\">وتبين أنه زائف، إذ من خلال البحث عن القصة لم يظهر لها أثر في أي وسيلة&nbsp;إعلامية موثوقة. </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">ووجد &quot;مسبار&quot; أن صفقة انتقال مارادونا إلى نابولي، لم تكلف سبعة ملايين جنيه إسترليني، إذ كشف رئيس نادي نابولي السابق كورادو فيرلاينو في لقاء أجراه عام 2017 أن صفقة انتقال مارادونا كلفت نادي نابولي نحو خمسة ملايين جنيه إسترليني ليغدو&nbsp;آنذاك أغلى لاعب في التاريخ. كما قال فيرلاينو إنه سدّد قيمة الصفقة كاملة من ماله الخاص، رغم الانتقادات الكبيرة التي واجهها.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">يُذكر أن نابولي لم يفز بأي بطولة قبل قدوم مارادونا إلى النادي صيف عام 1984، وفي غضون ثلاث سنوات، قاد النجم الأرجنتيني فريقه إلى الحصول على بطولة الدوري الإيطالي لأول مرة، وأثار خبر وفاته في نوفمبر/تشرين الثاني الفائت حزناً كبيراً لدى جماهير اللعبة حول العالم.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"background-color:white\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_b1n9ml6cq.jpg\" style=\"height:533px; width:546px\" /></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"background-color:white\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_l73gsgzke.jpg\" style=\"height:354px; width:535px\" /></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">اقرأ/ي أيضاً:</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/12/07/%D9%84%D9%85-%D9%8A%D8%AA%D8%B9%D8%B1%D8%B6-%D9%83%D8%B1%D9%8A%D8%B3%D8%AA%D9%8A%D8%A7%D9%86%D9%88-%D8%B1%D9%88%D9%86%D8%A7%D9%84%D8%AF%D9%88-%D9%84%D8%AD%D8%A7%D8%AF%D8%AB-%D8%B3%D9%8A%D8%B1-%D9%81%D9%8A-%D8%A5%D9%8A%D8%B7%D8%A7%D9%84%D9%8A%D8%A9\" target=\"_blank\">لم يتعرض كريستيانو رونالدو لحادث سير في إيطاليا</a></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/12/20/%D9%8A%D9%88%D9%81%D9%86%D8%AA%D9%88%D8%B3-%D9%86%D8%B4%D8%B1-%D8%A8%D9%8A%D8%AA-%D8%B4%D8%B9%D8%B1-%D9%84%D9%84%D9%85%D8%AA%D9%86%D8%A8%D9%8A-%D8%A7%D8%AD%D8%AA%D9%81%D8%A7%D8%A1-%D8%A8%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9\" target=\"_blank\">يوفنتوس نشر بيت شعر للمتنبي احتفاءً&nbsp;باللغة العربية</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "مارادونا",
+        "نابولي",
+        "إيطاليا"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [
+        "مارادونا"
+    ],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول حسابات وصفحات على مواقع التواصل الاجتماعي، منذ نهاية شهر نوفمبر/تشرين الثاني الفائت، قصة عن كيفية استطاعة نادي نابولي الإيطالي، الذي يعوزه المال، شراء نجم كرة القدم دييغو مارادونا. إذ قال ناشرو القصة إنّ رئيس النادي طلب دعماً مالياً من عمدة المدينة لشراء مارادونا ولكنه تردد في الموافقة، ما دعا الجماهير إلى تشكيل صندوق اكتتاب شعبي نجح في إتمام الصفقة مقابل سبعة ملايين جنيه إسترليني.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_hu6rg2pca.jpg\" style=\"height:759px; width:530px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_vd9339fwa.jpg\" style=\"height:1010px; width:518px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 358,
+        "left": -0.67608642578125,
+        "path": "articles/1608724344GettyImages-1287945292 (1).jpg",
+        "top": 19.207275390625,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1608724344GettyImages-1287945292 (1).jpg",
+        "width": 635
+    },
+    "post_date": "2020-12-23T13:42:00.000+03:00",
+    "published": [
+        {
+            "id": "5fe330b3771fca6a30124443",
+            "link": "https://www.facebook.com/impararelalinguaitaliana/photos/a.767712226631118/3386551724747142/",
+            "name": "Imparare la lingua italiana",
+            "origin": "facebook",
+            "path": "sources/f442888763e42f8ac1c692958881620eedd4b051.jpg"
+        },
+        {
+            "id": "5fe330b34c2dc134ed3a917c",
+            "link": "https://www.facebook.com/ismail.pictures47/photos/a.1279676835379575/5276093235737895/",
+            "name": "اجمل صور لاعبي العالم",
+            "origin": "facebook",
+            "path": "sources/915388a971639490c8f2a0ed6eeec52d7da9f944.jpg"
+        },
+        {
+            "id": "5f93039014e79834dd66051a",
+            "link": "https://www.facebook.com/mix.zaki.rbh/photos/a.556682891128268/2196481983815009/",
+            "name": "Mix",
+            "origin": "facebook",
+            "path": "sources/98cfd42955657395d0054dfd8b7b13871abb5c87.jpg"
+        },
+        {
+            "id": "5fe330b348c56c5ad16408a6",
+            "link": "https://www.facebook.com/groups/1555801737826999/permalink/4786054864801654/",
+            "name": "Tarik Ghazal",
+            "origin": "facebook",
+            "path": "sources/9fb41797f3ab0b7b87f8775614ed7b0bdd915b9b.jpg"
+        },
+        {
+            "id": "5fe330b4d33ca82c89332ae8",
+            "link": "https://www.facebook.com/dr.Grinta/photos/a.105414551017049/251116136446889/",
+            "name": "فوتبول جرينتا",
+            "origin": "facebook",
+            "path": "sources/3e3fb5b613a120b23afe5919eba1e0d6cda9590f.jpg"
+        },
+        {
+            "id": "5fe330b446cd6a5fd5342652",
+            "link": "https://www.facebook.com/nesrin.shahhat.9/posts/2770379319906386",
+            "name": "Nesrin Shahhat",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        },
+        {
+            "id": "5fe330b496e23a39d252c7e8",
+            "link": "https://www.facebook.com/SomethingOfEverythingdotJaia/photos/a.411958028998815/1633845960143343/",
+            "name": "شي من كل شي",
+            "origin": "facebook",
+            "path": "sources/94f04fbf43aaa65ccd6f1a7c25297c9c142fa1cf.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f9c0f2709eb9442f11cc024",
+            "link": "https://www.goal.com/en-ug/news/maradona-cost-twice-as-much-as-ronaldo-claims-former-napoli/1vcg07kda4dr11buntrhznab1f",
+            "name": "Goal",
+            "origin": "",
+            "path": "sources/1d9a0eb16b1c53cbbd0804c409346f69a6f57059.jpg"
+        },
+        {
+            "id": "5fe32f78d0f19c2ea5184dd1",
+            "link": "https://www.espn.com.au/football/napoli/story/3060404/diego-maradona-cost-twice-as-much-as-cristiano-ronaldo-ex-napoli-president",
+            "name": "ESPN.com",
+            "origin": "",
+            "path": "sources/541ff72c9fe46fc28840625bafd013888818c9c7.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "رئيس النادي دفع قيمة صفقة مارادونا بالكامل.",
+    "title": "نادي نابولي الإيطالي لم يشتر مارادونا باكتتاب شعبي",
+    "updated_at": "2020-12-23 15:22:35",
+    "url_path": "/factcheck/2020/12/23/نادي-نابولي-الإيطالي-لم-يشتر-مارادونا-باكتتاب-شعبي",
+    "was_notification_pushed": "true"
+}

@@ -1,0 +1,88 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 1,
+        "fb": 2,
+        "tw": 3
+    },
+    "amount_sources": 0,
+    "amount_visits": 4262,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "تجاهلت بعض وسائل الإعلام خبر الإفراج عن عنصر الشرطة الذي تسبّب بمقتل الشاب السوري (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">وسائل إعلام تركيّة: إيقاف شرطي عن العمل لتسببه بوفاة سوريٍّ بالخطأ.</p>\r\n",
+    "country": "TR",
+    "created_at": "2020-04-30 11:45:48",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eaa903cdb29163a5a7856f4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من البيان الصادر عن مديرية الصحافة والعلاقات العامة في ولاية أضنة، ووجد أنّ عدّة وسائل إعلام قد تناولت مضمون البيان بانتقائية، إذ في الوقت الذي أوردت فيه غالبية المعلومات التي يتضمنها البيان، فإنها تجاهلت ذكر إحدى النقاط فيه، والتي تفيد بالإفراج عن عنصر الشرطة الذي أطلق النار على الشاب السوري علي العساني الأمر الذي تسبّب بوفاته في وقتٍ لاحق، واكتفت بذكر التفصيل الذي تضمنه البيان والذي يشير&nbsp;إلى أن التحقيقات ما تزال مستمرة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وطالب مواطنون وناشطون أتراك وسوريون على مواقع التواصل الاجتماعي بمحاسبة الشرطي الذي أطلق النار، وأطلقوا على منصة تويتر وسم &quot;#<span dir=\"LTR\">AliyiOElduerenlerNerede</span>&quot;، الذي يطالب بمحاسبة المسؤول ويعبّر عن التضامن مع عائلة الضحية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_rdfnyw3wn.jpg\" style=\"height:305px; width:601px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت بعض وسائل الإعلام بياناً صدر عن إدارة ولاية أضنة التي حصل فيها الحادث، مفاده أنّ السلطات التركية قرّرت إيقاف شرطي عن العمل، إثر تسببه بالخطأ بوفاة شاب سوري هرب من نقطة تفتيش.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وذكرت إدارة الولاية أنّ شرطة مديرية أمن منطقة &quot;سيهان&quot;، قد أقامت نقطة تفتيش في حي &quot;سوجو زاده&quot;، وأنّ شاباً سورياً يدعى &quot;أ.هـ&quot; أصيب بالخطأ بعيار ناري، إثر إطلاق نار تحذيري بعد هروبه وعدم امتثاله لطلب عناصر الشرطة منه بالوقوف. ولفت البيان أن الشاب فقد حياته بعد محاولات لإنقاذه في المستشفى التي نُقل إليها. وأكدت بعض وسائل الإعلام التي تناولت البيان أنّه أفاد بإيقاف عنصر الشرطة الذي أطلق النار بشكل مؤقت عن العمل، وأنّ التحقيقات مستمرة حول القضية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_rr16tk0pb.jpg\" style=\"height:401px; width:601px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_9gtpwbpwm.jpg\" style=\"height:528px; width:602px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_x5lpt54ng.jpg\" style=\"height:626px; width:602px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 350,
+        "left": 4.03497314453125,
+        "path": "articles/1588236347GettyImages-482478126.jpg",
+        "top": 8.800048828125,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1588236347GettyImages-482478126.jpg",
+        "width": 621
+    },
+    "post_date": "2020-04-30T11:35:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.aa.com.tr/ar/%D8%A7%D9%84%D8%AF%D9%88%D9%84-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9/%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D9%88%D9%82%D9%81-%D8%B4%D8%B1%D8%B7%D9%8A-%D8%B9%D9%86-%D8%A7%D9%84%D8%B9%D9%85%D9%84-%D9%84%D8%AA%D8%B3%D8%A8%D8%A8%D9%87-%D8%A8%D9%88%D9%81%D8%A7%D8%A9-%D8%B3%D9%88%D8%B1%D9%8A-%D8%A8%D8%A7%D9%84%D8%AE%D8%B7%D8%A3/1821026",
+            "name": "وكالة الأناضول ",
+            "path": "published/0_1588236346_وكالة الأناضول - لوغو.jpg"
+        },
+        {
+            "link": "http://www.turkpress.co/node/70948",
+            "name": "ترك برس",
+            "path": "published/1_1588236346_ترك برس.jpg"
+        },
+        {
+            "link": "https://newturkpost.com/news/62059-%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84-%D9%85%D9%82%D8%AA%D9%84-%D8%A7%D9%84%D8%B4%D8%A7%D8%A8-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A-%D9%81%D9%8A-%D8%A3%D8%B6%D9%86%D8%A9",
+            "name": "وكالة نيو ترك بوست",
+            "path": "published/2_1588236346_وكالة نيو ترك بوست.jpg"
+        }
+    ],
+    "result": "selective",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "http://adana.gov.tr/basin-bulteni-28-04-2020-",
+            "name": "T.c. Adana Valiligi",
+            "path": "sources/0_1588236347_T.c. Adana Valiligi.jpg"
+        },
+        {
+            "link": "https://www.bbc.com/arabic/trending-52458730",
+            "name": "BBC عربية ",
+            "path": "sources/1_1588236445_BBC NEWS-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "انتقائية في تناول بعض وسائل الإعلام قضية مقتل شاب سوري في تركيا",
+    "updated_at": "2020-09-25 05:40:04",
+    "url_path": "/factcheck/2020/04/30/انتقائية-في-تناول-بعض-وسائل-الإعلام-قضية-مقتل-شاب-سوري-في-تركيا"
+}

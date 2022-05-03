@@ -1,0 +1,104 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 442,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "الصورة لمهاجر تونسي (فيسبوك)",
+    "category": "Travel",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة لمهاجر غير شرعي جزائري يجتاز البحر مع&nbsp; ابنه الرضيع نحو اسبانيا.</p>\r\n",
+    "country": "DZ",
+    "created_at": "2020-07-29 13:07:01",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f214a45163be306a1449ac1",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة المتداولة ووجد أنها مضللة، ولا علاقة لها بحادثة اجتياز حوالي <span dir=\"LTR\">418</span> مهاجر غير شرعي جزائري للحدود الاسبانية خلال 24 ساعة، في الليلة الفاصلة بين 24 و25 يوليو/تموز الجاري. وتبين، وفق موقع الصحفي الألماني والخبير في الشأن المغاربي <span style=\"background-color:white\"><span style=\"color:#232d37\"><a href=\"https://beatstauffer.ch/ueberfahrt-nach-italien-mit-einem-baby/\" style=\"color:blue; text-decoration:underline\">Beat Stauffer</a>، </span></span>أنها لمهاجر تونسي من<span style=\"background-color:white\">&nbsp;محافظة المهدية الساحلية، في طريقه لاجتياز الحدود البحرية نحو إيطاليا، نشرها بتاريخ 23 يونيو/حزيران من العام الجاري.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"2.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_k386qnjt5.jpg\" style=\"height:514px; width:605px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"33.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_ria0nvxe4.jpg\" style=\"height:564px; width:455px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"55.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_yovp2jts3.jpg\" style=\"height:492px; width:371px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">تتدوال صفحات إخبارية وحسابات على مواقع التواصل الاجتماعي، مؤخراً، صورة تدعي أنها لمهاجر غير شرعي جزائري، يجتاز البحر مع ابنه الرضيع نحو اسبانيا، ضمن هجرة جماعية لـ400 شخص. ونقلت الصفحات نفسها هذه الصّورة مرفقة بتعليق &quot;أخبروهم بأن لا أحد يضيع أطفاله في قارب<span dir=\"LTR\">&nbsp;</span>الموت<span dir=\"LTR\"> ...</span>إلا إذا كان البحر أكثر أمانا من الوطن&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"00.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_p66h2tymv.jpg\" style=\"height:342px; width:605px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><img alt=\"1.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_k4kqi29qs.jpg\" style=\"height:344px; width:605px\" /><br />\r\n<img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_b8hy5mk22.jpg\" style=\"height:370px; width:605px\" /><br />\r\n&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 324,
+        "left": 4.10528564453125,
+        "path": "articles/1596017221Harraga_Mahdia_Juni202-2.jpg",
+        "top": 54.746826171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-1596017221Harraga_Mahdia_Juni202-2.jpg",
+        "width": 577
+    },
+    "post_date": "2020-07-29T10:40:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/wlidat.hai.yasmin/photos/a.112024647104408/166970951609777/?type=3&theater",
+            "name": "وليدات حي الياسمين",
+            "path": "published/0_1596017220_103095080_149932606646945_6236146812251800506_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/maatkas15/photos/a.287452418266261/1205515599793267/?type=3&theater",
+            "name": "Maatkas",
+            "path": "published/1_1596017220_44985049_740006969677468_83170654412603392_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Hargadz2013/photos/a.1388743144536711/3056025861141756/?type=3&theater",
+            "name": "خلية الحراقة و اولاد الغربة",
+            "path": "published/2_1596017220_22007588_1388741261203566_433197082522517971_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/1888412808069039/photos/a.1949642445279408/2644036159173363/?type=3&theater",
+            "name": "الجمهورية الشيوعية الديكتاتورية الجزائرية",
+            "path": "published/3_1596017220_20155729_1923637671213219_6057243078382968784_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Bejaiafamily06000/photos/a.717999304910923/3384316818279145/?type=3&theater",
+            "name": "Bejaia Family",
+            "path": "published/4_1596017220_108035762_3349502238427270_1556625478341174908_n.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://beatstauffer.ch/ueberfahrt-nach-italien-mit-einem-baby/",
+            "name": "beatstauffer.ch",
+            "path": "sources/0_1596017220_csm_Beat_Stauffer_537fc15ec0.jpg"
+        },
+        {
+            "link": "https://elpais.com/espana/2020-07-25/llegan-a-las-costas-de-murcia-mas-de-400-migrantes-en-menos-de-24-horas.html",
+            "name": "elpais",
+            "path": "sources/1_1596017220_unnamed.jpg"
+        },
+        {
+            "link": "https://www.rtve.es/noticias/20200725/mas-400-migrantes-llegan-costas-murcia-treintena-pateras/2032680.shtml",
+            "name": "rtve",
+            "path": "sources/2_1596017220_apps.33237.9007199267046109.265e65a5-91b3-4be3-b438-005e1c356703.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه ليست صورة مهاجر غير شرعي جزائري يحمل معه ابنه",
+    "updated_at": "2020-09-25 06:24:35",
+    "url_path": "/factcheck/2020/07/29/هذه-ليست-صورة-مهاجر-غير-شرعي-جزائري-يحمل-معه-ابنه"
+}

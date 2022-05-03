@@ -1,0 +1,121 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 179,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "لم تُعلن الإمارات عن الخبر (getty)",
+    "category": "News",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">الإمارات تمنح جنسيتها لكل من يتخلى عن جنسيته الأصلية.</span></p>\r\n",
+    "country": "AE",
+    "created_at": "2020-10-02 11:36:34",
+    "created_by": "5f39b5a51dd585076701cb94",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 7,
+    "feedback_pos": 18,
+    "id": "5f76e692b843365b43276784",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من الخبر المتداول ووجد أنه مضلل، ولم تُعلن دولة الإمارات مؤخراً عنه. وبالرجوع <a href=\"https://u.ae/ar-ae/information-and-services/passports-and-traveling/uae-nationality?fbclid=IwAR06m1h-QGjO40ImW2U6OmDBnlUrv2ds3ixFnoMKR4RoIXnbZHXjMqXPECI\" style=\"color:#0563c1; text-decoration:underline\">للبوابة الرسمية لدولة الإمارات</a>، تبين أن الخبر المتداول يندرج تحت الشروط اللازمة للحصول على الجنسية، أي ليس الشرط الوحيد لاكتسابها، ويجب توافر العديد من المتطلبات الأخرى للحصول عليها. مثل: (اكتساب الجنسية بحكم القانون- اكتساب الجنسية بالتبعية- اكتساب الجنسية بالتجنيس)، وكل بند من هذه البنود يحتوي على عدة متطلبات هامة، إذا توافرت يحق للشخص التقدم للحصول على الجنسية، ويجب عليه بعد ذلك، أن يتنازل عن جنسيته الأصلية أو أية جنسية أخرى يحملها، بجانب بعض الشروط الأخرى.</span></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت حسابات وصفحات على مواقع التواصل الاجتماعي، حديثاً، خبراً مفاده أن دولة الإمارات ستمنح جنسيتها&nbsp;لكل من يتخلى عن جنسيته الأصلية.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_h8auhr4nq.jpg\" style=\"height:441px; width:553px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_f22kklt5a.jpg\" style=\"height:491px; width:547px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1601627794GettyImages-1266307385.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1601627794GettyImages-1266307385.jpg",
+        "width": 752
+    },
+    "post_date": "2020-10-02T11:31:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/amtyfbdstv/photos/a.235696073503947/891349231271958/?type=3&__xts__%5B0%5D=68.ARAK8q9ajnitAUu89dzO7fCOCaKybd_NLt8f1waTAvDAUoJN3zBbbNkqg0FuatGz1UBB-imqHY0mlBBWvUrPeqxDPABS0TSwIDhAImJ0dX4-YL4iqZctWaKbpjCrOA0x5I6R_P5b0f-YZ96u6gFIKCEbLHBsWh2cM0bG3CzpQpHudCePNqm_Pjxs2tQnOHA_qm_EKaSrGnMRSasxyN6rHq0MWYfwoEFRCRXcaXz3SpQBH6l39QaA7x-MocqaHCj7ke5Gcp4wgi-UsQ7Sfis8TdnojRyLdwT5UiYAFQ-0SqOxcHu8S68Pq_sEc0aNMG4yC5mbT54JGSTYLExRjUtXExs&__tn__=-R",
+            "name": "جيشنا_أملنا البديلة",
+            "path": "published/0_1601627794_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=728622437733094&id=140133103248700",
+            "name": "ألوان سورية",
+            "path": "published/1_1601628177_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "http://شبكة اخبار حي الزهراء بحلب الرسمية",
+            "name": "شبكة اخبار حي الزهراء بحلب الرسمية",
+            "path": "published/2_1601628177_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/noorof___/status/1311429846862565376",
+            "name": "نوروف ",
+            "path": "published/3_1601628177_54ea5aaaa503d2ea4f10e01e64169b4a973b472e.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=217008556429607&id=100043613916402&__xts__%5B0%5D=68.ARBI2hEyYFyIGx_gH5r7tS6heUVpTHtjFiAo2LGXhCUEfB5yFDfN-TuVNTHuIqftHejsAUTMS9QXbgA25jN4PRfogYBuL6a983z6RdwmPvXXCZyzo01xSTeEJcWx9SAxV4DMdPeCh_x16-IsoUa1dOT8vNKIotyV5PFSfGz17IzmQHKapZMKyJqwwHcqXo9NoPUvJf7sSBpW-J1_WUz5zzFFBj9vmaMIL2y76jb-2NDHjdWGbrz2XFs8KaLzUMik1W3j2Ah_hGK9JNmzVtJVuBo06HW9g9YeFKVg_Ih_BtzasnOWdGj0Ee6_68xpbdEFfHY&__tn__=-R",
+            "name": "Mohmed SA",
+            "path": "published/4_1601628177_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "http://Hassn Ayman AL-Mohamad",
+            "name": "Hassn Ayman AL-Mohamad",
+            "path": "published/5_1601628177_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/groups/1384622914993981/permalink/3145040828952172/?__xts__%5B0%5D=68.ARB6cTpk1sXPiStEDnehx1_xN6rbEbSHamaOEHkefeNwqg6Rg_iI0J1x2EZE-PbFodgKJrrtplAjYeTbFMF8bMDqjHOhTsht51YOB0lIc2Jt288TH34o9q2T2Ajefv7W5iffVsyTpwRaP7X1cUYt_tUW3-6ZFJnN3legXkSNG4bMsyQbNPrkDAL6EkRGWiTCs6i0FsCqx9uxqsljdlu0ltpGON490DP2KLc-t_9blhSDY674RIgK4dYW9YJoWOlMBo9uvKWhCX6qOJqcGudqAv1Sp8fHdDq3DMXb4ZaS60l9L9-YMVNYcwHiGJyHKlM&__tn__=-R",
+            "name": "‏Yara Alahmad",
+            "path": "published/6_1601628177_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/groups/1125462094185316/permalink/3429765987088237/?__xts__%5B0%5D=68.ARCfhmgNa0UqQoyxatF7O2Aox5gnhYrTkOa8HA3YIGQVERGun7VKlJ2pVMjLk53MfVrdOqnsrZzh13ZKlZ9089DyeJTnlvN9Jkb7zdU1Nwjmz65npkicgFZIFHYo42kgrSEWz5uI3Mot-4vZtTHVqMyzljeJ3MJ0NeusNbJoW-0fHBQNOWtIt6aYsncVjISWFdA2ZkDjYHVHb9XaGix5bG5LOd1ZekIa--8tEvBoqHYzLPzhmr1nZ04VDJEq1hxN-fV5tQHh4C8eeBeUTWBfvARQKpzto0N093TQncAa67E7ExhFdo4MTDrAUnInjXo&__tn__=-R",
+            "name": "‏Yara Alahmad",
+            "path": "published/7_1601628177_facebook.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://u.ae/ar-ae/information-and-services/passports-and-traveling/uae-nationality?fbclid=IwAR06m1h-QGjO40ImW2U6OmDBnlUrv2ds3ixFnoMKR4RoIXnbZHXjMqXPECI#requirements-for-acquiring-nationality",
+            "name": " البوابة الرسمية لدولة الإمارات",
+            "path": "sources/0_1601627794_b8eea4ec61a2e2dac229827f39180a06c8e5d99f.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الإمارات لا تمنح جنسيتها لكل من يتخلى عن جنسيته الأصلية",
+    "updated_at": "2020-10-02 12:10:49",
+    "url_path": "/factcheck/2020/10/02/الإمارات-لا-تمنح-جنسيتها-لكل-من-يتخلى-عن-جنسيته-الأصلية",
+    "was_notification_pushed": "true"
+}

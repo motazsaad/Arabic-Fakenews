@@ -1,0 +1,106 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 13973,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الصورة من المعرض الدولي السعودي للطيران عام 2019 (تويتر)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة تُظهر كيف ودّعت القوات الجوية المصرية تودع المشير خليفة حفتر والمستشار عقيلة صالح، وترافقهم من مصر حتى مطار بنغازي.</p>\r\n",
+    "country": "LY",
+    "created_at": "2020-06-14 20:15:26",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ee65b2ed6e4a910c17de3a4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الصورة مضللة، إذ بعد الفحص تأكّد &quot;مسبار&quot; من أنها ليست لمقاتلات مصرية ترافق طائرة المشير حفتر والمستشار صالح، إنّما التُقطت في مارس/آذار 2019، وتصوّر جانباً من فعاليات المعرض السعودي الدولي للطيران. وعثر &quot;مسبار&quot; على صورٍ أخرى تُظهر المشهد نفسه لكن من زوايا أخرى.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_zx1gtjjwm.jpg\" style=\"height:587px; width:586px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_kbwq8hg7k.jpg\" style=\"height:721px; width:661px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت حسابات وصفحات على موقع التواصل الاجتماعي فيسبوك، صورة قالوا إنها تُظهر طائرات عسكرية تابعة للقوات المسلحة المصري، وهي ترافق طائرة المشير الليبي خليفة حفتر والمستشار عقيلة صالح، في رحلة عودتها إلى ليبيا بعد انتهاء زيارة قاما بها إلى مصر.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_1ea5s78yc.jpg\" style=\"height:653px; width:492px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_nrqvguvt3.jpg\" style=\"height:662px; width:500px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><img src=\"https://images-prod.misbar.com/articlebody/origin_b57s20tbd.jpg\" style=\"height:642px; width:491px\" /></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 342,
+        "left": 18.6319580078125,
+        "path": "articles/1592154925104279162_3049963591777421_6456180958360090285_n.jpg",
+        "top": 15.79296875,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1592154925104279162_3049963591777421_6456180958360090285_n.jpg",
+        "width": 609
+    },
+    "post_date": "2020-06-14T20:03:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2699820110252899&id=100006748089606",
+            "name": "الدولي أبو مسلم",
+            "path": "published/0_1592154924_الدولي أبو مسلم.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/qazwsxedcrfv123456789/permalink/2757122844392251/",
+            "name": "حسين سعد الديب",
+            "path": "published/1_1592154925_حسين سعد الديب.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=255503079202933&id=110628310357078&__tn__=-R",
+            "name": "مصر أنتِ أغلى درة",
+            "path": "published/2_1592154925_مصر أنت أغلى درة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=183907309736323&id=110215320438856&__tn__=-R",
+            "name": "محبي اللواء عباس كامل",
+            "path": "published/3_1592154925_محبي اللواء عباس كامل.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2634434040132131&id=100006966822642",
+            "name": "أحمد صالح",
+            "path": "published/4_1592154925_أحمد صالح.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/jhosph.kont/posts/2974813475905158",
+            "name": "Jhosph Kont",
+            "path": "published/5_1592154925_Jhosph Kont.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/531084544236932/permalink/555856621759724/?__tn__=-R",
+            "name": "حمدي الشوكى",
+            "path": "published/6_1592154925_حمدي الشوكى.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/CICSaudi/status/1105844248220495874",
+            "name": "CIC Saudi Arabia",
+            "path": "sources/0_1592154925_CIC Saudi Arabia.jpg"
+        },
+        {
+            "link": "https://www.aleqt.com/2019/03/13/article_1559541.html",
+            "name": "الاقتصادية",
+            "path": "sources/1_1592154925_الاقتصادية.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "طائرات الجيش المصري تودّع خليفة حفتر.. حقيقة الصورة",
+    "updated_at": "2020-09-25 12:24:12",
+    "url_path": "/factcheck/2020/06/14/طائرات-الجيش-المصري-تودع-خليفة-حفتر-حقيقة-الصورة"
+}

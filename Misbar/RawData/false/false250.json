@@ -1,0 +1,96 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 189,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "مدير أعماله نفى الخبر، وقمر اعتبرها شائعة مؤذية (تويتر)",
+    "category": "Arts & Culture",
+    "claim": "<p>وفاة المطرب المصري مصطفى قمر بعد إصابته بجلطة مفاجئة.</p>\r\n",
+    "country": "EG",
+    "created_at": "2020-10-03 00:55:18",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 5,
+    "feedback_pos": 6,
+    "id": "5f77a1c67c7c5062512ea28a",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الخبر ليجد أنه مجرد إشاعة ليس لها أساس من الصحة، فقد رد&nbsp;مدير أعماله علي رشاد على الإشاعة بنشر صورة تجمعه بقمر عبر حساباته&nbsp;الخاصة، وعلّق بالقول بالعامية المصرية &quot;حسبي الله ونعم الوكيل.. فيه ناس بتبث شائعات مش فاهم إيه الاستفادة اللي بترجع ليهم، غير إنهم بيتسببوا في أذى نفسي وقلق لأهل وأصدقاء وجمهور الفنان مصطفى قمر، ربنا يشفي نفوسكم المريضة، حبيت أطمن كل اللي وصلته الشائعة وكلمني.. الدرش بخير والحمدلله<span style=\"background-color:white\"><span style=\"color:#2c2f34\">&quot;.</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وكان قمر صاحب أغنية &quot;سكة العاشقين&quot; التي اشتهرت في منتصف&nbsp;تسعينات القرن الماضي،&nbsp;قال فى أول تصريح له بعد شائعة وفاته إلى صحيفة اليوم السابع&nbsp;إنه بخير ويتمتع بصحة جيدة، مشيراً إلى أنه انزعج من تلك الشائعة السخيفة التي لم يعلم مصدرها، ومعرباً&nbsp;عن أمنياته بأن يمتنع الناس عن إطلاق الشائعات التي من الممكن أن تلحق ضرراً كبيراً بغيرهم.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_9hdnw70yb.jpg\" style=\"height:375px; width:602px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_o7ym9x268.jpg\" style=\"height:388px; width:602px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت حسابات على مواقع التواصل الاجتماعي، خبر وفاة المطرب المصري مصطفى قمر في الأول من أكتوبر/تشرين الأول</span><span dir=\"RTL\" lang=\"AR-JO\">وذكرت هذه الحسابات أن سبب الوفاة جلطة مفاجئة، فجعت عائلته وأصدقاءه .</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_in2ytilhs.jpg\" style=\"height:437px; width:602px\" /></p>\r\n\r\n<p><img src=\"https://images-prod.misbar.com/articlebody/origin_s8axk1xhs.jpg\" style=\"height:395px; width:602px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 379,
+        "left": 37.52227783203125,
+        "path": "articles/1601675718EjJJ8ZSVoAAVIOg.jpg",
+        "top": 0.800048828125,
+        "totalHeight": 423,
+        "totalWidth": 837,
+        "watermark_path": "articles/watermark-1601675718EjJJ8ZSVoAAVIOg.jpg",
+        "width": 674
+    },
+    "post_date": "2020-10-03T00:00:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/AHMEDMAVEL/status/1310623679999602690",
+            "name": " AHMED MAGDY ",
+            "path": "published/0_1601675717_ق4.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.youtube.com/watch?v=bee5AzsC02Q",
+            "name": "كورة شراب",
+            "path": "published/1_1601675717_unnamed (1).jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.youtube.com/watch?v=HBIf0831Kq8",
+            "name": "جديدها",
+            "path": "published/2_1601675717_unnamed (2).jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.bnnlb.org/2020/09/29/%d8%aa%d8%af%d8%a7%d9%88%d9%84-%d8%ae%d8%a8%d8%b1-%d9%88%d9%81%d8%a7%d8%a9-%d9%85%d8%b5%d8%b7%d9%81%d9%89-%d9%82%d9%85%d8%b1-%d9%88%d9%85%d8%af%d9%8a%d8%b1-%d8%a3%d8%b9%d9%85%d8%a7%d9%84%d9%87-%d9%8a/",
+            "name": "شبكة بيروت الجديدة",
+            "path": "sources/0_1601675717_4443.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.youm7.com/story/2020/9/29/%D9%85%D8%B5%D8%B7%D9%81%D9%89-%D9%82%D9%85%D8%B1-%D8%B9%D9%86-%D8%B4%D8%A7%D8%A6%D8%B9%D8%A9-%D9%88%D9%81%D8%A7%D8%AA%D9%87-%D9%86%D9%81%D8%B3%D9%89-%D8%A7%D9%84%D9%86%D8%A7%D8%B3-%D8%AA%D8%A8%D8%B7%D9%84-%D8%AA%D8%B2%D8%B9%D8%AC-%D8%A8%D8%B9%D8%B6%D9%87%D8%A7/4997943",
+            "name": "اليوم السابع",
+            "path": "sources/1_1601675717_111.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "المطرب مصطفى قمر على قيد الحياة",
+    "updated_at": "2020-10-03 15:55:10",
+    "url_path": "/factcheck/2020/10/03/المطرب-مصطفى-قمرعلى-قيد-الحياة",
+    "was_notification_pushed": true
+}

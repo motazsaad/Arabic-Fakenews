@@ -1,0 +1,118 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 421,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "لبنان ليس بلداً بركانياً وفق مديرة المركز الوطني للجيوفيزياء (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">توقعت مراكز جيولوجية في أوروبا وأميركا أن يثور بركان دوبي الخامد في لبنان، بعد حدوث هزة أرضية.</p>\r\n",
+    "country": "LB",
+    "created_at": "2020-08-20 11:15:43",
+    "created_by": "5f39b5451dd585078b5d94f3",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f3e312f60211807083306c1",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من صحة التحذيرات المتداولة، وتأكّد من أنها مجرّد إشاعة لا أساس علمي لها. فقد نفت مديرة المركز الوطني للجيوفيزياء في لبنان مارلين البراكس للوكالة الوطنية للإعلام، ما أٌشيع عن هزة أرضية وشيكة سيتبعها نشاط بركاني في منطقة الجنوب اللبناني، وقالت &quot;أنّ لا أحد يستطيع توقع حدوث هزّة أرضية.. وأنّ لبنان ليس بلداً بركانياً&quot;. كما راجع &quot;مسبار&quot; المواقع الإلكترونية التي نسبت بعض المنشورات الخبر إليها، ولم يعثر على أيّ خبر مرتبط بالشائعة المتداولة. وتجدر الإشارة أنّ بركان دوبي لا يقع في لبنان، إنّما إريتريا جنوبي البحر الأحمر.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_w92fs1lo0.jpg\" style=\"height:361px; width:675px\" /></span></strong></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداول مستخدمون عبر &quot;واتساب&quot; وعلى موقعي التواصل الاجتماعي فيسبوك وتويتر، تحذيراتٍ من ثوران بركان دوبي الخامد في لبنان والذي يقع على مقربة من الحدود مع فلسطين المحتلة بعد حدوث هزة أرضية في المنطقة. وقد نسب بعض الناشرين الخبر إلى مراكز جيولوجية أوروبية وأميركية، فيما قال آخرون إنّه نقلاً عن موقع <span dir=\"LTR\">earthquake</span> وعن شبكة <span dir=\"LTR\">cbs news</span> الأميركية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_u95wuuyyb.jpg\" style=\"height:787px; width:537px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_sj7m3xe2z.jpg\" style=\"height:401px; width:625px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_2o52qs5pi.jpg\" style=\"height:550px; width:529px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 351,
+        "left": 4.7329864501953125,
+        "path": "articles/1597911343GettyImages-1228087320.jpg",
+        "top": 17.272705078125,
+        "totalHeight": 423,
+        "totalWidth": 635,
+        "watermark_path": "articles/watermark-1597911343GettyImages-1228087320.jpg",
+        "width": 624
+    },
+    "post_date": "2020-08-20T11:01:00.000+03:00",
+    "published": [
+        {
+            "link": "https://web.whatsapp.com/",
+            "name": "WhatsApp",
+            "path": "published/0_1597911342_whatsapp.jpg"
+        },
+        {
+            "link": "https://twitter.com/NEW_Mohamad12/status/1293654530404618244",
+            "name": "Mohammed",
+            "path": "published/1_1597911342_twitter.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/shereen.ghantous.7/posts/1003621120083743",
+            "name": "Shereen Ghantous",
+            "path": "published/2_1597911342_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/abou.amir.9480111/posts/128255035618822",
+            "name": "Abou Ali",
+            "path": "published/3_1597911342_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/103349616376322/permalink/3376537452390839/?__tn__=-R",
+            "name": "طريف حجازي",
+            "path": "published/4_1597911342_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/theeagle1975/posts/2621307831465842",
+            "name": "Mazen Shahin",
+            "path": "published/5_1597922215_facebook.jpg"
+        },
+        {
+            "link": "",
+            "name": "",
+            "path": ""
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "http://nna-leb.gov.lb/ar/show-news/496597/",
+            "name": "الوكالة الوطنية للإعلام",
+            "path": "sources/0_1597911342_الوكالة الوطنية للإعلام - logo.jpg"
+        },
+        {
+            "link": "https://earthquake.usgs.gov/",
+            "name": "Earthquake",
+            "path": "sources/1_1597911343_earth.jpg"
+        },
+        {
+            "link": "https://www.cbsnews.com/",
+            "name": "cbs news",
+            "path": "sources/2_1597911343_CBS news.jpg"
+        },
+        {
+            "link": "https://www.marefa.org/%D8%A8%D8%B1%D9%83%D8%A7%D9%86_%D8%AF%D9%88%D8%A8%D9%8A",
+            "name": "معرفة",
+            "path": "sources/3_1597911343_معرفة.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لا أساس علمي للتحذير من ثوران بركان في لبنان",
+    "updated_at": "2020-09-25 05:10:12",
+    "url_path": "/factcheck/2020/08/20/لا-أساس-علمي-للتحذير-من-ثوران-بركان-دوبي-في-لبنان"
+}

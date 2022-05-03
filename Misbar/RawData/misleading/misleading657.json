@@ -1,0 +1,97 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2126,
+    "author": {
+        "fullname": "محمد الخالدي",
+        "id": "5ef9dcff163be306aa5d2826",
+        "photo": {
+            "name": "1593433343_48252779_2179011148784786_3755534693705973760_o.jpg",
+            "path": "authors/1593433343_48252779_2179011148784786_3755534693705973760_o.jpg"
+        }
+    },
+    "caption": "",
+    "category": "News",
+    "claim": "<p>حيوان غريب مجهول المعالم يتجول في شوارع قطاع غزة.</p>\r\n",
+    "country": "",
+    "created_at": "2020-09-09 17:29:14",
+    "created_by": "5f39b1ee1dd5850789476b61",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 1,
+    "id": "5f58e6baff7cb06f6f2da72c",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقّق &quot;مسبار&quot; من الصورة ووجدها مُضللة، إذ تبيَّن وكما يظهر في الصورة أنّه كلبٌ مطليٌّ بخطوطٍ سوداء ليبدو شبيهاً بالنمر &quot;البنغالي&quot;، كان يتجول في شوارع ماليزيا، الأمر الذي أثار غضب المواطنين الماليزيين وجمعيات حقوق الحيوان في حينها، كما عرضت إحدى الجمعيات مُكافأةً مالية لمن يعرف صاحب الكلب أو من قام بتخطيطه.</p>\r\n\r\n<p><img src=\"https://images-prod.misbar.com/articlebody/investigation_qxutto2w3.jpg\" style=\"height:468px; width:624px\" /></p>\r\n\r\n<p><img src=\"https://images-prod.misbar.com/articlebody/investigation_gpcxa73ff.jpg\" style=\"height:557px; width:331px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">تداولت حسابات على موقع فيسبوك، بتاريخ 6 سبتمبر/أيلول الجاري، صورةً ادعت أنها تعود لحيوانٍ غريب مجهول المعالم، يتجول في شوارع قطاع غزة. وجاء هذا التداول وسط فرض منع التجوال في القطاع بسبب جائحة فايروس كورونا (كوفيد-19).</p>\r\n\r\n<p><img src=\"https://images-prod.misbar.com/articlebody/origin_qvobxac7c.jpg\" style=\"height:557px; width:459px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><span dir=\"LTR\" lang=\"AR-SA\"><img src=\"https://images-prod.misbar.com/articlebody/origin_b50fs2gmh.jpg\" style=\"height:578px; width:450px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><span dir=\"LTR\" lang=\"AR-SA\"><img src=\"https://images-prod.misbar.com/articlebody/origin_96x0z5jil.jpg\" style=\"height:571px; width:455px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 310,
+        "left": 69.09220886230469,
+        "path": "articles/1599661753alt-tigerdog-min.jpg",
+        "top": 56.5831298828125,
+        "totalHeight": 423,
+        "totalWidth": 689,
+        "watermark_path": "articles/watermark-1599661753alt-tigerdog-min.jpg",
+        "width": 551
+    },
+    "post_date": "2020-09-09T17:27:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=122848282873674&id=100054455070937",
+            "name": "كاري عبد الله",
+            "path": "published/0_1599661949_Facebook_logo.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/marwan.shallah.3/posts/454561625502254",
+            "name": "Marwan Shallah",
+            "path": "published/1_1599663100_Facebook_logo.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/musab.abdalkarim.58/posts/171937237743429",
+            "name": "Musab Abdalkarim",
+            "path": "published/2_1599663100_Facebook_logo.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.ndtv.com/offbeat/stray-dog-found-painted-to-look-like-tiger-sparking-outrage-2288666",
+            "name": "NDTV",
+            "path": "sources/0_1599663999_NDTV2.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/animalmalaysia/posts/1348819721991891",
+            "name": "Malaysia Animal Association",
+            "path": "sources/1_1599664086_Facebook_logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الصورة ليست لحيوان مجهول في شوارع غزة",
+    "updated_at": "2020-09-25 14:37:56",
+    "url_path": "/factcheck/2020/09/09/الصورة-ليست-لحيوان-مجهول-في-شوارع-غزة",
+    "was_notification_pushed": "true"
+}

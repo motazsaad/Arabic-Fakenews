@@ -1,0 +1,97 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 5648,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الفيديو لاحتفالات الصين بعيد الربيع عام 2019 (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">فيديو لاحتفال الصينيين بالقضاء على فايروس كورونا.</p>\r\n",
+    "country": "CN",
+    "created_at": "2020-03-18 12:11:16",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e71e5b4d4a2297079529dc3",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من المقطع المتداول، وتأكّد من عدم صحته، فهو ليس لاحتفال الصين بالقضاء على فايروس كورونا، إنّما هو استعراض لفنون الدفاع عن النفس في مهرجان الربيع في الصين كما جاء في النص المرافق للمقطع الأصلي، الذي عثر عليه &quot;مسبار&quot; منشوراً على &quot;يوتيوب&quot; منذ فبراير/شباط 2019، أي قبل ظهور كورونا. وتجدر الإشارة أنّ الصين لم تقضِ نهائياً على فايروس كورونا حتى الآن، رغم تناقص أعداد الإصابات المسجلة بالفايروس في الأيام الأخيرة.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/4RJ-K1-xz6Y\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداول مستخدمون على موقع فيسبوك، مقطع فيديو قالوا إنّه يُظهر احتفال الصين بالقضاء على فايروس كورونا المستجد (كوفيد-19)، ويصوّر المقطع راقصين يؤدون لوحة فنية جماعية بهذه المناسبة. وجاء في التعليق المرافق للفيديو المتداول &quot;الصين تحتفل بالقضاء نهائياً على فايروس كورونا وترفع علم الصين من خلال هذا العمل الفني الجماعي الرائع.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_o54wv0euf.jpg\" style=\"height:415px; width:553px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_hn6836qfp.jpg\" style=\"height:373px; width:494px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_zrs1m50jc.jpg\" style=\"height:364px; width:497px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 395,
+        "left": 5.22222900390625,
+        "path": "articles/1584522676GettyImages-1128473833.jpg",
+        "top": 12,
+        "totalHeight": 423,
+        "totalWidth": 711,
+        "width": 703
+    },
+    "post_date": "2020-03-18T12:04:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/watch/?ref=search&v=254686208865215&external_log_id=c6e7276b04bc8e85b967e65a9c86ea32&q=%D8%A7%D9%84%D8%B5%D9%8A%D9%86%20%D8%AA%D8%AD%D8%AA%D9%81%D9%84%20%D9%86%D9%87%D8%A7%D8%A6%D9%8A%D8%A7%D9%8B%20%D8%B9%D9%84%D9%89%20%D9%81%D8%A7%D9%8A%D8%B1%D9%88%D8%B3%20%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7",
+            "name": "شباب موديل",
+            "path": "published/0_1584522676_شباب موديل.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?ref=search&v=207106523828767&external_log_id=c6e7276b04bc8e85b967e65a9c86ea32&q=%D8%A7%D9%84%D8%B5%D9%8A%D9%86+%D8%AA%D8%AD%D8%AA%D9%81%D9%84+%D9%86%D9%87%D8%A7%D8%A6%D9%8A%D8%A7%D9%8B+%D8%B9%D9%84%D9%89+%D9%81%D8%A7%D9%8A%D8%B1%D9%88%D8%B3+%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7",
+            "name": "أخبار السويداء نت",
+            "path": "published/1_1584523049_أخبار السويداء نت.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?ref=search&v=2572238076349899&external_log_id=c6e7276b04bc8e85b967e65a9c86ea32&q=%D8%A7%D9%84%D8%B5%D9%8A%D9%86+%D8%AA%D8%AD%D8%AA%D9%81%D9%84+%D9%86%D9%87%D8%A7%D8%A6%D9%8A%D8%A7%D9%8B+%D8%B9%D9%84%D9%89+%D9%81%D8%A7%D9%8A%D8%B1%D9%88%D8%B3+%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7",
+            "name": "Entre Algeriens",
+            "path": "published/2_1584523049_Entre Algeriens.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?ref=search&v=653582722057758&external_log_id=c6e7276b04bc8e85b967e65a9c86ea32&q=%D8%A7%D9%84%D8%B5%D9%8A%D9%86+%D8%AA%D8%AD%D8%AA%D9%81%D9%84+%D9%86%D9%87%D8%A7%D8%A6%D9%8A%D8%A7%D9%8B+%D8%B9%D9%84%D9%89+%D9%81%D8%A7%D9%8A%D8%B1%D9%88%D8%B3+%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7",
+            "name": "دليل حياتك",
+            "path": "published/3_1584523049_دليل حياتك.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?ref=search&v=1123875551297985&external_log_id=c6e7276b04bc8e85b967e65a9c86ea32&q=%D8%A7%D9%84%D8%B5%D9%8A%D9%86+%D8%AA%D8%AD%D8%AA%D9%81%D9%84+%D9%86%D9%87%D8%A7%D8%A6%D9%8A%D8%A7%D9%8B+%D8%B9%D9%84%D9%89+%D9%81%D8%A7%D9%8A%D8%B1%D9%88%D8%B3+%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7",
+            "name": "شوارع العفرون",
+            "path": "published/4_1584523049_شوارع العفرون.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/100001451227474/videos/2937517082973304/",
+            "name": "عبد الله الطويل",
+            "path": "published/5_1584523050_عبد الله الطويل-لوغو.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=4RJ-K1-xz6Y",
+            "name": "الفيديو الأصلي",
+            "path": "sources/0_1584522676_YouTube-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "حقيقة فيديو احتفال الصين بالقضاء على فايروس كورونا",
+    "updated_at": "2020-09-25 17:19:55",
+    "url_path": "/factcheck/2020/03/18/حقيقة-فيديو-احتفال-الصين-بالقضاء-على-فايروس-كورونا"
+}

@@ -1,0 +1,114 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 152,
+    "author": {
+        "fullname": "مريم هواري",
+        "id": "5e299460d4a22939983a3ec5",
+        "photo": {
+            "path": "authors/1579791192_Maryam.jpg"
+        }
+    },
+    "caption": "تقرير صحيفة الشرق الأوسط هو مقال تحليلي وليس إخباري (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">تقارير تكشف عن نوايا بشار الأسد طلب عقد مفاوضات مع &quot;إسرائيل&quot;، وعن وجود مفاوضات سريّة بين الدولتين.</p>\r\n",
+    "country": "SY",
+    "created_at": "2020-09-27 16:42:45",
+    "created_by": "5f39b6aa1dd585076701cb95",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 8,
+    "id": "5f7096d5d5949f2e7e2002c8",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقّق &quot;مسبار&quot; من الأخبار المتداولة ووجد أنّ عناوينها تنطوي على إثارة، إذ أنّ المواقع الإخبارية الاسرائيلية&nbsp;نشرت تقرير&nbsp;&quot;الشرق الأوسط&quot; على شكل&nbsp;معلومات إخبارية مُثبتة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">وبالعودة للتقرير المتداول، وجد &quot;مسبار&quot; أنّه عبارة عن مقال تحليلي للصحافي إبراهيم حميدي، عنوانه &quot;هل تُستأنف المفاوضات السورية الإسرائيلية؟&quot;، وإنّ حميدي لا يُدلي خلاله&nbsp;بمعلوماتٍ أو تصريحاتٍ رسمية عن الموضوع، إنّما يطرح تحليلٍ وأسئلة متعلّقة بالتطورات السياسية الأخيرة في المنطقة العربية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_0g67hlbi4.jpg\" style=\"height:760px; width:624px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">نشرت مواقع إخبارية إسرائيلية، خبراً بتاريخ 27 سبتمبر/أيلول الجاري، عنوانه &quot;تقارير تكشف عن مفاوضات سريّة بين سورية و&quot;إسرائيل&quot;&quot;، بينما نشر البعض الخبر بعنوان &quot;بشار الأسد ينوي طلب مفاوضات مع &quot;إسرائيل&quot;&quot;، وقد نقلت المواقع الإخبارية الخبر المتداول عن تقريرٍ لصحيفة الشرق الأوسط، للصحافي إبراهيم حميدي، مُدّعين أنّه بحسب التقرير، ينوي بشار الأسد ومستشاريه استئناف المفاوضات مع &quot;إسرائيل&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">ونشر موقع قناة 13 الإخبارية أنّه بحسب &quot;الشرق الأوسط&quot;، يعتقد بعض الدبلوماسيين العرب وجود مفاوضات سريّة بين الدولتين، وذلك بسبب عدم إصدار موقف سوري رسمي من اتّفاقيات التطبيع بين &quot;إسرائيل&quot; والبحرين والإمارات العربيّة المتّحدة. وتجدر الإشارة إلى حصول هذه التقارير على رواجٍ واسعٍ في الفضاء الرقمي الإسرائيلي.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_s6t5qu2n5.jpg\" style=\"height:514px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ilv1t5185.jpg\" style=\"height:617px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_h681bem0j.jpg\" style=\"height:773px; width:624px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 142,
+        "left": 3.65045166015625,
+        "path": "articles/1601214165GettyImages-1132995516.jpg",
+        "top": 19.45556640625,
+        "totalHeight": 168,
+        "totalWidth": 264,
+        "watermark_path": "articles/watermark-1601214165GettyImages-1132995516.jpg",
+        "width": 253
+    },
+    "post_date": "2020-09-27T16:33:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.mako.co.il/news-world/2020_q3/Article-5bb067bf19ec471027.htm",
+            "name": "N12",
+            "path": "published/0_1601214164_N12.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/N12News/status/1310133937843433472",
+            "name": "N12",
+            "path": "published/1_1601214164_cdeb606d2277405729841fe21c5d10e856529971.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/N12News/posts/10157850120192523",
+            "name": "N12",
+            "path": "published/2_1601214164_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://13news.co.il/item/news/politics/state-policy/syria-israel-1132715/",
+            "name": "13 News",
+            "path": "published/3_1601214165_dde17c6af6bc1b466e52ef88aac69ef3c0ccc26f.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/newsisrael13/status/1310163242845712386",
+            "name": "13 News",
+            "path": "published/4_1601214165_cdeb606d2277405729841fe21c5d10e856529971.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.i24news.tv/ar/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/middle-east/1601205013-%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D9%8A%D9%83%D8%B4%D9%81-%D9%88%D8%AC%D9%88%D8%AF-%D9%85%D9%81%D8%A7%D9%88%D8%B6%D8%A7%D8%AA-%D8%B3%D8%B1%D9%8A%D8%A9-%D8%A8%D9%8A%D9%86-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%88%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84",
+            "name": "i24",
+            "path": "published/5_1601214165_f3f7e91b91a1f993399bf845aae4de7be9d4f528.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.inn.co.il/news/451951?utm_source=dlvr.it&utm_medium=twitter",
+            "name": "Channel 7",
+            "path": "published/6_1601214165_ערוץ 7.jpg"
+        }
+    ],
+    "result": "commotion",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://aawsat.com/home/article/2531181/%D9%87%D9%84-%D8%AA%D9%8F%D8%B3%D8%AA%D8%A3%D9%86%D9%81-%D8%A7%D9%84%D9%85%D9%81%D8%A7%D9%88%D8%B6%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%80-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A%D8%A9%D8%9F",
+            "name": "الشرق الأوسط",
+            "path": "sources/0_1601214165_060ff09300fa80c843fc213009a4fc5bf3ffe688.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "عنوان للإثارة في الصحافة الإسرائيلية \"مفاوضات سورية –إسرائيلية سريّة\"",
+    "updated_at": "2020-09-27 17:01:10",
+    "url_path": "/factcheck/2020/09/27/عنوان-للإثارة-في-الصحافة-الإسرائيلية--مفاوضات-سورية-–-إسرائيلية-سرية",
+    "was_notification_pushed": true
+}

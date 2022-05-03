@@ -1,0 +1,92 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 3483,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الصورة ملتقطة منذ أبريل 2018 (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">دون أن يرتدي الكمامة، زعيم كوريا الشمالية كيم جونغ أون يزور أول مصابة بفايروس&nbsp;كورونا في بلاده.</p>\r\n",
+    "country": "KP",
+    "created_at": "2020-03-19 15:15:27",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e73625fd4a22914477ce123",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الادعاء وتأكد من أنّ الصورة غير صحيحة، فهي ملتقطة في أبريل/نيسان 2018، عندما زار كيم جونغ أون مصابين بحادث حافلة في أحد المستشفيات. وكان 32 صينياً و4 كوريين شماليين قد لقوا حتفهم جراء حادث مروري جنوب بيونغ يانغ. هذا ولم تعلن السلطات في كوريا الشمالية حتى اليوم عن وجود أي إصابات بفايروس كورونا على أراضيها.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_bcbl7eahc.jpg\" style=\"height:469px; width:521px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت حسابات وصفحات على موقع فيسبوك، صورة لزعيم كوريا الشمالية كيم جونغ أون أثناء زيارته لأول مصابة بفايروس&nbsp;كورونا في كوريا الشمالية. الصور تُظهر كيف أنّ كيم جونغ أون لم يكن يرتدي كمامة ويصافح المريضة دون قفازين، غير خائفٍ من أن تنتقل له عدوى الفايروس.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_8ncj9ewpg.jpg\" style=\"height:788px; width:531px\" /></span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_sj39f3fyi.jpg\" style=\"height:792px; width:546px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_uegr9mxb1.jpg\" style=\"height:657px; width:508px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 359,
+        "left": 3.7386474609375,
+        "path": "articles/1584620126GettyImages-1206129174 (1).jpg",
+        "top": 5,
+        "totalHeight": 423,
+        "totalWidth": 648,
+        "width": 638
+    },
+    "post_date": "2020-03-19T15:10:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=221717065844193&id=110915810257653&hc_location=ufi",
+            "name": "يوميات مواطن في دمشق",
+            "path": "published/0_1584620126_يوميات مواطن في دمشق.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/thief2/photos/a.315898632684758/518430342431585/?type=3&theater",
+            "name": "السارق في ورطة",
+            "path": "published/1_1584620305_السارق في ورطة-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=108876294078886&id=100819881551194&__xts__%5B0%5D=68.ARAqIxw6cDtAeZ8lCTftpCqiSeS9WtOnAo8qTeQris7XtBCDguBWC2WB1xfet56Y2bwJIbzfhrpdS01ePzLQ_nwh9P6QXt9yQCPEXggfJqw4og3MlTsW3mNeBHAA91F1Bwy1fxwvaLoXZWH8M22PchfdBokfQHGlkU4qTyrWUmNuF8NyWTLUzAAg857uUNyTVzXCPiVq0k-VS-lOxFkNp-uXYbqw4Y0EnZukl7QV7RVK_GtOg6qaHHfCurpB4T9sGFpra1faBrG0a7lH-ZBGORV6822Bi_N5phozlrtd5m5gWZ59-3UWV3EwMCWIOhloaAGP4TMg5oiO5BVSSejF4Fs&__tn__=-R",
+            "name": "أخبار كركوك الآن",
+            "path": "published/2_1584620305_أخبار كركوك الآن.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=870935246678690&id=610359229402961&__xts__%5B0%5D=68.ARDZKZ68ktERO8cr9plK3J7q3SluVX9LAspNHO80yS-krDiyFN1XXuArY89QVWw0GOKidqeB3Rq2UVWrPQHQs8JTaSl22JLW30pHtT_d0YyL-CDJdEQwQ9MAUJVgjGRMeNYXj5qOcElZwC9LlljmDYNN9EJCNdD_1l4rwnDjBsgzER3FiOut7uNzs-c6JKdl4L34CzxFhH-8Un0ef15nG2Or8_Qod_WOdsZzXRzf2_OUuucIPW4KTtCyg1efEmdE-VmkEU_swbyyZBYQDEtaoE1j0h2kvdMkKUssouQlXmPZHehIQe-2Axjumr92NdPuNcLugRKcHsj1UTisHRNzLdQ&__tn__=-R",
+            "name": "أبطال خنشلة",
+            "path": "published/3_1584620305_أبطال خنشلة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=153341169469194&id=112366503566661&__xts__%5B0%5D=68.ARCCSB8Ff0hm-cF2Ai50_CT79J7S6Gh4nW-F1RpHpvU8nayHCBKXeHN05CkVx0MKxqPDfLdm5h0ITY1yggqvds85fPa7_quDzb5bAv1RYxePpK7hbP7ShX3hu3y8eqAfnfubRTJF1MMbJQvq9O3_mStzR9EedA4f11NZoMCMV_c8lTAHgyg7-16qyeIFt0tnunJv3U--W_hZcHQ7FAgMKJmxbeVQJi_lGqjfQgnQJITRzEQarXD59Ea_9wVpyJWh75oe8U3neCCnstulnl8TGxXaryi4ZoCxQOlvtFYeMiHLMSo73HzcTWeUm_fYZpY1Tnyq8GoGEGlPINIXTqhNaP0&__tn__=-R",
+            "name": "أخبار البغدادي",
+            "path": "published/4_1584620305_أخبار البغدادي.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.concise.ng/2018/04/24/kim-jong-un-mourns-four-north-koreans-32-chinese-killed-in-bus-crash/",
+            "name": "Concise",
+            "path": "sources/0_1584620126_Concise.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "زعيم كوريا الشمالية يزور مصابة بكورونا دون كمامة.. هل الصورة صحيحة؟",
+    "updated_at": "2020-09-25 16:41:19",
+    "url_path": "/factcheck/2020/03/19/زعيم-كوريا-الشمالية-يزور-مصابة-بكورونا-دون-كمامة-هل-الصورة-صحيحة"
+}

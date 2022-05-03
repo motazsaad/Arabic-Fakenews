@@ -1,0 +1,100 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 1,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2226,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "الصورة تظهر عملية تفكيك قنبلة وليس هروب مصاب بكوفيد-19 (Getty)",
+    "category": "Health",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">هروب رجل مصاب بفايروس كورونا المستجد من سيارة الإسعاف في مصر، لكن قبضَ عليه الناس في الشارع.</span></p>\r\n",
+    "country": "EG",
+    "created_at": "2020-04-22 10:39:51",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e9ff4c7db29165a237baa35",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من الصورة المتداولة ووجد أنها مضلّلة لأنها </span><a href=\"https://www.facebook.com/3liaa.7ammad/posts/1819875294928959\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>منشورة</u></span></a><span style=\"color:#000000\"> على مواقع التواصل الاجتماعي منذ عام 2017، مع خبر يقول أنّها ملتقطة في مدينة طنطا المصرية، وتُظهر عملية تفكيك قنبلة وتجمهر الناس حول خبير المتفجّرات. وبالبحث عبر موقع يوتيوب، وجد &quot;مسبار&quot; </span><a href=\"https://www.youtube.com/watch?v=gM4PhjpEbnw\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>مقطع فيديو</u></span></a><span style=\"color:#000000\"> يُظهر الحدث نفسه وتجمهر الناس حول سيارة الإسعاف المجهّزة للتعامل مع أي طارئ قد يحدث أثناء تفكيك القنبلة.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/gM4PhjpEbnw\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "فيروس كورونا",
+        "كوفيد-19",
+        "كورونا مصر"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تناقلت صفحات وحسابات على مواقع التواصل الاجتماعي صورة ادّعت أنها لمجموعة من الناس في مصر تحيط برجل مصاب بفايروس كورونا المستجد يحاول الهروب من سيارة الإسعاف.</span></p>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"rtl\" style=\"text-align:center\"><code>هروب رجل مصاب بفيرس كرونا من سيارة الاسعاف<br />\r\nالناس مسبهوش الا لما اتلموا عليه ومسكوه <a href=\"https://t.co/RoywfkgPAV\">pic.twitter.com/RoywfkgPAV</a></code></p>\r\n<code>&mdash; ﮼صُدفة (@sodfa_kh) <a href=\"https://twitter.com/sodfa_kh/status/1252243991959080961?ref_src=twsrc%5Etfw\">April 20, 2020</a></code></blockquote>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_6ufm75mjz.jpg\" style=\"height:364px; width:530px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 354,
+        "left": 2.16668701171875,
+        "path": "articles/1587541190GettyImages-647181938.jpg",
+        "top": 22,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1587541190GettyImages-647181938.jpg",
+        "width": 630
+    },
+    "post_date": "2020-04-22T10:31:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/sodfa_kh/status/1252243991959080961",
+            "name": "صدفة",
+            "path": "published/0_1587541190_صدفة-لوغو.jpg"
+        },
+        {
+            "link": "https://twitter.com/SamarOthman15/status/1252616864397754370",
+            "name": "سمر",
+            "path": "published/1_1587541190_سمر-لوغو.jpg"
+        },
+        {
+            "link": "https://twitter.com/beba_bebooo/status/1252258021922742272",
+            "name": "كرامتي كبريائي",
+            "path": "published/2_1587541190_كرامتي-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=813771382782034&id=100024475392051",
+            "name": "شيماء عبد الحليم",
+            "path": "published/3_1587541190_شيماء-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/429124657645499/permalink/667254913832471/",
+            "name": "كريم نجم",
+            "path": "published/4_1587541190_كريم-لوغو.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/3liaa.7ammad/posts/1819875294928959",
+            "name": "علياء حمّاد",
+            "path": "sources/0_1587541190_علياء-لوغو.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=gM4PhjpEbnw",
+            "name": "صوت الأمة",
+            "path": "sources/1_1587541190_صوت-الأمة-لوغو.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "كورونا مصر: هروب رجل مصاب بالفايروس.. صورة مضللة",
+    "updated_at": "2020-09-25 15:16:30",
+    "url_path": "/factcheck/2020/04/22/كورونا-مصر-هروب-رجل-مصاب-بالفايروس-صورة-مضللة"
+}

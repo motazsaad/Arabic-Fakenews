@@ -1,0 +1,105 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 269,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "لا علاقة للصورة بزليخة (فيسبوك)",
+    "category": "Spirituality & Religion",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">الصورة الحقيقية للسيدة زليخة التي سجنت النبي يوسف، بعد استنساخها بتقنية 3D.</p>\r\n",
+    "country": "EG",
+    "created_at": "2020-10-09 20:28:14",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 9,
+    "id": "5f809dae41b60569bb0ec472",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;<a href=\"https://misbar.com/\" style=\"text-decoration:none\" target=\"_blank\"><u>مسبار</u></a>&quot; من الصورة المتداولة ووجد أنها مضللة، إذ تعود <a href=\"https://archive.vn/RUf9M\" style=\"text-decoration:none\" target=\"_blank\"><u>الصورة الأصلية</u></a> إلى عارضة أزياء منشورة لدى موقع Podium. ولا علاقة للصورة بزليخة التي سجنت النبي يوسف.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_gqwoacszk.jpg\" style=\"height:549px; width:539px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">اقرأ/ي أيضاً:</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/10/07/%D8%B5%D9%88%D8%B1%D8%A9-%D9%84%D8%AA%D8%AF%D8%B1%D9%8A%D8%A8-%D9%84%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A-%D9%88%D9%84%D9%8A%D8%B3%D8%AA-%D9%84%D8%A3%D8%B3%D8%B1-%D8%AC%D9%86%D8%AF%D9%8A-%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%84%D8%A7%D9%84\" target=\"_blank\">صورة تدريب للجيش المصري وليست لأسر جندي من جيش الاحتلال</a></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/10/08/%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88-%D9%84%D9%8A%D8%B3-%D9%84%D8%AC%D8%B3%D8%B1-%D8%A7%D9%84%D9%85%D9%84%D9%83-%D8%B3%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D9%84%D8%B0%D9%8A-%D9%8A%D8%B1%D8%A8%D8%B7-%D8%A8%D9%8A%D9%86-%D9%85%D8%B5%D8%B1-%D9%88%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9\" target=\"_blank\">الفيديو ليس لجسر الملك سلمان الذي يربط بين مصر والسعودية</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "زليخة",
+        "مصر",
+        "فراعنة",
+        "النبي يوسف"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تتناقل صفحات وحسابات على مواقع التواصل الاجتماعي، حديثاً، صورة تدعي أنها لزليخة، السيدة التي سجنت النبي يوسف، وذلك بعد تعديل المنحوتة التي صوّرتها ووُجدت في إحدى المعابد المصرية، واستُنسخت بتقنية 3D.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_0eqs5ehuu.jpg\" style=\"height:407px; width:539px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_m0cw7ijq8.jpg\" style=\"height:594px; width:529px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 318,
+        "left": -0.3499755859375,
+        "path": "articles/1602264494Screenshot 2020-10-09 202240.jpg",
+        "top": 1.400146484375,
+        "totalHeight": 423,
+        "totalWidth": 565,
+        "watermark_path": "articles/watermark-1602264494Screenshot 2020-10-09 202240.jpg",
+        "width": 566
+    },
+    "post_date": "2020-10-09T20:25:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1225584351135826&id=100010528183729",
+            "name": "فاطمة الطويرقي",
+            "path": "published/0_1602264850_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=742189346326126&id=100016052020725",
+            "name": "Islam Cher",
+            "path": "published/1_1602264850_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/ousama.chelsea.9/posts/992002047937892",
+            "name": "Oussama Ziane",
+            "path": "published/2_1602264850_d4cf08c13a4e4ce4776dca004ea523205db7ed06.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/abdallah.moursy/posts/1408631279267267",
+            "name": "Abdallah Moursy",
+            "path": "published/3_1602264850_d4cf08c13a4e4ce4776dca004ea523205db7ed06.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/groups/184002828466832/permalink/1150681695132269",
+            "name": "Diab Morgan",
+            "path": "published/4_1602264850_292125a415afd51c528af0974bc38d2c24b8ff16.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://archive.vn/RUf9M",
+            "name": "archive.vn",
+            "path": "sources/0_1602264494_1450b63342f196e94beee496be5a12ffd31f8c84.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صورة عارضة أزياء وليست زليخة",
+    "updated_at": "2020-10-09 20:36:30",
+    "url_path": "/factcheck/2020/10/09/صورة-عارضة-أزياء-وليست-زليخة",
+    "was_notification_pushed": "true"
+}

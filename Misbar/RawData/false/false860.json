@@ -1,0 +1,92 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1885,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "سرعان ما أعادت أحلام نشر التغريدة، إلا أنّها في الحقيقة لم ترتدي هذا النوع من الكمّامات (Getty)",
+    "category": "Entertainment",
+    "claim": "<p style=\"text-align:right\"><em><span dir=\"RTL\" lang=\"AR-SA\">خلال أزمة فايروس كورونا المستجد &quot;كوفيد19&quot; أحلام ترتدي كمّامةً مرصعةً بالألماس.</span></em></p>\r\n",
+    "country": "AE",
+    "created_at": "2020-03-17 11:16:40",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e708768d4a22918d90e9f63",
+    "investigation": "<p>&nbsp;</p>\r\n\r\n<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقّق &quot;مسبار&quot; من حقيقة الخبر ووجد أنّه عبارة عن فكاهةٍ من إحدى معجبات أحلام اسمها &quot;منول&quot; حين نشرت صورة لكمّامةٍ مرصعة الجوانب بالألماس، بعد أن تم تصميمها على الحاسوب وليست حقيقية، وغرّدت معها &quot;كمّامة الفنانة أحلام&quot;، في إشارةٍ إلى حب الفنانة للألماس وتفاخرها المتكرر بمجوهراتها، وسرعان ما أعادت أحلام نشر التغريدة، إلا أنّها في الحقيقة لم ترتدي هذا النوع من الكمّامات لمواجهة فايروس كورونا المستجد، بل ارتدت كمّامةً طبيةً عاديةً بحسب صورةٍ نشرتها لنفسها خلال استعدادها للسفر.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_7vxdrmews.jpg\" style=\"height:428px; width:605px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_lcbvuputv.jpg\" style=\"height:525px; width:605px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p>&nbsp;</p>\r\n\r\n<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">نشرت صفحاتٌ وتغريداتٌ على موقعي فيسبوك وتويتر انتقاداتٍ لاذعة للفنانة الإمارتيّة أحلام الشامسي بعد انتشار كمّامة مرصعة بالألماس نُسبت ملكيتها لها، وكتب كثيرون أنّها ترتديها خلال أزمة فايروس كورونا المستجد، التي يعاني خلالها الآلاف من الناس.</span></p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_yk067v4rm.jpg\" style=\"height:486px; width:605px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_ec780kotn.jpg\" style=\"height:455px; width:604px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_88msj3ka5.jpg\" style=\"height:483px; width:605px\" /></p>\r\n\r\n<p style=\"text-align:center\">&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 331,
+        "left": 37.65660095214844,
+        "path": "articles/1584433000GettyImages-988590750.jpg",
+        "top": 43.522216796875,
+        "totalHeight": 423,
+        "totalWidth": 638,
+        "width": 589
+    },
+    "post_date": "2020-03-17T08:19:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/watch/?external_log_id=c9a6746f-4993-4b91-8327-62f51a6b7be1&q=%D8%AD%D9%82%D9%8A%D9%82%D8%A9%20%D9%83%D9%85%D8%A7%D9%85%D8%A9%20%D8%A3%D8%AD%D9%84%D8%A7%D9%85&ref=search&v=239138647246102",
+            "name": "Goomedya",
+            "path": "published/0_1584433000_85147384_181988139886399_1886497834249748480_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/taieb.hamd/posts/225370195518659",
+            "name": "Taieb Hamd",
+            "path": "published/1_1584433000_طالب.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/amer.hyder.7/posts/2893621697366063",
+            "name": "Amer Hyder",
+            "path": "published/2_1584433000_امير.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/maitre.hicham/posts/3670112259728779",
+            "name": "هشام ستيتو",
+            "path": "published/3_1584433000_28070803_1882275858512437_1800059757131605774_o.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.sayidaty.net/node/1040566/%D9%81%D9%86-%D9%88%D9%85%D8%B4%D8%A7%D9%87%D9%8A%D8%B1/%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D9%87%D9%8A%D8%B1/%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D9%83%D9%85%D8%A7%D9%85%D8%A9-%D8%A3%D8%AD%D9%84%D8%A7%D9%85-%D9%85%D9%86-%D8%A7%D9%84%D8%A3%D9%84%D9%85%D8%A7%D8%B3-%D9%84%D9%84%D9%88%D9%82%D8%A7%D9%8A%D8%A9-%D9%85%D9%86-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7#photo/1",
+            "name": "مجلة سيدتي",
+            "path": "sources/0_1584432999_سيدتي.JPG"
+        },
+        {
+            "link": "https://twitter.com/memealkmaty94/status/1237877548542877705",
+            "name": "منول",
+            "path": "sources/1_1584432999_منول.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "كمّامة أحلام مرصعةٌ بالألماس...خبر كاذب",
+    "updated_at": "2020-09-24 16:37:54",
+    "url_path": "/factcheck/2020/03/17/كمامة-أحلام-مرصعة-بالألماس-خبر-كاذب"
+}

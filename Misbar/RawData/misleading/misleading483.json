@@ -1,0 +1,152 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 196,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "عُثر على الخواتم بعد هزيمة ألمانيا النازبة عام 1945 (Getty) ",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة لخواتم الخطوبة التي نُزعت من أصابع قتلى الحرب العالمية الثانية</p>\r\n",
+    "country": "DE",
+    "created_at": "2020-10-18 19:48:39",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 7,
+    "id": "5f8c71e785995b7e493abeb8",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة المتداولة ووجد أنها مضللة، وليست لخواتم الخطوبة التي نزعت من أصابع ضحايا الحرب العالمية الثانية. وتبين أنها لجندي أميركي يتفقد الآلاف من خواتم الزفاف الذهبية التي أخذها النازيون من اليهود والمخبأة في مناجم ملح هايلبرون في 3 مايو/أيار عام 1945 في ألمانيا. وكشفت قوات التحالف عن الكنوز المخبأة بعد هزيمة ألمانيا النازية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"000.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_1ry2njeb4.jpg\" style=\"height:511px; width:605px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">وخلال فترة الحرب، حصلت ألمانيا النازية على حوالي 550 مليون دولار من الذهب من حكومات البلدان التي احتلتها، بما في ذلك 223 مليون دولار من بلجيكا و 193 مليون دولار من هولندا. كما أخذ النازيون الذهب من المواطنين، خاصة ضحايا الهولوكوست، وجمع عمال معسكرات الاعتقال الخواتم الذهبية والمجوهرات والساعات وحتى الأسنان الذهبية من القتلى، لدعم خزائن ألمانيا.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وفي عام 2015، تحدثت <a href=\"https://www.independent.co.uk/news/world/europe/significant-discovery-linked-lost-nazi-gold-train-made-poland-10473869.html?amp\" style=\"color:blue; text-decoration:underline\">وسائل إعلام عالمية</a> عن اكتشاف قطار مفقود مليء بالذهب النازي في مدينة &quot;<span dir=\"LTR\">Walbrzych</span>&quot; البولندية. ويعتقد أن <a href=\"https://www.nydailynews.com/news/world/nazi-ghost-train-booby-trapped-warn-authorities-article-1.2340212\" style=\"color:blue; text-decoration:underline\">القطار الأسطوري</a>، الذي فقد في بولندا منذ الحرب العالمية الثانية، مليء بالذهب والمجوهرات والأعمال الفنية والأسلحة المسروقة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"9.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_70wwrzktl.jpg\" style=\"height:413px; width:605px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات إخبارية وحسابات على مواقع التواصل الاجتماعي، حديثاً ومنذ سنوات، صورة قالت إنها لخواتم الخطوبة التي نُزعت من أصابع قتلى الحرب العالمية الثانية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"1.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_8g45ddu79.jpg\" style=\"height:427px; width:605px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"0.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_145tznbt6.jpg\" style=\"height:517px; width:494px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_u4sdunz4j.jpg\" style=\"height:279px; width:604px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 327,
+        "left": 2.771026611328125,
+        "path": "articles/1603039719GettyImages-903561.jpg",
+        "top": 7.90234375,
+        "totalHeight": 423,
+        "totalWidth": 589,
+        "watermark_path": "articles/watermark-1603039719GettyImages-903561.jpg",
+        "width": 581
+    },
+    "post_date": "2020-10-18T17:38:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/7BlackPs/photos/a.1445328525718747/2011214699130124/",
+            "name": "أسود - Black",
+            "path": "published/0_1603039717_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/saelqaser999/status/1267792269870014470",
+            "name": "Mie Ziada ",
+            "origin": "twitter",
+            "path": "published/1_1603039717_909d4c00e617c0cd92c175f2b6378d6dd75f1753.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/dossarii9/status/1034828934536413185",
+            "name": "استاذ شعر ",
+            "origin": "twitter",
+            "path": "published/2_1603039717_b7ca50e4799f8624c937a5c3130bde1cdb2fadfb.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/Cvaley_/status/718030237024575488",
+            "name": "سي فالي | CVALEY",
+            "origin": "twitter",
+            "path": "published/3_1603039718_fcdaf87fce7df9103d106d411843316b592da07d.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/Al_S3eeDY/status/1183456322253213696",
+            "name": "عبدالله جليعب",
+            "origin": "twitter",
+            "path": "published/4_1603039718_b60bdbd521d7984a51f91d4f221c039451266b41.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/almulhim_muath/status/1258993580691030018",
+            "name": "معاذ الملحم",
+            "origin": "twitter",
+            "path": "published/5_1603039718_af3fe5c9dc355f07be527ce36645904be5ba9032.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/Omar55510543/status/1284420615634661376",
+            "name": "Omar",
+            "origin": "twitter",
+            "path": "published/6_1603039718_101195326_747056042707733_6451845424750788608_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/100soul/photos/a.312448069255536/499946237172384/",
+            "name": "روحّ - soul",
+            "path": "published/7_1603039718_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/Ksa9ss/status/899649555574079489",
+            "name": "نوادر من التاريخ",
+            "origin": "twitter",
+            "path": "published/8_1603039718_71495d322adbe3bf5e28f342731aa934226cbf35.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.gettyimages.ae/detail/news-photo/soldier-inspects-thousands-of-gold-wedding-bands-taken-from-news-photo/903561?adppopup=true",
+            "name": "Getty Images",
+            "path": "sources/0_1603039719_db845eb2d3b1c6f577a8401e410d912219bde71e.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.independent.co.uk/news/world/europe/significant-discovery-linked-lost-nazi-gold-train-made-poland-10473869.html?amp",
+            "name": "The Independent",
+            "path": "sources/1_1603039719_154f9dd9fe107a2524943571772f19d1e49095ff.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.nydailynews.com/news/world/nazi-ghost-train-booby-trapped-warn-authorities-article-1.2340212",
+            "name": "nydailynews.com",
+            "path": "sources/2_1603039719_4a79170e89b697646f1e2d66e2f10da5b0bf6ee8.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://index.hu/tudomany/2015/09/18/naci_aranyvonat_megtalaloi_dij/",
+            "name": "index.hu",
+            "path": "sources/3_1603039719_cee758494be3f703bf1c816e2191cf7448dadd95.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الصورة لخواتم أخذها النازيون من اليهود وليست لضحايا الحرب العالمية الثانية",
+    "updated_at": "2020-10-18 19:59:38",
+    "url_path": "/factcheck/2020/10/18/الصورة-لخواتم-أخذها-النازيون-من-اليهود-وليست-لضحايا-الحرب-العالمية-الثانية",
+    "was_notification_pushed": "true"
+}

@@ -1,0 +1,98 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2211,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الفيديو لحريق اندلع في إحدى مدن سيبيريا عام 2018 (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">فيديو يصوّر حريقاً في أحد المشافي التي يقطن فيها مصابين بفايروس كورونا في روسيا.</p>\r\n",
+    "country": "RU",
+    "created_at": "2020-04-14 13:11:52",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e958c68db291672382c3e44",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الفيديو، وتأكّد من زيفه، فالمقطع قديم ويعود إلى شهر يناير/كانون الثاني عام 2018، ويصوّر حريقاً اندلع في مبنىً سكني بمدينة تيومين في منطقة سيبيريا في روسيا، وأسفر عن مقتل شخصٍ وإصابة آخرين.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/ko-Uuj2PmVc\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشر مستخدمون على مواقع التواصل الاجتماعي وموقع يوتيوب، مقطع فيديو قالوا إنه يصوّر حريقاً نشب في مستشفىً في روسيا، يضم مصابين بفايروس كورونا (كوفيد-19).</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F112028773600859%2Fvideos%2F664005574391499%2F&amp;show_text=0&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/rhgm57bpTgg\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 355,
+        "left": 2.11859130859375,
+        "path": "articles/1586859111GettyImages-1206900074.jpg",
+        "top": 11.597900390625,
+        "totalHeight": 423,
+        "totalWidth": 635,
+        "watermark_path": "articles/watermark-1586859111GettyImages-1206900074.jpg",
+        "width": 631
+    },
+    "post_date": "2020-04-14T13:00:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/anbaaalwatan1/videos/4275058449174683/",
+            "name": "جريدة أنباء الوطن",
+            "path": "published/0_1586859110_جريدة أنباء الوطن الآن-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?ref=search&v=664005574391499&external_log_id=43c7b97c85eb8c87438f041b48db13a3&q=%D8%AD%D8%B1%D9%8A%D9%82%20%D8%B6%D8%AE%D9%85%20%D9%81%D9%89%20%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89%20%D9%84%D9%85%D8%B1%D8%B6%D9%89%20%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7%20%D9%81%D9%8A%20%D8%B1%D9%88%D8%B3%D9%8A%D8%A7",
+            "name": "حلات وتس",
+            "path": "published/1_1586859110_حلات وتس.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=rcW5vtM-KHA",
+            "name": "Nezha Vlogs",
+            "path": "published/2_1586859110_Nezha Vlogs.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=rhgm57bpTgg",
+            "name": "PostNews",
+            "path": "published/3_1586859111_PostNews.jpg"
+        },
+        {
+            "link": "https://twitter.com/GMCKAL/status/1249441115109036034",
+            "name": "خالد الرشيد العمرو",
+            "path": "published/4_1586859111_خالد الرشيد العمرو.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=ko-Uuj2PmVc&feature=youtu.be&fbclid=IwAR24CoQonCbtPXW15KrG14uCmNnSmP2PRNQD1BhIDa2PbAqijUYEeWN-Lqg",
+            "name": "المقطع الأصلي",
+            "path": "sources/0_1586859111_YouTube-logo.jpg"
+        },
+        {
+            "link": "https://www.rt.com/news/415283-fire-apartment-block-tyumen/?fbclid=IwAR1svih7p859Jx53mGYVkvdXGLYWEUfZCx29FOhdnYANPLf78q1-b3l8utc",
+            "name": "RT",
+            "path": "sources/1_1586859111_RT.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "كورونا روسيا: حريق في مستشفى للمصابين بالفايروس.. فيديو مضلل",
+    "updated_at": "2020-09-25 22:11:15",
+    "url_path": "/factcheck/2020/04/14/كورونا-روسيا-حريق-في-مستشفى-للمصابين-بالفايروس-فيديو-مضلل"
+}

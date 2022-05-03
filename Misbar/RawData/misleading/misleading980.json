@@ -1,0 +1,102 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1179,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "الصور تعبيرية ومنشورة قديماً (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">السفن الإيرانية تعبر قناة السويس نحو سورية رغماً عن قانون قيصر.</span></p>\r\n",
+    "country": "SY",
+    "created_at": "2020-06-24 13:01:40",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ef32484163be37279566a84",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من الصورة المتداولة ووجد أنها مضللة، لأنّها عبارة عن صورة أرشيفية لحركة عبور السفن في قناة السويس المصرية، كما يظهر ذلك في </span><a href=\"https://www.suezcanal.gov.eg/English/Pages/default.aspx\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>الموقع الرسمي</u></span></a><span style=\"color:#000000\"> للقناة.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">كما عثر &quot;مسبار&quot; على الصورة نفسها </span><a href=\"https://seanews.co.uk/features/the-suez-canal-a-deeper-look/?fbclid=IwAR1eUYvuKJ--L7ipBopB-reSfcuOOn2GSp8_1kfLZ-BPsISzHtWm1l1o4I4\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>منشورة</u></span></a><span style=\"color:#000000\"> في إحدى المواقع التي تهتم بأخبار الملاحة، بتاريخ 19 يناير/كانون الثاني 2018. مما يعني ألا علاقة للصورة بقانون قيصر الذي دخل حيّز التنفيذ حديثاً أو تحدي سفن إيرانية للعقوبات المفروضة على الدول التي ستساعد النظام السوري.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_96ya2vpmd.jpg\" style=\"height:431px; width:533px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_0mn3ow5cd.jpg\" style=\"height:305px; width:536px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "قانون قيصر",
+        "سورية",
+        "إيران",
+        "مصر",
+        "قناة السويس"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل صفحات على مواقع التواصل الاجتماعي، حديثاً، صورة تدّعي أنها تُظهر سفناً إيرانية تعبر قناة السويس نحو سورية، في تحدٍّ لقانون قيصر الأميركي الذي دخل حيّز التنفيذ مؤخراً، مما قد يمنع الدول من دعم النظام السوري على مختلف الصعد.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"377\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fpermalink.php%3Fstory_fbid%3D2848656871909325%26id%3D139242316184141&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_1bnmk6lax.jpg\" style=\"height:533px; width:535px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 332,
+        "left": 1.4666748046875,
+        "path": "articles/1592992899غلاف.jpg",
+        "top": 36.050048828125,
+        "totalHeight": 423,
+        "totalWidth": 593,
+        "watermark_path": "articles/watermark-1592992899غلاف.jpg",
+        "width": 590
+    },
+    "post_date": "2020-06-24T12:53:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/KazwiniM_2/status/1273557863919693824",
+            "name": "مازن القزويني (2)",
+            "path": "published/0_1592992898_مازن.jpg"
+        },
+        {
+            "link": "https://twitter.com/abo__zahra/status/1273695654779518976",
+            "name": "ابو حسن",
+            "path": "published/1_1592992898_حسن.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2848656871909325&id=139242316184141",
+            "name": "الإخبارية السورية-أخبار ساخنة أول بأول ",
+            "path": "published/2_1592992898_إخبارية.jpg"
+        },
+        {
+            "link": "https://twitter.com/hasanmohsen21/status/1273650683191996416",
+            "name": "Hasan Mohsen",
+            "path": "published/3_1592992899_حسنن.jpg"
+        },
+        {
+            "link": "https://twitter.com/2Rammal/status/1273978870748844033",
+            "name": "Sawsan Rammal 2",
+            "path": "published/4_1592992899_سوسن.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.suezcanal.gov.eg/English/Pages/default.aspx",
+            "name": "هيئة قناة السويس",
+            "path": "sources/0_1592992899_هيئة.jpg"
+        },
+        {
+            "link": "https://seanews.co.uk/features/the-suez-canal-a-deeper-look/?fbclid=IwAR1eUYvuKJ--L7ipBopB-reSfcuOOn2GSp8_1kfLZ-BPsISzHtWm1l1o4I4",
+            "name": "Sea News",
+            "path": "sources/1_1592992899_sea.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصورة ليست لعبور سفن إيرانية لقناة السويس",
+    "updated_at": "2020-09-25 20:42:12",
+    "url_path": "/factcheck/2020/06/24/هذه-الصورة-ليست-لعبور-سفن-إيرانية-لقناة-السويس"
+}

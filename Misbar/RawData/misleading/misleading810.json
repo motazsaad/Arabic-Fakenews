@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 565,
+    "author": {
+        "fullname": "خالد إسماعيل",
+        "id": "5e59256dd4a2295224257db3",
+        "photo": {
+            "name": "1582900589_صورة 2.jpg",
+            "path": "authors/1582900589_صورة 2.jpg"
+        }
+    },
+    "caption": "تصميم مقترح لمشروع برج الدومينو قبالة سواحل جدّة في السعودية (فيسبوك)",
+    "category": "News",
+    "claim": "<p style=\"text-align:right\"><span style=\"background-color:white\"><span dir=\"RTL\" lang=\"AR-SA\"><span style=\"color:black\">صورة للرسم النهائي لأكبر فندق في العالم في مدينة العلمين المصرية، والذي يصل ارتفاعه إلى 600 متر. </span></span></span></p>\r\n",
+    "country": "EG",
+    "created_at": "2020-08-05 14:27:32",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f2a97a46021187c0f3e0506",
+    "investigation": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\"><span style=\"color:#0d0d0d\">تحقق &quot;مسبار&quot; من الصورة المتداولة، وتأكّد من زيف الادعاء المرافق لها، فهي ليست لتصميم نهائي لأكبر فندق في العالم ستبنيه مصر في مدينة العلمين الجدية. إنّما تصميم مقترح لبرج الدومينو الذي كان من المقرّر تدشينه على أحد الجزر قبالة ساحل مدينة جدة السعودية. وقد نشر موقع مشاريع السعودية الصورة نفسها في عام 2016 على أنه مشروع سياحي محتمل. </span></span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_dnuttamxv.jpg\" style=\"height:658px; width:552px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\"><span style=\"color:black\">تتداول حسابات وصفحات على موقع التواصل الاجتماعي فيسبوك، صورة قال ناشروها إنّها للتصميم النهائي لأكبر فندق في العالم في مدينة العلمين الجديدة في مصر، وذكر ناشرو الصورة أن ارتفاع الفندق سيصل إلى 600 متر.</span></span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_vxx2o6ex9.jpg\" style=\"height:790px; width:617px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_8owc6a3cm.jpg\" style=\"height:787px; width:613px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_jg7cdgy60.jpg\" style=\"height:788px; width:618px\" /></p>\r\n\r\n<p style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_y060nkocf.jpg\" style=\"height:786px; width:582px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 236,
+        "left": 1.6439056396484375,
+        "path": "articles/1596626851timthumb.jpg",
+        "top": 137.626220703125,
+        "totalHeight": 423,
+        "totalWidth": 422,
+        "watermark_path": "articles/watermark-1596626851timthumb.jpg",
+        "width": 419
+    },
+    "post_date": "2020-08-05T14:10:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/aziz.shaheen.948/posts/127057849078999",
+            "name": "Aziz Shaheen",
+            "path": "published/0_1596626851_108520051_113470160437768_5082178122973759364_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Baahebk.ya.masr/photos/a.786339918107007/4058084190932547",
+            "name": "بحبك يا مصر ",
+            "path": "published/1_1596627503_يح.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo/?fbid=929245964225148&set=gm.228892641628918",
+            "name": "Enas Helmy",
+            "path": "published/2_1596627503_d.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Khair.Agnd.Elard/posts/3259235827502127",
+            "name": "خير أجناد الأرض ",
+            "path": "published/3_1596627503_خير.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo?fbid=291171485293786&set=a.107854943625442",
+            "name": "Waleed Hegazy",
+            "path": "published/4_1596627504_يي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo?fbid=10220721430999228&set=a.10202178374674409",
+            "name": "Alaa Barodi",
+            "path": "published/5_1596627504_-.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://tinyurl.com/y5ubg3b4",
+            "name": "مشاريع السعودية ",
+            "path": "sources/0_1596626851_مشاريع السعودية.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصورة ليست تصميماً لأكبر فندق في العالم ستبنيه مصر",
+    "updated_at": "2020-09-25 08:43:04",
+    "url_path": "/factcheck/2020/08/05/هذه-الصورة-ليست-تصميما-لأكبر-فندق-في-العالم-ستبنيه-مصر"
+}

@@ -1,0 +1,104 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1704,
+    "author": {
+        "fullname": "أسامة سليم",
+        "id": "5e3fd276d4a229755625e693",
+        "photo": {
+            "name": "1581240950_أسامة.jpg",
+            "path": "authors/1581240950_أسامة.jpg"
+        }
+    },
+    "caption": "الصورة المصاحبة للمنشور ليست لوزير التربية إنما لمدير المركز القومي للمناهج (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">وزير التربية والتعليم السوداني يحذف تعاليم الدين والقرآن من المناهج التربوية للمرحلة الابتدائية والثانوية.</p>\r\n",
+    "country": "SD",
+    "created_at": "2020-05-19 14:15:13",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ec3bfc1db29162fd6485765",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">تحقق &quot;مسبار &quot;من فحوى الخبر المتداول، ووجد أنّه غير صحيح، إذ لم تصدر وزارة التربية والتعليم قراراً بحذف التعاليم الإسلامية من المناهج، علاوة أنّ من يظهر في الصورة المرافقة للمنشور ليس وزير التربية السوداني إنّما عمر القراي مدير المركز القومي للمناهج. </span><span style=\"background-color:white\">والذي أوضح أنه لن يتم حذف السور القرآنية من المناهج، إنما سيتم التركيز على تعليم الأطفال الترتيل في مرحلة الرياض عوضاً عن حفظ الآيات، لأن الأطفال غير مأمورين بالصلاة على حدّ تعبيره. </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"Picture_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/investigation_173bnl1jc.jpg\" style=\"height:450pt; width:453.75pt\" /> </span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/1uZSqXnaMEw\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت صفحات وحسابات على موقعي التواصل الاجتماعي فيسبوك وتويتر، خبراً يفيد أنّ وزير التربية والتعليم السوداني حذف جميع التعاليم الدينية والقرآنية من مناهج المرحلتين الابتدائية والإعدادية، ووضع مكانها تعاليم مرتبطة بالأخلاق والسلوك المدني كما جاء في المنشور المتداول.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"Image_x0020_7\" src=\"https://images-prod.misbar.com/articlebody/origin_ds5wcwnh3.jpg\" style=\"height:164.25pt; width:453.75pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"Image_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/origin_d2ohh84ay.jpg\" style=\"height:223.5pt; width:373.5pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"Image_x0020_4\" src=\"https://images-prod.misbar.com/articlebody/origin_2pxo6uw3j.jpg\" style=\"height:161.25pt; width:453.75pt\" /> </span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 362,
+        "left": 2.512939453125,
+        "path": "articles/1589886912GettyImages-1079299794.jpg",
+        "top": 50.03857421875,
+        "totalHeight": 423,
+        "totalWidth": 646,
+        "watermark_path": "articles/watermark-1589886912GettyImages-1079299794.jpg",
+        "width": 644
+    },
+    "post_date": "2020-05-19T14:01:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/amal.ayari2/posts/3022262434533087",
+            "name": "Amal ayari",
+            "path": "published/0_1589886911_Facebook_logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/maryam.almoustafa.56/posts/120164329685188",
+            "name": "Maryam Almoustafa",
+            "path": "published/1_1589886911_Maryam Almoustafa.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=989097844840994&id=100012223620097",
+            "name": "يمام علي الأحمد",
+            "path": "published/2_1589886912_يمام علي الأحمد.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ABO8KMAL/posts/843366646153201",
+            "name": "فائز داؤد",
+            "path": "published/3_1589886912_فائز داؤد.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2538898233088047&id=100009036850531",
+            "name": "Hanna Nahra",
+            "path": "published/4_1589889134_Hanna Nahra.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "http://www.moe.gov.sd/",
+            "name": "وزارة التربية والتعليم السودانية",
+            "path": "sources/0_1589886912_وزارة التربية والتعليم السودانية.jpg"
+        },
+        {
+            "link": "https://www.aljazeera.net/news/politics/2020/5/8/%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86-%D8%B9%D9%85%D8%B1-%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D9%8A",
+            "name": "الجزيرة نت",
+            "path": "sources/1_1589886912_الجزيرة.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?time_continue=15&v=1uZSqXnaMEw&feature=emb_logo",
+            "name": "Sudan Revolution",
+            "path": "sources/2_1589886912_Sudan Revolution.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "وزير التربية السوداني يحذف تعاليم الإسلام من المناهج.. خبر  زائف",
+    "updated_at": "2020-09-25 13:25:21",
+    "url_path": "/factcheck/2020/05/19/وزير-التربية-السوداني-يحذف-جميع-تعاليم-الإسلام-من-المناهج-خبر-زائف"
+}

@@ -1,0 +1,88 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2306,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "كان آخر منشور له في التاسع من يونيو/ حزيران الجاري، في حسابه الرسمي على موقع فيسبوك (Getty)",
+    "category": "Arts & Culture",
+    "claim": "<p style=\"text-align:center\"><span dir=\"RTL\" lang=\"AR-SA\">&nbsp;</span><span dir=\"RTL\" lang=\"AR-SY\">&nbsp;وفاة ممثل أفلام الأكشن&nbsp;تشاك نوريس بعد إصابته بفايروس كورونا المستجد (كوفيد_19).</span></p>\r\n",
+    "country": "US",
+    "created_at": "2020-06-16 17:47:53",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ee8db99d6e4a97b061f2653",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الخبر، ولم يجد له أصل على المواقع الإعلامية السينمائية العالمية، أو المواقع الإخبارية، وكان آخر منشور له في التاسع من يونيو/ حزيران الجاري، في حسابه الرسمي على موقع فيسبوك يحث على قراءة مقالة حول وحدة الأميركيين في المظاهرات الحالية، ما يدل أنه غير مريض، كما لم يعلن أنَّه يعاني من الإصابة بالفايروس، وبالتأكيد لم يمت بعد.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وكان هذا الممثل الذي اشتهر بدوره مع بروس لي في فيلم &quot; طريق التنين&quot; عام 1972 قد تم نشر خبر وفاته من قبل على مستوى واسع في إعلان على موقع فيسبوك عام 2012، يقول &quot;وفاة تشاك نوريس عن عمر يناهز 71 عامًا! ليست مزحة. شاهد الفيديو لمعرفة كيف مات&quot;،&nbsp;وحين كان&nbsp;يحاول أحد المستخدمين فتح الرابط، يجد أمامه صفحة تطلب المعلومات الشخصية للفوز بلوح إلكتروني.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;وسرعان ما أصبح الأمر بعدها عبارة عن ما يشبه فكاهة باعتباره بطل أفلام فنون قتالية لا يموت، وانتشرت صورة ساخرة من تأكيد كونه على قيد الحياة من جديد &quot;كورونا فايروس أصيب بشيك نوورس، وهو الآن في الحجر الصحي&quot;.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_hcbbjoi8u.jpg\" style=\"height:519px; width:485px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_oufkbzi5y.jpg\" style=\"height:497px; width:589px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:justify\">تداولت حسابات أجنبية على موقع تويتر منذ مايو/ أيار المنصرم، وزادت كثافتها مرة أخرى في العاشر من شهر يونيو/حزيران الجاري، خبراً مفاده موت ممثل أفلام الأكشن تشاك نوريس في العقد الثامن من عمره، عقب إصابته بفايروس كورونا المستجد.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_jf86ma8p7.jpg\" style=\"height:567px; width:596px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_wszbx12zo.jpg\" style=\"height:340px; width:568px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_5zivamv06.jpg\" style=\"height:175px; width:591px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_z81nl0p91.jpg\" style=\"height:133px; width:564px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 363,
+        "left": 7.5,
+        "path": "articles/1592318872GettyImages-692121198.jpg",
+        "top": 14.3359375,
+        "totalHeight": 423,
+        "totalWidth": 654,
+        "watermark_path": "articles/watermark-1592318872GettyImages-692121198.jpg",
+        "width": 644
+    },
+    "post_date": "2020-06-16T14:57:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/UgNerd/status/1270809698355347458",
+            "name": " Random Dude",
+            "path": "published/0_1592318871_نوريس.jpg"
+        },
+        {
+            "link": "https://twitter.com/LaloPraaa/status/1272753355408969728",
+            "name": "Eduardo Prado ",
+            "path": "published/1_1592318871_ادواردو.jpg"
+        },
+        {
+            "link": "https://twitter.com/J_Belluccii/status/1270789911264837634",
+            "name": "J Belluccii ",
+            "path": "published/2_1592318871_5ocKoaR__400x400.jpg"
+        },
+        {
+            "link": "https://twitter.com/Blackduck77/status/1272350497534545920",
+            "name": " Black Duck ",
+            "path": "published/3_1592318871_UEswQbg2_400x400.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/officialchucknorrispage/posts/3155005531204760?__xts__[0]=68.ARACstW3do92ieeDHer0jhWPRXBKgPoBeoPjPJzNHo5LvruOSSvRAP0lMEwNFTTYicRMzHMi85qFvLg2m5RiYPyYrASbhq_Rnzo51kJrf58SpIOgtSLBpwoadEa-wqUE-I8PeZuS0Ip4OKRYHL9iSBwLNHLjz2XcmqzsXuIxW-j5NSl1wTaRyXGFK3DI2g5vCVRgjeQQlqI-E51x6h1FadNhbBQFrylqUKwiLLo-isf1mGZAJyUReEx1G9INcADiu6dze_qY0Zzybqj_vFJkDSoqocsAlbrAx-NKEUKkkJt8Ytmvh1-_-oDhIc-z5zbmExAY99NncR3L78fkpdYNU6fm3g&__tn__=-R",
+            "name": "Chuck Norris",
+            "path": "sources/0_1592318871_101683657_3137296186309028_3256265296964485120_n.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل توفي تشاك نوريس بعد إصابته بفايروس كورونا؟",
+    "updated_at": "2020-09-25 19:45:04",
+    "url_path": "/factcheck/2020/06/16/هل-توفي-تشاك-نوريس-بعد-إصابته-بفايروس-كورونا"
+}

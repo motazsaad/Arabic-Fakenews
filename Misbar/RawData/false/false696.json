@@ -1,0 +1,94 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 20264,
+    "author": {
+        "fullname": "هيثم جودية",
+        "id": "5e295291d4a2296ff0065605",
+        "photo": {
+            "name": "1579766417_هيثم .JPG",
+            "path": "authors/1579766417_هيثم .JPG"
+        }
+    },
+    "caption": "تقرير صادر عن وكالة الاستخبارات المركزية الأمريكية (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">الإحصائية التي أظهرت أن اكثر من 82 % من سكان سورية هم تحت خط الفقر مزورة.</p>\r\n",
+    "country": "SY",
+    "created_at": "2020-05-24 11:09:26",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eca2bb6db291622eb557ee4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقّق &quot;مسبار&quot; من صحة الخبر، ووجد أنه غير صحيح فالبيانات التي تحدثت عن معدلات الفقر في سورية والتي قدرته بـ 82.5% ليست من عمل أحد الشبان، وإنما هو تقرير صادر عن وكالة الاستخبارات المركزية الأمريكية (<span dir=\"LTR\" lang=\"EN-US\">CIA</span>)، كما تبين بالتحقق أن معدل الفقر في سورية يبلغ 83 % وفقا لتقديرات <a href=\"https://hno-syria.org/ar/#home\" style=\"color:blue; text-decoration:underline\">الأمم المتحدة بحسب تقريرها الصادر عام 2019</a>.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_hy34a7zla.jpg\" style=\"height:374px; width:554px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_m7xdvp6vf.jpg\" style=\"height:455px; width:554px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_u27mc97n4.jpg\" style=\"height:237px; width:554px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحاتٌ على موقع التواصل الاجتماعي فيسبوك، خبراً مفاده أنَّ البيانات التي تم تداولها مؤخراً، والتي أظهرت بأنَّ معدل الفقر في سورية وصل إلى 82.5 % هي مزورة، بعد أنَّ قام أحد الشبان باختراع هذا التصنيف على برنامج الإكسل وفق مزاجه، ما جعل الأغلبية تتناقله دون التدقيق بمصدره.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_3eokgjo4f.jpg\" style=\"height:509px; width:333px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_7taxdmg30.jpg\" style=\"height:489px; width:339px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_2w3k0dhks.jpg\" style=\"height:491px; width:339px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_w1o8i9v38.jpg\" style=\"height:499px; width:339px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 354,
+        "left": 3.75,
+        "path": "articles/1590307765GettyImages-1214811206.jpg",
+        "top": 25.83984375,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1590307765GettyImages-1214811206.jpg",
+        "width": 629
+    },
+    "post_date": "2020-05-24T09:27:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/yomyat.hawn/posts/2350176651751701",
+            "name": "يوميات قذيفة هاون",
+            "path": "published/0_1590307764_يومبات قذيفو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=543593393183989&id=274843226725675",
+            "name": "صفحة أخبار الغزلانية",
+            "path": "published/1_1590307764_الغزلانبة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/mohamad.bashier/posts/3079960405419886",
+            "name": "mohamad.bashier",
+            "path": "published/2_1590307764_محمد نا3ر.JPG"
+        },
+        {
+            "link": "https://www.facebook.com/Khtan32/posts/2437812206510831",
+            "name": "يحرق ديبكون",
+            "path": "published/3_1590307765_يحرق.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.cia.gov/library/publications/the-world-factbook/geos/sy.html?fbclid=IwAR1sjXfdZ0pabCQx__dnD8s0QtWXdNITJu713s7NT-z3V-QNbXx-PL9u-7Q",
+            "name": "CIA",
+            "path": "sources/0_1590307765_S.JPG"
+        },
+        {
+            "link": "https://hno-syria.org/ar/#resources",
+            "name": "HNO",
+            "path": "sources/1_1590307765_HH.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ما هي النسبة الحقيّقية للفقراء بين السوريّين؟",
+    "updated_at": "2020-09-25 07:26:09",
+    "url_path": "/factcheck/2020/05/24/82-من-الشعب-السوري-تحت-خط-الفقر-ما-الحقيقة"
+}

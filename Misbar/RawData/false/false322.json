@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 889,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "انتشرت الصورة بعد قصف قوات النظام السوري محافظة ادلب (Facebook)",
+    "category": "Spirituality & Religion",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">صورة&nbsp;لمصحف تغطيه الحجارة في مسجد قوات الأمن الخاصة بمدينة مأرب، شمال شرق العاصمة اليمنية؛ نتيجة تعرضه للقصف من قبل الحوثيين.</p>\r\n",
+    "country": "YE",
+    "created_at": "2020-08-30 12:45:43",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f4b754760211829b2761d1c",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الصورة ووجد أنها قديمة ونشرت للمرة الأولى في ديسمبر/كانون الأول من العام 2019، بعد أن قصفت قوات النظام السوري جنوب محافظة ادلب شمال سوريا، فالصورة ليست في اليمن.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وكان مسجد معسكر قوات الأمن الخاصة في حي المجمع الحكومي وسط مدينة مأرب تعرض لقصف صاروخي من قبل الحوثيين بالفعل،&nbsp;وقُتل في القصف خمسة جنود يمنيين، وأُصيب 25 آخرين في 28 أغسطس/آب الجاري.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img id=\"صورة_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/investigation_3wripcv05.jpg\" style=\"height:651pt; width:457.5pt\" /> </span></strong></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات وحسابات على مواقع التواصل الاجتماعي، منذ السبت 29 أغسطس/آب الجاري، صورةً لكتاب القرآن الكريم، يغطيه التراب، وشظايا حجارة، ورافق الصورة شرح بأن هذا التخريب للمصحف حدث بعد أن قصف حوثيون مسجد قوات الأمن الخاصة في مدينة مأرب قبل يومين، وبقي القرآن مفتوح الصفحات على الآية القرآنية من سورة البقرة &quot;كُتِبَ عَلَيْكُمُ ٱلْقِتَالُ وَهُوَ كُرْهٌ لَّكُمْ ۖ وَعَسَىٰٓ أَن تَكْرَهُواْ شَيْـًٔا وَهُوَ خَيْرٌ لَّكُمْ&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img id=\"صورة_x0020_2\" src=\"https://images-prod.misbar.com/articlebody/origin_tzhhpj16x.jpg\" style=\"height:302.25pt; width:470.25pt\" /> <img id=\"صورة_x0020_3\" src=\"https://images-prod.misbar.com/articlebody/origin_gkmkxzipk.jpg\" style=\"height:650.25pt; width:425.25pt\" />&nbsp;</span></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 371,
+        "left": 82.5794677734375,
+        "path": "articles/1598780743ييي.JPG",
+        "top": 51.83935546875,
+        "totalHeight": 550,
+        "totalWidth": 825,
+        "watermark_path": "articles/watermark-1598780743ييي.JPG",
+        "width": 660
+    },
+    "post_date": "2020-08-30T11:42:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/king_of_mareb/status/1299902090643464192",
+            "name": "شموخ مأربي",
+            "path": "published/0_1598782515_6_1596888660_twitter.jpg"
+        },
+        {
+            "link": "https://twitter.com/8TYPQrAbAI620F8/status/1299858190427979777ب",
+            "name": "بوصلة الأقيال",
+            "path": "published/1_1598782515_6_1596888660_twitter.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=303643577536951&id=100036739330640",
+            "name": "أبو العز اليماني",
+            "path": "published/2_1598782516_0_1596888660_facebook.jpg"
+        },
+        {
+            "link": "https://twitter.com/ali_alanthry/status/1299832602141089797",
+            "name": "علي العنثري",
+            "path": "published/3_1598782516_6_1596888660_twitter.jpg"
+        },
+        {
+            "link": "https://twitter.com/bantyemen00/status/1299793191684759553",
+            "name": "بنت اليمن",
+            "path": "published/4_1598782516_6_1596888660_twitter.jpg"
+        },
+        {
+            "link": "https://twitter.com/M_Almordi2/status/1299792811496288256",
+            "name": "محسن الكثيري المرادي",
+            "path": "published/5_1598782516_6_1596888660_twitter.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://alsharaeanews.com/2020/08/28/27924/",
+            "name": "صحيفة الشارع",
+            "path": "sources/0_1598782725_شارغغ.JPG"
+        },
+        {
+            "link": "https://eldorar.com/node/145570",
+            "name": "الدرر الشمالية",
+            "path": "sources/1_1598782725_درر.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذا المصحف ليس في مسجدٍ قصفه الحوثيّون بمدينة مأرب اليمنيّة",
+    "updated_at": "2020-09-25 21:45:07",
+    "url_path": "/factcheck/2020/08/30/هذا-المصحف-ليس-في-مسجد-قصفه-الحوثيون-بمدينة-مأرب-اليمنية"
+}

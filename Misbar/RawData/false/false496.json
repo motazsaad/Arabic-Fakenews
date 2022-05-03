@@ -1,0 +1,88 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2840,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "نفى وزير السياحة التونسي الخبر (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">استقالة وزير السياحة التونسي، محمد علي التومي، من منصبه.</p>\r\n",
+    "country": "TN",
+    "created_at": "2020-07-13 15:32:50",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f0c5472163be30670155956",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الخبر المتداول وتبين أنه زائف، إذ نفى وزير السياحة التونسي ما راج حول استقالته من منصبه. وقال في منشور له على صفحته الرسمية فيسبوك <span style=\"color:black\">&quot;بعد</span><span style=\"background-color:white\"><span style=\"color:black\">&nbsp;اتصال عدد من الأصدقاء والإعلاميين بي للتثبت من إشاعة تروج حاليا على الفايس بوك مفادها أنني استقلت من مهامي، يهمني أن أنفي هذا الخبر وأؤكد أنه مجرد إشاعة&quot;.</span></span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"639\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FMDaliToumi%2Fposts%2F2338680659767041&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:black\">تأتي شائعة&nbsp;استقالة وزير السياحة التونسي، بعد </span></span><span style=\"background-color:white\"><span style=\"color:black\">حسم مجلس شورى حركة النهضة التونسية، الأحد 12 يوليو/تموز الجاري، موقفه من الحكومة الحالية، التي يقودها إلياس الفخفاخ، وتكليف رئيس الحركة راشد الغنوشي بإجراء مفاوضات مع رئيس الجمهورية والقوى السياسية والاجتماعية لبدء مشاورات تشكيل حكومي جديد</span></span><span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:black\">.</span></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:black\">ويتزامن ذلك مع إعلان أربع كتل برلمانية في مجلس نواب الشعب التونسي، البدء في إجراءات سحب الثقة من رئيس البرلمان راشد الغنوشي، بسبب ما اعتبروه سوء إدارة وخروقات للبرلمان</span></span><span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:black\">.</span></span></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات إخبارية وحسابات على مواقع التواصل الاجتماعي، بتاريخ 12 يوليو/تموز الجاري، خبراً يدّعي أن وزير السياحة التونسي، محمد علي التومي، قدم استقالته من مهامه.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><br />\r\n<span dir=\"LTR\"><img alt=\"1.jpg\" src=\"https://images-prod.misbar.com/articlebody/origin_4sii6i5a2.jpg\" style=\"height:500px; width:604px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"2.jpg\" src=\"https://images-prod.misbar.com/articlebody/origin_82jxz5xpt.jpg\" style=\"height:542px; width:605px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1594711658106041454_2031524003647137_1142390267129361702_o.jpg",
+        "watermark_path": "articles/watermark-1594711658106041454_2031524003647137_1142390267129361702_o.jpg"
+    },
+    "post_date": "2020-07-13T13:03:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1284571525208323&id=100009664632602",
+            "name": "Fehd Bhk",
+            "path": "published/0_1594643570_101320265_1246536465678496_5707477418546036736_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/495519594558502/permalink/742064429904016/",
+            "name": "تونس العزة و الإرادة",
+            "path": "published/1_1594643570_94887660_10216975592082177_8839233473320321024_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/paparazzipolitique/posts/149369176796006",
+            "name": "Paparazzi politique",
+            "path": "published/2_1594643755_101181743_114066433659614_3923123565976616960_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ahmed.zoghlami.965/posts/996778977448779",
+            "name": "Ahmed Zoghlami",
+            "path": "published/3_1594643755_100687479_959936777799666_8934504257491566592_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/douraid.rabhi/posts/4418127238205019",
+            "name": "Douraid Rebhi",
+            "path": "published/4_1594643755_99388015_4204154432935635_3191754166624059392_n.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/MDaliToumi/photos/a.1697112990590481/2338680629767044/?type=3&theater",
+            "name": "الصفحة الرسمية للوزير",
+            "path": "sources/0_1594643570_96214237_2290881854546922_3092797802296639488_n.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لم يُقدم وزير السياحة التونسي استقالته",
+    "updated_at": "2020-09-25 08:33:12",
+    "url_path": "/factcheck/2020/07/13/لم-يقدم-وزير-السياحة-التونسي-استقالته"
+}

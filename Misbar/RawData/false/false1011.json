@@ -1,0 +1,91 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 460,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة لطفل يُقبّل طفلاً آخر توفي جرّاء القصف العسكري على محافظة إدلب في سورية في شهر ديسمبر/ كانون الأول 2019.</p>\r\n",
+    "country": "SY",
+    "created_at": "2019-12-09 13:21:15",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5dee201b8d7bd92e71797865",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">لم تُلتقط الصورة في محافظة إدلب هذا العام، إنمّا تعود إلى مارس/ آذار من عام&nbsp;2018 في مدينة دوما في الغوطة الشرقية للعاصمة دمشق، والتقطها مصوّر يُدعى حسن محمد لصالح وكالة الصحافة الفرنسية (فرانس برس) في أحد مستشفيات المدينة التي تعرضت لهجمات عسكرية نفذتها قوات النظام السوري.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_b40957727d289efd15dfd51d1b944a13.jpg\" style=\"height:396px; width:533px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداول عدد من مستخدمي&nbsp;شبكات التواصل الاجتماعي صورة قالوا إنّها لطفلٍ يُقبّل طفلاً آخر توفي نتيجة الحملة العسكرية التي شنها النظام السوري وحلفاؤه على محافظة إدلب في سورية خلال شهر ديسمبر/ كانون الأول من العام الجاري. ونشر بعض الناشطين الصورة مصحوبة بعنوان &quot;القبلة الأخيرة&quot;، وآخرون أرفقوها بوسم #إدلب.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_bbf6033cddda8c9b3e9ebe31504a3e52.jpg\" style=\"height:534px; width:390px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_f1fe499934f6e0f6a40ce692423aecbc.jpg\" style=\"height:310px; width:420px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_47e4039e4021317be2c7e87f81aaad88.jpg\" style=\"height:517px; width:378px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 354,
+        "left": 1.87939453125,
+        "path": "articles/1575886875GettyImages-927193166.jpg",
+        "top": 29.807174682617188,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "width": 630
+    },
+    "post_date": "2019-12-09T13:17:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=487126635495434&set=a.107808576760577&type=3&theater",
+            "name": "Ward Najjar",
+            "path": "published/0_1575888339_Ward Najjar-logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=504293886845036&set=a.114336169174145&type=3&theater",
+            "name": "أحمد أبو ماهر",
+            "path": "published/1_1575962198_أحمد أبو ماهر-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=1660634440716684&set=a.124694290977381&type=3&theater",
+            "name": "Zuhair Hassib",
+            "path": "published/2_1575962198_Z-logo.jpg"
+        },
+        {
+            "link": "",
+            "name": "",
+            "path": ""
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.gettyimages.ae/detail/news-photo/boy-kisses-his-relative-who-was-wounded-in-government-news-photo/927193166?adppopup=true",
+            "name": "Getty Images",
+            "path": "sources/0_1575887006_getty images-logo.jpg"
+        },
+        {
+            "link": "https://www.thescottishsun.co.uk/news/2318742/desperate-civilians-in-syrias-eastern-ghouta-await-first-aid-convoy-in-weeks-but-regime-forces-offload-70-per-cent-of-medical-supplies-from-trucks/",
+            "name": "The Scottish Sun",
+            "path": "sources/1_1575887006_The scottish sun-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل حقاً هذه الصورة من محافظة إدلب؟",
+    "updated_at": "2020-09-23 12:40:04",
+    "url_path": "/factcheck/2019/12/09/هل-حقا-هذه-الصورة-من-محافظة-إدلب"
+}

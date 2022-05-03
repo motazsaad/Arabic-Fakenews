@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2055,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "تحتل لبنان المرتبة الرابعة عربياً بحسب مؤشر حرية الصحافة (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\"><span style=\"color:black\">المؤشر العالمي لحرية الصحافة 2020</span> <span style=\"color:black\">التابع لمنظمة مراسلون بلا حدود،</span> يصنّف <span style=\"color:black\">لبنان الثانية عربيًا وتركيا بين أسوأ 15 دولة في العالم.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-05-03 17:46:30",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5eaed946db29165a9a4bbb74",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">الادعاء زائف. تحقق &quot;مسبار&quot; من المعلومات المذكورة في الخبر المتداول ووجد أنه بحسب مؤشر حرية الصحافة الصادر عن منظمة مراسلون بلا حدود والذي يصنّف 180 دولة عالمياً، تعود المرتبة الثانية عربياً لدولة جزر القمر وهي&nbsp;تحتل المرتبة ال 75 عالمياً، وتحتل تونس المرتبة الأولى عربياً والمرتبة ال 72 عالمياً وموريتانيا المرتبة الثالثة عربيا وال 97 عالمياً، أما لبنان فتحتل المرتبة الرابعة عربياً وال 102 عالمياً بحسب المؤشر.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">أما بخصوص تركيا، فتحتل&nbsp;المرتبة ال 154 عالمياً وتُعتبر في موقع متأخر في المؤشر لكنّها ليست بين أسوأ 15 دولة، إذ تحتل هذه المراتب كل من مصر، اليمن، أذربيجان، البحرين، السعودية، كوبا، لاوس، إيران، سوريا، فيتنام، جيبوتي، الصين، إريتريا، تركمنستان، وكوريا الشمالية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_q7vdr9173.jpg\" style=\"height:234px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_oscht96db.jpg\" style=\"height:244px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_txuspf2ss.jpg\" style=\"height:554px; width:624px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": false,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تداولت عدّة مواقع إخبارية عربية في أبريل/نيسان الجاري، خبراً عن المؤشر العالمي لحرية الصحافة 2020 الصادر عن منظمة &quot;مراسلون بلا حدود&quot;. وأفادت الصحف بأنه في حين تتواجد الدول العربية في مواقع متأخرة، احتلّت لبنان المرتبة الثانية عربياً وصُنّفت تركيا بين 15 أسوأ دولة في العالم بحسب المؤشر.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ilqmlykfh.jpg\" style=\"height:811px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><span style=\"color:black\"><img alt=\"https://lh4.googleusercontent.com/HxWm-ofijRypkES_srRmXA3RJk67rTiuh6RNyLMxva_sr7vmubwiq-vY7TQZBTmgWnzT0mk66O2S-UgNxMrsxKGbPKqwdv5g4aj3-QPVRQQdl4O9XNlmgxBWTPccF1eWK8f7Ogkk\" src=\"https://images-prod.misbar.com/articlebody/origin_iezl02z0y.jpg\" style=\"height:466px; width:542px\" /></span></span></strong></p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_7di4j7o6t.jpg\" style=\"height:352px; width:624px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 154,
+        "left": 2.887786865234375,
+        "path": "articles/1588517189GettyImages-1131097569.jpg",
+        "top": 2.45263671875,
+        "totalHeight": 187,
+        "totalWidth": 281,
+        "watermark_path": "articles/watermark-1588517189GettyImages-1131097569.jpg",
+        "width": 274
+    },
+    "post_date": "2020-05-03T17:36:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.alhurra.com/arabic-and-international/2020/04/21/%D9%85%D8%A4%D8%B4%D8%B1-%D8%AD%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%B5%D8%AD%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8-%D9%81%D9%8A-%D8%B0%D9%8A%D9%84-%D8%A7%D9%84%D9%82%D8%A7%D8%A6%D9%85%D8%A9-%D9%88%D8%AD%D9%83%D9%88%D9%85%D8%A7%D8%AA-%D8%AA%D8%B3%D8%AA%D8%BA%D9%84-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7  ",
+            "name": "الحرة",
+            "path": "published/0_1588517189_الحرة.JPG"
+        },
+        {
+            "link": "https://www.dw.com/ar/%D8%A8%D8%A7%D8%B3%D8%AA%D8%AB%D9%86%D8%A7%D8%A1-%D8%AA%D9%88%D9%86%D8%B3-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8-%D9%81%D9%8A-%D9%85%D8%B1%D8%A7%D8%AA%D8%A8-%D9%85%D8%AA%D8%A3%D8%AE%D8%B1%D8%A9-%D8%A8%D9%85%D9%82%D9%8A%D8%A7%D8%B3-%D8%AD%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%B5%D8%AD%D8%A7%D9%81%D8%A9-2020/a-53202542  ",
+            "name": "DW",
+            "path": "published/1_1588517189_DW-logo.jpg"
+        },
+        {
+            "link": "https://www.youm7.com/story/2020/4/23/%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D9%85%D9%86-%D8%A3%D8%B3%D9%88%D8%A3-15-%D8%AF%D9%88%D9%84%D8%A9-%D9%81%D9%89-%D8%AD%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%B5%D8%AD%D8%A7%D9%81%D8%A9-%D8%A7%D8%B9%D8%B1%D9%81-%D8%A7%D9%84%D8%AA%D9%81%D8%A7%D8%B5%D9%8A%D9%84/4738587",
+            "name": "اليوم السابع",
+            "path": "published/2_1588517189_اليوم السابع-لوغو.jpg"
+        },
+        {
+            "link": "https://aletihadpress.com/?p=210692",
+            "name": "الاتحاد ",
+            "path": "published/3_1588517189_الاتحاد برس.jpg"
+        },
+        {
+            "link": " https://www.masr.today/%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D9%85%D9%86-%D8%A3%D8%B3%D9%88%D8%A3-15-%D8%AF%D9%88%D9%84%D8%A9-%D9%81%D9%89-%D8%AD%D8%B1%D9%8A%D8%A9-%D8%A7%D9%84%D8%B5%D8%AD%D8%A7%D9%81%D8%A9-%D8%A7%D8%B9%D8%B1/",
+            "name": "مصر اليوم",
+            "path": "published/4_1588517189_مصر اليوم.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://rsf.org/en/ranking",
+            "name": "Reporters Without Borders",
+            "path": "sources/0_1588517189_reporters without borders.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "تغطيات خاطئة لمؤشر حرية الصحافة 2020",
+    "updated_at": "2020-09-25 18:36:06",
+    "url_path": "/factcheck/2020/05/03/لبنان-الثانية-عربيا-وتركيا-بين-الأسوأ-في-العالم-تغطيات-مضللة-لمؤشر-حرية-الصحافة-2020"
+}

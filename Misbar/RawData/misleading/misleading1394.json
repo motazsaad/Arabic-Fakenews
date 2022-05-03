@@ -1,0 +1,90 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 780,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "category": "Sports",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">صورة للإيطالي أندريا أنييلي، مالك نادي يوفنتوس وعدّة شركات كبيرة أخرى، توثّق ركوبه لوسيلة نقل عام.</span></p>\r\n",
+    "country": "IT",
+    "created_at": "2020-01-24 16:35:53",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e2af2b9d4a2293b4741f136",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">توصّل تحقيق &quot;مسبار&quot; إلى أن الصورة تعود إلى شهر يوليو/تموز، إذ التقطها </span><a href=\"https://twitter.com/nicozava/status/1148005300928221184\" style=\"text-decoration:none\"><span style=\"color:#1155cc\"><u>أحدهم</u></span></a><span style=\"color:#000000\"> أثناء ركوبه مع أنييلي في حافلة تقلّ المسافرين في مطار مالبيسا، في إيطاليا، إلى طائراتهم، وليس في وسيلة نقل عام. ويعدّ شهر يوليو/تموز ضمن ما يُعرف بفترة الانتقالات الصيفية، ومن المبرّر تنقّل مالكي نوادي كرة القدم لعقد صفقات جديدة مع اللاعبين. ومن الجدير بالذكر، أن تلك الصورة ظلّت تدخل في دورة من التداول عبر الإنترنت منذ أواسط عام 2019.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://lh5.googleusercontent.com/4UWJfOawOnFFmanYdeIiA1lUOEQNAP52IMOD8uG3G3LXzeyplfAlluXuBCyC6ZSLJQu4v1TPOM70SYAN39dnRF3XF6Ji40O8SXEV3YQAikjoVMKTp2UYVoN1rv-7GA\" style=\"height:363px; width:375px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://lh6.googleusercontent.com/1Uku7yYgyz25Bxk5RqNl6VkcgSHHJ1AGBNU0xYc7wdLYRHkk7sS7tOyO0N1MoPV3iPk-zuxNEC4QlGm4mgapQU3j5guwmDAnIca-oY-yqrR0hUi1smeDEkb73lgeFw\" style=\"height:317px; width:366px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "يوفنتوس",
+        "إيطاليا",
+        "أندريا أنييلي",
+        "كرة القدم",
+        "سوق الانتقالات"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تداولت عدّة صفحات على وسائل التواصل الاجتماعي صورةً يدّعي ناشروها أنها للإيطالي أندريا أنييلي، مالك نادي يوفنتوس الإيطالي وعدّة شركات كبيرة أخرى، توثّق لركوبه وسيلة نقل عام، ومدحته على تواضعه.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><strong><img src=\"https://lh5.googleusercontent.com/j_MeMvGj-mDxYzzYy3PeGxlt6TRRAduqDOJXbcKlGkOiqtwIuOn5iyeo7CHUxoFB6VNsBbYvzrw9IAr1spN5UtXut9wBIli0YzpiyvwSIXBQS0E2p6b-_DLHgw9JWA\" style=\"height:627px; width:376px\" /></strong></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><strong><img src=\"https://lh3.googleusercontent.com/FvwNb65jo-MKqYsxowvIQNP7MTxhC7iCudPJ2tGGTdizdr7Maqc0HNg6xYf15JjU-BiQQJ23d-c0PxvCNBm5MrY1EKtWFqL6jttynp6ynA0OffZ5ANAjtgeEZjGh_w\" style=\"height:711px; width:372px\" /></strong></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><strong><img src=\"https://lh5.googleusercontent.com/wIXM3CEzXiwJ1r2L8MIzf3jqGi0iVKFOalzctlsJkgP8yUG_o2WF2iMU2VaSdoC5OuTl3HMWZ7B5iP3Rt6prqdNBOb3B5RnOLAJZQJyb3aGnir1ua5wRa5ZeEfhAGg\" style=\"height:600px; width:367px\" /></strong></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1579873408GettyImages-1074026254.jpg"
+    },
+    "post_date": "2019-12-19T15:26:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/t3rfcom/photos/a.1540751222811898/2646419405578402/?type=3&theater",
+            "name": "تعرف ",
+            "path": "published/0_1579872952_facebook.jpg"
+        },
+        {
+            "link": "https://twitter.com/yousef_totta/status/1203988342054019072",
+            "name": "توتا ",
+            "path": "published/1_1579872952_Twitter-logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Cikopatyofficial/posts/541918253081778",
+            "name": "سيكوباتي ",
+            "path": "published/2_1579872952_facebook.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://bit.ly/2sjhNda",
+            "name": "90 Min",
+            "path": "sources/0_1579872952_90 Min-logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/nicozava/status/1148005300928221184",
+            "name": "Nico Zavattoni",
+            "path": "sources/1_1579872952_Twitter-logo.jpg"
+        },
+        {
+            "link": "https://bit.ly/34a4f14",
+            "name": "356 Soccer News",
+            "path": "sources/2_1579872952_356 Soccer News.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "حقيقة استخدام مالك نادي يوفنتوس لوسيلة نقل عام",
+    "updated_at": "2020-09-23 12:39:58",
+    "url_path": "/factcheck/2020/01/24/حقيقة-استخدام-مالك-نادي-يوفنتوس-لوسيلة-نقل-عام"
+}

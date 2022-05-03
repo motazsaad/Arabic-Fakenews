@@ -1,0 +1,82 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1610,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الصورة ملتقطة عام 2014 في منطقة الربوة في دمشق ",
+    "category": "Entertainment",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة تُظهر اكتظاظ السوريين في المطاعم غير آبهين بخطر عدوى فايروس كورونا.</p>\r\n",
+    "country": "SY",
+    "created_at": "2020-03-17 15:17:00",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e70bfbcd4a2294ee36bd7c3",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الصورة غير صحيحة لأنها قديمة، إذ عثر عليها &quot;مسبار&quot; منشورة على منصة فيسبوك منذ مايو/ أيار 2019، وهي بالفعل لأحد مطاعم منطقة الربوة في دمشق، لكنها التقطت العام الفائت قبل انتشار الفايروس.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"726\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fshaderone1%2Fposts%2F412317666256304&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت عدةّ صفحات وحسابات على موقع فيسبوك، صورة ادعت أنّها لأناس يرتادون مطعماً في منطقة الربوة في دمشق. وتناولت تلك الصفحات صورة اكتظاظ الناس في المطعم كدليل على عدم اكتراث السوريين بالتهديد الذي يشكله فايروس كورونا.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_5r8qxvxot.jpg\" style=\"height:442px; width:433px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_arf24vag9.jpg\" style=\"height:425px; width:413px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 315,
+        "left": 2.4000244140625,
+        "path": "articles/15844474201-1328607.jpg",
+        "top": 78.5999755859375,
+        "totalHeight": 423,
+        "totalWidth": 564,
+        "width": 559
+    },
+    "post_date": "2020-03-17T15:10:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/alhajez.almoshtarak/posts/3820519611306321",
+            "name": "حاجز مشترك",
+            "path": "published/0_1584447420_حاجز مشترك.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/405644069845291/photos/a.405648923178139/786178848458476/?type=3&__xts__%5B0%5D=68.ARB24B7xh5D0DvSYyw4Re3zIR0PCijm2XdT_WneGQUWW_cuSLuODn0Po6ttxK746hCl785ktgSqj28TQbCGLDHR67VNXlMZvPi0SBd8ZwgP7MaI4XWv7IQeMqPoxtnu34fhFb6-nXfXQZtF8Sa-h2T_yUgHEL-6c69Ai6OUKcL0RKKPOhEfuxmypzxwZuvNfuxh3c0Gd6U4P5xNNRBOObcDbXyF340C0ezhrK_RjcJjhyxpSUQFEIV04CO6NVppKe3UB5vTVI6T387KMJdDzzEUOEw-ZdIF7ih73vzA6TWM-ucfnPCtgp1DaZBiBJbu5SRykFGQnXHCDVHDet4S8XCI&__tn__=-R",
+            "name": "يا غسان",
+            "path": "published/1_1584447420_يا غسان.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/maram.aloush/posts/3026102397442088",
+            "name": "Maram Aloush",
+            "path": "published/2_1584447420_Maram Aloush.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/shaderone1/posts/412317666256304?__xts__%5B0%5D=68.ARA_R453hbWgYt2CIduKiQiKBaaTdRIcOHA6ZmHnsodl01HqsI9N3eq0wgu9hVBpWC6uWMN-kC5lvV6dm6x_ZCKf_e3J5JJqti37Pxo5Rf71hAD0PEhKrdbgj0QukQMOSRFf2_YMi8z6WqfnRXRANjz1s_wFuHPU9g8LhF5U5fsawDisp-Sw_0gQ6ucknilrreddwJgaxSdl4GRGyQM8Fq8YKstatpKFvvOFmFgzx7Wjl5wZf31kU1g3o4EaRqMFtWUoWmBIExXCytygKM8DU2lf94w0SMB0shK28bPodmN-j0GaM8OQxHLNkJh5zkPcr064S7Z8Zq00zvndMpCf4xI&__tn__=-R",
+            "name": "الصورة الأصلية",
+            "path": "sources/0_1584447420_Facebook_logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "يتجمع السوريون دون اكتراث بخطر كورونا.. صورة مضللة",
+    "updated_at": "2020-09-23 12:36:42",
+    "url_path": "/factcheck/2020/03/17/يتجمع-السوريون-دون-اكتراث-بخطر-كورونا-صورة-مضللة"
+}

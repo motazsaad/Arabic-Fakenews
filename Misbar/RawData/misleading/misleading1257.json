@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 2,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 39210,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": " تحفّظت تركيا على مئات الصناديق في مستودعاتٍ تحتوي على هذه المعدات الطبيّة  (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">تركيا تقدم مساعداتٍ إنسانيّةٍ طبيّة&nbsp;إلى دولة الاحتلال&nbsp;لمواجهة فايروس كورونا المستجد &quot;كوفيد19&quot;.</p>\r\n",
+    "country": "IL",
+    "created_at": "2020-04-11 23:30:01",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 1,
+    "id": "5e9228c9db29165a83232f54",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الخبر المتداول، ووجد أنّه غير كامل ومنقوص التفاصيل، بل يحتوي على تضليل، فسرعان ما نشرت الجريدة الإسرائيليّة &quot;يدعوت أحرنوت&quot; صباح العاشر من ابريل/ نيسان الجاري أيْ بعد يوم واحد من نشر بلمومبرج تقريره تصريحاً على لسان مسؤول سياسيّ في &quot;إسرائيل&quot;، بأنّ تقرير الموقع الأميركيّ غير دقيق، مشيراً إلى أنّها كانت صفقة&nbsp;تجاريّة&nbsp;لشراء معداتٍ طبيّة وليست مساعدة إنسانيّة، كما أنّه لا يوجد أيّ صلة لمساعدة الفلسطينيين.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">ومن المعروف أنّ تركيا تشتهر بصناعة المعدات الطبيّة، ما جعلها تقدم مساعداتٍ لعدة دول تأثّرت بالوباء، كما عقدت الكثير من الصفقات الطبيّة التجاريّة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">و قبل تحميل المعدات على الطائرات لنقلها إلى &quot;إسرائيل&quot;، أوقف مكتب الرئيس التركي رجب طيب أردوغان هذه الخطوة مطالباً بالسماح بنقل كميّةٍ مماثلةٍ من المعدات مباشرة إلى الفلسطينيين، وغضب المسؤولون الإسرائيليون من الطلب واصفين إيّاه بالدعاية، قائلين إنّ أيّ شخصٍ يريد نقل المعدات مباشرة إلى الفلسطينيين قد سُمح له بذلك بالفعل.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وجاءت هذه التطورات في تقرير نشره موقع &quot; تايمز أوف إسرائيل&quot; الذي أضاف &quot;على الرغم من أنّ الصفقة تمت مع القطاع الخاص في تركيا إلّا أنّ الحكومة التركيّة علّقت الشحنات الطبيّة الإسرائيليّة التي تم شراؤها&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وطالب الرئيس التركيّ أردوغان &quot;إٍسرائيل&quot;&nbsp;بأنْ &quot;يُسمح لأنقرة بتحويل مساعداتٍ طبيّة مماثلة للفلسطينيين قبل إرسال الإمدادات إلى الدولة اليهوديّة&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وتحفّظت تركيا على مئات الصناديق في مستودعاتٍ تحتوي على هذه المعدات الطبيّة، بما في ذلك معدات الحماية الشخصيّة التي تم إنتاجها في تركيا، باعتبارها واحدة من أكبر موردي المعدات الطبيّة في العالم.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_5xycie29m.jpg\" style=\"height:334px; width:605px\" /><img src=\"https://images-prod.misbar.com/articlebody/investigation_eih6f8cs5.jpg\" style=\"height:383px; width:604px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحاتٌ على وسائل التواصل الاجتماعيّ ومواقعٌ إخباريّة خلال أيّام 9 و10 و11 ابريل/ نيسان الجاري، خبراً مفاده أنّ تركيا قدمت مساعداتٍ طبيّةٍ إلى دولة الاحتلال &quot;إسرائيل&quot;&nbsp;لمواجهة جائحة فايروس كورونا المستجد &quot;كوفيد19&quot;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وكانت &quot;إسرائيل&quot; أعلنت إصابة قرابة 9000 حالة بالفايروس وأكثر من 50 حالة وفاة، وتراجع في الوضع الاقتصاديّ.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وجميع هذه المواقع أخذت الخبر عن موقع بلومبرج الأميركيّ الذي قال في تقريره، إنّ مسؤول تركيّ رفيع المستوى في أنقرة أوضح أنّ الحكومة التركيّة وافقت على بيع معداتٍ طبيّة لأسبابٍ إنسانيّة، ومن المتوقع أن تسمح &quot;إسرائيل&quot; لشحنٍ مماثلٍ من المساعدات التركيّة للوصول إلى السلطات الفلسطينيّة دون أي معوّقات.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">كما أضاف التقرير أنّه من المتوقع هبوط ثلاث طائراتٍ من &quot;إسرائيل&quot;، كان من المقرر أنْ تهبط الخميس الماضي،&nbsp;في قاعدة إنجرليك الجويّة في مدينة أضنة التركيّة لاستلام الشحنة الطبيّة التي هي عبارة عن بدلات وقفازات معقّمة، وأقنعة طبيّة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_n6lzko5me.jpg\" style=\"height:334px; width:604px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_sp1yshcig.jpg\" style=\"height:376px; width:605px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_y1xhhxfha.jpg\" style=\"height:437px; width:605px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_kji7hoia6.jpg\" style=\"height:603px; width:605px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_5vtwao3kj.jpg\" style=\"height:418px; width:605px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_k43dgwksb.jpg\" style=\"height:357px; width:605px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 341,
+        "left": 10.277816772460938,
+        "path": "articles/1586637000GettyImages-1209576411.jpg",
+        "top": 20.954833984375,
+        "totalHeight": 423,
+        "totalWidth": 616,
+        "watermark_path": "articles/watermark-1586637000GettyImages-1209576411.jpg",
+        "width": 606
+    },
+    "post_date": "2020-04-11T19:31:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.bloomberg.com/news/articles/2020-04-09/turkey-to-supply-medical-equipment-to-israel-to-fight-covid-19?fbclid=IwAR3WL-QzjC6XmrmbnZ6rtpqqaxsB7lSdXzXWuNKRONX0kLR_fjOvhhvAPvI",
+            "name": "bloomberg",
+            "path": "published/0_1586638644_بلومبرج.JPG"
+        },
+        {
+            "link": "https://www.alarabiya.net/ar/arab-and-world/2020/04/10/%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%AA%D8%B2%D9%88%D8%AF-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%A8%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A7%D8%AA-%D8%B7%D8%A8%D9%8A%D8%A9-%D9%84%D9%85%D9%83%D8%A7%D9%81%D8%AD%D8%A9-%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-",
+            "name": "العربية",
+            "path": "published/1_1586636999_العربية.JPG"
+        },
+        {
+            "link": "https://www.skynewsarabia.com/world/1335792-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%AA%D8%B2%D9%88%D8%AF-%D8%A7%D9%95%D8%B3%D8%B1%D8%A7%D9%8A%D9%94%D9%8A%D9%84-%D8%A8%D9%85%D8%B9%D8%AF%D8%A7%D8%AA-%D8%B7%D8%A8%D9%8A%D8%A9-%D9%88%D8%A7%D9%84%D8%A7%D9%94%D8%B3%D8%A8%D8%A7%D8%A8-%D8%A7%D9%95%D9%86%D8%B3%D8%A7%D9%86%D9%8A%D8%A9",
+            "name": "سكاي نيوز عربية",
+            "path": "published/2_1586637000_سكاي نيوز.JPG"
+        },
+        {
+            "link": "https://twitter.com/A_zaid1976/status/1248573695259484160",
+            "name": " المستشار زيد الايوبي",
+            "path": "published/3_1586637000_زيد.jpg"
+        },
+        {
+            "link": "https://www.3lnar.com/?p=186465&utm_campaign=nabdapp.com&utm_medium=referral&utm_source=nabdapp.com&ocid=Nabd_App",
+            "name": "أخبار على النار",
+            "path": "published/4_1586637000_أخبار على نار.JPG"
+        },
+        {
+            "link": "https://www.facebook.com/lahcene.bourbia/posts/2705189583047716",
+            "name": "Lahcene Bourbia",
+            "path": "published/5_1586637000_تركي.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.timesofisrael.com/erdogan-reportedly-holding-up-israeli-medical-shipment-in-turkey/?fbclid=IwAR3dGfshcwMyw8hmvqquaFTQQW39k5EV0jIwoO2nbykPpkV3cIsA5Zl9t2Q",
+            "name": "Times Of Israel",
+            "path": "sources/0_1586637000_ذا تايم أوف اسرائيل.JPG"
+        },
+        {
+            "link": "https://www.ynet.co.il/articles/0,7340,L-5711918,00.html",
+            "name": "يدعوت أحرنوت",
+            "path": "sources/1_1586637000_يانيت.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ما قصة المساعدات الطبيّة التي قدمتها تركيا لدولة الاحتلال؟",
+    "updated_at": "2020-09-23 12:35:07",
+    "url_path": "/factcheck/2020/04/11/ما-قصة-المساعدات-الإنسانية-الطبية-التي-قدمتها-تركيا-لإسرائيل"
+}

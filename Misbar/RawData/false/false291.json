@@ -1,0 +1,102 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1662,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "نفى الديوان الأميري الخبر (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">وفاة أمير الكويت صباح الأحمد.</p>\r\n",
+    "country": "KW",
+    "created_at": "2020-09-11 01:00:42",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 2,
+    "id": "5f5aa20af373b130a6665b70",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الخبر المتداول ووجد أنه زائف، إذ نفى <a href=\"https://www.kuna.net.kw/ArticleDetails.aspx?id=2922064\" style=\"text-decoration:none\" target=\"_blank\"><u>الديوان الأميري</u></a> الكويتي الخبر مشيراً إلى أن الحالة الصحية للأمير صباح الأحمد مستقرة ويتلقى العلاج المقرّر له.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_frbx2yw3w.jpg\" style=\"height:401px; width:548px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\">تتناقل صفحات على مواقع التواصل الاجتماعي، حديثاً، خبراً مفاده وفاة أمير الكويت، الشيخ صباح الأحمد أثناء علاجه في الولايات المتحدة الأميركية.</p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_fy0p64g5p.jpg\" style=\"height:360px; width:534px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_5ob2tiqp0.jpg\" style=\"height:656px; width:535px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 336,
+        "left": 1.5333251953125,
+        "path": "articles/1599775242GettyImages-1178756843.jpg",
+        "top": 42.33349609375,
+        "totalHeight": 423,
+        "totalWidth": 601,
+        "watermark_path": "articles/watermark-1599775242GettyImages-1178756843.jpg",
+        "width": 598
+    },
+    "post_date": "2020-09-11T00:56:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/EdyCohen/status/1304128257118425089",
+            "name": "إيدي كوهين",
+            "path": "published/0_1599775354_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/Josiansuritavdg/status/1304159302563790849",
+            "name": "Josiane Surita vdg",
+            "path": "published/1_1599775354_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/dr_hakims/status/1304159239607287813",
+            "name": "Dr.Hakim Al Hashimi",
+            "path": "published/2_1599775354_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/amineeberree/status/1304159154957955074",
+            "name": "amineberre",
+            "path": "published/3_1599775428_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/nkf1EaJB6iTZo69/status/1304158803340992512",
+            "name": "اخبار غزة اليوم عينك على الحدث",
+            "path": "published/4_1599775428_twitter.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.kuna.net.kw/ArticleDetails.aspx?id=2922064",
+            "name": "وكالة الأنباء الكويتية",
+            "path": "sources/0_1599775242_كونا.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الديوان الأميري ينفي وفاة الشيخ صباح الأحمد",
+    "updated_at": "2020-09-25 15:57:19",
+    "url_path": "/factcheck/2020/09/11/الديوان-الأميري-ينفي-وفاة-الشيخ-صباح-الأحمد",
+    "was_notification_pushed": "true"
+}

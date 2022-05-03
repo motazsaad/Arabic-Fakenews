@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 15908,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الصورة مركبة ولا تتعلق بزعيم كوريا الشمالية على الإطلاق (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة لزعيم كوريا الشمالية كيم جونغ أون وهو مستلقٍ على السرير في المستشفى.</p>\r\n",
+    "country": "KP",
+    "created_at": "2020-04-23 12:58:18",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ea166badb29164ff4598b94",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">رصد &quot;مسبار&quot; أساليب تفاعل آلاف مستخدمي &quot;فيسبوك&quot; مع صورة زعيم كوريا الشمالية كيم جونغ أون التي نشرها الإعلامي فيصل القاسم، ووجد أنّ ثمّة لبساً لدى بعض المتفاعلين حول حقيقة الصورة، وشكاً في أن تكون بالفعل صحيحة. علاوة على أنّ عبارة القاسم التي افتتح بها منشوره &quot;حتى لو الصورة فوتوشوب&quot;، قد توحي أنّ هناك احتمالاً أن تكون الصورة بالفعل صحيحة وغير مركبة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">لذا تحقّق &quot;مسبار&quot; من الصورة وتأكّد من أنها مفبركة، إذ عثر على الصورة الأصلية منشورة على موقع <span dir=\"LTR\">Dreamstime</span>، وتعود لسيدة مريضة مستلقية على سرير، وقد تمّ تركيب صورة زعيم كوريا الشمالية عليها.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">هذا وانتشرت في الأيام القليلة الماضية أنباء عن تدهور الحالة الصحية لزعيم كوريا الشمالية كيم جونغ أون ودخوله المستشفى.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_kl9rr1m8g.jpg\" style=\"height:324px; width:754px\" /></span></strong></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشر الإعلامي في قناة الجزيرة فيصل القاسم على حسابه في &quot;فيسبوك&quot;، صورة لزعيم كوريا الشمالية كيم جونغ أون وهو على السرير في المستشفى.&nbsp;وقد شارك الصورة أكثر من ألف مستخدم وحظيت بنحو 27 ألف إعجاب حتى إعداد هذه المادة. وابتدأ القاسم منشوره المرافق للصورة بالقول &quot;حتى لو الصورة فوتوشوب: مهما طغى الديكتاتور وتجبر واستبد وأجرم وقتل ونهب وسرق سيجد نفسه في لحظة ما ملقياً على سرير صغير يصارع فوقه سكرات الموت..&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_zy7gtb234.jpg\" style=\"height:583px; width:600px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_kclml92wa.jpg\" style=\"height:212px; width:697px\" /></span></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 401,
+        "left": 10.809967041015625,
+        "path": "articles/158763589794768710_3448176571906109_1546528057257361408_n.jpg",
+        "top": 5,
+        "totalHeight": 423,
+        "totalWidth": 749,
+        "watermark_path": "articles/watermark-158763589794768710_3448176571906109_1546528057257361408_n.jpg",
+        "width": 712
+    },
+    "post_date": "2020-04-23T12:49:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/falkasim/photos/a.175325562524576/3448176568572776/?type=3&theater",
+            "name": "الدكتور فيصل القاسم",
+            "path": "published/0_1587635897_الدكتور فيصل القاسم.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=950294155440481&id=100013797168527&__tn__=-R",
+            "name": "محمد الحلبي",
+            "path": "published/1_1587635897_محمد الحلبي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/kmar.chebbi.14/posts/2649967401901291?__tn__=-R",
+            "name": "Kamar Chebbi",
+            "path": "published/2_1587635897_Kamar Chebbi.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/mayah.alenazy/posts/10163213314965702?__tn__=-R",
+            "name": "مباح غانم العنزي",
+            "path": "published/3_1587635897_مباح غانم العنزي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2660114477432388&id=100003015841974&__tn__=-R",
+            "name": "كلنا محمد",
+            "path": "published/4_1587635897_كلنا محمد.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.dreamstime.com/sad-senior-woman-lying-bed-hospital-ward-medicine-healthcare-old-people-concept-image102874378",
+            "name": "Dreamstime",
+            "path": "sources/0_1587635897_Dreamsnight.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "بالتأكيد صورة زعيم كوريا الشمالية في المستشفى.. مفبركة",
+    "updated_at": "2020-09-25 22:02:15",
+    "url_path": "/factcheck/2020/04/23/بالتأكيد-صورة-زعيم-كوريا-الشمالية-في-المستشفى-مفبركة"
+}

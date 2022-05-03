@@ -1,0 +1,86 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2210,
+    "author": {
+        "fullname": "حسام الهندي",
+        "id": "5e25c80bd4a229629038df03",
+        "photo": {
+            "path": "authors/1579542323_حسام الهندي.jpg"
+        }
+    },
+    "category": "Travel",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">بالفيديو لمن يسأل عن سبب مرض كورونا في الصين... سوق لبيع لحوم الحيوانات الغريبة.</p>\r\n",
+    "country": "ID",
+    "created_at": "2020-01-31 09:31:36",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e33c9c8d4a22959e64273f3",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; كان بدايته عنوان الفيديو الذي يظهر في الثواني الأولى <span dir=\"LTR\">(Pasar extreme Langowan)</span>، وكلمة<span dir=\"LTR\"> &quot;Pasar&quot; </span>تعني &quot;سوق&quot; في اللغتين الماليزية والإندونيسية، وبالبحث في العنوان نفسه على موقع يوتيوب، وجدنا الفيديو الأصلي الذي نُشر في 20 يوليو/تموز 2019، بالإضافة إلى العديد من الفيديوهات للسوق الشعبي نفسه، الذي يقع في شمال جزيرة سولاويسي الإندونيسية، الواقعة بالقرب من الفلبين وسلطنة بروناي، وليس في الصين كما نشر البعض<span dir=\"LTR\">.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">كما أنَّ انتقال فايروس كورونا بسبب هذا السوق سيكون ادعاء خاطئاً، إذ أنَّ دولة إندونيسيا، حتى يوم 30 يناير/كانون الثاني، لم تعلن عن أيَّة حالة اشتباه أو إصابة بالفايروس.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img id=\"Picture_x0020_2\" src=\"https://images-prod.misbar.com/articlebody/investigation_imomc1icr.jpg\" style=\"height:320.25pt; width:450.75pt\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">بالبحث في صحة ادعاء استخدام الحيوانات في الأكل، استعان &quot;مسبار&quot; بمترجم من اللغة الإندونيسية، لتفسير المحتوى الصوتي لصاحب الفيديو، الذي شرح فيه طبيعة السوق باعتباره سوقاً غير اعتيادي، حيث توجد الفئران، ويتم ذبح الكلاب والسناجب، وهناك أيضاً الخفافيش، واستخدامها في الأكل، واعتبر المصوِّر أنَّ الأكثر غرابة الثعابين والقطط.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;ويقول المصوِّر: هنا هو شمال سولاويسي، بالقرب من مدينة ماندو (عاصمة شمال سولاويسي) التي تعتاد على مثل تلك الأكلات. وبالبحث عن اسم السوق نفسه نكتشف فيديوهات أخرى، حيث تؤكد المعلومات أنَّ مكان تصوير الفيديو في إندونيسيا وليس في الصين، وأنه لأكل لحوم الحيوانات الغريبة<span dir=\"LTR\">.</span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">&quot;يا من تسأل عن سبب فايروس كورونا، إليك مَشاهد من سوق الغذاء في الصين&quot;. عنوان لمقطع مصوَّر انتشر في العديد من الصفحات وعلى موقع يوتيوب.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;ويظهر في المقطع سوق شعبي في دولة آسيوية، تباع فيه لحوم بعض الحيوانات الغريبة، مثل الفئران والسناجب والثعابين والكلاب والقطط، ويبدو أنها مُعدَّة للأكل، ويدَّعي الفيديو أنها في الصين، وهي السبب في فايروس كورونا.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img id=\"Picture_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/origin_5ydhhb2hu.jpg\" style=\"height:281.25pt; width:451.5pt\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 285,
+        "left": 13.3238525390625,
+        "path": "articles/1580452296GettyImages-453371864.jpg",
+        "top": 55.80717468261719,
+        "totalHeight": 350,
+        "totalWidth": 524,
+        "width": 507
+    },
+    "post_date": "2020-01-31T13:22:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/toufik.zarour.77/videos/869891713463484/",
+            "name": "Toufik Zarour",
+            "path": "published/0_1580452296_Toufik Zarour.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/aamah.aamah.5/videos/279628299664012/",
+            "name": "Abdullah  Alhabsyi",
+            "path": "published/1_1580452296_Abdullah Abdulqadir Alhabsyi.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=tzaqTIOYbHE",
+            "name": "4k mix",
+            "path": "published/2_1580452296_4k mix.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=bDvXy6YlPOc",
+            "name": "Jerry Mewengkang",
+            "path": "sources/0_1580452295_Jerry Mewengkang.jpg"
+        },
+        {
+            "link": "https://www.vice.com/id_id/article/a3p43g/benarkah-daging-ekstrem-di-pasar-tomohon-aman-dikonsumsi-manusia",
+            "name": "vice",
+            "path": "sources/1_1580452296_vice.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "فيديو مضلّل ادعى أن سوقاً صينيّاً جلب فايروس كورونا",
+    "updated_at": "2020-09-25 10:13:38",
+    "url_path": "/factcheck/2020/01/31/فيديو-مضلل-ادعى-أن-سوقا-صينيا-جلب-فايروس-كورونا"
+}

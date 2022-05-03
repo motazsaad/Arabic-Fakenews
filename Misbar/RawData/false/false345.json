@@ -1,0 +1,113 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1074,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "الصور قديمة من حسابها الموثق في موقع انستغرام (Instagram)",
+    "category": "Sports",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\">صور جورجينا رودريغيز</span> صديقة رونالدو لاعب كرة القدم الشهير ونجم ريال مدريد سابقاً، خلال زيارتها إلى مصر.</p>\r\n",
+    "country": "EG",
+    "created_at": "2020-08-24 11:36:09",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f437bf96021180633176d03",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الصور والخبر ليجد أن المعلومات غير صحيحة، &nbsp;والحساب في &quot;تويتر&quot; مفبرك ولا يعود إلى جورجينا فهو غير موثق، كما&nbsp;يتابعه آلاف على عكس حسابها الوحيد في &quot;انستغرام&quot; الذي يتابعه ما يزيد عن العشرين مليون شخص، والصور جميعها منشورة عليه خلال العامين السابقين، كما أن هناك صوراً مأخوذة من مواقع سياحية مصرية، كصورة فتاة تمارس الرياضة أمام الأهرامات، ويشير حسابها في &quot;انستغرام&quot; أنها حالياً في إسبانيا حيث تقضي فيها إجازتها الصيفية..</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_tqcfj0xbh.jpg\" style=\"height:448px; width:605px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_gputr1737.jpg\" style=\"height:327px; width:605px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_extggm64n.jpg\" style=\"height:471px; width:604px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/investigation_qextjn8wi.jpg\" style=\"height:461px; width:605px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت كثير من الحسابات والصفحات على موقعّي فيسبوك وتويتر صوراً لـ جورجينا رودريغيز صديقة رونالدو لاعب كرة القدم الشهير ونجم ريال مدريد سابقاً، على أنها في زيارة إلى مصر، وتنوعت الصور بين وصولها إلى المطار ومن ثم زيارتها&nbsp;إلى الأهرامات والبحر في شرم الشيخ، وبدأ التداول للخبر والصور بكثافة منذ 21 أغسطس/آب الجاري، حين أعلنت جورجينا بنفسها على حساب في موقع تويتر أن رحلتها بدأت إلى القاهرة، وذلك&nbsp;في التاريخ ذاته.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_a7tk9agp8.jpg\" style=\"height:378px; width:605px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_bwf68rxt4.jpg\" style=\"height:603px; width:582px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ik1em3o6y.jpg\" style=\"height:379px; width:605px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_lsnw8qce3.jpg\" style=\"height:399px; width:590px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_gxlaxm1sy.jpg\" style=\"height:581px; width:604px\" />&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 340,
+        "left": 24.54595947265625,
+        "path": "articles/1598258169جورجينا.JPG",
+        "top": 29.10400390625,
+        "totalHeight": 423,
+        "totalWidth": 689,
+        "watermark_path": "articles/watermark-1598258169جورجينا.JPG",
+        "width": 604
+    },
+    "post_date": "2020-08-24T10:25:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/georgina____",
+            "name": "georgina rodríguez",
+            "path": "published/0_1598259910_سسسبببببب.jpg"
+        },
+        {
+            "link": "https://twitter.com/Bob_2020_/status/1296966782079709184",
+            "name": "Bob",
+            "path": "published/1_1598260807_6_1596888660_twitter.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/mohemmed.ismaeil/posts/3583126481725785",
+            "name": "Mohamed Ismail",
+            "path": "published/2_1598260808_0_1596888660_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo/?fbid=1422542371269130&set=basw.AbrLK08TDxLFQrRIWAam4aB3UqVVkzaOFj8zmnfRhlC_GjpwqGaw7kAasNB_62nVRzDUhqzEOmZcBCTOofsL-HOiOUoP3-thAecTp9WfBNzTwk0anD9oegxISkYAbFh9YXuZ4DzxJM2fKJwxpa02WEvF-CIdkXuMSL0eSIZqsd2tS05pAVAsIcWs0axD4j-qqpRq_8elrBge5ki1CU_kQ9U9iPymc1fGjoT5fvE7_7NZOw&opaqueCursor=Abq4cPtfGPYiiN-5QKelNt87lRneYctq8-1gYUvGJBAcK8oQFAP6in8oG3wvcorPs_3MSOZ69wOMTB70R6j9k1ZrBLhqD5hPlogtUT0Ro_ixQAOGbdZjUy45LO1B5lLfxomgQ1NmEMVZZ_Ha6fovfd-9fteHhCBQMc6klJZwCSJHdck4N-gxcnof7H5-Gh3mUU4cnCXp1wbCbVV09Hg0Xeyp53ESbCNAPvSC0_SSYNnW2lN1waaIPbx5WKYAOKRZN4-M1O6qHD42WEKv4T1Mc1qEd67uLT4fkJHsWHuW9muM9PTBuHs--8k_9K0S4NZ9Tis09DQ36O3Vhtee_iP38uIoJLIKdi99jUFhPLk7ZNMbhnvcy4xn-y1lhOqSyElU5_issvptA6qdMQs9Fp9rYCm0As6UCZ9NREfHYAFNWpMm5bXgpBhfeo4VPzbhcmcLyi-Wrz4zB4exQCEcOP0GnWZ0aRfE-WWhamhI3CAoozURpRMVFPSCYwKIzWeSCUts1bvyUW1I7754JMGKoC3VDKlMcBMBB_Dq3yZ0i29NEaB5cIZk4kAYbIfGaEENiJlXbKKmSZbQOCA2sD-kB1l-wsoNP_PNak24ycXZSe2gErJu3PNKQCAnIexwPd19Zv2cfrmh19Sm8tptjvHZcHMHZ_3Oh5IrBHu8eCUjVXXziW6opmVdwjyEsDa3iEgbNIXpNMWJGuLjVzRShSzffuS3_v2m27rGWY4l_KVKkksK5MxNkXtjAMefTuGC07SxXW9XEQCimuNxVvQlG4clOMrjFiXmL-WDQd_kIzjRmF3huueoHSkt2LwkERrP6WiqjRaTpe5303dzURWrdxlCpbhA_AxtEyEvuac4kMtTE_kd-OCqFN9r5geLM6a6tA-p4X7zi_s",
+            "name": "Amr Fouad",
+            "path": "published/3_1598260808_0_1596888660_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo?fbid=2709181266018102&set=basw.AbpLbde5s6yjiDH4kYjiDiWV731QWSE9Io1eXFCJS8eDir0QvB7_BFowSOxEGdTrzOREe_rqZPruYwmh0OYoLZICeqo9dp-rLilQF0-9Jl2Y2k2l3-5eXPazdULZ6_RFywIvrqccMFr1FgCjJOBeNQvw6GQIPnMRMGKd9Xmaqie6rwc6HK9R6BizLCj6FAGAuqi7nYoEhHlm637sDDbYIOV0hVjXd5cna-Bz1RN8vEHwk2QndSnMdxzSOBucAWbvyd879mfcSY-6B7165ui7odVq&opaqueCursor=Abq113lVJ6EzlE04bIsk99aVLTnq2gJgOHK6XuV75Y7p7iGRUKLsFR2sfScGn8SI5kBueJKbzNw6-dux2deqmcnvlBhg4WO0aeuuprA3Jkce0z-ThMud8HOEbXq9pEgmgJRKoiR2tm40S_WVovOtCkM514VoOJzzh3G_c4Re9EWWmW3EBr7fD3TAkd2gTVKMkm6TOEjv9MersgCLrkZvRTN95RDLjW5OMVD7_9P_K1TaeEob84hZ19rc3oARsrTIn-1gvP_hGzZM42GbahBeB_wA7toH9A9kZUO5a_shX4_5Ywhqh_mN97Lwz_Iy8IeU4MvpiJiFI3026Vd2EbUxJVI07ppADwlWYs7R8wzh_6a89rfvqVBWr8sMOq1-2kgC3mbw2DYExKFtS_jZtp4cKQ1deeFMuxh_EJW2hidxK34aScuvp42G9s0YPZYLAaLM7nWPh0Ud0VEcbhXsAzwX8fv_IHo99tgIocax8Wva10yVtHZl_6L--nAGk6UxD7gueNsJejhitO_BixevlGs2P9AMzzGWhLDTTFsRfMKrCzfJf_s-2g5qyyTmk1HNLF-ICIto_iW5pL7yAlu1frb0UdZaal3NvyQlLdXHsq3J1t1yfK8WTCFPSIrRmjDH3EuzGS-eUEqj8IxvTThefLJ4tzFzXpCqN7nu6TFsbCKFlTq0XfBClgOjpd7BwyrwWUAQGibCazmt5gQqWo7yc5fpvEs413xDqk-0Due3PNn3mnjneg",
+            "name": "Ebrahim Gad",
+            "path": "published/4_1598260808_0_1596888660_facebook.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.instagram.com/p/Bje4S_7lBHf/?fbclid=IwAR3fJnhCOy95gczZ4TFbENMQIER1S4rXFRn-JrexdDl7nqWb8_8tSVoWRJo",
+            "name": "georginagio ",
+            "path": "sources/0_1598260808_سسسسس.JPG"
+        },
+        {
+            "link": "https://www.instagram.com/p/B4j9ztno8hB/?fbclid=IwAR36rngeGibtYa1P5Q5UTNvtKOZuvpVxuRyUQypVt5yNCXw3Ob2recPJmHY",
+            "name": "georginagio ",
+            "path": "sources/1_1598260808_سسسسس.JPG"
+        },
+        {
+            "link": "https://www.instagram.com/p/CEE9BqOK7_-/",
+            "name": "georginagio ",
+            "path": "sources/2_1598260808_سسسسس.JPG"
+        },
+        {
+            "link": "https://www.instagram.com/p/B3W5CvPnjKq/?fbclid=IwAR2IMmsAJjdmvUkCNTxMEspXoVF_AtoeWopxeGBYaCILjzkxljywgNylF4Q",
+            "name": "georginagio ",
+            "path": "sources/3_1598260809_سسسسس.JPG"
+        },
+        {
+            "link": "https://www.polecampegypt.com/program",
+            "name": "polecampegypt",
+            "path": "sources/4_1598260809_ييي555.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "جورجينا صديقة رونالدو ليست في زيارة إلى مصر",
+    "updated_at": "2020-09-24 20:46:23",
+    "url_path": "/factcheck/2020/08/24/جورجينا-صديقة-رونالدو-ليست-في-زيارة-إلى-مصر"
+}

@@ -1,0 +1,164 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 303,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "الصورة ليست لضباط فرنسيين (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p><span dir=\"RTL\" lang=\"AR-SA\">&quot;الشرطة الكاميرونية تلقي القبض على عناصر استخباراتية فرنسية تخطط لتنفيذ عمليات إرهابية باسم جماعة بوكو حرام..هل عرفتم من يقف وراء الإرهاب؟&quot;</span></p>\r\n",
+    "country": "CM",
+    "created_at": "2020-11-02 13:08:46",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 5,
+    "id": "5f9fdaaea5be3a0d334bde55",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة ووجد أنها مضللة، فهي صورة قديمة منذ عام 2004 ويظهر فيها البريطاني سيمون مان بعد أن قضت محكمة في موزمبيق بسجنه بسبب محاولة انقلاب فاشلة في غينيا الاستوائية، وقيل إن ابن رئيسة وزراء بريطانيا السابقة مارجريت تاتشر&nbsp;تورط فيها، واُتهم سيمون مان الذي كان في العقد الخامس من عمره وقتها، إلى جانب ستة آخرين بالضلوع في محاولة انقلابية ضد رئيس غينيا الاستوائية&nbsp;تيودور أوبيانغ نغويما مباسوغو. أما بالنسبة للخبر نفسه حول ضلوع ضباط فرنسيين في عمليات إرهابية في الكاميرون باسم باكو حرام، فقد انتشر باللغة الفرنسية فقط منذ عام 2015 بعد أن بدأ الجيش الفرنسي عملياته على الساحل الإفريقي عام 2014، ونفت الخبر في ذلك الحين&nbsp;مواقع إفريقية وفرنسية.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_l1o133sz5.jpg\" style=\"height:341px; width:554px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_wyydmd82c.jpg\" style=\"height:599px; width:602px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول&nbsp;حسابات وصفحات على مواقع التواصل الاجتماعي،منذ أعوام&nbsp;حتى نوفمبر/تشرين الثاني الجاري،&nbsp;صورةً لمعتقليّن مكبلي الأيدي، وقالت هذه الحسابات معلقة على الصورة &quot;الشرطة الكاميرونية تلقي القبض على عناصر استخباراتية فرنسية تخطط لتنفيذ عمليات إرهابية باسم جماعة بوكو حرام..هل عرفتم من يقف وراء الإرهاب؟&quot;.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_0weqfo5ht.jpg\" style=\"height:188px; width:602px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_o6wjz8sne.jpg\" style=\"height:617px; width:589px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 386,
+        "left": -0.29998779296875,
+        "path": "articles/1604311725Screenshot 2020-11-02 092846.jpg",
+        "top": 3.199951171875,
+        "totalHeight": 423,
+        "totalWidth": 711,
+        "watermark_path": "articles/watermark-1604311725Screenshot 2020-11-02 092846.jpg",
+        "width": 687
+    },
+    "post_date": "2020-11-02T09:40:00.000+03:00",
+    "published": [
+        {
+            "id": "5f9fdaabc57618420080b628",
+            "link": "https://www.facebook.com/Immigrants.dz2/posts/340246503190215",
+            "name": "المُهاجرون Immigrants - 2 -",
+            "origin": "facebook",
+            "path": "sources/97ae83fe589b98a7c4c1b34a89c95415d51d14b9.jpg"
+        },
+        {
+            "id": "5f9fdaabc314a64670105f1d",
+            "link": "https://www.facebook.com/groups/807147722730029/permalink/3187554511355993",
+            "name": "محبي التاريخ الإسلامي",
+            "origin": "facebook",
+            "path": "sources/5bfe4505f0d897cf8eadb4d078ea86f5bd10e8d5.jpg"
+        },
+        {
+            "id": "5f9fdaab04620f5de718792c",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=688178681804142&id=335603790394968",
+            "name": "هنا الجزائر",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5f9fdaac24b41b4ad37cadc7",
+            "link": "https://twitter.com/dodycat42/status/1323054413553012737/photo/1",
+            "name": "بنت المختار",
+            "origin": "twitter",
+            "path": "sources/a4ae517253af181ff427f54e915f4d1e503484a8.jpg"
+        },
+        {
+            "id": "5f9fdaac4d739b03035cde4c",
+            "link": "https://twitter.com/zarga12/status/1322956375660613634",
+            "name": "sadok dridi",
+            "origin": "twitter",
+            "path": "sources/966a6aff82eff4a2dcf8ff7e95b871db4d2c2f15.jpg"
+        },
+        {
+            "id": "5f9fdaac346ae127664c502b",
+            "link": "https://www.facebook.com/groups/166601990807063/permalink/814856205981635",
+            "name": "المنتدى السياسي والاخباري الجزائري",
+            "origin": "facebook",
+            "path": "sources/5bfe4505f0d897cf8eadb4d078ea86f5bd10e8d5.jpg"
+        },
+        {
+            "id": "5f9fdaac730f7f30f70b5125",
+            "link": "https://twitter.com/Marzoug6Kadiro/status/1320700689358741505",
+            "name": "حفيد العربي بن مهيدي🇩🇿",
+            "origin": "twitter",
+            "path": "sources/c917d94dcb9aaaa4eecf4e73346012bed1e23ac1.jpg"
+        },
+        {
+            "id": "5f9fdaadac2919658a176466",
+            "link": "https://twitter.com/mosaktaifan/status/1322765889750663168",
+            "name": "طالوم الذهبي",
+            "origin": "twitter",
+            "path": "sources/5889fe94db4b9b5dad2af00537d124237dfbd07d.jpg"
+        },
+        {
+            "id": "5f9fdaadc897511705316bda",
+            "link": "https://twitter.com/msusthb/status/1322612539088347137",
+            "name": "msusthb",
+            "origin": "twitter",
+            "path": "sources/e592a9e11037bfb99f6dbd1bc3785954955e2500.jpg"
+        },
+        {
+            "id": "5f9fdaad60e37b108611fd2c",
+            "link": "https://twitter.com/NouiouaLamine/status/1321913800438796297",
+            "name": "Mohammed Lamine Nouioua محمد لمين نويوة",
+            "origin": "twitter",
+            "path": "sources/a370f6202dc0fb12bf231c58615067bc405d4610.jpg"
+        },
+        {
+            "id": "5f9fdaad59875525471be167",
+            "link": "http://mediasmiroir.org/8-soldats-francais-arretes-au-cameroun-aux-cotes-de-boko-haram/",
+            "name": "mediasmiroir",
+            "origin": "",
+            "path": "sources/e335af9df76804a604743d5201bafd8426c0da7c.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f9fdaad04737e5e0e296a73",
+            "link": "https://fr.africacheck.org/fbcheck/non-larmee-camerounaise-na-pas-arrete-des-soldats-francais-combattant-pour-boko-haram/",
+            "name": "Africa Check",
+            "origin": "",
+            "path": "sources/e2bf5e68ebc1faaacee64443241f9c7ef6cb89a2.jpg"
+        },
+        {
+            "id": "5f9446e09a0e325d9b0cf86a",
+            "link": "https://www.france24.com/ar/20080707-british-mercenary-sentences-mann-simon-guinea-equatorial",
+            "name": "France 24",
+            "origin": "",
+            "path": "sources/dd8a181a96a728e93a1b73e8d009b77e101e9d18.jpg"
+        },
+        {
+            "id": "5f993f7e1020da47441d53e6",
+            "link": "https://www.theguardian.com/politics/2013/apr/14/thatcher-knew-of-equatorial-giunea-coup-attempt",
+            "name": "the Guardian",
+            "origin": "",
+            "path": "sources/05346cff21bb52cea4b0aefa02715d8da3fee194.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصورة ليست لعناصر استخباراتية فرنسية تخطط لعمليات إرهابية",
+    "updated_at": "2020-11-02 13:32:25",
+    "url_path": "/factcheck/2020/11/02/هذه-الصورة-ليست-لعناصر-استخباراتية-فرنسية-تخطط-لعمليات-إرهابية",
+    "was_notification_pushed": true
+}

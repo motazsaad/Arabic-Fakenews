@@ -1,0 +1,108 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1017,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "هي لعرض عسكري للجيش الصيني",
+    "category": "Politics",
+    "claim": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SY\">صورة تظهر أكبر قوة عسكرية للجيش التركي.</span></p>\r\n",
+    "country": "TR",
+    "created_at": "2020-09-06 16:34:19",
+    "created_by": "5f39b1ee1dd5850789476b61",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f54e55bd0fe90533d550233",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة ليجد أنها قديمة وليست للجيش التركي، إذ أنَّ الصورة الأصلية تعود لعرض عسكري للجيش الصيني ونُشرت للمرة الأولى في تاريخ 30 يوليو<span dir=\"LTR\">/</span>تموز 2017. ومن خلال التدقيق في الصورة المتداولة يتضح أنَّ الصورة معدلة على برنامج تعديل الصورة، إذ تم تركيب العلم التركي في الساحة التي ينتشر فيها الجنود؛ لتظهر أنها للجيش التركي.</p>\r\n\r\n<p style=\"text-align:center\"><img id=\"صورة_x0020_4\" src=\"https://images-prod.misbar.com/articlebody/investigation_4urwh3v6q.jpg\" style=\"height:467.25pt; width:470.25pt\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات وحسابات على وسائل التواصل الاجتماعي، منذ 4 سبتمبر<span dir=\"LTR\">/</span>أيلول الجاري، صورة قالت إنها للجيش التركي، وأُرفقت معها عبارة &quot;<span style=\"background-color:white\"><span style=\"color:#14171a\">لم يعد بإمكان الغرب إخافة تركيا بعد الآن، تركيا دولة قوية ومرعبة قوتها جعلت الغرب في حيرة ودهشة، كل يوم يشاهدون قوة تركيا تتصاعد في الصناعات الدفاعية...&quot;.</span></span></p>\r\n\r\n<p style=\"text-align:center\"><img id=\"صورة_x0020_2\" src=\"https://images-prod.misbar.com/articlebody/origin_4tt1xz4tc.jpg\" style=\"height:650.25pt; width:371.25pt\" /></p>\r\n\r\n<p style=\"text-align:center\"><img id=\"صورة_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/origin_nxpbp7m78.jpg\" style=\"height:441.75pt; width:429.75pt\" /></p>\r\n\r\n<p style=\"text-align:center\"><img id=\"صورة_x0020_5\" src=\"https://images-prod.misbar.com/articlebody/origin_qg4yt39h6.jpg\" style=\"height:650.25pt; width:394.5pt\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 377,
+        "left": 95.70005798339844,
+        "path": "articles/1599399258EhFyWtvWAAI1Z1Y.jpg",
+        "top": 42.2998046875,
+        "totalHeight": 423,
+        "totalWidth": 793,
+        "watermark_path": "articles/watermark-1599399258EhFyWtvWAAI1Z1Y.jpg",
+        "width": 669
+    },
+    "post_date": "2020-09-06T16:11:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/istanbuli99/status/1301947513629483008",
+            "name": "الرادع الإسطنبولي ",
+            "path": "published/0_1599399258_الرادع الإسطنبولي.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/hamada.harb.12/posts/3613615148672338",
+            "name": "Hamada Harb",
+            "path": "published/1_1599399258_Hamada Harb.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/daghari.daghari.716/posts/743350159846828",
+            "name": "Daghari Le Marin Arbitre",
+            "path": "published/2_1599399258_Daghari Le Marin Arbitre.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=636986483598681&id=100018620046040",
+            "name": "Alqasimiu Saeid",
+            "path": "published/3_1599399258_Alqasimiu Saeid.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/photo.php?fbid=116030880223970&set=p.116030880223970&type=3 ",
+            "name": "حمم البركان الاحتياطية",
+            "path": "published/4_1599399258_حمم البركان الاحتياطية.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.popularmechanics.com/military/weapons/a27616/china-holds-military-parade-in-the-middle-of-a-desert/",
+            "name": "Popular Mechanics",
+            "path": "sources/0_1599399258_popularmechanics.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.dailymail.co.uk/wires/afp/article-4743688/Chinas-Xi-urges-need-world-class-army-loyal-party.html",
+            "name": "Dailymail",
+            "path": "sources/1_1599402974_Daily mail-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صورة قديمة للجيش الصيني وليست للجيش التركي",
+    "updated_at": "2020-09-25 19:43:43",
+    "url_path": "/factcheck/2020/09/06/صورة-قديمة-للجيش-الصيني-وليست-للجيش-التركي",
+    "was_notification_pushed": true
+}

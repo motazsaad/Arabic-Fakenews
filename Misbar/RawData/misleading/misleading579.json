@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 275,
+    "author": {
+        "fullname": "حسام الوكيل",
+        "id": "5e7cb2a9d4a2297a3f1db883",
+        "photo": {
+            "name": "1585230505_1hGLjIBq_400x400.jpg",
+            "path": "authors/1585230505_1hGLjIBq_400x400.jpg"
+        }
+    },
+    "caption": "الصور لعصابة حاولت اغتيال رجل أعمال (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">القبض على 5 صينيين لبيعهم لحوم الغنم على أنها لحوم كلاب في الصين.</p>\r\n",
+    "country": "CN",
+    "created_at": "2020-09-27 18:47:53",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 5,
+    "feedback_pos": 11,
+    "id": "5f70b4291fef823c7508054a",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق&quot;مسبار&quot;من الصورة، ووجد أنها مضللة، إذ تعود الصورة لخمسة قتلة محترفين من الصين استأجروا بعضهم البعض لقتل رجل أعمال صيني، في مقاطعة&nbsp;قوانغتشي في الصين<span dir=\"LTR\" lang=\"EN-US\">.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">ونشرت الصورة عام 2019، بعد أن أدانت المحكمة في ناننينغ، بمقاطعة قوانغشتي، في محاكمة استمرت ثلاث سنوات، جميع الرجال الستة، وهم القتلة المحترفون الخمسة ورجل الأعمال الذي استأجرهم، بمحاولة ارتكاب جريمة القتل<span dir=\"LTR\" lang=\"EN-US\">.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span style=\"color:black\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_pe8zikott.jpg\" style=\"float:left; height:581px; width:624px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت حسابات على موقعي فيسبوك وتويتر، حديثاً، صورة لخمسة صينيين مقبوض عليهم، وزعمت أنهم عصابة لبيع لحوم الغنم على أنها لحوم كلاب.</p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:black\"><img src=\"https://images-prod.misbar.com/articlebody/origin_u6z7oodpd.jpg\" style=\"float:left; height:404px; width:624px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><span style=\"color:black\"><img src=\"https://images-prod.misbar.com/articlebody/origin_0d8rpqwnr.jpg\" style=\"float:left; height:400px; width:624px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 330,
+        "left": 21.10528564453125,
+        "path": "articles/1601221672_109324561_ea9f2f16-bfb7-4ba8-bf64-e794827eb495.jpg",
+        "top": 54.746826171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-1601221672_109324561_ea9f2f16-bfb7-4ba8-bf64-e794827eb495.jpg",
+        "width": 587
+    },
+    "post_date": "2020-09-27T16:24:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/MemoYasino/status/1309456689473695745?s=20",
+            "name": "Yasino.memo",
+            "path": "published/0_1601221672_cdeb606d2277405729841fe21c5d10e856529971.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/3bbassElnady/status/1309516298406293504?s=20",
+            "name": "MElnady",
+            "path": "published/1_1601221672_cdeb606d2277405729841fe21c5d10e856529971.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/DrNova777/status/1309450591832244226?s=20",
+            "name": "Dr-Nova Mostafa",
+            "path": "published/2_1601221672_cdeb606d2277405729841fe21c5d10e856529971.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/cruise808/status/1309439249947791360?s=20",
+            "name": "Ahmed Hamdy",
+            "path": "published/3_1601221672_cdeb606d2277405729841fe21c5d10e856529971.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/9NCKfymdlBoSCf3/status/1309409916994625537?s=20",
+            "name": "ابنحميدو",
+            "path": "published/4_1601221672_cdeb606d2277405729841fe21c5d10e856529971.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.bbc.com/arabic/world-50143871",
+            "name": "BBC News عربي",
+            "path": "sources/0_1601221672_5340b68e0e22eafbc107613949591dc82cc0c315.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هؤلاء الصينيون لم يُقبض عليهم لبيعهم لحوم الغنم على أنها لحوم كلاب",
+    "updated_at": "2020-09-27 18:58:28",
+    "url_path": "/factcheck/2020/09/27/هؤلاء-الصينيون-لم-يقبض-عليهم-لبيعهم-لحوم-الغنم-على-أنها-لحوم-كلاب",
+    "was_notification_pushed": "true"
+}

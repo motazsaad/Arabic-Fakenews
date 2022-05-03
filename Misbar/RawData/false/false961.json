@@ -1,0 +1,94 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 1,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1348,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "category": "Spirituality & Religion",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">مقاطع فيديو تُظهر أشخاصاً يتلون القرآن وينشدون أناشيداً دينيّة أثناء مشاركتهم في برامج Britain&#39;s Got Talent وAmerica&#39;s Got Talent، في ظلّ تأثّر الجمهور ولجنة التحكيم الشديدين.</span></p>\r\n",
+    "country": "GB",
+    "created_at": "2020-02-04 17:45:15",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e39837bd4a2291bdf526a35",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تبيّن لـ&quot;مسبار&quot; بعد التحقّق أن مقاطع الفيديو مزيّفة، وتعود جميعها في الأصل إلى برنامج The X Factor UK الذي يستضيف المواهب الغنائية في المملكة المتّحدة. والسبب في التأثّر البادي على الجمهور ولجنة التحكيم هي القصة التي حكاها المؤدي الحقيقي للأغنية عن وفاة صديقه المقرّب قبل عامين وارتباط الأغنية التي غناها بتلك الواقعة. أما مقاطع المنشدين وقارئي القرآن</span> فهي مركّبة على المقطع الأصلي.</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "the x factor",
+        "موسيقى",
+        "غناء",
+        "قرآن"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تناقلت صفحات على مواقع التواصل الاجتماعي مقاطع فيديو تُظهر أشخاصاً ادّعت أنهم يتلون القرآن وينشدون أناشيداً دينية في برامج Britain&#39;s Got Talent وAmerica&#39;s Got Talent، مما أثّر في الجمهور عاطفيًّا ودفع أعضاءً من لجنة التحكيم إلى البكاء.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_6hyaa6faz.jpg\" style=\"height:557px; width:443px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_sa8n02dfv.jpg\" style=\"height:576px; width:444px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_5hxnwgnql.jpg\" style=\"height:287px; width:443px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 353,
+        "left": 4.133331298828125,
+        "path": "articles/1580827515GettyImages-1192196968.jpg",
+        "top": 9.383346557617188,
+        "totalHeight": 423,
+        "totalWidth": 636,
+        "width": 628
+    },
+    "post_date": "2020-02-05T13:39:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/100308104829948/videos/2531039247150584/",
+            "name": "ترند",
+            "path": "published/0_1580827515_ترند - لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=173383447212405",
+            "name": "هوى تطاوين",
+            "path": "published/1_1580827515_هوى تطاوين - لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/salt.jordan.1986/videos/156052865809281/?v=156052865809281",
+            "name": "الصفحة الرسمية لمدينة السلط",
+            "path": "published/2_1580827515_الصفحة الرسمية لمدينة السلط - لوغو.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=zgP7EZNf4D4",
+            "name": " club africain Curva Nord",
+            "path": "published/3_1580828263_YouTube-logo.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=4o-CAzTskUY",
+            "name": "Music Talent Now",
+            "path": "sources/0_1580827559_YouTube-logo.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=uKDrXK5XHIM",
+            "name": "X Factor Global",
+            "path": "sources/1_1580827515_X Factor - logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "تلاوة للقرآن وغناء للأناشيد الدينية في مسابقات المواهب.. ما حقيقة مقاطع الفيديو؟",
+    "updated_at": "2020-09-24 22:23:00",
+    "url_path": "/factcheck/2020/02/04/تلاوة-للقرآن-وغناء-للأناشيد-الدينية-في-مسابقات-المواهب-ما-حقيقة-مقاطع-الفيديو"
+}

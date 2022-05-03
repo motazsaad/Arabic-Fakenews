@@ -1,0 +1,112 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 2,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1285,
+    "author": {
+        "fullname": "مريم هواري",
+        "id": "5e299460d4a22939983a3ec5",
+        "photo": {
+            "path": "authors/1579791192_Maryam.jpg"
+        }
+    },
+    "caption": "تتواجد الأجهزة المتداولة في مدينتين فقط (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">جهاز فحص كورونا مجّاني في شوارع دولة الاحتلال الاسرائيلي</p>\r\n",
+    "country": "",
+    "created_at": "2020-06-04 16:39:28",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ed8f990db291603245e01a4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الادعاء مضلل. إذ يتواجد جهازين فقط من الأجهزة المتداولة في دولة الاحتلال، وتتبع هذه الأجهزة للعيادات الصحيّة التي تعمل بموجب قانون التأمين الصحّي الرسمي &quot;الإسرائيلي&quot;، إذ توفّر الفحوصات للمسجّلين بها فقط وليس لجميع المواطنين. وتجدُر الإشارة إلى أن قانون التأمين الصحّي الرسمي &quot;الإسرائيلي&quot; يوجب على كل مواطن أو مُقيم في دولة الاحتلال أن يكون مسجّلاً في إحدى العيادات الرسمية الأربعة والتي تُدعى &quot;صناديق المرضى&quot;، وأن يدفع رسوم تأمين صحّي بشكلٍ شهريٍ، تُحسب وفق الدخل الشهري للشخص، من أجل تلقّي الخدمات الصحيّة من العيادة الرسمية المسجّل بها. كما أن فحوصات فايروس كورونا في دولة الاحتلال، غير متاحة للعموم بشكلٍ مُطلقٍ،&nbsp;انّما يتوجّب على طالب الفحص تلقّي إحالة من طبيب وفق شروط معيّنة. بالتالي، الادعاء المتداول عن أن فحوصات فايروس كورونا مُتاحة عن طريق أجهزة في الشارع في دولة الاحتلال مُضلّلة.</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت عدّة صفحات على موقع التواصل الاجتماعي تويتر منشوراً يدّعي وجود أجهزة مجانية ومُتاحة لجميع المواطنين لفحص فايروس كورونا المستجد، في شوارع دولة الاحتلال.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_xgmf7q3h2.jpg\" style=\"height:864px; width:558px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_eudnnowwu.jpg\" style=\"height:824px; width:558px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1591295605image_2020_06_04T18_26_29_506Z.jpg",
+        "watermark_path": "articles/watermark-1591295605image_2020_06_04T18_26_29_506Z.jpg"
+    },
+    "post_date": "2020-06-04T16:28:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/Mjamil01066847/status/1267539202645856258",
+            "name": "Mohammed Jameel",
+            "path": "published/0_1591277966_محمد جميل.jpg"
+        },
+        {
+            "link": "https://twitter.com/hussen20uk/status/1267507917571448836",
+            "name": "hussen20",
+            "path": "published/1_1591277966_حسين 20.jpg"
+        },
+        {
+            "link": "https://twitter.com/dr_adnan1974/status/1267020590868824065",
+            "name": "الدكتور عدنان العزاوي",
+            "path": "published/2_1591277966_عدنان العزاوي.jpg"
+        },
+        {
+            "link": "https://twitter.com/mooo1957/status/1266984490766909440",
+            "name": "محسن صالح اليافعي",
+            "path": "published/3_1591277967_محسن صالح اليافعي.jpg"
+        },
+        {
+            "link": "https://twitter.com/Yashoyemen/status/1266743946979479552",
+            "name": "اليهودي",
+            "path": "published/4_1591277967_اليهودي.jpg"
+        },
+        {
+            "link": "https://twitter.com/yrq2019/status/1266687359199973377",
+            "name": "نهفان الشيبة",
+            "path": "published/5_1591277967_نهفان الشيبة.jpg"
+        },
+        {
+            "link": "https://twitter.com/AbdELRh02710894/status/1268207748874985472",
+            "name": "AbdELRhman",
+            "path": "published/6_1591277967_abdelrahman.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.ynet.co.il/articles/0,7340,L-5715759,00.html?fbclid=IwAR1K4wHgJrNLjexMs5rlwWCAPMxQUUNTmlE2zudnn_nLPV5SM08nRbCjmMk",
+            "name": "Ynet",
+            "path": "sources/0_1591277967_Ynet logo.jpg"
+        },
+        {
+            "link": "https://www.israelhayom.co.il/article/752169",
+            "name": "Israel Hayom",
+            "path": "sources/1_1591277967_israeltoday.JPG"
+        },
+        {
+            "link": "https://www.btl.gov.il/Arabic HomePage/ביטוח וגבייה التأمين والجباية/Health_Insurance_ar/Pages/default.aspx",
+            "name": "مؤسسة التأمين الوطني ",
+            "path": ""
+        },
+        {
+            "link": "https://www.btl.gov.il/Arabic HomePage/ביטוח וגבייה التأمين والجباية/Health_Insurance_ar/Pages/חובת תשלום דמי ביטוח בריאות.aspx",
+            "name": "مؤسسة التأمين الوطني ",
+            "path": ""
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "جهاز فحص كورونا مجاني في شوارع إسرائيل.. خبر مضلل",
+    "updated_at": "2020-09-25 08:30:19",
+    "url_path": "/factcheck/2020/06/04/جهاز-فحص-كورونا-مجاني-في-شوارع-دولة-الاحتلال-خبر-مضلل"
+}

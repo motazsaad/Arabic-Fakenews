@@ -1,0 +1,158 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 382,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "caption": "لم تُدلِ وزيرة الصحة المصرية بالتصريح المذكور (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">وزيرة الصحة المصرية: &quot;سر إصرارنا على اللقاح الصيني رغم وجود لقاح أميركي وألماني، هو أنَّ الفايروس في الأصل صيني، واللي حضر العفريت يصرفه&quot;.</p>\r\n",
+    "country": "EG",
+    "created_at": "2020-12-21 17:39:17",
+    "created_by": "5f39b1ee1dd5850789476b61",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 3,
+    "feedback_pos": 3,
+    "id": "5fe0b395aa66a35c7d07efa6",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;<a href=\"https://misbar.com/\" target=\"_blank\">مسبار</a>&quot; من الادعاء المتداول، ووجد أنه زائف، إذ لم تُدلِ وزيرة الصحة المصرية بالتصريح المذكور، وبالعودة إلى صحيفة الشروق التي نُسب إليها الخبر، تبين أنَّها لم تنشره على موقعها الرسميّ أو صفحاتها في مواقع التواصل الاجتماعي.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">ونُشر الخبر للمرة الأولى&nbsp;على صفحة باسم &quot;فيروس&quot; تُعرف بأنها تنشر أخباراً ساخرة. ولكن تم تداوله بعد ذلك على أنه حقيقي وصادر عن الوزيرة المصرية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">اقرأ/ي أيضاً</p>\r\n\r\n<p><a href=\"https://misbar.com/factcheck/2020/12/19/%D9%84%D9%82%D8%A7%D8%AD-%D9%81%D8%A7%D9%8A%D8%B2%D8%B1-%D9%84%D8%A7-%D9%8A%D8%AD%D9%88%D9%84-%D8%A7%D9%84%D8%A8%D8%B4%D8%B1-%D8%A5%D9%84%D9%89-%D8%AA%D9%85%D8%A7%D8%B3%D9%8A%D8%AD-%D9%88%D9%8A%D9%86%D8%A8%D8%AA-%D8%A7%D9%84%D9%84%D8%AD%D9%8A%D8%A9-%D9%84%D9%84%D9%86%D8%B3%D8%A7%D8%A1-%D9%83%D9%85%D8%A7-%D9%82%D8%A7%D9%84-%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D8%A8%D8%B1%D8%A7%D8%B2%D9%8A%D9%84%D9%8A-5fde1a7f03a93\" target=\"_blank\">لقاح فايزر لا يحول البشر إلى تماسيح وينبت لحية للنساء كما قال الرئيس البرازيلي</a></p>\r\n\r\n<p><a href=\"https://misbar.com/factcheck/2020/12/19/%D8%A7%D9%84%D9%85%D9%85%D8%B1%D8%B6%D8%A9-%D9%84%D9%85-%D8%AA%D9%85%D8%AA-%D8%A8%D8%B9%D8%AF-%D8%AA%D9%84%D9%82%D9%8A%D9%87%D8%A7-%D9%84%D9%82%D8%A7%D8%AD-%D9%81%D8%A7%D9%8A%D8%B2%D8%B1-%D8%A8%D9%84-%D9%81%D9%82%D8%AF%D8%AA-%D8%A7%D9%84%D9%88%D8%B9%D9%8A-%D9%84%D8%B9%D8%A7%D8%B1%D8%B6-%D8%B5%D8%AD%D9%8A\" target=\"_blank\">الممرضة لم تمت بعد تلقيها لقاح فايزر بل فقدت الوعي لعارض صحي</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "صحة",
+        "كورونا",
+        "هالة",
+        "زايد",
+        "الشروق",
+        "صحيفة"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [
+        "هالة زايد",
+        "وزارة الصحة والسكان"
+    ],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">تداولت صفحات وحسابات على مواقع التواصل الاجتماعي، منذ 14 ديسمبر<span dir=\"LTR\">/</span>كانون الاول الجاري، خبراً منسوباً إلى وزيرة الصحة والسكان المصرية. وذكرت الصفحات أنَّ الوزيرة قالت إنَّ مصر تريد لقاحاً صينيًّا وليس أميركيًّا أو ألمانيًّا، وذلك لأنَّ الصين هي المسؤولة عن انتشار الفايروس.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ruta5z5mt.jpg\" style=\"height:667px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_p5aa3cntb.jpg\" style=\"height:421px; width:604px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_avedkbmyk.jpg\" style=\"height:381px; width:592px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 275,
+        "left": 54.35565185546875,
+        "path": "articles/1608561556اقالة-هالة-زايد.jpg",
+        "top": 88.793701171875,
+        "totalHeight": 423,
+        "totalWidth": 545,
+        "watermark_path": "articles/watermark-1608561556اقالة-هالة-زايد.jpg",
+        "width": 488
+    },
+    "post_date": "2020-12-21T17:22:00.000+03:00",
+    "published": [
+        {
+            "id": "5fe0b392e4be637278456527",
+            "link": "https://www.facebook.com/SeriousVirus/posts/211024800530799",
+            "name": "فيروس Virus",
+            "origin": "facebook",
+            "path": "sources/8f1e099524d152057633010f4654f0cd4dac5a40.jpg"
+        },
+        {
+            "id": "5fe0b393f3c11d5a3d78887f",
+            "link": "https://www.facebook.com/Abofahd942015/posts/2865513247049141",
+            "name": "Abo Fahd",
+            "origin": "facebook",
+            "path": "sources/e28077ea7a2b1fd0f7d729e5a637bcc96fdf37e9.jpg"
+        },
+        {
+            "id": "5fe0b393e372742887425755",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2840914116192985&id=100008232723853",
+            "name": "Amr Khaled Abo Noura",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5fe0b393adc7ac15674f62d7",
+            "link": "https://www.facebook.com/rehab.m.m/posts/10159506879693755",
+            "name": "Rehab Mansy",
+            "origin": "facebook",
+            "path": "sources/e28077ea7a2b1fd0f7d729e5a637bcc96fdf37e9.jpg"
+        },
+        {
+            "id": "5fe0b39378cd676ace1c1ea8",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=232593908256150&id=100045166275224",
+            "name": "ذكريات جميله",
+            "origin": "facebook",
+            "path": "sources/d41b5641225c2c719800eee56d3ea73d439ca1c7.jpg"
+        },
+        {
+            "id": "5fe0b393fed19769883768c5",
+            "link": "https://twitter.com/T_heyab/status/1340528002141220866",
+            "name": "ذياب العايذي",
+            "origin": "twitter",
+            "path": "sources/df541670be67cdb967df9448a54ea12f2fef4f98.jpg"
+        },
+        {
+            "id": "5fe0b3931a89a553585c34c9",
+            "link": "https://twitter.com/AlanjawiA/status/1340948984429473792",
+            "name": "عبدالحميد اللنجاوي",
+            "origin": "twitter",
+            "path": "sources/0ba2e840dd088ed55312ac55932965bb454069ec.jpg"
+        },
+        {
+            "id": "5fe0b39430a1935ac8744a8c",
+            "link": "https://twitter.com/AdnanAlBloushi_/status/1340549490818904069",
+            "name": "عدنان البلوشي 🇰🇼",
+            "origin": "twitter",
+            "path": "sources/462e8636312b9f530c85b257df9d242dfcfb6bd4.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fe0b394c174131e8728fbe6",
+            "link": "https://www.facebook.com/shorouknews/",
+            "name": "جريدة الشروق - Shorouk News",
+            "origin": "facebook",
+            "path": "sources/dfa650f8f3f84c4c1d99cceefa9a8f6ff978f963.jpg"
+        },
+        {
+            "id": "5fe0b394e503c26b465ca559",
+            "link": "https://twitter.com/Shorouk_News",
+            "name": "Shorouk News",
+            "origin": "twitter",
+            "path": "sources/793f5051fa661c85ba8bdfed2680508af5a14c45.jpg"
+        },
+        {
+            "id": "5fe0b394efa49076d87d06d1",
+            "link": "http://www.egyptianewspapers.com/pages/Newspapers/shorouknews.html",
+            "name": "الشروق",
+            "origin": "",
+            "path": "sources/91b0b5ca1a56e234cb9ce584a906313627df06fc.jpg"
+        },
+        {
+            "id": "5fe0b394a3d41d12da52bcd7",
+            "link": "https://www.facebook.com/egypt.mohp/",
+            "name": "وزارة الصحة والسكان المصرية",
+            "origin": "facebook",
+            "path": "sources/61eb3896300ddae18dcf9394a63193cbcc9042be.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لم تقل وزيرة الصحة المصرية إنَّ مصر تريد لقاحاً صينيًّا لأنَّ الفايروس صيني",
+    "updated_at": "2020-12-21 20:09:06",
+    "url_path": "/factcheck/2020/12/21/لم-تقل-وزيرة-الصحة-المصرية-إن-مصر-تريد-لقاحا-صينيا",
+    "was_notification_pushed": true
+}

@@ -1,0 +1,124 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 7287,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "لم تعلن شبكة بي إن سبورت عن الخبر (تويتر)",
+    "category": "Sports",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">ناصر الخليفي: ما زلت عند وعدي، إنْ حقق باريس سان جيرمان لقب دوري أبطال أوروبا هذا الموسم، فإنني سأقوم بفتح كافة قنوات بي إن مجاناً لمدة عام كامل.</p>\r\n",
+    "country": "FR",
+    "created_at": "2020-08-17 22:55:11",
+    "created_by": "5f39b5a51dd585076701cb94",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 1,
+    "id": "5f3ae09f60211806272dc264",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من الخبر المتداول وتبين أنه زائف، ولا أساس له من الصحة. إذ لم تعلن شبكة بي إن سبورت عن الخبر عبر قنواتها أو عبر موقعها الرسمي، كما لم يصرح ناصر الخليفي بهذا الكلام.<br />\r\nالجدير بالذكر أن هذه الشائعة ليست المرة الأولى التي تنتشر بها، فسبق ونشرت أيضا عام 2016، على عدد من <a href=\"https://koorasudan.net/%D9%86%D8%A7%D8%B5%D8%B1-%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D9%81%D9%8A-%D9%8A%D8%B9%D8%AF-%D8%A8%D9%81%D8%AA%D8%AD-%D9%82%D9%86%D9%88%D8%A7%D8%AA-%D8%A8%D9%8A-%D8%A7%D9%86-%D8%B3%D8%A8%D9%88%D8%B1/\" style=\"color:blue; text-decoration:underline\">المواقع</a> والحسابات، دون أي تصريح من الخليفي أو بي إن سبورت أيضاً.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_c4ksey1cx.jpg\" style=\"height:431px; width:624px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">نشرت مواقع إلكترونية وحسابات وصفحات على وسائل التواصل الاجتماعي، خبراً مفاده أن رئيس شبكة قنوات بي إن سبورت ورئيس نادي باريس سان جيرمان الفرنسي، ناصر الخليفي، قال &quot;ما زلت عند وعدي، إن حقق باريس سان جيرمان لقب دوري أبطال أوروبا هذا الموسم، فإنني سأقوم بفتح كافة قنوات بي إن مجاناً لمدة عام كامل&quot;.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_wpxrvwzw0.jpg\" style=\"height:407px; width:408px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_283h52ibm.jpg\" style=\"height:759px; width:404px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_isfygbt98.jpg\" style=\"height:505px; width:409px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1597694111EfoBxstWsAMudFC.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1597694111EfoBxstWsAMudFC.jpg",
+        "width": 752
+    },
+    "post_date": "2020-08-18T09:50:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/magicanoo0/posts/857459475077872",
+            "name": "ماجيكانو - Magicano",
+            "path": "published/0_1597694111_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Rm.is.my.life.110/posts/3330766806970233",
+            "name": "Real Madrid is My Life",
+            "path": "published/1_1597694549_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/TheSportMixx/posts/131711448616382",
+            "name": "The Sport Mix",
+            "path": "published/2_1597694549_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/lebuteur.tn/posts/2682355121979528",
+            "name": "مـوقـع الـهـدّاف التونسـي - lebuteur.tn",
+            "path": "published/3_1597694549_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Casa3asimatijram/posts/4580075755350784",
+            "name": "عاصمة الإجرام ",
+            "path": "published/4_1597694741_facebook.jpg"
+        },
+        {
+            "link": "https://twitter.com/1_lliiii/status/1295376525039214600",
+            "name": "ريان",
+            "path": "published/5_1597694668_twitter.jpg"
+        },
+        {
+            "link": "https://twitter.com/livematch57/status/1295349799206760453",
+            "name": "بث مباريات",
+            "path": "published/6_1597694668_twitter.jpg"
+        },
+        {
+            "link": "https://twitter.com/Motazlev_9/status/1295360591440289794",
+            "name": "اسد ليفركوزن ",
+            "path": "published/7_1597694668_twitter.jpg"
+        },
+        {
+            "link": "https://twitter.com/NmgfxS/status/1295346471978639360",
+            "name": "هاتريك-HATTRICK",
+            "path": "published/8_1597694668_twitter.jpg"
+        },
+        {
+            "link": "https://twitter.com/ChampionsSport5/status/1295335746669289475",
+            "name": "أبطال الرياضه",
+            "path": "published/9_1597694669_twitter.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/beINSPORTS",
+            "name": "beIN SPORTS",
+            "path": "sources/0_1597694111_beINSPORTS.jpg"
+        },
+        {
+            "link": "https://www.beinsports.com/ar/",
+            "name": "beIN SPORTS",
+            "path": "sources/1_1597694111_beINSPORTS.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": " الخليفي لم يقل إنه سيفتح قنوات بي إن مجاناً في حال فوز باريس سان جرمان",
+    "updated_at": "2020-09-25 20:42:13",
+    "url_path": "/factcheck/2020/08/17/الخليفي-لم-يقل-إنه-سيفتح-قنوات-بي-إن-مجانا-في-حالة-فوز-باريس"
+}

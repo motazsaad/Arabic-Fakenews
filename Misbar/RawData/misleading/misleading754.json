@@ -1,0 +1,119 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 6930,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "عرف بأنه أحد رواد التخطيط العمرانى في العالم العربى (تويتر)",
+    "category": "News",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">صورة المهندس الفلسطيني أحمد الطويل الذي صمم مدينة دبي مع الشيخ زايد.</span></p>\r\n",
+    "country": "AE",
+    "created_at": "2020-08-17 22:18:42",
+    "created_by": "5f39b5a51dd585076701cb94",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f3ad8126021180633176454",
+    "investigation": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من الصورة المتداولة وتبين أن الادعاء مضلل. إذ أن الصورة تعود للشيخ زايد وهو يجلس بجانب المهندس المعماري المصري عبدالرحمن حسنين مخلوف، أثناء شرح مخلوف له&nbsp;مخطط بناء مدينة أبو ظبي، عام 1968.</span><br />\r\n<img src=\"https://images-prod.misbar.com/articlebody/investigation_qu0vp32ng.jpg\" style=\"height:360px; width:624px\" /></p>\r\n\r\n<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">عبد الرحمن مخلوف هو ابن <a href=\"https://www.albayan.ae/five-senses/culture/2018-12-16-1.3435536\" style=\"color:#0563c1; text-decoration:underline\">مفتي الديار</a> المصرية الأسبق الشيخ حسنين مخلوف، ويُعرف بأنه أحد رواد التخطيط العمرانى في العالم العربى، والذى وضع بصمته فى <a href=\"http://www.dubaialyom.com/765\" style=\"color:#0563c1; text-decoration:underline\">تخطيط</a> العديد من المدن منهما مدينتي مكة المكرمة والمدينة المنورة في عام 1959، ومدن سعودية أخرى، ومدينتي أبو ظبي والعين في عام 1968، ومدن إماراتية أخرى، حسب الموقع الرسمي لصحيفة دبي اليوم، وعدد من المواقع الإماراتية والسعودية.<br />\r\nوبين عامي 1966 و1967، عمل مديراً عاماً لإدارة <a href=\"https://www.albayan.ae/five-senses/culture/2018-12-16-1.3435536\" style=\"color:#0563c1; text-decoration:underline\">التخطيط العمراني</a> للقاهرة الكبرى (تشمل محافظات: القاهرة والجيزة والقليوبية)، وأنشأ الهيكل التنظيمي للجهاز التخطيطي والتنفيذي، وأشرف على إعداد التخطيط العمراني لعدة مناطق ومدن، وساهم في التخطيط لبناء مدن جديدة.</span></p>\r\n\r\n<p style=\"text-align:right\"><iframe frameborder=\"0\" height=\"720\" src=\"https://www.youtube.com/embed/fLABMAKqbws\" width=\"1280\"></iframe></p>\r\n\r\n<p style=\"text-align:right\">&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات وصفحات على مواقع التواصل الاجتماعي، حديثاً ، صورة تُظهر الشيخ زايد بن سلطان آل نهيان، أول رئيس لدولة الإمارات المتحدة، مع أحد المهندسين، وأرفقت الصورة مع تعليق &quot;للتذكير فقط.. المهندس الفلسطيني أحمد الطويل الذي صمم مدينة دبي مع الشيخ زايد&quot;.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_zu3v2xnc0.jpg\" style=\"height:518px; width:488px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_5h6l28ao5.jpg\" style=\"height:518px; width:490px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_333mrd5et.jpg\" style=\"height:525px; width:492px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1597691921الصورة.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1597691921الصورة.jpg",
+        "width": 752
+    },
+    "post_date": "2020-08-17T22:16:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/Antaa.Lyy/posts/3301884376514600",
+            "name": "أنت لي",
+            "path": "published/0_1597692132_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=890856711317833&id=100011805370776",
+            "name": "محمد ابو طلال النصيرات",
+            "path": "published/1_1597692132_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=3755818697779303&set=a.2275070749187446&type=3&theater",
+            "name": "Mostafa Saafan",
+            "path": "published/2_1597692132_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=3209543559124516&set=a.449443208467912&type=3&theater",
+            "name": "خالد عفيف مراد",
+            "path": "published/3_1597692132_facebook.jpg"
+        },
+        {
+            "link": "https://twitter.com/abu_ali_2030/status/1295333283199320065",
+            "name": "ابوعلي الفلسطيني العربي",
+            "path": "published/4_1597692132_twitter.jpg"
+        },
+        {
+            "link": "https://twitter.com/lailakhi/status/1295321711374729222",
+            "name": "Laila ",
+            "path": "published/5_1597692132_twitter.jpg"
+        },
+        {
+            "link": "https://twitter.com/freegaza23/status/1295325626640011264",
+            "name": "ﻤحﻤد لآفيِ ",
+            "path": "published/6_1597692132_twitter.jpg"
+        },
+        {
+            "link": "https://twitter.com/alshaff3e86/status/1295326326648442883",
+            "name": "حمزة الشافعي",
+            "path": "published/7_1597692132_twitter.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "http://www.dubaialyom.com/765",
+            "name": "دبي اليوم ",
+            "path": "sources/0_1597691921_دبي اليوم.jpg"
+        },
+        {
+            "link": "https://www.albayan.ae/five-senses/culture/2018-12-16-1.3435536",
+            "name": "صحيفة البيان ",
+            "path": "sources/1_1597692132_البيان.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=fLABMAKqbws",
+            "name": " البيان",
+            "path": "sources/2_1597692133_البيان.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه صورة الشيخ زايد مع المهندس المصري عبدالرحمن مخلوف",
+    "updated_at": "2020-09-25 19:00:48",
+    "url_path": "/factcheck/2020/08/17/هذه-صورة-الشيخ-زايد-مع-المهندس-المصري-عبدالرحمن-مخلوف"
+}

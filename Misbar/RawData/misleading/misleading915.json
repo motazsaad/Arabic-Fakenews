@@ -1,0 +1,119 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 3208,
+    "author": {
+        "fullname": "رشيد عفيف",
+        "id": "5ec4e956db291667784c4bc4",
+        "photo": {
+            "name": "1589963094_رشيد صورة.jpg",
+            "path": "authors/1589963094_رشيد صورة.jpg"
+        }
+    },
+    "caption": "استُخدمت سراديب الموتى لتخزين رفات الفرنسيين (فيسبوك)",
+    "category": "Arts & Culture",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">&quot;سراديب الموتى&quot; في باريس تحتوي على جثث ورفات&nbsp;ضحايا الاستعمار الفرنسي لإفريقيا.</p>\r\n",
+    "country": "FR",
+    "created_at": "2020-07-10 16:19:39",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f086aeb163be306e2116dd6",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من حقيقة الادعاء ووجد أنه مضلّل، لأن سراديب الموتى&nbsp;المعروفة بـالكاتاكومب، وهي جزء من متاهة ممرات ومحاجر ضخمة مبنيّة أسفل الأرض في باريس منذ القرن الثاني عشر، استُخدمت لتخزين رفات الموتى الفرنسيين المدفونين في مقابر فوق الأرض، نظراً لاكتظاظها&nbsp;وللحفاظ على صحّة السكان. وقد بدأت عملية نقل الرفات عام 1785 واستمرّت بعد الثورة الفرنسية حتّى عام 1814، وافتُتحت&nbsp;السراديب أمام الزوّار رسميًّا عام 1809، ما يعني أن السراديب تحوّلت إلى مكان لتخزين رفات الفرنسيين قبل الحملة الاستعمارية الرئيسية لفرنسا في أفريقيا عام 1830.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/vakKkjBKtaM\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_b9wgv8y60.jpg\" style=\"height:581px; width:605px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_4sp5v3wky.jpg\" style=\"height:257px; width:605px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">تداولت صفحات على موقع التواصل الاجتماعي فيسبوك صورةً من متحف سراديب الموتى&nbsp;في العاصمة الفرنسية باريس، والّذي يُدعى كاتاكومب، وادّعى ناشروه&nbsp;أنه يضم أكثر من ستّة&nbsp;ملايين جثّة تعود لضحايا الاستعمار الفرنسي في أفريقيا خلال القرنين الماضيين.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_dt0b9439w.jpg\" style=\"height:812px; width:558px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ijqsn44cl.jpg\" style=\"height:658px; width:417px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 138,
+        "left": 1.25439453125,
+        "path": "articles/1594387179الصورة الرئيسية.jpg",
+        "top": 4.970458984375,
+        "totalHeight": 174,
+        "totalWidth": 247,
+        "watermark_path": "articles/watermark-1594387179الصورة الرئيسية.jpg",
+        "width": 245
+    },
+    "post_date": "2020-07-10T16:10:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/esyjgditgd/posts/3142096009201090",
+            "name": "Abed Rahmen Mersani",
+            "path": "published/0_1594387178_abed rahmen.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/elfatqia/posts/170073604528284",
+            "name": "الفتقية",
+            "path": "published/1_1594387178_الفتقية.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=847771095750521&id=511957862665181",
+            "name": "أخبار حاسي مسعود",
+            "path": "published/2_1594387178_حاسي مسعود.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/sohaibgamra/posts/3055086311275777",
+            "name": "صهيب قمرة",
+            "path": "published/3_1594387178_1صهيب قمرة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/gobigaba/posts/3225605394173346",
+            "name": "Mohamed Talibi",
+            "path": "published/4_1594387178_محمد طليبي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/youcef3030/posts/3076300969114060",
+            "name": "يوسف قندوز",
+            "path": "published/5_1594387178_يوسف قندوس.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2737035999849257&id=100006286502724",
+            "name": "Abdelhakim Chahidi",
+            "path": "published/6_1594387178_عبد الحكيم.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.catacombes.paris.fr/en/history/site-history#",
+            "name": "LES CATACOMBES DE PARIS",
+            "path": "sources/0_1594387178_catacombes.jpg"
+        },
+        {
+            "link": "https://www.independentarabia.com/node/89246/%D8%AA%D8%AD%D9%82%D9%8A%D9%82%D8%A7%D8%AA-%D9%88%D9%85%D8%B7%D9%88%D9%84%D8%A7%D8%AA/%D8%B3%D8%B1%D8%A7%D8%AF%D9%8A%D8%A8-%D8%A7%D9%84%D9%85%D9%88%D8%AA%D9%89-%D8%A8%D8%A7%D8%B1%D9%8A%D8%B3-%D8%A8%D9%8A%D9%86-%D8%B9%D8%A7%D9%84%D9%85%D9%8A%D9%86",
+            "name": "Independent عربية",
+            "path": "sources/1_1594387179_Independent- logo.jpg"
+        },
+        {
+            "link": "https://www.aljazeera.net/news/miscellaneous/2019/9/24/%D9%82%D8%B0%D8%A7%D8%B1%D8%A9-%D9%88%D9%85%D8%AC%D8%A7%D8%B9%D8%A9-%D9%88%D9%85%D8%AC%D8%A7%D9%86%D9%8A%D9%86-%D9%8A%D8%AD%D9%83%D9%85%D9%88%D9%86%D9%87%D8%A7-%D8%A3%D8%B3%D8%B1%D8%A7%D8%B1",
+            "name": "aljazeera.net",
+            "path": "sources/2_1594387179_الجزيرة.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=vakKkjBKtaM",
+            "name": "BBC News عربي",
+            "path": "sources/3_1594387179_بي بي سي عربي- لوغو.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "رفات سراديب الموتى ليست لضحايا الاستعمار الفرنسي",
+    "updated_at": "2020-09-25 07:44:03",
+    "url_path": "/factcheck/2020/07/10/رفاة-الموتى-في-سراديب-الموتى-ليست-لضحايا-الاستعمار-الفرنسي"
+}

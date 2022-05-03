@@ -1,0 +1,97 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1826,
+    "author": {
+        "fullname": "حسام الهندي",
+        "id": "5e25c80bd4a229629038df03",
+        "photo": {
+            "path": "authors/1579542323_حسام الهندي.jpg"
+        }
+    },
+    "caption": "المطقع زائف ولكنه بغرض السخرية (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\"><span style=\"color:black\">الشرطة المصرية تطلب من الحبيبة على كورنيش الإسكندرية الالتزام بمواعيد الحظر المقررة بدلاً من القبض عليهم.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-04-10 12:21:42",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e903aa6db2916117f47d414",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span dir=\"rtl\" lang=\"ar\"><span style=\"color:black\">تحقق &quot;مسبار&quot; من مقطع الفيديو المتداول ووجد أنه زائف ولكنه بغرض السخرية. ويظهر بوضوح التلاعب بالصوت في المقطع&nbsp;لإنّه&nbsp;الصوت الذي يبدو وقادماً من مكان مغلق وليس من مكان مفتوح يشتّت الصوت مثل كورنيش الإسكندرية، وبالبحث وجد &quot;مسبار&quot; مقطع&nbsp;الفيديو الأصلي الذي نشر على موقع فيسبوك يوم 3 أبريل/نيسان الجاري،&nbsp;على صفحة مستخدم يدعى أيمن عبد العزيز.</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span dir=\"rtl\" lang=\"ar\"><span style=\"color:black\">تواصل &quot;مسبار&quot; مع صاحب الفيديو أيمن عبد العزيز وقال لـ&quot;مسبار&quot; أنَّ الرسالة التي كانت تبث في الفيديو الأصلي كانت رجاءاً من سيارة تابعة لجهاز حكومي ما -لم يحدده بدقة- (الشرطة أو البلدية)، وتطالب المواطنين بالعودة لمنازلهم والالتزام بمواعيد الحظر المسائي، وتابع عبدالعزيز &quot;الفيديو الأصلي التقط يوم 3 أبريل/نيسان الجاري الساعة الخامسة و15 دقيقة، في منطقة سيدي بشر على طريق الجيش أمام شاطئ السرايا بالإسكندرية&quot;.</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_8lzeuzx9f.jpg\" style=\"height:498px; width:376px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;<span dir=\"rtl\" lang=\"ar\"><span style=\"color:black\">تداولت صفحات وحسابات على مواقع التواصل الاجتماعي مقطع فيديو لسيارة&nbsp;تبث رسالة تحذير من خلال مكبر صوت، نصها &quot;نداء إلى جميع الحبيبة على كورنيش الإسكندرية، خودها فأيدك وروح بدل ما تتعلق انت وهي&quot;. الرسالة التحذيرية الموجهة للشباب تطالبهم بالالتزام بإجراءات الحظر الجزئي الذي تطبقه مصر لمحاولة منع تفشي فايروس كورونا المستجد، وفي حالة عدم الالتزام سيتم القبض عليهم بشكل مهين.</span></span>&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_sk9ct2krm.jpg\" style=\"height:531px; width:381px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_2o2ztwk15.jpg\" style=\"height:467px; width:370px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1586511661GettyImages-1140120222 (1).jpg",
+        "watermark_path": "articles/watermark-1586511661GettyImages-1140120222 (1).jpg"
+    },
+    "post_date": "2020-04-10T12:08:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/ahmedaabed202/status/1246452245585108992",
+            "name": "Aabed",
+            "path": "published/0_1586510502_Aabed..jpg"
+        },
+        {
+            "link": "https://web.facebook.com/Samy.Kamal.Eldeen/videos/222888748961035/",
+            "name": "الإعلامي سامي كمال الدين",
+            "path": "published/2_1586511338_الإعلامي سامي كمال الدين.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/Connect.fans/videos/741365579601524/",
+            "name": "C o n n e c t",
+            "path": "published/3_1586511338_C o n n e c t.jpg"
+        },
+        {
+            "link": "https://twitter.com/azizan1974/status/1246491875009314816",
+            "name": "بن عــاقــوول",
+            "path": "published/4_1586511338_بن عــاقــوول.jpg"
+        },
+        {
+            "link": "https://twitter.com/KhaledMazhuukn/status/1246673456042856448",
+            "name": "Khaled",
+            "path": "published/5_1586511338_Khaled.jpg"
+        },
+        {
+            "link": "https://twitter.com/TOq00900/status/1246515840943624193",
+            "name": "ميما",
+            "path": "published/6_1586511338_Miss Eمan. ميما.jpg"
+        }
+    ],
+    "result": "satire",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://web.facebook.com/100003011221457/videos/2650535631723452/",
+            "name": "أيمن عبدالعزيز",
+            "path": "sources/0_1586510502_احمد عبدالعزيز مصدر.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/alexnowface/videos/661697514668160/",
+            "name": " اسكندرية الان",
+            "path": "sources/1_1586511228_اسكندرية الان alex now - مصدر.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "كورونا مصر: تحذير الشرطة لحبيبة الإسكندرية.. فيديو ساخر",
+    "updated_at": "2020-09-25 07:58:28",
+    "url_path": "/factcheck/2020/04/10/كورونا-مصر-تحذير-الشرطة-لحبيبة-الإسكندرية-فيديو-ساخر"
+}

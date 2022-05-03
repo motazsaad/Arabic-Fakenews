@@ -1,0 +1,94 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 18680,
+    "author": {
+        "fullname": "رشيد عفيف",
+        "id": "5ec4e956db291667784c4bc4",
+        "photo": {
+            "name": "1589963094_رشيد صورة.jpg",
+            "path": "authors/1589963094_رشيد صورة.jpg"
+        }
+    },
+    "caption": "الترجمة المرفقة مع المقطع ساخرة (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">ترامب يشيد بنجاح تونس في مكافحة فيروس كورونا&nbsp;المستجد، ويمدح أعضاء الحكومة والمعارضة والنقابات، ويتمنى لو كان لديه وزراء تونسيون ليقضي على &quot;كوفيد 19&quot; في أسبوعٍ واحدٍ.</p>\r\n",
+    "country": "",
+    "created_at": "2020-05-29 10:08:35",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ed0b4f3db29162e654f3575",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من المقطع المتداول وتبين أنّ الترجمة المرفقة معه زائفة،&nbsp;ويتم تداوله بشكل ساخر. ويعود المقطع الأصلي لمؤتمرٍ صحفيٍ لترامب بتاريخ&nbsp;7 نوفبر<span dir=\"LTR\" lang=\"FR\">/</span>تشرين الثاني 2018، وإذ دار&nbsp;جدالاً بينه وبين مراسل قناة &quot;سي إن إن&quot; جيم أكوستا بعد&nbsp;طرحه سؤال&nbsp;يعترض من خلاله على وصف الرئيس الأميركي للمهاجرين&nbsp;القادمين من أميركا الوسطى باتجاه الحدود الأميركية بالغزو.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وجادل مراسل القناة الأميركية ترامب، معتبراً وصفه نوعاً من الشيطنة للمهاجرين،&nbsp;ودافع ترامب خلال&nbsp;المؤتمر&nbsp;عن موقفه الذي عبر عنه في الحملة الانتخابية النصفية، معتبراً أنّ المهاجرين يجب أن يأتوا إلى الولايات المتّحدة بطريقة شرعية. ولم يتحدث عن تونس على الإطلاق.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"532\" src=\"https://www.youtube.com/embed/v3abZ4aAGUU\" width=\"946\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت صفحات على موقع فيسبوك مقطع مصوّر مترجم إلى العربية، يظهر من خلاله الرئيس الأميركي دونالد ترامب وهو يشيد بالحكومة التونسية ووزرائها، وأعضاء من المعارضة بسبب نجاحهم في القضاء على فايروس كورونا المستجد. ونسب المقطع إلى ترامب قوله إن تونس تمتلك حكومة قوية، مستشهداً بمديرة المرصد الوطني للأمراض الجديدة والمستجدة نصاف بن علية وغيرها من أعضاء الحكومة والمعارضة. وجاء حديث ترامب حسب الترجمة المرفقة ردّاّ على سؤال لأحد الصحافيين طرحه على ترامب قائلا: &quot;هل تعتبر أن تونس حققت المعجزة؟&quot;، كما نقلت الترجمة إحساس ترامب بالخجل لأسباب شخصية تتعلق برفض زوجته الزواج من رجل تونسي وقبولها الزواج منه.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"FR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_tljg5ri9w.jpg\" style=\"height:470px; width:538px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"FR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_trumlzl3f.jpg\" style=\"height:476px; width:547px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1590736114Screenshot (255).jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1590736114Screenshot (255).jpg",
+        "width": 752
+    },
+    "post_date": "2020-05-29T10:01:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/Tuniflix/videos/699778114158726/?v=699778114158726",
+            "name": "Tuniflix",
+            "path": "published/0_1590736114_Tuniflix.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Radssii/videos/710607629483186/?v=710607629483186",
+            "name": "رادس العالمية",
+            "path": "published/1_1590736311_8.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/191909894283368/videos/548624902518684/?v=548624902518684",
+            "name": "أحمد بن حسانة",
+            "path": "published/2_1590736312_9.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=bjo0OWK9lhM",
+            "name": "pro djerbiano",
+            "path": "published/3_1590736312_pro djerbiano.jpg"
+        },
+        {
+            "link": "https://twitter.com/MohsenMahmuod1/status/1264300091617300482",
+            "name": "Mohsen Mahmuod",
+            "path": "published/4_1590736312_Mohsen Mahmuod.jpg"
+        }
+    ],
+    "result": "satire",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=v3abZ4aAGUU",
+            "name": "The Guardian",
+            "path": "sources/0_1590736114_7.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ترامب يشيد بنجاح تونس في مواجهة كورونا.. ترجمة ساخرة",
+    "updated_at": "2020-09-25 19:53:09",
+    "url_path": "/factcheck/2020/05/29/ترامب-يشيد-بنجاح-تونس-في-مواجهة-كورونا-ترجمة-ساخرة"
+}

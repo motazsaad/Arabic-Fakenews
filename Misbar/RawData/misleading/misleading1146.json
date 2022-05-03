@@ -1,0 +1,96 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 959,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "لمقطع قديم ومنشور على يوتيوب منذ نوفمبر 2019 (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">فيديو يُظهر حرق مكاتب مقتدى الصدر في مدينة الناصرية في العراق.</p>\r\n",
+    "country": "IQ",
+    "created_at": "2020-05-14 10:56:07",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5ebcf997db29161b9b16d2c4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الفيديو ووجده مضللاً، فهو قديم ومنشور على &quot;يويتوب&quot; منذ شهر نوفمبر/تشرين الثاني 2019، وحسب التعليق المرافق للفيديو الأصلي فإنّه يصوّر احتراق مضيف مديرية شؤون العشائر في مدينة الناصرية في محافظة ذي قار.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/QQR328fG4ZE\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت صفحات وحسابات على موقع التواصل الاجتماعي فيسبوك مقطع فيديو، قالت إنّه يُظهر كيف اُحرقت مكاتب مقتدى الصدر زعيم التيار الصدري في مدينة الناصرية في العراق.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F101575238206808%2Fvideos%2F1983048145172708%2F&amp;show_text=0&amp;width=266\" style=\"border:none;overflow:hidden\" width=\"266\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fshmsween%2Fvideos%2F3593291547353583%2F&amp;show_text=0&amp;width=266\" style=\"border:none;overflow:hidden\" width=\"266\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fnajafiah%2Fvideos%2F569554193946541%2F&amp;show_text=0&amp;width=266\" style=\"border:none;overflow:hidden\" width=\"266\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 354,
+        "left": 2.9825439453125,
+        "path": "articles/1589442966GettyImages-76590312.jpg",
+        "top": 68.94287109375,
+        "totalHeight": 423,
+        "totalWidth": 645,
+        "watermark_path": "articles/watermark-1589442966GettyImages-76590312.jpg",
+        "width": 630
+    },
+    "post_date": "2020-05-14T10:44:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/najafiah/posts/156830939168999?hc_location=ufi",
+            "name": "النجف للعالم",
+            "path": "published/0_1589442965_النجف للعالم.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/shmsween/videos/3593291547353583/",
+            "name": "شمسوين",
+            "path": "published/1_1589442965_شمسوين.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=917906838646307&id=100012809972854",
+            "name": "كادي العراقي",
+            "path": "published/2_1589442965_كادي العراقي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/wethegreatiraq/videos/242524273725535/",
+            "name": "تظاهرات العراق ضد الذيول",
+            "path": "published/3_1589442965_تظاهرات العراق ضد الذيول.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Therights2020/videos/245406453201988/",
+            "name": "الحكوك تريد حلوك",
+            "path": "published/4_1589442965_الحكوك تريد حلوك.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/101575238206808/videos/1983048145172708/",
+            "name": "معاً لفضح الأحزاب والمليشيات الفاسدة",
+            "path": "published/5_1589442965_معاً لفضح الأحزاب والمليشيات الفاسدة.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=QQR328fG4ZE",
+            "name": "المقطع الأصلي",
+            "path": "sources/0_1589442966_YouTube-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "إحراق مكاتب مقتدى الصدر في مدينة الناصرية.. حقيقة الفيديو",
+    "updated_at": "2020-09-25 06:15:29",
+    "url_path": "/factcheck/2020/05/14/إحراق-مكاتب-مقتدى-الصدر-في-مدينة-الناصرية-حقيقة-الفيديو"
+}

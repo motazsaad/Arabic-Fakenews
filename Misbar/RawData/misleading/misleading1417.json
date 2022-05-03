@@ -1,0 +1,81 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 1,
+        "fb": 1,
+        "tw": 1
+    },
+    "amount_sources": 0,
+    "amount_visits": 564,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">فيديو يُظهر محتجين عراقيين يحيّون الرئيس العراقي الأسبق صدام حسين.</p>\r\n",
+    "country": "IQ",
+    "created_at": "2019-12-10 16:46:57",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5defa1d18d7bd95845172e68",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">في الحقيقة مقطع الفيديو مزيّف، ولا يُظهر المحتجين في العراق وهم يهتفون باسم صدام حسين. وتمّ فبركته عبر تركيب صوت أغنية تعود إلى فنانَين&nbsp;عراقيين توأم يُدعيان &quot;رعد وميثاق&quot;. الأغنية منشورة على &quot;يوتيوب&quot; وبمتابعتها يتبيّن على الفور أن الفيديو المزعوم مفبرك.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وسبق أن انتشرت على مواقع التواصل الاجتماعي العديد من القصص المفبركة حول صدّام حسين، منها مثلاً مقطع فيديو تم تركيبه للرئيس الأمريكي الأسبق باراك أوباما وهو يرفع الستارة عن صورة ضخمة للرئيس العراقي المخلوع.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_d2c0f68e0a3922aff1cb593baf19086e.jpg\" style=\"height:381px; width:594px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداول عدد من الحسابات على موقع يوتيوب ووسائل التواصل الاجتماعي مقطع فيديو زعم ناشروه أنّه يُظهر محتجيّن عراقيين يردّدون أغنية تتضمن مفردات مناهضة لإيران، ويطلقون تحيّة إلى رئيس العراق الأسبق صدام حسين. إذ تقول الأغنية &quot;غصباً على إيران منصورة يا بغداد... حيّو الشهيد صدام&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_71306f8269cbe698f1f3a9cfbb236a65.jpg\" style=\"height:409px; width:301px\" /></span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_46786748ccba96282753bfc339f35220.jpg\" style=\"height:399px; width:369px\" /></span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_7f670bd7d16528885f21354231a2e30a.jpg\" style=\"height:273px; width:349px\" /></span></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 354,
+        "left": 3.3238525390625,
+        "path": "articles/1575985617متظاهرو العراق يحيون صدام حسين!.jpg",
+        "top": 21,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "width": 629
+    },
+    "post_date": "2019-11-11T16:41:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.youtube.com/watch?v=_ntPl1HSmEI",
+            "name": "منوعات Jahani",
+            "path": "published/0_1575985617_منوعات janahi- لوغو.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=5UcL8hdnhpE",
+            "name": "نور الشريف",
+            "path": "published/1_1575985617_نور الشريف- لوغو.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=HldgIsrzcOU",
+            "name": "يوميات عراقية",
+            "path": "published/2_1575985617_يوميات عراقية-لوغو.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=77XgrWcX1kw",
+            "name": "YouTube",
+            "path": "sources/0_1575985617_YouTube-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هل هتف متظاهرو العراق بتحية صدام حسين؟",
+    "updated_at": "2020-09-23 12:40:15",
+    "url_path": "/factcheck/2019/12/10/هل-هتف-متظاهرو-العراق-بتحية-صدام-حسين"
+}

@@ -1,0 +1,113 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 453,
+    "author": {
+        "fullname": "مريم هواري",
+        "id": "5e299460d4a22939983a3ec5",
+        "photo": {
+            "path": "authors/1579791192_Maryam.jpg"
+        }
+    },
+    "caption": "المقطع المصوّر من زيارة وفد رسمي إلى فلسطين (الحياة الجديدة).",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">سيّاح قطريون يتجولون في &quot;تل أبيب&quot; والشعب &quot;الإسرائيلي&quot; يرحّب بهم.</p>\r\n",
+    "country": "PS",
+    "created_at": "2020-08-27 10:40:00",
+    "created_by": "5f39b6aa1dd585076701cb95",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f47635060211806287d48f7",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقّق &quot;مسبار&quot; من الفيديو&nbsp;والادّعاء المتداول ووجد أنّه مضلّل. إذ أن المقطع المصوّر يعود لزيارة وفد قطري من منظّمات مجتمع مدني، برئاسة الشيخ حمد بن فهد آل ثاني، إلى مدينة القدس المحتلّة، وجامعة القدس ومقر الرئاسة الفلسطينية في مدينة رام الله، عام 2018. وقد نشر الشيخ آل ثاني تغريدةً على حسابه في موقع تويتر، بتاريخ 22 أغسطس/آب الجاري، فنّد من خلالها الادّعاء المتداول وأشار أنّ النساء في المقطع المصوّر فلسطينيات.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_wzzyffpy7.jpg\" style=\"height:864px; width:591px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/investigation_vxo67wx4n.jpg\" style=\"height:783px; width:554px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_578nqac71.jpg\" style=\"height:558px; width:625px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_9dst2qyfx.jpg\" style=\"height:758px; width:556px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">تداولت صفحات وحسابات على موقعي التواصل الاجتماعي، عام 2019 ومؤخّراً، مقطعاً مصوّراً ادّعى ناشروه أنّه يعود لسيّاح من دولة قطر يتجوّلون في &quot;تل أبيب&quot; وسط ترحيب الشعب &quot;الإسرائيلي&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_od5lpco3g.jpg\" style=\"height:656px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_mf02gbuje.jpg\" style=\"height:694px; width:624px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 112,
+        "left": 25.257232666015625,
+        "path": "articles/1598514000mainpic.jpg",
+        "top": 37.403564453125,
+        "totalHeight": 187,
+        "totalWidth": 250,
+        "watermark_path": "articles/watermark-1598514000mainpic.jpg",
+        "width": 199
+    },
+    "post_date": "2020-08-27T10:28:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/AlmadaArabia/posts/1452207624938143",
+            "name": "Almada-المدى",
+            "path": "published/0_1598513999_Facebook_logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/al_genteel/status/1297561845386141697?s=09",
+            "name": "ميكا",
+            "path": "published/1_1598513999_Twitter-logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/alsmhre1/status/1185528933032353792",
+            "name": "السمهري",
+            "path": "published/2_1598513999_Twitter-logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/KAE443/status/1186003114131890181",
+            "name": "‏﮼خالد،المـاس،الطنـيجي",
+            "path": "published/3_1598514000_Twitter-logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/BinZeadco/status/1185987892130336770",
+            "name": "بن زيد",
+            "path": "published/4_1598514000_Twitter-logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/akramalwahabi_B/status/1185660264198365186",
+            "name": "Nebras “B” الحربي",
+            "path": "published/5_1598514000_Twitter-logo.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/1968hamad/status/1297198932372725762",
+            "name": "حمد بن فهد آل ثاني",
+            "path": "sources/0_1598514000_حمد بن فهد.jpg"
+        },
+        {
+            "link": "http://www.alhayat-j.com/ar_page.php?id=411600cy68247564Y411600c",
+            "name": "الحياة الجديدة",
+            "path": "sources/1_1598514000_الحياة الجديدة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ImadAbuKishekOfficial/posts/1978872782135713",
+            "name": "Imad Abu Kishek عماد ابوكشك",
+            "path": "sources/2_1598514000_imad abu kishk.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/AQUFC/posts/2239955102908392",
+            "name": "Al-Quds University Friends community :: مجتمع اصدقاء جامعة القدس",
+            "path": "sources/3_1598514000_alquds.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الفيديو ليس لسيّاح قطريين في \"تل أبيب\"",
+    "updated_at": "2020-09-25 10:48:45",
+    "url_path": "/factcheck/2020/08/27/الفيديو-ليس-لسياح-قطريين-في-تل-أبيب"
+}

@@ -1,0 +1,101 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 20736,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "السمكة اصطيدت في الهند وليس في العراق (Getty)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة لنوع نادر من سمكة المنشار اصطادها صيادون عراقيون في البصرة.</p>\r\n",
+    "country": "IQ",
+    "created_at": "2020-05-10 15:40:03",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5eb7f623db29166f4103b4b4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الادعاء غير صحيح، فالصورة ليست لسمكة اصطيدت في العراق، إنّما لسمكة اصطادها صيادون على شواطئ ولاية ماهاراشترا في الهند في مارس/آذار 2017، وهي من نوع المنشار وتزن قرابة 700 كيلوغرام.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_vi3tn3uzm.jpg\" style=\"height:595px; width:699px\" /></span></strong></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت حسابات وصفحات على موقع التواصل الاجتماعي فيسبوك، صوراً قالت إنها لسمكة نادرة من نوع المنشار، اصطادها صيادون عراقيون من البصرة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_4mn9tilcm.jpg\" style=\"height:670px; width:494px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_360jc7ma9.jpg\" style=\"height:677px; width:501px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_bdcw90zts.jpg\" style=\"height:629px; width:498px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 354,
+        "left": 3.33917236328125,
+        "path": "articles/1589114402GettyImages-483326292.jpg",
+        "top": 5.81591796875,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1589114402GettyImages-483326292.jpg",
+        "width": 629
+    },
+    "post_date": "2020-05-10T15:28:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/BaasraPlus/posts/250539873021983?hc_location=ufi",
+            "name": "البصرة Plus",
+            "path": "published/0_1589114401_البصرة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Tawrij.Media.Network/posts/545350276174507?__tn__=-R",
+            "name": "شبكة طويريج الإعلامية",
+            "path": "published/1_1589114401_شبكة طويريج الإعلامية.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=664672057718553&id=100025272952523",
+            "name": "قصي الوائلي",
+            "path": "published/2_1589114401_قصي الوائلي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=574538313179640&id=100018704281827&__tn__=-R",
+            "name": "Amer Amer",
+            "path": "published/3_1589114401_Amer Amer.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1581234378695854&id=1148845661934730&__xts__%5B0%5D=68.ARCn9ccAwD3ACldcaK9Dhbez4HeNzUeAa-kdK-dL7vrOzgMv2z_-rF_DsWCEMfCzoS4BvoP8zdaa7I18sW6k5qZup90KAPxGLDkzqNEv-7nhPymEmdbYISRU4eUjrtimCC68xvnEeVCTjs5fpzqz23RynO7dYvaMFJyiMjq_uXsipIIKXWvt4SJQGBak_2GQ2dur-idN7XZxmaRx_0sbLl9bP0kyjxh8K0anRhZNIOnlKPuVhtwNKTSvziQ0VCRI8YqqTgFg2SbDHdYThyTXfB9mYsCgHavOmP0FdS7esCX2qIDIeYLEJPW4jvCVNjUB7MzrBXLszQkPAjk9OeBy4M5TMQ-I&__tn__=-R",
+            "name": "كشكشني مشمشني",
+            "path": "published/4_1589114402_كشكشني مشمشني.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/albasra1m/posts/157360299147484?__xts__%5B0%5D=68.ARBGThv9TZgTPmypcOOaq3X03odMg61N-AheHcPfWJ_P6Gs00BtvTPvo7_Z752VZYudyT4XRDaeSQnPmkP4qTpnZsJGI0x50Z6vX2T1e3SN78cVvbJrKJEnF0KZGANX_uKNd-kLCAK96aOSmssWVjjcrWg2K2PHN-TaT3MId4SXM-7F2AXycj-xAMvyRCJkN4KmcGpxlwPkK9vwGH2kvRUMdfwTG2C25wOjk328YnQERemWhvPl6-QT1wXRfFcv2mhHl0KO7BGbyERjyVWB8-nF7TNMPz9mYnwlc2uSy23pL1IlahiY9WH4lklhWKYjR3K9O48TlmZ7YxvlFuNVr9jI&__tn__=-R",
+            "name": "نبض البصرة",
+            "path": "published/5_1589114402_نبض البصرة.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.hindustantimes.com/mumbai-news/rare-700-kg-sawfish-chokes-to-death-off-maharashtra-beach/story-gs5GRE4dtDUu7nZLBt9XTP.html",
+            "name": "Hindustan Times",
+            "path": "sources/0_1589114402_Hindustan Times.jpg"
+        },
+        {
+            "link": "https://www.tori.ng/news/87984/fishermen-left-in-shock-after-catching-this-very-w.html",
+            "name": "Tori",
+            "path": "sources/1_1589114402_Tori.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صيادو البصرة يصطادون سمكة نادرة.. حقيقة الصورة",
+    "updated_at": "2020-09-23 12:33:00",
+    "url_path": "/factcheck/2020/05/10/صيادو-البصرة-يصطادون-سمكة-نادرة-حقيقة-الصورة"
+}

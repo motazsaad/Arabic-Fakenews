@@ -1,0 +1,144 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 249,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "الصورة لشخص من فرقة عروض مسرحية (تويتر)",
+    "category": "News",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-EG\">صورة من حفل زفاف أطول رجل عماني.</span></p>\r\n",
+    "country": "OM",
+    "created_at": "2020-12-03 14:48:10",
+    "created_by": "5f39b5a51dd585076701cb94",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 4,
+    "id": "5fc8d07a70c5c72c3c56acde",
+    "investigation": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;<a href=\"https://misbar.com/factcheck/2020/12/02/%D9%84%D9%85-%D9%8A%D8%B9%D8%B2%D9%81-%D9%8A%D8%A7%D9%86%D9%8A-%D9%85%D9%88%D8%B3%D9%8A%D9%82%D9%89-%D8%B1%D8%A3%D9%81%D8%AA-%D8%A7%D9%84%D9%87%D8%AC%D8%A7%D9%86\" style=\"color:#0563c1; text-decoration:underline\">مسبار</a>&quot; من الصورة وتبين أن الادعاء مضلل. إذ أن الصورة لشخص من فرقة عروض مسرحية تُحيي المناسبات في سلطنة عمان. وتعود <a href=\"https://twitter.com/sbq_2/status/1022126303267495936\" style=\"color:#0563c1; text-decoration:underline\">الصورة</a> لعام 2018،&nbsp;وليس هذا الطول&nbsp;الحقيقي للرجل&nbsp;ويقف على أعمدة رفع خشبية، كما هو موضح في هذه الصورة.</span></p>\r\n\r\n<p style=\"text-align:right\"><img alt=\"الصورة\" src=\"https://images-prod.misbar.com/articlebody/investigation_rj02ell42.jpg\" style=\"height:638px; width:550px\" /></p>\r\n\r\n<p style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">اقرأ/ي أيضاً:</span></p>\r\n\r\n<p style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/09/26/%D9%84%D9%8A%D8%B3%D8%AA-%D8%B5%D9%88%D8%B1%D8%A9-%D8%B9%D9%85%D8%A7%D9%86%D9%8A-%D8%A3%D8%B5%D8%B1-%D8%A3%D9%86-%D8%AA%D8%B3%D9%8A%D8%B1-%D8%B9%D8%B1%D9%88%D8%B3%D8%AA%D9%87-%D8%B9%D9%84%D9%89-%D9%85%D9%87%D8%B1%D9%87%D8%A7\" style=\"color:#0563c1; text-decoration:underline\">ليست صورة عماني أصرّ أن تسير عروسته على مهرها</a></p>\r\n\r\n<p style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/12/02/%D9%84%D9%85-%D9%8A%D8%B9%D8%B2%D9%81-%D9%8A%D8%A7%D9%86%D9%8A-%D9%85%D9%88%D8%B3%D9%8A%D9%82%D9%89-%D8%B1%D8%A3%D9%81%D8%AA-%D8%A7%D9%84%D9%87%D8%AC%D8%A7%D9%86\" style=\"color:#0563c1; text-decoration:underline\">لم يعزف ياني موسيقى رأفت الهجَّان</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات وصفحات على مواقع التواصل الاجتماعي، حديثاً ومنذ فترة، صورة ادعت أنها من حفل زفاف&nbsp;أطول رجل في سلطنة عمان.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_nu18h0iy9.jpg\" style=\"height:640px; width:485px\" /></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_qimp3y8yi.jpg\" style=\"height:626px; width:490px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1606996089100.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1606996089100.jpg",
+        "width": 752
+    },
+    "post_date": "2020-12-03T14:45:00.000+03:00",
+    "published": [
+        {
+            "id": "5fc8d07945ffd36b705be8f5",
+            "link": "https://twitter.com/a9NSG6DTqowZq1N/status/1330846392466759682",
+            "name": "أبو مازن الغريبي النمري الثقفي",
+            "origin": "twitter",
+            "path": "sources/cd508f8804a4cafd5a25c6c77ef4096d4d7465aa.jpg"
+        },
+        {
+            "id": "5f97e9ba2e22a60b6d7713a5",
+            "link": "https://twitter.com/Safir120/status/1327668562652254209",
+            "name": "السفير 🇰🇼",
+            "origin": "twitter",
+            "path": "sources/aabcc050e5d0a8fa62fcb027f22069399cce5bda.jpg"
+        },
+        {
+            "id": "5fc8d0e664cf3b30d822aa5c",
+            "link": "https://twitter.com/fa00hd/status/1153704089773137920",
+            "name": "محمد",
+            "origin": "twitter",
+            "path": "sources/ffdeee80decca81333bb4001512f2af6b06cbad6.jpg"
+        },
+        {
+            "id": "5fc8d0e6a230146ddf11563f",
+            "link": "https://twitter.com/BntAboha2019/status/1024497518489608196",
+            "name": "بنت أبوها",
+            "origin": "twitter",
+            "path": "sources/6b798e6ed397b836c4545f8b85cc6ae743da40e3.jpg"
+        },
+        {
+            "id": "5fc8d0e65507c85abe458255",
+            "link": "https://twitter.com/mkmsdo/status/1024312802645827585",
+            "name": "وقت الغروب",
+            "origin": "twitter",
+            "path": "sources/6bccac405a1fec8e2882b289d268d9bd924e099f.jpg"
+        },
+        {
+            "id": "5fc8d0e6cdeb957086125de1",
+            "link": "https://twitter.com/ahmedmalkhajah/status/1022995869073846277",
+            "name": "ahmed bu ali",
+            "origin": "twitter",
+            "path": "sources/fd41344b37d063ec32aedb0268baa2b7666028f7.jpg"
+        },
+        {
+            "id": "5fc8d0e7b63448207119ed78",
+            "link": "https://twitter.com/tvout81/status/1022328599834226688",
+            "name": "&bdquo;ﺄﺄﻟﹻۦٰۘﹻﻤﹻۦٰۘﹻزﯾﹻۦٰۘﹻوﻧﹻۦٰۘﹻهۂ  ﮼رغودة",
+            "origin": "twitter",
+            "path": "sources/09f0b9e10342685600b36dcf9b8bf469ca54b0b7.jpg"
+        },
+        {
+            "id": "5fc8d0e72697b01db83677fb",
+            "link": "https://twitter.com/Alafraaaa/status/1022214790482210816",
+            "name": "🕋",
+            "origin": "twitter",
+            "path": "sources/76e4626e0c29fb46f4f496e4349a6a799873deb9.jpg"
+        },
+        {
+            "id": "5fc8d0e7707bce151e053682",
+            "link": "https://twitter.com/AbodAbo18098174/status/1022174152294326272",
+            "name": "أناقةرجل",
+            "origin": "twitter",
+            "path": "sources/5ebaac47c71c5a68120ee08441d526a6dde33bee.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fc8d0799f9959688901fbaa",
+            "link": "https://twitter.com/OMN_4/status/1022014845061943296",
+            "name": "شبكة عُمان | Oman Network",
+            "origin": "twitter",
+            "path": "sources/025e097451549b99d49fdc4ea0e581ebd59c7875.jpg"
+        },
+        {
+            "id": "5fc8d0797b98ef77da534dde",
+            "link": "https://twitter.com/sbq_2/status/1022126303267495936",
+            "name": "واجهة عُمان🇴🇲 | SBQ",
+            "origin": "twitter",
+            "path": "sources/9d6e94f5e0546a4d176d5ff8416dc4f0ddd4e486.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الصورة ليست من حفل زفاف أطول رجل عماني",
+    "updated_at": "2020-12-03 15:12:28",
+    "url_path": "/factcheck/2020/12/03/الصورة-ليست-من-حفل-زفاف-أطول-رجل-عماني",
+    "was_notification_pushed": "true"
+}

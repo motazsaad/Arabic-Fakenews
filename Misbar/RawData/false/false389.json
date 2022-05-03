@@ -1,0 +1,114 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 353,
+    "author": {
+        "fullname": "صفاء عليان",
+        "id": "5f316ac61dd58507a761df01",
+        "photo": {
+            "name": "1597074118_misbar-logo.jpg",
+            "path": "authors/1597074118_misbar-logo.jpg"
+        }
+    },
+    "caption": "نشر الفريق الهولندي صوراً تغطي عمله في المرفأ (تويتر)",
+    "category": "News",
+    "claim": "<p>مُنع فريق الإنقاذ الهولندي من دخول مرفأ بيروت للمساهمة في عمليات إنقاذ المصابين والبحث عن المفقودين.</p>\r\n",
+    "country": "LB",
+    "created_at": "2020-08-11 10:51:57",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f324e1d1dd58507a57872fc",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">الخبر زائف، إذ بعد التحقق تبيّن لـ &quot;مسبار&quot; أنّ فريق الإنقاذ الهولندي دخل مرفأ بيروت، وباشر مهامه بالبحث عن مفقودين، إذ نشر الحساب الرسمي للفريق على &quot;تويتر&quot; العديد من المنشورات التي تغطي سير عمله في منطقة المرفأ حيث حدث تفجير 4 أغسطس/آب الجاري.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_2mzowcepj.jpg\" style=\"height:813px; width:531px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">كما أن الشخص الهولندي المقيم في لبنان الذي نشر هذا الخبر، قام بحذفه، ونشر لاحقاً في 8 أغسطس/آب على حسابه أن الذي حصل مجرد سوء في التنسيق والتواصل أدى لتأخر دخول فرق الإنقاذ<span dir=\"LTR\">. &nbsp;</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_ihxva4zk3.jpg\" style=\"height:612px; width:444px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">في سياق متصل، نفت قيادة الجيش اللبناني صحة المعلومات عن منع فريق الإنقاذ الهولندي دخول المرفأ.</p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">تداولت صفحات وحسابات على موقعي فيسبوك وتويتر، خبراً يُفيد بمنع فريق الإنقاذ الهولندي من دخول مرفأ بيروت للبحث عن مفقودين وانتشال الضحايا العالقين تحت الأنقاض. وانتشر الخبر نقلاً عن&nbsp;منشور على حساب في &quot;فيسبوك&quot; يعود لشخص هولندي يقيم في لبنان.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_3th58lz01.jpg\" style=\"height:463px; width:549px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_tx7386b9z.jpg\" style=\"height:254px; width:593px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_050ypjn4x.jpg\" style=\"height:273px; width:609px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 315,
+        "left": 2.177764892578125,
+        "path": "articles/1597132316EezWB0fXkAAp1bu.jpg",
+        "top": 84.60009765625,
+        "totalHeight": 423,
+        "totalWidth": 564,
+        "watermark_path": "articles/watermark-1597132316EezWB0fXkAAp1bu.jpg",
+        "width": 560
+    },
+    "post_date": "2020-08-11T10:39:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/story.php?story_fbid=1051273348623254&id=300097847074145 ",
+            "name": "Ghassan Germanos",
+            "path": "published/0_1597132316_Ghassan Germanos.jpg"
+        },
+        {
+            "link": " https://twitter.com/sharifhijazi11/status/1291790877569028097",
+            "name": "شريف حجازي",
+            "path": "published/1_1597132316_شريف حجازي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=10158708593776064&set=gm.2676641715995719&type=1&theater ",
+            "name": "Ramy Finge",
+            "path": "published/2_1597132316_Ramy Finge.jpg"
+        },
+        {
+            "link": "https://twitter.com/ZOLOZSS/status/1291819286361759751",
+            "name": "عمر الزبيدي",
+            "path": "published/3_1597132720_Twitter-logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/elshamy_seif/status/1291854123030085633",
+            "name": "dr.seif eldeen elshamy ",
+            "path": "published/4_1597132721_AxC5HWye_400x400.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2715825812020268&id=1491069441162584&__tn__=-R",
+            "name": "الحدث عكار والشمال 24/24",
+            "path": "published/5_1597132721_الحدث عكار والشمال.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/azzam.adib/posts/3166595960089566",
+            "name": "Azzam Adib",
+            "path": "published/6_1597132721_Azzam Adib.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "http://twitter.com/USARNL/status/1291642524159873025",
+            "name": "USAR.NL",
+            "path": "sources/0_1597132316_USAR.NL.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/herman.vanuum/posts/3329188880493598",
+            "name": "Herman van Uum",
+            "path": "sources/1_1597132316_Herman van Uum.jpg"
+        },
+        {
+            "link": "https://twitter.com/LebarmyOfficial/status/1291769381924605952",
+            "name": "الجيش اللبناني",
+            "path": "sources/2_1597132316_الجيش اللبناني.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لم يُمنع فريق الإنقاذ الهولندي من دخول مرفأ بيروت",
+    "updated_at": "2020-09-25 06:44:47",
+    "url_path": "/factcheck/2020/08/11/لم-يمنع-فريق-الإنقاذ-الهولندي-من-دخول-مرفأ-بيروت"
+}

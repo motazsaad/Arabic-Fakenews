@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 14392,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "الحادثة وقعت عام 2015 في البرازيل (فيسبوك)",
+    "category": "Sports",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\">فتاة مصرية تضرب رجلاً متحرشاً، وتثبته حتى مجيء الشرطة.</p>\r\n",
+    "country": "EG",
+    "created_at": "2020-06-19 19:28:03",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 3,
+    "id": "5eece793d6e4a9542e592574",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الخبر، ووجد أنه لا يعود إلى حادثة تحرش، كما أنّ الحدث ليس في مصر، بل تعود الصور إلى اللاعبة البرازيلية مونيك باستوس، المحترفة في رياضة MMA، وهي عبارة عن <span style=\"background-color:white\"><span style=\"color:#222222\">مبارزات تسمح بخلط فنون القتال في أوروبا واليابان</span></span>، وكانت فاجأت اثنين من سارقيها بالضرب وثبتت أحدهما بساقيها حتى جاءت الشرطة، ولم تسمح لأحد من المارة بمساعدتها، وهذه الحادثة وقعت عام 2015، وليست حديثة.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_5wd0culcu.jpg\" style=\"height:512px; width:488px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت حساباتٌ&nbsp;على موقعيّ فيسبوك وتويتر، منذ 18 من يونيو/حزيران الجاري، إضافة إلى مواقع إعلامية، صوراً لفتاة تمسك رجلاً بساقيها في حركة رياضية بعد أن ضربته كما هو واضح من الكدمات على وجهه، وقالت أغلب المنشورات أنَّ&nbsp;الرجل تحرش بالفتاة التي كانت ترتدي بنطالاً قصيراً، فعاجلته بالضرب وثبتته إلى أن جاءت الشرطة، وبعض هذه الحسابات نسبت مكان الواقعة إلى مصر، وأنّ الفتاة مصرية.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_pdow3j8qg.jpg\" style=\"height:627px; width:589px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_ghak9rfrt.jpg\" style=\"height:766px; width:492px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_eu0bwoi0s.jpg\" style=\"height:638px; width:495px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_j6qszvukl.jpg\" style=\"height:740px; width:490px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 411,
+        "left": 27.06109619140625,
+        "path": "articles/1592584082صورة لاعبة.jpg",
+        "top": 3.1202392578125,
+        "totalHeight": 423,
+        "totalWidth": 761,
+        "watermark_path": "articles/watermark-1592584082صورة لاعبة.jpg",
+        "width": 731
+    },
+    "post_date": "2020-06-19T16:35:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/NeamahDeAna/status/1273933870698827777",
+            "name": "نعناعة تويتر",
+            "path": "published/0_1592584082_نعناة.jpg"
+        },
+        {
+            "link": "https://anahwa.com/%D8%A8%D8%A7%D9%84%D8%B5%D9%88%D8%B1-%D9%85%D8%AA%D8%AD%D8%B1%D8%B4-%D8%B3%D9%8A%D8%A1-%D8%A7%D9%84%D8%AD%D8%B8-%D9%8A%D9%82%D8%B9-%D9%81%D9%8A-%D9%81%D8%AA%D8%A7%D8%A9-%D9%84%D8%A7%D8%B9%D8%A8%D8%A9/",
+            "name": "أنا حوا",
+            "path": "published/1_1592584082_حوا.JPG"
+        },
+        {
+            "link": "https://www.facebook.com/groups/156106031536708/permalink/1180583699088931/",
+            "name": "Ahmed Saif",
+            "path": "published/2_1592584082_احمد صافي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/MohbyAbonaBolesGorg/posts/3165311676862009?__xts__[0]=68.ARDdnaico0iD-mk5jMTOvi0F0X35nXj7quWmWz825ISGnQaYvobMqoNr-HNfW2DSNfpWoZrV40LNVywUrtepUyqAP9wgoZ5r-jTCfFo8wgRgCaoGSJbOwz0WIB256DDCJGLKJ5tgc6q59rya-g1HVkzu7mF3LFH23UTP7jSSqsxEKov6L6AautwoDrr-POlNhsc2ADGa6vgCBxDyuO713HZXNkSg8wFDEZlvk7eLPS7OL-1F72rR020XJNmvb1q646fUaLZjn9JXKL2Zq9A_oFjQCdKzl3F9_cGjm90i91bHef7-IoFfXA9jFQQUrhZeIpChORrSbc6Y-bGeDOtAIZtzdQ&__tn__=-R",
+            "name": "محبى ابونا بولس جورج",
+            "path": "published/3_1592584082_محبي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/AvaAbrarmTravel/posts/3060793414011100?__xts__[0]=68.ARBb2w963DreKu5iV5LPxtvOd_iAXanhoJllOCTMqSOhErdKU86NsFKa7Ls-GmR57IHzBchlPXSG3doPJtGaqacz_GFpo_JOa5NVvpyJapGfQR5sMZXXmqKGmzOR24d0sbi6Uo6CEXEEwX1esbQVQKqyvF8BZL2DehYadJopjgLEzVAHaGQyd4I-LwCWgNPYG3762etjZWrVf4aqu1UAp4f4bE5yHM9kvKkKk5LkOQ4uXKOf7CY1pYawhvUrlIEDgzE9r9ZTbog3U9tDmos5x4OzFcOfqCEqxIIxGnrmiBSXRpKsGaCuIHlMwxs6AQcLnIoJBO69zKywsml2Cb9vyHfpvw&__tn__=-R",
+            "name": "افابرام للرحلات",
+            "path": "published/4_1592584082_افا.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.bahianoticias.com.br/noticia/178133-lutadora-de-mma-imobiliza-ladrao-apos-assalto-e-impede-linchamento-no-maranhao.html",
+            "name": "bahianoticias",
+            "path": "sources/0_1592584082_مصدر.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ضربته وثبتتّه حتى جاءت الشرطة، لكن الحادثة ليست تحرشاً في مصر",
+    "updated_at": "2020-09-25 02:52:29",
+    "url_path": "/factcheck/2020/06/19/ضربته-وثبتته-حتى-جاءت-الشرطة-لكن-الحادثة-ليست-في-مصر"
+}

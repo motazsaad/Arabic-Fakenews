@@ -1,0 +1,113 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 6443,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الصورة من اليمن وليست من الحدود اللبنانية السورية (مواقع التواصل الاجتماعي)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة تُظهر أرتال من الصهاريج التي تُهرّب المازوت من لبنان إلى سورية.</p>\r\n",
+    "country": "LB",
+    "created_at": "2020-07-05 15:44:46",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f01cb3e163be36ccf2ffe9c",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">الصورة مضللة، إذ تحقق &quot;مسبار&quot; ووجد أنها منشورة منذ 24 يونيو/حزيران الفائت، وتصوّر أرتالاً من ناقلات المشتقات النفطية في محافظة الحديدة جنوبي اليمن. وتجدر الإشارة أنّ قيادة الجيش اللبناني أصدرت بياناً نفت فيه أن تكون الصورة المتداولة لصهاريج تُهرّب مادة المازوت من لبنان إلى الأراضي السورية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_4l9y73ha0.jpg\" style=\"height:504px; width:743px\" /></span></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"color:red\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_d6ha2b3ck.jpg\" style=\"height:309px; width:705px\" /></span></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">يتداول مستخدمون على موقعي التواصل الاجتماعي فيسبوك وتويتر منذ بداية يوليو/تموز الجاري، صورة قالوا إنها تُظهر أرتالاً من الصهاريج التي تُهرّب مادة المازوت من لبنان إلى داخل سورية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_9fobx2i9k.jpg\" style=\"height:580px; width:504px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_t2fwskhs0.jpg\" style=\"height:598px; width:486px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_34vz4t9ok.jpg\" style=\"height:659px; width:488px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 359,
+        "left": 1.3043212890625,
+        "path": "articles/1593953086EcFZrR3XgAIzjws.jpg",
+        "top": 15.202392578125,
+        "totalHeight": 423,
+        "totalWidth": 641,
+        "watermark_path": "articles/watermark-1593953086EcFZrR3XgAIzjws.jpg",
+        "width": 638
+    },
+    "post_date": "2020-07-05T15:30:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/Adaniyeh.3al5arita/posts/725839981566871",
+            "name": "لبنان عالخريطة",
+            "path": "published/0_1593953085_لبنان عالخريطة.jpg"
+        },
+        {
+            "link": "https://twitter.com/ZahratA67421705/status/1279347716628328448",
+            "name": "Zahrat Al Hayat",
+            "path": "published/1_1593953085_Zahrat Al Hayat.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/LebaneseRevolutionBEY/posts/173118540848597",
+            "name": "ثورة لبنان",
+            "path": "published/2_1593953085_ثورة لبنان.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=4586256344725204&set=a.598823653468513&type=3&theater",
+            "name": "Mona Atwi",
+            "path": "published/3_1593953086_Mona Atwi.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/iman.saad3/posts/10157220813917385",
+            "name": "Iman Saad",
+            "path": "published/4_1593953086_Iman Saad.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/lkhal.fares/posts/3317267135164400",
+            "name": "Hasan H. Tlais",
+            "path": "published/5_1593953086_Hasan H. Tlais.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/nour.lichaa/posts/3596255537055777",
+            "name": "Nour Lichaa",
+            "path": "published/6_1593953086_Nour Lichaa.jpg"
+        },
+        {
+            "link": "https://twitter.com/boldasbear/status/1279293496139100160",
+            "name": "Bold Bear",
+            "path": "published/7_1593953086_Bold Bear.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://yemennownews.com/details/880656",
+            "name": "أخبار اليمن الآن",
+            "path": "sources/0_1593953086_أخبار اليمن الآن.jpg"
+        },
+        {
+            "link": "https://www.lebarmy.gov.lb/ar/content/%D9%86%D9%81%D9%8A-%D9%85%D8%A7-%D9%8A%D8%AA%D9%86%D8%A7%D9%82%D9%84%D9%87-%D8%A8%D8%B9%D8%B6-%D9%85%D9%88%D8%A7%D9%82%D8%B9-%D8%A7%D9%84%D8%AA%D9%88%D8%A7%D8%B5%D9%84-%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%D9%8A-0?fbclid=IwAR27uZi9rhhe_dp7iLWAkw5VCt9r6VweNE1KjNPv3CVNO9cNdSwjXhUfvGo",
+            "name": "الجيش اللبناني",
+            "path": "sources/1_1593953086_الجيش اللبناني.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصورة ليست لتهريب المحروقات من لبنان إلى سورية",
+    "updated_at": "2020-09-25 17:21:28",
+    "url_path": "/factcheck/2020/07/05/هذه-الصورة-ليست-لتهريب-المحروقات-من-لبنان-إلى-سورية"
+}

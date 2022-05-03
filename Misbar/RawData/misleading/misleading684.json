@@ -1,0 +1,127 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 763,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "الصور قديمة تعود لعام 2018 (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">شاب تونسي منقذ اسمه عبد العالي، أنقذ 13 طفلاً ينتمون لمُخيم صيفي من الغرق، بينهم 4 أطفال أخرجهم في حالة غيبوبة وذلك دفعة واحدة في يوم واحد.</p>\r\n",
+    "country": "MA",
+    "created_at": "2020-09-05 16:37:54",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f5394b26bb01d68762c81e4",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الخبر المتداول وتبين أنه مضلل، إذ أنّ قصة السباح المنقذ قديمة، تعود لعام 2018، وهي لسباح مغربي وليس تونسيًّا.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">وأنقذ عبد العالي معاشو السباح المنقذ في شاطئ &quot;بليجروسا&quot; في منطقة العرائش&nbsp;13 طفلاً من موت محقق، إثر غرقهم، وكان ينقلهم بالتداول إلى الشاطئ.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">وسقط السباح مغمى عليه بسبب ابتلاعه كمية كبيرة من الماء، وقالت</span>&nbsp;<span style=\"background-color:white\">المديرية الإقليمية لوزارة الشباب والرياضة في العرائش، إن الأطفال الثلاثة عشر المعنيين بحادث الغرق ومنقذ السباحة التابع للوقاية المدنية في حالات صحية مستقرة بعد خضوعهم للمراقبة الطبية.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"background-color:white\"><span style=\"color:black\"><img alt=\"000.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_pyngnjilr.jpg\" style=\"height:516px; width:605px\" /></span></span></span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"411\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2F109070306458339%2Fvideos%2F878141689208982%2F&amp;show_text=false&amp;width=734&amp;height=411&amp;appId\" style=\"border:none;overflow:hidden\" width=\"734\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات إخبارية وحسابات، حديثاً، صورة تدّعي أنها لسباح منقذ اسمه عبد العالي، أنقذ 13 طفلاً ينتمون لمُخيم صيفي من الغرق، بينهم 4 أطفال أخرجهم في حالة غيبوبة وذلك دفعة واحدة في يوم واحد.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">ونقلت بعض الصفحات أنه شاب تونسي و&quot;يرقد اليوم في جناح العناية المُركزة لأنهُ شرب في عملية الإنقاذ مياها كثيرة كادت تودي بحياته ويُعاني من الإرهاق ومن تمزقات عضلية في عدة أنحاء من جسمهُ جراء مجهودهُ الخارق&quot;<span dir=\"LTR\"> .</span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"0.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_7x67td4os.jpg\" style=\"height:569px; width:501px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"1.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_4v0bb492t.jpg\" style=\"height:609px; width:443px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_3nolop0sy.jpg\" style=\"height:533px; width:545px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"5.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_l7cojsolt.jpg\" style=\"height:615px; width:447px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 333,
+        "left": 9.10528564453125,
+        "path": "articles/15993130739.jpg",
+        "top": 27.746826171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-15993130739.jpg",
+        "width": 592
+    },
+    "post_date": "2020-09-05T14:16:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=148957213480646&id=110513837324984",
+            "name": "جريدة الاهرام الإخبارية نيوز",
+            "path": "published/0_1599313072_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2625669881028023&id=1583627675232254",
+            "name": "المنتخب الوطني الجزائري",
+            "path": "published/1_1599313072_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/983088171742148/posts/3427364500647824/",
+            "name": "Khadija Ben Fehri",
+            "path": "published/2_1599313073_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/opalgerien/posts/217420043136121",
+            "name": "العمال المهنيين في قطاع الصحة",
+            "path": "published/3_1599313073_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/ElbordjAlaan/photos/a.1356198117756760/3400765163300035/",
+            "name": "البرج الآن News 7/24",
+            "path": "published/4_1599313073_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1267810370262744&id=100011013788084",
+            "name": "Zeineb Hamed",
+            "path": "published/5_1599313073_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/page.DZA/posts/366309648083834",
+            "name": "Diga Zoom +18 DZA",
+            "path": "published/6_1599313073_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://yassminefm.net/2020/07/29/%D9%87%D8%B0%D8%A7-%D9%87%D9%88-%D8%A7%D9%84%D8%B3%D8%A8%D8%A7%D8%AD-%D8%A7%D9%84%D9%85%D9%86%D9%82%D8%B0-%D8%B9%D8%A8%D8%AF-%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D8%B0%D9%8A-%D8%A7%D9%86/",
+            "name": "yassmine fm",
+            "path": "published/7_1599313073_72193104_130293538371200_1300164867688235008_n.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://2m.ma/ar/news/%D8%AE%D8%A7%D8%B7%D8%B1-%D8%A8%D9%86%D9%81%D8%B3%D9%87-%D9%84%D8%A5%D9%86%D9%82%D8%A7%D8%B0-13-%D8%B7%D9%81%D9%84%D8%A7-%D9%85%D9%86-%D9%85%D9%88%D8%AA-%D9%85%D8%AD%D9%82%D9%82-%D8%A8%D8%B4%D8%A7%D8%B7%D8%A6-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D8%A6%D8%B4%D8%B3%D8%A8%D8%A7%D8%AD-%D9%85%D9%86%D9%82%D8%B0-%D9%8A%D8%AA%D8%AD%D9%88%D9%84-%D8%A5%D9%84%D9%89-%D8%A8%D8%B7%D9%84-20180901/",
+            "name": "2m.ma",
+            "path": "sources/0_1599313073_2m_a4.image_corps_article.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.youtube.com/watch?v=gv-i1MNjr6E",
+            "name": "youtube",
+            "path": "sources/1_1599313073_unnamed.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصور قديمة لسباح مغربي وليس تونسيًّا",
+    "updated_at": "2020-09-25 13:14:15",
+    "url_path": "/factcheck/2020/09/05/هذه-الصور-قديمة-لسباح-مغربي-وليس-تونسي",
+    "was_notification_pushed": "true"
+}

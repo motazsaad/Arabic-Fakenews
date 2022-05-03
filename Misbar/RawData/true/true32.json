@@ -1,0 +1,88 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 4494,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": " يجيبون عن أسئلة المواد غير المضافة للمجموع (Facebook)",
+    "category": "News",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">&nbsp;صورة لطلبة يغشون في امتحانات الثانوية العامة في مصر.</span></p>\r\n",
+    "country": "EG",
+    "created_at": "2020-06-22 17:56:46",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ef0c6ae163be31cc1203092",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">تحقّق &quot;مسبار&quot; من الصورة، ليجد أنها صحيحة، وقد وقع الحدث في مصر، ما سبب جدلاً كبيراً حول جدية عملية امتحانات الثانوية العامة في مصر، ونقلت الصحف المصرية الواقعة بتفاصيلها، موضحة أنه سيتم محاسبة الطلبة ومسؤوليّ اللجنة.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">&nbsp;وقال رضا حجازي، نائب وزير التربية والتعليم لشؤون المعلمين، ورئيس امتحانات الثانوية العامة لتلك الصحف، أن بعض الصور المتداولة للغش الجماعي كانت لطلبة يجيبون عن أسئلة المواد غير المضافة للمجموع، والتي يسلمها الطلاب عقب انتهاء امتحان مادة اللغة العربية، كما يسمح لهم<strong> </strong>باصطحاب نماذج منها فى مادتيّ التربية الدينية والاقتصاد، والإجابة عليها في المنزل وتسليمها في الموعد المحدد لها.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_ri8dvaxls.jpg\" style=\"height:350px; width:605px\" /><img src=\"https://images-prod.misbar.com/articlebody/investigation_g0dyhahyj.jpg\" style=\"height:450px; width:605px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:black\">تداولت حسابات على وسائل التواصل الاجتماعي في 21 و22 يونيو /حزيران الجاري،&nbsp;صورةً لمجموعة من الطلبة في واحدة من لجان امتحانات الثانوية العامة في مصر التي انطلقت في 21 يونيو/حزيران الجاري، حيث يبدو في الصورة أنهم يغشون إجابات الأسئلة من بعضهم البعض، دون وجود رقابة عليهم</span></span><span style=\"background-color:white\"><span style=\"color:black\">.</span></span></p>\r\n\r\n<p><img src=\"https://images-prod.misbar.com/articlebody/origin_2bt5j4yoe.jpg\" style=\"height:407px; width:605px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_xc8mnqjzc.jpg\" style=\"height:541px; width:500px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 389,
+        "left": 28.5888671875,
+        "path": "articles/1592837805105709485_840151106506424_5278302452542605320_n.jpg",
+        "top": 2.651611328125,
+        "totalHeight": 423,
+        "totalWidth": 761,
+        "watermark_path": "articles/watermark-1592837805105709485_840151106506424_5278302452542605320_n.jpg",
+        "width": 691
+    },
+    "post_date": "2020-06-22T15:47:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=840151103173091&set=pcb.765325177549017&type=3&theater",
+            "name": "مصطفى يونس",
+            "path": "published/0_1592837805_مصطفى يونس.jpg"
+        },
+        {
+            "link": "https://twitter.com/Egyptiandadjoke/status/1274692962677596161",
+            "name": "Egyptian Dad Jokes",
+            "path": "published/1_1592837805_gQX59JzY_400x400.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?id=100982631325105&story_fbid=265639244859442",
+            "name": "Tunisia Lek",
+            "path": "published/2_1592837805_89393495_189785712444796_4743801128007761920_o.jpg"
+        }
+    ],
+    "result": "true",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://m.akhbarelyom.com/news/NewDetails/3067009/1/%D9%86%D9%86%D8%B4%D8%B1-%D8%A7%D9%84%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D8%A7%D9%84%D9%83%D8%A7%D9%85%D9%84%D8%A9-%D9%84%D8%B5%D9%88%D8%B1-%D8%A7%D9%84%D8%BA%D8%B4-%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D8%B9%D9%8A-%D8%A7%D9%84%D8%AA%D9%8A-%D9%86%D8%B4%D8%B1%D8%AA-%D8%AE%D9%84%D8%A7%D9%84-%D8%A7%D9%85%D8%AA%D8%AD%D8%A7%D9%86-%D8%A7%D9%84%D9%84%D8%BA%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9",
+            "name": "أخبار اليوم",
+            "path": "sources/0_1592837805_ااا.JPG"
+        },
+        {
+            "link": "https://www.elmogaz.com/612478",
+            "name": "الموجز",
+            "path": "sources/1_1592837805_999.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "خبر صحيح.. طلبة يغشون في امتحانات الثانوية العامة في مصر",
+    "updated_at": "2020-09-25 02:02:33",
+    "url_path": "/factcheck/2020/06/22/هل-غش-هؤلاء-الطلاب-في-إمتحانات-الثانوية-العامة-بمصر"
+}

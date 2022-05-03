@@ -1,0 +1,115 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 28266,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "الصورة الأصلية تعود لرجل عراقيّ يقبّل رفات ابنه (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">مسنّ فلسطيني يقبّل جمجمة ابنه الراحل بعد أن أفرج الاحتلال الإسرائيلي عن جثّته التي احتجزها ثلاثين عاماً.</span></p>\r\n",
+    "country": "PS",
+    "created_at": "2020-05-26 16:03:46",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 2,
+    "id": "5ecd13b2db291624c340da64",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من الخبر المتداول ووجد أنه مضلّل، لأنّ </span><a href=\"http://www.apimages.com/metadata/Index/AP-I-IRQ-Iraq-Saddam-Hussein/e36c0e34d8c044b8a0c10b0cda65680d/137/0\" style=\"text-decoration:none\"><span style=\"color:#1155cc\"><u>الصورة الأصلية</u></span></a><span style=\"color:#000000\"> تعود لرجل عراقيّ يقبّل رفات ابنه، عام 2003، عندما سُمح للعراقيين الاطّلاع على مقابر &quot;المجهولين&quot; التي أُقيمت في عهد الرئيس العراقي الأسبق صدّام حسين.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_dhxn25u5b.jpg\" style=\"height:209px; width:624px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "إسرائيل",
+        "فلسطين",
+        "الاحتلال الإسرائيلي"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل مواقع إخبارية، وصفحات على مواقع التواصل الاجتماعي، منذ سنوات، صورة تدّعي أنها لمسنّ فلسطيني يقبّل جمجمة ابنه الراحل بعد الإفراج عنها من قِبل الاحتلال الإسرائيلي.</span></p>\r\n\r\n<p style=\"text-align:center\"><span style=\"color:#000000\"><iframe frameborder=\"0\" height=\"614\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmohdmazen.almasri%2Fposts%2F1274150526025765&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_1wi6uk1yr.jpg\" style=\"height:677px; width:524px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_kgsz9e8w1.jpg\" style=\"height:434px; width:528px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 349,
+        "left": 2.08331298828125,
+        "path": "articles/1590498226غلاف.jpg",
+        "top": 3,
+        "totalHeight": 423,
+        "totalWidth": 625,
+        "watermark_path": "articles/watermark-1590498226غلاف.jpg",
+        "width": 621
+    },
+    "post_date": "2020-05-26T15:48:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/mohdmazen.almasri/posts/1274150526025765",
+            "name": "محمد المصري",
+            "path": "published/0_1590498225_محمد المصري.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/204458463225243/permalink/1153787981625615/",
+            "name": "Abed Alamouri",
+            "path": "published/1_1590498225_abed.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/jafaralhajajreh/posts/3005932119467919",
+            "name": "جعفر الحجاجرة",
+            "path": "published/2_1590498225_جعفر.jpg"
+        },
+        {
+            "link": "https://twitter.com/mnaw7/status/653997916084903936",
+            "name": "مناور سليمان",
+            "path": "published/3_1590498225_مناور.jpg"
+        },
+        {
+            "link": "https://twitter.com/numanabushanab/status/474104654947569664",
+            "name": "نعمان أبو شنب",
+            "path": "published/4_1590498225_نعمان.jpg"
+        },
+        {
+            "link": "https://twitter.com/mssmK900/status/758385432061177857",
+            "name": "تاريخنا العظيم",
+            "path": "published/5_1590498225_تاريخنا.jpg"
+        },
+        {
+            "link": "https://twitter.com/abdulkarim_900/status/883801656600780801",
+            "name": "عبدالكريم النغيمشي",
+            "path": "published/6_1590498226_عبد الكريم.jpg"
+        },
+        {
+            "link": "http://factjo.com/pages/newsdetails.aspx?id=12981",
+            "name": "الحقيقة الدولية",
+            "path": "published/7_1590498226_الحقيقة.jpg"
+        },
+        {
+            "link": "http://www.jfranews.com.jo/more-24323-19-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%AA%D9%81%D8%B1%D8%AC-%D8%B9%D9%86-%D8%AC%D8%AB%D9%85%D8%A7%D9%86-%D8%B4%D9%87%D9%8A%D8%AF-%D8%A8%D8%B9%D8%AF-35-%D8%B9%D8%A7%D9%85-%D9%85%D9%86-%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%B2",
+            "name": "جفرا نيوز",
+            "path": "published/8_1590498226_جفرا.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "http://www.apimages.com/metadata/Index/AP-I-IRQ-Iraq-Saddam-Hussein/e36c0e34d8c044b8a0c10b0cda65680d/137/0",
+            "name": "AP",
+            "path": "sources/0_1590498226_AP.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "فلسطيني يقبّل جمجمة ابنه.. خبر مضلل",
+    "updated_at": "2020-09-25 09:35:18",
+    "url_path": "/factcheck/2020/05/26/فلسطيني-يقبل-جمجمة-ابنه-خبر-مضلل"
+}

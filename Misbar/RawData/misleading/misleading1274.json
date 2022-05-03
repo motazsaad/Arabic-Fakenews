@@ -1,0 +1,106 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 8742,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "توفي الطفل المصاب بكوفيد-19 لكن سبب الوفاة إصابته بالصدفية والتهاب السحايا (مواقع التواصل الاجتماعي)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">أعلنت البرتغال رسميًّا عن وفاة طفل يبلغ 14 عاماً متأثراً بفايروس كورونا، رغم أنه رياضيّ ولم يكن لديه أيّة مشاكل صحية!</span></p>\r\n",
+    "country": "PT",
+    "created_at": "2020-04-04 18:17:01",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5e88a4eddb2916734e559804",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من الخبر ووجد أنه مضلل، إذ توفي الطفل فيتورو غودينو الذي يبلغ من العمر 14 عاماً، والمصاب بكوفيد-19، إلا أنّ سبب الوفاة هو إصابته بالتهاب السحايا والصدفية بحسب تقرير الطب الشرعي، وفقاً لتصريحات عائلته لصحيفة </span><a href=\"https://www.jn.pt/local/noticias/aveiro/santa-maria-da-feira/menino-de-14-anos-cm-covid-19-tera-morrido-de-meningite-12008314.html?fbclid=IwAR1VHFAqz-ZKt2IbcaBvQTTI4vkjFvtxKZ-nR2oQv5iqz9GnD3eMo2EdQtU\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>جورنال دي نوتيسياس</u></span></a><span style=\"color:#000000\"> (Jornal de Not&iacute;cias) البرتغالية، وهي صحيفة عريقة ذات مصداقية عالية.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_9ey2sbms0.jpg\" style=\"height:477px; width:624px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "كورونا",
+        "كورونا البرتغال",
+        "كوفيد-19",
+        "البرتغال"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تداولت مواقع إخبارية وصفحاتٌ على مواقع التواصل الاجتماعي خبراً مفاده أنّ البرتغال أعلنت رسميًّا عن وفاة طفل يبلغ من العمر 14 عاماً، وادّعى ناشرو الخبر أنّ سبب الوفاة إصابة الطفل بفايروس كورونا المستجد (كوفيد-19)، رغم أنه لم يعانِ مسبقاً من أيّ مشاكل صحية.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_8qmjd81n0.jpg\" style=\"height:467px; width:440px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_tt856ypwo.jpg\" style=\"height:313px; width:445px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_fgj4g8xw2.jpg\" style=\"height:712px; width:438px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 355,
+        "left": 2.76666259765625,
+        "path": "articles/1586013420سوشال.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 636,
+        "watermark_path": "articles/watermark-1586013420سوشال.jpg",
+        "width": 630
+    },
+    "post_date": "2020-04-04T18:10:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.dailymail.co.uk/news/article-8164787/14-year-old-boy-Portugals-youngest-coronavirus-victim-Ovar-near-Porto.html",
+            "name": "Daily Mail",
+            "path": "published/0_1586013420_daily-mail-logo.jpg"
+        },
+        {
+            "link": "https://www.thesun.co.uk/news/11280336/schoolboy-14-dies-after-coronavirus-portugal/",
+            "name": "The Sun",
+            "path": "published/1_1586013420_The-sun-logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/mohamed.jeery/posts/10216449112447050",
+            "name": "محمد عبد الغفار",
+            "path": "published/2_1586013420_محمد-عبدالغفار-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/PROF.MOOOD/posts/2672576282839839",
+            "name": "محمود عبد القادر",
+            "path": "published/3_1586013420_محمود-عبدالقادر-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/1082939651716087/permalink/3915455655131125/",
+            "name": "محمد نبيل",
+            "path": "published/4_1586013420_محمد-نبيل-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/khairy.elfiky.7/posts/914114815689343",
+            "name": "خيري جودة الفقي",
+            "path": "published/5_1586013420_خيري-جودة-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2252173505090811&id=100008945508455",
+            "name": "ريحانة الجنة",
+            "path": "published/6_1586013420_ريحانة-لوغو.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.jn.pt/local/noticias/aveiro/santa-maria-da-feira/menino-de-14-anos-cm-covid-19-tera-morrido-de-meningite-12008314.html?fbclid=IwAR1VHFAqz-ZKt2IbcaBvQTTI4vkjFvtxKZ-nR2oQv5iqz9GnD3eMo2EdQtU",
+            "name": "Jornal de Notícias",
+            "path": "sources/0_1586013420_Jornal-dNotícias-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "خبر مضلل عن وفاة طفل برتغالي بسبب إصابته بكورونا",
+    "title": "كورونا البرتغال: وفاة أول طفل مصاب بالفايروس.. خبر مضلل",
+    "updated_at": "2020-09-25 05:04:38",
+    "url_path": "/factcheck/2020/04/04/كورونا-البرتغال-وفاة-أول-طفل-مصاب-بالفايروس-خبر-مضلل"
+}

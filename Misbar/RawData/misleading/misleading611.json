@@ -1,0 +1,115 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1077,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "يعود الفيديو للحظة تصوير مقطع فيديو جديد لمغني الراب الروسي هاسكي (Yande)",
+    "category": "Arts & Culture",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">مقطع فيديو لإنزال جثث الموتى بفايروس كورونا من المستشفى الروسي وتحميلهم في سيارة نقل.</span></p>\r\n",
+    "country": "RU",
+    "created_at": "2020-09-21 17:03:00",
+    "created_by": "5f39b5a51dd585076701cb94",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 3,
+    "id": "5f68b2943385f2119a05da38",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من مقطع الفيديو وتبين أن الادعاء مضلل، إذ يعود الفيديو للحظة تصوير </span><span dir=\"RTL\" lang=\"AR-SA\"><span style=\"background-color:white\"><span style=\"color:#2e2e2e\">مقطع فيديو جديد لمغني الراب الروسي هاسكي</span></span></span>، في مستشفى في العاصمة الروسية موسكو. وانتشر المقطع المتداول بعد أن فوجئ سكان المنطقة بالمنظر، <span dir=\"RTL\" lang=\"AR-SA\">وقال العديد منهم إنهم لم يكونوا سعداء بهذا المشهد المروع. <span style=\"background-color:white\"><span style=\"color:#2e2e2e\">لكن منتج العمل ميخائيل ماريزوف، أوضح <a href=\"https://ren.tv/news/v-rossii/744208-mertvye-liudi-moskvichei-napugali-svisaiushchie-s-kryshi-bolnitsy-trupy\" style=\"color:#0563c1; text-decoration:underline\">لوسائل إعلام روسية</a>، أن أكياس الجثث الظاهرة في الفيديو، ليست لجثث حقيقية، بل عبارة عن دمى مشابهة لا أكثر. وصرّح قائلاً &quot;لا يمكنني الكشف عن فحوى الفيديو&quot;، وأن الناس ستفهم الفكرة&nbsp;عند نشره قريباً.</span></span></span><br />\r\n<span dir=\"RTL\" lang=\"AR-SA\">الجدير بالذكر أن هذه ليست الحيلة الفنية الأولى التي يستخدم&nbsp;فيها هاسكي الجثث في أعماله، فسبق وفعلها في تصوير عمل آخر، وصوّر جثة على شرفة فندق ريتز كارلتون، وحققت معه الشرطة بسبب&nbsp;الواقعة.</span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_1925t8ctl.jpg\" style=\"height:480px; width:624px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات وصفحات على مواقع التواصل الاجتماعي، حديثاً، مقطع فيديو ادعت أنه لإنزال جثث الموتى بفايروس كورونا المستجد من مستشفى في روسيا وتحميلهم في سيارة نقل.</span></p>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"rtl\">انزال جثث موتى كورونا في روسيا . <a href=\"https://t.co/ACBFrKCUH9\">pic.twitter.com/ACBFrKCUH9</a></p>\r\n&mdash; دباس 60 (@dabbas60) <a href=\"https://twitter.com/dabbas60/status/1304834324014026752?ref_src=twsrc%5Etfw\">September 12, 2020</a></blockquote>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_u36libmk5.jpg\" style=\"height:636px; width:481px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 0,
+        "path": "articles/1600696980100.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-1600696980100.jpg",
+        "width": 752
+    },
+    "post_date": "2020-09-21T16:57:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/dabbas60/status/1304834324014026752",
+            "name": "دباس 60",
+            "path": "published/0_1600696979_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/ahmad_shaker1/status/1306849548762050565",
+            "name": "Ahmad Shaker",
+            "path": "published/1_1600697120_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/mutwali2/status/1307002214133661698",
+            "name": "mutwali",
+            "path": "published/2_1600697120_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/fan.akhir.wakit/videos/1679415538902594/?__xts__%5B0%5D=68.ARDI_c04FeYgEXt0KoyIjs1Ahg1528lYm7qGohBxOxk-3110jP-jk2dvfOqIXlrFOTYWjpeHAAZTmcEZsxLD71Iz1ugPTIDWhhJaG0IXp5__F9hkiKvfqxvGxEUr8gf0pOr9ZIq_ejJBqbSBiAUJTRE5A90KUuNbmQ8gMX_-JbnPh1oaVoVe6EtupSW0RApOYOEOJb_pil1Ve1ZBZRvQM2xHWtSs5MI-oanvl_Bq0Gt_oKiYSOpm2pJ4hiDEcdJZ26ajg3QZDnJmiIdJ8zD9QHUQUCAMkTReLgykO_zH-hpTOLKnZ9IGsjM1eWmuKvvP5vhvS80kHM72xdod46MeePFyzk1G22TqwmY&__tn__=-R",
+            "name": " فن آخر وكت",
+            "path": "published/3_1600697120_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=169807544710057&id=102641151426697",
+            "name": " شعب الهريسة",
+            "path": "published/4_1600697121_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/groups/2671370669613028/permalink/3264571473626275/",
+            "name": "رافت حموي",
+            "path": "published/5_1600697121_facebook.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://yandex.ru/efir?stream_id=4758081d1ba8020a848d3b1ff416e72f",
+            "name": "Yande",
+            "path": "sources/0_1600698288_yande.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://ren.tv/news/v-rossii/744208-mertvye-liudi-moskvichei-napugali-svisaiushchie-s-kryshi-bolnitsy-trupy",
+            "name": "Ren.tv",
+            "path": "sources/1_1600698288_ren.tv.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "فيديو إنزال جثث ضحايا كورونا في روسيا عبارة عن مقطع تمثيلي",
+    "updated_at": "2020-09-25 19:34:37",
+    "url_path": "/factcheck/2020/09/21/فيديو-إنزال-جثث-الموتى-بكورونا-في-روسيا-عبارة-عن-مقطع-تمثيلي",
+    "was_notification_pushed": "true"
+}

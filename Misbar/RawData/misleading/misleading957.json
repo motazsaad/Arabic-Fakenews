@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 19767,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": " الصورة لمدرجات زراعية لحضارة شعب الإنكا في البيرو (Getty)",
+    "category": "Travel",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة درج قوم عاد الذين عُرفوا بأحجامهم الكبيرة، في صحراء الربع الخالي في السعودية.</p>\r\n",
+    "country": "SA",
+    "created_at": "2020-06-30 20:37:55",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5efb7873163be356473699d5",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة وتبيّن أنها مضللة جغرافيًّا وتاريخيًّا، فهي لا تعود إلى قوم عاد في صحراء الربع الخالي في الجزيرة العربية، وليست في دولة عربية أو في قارة آسيا من الأساس، وبالبحث عن الصورة وأصلها في <a href=\"https://www.google.com/search?q=Inca+terraces+of+Pumatallis+at+Ollantaytambo&amp;rlz=1C1GGRV_enEG884EG884&amp;sxsrf=ALeKk034tv5rtDzbYC6iOXH1Kt6193ChoA:1593532446026&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=2ahUKEwi2qYj78qnqAhUjSRUIHTX9ApIQ_AUoAXoECA4QAw&amp;biw=1366&amp;bih=625\" style=\"color:blue; text-decoration:underline\" target=\"_blank\"><span style=\"color:#1155cc\">صور غوغل</span></a>، تبيّن أنها عبارة عن مدرجات زراعية لحضارة شعب الإنكا في معبد أولانتايتامبو الواقع في البيرو، في أميركا اللاتينية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">كما عثر &quot;مسبار&quot; على العديد من <a href=\"https://www.google.com/search?q=Inca+terraces+of+Pumatallis+at+Ollantaytambo&amp;rlz=1C1GGRV_enEG884EG884&amp;sxsrf=ALeKk034tv5rtDzbYC6iOXH1Kt6193ChoA:1593532446026&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=2ahUKEwi2qYj78qnqAhUjSRUIHTX9ApIQ_AUoAXoECA4QAw&amp;biw=1366&amp;bih=625\" style=\"color:blue; text-decoration:underline\" target=\"_blank\"><span style=\"color:#1155cc\">الصور</span></a> ومقاطع <a href=\"https://youtu.be/DgfW7PgVkpM\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">الفيديو</a> التي تظهر حقيقة الصورة، مع وجود تطابق وتشابه بينها وبين الصورة المتداولة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/DgfW7PgVkpM\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتناقل صفحات وحسابات على مواقع التواصل الاجتماعي، منذ شهور، صورة لدرج ادّعت أنه درج قوم عاد المذكورين في القرآن، والذين عُرفوا بأحجامهم الكبيرة. كما ادعى ناشرو الخبر أنّ الدرج يقع في صحراء الربع الخالي في المملكة العربية السعودية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"https://images-prod.misbar.com/articlebody/origin_ey279pqye.jpg\" id=\"Picture_x0020_1\" src=\"https://lh3.googleusercontent.com/Q3mDjBnu_rdWhOwDT6ixcvIzPefo98Aks3DG8soYtMbFq2DMGDgepwF1UWDJOjBWtbRgy6YooqaPj-Oh7lj_4kUJi-p47NX0tz2nR-KQgMvHuIWGZ2MJ10xwhUCN_3sargjNNhPr\" style=\"height:562.8pt; width:388.2pt\" /> </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img id=\"Picture_x0020_3\" src=\"https://images-prod.misbar.com/articlebody/origin_w9d64ewyz.jpg\" style=\"height:587.4pt; width:403.2pt\" /> </span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 362,
+        "left": 1.13330078125,
+        "path": "articles/1593538674GettyImages-453895780.jpg",
+        "top": 61.466796875,
+        "totalHeight": 423,
+        "totalWidth": 645,
+        "watermark_path": "articles/watermark-1593538674GettyImages-453895780.jpg",
+        "width": 643
+    },
+    "post_date": "2020-06-30T20:27:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/Msifmsila/posts/2363280250393917",
+            "name": "مسيف المسيلة Mcif",
+            "path": "published/0_1593538673_مسيف.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2835686473319010&id=100006330548235",
+            "name": "وليد العيساوي",
+            "path": "published/1_1593538673_وليد.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=942080232804735&id=794414714237955&__tn__=-R",
+            "name": "لمسة أنوثة",
+            "path": "published/2_1593538673_لمسة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Tal.village.for.all/photos/a.248513995295990/1382334855247226/?type=3&theater",
+            "name": "قرية تل للجميع Tell village for all",
+            "path": "published/3_1593538673_قرية.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=274220890629815&id=114178239967415",
+            "name": "السيد عبدالاله كاظم محمود المشهداني",
+            "path": "published/4_1593538673_السيد.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=EakTYHak1AQ",
+            "name": "Brien Foerster",
+            "path": "sources/0_1593538673_briedn.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=DgfW7PgVkpM",
+            "name": "Viator Travel",
+            "path": "sources/1_1593538673_viator.jpg"
+        },
+        {
+            "link": "https://www.theonlyperuguide.com/peru-guide/the-sacred-valley/highlights/ollantaytambo-ruins/",
+            "name": "The only Peru guide",
+            "path": "sources/2_1593538674_the only.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ادعاء زائف.. هذه الصورة في البيرو وليس صحراء الربع الخالي",
+    "updated_at": "2020-09-25 20:07:05",
+    "url_path": "/factcheck/2020/06/30/ادعاء-زائف-هذه-الصورة-في-البيرو-وليس-صحراء-الربع-الخالي"
+}

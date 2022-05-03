@@ -1,0 +1,114 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1429,
+    "author": {
+        "fullname": "محمد الخالدي",
+        "id": "5ef9dcff163be306aa5d2826",
+        "photo": {
+            "name": "1593433343_48252779_2179011148784786_3755534693705973760_o.jpg",
+            "path": "authors/1593433343_48252779_2179011148784786_3755534693705973760_o.jpg"
+        }
+    },
+    "caption": "لم يدلِ بأي تصريح سواء بالسلب أو الإيجاب، ضد أو مع الاتفاق بين الإمارات ودولة الاحتلال (Getty)",
+    "category": "Arts & Culture",
+    "claim": "<p>الفنان محمد عساف يؤيد اتفاق الإمارات المطبع مع دولة الاحتلال.</p>\r\n",
+    "country": "PS",
+    "created_at": "2020-08-30 10:32:24",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f4b56086021182d780dc5aa",
+    "investigation": "<p><span dir=\"RTL\" lang=\"AR-SA\">تحقّق &quot;مسبار&quot; من الخبر ووجده غير صحيح، إذ تبين أنّ الفنان عساف الذي تعود أصوله إلى جنوب قطاع غزة حيث شهد مع سكانه عدد من الحروب التي شنتها&quot; إسرائيل&quot;، لم يدلِ بأيّ تصريح حول الاتفاق سواء بالسلب أو الإيجاب،&nbsp; وذلك خلال مقابلاته الإعلامية الأخيرة أو عبر حساباته على مواقع التواصل الاجتماعي، وسط محاولات للضغط عليه في مقر إقامته بدبي للخروج بتصريح ينحاز لأحد الطرفين&nbsp;إلا أن هذا لم يحدث.</span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p>نشر المُغرد الإماراتي حمد المزروعي، على حسابه في &nbsp;موقع تويتر، بتاريخ 28 أغسطس/آب الجاري، خبراً ادّعى فيه أنّ الفنان الفلسطيني محمد عساف قد بارك &quot;اتفاق السلام&quot; بين الإمارات العربية المتحدة ودولة الاحتلال الإسرائيلي، وسرعان ما لحق به الإعلامي الإسرائيلي إيدي كوهين، لينتشر بعد ذلك الخبر على عدد من الحسابات في موقعّي فيسبوك وتويتر.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_nevco3hjl.jpg\" style=\"height:415px; width:601px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_grye18z0m.jpg\" style=\"height:226px; width:593px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_jvw6iiy3e.jpg\" style=\"height:523px; width:405px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_2iz0k7t9p.jpg\" style=\"height:293px; width:602px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_vqpd7z7hw.jpg\" style=\"height:318px; width:602px\" /><br />\r\n&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 349,
+        "left": 7,
+        "path": "articles/1598772744GettyImages-592241766.jpg",
+        "top": 28.0859375,
+        "totalHeight": 423,
+        "totalWidth": 638,
+        "watermark_path": "articles/watermark-1598772744GettyImages-592241766.jpg",
+        "width": 620
+    },
+    "post_date": "2020-08-30T09:01:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/uae_3G/status/1299441519389270016",
+            "name": "حمد المزروعي",
+            "path": "published/0_1598772743_حمد المزروعي.jpg"
+        },
+        {
+            "link": "https://twitter.com/EdyCohen/status/1299487219347066880",
+            "name": "إيدي كوهين",
+            "path": "published/1_1598772743_ايدي كوهين.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/noor1979alamael/posts/186640799506142",
+            "name": "تيسير أبو عبدالله",
+            "path": "published/2_1598772743_0_1596888660_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1438243533232065&id=100011392951192",
+            "name": "Abed Ps",
+            "path": "published/3_1598772743_0_1596888660_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=188030379391755&id=100045543811680",
+            "name": "صالح ساق الله",
+            "path": "published/4_1598772743_0_1596888660_facebook.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/MohammedAssafOfficial",
+            "name": "محمد عساف على فيسبوك",
+            "path": "sources/0_1598772743_عسااااف يوي.jpg"
+        },
+        {
+            "link": "https://twitter.com/MohammedAssaf89",
+            "name": "محمد عساف على تويتر",
+            "path": "sources/1_1598772744_عساف توسيتر.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/c/MohammedAssafOfficial/videos",
+            "name": "قناة محمد عساف على يوتيوب",
+            "path": "sources/2_1598772744_عسااااف يوي.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/channel/UCDeZuUmzJOGerBEL49FzzBw/featured",
+            "name": "قناة محمد عساف على يوتيوب",
+            "path": "sources/3_1598772744_عسافيوتيوب.jpg"
+        },
+        {
+            "link": "https://www.instagram.com/mohammedassaf89/",
+            "name": "محمد عساف على انستغرام",
+            "path": "sources/4_1598772744_عسافيوتيوب.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الفنان محمد عساف لم يؤيد اتفاق الإمارات مع دولة الاحتلال",
+    "updated_at": "2020-09-25 20:58:36",
+    "url_path": "/factcheck/2020/08/30/الفنان-محمد-عساف-لم-يؤيد-اتفاق-الإمارات-مع-دولة-الاحتلال"
+}

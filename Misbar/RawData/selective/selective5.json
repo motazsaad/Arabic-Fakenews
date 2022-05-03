@@ -1,0 +1,164 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 180,
+    "author": {
+        "fullname": "مريم هواري",
+        "id": "5e299460d4a22939983a3ec5",
+        "photo": {
+            "path": "authors/1579791192_Maryam.jpg"
+        }
+    },
+    "caption": "تقرير &amp;quot;فيسبوك&amp;quot; شهري وعالمي (Getty)",
+    "category": "Technology",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">عناوين إخبارية: موقع &quot;فيسبوك&quot; يحظر حسابات إيران المزيّفة ضد &quot;إسرائيل&quot;، ويكشف أنّ إيران دعمت المظاهرات الإسرائيلية ضد نتنياهو.</p>\r\n",
+    "country": "IR",
+    "created_at": "2020-11-09 15:58:47",
+    "created_by": "5f39b6aa1dd585076701cb95",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 1,
+    "id": "5fa93d079c0d64394f183744",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقّق &quot;<a href=\"https://misbar.com/factcheck/2020/11/03/%D8%B5%D9%88%D8%B1%D8%A9-%D9%85%D9%81%D8%A8%D8%B1%D9%83%D8%A9-%D8%AA%D8%AF%D8%B9%D9%8A-%D8%A3%D9%86-%D8%A7%D9%84%D8%A3%D8%B1%D8%B6-%D9%85%D8%B3%D8%B7%D8%AD%D8%A9\" style=\"color:#0563c1; text-decoration:underline\" target=\"_blank\">مسبار</a>&quot; من العناوين والأخبار المتداولة ووجد أنّها انتقائية في تداولها للخبر وتنطوي على إثارة. وبالعودة إلى&nbsp;<a href=\"https://about.fb.com/news/2020/11/october-2020-cib-report/\" style=\"color:#0563c1; text-decoration:underline\" target=\"_blank\">تقرير</a> &quot;فيسبوك&quot; المُشار إليه في الأخبار المتداولة، والّذي يحمل عنوان &quot;تقرير السلوك غير الأصيل لأكتوبر 2020&quot; (October 2020 Coordinated Inauthentic Behavior Report)، تبيّن أنّه جزء من سلسلة تقارير شهرية يُصدرها الموقع، وتشمل الصفحات والحسابات المزيّفة التّي أزالتها شركة فيسبوك من منصّاتها (فيسبوك وإنستغرام)، والتي هدفت للتلاعب بالرأي العام في سياق الحملات المحليّة وغير الحكومية، أو عن طريق انتحال هويّات جهات حكومية أو أجنبية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">ويُشير التقرير، الممتد على خمسين صفحة، إلى أنّه حُذف 1196 حساب &quot;فيسبوك&quot;، و994 حساب &quot;إنستغرام&quot;، و7947 صفحة و110 مجموعة، في أنحاء العالم، في شهر أكتوبر/تشرين الأول&nbsp;الفائت. كما&nbsp;كشفت شركة فيسبوك عن 14 شبكة حسابات محليّة وخارجية حول العالم، من بينها ثمان شبكات استهدفت جمهورها المحلّي من جورجيا، وميانمار، وأوكرانيا، وأذربيجان، وست شبكات استهدفت جمهوراً أجنبياًّ&nbsp;في كلّ من إيران، ومصر، والولايات المتّحدة والمكسيك.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">أمّا بخصوص الحسابات الإيرانية التّي استهدفت الجمهور الإسرائيلي، والتي أشارت إليها الأخبار المتداولة، أعلن التقرير في قسمه&nbsp;الأول، والممتد على 4 صفحات، عن إزالة 12 حساب &quot;فيسبوك&quot;، مجموعتين، و307 حساب &quot;إنستغرام&quot; مرتبطين بشركة تكنولوجية تُدعى EITRC، مقرّها العاصمة الإيرانية طهران، والّتي استخدمت حسابات مزيّفة ووهميّة ادّعت أنها إسرائيلية وعراقية، ونشرت محتوى باللغتين العربية والعبرية استهدفت البلدين، من ضمنها الاحتجاجات الإسرائيلية ضد نتنياهو.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">ممّا يعني أنّ التقرير المتداول يشمل جهود &quot;فيسبوك&quot;&nbsp;بحذف الحسابات الزائفة على صعيد&nbsp;عالمي، كما أنّه أدرج ثلاثة أمثلة فقط لنوع المحتوى الذي نشرته ثلاث صفحات من مجموع الصفحات المحذوفة، إحداها متعلّقة بالعراق والبقيّة متعلّقة بالمظاهرات الإسرائيلية، ولم يفصّل التقرير بقيّة المحتوى الذي نشرته الصفحات الأخرى، كما&nbsp;أشار التقرير إلى أنّ الصفحات والحسابات المحذوفة كانت في مرحلة مبكّرة من الإنشاء حيث وصل عدد المتابعين إلى قرابة عشرة آلاف متابع.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_k6wx3iup6.jpg\" style=\"height:524px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_9za7p13vg.jpg\" style=\"height:606px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_qi41qt7b9.jpg\" style=\"height:605px; width:613px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">اقرأ/ي أيضاً:</p>\r\n\r\n<p><a href=\"https://misbar.com/factcheck/2020/10/22/%D8%B9%D8%AF%D9%84-%D8%AA%D9%88%D9%8A%D8%AA%D8%B1-%D9%85%D9%8A%D8%B2%D8%A9-%D8%A5%D8%B9%D8%A7%D8%AF%D8%A9-%D9%86%D8%B4%D8%B1-%D8%A7%D9%84%D8%AA%D8%BA%D8%B1%D9%8A%D8%AF%D8%A7%D8%AA-%D9%88%D9%84%D9%85-%D9%8A%D9%84%D8%BA%D9%87%D8%A7-%D8%AA%D9%85%D8%A7%D9%85%D8%A7\" target=\"_blank\">عدّل تويتر ميزة إعادة نشر التغريدات ولم يُلغها تماماً</a></p>\r\n\r\n<p><a href=\"https://misbar.com/editorial/2020/11/06/%D9%87%D9%84-%D9%85%D9%86-%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%D9%8A-%D8%AD%D8%AC%D8%A8-%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B2%D8%A7%D8%A6%D9%81%D8%A9\" target=\"_blank\">هل من القانوني حجب الأخبار الزائفة؟</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">تداولت مواقع إخبارية إسرائيلية، بتاريخ 6 نوفمبر/تشرين الثاني الجاري، عناوين لأخبارٍ مفادها أنّ موقع فيسبوك أوقف نشاطاً إيرانياً ضد رئيس الوزراء الإسرائيلي، بنيامين نتنياهو، وروّج لمظاهرات &quot;الأعلام السوداء&quot;، وهي المظاهرات الإسرائيلية المُندلعة ضدّه مؤخّراً. ونشرت مواقع إخبارية عربية وأجنبية عناوين تُشير لأنّ&nbsp;فيسبوك يحذف عشرات الصفحات الإيرانية التي استهدفت &quot;إسرائيل&quot; ودعمت المظاهرات ضد نتنياهو. كما نشرت صفحة حزب &quot;الليكود&quot; الإسرائيلي على موقع تويتر، سلسلة تغريدات&nbsp; بأنّ &quot;إيران عملت سرّاً على تأجيج مظاهرات الأعلام السوداء&nbsp;اليسارية في محاولة للإطاحة بنتنياهو، حسبما كشف موقع فيسبوك في تقريرٍ رسميٍّ&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_tfr5wkmdp.jpg\" style=\"height:631px; width:623px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_in9yh9xv0.jpg\" style=\"height:709px; width:553px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_34xtxu971.jpg\" style=\"height:375px; width:623px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_txed4askd.jpg\" style=\"height:217px; width:624px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 355,
+        "left": -0.29534912109375,
+        "path": "articles/1604926727GettyImages-939701430.jpg",
+        "top": 9.777587890625,
+        "totalHeight": 423,
+        "totalWidth": 637,
+        "watermark_path": "articles/watermark-1604926727GettyImages-939701430.jpg",
+        "width": 632
+    },
+    "post_date": "2020-11-09T14:49:00.000+03:00",
+    "published": [
+        {
+            "id": "5fa93d05ab5294744c64baca",
+            "link": "https://www.israelhayom.co.il/article/817541",
+            "name": "Israel Hayom",
+            "origin": "",
+            "path": "sources/58f927fd27f7d32d22abf1b4d58a56c9d87b0f60.jpg"
+        },
+        {
+            "id": "5f9568ae0d127352f75f4b0b",
+            "link": "https://www.maariv.co.il/business/tech/Article-800498",
+            "name": "Maariv",
+            "origin": "",
+            "path": "published/2_1586346360_maariv.jpg"
+        },
+        {
+            "id": "5fa93d06dc2b3866da5b7948",
+            "link": "https://hathalyoum.net/articles/2535346-%D8%AA%D8%AF%D8%A7%D8%B1-%D9%85%D9%86-%D8%B7%D9%87%D8%B1%D8%A7%D9%86-%D9%85%D8%B3%D8%AA%D9%87%D8%AF%D9%81%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D9%81%D9%8A%D8%B3%D8%A8%D9%88%D9%83-%D9%8A%D8%AD%D8%B0%D9%81-%D8%B9%D8%B4%D8%B1%D8%A7%D8%AA-",
+            "name": "هذا اليوم",
+            "origin": "",
+            "path": "sources/58e330b99dac17fcddf935e9738869710f9606b1.jpg"
+        },
+        {
+            "id": "5f91b8bc01b7e87d0f2efdb6",
+            "link": "https://www.alhurra.com/iran/2020/11/07/%D8%AA%D8%AF%D8%A7%D8%B1-%D8%B7%D9%87%D8%B1%D8%A7%D9%86-%D9%85%D8%B3%D8%AA%D9%87%D8%AF%D9%81%D8%A9-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D9%81%D9%8A%D8%B3%D8%A8%D9%88%D9%83-%D9%8A%D8%AD%D8%B0%D9%81-%D8%B9%D8%B4%D8%B1%D8%A7%D8%AA-%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9",
+            "name": "الحرة",
+            "origin": "",
+            "path": "sources/1_1588674902_الحرة.JPG"
+        },
+        {
+            "id": "5fa93d06c5d76953653e86d3",
+            "link": "https://iranintl.com/ar/%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7%D9%84%D9%85%D8%AE%D8%AA%D8%B5%D8%B1/%D9%81%D9%8A%D8%B3%D8%A8%D9%88%D9%83-%D9%8A%D8%AD%D8%B8%D8%B1-%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A5%D9%8A%D8%B1%D8%A7%D9%86-%D8%A7%D9%84%D9%85%D8%B2%D9%8A%D9%81%D8%A9-%D8%B6%D8%AF-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84",
+            "name": "ایران اینترنشنال",
+            "origin": "",
+            "path": "sources/00638ad61499cf063244d7b379ccf6cd02aa589c.jpg"
+        },
+        {
+            "id": "5fa93d06f798a8607c5c8f32",
+            "link": "https://www.alrakoba.net/31477474/%d8%aa%d8%af%d8%a7%d8%b1-%d9%85%d9%86-%d8%b7%d9%87%d8%b1%d8%a7%d9%86-%d9%85%d8%b3%d8%aa%d9%87%d8%af%d9%81%d8%a9-%d8%a5%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84-%d9%81%d9%8a%d8%b3%d8%a8%d9%88%d9%83-%d9%8a/?utm_source=dlvr.it&utm_medium=twitter",
+            "name": "صحيفة الراكوبة",
+            "origin": "",
+            "path": "sources/0229d9b590aa89dc64e46392218c582ffb75577e.jpg"
+        },
+        {
+            "id": "5fa93d06348a3e6db61e6a6b",
+            "link": "https://elsiyasa.com/article/145655",
+            "name": "السياسة",
+            "origin": "",
+            "path": "sources/5897f8ebd865b77590811fba19e572051817a9fe.jpg"
+        },
+        {
+            "id": "5fa93d06c323356e0a6202e4",
+            "link": "https://thehill.com/policy/national-security/524844-facebook-removed-iranian-network-of-fake-accounts-targeting-protests",
+            "name": "TheHill",
+            "origin": "",
+            "path": "sources/7953e88d27446e51d1af43d208f2b969d4555273.jpg"
+        },
+        {
+            "id": "5fa93d069bea9e403a7079dc",
+            "link": "https://www.timesofisrael.com/facebook-says-iranian-network-sought-to-back-anti-netanyahu-protests/",
+            "name": "THE TIMES OF ISRAEL",
+            "origin": "",
+            "path": "sources/938275e32b80b40a4f05433d784a3efb4d86fcb2.jpg"
+        },
+        {
+            "id": "5fa93d06ba8347599d6513da",
+            "link": "https://twitter.com/Likud_Party/status/1324697072289939459",
+            "name": "Likud Party",
+            "origin": "twitter",
+            "path": "sources/1c0d191fe38478f5c742db7e5a83fba48c3cbf95.jpg"
+        },
+        {
+            "id": "5fa93d06c57618420081562c",
+            "link": "https://abcnews.go.com/International/wireStory/facebook-removes-iranian-accounts-targeting-israel-protests-74058154",
+            "name": "ABC News",
+            "origin": "",
+            "path": "sources/4b91b7b726860cfb4c35e6dd07678734fd47b621.jpg"
+        }
+    ],
+    "result": "selective",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fa93d07800b463aa41502db",
+            "link": "https://about.fb.com/news/2020/11/october-2020-cib-report/",
+            "name": "About Facebook",
+            "origin": "",
+            "path": "sources/e27c7cea09b767ccea5cacc1bf508eace75cd33a.jpg"
+        },
+        {
+            "id": "5fa93d07800b463aa41502db",
+            "link": "https://about.fb.com/wp-content/uploads/2020/11/October-2020-CIB-Report.pdf",
+            "name": "About Facebook",
+            "origin": "",
+            "path": "sources/e27c7cea09b767ccea5cacc1bf508eace75cd33a.jpg"
+        },
+        {
+            "id": "5fa93d0704620f5de718e820",
+            "link": "https://www.haaretz.co.il/captain/software/.premium-1.9294148",
+            "name": "Haaretz",
+            "origin": "",
+            "path": "sources/4f003744f17b85557cf62f11511b9fed47b657fd.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "فيسبوك أزال آلاف الحسابات عالمياً، وليس فقط الإيرانية التي استهدفت إسرائيل",
+    "updated_at": "2020-11-09 19:15:31",
+    "url_path": "/factcheck/2020/11/09/فيسبوك-أزال-آلاف-الحسابات-عالميا-وليس-فقط-الإيرانية-التي-استهدفت-إسرائيل",
+    "was_notification_pushed": false
+}

@@ -1,0 +1,108 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 506,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "مقطع الفيديو انتشر عام 2017 حين حاولت الشرطة تنفيذ أمر قضائي (يوتيوب)",
+    "category": "Spirituality & Religion",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">اليوم اقتحمت شرطة&nbsp;باريس&nbsp;مسجد كليشي الكبير في باريس وانهالت&nbsp;بالضرب على المصلين.</p>\r\n",
+    "country": "FR",
+    "created_at": "2020-10-13 17:37:22",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 3,
+    "feedback_pos": 7,
+    "id": "5f85bba2bf1dfa2ba7504d84",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الفيديو المتداول، ووجد أنه قديم؛ فهو يعود لاقتحام الشرطة الفرنسية مسجد &quot;كليشي لاغارين&quot; شمال غرب باريس، تنفيذاً لحكم قضائي بإخلاء المكان، حصلت عليه بلدية العاصمة لتحويل المسجد إلى مكتبة، بتاريخ 3 مارس<span dir=\"LTR\" lang=\"EN-US\">/</span>آذار 2017.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وبعد إغلاق المسجد تمكن نحو 50 شخصاً من الدخول وبدأوا الاعتصام بداخله، حيث حاولت الشرطة طردهم وأثناء ذلك حدثت مواجهات بين الطرفين أدت إلى إصابة ثلاثة من عناصر الشرطة بجروح طفيفة واعتقال أحد المتظاهرين بتهمة العنف.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/1lbBEE3ltkI\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات وحسابات على مواقع التواصل الاجتماعيّ، منذ 9 أكتوبر<span dir=\"LTR\" lang=\"EN-US\">/</span> تشرين الأول الجاري، مقطع فيديو، وعلقت عليه &quot;اليوم تم اقتحام الشرطة الفرنسية مسجد كليشي الكبير في العاصمة باريس والاعتداء بالضرب على المصلين المتواجدين بداخله&quot;.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\" lang=\"AR-SY\"><img id=\"صورة_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/origin_2xpsqvma3.jpg\" style=\"height:609pt; width:470.4pt\" /> <img id=\"صورة_x0020_2\" src=\"https://images-prod.misbar.com/articlebody/origin_6s86v7ank.jpg\" style=\"height:483.6pt; width:470.4pt\" /> <img id=\"صورة_x0020_3\" src=\"https://images-prod.misbar.com/articlebody/origin_xun3w0no6.jpg\" style=\"height:463.8pt; width:469.8pt\" /> </span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"308\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?height=308&amp;href=https%3A%2F%2Fwww.facebook.com%2F114016610295260%2Fvideos%2F837660876989355%2F&amp;show_text=false&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 407,
+        "left": 24,
+        "path": "articles/1602599842Screenshot 2020-10-13 163501.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 758,
+        "watermark_path": "articles/watermark-1602599842Screenshot 2020-10-13 163501.jpg",
+        "width": 724
+    },
+    "post_date": "2020-10-13T16:13:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/a7m_abo2/status/1315241735354822656",
+            "name": "بو احمد",
+            "path": "published/0_1602599841_ق4.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/BenhadadM/status/1314956034386034688",
+            "name": "BEN MOH",
+            "path": "published/1_1602599841_ق4.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/Ali50_Ah/status/1315254656881381377",
+            "name": "مهد الذهب / الامر كله لله ﷻ",
+            "path": "published/2_1602599841_ق4.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/114016610295260/videos/837660876989355/",
+            "name": "Abdenbi kamili",
+            "path": "published/3_1602599842_قققف.JPG"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/kais.baklouti.10/videos/3512218468824062/",
+            "name": "Baklouti Kais",
+            "path": "published/4_1602599842_قققف.JPG"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.youtube.com/watch?v=1lbBEE3ltkI",
+            "name": "منوعات",
+            "path": "sources/0_1602599842_unnamed (2).jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.lepoint.fr/societe/clichy-la-garenne-evacuation-d-une-mosquee-occupee-illegalement-22-03-2017-2113984_23.php#",
+            "name": "lepoint",
+            "path": "sources/1_1602599842_Screenshot 2020-10-13 163024.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "فيديو اقتحام الشرطة الفرنسية مسجداً في باريس.. قديم",
+    "updated_at": "2020-10-13 18:46:41",
+    "url_path": "/factcheck/2020/10/13/فيديو-اقتحام-الشرطة-الفرنسية-مسجدا-في-باريس-قديم",
+    "was_notification_pushed": true
+}

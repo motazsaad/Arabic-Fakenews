@@ -1,0 +1,70 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 795,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:center\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">وجود خانة المذهب (سني/ شيعي) في استمارة التعيين في وزارة الدفاع العراقية</p>\r\n",
+    "country": "IQ",
+    "created_at": "2019-11-26 13:41:02",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5ddd013e8d7bd93c652d61eb",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">بالعودة إلى استمارة التطوع بصفة عسكري الموجودة على موقع وزارة الدفاع العراقية، وجدنا أنَّ خانة المذهب غير موجودة ضمن نموذج الاستمارة، بل احتوت فقط على أسئلة متعلقة بالقومية والديانة، وأنَّ الصور التي تم تداولها كانت معدلة بواسطة برامج تعديل الصور.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_8f8ea6a8363bdbce47383d5ccf44d5c6.jpg\" style=\"height:371px; width:668px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">نشرت صفحتا العراق والعراق الآن، صورة على أنها من نموذج طلب تعيين إلكتروني في وزارة الدفاع العراقية، وذكرت الصفحتان أنَّ نموذج التعيين تضمن سؤالاً حول مذهب المتقدم، ويندرج تحت هذا السؤال خياران هما سني وشيعي.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_34d00d87b95b6a963270e97e2055cb14.jpg\" style=\"height:549px; width:684px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1574950210GettyImages-1180313186 (2).jpg"
+    },
+    "post_date": "2019-10-15T13:15:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/iraqalaan/photos/a.118809674840887/703445633043952/?type=1&theater",
+            "name": "العراق الآن",
+            "path": "published/0_1574764862_العراق الآن.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/iraqfreecoolpeople/photos/a.777069282358188/2482962805102152/?type=3&theater",
+            "name": "عراق Iraq",
+            "path": "published/1_1574764862_facebook.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "http://eform.mod.mil.iq/AirDefenseSolder.aspx",
+            "name": "وزارة الدفاع العراقية",
+            "path": "sources/0_1574764862_وزارة الدفاع العراقية.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "استمارة التعيين في وزارة الدفاع العراقية.. هل تسأل عن المذهب؟",
+    "updated_at": "2020-09-25 06:59:14",
+    "url_path": "/factcheck/2019/11/26/استمارة-التعيين-في-وزارة-الدفاع-العراقية-هل-تسأل-عن-المذهب"
+}

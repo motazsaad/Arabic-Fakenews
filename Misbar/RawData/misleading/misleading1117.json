@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 3531,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "الصورة لطبيب من أصل لبناني (فيسبوك)",
+    "category": "Health",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">احتفاء في بلجيكا بالطبيب التونسيّ محمد مراد، إثر تعافيه من فايروس كورونا المستجد، الذي أصيب به أثناء عمله في مستشفى ببروكسل.</p>\r\n",
+    "country": "TN",
+    "created_at": "2020-05-22 02:16:16",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ec70bc0db2916219876bb94",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الخبر المتداول وتبين أنه مضلّل، إذ أن طبيب القلب محمد مراد، بلجيكي الجنسية من أصل لبنانيّ، وليس طبيباً&nbsp;تونسياً&nbsp;أو مصرياًّ&nbsp;أو فلسطينياًّ. ونشر الفيديو يوم 14 أبريل/نيسان 2020، لحظة مغادرته للعناية الفائقة، في صفحات لبنانية على مواقع التواصل الاجتماعيّ. وطلب&nbsp;أخاه د.أنس مراد، سحب الفيديو من المواقع والصفحات التي نشرته، لأنّتهاكها&nbsp;المهنية الطبيّة.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"Capture3.PNG\" src=\"https://images-prod.misbar.com/articlebody/investigation_p93stpk7a.jpg\" style=\"height:401px; width:557px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت صفحات إخبارية وحسابات على مواقع التواصل الاجتماعيّ، خبراً يدّعي أن الطبيب محمد مراد، الذي احتفى به زملاؤه في بلجيكا، بعد تعافيه من الإصابة بفايروس كورونا (كوفيد-19)، تونسيُّ الجنسيّة.&nbsp;وقال آخرون إن الطبيب مصريّ الجنسية، والبعض نسبوه&nbsp;إلى جنسيات أخرى مثل الفلسطينيّ&nbsp;واللبنانيّ.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"Capture11.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_0iw7b951r.jpg\" style=\"height:589px; width:397px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"Capture9.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_tuq8yy9zj.jpg\" style=\"height:473px; width:605px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_s5l0nt5iq.jpg\" style=\"height:588px; width:395px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"Capture111.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_fapbgsuyf.jpg\" style=\"height:584px; width:400px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 389,
+        "left": 35.75555419921875,
+        "path": "articles/15901029750.06-1280x720.jpg",
+        "top": 9.300048828125,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-15901029750.06-1280x720.jpg",
+        "width": 691
+    },
+    "post_date": "2020-05-21T23:16:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/watch/?v=245234453396553",
+            "name": "راديو 24",
+            "path": "published/0_1590102974_85206036_112266173675107_5822616038528778240_o.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/hamdi.kochtane.5/videos/10217955982396831/",
+            "name": "Hamdi Kochtane",
+            "path": "published/1_1590102974_71747838_10216141831684197_1660465155844079616_o (1).jpg"
+        },
+        {
+            "link": "https://www.facebook.com/tunisiaonline.info/videos/677567316133306/?v=677567316133306&external_log_id=a729f856011bffe88b5d987a2dc0998f&q=%D9%85%D8%AD%D9%85%D8%AF%20%D9%85%D8%B1%D8%A7%D8%AF",
+            "name": "تونس اون لاين",
+            "path": "published/2_1590102974_19959192_1804997303145252_2124422346770905535_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ana.Tounsi2/videos/544756522849952/?q=%D8%B7%D8%A8%D9%8A%D8%A8%20%D8%AA%D9%88%D9%86%D8%B3%D9%8A%20%D9%85%D8%AD%D9%85%D8%AF%20%D9%85%D8%B1%D8%A7%D8%AF&epa=SEARCH_BOX",
+            "name": "انا تونسيّ",
+            "path": "published/3_1590102974_91783941_2433242586775294_6809718747146747904_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/watch/?v=227002141866642",
+            "name": "التلالة سيتي جربة",
+            "path": "published/4_1590102974_93822595_702275263870344_336136089183977472_n.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/M.Elmourad",
+            "name": "حساب محمد مراد على فايسوك ",
+            "path": "sources/0_1590102975_13012695_10156863645330204_1443162617865278245_n (1).jpg"
+        },
+        {
+            "link": "https://www.instagram.com/p/B-9-RX9naqK/?utm_source=ig_embed",
+            "name": "Lebanontimes",
+            "path": "sources/1_1590102975_7.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "ما جنسية الطبيب الذي احتفى به البلجيكيّون بعد شفائه من كورونا؟",
+    "updated_at": "2020-09-25 11:14:12",
+    "url_path": "/factcheck/2020/05/22/احتفاء-بطبيب-تونسي-شفي-من-كورونا-في-بلجيكا-حقيقة-الخبر"
+}

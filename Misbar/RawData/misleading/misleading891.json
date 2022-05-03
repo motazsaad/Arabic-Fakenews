@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 927,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "الصورة لجسر افتُتح عام 2003 (فيسبوك)",
+    "category": "News",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">إنجاز يفوق الخيال، أول جسر مائي في العالم يُنجز في ألمانيا.</span></p>\r\n",
+    "country": "DE",
+    "created_at": "2020-07-18 16:45:48",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5f12fd0c163be306f7455af4",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من الادعاء المتداول ووجده مضللاً، لأنّ الجسر المائي الظاهر في الصورة ليس أول جسر مائي في التاريخ.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">يظهر في الصورة </span><a href=\"https://www.dw.com/en/europes-largest-water-bridge-opens/a-990878\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>جسر ماغديبورغ</u></span></a><span style=\"color:#000000\"> في ألمانيا، الذي افتُتح عام 2003. وهذا الجسر، بالطبع، ليس أول جسر مائي عرفه التاريخ، بل سبقه العديد من الجسور أمثال: </span><a href=\"https://structurae.net/en/structures/briare-canal-bridge\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>جسر برياري</u></span></a><span style=\"color:#000000\"> المائي في فرنسا، افتتح عام 1896. </span><a href=\"http://news.bbc.co.uk/2/hi/uk_news/wales/north_east/8115190.stm\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>وجسر بونتيسل</u></span></a><span style=\"color:#000000\"> المائي في ويلز، افتتح عام 1805. وهذه مجرّد أمثلة على جسور سبقت جسر ماغديبورغ، مما يؤكد التضليل في الخبر المتداول.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_a0xawdwiz.jpg\" style=\"height:339px; width:583px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_9bq3190u9.jpg\" style=\"height:449px; width:535px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل صفحات وحسابات على مواقع التواصل الاجتماعي، حديثاً، صورة تدعي أنها لأول جسر مائي في العالم. وبحسب ناشري الخبر، يقع الجسر في ألمانيا.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_dofl68kdf.jpg\" style=\"height:681px; width:529px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_2xhlgkis7.jpg\" style=\"height:693px; width:530px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 241,
+        "left": 1.38330078125,
+        "path": "articles/1595079948فيسبوك.jpg",
+        "top": 88.283447265625,
+        "totalHeight": 423,
+        "totalWidth": 432,
+        "watermark_path": "articles/watermark-1595079948فيسبوك.jpg",
+        "width": 429
+    },
+    "post_date": "2020-07-18T16:38:00.000+03:00",
+    "published": [
+        {
+            "link": "https://web.facebook.com/groups/lnnermind/permalink/759320814617530/",
+            "name": "طارق زيد",
+            "path": "published/0_1595080320_طارق.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/groups/Mnazer/permalink/1157649671325660/",
+            "name": "مصطفى جهاد",
+            "path": "published/1_1595080321_مصطفى.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/groups/439782956598487/permalink/712596702650443/?__tn__=-R",
+            "name": "Wafaa Kassa",
+            "path": "published/2_1595080321_وفاء.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/groups/154747795877714/permalink/205763614109465/",
+            "name": "كاجين المالكي",
+            "path": "published/3_1595080472_كاجين.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/mohajiron.7awla.l3alam/posts/2871191533008491",
+            "name": "مهاجرون حول العالم",
+            "path": "published/4_1595080472_مهاجرون.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.dw.com/en/europes-largest-water-bridge-opens/a-990878",
+            "name": "DW",
+            "path": "sources/0_1595079947_dw.jpg"
+        },
+        {
+            "link": "https://structurae.net/en/structures/briare-canal-bridge",
+            "name": "Structurae",
+            "path": "sources/1_1595079947_struct.jpg"
+        },
+        {
+            "link": "http://news.bbc.co.uk/2/hi/uk_news/wales/north_east/8115190.stm",
+            "name": "BBC",
+            "path": "sources/2_1595079947_bbc.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصورة ليست لأول جسر مائي في العالم",
+    "updated_at": "2020-09-25 21:31:19",
+    "url_path": "/factcheck/2020/07/18/هذه-الصورة-ليست-لأول-جسر-مائي-في-العالم"
+}

@@ -1,0 +1,81 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 1831,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "category": "Sports",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">شوارع قطر تتزين بشعار الزمالك قبل مباراة الترجي في السوبر الأفريقي.</span></p>\r\n",
+    "country": "KG",
+    "created_at": "2020-02-10 11:54:00",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e411a28d4a2292ca5241b63",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحققّ &quot;مسبار&quot; من الصورة المتداولة وتأكّد أنها مفبركة، وليست في شوارع الدوحة، بعدما عثر على الصورة الأصلية المنشورة على موقع &quot;فليكر&quot;، بتاريخ 16 أكتوبر/ تشرين الأول 2009، وتعود الصورة لشارع ميدان &quot;تايمز سكوير&quot; الشهير بمدينة نيويورك الأميركية. ويظهر في الصورة الأصلية لوحات الإعلانات على مباني الشارع، وتم إزالة الإعلانات الموجودة بالصورة ووضع شعار نادي الزمالك بدلاً منها، من خلال تعديل الصورة الموجودة على موقع &quot;فليكر&quot;، ويوفر الموقع إمكانية تعديل وتحرير الصور.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_eyzspfr41.jpg\" style=\"height:368px; width:566px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">عثر &quot;مسبار&quot; أيضاً، على صورة لشعار وصور لاعبي نادي الزمالك، من إحدى شوارع العاصمة القطرية، معلقة على لوحة إعلانات أمام مول سيتي سنتر التجاري بالدوحة.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_ep6ozkjlh.jpg\" style=\"height:467px; width:545px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">انتشرت بشكل واسع على مواقع التواصل الاجتماعي، خاصةً على الصفحات الرياضية المصرية، صورة لشعار نادي الزمالك المصري تم وضعها على واجهات بعض المباني، موضحين أنَّ الصور في شوارع دولة قطر. </span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_a8w46sgr8.jpg\" style=\"height:458px; width:493px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_jx0bu78e6.jpg\" style=\"height:443px; width:479px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_0a6btvt48.jpg\" style=\"height:487px; width:521px\" /></p>\r\n\r\n<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">وتم تداول الصور</span><span dir=\"RTL\" lang=\"AR-EG\">ة</span><span dir=\"RTL\" lang=\"AR-SA\"> قبل مباراة السوبر الأفريقي المرتقبة، المقرر إجراؤها يوم الجمعة 14 فبراير/شباط&nbsp;الجاري، في العاصمة القطرية الدوحة. والتي ستجمع بين فريقي الترجي التونسي بطل دوري أبطال أفريقيا، والزمالك المصري بطل كأس الاتحاد الأفريقي (الكونفدرالية).</span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1581350071111112.jpg"
+    },
+    "post_date": "2020-02-10T11:36:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/alzamalekwhightfans/photos/a.186175671774449/1113117479080259/?type=3&theater",
+            "name": "جماهير الزمالك",
+            "path": "published/0_1581324840_جماهير-الزمالك.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/DMC.com.TV/photos/a.2072004359501579/2664193200282689/?type=3&theater",
+            "name": "دي ام سي سبورت Dmc",
+            "path": "published/1_1581324840_dmcsport.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Abdallahgomaa437/photos/a.2292306021039327/2513098672293393/?type=3&theater",
+            "name": " عبد الله جمعة - Abdallah Gomaa",
+            "path": "published/2_1581324840_عبدالله-جمعة.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.flickr.com/photos/44768401@N07/4148408445/in/photostream/",
+            "name": "Matt Wade",
+            "path": "sources/0_1581324840_Matt-Wade.JPG"
+        },
+        {
+            "link": "https://twitter.com/Sarah_Salama10/status/1224791593183477765",
+            "name": "سارة سلامة",
+            "path": "sources/1_1581324840_سارة-سلامة.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصورة ليست لشعار نادي الزمالك في شوارع قطر",
+    "updated_at": "2020-09-25 17:27:32",
+    "url_path": "/factcheck/2020/02/10/هذه-الصورة-ليست-لشعار-نادي-الزمالك-في-شوارع-قطر"
+}

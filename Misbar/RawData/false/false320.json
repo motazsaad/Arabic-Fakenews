@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 24336,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "آخر خطاباته كانت في السابع من أغسطس/آب الجاري (Getty)",
+    "category": "News",
+    "claim": "<p>اغتيال حسن نصرالله زعيم حزب الله اللبناني.</p>\r\n",
+    "country": "LB",
+    "created_at": "2020-08-31 10:40:41",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f4ca9796021180629384243",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الخبر ووجد أنه عارٍ عن الصحة فقد خرج نصر الله عشرات المرات على شاشات التلفزة منذ عام 2006، كذلك بث له خطاب عقب انفجار مرفأ بيروت بتاريخ &nbsp;السابع من أغسطس/آب الجاري، يتحدث فيه عن الانفجار، ولم تورد أنباء إطلاقاً عن محاولات جديدة لاغتياله.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/TJWLfPE0sgc\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول حسابات على وسائل التواصل الاجتماعي بين فترة وأخرى أخبار عن اغتيال زعيم حزب الله في لبنان حسن نصرالله، وكان آخرها قبل ساعات قليلة على موقع عرب تايمز، والذي قال أن حسن نصر الله مختفي منذ عام 2006، وجاء العنوان بارزاً &quot;اغتيال الأمين العام لحزب الله..&quot;، دون توضيح ملابسات هذا الاغتيال.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_d3o0txpe0.jpg\" style=\"height:347px; width:477px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_pqeo0km6s.jpg\" style=\"height:370px; width:605px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_rm7n3su4y.jpg\" style=\"height:85px; width:605px\" />&nbsp;<img src=\"https://images-prod.misbar.com/articlebody/origin_mk1p5nt9m.jpg\" style=\"height:335px; width:605px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 324,
+        "left": 3.666748046875,
+        "path": "articles/1598859640GettyImages-468745490.jpg",
+        "top": 21.8359375,
+        "totalHeight": 423,
+        "totalWidth": 583,
+        "watermark_path": "articles/watermark-1598859640GettyImages-468745490.jpg",
+        "width": 575
+    },
+    "post_date": "2020-08-31T09:11:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/aljazeeratoday/status/1085237516926623746",
+            "name": "aljazeeratoday",
+            "path": "published/0_1598859640_الحزيرة اليوم.jpg"
+        },
+        {
+            "link": "http://www.arabstime.net/2020/08/blog-post_29.html?fbclid=IwAR16I7LR1i5V34aB-Z3yCGW4LIo7NwfosokNw0FjPqe5pX1l2NNMKGNRB-A",
+            "name": "arabstime",
+            "path": "published/1_1598859640_ييثثثص.JPG"
+        },
+        {
+            "link": "https://twitter.com/arabstime1/status/1300140717034147846",
+            "name": "arabstime",
+            "path": "published/2_1598859640_daCgR9u8_400x400.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/nederlandseallochtonen/posts/3206461949461534",
+            "name": "Nederlandse Allochtonen أجانب هولندا",
+            "path": "published/3_1598859640_يييي777.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=TJWLfPE0sgc",
+            "name": "euronews ",
+            "path": "sources/0_1598859640_اورو.jpg"
+        },
+        {
+            "link": "https://www.france24.com/ar/20200807-%D8%AD%D8%B3%D9%86-%D9%86%D8%B5%D8%B1-%D8%A7%D9%84%D9%84%D9%87-%D9%8A%D9%86%D9%81%D9%8A-%D9%82%D8%B7%D8%B9%D9%8A%D8%A7-%D9%88%D8%AC%D9%88%D8%AF-%D8%A3%D9%8A%D8%A9-%D8%A3%D8%B3%D9%84%D8%AD%D8%A9-%D9%84%D8%AD%D8%B2%D8%A8-%D8%A7%D9%84%D9%84%D9%87-%D9%85%D8%AE%D8%B2%D9%86%D8%A9-%D9%81%D9%8A-%D9%85%D8%B1%D9%81%D8%A3-%D8%A8%D9%8A%D8%B1%D9%88%D8%AA",
+            "name": "france24",
+            "path": "sources/1_1598859640_ثثقققففف.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "حسن نصرالله على قيد الحياة، ولم يُغتل",
+    "updated_at": "2020-09-25 11:23:56",
+    "url_path": "/factcheck/2020/08/31/حسن-نصرالله-على-قيد-الحياة-ولم-يغتال"
+}

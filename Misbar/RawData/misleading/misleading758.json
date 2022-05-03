@@ -1,0 +1,119 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 366,
+    "author": {
+        "fullname": "محمد الخالدي",
+        "id": "5ef9dcff163be306aa5d2826",
+        "photo": {
+            "name": "1593433343_48252779_2179011148784786_3755534693705973760_o.jpg",
+            "path": "authors/1593433343_48252779_2179011148784786_3755534693705973760_o.jpg"
+        }
+    },
+    "caption": "رقاقة تعمل للكشف عن هوية المنتج التجاري أو مكان الحيوان في حال فقدانه (amad)",
+    "category": "Technology",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">ضبط أطباق &quot;ميلامين&quot; في غزة بها قطعة يشتبه بأنّها أداة تجسس، فهي إما جهاز للتنصت أو لتحديد المكان.<br />\r\n&nbsp;</p>\r\n",
+    "country": "PS",
+    "created_at": "2020-08-17 12:52:57",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f3a53791dd585259b469dd9",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الخبر، ليجد أن المعلومة المتداولة مضللة، إذ تبين من الصور المرفقة للخبر <span style=\"background-color:white\"><span style=\"color:#222222\">أنّ ا</span></span><span style=\"text-align:justify\">لقطعة المذكورة في تلك الأطباق تنتمي إلى&nbsp;تكنولوجيا الرقاقات اللاسلكية&nbsp;<span dir=\"LTR\">RFID</span>&nbsp;إذ تقوم&nbsp;بتعريف هوية المنتج عبر موجات الراديو، ولا تحوي خصائص التنصت، وتُستخدم في المحلات التجارية للتعريف بالمنتجات وكمياتها، بالإضافة إلى كونها تُستخدم في&nbsp;حال سرقة المنتج الذي وضُعت بداخله.</span></p>\r\n\r\n<p dir=\"RTL\"><span style=\"text-align:justify\">وفي الأساس هي عبارة عن رقاقة صغيرة يتم وضعها في المنتجات أو الحيوانات خوفاً من ضياعها، ومصنوعة من السيليكون.&nbsp;</span></p>\r\n\r\n<p dir=\"RTL\"><span style=\"text-align:justify\">ولقراءة معلومات الرقاقة؛ فهي بحاجة إلى جهاز قارئ، وفي الغالب لا يوجد بهذا النوع الذي كان داخل طبق الطعام أي المنتجات الجامدة الصغيرة بطارية بل تعمل بواسطة طاقة الموجات الكهرومغناطيسية، ولا تتجاوز مسافة فاعليتها الخمسة أمتار.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_mayrk5p4u.jpg\" style=\"height:313px; width:602px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تداولت حسابات على موقعيّ فيسبوك وتويتر، إضافة إلى موقع أمد الإخباري، بتاريخ 8 أغسطس/آب الجاري، خبراً، مفاده أنه تم ضبط 17 من أطباق الطعام من نوع &quot;ميلامين&quot; يقدمها أحد مطاعم قطاع غزة، داخلها جهاز صغير يبدو كجهاز تنصت أو تحديد مكان.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_4bnwk10w0.jpg\" style=\"height:545px; width:401px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_05nqe00ce.jpg\" style=\"height:533px; width:407px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_tgki85cfl.jpg\" style=\"height:533px; width:407px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_erkdcl93t.jpg\" style=\"height:547px; width:407px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_dzcxjn45j.jpg\" style=\"height:403px; width:602px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 358,
+        "left": 3.5,
+        "path": "articles/15976579771596877780-9279-9.jpg",
+        "top": 16.8359375,
+        "totalHeight": 423,
+        "totalWidth": 761,
+        "watermark_path": "articles/watermark-15976579771596877780-9279-9.jpg",
+        "width": 636
+    },
+    "post_date": "2020-08-17T10:47:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/groups/mostamron/permalink/2783578711967402/",
+            "name": "هيثم السيد ",
+            "path": "published/0_1597657976_0_1596888660_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/musab.abdalkarim.58/posts/164239498513203",
+            "name": "MusabAbdalkarim",
+            "path": "published/1_1597657976_0_1596888660_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/ayman11dalloul/posts/146907687049913",
+            "name": "AymanDalloul",
+            "path": "published/2_1597657976_0_1596888660_facebook.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/ShadiPal/permalink/1977249955744686/",
+            "name": "Rami Abu Jayyab",
+            "path": "published/3_1597657976_0_1596888660_facebook.jpg"
+        },
+        {
+            "link": "https://amadps.net/ar/post/362393",
+            "name": "موقع أمد الإخباري",
+            "path": "published/4_1597657976_امد.JPG"
+        },
+        {
+            "link": "https://twitter.com/Gazapres/status/1292012561026748416",
+            "name": "غزة برس",
+            "path": "published/5_1597657976_6_1596888660_twitter.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.alibaba.com/product-detail/Custom-cheper-price-125khz-rfid-TK4100cob_62102539923.html?spm=a2700.galleryofferlist.0.0.2cff7dfasZPGZr",
+            "name": "Ali baba",
+            "path": "sources/0_1597657976_DDD.JPG"
+        },
+        {
+            "link": "http://www.tragging.com/ar/about-rfid-2/",
+            "name": "Tragging Technology",
+            "path": "sources/1_1597657976_ثثث33.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=wEfMqz8jIqQ",
+            "name": "Tragging Technology",
+            "path": "sources/2_1597657976_ثثث33.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/channel/UCLuc_vrRDeewg2aKDloQp-g",
+            "name": "Tragging Technology",
+            "path": "sources/3_1597657976_ثثث33.jpg"
+        },
+        {
+            "link": "https://ar.wikipedia.org/wiki/%D8%AA%D8%AD%D8%AF%D9%8A%D8%AF_%D8%A7%D9%84%D9%87%D9%88%D9%8A%D8%A9_%D8%A8%D9%85%D9%88%D8%AC%D8%A7%D8%AA_%D8%A7%D9%84%D8%B1%D8%A7%D8%AF%D9%8A%D9%88",
+            "name": "ويكيبديا",
+            "path": "sources/4_1597657977_EEEEE.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لا توجد أجهزة تجسس في أطباق قدمها مطعم بمدينة غزة",
+    "updated_at": "2020-09-25 17:37:56",
+    "url_path": "/factcheck/2020/08/17/لا-توجد-أجهزة-تجسس-في-أطباق-قدمها-مطعم-بمدينة-غزة"
+}

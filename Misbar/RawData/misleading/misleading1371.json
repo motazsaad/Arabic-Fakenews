@@ -1,0 +1,85 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 870,
+    "author": {
+        "fullname": "حسام الهندي",
+        "id": "5e25c80bd4a229629038df03",
+        "photo": {
+            "path": "authors/1579542323_حسام الهندي.jpg"
+        }
+    },
+    "category": "News",
+    "claim": "<p style=\"text-align:justify\">الإعلامي أحمد موسى يزور مقر الحجر الصحي للعائدين من الصين، ويلتقي &quot;كومبارس&quot; ظهر سابقاً على أنه&nbsp;مريض&nbsp;في مستشفى سجن برج العرب.</p>\r\n",
+    "country": "EG",
+    "created_at": "2020-02-09 17:09:19",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e40128fd4a229425a598b54",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">في الصورة الأولى يظهر الإعلامي أحمد موسى وهو يُجري حواراً مع شخص يرتدي ملابس زرقاء في مستشفى، وفي الصورة الثانية كان هناك شخص يؤدي تماريناً رياضية وهو يرتدي ملابس زرقاء تشبه تلك التي يرتديها المساجين المحكوم عليهم في مصر.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img id=\"Picture_x0020_4\" src=\"https://images-prod.misbar.com/articlebody/investigation_nwb4b4enb.jpg\" style=\"height:284.25pt; width:450.75pt\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">والادعاء المنشور على الصورة مضلّل، فالصورة الأولى للإعلامي أحمد موسى كانت داخل وحدة الغسيل الكلوي في مستشفى سجن برج العرب، خلال لقاء جرى بين موسى ومسجون يتلقى العلاج داخل وحدة الغسيل الكلوي، يوم 20 نوفمبر/تشرين الثاني من العام الفائت.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img id=\"Picture_x0020_3\" src=\"https://images-prod.misbar.com/articlebody/investigation_9a4kdzzal.jpg\" style=\"height:298.5pt; width:450.75pt\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">أما الصورة الثانية فهي لشخص يؤدي تدريبات رياضية، وبالبحث عن أصل الصورة تبين أنها من مستشفى برج العرب، لسجين مصاب بمرض تضخم الفقرات، وفقاً للفيديو المنشور على موقع المصري اليوم يوم 20 نوفمبر/تشرين الثاني الفائت.</span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">تداول بعض مستخدمي موقع فيسبوك صورة للإعلامي المصري أحمد موسى، مقدم برنامج &quot;على مسئوليتي&quot; على قناة صدى البلد، وعلقوا عليها: &quot;المسجون اللي طلع مع موسى علشان يحكي عن البط في المعتقلات طلع تاني وهو راجع من الصين في الحجر الصحي&quot;.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img id=\"Picture_x0020_2\" src=\"https://images-prod.misbar.com/articlebody/origin_8n0z3iy10.jpg\" style=\"height:221.25pt; width:378.75pt\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"color:black\">&nbsp;كما نشر البعض الصورتين بادعاء أنهما من داخل الحجر الصحي للمصريين العائدين من الصين، وقالوا: &quot;أحمد موسى في لقاء مع المصريين في الحجر الصحي، بدون كمامة&quot;. </span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img id=\"Picture_x0020_1\" src=\"https://images-prod.misbar.com/articlebody/origin_p1ruehkab.jpg\" style=\"height:379.5pt; width:399pt\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/1581258658GettyImages-1198063139.jpg"
+    },
+    "post_date": "2020-02-09T20:44:00.000+03:00",
+    "published": [
+        {
+            "link": "https://web.facebook.com/permalink.php?story_fbid=2232624453698421&id=100008526640437",
+            "name": "Enas Mohammed",
+            "path": "published/0_1581257359_Enas Mohammed لوغو.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/Aboulamona/photos/a.511238545585665/2806082316101265/?type=3&theater",
+            "name": "أبو لمونة",
+            "path": "published/1_1581257651_ابو لمونة لوغو.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/amrabdelhadypolitician/photos/a.344896678858117/3313780805303008/?type=3&theater",
+            "name": "عمرو عبد الهادي",
+            "path": "published/2_1581257651_عمرو-عبد-الهادي.jpg"
+        },
+        {
+            "link": "https://web.facebook.com/akhoziem/posts/3234707019879095",
+            "name": "أحمد خزيم",
+            "path": "published/3_1581257651_احمد خزيم.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=eSSjylVD4So",
+            "name": "صدى البلد",
+            "path": "sources/0_1581257359_صدى البلد- لوغو.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=3RodaVbtUG0",
+            "name": "المصري اليوم",
+            "path": "sources/1_1581257359_AlMasry AlYoum tv لوغو.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "حقيقة زيارة الإعلامي المصري أحمد موسى للحجر الصحي",
+    "updated_at": "2020-09-23 12:38:46",
+    "url_path": "/factcheck/2020/02/09/حقيقة-زيارة-الإعلامي-المصري-أحمد-موسى-للحجر-الصحي"
+}

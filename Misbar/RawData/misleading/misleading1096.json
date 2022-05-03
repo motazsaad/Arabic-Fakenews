@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2759,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "الصورة لضباط من الجيش التركي قتلوا في سورية (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تركيا تنشر صور 34 ضابط وجندي </span><span dir=\"RTL\" lang=\"AR-EG\">أ</span><span dir=\"RTL\" lang=\"AR-SA\">تراك قتلوا في ليبيا.</span></p>\r\n",
+    "country": "",
+    "created_at": "2020-05-28 16:27:48",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ecfbc54db2916534e094ef5",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الخبر ووجد أن الادعاء مضلل، وبالفعل الصورة تعود لـ34 ضابطاً وجندياً من الجيش التركي لكن قُتلوا في محافظة إدلب السورية وليس في ليبيا.&nbsp;ونُشرت <a href=\"https://www.youtube.com/watch?v=ZjjWuCqov78\">صورهم</a> في وسائل إعلام محلية تركية في شهر فبراير/شباط الفائت.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"618\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fusakgundemcom%2Fposts%2F1600567326733569&amp;width=500\" style=\"border:none;overflow:hidden\" width=\"500\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"587\" src=\"https://www.youtube.com/embed/ZjjWuCqov78\" width=\"1044\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تداولت حسابات على مواقع التواصل الاجتماعي خلال شهر مايو/أيار الجاري، صورة تُظهر أشخاصاً يرتدون زيًّا عسكريًّا، وادعّت أنها لـ34 ضابطاً وجندياً من الجيش التركي قُتلوا في ليبيا، نشرت صورهم الدولة التركية.</span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ze9ngam8o.jpg\" style=\"height:681px; width:473px\" /></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_jwusuzi3v.jpg\" style=\"height:676px; width:459px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "path": "articles/159067279120.jpg",
+        "watermark_path": "articles/watermark-159067279120.jpg"
+    },
+    "post_date": "2020-05-28T16:21:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/Ahmedawy1/status/1260976653955710984",
+            "name": "Ahmed Ibrahim",
+            "path": "published/0_1590672467_Ahmed Ibrahim.jpg"
+        },
+        {
+            "link": "https://twitter.com/AbuNayf2ss/status/1260808806398930946",
+            "name": "Abu Nayef",
+            "path": "published/1_1590672790_Abu Nayef.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=130404165289834&set=a.123088692688048&type=3",
+            "name": "Ahmed Ibrahim Elsisi",
+            "path": "published/2_1590672790_Ahmed Ibrahim Elsisi.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/mohamedalbrage/posts/1369815113210741",
+            "name": "محمد البراج ابوتامر",
+            "path": "published/3_1590672790_محمد البراج ابوتامر.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2651945578426509&id=100008332780463",
+            "name": "الحمدلله الحمدلله",
+            "path": "published/4_1590672791_الحمدلله الحمدلله.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.facebook.com/usakgundemcom/photos/a.311773315612983/1600566970066938/?type=3&theater",
+            "name": "Uşak Gündem",
+            "path": "sources/0_1590672467_Uşak Gündem.jpg"
+        },
+        {
+            "link": "https://www.youtube.com/watch?v=ZjjWuCqov78",
+            "name": "CNN TÜRK ",
+            "path": "sources/1_1590672791_CNN TÜRK.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "تركيا تنشر صور 34 ضابط قتلوا في ليبيا.. حقيقة الصورة",
+    "updated_at": "2020-09-25 13:18:33",
+    "url_path": "/factcheck/2020/05/28/تركيا-تنشر-صور-34-ضابط-قتلوا-في-ليبيا-حقيقة-الصورة"
+}

@@ -1,0 +1,104 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 4922,
+    "author": {
+        "fullname": "إسلام عزيز",
+        "id": "5e29b1ead4a2296c311737d4",
+        "photo": {
+            "name": "1579790826_IMG_8037.jpg",
+            "path": "authors/1579790826_IMG_8037.jpg"
+        }
+    },
+    "caption": "نفى الحلفاوي علاقته بالفيديو (تويتر)",
+    "category": "Arts & Culture",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">فيديو نبيل الحلفاوى وهو يذبح &quot;عجل&quot;.</span></p>\r\n",
+    "country": "EG",
+    "created_at": "2020-07-29 19:14:29",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f21a065163be307b264794b",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\">تحقق &quot;مسبار&quot; من المقطع المتداول وتبين أن الادعاء زائف، وليس للفنان نبيل الحلفاوي. إذ نفى الحلفاوي علاقته بالفيديو، اليوم 29 يوليو/تموز، عبر حسابه الشخصي على موقع تويتر. الجدير بالذكر أن نفس المقطع انتشر العام الفائت، تزامناً مع عيد الأضحى المبارك، بنفس الادعاء، ونفى الحلفاوي الأمر حينها أيضاً، وأعاد رواد مواقع التواصل تداول المقطع هذه الأيام.</span></p>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"rtl\">يا جماعة ده كلام فارغ.. ده فيديو قديم ووضحت وقتها إني ماليش علاقة بيه. وواضح من التزلك اللي لابسه إنه جزار.<br />\r\nهوه أنا اتجننت عشان اعمل كده؟!!! <a href=\"https://t.co/qoKdGuFRL0\">https://t.co/qoKdGuFRL0</a></p>\r\n&mdash; نبيل الحلفاوي (@nabilelhalfawy) <a href=\"https://twitter.com/nabilelhalfawy/status/1288396829718130689?ref_src=twsrc%5Etfw\">July 29, 2020</a></blockquote>\r\n\r\n<blockquote class=\"twitter-tweet\">\r\n<p dir=\"rtl\">غالبا الفيديو حقيقي.. بس ما ليش علاقة بيه. <a href=\"https://t.co/z0whkyblek\">https://t.co/z0whkyblek</a></p>\r\n&mdash; نبيل الحلفاوي (@nabilelhalfawy) <a href=\"https://twitter.com/nabilelhalfawy/status/1179002056931266560?ref_src=twsrc%5Etfw\">October 1, 2019</a></blockquote>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">تتداول حسابات على مواقع التواصل الاجتماعي، حديثاً، مقطع فيديو يُظهر شخصاً شبيهاً&nbsp;للفنان&nbsp;المصري نبيل الحلفاوي، وهو يصارع ثوراً حاول مقاومته أثناء &rlm;ذبحه. وادّعت الحسابات أن المقطع يعود للحلفاوي. </span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fahmed.r.toukhy%2Fvideos%2F10158925207160715%2F&amp;show_text=0&amp;width=261\" style=\"border:none;overflow:hidden\" width=\"261\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_1r1knejk4.jpg\" style=\"height:561px; width:526px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 421,
+        "left": 1.77777099609375,
+        "path": "articles/15960392688787.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 752,
+        "watermark_path": "articles/watermark-15960392688787.jpg",
+        "width": 748
+    },
+    "post_date": "2020-07-29T19:11:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/ahmed.r.toukhy/videos/10158925207160715/",
+            "name": "Ahmed R El Toukhy",
+            "path": "published/0_1596039268_Ahmed R El Toukhy.jpg"
+        },
+        {
+            "link": "https://twitter.com/elmazlooma/status/1288212015950049280",
+            "name": "مظلوم",
+            "path": "published/1_1596039457_مظلوم.jpg"
+        },
+        {
+            "link": "https://twitter.com/abuanas1900/status/1288416225626857473",
+            "name": "أبوأنس",
+            "path": "published/2_1596039457_أبوأنس.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/mohamed.elzoughby/videos/10220728879245223/",
+            "name": "Mohamed Ŕamy Êl-źoughby",
+            "path": "published/3_1596039457_Mohamed Ŕamy Êl-źoughby.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/noga.sool.12/posts/745904606187214",
+            "name": "Nagwa Sultan",
+            "path": "published/4_1596039457_Nagwa Sultan.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/kamel.kame.37/posts/3207670116021184",
+            "name": "Kamel Kamal",
+            "path": "published/5_1596039457_Kamel Kamal.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://twitter.com/nabilelhalfawy/status/1288396829718130689",
+            "name": "نبيل الحلفاوي",
+            "path": "sources/0_1596039268_الحلفاوي.jpg"
+        },
+        {
+            "link": "https://twitter.com/nabilelhalfawy/status/1179002056931266560",
+            "name": "نبيل الحلفاوي",
+            "path": "sources/1_1596039457_الحلفاوي.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "شخص يشبهه.. فيديو ذبح \"العجل الثائر\" ليس للفنان نبيل الحلفاوي",
+    "updated_at": "2020-09-25 15:49:14",
+    "url_path": "/factcheck/2020/07/29/شخص-يشبهه-فيديو-ذبح-العجل-الثائر-ليس-للفنان-نبيل-الحلفاوي"
+}

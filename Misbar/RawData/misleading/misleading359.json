@@ -1,0 +1,157 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 240,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "المقطع عبارة عن إعلان تجاري لمركز بصريات (يوتيوب)",
+    "category": "Sports",
+    "claim": "<p><span dir=\"RTL\" lang=\"AR-JO\">&quot;بنت تصور والدها يلعب بلياردو، فلمحت زين الدين زيدان، فذهب والدها ليدعوه للعب ضربة واحدة أمام ابنته&quot;.</span></p>\r\n",
+    "country": "ES",
+    "created_at": "2020-11-09 17:45:21",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 2,
+    "id": "5fa9560104b0b562413901ea",
+    "investigation": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-JO\">تحقّق &quot;مسبار&quot; من المقطع، ليجده مضللاً، فهو ليس حقيقياً بل جزء من سلسلة إعلانات تجارية عن مركز بصريات تم تصويرها عام 2009، في كل جزء منها يقوم طفل بتصوير زيدان كأنه رآه مصادفة، مرةً&nbsp;يعزف بيانو أو يلعب الورق أو البلياردو، وذلك بعد&nbsp;ارتدائه نظارات مختلفة،&nbsp;وتبدوفي&nbsp;الفيديو أدناه كواليس صناعة الإعلان المتداول على أنه قصة حقيقية.</span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/MKJSv7iyKo4\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-JO\">تتداول حسابات وصفحات على مواقع التواصل الاجتماعي مقطع فيديو، منذ عام 2013 وحتى العام الجاري، ويظهر فيه النجم الرياضي زين الدين زيدان، وتقول الحسابات &quot;بنت تصور والدها يلعب بلياردو، فلمحت زين الدين زيدان، فذهب والدها ليدعوه للعب ضربة واحدة أمام ابنته&quot;، وقد تفاعل الآلاف مع المقطع. </span></p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"310\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?height=310&amp;href=https%3A%2F%2Fwww.facebook.com%2FSporting.Club.Alexandria%2Fvideos%2F692206274136800%2F&amp;show_text=false&amp;width=560\" style=\"border:none;overflow:hidden\" width=\"560\"></iframe></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_cqimksy2n.jpg\" style=\"height:206px; width:602px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_r2bajgofd.jpg\" style=\"height:213px; width:602px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 412,
+        "left": 17.300018310546875,
+        "path": "articles/1604933121Screenshot 2020-11-09 154230.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 799,
+        "watermark_path": "articles/watermark-1604933121Screenshot 2020-11-09 154230.jpg",
+        "width": 732
+    },
+    "post_date": "2020-11-09T15:12:00.000+03:00",
+    "published": [
+        {
+            "id": "5fa95600f798a8607c5c8f33",
+            "link": "https://www.facebook.com/watch/?v=692206274136800",
+            "name": " Sporting Club",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5fa956009892d12f6c035f98",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=133605664787880&id=110821150399665",
+            "name": "Statu 2020",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5fa956003c85a4797a675ef1",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=112178473661896&id=101691854710558",
+            "name": "Real de Madrid fc",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5f9aa3c936fe58241b4e677f",
+            "link": "https://twitter.com/AdelAliBinAli/status/853484003114065921",
+            "name": "عادل علي بن علي",
+            "origin": "twitter",
+            "path": "sources/33d8cb9a9ffe70bd5277021f03c3a971b9635d1c.jpg"
+        },
+        {
+            "id": "5fa95600b99a5b4585081d0b",
+            "link": "https://twitter.com/FAWZIALAJI/status/394065095518470144",
+            "name": "فوزي العجي",
+            "origin": "twitter",
+            "path": "sources/15cf1ee8ea257f62e6a6a0f8aa9677fdf3bc668f.jpg"
+        },
+        {
+            "id": "5fa95600e1c43b770e44ed2b",
+            "link": "https://twitter.com/Amer_Abdulla/status/394545957146079232",
+            "name": "عامر عبدالله المري",
+            "origin": "twitter",
+            "path": "sources/2a87e2934b0846a17e6dec0ee641d7b806671c9d.jpg"
+        },
+        {
+            "id": "5fa956006a0b9c13dd341e3f",
+            "link": "https://twitter.com/Mashari_al3yada/status/852529887810383873",
+            "name": "المحامي / مشاري العيادة",
+            "origin": "twitter",
+            "path": "sources/fa199d788f2a2c4465613e3c7cea9348b9f3440e.jpg"
+        },
+        {
+            "id": "5fa95601e6488f7787157e7d",
+            "link": "https://twitter.com/1yl/status/852598323152343040",
+            "name": "🇸🇦 خبير تويتر 🇸🇦",
+            "origin": "twitter",
+            "path": "sources/e5cbca1fd74091fdbd17b673d9fd7900f0082179.jpg"
+        },
+        {
+            "id": "5fa956014852581a717a285d",
+            "link": "https://twitter.com/Theyab_CFC_itti/status/394686713643409408",
+            "name": "Theyab",
+            "origin": "twitter",
+            "path": "sources/c39f450bd201d36b71bb66659444b7141d7d49dd.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5f8eb18ba3818a4eb81ad3d2",
+            "link": "https://www.youtube.com/watch?v=Hs-VE8qargs",
+            "name": "قناة يوتيوب",
+            "origin": "",
+            "path": "published/7_1603128187_72cba5bc67b31d9d753cf43c35e93c59a1b0f98d.jpg"
+        },
+        {
+            "id": "5f8eb18ba3818a4eb81ad3d2",
+            "link": "https://www.youtube.com/watch?v=MKJSv7iyKo4&feature=youtu.be",
+            "name": "قناة يوتيوب",
+            "origin": "",
+            "path": "published/7_1603128187_72cba5bc67b31d9d753cf43c35e93c59a1b0f98d.jpg"
+        },
+        {
+            "id": "5f8eb18ba3818a4eb81ad3d2",
+            "link": "https://www.youtube.com/watch?v=xrz3A_oosc8",
+            "name": "قناة يوتيوب",
+            "origin": "",
+            "path": "published/7_1603128187_72cba5bc67b31d9d753cf43c35e93c59a1b0f98d.jpg"
+        },
+        {
+            "id": "5f8eb18ba3818a4eb81ad3d2",
+            "link": "https://www.youtube.com/watch?v=zcy8Zq5sAbc",
+            "name": "قناة يوتيوب",
+            "origin": "",
+            "path": "published/7_1603128187_72cba5bc67b31d9d753cf43c35e93c59a1b0f98d.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "فيديو زين الدين زيدان وهو يلعب بلياردو.. إعلان تجاري",
+    "updated_at": "2020-11-09 18:03:24",
+    "url_path": "/factcheck/2020/11/09/فيديو-زين-الدين-زيدان-وهو-يلعب-بلياردو-إعلان-تجاري",
+    "was_notification_pushed": true
+}

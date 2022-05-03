@@ -1,0 +1,103 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 8891,
+    "author": {
+        "fullname": "أنس ناصيف",
+        "id": "5e1afdf5d4a229044300c1f3",
+        "photo": {
+            "path": "authors/1579791091_anas.jpg"
+        }
+    },
+    "caption": "الصورة مأخوذة من فيديو منشور على يوتيوب بتاريخ يسبق حدوث الانفجار (يوتيوب)",
+    "category": "News",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">صورة مأخوذة من فيديو لطائرة مسيّرة ترمي قنبلة فوق مرفأ بيروت.</p>\r\n",
+    "country": "LB",
+    "created_at": "2020-08-06 13:24:41",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f2bda69602118160e698ed9",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة المأخوذة من الفيديو، وتأكّد أنّ الادعاء مضلّل، فالمقطع منشور على &quot;يوتيوب&quot; منذ 30 يوليو/تموز من العام الجاري، أي قبل انفجار مرفأ بيروت، مع تعليق يُفيد أنّه يُصوّر طائرة إسرائيلية مسيّرة (درون) ترمي زجاجة وكيساً صغيرة فوق منطقةٍ اشتعلت فيها النيران.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/uo8G6e8woEo\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">انتشرت على موقع التواصل الاجتماعي فيسبوك، صورة مأخوذة من فيديو لاقى أيضاً بعض الرواج، مع الادعاء أنهما لطائرة مسيّرة ترمي قنبلة فوق مرفأ بيروت الأمر الذي تسبّب بالانفجار الذي حدث في العاصمة اللبنانية.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"476\" scrolling=\"no\" src=\"https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fhussamkokash%2Fvideos%2F10158749578764581%2F&amp;show_text=0&amp;width=461\" style=\"border:none;overflow:hidden\" width=\"461\"></iframe></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_yvco91z3t.jpg\" style=\"height:688px; width:503px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_1czme99na.jpg\" style=\"height:705px; width:509px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 151,
+        "left": -1.65802001953125,
+        "path": "articles/1596709481Annotation 2020-08-06 124250.jpg",
+        "top": 88.5361328125,
+        "totalHeight": 423,
+        "totalWidth": 271,
+        "watermark_path": "articles/watermark-1596709481Annotation 2020-08-06 124250.jpg",
+        "width": 268
+    },
+    "post_date": "2020-08-06T13:07:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/hussamkokash/videos/10158749578764581/",
+            "name": "Hussam Kokash",
+            "path": "published/0_1596709480_Hussam Kokash.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/931654150301465/permalink/2071034889696713/?__tn__=H-R",
+            "name": "Khaled Eldabal Darwish",
+            "path": "published/1_1596709480_Khaled Eldabal Darwish.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/fromlatakia/photos/a.249078265665060/725203974719151/?type=3&theater",
+            "name": "صوت وصورة من اللاذقية",
+            "path": "published/2_1596709480_صوت وصورة من اللاذقية.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/photo.php?fbid=156798692686147&set=a.114804933552190&type=3&theater",
+            "name": "Nabel Abo Saleh",
+            "path": "published/3_1596709480_Nabel Abo Saleh.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/syrianow007/photos/a.466711970163303/1629263143908174/?type=3&theater",
+            "name": "سوريا الآن",
+            "path": "published/4_1596709481_سوريا الآن.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/nnnaaa12345/photos/a.107428410695507/309258503845829/?type=3&__tn__=H-R",
+            "name": "حكايات من ريف مصياف البديلة",
+            "path": "published/5_1596709481_حكايات من ريف مصياف البديلة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/110915810257653/photos/a.123293589019875/319993539349878/?type=3&theater",
+            "name": "مواطن في دمشق",
+            "path": "published/6_1596709481_مواطن في دمشق.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.youtube.com/watch?v=uo8G6e8woEo",
+            "name": "المقطع الأصلي",
+            "path": "sources/0_1596709481_YouTube-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الطائرة المسيّرة لم ترمِ قنبلة فوق مرفأ بيروت",
+    "updated_at": "2020-09-25 16:40:20",
+    "url_path": "/factcheck/2020/08/06/هذه-الطائرة-المسيرة-لم-ترم-قنبلة-فوق-مرفأ-بيروت"
+}

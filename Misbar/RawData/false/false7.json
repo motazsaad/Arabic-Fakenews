@@ -1,0 +1,107 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 61,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "caption": "تم نشرها من الحاسوب وليس من هاتف نقَّال (Getty)",
+    "category": "Technology",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">سامسونغ أميركا تغرد من آيفون.</p>\r\n",
+    "country": "US",
+    "created_at": "2021-01-14 16:07:01",
+    "created_by": "5f39b1ee1dd5850789476b61",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 1,
+    "feedback_pos": 3,
+    "id": "600041f5b853824b3079cd94",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقق &quot;<a href=\"https://misbar.com/\" target=\"_blank\">مسبار</a>&quot; من الادعاء المتداول، ووجد أنه زائف والصورة مفبركة. إذ قام بمراجعة حساب سامسونغ الولايات المتحدة الموثق على &quot;تويتر&quot; ليجد أنَّ التغريدة الأصلية منشورة في 11 يناير<span dir=\"LTR\">/</span>كانون الثاني الجاري، وتم نشرها من الحاسوب وليس من هاتف نقَّال، وعمد مفبرك التغريدة إلى تغيير التاريخ من 11 إلى 13 يناير، وتغيير مصدر نشر التغريدة إلى آيفون.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_h0mj4trxl.jpg\" style=\"height:476px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">وكانت سامسونغ في هذه التغريدة تجري استطلاعًا&nbsp;لرأي جمهورها، عن الميزة التي يودّون تطويرها في إصدارات الشركة المقبلة.</p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "سامسونغ",
+        "سامسونج",
+        "ابل",
+        "ايفون",
+        "هاتف"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [
+        "شركة سامسونغ"
+    ],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">تتداول بعض الحسابات على موقع تويتر، صورة ادعت أنها لحساب شركة سامسونغ الرسمي في الولايات المتحدة يقوم باستطلاع للرأي، ويظهر في التغريدة المتداولة أنه تم نشرها من جهاز آيفون.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_uw301zn99.jpg\" style=\"height:494px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_683x4rwt2.jpg\" style=\"height:683px; width:624px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 328,
+        "left": 4.6315460205078125,
+        "path": "articles/1610629620GettyImages-453245634.jpg",
+        "top": 56.534423828125,
+        "totalHeight": 423,
+        "totalWidth": 595,
+        "watermark_path": "articles/watermark-1610629620GettyImages-453245634.jpg",
+        "width": 583
+    },
+    "post_date": "2021-01-14T15:58:00.000+03:00",
+    "published": [
+        {
+            "id": "600041f4dbc7df605b36472d",
+            "link": "https://twitter.com/9_rafeq/status/1349498856384434189",
+            "name": "عبدالله الشاعر",
+            "origin": "twitter",
+            "path": "sources/ddcba552d2e99194610fd9dd9b2b7c9b4c51d9ff.jpg"
+        },
+        {
+            "id": "5fe62fb07bc03e561a238a6b",
+            "link": "https://twitter.com/mattnavarra/status/1349685461137108992?s=21",
+            "name": "Matt Navarra",
+            "origin": "twitter",
+            "path": "sources/a60bfaf3c5d9a201c8e01e92e1ebbec82b967f1d.jpg"
+        },
+        {
+            "id": "600041f47695fa5ad6605269",
+            "link": "https://twitter.com/victorkagarama/status/1349634875050102784?s=21",
+            "name": "Victor Kagarama",
+            "origin": "twitter",
+            "path": "sources/6ac380dd60a0df2305f22aa1ee69112e58595310.jpg"
+        },
+        {
+            "id": "600041f4c6a09f5f4413db55",
+            "link": "https://twitter.com/ay2021ay/status/1349508425777098752?s=21",
+            "name": "مزاجي نوعا ما",
+            "origin": "twitter",
+            "path": "sources/4e3fdd0ea5c6e5bca15af4a4c7abd4b72d4613aa.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "600041f4a199191d69605336",
+            "link": "https://twitter.com/SamsungMobile/status/1348615662810275843",
+            "name": "Samsung Mobile",
+            "origin": "twitter",
+            "path": "sources/3dbd91cd7d0be0dc2a44c69b91b1d1d92ed2ca97.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لم يغرد حساب سامسونغ على تويتر من جهاز آيفون",
+    "updated_at": "2021-01-14 16:17:47",
+    "url_path": "/factcheck/2021/01/14/لم-يغرد-حساب-سامسونغ-على-تويتر-من-جهاز-آيفون",
+    "was_notification_pushed": true
+}

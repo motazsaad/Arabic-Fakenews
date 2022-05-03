@@ -1,0 +1,133 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 10670,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "caption": "الشركة لم تنشر شيئاً متعلقاً بالموضوع سواء على موقعها الرسمي أو على مواقع التواصل (Getty)",
+    "category": "Technology",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\"><span style=\"color:#14171a\">كانت سيارة هونـدا أكورد الجيل ٨ على بعد ٥٠٠ م من موقع انفجـار بيروت ، ورغم شدة الانفجار فقد صمدت أبوابها الجانبية وفتحت كل أكياسها الهوائية، الأمر الذي ساهم في حماية من كانوا بداخلها هوندا استغلت هذا الحدث للافتخار بصناعتها و تعزيز سمعة سيارتها كواحدة من أكثر السيارات أمانا</span></span>.</p>\r\n",
+    "country": "LB",
+    "created_at": "2020-08-20 13:56:04",
+    "created_by": "5f39b1ee1dd5850789476b61",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 1,
+    "id": "5f3e56c460211806363a630a",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من صحة المعلومات الواردة في التغريدة، ووجد أنها زائفة ولا تستند إلى أيّ مصادر. فبالبحث عن ما إذا كانت شركة هوندا استخدمت هذه الصورة للإعلان عن منتجاتها أم لا، تبين أنَّ الشركة لم تنشر شيئاً متعلقاً بالموضوع سواء على موقعها الرسمي أو على مواقع التواصل الاجتماعي. كما أنَّه وبالتدقيق في الصورة التي تبين لـ&nbsp;&quot;مسبار&quot; أنها من تصوير عصام عبد الله لصالح وكالة رويترز، نجد أنَّ سيارات أخرى ظهرت في الصورة وكانت بنفس درجة الضرر الذي لحق بالسيارة التي يُدّعى صمودها.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وعلاوة على ذلك، ليس هناك أيُّ دليل ما إذا كان هناك ركاب في السيارة لحظة الانفجار أم لا.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_4dviw8l0b.jpg\" style=\"height:525px; width:695px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت بعض الحسابات على موقع تويتر، صورة لسيارة قالت إنها من نوع هوندا أكورد الجيل الثامن. وأنَّ هذه السيارة كانت على بعد 500 متر من موقع انفجار مرفأ بيروت، ومع ذلك صمدت السيارة وساهمت قوة مصنعيتها في حماية من كانوا بداخلها. وأنَّ شركة هوندا استخدمت هذا الحدث لتعزيز سمعة سياراتها.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_gbmx0ggig.jpg\" style=\"height:715px; width:477px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 360,
+        "left": 3.9042205810546875,
+        "path": "articles/1597920964GettyImages-491534532.jpg",
+        "top": 11.376708984375,
+        "totalHeight": 423,
+        "totalWidth": 648,
+        "watermark_path": "articles/watermark-1597920964GettyImages-491534532.jpg",
+        "width": 639
+    },
+    "post_date": "2020-08-20T13:38:00.000+03:00",
+    "published": [
+        {
+            "link": "https://twitter.com/AdelAliBinAli/status/1296092052569174018",
+            "name": "عادل علي بن علي",
+            "path": "published/0_1597923265_Twitter-logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/ahmdalaaedin/status/1296298648507240454",
+            "name": "Ahmed Alaaeldin",
+            "path": "published/1_1597923265_Twitter-logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/alamoudia555/status/1296180511480647680",
+            "name": "hadool alamoudia",
+            "path": "published/2_1597923265_Twitter-logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/yonisabello/status/1295729391885070337",
+            "name": "Yonis Aballo",
+            "path": "published/3_1597923265_Twitter-logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/ladyfafa18/status/1296022607452610560",
+            "name": "فاطمة الزهراء",
+            "path": "published/4_1597923265_Twitter-logo.jpg"
+        },
+        {
+            "link": "http://فاطمة الزهراء",
+            "name": "Sami المشاء",
+            "path": "published/5_1597923265_Twitter-logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/aljareemanews/status/1296370887281840128",
+            "name": "الجريمة نيوز ",
+            "path": "published/6_1597923266_Twitter-logo.jpg"
+        },
+        {
+            "link": "https://twitter.com/hunny_2020/status/1296053961527525379",
+            "name": "شهد",
+            "path": "published/7_1597923266_Twitter-logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/zead.hammad/posts/10222558030357898",
+            "name": "Zead Hammad",
+            "path": "published/8_1597923266_Facebook_logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/126738202058193/photos/a.131085334956813/358852548846756/?type=3&theater",
+            "name": "أسواق سورية الحرة Free Syrians markets",
+            "path": "published/9_1597923266_Facebook_logo.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/designstudio2010/posts/3474611189297688",
+            "name": "Design Studio",
+            "path": "published/10_1597923266_Facebook_logo.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.reuters.com/search/pictures?blob=Issam+Abdallah&sortBy=&dateRange=",
+            "name": "Reuters",
+            "path": "sources/0_1597920964_رويترز.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Honda/",
+            "name": "Honda",
+            "path": "sources/1_1597920964_Honda.jpg"
+        },
+        {
+            "link": "https://global.honda/products/automobiles.html",
+            "name": "Honda Global",
+            "path": "sources/2_1597920964_honda-global.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هوندا لم تفتخر بصمود سياراتها في انفجار بيروت",
+    "updated_at": "2020-09-25 20:14:28",
+    "url_path": "/factcheck/2020/08/20/هوندا-لم-تفتخر-بصمود-سياراتها-في-انفجار-بيروت"
+}

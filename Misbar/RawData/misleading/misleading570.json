@@ -1,0 +1,131 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 201,
+    "author": {
+        "fullname": "محمود غزيل",
+        "id": "5ea83263db291659bf4bf4c4",
+        "photo": {
+            "name": "1588081251_IMG-20180505-WA0040.jpg",
+            "path": "authors/1588081251_IMG-20180505-WA0040.jpg"
+        }
+    },
+    "caption": "لا علاقة لوزير الخارجية الإيراني بالحادثة (Getty)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">العراقيون يستقبلون وزير الخارجية الإيراني محمد جواد ظريف بالحجارة والشتائم.</p>\r\n",
+    "country": "IQ",
+    "created_at": "2020-09-29 16:12:58",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 12,
+    "feedback_pos": 30,
+    "id": "5f7332daa523132a7424a92d",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot;&nbsp; من المقطع المتداول وتبين أنه مضلل، إذ لا علاقة لوزير الخارجية الإيراني بالحادثة، كما أنّ هذا المقطع قديم، انتشر في يوليو/تموز 2016.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وكانت وسائل الإعلام العراقية والعربية تداولت يومها خبر تعرض <a href=\"https://www.youtube.com/watch?v=ADv8ZPPCt4E\" style=\"color:#0563c1; text-decoration:underline\" target=\"_blank\">موكب رئيس الوزراء</a> العراقي، آنذاك، حيدر العبادي، لحركة اعتراضية من قبل سكان حي الكرادة، أحد أحياء العاصمة العراقية بغداد.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وكان العبادي يجري آنذاك جولة في المكان بعد <a href=\"https://arabic.rt.com/news/830585-%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D9%88%D9%86-%D8%BA%D8%A7%D8%B6%D8%A8%D9%88%D9%86-%D9%8A%D8%B1%D8%B4%D9%82%D9%88%D9%86-%D9%85%D9%88%D9%83%D8%A8-%D8%A7%D9%84%D8%B9%D8%A8%D8%A7%D8%AF%D9%8A-%D8%AD%D9%8A-%D8%A7%D9%84%D9%83%D8%B1%D8%A7%D8%AF%D8%A9/\" style=\"color:#0563c1; text-decoration:underline\" target=\"_blank\">عملية إرهابية</a> انتحارية تبناها تنظيم داعش وأودت بحياة 80 شخصاً وخلفت أكثر من 200 جريح،&nbsp; الأمر الذي بدا احتجاجاً على هذا الوضع الأمني.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_kqhgyor6m.jpg\" style=\"height:390px; width:560px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">اقرأ/ي أكثر:</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/09/28/%D9%84%D9%85-%D8%AA%D9%82%D8%B1%D8%B1-%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%A3%D9%85%D9%8A%D8%B1%D9%83%D9%8A%D8%A9-%D8%A5%D8%BA%D9%84%D8%A7%D9%82-%D8%B3%D9%81%D8%A7%D8%B1%D8%AA%D9%87%D8%A7-%D9%81%D9%8A-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-%D8%A5%D9%86%D9%85%D8%A7-%D9%87%D8%AF%D8%AF%D8%AA-%D8%A8%D8%B0%D9%84%D9%83\" target=\"_blank\">لم تقرر الإدارة الأميركية إلاق سفارتها في بغداد، إنما هددت بذلك</a></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><a href=\"https://misbar.com/factcheck/2020/09/09/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85%D8%A9-%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%D9%8A%D8%A9-%D9%87%D8%AF%D9%89-%D8%B9%D9%85%D8%A7%D8%B4-%D9%85%D8%A7-%D8%AA%D8%B2%D8%A7%D9%84-%D8%B9%D9%84%D9%89-%D9%82%D9%8A%D8%AF-%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9\" target=\"_blank\">العالمة العراقية هدى عماش ما تزال على قيد الحياة</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "العراق",
+        "محمد جواد ظريف",
+        "إيران",
+        "مظاهرات العراق",
+        "حيدر العبادي"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتناقل حسابات وصفحات على مواقع التواصل الاجتماعي، حديثاً، مقطع فيديو ادعى ناشروه أنه لاستقبال الجماهير في العراق لوزير الخارجية الإيراني، محمد جواد ظريف، وتظهر فيه الناس وهي تشتم وترمي الحجارة على الموكب الأمني المرافق للوزير.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><img src=\"https://images-prod.misbar.com/articlebody/origin_uzwijqgsi.jpg\" style=\"height:427px; width:542px\" /></strong></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><strong><img src=\"https://images-prod.misbar.com/articlebody/origin_vvhlkv6ny.jpg\" style=\"height:352px; width:546px\" /></strong></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 352,
+        "left": -0.5,
+        "path": "articles/1601385178GettyImages-801882706.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 625,
+        "watermark_path": "articles/watermark-1601385178GettyImages-801882706.jpg",
+        "width": 626
+    },
+    "post_date": "2020-09-29T16:08:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/dbelhoul/status/1309495040553758725",
+            "name": "ضرار بالهول الفلاسي ",
+            "path": "published/0_1601385409_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/samialothman_/status/1309825985278357504",
+            "name": "سامي العثمان  ",
+            "path": "published/1_1601385409_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/Sk_AZZI/status/1309947189649707008",
+            "name": "samara ",
+            "path": "published/2_1601385409_twitter.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/daoudm.bob.5/videos/199120251570614/",
+            "name": "Daoud M Bob ",
+            "path": "published/3_1601385494_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/sami.elmais.39/videos/2722518081336351/",
+            "name": "Sami Elmais  ",
+            "path": "published/4_1601385494_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/watch/?v=318820726088220&extid=XfCYHaF0TGWJbPCT",
+            "name": "Zankoura Al Hadath  ",
+            "path": "published/5_1601385494_facebook.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": " https://www.facebook.com/watch/?v=346197486823571&extid=HHNKHhGvKkWaAPF6",
+            "name": "ثورة لبنان الشريفة   ",
+            "path": "published/6_1601385494_facebook.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.youtube.com/watch?v=ADv8ZPPCt4E",
+            "name": "العربية - الحدث",
+            "path": "sources/0_1601385177_unnamed.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://ar.rt.com/hsvt",
+            "name": "RT Arabic",
+            "path": "sources/1_1601385177_f382082861b4ef800a001a0cd14c50d5be846f70.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.aljazeera.net/news/trends/2016/7/3/%D8%A3%D9%87%D8%A7%D9%84%D9%8A-%D8%A7%D9%84%D9%83%D8%B1%D8%A7%D8%AF%D8%A9-%D9%8A%D8%B3%D8%AA%D9%82%D8%A8%D9%84%D9%88%D9%86-%D8%A7%D9%84%D8%B9%D8%A8%D8%A7%D8%AF%D9%8A ",
+            "name": "Aljazeera",
+            "path": "sources/2_1601385177_982ecfed5b68ca5e4c2c93a17f954dc74dd41616.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "لا علاقة لوزير الخارجية الإيراني بالحادثة، كما أنّ هذا المقطع قديم.",
+    "title": "لم يستقبل عراقيون وزير الخارجية الإيراني بالحجارة",
+    "updated_at": "2020-09-29 16:18:14",
+    "url_path": "/factcheck/2020/09/29/لم-يستقبل-عراقيون-وزير-الخارجية-الإيراني-بالحجارة",
+    "was_notification_pushed": "true"
+}

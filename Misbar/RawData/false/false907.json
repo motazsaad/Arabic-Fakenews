@@ -1,0 +1,107 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 9259,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "لم يُعلن عن أي وفاة في العراق بسبب كورونا حتى اليوم (Getty)",
+    "category": "Health",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">فيديو لدفن إيرانيين أصيبوا بفايروس كورونا في مقابر الأحواز، ونُشر الفيديو نفسه أيضاً على أنّه مسربٌ من مقبرة النجف لدفن أحد الأشخاص كان توفي إثر إصابته بفايروس كورونا.</p>\r\n",
+    "country": "IQ",
+    "created_at": "2020-02-27 13:35:55",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5e579b8bd4a2292e5e39a943",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تبين لـ &quot;مسبار&quot; بعد البحث عن الفيديو الذي نشرته قناة العربية الحدث، ونسبته لدفن إيرانيين أصيبوا بـ كورونا في الأحواز، أنّ&nbsp;صفحات فيسبوك عراقية تداولته على أنه لأول حالة وفاة في العراق بالفايروس، أي أنه استُخدم لادعائين مختلفين. الادعاءان زائفان، إذ تأكّد &quot;مسبار&quot; أنّ الفيديو قديم من عام <span dir=\"LTR\">2019</span>، وهو لدفن شخص يدعى محمد نصري توفي بسبب إصابته بحُمى القرم-الكونغو النزفية <span dir=\"LTR\">CCHF</span> في الأحواز عام 2019.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وتجدر الإشارة إلى أنه لم يتم الإعلان عن أي&nbsp;حالة وفاة في العراق بسبب فايروس كورونا، حتى اليوم.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_7dk0s5ijj.jpg\" style=\"height:702px; width:386px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_hgvw4yh59.jpg\" style=\"height:795px; width:444px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">نشرت قناة العربية الحدث بتاريخ 26 شباط/فبراير 2020 فيديو على أنه في إيران، لدفن بعض ضحايا فايروس كورونا في مقابر بالأحواز.&nbsp;كما نشرت عدة صفحات فيسبوك عراقية الفيديو ذاته بتاريخ 24 شباط/فبراير من العام الجاري على أنه مسرب من مقبرة النجف، ويُظهر حالة وفاة بفايروس كورونا في العراق، وشاهد الفيديو وتفاعل معه عشرات الآلاف من مستخدمي وسائل التواصل الاجتماعي.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_vkmc2xeuk.jpg\" style=\"height:453px; width:389px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img src=\"https://images-prod.misbar.com/articlebody/origin_9af6d8jrq.jpg\" style=\"height:669px; width:355px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 354,
+        "left": 1.3238525390625,
+        "path": "articles/1582799754GettyImages-1208580312.jpg",
+        "top": 18.80712890625,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "width": 629
+    },
+    "post_date": "2020-02-27T13:23:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.youtube.com/watch?v=5Lm9j-wdKig",
+            "name": "العربية الحدث",
+            "path": "published/0_1582799754_العربية الحدث-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/BoysandgirlsBaghdad2016/posts/2499884123582976?hc_location=ufi&comment_id=Y29tbWVudDozMzcxMzUwNzQyODgxNDcxXzMzNzEzNTQyNDYyMTQ0NTQ%3D",
+            "name": "شباب وبنات ",
+            "path": "published/1_1582799754_شباب وبنات-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=114506126803535&id=103963851191096&hc_location=ufi&comment_id=Y29tbWVudDozMzcxMzUwNzQyODgxNDcxXzMzNzEzNTIyNjYyMTQ2NTI%3D",
+            "name": "بغداد بوست ",
+            "path": "published/2_1582799754_بغداد بوست-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/Bintkirlq/posts/1043175522715328?hc_location=ufi&comment_id=Y29tbWVudDozMzcxMzUwNzQyODgxNDcxXzMzNzEzNTQ3MTYyMTQ0MDc%3D",
+            "name": "بنتك يا عراق ",
+            "path": "published/3_1582799754_بنتك يا عراق-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/iraqiun/posts/2720988047995210?hc_location=ufi&comment_id=Y29tbWVudDozMzcxMzUwNzQyODgxNDcxXzMzNzEzNTQ5MzI4ODEwNTI%3D",
+            "name": "تجمع عراقيون ",
+            "path": "published/4_1582799754_تجمع عراقيون-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/fallujah4all/posts/2901567899924006?hc_location=ufi&comment_id=Y29tbWVudDozMzcxMzUwNzQyODgxNDcxXzMzNzEzNTM3MTYyMTQ1MDc%3D",
+            "name": "كلنا فلوجة ",
+            "path": "published/5_1582799754_كلنا فلوجة-لوغو.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/mount.uhud2/posts/178978346880401?hc_location=ufi&comment_id=Y29tbWVudDozMzcxMzUwNzQyODgxNDcxXzMzNzEzNTMzOTYyMTQ1Mzk%3D",
+            "name": "جبل أحد ",
+            "path": "published/6_1582799754_جبل أحد-لوغو.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.dusc.org/en/article/4274",
+            "name": "DUR UNTASH",
+            "path": "sources/0_1582799754_DUR UNTASH-logo.jpg"
+        },
+        {
+            "link": "http://www.ahwazmonitor.info/new/deadly-disease-spreads-in-ahwaz-as-public-anger-rises-at-iranian-regime-inaction/?fbclid=IwAR0CWk-8mqMiQUUEumqi_-dWMJnLyNERBFChutc4ZtiPo7Ql66pB7ymdKgg",
+            "name": "Ahwaz Monitor",
+            "path": "sources/1_1582799754_Ahwaz Monitor-logo.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "إيران تدفن قتلى كورونا في العراق، أم  الفيديو من مقبرة النجف.. ما الحقيقة؟",
+    "updated_at": "2020-09-25 15:50:38",
+    "url_path": "/factcheck/2020/02/27/إيران-تدفن-قتلى-كورونا-في-العراق-أم-الفيديو-من-مقبرة-النجف-ما-الحقيقة"
+}

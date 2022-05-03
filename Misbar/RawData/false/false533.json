@@ -1,0 +1,93 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 12291,
+    "author": {
+        "fullname": "أسماء الغول",
+        "id": "5e209f94d4a22920b844f063",
+        "photo": {
+            "path": "authors/1579955610_asmaa11111.jpg"
+        }
+    },
+    "caption": "الصورة من زيارة لها بصحبة زوجها إلى كونت باريس جان دورليان وعائلته (Facebook)",
+    "category": "Entertainment",
+    "claim": "<p style=\"text-align:right\"><span dir=\"RTL\" lang=\"AR-SA\">صورة لبريجيت ماكرون وعلامات كبر السن تبدو واضحة على ملامحها، كما تملأ التجاعيد وجهها.</span></p>\r\n",
+    "country": "FR",
+    "created_at": "2020-07-03 21:45:30",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 18,
+    "feedback_pos": 13,
+    "id": "5eff7cca163be33a331c8165",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقّق &quot;مسبار&quot; من الصورة ليجد أنه تم تعديلها على برنامج &quot;فوتوشوب&quot; لتبدو سيدة فرنسا الأولى في عمر أكبر من عمرها، بداعي السخرية من السنوات التي تفصل بينها وبين زوجها الرئيس الفرنسي ايمانويل ماكرون، والصورة الحقيقية انتشرت ضمن مجموعة من الصور في الثاني من مايو/أيار 2019 حين زارت بصحبة زوجها إلى كونت باريس جان دورليان وعائلته، وارتدت فستاناً أحمر من توقيع لوي فيتون.</p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_qrcgu2xxw.jpg\" style=\"height:363px; width:605px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p style=\"text-align:justify\">تداولت مئات الحسابات على مواقع التواصل الاجتماعي، إضافة إلى مواقع إعلامية، منذ الثالث من مايو/أيار للعام 2019 حتى اليوم، صورة لبريجيت ماكرون زوجة الرئيس الفرنسي إيمانويل ماكرون، تبدو عليها علامات شديدة للشيخوخة، وتجاعيد كثيرة تملأ وجهها.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_2kzlefwpg.jpg\" style=\"height:587px; width:537px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_lin9xobi7.jpg\" style=\"height:460px; width:604px\" />&nbsp;</p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 413,
+        "left": 17.25,
+        "path": "articles/1593801930كككك.jpg",
+        "top": 5.265625,
+        "totalHeight": 423,
+        "totalWidth": 761,
+        "watermark_path": "articles/watermark-1593801930كككك.jpg",
+        "width": 734
+    },
+    "post_date": "2020-07-03T18:39:00.000+03:00",
+    "published": [
+        {
+            "link": "https://desourcesure.info/brigitte-m-met-en-vente-son-secret-de-jeunesse-au-profit-des-hopitaux-de-france/",
+            "name": "desourcesure",
+            "path": "published/0_1593801929_دي دي.JPG"
+        },
+        {
+            "link": "https://twitter.com/webzapping/status/1248017487335063554",
+            "name": " Webzapping ",
+            "path": "published/1_1593801929_10689153_400x400.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=1709761685845715&id=1229900160498539&__xts__[0]=68.ARCNjKBIvjMblLR7rIcVLNysgXxIJKMAPMO0B2GoGx70SscInSLnfYAOhuanJKCo6gCq-vdjOxl5ClGMmMMcBpblhaqgoMD-AjW3Reyzm8W0YXh49yPZ53_k0--_qpHBaXgjzkjqh1Z2JFLPiRSvsg6UpCa1VwARq8zTDxRAqDs3P-YhS2huJSDgRx-1ERADZHew5nvSUppSwaYPShsX2lLcg7pkYMFrldJyBUC0XkWi3z0_AJeXnyCLrjiE-Hmq7SSJI9R6qPeUsEYJR-OR5e99scW-Gm3YG1VvkES4bYw30WDtNnqdmm0Kf1AVIEEGjd186gucHi9tZKPGcF6ZdJq088z4&__tn__=-R",
+            "name": "Fstok ",
+            "path": "published/2_1593801929_51522769_1284376861717535_8754164018161123328_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=158270759134810&id=102709451357608&__xts__[0]=68.ARBwB2JosIxoCGfYQv1rLJsmj0GOyARpVgMm273UwTZ376W3a18cetWA0c55ovNX2f5mofhcPS4ypw2oPcDKdYYZPsIfoGd0mZbmiFJMSzC7nH1al2boKaUebxcj7EDUgel8BzswtXF6y64ExkPzFcNIOb0Wfhzh4bXpPXpHqJjk4asT5_BNHoOygLkoAGPLv5d0hVF8uTWFTHY3jQvIMH8zPSzW6R9YOSktSDvpWrs-WBTQ4dqSnkj5UGlCGH8luyEY1w6j-LVgn0GuqzJkDnNBL1pcGEhq7os2u75qO5XTNDfP20Ha2fvUHuPZLwp_qz7at_cWV7w018UmVWGCPb8&__tn__=-R",
+            "name": "شبكة مان نيوز عربيةMan News Arabia",
+            "path": "published/3_1593801929_89869426_102710358024184_2878934248004255744_n.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/safita.TV/posts/2647818222103469?__xts__[0]=68.ARApiBjpVfU3pTHLtOpZ-b3B5h6ouzoq_cc2UVTxeXK32-qZqSzJanW1jHCrWv25zqr2b_Cau6Um7P97SpHq7LlAdX_lGFJpi1yaNS0okV51ZE6ez0ZECBylEelJGRoRT-YqbczO-EKmP2iTbIh4x0SvDPQ3RH4RwG3eSHHwpHuFc7-j1efErZipwU8dLpU7STyE-TnpBEQziYZeHyOe1b1art1AnbHb2cGiyZ4SgS1d0oXMsEcn8P2LJ_IAhJs-RvLyUfHWJc1fCVBpwVXJcu63fEOkvvAj8Is5pmvW9PHcEWsqZImtQrGRW1PYHLXp5jXrbnfa-A_aG_W5XgsGTEHJUo5I&__tn__=-R",
+            "name": "تلفزيون صافيتا",
+            "path": "published/4_1593801930_صافيتا.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.closermag.fr/politique/photos-brigitte-macron-mise-sur-une-robe-louis-vuitton-rouge-pour-la-visite-du-c-964353#img14",
+            "name": "closermag",
+            "path": "sources/0_1593801930_كلوزر.JPG"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "صورة مفبركة لبريجيت ماكرون",
+    "updated_at": "2020-09-25 05:10:52",
+    "url_path": "/factcheck/2020/07/03/صورة-مفبركة-لبريجيت-ماكرون"
+}

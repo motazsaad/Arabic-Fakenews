@@ -1,0 +1,115 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 282,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "صورت ليلى الفيلالي الفيديو كليب في تركيا (فيسبوك)",
+    "category": "Arts & Culture",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">&quot;</span><span style=\"background-color:white\">على خطى إيمان الباني؛ المغربية &quot; ليلى&quot; هي الأخرى خطفت قلب الممثل التركي إيمره كوزلمارك</span>&quot;</p>\r\n",
+    "country": "MA",
+    "created_at": "2020-09-26 16:20:35",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 3,
+    "feedback_pos": 3,
+    "id": "5f6f4023c65c11362c180050",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة المتداولة وتبين أنها مضللة، إذ أنها ليست لزفاف الفنانة المغربية ليلى الفيلالي والممثل <span dir=\"LTR\">إمره كزلماك</span>، بل صور ترويجية لفيديو كليب صورته الفنانة في تركيا.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">ووجد &quot;مسبار&quot; أن كلاهما نشرا الصور الترويجية في البداية على موقع انستغرام على أنها علاقة حبّ، وحين صدر الكليب أرفقا تعليقاً لمشاهدة العمل الجديد، ولم يذكر أيّ منهما أن هناك علاقة جادة تجمعهما.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">يذكر أن الممثل التركي <span dir=\"LTR\">إمره</span>&nbsp;كزلماك، متزوج من التركية <span dir=\"LTR\">Sevda Bayraktar</span>.</p>\r\n\r\n<p style=\"text-align:center\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/LXYlMOLyPPo\" width=\"560\"></iframe></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات إخبارية وحسابات على موقع &quot;فيسبوك&quot;، صوراً تدّعي أنها لحفل زفاف الفنانة المغربية ليلى الفيلالي بالممثل التركي إمره كزلماك، وعلقت الصفحات نفسها أنه على خطى ملكة جمال المغرب لعام 2006، إيماني الباني التي تزوجت الممثل التركي مراد يلدريم، الفنانة المغربية ليلى تخطف قلب النجم التركي.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"color:#2d2d2d\"><img alt=\"00.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_otalwjfvg.jpg\" style=\"height:513px; width:555px\" /></span></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><span style=\"color:#2d2d2d\"><img alt=\"0.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_3h5pvq1xp.jpg\" style=\"height:391px; width:605px\" /></span></span><br />\r\n<span dir=\"LTR\"><span style=\"color:#2d2d2d\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_rcvwbhc2k.jpg\" style=\"height:521px; width:548px\" /></span></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 300,
+        "left": 24.3499755859375,
+        "path": "articles/1601126434118796953_121127426381670_6969471699465537609_o (1).jpg",
+        "top": 86.63427734375,
+        "totalHeight": 423,
+        "totalWidth": 582,
+        "watermark_path": "articles/watermark-1601126434118796953_121127426381670_6969471699465537609_o (1).jpg",
+        "width": 533
+    },
+    "post_date": "2020-09-26T14:05:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.3lachtv.ma/p/74941/",
+            "name": "علاش؟",
+            "path": "published/0_1601126433_5.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/104297134608455/photos/a.104384831266352/170941944610640/",
+            "name": "مغربية حرة",
+            "path": "published/1_1601126433_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/maroctiktokofficiel/photos/a.635089870318678/954393155055013/",
+            "name": "Somadina Officiel",
+            "path": "published/2_1601126433_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=338456260903614&id=102873531128556",
+            "name": "Maghreb Family",
+            "path": "published/3_1601126434_67819776_2303763929710849_8279055560511324160_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/marocmundo/posts/2791588981085467",
+            "name": "Marocains du monde - مغاربة العالم",
+            "path": "published/4_1601126434_67819776_2303763929710849_8279055560511324160_o.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.instagram.com/emrekzlrmk/?hl=fr",
+            "name": "Emre kızılırmak ",
+            "path": "sources/0_1601126434_1.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.instagram.com/leyla_officiel1/",
+            "name": "leyla_officiel1",
+            "path": "sources/1_1601126434_118497418_110594814101598_7551582587845348761_o.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.youtube.com/watch?v=LXYlMOLyPPo",
+            "name": "youtube",
+            "path": "sources/2_1601126434_unnamed.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "الصور لفيديو كليب وليست لزواج الفنانة المغربية من إمره كزلماك ",
+    "updated_at": "2020-09-26 16:27:06",
+    "url_path": "/factcheck/2020/09/26/emre-kzlrmk-الصور-لفيديو-كليب-وليست-لزواج-الفنانة-المغربية-من-التركي",
+    "was_notification_pushed": "true"
+}

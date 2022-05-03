@@ -1,0 +1,143 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 471,
+    "author": {
+        "fullname": "مريم هواري",
+        "id": "5e299460d4a22939983a3ec5",
+        "photo": {
+            "path": "authors/1579791192_Maryam.jpg"
+        }
+    },
+    "caption": "صرّح مدير عام شركة نستله في لبنان أنّ نقص المنتجات سببه أمور إجرائية (Getty)",
+    "category": "Food & Beverages",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\">أعلنت شركة نستله في لبنان أنّها ستتوقف عن بيع&nbsp;ظروف &quot;النسكافيه&quot;&nbsp;الخاصة بها.</p>\r\n",
+    "country": "LB",
+    "created_at": "2020-12-07 16:14:41",
+    "created_by": "5f39b6aa1dd585076701cb95",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 39,
+    "feedback_pos": 42,
+    "id": "5fce2ac10603f73a2064824c",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:right\">تحقّق &quot;<a href=\"https://misbar.com/factcheck/2020/05/21/%D9%87%D8%B0%D8%A7-%D8%A7%D9%84%D8%AC%D8%B3%D8%B1-%D9%84%D9%8A%D8%B3-%D9%81%D9%8A-%D8%B3%D9%88%D8%B1%D9%8A%D8%A9-%D9%88%D8%A5%D9%86%D9%85%D8%A7-%D9%85%D8%A7%D9%84%D9%8A%D8%B2%D9%8A%D8%A7\" style=\"color:#0563c1; text-decoration:underline\">مسبار</a>&quot; من الخبر المتداول، وتبيّن أنّه زائف. إذ نفى مدير عام شركة نستله في لبنان الأخبار المتداولة عن توقّف بيع بعض منتجاتها. كما أشار إلى أنّ نقص المنتجات الذي لوحظ في بعض المجمّعات التجارية، كان بسبب الإقدام على &quot;التخزين من قبل المستهلكين&quot;، بحسب قوله، قبل فترة الحجر بسبب تفشّي فايروس كورونا المسجد، وأشار أنّ&nbsp;النقص يعود لتأخر فترات تسليم المنتجات بسبب إعادة توجيه الشحنات بعد انفجار مرفأ بيروت في أغسطس/آب من العام الحالي.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">وتجدر الإشارة إلى الأزمة الاقتصادية التي تعيشها الدولة اللبنانية، وهبوط سعر صرف الليرة مقابل الدولار، من العوامل التي&nbsp;أدّت&nbsp;إلى غلاء العديد من المنتجات.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_oxb4wi7aw.jpg\" style=\"height:639px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_qvx0prq5k.jpg\" style=\"height:605px; width:624px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\">اقرأ/ي أيضاً:</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/10/02/%D8%AE%D8%A8%D8%B1-%D8%A5%D8%B5%D8%A7%D8%A8%D8%A9-%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3-%D8%A7%D9%84%D9%84%D8%A8%D9%86%D8%A7%D9%86%D9%8A-%D8%A8%D9%83%D9%88%D8%B1%D9%88%D9%86%D8%A7-%D8%BA%D9%8A%D8%B1-%D8%B5%D8%AD%D9%8A%D8%AD\" style=\"color:#0563c1; text-decoration:underline\">خبر إصابة الرئيس اللبناني بكورونا غير صحيح</a></p>\r\n\r\n<p><a href=\"https://misbar.com/editorial/2020/08/12/%D8%A3%D8%A8%D8%B1%D8%B2-%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D9%84%D8%B2%D8%A7%D8%A6%D9%81%D8%A9-%D8%AD%D9%88%D9%84-%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1-%D9%85%D8%B1%D9%81%D8%A3-%D8%A8%D9%8A%D8%B1%D9%88%D8%AA\" style=\"color:#0563c1; text-decoration:underline\">أبرز الأخبار الزائفة حول انفجار مرفأ بيروت</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        ""
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\">تداولت صفحات وحسابات على مواقعي التواصل الاجتماعي فيسبوك وتويتر مؤخّراً، خبرًا مفاده إعلان شركة نستله في لبنان أنّها ستتوقف عن بيع ظروف &quot;النسكافيه&quot;، كما أضاف الناشرون أنّ رفوف المتاجر بدأت تخلو من هذه المنتجات، وأنّ بعض المتاجر وضعت سقفًا لعدد ظروف &ldquo;النسكافيه&rdquo; التي يحق للفرد أن يشتريها.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_riiyr4ldt.jpg\" style=\"height:843px; width:560px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_nlt04oyeb.jpg\" style=\"height:506px; width:559px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 351,
+        "left": 1.812744140625,
+        "path": "articles/1607346881GettyImages-1262998378.jpg",
+        "top": 45.607177734375,
+        "totalHeight": 423,
+        "totalWidth": 634,
+        "watermark_path": "articles/watermark-1607346881GettyImages-1262998378.jpg",
+        "width": 624
+    },
+    "post_date": "2020-12-07T15:02:00.000+03:00",
+    "published": [
+        {
+            "id": "5fc93e0698f2ac75ff41faaf",
+            "link": "https://twitter.com/leb_now/status/1334539635691839488",
+            "name": "LEB NOW",
+            "origin": "twitter",
+            "path": "sources/082c2e9ab78f50e8e85d514b101f25085b1c04d2.jpg"
+        },
+        {
+            "id": "5fce2ac0e98d294cb41f4d1b",
+            "link": "http://elissarnews.org/single?Id=20201205093049",
+            "name": " Elissar News اليسار نيوز ",
+            "origin": "",
+            "path": "sources/f8ed439d00731fb5018f9ba93869611075e624cb.jpg"
+        },
+        {
+            "id": "5fce2ac0f9ef6d097453ad1d",
+            "link": "https://www.facebook.com/DANNIEHNEWS/posts/2884403258329616",
+            "name": "الضنية الإخبارية",
+            "origin": "facebook",
+            "path": "sources/138eaaf3d66581e1b2e6f931cc202434590824d8.jpg"
+        },
+        {
+            "id": "5fce2ac050c58941fc439d6c",
+            "link": "https://www.facebook.com/BABLIYATI2020/posts/171072961396819",
+            "name": "بابليتي",
+            "origin": "facebook",
+            "path": "sources/cfdd3835736e2db808bc3f344334969b1ad2f0ee.jpg"
+        },
+        {
+            "id": "5fbf9af8dcae9322ed0f99ae",
+            "link": "https://www.facebook.com/TripoLi24/posts/3864245223638707",
+            "name": "Tripoli24 - طرابلس24",
+            "origin": "facebook",
+            "path": "sources/73a22cf5894143ba9b9cd0c5cf2fbea69973154e.jpg"
+        },
+        {
+            "id": "5fce2ac0a8060f1b574effd0",
+            "link": "https://www.facebook.com/nano.adam.5851/posts/1281110052260386",
+            "name": "Noura Osman",
+            "origin": "facebook",
+            "path": "sources/b9931da924bb92be4604649eb625de4c4a461b6b.jpg"
+        },
+        {
+            "id": "5fce2ac0b31e5100b5028e90",
+            "link": "https://www.facebook.com/howe.zeito.5/posts/108798371062816",
+            "name": "Howe Zeito",
+            "origin": "facebook",
+            "path": "sources/b9931da924bb92be4604649eb625de4c4a461b6b.jpg"
+        },
+        {
+            "id": "5fce2ac034787e2ea117bd15",
+            "link": "https://twitter.com/El_KhatibK/status/1334785321683349504",
+            "name": "Khaled El Khatib",
+            "origin": "twitter",
+            "path": "sources/4f7a586257dc83c215d561d01c85d08771482787.jpg"
+        },
+        {
+            "id": "5fce2ac1632bca031b3b1a8c",
+            "link": "https://www.alkalimaonline.com/newsdet.aspx?id=533199",
+            "name": "www.alkalimaonline.com",
+            "origin": "",
+            "path": "sources/6d3c270d85f33185713ae93ebfaa5271672846de.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fc64cd26cf96336e610b2e2",
+            "link": "https://www.annahar.com/arabic/section/111-%D8%A3%D8%AD%D8%AF%D8%AB-%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/04122020084843452",
+            "name": "annahar.com",
+            "origin": "",
+            "path": "sources/42dd1c92fa9bd19271e8ca5125c075da2202f0d1.jpg"
+        },
+        {
+            "id": "5fce2ac12e3f7515b64e6d9f",
+            "link": "https://www.lebanon24.com/news/economics/699492/%D8%B4%D8%B1%D9%83%D8%A9-%D9%86%D8%B3%D8%AA%D9%84%D9%87-%D9%85%D9%84%D8%AA%D8%B2%D9%85%D9%88%D9%86-%D8%A7%D8%AA%D8%AC%D8%A7%D9%87-%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%87%D9%84%D9%83%D9%8A%D9%86-%D9%88%D9%86%D8%A3%D9%85%D9%84-%D8%A3%D9%86-%D9%8A%D8%AA%D8%AD%D8%B3%D9%86",
+            "name": "Lebanon24",
+            "origin": "",
+            "path": "sources/b856d69403af88b39fe05482a2b1ab563da4fe2a.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "لم تتوقف شركة نستله عن بيع منتجاتها في لبنان",
+    "updated_at": "2020-12-07 19:17:17",
+    "url_path": "/factcheck/2020/12/07/لم-تتوقف-شركة-نستله-عن-بيع-منتجاتها-في-لبنان",
+    "was_notification_pushed": false
+}

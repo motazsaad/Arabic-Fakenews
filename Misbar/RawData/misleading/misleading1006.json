@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 1,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 28367,
+    "author": {
+        "fullname": "عمر فارس",
+        "id": "5e20131ad4a22938fa4d4de3",
+        "photo": {
+            "path": "authors/1579160346_Omar-01.jpg"
+        }
+    },
+    "caption": "الصور تعود لمحاولة الانقلاب عام 2016 في تركيا (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">الجيش الليبي يلقي القبض على أربعين جنديًّا تركيًّا.</span></p>\r\n",
+    "country": "LY",
+    "created_at": "2020-06-16 19:15:51",
+    "created_by": "5d921f5fbe494b2d75391892",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5ee8f037d6e4a92db046f183",
+    "investigation": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تحقق &quot;مسبار&quot; من الصور المتداولة وتبيّن أنها مضللة، لأنّ </span><a href=\"https://www.aljazeera.com/news/2016/07/turkey-coup-attempt-angry-mobs-attack-troops-160716072445461.html\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>الصور</u></span></a><span style=\"color:#000000\"> </span><a href=\"https://www.middleeastobserver.org/2016/07/15/update-turkey-coup-military-seize-power-of-the-country/\" style=\"text-decoration:none\" target=\"_blank\"><span style=\"color:#1155cc\"><u>الأصلية</u></span></a><span style=\"color:#000000\"> تعود لمحاولة الانقلاب الفاشلة في تركيا عام 2016. ولا علاقة لها باعتقال جنود أتراك في ليبيا.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_tbt9mhl4s.jpg\" style=\"height:354px; width:561px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_9t1flmni8.jpg\" style=\"height:515px; width:535px\" /></span></p>\r\n",
+    "is_deleted": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "تركيا",
+        "ليبيا"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"rtl\" style=\"text-align:justify\"><span style=\"color:#000000\">تتناقل صفحات على مواقع التواصل الاجتماعي، حديثاً، صوراً تدّعي أنها لعناصر من الجيش الليبي يلقون القبض على أربعين جنديًّا تركيًّا، بعد الكشف عن تحرّكاتهم من الجو.</span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_yvvfwurmo.jpg\" style=\"height:753px; width:537px\" /></span></p>\r\n\r\n<p dir=\"rtl\" style=\"text-align:center\"><span style=\"color:#000000\"><img src=\"https://images-prod.misbar.com/articlebody/origin_nq2ibhl1a.jpg\" style=\"height:487px; width:536px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 176,
+        "left": 2.26666259765625,
+        "path": "articles/1592324150غلاف.jpg",
+        "top": 184.11669921875,
+        "totalHeight": 423,
+        "totalWidth": 317,
+        "watermark_path": "articles/watermark-1592324150غلاف.jpg",
+        "width": 312
+    },
+    "post_date": "2020-06-16T19:05:00.000+03:00",
+    "published": [
+        {
+            "link": "https://www.facebook.com/ZkraAli55/posts/573397079984066?__tn__=-R",
+            "name": "مهندسه ذكرى هلال القلم الحر",
+            "path": "published/0_1592324149_مهندسة.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/groups/1173503079648922/permalink/1179334985732398/",
+            "name": "Mohamed El Sawy",
+            "path": "published/1_1592324149_الصاوي.jpg"
+        },
+        {
+            "link": "https://www.facebook.com/permalink.php?story_fbid=162596928602419&id=100045563391856",
+            "name": "Tamer Tito",
+            "path": "published/2_1592324149_تامر.jpg"
+        },
+        {
+            "link": "https://twitter.com/Ahmed79664849/status/1272012614604918784",
+            "name": "AHMED",
+            "path": "published/3_1592324150_ahmed.jpg"
+        },
+        {
+            "link": "https://twitter.com/4Ahmed1244/status/1271876988882599938",
+            "name": "بكر هلال",
+            "path": "published/4_1592324150_بكر.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "link": "https://www.aljazeera.com/news/2016/07/turkey-coup-attempt-angry-mobs-attack-troops-160716072445461.html",
+            "name": "الجزيرة",
+            "path": "sources/0_1592324150_الجزيرة.jpg"
+        },
+        {
+            "link": "https://www.middleeastobserver.org/2016/07/15/update-turkey-coup-military-seize-power-of-the-country/",
+            "name": "Middle East Observer",
+            "path": "sources/1_1592324150_MEO.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "أربعون جنديًّا تركيًّا في قبضة الجيش الليبي.. صور مضللة",
+    "updated_at": "2020-09-25 11:24:57",
+    "url_path": "/factcheck/2020/06/16/أربعون-جنديا-تركيا-في-قبضة-الجيش-الليبي-صور-مضللة"
+}

@@ -1,0 +1,141 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 290,
+    "author": {
+        "fullname": "خالد إسماعيل",
+        "id": "5e59256dd4a2295224257db3",
+        "photo": {
+            "name": "1582900589_صورة 2.jpg",
+            "path": "authors/1582900589_صورة 2.jpg"
+        }
+    },
+    "caption": "يعد من أطول الأنفاق التي اكتشفت بين الولايات المتحدة والمكسيك (فيسبوك)",
+    "category": "Politics",
+    "claim": "<p dir=\"RTL\" style=\"text-align:right\"><span style=\"color:black\">الجيش المصري يكتشف نفقاً&nbsp;أثناء اقتحام قرية المقاطعة بالشيخ زويد في شمال سيناء ويعثر بداخله على صاروخ وعبوات ناسفة ومتفجرات.</span></p>\r\n",
+    "country": "EG",
+    "created_at": "2021-01-09 14:43:28",
+    "created_by": "5f39b5051dd585093f55a5e0",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 20,
+    "feedback_pos": 19,
+    "id": "5ff996e09813f710471fe30c",
+    "investigation": "<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\"><span style=\"color:black\">تحقّق &quot;</span><a href=\"https://misbar.com/\" target=\"_blank\"><span style=\"color:#3498db\">مسبار</span></a><span style=\"color:black\">&quot; من الصورة المتداولة، وتبين أن التعليق المصاحب لها مضلل، فليس له&nbsp;أثر في&nbsp;الصفحة الرسمية للمتحدث الرسمي باسم القوات المسلحة المصرية أو عبر الحساب الرسمي لوزارة الداخلية المصرية أو&nbsp;أي وسيلة&nbsp;إعلامية أخرى.</span></span></p>\r\n\r\n<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\"><span style=\"color:black\">&nbsp;وعبر البحث العكسي عن الصورة المتداولة تبين أن مكانها ليس&nbsp;مصر، بل تعود إلى الحدود المكسيكية الأميركية في&nbsp;يناير/كانون الثاني من العام الفائت، عندما اكتشفت سلطة الجمارك الأميركية أطول نفق تهريب،&nbsp;وأعلنت السلطات آنذاك أن النفق يصل طوله إلى ثلاثة أرباع الميل ويحتوي على سكة حديدية وخطوط&nbsp;كهرباء، ونظام تهوية ومصعد.</span></span></p>\r\n\r\n<p style=\"text-align:justify\"><span dir=\"RTL\" lang=\"AR-SA\"><span style=\"color:black\">&nbsp;ويمتد من مستودع في&nbsp;مدينة تيخوانا المكسيكية حتى منطقة سان دييغو جنوب ولاية كاليفورنيا في أميركا، وأعلن المسؤولون أنه تم العثور على 15 نفقًا&nbsp;متطورًا على حدود كاليفورنيا&nbsp;مع المكسيك منذ عام 2006، ولكن هذا النفق يُعد الأطول على الإطلاق.</span></span></p>\r\n\r\n<p style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_y2ctrh5sy.jpg\" style=\"height:670px; width:602px\" /><img src=\"https://images-prod.misbar.com/articlebody/investigation_kh9el2fi2.jpg\" style=\"height:732px; width:585px\" /></p>\r\n\r\n<p style=\"text-align:right\">اقرأ/ي أيضا:</p>\r\n\r\n<p style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/12/21/%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9-%D9%84%D9%8A%D8%B3%D8%AA-%D9%84%D8%B9%D8%B3%D9%83%D8%B1%D9%8A-%D9%85%D8%B5%D8%B1%D9%8A-%D9%81%D9%8A-%D8%AC%D8%A8%D9%84-%D8%B3%D8%A7%D9%86%D8%AA-%D9%83%D8%A7%D8%AA%D8%B1%D9%8A%D9%86\" target=\"_blank\"><span style=\"color:#3498db\">الصورة ليست لعسكري مصري في جبل سانت كاترين</span></a></p>\r\n\r\n<p style=\"text-align:right\"><a href=\"https://misbar.com/factcheck/2020/12/03/%D9%85%D8%B5%D8%B1-%D9%84%D9%85-%D8%AA%D8%BA%D8%B1%D9%82-%D8%B3%D9%81%D9%8A%D9%86%D8%A9-%D9%85%D8%AD%D9%85%D9%84%D8%A9-%D8%A8%D8%A7%D9%84%D8%A3%D8%B3%D9%84%D8%AD%D8%A9-%D9%85%D8%AA%D8%AC%D9%87%D8%A9-%D9%85%D9%86-%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-%D8%A5%D9%84%D9%89-%D8%B3%D9%8A%D9%86%D8%A7%D8%A1\" target=\"_blank\"><span style=\"color:#3498db\"><span style=\"background-color:#3498db\">مصر لم تُغرق سفينة محملة بالأسلحة متجهة من تركيا إلى سيناء</span></span></a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "",
+        "أنفاق",
+        "مصر",
+        "الحدود",
+        "المكسيك"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:right\"><span style=\"color:black\">تتداول حسابات وصفحات على منصات التواصل الاجتماعي منذ الرابع من يناير/كانون الثاني الجاري، صورة لأحد الأنفاق مع تعليق مصاحب بأنه نفق اكتشفه الجيش المصري حديثًا في قرية المقاطعة في الشيخ زويد شمال سيناء أثناء حملة مداهمات لإحباط أي مخططات إرهابية.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:right\"><span style=\"color:black\">&nbsp;وقال&nbsp;ناشرو الصورة إن قوات الجيش المصري عثرت بداخل النفق على صاروخ ومتفجرات وعبوات ناسفة ومواد تستخدم لتصنيعها. </span></p>\r\n\r\n<p style=\"text-align:right\"><img src=\"https://images-prod.misbar.com/articlebody/origin_isvlw13v6.jpg\" style=\"height:746px; width:483px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_rkecnzly0.jpg\" style=\"height:645px; width:512px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_5pf0h6gq2.jpg\" style=\"height:696px; width:547px\" /><img src=\"https://images-prod.misbar.com/articlebody/origin_4mre86weh.jpg\" style=\"height:722px; width:484px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 255,
+        "left": -2.4144287109375,
+        "path": "articles/1610192607Screenshot 2021-01-09 124202.jpg",
+        "top": 9.53564453125,
+        "totalHeight": 423,
+        "totalWidth": 453,
+        "watermark_path": "articles/watermark-1610192607Screenshot 2021-01-09 124202.jpg",
+        "width": 453
+    },
+    "post_date": "2021-01-09T12:35:00.000+03:00",
+    "published": [
+        {
+            "id": "5ff99d1c36bd85543255718f",
+            "link": "https://www.facebook.com/Saba7.3la.Masr1/photos/a.1618120845171530/2811319705851632/",
+            "name": "صبح على مصر",
+            "origin": "facebook",
+            "path": "sources/de66e7be3b72890d40e096802fec77604c0b3dc8.jpg"
+        },
+        {
+            "id": "5ff99d1c03898945fc383dcd",
+            "link": "https://www.facebook.com/sayed.teto.1/posts/3549436515173379",
+            "name": "Sayed Teto",
+            "origin": "facebook",
+            "path": "sources/a87f2679356c5a8a7eeb46472e30167d18c3a494.jpg"
+        },
+        {
+            "id": "5ff99d1dea2f21406045525c",
+            "link": "https://www.facebook.com/Dojggo0/photos/a.112512813570340/252881652866788/",
+            "name": "السياسية",
+            "origin": "facebook",
+            "path": "sources/25d0d90aabbda0d6fef38f16ff28993d0199bfc1.jpg"
+        },
+        {
+            "id": "5ff99d1d5d04c905536adcef",
+            "link": "https://twitter.com/SAIDARAFA58/status/1345739882560442374",
+            "name": "🎆 سعيد عرفة 🎆",
+            "origin": "twitter",
+            "path": "sources/d84f65b619dad45cdfdd1aee8c0ef5c61e6aaeb2.jpg"
+        },
+        {
+            "id": "5f96a94de2663c71ad0967dd",
+            "link": "https://twitter.com/Dr_fatma_Saad/status/1346139011388211202",
+            "name": "Dr-fatma Saad",
+            "origin": "twitter",
+            "path": "sources/b890fc914ba96d6efcb0debc8b98db432b80c4e4.jpg"
+        },
+        {
+            "id": "5fb139c5bcc8654ca81ab696",
+            "link": "https://twitter.com/M__bestawy/status/1346049897573834752",
+            "name": "Mohamed elbestawy",
+            "origin": "twitter",
+            "path": "sources/15f308392485ef7adc2a5eb9e2e831768ef97b0c.jpg"
+        },
+        {
+            "id": "5ff99d1d76ae2d3f103c9fc3",
+            "link": "https://www.facebook.com/101573755166501/photos/a.101580061832537/112752954048581/",
+            "name": "Aly Elghamry",
+            "origin": "facebook",
+            "path": "sources/338d0e6c882f90e25760449ceb5275e758e79ed5.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fdc8680b4eb8050e22cb5e8",
+            "link": "https://www.usatoday.com/story/news/nation/2020/01/29/tunnel-longest-discovered-southwest-border/4615488002/",
+            "name": "USA TODAY",
+            "origin": "",
+            "path": "sources/77ca96f2607e90d74bae40edd181b4ddb2a6e946.jpg"
+        },
+        {
+            "id": "5f8fe8042634917a07409434",
+            "link": "https://www.dailymail.co.uk/news/article-7944493/Authorities-longest-Southwest-border-smuggling-tunnel.html",
+            "name": "Mail Online",
+            "origin": "",
+            "path": "sources/d4e81aeee6259659c962fc984d5b64376fff66e1.jpg"
+        },
+        {
+            "id": "5ff9a5f6a0c9d8744c144968",
+            "link": "https://www.facebook.com/EgyArmySpox",
+            "name": "الصفحة الرسمية للمتحدث العسكري للقوات المسلحة",
+            "origin": "facebook",
+            "path": "sources/efd195c98a411a7db5d8d0328e5f0d24f3d1b972.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "هذه الصورة ليست لنفق عثر عليه الجيش المصري في سيناء",
+    "updated_at": "2021-01-09 15:47:50",
+    "url_path": "/factcheck/2021/01/09/هذه-الصورة-ليست-لنفق-عثرعليه-الجيش-المصري-في-سيناء",
+    "was_notification_pushed": true
+}

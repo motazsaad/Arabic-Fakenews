@@ -1,0 +1,107 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 135,
+    "author": {
+        "fullname": "عائشة غربي",
+        "id": "5ebe870cdb291627d20ac185",
+        "photo": {
+            "name": "1589544715_878.jpg",
+            "path": "authors/1589544715_878.jpg"
+        }
+    },
+    "caption": "الصورة لسائق سيارة الإسعاف (تويتر)",
+    "category": "Health",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">صور لمريض تونسي بفايروس كورونا (كوفيد-19) عجزت الدولة عن توفير سرير له.</span></p>\r\n",
+    "country": "TN",
+    "created_at": "2020-09-27 13:02:04",
+    "created_by": "5f39b5761dd58507624dac1a",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 16,
+    "feedback_pos": 92,
+    "id": "5f70631c5c0e647a8b278e85",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;مسبار&quot; من الصورة المتداولة وتبين أنها مضللة، وليست لمصاب بفايروس كورونا المستجد (كوفيد-19)، بل لسائق سيارة إسعاف تابعة ل<span style=\"background-color:white\">خدمات المساعدات الطبية الاستعجالية في مدينة المنستير، الذي شعر بضيق تنفس خلال عملية نقل مريض مصاب بالفايروس من مدينة المكنين إلى مستشفى المدينة.<br />\r\nويظهر السائق باللباس الخاص بالطواقم الطبية الاستعجالية، ومعه أحد المسعفين.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">وتواصل &quot;مسبار&quot; مع مديرة مستشفى قصر هلال، مليكة قاسم، التي أكدت أن سيارة الإسعاف كانت في طريقها إلى مدينة المنستير، لكن قارورة أوكسجين المصاب بالفايروس نفدت، ما اضطر المسعفين للتوجه إلى مستشفى قصر هلال، للتزود بالأوكسجين.</span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\"><span style=\"background-color:white\">وأكدت أنه خلال عملية التفاوض حول إدخال المريض من عدمه، لأن المستشفى لا يحتوي وحدة إنعاش، شعر السائق بالاختناق بسبب اللباس المخصص له. </span>ما اضطر إلى تزويده بالأوكسجين في انتظار تغييره بسائق آخر لتحويل المصاب إلى مستشفى المنستير.</p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": true,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات إخبارية وحسابات على موقعي فيسبوك وتويتر، حديثاً، صورة تدّعي أنها لمصاب بفايروس كورونا المستجد، يجلس أمام مستشفى قصر هلال في الساحل التونسي، وفي يده قارورة أوكسجين. وعلقت الصفحات نفسها أن الدولة عاجزة عن توفير سرير للمريض.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"0.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_z6h3g54me.jpg\" style=\"height:531px; width:596px\" /></span></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><span dir=\"LTR\"><img alt=\"Capture.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_94l8qneid.jpg\" style=\"height:625px; width:511px\" /></span><br />\r\n<span dir=\"LTR\"><img alt=\"00.PNG\" src=\"https://images-prod.misbar.com/articlebody/origin_iszdewuz4.jpg\" style=\"height:624px; width:457px\" /></span></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 333,
+        "left": 6.10528564453125,
+        "path": "articles/1601200924111.jpg",
+        "top": 30.746826171875,
+        "totalHeight": 423,
+        "totalWidth": 612,
+        "watermark_path": "articles/watermark-1601200924111.jpg",
+        "width": 592
+    },
+    "post_date": "2020-09-27T10:48:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/tunisian_rd/status/1309226258010714112",
+            "name": "الرادار التونسي",
+            "path": "published/0_1601200923_cdeb606d2277405729841fe21c5d10e856529971.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/tbk.tunisie/posts/2057793394344967/",
+            "name": "طبرقة تونس",
+            "path": "published/1_1601200923_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/tounesbladi123/photos/a.478788149158751/1237882023249356/",
+            "name": "تونس اليوم",
+            "path": "published/2_1601200923_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/cellulesamoureuxderemada/photos/a.938820222857116/4375127519226352/",
+            "name": "خلية أحباء رمادة من كل مكان Cellules Amoureux De Remada",
+            "path": "published/3_1601200923_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/alaabassi3/status/1309219770156359685",
+            "name": "ala abassi",
+            "path": "published/4_1601200923_cdeb606d2277405729841fe21c5d10e856529971.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/permalink.php?story_fbid=2637581223125323&id=2232334930316623",
+            "name": "وزارة الفقر والسعادة",
+            "path": "published/5_1601200924_101195326_747056042707733_6451845424750788608_o.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/dramelrh",
+            "name": "Hôpital régional Haj Ali Soua",
+            "path": "sources/0_1601200924_de97460ce05bf00b982bf6c57abfac327308a38b.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "تونس: الصور ليست لمصاب بكورونا عجزت الدولة عن توفير سرير له",
+    "updated_at": "2020-09-27 13:02:04",
+    "url_path": "/factcheck/2020/09/27/تونس-الصور-ليست-لمصاب-بكورونا-عجزت-الدولة-عن-توفير-سرير-له",
+    "was_notification_pushed": "true"
+}

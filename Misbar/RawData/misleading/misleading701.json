@@ -1,0 +1,99 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 2251,
+    "author": {
+        "fullname": "أحمد بعلوشة",
+        "id": "5df100018d7bd9619f27cf56",
+        "photo": {
+            "path": "authors/1579783393_Untitled111.jpg"
+        }
+    },
+    "caption": "هو لمقطع تمثيليٍّ تم تداوله على أنه حقيقي",
+    "category": "Politics",
+    "claim": "<p>سعوديون يعجزون عن أسر يمنى بعد نفاد&nbsp;ذخيرته</p>\r\n",
+    "country": "YE",
+    "created_at": "2020-09-01 12:51:13",
+    "created_by": "5f39b1ee1dd5850789476b61",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 0,
+    "feedback_pos": 0,
+    "id": "5f4e1991cbb9b25b1341c134",
+    "investigation": "<p style=\"text-align:justify\">تحقق &quot;مسبار&quot; من المقطع المتداول، ليجد أنه منشور&nbsp;على &quot;قناة أبو علي&quot; على يوتيوب، وهو لمقطع&nbsp;تمثيليٍّ&nbsp;تم تداوله على أنه حقيقي أو دون توضيح أنه تمثيلي، ليعتقد المشاهدون أنه لأحداث حقيقية في اليمن. ومن خلال فحص محتوى القناة، وجد &quot;مسبار&quot; أنها تحتوي عدداً من المقاطع التمثيلية المتعلقة بالوضع الراهن في اليمن. وكتبت القناة تحت الفيديو في &quot;يوتيوب&quot; توضيحاً بأنَّ المشاهد المعروضة هي مشاهد تمثيلية وليست حقيقية، إلا أنها لم تذكر ذلك في منشورها على &quot;فيسبوك&quot;، ما جعل المقطع متداولاً على أنه حقيقيّ.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/investigation_vih5sg25w.jpg\" style=\"height:521px; width:665px\" /></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": "true",
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p>نشرت بعض الحسابات على موقعي فيسبوك وتويتر، مقطع فيديو&nbsp;ادعت أنه&nbsp;لمقاتل يمني يقاوم جنوداً سعوديين يحاولون أسره.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_9loque01h.jpg\" style=\"height:593px; width:605px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_ao031k1je.jpg\" style=\"height:494px; width:631px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 382,
+        "left": 3.6443939208984375,
+        "path": "articles/1598953872Capture678678678.JPG",
+        "top": 5.633544921875,
+        "totalHeight": 423,
+        "totalWidth": 800,
+        "watermark_path": "articles/watermark-1598953872Capture678678678.JPG",
+        "width": 679
+    },
+    "post_date": "2020-09-01T12:34:00.000+03:00",
+    "published": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/485340945220787/posts/1020606408360902/",
+            "name": "قناة أبو علي",
+            "path": "published/0_1598953872_قناة ابو علي.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://twitter.com/bro7469/status/1300616948204609537",
+            "name": "M embewa",
+            "path": "published/1_1598953872_Twitter-logo.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/100009583393378/videos/2619307621731992/",
+            "name": "فواز عبدة محمد الهجامي",
+            "path": "published/2_1598953872_Facebook_logo.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/watch/?ref=search&v=994081497726572&external_log_id=452f6a2f-1cdc-491d-a38a-393a485c4403&q=%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D9%8A%D9%86%20%D9%8A%D8%B9%D8%AC%D8%B2%D9%88%20%D8%B9%D9%86%20%D8%A7%D8%B3%D8%B1%20%D9%8A%D9%85%D9%86%D9%8A%20%D8%A8%D8%B9%D8%AF%20%D9%86%D9%81%D8%A7%D8%B0%20%D8%B0%D8%AE%D9%8A%D8%B1%D8%AA%D9%87",
+            "name": "شروخان أفريقي",
+            "path": "published/3_1598953872_Facebook_logo.jpg"
+        },
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.facebook.com/watch/?ref=search&v=1017914325318550&external_log_id=452f6a2f-1cdc-491d-a38a-393a485c4403&q=%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D9%8A%D9%86%20%D9%8A%D8%B9%D8%AC%D8%B2%D9%88%20%D8%B9%D9%86%20%D8%A7%D8%B3%D8%B1%20%D9%8A%D9%85%D9%86%D9%8A%20%D8%A8%D8%B9%D8%AF%20%D9%86%D9%81%D8%A7%D8%B0%20%D8%B0%D8%AE%D9%8A%D8%B1%D8%AA%D9%87",
+            "name": "تكتيك عسكري",
+            "path": "published/4_1598953872_Facebook_logo.jpg"
+        }
+    ],
+    "result": "misleading",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "bucket": "prod-misbar",
+            "link": "https://www.youtube.com/watch?v=9cArMnjzde0",
+            "name": "قناة أبو علي",
+            "path": "sources/0_1598953872_قناة ابو علي.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "المقطع تمثيلي وليس لسعوديين عجزوا عن أسر يمني بعد نفاد ذخيرته",
+    "updated_at": "2020-09-25 22:16:06",
+    "url_path": "/factcheck/2020/09/01/المقطع-تمثيلي-وليس-لسعوديين-عجزوا-عن-أسر-يمني-بعد-نفاد-ذخيرته"
+}

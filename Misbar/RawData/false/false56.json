@@ -1,0 +1,131 @@
+{
+    "amount_likes": 0,
+    "amount_published": 0,
+    "amount_shares": {
+        "bz": 0,
+        "fb": 0,
+        "tw": 0
+    },
+    "amount_sources": 0,
+    "amount_visits": 359,
+    "author": {
+        "fullname": "فريق تحرير مسبار",
+        "id": "5e209e6ad4a2291881111a04",
+        "photo": {
+            "path": "authors/1579196010_facebook-profile.jpg"
+        }
+    },
+    "caption": "تعاني عتيقة طوبال من آلام شديدة في الظهر (فيسبوك)",
+    "category": "Arts & Culture",
+    "claim": "<p dir=\"RTL\" style=\"text-align:justify\">وفاة الفنانة الجزائرية القديرة عتيقة طوبال، بعد تعرضها لوعكة صحية.</p>\r\n",
+    "country": "DZ",
+    "created_at": "2020-12-22 16:22:56",
+    "created_by": "5f39b4a71dd58507731296f7",
+    "deleted_at": null,
+    "feature": 0,
+    "feedback_neg": 5,
+    "feedback_pos": 3,
+    "id": "5fe1f3304b4d7b7f106331b7",
+    "investigation": "<p dir=\"RTL\" style=\"text-align:justify\">تحقق &quot;<a href=\"https://misbar.com/\" style=\"color:blue; text-decoration:underline\" target=\"_blank\">مسبار</a>&quot; من الادعاء المتداول وتبين أنه زائف، ففي تصريح خاص لـ&quot;مسبار&quot; من قِبل الفنانة الجزائرية عتيقة طوبال، أكدت أنها تعاني من آلام شديدة في الظهر بعد حادثة أدت إلى سقوطها، وهي مقبلة حالياً على عملية جراحية دقيقة في القريب العاجل.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:justify\">وكان آخر ظهور للفنانة عتيقة طوبال منذ أيام على قناة التلفزيون الجزائري الرسمي. يُذكر أن طوبال فنانة قديرة لها العديد من الأعمال التي لاقت رواجاً كبيراً.</p>\r\n\r\n<p dir=\"rtl\"><iframe frameborder=\"0\" height=\"315\" src=\"https://www.youtube.com/embed/PHt74nKN0HU\" width=\"560\"></iframe></p>\r\n\r\n<p dir=\"rtl\">اقرأ/ي أيضاً:</p>\r\n\r\n<p dir=\"rtl\"><a href=\"https://misbar.com/factcheck/2020/12/18/%D9%84%D9%85-%D9%8A%D8%AA%D8%AD%D8%AF%D8%AB-%D8%A7%D9%84%D8%B2%D8%B9%D9%8A%D9%85-%D8%A7%D9%84%D9%83%D9%88%D8%B1%D9%8A-%D8%B9%D9%86-%D8%A7%D9%84%D8%B5%D8%AD%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9-%D9%88%D8%AF%D8%B9%D9%85%D9%87-%D9%84%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1\" target=\"_blank\">لم يتحدث الزعيم الكوري عن الصحراء الغربية ودعمه للجزائر</a></p>\r\n\r\n<p dir=\"rtl\"><a href=\"https://misbar.com/factcheck/2020/12/22/%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9-%D9%85%D8%B9%D8%AF%D9%84%D8%A9-%D9%88%D9%84%D9%8A%D8%B3%D8%AA-%D9%84%D8%B7%D9%8A%D8%A7%D8%B1-%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A-%D9%8A%D8%AD%D9%85%D9%84-%D9%83%D8%AA%D8%A8-%D9%81%D9%82%D9%87\" target=\"_blank\">الصورة معدّلة وليست لطيار جزائري يحمل كتاب فقه</a></p>\r\n",
+    "is_deleted": false,
+    "is_newsletter": true,
+    "is_notification_pushed": false,
+    "is_published": true,
+    "is_top_eligible": true,
+    "keywords": [
+        "عتيقة طوبال",
+        "الجزائر",
+        "فنون"
+    ],
+    "last_comments": [],
+    "last_edited_at": null,
+    "names": [],
+    "origin": "<p dir=\"RTL\" style=\"text-align:justify\">تتداول صفحات وحسابات على مواقع التواصل الاجتماعي، حديثاً، خبراً مفاده وفاة الفنانة الجزائرية عتيقة طوبال، وذلك بعد معاناتها من آلام شديدة منذ سقوطها في عيادة خاصة، إذ&nbsp;ساءت حالتها الصحية.</p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_jed2e1hiy.jpg\" style=\"height:661px; width:539px\" /></p>\r\n\r\n<p dir=\"RTL\" style=\"text-align:center\"><img src=\"https://images-prod.misbar.com/articlebody/origin_e6ebx01sm.jpg\" style=\"height:768px; width:544px\" /></p>\r\n",
+    "original_language": "Arabic",
+    "photo": {
+        "height": 423,
+        "left": 10.5,
+        "path": "articles/1608643376عتيقة.jpg",
+        "top": 0,
+        "totalHeight": 423,
+        "totalWidth": 773,
+        "watermark_path": "articles/watermark-1608643376عتيقة.jpg",
+        "width": 752
+    },
+    "post_date": "2020-12-22T15:17:00.000+03:00",
+    "published": [
+        {
+            "id": "5fe1f4879f45fb0b255f1429",
+            "link": "https://facebook.com/BouchraOkbi8/photos/a.113651566649790/416176103064000/?type=3&source=48",
+            "name": "بشرى عقبي",
+            "origin": "facebook",
+            "path": "sources/df8ed9acaec0b97688f7c7a740db1633d637efa3.jpg"
+        },
+        {
+            "id": "5fe1f487bf851916ec27524c",
+            "link": "https://www.youtube.com/watch?v=SLhdGWfImDY",
+            "name": "كـل النجوم",
+            "origin": "youtube",
+            "path": "sources/b5c284b6857b53296e9aedddebf2ed04452258da.jpg"
+        },
+        {
+            "id": "5fe1f48746cd6a5fd534117f",
+            "link": "https://khbrpress.ps/post/258022/%D8%AD%D9%82%D9%8A%D9%82%D8%A9-%D9%88%D9%81%D8%A7%D8%A9-%D8%A7%D9%84%D9%85%D9%85%D8%AB%D9%84%D8%A9-%D8%B9%D8%AA%D9%8A%D9%82%D8%A9-%D8%B7%D9%88%D8%A8%D8%A7%D9%84-%D9%81%D9%8A-%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1",
+            "name": "وكالة خبر الفلسطينية للصحافة",
+            "origin": "",
+            "path": "sources/5b81202d82c038459110e41052b694d0435bccd2.jpg"
+        },
+        {
+            "id": "5fe1f487c179e665c57d79a2",
+            "link": "https://www.facebook.com/groups/121068315293619/permalink/839364000130710/",
+            "name": "ادريس بوفلجة بوفلجة",
+            "origin": "facebook",
+            "path": "sources/9fb41797f3ab0b7b87f8775614ed7b0bdd915b9b.jpg"
+        },
+        {
+            "id": "5fe1f4873609cd6efc3a4277",
+            "link": "https://m.facebook.com/groups/390146504440091/permalink/3434204230034288/?_rdr",
+            "name": "صفحة تعازي (الجلفة)",
+            "origin": "facebook",
+            "path": "sources/9fb41797f3ab0b7b87f8775614ed7b0bdd915b9b.jpg"
+        },
+        {
+            "id": "5fe1f488a72d0b18da7bbd05",
+            "link": "https://www.facebook.com/100017209086881/videos/785418398708456",
+            "name": "Zahera Baheri",
+            "origin": "facebook",
+            "path": "sources/190786e669cb726038cc75a272ae59bbe4cb9ed0.jpg"
+        },
+        {
+            "id": "5fe1f4888e569c6d18589972",
+            "link": "https://www.facebook.com/sawt.abnaa.al.amra/photos/bc.Abqyz7Dcd2DwT5tinVI_Z0jzkco66lg9E3kShFVAF8s5HN3Ez_88MOVqzRG0DG5on8psRJGHnTPjyg5TcLnla9IdfG6zP21c8WfBphacSXzkIt7fj3L4kE4",
+            "name": "صوت أبناء العامرة",
+            "origin": "facebook",
+            "path": "sources/93bf75c0e8c655426b5ee5a286ce41452db765f3.jpg"
+        }
+    ],
+    "result": "false",
+    "shared_articles_count": 0,
+    "sources": [
+        {
+            "id": "5fe1f32fdf779e7b6616ee8b",
+            "link": "https://www.facebook.com/atika.toubal.5",
+            "name": "Atika Toubal",
+            "origin": "facebook",
+            "path": "sources/e00fff909c2ee485d936a9a35d126d8f2f28b198.jpg"
+        },
+        {
+            "id": "5fe1f32f94884622e9506e47",
+            "link": "https://www.youtube.com/watch?v=PHt74nKN0HU",
+            "name": "المؤسسة العمومية للتلفزيون الجزائري",
+            "origin": "youtube",
+            "path": "sources/511a4cf707b5a74b807b4151efe7e597f365eb2d.jpg"
+        }
+    ],
+    "stats": null,
+    "subtitle": "",
+    "title": "خبر زائف عن وفاة الفنانة الجزائرية عتيقة طوبال",
+    "updated_at": "2020-12-22 16:47:20",
+    "url_path": "/factcheck/2020/12/22/خبر-زائف-عن-وفاة-الفنانة-الجزائرية-عتيقة-طوبال",
+    "was_notification_pushed": false
+}
